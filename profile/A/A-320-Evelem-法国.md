@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Evelem（法国 Meudon-la-Forêt）：设计-部署-运维网络架构的集成商——Infrastructure/Sécurité/UC/Hybrid Work/**Small Business** 五板块+**Cisco Meraki 旗舰（摄像头 MV63 推荐位）与 Cambium EX3000 交换展示位**;Evelem Academy+Refresh 计划+Ni Fi 专家服务；CSV=Allied Telesis 伙伴
-- 【推断】Meraki 主打的集成商：Cambium EX3000 与 AT 在其 LAN 供应走廊——value 二轨窄位，Small Business 板块是最软口
-- 【假设】Small Business 板块的 value PoE 二轨窄位
+- 【事实】Evelem:EVELEM SAS(法国 Meudon(上塞纳),8 Rue de la Pépinière, 92360;**SIREN 900722067;2021-06-22 创;1-2 人;网络/电信集成咨询**;**Président: Amir Hachefi(1980 生)+Directeur Général: Jean-Pierre Batrikian(1980 生)(pappers/BODACC 双创双驾 O)**;**排噪:EVOLEM family office(Bruno Rousset/APRIL)=一字母异体已分层**
+- 【推断】R66 第 21 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,16 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：contact@evelem.fr（官网首页/服务页；客户空间页支持support@evelem.fr、+33 1 76 43 22 22）；+33 1 76 43 22 00；原入口：见 elioplus 渠道库
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Amir Hachefi**(Président(2021 创始;BODACC O))— pappers.fr/infonet 件 〔已有(公司官方公开件/登记册自曝);源:https://www.pappers.fr/entreprise/evelem-900722067〕
+  - **Jean-Pierre Batrikian**(Directeur Général(创始双驾))— pappers.fr 件 〔已有(公司官方公开件/登记册自曝);源:https://www.pappers.fr/entreprise/evelem-900722067〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Amir Hachefi | Président(2021 创始;BODACC O) | pappers.fr/infonet 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.pappers.fr/entreprise/evelem-900722067 |
+| Jean-Pierre Batrikian | Directeur Général(创始双驾) | pappers.fr 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.pappers.fr/entreprise/evelem-900722067 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -135,32 +141,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第32批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第21波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：FR Meudon 集成商（官网+CSV 双核）
-- **②芯片/型号**：Meraki/Cambium 线
-- **③KP 深挖**：contact@
-- **④Saga 对标**：二轨窄位（$180 锚点一致）
-- **⑤在乎与偏好**：方案完整
+- **①背景再核**：EVELEM SAS(法国 Meudon(上塞纳),8 Rue de la Pépinière, 92360;**SIREN 900722067;2021-06-22 创;1-2 人;网络/电信集成咨询**;**Président: Amir Hachefi(1980 生)+Directeur Général: Jean-Pierre Batrikian(1980 生)(pappers/BODACC 双创双驾 O)**;**排噪:EVOLEM family office(Bruno Rousset/APRIL)=一字母异体已分层**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Amir Hachefi(Président(2021 创始;BODACC O),official-self-published·谱/leads-only(直发需 opt-in));Jean-Pierre Batrikian(Directeur Général(创始双驾),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：双创双驾=直达
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【近期动态】**首页展示 Cambium Switchs EX3000（24/48 口系列）与 Meraki MV63；CSV: Allied Telesis 伙伴
-  > 首页展示 Cambium Switchs EX3000（24/48 口系列）与 Meraki MV63；CSV: Allied Telesis 伙伴
-  > 来源：https://www.evelem.fr
+- **【决策链与对接人】**Président: HACHEFI Amir;Directeur général: BATRIKIAN Jean-Pierre(depuis 23/06/2021)(pappers/BODACC 创立公告)
+  > Président: HACHEFI Amir;Directeur général: BATRIKIAN Jean-Pierre(depuis 23/06/2021)(pappers/BODACC 创立公告)
+  > 来源：https://www.pappers.fr/entreprise/evelem-900722067
+- **【联系方式与基础画像】**SIREN 900 722 067;8 Rue de la Pépinière, 92360 Meudon;SAS capital €1.000;1-2 salariés;conseil/intégration réseaux informatiques et télécoms;contact@evelem.fr;**EVOLEM(family office)异体已分层**(pappers/infonet/evolem 件)
+  > SIREN 900 722 067;8 Rue de la Pépinière, 92360 Meudon;SAS capital €1.000;1-2 salariés;conseil/intégration réseaux informatiques et télécoms;contact@evelem.fr;**EVOLEM(family office)异体已分层**(pappers/infonet/evolem 件)
+  > 来源：https://infonet.fr/entreprises/90072206700015-evelem/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：法国 Meudon 集成商
-- **产品线与在售品牌**：Meraki/Cambium/AT（CSV）
-- **目标行业与场景**：企业 SMB/中型 LAN/WiFi
-- **团队与规模**：中型
-- **决策链与对接人**：contact@ 口
-- **技术与认证**：—
-- **采购与供应链信号**：项目随单
-- **近期动态与线索**：Refresh 计划
-- **与我方契合点**：Small Business 段二轨窄位（Meraki/Cambium 旁前句）
-- **风险与注意**：Meraki 主权——前句框定
+- **业务定位**：EVELEM SAS(法国 Meudon(上塞纳),8 Rue de la Pépinière, 92360;**SIREN 900722067;2021-06-22 创;1-2 人;网络/电信集成咨询**;**Président: Amir Hachefi(1980 生)+Directeur Général: Jean-Pierre Batrikian(1980 生)(pappers/BODACC 双创双驾 O)**;**排噪:EVOLEM family office(Bruno Rousset/APRIL)=一字母异体已分层**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：法国上塞纳 2021 创网络集成微铺
+- **团队与规模**：1-2 人;2021 创
+- **决策链与对接人**：**Amir Hachefi(Président(2021 创始;BODACC O),official-self-published·谱/leads-only(直发需 opt-in));Jean-Pierre Batrikian(Directeur Général(创始双驾),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 21 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Hachefi+Batrikian 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -175,10 +184,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对口
-- **W**：主权
-- **O**：窄位
-- **T**：Meraki
+- **S**：双创双驾=直达
+- **W**：微实体谱
+- **O**：Hachefi/Batrikian 直达位
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -197,7 +206,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -206,8 +215,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 替补机制
-  - [ ] SMB 占比
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,16 +228,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Bonjour Evelem team,
+Messieurs,
 
-Meraki leads the shelf, Cambium EX3000 is on display, and your Small Business offer needs exactly one thing more than the other segments: a budget that closes. One sentence up front: your Meraki and Cambium lines keep their place.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value tier for the Small Business projects where price decides.
-
-One question: does the Small Business shelf keep a value PoE slot - and would one unit earn a lab test?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

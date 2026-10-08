@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】GBE Converge（英国，Mitie 集团旗下）：消防/安防/IT 三线设计+安装+支持——Fire（探测/抑制/EVCS）/Security（入侵/门禁/CCTV/闸机/PA）/IT（基础设施/结构化布线/DC 冷热通道）；**2024 拿 Allied Telesis 双项大奖（Platinum Partner per CSV）**；客户=大型建造项目（Wates 级）
-- 【推断】英消防安防 IT 融合安装集团：IT 基础设施+结构化布线=网络件消耗真实；Allied Platinum 粘合牢——value 二槽窄位死守界前句
-- 【假设】基础设施承包商槽的 value 随单窄位
+- 【事实】GBE Converge:GBE Converge(英国 Gloucester(Barnwood);**1992 谱史/2016 GBE 消防安防+Converge IT 合并=双牌谱;158-196 人;$24M**;**Joint MD 双:Jason Buttle(GBE 方 MD,并购主导者引语 O)+Martyn Smith(Converge 创始人 2008,joint MD)**;梯队 Group FD Derek Gibby+Head BD EMEA Alex May+Contracts Dir Darren Fell/Dave Collins+Tech BU Dir Mark Hallett;教育(Gloucester Academy/Cheltenham College)+体育场(Ricoh Arena)=教育公段守界注
+- 【推断】R66 第 21 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,20 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@gbeconverge.com（官网联系页正文；同页另有荷兰EMEA邮箱info@gbeconvergebv.com）；08451 220884；原入口：+44 8451 220884
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Jason Buttle**(Managing Director(GBE 方;合并主导引语))— gfirstlep.com 合并件(引语) 〔已有(公司官方公开件/登记册自曝);源:https://www.gfirstlep.com/news/gbe-and-converge-unite-to-create-industry-powerhouse/〕
+  - **Martyn Smith**(Joint Managing Director(Converge 创始人;官网博文 O))— gbeconverge.com 博文件 〔已有(公司官方公开件/登记册自曝);源:https://gbeconverge.com/2018/03/22/martyn-smith-on-gbe-converges-it-solutions-for-smes/〕
+  - **Derek Gibby**(Group Finance Director)— rocketreach 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/gbe-converge-management_b54bd808f9f06a5b〕
+  - **Alex May**(Head of Business Development EMEA)— rocketreach 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/gbe-converge-management_b54bd808f9f06a5b〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Jason Buttle | Managing Director(GBE 方;合并主导引语) | gfirstlep.com 合并件(引语) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.gfirstlep.com/news/gbe-and-converge-unite-to-create-industry-powerhouse/ |
+| Martyn Smith | Joint Managing Director(Converge 创始人;官网博文 O) | gbeconverge.com 博文件 | official-self-published·谱/leads-only(直发需 opt-in) | https://gbeconverge.com/2018/03/22/martyn-smith-on-gbe-converges-it-solutions-for-smes/ |
+| Derek Gibby | Group Finance Director | rocketreach 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/gbe-converge-management_b54bd808f9f06a5b |
+| Alex May | Head of Business Development EMEA | rocketreach 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/gbe-converge-management_b54bd808f9f06a5b |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +144,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第30批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第21波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：UK Mitie 系安装集团（官网一手核）
-- **②芯片/型号**：Allied Platinum 在墙
-- **③KP 深挖**：info@
-- **④Saga 对标**：二槽窄位（$180 锚点一致）
-- **⑤在乎与偏好**：集团合规/交付安全
+- **①背景再核**：GBE Converge(英国 Gloucester(Barnwood);**1992 谱史/2016 GBE 消防安防+Converge IT 合并=双牌谱;158-196 人;$24M**;**Joint MD 双:Jason Buttle(GBE 方 MD,并购主导者引语 O)+Martyn Smith(Converge 创始人 2008,joint MD)**;梯队 Group FD Derek Gibby+Head BD EMEA Alex May+Contracts Dir Darren Fell/Dave Collins+Tech BU Dir Mark Hallett;教育(Gloucester Academy/Cheltenham College)+体育场(Ricoh Arena)=教育公段守界注
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Jason Buttle(Managing Director(GBE 方;合并主导引语),official-self-published·谱/leads-only(直发需 opt-in));Martyn Smith(Joint Managing Director(Converge 创始人;官网博文 O),official-self-published·谱/leads-only(直发需 opt-in));Derek Gibby(Group Finance Director,leads-only·待 opt-in(LinkedIn/谱面带核));Alex May(Head of Business Development EMEA,leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：双 MD 联合谱+教育/体育场案
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Fire, Security and IT Solutions——GBE received two prestigious awards from Allied Telesis (08/2024)；IT Infrastructure/Structured Cabling/DC hot-cold aisle
-  > Fire, Security and IT Solutions——GBE received two prestigious awards from Allied Telesis (08/2024)；IT Infrastructure/Structured Cabling/DC hot-cold aisle
-  > 来源：https://gbeconverge.com
+- **【决策链与对接人】**「Managing Director of GBE, Jason Buttle…make the acquisition」;「Martyn Smith is joint Managing Director…formed Converge in 2008 before merging with GBE in 2016」(gfirstlep/官网博文件)
+  > 「Managing Director of GBE, Jason Buttle…make the acquisition」;「Martyn Smith is joint Managing Director…formed Converge in 2008 before merging with GBE in 2016」(gfirstlep/官网博文件)
+  > 来源：https://www.gfirstlep.com/news/gbe-and-converge-unite-to-create-industry-powerhouse/
+- **【联系方式与基础画像】**Gloucester(Barnwood+Staverton 双址);158-196 employees;$24M;Fire&Security+IT 合并谱;education/stadium 客户谱(rocketreach/gbeconverge 件)
+  > Gloucester(Barnwood+Staverton 双址);158-196 employees;$24M;Fire&Security+IT 合并谱;education/stadium 客户谱(rocketreach/gbeconverge 件)
+  > 来源：https://rocketreach.co/gbe-converge-profile_b54bd808f9f06a5b
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：英国消防安防 IT 安装集团（Mitie 系）
-- **产品线与在售品牌**：Allied Telesis Platinum
-- **目标行业与场景**：大型建造/商业设施
-- **团队与规模**：集团规模
-- **决策链与对接人**：info@ 口
-- **技术与认证**：集团 ESG 叙事
-- **采购与供应链信号**：集团项目随单
-- **近期动态与线索**：Allied 双奖 2024
-- **与我方契合点**：infra 包内 value 二槽（Platinum 旁守界前句）
-- **风险与注意**：Platinum 粘合强+Mitie 合规口径
+- **业务定位**：GBE Converge(英国 Gloucester(Barnwood);**1992 谱史/2016 GBE 消防安防+Converge IT 合并=双牌谱;158-196 人;$24M**;**Joint MD 双:Jason Buttle(GBE 方 MD,并购主导者引语 O)+Martyn Smith(Converge 创始人 2008,joint MD)**;梯队 Group FD Derek Gibby+Head BD EMEA Alex May+Contracts Dir Darren Fell/Dave Collins+Tech BU Dir Mark Hallett;教育(Gloucester Academy/Cheltenham College)+体育场(Ricoh Arena)=教育公段守界注
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：英格洛斯特消防安防+IT 合并谱大户
+- **团队与规模**：158-196 人;£11M+
+- **决策链与对接人**：**Jason Buttle(Managing Director(GBE 方;合并主导引语),official-self-published·谱/leads-only(直发需 opt-in));Martyn Smith(Joint Managing Director(Converge 创始人;官网博文 O),official-self-published·谱/leads-only(直发需 opt-in));Derek Gibby(Group Finance Director,leads-only·待 opt-in(LinkedIn/谱面带核));Alex May(Head of Business Development EMEA,leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 21 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：双 MD 位(opt-in 律;教育段守界)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +187,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对口
-- **W**：粘合
-- **O**：二槽
-- **T**：Allied
+- **S**：双 MD 联合谱+教育/体育场案
+- **W**：合并集团谱
+- **O**：Buttle/Smith 双直达位
+- **T**：一线链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +209,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,8 +218,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 替补机制
-  - [ ] infra PM
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -218,16 +231,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi GBE Converge team,
+Dear Jason,
 
-Fire, security and IT solutions under the Mitie umbrella - with IT infrastructure, structured cabling and data-centre aisles in scope, and a Platinum-grade Allied Telesis relationship behind you. One sentence up front: that Platinum line keeps its place.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value second slot for infrastructure packages where the project budget decides.
-
-One question: inside your infrastructure packages, is there a value tier beside the flagship line?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

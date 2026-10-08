@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】MERLIN Kommunikationstechnik e.K.（德国 Erlangen，30 年）：双柱——**Mittelstand MSP** ＋ **Industrielösungen（采购/供应链服务）：LTB/EOL 支持、真伪鉴别、Kits 集配、JIT、报关物流**（面向研究/医疗/工业客户）;CSV=Allied Telesis Resell（站点实体 MERLIN e.K.,Erlangen 实注）
-- 【推断】供应链服务商本身就是'找得到、配得齐'的通道——我们文档化的 value 件可其 EOL 承载/Kits 组件/二供线进入其服务流程——高度同频道
-- 【假设】以 EOL 满载与 kit 供货通道角度切入：value 件入其供应链货架
+- 【事实】Merlin EDV:Merlin(=**Merlin Kommunikationstechnik e.K.**,德国 Erlangen(巴伐利亚);**IT 咨询/硬件工作坊/存储谱**;**Founder & Managing Director: Matthias Behle(Crunchbase 谱同址同名同域)**;**多异体分层注:Merlin EDV-Großhandel Geschäftsführungsges.mbH(Dillingen/Saar,HRB25876,GF Petra Junker 2018-10 起)/Merlin Solutions(Jochen Kobusch)/Merlin Beteiligungs(Kramarsch+Sebald)=各已分层**
+- 【推断】R66 第 21 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,14 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@merlinedv.de（官网Contact/Imprint）；+49 9131 90715-0；MERLIN Kommunikationstechnik e.K.，坐落Erlangen（CSV城市字段为Bayern）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Matthias Behle**(Founder & Managing Director(Erlangen 主谱))— crunchbase 件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.crunchbase.com/organization/merlin-0c8f〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Matthias Behle | Founder & Managing Director(Erlangen 主谱) | crunchbase 件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.crunchbase.com/organization/merlin-0c8f |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +138,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第33批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第21波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：DE Erlangen 双柱（官网一手核）
-- **②芯片/型号**：供应链服务
-- **③KP 深挖**：info@
-- **④Saga 对标**：通道角度（$180 锚点一致+EOL logic）
-- **⑤在乎与偏好**：供货安全/透明度
+- **①背景再核**：Merlin(=**Merlin Kommunikationstechnik e.K.**,德国 Erlangen(巴伐利亚);**IT 咨询/硬件工作坊/存储谱**;**Founder & Managing Director: Matthias Behle(Crunchbase 谱同址同名同域)**;**多异体分层注:Merlin EDV-Großhandel Geschäftsführungsges.mbH(Dillingen/Saar,HRB25876,GF Petra Junker 2018-10 起)/Merlin Solutions(Jochen Kobusch)/Merlin Beteiligungs(Kramarsch+Sebald)=各已分层**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Matthias Behle(Founder & Managing Director(Erlangen 主谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：Founder MD 谱面孔在
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【采购与供应链信号】**LTB & End-of-Life-Produkte…Konsignationslager…Just-in-Time…Kundenspezifische Konfektionierung (Lieferung als Kit)——30 Jahre Procurement-Lösungen
-  > LTB & End-of-Life-Produkte…Konsignationslager…Just-in-Time…Kundenspezifische Konfektionierung (Lieferung als Kit)——30 Jahre Procurement-Lösungen
-  > 来源：https://www.merlinedv.de
+- **【决策链与对接人】**Merlin Kommunikationstechnik e.K.: Matthias Behle Founder and Managing Director;Erlangen, Bayern;11-50(crunchbase 件,sameAs: merlinedv.de)
+  > Merlin Kommunikationstechnik e.K.: Matthias Behle Founder and Managing Director;Erlangen, Bayern;11-50(crunchbase 件,sameAs: merlinedv.de)
+  > 来源：https://www.crunchbase.com/organization/merlin-0c8f
+- **【联系方式与基础画像】**档锚 www.merlinedv.de(Erlangen);IT consulting/hardware workshops/data storage;**异体分层: Merlin EDV-Großhandel Dillingen/Saar(HRB25876;GF Petra Junker seit 11.10.2018)**(webvalid/registercheck 件)
+  > 档锚 www.merlinedv.de(Erlangen);IT consulting/hardware workshops/data storage;**异体分层: Merlin EDV-Großhandel Dillingen/Saar(HRB25876;GF Petra Junker seit 11.10.2018)**(webvalid/registercheck 件)
+  > 来源：https://www.registercheck.de/companies/merlin-edv-grosshandel-geschaeftsfuehrungsgesellschaft-mbh
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：德国 Erlangen MSP+供应链服务商（30 年）
-- **产品线与在售品牌**：多牌（AT CSV）
-- **目标行业与场景**：研究/医疗/工业+本地 SMB
-- **团队与规模**：中型
-- **决策链与对接人**：info@ 口
-- **技术与认证**：—
-- **采购与供应链信号**：供应链服务泳道（受方可溯源）
-- **近期动态与线索**：—
-- **与我方契合点**：EOL 满载+Kits 通道到位（强对口）
-- **风险与注意**：其采购半步法规客户多——诚实角
+- **业务定位**：Merlin(=**Merlin Kommunikationstechnik e.K.**,德国 Erlangen(巴伐利亚);**IT 咨询/硬件工作坊/存储谱**;**Founder & Managing Director: Matthias Behle(Crunchbase 谱同址同名同域)**;**多异体分层注:Merlin EDV-Großhandel Geschäftsführungsges.mbH(Dillingen/Saar,HRB25876,GF Petra Junker 2018-10 起)/Merlin Solutions(Jochen Kobusch)/Merlin Beteiligungs(Kramarsch+Sebald)=各已分层**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德埃朗根 IT 咨询谱铺
+- **团队与规模**：11-50 人
+- **决策链与对接人**：**Matthias Behle(Founder & Managing Director(Erlangen 主谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 21 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Matthias Behle 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +181,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：同频
-- **W**：内控
-- **O**：入架
-- **T**：—
+- **S**：Founder MD 谱面孔在
+- **W**：多异体噪已分层
+- **O**：Behle 直达位(G 谱)
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +203,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,8 +212,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 入架机制
-  - [ ] 责权
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -218,16 +225,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hallo MERLIN team,
+Guten Tag Herr Behle,
 
-Your industrial-solutions pillar reads like our business from the buyer's side: LTB and EOL support, authenticity testing, kitting, JIT, customs logistics. You keep components available when normal supply chains fail - that is exactly where a documented supplier earns its place.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation, traceable to the unit. Reference: $180 USD EXW (2026-09-29). As an EOL-filler, a kit component, or a second-source line in your supply-chain services.
-
-One question: what does a component need to show to enter your supply-chain catalogue - and would one evaluation unit start that process?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

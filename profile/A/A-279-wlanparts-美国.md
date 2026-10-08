@@ -47,9 +47,9 @@ updated: 2026-10-07
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】wlanparts（美国，存档行）：CSV=Netonix 授权渠道（WISP 接入层交换机）主条目，当前无可确认网站与邮箱——CSV 9-23 用户裁决保留注
-- 【推断】WISP 渠道目录位；无话术出口先供位
-- 【假设】用户补邮箱后启用候选位
+- 【事实】wlanparts:WLanParts(美国 Pasadena, CA;**Crunchbase 谱:「large selection and distributor of wireless products」,状态 Closed=关铺谱**;档锚无公开站点;同名 Wireless Parts Inc(Santa Ana,Tammy Doan)=异体已分层)→**守档准由:铺已关+谱面无实名,记噪留档**)
+- 【推断】R66 第 21 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -135,32 +135,35 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第28批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第21波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：CSV/注册表存档（Netonix 授权渠道名录）；网站与邮箱双空——先建档
-- **②芯片/型号**：—
-- **③KP 深挖**：—
-- **④Saga 对标**：候选供位（$180 锚点一致）
+- **①背景再核**：WLanParts(美国 Pasadena, CA;**Crunchbase 谱:「large selection and distributor of wireless products」,状态 Closed=关铺谱**;档锚无公开站点;同名 Wireless Parts Inc(Santa Ana,Tammy Doan)=异体已分层)→**守档准由:铺已关+谱面无实名,记噪留档**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 第 21 波点名(谱面无实名)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
 - **⑤在乎与偏好**：—
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**wlanparts（美国，存档行）：CSV=Netonix 授权渠道（WISP 接入层交换机）主条目，当前无可确认网站与邮箱——CSV 9-23 用户裁决保留注
-  > wlanparts（美国，存档行）：CSV=Netonix 授权渠道（WISP 接入层交换机）主条目，当前无可确认网站与邮箱——CSV 9-23 用户裁决保留注
-  > 来源：CSV/注册表存档（存档注）
+- **【决策链与对接人】**Crunchbase: WLanParts (closed), Pasadena, CA — wireless products distributor;谱面无具名决策人=守档准由(2026-10-08 R66 21 波留痕)
+  > Crunchbase: WLanParts (closed), Pasadena, CA — wireless products distributor;谱面无具名决策人=守档准由(2026-10-08 R66 21 波留痕)
+  > 来源：https://www.crunchbase.com/organization/wlanparts
+- **【联系方式与基础画像】**档录: 美国;类型 WISP 集成商/代理(Netonix 谱);无公开站点(档案基础画像行)
+  > 档录: 美国;类型 WISP 集成商/代理(Netonix 谱);无公开站点(档案基础画像行)
+  > 来源：仓内 profile/A/A-279-*(档谱基础画像行)
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：美国 Netonix 授权渠道（存档）
-- **产品线与在售品牌**：—
-- **目标行业与场景**：—
-- **团队与规模**：—
-- **决策链与对接人**：—
-- **技术与认证**：—
-- **采购与供应链信号**：—
-- **近期动态与线索**：—
-- **与我方契合点**：候选供位（待邮箱）
-- **风险与注意**：无接触点
+- **业务定位**：WLanParts(美国 Pasadena, CA;**Crunchbase 谱:「large selection and distributor of wireless products」,状态 Closed=关铺谱**;档锚无公开站点;同名 Wireless Parts Inc(Santa Ana,Tammy Doan)=异体已分层)→**守档准由:铺已关+谱面无实名,记噪留档**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：美国 WISP 件分销(关铺谱)
+- **团队与规模**：关铺档
+- **决策链与对接人**：**守档准由;R66 第 21 波点名(谱面无实名)**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 21 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：守档:铺关名缺(crunchbase closed 档)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -175,9 +178,9 @@ updated: 2026-10-07
 
 ## SWOT
 
-- **S**：候选位
-- **W**：无点
-- **O**：补邮箱
+- **S**：—
+- **W**：关铺谱
+- **O**：无守档
 - **T**：—
 
 ## 触达与风险红线
@@ -210,8 +213,8 @@ updated: 2026-10-07
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 邮箱
-  - [ ] 在营状态
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -223,7 +226,12 @@ updated: 2026-10-07
 **主题**：PoE switching for your projects
 
 ```text
-【建档不出信（参照 A-205/A-212 先例）】无可确认邮箱；触发条件=用户补邮箱→启用 STC-424XGGPM-280W 候选供位。
+Dear Sir or Madam,
+
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+
+Best regards,
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

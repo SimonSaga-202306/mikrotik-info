@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】CFI——Compagnie Française d'Informatique（法国 Saint-Denis Carré Pleyel）：多行业集成商——**Éducation**/Retail/**Santé**/Smart office/**Smart city**/Cybersécurité/IA;CSV=Allied Telesis Resell
-- 【推断】法国知名多板块集成商：教育/智慧城市=公共段守界句；零售/智能办公/私营医疗段为私营主打
-- 【假设】私营板块（零售/智慧办公/私营医疗）的 value 窄位
+- 【事实】CFI France:CFI - Compagnie Française d'Informatique(法国 Saint-Denis/Saint-Ouen-sur-Seine/Villeneuve-la-Garenne 多址;**SIREN 323540534;1981 创 45 年!;Société commerciale cap €1,098,000;4651 电脑设备批发**;**Président et directeur de la publication: Thierry Clabault(官网 mentions légales 自署=O 印谱)**;**多异体分层:CFI(France Médias Monde 公共机构)/CFI funds SAS=已分层**
+- 【推断】R66 第 21 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,14 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：contact@cfigroupe.com（官网联系页）；+33 1 70 94 90 91；AT名录地址为旧址Saint-Ouen，现址Saint-Denis Carré Pleyel
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Thierry Clabault**(Président(官网法律声明页自署))— cfigroupe.com mentions légales(O) 〔已有(公司官方公开件/登记册自曝);源:https://cfigroupe.com/mentions-legales.html〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Thierry Clabault | Président(官网法律声明页自署) | cfigroupe.com mentions légales(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://cfigroupe.com/mentions-legales.html |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +138,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第33批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第21波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：FR 知名集成商（官网一手核）
-- **②芯片/型号**：AT Resell
-- **③KP 深挖**：contact@
-- **④Saga 对标**：窄位（$180 锚点一致，低密）
-- **⑤在乎与偏好**：品牌/合规
+- **①背景再核**：CFI - Compagnie Française d'Informatique(法国 Saint-Denis/Saint-Ouen-sur-Seine/Villeneuve-la-Garenne 多址;**SIREN 323540534;1981 创 45 年!;Société commerciale cap €1,098,000;4651 电脑设备批发**;**Président et directeur de la publication: Thierry Clabault(官网 mentions légales 自署=O 印谱)**;**多异体分层:CFI(France Médias Monde 公共机构)/CFI funds SAS=已分层**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Thierry Clabault(Président(官网法律声明页自署),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：45 年老牌+印谱直达
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【目标行业】**Intégrateur de solutions——Éducation / Retail / Santé / Smart office / Smart city / Cybersécurité
-  > Intégrateur de solutions——Éducation / Retail / Santé / Smart office / Smart city / Cybersécurité
-  > 来源：https://cfigroupe.com
+- **【决策链与对接人】**Mentions légales: Editeur et responsable de la publication — **Président et directeur de la publication : Thierry CLABAULT**, CFI - Compagnie Française Informatique(官网自署)
+  > Mentions légales: Editeur et responsable de la publication — **Président et directeur de la publication : Thierry CLABAULT**, CFI - Compagnie Française Informatique(官网自署)
+  > 来源：https://cfigroupe.com/mentions-legales.html
+- **【联系方式与基础画像】**COMPAGNIE FRANCAISE D'INFORMATIQUE;SIREN 323540534;créée 1981;capital €1.098.000;4651 commerce de gros ordinateurs;Saint-Denis/Villeneuve-la-Garenne 址;www.cfigroupe.com(verif 件);异体 CFI(MEAE/fonds)=已分层
+  > COMPAGNIE FRANCAISE D'INFORMATIQUE;SIREN 323540534;créée 1981;capital €1.098.000;4651 commerce de gros ordinateurs;Saint-Denis/Villeneuve-la-Garenne 址;www.cfigroupe.com(verif 件);异体 CFI(MEAE/fonds)=已分层
+  > 来源：https://www.verif.com/societe/COMPAGNIE-FRANCAISE-D-INFORMATIQUE-323540534/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：法国多行业集成商
-- **产品线与在售品牌**：AT Resell（CSV）
-- **目标行业与场景**：零售/智能办公/私营医疗（教育/智慧城市=守界注）
-- **团队与规模**：中型+
-- **决策链与对接人**：contact@ 口
-- **技术与认证**：—
-- **采购与供应链信号**：项目随单
-- **近期动态与线索**：—
-- **与我方契合点**：私营板块窄位（公共段守界句）
-- **风险与注意**：公共段浓——守界句必压
+- **业务定位**：CFI - Compagnie Française d'Informatique(法国 Saint-Denis/Saint-Ouen-sur-Seine/Villeneuve-la-Garenne 多址;**SIREN 323540534;1981 创 45 年!;Société commerciale cap €1,098,000;4651 电脑设备批发**;**Président et directeur de la publication: Thierry Clabault(官网 mentions légales 自署=O 印谱)**;**多异体分层:CFI(France Médias Monde 公共机构)/CFI funds SAS=已分层**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：法国圣但尼 45 年电脑批发谱
+- **团队与规模**：中型谱;1981 创
+- **决策链与对接人**：**Thierry Clabault(Président(官网法律声明页自署),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 21 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Thierry Clabault 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +181,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对口
-- **W**：公共
-- **O**：私营段
-- **T**：大牌
+- **S**：45 年老牌+印谱直达
+- **W**：批发谱
+- **O**：Clabault 直达位
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +203,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,8 +212,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 替补机制
-  - [ ] 占比
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -218,16 +225,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Bonjour CFI team,
+Monsieur Clabault,
 
-Compagnie Française d'Informatique - integrator across education, retail, healthcare, smart office and smart city. One boundary sentence: your education and smart-city engagements stay on their established public paths; this concerns the private boards only - retail, smart office, private healthcare.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value tier for private projects where budget decides.
-
-One question: on the private boards, does a documented value PoE tier exist?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

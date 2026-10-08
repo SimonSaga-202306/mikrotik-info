@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】IT-TRUST Network Solution（奥地利 Weinsteig 2114，Andreas Smeczka，2006 起）:CSV=Allied Telesis Resell;**官网域 ittrust.at DNS 本轮解析失败（2026-09-29 核验）**;FirmenABC 工商档在营（UID ATU62644115）；旧站联系页公布 office@ittrust.at
-- 【推断】站挂但公司在营型（同 Young B.T.S. 先例）：即时体况不清，低密一针以邮箱口试验证在营态
-- 【假设】低密窄针：私营小型现场的 value 件
+- 【事实】IT-TRUST Network Solution:IT-TRUST Network Solution(奥地利 Großrußbach(Weinsteig);档锚 ittrust.at;谱面检索全打同名异体(南非 Midrand IT Trust/瑞士 iTrust AG/TÜV TRUST IT)→**守档准由:同名群噪,谱面无实名,档锚留档待专批 ittrust.at Whois/站点页**)
+- 【推断】R66 第 21 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -131,32 +131,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第31批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第21波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：AT 小型服务商（DNS 失败+FirmenABC 双源）
-- **②芯片/型号**：AT Resell
-- **③KP 深挖**：office@
-- **④Saga 对标**：低密（$180 锚点一致）
+- **①背景再核**：IT-TRUST Network Solution(奥地利 Großrußbach(Weinsteig);档锚 ittrust.at;谱面检索全打同名异体(南非 Midrand IT Trust/瑞士 iTrust AG/TÜV TRUST IT)→**守档准由:同名群噪,谱面无实名,档锚留档待专批 ittrust.at Whois/站点页**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 第 21 波点名(谱面无实名)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
 - **⑤在乎与偏好**：—
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【背景再核】**ittrust.at DNS A-record 2026-09-29 解析失败；FirmenABC: Andreas Smeczka, Weinsteig 2114, seit 2006, UID ATU62644115 在营档
-  > ittrust.at DNS A-record 2026-09-29 解析失败；FirmenABC: Andreas Smeczka, Weinsteig 2114, seit 2006, UID ATU62644115 在营档
-  > 来源：FirmenABC+CSV（存档注）
+- **【决策链与对接人】**公开谱面检索未锁具名决策人=守档准由;命中均为异体(Midrand/Zürich/TÜV Austria)已分层(2026-10-08 R66 21 波留痕)
+  > 公开谱面检索未锁具名决策人=守档准由;命中均为异体(Midrand/Zürich/TÜV Austria)已分层(2026-10-08 R66 21 波留痕)
+  > 来源：http://www.ittrust.at
+- **【联系方式与基础画像】**档录: 奥地利 Weinsteig/Großrußbach;类型: 集成商/代理(Allied Telesis 谱);ittrust.at(档案基础画像行)
+  > 档录: 奥地利 Weinsteig/Großrußbach;类型: 集成商/代理(Allied Telesis 谱);ittrust.at(档案基础画像行)
+  > 来源：仓内 profile/A/A-310-*(档谱基础画像行)
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：奥地利小型 IT 服务商（在营核验中）
-- **产品线与在售品牌**：AT Resell（CSV）
-- **目标行业与场景**：本地 SMB
-- **团队与规模**：个体级
-- **决策链与对接人**：office@ 口
-- **技术与认证**：UID ATU62644115
-- **采购与供应链信号**：—
-- **近期动态与线索**：域名失效注
-- **与我方契合点**：低密窄针+在营核验一体
-- **风险与注意**：**DNS 解析失败已明示，勿当 DEAD 判**
+- **业务定位**：IT-TRUST Network Solution(奥地利 Großrußbach(Weinsteig);档锚 ittrust.at;谱面检索全打同名异体(南非 Midrand IT Trust/瑞士 iTrust AG/TÜV TRUST IT)→**守档准由:同名群噪,谱面无实名,档锚留档待专批 ittrust.at Whois/站点页**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：奥下奥州 Allied 谱小铺(同名群噪)
+- **团队与规模**：守档案
+- **决策链与对接人**：**守档准由;R66 第 21 波点名(谱面无实名)**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 21 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：守档:锚在名缺(待专批 ittrust.at 深查)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -171,9 +174,9 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：名录
-- **W**：域失效
-- **O**：微
+- **S**：—
+- **W**：同名噪谱
+- **O**：无守档
 - **T**：—
 
 ## 触达与风险红线
@@ -202,8 +205,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 在营态
-  - [ ] 邮箱有效性
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -215,16 +218,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi IT-TRUST,
+Sehr geehrte Damen und Herren,
 
-Your old contact page gave this address, so this is partly a hello and partly a ping to see if the shop is still open.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value unit for small-site networks.
-
-One question: is IT-TRUST still active in network services - and is a value PoE switch of any use to you?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

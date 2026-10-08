@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】ISP Supplies（美国 College Station TX 等三仓）：**美国 WISP/ISP 装备分销头牌**——Ubiquiti/Tarana/TP-Link/Omada 领衔+Cyclone 自牌（线柜/井盖/熔接盒 均 BABA Compliant 标注）；专页 'UniFi Enterprise Switching'；**BABA 合规边界**：部分品类标注 Build America Buy America——非合规品不可提（守界句必压）
-- 【推断】二轨替补窄位死守界句边界。更风险权重：对面是可能讨论下替代和 OEM 的对手——BABA 标注品类不可供应，话术必须前句限定
-- 【假设】非 BABA 品类的 value PoE 二轨替补窄口
+- 【事实】Steve Discher:Steve Discher(美国／TX(College Station);**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://www.ispsupplies.com;**ISP Supplies 谱(College Station,TX;LinkedIn 公司页 Founder- ISP Supplies 具名谱顺带 O 级旁证;Ubiquiti/MikroTik/RF elements 牌谱)**;**BABA 守界句必压**)
+- 【推断】R66 第 21 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -77,10 +77,14 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：sales@ispsupplies.com（官方页结构化数据）；待核：info@mywisptraining.com（搜索索引）；原入口：979-314-4431；站点 mywisptraining.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Steve Discher**(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人))— 档谱+档站自署 〔已有(公司官方公开件/登记册自曝);源:https://www.ispsupplies.com〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Steve Discher | MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人) | 档谱+档站自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.ispsupplies.com |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -137,32 +141,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第30批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第21波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：US WISP 分销头牌（官网一手核）
-- **②芯片/型号**：Ubiquiti/自牌 Cyclone
-- **③KP 深挖**：sales@
-- **④Saga 对标**：非 BABA 二轨窄口（$180 锚点一致）
-- **⑤在乎与偏好**：供货深度/合规敏感
+- **①背景再核**：Steve Discher(美国／TX(College Station);**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://www.ispsupplies.com;**ISP Supplies 谱(College Station,TX;LinkedIn 公司页 Founder- ISP Supplies 具名谱顺带 O 级旁证;Ubiquiti/MikroTik/RF elements 牌谱)**;**BABA 守界句必压**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Steve Discher(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：MTCSWE/交换认证谱=对口窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Wireless & Fiber Network Equipment for ISPs & WISPs——Cyclone BABA Compliant 标注品类；UniFi Enterprise Switching 专页
-  > Wireless & Fiber Network Equipment for ISPs & WISPs——Cyclone BABA Compliant 标注品类；UniFi Enterprise Switching 专页
+- **【联系方式与基础画像】**国家/城市: %s;网站: %s;类型: 集成商/顾问(MikroTik 认证)(档案基础画像行=事实)
+  > 国家/城市: %s;网站: %s;类型: 集成商/顾问(MikroTik 认证)(档案基础画像行=事实)
+  > 来源：https://www.ispsupplies.com
+- **【近期动态与线索】**档定首触角: 非 BABA 品类二轨窄口($180 锚点一致);**BABA 守界句必压**
+  > 档定首触角: 非 BABA 品类二轨窄口($180 锚点一致);**BABA 守界句必压**
+  > 来源：https://www.ispsupplies.com
+- **【目标行业与场景】**档定值得跟: 【人工定级】A——自动规则已跳过(档注)
+  > 档定值得跟: 【人工定级】A——自动规则已跳过(档注)
   > 来源：https://www.ispsupplies.com
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：美国 WISP/ISP 分销头牌
-- **产品线与在售品牌**：Ubiquiti/Tarana/Omada/自牌 Cyclone
-- **目标行业与场景**：WISP/ISP/FISP 全谱
-- **团队与规模**：分销组织+三仓
-- **决策链与对接人**：sales@ 口
-- **技术与认证**：**BABA Compliant 品类标注**
-- **采购与供应链信号**：分销泳道
-- **近期动态与线索**：MDU 专页/新品专区
-- **与我方契合点**：非 BABA 品类二轨窄口（守界句关键）
-- **风险与注意**：BABA 边界+自牌线自重——前句句法
+- **业务定位**：Steve Discher(美国／TX(College Station);**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://www.ispsupplies.com;**ISP Supplies 谱(College Station,TX;LinkedIn 公司页 Founder- ISP Supplies 具名谱顺带 O 级旁证;Ubiquiti/MikroTik/RF elements 牌谱)**;**BABA 守界句必压**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：培训交付谱(MTCSWE 谱链)
+- **团队与规模**：单铺/工作室谱
+- **决策链与对接人**：**Steve Discher(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 21 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Dear Steve,(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -177,10 +187,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对口
-- **W**：边界
-- **O**：窄口
-- **T**：排他
+- **S**：MTCSWE/交换认证谱=对口窗
+- **W**：单铺谱
+- **O**：Steve Discher 本人直达位
+- **T**：MikroTik 官方课链
 
 ## 触达与风险红线
 
@@ -203,7 +213,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -212,8 +222,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 替补机制
-  - [ ] BABA 影响占比
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -225,16 +235,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi ISP Supplies team,
+Dear Steve,
 
-The WISP and ISP industry's equipment house - Ubiquiti, Tarana, Omada, and your own Cyclone cabinets. Two honest boundary sentences before the offer: your BABA-Compliant categories stay untouched by us, and your own Cyclone brand keeps its place. What is left is a value tier in open commercial categories.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a substitute for price-driven WISP deals in non-BABA categories.
-
-One question: does ISP Supplies keep a substitute tier for price-driven deals outside compliance-flagged categories?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

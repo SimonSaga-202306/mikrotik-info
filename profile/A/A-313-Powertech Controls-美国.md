@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Powertech Controls（美国 Ronkonkoma NY+Albany+Fitchburg MA，1991 起）：自动化/电气全类电商分销——目录含 **Ethernet Switches 类目**;CSV=**Hirschmann 授权分销**
-- 【推断】美东自动化大分销：目录里 Ethernet Switches 类目在营、Hirschmann 在墙——value 替补窄位死守界前句
-- 【假设】类目内 Hirschmann 旁的 value 替补槽
+- 【事实】Powertech Controls:Powertech Controls Co. Inc(美国 Ronkonkoma, NY 11779,101 Christopher St;**1991 创 35 年;58-51 人;$24.6M(2020);**Supply Chain Connect 2021 电子分销 Top 50 第 45 位**;工业自动化控制元件全球分销**;**President & CEO: Annemarie Leigh-Austin(榜单件+zoominfo 双源)**;**Hirschmann(Belden 工业以太)授权+Idec 授权=工业谱**;Norman Davieau VP Sales;Jordan Leventhal Sales Mgr Distributor
+- 【推断】R66 第 21 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,16 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@powertechcontrols.com（官网联系页）；1-800-938-6678；官网：powertechcontrols.com/contact-us
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Annemarie Leigh-Austin**(President & CEO(Top 50 榜单件+zoominfo))— supplychainconnect.com 榜单件 〔已有(公司官方公开件/登记册自曝);源:https://www.supplychainconnect.com/home/article/21162803/top-50-electronics-distributors-2021-45-powertech-controls-co-inc〕
+  - **Norman Davieau**(VP, Sales(销售口))— zoominfo 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.zoominfo.com/c/powertech-controls-co-inc/85361181〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Annemarie Leigh-Austin | President & CEO(Top 50 榜单件+zoominfo) | supplychainconnect.com 榜单件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.supplychainconnect.com/home/article/21162803/top-50-electronics-distributors-2021-45-powertech-controls-co-inc |
+| Norman Davieau | VP, Sales(销售口) | zoominfo 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.zoominfo.com/c/powertech-controls-co-inc/85361181 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -135,32 +141,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第32批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第21波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：US 自动化大分销（官网+CSV 双核）
-- **②芯片/型号**：Hirschmann 线
-- **③KP 深挖**：info@
-- **④Saga 对标**：替补（$180 锚点一致）
-- **⑤在乎与偏好**：库存深度/RFQ 效率
+- **①背景再核**：Powertech Controls Co. Inc(美国 Ronkonkoma, NY 11779,101 Christopher St;**1991 创 35 年;58-51 人;$24.6M(2020);**Supply Chain Connect 2021 电子分销 Top 50 第 45 位**;工业自动化控制元件全球分销**;**President & CEO: Annemarie Leigh-Austin(榜单件+zoominfo 双源)**;**Hirschmann(Belden 工业以太)授权+Idec 授权=工业谱**;Norman Davieau VP Sales;Jordan Leventhal Sales Mgr Distributor
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Annemarie Leigh-Austin(President & CEO(Top 50 榜单件+zoominfo),official-self-published·谱/leads-only(直发需 opt-in));Norman Davieau(VP, Sales(销售口),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：Top 50 榜单+Hirschmann 谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【产品线】**目录含 Switches→Ethernet Switches 类目；CSV: Hirschmann 授权分销商，1991 起三分支
-  > 目录含 Switches→Ethernet Switches 类目；CSV: Hirschmann 授权分销商，1991 起三分支
-  > 来源：https://www.powertechcontrols.com
+- **【决策链与对接人】**Top 50 Electronics Distributors 2021 #45: President/CEO **Annemarie Leigh-Austin**;zoominfo org: Annemarie Austin President & CEO + Norman Davieau VP Sales + Jordan Leventhal Sales Manager Distributor
+  > Top 50 Electronics Distributors 2021 #45: President/CEO **Annemarie Leigh-Austin**;zoominfo org: Annemarie Austin President & CEO + Norman Davieau VP Sales + Jordan Leventhal Sales Manager Distributor
+  > 来源：https://www.supplychainconnect.com/home/article/21162803/top-50-electronics-distributors-2021-45-powertech-controls-co-inc
+- **【联系方式与基础画像】**101 Christopher St., Ronkonkoma, NY 11779;800-938-6678;info@powertechcontrols.com;Founded 1991;58 employees;$24.6M(2020);**Authorized Hirschmann Distributor(Belden 工业以太谱)+Authorized Idec**(榜单/官网件)
+  > 101 Christopher St., Ronkonkoma, NY 11779;800-938-6678;info@powertechcontrols.com;Founded 1991;58 employees;$24.6M(2020);**Authorized Hirschmann Distributor(Belden 工业以太谱)+Authorized Idec**(榜单/官网件)
+  > 来源：https://www.powertechcontrols.com/hirschmann
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：美东自动化/电气电商分销（1991）
-- **产品线与在售品牌**：Hirschmann+自动化全类
-- **目标行业与场景**：制造/工控买家
-- **团队与规模**：大分销组织
-- **决策链与对接人**：info@ 口
-- **技术与认证**：—
-- **采购与供应链信号**：电商类目+RFQ
-- **近期动态与线索**：—
-- **与我方契合点**：Ethernet Switches 类目内替补（Hirschmann 旁前句）
-- **风险与注意**：大牌主权——前句框定
+- **业务定位**：Powertech Controls Co. Inc(美国 Ronkonkoma, NY 11779,101 Christopher St;**1991 创 35 年;58-51 人;$24.6M(2020);**Supply Chain Connect 2021 电子分销 Top 50 第 45 位**;工业自动化控制元件全球分销**;**President & CEO: Annemarie Leigh-Austin(榜单件+zoominfo 双源)**;**Hirschmann(Belden 工业以太)授权+Idec 授权=工业谱**;Norman Davieau VP Sales;Jordan Leventhal Sales Mgr Distributor
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：美长岛 35 年工业控制元件分销(Top 50)
+- **团队与规模**：51-58 人;1991 创
+- **决策链与对接人**：**Annemarie Leigh-Austin(President & CEO(Top 50 榜单件+zoominfo),official-self-published·谱/leads-only(直发需 opt-in));Norman Davieau(VP, Sales(销售口),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 21 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Austin+VP Sales 位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -175,10 +184,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对口
-- **W**：主权
-- **O**：替补
-- **T**：大牌
+- **S**：Top 50 榜单+Hirschmann 谱
+- **W**：分销谱
+- **O**：Austin CEO+VP Sales 直达位
+- **T**：一线链竞谱
 
 ## 触达与风险红线
 
@@ -197,7 +206,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -206,8 +215,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 替补机制
-  - [ ] 类目 PM
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,16 +228,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Powertech Controls team,
+Dear Ms Leigh-Austin,
 
-Since 1991 - a full-line automation and electrical distributor with an Ethernet Switches category that runs deep. One sentence up front: your Hirschmann franchise keeps its place.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation, plus an 8-port industrial PoE line. Reference: $180 USD EXW (2026-09-29) - a value substitute slot buyers can hit when the flagship tier overshoots the spec.
-
-One question: who runs the Ethernet Switches category, and would a one-unit evaluation earn a listing test?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

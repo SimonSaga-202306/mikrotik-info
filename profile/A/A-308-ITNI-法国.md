@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】ITNI SAS（法国 Saint-Denis）：官网为壳页（安全 Extranet 门户）+反诈警示（'不提供应商开户、不先电话不邮件下单'——即供应商首触须电话+邮件并用，其自布规则）;CSV=**Allied Telesis Integrate Elite/Integrate/Resell 三证伙伴**
-- 【推断】大集成商壳页证据偏薄：AT Elite 名录身份=体量与工程能力在；低信号一针，话术尊其电话-邮件并用规则
-- 【假设】其一页窄针：价值替补上架缝隙
+- 【事实】ITNI:ITNI SAS(法国 Saint-Denis,103-105 Rue Charles Michels, 93200;**SIREN 505346312;2008-07-18 创 18 年;SAS cap €700k;100-199 人;CA €113.3M(2020)=法电信电子件批发大户(4652Z)**;**Président: Jean Marie Tawil(1962 生,2015-11-06 起;verif/corporama/lejournaldesentreprises 三源 O)**;5 支局(Ambares-et-Lagrave/Les Ulis 等);LEI 谱;entreprise familiale 注;Importateur+Exportateur important 谱
+- 【推断】R66 第 21 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,14 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：contact@itni.fr（官网首页；官网提示供应商往来须先电话，首次触达建议电话+邮件并用）；+33 1 48 13 99 99
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Jean Marie Tawil**(Président(2015-11 起;三源一致))— verif.com/corporama 双件 〔已有(公司官方公开件/登记册自曝);源:https://corporama.com/fr/societe/itni/505346312〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Jean Marie Tawil | Président(2015-11 起;三源一致) | verif.com/corporama 双件 | official-self-published·谱/leads-only(直发需 opt-in) | https://corporama.com/fr/societe/itni/505346312 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -135,32 +139,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第31批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第21波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：FR 大集成商（壳页+名录双核）
-- **②芯片/型号**：AT Elite
-- **③KP 深挖**：contact@
-- **④Saga 对标**：窄位低信号（$180 锚点一致）
-- **⑤在乎与偏好**：反诈流程敏感
+- **①背景再核**：ITNI SAS(法国 Saint-Denis,103-105 Rue Charles Michels, 93200;**SIREN 505346312;2008-07-18 创 18 年;SAS cap €700k;100-199 人;CA €113.3M(2020)=法电信电子件批发大户(4652Z)**;**Président: Jean Marie Tawil(1962 生,2015-11-06 起;verif/corporama/lejournaldesentreprises 三源 O)**;5 支局(Ambares-et-Lagrave/Les Ulis 等);LEI 谱;entreprise familiale 注;Importateur+Exportateur important 谱
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Jean Marie Tawil(Président(2015-11 起;三源一致),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：€113M 进出口大户=件链窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【合作方式】**Avertissement: ITNI…ne passe de commande par mail sans appel téléphonique au préalable——CSV: AT Integrate Elite 三证
-  > Avertissement: ITNI…ne passe de commande par mail sans appel téléphonique au préalable——CSV: AT Integrate Elite 三证
-  > 来源：https://www.itni.fr
+- **【决策链与对接人】**Dirigeant: Jean Marie TAWIL(Président;né 1962;depuis 06/11/2015)(corporama/e-pro/verif 件)
+  > Dirigeant: Jean Marie TAWIL(Président;né 1962;depuis 06/11/2015)(corporama/e-pro/verif 件)
+  > 来源：https://corporama.com/fr/societe/itni/505346312
+- **【联系方式与基础画像】**SIREN 505 346 312;103 Rue Charles Michels, 93200 Saint-Denis;SAS 2008;capital €700.000;100-199 salariés;CA €113.278.828(2020);4652Z 电信电子批发;5 établissements;Importateur/Exportateur important(corporama/lejournaldesentreprises 件)
+  > SIREN 505 346 312;103 Rue Charles Michels, 93200 Saint-Denis;SAS 2008;capital €700.000;100-199 salariés;CA €113.278.828(2020);4652Z 电信电子批发;5 établissements;Importateur/Exportateur important(corporama/lejournaldesentreprises 件)
+  > 来源：https://www.lejournaldesentreprises.com/entreprise/itni
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：法国 Saint-Denis 大集成商（壳页）
-- **产品线与在售品牌**：AT Integrate Elite（CSV）
-- **目标行业与场景**：—
-- **团队与规模**：—
-- **决策链与对接人**：contact@ 口（先电话规则注）
-- **技术与认证**：—
-- **采购与供应链信号**：—
-- **近期动态与线索**：—
-- **与我方契合点**：低信号窄位一针
-- **风险与注意**：官网壳页证据偏薄已标注
+- **业务定位**：ITNI SAS(法国 Saint-Denis,103-105 Rue Charles Michels, 93200;**SIREN 505346312;2008-07-18 创 18 年;SAS cap €700k;100-199 人;CA €113.3M(2020)=法电信电子件批发大户(4652Z)**;**Président: Jean Marie Tawil(1962 生,2015-11-06 起;verif/corporama/lejournaldesentreprises 三源 O)**;5 支局(Ambares-et-Lagrave/Les Ulis 等);LEI 谱;entreprise familiale 注;Importateur+Exportateur important 谱
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：法国圣但尼 €113M 电信件批发大户
+- **团队与规模**：100-199 人;2008 创
+- **决策链与对接人**：**Jean Marie Tawil(Président(2015-11 起;三源一致),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 21 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Jean-Marie Tawil 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -175,10 +182,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：体量
-- **W**：薄
-- **O**：窄
-- **T**：—
+- **S**：€113M 进出口大户=件链窗
+- **W**：批发大户谱
+- **O**：Tawil 直达位
+- **T**：一线链竞谱
 
 ## 触达与风险红线
 
@@ -197,7 +204,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -206,8 +213,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 品类权
-  - [ ] 决策链
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,16 +226,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Bonjour ITNI team,
+Monsieur Tawil,
 
-Your anti-fraud notice says suppliers should call before emailing - we will do exactly that. This letter is the written half of that rule.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value tier that large integrators sometimes keep beside flagship lines for price-driven projects.
-
-One question: whom should we reach by phone about a documented value PoE listing - purchasing, or a networking category lead?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

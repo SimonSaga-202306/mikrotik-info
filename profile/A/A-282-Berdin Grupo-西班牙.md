@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Berdin Grupo（西班牙，电气工业大分销）：6 技术板块=工业自动化/能源/**安防（'设计 IP 安防网络基础设施'）**/**电信（'领先 IP 融合方案分销商'）**/电气安装/照明；品牌墙数百：Allied Telesis/**Belden/Hirschmann/Comnet**/Siemens/Phoenix/Genetec/Bosch 等在列
-- 【推断】西班牙头部工业大分销：电信+安防双板块明卖网络件——Allied/Belden/Hirschmann 在墙，二轨窄位死守界前句
-- 【假设】其二轨 value POE 替补窄口（转售商户群）
+- 【事实】Berdin Grupo:Grupo Berdin, S.A.(西班牙 Donostia-San Sebastián;**CIF A20817391;1980 创(9 合伙人,Balleneros 16 起始);200 人;电气/电子件+照明+自动化分销集团**;**换代金谱:Gerente/Director General Xabier Ostolaza(2017-01-01 接替创始合伙人 F. Javier Fierro;前电信商务总监;proinstalaciones 专访 O)**:Alfonso del Río dir comercial+三区域总(Oscar Vilella 北/Enrique Viana 东/Javier Parro 中南)+Daniel Vilar dir informática+Harkaitz Arrizabalaga dir técnico+Laura Marino CFO+Estíbaliz Sesma RRHH+Javier Mentxaka 国家账户(**官网新闻件全谱 O 级**)
+- 【推断】R66 第 21 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,22 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@berdin.com（官网联系页正文）；分地址：madrid@berdin.com／info@berdinonline.com／agil@berdin.com（第三方目录）；原入口：见 elioplus 渠道库
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Xabier Ostolaza**(Gerente/Director General(2017 换代接棒;专访 O))— proinstalaciones.com 专访件 〔已有(公司官方公开件/登记册自曝);源:https://www.proinstalaciones.com/entrevistas/2234-xabier-ostolaza-gerente-de-berdin-grupo〕
+  - **Alfonso del Río**(Director Comercial(官网销售梯队文 O))— berdin.com 新闻件 〔已有(公司官方公开件/登记册自曝);源:https://www.berdin.com/noticias/hablan-los-jefes-de-venta〕
+  - **Oscar Vilella / Enrique Viana / Javier Parro**(Jefes de venta 三区域总(北/东/中南))— berdin.com 新闻件 〔已有(公司官方公开件/登记册自曝);源:https://www.berdin.com/noticias/hablan-los-jefes-de-venta〕
+  - **Daniel Vilar**(Director de informática y digitalización(数字化=件链口))— berdin.com/alimarket 任命件 〔已有(公司官方公开件/登记册自曝);源:https://www.alimarket.es/construccion/noticia/342590/berdin-remodela-su-equipo-directivo〕
+  - **Harkaitz Arrizabalaga**(Director Técnico(技术总监))— alimarket 任命件 〔已有(公司官方公开件/登记册自曝);源:https://www.alimarket.es/construccion/noticia/342590/berdin-remodela-su-equipo-directivo〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Xabier Ostolaza | Gerente/Director General(2017 换代接棒;专访 O) | proinstalaciones.com 专访件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.proinstalaciones.com/entrevistas/2234-xabier-ostolaza-gerente-de-berdin-grupo |
+| Alfonso del Río | Director Comercial(官网销售梯队文 O) | berdin.com 新闻件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.berdin.com/noticias/hablan-los-jefes-de-venta |
+| Oscar Vilella / Enrique Viana / Javier Parro | Jefes de venta 三区域总(北/东/中南) | berdin.com 新闻件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.berdin.com/noticias/hablan-los-jefes-de-venta |
+| Daniel Vilar | Director de informática y digitalización(数字化=件链口) | berdin.com/alimarket 任命件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.alimarket.es/construccion/noticia/342590/berdin-remodela-su-equipo-directivo |
+| Harkaitz Arrizabalaga | Director Técnico(技术总监) | alimarket 任命件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.alimarket.es/construccion/noticia/342590/berdin-remodela-su-equipo-directivo |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -135,32 +147,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第29批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第21波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：ES 大分销（官网一手核）
-- **②芯片/型号**：Allied/Belden/Hirschmann 墙
-- **③KP 深挖**：info@
-- **④Saga 对标**：二轨窄位（$180 锚点一致）
-- **⑤在乎与偏好**：一线牌组合/工程支持
+- **①背景再核**：Grupo Berdin, S.A.(西班牙 Donostia-San Sebastián;**CIF A20817391;1980 创(9 合伙人,Balleneros 16 起始);200 人;电气/电子件+照明+自动化分销集团**;**换代金谱:Gerente/Director General Xabier Ostolaza(2017-01-01 接替创始合伙人 F. Javier Fierro;前电信商务总监;proinstalaciones 专访 O)**:Alfonso del Río dir comercial+三区域总(Oscar Vilella 北/Enrique Viana 东/Javier Parro 中南)+Daniel Vilar dir informática+Harkaitz Arrizabalaga dir técnico+Laura Marino CFO+Estíbaliz Sesma RRHH+Javier Mentxaka 国家账户(**官网新闻件全谱 O 级**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Xabier Ostolaza(Gerente/Director General(2017 换代接棒;专访 O),official-self-published·谱/leads-only(直发需 opt-in));Alfonso del Río(Director Comercial(官网销售梯队文 O),official-self-published·谱/leads-only(直发需 opt-in));Oscar Vilella / Enrique Viana / Javier Parro(Jefes de venta 三区域总(北/东/中南),official-self-published·谱/leads-only(直发需 opt-in));Daniel Vilar(Director de informática y digitalización(数字化=件链口),official-self-published·谱/leads-only(直发需 opt-in));Harkaitz Arrizabalaga(Director Técnico(技术总监),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：官网新闻件=O 级全梯队
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Telecomunicaciones: distribuidor líder en soluciones convergentes IP；Seguridad: diseño de infraestructuras de redes de seguridad IP——marcas: Allied Telesis/Belden/Hirschmann
-  > Telecomunicaciones: distribuidor líder en soluciones convergentes IP；Seguridad: diseño de infraestructuras de redes de seguridad IP——marcas: Allied Telesis/Belden/Hirschmann
-  > 来源：https://www.berdin.com
+- **【决策链与对接人】**「sustituido por Xabier Ostolaza desde el 1 de enero de 2017… dirección general de Berdin Grupo… 200 personas」;梯队: Ostolaza(director)+Laura Marino(financiera)+Alfonso del Río(comercial)+Estíbaliz Sesma(RRHH)+Daniel Vilar(informática)+Harkaitz Arrizabalaga(técnico)(proinstalaciones/alimarket 件)
+  > 「sustituido por Xabier Ostolaza desde el 1 de enero de 2017… dirección general de Berdin Grupo… 200 personas」;梯队: Ostolaza(director)+Laura Marino(financiera)+Alfonso del Río(comercial)+Estíbaliz Sesma(RRHH)+Daniel Vilar(informática)+Harkaitz Arrizabalaga(técnico)(proinstalaciones/alimarket 件)
+  > 来源：https://www.proinstalaciones.com/entrevistas/2234-xabier-ostolaza-gerente-de-berdin-grupo
+- **【联系方式与基础画像】**GRUPO BERDIN SA;CIF A20817391;Donostia;fundada 1980(9 socios);200 personas;distribución material eléctrico y electrónico;技术部 20+ 工程师 5 业务区(einforma/proinstalaciones 件)
+  > GRUPO BERDIN SA;CIF A20817391;Donostia;fundada 1980(9 socios);200 personas;distribución material eléctrico y electrónico;技术部 20+ 工程师 5 业务区(einforma/proinstalaciones 件)
+  > 来源：https://www.einforma.com/informacion-empresa/grupo-berdin
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：西班牙电气工业大分销
-- **产品线与在售品牌**：数百牌墙（Allied/Belden/Hirschmann/Comnet）
-- **目标行业与场景**：经销商+工程商
-- **团队与规模**：大分销组织
-- **决策链与对接人**：info@ 口
-- **技术与认证**：—
-- **采购与供应链信号**：分销泳道
-- **近期动态与线索**：5%客户区促销运转
-- **与我方契合点**：电信/安防板块二轨窄位（守界前句）
-- **风险与注意**：SKU 主权强——前句框定
+- **业务定位**：Grupo Berdin, S.A.(西班牙 Donostia-San Sebastián;**CIF A20817391;1980 创(9 合伙人,Balleneros 16 起始);200 人;电气/电子件+照明+自动化分销集团**;**换代金谱:Gerente/Director General Xabier Ostolaza(2017-01-01 接替创始合伙人 F. Javier Fierro;前电信商务总监;proinstalaciones 专访 O)**:Alfonso del Río dir comercial+三区域总(Oscar Vilella 北/Enrique Viana 东/Javier Parro 中南)+Daniel Vilar dir informática+Harkaitz Arrizabalaga dir técnico+Laura Marino CFO+Estíbaliz Sesma RRHH+Javier Mentxaka 国家账户(**官网新闻件全谱 O 级**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：西班牙巴斯克 45 年电气分销集团
+- **团队与规模**：200 人;1980 创
+- **决策链与对接人**：**Xabier Ostolaza(Gerente/Director General(2017 换代接棒;专访 O),official-self-published·谱/leads-only(直发需 opt-in));Alfonso del Río(Director Comercial(官网销售梯队文 O),official-self-published·谱/leads-only(直发需 opt-in));Oscar Vilella / Enrique Viana / Javier Parro(Jefes de venta 三区域总(北/东/中南),official-self-published·谱/leads-only(直发需 opt-in));Daniel Vilar(Director de informática y digitalización(数字化=件链口),official-self-published·谱/leads-only(直发需 opt-in));Harkaitz Arrizabalaga(Director Técnico(技术总监),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 21 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Ostolaza 总座+del Río 商务位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -175,10 +190,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对口
-- **W**：主权
-- **O**：二轨
-- **T**：大牌
+- **S**：官网新闻件=O 级全梯队
+- **W**：分销巨头谱
+- **O**：Ostolaza+Vilar 数字化口直达位
+- **T**：一线链竞谱
 
 ## 触达与风险红线
 
@@ -197,7 +212,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -206,8 +221,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 替补机制
-  - [ ] 板块 PM
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,16 +234,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hola Berdin team,
+Estimado Sr. Ostolaza,
 
-Six technology areas - and under Telecomunicaciones and Seguridad you design and distribute converged IP solutions, with Allied Telesis, Belden, Hirschmann and Comnet on the brand wall. One sentence up front: those lines keep their place.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value second track for IP projects where price closes the deal.
-
-One question: does the telecom/security board keep a value tier - and would you evaluate one unit?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

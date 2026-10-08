@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Atlantik Elektronik（德国 München，40+ 年 B2B 分销+ODM 方案商）：**Lantronix 授权分销（全线+design-in，自 营 atestore.de 电商）**;方案页明列 **SOLUTIONS FOR GOVERNMENT AND CRITICAL INFRASTRUCTURE** 板块（守界句必压）旁另有联网充电/AGV 机器人/场站监控边缘 AI/AI 零售
-- 【推断】大 B2B 分销+ODM：私营工业边缘段（AGV/充电/零售/场站监控）是其接入件真实消耗面；政府/关键基建段守界句先置
-- 【假设】私营工业边缘方案里 Lantronix 旁的 value 二轨窄位
+- 【事实】Atlantik Elektronik:ATLANTIK ELEKTRONIK GmbH(德国 Planegg(慕尼黑),Fraunhoferstr. 11a, 82152;**HRB49191 AG München;DE129290761;1977 创 49 年;40 人;€10-50M;ATXX-Gruppe**;**CEOs(印谱):Ottmar Flach+Christian Flach(CFO)(atestore.de Impressum O 金谱!)**;**Lantronix EMEA Distributor Partner of the Year 2021+2022 蝉联(官网新闻件引语 O)=20 年 Lantronix 专谱**;Robert Bahler(印谱联络)
+- 【推断】R66 第 21 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,16 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@atlantikelektronik.com（atestore Lantronix专页联系信息）；+49 89 89 505 0；Lantronix授权分销页：atestore.de/en/lantronix/
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Ottmar Flach**(Geschäftsführer(印谱自署+Lantronix 奖件引语))— atestore.de Impressum(O) 〔已有(公司官方公开件/登记册自曝);源:https://www.atestore.de/en/info/imprint.html〕
+  - **Christian Flach**(Geschäftsführer/CFO(印谱自署;Flach 族双驾))— atestore.de Impressum(O) 〔已有(公司官方公开件/登记册自曝);源:https://www.atestore.de/en/info/imprint.html〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Ottmar Flach | Geschäftsführer(印谱自署+Lantronix 奖件引语) | atestore.de Impressum(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.atestore.de/en/info/imprint.html |
+| Christian Flach | Geschäftsführer/CFO(印谱自署;Flach 族双驾) | atestore.de Impressum(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.atestore.de/en/info/imprint.html |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -135,32 +141,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第32批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第21波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：DE 大 B2B 分销（官网一手核）
-- **②芯片/型号**：Lantronix 线
-- **③KP 深挖**：info@
-- **④Saga 对标**：二轨窄位（$180 锚点一致）
-- **⑤在乎与偏好**：design-in 工程/方案完整
+- **①背景再核**：ATLANTIK ELEKTRONIK GmbH(德国 Planegg(慕尼黑),Fraunhoferstr. 11a, 82152;**HRB49191 AG München;DE129290761;1977 创 49 年;40 人;€10-50M;ATXX-Gruppe**;**CEOs(印谱):Ottmar Flach+Christian Flach(CFO)(atestore.de Impressum O 金谱!)**;**Lantronix EMEA Distributor Partner of the Year 2021+2022 蝉联(官网新闻件引语 O)=20 年 Lantronix 专谱**;Robert Bahler(印谱联络)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Ottmar Flach(Geschäftsführer(印谱自署+Lantronix 奖件引语),official-self-published·谱/leads-only(直发需 opt-in));Christian Flach(Geschäftsführer/CFO(印谱自署;Flach 族双驾),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：印谱双 GF+连任原厂奖=金谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【目标行业】**Solutions: Government and Critical Infrastructure/Connected Charging/AGVs/Site Monitoring Edge AI——authorized Distributor & ODM 40+ years
-  > Solutions: Government and Critical Infrastructure/Connected Charging/AGVs/Site Monitoring Edge AI——authorized Distributor & ODM 40+ years
-  > 来源：https://www.atlantikelektronik.com
+- **【决策链与对接人】**Impressum: CEOs **Ottmar Flach, Christian Flach (CFO)**(atestore.de);「Über diese Auszeichnung freute sich Ottmar Flach, Geschäftsführer der Atlantik Elektronik GmbH」(Lantronix EMEA Partner of the Year 2021 官网件)
+  > Impressum: CEOs **Ottmar Flach, Christian Flach (CFO)**(atestore.de);「Über diese Auszeichnung freute sich Ottmar Flach, Geschäftsführer der Atlantik Elektronik GmbH」(Lantronix EMEA Partner of the Year 2021 官网件)
+  > 来源：https://www.atestore.de/en/info/imprint.html
+- **【联系方式与基础画像】**HRB49191 Amtsgericht München;Fraunhoferstr. 11a, 82152 Planegg;+49 89 89505-0;gegründet 1977;40 Mitarbeiter;€10-50 Mio;Eigentümer ATXX-Gruppe(wer-zu-wem/官网件)
+  > HRB49191 Amtsgericht München;Fraunhoferstr. 11a, 82152 Planegg;+49 89 89505-0;gegründet 1977;40 Mitarbeiter;€10-50 Mio;Eigentümer ATXX-Gruppe(wer-zu-wem/官网件)
+  > 来源：https://www.wer-zu-wem.de/firma/atlantik-elektronik.html
+- **【近期动态与线索】**Lantronix SmartEdge EMEA Distributor Partner of the Year 2021+2022 卫冕;20 年 Lantronix 谱(atlantikelektronik.com 新闻件)
+  > Lantronix SmartEdge EMEA Distributor Partner of the Year 2021+2022 卫冕;20 年 Lantronix 谱(atlantikelektronik.com 新闻件)
+  > 来源：https://www.atlantikelektronik.com/de/news/lantronix-smartedge-partner-program-award
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：德国大 B2B 分销+ODM
-- **产品线与在售品牌**：Lantronix 领衔多厂
-- **目标行业与场景**：工业边缘/AGV/充电/零售（政府关键基建=守界注）
-- **团队与规模**：大分销组织
-- **决策链与对接人**：info@ 口
-- **技术与认证**：—
-- **采购与供应链信号**：分销泳道+design-in
-- **近期动态与线索**：经贸方案页持续扩张
-- **与我方契合点**：私营工业边缘段二轨窄位（政府/关键基建守界句）
-- **风险与注意**：关键基建板块明列——守界句必压
+- **业务定位**：ATLANTIK ELEKTRONIK GmbH(德国 Planegg(慕尼黑),Fraunhoferstr. 11a, 82152;**HRB49191 AG München;DE129290761;1977 创 49 年;40 人;€10-50M;ATXX-Gruppe**;**CEOs(印谱):Ottmar Flach+Christian Flach(CFO)(atestore.de Impressum O 金谱!)**;**Lantronix EMEA Distributor Partner of the Year 2021+2022 蝉联(官网新闻件引语 O)=20 年 Lantronix 专谱**;Robert Bahler(印谱联络)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德慕尼黑 49 年 Lantronix 专谱分销屋
+- **团队与规模**：40 人;1977 创
+- **决策链与对接人**：**Ottmar Flach(Geschäftsführer(印谱自署+Lantronix 奖件引语),official-self-published·谱/leads-only(直发需 opt-in));Christian Flach(Geschäftsführer/CFO(印谱自署;Flach 族双驾),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 21 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Flach 双 GF 位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -175,10 +187,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对口
-- **W**：关键段
-- **O**：私营
-- **T**：大厂
+- **S**：印谱双 GF+连任原厂奖=金谱
+- **W**：分销谱
+- **O**：Flach 双直达位
+- **T**：Lantronix 自家链谱
 
 ## 触达与风险红线
 
@@ -197,7 +209,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -206,8 +218,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 替补机制
-  - [ ] 占比
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,16 +231,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hallo Atlantik Elektronik team,
+Guten Tag Herr Flach,
 
-Forty-plus years as B2B distributor and ODM - Lantronix design-in, AGV connectivity, charging infrastructure, edge-AI site monitoring. One boundary sentence: your government and critical-infrastructure solutions stay on their certified paths; this concerns the private industrial edge only.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation, plus an 8-port industrial PoE line. Reference: $180 USD EXW (2026-09-29).
-
-One question: in your private-edge solutions, is there a value switching slot beside the current portfolio?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

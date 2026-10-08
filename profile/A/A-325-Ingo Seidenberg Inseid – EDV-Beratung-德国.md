@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】INSEID EDV-Beratung（德国 Burgwedel，25+ 年）：SMB 服务器/网络/客户定制+**工业视频监控规划**+Sonderanfertigungen 网络组件；资质=**Intel Technology Provider GOLD+Synology GOLD+Hirschmann Kompetenz-Center（工业以太网与网络管理合格）**;CSV=Allied Telesis 伙伴
-- 【推断】罕见持 Hirschmann 工业以太网能力中心资质的小系统集成店——工业监控规划在列=STI/STC 无缝对线，回答者=Ingo 本人
-- 【假设】SMB 网络的 value 件+工业监控项目的工业线二角
+- 【事实】Ingo Seidenberg Inseid – EDV-Beratung:Ingo Seidenberg「INSEID-EDV-Beratung」(德国 Burgwedel(下萨克森),Schulze-Delitzsch-Straße 11, 30938;**业主自名单铺(IT 咨询/电脑贸易)**;+49 5139 985230;inseid.de;Creditreform/目录件对位
+- 【推断】R66 第 21 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,14 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@inseid.de（官网Impressum）；+49 5139 985230；Ingo Seidenberg（INSEID IT-Beratung）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Ingo Seidenberg**(Inhaber(业主自名;目录件))— lieber-lokal.de/11880 目录件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.lieber-lokal.de/merchant/8KSMFU〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Ingo Seidenberg | Inhaber(业主自名;目录件) | lieber-lokal.de/11880 目录件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.lieber-lokal.de/merchant/8KSMFU |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -135,32 +139,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第33批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第21波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：DE Burgwedel 系统店（官网一手核）
-- **②芯片/型号**：Hirschmann 资质
-- **③KP 深挖**：info@（Ingo）
-- **④Saga 对标**：双角（$180 锚点一致）
-- **⑤在乎与偏好**：资质自证/工程完整
+- **①背景再核**：Ingo Seidenberg「INSEID-EDV-Beratung」(德国 Burgwedel(下萨克森),Schulze-Delitzsch-Straße 11, 30938;**业主自名单铺(IT 咨询/电脑贸易)**;+49 5139 985230;inseid.de;Creditreform/目录件对位
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Ingo Seidenberg(Inhaber(业主自名;目录件),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：业主自名=直达
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【技术与认证】**Weitere Qualifikationen haben wir im Hirschmann Kompetenz-Center für industrielles Ethernet und Netzwerk-Management erhalten
-  > Weitere Qualifikationen haben wir im Hirschmann Kompetenz-Center für industrielles Ethernet und Netzwerk-Management erhalten
-  > 来源：https://www.inseid.de
+- **【决策链与对接人】**Ingo Seidenberg Inseid - EDV-Beratung;Schulze-Delitzsch-Straße 11, 30938 Burgwedel;+49 5139 985230;inseid.de(lieber-lokal/11880/firmenwissen 目录件)
+  > Ingo Seidenberg Inseid - EDV-Beratung;Schulze-Delitzsch-Straße 11, 30938 Burgwedel;+49 5139 985230;inseid.de(lieber-lokal/11880/firmenwissen 目录件)
+  > 来源：https://www.lieber-lokal.de/merchant/8KSMFU
+- **【联系方式与基础画像】**Burgwedel(Großburgwedel);Computerhändler/EDV-Beratung 单铺;Creditreform「Ingo Seidenberg INSEID-EDV-Beratung」对位(firmenwissen 件)
+  > Burgwedel(Großburgwedel);Computerhändler/EDV-Beratung 单铺;Creditreform「Ingo Seidenberg INSEID-EDV-Beratung」对位(firmenwissen 件)
+  > 来源：https://www.firmenwissen.de/az/firmeneintrag/30938/2190332903/DIPL_ING_FH_THOMAS_BERTRAM_IT_SERVICE_UND_BERATUNG.html
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：德国 SMB 系统店（25+ 年）
-- **产品线与在售品牌**：—（Hirschmann 资质在）
-- **目标行业与场景**：SMB/工业项目
-- **团队与规模**：个体
-- **决策链与对接人**：info@（Ingo 具名）
-- **技术与认证**：Hirschmann Kompetenz-Center/Intel Gold/Synology Gold
-- **采购与供应链信号**：项目随件
-- **近期动态与线索**：—
-- **与我方契合点**：SMB 件+工业监控工业线二角
-- **风险与注意**：个体——中低密
+- **业务定位**：Ingo Seidenberg「INSEID-EDV-Beratung」(德国 Burgwedel(下萨克森),Schulze-Delitzsch-Straße 11, 30938;**业主自名单铺(IT 咨询/电脑贸易)**;+49 5139 985230;inseid.de;Creditreform/目录件对位
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德下萨克森业主单铺
+- **团队与规模**：单铺谱
+- **决策链与对接人**：**Ingo Seidenberg(Inhaber(业主自名;目录件),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 21 波谱名牌(目录件级)
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Ingo Seidenberg 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -175,10 +182,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：资质
-- **W**：个体
-- **O**：双角
-- **T**：大牌
+- **S**：业主自名=直达
+- **W**：微实体谱
+- **O**：Seidenberg 唯一直达位
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -197,7 +204,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -206,8 +213,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 现供
-  - [ ] 工业占比
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,16 +226,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hallo Herr Seidenberg,
+Guten Tag Herr Seidenberg,
 
-Your qualifications list caught my eye: Intel Gold, Synology Gold - and the Hirschmann competence center for industrial Ethernet and network management, which few small houses hold. Full honesty up front: we build PoE switches, so your industrial flagship world stays untouched; this is about value tiers where the flagships overshoot.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation, plus an 8-port industrial PoE line for your industrial video projects. Reference: $180 USD EXW (2026-09-29).
-
-One question: for SMB networks and industrial monitoring jobs, do you keep a value tier - and would you test one unit?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

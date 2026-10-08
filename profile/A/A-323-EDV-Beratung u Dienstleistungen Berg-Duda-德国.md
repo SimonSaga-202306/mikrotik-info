@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】EDV-Beratung u Dienstleistungen Berg-Duda（德国 Bergneustadt，2000 起；GF Sebastian Berg-Duda）：硬件/软件售卖与网络建设管理+IT Consulting;CSV=Allied Telesis Resell
-- 【推断】个体级 EDV 顾问夫妻店：客户现场随身件微窄位——低密一针
-- 【假设】SMB 客户现场随身 value 件
+- 【事实】EDV-Beratung u Dienstleistungen Berg-Duda:EDV Beratung & Dienstleistungen Berg-Duda(德国 Bergneustadt(北威),Am Leiweg 11, 51702;**2000-01-01 创 26 年;KMU 全包(硬软件销售/安装/组网/安全/培训)**;**Gründer & Geschäftsführer: Sebastian Berg-Duda(官网+Impressum O;20+ 年经验自署;DE205474676)**
+- 【推断】R66 第 21 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,14 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@berg-duda.de（官网产品/关于页）；+49 2261/478849；Geschäftsführer Sebastian Berg-Duda
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Sebastian Berg-Duda**(Gründer & Geschäftsführer(官网引语+Impressum 双源))— berg-duda.de 官网(O) 〔已有(公司官方公开件/登记册自曝);源:https://berg-duda.de/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Sebastian Berg-Duda | Gründer & Geschäftsführer(官网引语+Impressum 双源) | berg-duda.de 官网(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://berg-duda.de/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -131,32 +135,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第33批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第21波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：DE 个体店（官网一手核）
-- **②芯片/型号**：多牌
-- **③KP 深挖**：info@
-- **④Saga 对标**：随身窄位（$180 锚点一致，低密）
-- **⑤在乎与偏好**：直接/个人信任
+- **①背景再核**：EDV Beratung & Dienstleistungen Berg-Duda(德国 Bergneustadt(北威),Am Leiweg 11, 51702;**2000-01-01 创 26 年;KMU 全包(硬软件销售/安装/组网/安全/培训)**;**Gründer & Geschäftsführer: Sebastian Berg-Duda(官网+Impressum O;20+ 年经验自署;DE205474676)**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Sebastian Berg-Duda(Gründer & Geschäftsführer(官网引语+Impressum 双源),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：创主 GF 单铺=直达
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Beratung bei Anschaffung sowie Verkauf von Hard-/Software…Aufbau und Administration von Netzwerken；GF Sebastian Berg-Duda
-  > Beratung bei Anschaffung sowie Verkauf von Hard-/Software…Aufbau und Administration von Netzwerken；GF Sebastian Berg-Duda
-  > 来源：https://berg-duda.de
+- **【决策链与对接人】**「Wir finden einen Weg, Ihre individuellen Anforderungen professionell umzusetzen.» **Sebastian Berg-Duda (Gründer & Geschäftsführer)**」;Impressum: Geschäftsführer Sebastian Berg-Duda(berg-duda.de)
+  > 「Wir finden einen Weg, Ihre individuellen Anforderungen professionell umzusetzen.» **Sebastian Berg-Duda (Gründer & Geschäftsführer)**」;Impressum: Geschäftsführer Sebastian Berg-Duda(berg-duda.de)
+  > 来源：https://berg-duda.de/
+- **【联系方式与基础画像】**Am Leiweg 11, 51702 Bergneustadt;+49 2261/478849;info@berg-duda.de;gegründet 01.01.2000;USt-Id DE205474676;硬软件+组网+安全+培训(官网/über uns 页)
+  > Am Leiweg 11, 51702 Bergneustadt;+49 2261/478849;info@berg-duda.de;gegründet 01.01.2000;USt-Id DE205474676;硬软件+组网+安全+培训(官网/über uns 页)
+  > 来源：https://berg-duda.de/ueber-uns
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：德国个体 EDV 顾问店（2000）
-- **产品线与在售品牌**：多牌（AT 在列 CSV）
-- **目标行业与场景**：区域 SMB
-- **团队与规模**：个体
-- **决策链与对接人**：info@（Sebastian 具名）
-- **技术与认证**：—
-- **采购与供应链信号**：随身微单
-- **近期动态与线索**：—
-- **与我方契合点**：随身窄位低密
-- **风险与注意**：极小体量
+- **业务定位**：EDV Beratung & Dienstleistungen Berg-Duda(德国 Bergneustadt(北威),Am Leiweg 11, 51702;**2000-01-01 创 26 年;KMU 全包(硬软件销售/安装/组网/安全/培训)**;**Gründer & Geschäftsführer: Sebastian Berg-Duda(官网+Impressum O;20+ 年经验自署;DE205474676)**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德北威 26 年 KMU 全包单铺
+- **团队与规模**：单铺谱;2000 创
+- **决策链与对接人**：**Sebastian Berg-Duda(Gründer & Geschäftsführer(官网引语+Impressum 双源),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 21 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Sebastian Berg-Duda 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -171,10 +178,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对口
-- **W**：极小
-- **O**：随身
-- **T**：—
+- **S**：创主 GF 单铺=直达
+- **W**：小微谱
+- **O**：Berg-Duda 唯一直达位
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -193,7 +200,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -202,7 +209,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 现供
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -214,16 +222,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hallo Sebastian,
+Guten Tag Herr Berg-Duda,
 
-Twenty-plus years advising regional SMBs - hardware, software, networks built and administered by your own hands.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a documented value unit for the client sites you set up.
-
-One question: when a client site needs a switch, what do you supply today?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

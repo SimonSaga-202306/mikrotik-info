@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】GCI SpA（意大利 Milano，法定 Foro Buonaparte 68；Lacchiarella 运营；罗马办）：**GCI SERVICE FACTORY=post-warranty 硬件现场维修（mission-critical ICT）**+GCI GREEN 可持续+**100×100 canale 服务厂商（白标服务给渠道伙伴）**;Cap. Soc. €2M
-- 【推断】服务厂非转售商：硬件窄位——但其白标服务/备件池体系背后有实物与渠道面；窄针讲备件池/增值替换逻辑
-- 【假设】其渠道伙伴备件池的 value 单元窄位
+- 【事实】General Computer Italia S.p.A:GENERAL COMPUTER ITALIA S.p.A (GCI)(意大利 Pavia(总部)+Roma 分社;**1993 创 33 年;€36M+(2018);Unix 硬件 Post-Warranty 维护起家→全硬件/DC 维护+增值分销+翻新件谱**;**Barbieri 兄弟:Roberto=Presidente, Maurizio=Amministratore Delegato(2019 impresacity 专访 O)**;**GCI System Integrator(2017 BU, Cisco/HPE/Fortinet;AD Patrizio Labella)→TXT e-solutions 收购谱(集团变动注)**;Irene Dimanuele 行政+Davide Bozzelli IT Manager 具名谱(gci.it 新闻页)
+- 【推断】R66 第 21 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,18 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@gci.it（官网页脚；联系地含罗马办公室Via del Poggio Laurentino 66）；02 90092830
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Roberto Barbieri**(Presidente(创始兄弟长))— impresacity.it 专访件(O) 〔已有(公司官方公开件/登记册自曝);源:https://www.impresacity.it/news/22226/gci-rinnovarsi-nella-continuita.html〕
+  - **Maurizio Barbieri**(Amministratore Delegato(创始兄弟次;gaia 新闻件引语 O))— impresacity/gaia3.gci.it 件 〔已有(公司官方公开件/登记册自曝);源:https://gaia3.gci.it/gaia/eng/newsbox.html?id_p=221〕
+  - **Patrizio Labella**(AD,GCI System Integrator(TXT 收购谱注))— forbes.it/impresacity 件 〔已有(公司官方公开件/登记册自曝);源:https://forbes.it/eccellenza/gci-system-integrator/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Roberto Barbieri | Presidente(创始兄弟长) | impresacity.it 专访件(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.impresacity.it/news/22226/gci-rinnovarsi-nella-continuita.html |
+| Maurizio Barbieri | Amministratore Delegato(创始兄弟次;gaia 新闻件引语 O) | impresacity/gaia3.gci.it 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://gaia3.gci.it/gaia/eng/newsbox.html?id_p=221 |
+| Patrizio Labella | AD,GCI System Integrator(TXT 收购谱注) | forbes.it/impresacity 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://forbes.it/eccellenza/gci-system-integrator/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +142,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第31批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第21波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：IT 服务厂（官网一手核）
-- **②芯片/型号**：—
-- **③KP 深挖**：info@
-- **④Saga 对标**：备件窄位（$180 锚点一致，低密）
-- **⑤在乎与偏好**：mission-critical 时效
+- **①背景再核**：GENERAL COMPUTER ITALIA S.p.A (GCI)(意大利 Pavia(总部)+Roma 分社;**1993 创 33 年;€36M+(2018);Unix 硬件 Post-Warranty 维护起家→全硬件/DC 维护+增值分销+翻新件谱**;**Barbieri 兄弟:Roberto=Presidente, Maurizio=Amministratore Delegato(2019 impresacity 专访 O)**;**GCI System Integrator(2017 BU, Cisco/HPE/Fortinet;AD Patrizio Labella)→TXT e-solutions 收购谱(集团变动注)**;Irene Dimanuele 行政+Davide Bozzelli IT Manager 具名谱(gci.it 新闻页)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Roberto Barbieri(Presidente(创始兄弟长),official-self-published·谱/leads-only(直发需 opt-in));Maurizio Barbieri(Amministratore Delegato(创始兄弟次;gaia 新闻件引语 O),official-self-published·谱/leads-only(直发需 opt-in));Patrizio Labella(AD,GCI System Integrator(TXT 收购谱注),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：兄弟双驾 33 年+TXT 变动窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**GCI SERVICE FACTORY: Manutenzione Post Warranty Hardware On-site per ICT mission critical；100×100 Canale: Amplia la tua offerta con i servizi GCI
-  > GCI SERVICE FACTORY: Manutenzione Post Warranty Hardware On-site per ICT mission critical；100×100 Canale: Amplia la tua offerta con i servizi GCI
-  > 来源：https://www.gci.it
+- **【决策链与对接人】**「società nasce nel 1994 a Pavia, per opera dei due fratelli Roberto e Maurizio Barbieri…rispettivamente Presidente l'uno e Amministratore Delegato l'altro」;GCI System Integrator: Patrizio Labella AD(GCG cede GCI SI a TXT e-solutions 谱)(impresacity/forbes/gci.it 件)
+  > 「società nasce nel 1994 a Pavia, per opera dei due fratelli Roberto e Maurizio Barbieri…rispettivamente Presidente l'uno e Amministratore Delegato l'altro」;GCI System Integrator: Patrizio Labella AD(GCG cede GCI SI a TXT e-solutions 谱)(impresacity/forbes/gci.it 件)
+  > 来源：https://www.impresacity.it/news/22226/gci-rinnovarsi-nella-continuita.html
+- **【联系方式与基础画像】**GCI General Computer Italia SpA;Pavia+Roma;founded 1993;€36M(2018);maintenance post-warranty Unix→system integration;SIA 成员;refurbished HW 谱(gci.it 历史页/impresacity 件)
+  > GCI General Computer Italia SpA;Pavia+Roma;founded 1993;€36M(2018);maintenance post-warranty Unix→system integration;SIA 成员;refurbished HW 谱(gci.it 历史页/impresacity 件)
+  > 来源：https://www.gci.it/la-nostra-storia/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：意大利 IT 维修服务厂（白标给渠道）
-- **产品线与在售品牌**：—
-- **目标行业与场景**：渠道伙伴（经其服务）
-- **团队与规模**：服务厂（€2M 股本）
-- **决策链与对接人**：info@ 口
-- **技术与认证**：231 模型/道德码治理
-- **采购与供应链信号**：备件池+白标服务
-- **近期动态与线索**：—
-- **与我方契合点**：备件池窄位窄针
-- **风险与注意**：非传统转售——话术讲备件逻辑
+- **业务定位**：GENERAL COMPUTER ITALIA S.p.A (GCI)(意大利 Pavia(总部)+Roma 分社;**1993 创 33 年;€36M+(2018);Unix 硬件 Post-Warranty 维护起家→全硬件/DC 维护+增值分销+翻新件谱**;**Barbieri 兄弟:Roberto=Presidente, Maurizio=Amministratore Delegato(2019 impresacity 专访 O)**;**GCI System Integrator(2017 BU, Cisco/HPE/Fortinet;AD Patrizio Labella)→TXT e-solutions 收购谱(集团变动注)**;Irene Dimanuele 行政+Davide Bozzelli IT Manager 具名谱(gci.it 新闻页)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：意帕维亚 33 年维护+分销谱大户
+- **团队与规模**：中型谱;1993 创
+- **决策链与对接人**：**Roberto Barbieri(Presidente(创始兄弟长),official-self-published·谱/leads-only(直发需 opt-in));Maurizio Barbieri(Amministratore Delegato(创始兄弟次;gaia 新闻件引语 O),official-self-published·谱/leads-only(直发需 opt-in));Patrizio Labella(AD,GCI System Integrator(TXT 收购谱注),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 21 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Maurizio Barbieri AD 位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +185,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：通道
-- **W**：非采购向
-- **O**：备件
-- **T**：—
+- **S**：兄弟双驾 33 年+TXT 变动窗
+- **W**：集团变动谱
+- **O**：Barbieri 双直达位
+- **T**：一线链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +207,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,8 +216,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 备件机制
-  - [ ] 伙伴网
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -218,16 +229,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Ciao GCI team,
+Gentile Sig. Barbieri,
 
-Post-warranty on-site maintenance for mission-critical ICT, plus a 100-percent-channel model that lets partners broaden their offer. Both machines eat spare parts - and somewhere in that spare-parts logic there is room for a documented value unit.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value replacement unit for spare pools and partner bundles.
-
-One question: does your spare pool accept documented value units - or do frame contracts decide every part?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

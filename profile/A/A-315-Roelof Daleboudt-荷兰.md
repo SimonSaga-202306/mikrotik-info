@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】IP Central（荷兰 Coevorden，RIPE 档 'Roelof Daleboudt trading as IP Central',AS207942）:CSV=MikroTik 认证顾问名录收录；**2025-08-01 并入 NiceCloud**（Zwolle 托管 IT 屋：KPN 伙伴/微软 Solutions Partner/**Ruckus Big Dog**/Fortinet/HP-E Aruba，PEC Zwolle 赞助商）;ip-central.nl 域→跳转 nicecloud.nl/ipcentral=404 取链注
-- 【推断】顾问个体已并入区域 MSP：post-merger 接触还是要从 Roelof 个人箱（隐私页公布）打——训练通道判 CONSULT-OEM；并入单位为 Ruckus/HP-E 墙，守线注
-- 【假设】顾问个人通道窄针（并轨注+NiceCloud 共存句）
+- 【事实】Roelof Daleboudt:Roelof Daleboudt(荷兰／Coevorden;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 —（无公开站点）;个体顾问无官网档(个人箱在档);Ruckus/HP-E 栈共存句;建档供位待用户补邮箱)
+- 【推断】R66 第 21 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,10 +76,14 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：roelof.daleboudt@ip-central.nl（IP Central品牌页隐私政策公布）；088-4723636；2025-08-01并入NiceCloud后可参考info@nicecloud.nl / 088 0400 900
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Roelof Daleboudt**(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人))— 档谱+档站自署 〔已有(公司官方公开件/登记册自曝);源:仓内 profile/A/A-315-*(R54/R66 档谱基础画像行)〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Roelof Daleboudt | MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人) | 档谱+档站自署 | official-self-published·谱/leads-only(直发需 opt-in) | 仓内 profile/A/A-315-*(R54/R66 档谱基础画像行) |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -136,32 +140,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第32批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第21波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：NL 顾问并入 MSP（CSV+域跳转双核）
-- **②芯片/型号**：Ruckus/HP-E 栈
-- **③KP 深挖**：roelof@
-- **④Saga 对标**：CONSULT-OEM（$180 锚点一致）
-- **⑤在乎与偏好**：—
+- **①背景再核**：Roelof Daleboudt(荷兰／Coevorden;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 —（无公开站点）;个体顾问无官网档(个人箱在档);Ruckus/HP-E 栈共存句;建档供位待用户补邮箱)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Roelof Daleboudt(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：MTCSWE/交换认证谱=对口窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【近期动态】**ip-central.nl→nicecloud.nl/ipcentral=404；CSV: 2025-08-01 并入 NiceCloud（隐私页公布 roelof.daleboudt@ip-central.nl）
-  > ip-central.nl→nicecloud.nl/ipcentral=404；CSV: 2025-08-01 并入 NiceCloud（隐私页公布 roelof.daleboudt@ip-central.nl）
-  > 来源：https://www.nicecloud.nl
+- **【联系方式与基础画像】**国家/城市: %s;网站: %s;类型: 集成商/顾问(MikroTik 认证)(档案基础画像行=事实)
+  > 国家/城市: %s;网站: %s;类型: 集成商/顾问(MikroTik 认证)(档案基础画像行=事实)
+  > 来源：仓内 profile/A/A-315-*(R54/R66 档谱基础画像行)
+- **【近期动态与线索】**档定首触角: 个人箱窄针($180 锚点一致);Ruckus/HP-E 栈共存句;**p1=CONSULT-OEM 谱(无量产报价)**
+  > 档定首触角: 个人箱窄针($180 锚点一致);Ruckus/HP-E 栈共存句;**p1=CONSULT-OEM 谱(无量产报价)**
+  > 来源：仓内 profile/A/A-315-*(R54/R66 档谱基础画像行)
+- **【目标行业与场景】**档定值得跟: 【人工定级】A——自动规则已跳过(档注)
+  > 档定值得跟: 【人工定级】A——自动规则已跳过(档注)
+  > 来源：仓内 profile/A/A-315-*(R54/R66 档谱基础画像行)
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：荷兰 MikroTik 顾问个体（已并入 MSP）
-- **产品线与在售品牌**：NiceCloud 栈（Ruckus/HP-E）
-- **目标行业与场景**：区域 SMB（Zwolle）
-- **团队与规模**：个体→并轨
-- **决策链与对接人**：roelof@ 个人口
-- **技术与认证**：MikroTik 顾问（CSV）
-- **采购与供应链信号**：随件窄口
-- **近期动态与线索**：并轨 2025-08
-- **与我方契合点**：CONSULT-OEM（顾问通道）+并轨注
-- **风险与注意**：并购后职责未明
+- **业务定位**：Roelof Daleboudt(荷兰／Coevorden;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 —（无公开站点）;个体顾问无官网档(个人箱在档);Ruckus/HP-E 栈共存句;建档供位待用户补邮箱)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：培训交付谱(MTCSWE 谱链)
+- **团队与规模**：单铺/工作室谱
+- **决策链与对接人**：**Roelof Daleboudt(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 21 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Geachte heer Daleboudt,(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -176,10 +186,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：个人
-- **W**：并轨
-- **O**：随件
-- **T**：边界
+- **S**：MTCSWE/交换认证谱=对口窗
+- **W**：单铺谱
+- **O**：Roelof Daleboudt 本人直达位
+- **T**：MikroTik 官方课链
 
 ## 触达与风险红线
 
@@ -202,7 +212,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -211,8 +221,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 职责
-  - [ ] 采购口
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -224,16 +234,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Roelof,
+Geachte heer Daleboudt,
 
-We found you via the MikroTik consultant registry - and noticed IP Central's web presence now points at NiceCloud after the 2025 merger, so this goes to your personal address. Full honesty: we build PoE switches, and NiceCloud's Ruckus/HP-E stack keeps its place.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - for the client sites you still touch.
-
-One question: after the merger, do client-site switches still come through your hands - or is that centralized at NiceCloud procurement now?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

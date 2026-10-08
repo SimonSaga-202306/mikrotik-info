@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Trusol（英国 Feltham，25+ 年）：教育/休闲/企业三板块整合安装商——IT 支持、网络布线与 AV、学校 ICT/AV、健身房音响、会议室系统；证言墙含 Arup 顾问、多家健身房与学校；'ECP Trusol' 字样在案例（兼并脉络注）
-- 【推断】实体安装商：校园/健身房 AP+监控+AV 的 PoE 盒消耗真实；公立学校占比高=守界句先置；休闲/企业私营段主打
-- 【假设】休闲与企业私营段的 value PoE 随单正口
+- 【事实】Electracom-Trusol:Trusol Limited(英国 Feltham(Middlesex),Unit 11 Mount Road Industrial Estate, TW13 6AR;**CH 04487827;2003 创 23 年;21-20 人;$5M;教育+企业+休闲三牌(trusol-education/trusol-it)**;**2024-02 换代窗:Neil Goodhead(2003 创主 MD)退位→Michelle Louise Sen 任 Director(2024-02-02)+PSC 唯一实控+Joanne Margaret Gammage 任 Director(2024-03);官网团队页仍示 Neil MD+Liz Goodhead FD+Mark O'Farrell Procurement Officer(采购 KPI!)**
+- 【推断】R66 第 21 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,20 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@trusol.com（Trusol官网服务与支持页）；03456 121 222；The Reeves, Snakey Lane, Feltham TW13 7NB
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Michelle Louise Sen**(Director+PSC 唯一实控(2024-02 接任;新班主))— CH/Endole 登记件 〔已有(公司官方公开件/登记册自曝);源:https://open.endole.co.uk/insight/company/04487827-trusol-limited〕
+  - **Joanne Margaret Gammage**(Director(2024-03 任;HR Director 谱))— CH 件+官网团队页 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/04487827/officers〕
+  - **Mark O'Farrell**(Procurement Officer(采购官=件链 KPI))— trusol-education.com 团队页(O) 〔已有(公司官方公开件/登记册自曝);源:https://trusol-education.com/our-team/〕
+  - **Neil Goodhead**(前 MD/创主(2024-02 退休;官网/RR 仍署 MD=换代差旗注))— 官网团队页+CH 退位件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://trusol-education.com/our-team/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Michelle Louise Sen | Director+PSC 唯一实控(2024-02 接任;新班主) | CH/Endole 登记件 | official-self-published·谱/leads-only(直发需 opt-in) | https://open.endole.co.uk/insight/company/04487827-trusol-limited |
+| Joanne Margaret Gammage | Director(2024-03 任;HR Director 谱) | CH 件+官网团队页 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/04487827/officers |
+| Mark O'Farrell | Procurement Officer(采购官=件链 KPI) | trusol-education.com 团队页(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://trusol-education.com/our-team/ |
+| Neil Goodhead | 前 MD/创主(2024-02 退休;官网/RR 仍署 MD=换代差旗注) | 官网团队页+CH 退位件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://trusol-education.com/our-team/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +144,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第31批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第21波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：UK 安装商（官网一手核）
-- **②芯片/型号**：多牌设备
-- **③KP 深挖**：info@
-- **④Saga 对标**：随单正口（$180 锚点一致）
-- **⑤在乎与偏好**：25 年口碑/个人服务
+- **①背景再核**：Trusol Limited(英国 Feltham(Middlesex),Unit 11 Mount Road Industrial Estate, TW13 6AR;**CH 04487827;2003 创 23 年;21-20 人;$5M;教育+企业+休闲三牌(trusol-education/trusol-it)**;**2024-02 换代窗:Neil Goodhead(2003 创主 MD)退位→Michelle Louise Sen 任 Director(2024-02-02)+PSC 唯一实控+Joanne Margaret Gammage 任 Director(2024-03);官网团队页仍示 Neil MD+Liz Goodhead FD+Mark O'Farrell Procurement Officer(采购 KPI!)**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Michelle Louise Sen(Director+PSC 唯一实控(2024-02 接任;新班主),official-self-published·谱/leads-only(直发需 opt-in));Joanne Margaret Gammage(Director(2024-03 任;HR Director 谱),official-self-published·谱/leads-only(直发需 opt-in));Mark O'Farrell(Procurement Officer(采购官=件链 KPI),official-self-published·谱/leads-only(直发需 opt-in));Neil Goodhead(前 MD/创主(2024-02 退休;官网/RR 仍署 MD=换代差旗注),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：换代窗+采购官具名=KPI
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**technology solutions, service and support partner…education, leisure & corporate sectors；案例: Arup/Better Gym/会议系统
-  > technology solutions, service and support partner…education, leisure & corporate sectors；案例: Arup/Better Gym/会议系统
-  > 来源：https://www.trusol.com
+- **【决策链与对接人】**CH 2024-02: Notification of **Michelle Louise Sen as a person with significant control**;Termination of Neil Derek Goodhead as a director(02/02/2024);Appointment of Joanne Margaret Gammage(03/2024);官网团队: Neil MD+Liz FD+Michelle Services Director+**Mark O'Farrell Procurement Officer**(CH/endole/trusol-education 件)
+  > CH 2024-02: Notification of **Michelle Louise Sen as a person with significant control**;Termination of Neil Derek Goodhead as a director(02/02/2024);Appointment of Joanne Margaret Gammage(03/2024);官网团队: Neil MD+Liz FD+Michelle Services Director+**Mark O'Farrell Procurement Officer**(CH/endole/trusol-education 件)
+  > 来源：https://open.endole.co.uk/insight/company/04487827-trusol-limited
+- **【联系方式与基础画像】**TRUSOL LIMITED 04487827;11 Mount Road, Feltham TW13 6AR;2003 创;21 employees;$5M;education/corporate/leisure 三牌(rocketreach/官网件)
+  > TRUSOL LIMITED 04487827;11 Mount Road, Feltham TW13 6AR;2003 创;21 employees;$5M;education/corporate/leisure 三牌(rocketreach/官网件)
+  > 来源：https://rocketreach.co/the-trusol-group-profile_b5ee6c39f42e7628
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：英国教育/休闲/企业整合安装商
-- **产品线与在售品牌**：设备多牌
-- **目标行业与场景**：健身房/会议/私校（公立学校=守界）
-- **团队与规模**：中型安装商
-- **决策链与对接人**：info@ 口
-- **技术与认证**：—
-- **采购与供应链信号**：项目随单
-- **近期动态与线索**：ECP 兼并脉络注
-- **与我方契合点**：私营段随单正口（公立校守界句）
-- **风险与注意**：学校占比高——守界句必压
+- **业务定位**：Trusol Limited(英国 Feltham(Middlesex),Unit 11 Mount Road Industrial Estate, TW13 6AR;**CH 04487827;2003 创 23 年;21-20 人;$5M;教育+企业+休闲三牌(trusol-education/trusol-it)**;**2024-02 换代窗:Neil Goodhead(2003 创主 MD)退位→Michelle Louise Sen 任 Director(2024-02-02)+PSC 唯一实控+Joanne Margaret Gammage 任 Director(2024-03);官网团队页仍示 Neil MD+Liz Goodhead FD+Mark O'Farrell Procurement Officer(采购 KPI!)**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：英 Feltham 教育 IT+安防牌(2024 换代窗)
+- **团队与规模**：21-20 人;2003 创
+- **决策链与对接人**：**Michelle Louise Sen(Director+PSC 唯一实控(2024-02 接任;新班主),official-self-published·谱/leads-only(直发需 opt-in));Joanne Margaret Gammage(Director(2024-03 任;HR Director 谱),official-self-published·谱/leads-only(直发需 opt-in));Mark O'Farrell(Procurement Officer(采购官=件链 KPI),official-self-published·谱/leads-only(直发需 opt-in));Neil Goodhead(前 MD/创主(2024-02 退休;官网/RR 仍署 MD=换代差旗注),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 21 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Michelle Sen+O'Farrell 采购位(opt-in 律;教育段守界)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +187,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对口
-- **W**：公立
-- **O**：私营
-- **T**：大牌
+- **S**：换代窗+采购官具名=KPI
+- **W**：教育段守界注
+- **O**：Sen 新班+O'Farrell 采购直达位
+- **T**：一线链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +209,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,8 +218,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 现供
-  - [ ] 私营占比
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -218,16 +231,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Trusol team,
+Dear Michelle,
 
-Twenty-five-plus years connecting education, leisure and corporate sites - the smartest gyms in London run on your AV and converged networks. One boundary sentence first: state-school engagements stay on your established procurement paths; this concerns the commercial side only.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - for leisure-floor APs, meeting-room pods and camera clusters at commercial sites.
-
-One question: in commercial projects, where do the PoE switches behind your APs and cameras come from today?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

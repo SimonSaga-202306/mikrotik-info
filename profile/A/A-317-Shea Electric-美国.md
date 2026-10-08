@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Shea Electric & Communications（美国威斯康星）：工商电气承包商——低压布线/商用网络/AV/EBCS/DAS（WiLS）/**安防（CCTV/门禁/入侵）**与消防报警；CSV=**N-Tron+Red Lion 工业交换渠道**（Anybus/Ewon 同墙，8 口非管理工业约 $500+ 同价位档快照注）
-- 【推断】电工承包商连锁里罕见的工业网络渠道线：监控/门禁项目 PoE 消耗真实，随单正口；其工业价档揭价值杠杆
-- 【假设】CCTV/门禁/网络项目 value PoE 随单正口（工业价差角度旁注）
+- 【事实】Shea Electric:Shea Electric & Communications, LLC(美国 Oshkosh, WI 54904,1922 S Washburn St;**2006 创 20 年;11-16 人;工商业电气承包+低压布线/安防/生命安防**;**Patty(Patricia P)Shea Owner(insightonbusiness 专访+D&B Key Principal 双源)+Dan Shea COO(专访引语)**;社区 $1.25M 捐赠/20 周年谱;Allied 谱低电压件链
+- 【推断】R66 第 21 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,16 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@sheaelectricllc.com（官网联系页）；920-303-9380；第三方项目页候选csheskey@sheaelectricllc.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Patty (Patricia P) Shea**(Owner(专访+D&B Key Principal 双源))— insightonbusiness/D&B 件 〔已有(公司官方公开件/登记册自曝);源:https://insightonbusiness.com/shea-electric-communications-llc/〕
+  - **Dan Shea**(COO(专访具名;Shea 族谱))— insightonbusiness 专访件(O) 〔已有(公司官方公开件/登记册自曝);源:https://insightonbusiness.com/shea-electric-communications-llc/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Patty (Patricia P) Shea | Owner(专访+D&B Key Principal 双源) | insightonbusiness/D&B 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://insightonbusiness.com/shea-electric-communications-llc/ |
+| Dan Shea | COO(专访具名;Shea 族谱) | insightonbusiness 专访件(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://insightonbusiness.com/shea-electric-communications-llc/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +140,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第32批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第21波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：US WI 电工承包商（官网+CSV 双核）
-- **②芯片/型号**：N-Tron/Red Lion
-- **③KP 深挖**：info@
-- **④Saga 对标**：随单正口（$180 锚点一致；STI 快照 $64 旁注）
-- **⑤在乎与偏好**：本地响应/工程质量
+- **①背景再核**：Shea Electric & Communications, LLC(美国 Oshkosh, WI 54904,1922 S Washburn St;**2006 创 20 年;11-16 人;工商业电气承包+低压布线/安防/生命安防**;**Patty(Patricia P)Shea Owner(insightonbusiness 专访+D&B Key Principal 双源)+Dan Shea COO(专访引语)**;社区 $1.25M 捐赠/20 周年谱;Allied 谱低电压件链
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Patty (Patricia P) Shea(Owner(专访+D&B Key Principal 双源),official-self-published·谱/leads-only(直发需 opt-in));Dan Shea(COO(专访具名;Shea 族谱),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：Owner+COO 双具名=直达
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Industrial And Commercial Electrical Contractors——Low Voltage Wiring/Communication Networks/CCTV/Access Control；CSV: N-Tron+Red Lion 渠道
-  > Industrial And Commercial Electrical Contractors——Low Voltage Wiring/Communication Networks/CCTV/Access Control；CSV: N-Tron+Red Lion 渠道
-  > 来源：https://sheaelectricllc.com
+- **【决策链与对接人】**「Founded in 2006…**Patty Shea, Owner**…**Dan Shea, COO**, understood that philanthropy…」;D&B Key Principal: Patricia P Shea(insightonbusiness 专访/D&B 件)
+  > 「Founded in 2006…**Patty Shea, Owner**…**Dan Shea, COO**, understood that philanthropy…」;D&B Key Principal: Patricia P Shea(insightonbusiness 专访/D&B 件)
+  > 来源：https://insightonbusiness.com/shea-electric-communications-llc/
+- **【联系方式与基础画像】**1922 S Washburn St, Oshkosh WI 54904;founded 2006;11-16 employees;industrial/commercial electrical+low voltage wiring+security+life safety;20 周年/$1.25M+ 社区捐赠谱(datanyze/insightonbusiness 件)
+  > 1922 S Washburn St, Oshkosh WI 54904;founded 2006;11-16 employees;industrial/commercial electrical+low voltage wiring+security+life safety;20 周年/$1.25M+ 社区捐赠谱(datanyze/insightonbusiness 件)
+  > 来源：https://www.datanyze.com/companies/shea-electric-communications/348635113
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：美国 WI 工商电气承包商
-- **产品线与在售品牌**：N-Tron/Red Lion（CSV）
-- **目标行业与场景**：工商楼宇/工厂
-- **团队与规模**：区域承包商
-- **决策链与对接人**：info@ 口
-- **技术与认证**：—
-- **采购与供应链信号**：项目随单
-- **近期动态与线索**：—
-- **与我方契合点**：CCTV/门禁/网络项目 PoE 随单正口+工业价差杠杆（STI-288GP alt）
-- **风险与注意**：电工资质见重（标注）
+- **业务定位**：Shea Electric & Communications, LLC(美国 Oshkosh, WI 54904,1922 S Washburn St;**2006 创 20 年;11-16 人;工商业电气承包+低压布线/安防/生命安防**;**Patty(Patricia P)Shea Owner(insightonbusiness 专访+D&B Key Principal 双源)+Dan Shea COO(专访引语)**;社区 $1.25M 捐赠/20 周年谱;Allied 谱低电压件链
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：美威斯康星 20 年电气承包家族铺
+- **团队与规模**：11-16 人;2006 创
+- **决策链与对接人**：**Patty (Patricia P) Shea(Owner(专访+D&B Key Principal 双源),official-self-published·谱/leads-only(直发需 opt-in));Dan Shea(COO(专访具名;Shea 族谱),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 21 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Patty Shea+Dan Shea 位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +183,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对口
-- **W**：资质
-- **O**：随单
-- **T**：大牌
+- **S**：Owner+COO 双具名=直达
+- **W**：小微铺谱
+- **O**：Patty/Dan 直达位
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +205,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,8 +214,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 现供
-  - [ ] 项目节奏
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -218,16 +227,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Shea Electric team,
+Dear Ms Shea,
 
-Electrical contracting with a real low-voltage side - business networks, CCTV, access control, DAS. Every camera run ends in a PoE switch; every door controller, too.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29). For the industrial side, our 8-port industrial PoE line is the natural comparison to the N-Tron and Red Lion class you channel - at a fraction of that price class, openly stated.
-
-One question: where do the PoE switches behind your camera and access jobs come from today?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

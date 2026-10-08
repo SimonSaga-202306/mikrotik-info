@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Holker IT（英国 Burnley）：托管 IT 服务商——管理 ICT 支持/网络安全/连接/M365+Copilot/DaaS/备份/VoIP/打印；CSV=**Allied Telesis Platinum Partner + AT UK Partner of the Year（Featured Partner 页）**
-- 【推断】白金级 AT 伙伴的托管业务：客户现场换代随单真实——但 Platinum 粘合强，value 二槽窄位死守界前句
-- 【假设】托管现场的 value 二槽窄位
+- 【事实】Holker IT:Holker IT Limited(英国 Burnley(Lancashire),Jubilee House, Phoenix Way;**2009 创(Colne)→2017 迁 Burnley;44-46 人;$13M;网安成长谱**;**Founder & Managing Director: Matthew Metcalfe(Crunchbase+burnley.co.uk 引语双源)**;梯队:Paul Taylor Technical Director+Steve McGrath Director of Sales Ops+**Przemyslaw Demski Product and Vendor Manager(产品/原厂经理=件链 KPI!)**+Gavin Roper Head of New Business
+- 【推断】R66 第 21 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,20 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：enquiries@holkerit.co.uk（AT官方Featured Partner页+官网联系页）；0333 305 2020；次级reassuringit@holkerit.co.uk（自社FB）、support@holkerit.co.uk（媒体）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Matthew Metcalfe**(Founder & Managing Director(CB+地方报引语双源))— crunchbase/burnley.co.uk 件 〔已有(公司官方公开件/登记册自曝);源:https://www.crunchbase.com/organization/holker-it〕
+  - **Paul Taylor**(Technical Director)— rocketreach 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/holker-it-management_b5e0010ef42e6fa7〕
+  - **Przemyslaw Demski**(Product and Vendor Manager(原厂件链 KPI))— rocketreach 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/holker-it-management_b5e0010ef42e6fa7〕
+  - **Steve McGrath**(Director of Sales Operations)— rocketreach 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/holker-it-management_b5e0010ef42e6fa7〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Matthew Metcalfe | Founder & Managing Director(CB+地方报引语双源) | crunchbase/burnley.co.uk 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.crunchbase.com/organization/holker-it |
+| Paul Taylor | Technical Director | rocketreach 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/holker-it-management_b5e0010ef42e6fa7 |
+| Przemyslaw Demski | Product and Vendor Manager(原厂件链 KPI) | rocketreach 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/holker-it-management_b5e0010ef42e6fa7 |
+| Steve McGrath | Director of Sales Operations | rocketreach 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/holker-it-management_b5e0010ef42e6fa7 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +144,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第31批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第21波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：UK 白金 AT 伙伴 MSP（官网+CSV 双核）
-- **②芯片/型号**：AT Platinum
-- **③KP 深挖**：enquiries@
-- **④Saga 对标**：二槽窄位（$180 锚点一致）
-- **⑤在乎与偏好**：托管口碑/合规
+- **①背景再核**：Holker IT Limited(英国 Burnley(Lancashire),Jubilee House, Phoenix Way;**2009 创(Colne)→2017 迁 Burnley;44-46 人;$13M;网安成长谱**;**Founder & Managing Director: Matthew Metcalfe(Crunchbase+burnley.co.uk 引语双源)**;梯队:Paul Taylor Technical Director+Steve McGrath Director of Sales Ops+**Przemyslaw Demski Product and Vendor Manager(产品/原厂经理=件链 KPI!)**+Gavin Roper Head of New Business
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Matthew Metcalfe(Founder & Managing Director(CB+地方报引语双源),official-self-published·谱/leads-only(直发需 opt-in));Paul Taylor(Technical Director,leads-only·待 opt-in(LinkedIn/谱面带核));Przemyslaw Demski(Product and Vendor Manager(原厂件链 KPI),leads-only·待 opt-in(LinkedIn/谱面带核));Steve McGrath(Director of Sales Operations,leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：创主 MD+原厂件链经理具名
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Transforming Technology for Success——Managed ICT/Cyber/Connectivity/DaaS；CSV: Allied Telesis Platinum + UK Partner of the Year
-  > Transforming Technology for Success——Managed ICT/Cyber/Connectivity/DaaS；CSV: Allied Telesis Platinum + UK Partner of the Year
-  > 来源：https://www.holkerit.co.uk
+- **【决策链与对接人】**Founder and Managing Director: Matthew Metcalfe(crunchbase;burnley.co.uk 2017 件引语「Our new premises are a perfect fit」);management: Steve McGrath(Sales Ops)+Przemyslaw Demski(Product&Vendor)+Paul Taylor(Technical)
+  > Founder and Managing Director: Matthew Metcalfe(crunchbase;burnley.co.uk 2017 件引语「Our new premises are a perfect fit」);management: Steve McGrath(Sales Ops)+Przemyslaw Demski(Product&Vendor)+Paul Taylor(Technical)
+  > 来源：https://www.crunchbase.com/organization/holker-it
+- **【联系方式与基础画像】**Jubilee House, Phoenix Way, Burnley;+44 1282 859806;founded 2009;44 employees;$13M;cyber security/IT support;UK+EU+America 支持谱(rocketreach/burnley.co.uk 件)
+  > Jubilee House, Phoenix Way, Burnley;+44 1282 859806;founded 2009;44 employees;$13M;cyber security/IT support;UK+EU+America 支持谱(rocketreach/burnley.co.uk 件)
+  > 来源：https://burnley.co.uk/growing-cyber-security-firm-holker-relocate-burnley/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：英国 Burnley 托管 MSP
-- **产品线与在售品牌**：Allied Telesis Platinum（CSV）
-- **目标行业与场景**：本地 SMB 托管
-- **团队与规模**：中型 MSP
-- **决策链与对接人**：enquiries@ 口
-- **技术与认证**：AT UK PoY（CSV）
-- **采购与供应链信号**：托管随单
-- **近期动态与线索**：—
-- **与我方契合点**：二槽窄位（Platinum 旁前句框定）
-- **风险与注意**：Platinum 粘合强
+- **业务定位**：Holker IT Limited(英国 Burnley(Lancashire),Jubilee House, Phoenix Way;**2009 创(Colne)→2017 迁 Burnley;44-46 人;$13M;网安成长谱**;**Founder & Managing Director: Matthew Metcalfe(Crunchbase+burnley.co.uk 引语双源)**;梯队:Paul Taylor Technical Director+Steve McGrath Director of Sales Ops+**Przemyslaw Demski Product and Vendor Manager(产品/原厂经理=件链 KPI!)**+Gavin Roper Head of New Business
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：英兰开夏网安成长屋
+- **团队与规模**：44-46 人;2009 创
+- **决策链与对接人**：**Matthew Metcalfe(Founder & Managing Director(CB+地方报引语双源),official-self-published·谱/leads-only(直发需 opt-in));Paul Taylor(Technical Director,leads-only·待 opt-in(LinkedIn/谱面带核));Przemyslaw Demski(Product and Vendor Manager(原厂件链 KPI),leads-only·待 opt-in(LinkedIn/谱面带核));Steve McGrath(Director of Sales Operations,leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 21 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Metcalfe+Demski 件链位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +187,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对口
-- **W**：Platinum
-- **O**：二槽
-- **T**：AT
+- **S**：创主 MD+原厂件链经理具名
+- **W**：中小实体谱
+- **O**：Metcalfe+Demski 件链直达位
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +209,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,8 +218,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 替补机制
-  - [ ] 客户数
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -218,16 +231,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Holker IT team,
+Dear Matthew,
 
-Platinum-grade Allied Telesis partnership and a Partner-of-the-Year story - your managed stack is built on clear choices, and we are not asking to unsettle a single one.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value second slot for managed customer sites where the budget simply decides.
-
-One question: inside your managed estate, is there room for a documented value PoE tier beside the Platinum line?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

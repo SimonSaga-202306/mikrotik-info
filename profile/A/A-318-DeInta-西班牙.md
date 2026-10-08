@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Deinta Seguridad（西班牙 Zaragoza，Enebro 集团旗下）：**内政部认证电子安保系统集成商**——Ingeniería 设计/llave en mano 项目/**24/7 call center 维护**+远程操作+自研软件 Almand（多楼宇集中控制）；ISO 9001/14001，RSA Aragón 标；CSV=Allied Telesis+Axis+3CX+HP 品牌墙位
-- 【推断】持证安保工程商：监控/楼宇项目的多址 PoE 消耗真实，随单正口；Axis/AT 在墙需要前句框定；私营业态（企业楼宇）主打
-- 【假设】其 SoC/主管中心下多址项目 value PoE 随单
+- 【事实】DeInta:DeInta(Grupo;Deinta Seguridad S.L.,西班牙 Zaragoza;**CIF B99060089;2001 创(集团)/2005 Seguridad 体;11 人(2024);安防+视听+电气安装;自研 ALMAND 安防集成平台(停车/独栋/企业园区/水文谱)**;**换代+重整双金谱:创始人 Jesús Pola Villarroya(2021 退居股东;concurso 债权人协议 74%/70% 通过出清公告 O)→子 Jorge Pola 任 Director General(2024 萨拉戈萨商会专访父子同席 O)**;2024-04 单一管理人体制(einforma)
+- 【推断】R66 第 21 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,16 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：deinta@deinta.com（官网页脚+法定告知；联系页另列personal@deinta.com、DPO privacidad@deinta.com）；+34 976 798 180
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Jorge Pola**(Director General(子;2024 商会专访 O))— redaccion.camarazaragoza.com 专访件 〔已有(公司官方公开件/登记册自曝);源:https://redaccion.camarazaragoza.com/deinta-nuevo-socio-de-club-de-camara/〕
+  - **Jesús Pola Villarroya**(创始人/前 Gerente(2021 退居股东;重整公告自署))— LI 自署+专访件 〔已有(公司官方公开件/登记册自曝);源:https://www.linkedin.com/in/jes%C3%BAs-pola-villarroya-9b241a32/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Jorge Pola | Director General(子;2024 商会专访 O) | redaccion.camarazaragoza.com 专访件 | official-self-published·谱/leads-only(直发需 opt-in) | https://redaccion.camarazaragoza.com/deinta-nuevo-socio-de-club-de-camara/ |
+| Jesús Pola Villarroya | 创始人/前 Gerente(2021 退居股东;重整公告自署) | LI 自署+专访件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.linkedin.com/in/jes%C3%BAs-pola-villarroya-9b241a32/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -135,32 +141,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第32批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第21波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：ES 安保集成商（官网一手核）
-- **②芯片/型号**：Axis/AT 线
-- **③KP 深挖**：deinta@
-- **④Saga 对标**：随单正口（$180 锚点一致）
-- **⑤在乎与偏好**：SLA/认证文化
+- **①背景再核**：DeInta(Grupo;Deinta Seguridad S.L.,西班牙 Zaragoza;**CIF B99060089;2001 创(集团)/2005 Seguridad 体;11 人(2024);安防+视听+电气安装;自研 ALMAND 安防集成平台(停车/独栋/企业园区/水文谱)**;**换代+重整双金谱:创始人 Jesús Pola Villarroya(2021 退居股东;concurso 债权人协议 74%/70% 通过出清公告 O)→子 Jorge Pola 任 Director General(2024 萨拉戈萨商会专访父子同席 O)**;2024-04 单一管理人体制(einforma)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Jorge Pola(Director General(子;2024 商会专访 O),official-self-published·谱/leads-only(直发需 opt-in));Jesús Pola Villarroya(创始人/前 Gerente(2021 退居股东;重整公告自署),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：重整出清+父子换代=双窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**homologada por el Ministerio del Interior…instalaciones de sistemas electrónicos de seguridad；24/7 call center；自研 Alman'd 多址集中管控
-  > homologada por el Ministerio del Interior…instalaciones de sistemas electrónicos de seguridad；24/7 call center；自研 Alman'd 多址集中管控
-  > 来源：https://www.deinta.com
+- **【决策链与对接人】**「**Jorge Pola, director general**, junto a su padre y fundador, **Jesús Pola**…matriz data de 2001」(Cámara Zaragoza 2024 件);Jesús 自署: convenios aprobados 74%/70%;jubilación como máximo directivo, sigue como accionista
+  > 「**Jorge Pola, director general**, junto a su padre y fundador, **Jesús Pola**…matriz data de 2001」(Cámara Zaragoza 2024 件);Jesús 自署: convenios aprobados 74%/70%;jubilación como máximo directivo, sigue como accionista
+  > 来源：https://redaccion.camarazaragoza.com/deinta-nuevo-socio-de-club-de-camara/
+- **【联系方式与基础画像】**Deinta Seguridad SL;CIF B99060089;Zaragoza;fundada 2001(grupo);11 empleados(2024);ALMAND 自研平台;clientes: Banco de España/Parques Reunidos/AEAT 等公共谱=守界注(einforma/LI 件)
+  > Deinta Seguridad SL;CIF B99060089;Zaragoza;fundada 2001(grupo);11 empleados(2024);ALMAND 自研平台;clientes: Banco de España/Parques Reunidos/AEAT 等公共谱=守界注(einforma/LI 件)
+  > 来源：https://www.einforma.com/informacion-empresa/deinta-seguridad
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：西班牙 Zaragoza 安保工程集成商
-- **产品线与在售品牌**：Axis/Allied/3CX/HP（CSV）
-- **目标行业与场景**：企业楼宇/工业（守界：其内政部认证=官方资质本身正常商用资质，仅法规级安装）
-- **团队与规模**：工程组织
-- **决策链与对接人**：deinta@ 口
-- **技术与认证**：ISO 9001/14001/RSA
-- **采购与供应链信号**：项目随单+全国 SLA
-- **近期动态与线索**：ISO 27001 推进中
-- **与我方契合点**：多址项目 PoE 随单正口（Axis/AT 旁前句）
-- **风险与注意**：大牌在墙——前句框定
+- **业务定位**：DeInta(Grupo;Deinta Seguridad S.L.,西班牙 Zaragoza;**CIF B99060089;2001 创(集团)/2005 Seguridad 体;11 人(2024);安防+视听+电气安装;自研 ALMAND 安防集成平台(停车/独栋/企业园区/水文谱)**;**换代+重整双金谱:创始人 Jesús Pola Villarroya(2021 退居股东;concurso 债权人协议 74%/70% 通过出清公告 O)→子 Jorge Pola 任 Director General(2024 萨拉戈萨商会专访父子同席 O)**;2024-04 单一管理人体制(einforma)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：西班牙萨拉戈萨 25 年安防视听屋(重整出清+换代)
+- **团队与规模**：11 人;2001 创
+- **决策链与对接人**：**Jorge Pola(Director General(子;2024 商会专访 O),official-self-published·谱/leads-only(直发需 opt-in));Jesús Pola Villarroya(创始人/前 Gerente(2021 退居股东;重整公告自署),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 21 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Jorge Pola 直达(opt-in 律;公段客户守界)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -175,10 +184,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对口
-- **W**：在墙
-- **O**：随单
-- **T**：大牌
+- **S**：重整出清+父子换代=双窗
+- **W**：公客户谱守界注
+- **O**：Jorge Pola 直达位
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -197,7 +206,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -206,8 +215,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 现供
-  - [ ] 项量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,16 +228,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hola Deinta Seguridad team,
+Estimado Sr. Pola,
 
-Ministry-of-Interior-homologated security integration, an in-house multisite platform, and 24/7 maintenance across Spain. One sentence up front: your Axis and Allied Telesis choices keep their place.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - for multisite camera and access deployments where the project budget decides the access tier.
-
-One question: in your multisite projects, where do the PoE switches behind the cameras come from today?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

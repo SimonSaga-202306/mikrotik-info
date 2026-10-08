@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】ACC Yotta（英国 Woking）：应用专注 IT 方案屋——自有数据中心托管（APP:HOST/APP:LINK）、商业连续性、群集存储、安全；行业=航空航天/教育/企业/酒店活动/法律金融/零售；品牌导航明列 **ALLIED TELESIS 专区**+Brocade/Palo Alto/Scale/Spectra；首页存一桩 'Aerospace and Defence' 客户（Safran Labinal）证言
-- 【推断】中大型混合行业方案商：AT 在墙但非独家——私营段（酒店/零售/法律金融）二轨窄位；航空防务证言=守界句必压
-- 【假设】其私营段客户现场的 value PoE 二槽窄位
+- 【事实】ACC Yotta:ACC Yotta(英国 Woking;**Jeff Rhys-Jones: Director @ ACCYotta(rocketreach 谱面条;兼 Owner @ YottaServe;现 Territory Director @ Admin By Request=离任/兼任差旗注)**;accyotta.com 谱面弱
+- 【推断】R66 第 21 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,14 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：contact@accyotta.com（官网联系页正文；支持候选help@accyotta.com）；+44 (0)20 7043 6090
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Jeff Rhys-Jones**(Director @ ACCYotta(谱面条;差旗:现职他司+自有 YottaServe))— rocketreach 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/jeff-rhys-jones-email_33550928〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Jeff Rhys-Jones | Director @ ACCYotta(谱面条;差旗:现职他司+自有 YottaServe) | rocketreach 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/jeff-rhys-jones-email_33550928 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +138,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第31批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第21波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：UK 方案屋（官网一手核）
-- **②芯片/型号**：AT/Brocade 线
-- **③KP 深挖**：contact@
-- **④Saga 对标**：二槽窄位（$180 锚点一致）
-- **⑤在乎与偏好**：bench-tested 实测文化/应用专注
+- **①背景再核**：ACC Yotta(英国 Woking;**Jeff Rhys-Jones: Director @ ACCYotta(rocketreach 谱面条;兼 Owner @ YottaServe;现 Territory Director @ Admin By Request=离任/兼任差旗注)**;accyotta.com 谱面弱
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Jeff Rhys-Jones(Director @ ACCYotta(谱面条;差旗:现职他司+自有 YottaServe),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：Director 谱面孔在
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**bench tested, performance proven solutions…BRANDS: ALLIED TELESIS/BROCADE/PALO ALTO——SECTORS: Aerospace/Education/Hospitality/Legal/Retail
-  > bench tested, performance proven solutions…BRANDS: ALLIED TELESIS/BROCADE/PALO ALTO——SECTORS: Aerospace/Education/Hospitality/Legal/Retail
+- **【决策链与对接人】**Work: Director @ ACCYotta;Owner @ YottaServe;Technical Director @ Emojo Ltd(rocketreach 谱面条;Woking GB)
+  > Work: Director @ ACCYotta;Owner @ YottaServe;Technical Director @ Emojo Ltd(rocketreach 谱面条;Woking GB)
+  > 来源：https://rocketreach.co/jeff-rhys-jones-email_33550928
+- **【联系方式与基础画像】**Woking, GB;档录类型: 集成商/代理(Allied Telesis 谱);accyotta.com(档案基础画像行+谱面核验)
+  > Woking, GB;档录类型: 集成商/代理(Allied Telesis 谱);accyotta.com(档案基础画像行+谱面核验)
   > 来源：https://www.accyotta.com
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：英国应用专注 IT 方案屋
-- **产品线与在售品牌**：ALLIED TELESIS/Brocade/Palo Alto/Scale
-- **目标行业与场景**：酒店/零售/法律金融（航空防务=守界注）
-- **团队与规模**：中型组织
-- **决策链与对接人**：contact@ 口
-- **技术与认证**：—
-- **采购与供应链信号**：项目随单+托管
-- **近期动态与线索**：自有 DC 运营中
-- **与我方契合点**：私营段二轨窄位（守界句在）
-- **风险与注意**：航防证言——前句框定
+- **业务定位**：ACC Yotta(英国 Woking;**Jeff Rhys-Jones: Director @ ACCYotta(rocketreach 谱面条;兼 Owner @ YottaServe;现 Territory Director @ Admin By Request=离任/兼任差旗注)**;accyotta.com 谱面弱
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：英 Woking 小 IT 谱铺
+- **团队与规模**：小铺谱
+- **决策链与对接人**：**Jeff Rhys-Jones(Director @ ACCYotta(谱面条;差旗:现职他司+自有 YottaServe),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 21 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Jeff Rhys-Jones 位(opt-in 律;差旗待核)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +181,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：行业宽
-- **W**：在墙
-- **O**：私营段
-- **T**：大牌
+- **S**：Director 谱面孔在
+- **W**：谱面弱+差旗
+- **O**：Rhys-Jones 位(差旗注)
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +203,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,8 +212,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 替补机制
-  - [ ] 托管客户占比
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -218,16 +225,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi ACC team,
+Dear Jeff,
 
-Bench-tested, performance-proven solutions with your own datacenters behind them - and Allied Telesis holding a real position on your brand shelf. Two honest sentences up front: your AT line keeps its place, and anything in the aerospace-and-defence orbit stays on your certified paths. This concerns only the commercial side.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value second slot for hospitality, retail, legal and finance projects.
-
-One question: on the commercial side, is there room for a documented value PoE tier?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

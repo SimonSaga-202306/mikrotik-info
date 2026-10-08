@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】BlueBearsIT（法国 Lyon/Grenoble/Annecy）：TPE/PME 外包 IT（infogérance N1-N3）+系统集成+BI;品牌墙 Veeam/VMware/Dell/Sophos/OVHcloud/Barracuda;CSV=Allied Telesis Resell 伙伴+Qualiopi 培训资质注
-- 【推断】法国中型 MSP：私营 TPE/PME 托管现场交换件随单真实；AT Resell 粘性低——value 窄位好靶
-- 【假设】TPE/PME 托管现场的 value PoE 随单
+- 【事实】BlueBearsIT:BLUEBEARSIT SAS(法国 Limonest(里昂北),13 Rue des Aulnes, 69760;**SIREN 840859524;2018-07-06 创;20-49 人;IT 咨询(6202A)**;**2024-03 换代窗:Président Mikaël Baduel 退→Eric Stève Charpentier(1982 生,前 DG)接任 Président(BODACC+verif/kompass 三源);实控受益人: Charpentier+Baduel+Sylvain Di Paola+1**
+- 【推断】R66 第 21 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,18 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：ec@bluebearsit.com（官网培训页“service Commercial”信箱；第三方名录另给contact@/cg@bluebearsit.com）；04 28 29 86 50
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Eric Stève Charpentier**(Président(2024-03-18 接任;BODACC O))— pappers.fr/BODACC 件 〔已有(公司官方公开件/登记册自曝);源:https://www.pappers.fr/entreprise/bluebearsit-840859524〕
+  - **Mikaël Baduel**(前 Président/实控受益人(换代谱注))— pappers.fr 实控件 〔已有(公司官方公开件/登记册自曝);源:https://www.pappers.fr/entreprise/bluebearsit-840859524〕
+  - **Nadjib Charef**(Partner/Service Delivery Manager)— rocketreach 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/bluebearsit-management_b41a1a34ff6018bd〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Eric Stève Charpentier | Président(2024-03-18 接任;BODACC O) | pappers.fr/BODACC 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.pappers.fr/entreprise/bluebearsit-840859524 |
+| Mikaël Baduel | 前 Président/实控受益人(换代谱注) | pappers.fr 实控件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.pappers.fr/entreprise/bluebearsit-840859524 |
+| Nadjib Charef | Partner/Service Delivery Manager | rocketreach 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/bluebearsit-management_b41a1a34ff6018bd |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -135,32 +143,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第31批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第21波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：FR Lyon MSP（官网+CSV 双核）
-- **②芯片/型号**：多牌+AT Resell
-- **③KP 深挖**：ec@
-- **④Saga 对标**：随单（$180 锚点一致）
-- **⑤在乎与偏好**：私营 TPE 性价比
+- **①背景再核**：BLUEBEARSIT SAS(法国 Limonest(里昂北),13 Rue des Aulnes, 69760;**SIREN 840859524;2018-07-06 创;20-49 人;IT 咨询(6202A)**;**2024-03 换代窗:Président Mikaël Baduel 退→Eric Stève Charpentier(1982 生,前 DG)接任 Président(BODACC+verif/kompass 三源);实控受益人: Charpentier+Baduel+Sylvain Di Paola+1**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Eric Stève Charpentier(Président(2024-03-18 接任;BODACC O),official-self-published·谱/leads-only(直发需 opt-in));Mikaël Baduel(前 Président/实控受益人(换代谱注),official-self-published·谱/leads-only(直发需 opt-in));Nadjib Charef(Partner/Service Delivery Manager,leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：换代窗+BODACC O 级谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Infogérance N1/N2/N3+Intégration Systèmes & Réseaux——TPE/PME，3 sites Lyon/Grenoble/Annecy；CSV: AT Resell+Qualiopi
-  > Infogérance N1/N2/N3+Intégration Systèmes & Réseaux——TPE/PME，3 sites Lyon/Grenoble/Annecy；CSV: AT Resell+Qualiopi
-  > 来源：https://bluebearsit.com
+- **【决策链与对接人】**BODACC 2024-03-18: Baduel démissionné de Président;Eric CHARPENTIER nommé Président;bénéficiaires effectifs: Eric CHARPENTIER, Mikaël BADUEL, Sylvain DI PAOLA et 1 autre(pappers/BODACC 件)
+  > BODACC 2024-03-18: Baduel démissionné de Président;Eric CHARPENTIER nommé Président;bénéficiaires effectifs: Eric CHARPENTIER, Mikaël BADUEL, Sylvain DI PAOLA et 1 autre(pappers/BODACC 件)
+  > 来源：https://www.pappers.fr/entreprise/bluebearsit-840859524
+- **【联系方式与基础画像】**SIREN 840 859 524;13 Rue des Aulnes, 69760 Limonest;création 06/07/2018;SAS capital €11-20k;20-49 salariés(2023);conseil en systèmes et logiciels informatiques(pappers/manageo 件)
+  > SIREN 840 859 524;13 Rue des Aulnes, 69760 Limonest;création 06/07/2018;SAS capital €11-20k;20-49 salariés(2023);conseil en systèmes et logiciels informatiques(pappers/manageo 件)
+  > 来源：https://www.manageo.fr/entreprises/840859524.html
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：法国 Lyon MSP（TPE/PME）
-- **产品线与在售品牌**：Veeam/VMware/Dell/Sophos（AT Resell CSV）
-- **目标行业与场景**：私营 TPE/PME
-- **团队与规模**：中型（3 城）
-- **决策链与对接人**：ec@ 商务口
-- **技术与认证**：Qualiopi 培训（CSV）
-- **采购与供应链信号**：托管随单
-- **近期动态与线索**：—
-- **与我方契合点**：托管现场 value 随单窄位
-- **风险与注意**：品牌散——需问清现供
+- **业务定位**：BLUEBEARSIT SAS(法国 Limonest(里昂北),13 Rue des Aulnes, 69760;**SIREN 840859524;2018-07-06 创;20-49 人;IT 咨询(6202A)**;**2024-03 换代窗:Président Mikaël Baduel 退→Eric Stève Charpentier(1982 生,前 DG)接任 Président(BODACC+verif/kompass 三源);实控受益人: Charpentier+Baduel+Sylvain Di Paola+1**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：法国里昂 2018 创 IT 咨询谱(2024 换代窗)
+- **团队与规模**：20-49 人;2018 创
+- **决策链与对接人**：**Eric Stève Charpentier(Président(2024-03-18 接任;BODACC O),official-self-published·谱/leads-only(直发需 opt-in));Mikaël Baduel(前 Président/实控受益人(换代谱注),official-self-published·谱/leads-only(直发需 opt-in));Nadjib Charef(Partner/Service Delivery Manager,leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 21 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Eric Charpentier 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -175,10 +186,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对口
-- **W**：散
-- **O**：随单
-- **T**：—
+- **S**：换代窗+BODACC O 级谱
+- **W**：咨询铺谱
+- **O**：Charpentier 直达位
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -201,7 +212,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -210,8 +221,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 现供
-  - [ ] 决策权
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -223,16 +234,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Bonjour BlueBearsIT team,
+Monsieur Charpentier,
 
-Infogérance for TPE and PME across Lyon, Grenoble and Annecy - your engineers live inside customer networks every week, and every managed site that adds cameras or APs silently consumes a PoE switch.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a documented value unit for the managed sites you run.
-
-One question: when a managed TPE/PME site needs a new switch, what do you supply today - and would a value PoE unit earn a test?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

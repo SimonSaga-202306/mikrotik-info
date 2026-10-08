@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Nexus Networks（**马耳他**——roster/CSV 国家更正注：原标'西班牙'，实为马耳他小团）:'Vendor Independent'（不带厂商销售目标）全栈网络店——cabling/routing/**switching**/wireless/security/DC/cloud/automation/voice;品牌墙 Cambium/Ubiquiti/Aruba/Dell/Cisco/Netgear/**MikroTik(mt 徽标）**/3CX;客户=coworking/酒店娱乐/government/fintech/在线体育(iGaming)公司；CSV=**马耳他唯一 MikroTik 认证顾问 Johann（MTCSWE+MTCTCE，10 年）**，服务酒店/在线游戏/零售/制造
-- 【推断】小型顾问+集成双身份：vendor-independent+cost-effective 宣言=同频；iGaming/酒店/零售私营段真实；government 露头=守界句必压
-- 【假设】训练/顾问通道判 CONSULT-OEM（私营段同频窄针，政府守界句）
+- 【事实】Nexus Technology:NEXUS TECHNOLOGY S.A.C(**秘鲁 Lima(Miraflores),Ricardo Palma 693;RUC 20267178331;1995-05-11 创 31 年;增值分销大户(VAD)**;**roster 档标西班牙=国别差旗更正:官网/登记全为秘鲁利马**;**GERENTE GENERAL: Guillermo Alberto Nuñez Danjoy(1996-05-18 起 30 年;PAD Univ. Piura;gnunez@nexus.com.pe)**;**Carlos Miguel González Uria 创始 Socio(1995)/Administration Director**;NetScout/Ruijie 分约引语件;Ernesto Noriega gerente de línea networking(件链口,enoriega@nexus.com.pe)
+- 【推断】R66 第 21 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,18 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：ventas@nexus.com.pe（官方商城联系页；另有ventastrujillo@/ventasarequipa@）；+(511) 617 0400；国别待人工确认（elioplus标Peru，本行原为西班牙）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Guillermo Alberto Nuñez Danjoy**(Gerente General(1996 起 30 年;登记+LI+引语件三源))— datosperu 登记件+LI 自署 〔已有(公司官方公开件/登记册自曝);源:https://www.datosperu.org/empresa-nexus-technology-sac-20267178331.php〕
+  - **Carlos Miguel González Uria**(创始 Socio/Administration Director(1995 起))— datosperu/D&B 件 〔已有(公司官方公开件/登记册自曝);源:https://www.dnb.com/business-directory/company-profiles.nexus_technology_sac.a29a290595a35170b1827ad07d96ca84.html〕
+  - **Ernesto Noriega**(Gerente de línea networking(网络品线总=件链 KPI))— playmarketing 专访件 〔已有(公司官方公开件/登记册自曝);源:https://playmarketing.net/nexus-enriquece-su-portafolio-con-ruijie/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Guillermo Alberto Nuñez Danjoy | Gerente General(1996 起 30 年;登记+LI+引语件三源) | datosperu 登记件+LI 自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.datosperu.org/empresa-nexus-technology-sac-20267178331.php |
+| Carlos Miguel González Uria | 创始 Socio/Administration Director(1995 起) | datosperu/D&B 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.dnb.com/business-directory/company-profiles.nexus_technology_sac.a29a290595a35170b1827ad07d96ca84.html |
+| Ernesto Noriega | Gerente de línea networking(网络品线总=件链 KPI) | playmarketing 专访件 | official-self-published·谱/leads-only(直发需 opt-in) | https://playmarketing.net/nexus-enriquece-su-portafolio-con-ruijie/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +142,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第32批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第21波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：MT 小型全栈（官网+CSV 双核）
-- **②芯片/型号**：MikroTik/多牌
-- **③KP 深挖**：hello@/johann@
-- **④Saga 对标**：CONSULT-OEM（$180 锚点一致）
-- **⑤在乎与偏好**：厂商独立/cost-effectiveness 同频
+- **①背景再核**：NEXUS TECHNOLOGY S.A.C(**秘鲁 Lima(Miraflores),Ricardo Palma 693;RUC 20267178331;1995-05-11 创 31 年;增值分销大户(VAD)**;**roster 档标西班牙=国别差旗更正:官网/登记全为秘鲁利马**;**GERENTE GENERAL: Guillermo Alberto Nuñez Danjoy(1996-05-18 起 30 年;PAD Univ. Piura;gnunez@nexus.com.pe)**;**Carlos Miguel González Uria 创始 Socio(1995)/Administration Director**;NetScout/Ruijie 分约引语件;Ernesto Noriega gerente de línea networking(件链口,enoriega@nexus.com.pe)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Guillermo Alberto Nuñez Danjoy(Gerente General(1996 起 30 年;登记+LI+引语件三源),official-self-published·谱/leads-only(直发需 opt-in));Carlos Miguel González Uria(创始 Socio/Administration Director(1995 起),official-self-published·谱/leads-only(直发需 opt-in));Ernesto Noriega(Gerente de línea networking(网络品线总=件链 KPI),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：31 年 GM 稳谱+品线总直邮
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Vendor Independent——we are not bound by any vendors…customers: coworking/hospitality/government/fintech/online sports；CSV: 马耳他唯一 MikroTik 顾问（MTCSWE）
-  > Vendor Independent——we are not bound by any vendors…customers: coworking/hospitality/government/fintech/online sports；CSV: 马耳他唯一 MikroTik 顾问（MTCSWE）
-  > 来源：https://www.nexus.com.mt
+- **【决策链与对接人】**GERENTE GENERAL: NUÑEZ DANJOY GUILLERMO ALBERTO(desde 18/05/1996);SOCIO: GONZALEZ URIA CARLOS MIGUEL(02/06/1995)(datosperu 登记件);「Guillermo Nuñez gerente general de Nexus Technology」(NetScout 2016/Ruijie 2022 件引语)
+  > GERENTE GENERAL: NUÑEZ DANJOY GUILLERMO ALBERTO(desde 18/05/1996);SOCIO: GONZALEZ URIA CARLOS MIGUEL(02/06/1995)(datosperu 登记件);「Guillermo Nuñez gerente general de Nexus Technology」(NetScout 2016/Ruijie 2022 件引语)
+  > 来源：https://www.datosperu.org/empresa-nexus-technology-sac-20267178331.php
+- **【联系方式与基础画像】**RUC 20267178331;Av. Ricardo Palma 693, Lima(Miraflores);inicio 11/05/1995;Sociedad Anónima Cerrada;estado ACTIVO;**roster 档标西班牙=国别差旗,更正为秘鲁利马主谱(datosperu/dnb 件)**
+  > RUC 20267178331;Av. Ricardo Palma 693, Lima(Miraflores);inicio 11/05/1995;Sociedad Anónima Cerrada;estado ACTIVO;**roster 档标西班牙=国别差旗,更正为秘鲁利马主谱(datosperu/dnb 件)**
+  > 来源：https://www.dnb.com/business-directory/company-profiles.nexus_technology_sac.a29a290595a35170b1827ad07d96ca84.html
+- **【近期动态与线索】**NetScout 全国代理(2016)+Ruijie Networks 组合强化(2022);enoriega@nexus.com.pe networking 品线直邮(americasistemas/playmarketing 件)
+  > NetScout 全国代理(2016)+Ruijie Networks 组合强化(2022);enoriega@nexus.com.pe networking 品线直邮(americasistemas/playmarketing 件)
+  > 来源：https://playmarketing.net/nexus-enriquece-su-portafolio-con-ruijie/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：马耳他小型全栈网络店
-- **产品线与在售品牌**：Cambium/Ubiquiti/Aruba/Cisco/Netgear/MikroTik(mt)
-- **目标行业与场景**：iGaming/酒店/零售/制造（government=守界注）
-- **团队与规模**：小团
-- **决策链与对接人**：hello@/johann@ 具名
-- **技术与认证**：MTCSWE/MTCTCE（CSV：全国唯一顾问）
-- **采购与供应链信号**：顾问+随件窄口
-- **近期动态与线索**：—
-- **与我方契合点**：顾问诚实角窄针（CONSULT-OEM）
-- **风险与注意**：政府客户守界句必压
+- **业务定位**：NEXUS TECHNOLOGY S.A.C(**秘鲁 Lima(Miraflores),Ricardo Palma 693;RUC 20267178331;1995-05-11 创 31 年;增值分销大户(VAD)**;**roster 档标西班牙=国别差旗更正:官网/登记全为秘鲁利马**;**GERENTE GENERAL: Guillermo Alberto Nuñez Danjoy(1996-05-18 起 30 年;PAD Univ. Piura;gnunez@nexus.com.pe)**;**Carlos Miguel González Uria 创始 Socio(1995)/Administration Director**;NetScout/Ruijie 分约引语件;Ernesto Noriega gerente de línea networking(件链口,enoriega@nexus.com.pe)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：秘鲁利马 31 年 VAD 分销大户
+- **团队与规模**：中型谱;1995 创
+- **决策链与对接人**：**Guillermo Alberto Nuñez Danjoy(Gerente General(1996 起 30 年;登记+LI+引语件三源),official-self-published·谱/leads-only(直发需 opt-in));Carlos Miguel González Uria(创始 Socio/Administration Director(1995 起),official-self-published·谱/leads-only(直发需 opt-in));Ernesto Noriega(Gerente de línea networking(网络品线总=件链 KPI),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 21 波谱名牌(国别差旗更正:秘鲁)
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Nuñez+Noriega 网络品线位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +188,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：同频
-- **W**：小
-- **O**：私营
-- **T**：边界
+- **S**：31 年 GM 稳谱+品线总直邮
+- **W**：国别差旗已更正
+- **O**：Nuñez+Noriega 品线直达位
+- **T**：一线链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +210,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,8 +219,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 对照机制
-  - [ ] 占比
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -218,16 +232,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Johann, hi Nexus team,
+Estimado Sr. Núñez,
 
-Vendor-independent full-stack network engineers in Malta, with cost-effectiveness spelled out on the homepage - that philosophy we can only respect. Two honest notes: we build PoE switches, so your RouterOS practice stays untouched, and your government work stays on its established paths.
-
-Where we might serve: a documented 24-port Gigabit PoE switch (280W, 802.3af/at; reference $180 USD EXW, 2026-09-29) for your hospitality, retail, manufacturing and iGaming clients where the access tier is decided on function and price.
-
-One question: when you pick switches for a private-sector project, what does the shortlist process look like?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

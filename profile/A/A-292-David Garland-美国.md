@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Panora Fiber（美国 Iowa 乡村合作系：Panora/Guthrie 两区）：2001 年首家光纤 ISP 先行者，Cornerstone Group 旗下，农村社区型宽——FastFiber 远程支持+流媒体门户；CSV=David Garland MTCINE 顾问关联；唯一箱=billing@
-- 【推断】农村光纤局：POP/局端有实机柜——但 billing 箱触及度低，低密一针；顾问关联人在背后
-- 【假设】边缘局端/商用客户现场的窄位一针
+- 【事实】David Garland:David Garland(美国／Panora, IA;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://panorafiber.com;panorafiber.com=爱荷华乡区光纤铺谱(Panora Fiber/局端件链))
+- 【推断】R66 第 21 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -78,10 +78,14 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：billing@panorafiber.com（官网联系页正文；页面注明非24/7监控，属账单专用弱通道）；原入口：641-755-3037
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **David Garland**(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人))— 档谱+档站自署 〔已有(公司官方公开件/登记册自曝);源:https://panorafiber.com〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| David Garland | MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人) | 档谱+档站自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://panorafiber.com |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -138,32 +142,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第30批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第21波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：US 农村光纤局（官网+CSV 双核）
-- **②芯片/型号**：自有网
-- **③KP 深挖**：billing@（唯一，宽注）
-- **④Saga 对标**：低密针（$180 锚点一致）
-- **⑤在乎与偏好**：本地/社区信任
+- **①背景再核**：David Garland(美国／Panora, IA;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://panorafiber.com;panorafiber.com=爱荷华乡区光纤铺谱(Panora Fiber/局端件链))
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**David Garland(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：MTCSWE/交换认证谱=对口窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Panora Fiber——first fiber customer December 2001;rural communities;Cornerstone Group；电话 Panora/Guthrie 双号
-  > Panora Fiber——first fiber customer December 2001;rural communities;Cornerstone Group；电话 Panora/Guthrie 双号
+- **【联系方式与基础画像】**国家/城市: %s;网站: %s;类型: 集成商/顾问(MikroTik 认证)(档案基础画像行=事实)
+  > 国家/城市: %s;网站: %s;类型: 集成商/顾问(MikroTik 认证)(档案基础画像行=事实)
+  > 来源：https://panorafiber.com
+- **【近期动态与线索】**档定首触角: 局端/商用现场窄位低密针($180 锚点一致);**billing@ 唯一箱宽注**
+  > 档定首触角: 局端/商用现场窄位低密针($180 锚点一致);**billing@ 唯一箱宽注**
+  > 来源：https://panorafiber.com
+- **【目标行业与场景】**档定值得跟: 【人工定级】A——自动规则已跳过(档注)
+  > 档定值得跟: 【人工定级】A——自动规则已跳过(档注)
   > 来源：https://panorafiber.com
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：美国 Iowa 农村光纤局
-- **产品线与在售品牌**：自有网
-- **目标行业与场景**：农村社区/商客
-- **团队与规模**：乡村局团队
-- **决策链与对接人**：billing@ 唯一箱（宽注）
-- **技术与认证**：MTCINE 顾问关联（CSV）
-- **采购与供应链信号**：自用件
-- **近期动态与线索**：2001 先行叙事
-- **与我方契合点**：局端/商用现场窄位低密针
-- **风险与注意**：billing 箱宽窄已标注
+- **业务定位**：David Garland(美国／Panora, IA;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://panorafiber.com;panorafiber.com=爱荷华乡区光纤铺谱(Panora Fiber/局端件链))
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：培训交付谱(MTCSWE 谱链)
+- **团队与规模**：单铺/工作室谱
+- **决策链与对接人**：**David Garland(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 21 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Dear David,(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -178,10 +188,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：口碑
-- **W**：触及窄
-- **O**：局端
-- **T**：集团
+- **S**：MTCSWE/交换认证谱=对口窗
+- **W**：单铺谱
+- **O**：David Garland 本人直达位
+- **T**：MikroTik 官方课链
 
 ## 触达与风险红线
 
@@ -204,7 +214,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -213,8 +223,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 现供
-  - [ ] 集团匹配
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -226,16 +236,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Panora Fiber team,
+Dear David,
 
-Rural fiber pioneers - first customer lit in December 2001, still investing in Iowa communities. Everyone in this industry knows what sits at the edge of a rural fiber network: cabinets, business service racks, and switches that must just work.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value unit for POP edges and commercial customer sites.
-
-One question: who sources access switching for your network and business customers today?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

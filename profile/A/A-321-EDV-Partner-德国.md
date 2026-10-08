@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】EDV-Partner Ingenieurgesellschaft mbH（德国 Hamburg Große Bahnstraße 33；31 年/1635 客户/25+ 专家）：IT-Audit（ISO27001/NIS2/**KRITIS**）+IT-Sicherheit+Managed Services+Digitalisierung;伙伴墙=**LANCOM PLATINUM + ALLIED TELESIS PLATINUM 双白金**+Swyx/Abbyy/MS/Netwrix 等；（CSV 警：另有 Oberhausen 同名 EDV-Partner 勿合并）
-- 【推断】双白金在墙的成熟 MSP：KRITIS 审计业务=其关键基建客户段守界句；私营 KMU 段二槽窄位
-- 【假设】私营 KMU 托管现场 value 二槽窄针（双白金+KRITIS 守界）
+- 【事实】EDV-Partner:EDV-Partner GmbH(档锚 edvpartner.de→**Hamburg 主体:1995 创;11-50 人;自有 Rechenzentrum;「IT-Lösungen mit System」**;**GF Nikolai Hommola(LI 公司页员工谱)+Sven Meyer(LI 谱)**;**多异体分层注:EDV-Partner GmbH Leonberg(1983 Bernd Peter 创→2021 子 Tobias Peter 70% 接棒=换代谱;HRB251349;域名 edv-partner.de 带横杠)/theorg 示 Oberhausen(Sven Meyer GF)=按档锚域名 edvpartner.de 对位 Hamburg**
+- 【推断】R66 第 21 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,16 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：vertrieb@edvpartner.de（官网伙伴页；AT伙伴页电话+49 40 2714470）；+49 40 271 447-30；注意另有Oberhausen同名EDV-Partner（不合并）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Nikolai Hommola**(Geschäftsführer(LI 公司页员工谱;Hamburg 主体))— linkedin.com/company/edv-partner-hamburg 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://de.linkedin.com/company/edv-partner-hamburg〕
+  - **Tobias Peter**(GF(Leonberg 异体;2021 接棒 70%=分层副注))— viaductus 登记件(异体副注) 〔已有(公司官方公开件/登记册自曝);源:https://www.viaductus.de/firma/DE-B2609-HRB-251349-edv-partner-gmbh-systemhaus-fuer-it-infrastruktur-und-it-sec-leonberg〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Nikolai Hommola | Geschäftsführer(LI 公司页员工谱;Hamburg 主体) | linkedin.com/company/edv-partner-hamburg | leads-only·待 opt-in(LinkedIn/谱面带核) | https://de.linkedin.com/company/edv-partner-hamburg |
+| Tobias Peter | GF(Leonberg 异体;2021 接棒 70%=分层副注) | viaductus 登记件(异体副注) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.viaductus.de/firma/DE-B2609-HRB-251349-edv-partner-gmbh-systemhaus-fuer-it-infrastruktur-und-it-sec-leonberg |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +140,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第33批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第21波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：DE 汉堡 MSP（官网+CSV 双核）
-- **②芯片/型号**：双 Platinum
-- **③KP 深挖**：vertrieb@
-- **④Saga 对标**：二槽窄针（$180 锚点一致，低密）
-- **⑤在乎与偏好**：汉萨商人合规/诚信
+- **①背景再核**：EDV-Partner GmbH(档锚 edvpartner.de→**Hamburg 主体:1995 创;11-50 人;自有 Rechenzentrum;「IT-Lösungen mit System」**;**GF Nikolai Hommola(LI 公司页员工谱)+Sven Meyer(LI 谱)**;**多异体分层注:EDV-Partner GmbH Leonberg(1983 Bernd Peter 创→2021 子 Tobias Peter 70% 接棒=换代谱;HRB251349;域名 edv-partner.de 带横杠)/theorg 示 Oberhausen(Sven Meyer GF)=按档锚域名 edvpartner.de 对位 Hamburg**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Nikolai Hommola(Geschäftsführer(LI 公司页员工谱;Hamburg 主体),leads-only·待 opt-in(LinkedIn/谱面带核));Tobias Peter(GF(Leonberg 异体;2021 接棒 70%=分层副注),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：自有 DC=件链谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【技术与认证】**IT-Audit nach ISO27001/NIS2/KRITIS；Partner: LANCOM Platinum+Allied Telesis Platinum；CSV: 勿与 Oberhausen 同名合并
-  > IT-Audit nach ISO27001/NIS2/KRITIS；Partner: LANCOM Platinum+Allied Telesis Platinum；CSV: 勿与 Oberhausen 同名合并
-  > 来源：https://www.edvpartner.de
+- **【决策链与对接人】**LI 公司页(edv-partner-hamburg): Nikolai Hommola Geschäftsführer bei EDV-Partner GmbH+Sven Meyer+Florian Gebauer+Bernhard Graßhoff;**分层: Leonberg 体 GF Bernd Michael Peter+Tobias Peter(2021 换代;Anteile 70/30)+Sven Geipel Prokurist**
+  > LI 公司页(edv-partner-hamburg): Nikolai Hommola Geschäftsführer bei EDV-Partner GmbH+Sven Meyer+Florian Gebauer+Bernhard Graßhoff;**分层: Leonberg 体 GF Bernd Michael Peter+Tobias Peter(2021 换代;Anteile 70/30)+Sven Geipel Prokurist**
+  > 来源：https://de.linkedin.com/company/edv-partner-hamburg
+- **【联系方式与基础画像】**档锚 www.edvpartner.de;Hamburg;gegründet 1995;11-50 Beschäftigte;eigenes Rechenzentrum;Systemhaus+Ingenieurgesellschaft(LI 件);Leonberg 异体: Dieselstraße 1, 71229 Leonberg, HRB251349(viaductus 件)
+  > 档锚 www.edvpartner.de;Hamburg;gegründet 1995;11-50 Beschäftigte;eigenes Rechenzentrum;Systemhaus+Ingenieurgesellschaft(LI 件);Leonberg 异体: Dieselstraße 1, 71229 Leonberg, HRB251349(viaductus 件)
+  > 来源：https://de.linkedin.com/company/edv-partner-hamburg
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：德国汉堡成熟 MSP（31 年）
-- **产品线与在售品牌**：LANCOM Platinum+AT Platinum
-- **目标行业与场景**：KMU 私营（KRITIS 审计段=守界注）
-- **团队与规模**：25+ 人
-- **决策链与对接人**：vertrieb@ 口
-- **技术与认证**：—
-- **采购与供应链信号**：托管随单
-- **近期动态与线索**：—
-- **与我方契合点**：二槽窄针（双白金+KRITIS 双守界）
-- **风险与注意**：双白金+KRITIS——守界句必压
+- **业务定位**：EDV-Partner GmbH(档锚 edvpartner.de→**Hamburg 主体:1995 创;11-50 人;自有 Rechenzentrum;「IT-Lösungen mit System」**;**GF Nikolai Hommola(LI 公司页员工谱)+Sven Meyer(LI 谱)**;**多异体分层注:EDV-Partner GmbH Leonberg(1983 Bernd Peter 创→2021 子 Tobias Peter 70% 接棒=换代谱;HRB251349;域名 edv-partner.de 带横杠)/theorg 示 Oberhausen(Sven Meyer GF)=按档锚域名 edvpartner.de 对位 Hamburg**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德汉堡 1995 创系统屋(自有 DC)
+- **团队与规模**：11-50 人;1995 创
+- **决策链与对接人**：**Nikolai Hommola(Geschäftsführer(LI 公司页员工谱;Hamburg 主体),leads-only·待 opt-in(LinkedIn/谱面带核));Tobias Peter(GF(Leonberg 异体;2021 接棒 70%=分层副注),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 21 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：GF 位(opt-in 律;异体已分层)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +183,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：成熟
-- **W**：双白金
-- **O**：私营
-- **T**：大牌
+- **S**：自有 DC=件链谱
+- **W**：多异体噪已分层
+- **O**：Hommola GF 位(G 谱)
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +205,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,8 +214,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 替补机制
-  - [ ] 占比
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -218,16 +227,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hallo EDV-Partner team,
+Sehr geehrte Damen und Herren,
 
-Thirty-one years, 1,635 customers, and two Platinum badges side by side - LANCOM and Allied Telesis. Two honest boundary sentences: those Platinum lines keep their place, and anything in your KRITIS audit clientele stays on its certified paths. This is about the private KMU estate only.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value tier for private KMU sites where budget decides.
-
-One question: in the private KMU segment, does a documented value PoE tier exist beside your flagship lines?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

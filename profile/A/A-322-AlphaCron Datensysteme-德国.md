@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】AlphaCron Datensysteme（德国 Apfelstädt/Erfurt 一带；Inhaber Marc Pauls）：IT 系统屋+**自有数据中心+DSL/Funknetz（自有接入网运营）**+24/7 监控+汽车厂系统支持（Volvo/VW…）+LWL 熔接+视频监控+VoIP；CSV=Allied Telesis Resell
-- 【推断】系统屋兼接入网运营+自有 DC：其 Funknetz/DC/监控线自身消耗交换件+其客户现场件双线——中密窄位
-- 【假设】自有 DC/接入与客户现场的 value 件双角
+- 【事实】AlphaCron Datensysteme:AlphaCron Datensysteme(德国 Apfelstädt(图林根),Wandersleber Straße 1a, 99192;**IT-Systemhaus+自建 Rechenzentrum,全国服务;AlphaFax.net 产品谱**;**Inhaber: Marc Pauls(官网 Impressum O!);Uwe Pauls(RIPE 谱)**;**自营 AS28748 ALPHACRON-AS+滥用箱 abuse@alphacron.de=ISP 级自营网谱!Funknetz 无线网价单 PDF 谱=乡区无线工程**
+- 【推断】R66 第 21 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,16 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：contact@alphacron.de（官网Impressum/隐私页）；036202/759994；Inhaber Marc Pauls；网络记录另有abuse@alphacron.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Marc Pauls**(Inhaber(业主;官网 Impressum+RIPE 双源))— alphacron.de Impressum(O) 〔已有(公司官方公开件/登记册自曝);源:https://www.alphacron.de/〕
+  - **Uwe Pauls**(联络具名(RIPE 谱;Pauls 族谱))— ipshu AS28748 件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://de.ipshu.com/asn/28748〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Marc Pauls | Inhaber(业主;官网 Impressum+RIPE 双源) | alphacron.de Impressum(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.alphacron.de/ |
+| Uwe Pauls | 联络具名(RIPE 谱;Pauls 族谱) | ipshu AS28748 件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://de.ipshu.com/asn/28748 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +140,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第33批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第21波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：DE 系统屋+运营（官网一手核）
-- **②芯片/型号**：AT Resell
-- **③KP 深挖**：contact@（Pauls）
-- **④Saga 对标**：双角（$180 锚点一致）
-- **⑤在乎与偏好**：小而全/光纤工艺
+- **①背景再核**：AlphaCron Datensysteme(德国 Apfelstädt(图林根),Wandersleber Straße 1a, 99192;**IT-Systemhaus+自建 Rechenzentrum,全国服务;AlphaFax.net 产品谱**;**Inhaber: Marc Pauls(官网 Impressum O!);Uwe Pauls(RIPE 谱)**;**自营 AS28748 ALPHACRON-AS+滥用箱 abuse@alphacron.de=ISP 级自营网谱!Funknetz 无线网价单 PDF 谱=乡区无线工程**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Marc Pauls(Inhaber(业主;官网 Impressum+RIPE 双源),official-self-published·谱/leads-only(直发需 opt-in));Uwe Pauls(联络具名(RIPE 谱;Pauls 族谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：自营 AS+Funknetz=工程强契
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**IT-Systemhaus mit angeschlossenem Rechenzentrum…DSL Zugänge/Standortvernetzung/netzwerkbasierte Videoüberwachung/LWL Spleißarbeiten；Inh. Marc Pauls
-  > IT-Systemhaus mit angeschlossenem Rechenzentrum…DSL Zugänge/Standortvernetzung/netzwerkbasierte Videoüberwachung/LWL Spleißarbeiten；Inh. Marc Pauls
-  > 来源：https://www.alphacron.de
+- **【决策链与对接人】**Impressum/Kontakt: AlphaCron Datensysteme **Inh. Marc Pauls**, Wandersleber Straße 1a, 99192 Apfelstädt(官网自署);RIPE AS28748: Marc Pauls(AlphaCron Datensysteme)+Uwe Pauls
+  > Impressum/Kontakt: AlphaCron Datensysteme **Inh. Marc Pauls**, Wandersleber Straße 1a, 99192 Apfelstädt(官网自署);RIPE AS28748: Marc Pauls(AlphaCron Datensysteme)+Uwe Pauls
+  > 来源：https://www.alphacron.de/
+- **【联系方式与基础画像】**Tel. 036202/759994;contact@alphacron.de;**AS28748 ALPHACRON-AS 自营自治域**;Funknetz-Dokumente(preisliste-funknetz.pdf)=无线网工程谱;IT-Systemhaus mit angeschlossenem Rechenzentrum(官网/ipshu 件)
+  > Tel. 036202/759994;contact@alphacron.de;**AS28748 ALPHACRON-AS 自营自治域**;Funknetz-Dokumente(preisliste-funknetz.pdf)=无线网工程谱;IT-Systemhaus mit angeschlossenem Rechenzentrum(官网/ipshu 件)
+  > 来源：https://de.ipshu.com/asn/28748
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：德国图林根系统屋（自有 DC+接入）
-- **产品线与在售品牌**：AT Resell（CSV）+多牌
-- **目标行业与场景**：区域企业+汽车配套
-- **团队与规模**：小团
-- **决策链与对接人**：contact@（Marc Pauls 具名）
-- **技术与认证**：—
-- **采购与供应链信号**：自用件+随单
-- **近期动态与线索**：DSL/Funk 网 IPv6 native
-- **与我方契合点**：自用+客户双角窄位
-- **风险与注意**：个体运营——低中密度
+- **业务定位**：AlphaCron Datensysteme(德国 Apfelstädt(图林根),Wandersleber Straße 1a, 99192;**IT-Systemhaus+自建 Rechenzentrum,全国服务;AlphaFax.net 产品谱**;**Inhaber: Marc Pauls(官网 Impressum O!);Uwe Pauls(RIPE 谱)**;**自营 AS28748 ALPHACRON-AS+滥用箱 abuse@alphacron.de=ISP 级自营网谱!Funknetz 无线网价单 PDF 谱=乡区无线工程**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德图林根系统屋+自营 AS 乡区无线谱
+- **团队与规模**：小铺谱;自营 ISP 级网
+- **决策链与对接人**：**Marc Pauls(Inhaber(业主;官网 Impressum+RIPE 双源),official-self-published·谱/leads-only(直发需 opt-in));Uwe Pauls(联络具名(RIPE 谱;Pauls 族谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 21 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Marc Pauls 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +183,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：双角
-- **W**：小
-- **O**：双路
-- **T**：—
+- **S**：自营 AS+Funknetz=工程强契
+- **W**：小实体谱
+- **O**：M. Pauls 直达位
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +205,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,8 +214,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 现供
-  - [ ] 体况
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -218,16 +227,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hallo AlphaCron team,
+Guten Tag Herr Pauls,
 
-A system house with its own datacenter, DSL/Funk access lines, LWL splicing and network video on top - you are one of the few small houses that both operates infrastructure and installs it.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - for your own racks and access nodes, and for customer sites alongside.
-
-One question: where does switching for your own infrastructure and customer installs come from today?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -47,9 +47,9 @@ updated: 2026-10-04
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Fikes Media（美国 Silsbee TX）:'It's about function, not vendors' 厂商中立叙事——网络规划/数据中心网络（VXLAN/ToR）/Open Voice/咨询（官网路径直接叫 **/mikrotik-consulting**）;行业页首列地方政府（图书馆/市政/警局）→K12 与高校→SMB;CSV=MikroTik 官方顾问名录+认证培训伙伴双收录，20+ 年教育/公共网络经验
-- 【推断】MikroTik 顾问+培训双身份的厂商中立咨询屋——CONSULT-OEM 训练/顾问通道判；公共段（市政/警局/公立校）守界句必压
-- 【假设】顾问对照单元窄针（诚实角，公共段守界）
+- 【事实】Christopher Fikes:Christopher Fikes(美国／Silsbee, TX;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://www.fikesmedia.com;fikesmedia.com=德州东部顾问铺谱;**地方政府/K12 守界句**;A-311 供位旧差(STC-424 vs CONSULT-OEM)→本波 push≡p1 归位)
+- 【推断】R66 第 21 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -79,10 +79,14 @@ updated: 2026-10-04
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：sales@fikesmedia.com（官网联系页Sales；支持support@fikesmedia.com）；+1 409.877.4220（销售Option 1/支持Option 2）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Christopher Fikes**(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人))— 档谱+档站自署 〔已有(公司官方公开件/登记册自曝);源:https://www.fikesmedia.com〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Christopher Fikes | MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人) | 档谱+档站自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.fikesmedia.com |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -139,32 +143,38 @@ updated: 2026-10-04
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第32批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第21波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：US TX MikroTik 顾问双身份（官网+CSV 双核）
-- **②芯片/型号**：MikroTik 生态
-- **③KP 深挖**：sales@
-- **④Saga 对标**：CONSULT-OEM（$180 锚点一致）
-- **⑤在乎与偏好**：function-first 中立/降本
+- **①背景再核**：Christopher Fikes(美国／Silsbee, TX;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://www.fikesmedia.com;fikesmedia.com=德州东部顾问铺谱;**地方政府/K12 守界句**;A-311 供位旧差(STC-424 vs CONSULT-OEM)→本波 push≡p1 归位)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Christopher Fikes(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：MTCSWE/交换认证谱=对口窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**It's about function, not vendors——fikesmedia.com/mikrotik-consulting；行业： Local Government/K-12/SMB；CSV: MikroTik 顾问+培训伙伴
-  > It's about function, not vendors——fikesmedia.com/mikrotik-consulting；行业： Local Government/K-12/SMB；CSV: MikroTik 顾问+培训伙伴
+- **【联系方式与基础画像】**国家/城市: %s;网站: %s;类型: 集成商/顾问(MikroTik 认证)(档案基础画像行=事实)
+  > 国家/城市: %s;网站: %s;类型: 集成商/顾问(MikroTik 认证)(档案基础画像行=事实)
+  > 来源：https://www.fikesmedia.com
+- **【近期动态与线索】**档定首触角: 顾问对照单元($180 锚点一致);**地方政府/K12 守界句**
+  > 档定首触角: 顾问对照单元($180 锚点一致);**地方政府/K12 守界句**
+  > 来源：https://www.fikesmedia.com
+- **【目标行业与场景】**档定值得跟: 有明确交换/供电需求(交换专长 MTCSWE),且有具体人直联
+  > 档定值得跟: 有明确交换/供电需求(交换专长 MTCSWE),且有具体人直联
   > 来源：https://www.fikesmedia.com
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：美国 TX MikroTik 顾问咨询屋
-- **产品线与在售品牌**：厂商中立（MikroTik 生态）
-- **目标行业与场景**：SMB/私营（地方政府/K12=守界注）
-- **团队与规模**：个体顾问
-- **决策链与对接人**：sales@ 口
-- **技术与认证**：MikroTik 顾问+培训双收录（CSV）
-- **采购与供应链信号**：顾问随件窄口
-- **近期动态与线索**：—
-- **与我方契合点**：训练通道判（CONSULT-OEM）
-- **风险与注意**：公共段露——守界句必压
+- **业务定位**：Christopher Fikes(美国／Silsbee, TX;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://www.fikesmedia.com;fikesmedia.com=德州东部顾问铺谱;**地方政府/K12 守界句**;A-311 供位旧差(STC-424 vs CONSULT-OEM)→本波 push≡p1 归位)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：培训交付谱(MTCSWE 谱链)
+- **团队与规模**：单铺/工作室谱
+- **决策链与对接人**：**Christopher Fikes(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 21 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Dear Chris,(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -179,10 +189,10 @@ updated: 2026-10-04
 
 ## SWOT
 
-- **S**：同频
-- **W**：公共
-- **O**：对照
-- **T**：边界
+- **S**：MTCSWE/交换认证谱=对口窗
+- **W**：单铺谱
+- **O**：Christopher Fikes 本人直达位
+- **T**：MikroTik 官方课链
 
 ## 触达与风险红线
 
@@ -205,7 +215,7 @@ updated: 2026-10-04
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -214,8 +224,8 @@ updated: 2026-10-04
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 对照机制
-  - [ ] 公共占比
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -227,16 +237,12 @@ updated: 2026-10-04
 **主题**：PoE switching for your projects
 
 ```text
-Hi Christopher,
+Dear Chris,
 
-'It's about function, not vendors' - and a consulting page literally named /mikrotik-consulting. Two honest notes before anything else: we build PoE switches, so your RouterOS world stays untouched, and your public-sector engagements (city, police, K12) stay on their established paths.
-
-Where we might serve: a documented engineering-grade 24-port Gigabit PoE switch (280W, 802.3af/at; reference $180 USD EXW, 2026-09-29) as a comparison candidate for the access-switching layer of private-sector designs.
-
-One question: when your functional comparisons shortlist access switches, what does a documented value candidate have to show to be considered?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

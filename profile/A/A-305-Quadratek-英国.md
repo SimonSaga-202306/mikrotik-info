@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Quadratek（英国，since 1997 基础设施专商）：结构化布线/光纤/无线/4G-5G/AV/机电+IT 支持+人才条线；官网案例墙直白列 **RMAS 军事学院教室升级、MoD 国防部托管 IT 服务、MoD Chicksands 创新套件**（同墙另有自然史博物馆/NPL 国家物理实验室/西敏公学/温布尔登学院）
-- 【推断】防务段（RMAS/MoD）在官网案例核心——参照批15国防红线先例：英防务链条为出口管制+密级环境，外资网络件无现实通道
-- 【假设】纪律建档不出信（红线段核心身份，参照 A-145 dainox/A-139 ARCHE 族先例）
+- 【事实】Quadratek:Quadratek(=PH15 Ventures Ltd)(英国 Hartley Wintney(Hampshire),Taplins Court Unit 6, Church Lane, RG27 8XU;**1997 创 29 年;51-200 人;IT 基建(结构化布线/网安/托管)**;**「A Defence supplier of 20+ years」官网 legal 页自署=军防守界加厚!**;**p1=STC-28DGGPM 供位谱(28 口)**;Jason Underhill President(zoominfo 目录谱 G)
+- 【推断】R66 第 21 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,14 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@quadratek.net（官网联系页正文；法务候选legal@quadratek.net）；+44 (0)8450 740 530
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Jason Underhill**(President(zoominfo 目录谱))— zoominfo 目录件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.zoominfo.com/pic/quadratek/31769135〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Jason Underhill | President(zoominfo 目录谱) | zoominfo 目录件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.zoominfo.com/pic/quadratek/31769135 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +138,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第31批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第21波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：官网案例墙自述 Managed IT Service for MoD/RMAS 军事学院教室升级/MoD Chicksands Innovation Suite（2026-09-29 取证）；CSV 9-27 注母司 PH15 Ventures 防务供应商 20+ 年
-- **②芯片/型号**：—
-- **③KP 深挖**：—
-- **④Saga 对标**：红线判例对照
-- **⑤在乎与偏好**：—
+- **①背景再核**：Quadratek(=PH15 Ventures Ltd)(英国 Hartley Wintney(Hampshire),Taplins Court Unit 6, Church Lane, RG27 8XU;**1997 创 29 年;51-200 人;IT 基建(结构化布线/网安/托管)**;**「A Defence supplier of 20+ years」官网 legal 页自署=军防守界加厚!**;**p1=STC-28DGGPM 供位谱(28 口)**;Jason Underhill President(zoominfo 目录谱 G)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Jason Underhill(President(zoominfo 目录谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：军防 20+ 年=壁垒谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Quadratek（英国，since 1997 基础设施专商）：结构化布线/光纤/无线/4G-5G/AV/机电+IT 支持+人才条线；官网案例墙直白列 **RMAS 军事学院教室升级、MoD 国防部托管 IT 服务、MoD Chicksands 创新套件**（同墙另有自然史博物馆/NPL 国家物理实验室/西敏公学/温布尔登学院）
-  > Quadratek（英国，since 1997 基础设施专商）：结构化布线/光纤/无线/4G-5G/AV/机电+IT 支持+人才条线；官网案例墙直白列 **RMAS 军事学院教室升级、MoD 国防部托管 IT 服务、MoD Chicksands 创新套件**（同墙另有自然史博物馆/NPL 国家物理实验室/西敏公学/温布尔登学院）
-  > 来源：https://quadratek.net
+- **【联系方式与基础画像】**Site owned by **PH15 Ventures Ltd**;Taplins Court Unit 6, Hartley Wintney RG27 8XU;**A Defence supplier of 20+ years…employed Veterans and Reservists**(官网 legal 页自署)
+  > Site owned by **PH15 Ventures Ltd**;Taplins Court Unit 6, Hartley Wintney RG27 8XU;**A Defence supplier of 20+ years…employed Veterans and Reservists**(官网 legal 页自署)
+  > 来源：https://quadratek.net/legal/
+- **【近期动态与线索】**zoominfo: 51-200 employees;structured cabling/cybersecurity/managed services since 1997;defence/government/enterprise 客户谱;Jason Underhill President
+  > zoominfo: 51-200 employees;structured cabling/cybersecurity/managed services since 1997;defence/government/enterprise 客户谱;Jason Underhill President
+  > 来源：https://www.zoominfo.com/pic/quadratek/31769135
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：红线段技术集成（不涉），仅建档
-- **产品线与在售品牌**：—
-- **目标行业与场景**：—
-- **团队与规模**：—
-- **决策链与对接人**：—
-- **技术与认证**：—
-- **采购与供应链信号**：—
-- **近期动态与线索**：—
-- **与我方契合点**：红线：不接触
-- **风险与注意**：国防/关键基建安全环境
+- **业务定位**：Quadratek(=PH15 Ventures Ltd)(英国 Hartley Wintney(Hampshire),Taplins Court Unit 6, Church Lane, RG27 8XU;**1997 创 29 年;51-200 人;IT 基建(结构化布线/网安/托管)**;**「A Defence supplier of 20+ years」官网 legal 页自署=军防守界加厚!**;**p1=STC-28DGGPM 供位谱(28 口)**;Jason Underhill President(zoominfo 目录谱 G)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：英汉普郡军防系 IT 基建屋(守界加厚)
+- **团队与规模**：51-200 人;1997 创
+- **决策链与对接人**：**Jason Underhill(President(zoominfo 目录谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 21 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Underhill 位(opt-in 律;**军防守界:24 口二轨窄针,不触军段**)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +181,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：—
-- **W**：红线
-- **O**：0
-- **T**：—
+- **S**：军防 20+ 年=壁垒谱
+- **W**：**军防/KRITIS 最高守界**
+- **O**：供位 28D 谱,24 口二轨切入
+- **T**：军防链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +203,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,7 +212,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] —
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -217,7 +225,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-（不出信——红线段身份核心。动作：仅建档与 DNS/证据核验。判定依据：官网案例墙自述 Managed IT Service for MoD/RMAS 军事学院教室升级/MoD Chicksands Innovation Suite（2026-09-29 取证）；CSV 9-27 注母司 PH15 Ventures 防务供应商 20+ 年。）
+Dear Mr Underhill,
+
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+
+Best regards,
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

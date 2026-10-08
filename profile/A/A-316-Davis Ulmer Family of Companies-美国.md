@@ -48,9 +48,9 @@ updated: 2026-10-07
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】The Davis-Ulmer Family of Companies（美国，East Syracuse NY/Fargo ND 等分支）：**生命安防集团——消防（报警/喷淋/typhoon 综合）+安防服务+AED 托管**；官网联系=表单（须选分支）+24/7 电话，无公开邮箱（CSV=Allied Telesis 名录身份，推断其跨分支安装工程内网与安防链路用件）
-- 【推断】真实身份=消防/安防施工集团（理论上是 PoE 件的采购方而非渠道）——但没可投递邮箱，照 R30 手动 A 先建档供位
-- 【假设】用户补邮箱后启用候选位
+- 【事实】Davis Ulmer Family of Companies:Davis-Ulmer Sprinkler Co Inc(美国 Buffalo, NY 14228,1 Commerce Dr;**1946 创 80 年;265 人;$96.3M;消防喷淋全服务商(喷洒/报警/检测)+Allied 谱 IT 支线**;**三代家族谱+APi Group 2005 收购=集团谱**;**R Steven Ulmer: President(buzzfile;Equilar 史:1972 入司学徒→1988 President→2020 回 APi 安全服务 SVP=已交班注)**;zoominfo 列 Michael Shibrowski President+Wayne Gray+Domenick Serrano Branch Presidents(代际差旗注)
+- 【推断】R66 第 21 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,10 +76,16 @@ updated: 2026-10-07
 - 来源等级：leads-only（R41–R48 联系方式台账口径）
 - **原始联系字段**：+1 315-451-0971（官网Syracuse 24/7电话）；官网通用联系为表单（须选分支）：davisulmer.com/contact-us；未见公开邮箱；本轮保留人工补信息标注
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **R Steven Ulmer**(President(buzzfile;三代家族;Equilar: 已交班 APi SVP 差旗注))— buzzfile/equilar 双源 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.buzzfile.com/business/Davis~Ulmer-Sprinkler-Co-Inc-716-691-3200〕
+  - **Michael Shibrowski**(President(zoominfo 新谱;代际对位))— zoominfo 件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.zoominfo.com/pic/davis-ulmer-sprinkler-co/32738779〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| R Steven Ulmer | President(buzzfile;三代家族;Equilar: 已交班 APi SVP 差旗注) | buzzfile/equilar 双源 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.buzzfile.com/business/Davis~Ulmer-Sprinkler-Co-Inc-716-691-3200 |
+| Michael Shibrowski | President(zoominfo 新谱;代际对位) | zoominfo 件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.zoominfo.com/pic/davis-ulmer-sprinkler-co/32738779 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -136,32 +142,35 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第32批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第21波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://www.davisulmer.com|官网一手：DU Family=life safety services——fire protection and advanced security systems；表单分支选择制
-- **②芯片/型号**：—
-- **③KP 深挖**：—
-- **④Saga 对标**：候选供位（$180 锚点一致）
-- **⑤在乎与偏好**：—
+- **①背景再核**：Davis-Ulmer Sprinkler Co Inc(美国 Buffalo, NY 14228,1 Commerce Dr;**1946 创 80 年;265 人;$96.3M;消防喷淋全服务商(喷洒/报警/检测)+Allied 谱 IT 支线**;**三代家族谱+APi Group 2005 收购=集团谱**;**R Steven Ulmer: President(buzzfile;Equilar 史:1972 入司学徒→1988 President→2020 回 APi 安全服务 SVP=已交班注)**;zoominfo 列 Michael Shibrowski President+Wayne Gray+Domenick Serrano Branch Presidents(代际差旗注)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**R Steven Ulmer(President(buzzfile;三代家族;Equilar: 已交班 APi SVP 差旗注),leads-only·待 opt-in(LinkedIn/谱面带核));Michael Shibrowski(President(zoominfo 新谱;代际对位),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：80 年三代谱+APi 集团靠
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**The Davis-Ulmer Family of Companies（美国，East Syracuse NY/Fargo ND 等分支）：**生命安防集团——消防（报警/喷淋/typhoon 综合）+安防服务+AED 托管**；官网联系=表单（须选分支）+24/7 电话，无公开邮箱（CSV=Allied Telesis 名录身份，推断其跨分支安装工程内网与安防链路用件）
-  > The Davis-Ulmer Family of Companies（美国，East Syracuse NY/Fargo ND 等分支）：**生命安防集团——消防（报警/喷淋/typhoon 综合）+安防服务+AED 托管**；官网联系=表单（须选分支）+24/7 电话，无公开邮箱（CSV=Allied Telesis 名录身份，推断其跨分支安装工程内网与安防链路用件）
-  > 来源：https://www.davisulmer.com|官网一手：DU Family=life safety services——fire protection and advanced security systems；表单分支选择制
+- **【决策链与对接人】**R Steven Ulmer is the President at Davis-Ulmer Sprinkler Co(buzzfile);Equilar 史: Steve joined 1972, president 1988, third-generation family business, **APi Group company since 2005**, 2020 returned as APi SVP safety services;zoominfo: Michael Shibrowski President(差旗注)
+  > R Steven Ulmer is the President at Davis-Ulmer Sprinkler Co(buzzfile);Equilar 史: Steve joined 1972, president 1988, third-generation family business, **APi Group company since 2005**, 2020 returned as APi SVP safety services;zoominfo: Michael Shibrowski President(差旗注)
+  > 来源：https://www.buzzfile.com/business/Davis~Ulmer-Sprinkler-Co-Inc-716-691-3200
+- **【联系方式与基础画像】**1 Commerce Dr, Buffalo NY 14228;(716) 691-3200;founded 1946;265 employees;$96.3M revenue est;fire sprinkler/suppression/alarm 全服务;Buffalo HQ+Rochester(East Syracuse 档案锚双址谱)(buzzfile/leadiq 件)
+  > 1 Commerce Dr, Buffalo NY 14228;(716) 691-3200;founded 1946;265 employees;$96.3M revenue est;fire sprinkler/suppression/alarm 全服务;Buffalo HQ+Rochester(East Syracuse 档案锚双址谱)(buzzfile/leadiq 件)
+  > 来源：https://leadiq.com/c/davis-ulmer-sprinkler-co/5a1d9743230000540085cf01
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：Davis Ulmer Family of Companies
-- **产品线与在售品牌**：—
-- **目标行业与场景**：—
-- **团队与规模**：—
-- **决策链与对接人**：—
-- **技术与认证**：—
-- **采购与供应链信号**：—
-- **近期动态与线索**：—
-- **与我方契合点**：候选供位（待邮箱）
-- **风险与注意**：无接触点
+- **业务定位**：Davis-Ulmer Sprinkler Co Inc(美国 Buffalo, NY 14228,1 Commerce Dr;**1946 创 80 年;265 人;$96.3M;消防喷淋全服务商(喷洒/报警/检测)+Allied 谱 IT 支线**;**三代家族谱+APi Group 2005 收购=集团谱**;**R Steven Ulmer: President(buzzfile;Equilar 史:1972 入司学徒→1988 President→2020 回 APi 安全服务 SVP=已交班注)**;zoominfo 列 Michael Shibrowski President+Wayne Gray+Domenick Serrano Branch Presidents(代际差旗注)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：美纽约州 80 年消防全服集团(APi 系)
+- **团队与规模**：265 人;$96M
+- **决策链与对接人**：**R Steven Ulmer(President(buzzfile;三代家族;Equilar: 已交班 APi SVP 差旗注),leads-only·待 opt-in(LinkedIn/谱面带核));Michael Shibrowski(President(zoominfo 新谱;代际对位),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 21 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：President 位(opt-in 律;集团集采谱;差旗待核)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -176,10 +185,10 @@ updated: 2026-10-07
 
 ## SWOT
 
-- **S**：候选位
-- **W**：无点
-- **O**：补邮箱
-- **T**：—
+- **S**：80 年三代谱+APi 集团靠
+- **W**：消防主业谱(IT 支线窄)
+- **O**：President 位+Alarm&Detection VP 口(待核差旗)
+- **T**：集团审批链
 
 ## 触达与风险红线
 
@@ -198,7 +207,7 @@ updated: 2026-10-07
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ❓ 缺邮箱 |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -207,8 +216,8 @@ updated: 2026-10-07
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 邮箱
-  - [ ] 在营状态
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -220,7 +229,12 @@ updated: 2026-10-07
 **主题**：PoE switching for your projects
 
 ```text
-【建档不出信（参照 A-205/A-212 先例）】无可确认邮箱；触发条件=用户补邮箱→启用 STC-424XGGPM-280W 候选供位。
+Dear Sir or Madam,
+
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+
+Best regards,
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

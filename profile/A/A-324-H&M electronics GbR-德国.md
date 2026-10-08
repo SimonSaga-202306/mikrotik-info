@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】H&M electronics（德国 Dillingen a.d. Donau；30 年通信技术店）：电话系统至 ~600 分机+固网/移动资费+IT 线（**Terra Partner+Securepoint Authorized Reseller**）；墙牌 Unify/Agfeo/Wortmann/Securepoint；门店零售在营；CSV=Allied Telesis Resell（官网实体名 OHG vs CSV 'GbR' 名注）
-- 【推断】区域通信店多牌共存：SMB 电话/网络项目交换件随身——Voice VLAN 叙事可讲；低中密度
-- 【假设】SMB 通信项目随身 value 件（Voice VLAN 角）
+- 【事实】H&M electronics GbR:H&M electronics GbR(德国 Dillingen an der Donau(巴伐利亚),Am Stadtberg 19 / Vorstadtstr. 6, 89407;**30+ 年;通信/安防/IT(程控至 600 门/警报/火警)**;**双个人责任合伙人:Herbert Kuchenbaur(Dipl. Ing (FH))+Marcus Dick(AGB 页 O+Creditreform 双源;USt 127780918)**;联络 thomas.hoffmann@hm-electronics.de 具名
+- 【推断】R66 第 21 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,16 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@hm-electronics.de（官网AGB页Anbieterkennzeichnung）；09071/7925-0；H&M electronics GbR
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Herbert Kuchenbaur**(Gesellschafter(个人责任合伙人;AGB 自署))— hm-electronics.de AGB 页(O) 〔已有(公司官方公开件/登记册自曝);源:https://www.hm-electronics.de/agb/index.html〕
+  - **Marcus Dick**(Gesellschafter(双合伙人))— hm-electronics.de AGB 页(O) 〔已有(公司官方公开件/登记册自曝);源:https://www.hm-electronics.de/agb/index.html〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Herbert Kuchenbaur | Gesellschafter(个人责任合伙人;AGB 自署) | hm-electronics.de AGB 页(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.hm-electronics.de/agb/index.html |
+| Marcus Dick | Gesellschafter(双合伙人) | hm-electronics.de AGB 页(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.hm-electronics.de/agb/index.html |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +140,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第33批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第21波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：DE 区域通信店（官网一手核）
-- **②芯片/型号**：Terra/Securepoint
-- **③KP 深挖**：info@
-- **④Saga 对标**：随身窄位（$180 锚点一致，低密）
-- **⑤在乎与偏好**：门店信誉/本地
+- **①背景再核**：H&M electronics GbR(德国 Dillingen an der Donau(巴伐利亚),Am Stadtberg 19 / Vorstadtstr. 6, 89407;**30+ 年;通信/安防/IT(程控至 600 门/警报/火警)**;**双个人责任合伙人:Herbert Kuchenbaur(Dipl. Ing (FH))+Marcus Dick(AGB 页 O+Creditreform 双源;USt 127780918)**;联络 thomas.hoffmann@hm-electronics.de 具名
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Herbert Kuchenbaur(Gesellschafter(个人责任合伙人;AGB 自署),official-self-published·谱/leads-only(直发需 opt-in));Marcus Dick(Gesellschafter(双合伙人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：双合伙人 AGB 自署=O 直达
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【技术与认证】**Als Terra Partner und Securepoint Authorized Reseller haben wir die komplette Hardware im Programm（官网）
-  > Als Terra Partner und Securepoint Authorized Reseller haben wir die komplette Hardware im Programm（官网）
-  > 来源：https://hm-electronics.de
+- **【决策链与对接人】**Anbieterkennzeichnung: H&M electronics GbR **Herbert Kuchenbaur Dipl. Ing (FH) & Marcus Dick**(AGB 页自署);Creditreform: 2 x persönlich haftender Gesellschafter
+  > Anbieterkennzeichnung: H&M electronics GbR **Herbert Kuchenbaur Dipl. Ing (FH) & Marcus Dick**(AGB 页自署);Creditreform: 2 x persönlich haftender Gesellschafter
+  > 来源：https://www.hm-electronics.de/agb/index.html
+- **【联系方式与基础画像】**Am Stadtberg 19, 89407 Dillingen;09071/7925-0;info@hm-electronics.de;seit mehr als 30 Jahren;Kommunikationstechnik/Sicherheitstechnik/IT;Telefonanlagen bis 600 Nebenstellen(elektriker.org/Creditreform 件)
+  > Am Stadtberg 19, 89407 Dillingen;09071/7925-0;info@hm-electronics.de;seit mehr als 30 Jahren;Kommunikationstechnik/Sicherheitstechnik/IT;Telefonanlagen bis 600 Nebenstellen(elektriker.org/Creditreform 件)
+  > 来源：https://firmeneintrag.creditreform.de/89407/8030038997/HERBERT_KUCHENBAUR_MARCUS_DICK_H_M_ELECTRONICS_GBR
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：德国区域通信技术店（30 年）
-- **产品线与在售品牌**：Terra/Securepoint/Unify/Agfeo（AT CSV）
-- **目标行业与场景**：区域 SMB 电话/IT
-- **团队与规模**：门店微团
-- **决策链与对接人**：info@ 口
-- **技术与认证**：—
-- **采购与供应链信号**：门店断码随件
-- **近期动态与线索**：—
-- **与我方契合点**：SMB 通信项目随身件（Voice VLAN 角）
-- **风险与注意**：实体名 OHG/GbR 名注已落
+- **业务定位**：H&M electronics GbR(德国 Dillingen an der Donau(巴伐利亚),Am Stadtberg 19 / Vorstadtstr. 6, 89407;**30+ 年;通信/安防/IT(程控至 600 门/警报/火警)**;**双个人责任合伙人:Herbert Kuchenbaur(Dipl. Ing (FH))+Marcus Dick(AGB 页 O+Creditreform 双源;USt 127780918)**;联络 thomas.hoffmann@hm-electronics.de 具名
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德巴伐利亚 30+ 年通信安防双合伙铺
+- **团队与规模**：小铺谱
+- **决策链与对接人**：**Herbert Kuchenbaur(Gesellschafter(个人责任合伙人;AGB 自署),official-self-published·谱/leads-only(直发需 opt-in));Marcus Dick(Gesellschafter(双合伙人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 21 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Herbert Kuchenbaur 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +183,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对口
-- **W**：小
-- **O**：随身
-- **T**：大牌
+- **S**：双合伙人 AGB 自署=O 直达
+- **W**：小实体谱
+- **O**：Kuchenbaur/Dick 直达位
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +205,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,8 +214,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 现供
-  - [ ] IT 负责人
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -218,16 +227,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hallo H&M electronics team,
+Guten Tag Herr Kuchenbaur,
 
-Thirty years of communication technology in Dillingen - phone systems up to 600 extensions, and an IT side carrying Terra and Securepoint hardware. Where IP telephony enters a site, Voice VLANs and PoE follow.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice-VLAN ready, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value unit for the SMB phone-plus-network jobs you install.
-
-One question: when a phone-and-network project needs switching, what do you supply today?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
