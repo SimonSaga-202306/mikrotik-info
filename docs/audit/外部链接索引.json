@@ -2955,11 +2955,7 @@
       },
       {
         "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
-        "locator": "L92"
-      },
-      {
-        "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
-        "locator": "L170"
+        "locator": "L98"
       }
     ]
   },
@@ -2983,7 +2979,7 @@
     "occurrences": [
       {
         "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
-        "locator": "L82"
+        "locator": "L85"
       }
     ]
   },
@@ -6102,10 +6098,6 @@
       {
         "path": "batch/A类深挖_2026-10-08_R66_R56_KP第17波.json",
         "locator": "L177"
-      },
-      {
-        "path": "profile/A/A-140-Bachert Datentechnik GmbH-德国.md",
-        "locator": "L171"
       }
     ]
   },
@@ -7074,10 +7066,6 @@
       {
         "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
         "locator": "L347"
-      },
-      {
-        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L186"
       }
     ]
   },
@@ -7171,19 +7159,19 @@
       },
       {
         "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L152"
+        "locator": "L156"
       },
       {
         "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L155"
+        "locator": "L159"
       },
       {
         "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L158"
+        "locator": "L162"
       },
       {
         "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L161"
+        "locator": "L165"
       }
     ]
   },
@@ -7201,11 +7189,7 @@
       },
       {
         "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L103"
-      },
-      {
-        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L183"
+        "locator": "L107"
       }
     ]
   },
@@ -7229,7 +7213,7 @@
     "occurrences": [
       {
         "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L87"
+        "locator": "L89"
       }
     ]
   },
@@ -7267,31 +7251,19 @@
       },
       {
         "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L97"
+        "locator": "L103"
       },
       {
         "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L98"
+        "locator": "L104"
       },
       {
         "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L99"
+        "locator": "L105"
       },
       {
         "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L100"
-      },
-      {
-        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L101"
-      },
-      {
-        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L102"
-      },
-      {
-        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L180"
+        "locator": "L106"
       }
     ]
   },
@@ -7335,27 +7307,19 @@
     "occurrences": [
       {
         "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L81"
-      },
-      {
-        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L82"
-      },
-      {
-        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L83"
-      },
-      {
-        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L84"
-      },
-      {
-        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
         "locator": "L85"
       },
       {
         "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
         "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L88"
       }
     ]
   },
@@ -7380,6 +7344,54 @@
       {
         "path": "scripts/R66_R56_KP第21波_50户落盘.py",
         "locator": "L159"
+      }
+    ]
+  },
+  {
+    "url": "https://business-monitor.ch/de/companies/148053-five-informatik-ag",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L133"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L159"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L216"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L223"
+      },
+      {
+        "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
+        "locator": "L173"
+      }
+    ]
+  },
+  {
+    "url": "https://business-monitor.ch/de/companies/148053-five-informatik-ag〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
+        "locator": "L80"
       }
     ]
   },
@@ -9626,6 +9638,50 @@
       {
         "path": "profile/B/B-527-EG Electronics AB-瑞典.md",
         "locator": "L83"
+      }
+    ]
+  },
+  {
+    "url": "https://contactout.com/company/Groupe-Networks-54483",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L47"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L94"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L101"
+      },
+      {
+        "path": "profile/A/A-187-Groupe Networks-法国.md",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-187-Groupe Networks-法国.md",
+        "locator": "L91"
+      },
+      {
+        "path": "profile/A/A-187-Groupe Networks-法国.md",
+        "locator": "L172"
+      }
+    ]
+  },
+  {
+    "url": "https://contactout.com/company/Groupe-Networks-54483〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-187-Groupe Networks-法国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-187-Groupe Networks-法国.md",
+        "locator": "L80"
       }
     ]
   },
@@ -14905,7 +14961,7 @@
       },
       {
         "path": "profile/A/A-187-Groupe Networks-法国.md",
-        "locator": "L90"
+        "locator": "L94"
       }
     ]
   },
@@ -14925,7 +14981,7 @@
     "occurrences": [
       {
         "path": "profile/A/A-187-Groupe Networks-法国.md",
-        "locator": "L81"
+        "locator": "L83"
       }
     ]
   },
@@ -15228,6 +15284,74 @@
       {
         "path": "scripts/R66_R56_KP第2波落盘.py",
         "locator": "L71"
+      }
+    ]
+  },
+  {
+    "url": "https://es.linkedin.com/company/lineas-y-cables-s-a-",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L377"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L398"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L403"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L453"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L460"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L467"
+      },
+      {
+        "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
+        "locator": "L91"
+      },
+      {
+        "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
+        "locator": "L170"
+      },
+      {
+        "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
+        "locator": "L173"
+      }
+    ]
+  },
+  {
+    "url": "https://es.linkedin.com/company/lineas-y-cables-s-a-〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
+        "locator": "L78"
+      },
+      {
+        "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
+        "locator": "L80"
       }
     ]
   },
@@ -20637,15 +20761,15 @@
       },
       {
         "path": "profile/A/A-187-Groupe Networks-法国.md",
-        "locator": "L137"
+        "locator": "L141"
       },
       {
         "path": "profile/A/A-187-Groupe Networks-法国.md",
-        "locator": "L140"
+        "locator": "L144"
       },
       {
         "path": "profile/A/A-187-Groupe Networks-法国.md",
-        "locator": "L143"
+        "locator": "L147"
       }
     ]
   },
@@ -20678,10 +20802,6 @@
       {
         "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
         "locator": "L392"
-      },
-      {
-        "path": "profile/A/A-187-Groupe Networks-法国.md",
-        "locator": "L165"
       }
     ]
   },
@@ -22992,10 +23112,6 @@
       {
         "path": "batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json",
         "locator": "L4520"
-      },
-      {
-        "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
-        "locator": "L167"
       }
     ]
   },
@@ -41458,6 +41574,20 @@
     ]
   },
   {
+    "url": "https://openregister.de/company/DE-HRB-B2805-660987",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L298"
+      },
+      {
+        "path": "profile/A/A-140-Bachert Datentechnik GmbH-德国.md",
+        "locator": "L174"
+      }
+    ]
+  },
+  {
     "url": "https://openregister.de/company/DE-HRB-K1101-128423",
     "http_checked": false,
     "occurrences": [
@@ -45647,11 +45777,11 @@
       },
       {
         "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L104"
+        "locator": "L108"
       },
       {
         "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L105"
+        "locator": "L109"
       }
     ]
   },
@@ -45675,11 +45805,11 @@
     "occurrences": [
       {
         "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L88"
+        "locator": "L90"
       },
       {
         "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L89"
+        "locator": "L91"
       }
     ]
   },
@@ -46211,11 +46341,11 @@
       },
       {
         "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
-        "locator": "L93"
+        "locator": "L97"
       },
       {
         "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
-        "locator": "L94"
+        "locator": "L98"
       }
     ]
   },
@@ -46239,11 +46369,11 @@
     "occurrences": [
       {
         "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
-        "locator": "L82"
+        "locator": "L84"
       },
       {
         "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
-        "locator": "L83"
+        "locator": "L85"
       }
     ]
   },
@@ -49834,6 +49964,42 @@
       {
         "path": "profile/A/A-558-SDC Group-荷兰.md",
         "locator": "L126"
+      }
+    ]
+  },
+  {
+    "url": "https://se.linkedin.com/company/brsnetworks",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L575"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L589"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L97"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L99"
+      }
+    ]
+  },
+  {
+    "url": "https://se.linkedin.com/company/brsnetworks〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L81"
       }
     ]
   },
@@ -61525,15 +61691,11 @@
       },
       {
         "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L95"
+        "locator": "L101"
       },
       {
         "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L96"
-      },
-      {
-        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L177"
+        "locator": "L102"
       }
     ]
   },
@@ -61561,11 +61723,11 @@
     "occurrences": [
       {
         "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L79"
+        "locator": "L83"
       },
       {
         "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-        "locator": "L80"
+        "locator": "L84"
       }
     ]
   },
@@ -62306,6 +62468,50 @@
       {
         "path": "profile/B/B-154-Allnet.Italia S.p.A-意大利.md",
         "locator": "L74"
+      }
+    ]
+  },
+  {
+    "url": "https://www.almi.se/om-almi/organisation-och-ekonomi/historik/foretag-genom-tiderna/brs-networks/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L499"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L520"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L530"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L582"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L98"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L181"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L187"
+      }
+    ]
+  },
+  {
+    "url": "https://www.almi.se/om-almi/organisation-och-ekonomi/historik/foretag-genom-tiderna/brs-networks/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L80"
       }
     ]
   },
@@ -64921,14 +65127,6 @@
       },
       {
         "path": "profile/A/A-140-Bachert Datentechnik GmbH-德国.md",
-        "locator": "L90"
-      },
-      {
-        "path": "profile/A/A-140-Bachert Datentechnik GmbH-德国.md",
-        "locator": "L91"
-      },
-      {
-        "path": "profile/A/A-140-Bachert Datentechnik GmbH-德国.md",
         "locator": "L92"
       },
       {
@@ -64942,10 +65140,6 @@
       {
         "path": "profile/A/A-140-Bachert Datentechnik GmbH-德国.md",
         "locator": "L96"
-      },
-      {
-        "path": "profile/A/A-140-Bachert Datentechnik GmbH-德国.md",
-        "locator": "L165"
       }
     ]
   },
@@ -65021,14 +65215,6 @@
     "url": "https://www.bachert.de/ueber-uns/unser-team/〕",
     "http_checked": false,
     "occurrences": [
-      {
-        "path": "profile/A/A-140-Bachert Datentechnik GmbH-德国.md",
-        "locator": "L78"
-      },
-      {
-        "path": "profile/A/A-140-Bachert Datentechnik GmbH-德国.md",
-        "locator": "L79"
-      },
       {
         "path": "profile/A/A-140-Bachert Datentechnik GmbH-德国.md",
         "locator": "L80"
@@ -72847,19 +73033,15 @@
       },
       {
         "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
-        "locator": "L88"
+        "locator": "L94"
       },
       {
         "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
-        "locator": "L89"
+        "locator": "L95"
       },
       {
         "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
-        "locator": "L91"
-      },
-      {
-        "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
-        "locator": "L164"
+        "locator": "L97"
       }
     ]
   },
@@ -72891,15 +73073,15 @@
     "occurrences": [
       {
         "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
-        "locator": "L78"
-      },
-      {
-        "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
-        "locator": "L79"
-      },
-      {
-        "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
         "locator": "L81"
+      },
+      {
+        "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
+        "locator": "L84"
       }
     ]
   },
@@ -76373,7 +76555,7 @@
       },
       {
         "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
-        "locator": "L90"
+        "locator": "L96"
       }
     ]
   },
@@ -76393,7 +76575,7 @@
     "occurrences": [
       {
         "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
-        "locator": "L80"
+        "locator": "L83"
       }
     ]
   },
@@ -79687,19 +79869,19 @@
       },
       {
         "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
-        "locator": "L141"
+        "locator": "L145"
       },
       {
         "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
-        "locator": "L144"
+        "locator": "L148"
       },
       {
         "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
-        "locator": "L147"
+        "locator": "L151"
       },
       {
         "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
-        "locator": "L150"
+        "locator": "L154"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -81523,19 +81705,47 @@
       },
       {
         "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
-        "locator": "L139"
-      },
-      {
-        "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
-        "locator": "L142"
-      },
-      {
-        "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
         "locator": "L145"
       },
       {
         "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
         "locator": "L148"
+      },
+      {
+        "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
+        "locator": "L151"
+      },
+      {
+        "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
+        "locator": "L154"
+      }
+    ]
+  },
+  {
+    "url": "https://www.grupolineasycables.com/index.php/component/content/article/123-instalacion-de-sistema-de-interfonia-ip-para-centro-penitenciario?catid=51&Itemid=797",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L413"
+      },
+      {
+        "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
+        "locator": "L179"
+      }
+    ]
+  },
+  {
+    "url": "https://www.grupolineasycables.com/index.php/component/content/article/133-aotec-2?catid=57&Itemid=797",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L408"
+      },
+      {
+        "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
+        "locator": "L176"
       }
     ]
   },
@@ -87318,10 +87528,6 @@
       {
         "path": "batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json",
         "locator": "L5193"
-      },
-      {
-        "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
-        "locator": "L169"
       }
     ]
   },
@@ -88610,6 +88816,20 @@
       {
         "path": "profile/B/B-191-AT Computers a.s-捷克.md",
         "locator": "L80"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/company/brsnetworks",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L525"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L184"
       }
     ]
   },
@@ -97630,8 +97850,12 @@
         "locator": "L387"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L37"
+      },
+      {
         "path": "profile/A/A-187-Groupe Networks-法国.md",
-        "locator": "L162"
+        "locator": "L166"
       }
     ]
   },
@@ -102428,6 +102652,46 @@
     ]
   },
   {
+    "url": "https://www.netzwoche.ch/news/2022-08-08/five-informatik-ernennt-neuen-ceo",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L154"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L169"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L209"
+      },
+      {
+        "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
+        "locator": "L91"
+      },
+      {
+        "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
+        "locator": "L170"
+      },
+      {
+        "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
+        "locator": "L179"
+      }
+    ]
+  },
+  {
+    "url": "https://www.netzwoche.ch/news/2022-08-08/five-informatik-ernennt-neuen-ceo〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
+        "locator": "L78"
+      }
+    ]
+  },
+  {
     "url": "https://www.newsoft-tech.it",
     "http_checked": false,
     "occurrences": [
@@ -103914,8 +104178,24 @@
         "locator": "L5264"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L164"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L230"
+      },
+      {
         "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
-        "locator": "L91"
+        "locator": "L94"
+      },
+      {
+        "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
+        "locator": "L95"
+      },
+      {
+        "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
+        "locator": "L176"
       }
     ]
   },
@@ -103935,7 +104215,11 @@
     "occurrences": [
       {
         "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
-        "locator": "L80"
+        "locator": "L81"
+      },
+      {
+        "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
+        "locator": "L82"
       }
     ]
   },
@@ -105436,18 +105720,6 @@
       {
         "path": "batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json",
         "locator": "L5257"
-      },
-      {
-        "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
-        "locator": "L89"
-      },
-      {
-        "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
-        "locator": "L90"
-      },
-      {
-        "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
-        "locator": "L166"
       }
     ]
   },
@@ -105466,20 +105738,6 @@
       {
         "path": "scripts/R66_R56_KP第19波_50户扩招落盘.py",
         "locator": "L581"
-      }
-    ]
-  },
-  {
-    "url": "https://www.organisator.ch/en/management/2022-08-08/oliver-lyoth-becomes-new-ceo-of-five-informatics-ag/〕",
-    "http_checked": false,
-    "occurrences": [
-      {
-        "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
-        "locator": "L78"
-      },
-      {
-        "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
-        "locator": "L79"
       }
     ]
   },
@@ -106024,7 +106282,15 @@
         "locator": "L463"
       },
       {
-        "path": "profile/A/A-187-Groupe Networks-法国.md",
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L11"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L32"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
         "locator": "L87"
       },
       {
@@ -106033,7 +106299,11 @@
       },
       {
         "path": "profile/A/A-187-Groupe Networks-法国.md",
-        "locator": "L159"
+        "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-187-Groupe Networks-法国.md",
+        "locator": "L163"
       }
     ]
   },
@@ -106065,7 +106335,7 @@
       },
       {
         "path": "profile/A/A-187-Groupe Networks-法国.md",
-        "locator": "L80"
+        "locator": "L82"
       }
     ]
   },
@@ -111948,8 +112218,16 @@
         "locator": "L456"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L42"
+      },
+      {
         "path": "profile/A/A-187-Groupe Networks-法国.md",
-        "locator": "L88"
+        "locator": "L92"
+      },
+      {
+        "path": "profile/A/A-187-Groupe Networks-法国.md",
+        "locator": "L169"
       }
     ]
   },
@@ -111969,7 +112247,7 @@
     "occurrences": [
       {
         "path": "profile/A/A-187-Groupe Networks-法国.md",
-        "locator": "L79"
+        "locator": "L81"
       }
     ]
   },
@@ -112959,7 +113237,7 @@
       },
       {
         "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
-        "locator": "L92"
+        "locator": "L96"
       }
     ]
   },
@@ -112979,7 +113257,7 @@
     "occurrences": [
       {
         "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
-        "locator": "L81"
+        "locator": "L83"
       }
     ]
   },
@@ -115932,6 +116210,38 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-879/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.unt.se/native/artikel/okat-cyberhot-brs-networks-hjalper-foretag-att-sakra-it-miljon/r144mp1r",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L535"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L596"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L100"
+      },
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L190"
+      }
+    ]
+  },
+  {
+    "url": "https://www.unt.se/native/artikel/okat-cyberhot-brs-networks-hjalper-foretag-att-sakra-it-miljon/r144mp1r〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
+        "locator": "L82"
       }
     ]
   },
@@ -119186,12 +119496,58 @@
     ]
   },
   {
+    "url": "https://www.xing.com/pages/bachertdatentechnikgmbh",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L283"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L293"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L338"
+      },
+      {
+        "path": "profile/A/A-140-Bachert Datentechnik GmbH-德国.md",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-140-Bachert Datentechnik GmbH-德国.md",
+        "locator": "L165"
+      },
+      {
+        "path": "profile/A/A-140-Bachert Datentechnik GmbH-德国.md",
+        "locator": "L171"
+      }
+    ]
+  },
+  {
     "url": "https://www.xing.com/pages/bachertdatentechnikgmbh/about_us",
     "http_checked": false,
     "occurrences": [
       {
         "path": "batch/A类深挖_2026-10-08_R66_R56_KP第17波.json",
         "locator": "L172"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L262"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L288"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+        "locator": "L345"
+      },
+      {
+        "path": "profile/A/A-140-Bachert Datentechnik GmbH-德国.md",
+        "locator": "L91"
       },
       {
         "path": "profile/A/A-140-Bachert Datentechnik GmbH-德国.md",
@@ -119206,6 +119562,26 @@
       {
         "path": "scripts/R66_R56_KP第17波落盘.py",
         "locator": "L67"
+      }
+    ]
+  },
+  {
+    "url": "https://www.xing.com/pages/bachertdatentechnikgmbh/about_us〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-140-Bachert Datentechnik GmbH-德国.md",
+        "locator": "L79"
+      }
+    ]
+  },
+  {
+    "url": "https://www.xing.com/pages/bachertdatentechnikgmbh〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-140-Bachert Datentechnik GmbH-德国.md",
+        "locator": "L78"
       }
     ]
   },

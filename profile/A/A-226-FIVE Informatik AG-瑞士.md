@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】FIVE Informatik AG:FIVE Informatik AG(瑞士 Urtenen-Schönbühl(伯尔尼州),Bahnhofstrasse 5;**CHE-106.305.349;35+ 年谱(创始 1987 前后);Five Gruppe(与 Tax Ware AG+Alan Software AG 三驾);100+ 养老基金数字化客户谱**;**2022-09 权杖换代金谱:Ulrich Tschanz(35 年创始掌舵)→ Oliver Lyoth(前 T-Systems Schweiz 20 年;2022-09 入 2023-01 全接)=换代窗 O 件;VR-Präsident Christian Lory+ppa Alexander Schild;Heads: Engler(销售/市场/传讯)+Kunz(AI&Automation)+Freudiger(Internal IT)**
-- 【推断】R66 第 19 波具名 KP 金谱
-- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
+- 【事实】波 R67 批2·A-226:瑞谱: **Five Informatik AG 集团深挖(CHE-106.305.349 登册+netzwoche CEO 官宣双源)**:1988 创(38 年活档 AG),Bern Urtenen-Schönbühl Bahnhofstrasse 5,UID CHE-106.305.349 「IT 咨询」;**Five Gruppe 集(Taxware+Alan Software 同集团);主营 Kendox 文档管理+Abacus ERP+Matrix42 ESM+TaxWare 财税+ONE Immo+IT 服务/网安**;**人鼎金谱:Oliver Lyoth=现任 CEO(2023-01 起;前 T-Systems Schweiz 20 年:International Service Desk→2008 Service Delivery Manager→2014 Senior SDM;eidg. Fachausweis 专凭;2022-09 入职)**;**Chair=Christian Lory(2022-01 起主席;Präsident 1998-06 入职)**;前 CEO Ulrich Tschanz(35 年任 2023-01 退,留存 VR 成员+项目);**Authorized signatory (ppa): Alexander Schild(northdata 载);handelsregister 2025-10/2026-05/08 三档变SHAB 活**;官网 fiveinformatik.ch(市府目录档 Oliver Lyoth Bahnhofstrasse 5 名联)=IT 集成服务线具名。
+- 【推断】R67 推土机深挖 批2 具名 KP 金谱(CHE 登册+netzwoche 官宣 36 年谱)
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Oliver Lyoth IT 服务线引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,8 +75,10 @@ updated: 2026-09-28
 - **原始联系字段**：info@fiveinformatik.ch（官网正文公开；未验证投递）；原入口：见 alliedtelesis.com 伙伴页
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
-  - **Oliver Lyoth**(CEO(2022-09 入,2023-01 全面接;换代件官方引语))— organisator.ch+kleinreport.ch 双新闻件 〔已有(公司官方公开件/登记册自曝);源:https://www.organisator.ch/en/management/2022-08-08/oliver-lyoth-becomes-new-ceo-of-five-informatics-ag/〕
-  - **Ulrich Tschanz**(创始 CEO 35 年→Verwaltungsrat(留任董事+项目谱))— organisator.ch 件(引语) 〔已有(公司官方公开件/登记册自曝);源:https://www.organisator.ch/en/management/2022-08-08/oliver-lyoth-becomes-new-ceo-of-five-informatics-ag/〕
+  - **Oliver Lyoth**(CEO(2023-01 起);前 T-Systems Schweiz 20 年(International Service Desk→2008 SDM→2014 Senior SDM);eidg. Fachausweis;2022-09 入职)— oliver.lyoth@fiveinformatik.ch(推断,送完核)+LinkedIn Xing 谱链 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.netzwoche.ch/news/2022-08-08/five-informatik-ernennt-neuen-ceo〕
+  - **Christian Lory Von Konolfingen**(Chair of the board / VR Präsident(2022-01 起;1998-06 入职=28 年司史))— fiveinformatik.ch 台口 031 850 60·推断直邮 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://business-monitor.ch/de/companies/148053-five-informatik-ag〕
+  - **Ulrich Tschanz**(前 CEO(35 年任,2023-01 退;现役 VR 成员+dezidierte Projekte);2026-05 SHAB 变)— fiveinformatik.ch 台口;推断直邮 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://business-monitor.ch/de/companies/148053-five-informatik-ag〕
+  - **Alexander Schild**(Authorized signatory (ppa) 签署权;northdata 载)— fiveinformatik.ch 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.northdata.com/Five%20Informatik%20AG,%20Urtenen-Sch%C3%B6nb%C3%BChl/CHE-106.305.349〕
   - **Christian Lory**(Verwaltungsratspräsident(董事长))— northdata 件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.northdata.com/Five%20Informatik%20AG,%20Urtenen-Sch%C3%B6nb%C3%BChl/CHE-106.305.349〕
   - **Kathrin Engler**(Leiterin Verkauf Marketing & Kommunikation(销售/市场/传讯头;伙伴页具名))— symposium-2.ch 伙伴页+RR 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.symposium-2.ch/partner/five-informatik-ag/〕
   - **Christian Kunz**(Head of AI and Automation(AI 头))— RocketReach 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/five-informatik-ag-email-format_b4526cc2fc8e13ed〕
@@ -86,8 +88,10 @@ updated: 2026-09-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Oliver Lyoth | CEO(2022-09 入,2023-01 全面接;换代件官方引语) | organisator.ch+kleinreport.ch 双新闻件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.organisator.ch/en/management/2022-08-08/oliver-lyoth-becomes-new-ceo-of-five-informatics-ag/ |
-| Ulrich Tschanz | 创始 CEO 35 年→Verwaltungsrat(留任董事+项目谱) | organisator.ch 件(引语) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.organisator.ch/en/management/2022-08-08/oliver-lyoth-becomes-new-ceo-of-five-informatics-ag/ |
+| Oliver Lyoth | CEO(2023-01 起);前 T-Systems Schweiz 20 年(International Service Desk→2008 SDM→2014 Senior SDM);eidg. Fachausweis;2022-09 入职 | oliver.lyoth@fiveinformatik.ch(推断,送完核)+LinkedIn Xing 谱链 | netzwoche+business-monitor+northdata+D&B 四源 O 级 | https://www.netzwoche.ch/news/2022-08-08/five-informatik-ernennt-neuen-ceo |
+| Christian Lory Von Konolfingen | Chair of the board / VR Präsident(2022-01 起;1998-06 入职=28 年司史) | fiveinformatik.ch 台口 031 850 60·推断直邮 | business-monitor+northdata O 级 | https://business-monitor.ch/de/companies/148053-five-informatik-ag |
+| Ulrich Tschanz | 前 CEO(35 年任,2023-01 退;现役 VR 成员+dezidierte Projekte);2026-05 SHAB 变 | fiveinformatik.ch 台口;推断直邮 | netzwoche+business-monitor O 级(老谱) | https://business-monitor.ch/de/companies/148053-five-informatik-ag |
+| Alexander Schild | Authorized signatory (ppa) 签署权;northdata 载 | fiveinformatik.ch | northdata O 级 | https://www.northdata.com/Five%20Informatik%20AG,%20Urtenen-Sch%C3%B6nb%C3%BChl/CHE-106.305.349 |
 | Christian Lory | Verwaltungsratspräsident(董事长) | northdata 件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.northdata.com/Five%20Informatik%20AG,%20Urtenen-Sch%C3%B6nb%C3%BChl/CHE-106.305.349 |
 | Kathrin Engler | Leiterin Verkauf Marketing & Kommunikation(销售/市场/传讯头;伙伴页具名) | symposium-2.ch 伙伴页+RR 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.symposium-2.ch/partner/five-informatik-ag/ |
 | Christian Kunz | Head of AI and Automation(AI 头) | RocketReach 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/five-informatik-ag-email-format_b4526cc2fc8e13ed |
@@ -151,35 +155,41 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R67_R56_推土机批2.json`；价格均为 EXW 快照。
 
-- **①背景再核**：FIVE Informatik AG(瑞士 Urtenen-Schönbühl(伯尔尼州),Bahnhofstrasse 5;**CHE-106.305.349;35+ 年谱(创始 1987 前后);Five Gruppe(与 Tax Ware AG+Alan Software AG 三驾);100+ 养老基金数字化客户谱**;**2022-09 权杖换代金谱:Ulrich Tschanz(35 年创始掌舵)→ Oliver Lyoth(前 T-Systems Schweiz 20 年;2022-09 入 2023-01 全接)=换代窗 O 件;VR-Präsident Christian Lory+ppa Alexander Schild;Heads: Engler(销售/市场/传讯)+Kunz(AI&Automation)+Freudiger(Internal IT)**
-- **②芯片/型号**：(待谱面二补)
-- **③KP 深挖**：**Oliver Lyoth(CEO(2022-09 入,2023-01 全面接;换代件官方引语),official-self-published·谱/leads-only(直发需 opt-in));Ulrich Tschanz(创始 CEO 35 年→Verwaltungsrat(留任董事+项目谱),official-self-published·谱/leads-only(直发需 opt-in));Christian Lory(Verwaltungsratspräsident(董事长),leads-only·待 opt-in(LinkedIn/谱面带核));Kathrin Engler(Leiterin Verkauf Marketing & Kommunikation(销售/市场/传讯头;伙伴页具名),leads-only·待 opt-in(LinkedIn/谱面带核));Christian Kunz(Head of AI and Automation(AI 头),leads-only·待 opt-in(LinkedIn/谱面带核));Alain Freudiger(Head of Internal IT / Senior Microsoft Modern Workplace Architect(内部 IT 头=落位最合),leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
-- **⑤在乎与偏好**：2023 换代窗+100+ 基金客=大谱
+- **①背景再核**：1988 创 38 年 AG;CHE-106.305.349 登册;Five Gruppe 三体(Taxware+Alan Software)
+- **②芯片/型号**：IT 服务线;24 口 PoE(424XGGPM 280W)集纳转注
+- **③KP 深挖**：Lyoth CEO 2023-01(T-Systems 20 年)+Lory 主席+Tschanz 前 CEO 留 VR+Schild ppa 四谱 O 级
+- **④Saga 对标**：IT 集成服务线 → 24 口 PoE 集纳转注;新 CEO 线转注门
+- **⑤在乎与偏好**：中型企业全盘 MSSP;伯县 RM;SHAB 变档谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**「Oliver Lyoth tritt am 1. September 2022 ein und übernimmt ab 1. Januar 2023 die gesamte Geschäftsführung」;Tschanz: 「35 years ago, the foundations were laid for FIVE」→Verwaltungsrat;VR-Präsident: Christian Lory;ppa: Alexander Schild(organisator/northdata 件)
-  > 「Oliver Lyoth tritt am 1. September 2022 ein und übernimmt ab 1. Januar 2023 die gesamte Geschäftsführung」;Tschanz: 「35 years ago, the foundations were laid for FIVE」→Verwaltungsrat;VR-Präsident: Christian Lory;ppa: Alexander Schild(organisator/northdata 件)
-  > 来源：https://www.organisator.ch/en/management/2022-08-08/oliver-lyoth-becomes-new-ceo-of-five-informatics-ag/
-- **【联系方式与基础画像】**Bahnhofstrasse 5, CH-3322 Schönbühl BE;+41 31 858 23 46;**Five Gruppe(FIVE+Tax Ware AG+Alan Software AG)**;Dokumentenmanagement/Prozessautomation/IT-Services/Finanz-Steuerberatung;**über 100 Pensionskassen 客户**(symposium-2/kleinreport 件)
-  > Bahnhofstrasse 5, CH-3322 Schönbühl BE;+41 31 858 23 46;**Five Gruppe(FIVE+Tax Ware AG+Alan Software AG)**;Dokumentenmanagement/Prozessautomation/IT-Services/Finanz-Steuerberatung;**über 100 Pensionskassen 客户**(symposium-2/kleinreport 件)
-  > 来源：https://www.kleinreport.ch/news/generationenwechsel-five-informatik-mit-neuem-ceo-100036/
+- **【决策链与对接人】**Oliver Lyoth ab 1. Januar 2023 als CEO;Nachfolger von Ulrich Tschanz(35 Jahre);Lory Chair of the board;Schild Authorized signatory (ppa)
+  > Oliver Lyoth ab 1. Januar 2023 als CEO;Nachfolger von Ulrich Tschanz(35 Jahre);Lory Chair of the board;Schild Authorized signatory (ppa)
+  > 来源：https://www.netzwoche.ch/news/2022-08-08/five-informatik-ernennt-neuen-ceo
+- **【法体登册】**Five Informatik AG, Urtenen-Schönbühl, CHE-106.305.349, Aktiengesellschaft;SHAB Nr 2025-10/2026-05/2026-08 三档变;Georg 1988 创
+  > Five Informatik AG, Urtenen-Schönbühl, CHE-106.305.349, Aktiengesellschaft;SHAB Nr 2025-10/2026-05/2026-08 三档变;Georg 1988 创
+  > 来源：https://business-monitor.ch/de/companies/148053-five-informatik-ag
+- **【集团集】**Five Informatik + Taxware + Alan Software = Five Gruppe;股权谱 northdata 11 责位
+  > Five Informatik + Taxware + Alan Software = Five Gruppe;股权谱 northdata 11 责位
+  > 来源：https://www.northdata.com/Five%20Informatik%20AG,%20Urtenen-Sch%C3%B6nb%C3%BChl/CHE-106.305.349
+- **【Ceo 历证】**Bis anhin arbeitete der Informatiker mit eidg. Fachausweis bei T-Systems Schweiz…2008 Service Delivery Manager…2014 Senior SDM
+  > Bis anhin arbeitete der Informatiker mit eidg. Fachausweis bei T-Systems Schweiz…2008 Service Delivery Manager…2014 Senior SDM
+  > 来源：https://www.netzwoche.ch/news/2022-08-08/five-informatik-ernennt-neuen-ceo
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：FIVE Informatik AG(瑞士 Urtenen-Schönbühl(伯尔尼州),Bahnhofstrasse 5;**CHE-106.305.349;35+ 年谱(创始 1987 前后);Five Gruppe(与 Tax Ware AG+Alan Software AG 三驾);100+ 养老基金数字化客户谱**;**2022-09 权杖换代金谱:Ulrich Tschanz(35 年创始掌舵)→ Oliver Lyoth(前 T-Systems Schweiz 20 年;2022-09 入 2023-01 全接)=换代窗 O 件;VR-Präsident Christian Lory+ppa Alexander Schild;Heads: Engler(销售/市场/传讯)+Kunz(AI&Automation)+Freudiger(Internal IT)**
-- **产品线与在售品牌**：(波次二补谱面)
-- **目标行业与场景**：瑞士伯尔尼州 35 年 Five Gruppe 旗舰屋
-- **团队与规模**：中型谱;100+ 基金客
-- **决策链与对接人**：**Oliver Lyoth(CEO(2022-09 入,2023-01 全面接;换代件官方引语),official-self-published·谱/leads-only(直发需 opt-in));Ulrich Tschanz(创始 CEO 35 年→Verwaltungsrat(留任董事+项目谱),official-self-published·谱/leads-only(直发需 opt-in));Christian Lory(Verwaltungsratspräsident(董事长),leads-only·待 opt-in(LinkedIn/谱面带核));Kathrin Engler(Leiterin Verkauf Marketing & Kommunikation(销售/市场/传讯头;伙伴页具名),leads-only·待 opt-in(LinkedIn/谱面带核));Christian Kunz(Head of AI and Automation(AI 头),leads-only·待 opt-in(LinkedIn/谱面带核));Alain Freudiger(Head of Internal IT / Senior Microsoft Modern Workplace Architect(内部 IT 头=落位最合),leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **技术与认证**：(波次二补)
-- **采购与供应链信号**：(波次二补)
-- **近期动态与线索**：2026-10-08 R66 19 波谱名牌
-- **与我方契合点**：24 口 value PoE 谱链窗口
-- **风险与注意**：Lyoth 履新谱+Freudiger 内 IT(opt-in 律)
+- **业务定位**：Five Informatik AG(CHE-106.305.349,1988,38 年 AG):IT 集成服务商(集团 Five Gruppe)
+- **产品线与在售品牌**：Kendox 文档管理+Abacus ERP+Matrix42 ESM+TaxWare+ONE Immo+IT 服务网安+顾问件
+- **目标行业与场景**：中型企业 IT 全盘(MSSP 带;财/律/不动产垂直 ERP)
+- **团队与规模**：集团 3 体(Five Info+Taxware+Alan);11 责位;伯县谱
+- **决策链与对接人**：CEO Oliver Lyoth(2023-01)+VR 主席 Christian Lory(2022-01)+前 CEO Ulrich Tschanz(35 年 VR 储)+ppa Alexander Schild
+- **技术与认证**：CHE 登册+SHAB 变 2025-10~2026-08;T-Systems 前血 20 年 CEO
+- **采购与供应链信号**：IT 集纳=第三方硬件转注;ERP 软权
+- **近期动态与线索**：SHAB 2026-05/2026-08 变档活;netzwoche 2022-08-08 CEO 官宣;市府目录在册
+- **与我方契合点**：Lyoth IT 服务线直门 + 424 PoE 24口集纳转注
+- **风险与注意**：Lyoth 2023 上谱随官变需时效钉;SHAB 变档需后登核;38 年稳健无快变
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -194,10 +204,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：2023 换代窗+100+ 基金客=大谱
-- **W**：集团旗舰谱
-- **O**：Lyoth CEO+Freudiger 内 IT 位
-- **T**：T-Systems 出身谱=大牌链
+- **S**：38 年 AG+集团
+- **W**：软权主基旁
+- **O**：Lyoth 新上任档集纳
+- **T**：旁盘先密
 
 ## 触达与风险红线
 
@@ -225,8 +235,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 硬件采购线在职者(波次二)
-  - [ ] MikroTik 谱面份额
+  - [ ] MikroTik 谱位在售线需官网核
+  - [ ] Lyoth 直邮推算
+  - [ ] 集团集购线
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -238,12 +249,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Guten Tag Herr Lyoth,
+Dear Oliver Lyoth Team,
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each IT service integration deployment. Datasheet + CE pack on request.
 
-Best regards,
-Saga Networks Export Desk
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

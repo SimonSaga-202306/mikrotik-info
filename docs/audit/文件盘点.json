@@ -1645,11 +1645,21 @@
     },
     {
       "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批1.json",
-      "sha256": "08592b5f1c0f6715d66643ffb06d8409d7bb2ce868c980182d64fcccbc91452f",
-      "bytes": 41743,
-      "tracked_at_scan": false,
+      "sha256": "f74bb81836c7b70616011bd978d8967350418b826997905ed0da6e7b5e96537e",
+      "bytes": 42049,
+      "tracked_at_scan": true,
       "units_scanned": 677,
       "unique_url_count": 23,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
+      "sha256": "2ca2bc52d9441ce14ef1656430a04b40ef1b34f941c4fd96e56e2208a58c6164",
+      "bytes": 40622,
+      "tracked_at_scan": false,
+      "units_scanned": 624,
+      "unique_url_count": 17,
       "inspection": {},
       "errors": []
     },
@@ -2995,8 +3005,8 @@
     },
     {
       "path": "docs/audit/A类入库完整性审计_2026-09-29.json",
-      "sha256": "bcf451f53772b692a883c271d91e71f739f6afadefae76754503c2ae5f65e491",
-      "bytes": 3693,
+      "sha256": "e5b13d74c28ba3faa298b05837e89718d3ce5aabe15bc6034d8ddfa895e07f9d",
+      "bytes": 3694,
       "tracked_at_scan": true,
       "units_scanned": 130,
       "unique_url_count": 0,
@@ -3045,10 +3055,10 @@
     },
     {
       "path": "docs/requirements/用户要求总账.md",
-      "sha256": "f0e8ea2106ba76b20e89c9899da9ab4bb3d3799d10fcab9c66a4074de730e981",
-      "bytes": 207180,
+      "sha256": "f423b63532a1ae4cd09b9d14cbd9a335c4f7429d37f12b316ecbb2d65471861b",
+      "bytes": 210869,
       "tracked_at_scan": true,
-      "units_scanned": 1481,
+      "units_scanned": 1500,
       "unique_url_count": 3,
       "inspection": {},
       "errors": []
@@ -4215,11 +4225,11 @@
     },
     {
       "path": "profile/A/A-112-BRS Networks AB-瑞典.md",
-      "sha256": "80be2415074dd60ccb8b0ce8c68e408c1bb8d50f00f36e166570d4795c56e7a3",
-      "bytes": 25035,
+      "sha256": "36c966cee295f7a6d2ce9bf6a6ebddfc80dffe721aa52666f95aefd1dcb3b103",
+      "bytes": 23947,
       "tracked_at_scan": true,
-      "units_scanned": 283,
-      "unique_url_count": 11,
+      "units_scanned": 288,
+      "unique_url_count": 17,
       "inspection": {},
       "errors": []
     },
@@ -4495,11 +4505,11 @@
     },
     {
       "path": "profile/A/A-140-Bachert Datentechnik GmbH-德国.md",
-      "sha256": "bf47cbb6a7b8ad4b374fbd57524e87cbf13392c1d0b2bd3119cdfd4a584236aa",
-      "bytes": 21185,
+      "sha256": "a72a9a73b008cf7f516eac4f83885e22942195483209a91049c5761dc7ad2bb1",
+      "bytes": 19356,
       "tracked_at_scan": true,
-      "units_scanned": 268,
-      "unique_url_count": 8,
+      "units_scanned": 272,
+      "unique_url_count": 11,
       "inspection": {},
       "errors": []
     },
@@ -4965,11 +4975,11 @@
     },
     {
       "path": "profile/A/A-187-Groupe Networks-法国.md",
-      "sha256": "e57c513a761f6e5ae1830af5762a313acd229771c2c754a0a000811273da588b",
-      "bytes": 20357,
+      "sha256": "a3754c89546ad2dadcda21b9c517106e2a21efba3da6d86a1bfadf88bf4d9a83",
+      "bytes": 19629,
       "tracked_at_scan": true,
-      "units_scanned": 262,
-      "unique_url_count": 10,
+      "units_scanned": 270,
+      "unique_url_count": 11,
       "inspection": {},
       "errors": []
     },
@@ -5295,11 +5305,11 @@
     },
     {
       "path": "profile/A/A-220-Lineas y Cables S.A-西班牙.md",
-      "sha256": "8af155890726d242d2bfe8ef59bdb1ac1d9e79751cf768093aa1f9f64f628ec9",
-      "bytes": 20722,
+      "sha256": "746361a65e16acdcae58fe87e71ae2801f70f956ae864f6abc98688f72db87fe",
+      "bytes": 21832,
       "tracked_at_scan": true,
-      "units_scanned": 267,
-      "unique_url_count": 9,
+      "units_scanned": 277,
+      "unique_url_count": 12,
       "inspection": {},
       "errors": []
     },
@@ -5355,11 +5365,11 @@
     },
     {
       "path": "profile/A/A-226-FIVE Informatik AG-瑞士.md",
-      "sha256": "aae361622b825097547f68a7887f1cb84d3e622a5c05604d06cdabbf69e1d4f1",
-      "bytes": 21160,
+      "sha256": "e00c848a873b3f7c065ca7f4e53746cc3661a3d8d33bbe62b741b04fda1ccd78",
+      "bytes": 21117,
       "tracked_at_scan": true,
-      "units_scanned": 266,
-      "unique_url_count": 11,
+      "units_scanned": 277,
+      "unique_url_count": 12,
       "inspection": {},
       "errors": []
     },
@@ -14215,10 +14225,10 @@
     },
     {
       "path": "scripts/make_profiles.py",
-      "sha256": "da0a60b905fcb5cd7afa0087f321abb161b058d826adf61e45aa1e2f818310ae",
-      "bytes": 39779,
+      "sha256": "0c4858d9af066f82d58b601f700ba2b82d46603085c7205ad9b3bc50cbe13094",
+      "bytes": 39841,
       "tracked_at_scan": true,
-      "units_scanned": 819,
+      "units_scanned": 820,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []

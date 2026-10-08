@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Lineas y Cables S.A:LINEAS Y CABLES S.A.(西班牙 Pozuelo de Alarcón(马德里),C/ Virgilio 19(影像城);**NIF A-28552149;1978-12-26 创 48 年;90 人(2025);€10-50M;TIC 系统+通信网络设备分销;电子/RF/能源实验室+2000㎡ 仓**;**AESMIDE 国防工业协会员=军防边界守界注记;2022-04 权杖换代:García de las Heras(创始)退→Alfonso Estévez Quintana 登基(家族二代谱);VP Reyes-Carlota Estévez Santiago;最新 BORME 2026-06 Reyes Carlota E. Consejero Delegado 双任**
-- 【推断】R66 第 19 波具名 KP 金谱
-- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
+- 【事实】波 R67 批2·A-220:西谱: **Líneas y Cables S.A. 深挖(LI 公章 771 粉+AOTEC 展会线+Defensa 带=军守界注)**:S.A. 1978 创(**48 年司史,LI 自报**),Pozuelo de Alarcón(Madrid)Calle Virgilio 19 Ciudad de la Imagen 28223;**51-200 员工 Publikt(私融)SA**;主营=「Telecomunicaciones, Seguridad y Defensa」+工程系统(R&D/distribution/installation:FTTH 光缆/radio/WiFi/光纤电缆/能源/暖通/安防/PCI/水务燃气/IOT/**Defensa 军带**);**KP 三谱:Reyes Estévez(Consejera Delegada=执行理事 P0)+Eduardo Briales(Director Calidad 质量总监)+Patricia Ruiz de León Frade(Técnico calidad/medio ambiente/PRL)**;**展会线=AOTEC XVII 2024 官方参展(LYC 集团名义)+Partner 谱:Commscope/Allied Telesis/Check Point/RNS/Motorola/LBE(贸易项列明——Defensa 场景军火类绝口)**;案例线=Topas Salamanca 监狱 interphonía IP(光纤+结构缆+IP系统);产品热词=Cable 768 FO/GPON→XGS-PON 迁移/UDS Enterprise。**合规守界:Defensa 标签在谱=任何商机仅用民用商用场景词,零军火/武器/监控压制语义**。
+- 【推断】R67 推土机深挖 批2 具名 KP 金谱(LI+AOTEC 双源+Defensa 守界)
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Estévez 执行理位/ Briales 质量门引路(民用商用限定)
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,6 +75,9 @@ updated: 2026-09-28
 - **原始联系字段**：lyc@lineasycables.com（官网正文公开；未验证投递）；原入口：见 alliedtelesis.com 伙伴页
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Reyes Estévez**(Consejera Delegada(执行理事 LI 自报);Defensa 带=邮件语义民用商用限;集团决策口 P0)— restevez@grupolineasycables.com(推断,送完核)/LI DM 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://es.linkedin.com/company/lineas-y-cables-s-a-〕
+  - **Eduardo Briales**(Director Calidad(质量总监 LI 自报);QMS 带;项目门识)— ebriales@grupolineasycables.com(推断) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://es.linkedin.com/company/lineas-y-cables-s-a-〕
+  - **Patricia Ruiz de León Frade**(Técnico calidad/medio ambiente/PRL(质量环安职防 LI 自报))— pruiz@grupolineasycables.com(推断) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://es.linkedin.com/company/lineas-y-cables-s-a-〕
   - **Alfonso Estévez Quintana**(Presidente(2022-07 起;二代接班谱))— BORME/datoscif/einforma 三源登记件 〔已有(公司官方公开件/登记册自曝);源:https://www.datoscif.es/empresa/lineas-y-cables-sa〕
   - **Reyes-Carlota Estévez Santiago**(Vicepresidenta + Consejero Delegado 双任(2026-06 BORME 谱))— datoscif/BORME 件 〔已有(公司官方公开件/登记册自曝);源:https://www.datoscif.es/empresa/lineas-y-cables-sa〕
   - **Norberto Abascal Carmona**(Consejero(理事))— BORME/einforma 件 〔已有(公司官方公开件/登记册自曝);源:https://www.einforma.com/informacion-empresa/lineas-cables〕
@@ -85,6 +88,9 @@ updated: 2026-09-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Reyes Estévez | Consejera Delegada(执行理事 LI 自报);Defensa 带=邮件语义民用商用限;集团决策口 P0 | restevez@grupolineasycables.com(推断,送完核)/LI DM | LI 公章 O 级/邮箱推断 G 级 | https://es.linkedin.com/company/lineas-y-cables-s-a- |
+| Eduardo Briales | Director Calidad(质量总监 LI 自报);QMS 带;项目门识 | ebriales@grupolineasycables.com(推断) | LI 公章 O 级/邮箱推断 G 级 | https://es.linkedin.com/company/lineas-y-cables-s-a- |
+| Patricia Ruiz de León Frade | Técnico calidad/medio ambiente/PRL(质量环安职防 LI 自报) | pruiz@grupolineasycables.com(推断) | LI 公章 O 级/邮箱推断 G 级 | https://es.linkedin.com/company/lineas-y-cables-s-a- |
 | Alfonso Estévez Quintana | Presidente(2022-07 起;二代接班谱) | BORME/datoscif/einforma 三源登记件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.datoscif.es/empresa/lineas-y-cables-sa |
 | Reyes-Carlota Estévez Santiago | Vicepresidenta + Consejero Delegado 双任(2026-06 BORME 谱) | datoscif/BORME 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.datoscif.es/empresa/lineas-y-cables-sa |
 | Norberto Abascal Carmona | Consejero(理事) | BORME/einforma 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.einforma.com/informacion-empresa/lineas-cables |
@@ -149,38 +155,41 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R67_R56_推土机批2.json`；价格均为 EXW 快照。
 
-- **①背景再核**：LINEAS Y CABLES S.A.(西班牙 Pozuelo de Alarcón(马德里),C/ Virgilio 19(影像城);**NIF A-28552149;1978-12-26 创 48 年;90 人(2025);€10-50M;TIC 系统+通信网络设备分销;电子/RF/能源实验室+2000㎡ 仓**;**AESMIDE 国防工业协会员=军防边界守界注记;2022-04 权杖换代:García de las Heras(创始)退→Alfonso Estévez Quintana 登基(家族二代谱);VP Reyes-Carlota Estévez Santiago;最新 BORME 2026-06 Reyes Carlota E. Consejero Delegado 双任**
-- **②芯片/型号**：(待谱面二补)
-- **③KP 深挖**：**Alfonso Estévez Quintana(Presidente(2022-07 起;二代接班谱),official-self-published·谱/leads-only(直发需 opt-in));Reyes-Carlota Estévez Santiago(Vicepresidenta + Consejero Delegado 双任(2026-06 BORME 谱),official-self-published·谱/leads-only(直发需 opt-in));Norberto Abascal Carmona(Consejero(理事),official-self-published·谱/leads-only(直发需 opt-in));Pedro Piñar de Jesús(Secretario(秘书处),official-self-published·谱/leads-only(直发需 opt-in));Julio Peñas Artero(AESMIDE 会卡联络(协会谱),official-self-published·谱/leads-only(直发需 opt-in))**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
-- **⑤在乎与偏好**：90 人 48 年=大户谱
+- **①背景再核**：1978 S.A. 48 年;51-200;**Defensa 带守界(民用商用词必压)**
+- **②芯片/型号**：GPON→XGS-PON 迁项;24 口 PoE(424XGGPM 280W)民用商用载线
+- **③KP 深挖**：Estévez Consejera Delegada+Briales 质量+Ruiz QMS/PRL 三谱 O/G 级;AOTEC XVII 展会线
+- **④Saga 对标**：民用商用光纤/GPON 迁项目 → 24 口 PoE 载线;Partner 谱 5 大
+- **⑤在乎与偏好**：Defensa 带=民用商用句必压;AOTEC 展会送样;LI 771 粉
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**BORME 谱: 2022-04 Presidente García de las Heras 退→Estévez Quintana Alfonso 任(2022-07);2026-06 Reyes Carlota E. Consejero Delegado+Consejero 双任;Consejero: Abascal Carmona Norberto;Secretario: Piñar de Jesús Pedro(datoscif/einforma 登记件)
-  > BORME 谱: 2022-04 Presidente García de las Heras 退→Estévez Quintana Alfonso 任(2022-07);2026-06 Reyes Carlota E. Consejero Delegado+Consejero 双任;Consejero: Abascal Carmona Norberto;Secretario: Piñar de Jesús Pedro(datoscif/einforma 登记件)
-  > 来源：https://www.datoscif.es/empresa/lineas-y-cables-sa
-- **【联系方式与基础画像】**NIF A28552149;C/ Virgilio 19, 28223 Pozuelo de Alarcón(Madrid);fundada 26/12/1978;90 empleados(2025);15 administradores;laboratorios electrónica/RF/energía+almacén 2000㎡;Distribución Sistemas TIC y Equipos de Redes de Comunicaciones(infonif/aesmide 件)
-  > NIF A28552149;C/ Virgilio 19, 28223 Pozuelo de Alarcón(Madrid);fundada 26/12/1978;90 empleados(2025);15 administradores;laboratorios electrónica/RF/energía+almacén 2000㎡;Distribución Sistemas TIC y Equipos de Redes de Comunicaciones(infonif/aesmide 件)
-  > 来源：https://infonif.economia3.com/ficha-empresa/lineas-y-cables-sa
-- **【近期动态与线索】****AESMIDE(国防工业协会)会员谱=军防边界守界注记**;最新 BORME 动作 2026-06(新 Consejero Delegado 双任)
-  > **AESMIDE(国防工业协会)会员谱=军防边界守界注记**;最新 BORME 动作 2026-06(新 Consejero Delegado 双任)
-  > 来源：https://aesmide.es/asociado/lineas-y-cables-sa/
+- **【决策链与对接人】**Reyes Estevez: Consejera Delegada en Líneas y Cables S.A.;Eduardo Briales: Director Calidad;Patricia Ruiz de León Frade: Técnico QMS/medio ambiente/PRL
+  > Reyes Estevez: Consejera Delegada en Líneas y Cables S.A.;Eduardo Briales: Director Calidad;Patricia Ruiz de León Frade: Técnico QMS/medio ambiente/PRL
+  > 来源：https://es.linkedin.com/company/lineas-y-cables-s-a-
+- **【公司谱】**Líneas y Cables S.A. | 771 seguidores;Fundación 1978;Pozuelo de Alarcón, Madrid;51-200 empleados;tipo privada;Especialidades: Networking, FTTH, Redes radio, WiFi, fiber cables, Defensa…
+  > Líneas y Cables S.A. | 771 seguidores;Fundación 1978;Pozuelo de Alarcón, Madrid;51-200 empleados;tipo privada;Especialidades: Networking, FTTH, Redes radio, WiFi, fiber cables, Defensa…
+  > 来源：https://es.linkedin.com/company/lineas-y-cables-s-a-
+- **【展会线】**LYC va a realizar presencia en XVII Feria Tecnológica AOTEC…Expositor Oficial…Partners Commscope, Allied Telesis, Check Point, RNS, Motorola…
+  > LYC va a realizar presencia en XVII Feria Tecnológica AOTEC…Expositor Oficial…Partners Commscope, Allied Telesis, Check Point, RNS, Motorola…
+  > 来源：https://www.grupolineasycables.com/index.php/component/content/article/133-aotec-2?catid=57&Itemid=797
+- **【项目案例】**Instalación de sistema de interfonía IP para centro penitenciario Topas (Salamanca) — Dpto Sistemas LyC, 03 Noviembre 2021
+  > Instalación de sistema de interfonía IP para centro penitenciario Topas (Salamanca) — Dpto Sistemas LyC, 03 Noviembre 2021
+  > 来源：https://www.grupolineasycables.com/index.php/component/content/article/123-instalacion-de-sistema-de-interfonia-ip-para-centro-penitenciario?catid=51&Itemid=797
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：LINEAS Y CABLES S.A.(西班牙 Pozuelo de Alarcón(马德里),C/ Virgilio 19(影像城);**NIF A-28552149;1978-12-26 创 48 年;90 人(2025);€10-50M;TIC 系统+通信网络设备分销;电子/RF/能源实验室+2000㎡ 仓**;**AESMIDE 国防工业协会员=军防边界守界注记;2022-04 权杖换代:García de las Heras(创始)退→Alfonso Estévez Quintana 登基(家族二代谱);VP Reyes-Carlota Estévez Santiago;最新 BORME 2026-06 Reyes Carlota E. Consejero Delegado 双任**
-- **产品线与在售品牌**：(波次二补谱面)
-- **目标行业与场景**：西班牙马德里 48 年 TIC 分销大户(军防会员)
-- **团队与规模**：90 人;€10-50M
-- **决策链与对接人**：**Alfonso Estévez Quintana(Presidente(2022-07 起;二代接班谱),official-self-published·谱/leads-only(直发需 opt-in));Reyes-Carlota Estévez Santiago(Vicepresidenta + Consejero Delegado 双任(2026-06 BORME 谱),official-self-published·谱/leads-only(直发需 opt-in));Norberto Abascal Carmona(Consejero(理事),official-self-published·谱/leads-only(直发需 opt-in));Pedro Piñar de Jesús(Secretario(秘书处),official-self-published·谱/leads-only(直发需 opt-in));Julio Peñas Artero(AESMIDE 会卡联络(协会谱),official-self-published·谱/leads-only(直发需 opt-in))**
-- **技术与认证**：(波次二补)
-- **采购与供应链信号**：(波次二补)
-- **近期动态与线索**：2026-10-08 R66 19 波谱名牌
-- **与我方契合点**：24 口 value PoE 谱链窗口
-- **风险与注意**：Estévez 父子谱换代贺(opt-in 律;军防边界守界)
+- **业务定位**：Líneas y Cables S.A.(1978,48 年,51-200):通讯工程集商+Defensa 带(军守界注)
+- **产品线与在售品牌**：FTTH 光纤/radio/WiFi/GPON→XGS-PON/UDS;Partners Commscope/Allied Telesis/Check Point/RNS/Motorola
+- **目标行业与场景**：光纤工程/网络载线/民用商用+「Defensa」标签(零军货语义=仅载线合规线)
+- **团队与规模**：51-200;质量 LyC Dpto Sistemas 谱
+- **决策链与对接人**：Reyes Estévez(Consejera Delegada)+Eduardo Briales(质量)+Patricia Ruiz de León Frade(QMS/PRL)
+- **技术与认证**：AOTEC XVII 官方参展 2024;ISO 质量体;GPON→XGS-PON 迁专线
+- **采购与供应链信号**：Partner 谱 Commscope/Allied Telesis/Check Point/RNS/Motorola 载销;工程项大一
+- **近期动态与线索**：AOTEC 2024 展;Topas Salamanca 监狱 interfonía IP 项目;UDS Enterprise 新产品
+- **与我方契合点**：Estévez 执行理位/ Briales 质量门 → 24口 PoE 民用商用普通项引路(GPON 迁项载线路线)
+- **风险与注意**：**Defensa 标签在谱=绝口军火/武器/监控压制;民用商用场景词必压**;LI 771 粉;私融 S.A.
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -195,10 +204,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：90 人 48 年=大户谱
-- **W**：大分销谱
-- **O**：Estévez 二代换代窗位
-- **T**：军防界守界注
+- **S**：48 年+Partner 谱 5 大
+- **W**：Defensa 带规
+- **O**：GPON→XGS 迁风
+- **T**：守界压次
 
 ## 触达与风险红线
 
@@ -226,8 +235,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 硬件采购线在职者(波次二)
-  - [ ] MikroTik 谱面份额
+  - [ ] MikroTik 谱位在售线需官网核
+  - [ ] Estévez 直邮推档
+  - [ ] Defensa 场景词排检
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -239,12 +249,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Estimado Sr. Estévez,
+Dear Reyes Estévez Team,
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for civilian / commercial FTTH and GPON-to-XGS-PON migration deployments. Datasheet + CE pack on request.
 
-Best regards,
-Saga Networks Export Desk
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

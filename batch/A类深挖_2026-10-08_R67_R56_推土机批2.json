@@ -1,0 +1,624 @@
+{
+ "date": "2026-10-08",
+ "wave": "R67 推土机深挖 批2(5 户跨区:A-187 法/A-226 瑞/A-140 德/A-220 西/A-112 瑞;全谱=登册+KP详谱+营收+展会+Defensa 守界+同名排噪)",
+ "scope": "深挖 5/5;具名 KP 15 条(Cohen/De Monchy/Chatelin/Lyoth/Lory/Tschanz/Schild/Bachert/Werner/Estévez/Briales/Ruiz/Ringbom/Lindberg/Barck/Gozzi,O/G 级标);营收锚=A-226 Five Gruppe 38 年+A-187 866k€ 资本+A-220 1978 S.A 48 年+A-112 201MSEK(2022);Defensa 守界 1 户(A-220);同名排噪 2 户(A-140/A-490 波1 已完)",
+ "records": [
+  {
+   "customer": "A-187",
+   "fact": "波 R67 批2·A-187:法谱: **GROUPE NETWORKS SAS 集团控股深挖(pappers/societe/manageo 三登册互证)**:法体=530 634 252 R.C.S,2011-01 创 SAS(控股 NAF 6420Z),**资本 €866,400**,Aubagne(13)Actiburo 3 Entrée C 100 Ch de St Lambert;**员工 6-9(2022 登),CA €1,031,938(2023)**;官网 groupenetworks.fr;业务线=办公设备分销(生产型/大幅面印刷机+数字彩黑白印刷机+工程制图机 kompass 真人线)+IT 服务关键词线(MSSP 网安/云/infogérance/GED/打印/电信/去纸化);**关联实体谱:HEO NETWORKS(SIREN 794526004,自 2013-08 起 GROUPE NETWORKS 任 Président=子司线)+MC2C CONSEILS(823997283=现 dirigeant 席位)+前席 LTH CONSEILS(Laurent Thomas)+ED PARTICIPATION(Emmanuel David)**;contactout 检:邮箱模式 75% = {first_initial}{last}@groupenetworks.fr;**MikroTik 谱位=groupenetworks.fr 的 IT 集成服务线**(需项谱存疑压注:办公设备主基)。",
+   "inference": "R67 推土机深挖 批2 具名 KP 金谱(三登册+contactout 交叉)",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名 IT 服务线引路",
+   "evidence_main": "https://www.pappers.fr/entreprise/groupe-networks-530634252",
+   "tech": "MSSP 网安/云/infogérance/contactout-mode fr mail",
+   "hr": "6-9 员工 SAS;beneficiaire effectif Maurice Cohen 实控链",
+   "contact_found": "**Maurice Cohen(Bénéficiaire Effectif 实控+Dirigeant Principal,O 级三登册)+Quentin De Monchy(Gérant fondateur 创始 tercer+HEO 关联实控)+Franz Chatelin(Digital Marketing Strategist)**",
+   "contact_pending": "直发具名需 opt-in;邮箱模式 {first_initial}{last}@groupenetworks.fr 75%",
+   "dims": {
+    "业务定位": "GROUPE NETWORKS SAS(530634252,2011,€866k):办公设备分销集团(MSSP 网安 IT 服务线带)",
+    "产品线与在售品牌": "生产型/大幅面印刷机+数字印刷机+工程制图机+印服 GED/电信/去纸化/网安 MSSP;MikroTik 谱=IT 服务线",
+    "目标行业与场景": "地方企业 infogérance/打印外包/网安存纳",
+    "团队与规模": "6-9(2022 登);MSSP 线带",
+    "决策链与对接人": "Maurice Cohen(实控/主要 dirigeant)+Quentin De Monchy(创始 Gérant)+Franz Chatelin(营销)+dirigeant 席=MC2C CONSEILS",
+    "技术与认证": "pappers/societe/manageo 三登册;邮箱 75% 模式",
+    "采购与供应链信号": "办公设备分销链;IT 设备集纳线",
+    "近期动态与线索": "BODACC 2021 公告 Président MC2C CONSEILS;CA €1.03M(2023);HEO 子司线活性",
+    "与我方契合点": "MSSP/网安线具名 Cohen-De Monchy 门 + 424 PoE 24 口引路",
+    "风险与注意": "官网谱位=IT 服务线(MikroTik 点子需核);邮箱模式 75% 送完核;6-9 人小盘"
+   },
+   "evidence": [
+    {
+     "dim": "决策链与对接人",
+     "quote": "Bénéficiaires effectifs: Maurice COHEN;Dirigeant Principal M. Maurice COHEN(kompass);Gérant fondateur Quentin De Monchy(contactout)",
+     "source": "https://www.pappers.fr/entreprise/groupe-networks-530634252"
+    },
+    {
+     "dim": "财务",
+     "quote": "Capital social 866 400 EUR;Dernier CA 1 031 938 € (2023);Effectif 6-9 (2022)",
+     "source": "https://www.manageo.fr/entreprises/530634252.html"
+    },
+    {
+     "dim": "关联实体",
+     "quote": "HEO NETWORKS 794526004 actionnariat dirigeants;MC2C CONSEILS 823997283;LTH CONSEILS Laurent THOMAS;ED PARTICIPATION Emmanuel DAVID",
+     "source": "https://www.societe.com/societe/groupe-networks-530634252.html"
+    },
+    {
+     "dim": "邮箱模式",
+     "quote": "{first_initial}{last}@groupenetworks.fr 75.00%;Tél 0809 90 56 56;Franz Chatelin Digital Marketing Strategist",
+     "source": "https://contactout.com/company/Groupe-Networks-54483"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Cohen 实控门",
+     "push": "STC-424XGGPM-280W",
+     "angle": "MSSP/网安集纳线引路 → 24口 PoE 载线；Cohen 直寄 75% 模 {mc}ohen@groupenetworks.fr 钩核",
+     "question": "贵司 IT 集成服务线的硬件采购由哪位主责?PoE 交换机线 24 口 280W 有接口意?",
+     "proof": "SIREN/SIRET/CA 登册真源"
+    },
+    {
+     "stage": "第 2 次跟进 · De Monchy 创始二线",
+     "push": "STI-288GPM/424",
+     "angle": "创始 tercer 双枢宽;15 天有效引压",
+     "question": "贵司 MSSP 网安线的客户侧网交换设备载线用何种型号集?",
+     "proof": "联系 contactout 检真"
+    },
+    {
+     "stage": "第 3 次跟进 · Chatelin 营销线",
+     "push": "STC-28DGGPM",
+     "angle": "营销口转送硬件采;子司 HEO 巾网物送",
+     "question": "贵司与 HEO NETWORKS 子司线的集购线举?",
+     "proof": ""
+    }
+   ],
+   "unknowns": [
+    "MikroTik 谱位在售线需官网谱真查",
+    "Cohen 直核时效",
+    "HEO 子司线送样界"
+   ],
+   "relation": "2026-10-08 R67 推土机深挖 批2",
+   "email": "Dear Maurice Cohen Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each MSSP / IT integration deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**Maurice Cohen(实控/Dirigeant Principal,O 级三登册)+Quentin De Monchy(创始 Gérant)+Franz Chatelin(营销)**",
+   "kp": [
+    {
+     "name": "Maurice Cohen",
+     "role": "Bénéficiaire Effectif(实控人)+Dirigeant Principal;跨 HEO/MC2C 同名出现 3 登册文件;集团主实控链",
+     "contact": "{mc}ohen@groupenetworks.fr(75% 模式推断,送完核)",
+     "status": "pappers+societe+kompass 三登 O 级/推断邮箱 G 级",
+     "source": "https://www.pappers.fr/entreprise/groupe-networks-530634252"
+    },
+    {
+     "name": "Quentin De Monchy",
+     "role": "Gérant / fondateur(contactout 公章)+HEO NETWORKS 关联实控(pappers 载);集团创始 tercer 辅枢",
+     "contact": "{qd}e{monchy}@groupenetworks.fr(75% 模式推断)",
+     "status": "contactout+pappers 双源 O/G 级",
+     "source": "https://contactout.com/company/Groupe-Networks-54483"
+    },
+    {
+     "name": "Franz Chatelin",
+     "role": "Digital Marketing Strategist(contactout 公章,重数 vex);营销口=硬件采购转送位;近期活性在册",
+     "contact": "fc@groupenetworks.fr(75% 模式推断)",
+     "status": "contactout 登真 O/G 级",
+     "source": "https://contactout.com/company/Groupe-Networks-54483"
+    }
+   ],
+   "tag": "类型=GROUPE NETWORKS SAS 集团控股;态势=Cohen 实控+De Monchy 创始+子司 HEO 带;扭转=75% 邮箱模式",
+   "question": "触达决策门:Maurice Cohen(Bénéficiaire Effectif 实控+Dirigeant Principal)拍板;IT 服务线采此处;",
+   "alt2": "替代口:Quentin De Monchy(Gérant fondateur 创始 tercer)+子司 HEO NETWORKS 谱;",
+   "alt3": "备用:0809 90 56 56(法免长途总机)+contactout 工位闸;Franz Chatelin(营销)转线",
+   "r55": {
+    "dims": {
+     "①背景再核": "SAS holding 2011 创 €866k 资本;HEO 子司线;pappers/societe/manageo 三登册互证",
+     "②芯片/型号": "MikroTik 谱位 IT 服务线;24 口 PoE(424XGGPM 280W)载线契合",
+     "③KP 深挖": "Cohen(bénéficiaire effectif)+De Monchy(创始 Gérant)+Chatelin(营销)三谱 O/G 级;邮箱 75% 模",
+     "④Saga 对标": "MSSP/网安集纳线 → 24 口 PoE 转注;法国免长途台口",
+     "⑤在乎与偏好": "本地 infogérance/网安存纳法语语境;三登册真谱",
+     "⑥SWOT": "S=实控人明+融合集/W=6-9 小盘谱位旁/O=MSSP 网安线升格/T=谱位机载低先密"
+    },
+    "care": "邮箱 75% 模式送完核对;子司 HEO 需带;法电 0809 905656 免长途",
+    "swot": {
+     "S": "实控人明+融合集",
+     "W": "6-9 小盘谱位旁",
+     "O": "MSSP/网安线升格",
+     "T": "谱位机载低先密"
+    },
+    "uncertain": "MikroTik 机位在售线需官网谱真查;Cohen 直核松下",
+    "gap_proof": "DE 模 75% 轻按"
+   }
+  },
+  {
+   "customer": "A-226",
+   "fact": "波 R67 批2·A-226:瑞谱: **Five Informatik AG 集团深挖(CHE-106.305.349 登册+netzwoche CEO 官宣双源)**:1988 创(38 年活档 AG),Bern Urtenen-Schönbühl Bahnhofstrasse 5,UID CHE-106.305.349 「IT 咨询」;**Five Gruppe 集(Taxware+Alan Software 同集团);主营 Kendox 文档管理+Abacus ERP+Matrix42 ESM+TaxWare 财税+ONE Immo+IT 服务/网安**;**人鼎金谱:Oliver Lyoth=现任 CEO(2023-01 起;前 T-Systems Schweiz 20 年:International Service Desk→2008 Service Delivery Manager→2014 Senior SDM;eidg. Fachausweis 专凭;2022-09 入职)**;**Chair=Christian Lory(2022-01 起主席;Präsident 1998-06 入职)**;前 CEO Ulrich Tschanz(35 年任 2023-01 退,留存 VR 成员+项目);**Authorized signatory (ppa): Alexander Schild(northdata 载);handelsregister 2025-10/2026-05/08 三档变SHAB 活**;官网 fiveinformatik.ch(市府目录档 Oliver Lyoth Bahnhofstrasse 5 名联)=IT 集成服务线具名。",
+   "inference": "R67 推土机深挖 批2 具名 KP 金谱(CHE 登册+netzwoche 官宣 36 年谱)",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Oliver Lyoth IT 服务线引路",
+   "evidence_main": "https://business-monitor.ch/de/companies/148053-five-informatik-ag",
+   "tech": "Kendox/Abacus/Matrix42/TaxWare/ONE Immo;T-Systems Schweiz 前血 20 年;IT 集成服务线",
+   "hr": "38 年 AG;Five Gruppe 集(Taxware/Alan Software);northdata 7 ppa+1 VZ+1 GF+2 VR=11 责位在册",
+   "contact_found": "**Oliver Lyoth(CEO 2023-01 起 O 级官宣)+Christian Lory(VR 主席)+Ulrich Tschanz(前 CEO 35 年留 VR)+Alexander Schild(ppa)**",
+   "contact_pending": "直发具名需 opt-in;fiveinfo.ch/fiveinformatik.ch 两域链",
+   "dims": {
+    "业务定位": "Five Informatik AG(CHE-106.305.349,1988,38 年 AG):IT 集成服务商(集团 Five Gruppe)",
+    "产品线与在售品牌": "Kendox 文档管理+Abacus ERP+Matrix42 ESM+TaxWare+ONE Immo+IT 服务网安+顾问件",
+    "目标行业与场景": "中型企业 IT 全盘(MSSP 带;财/律/不动产垂直 ERP)",
+    "团队与规模": "集团 3 体(Five Info+Taxware+Alan);11 责位;伯县谱",
+    "决策链与对接人": "CEO Oliver Lyoth(2023-01)+VR 主席 Christian Lory(2022-01)+前 CEO Ulrich Tschanz(35 年 VR 储)+ppa Alexander Schild",
+    "技术与认证": "CHE 登册+SHAB 变 2025-10~2026-08;T-Systems 前血 20 年 CEO",
+    "采购与供应链信号": "IT 集纳=第三方硬件转注;ERP 软权",
+    "近期动态与线索": "SHAB 2026-05/2026-08 变档活;netzwoche 2022-08-08 CEO 官宣;市府目录在册",
+    "与我方契合点": "Lyoth IT 服务线直门 + 424 PoE 24口集纳转注",
+    "风险与注意": "Lyoth 2023 上谱随官变需时效钉;SHAB 变档需后登核;38 年稳健无快变"
+   },
+   "evidence": [
+    {
+     "dim": "决策链与对接人",
+     "quote": "Oliver Lyoth ab 1. Januar 2023 als CEO;Nachfolger von Ulrich Tschanz(35 Jahre);Lory Chair of the board;Schild Authorized signatory (ppa)",
+     "source": "https://www.netzwoche.ch/news/2022-08-08/five-informatik-ernennt-neuen-ceo"
+    },
+    {
+     "dim": "法体登册",
+     "quote": "Five Informatik AG, Urtenen-Schönbühl, CHE-106.305.349, Aktiengesellschaft;SHAB Nr 2025-10/2026-05/2026-08 三档变;Georg 1988 创",
+     "source": "https://business-monitor.ch/de/companies/148053-five-informatik-ag"
+    },
+    {
+     "dim": "集团集",
+     "quote": "Five Informatik + Taxware + Alan Software = Five Gruppe;股权谱 northdata 11 责位",
+     "source": "https://www.northdata.com/Five%20Informatik%20AG,%20Urtenen-Sch%C3%B6nb%C3%BChl/CHE-106.305.349"
+    },
+    {
+     "dim": "Ceo 历证",
+     "quote": "Bis anhin arbeitete der Informatiker mit eidg. Fachausweis bei T-Systems Schweiz…2008 Service Delivery Manager…2014 Senior SDM",
+     "source": "https://www.netzwoche.ch/news/2022-08-08/five-informatik-ernennt-neuen-ceo"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Lyoth CEO 门",
+     "push": "STC-424XGGPM-280W",
+     "angle": "IT 集成服务线 → 24口 PoE 集纳转注;T-Systems 前血 20 年简历钩核",
+     "question": "贵司 IT 集成服务线客户侧网交换机集纳由哪位主责?",
+     "proof": "netzwoche CEO 官宣+登册真源"
+    },
+    {
+     "stage": "第 2 次跟进 · Lory 主席二线",
+     "push": "STI-288GPM",
+     "angle": "主席识链;Five Gruppe 三体集送",
+     "question": "贵司集团(Five/Taxware/Alan)集中建置硬供口?",
+     "proof": "登册 VR 主位"
+    },
+    {
+     "stage": "第 3 次跟进 · Tschanz 前 CEO 驻 VR",
+     "push": "STC-424",
+     "angle": "35 年 VR 老谱;项目专储问口",
+     "question": "前 CEO Tschanz 项目储线的硬件转注在集?",
+     "proof": ""
+    }
+   ],
+   "unknowns": [
+    "MikroTik 谱位在售线需官网核",
+    "Lyoth 直邮推算",
+    "集团集购线"
+   ],
+   "relation": "2026-10-08 R67 推土机深挖 批2",
+   "email": "Dear Oliver Lyoth Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each IT service integration deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**Oliver Lyoth(CEO 2023-01,O 级官宣)+Christian Lory(VR 主席)+Ulrich Tschanz(前 CEO 留 VR)+Alexander Schild(ppa)**",
+   "kp": [
+    {
+     "name": "Oliver Lyoth",
+     "role": "CEO(2023-01 起);前 T-Systems Schweiz 20 年(International Service Desk→2008 SDM→2014 Senior SDM);eidg. Fachausweis;2022-09 入职",
+     "contact": "oliver.lyoth@fiveinformatik.ch(推断,送完核)+LinkedIn Xing 谱链",
+     "status": "netzwoche+business-monitor+northdata+D&B 四源 O 级",
+     "source": "https://www.netzwoche.ch/news/2022-08-08/five-informatik-ernennt-neuen-ceo"
+    },
+    {
+     "name": "Christian Lory Von Konolfingen",
+     "role": "Chair of the board / VR Präsident(2022-01 起;1998-06 入职=28 年司史)",
+     "contact": "fiveinformatik.ch 台口 031 850 60·推断直邮",
+     "status": "business-monitor+northdata O 级",
+     "source": "https://business-monitor.ch/de/companies/148053-five-informatik-ag"
+    },
+    {
+     "name": "Ulrich Tschanz",
+     "role": "前 CEO(35 年任,2023-01 退;现役 VR 成员+dezidierte Projekte);2026-05 SHAB 变",
+     "contact": "fiveinformatik.ch 台口;推断直邮",
+     "status": "netzwoche+business-monitor O 级(老谱)",
+     "source": "https://business-monitor.ch/de/companies/148053-five-informatik-ag"
+    },
+    {
+     "name": "Alexander Schild",
+     "role": "Authorized signatory (ppa) 签署权;northdata 载",
+     "contact": "fiveinformatik.ch",
+     "status": "northdata O 级",
+     "source": "https://www.northdata.com/Five%20Informatik%20AG,%20Urtenen-Sch%C3%B6nb%C3%BChl/CHE-106.305.349"
+    }
+   ],
+   "tag": "类型=Five Informatik AG 集团;态势=Oliver Lyoth 新 CEO 2023 线门;KP=CEO/VR/前CEO/ppa 四谱",
+   "question": "触达决策门:Oliver Lyoth(CEO 2023-01)线门;Five Gruppe 三体集中建置;",
+   "alt2": "替代口:Christian Lory(VR 主席 28 年司史)+Ulrich Tschanz(前 CEO 35 年留 VR);",
+   "alt3": "备用:031 850 60 台口+Alexander Schild(ppa)；市府目录官方链",
+   "r55": {
+    "dims": {
+     "①背景再核": "1988 创 38 年 AG;CHE-106.305.349 登册;Five Gruppe 三体(Taxware+Alan Software)",
+     "②芯片/型号": "IT 服务线;24 口 PoE(424XGGPM 280W)集纳转注",
+     "③KP 深挖": "Lyoth CEO 2023-01(T-Systems 20 年)+Lory 主席+Tschanz 前 CEO 留 VR+Schild ppa 四谱 O 级",
+     "④Saga 对标": "IT 集成服务线 → 24 口 PoE 集纳转注;新 CEO 线转注门",
+     "⑤在乎与偏好": "中型企业全盘 MSSP;伯县 RM;SHAB 变档谱",
+     "⑥SWOT": "S=38 年 AG+集团/W=软权主基旁/O=Lyoth 新上任档集纳/T=旁盘先密"
+    },
+    "care": "SHAB 变档后登核;ERP/文件管理主基旁谱",
+    "swot": {
+     "S": "38 年 AG+集团",
+     "W": "软权主基旁",
+     "O": "Lyoth 新上任档集纳",
+     "T": "旁盘先密"
+    },
+    "uncertain": "MikroTik 机位在售线需查;Lyoth 直邮推定",
+    "gap_proof": "northdata 登真"
+   }
+  },
+  {
+   "customer": "A-140",
+   "fact": "波 R67 批2·A-140:德谱: **Bachert Datentechnik GmbH 深挖(xing 公章+imprint 三源对齐+同名排噪)**:Wetzlar Schanzenfeldstraße 14(35578,Hessen 近法兰克福),**商登 Registergericht Wetzlar HR?**(imprint 载 Registernummer 1066,USt DE112597233);**GF Thomas Bachert(imprint U RStV 内容负责同人;30+ 年司:30 Jahre>1995 前创)**;11-50 员工(xing);**Vertrieb 谱=Bruno Werner(xing 员工公分)**;主营=通信解决一网源(网络布线 Netzwerkverkabelung+会议技术 Konferenztechnik+通信系统 Kommunikationssysteme+数据中心 RZ+监控系统 Überwachung);官网 bachert.de;**同名排噪链:≠Harald Bachert GmbH Heidenheim(HRB 660987 Ulm,2019 已退)≠bachert&partner Stuttgart(咨询姓同牌异)——Wetzlar 谱唯一吻合**;Tel +49 6441 44780 / Fax ...199;info@bachert.de 具名。",
+   "inference": "R67 推土机深挖 批2 具名 KP 金谱(xing 公章+imprint 自证+同名排噪)",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Bruno Werner 销口引路",
+   "evidence_main": "https://www.xing.com/pages/bachertdatentechnikgmbh/about_us",
+   "tech": "Netzwerkverkabelung/Konferenztechnik/Kommunikationssysteme/RZ/Überwachung 五维系统集",
+   "hr": "GF 1+Vertrieb Bruno Werner;11-50 员工;30+ 年",
+   "contact_found": "**Thomas Bachert(Geschäftsführer,imprint 自证 O 级)+Bruno Werner(Vertrieb 销口,xing 员工公分)**",
+   "contact_pending": "直发具名需 opt-in;info@bachert.de 台口活档",
+   "dims": {
+    "业务定位": "Bachert Datentechnik GmbH(Wetzlar,Registernummer 1066):30+ 年通信系统集商(布线/会议/RZ/监控)",
+    "产品线与在售品牌": "Netzwerkverkabelung 布线+Konferenztechnik+Kommunikationssysteme+RZ 数据中心+Überwachung 监控",
+    "目标行业与场景": "Hessen/周边中企 RZ+布线组网+会议+监控",
+    "团队与规模": "11-50(xing);GF+销 2 谱",
+    "决策链与对接人": "Thomas Bachert(GF)+Bruno Werner(Vertrieb P0)",
+    "技术与认证": "USt DE112597233;Reg Wetzlar 1066;30+ 年档",
+    "采购与供应链信号": "系统集=第三方硬件转注;布线/RZ 项目载线",
+    "近期动态与线索": "xing 公户活;官网 30 年宣传;惠信息久新",
+    "与我方契合点": "Werner 销口 → 24口 PoE 转注(RZ+布线项目载线)",
+    "风险与注意": "同名三人排噪必压(Heidenheim 660987 已退/否 Stuttgart 咨询);GF/销 2 人小盘"
+   },
+   "evidence": [
+    {
+     "dim": "决策链与对接人",
+     "quote": "Thomas Bachert Geschäftsführer;Bruno Werner Vertrieb(xing Employees/Contact persons)",
+     "source": "https://www.xing.com/pages/bachertdatentechnikgmbh"
+    },
+    {
+     "dim": "Imprint 自证",
+     "quote": "Bachert Datentechnik GmbH Schanzenfeldstraße 14, D-35578 Wetzlar;Vertretungsberechtigter Geschäftsführer: Thomas Bachert;Registernummer: 1066;UstIdNr DE 112597233",
+     "source": "https://www.xing.com/pages/bachertdatentechnikgmbh/about_us"
+    },
+    {
+     "dim": "业务",
+     "quote": "individuell zugeschnittene Kommunikationslösungen, Verkauf, Beratung, Planung, Lieferung, Montage und Wartung aus einer Hand — seit über 30 Jahren",
+     "source": "https://www.xing.com/pages/bachertdatentechnikgmbh"
+    },
+    {
+     "dim": "同名排噪",
+     "quote": "Harald Bachert GmbH HRB 660987 Ulm(2019 退/注销)≠ bachert&partner Stuttgart(咨询)≠ Wetzlar 谱",
+     "source": "https://openregister.de/company/DE-HRB-B2805-660987"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Werner 销口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "Vertrieb 销口直门 → RZ/布线项目 24口 PoE 转注",
+     "question": "贵司 RZ/布线项目线的交换机集纳由哪位主责?",
+     "proof": "xing 公章+imprint 自证"
+    },
+    {
+     "stage": "第 2 次跟进 · Bachert GF 二线",
+     "push": "STI-288GPM",
+     "angle": "GF 拍板;30+ 年谱钩",
+     "question": "贵司通信系统集线的硬件集购口?",
+     "proof": "imprint GF 自证"
+    },
+    {
+     "stage": "第 3 次跟进 · info 台口三线",
+     "push": "STC-28DGGPM",
+     "angle": "台口转正;RZ/监控 项目载",
+     "question": "780 号总机转 Werner?",
+     "proof": ""
+    }
+   ],
+   "unknowns": [
+    "MikroTik 在售谱位需核",
+    "Werner 直邮推档",
+    "HZ 项格力项目线"
+   ],
+   "relation": "2026-10-08 R67 推土机深挖 批2",
+   "email": "Dear Bruno Werner Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each cabling / data-center deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**Bruno Werner(Vertrieb 销口 P0,xing 员工公分)+Thomas Bachert(GF,O 级 imprint 自证)**",
+   "kp": [
+    {
+     "name": "Bruno Werner",
+     "role": "Vertrieb 销售口(xing 员工公分;Bachert Datentechnik 公司页 public);硬件转注=此口 P0",
+     "contact": "bwerner@bachert.de(推断)/+49 6441 44780 台口转",
+     "status": "xing 公章 O 级/邮箱推断 G 级",
+     "source": "https://www.xing.com/pages/bachertdatentechnikgmbh"
+    },
+    {
+     "name": "Thomas Bachert",
+     "role": "Geschäftsführer + U RStV 内容负责(imprint 自证);30+ 年实控链;Vertretungsberechtigt",
+     "contact": "tbachert@bachert.de(推断)+49 6441 44780",
+     "status": "imprint+xing 双自证 O 级",
+     "source": "https://www.xing.com/pages/bachertdatentechnikgmbh/about_us"
+    }
+   ],
+   "tag": "类型=通信系统集 30+ 年;态势=RZ/布线载线;KP=GF Bachert+销 Werner 双谱",
+   "question": "触达决策门:Bruno Werner(Vertrieb 销口 P0)直门;Thomas Bachert(GF)拍板;",
+   "alt2": "替代口:info@bachert.de 台口转 Werner/RZ 技术线;",
+   "alt3": "备用:+49 6441 44780 总机·Schanzenfeldstraße 14 邮寄样件",
+   "r55": {
+    "dims": {
+     "①背景再核": "30+ 年 Wetzlar GmbH;Reg Wetzlar 1066;同名三人排噪(Heidenheim 660987 退/Stuttgart 咨询)",
+     "②芯片/型号": "RZ/布线/会议/监控系统集;24 口 PoE(424XGGPM 280W)转注载线",
+     "③KP 深挖": "Werner 销口(xing)+Thomas Bachert GF(imprint)双谱 O/G 级",
+     "④Saga 对标": "RZ/布线项目 → 24 口 PoE 转注载线;Vertrieb 直门",
+     "⑤在乎与偏好": "Hessen 中企 RZ+布线组网;30 年「Immer einen Schritt voraus」谱",
+     "⑥SWOT": "S=30+ 年+RZ/布线/W=2 谱小/O=数据中心项目带/T=同名排噪"
+    },
+    "care": "同名三人排噪压谱(Heidenheim 660987 退/Stuttgart 咨询);GF/销 2 人小盘",
+    "swot": {
+     "S": "30+ 年+RZ/布线",
+     "W": "2 谱小",
+     "O": "数据中心项目带",
+     "T": "同名排噪"
+    },
+    "uncertain": "MikroTik 谱位在售线需核;Werner 直邮推档",
+    "gap_proof": "imprint/xing 真源"
+   }
+  },
+  {
+   "customer": "A-220",
+   "fact": "波 R67 批2·A-220:西谱: **Líneas y Cables S.A. 深挖(LI 公章 771 粉+AOTEC 展会线+Defensa 带=军守界注)**:S.A. 1978 创(**48 年司史,LI 自报**),Pozuelo de Alarcón(Madrid)Calle Virgilio 19 Ciudad de la Imagen 28223;**51-200 员工 Publikt(私融)SA**;主营=「Telecomunicaciones, Seguridad y Defensa」+工程系统(R&D/distribution/installation:FTTH 光缆/radio/WiFi/光纤电缆/能源/暖通/安防/PCI/水务燃气/IOT/**Defensa 军带**);**KP 三谱:Reyes Estévez(Consejera Delegada=执行理事 P0)+Eduardo Briales(Director Calidad 质量总监)+Patricia Ruiz de León Frade(Técnico calidad/medio ambiente/PRL)**;**展会线=AOTEC XVII 2024 官方参展(LYC 集团名义)+Partner 谱:Commscope/Allied Telesis/Check Point/RNS/Motorola/LBE(贸易项列明——Defensa 场景军火类绝口)**;案例线=Topas Salamanca 监狱 interphonía IP(光纤+结构缆+IP系统);产品热词=Cable 768 FO/GPON→XGS-PON 迁移/UDS Enterprise。**合规守界:Defensa 标签在谱=任何商机仅用民用商用场景词,零军火/武器/监控压制语义**。",
+   "inference": "R67 推土机深挖 批2 具名 KP 金谱(LI+AOTEC 双源+Defensa 守界)",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Estévez 执行理位/ Briales 质量门引路(民用商用限定)",
+   "evidence_main": "https://es.linkedin.com/company/lineas-y-cables-s-a-",
+   "tech": "FTTH/radio/WiFi/GPON→XGS-PON/UDS;Partners Commscope/Allied Telesis/Check Point/RNS/Motorola;AOTEC XVII 官方参展 2024",
+   "hr": "51-200 员工 S.A.1978 创;Consejera Delegada Estévez+质量资格 2 线 PRL",
+   "contact_found": "**Reyes Estévez(Consejera Delegada 执行理事 P0)+Eduardo Briales(Director Calidad 质量总监)+Patricia Ruiz de León Frade(Técnico QMS/PRL)**",
+   "contact_pending": "直发具名需 opt-in;Defensa 带=邮件语义民用商用限定",
+   "dims": {
+    "业务定位": "Líneas y Cables S.A.(1978,48 年,51-200):通讯工程集商+Defensa 带(军守界注)",
+    "产品线与在售品牌": "FTTH 光纤/radio/WiFi/GPON→XGS-PON/UDS;Partners Commscope/Allied Telesis/Check Point/RNS/Motorola",
+    "目标行业与场景": "光纤工程/网络载线/民用商用+「Defensa」标签(零军货语义=仅载线合规线)",
+    "团队与规模": "51-200;质量 LyC Dpto Sistemas 谱",
+    "决策链与对接人": "Reyes Estévez(Consejera Delegada)+Eduardo Briales(质量)+Patricia Ruiz de León Frade(QMS/PRL)",
+    "技术与认证": "AOTEC XVII 官方参展 2024;ISO 质量体;GPON→XGS-PON 迁专线",
+    "采购与供应链信号": "Partner 谱 Commscope/Allied Telesis/Check Point/RNS/Motorola 载销;工程项大一",
+    "近期动态与线索": "AOTEC 2024 展;Topas Salamanca 监狱 interfonía IP 项目;UDS Enterprise 新产品",
+    "与我方契合点": "Estévez 执行理位/ Briales 质量门 → 24口 PoE 民用商用普通项引路(GPON 迁项载线路线)",
+    "风险与注意": "**Defensa 标签在谱=绝口军火/武器/监控压制;民用商用场景词必压**;LI 771 粉;私融 S.A."
+   },
+   "evidence": [
+    {
+     "dim": "决策链与对接人",
+     "quote": "Reyes Estevez: Consejera Delegada en Líneas y Cables S.A.;Eduardo Briales: Director Calidad;Patricia Ruiz de León Frade: Técnico QMS/medio ambiente/PRL",
+     "source": "https://es.linkedin.com/company/lineas-y-cables-s-a-"
+    },
+    {
+     "dim": "公司谱",
+     "quote": "Líneas y Cables S.A. | 771 seguidores;Fundación 1978;Pozuelo de Alarcón, Madrid;51-200 empleados;tipo privada;Especialidades: Networking, FTTH, Redes radio, WiFi, fiber cables, Defensa…",
+     "source": "https://es.linkedin.com/company/lineas-y-cables-s-a-"
+    },
+    {
+     "dim": "展会线",
+     "quote": "LYC va a realizar presencia en XVII Feria Tecnológica AOTEC…Expositor Oficial…Partners Commscope, Allied Telesis, Check Point, RNS, Motorola…",
+     "source": "https://www.grupolineasycables.com/index.php/component/content/article/133-aotec-2?catid=57&Itemid=797"
+    },
+    {
+     "dim": "项目案例",
+     "quote": "Instalación de sistema de interfonía IP para centro penitenciario Topas (Salamanca) — Dpto Sistemas LyC, 03 Noviembre 2021",
+     "source": "https://www.grupolineasycables.com/index.php/component/content/article/123-instalacion-de-sistema-de-interfonia-ip-para-centro-penitenciario?catid=51&Itemid=797"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Estévez 执行理位",
+     "push": "STC-424XGGPM-280W",
+     "angle": "Consejera Delegada 直门 → 民用商用光纤/GPON 迁项 24口 PoE 载线(Defensa 场景词零)",
+     "question": "贵司民用商用光纤迁项线的交换机载线由哪位同事主责?24口 280W PoE 有接口意?",
+     "proof": "LI 公章真源 AOTEC 双证"
+    },
+    {
+     "stage": "第 2 次跟进 · Briales 质量门",
+     "push": "STI-288GPM/424",
+     "angle": "质量门识;合规/项目项送样来压力",
+     "question": "贵司质量项线的硬样集纳供口?",
+     "proof": "LI 名+质量职位"
+    },
+    {
+     "stage": "第 3 次跟进 · AOTEC 兼容口",
+     "push": "STC-28DGGPM",
+     "angle": "展会线株送样;GPON 迁项目前装",
+     "question": "贵司 AOTEC XVII 展的载线项口?",
+     "proof": ""
+    }
+   ],
+   "unknowns": [
+    "MikroTik 谱位在售线需官网核",
+    "Estévez 直邮推档",
+    "Defensa 场景词排检"
+   ],
+   "relation": "2026-10-08 R67 推土机深挖 批2",
+   "email": "Dear Reyes Estévez Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for civilian / commercial FTTH and GPON-to-XGS-PON migration deployments. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**Reyes Estévez(Consejera Delegada P0,LI 公章)+Eduardo Briales(Director Calidad)+Patricia Ruiz de León Frade(QMS/PRL)**",
+   "kp": [
+    {
+     "name": "Reyes Estévez",
+     "role": "Consejera Delegada(执行理事 LI 自报);Defensa 带=邮件语义民用商用限;集团决策口 P0",
+     "contact": "restevez@grupolineasycables.com(推断,送完核)/LI DM",
+     "status": "LI 公章 O 级/邮箱推断 G 级",
+     "source": "https://es.linkedin.com/company/lineas-y-cables-s-a-"
+    },
+    {
+     "name": "Eduardo Briales",
+     "role": "Director Calidad(质量总监 LI 自报);QMS 带;项目门识",
+     "contact": "ebriales@grupolineasycables.com(推断)",
+     "status": "LI 公章 O 级/邮箱推断 G 级",
+     "source": "https://es.linkedin.com/company/lineas-y-cables-s-a-"
+    },
+    {
+     "name": "Patricia Ruiz de León Frade",
+     "role": "Técnico calidad/medio ambiente/PRL(质量环安职防 LI 自报)",
+     "contact": "pruiz@grupolineasycables.com(推断)",
+     "status": "LI 公章 O 级/邮箱推断 G 级",
+     "source": "https://es.linkedin.com/company/lineas-y-cables-s-a-"
+    }
+   ],
+   "tag": "类型=通讯工程集商 48 年 S.A.;态势=Defensa 带守界;KP=Estévez 执行理位+Briales 质量+Ruiz QMS 三谱",
+   "question": "触达决策门:Reyes Estévez(Consejera Delegada 执行理事)拍板;Defensa 带=民用商用句必压;",
+   "alt2": "替代口:Eduardo Briales(Director Calidad 质量门)+Patricia Ruiz(QMS/PRL);",
+   "alt3": "备用:官网联系单+Calle Virgilio 19 Pozuelo;AOTEC XVII 展线(Partner 谱走品集)",
+   "r55": {
+    "dims": {
+     "①背景再核": "1978 S.A. 48 年;51-200;**Defensa 带守界(民用商用词必压)**",
+     "②芯片/型号": "GPON→XGS-PON 迁项;24 口 PoE(424XGGPM 280W)民用商用载线",
+     "③KP 深挖": "Estévez Consejera Delegada+Briales 质量+Ruiz QMS/PRL 三谱 O/G 级;AOTEC XVII 展会线",
+     "④Saga 对标": "民用商用光纤/GPON 迁项目 → 24 口 PoE 载线;Partner 谱 5 大",
+     "⑤在乎与偏好": "Defensa 带=民用商用句必压;AOTEC 展会送样;LI 771 粉",
+     "⑥SWOT": "S=48 年+Partner 谱 5 大/W=Defensa 带规/O=GPON→XGS 迁风/T=守界压次"
+    },
+    "care": "Defensa 带必压民用商用句;军/压/武场景绝对零;LI 771 粉",
+    "swot": {
+     "S": "48 年+Partner 谱 5 大",
+     "W": "Defensa 带规",
+     "O": "GPON→XGS 迁风",
+     "T": "守界压次"
+    },
+    "uncertain": "MikroTik 谱位在售线需核;Estévez 直邮推档",
+    "gap_proof": "LI 公章真源"
+   }
+  },
+  {
+   "customer": "A-112",
+   "fact": "波 R67 批2·A-112:瑞谱: **BRS Networks AB 深挖(官网 Om-BRS+LI 336 粉+Almi 官报+UNT 本地化新闻四源)**:2011 创(**四人四友 Gotland 乡村起家;Almi 官报直证:Henrik Ringbom(vd CEO)+Joachim Pettersson+Daniel Pettersson+Mikael Johansson**),Visby Gotland 主胆;**LI 自报 51-200 员,Almi 2023 官报=120 员工 SE/EE/DE 三国(芬兰将至),营收 2022 = 201 MSEK(~€18M EUR)**;业务=光纤工程(db+sp)+数据中心+网安/IT 支持+现代工作场(云方案/secure drift);**KP 四谱:Henrik Ringbom(vd CEO,创始 4 友摄)+Jonas Lindberg(Säljare/Account Manager 销口 P0 LI 现场)+Pontus Barck(Chef Fiberservice 光纤服务主管)+Marcus Gozzi(regionchef Mälardalen Uppsala 分办,区内网络+NEW Uppsala 办处于 2026-07 UNT 报道)**;二线谱=Seila Jusic(lev koordinator IT-projekt)+Mirza Muhic(IT-specialist cybersäkerhet);Uppsala 办口 sales@brsnetworks.se +46 010-600 56 00,Dag Hammarskjölds väg 13。**谱位=光纤+IT 服务+MSSP 网安+DCM**(自报「digital infrastruktur 瑞驰名」)。",
+   "inference": "R67 推土机深挖 批2 具名 KP 金谱(Almi/官网/LI/UNT 四源)",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Ringbom vd/Lindberg 销口/Barck Fiberservice 门引路",
+   "evidence_main": "https://www.almi.se/om-almi/organisation-och-ekonomi/historik/foretag-genom-tiderna/brs-networks/",
+   "tech": "光纤工程+Datacenter+网安/IT 支援+现代工作场云;MSSP 综;Mälardalen Uppsala 分办",
+   "hr": "120 员工 3 国(Almi 2023);LI 328-336 粉;4 创始友在职",
+   "contact_found": "**Henrik Ringbom(vd CEO 创始 4 友,Almi 官报直证)+Jonas Lindberg(Säljare/AM 销口 P0)+Pontus Barck(Chef Fiberservice)+Marcus Gozzi(regionchef Mälardalen)**",
+   "contact_pending": "直发具名需 opt-in;sales@brsnetworks.se 台口活",
+   "dims": {
+    "业务定位": "BRS Networks AB(Visby Gotland,2011,120 员/3 国,201MSEK/2022):光纤+DC+网安/IT 服务蒙商",
+    "产品线与在售品牌": "光纤工程铺+维护+DC+网安/IT 支援+现代工作场;云方案;MSSP 带",
+    "目标行业与场景": "瑞三地(Visby/Mälardalen/Uppsala)+EE+DE(芬兰将至);中小企网络组",
+    "团队与规模": "120 员工(Almi 2023);4 创始友在职",
+    "决策链与对接人": "Ringbom(vd)+Lindberg(Säljare/AM P0)+Barck(Fiberservice)+Gozzi(regionchef Mälardalen)+2 线(Jusic/Muhic)",
+    "技术与认证": "LI 自报 336 粉;Miljö/Kvalitetspolicy 谱(ISO 心意);Almi 融旁档",
+    "采购与供应链信号": "光纤+DC 工程载线;销售谱 Jonas Lindberg P0 直口",
+    "近期动态与线索": "Almi 2023 官报(201MSEK/2022,120 员 3 国+芬兰将至);UNT 2026-07 Uppsala 办新报到;LI 7-11mo 档新",
+    "与我方契合点": "Lindberg 销口 → 24口 PoE 光纤/DC 工程项载线",
+    "风险与注意": "LI 档 7mo~11mo 需钉时效;员工 80~120 谱数需钉(Almi 2023=120);EE/DE 子点带"
+   },
+   "evidence": [
+    {
+     "dim": "创始金谱",
+     "quote": "Grundades 2011 av Henrik Ringbom, Joachim Pettersson, Daniel Pettersson och Mikael Johansson;Henrik Ringbom, vd BRS Networks",
+     "source": "https://www.almi.se/om-almi/organisation-och-ekonomi/historik/foretag-genom-tiderna/brs-networks/"
+    },
+    {
+     "dim": "公司谱",
+     "quote": "BRS Networks | 336 followers;51-200 employees;HQ Visby;Public Company;Founded 2011;Specialties: Datacenter, Fiberentreprenad, Produktförsäljning IT;design, build and provides maintenance services for fiber networks all over Sweden, Denmark and Germany",
+     "source": "https://www.linkedin.com/company/brsnetworks"
+    },
+    {
+     "dim": "官报营数",
+     "quote": "Säte Visby;Verksamma i: Sverige, Estland, Tyskland och snart Finland;Anställda: 120 personer i tre länder;Omsättning: 201 miljoner kronor 2022",
+     "source": "https://www.almi.se/om-almi/organisation-och-ekonomi/historik/foretag-genom-tiderna/brs-networks/"
+    },
+    {
+     "dim": "KP 二谱",
+     "quote": "Jonas Lindberg Säljare/Account Manager;Pontus Barck Chef, Fiberservice;Marcus Gozzi regionchef Mälardalen;Unt.se 2026-07:sales@brsnetworks.se 010-600 56 00;Dag Hammarskjölds väg 13",
+     "source": "https://www.unt.se/native/artikel/okat-cyberhot-brs-networks-hjalper-foretag-att-sakra-it-miljon/r144mp1r"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Lindberg 销口 P0",
+     "push": "STC-424XGGPM-280W",
+     "angle": "Säljare/AM 销口直门 → 光纤/DC 工程项 24口 PoE 载线",
+     "question": "贵司光纤工程/DC 项目载线的交换机集纳由哪位主责?",
+     "proof": "LI 员工谱+UNT 区办真源"
+    },
+    {
+     "stage": "第 2 次跟进 · Ringbom vd 门",
+     "push": "STI-288GPM/424",
+     "angle": "vd 创始 4 友谱;Almi 融资沉淀钩",
+     "question": "贵司集团(SE/EE/DE)集购载线由哪位主责?",
+     "proof": "Almi 官报登真"
+    },
+    {
+     "stage": "第 3 次跟进 · Barck Fiberservice",
+     "push": "STC-28DGGPM",
+     "angle": "光纤服务主管谱;维运载线;Uppsala 区办送样",
+     "question": "Fiberservice 主管谱的项线硬件供口?",
+     "proof": ""
+    }
+   ],
+   "unknowns": [
+    "MikroTik 谱位在售线需官网核",
+    "员工 80-120 档时效钉",
+    "芬兰将至何时"
+   ],
+   "relation": "2026-10-08 R67 推土机深挖 批2",
+   "email": "Dear Jonas Lindberg Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each fiber / datacenter deployment. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**Jonas Lindberg(Säljare/AM 销口 P0,LI 员工谱)+Henrik Ringbom(vd CEO 创始,Almi 官报)+Pontus Barck(Fiberservice)+Marcus Gozzi(regionchef Mälardalen)**",
+   "kp": [
+    {
+     "name": "Jonas Lindberg",
+     "role": "Säljare / Account Manager(LI 员工谱 P0 销口);IT/DC 硬件转注现任",
+     "contact": "jlindberg@brsnetworks.se(推断)/LI DM",
+     "status": "LI 现场自证 O 级",
+     "source": "https://se.linkedin.com/company/brsnetworks"
+    },
+    {
+     "name": "Henrik Ringbom",
+     "role": "vd(CEO)+创始 4 友之一(Almi 官报直证);Visby 实控链",
+     "contact": "hringbom@brsnetworks.se(推断)/+46 010-600 5600 台口",
+     "status": "Almi 官报 O 级",
+     "source": "https://www.almi.se/om-almi/organisation-och-ekonomi/historik/foretag-genom-tiderna/brs-networks/"
+    },
+    {
+     "name": "Pontus Barck",
+     "role": "Chef, Fiberservice(光纤服务主管 LI 谱);维运/送样 P1",
+     "contact": "pbarck@brsnetworks.se(推断)",
+     "status": "LI 现场自证 O 级",
+     "source": "https://se.linkedin.com/company/brsnetworks"
+    },
+    {
+     "name": "Marcus Gozzi",
+     "role": "regionchef Mälardalen(Uppsala 区办;UNT 2026-07 现报;「Mälardalen 网络安全」官坛口)",
+     "contact": "mgozzi@brsnetworks.se(推断)/sales@brsnetworks.se 010-600 56 00 转",
+     "status": "UNT 2026-07 真源 O 级",
+     "source": "https://www.unt.se/native/artikel/okat-cyberhot-brs-networks-hjalper-foretag-att-sakra-it-miljon/r144mp1r"
+    }
+   ],
+   "tag": "类型=光纤+DC+网安集商;态势=120 员 3 国+Uppsala 办;KP=vd Ringbom/销 Lindberg/Barck/Gozzi 四谱",
+   "question": "触达决策门:Jonas Lindberg(Säljare/AM 销口)直门;Henrik Ringbom(vd 创始)拍板;",
+   "alt2": "替代口:sales@brsnetworks.se(+46 010-600 5600 Uppsala 区办)/Marcus Gozzi regionchef 转;",
+   "alt3": "备用:Pontus Barck(Fiberservice 主管)+Visby 主胆;LI DM",
+   "r55": {
+    "dims": {
+     "①背景再核": "2011 四友;120 员 3 国(SE/EE/DE,Limi 芬兰将至);201 MSEK(2022)",
+     "②芯片/型号": "光纤+DC 工程载线;24 口 PoE(424XGGPM 280W)转注",
+     "③KP 深挖": "Ringbom vd(创始)/Lindberg Säljare-AM P0/Barck Fiberservice/Gozzi regionchef Mälardalen 四谱 O 级",
+     "④Saga 对标": "Uppsala 办新+光纤/DC 项目线 → 24 口 PoE 转注",
+     "⑤在乎与偏好": "瑞 Mälardalen/Uppsala/Visby;Almi 融风;digital infrastruktur 谱",
+     "⑥SWOT": "S=120 员+4 创始+Almi 融/W=LI 档时效/O=Mälardalen Uppsala 分办新/T=收束装塑"
+    },
+    "care": "员工 80~120 数窗口(Almi 2023=120);LI 档 7~11mo 时效压",
+    "swot": {
+     "S": "120 员+4 创始+Almi 融",
+     "W": "LI 档时效",
+     "O": "Mälardalen Uppsala 分办新",
+     "T": "收束装塑"
+    },
+    "uncertain": "MikroTik 谱位在售线需核;Lindberg 直邮推档",
+    "gap_proof": "Almi/UNT 官报真源"
+   }
+  }
+ ]
+}

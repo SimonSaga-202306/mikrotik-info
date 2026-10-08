@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Groupe Networks:GROUPE NETWORKS(法国 Aubagne(13),100 Chemin de Saint Lambert Actiburo 3 Entrée C;**SIREN 530634252,RCS Marseille;SAS,资本 €866,400(原 879,600 谱减);01/01/2011 创立(15 年);6-9 salariés;CA 2023 €1,031,938**;groupenetworks.fr;谱型=TPE/PME 电信方案商(Telecom et Réseaux:固定/移动(4G/5G)telephony+VoIP/RTC 关闭换代+Internet(基于 Orange/Bouygues/SFR 网络);**MC2C CONSEILS(SIREN 823997283)=Président 2017 起**;CAC=GROUPE FGC;**bénéficiaire effectif=谱面 Maurice COHEN**;历史谱 Président LTH CONSEILS(受益人 Laurent THOMAS)→2016-12-22 辞任交接 MC2C;创位 DG=ED PARTICIPATION(受益人 Emmanuel DAVID);**Groupe Networks 自任 HEO NETWORKS(SIREN 794526004)Président=集团上位节**
-- 【推断】R66 第 14 波具名 KP 金谱
-- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
+- 【事实】波 R67 批2·A-187:法谱: **GROUPE NETWORKS SAS 集团控股深挖(pappers/societe/manageo 三登册互证)**:法体=530 634 252 R.C.S,2011-01 创 SAS(控股 NAF 6420Z),**资本 €866,400**,Aubagne(13)Actiburo 3 Entrée C 100 Ch de St Lambert;**员工 6-9(2022 登),CA €1,031,938(2023)**;官网 groupenetworks.fr;业务线=办公设备分销(生产型/大幅面印刷机+数字彩黑白印刷机+工程制图机 kompass 真人线)+IT 服务关键词线(MSSP 网安/云/infogérance/GED/打印/电信/去纸化);**关联实体谱:HEO NETWORKS(SIREN 794526004,自 2013-08 起 GROUPE NETWORKS 任 Président=子司线)+MC2C CONSEILS(823997283=现 dirigeant 席位)+前席 LTH CONSEILS(Laurent Thomas)+ED PARTICIPATION(Emmanuel David)**;contactout 检:邮箱模式 75% = {first_initial}{last}@groupenetworks.fr;**MikroTik 谱位=groupenetworks.fr 的 IT 集成服务线**(需项谱存疑压注:办公设备主基)。
+- 【推断】R67 推土机深挖 批2 具名 KP 金谱(三登册+contactout 交叉)
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名 IT 服务线引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,7 +75,9 @@ updated: 2026-09-28
 - **原始联系字段**：contact@groupenetworks.fr [Publicly listed; delivery not tested]; https://groupenetworks.fr
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
-  - **Maurice COHEN**(Bénéficiaire effectif(实质受益人;MC2C CONSEILS Président 径))— pappers.fr RNE 谱推定 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.pappers.fr/entreprise/groupe-networks-530634252〕
+  - **Maurice Cohen**(Bénéficiaire Effectif(实控人)+Dirigeant Principal;跨 HEO/MC2C 同名出现 3 登册文件;集团主实控链)— {mc}ohen@groupenetworks.fr(75% 模式推断,送完核) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.pappers.fr/entreprise/groupe-networks-530634252〕
+  - **Quentin De Monchy**(Gérant / fondateur(contactout 公章)+HEO NETWORKS 关联实控(pappers 载);集团创始 tercer 辅枢)— {qd}e{monchy}@groupenetworks.fr(75% 模式推断) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://contactout.com/company/Groupe-Networks-54483〕
+  - **Franz Chatelin**(Digital Marketing Strategist(contactout 公章,重数 vex);营销口=硬件采购转送位;近期活性在册)— fc@groupenetworks.fr(75% 模式推断) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://contactout.com/company/Groupe-Networks-54483〕
   - **MC2C CONSEILS**(Président(法人总裁;SIREN 823997283,2017-01-10 起在职))— societe.com/RNE 谱+lefigaro 法定公告(AGO 22/12/2016) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.societe.com/societe/groupe-networks-530634252.html〕
   - **Laurent THOMAS**(创位期 Président(LTH CONSEILS;2011-2016 谱;受益人))— pappers.fr BODACC 谱(留痕) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.pappers.fr/entreprise/groupe-networks-530634252〕
   - **Emmanuel DAVID**(创位 Directeur général(ED PARTICIPATION;2011 谱;受益人))— pappers.fr/entreprises.lefigaro BODACC 谱(留痕) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://entreprises.lefigaro.fr/groupe-networks-13/entreprise-530634252〕
@@ -84,7 +86,9 @@ updated: 2026-09-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Maurice COHEN | Bénéficiaire effectif(实质受益人;MC2C CONSEILS Président 径) | pappers.fr RNE 谱推定 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.pappers.fr/entreprise/groupe-networks-530634252 |
+| Maurice Cohen | Bénéficiaire Effectif(实控人)+Dirigeant Principal;跨 HEO/MC2C 同名出现 3 登册文件;集团主实控链 | {mc}ohen@groupenetworks.fr(75% 模式推断,送完核) | pappers+societe+kompass 三登 O 级/推断邮箱 G 级 | https://www.pappers.fr/entreprise/groupe-networks-530634252 |
+| Quentin De Monchy | Gérant / fondateur(contactout 公章)+HEO NETWORKS 关联实控(pappers 载);集团创始 tercer 辅枢 | {qd}e{monchy}@groupenetworks.fr(75% 模式推断) | contactout+pappers 双源 O/G 级 | https://contactout.com/company/Groupe-Networks-54483 |
+| Franz Chatelin | Digital Marketing Strategist(contactout 公章,重数 vex);营销口=硬件采购转送位;近期活性在册 | fc@groupenetworks.fr(75% 模式推断) | contactout 登真 O/G 级 | https://contactout.com/company/Groupe-Networks-54483 |
 | MC2C CONSEILS | Président(法人总裁;SIREN 823997283,2017-01-10 起在职) | societe.com/RNE 谱+lefigaro 法定公告(AGO 22/12/2016) | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.societe.com/societe/groupe-networks-530634252.html |
 | Laurent THOMAS | 创位期 Président(LTH CONSEILS;2011-2016 谱;受益人) | pappers.fr BODACC 谱(留痕) | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.pappers.fr/entreprise/groupe-networks-530634252 |
 | Emmanuel DAVID | 创位 Directeur général(ED PARTICIPATION;2011 谱;受益人) | pappers.fr/entreprises.lefigaro BODACC 谱(留痕) | leads-only·待 opt-in(LinkedIn/谱面带核) | https://entreprises.lefigaro.fr/groupe-networks-13/entreprise-530634252 |
@@ -144,38 +148,41 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第15波.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R67_R56_推土机批2.json`；价格均为 EXW 快照。
 
-- **①背景再核**：GROUPE NETWORKS(法国 Aubagne(13),100 Chemin de Saint Lambert Actiburo 3 Entrée C;**SIREN 530634252,RCS Marseille;SAS,资本 €866,400(原 879,600 谱减);01/01/2011 创立(15 年);6-9 salariés;CA 2023 €1,031,938**;groupenetworks.fr;谱型=TPE/PME 电信方案商(Telecom et Réseaux:固定/移动(4G/5G)telephony+VoIP/RTC 关闭换代+Internet(基于 Orange/Bouygues/SFR 网络);**MC2C CONSEILS(SIREN 823997283)=Président 2017 起**;CAC=GROUPE FGC;**bénéficiaire effectif=谱面 Maurice COHEN**;历史谱 Président LTH CONSEILS(受益人 Laurent THOMAS)→2016-12-22 辞任交接 MC2C;创位 DG=ED PARTICIPATION(受益人 Emmanuel DAVID);**Groupe Networks 自任 HEO NETWORKS(SIREN 794526004)Président=集团上位节**
-- **②芯片/型号**：(待谱面二补)
-- **③KP 深挖**：**Maurice COHEN(Bénéficiaire effectif(实质受益人;MC2C CONSEILS Président 径),leads-only·待 opt-in(LinkedIn/谱面带核));MC2C CONSEILS(Président(法人总裁;SIREN 823997283,2017-01-10 起在职),leads-only·待 opt-in(LinkedIn/谱面带核));Laurent THOMAS(创位期 Président(LTH CONSEILS;2011-2016 谱;受益人),leads-only·待 opt-in(LinkedIn/谱面带核));Emmanuel DAVID(创位 Directeur général(ED PARTICIPATION;2011 谱;受益人),leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
-- **⑤在乎与偏好**：15 年 TPE/PME 电信深耕谱
+- **①背景再核**：SAS holding 2011 创 €866k 资本;HEO 子司线;pappers/societe/manageo 三登册互证
+- **②芯片/型号**：MikroTik 谱位 IT 服务线;24 口 PoE(424XGGPM 280W)载线契合
+- **③KP 深挖**：Cohen(bénéficiaire effectif)+De Monchy(创始 Gérant)+Chatelin(营销)三谱 O/G 级;邮箱 75% 模
+- **④Saga 对标**：MSSP/网安集纳线 → 24 口 PoE 转注;法国免长途台口
+- **⑤在乎与偏好**：本地 infogérance/网安存纳法语语境;三登册真谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**Dirigeants: MC2C CONSEILS Président (SIREN 823997283, depuis 10/01/2017);GROUPE FGC CAC titulaire (depuis 28/10/2021);Dirigeants et bénéficiaires effectifs: Maurice COHEN (via MC2C);Laurent THOMAS (LTH, historique);Emmanuel DAVID (ED PARTICIPATION, historique);GROUPE NETWORKS est Président de HEO NETWORKS (SIREN 794526004)
-  > Dirigeants: MC2C CONSEILS Président (SIREN 823997283, depuis 10/01/2017);GROUPE FGC CAC titulaire (depuis 28/10/2021);Dirigeants et bénéficiaires effectifs: Maurice COHEN (via MC2C);Laurent THOMAS (LTH, historique);Emmanuel DAVID (ED PARTICIPATION, historique);GROUPE NETWORKS est Président de HEO NETWORKS (SIREN 794526004)
+- **【决策链与对接人】**Bénéficiaires effectifs: Maurice COHEN;Dirigeant Principal M. Maurice COHEN(kompass);Gérant fondateur Quentin De Monchy(contactout)
+  > Bénéficiaires effectifs: Maurice COHEN;Dirigeant Principal M. Maurice COHEN(kompass);Gérant fondateur Quentin De Monchy(contactout)
   > 来源：https://www.pappers.fr/entreprise/groupe-networks-530634252
-- **【联系方式与基础画像】**SAS au capital de 866 400 €;SIREN 530634252;RCS Marseille;100 che de St Lambert Actiburo 3, 13400 Aubagne;création 01/01/2011;6 à 9 salariés;CA 2023 1 031 938 €(manageo/societe 件)
-  > SAS au capital de 866 400 €;SIREN 530634252;RCS Marseille;100 che de St Lambert Actiburo 3, 13400 Aubagne;création 01/01/2011;6 à 9 salariés;CA 2023 1 031 938 €(manageo/societe 件)
+- **【财务】**Capital social 866 400 EUR;Dernier CA 1 031 938 € (2023);Effectif 6-9 (2022)
+  > Capital social 866 400 EUR;Dernier CA 1 031 938 € (2023);Effectif 6-9 (2022)
   > 来源：https://www.manageo.fr/entreprises/530634252.html
-- **【业务定位】**Groupe Networks est LE FOURNISSEUR DE SOLUTIONS TÉLÉCOMS POUR LES TPE/PME;offres Internet basées sur les réseaux Orange, Bouygues et SFR;téléphonie IP/VoIP(RTC 关闭换代)+mobile 4G/5G(groupenetworks.fr 官网 telecom-et-reseaux 页)
-  > Groupe Networks est LE FOURNISSEUR DE SOLUTIONS TÉLÉCOMS POUR LES TPE/PME;offres Internet basées sur les réseaux Orange, Bouygues et SFR;téléphonie IP/VoIP(RTC 关闭换代)+mobile 4G/5G(groupenetworks.fr 官网 telecom-et-reseaux 页)
-  > 来源：https://groupenetworks.fr/telecom-et-reseaux/
+- **【关联实体】**HEO NETWORKS 794526004 actionnariat dirigeants;MC2C CONSEILS 823997283;LTH CONSEILS Laurent THOMAS;ED PARTICIPATION Emmanuel DAVID
+  > HEO NETWORKS 794526004 actionnariat dirigeants;MC2C CONSEILS 823997283;LTH CONSEILS Laurent THOMAS;ED PARTICIPATION Emmanuel DAVID
+  > 来源：https://www.societe.com/societe/groupe-networks-530634252.html
+- **【邮箱模式】**{first_initial}{last}@groupenetworks.fr 75.00%;Tél 0809 90 56 56;Franz Chatelin Digital Marketing Strategist
+  > {first_initial}{last}@groupenetworks.fr 75.00%;Tél 0809 90 56 56;Franz Chatelin Digital Marketing Strategist
+  > 来源：https://contactout.com/company/Groupe-Networks-54483
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：GROUPE NETWORKS(法国 Aubagne(13),100 Chemin de Saint Lambert Actiburo 3 Entrée C;**SIREN 530634252,RCS Marseille;SAS,资本 €866,400(原 879,600 谱减);01/01/2011 创立(15 年);6-9 salariés;CA 2023 €1,031,938**;groupenetworks.fr;谱型=TPE/PME 电信方案商(Telecom et Réseaux:固定/移动(4G/5G)telephony+VoIP/RTC 关闭换代+Internet(基于 Orange/Bouygues/SFR 网络);**MC2C CONSEILS(SIREN 823997283)=Président 2017 起**;CAC=GROUPE FGC;**bénéficiaire effectif=谱面 Maurice COHEN**;历史谱 Président LTH CONSEILS(受益人 Laurent THOMAS)→2016-12-22 辞任交接 MC2C;创位 DG=ED PARTICIPATION(受益人 Emmanuel DAVID);**Groupe Networks 自任 HEO NETWORKS(SIREN 794526004)Président=集团上位节**
-- **产品线与在售品牌**：(波次二补谱面)
-- **目标行业与场景**：法国 Sud TPE/PME 电信方案商(Reseller 三大运营商)
-- **团队与规模**：6-9 人;2011 创;CA €1.03M
-- **决策链与对接人**：**Maurice COHEN(Bénéficiaire effectif(实质受益人;MC2C CONSEILS Président 径),leads-only·待 opt-in(LinkedIn/谱面带核));MC2C CONSEILS(Président(法人总裁;SIREN 823997283,2017-01-10 起在职),leads-only·待 opt-in(LinkedIn/谱面带核));Laurent THOMAS(创位期 Président(LTH CONSEILS;2011-2016 谱;受益人),leads-only·待 opt-in(LinkedIn/谱面带核));Emmanuel DAVID(创位 Directeur général(ED PARTICIPATION;2011 谱;受益人),leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **技术与认证**：(波次二补)
-- **采购与供应链信号**：(波次二补)
-- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
-- **与我方契合点**：24 口 value PoE 谱链窗口
-- **风险与注意**：Cohen 受益人+MC2C Consults Président(opt-in 律)
+- **业务定位**：GROUPE NETWORKS SAS(530634252,2011,€866k):办公设备分销集团(MSSP 网安 IT 服务线带)
+- **产品线与在售品牌**：生产型/大幅面印刷机+数字印刷机+工程制图机+印服 GED/电信/去纸化/网安 MSSP;MikroTik 谱=IT 服务线
+- **目标行业与场景**：地方企业 infogérance/打印外包/网安存纳
+- **团队与规模**：6-9(2022 登);MSSP 线带
+- **决策链与对接人**：Maurice Cohen(实控/主要 dirigeant)+Quentin De Monchy(创始 Gérant)+Franz Chatelin(营销)+dirigeant 席=MC2C CONSEILS
+- **技术与认证**：pappers/societe/manageo 三登册;邮箱 75% 模式
+- **采购与供应链信号**：办公设备分销链;IT 设备集纳线
+- **近期动态与线索**：BODACC 2021 公告 Président MC2C CONSEILS;CA €1.03M(2023);HEO 子司线活性
+- **与我方契合点**：MSSP/网安线具名 Cohen-De Monchy 门 + 424 PoE 24 口引路
+- **风险与注意**：官网谱位=IT 服务线(MikroTik 点子需核);邮箱模式 75% 送完核;6-9 人小盘
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -190,10 +197,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：15 年 TPE/PME 电信深耕谱
-- **W**：小实体谱(6-9 人)
-- **O**：Cohen 实质受益人+MC2C Président 谱位
-- **T**：大牌线缆件链竞谱
+- **S**：实控人明+融合集
+- **W**：6-9 小盘谱位旁
+- **O**：MSSP/网安线升格
+- **T**：谱位机载低先密
 
 ## 触达与风险红线
 
@@ -221,8 +228,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 硬件采购线在职者(波次二)
-  - [ ] MikroTik 谱面份额
+  - [ ] MikroTik 谱位在售线需官网谱真查
+  - [ ] Cohen 直核时效
+  - [ ] HEO 子司线送样界
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -234,12 +242,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Bonjour Monsieur Cohen,
+Dear Maurice Cohen Team,
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each MSSP / IT integration deployment. Datasheet + CE pack on request.
 
-Best regards,
-Saga Networks Export Desk
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

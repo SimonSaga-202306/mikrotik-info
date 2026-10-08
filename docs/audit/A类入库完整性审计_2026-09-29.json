@@ -54,7 +54,7 @@
    "check": "question 同文入 MD 率(早期批问题句独立措辞属设计差异)",
    "ok": true,
    "severity": "info",
-   "detail": "同文入档 541/547;独立措辞 6(信息项)"
+   "detail": "同文入档 536/547;独立措辞 11(信息项)"
   },
   {
    "check": "OVERRIDE 指向真实存在的 A 档",
