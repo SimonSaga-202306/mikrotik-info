@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 29·B-024:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:SHOP-GSM.NET(乌克兰基辅 Preobrazhenska 23):2007 创 M2M/IoT/LoRaWAN/VoIP/GSM…
+- **是谁**：©2007 起 19 年;Kyiv 总部+四城…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — M2M/IoT 先锋案的 DIN 轨 PoE 细支位:温宽 8 口最对口蜂窝/传感支线；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 29·B-024:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:SHOP-GSM.NET(乌克兰基辅 Preobrazhenska 23):2007 创 M2M/IoT/LoRaWAN/VoIP/GSM 方案店;MikroTik 官方 reseller + **Teltonika 官方分销 + Huaptec/Hiboost 独家分销**  | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | ©2007 起 19 年;Kyiv 总部+四城 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | GSM/VoIP 网关+IP АТС+WLAN 件 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 29·B-024:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:SHOP-GSM.NET(乌克兰基辅 Preobrazhenska 23):2007 创 M2M/IoT/LoRaWAN/VoIP/GSM 方案店;MikroTik 官方 reseller + **Teltonika 官方分销 + Huaptec/Hiboost 独家分销** + OpenVox + Grandstream + Nextivity;10+ 年 M2M IoT 工程团队;R66 第 29 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第2波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 29 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】波 R67/TUB·批12·B-024:乌网深挖(shop-gsm.ua 官网/x.com/zoominfo/hypestat 四源互证):**©2007-2026「SHOP-GSM ТМ」商标档,19 年运营谱**;定位=**«Постачальник та інтегратор бездротових рішень 2G/3G/4G/WLAN»**(无线方案供应与集成商:x.com/shopgsm 自称);产品面=GSM/VoIP 网关、IP АТС(IP 交换机)、WLAN 设备、运营商级无线件;四城触网=**Kyiv(044)331-80-58 + Kharkiv + Odesa + Lviv**;联系=info@shop-gsm.ua;Skype=shop-gsm.net;域档=shop-gsm.ua(x.com/shopgsm 社档)。**KP=Oleksandr Bliednov, Technical Specialist**(zoominfo.com/c/shop-gsmua/465293593 单窗,P0 锚,证度注单窗)。**谱位=19 年老牌无线集成商+四城触网+IP АТС/VoIP 网关面=批 12 乌网金矿**;排噪=同名 GSM 配件电商噪全排。
+- 【推断】R67/TUB 推土机深挖 批12 B 类档序续批三十户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+GSM/VoIP 网关+IP АТС+WLAN 件
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -69,7 +69,7 @@ STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 波 29·B-024:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:SHOP-GSM.NET(乌克兰基辅 Preobrazhenska 23):2007 创 M2M/IoT/LoRaWAN/VoIP/GSM 方案店;MikroTik 官方 reseller + **Teltonika 官方分销 + Huaptec/Hiboost 独家分销** + OpenVox + Grandstream + Nextivity;10+ 年 M2M IoT 工程团队;R66 第 29 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第2波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -87,47 +87,53 @@ STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · Oleksandr Bliednov(TS P0)
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：守档铺位 → 价锚卡
-- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
-- **随附/动作**：规格页
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
+- **切入点**：技术专家 → 24 口 PoE(随 VoIP/WLAN 打包)
+- **要问的问题**：VoIP 网关/IP АТС 项目配的 PoE 接入选型?
+- **随附/动作**：zoominfo+官网 4 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · 集成商打包面
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：2G-4G/WLAN 集成项目
+- **要问的问题**：运营商/企业 WLAN 项目的 PoE 件分包?
+- **随附/动作**：x.com 档
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · 四城触网铺货
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：Kyiv/Kharkiv/Odesa/Lviv 四城
+- **要问的问题**：四城项目铺货节奏?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批12.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 29·B-024:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:SHOP-GSM.NET(乌克兰基辅 Preobrazhenska 23):2007 创 M2M/IoT/LoRaWAN/VoIP/GSM 方案店;MikroTik 官方 reseller + **Teltonika 官方分销 + Huaptec/Hiboost 独家分销** + OpenVox + Grandstream + Nextivity;10+ 年 M2M IoT 工程团队;R66 第 29 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第2波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
-- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
-- **关注点与资质**：乌克兰 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
-- **Saga产品适配**：STI-288GP vs PLANET/当批价差窗
+- **背景深描**：©2007 起 19 年;Kyiv 总部+四城
+- **芯片与在用型号**：GSM/VoIP 网关+IP АТС+WLAN 件
+- **关键人KP**：Oleksandr Bliednov(TS,单窗 P0)
+- **关注点与资质**：集成商打包 → 24 口 PoE(VoIP/WLAN 项目随行)
+- **优缺点SWOT**：S=19 年老牌+集成商位+四城触网=乌网金矿·W=Bliednov 单窗证度注·O=VoIP/WLAN 项目=PoE 打包正口·T=Bliednov 单窗注
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):乌/俄语档;19 年老牌;四城铺货
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**SHOP-GSM.NET(乌克兰基辅 Preobrazhenska 23):2007 创 M2M/IoT/LoRaWAN/VoIP/GSM 方案店;MikroTik 官方 reseller + **Teltonika 官方分销 + Huaptec/Hiboost 独家分销** + OpenVox + Grandstre
-  > SHOP-GSM.NET(乌克兰基辅 Preobrazhenska 23):2007 创 M2M/IoT/LoRaWAN/VoIP/GSM 方案店;MikroTik 官方 reseller + **Teltonika 官方分销 + Huaptec/Hiboost 独家分销** + OpenVox + Grandstre
-  > 来源：https://shop-gsm.ua/
-- **【联系方式与基础画像】**CSV 入口:+380 44 361 13 34 / info@shop-gsm.net
-  > CSV 入口:+380 44 361 13 34 / info@shop-gsm.net
-  > 来源：https://shop-gsm.ua/
+- **【谱档】**SHOP-GSM — Постачальник та інтегратор бездротових рішень 2G/3G/4G/WLAN(无线方案供应与集成商)
+  > SHOP-GSM — Постачальник та інтегратор бездротових рішень 2G/3G/4G/WLAN(无线方案供应与集成商)
+  > 来源：https://x.com/shopgsm
+- **【谱档】**SHOP-GSM ТМ © 2007-2026;Kyiv: (044) 331-80-58;також Kharkiv, Odesa, Lviv;E-mail: info@shop-gsm.ua;Skype: shop-gsm.net
+  > SHOP-GSM ТМ © 2007-2026;Kyiv: (044) 331-80-58;також Kharkiv, Odesa, Lviv;E-mail: info@shop-gsm.ua;Skype: shop-gsm.net
+  > 来源：https://shop-gsm.ua/contacts/
+- **【KP】**Oleksandr Bliednov — Technical Specialist at SHOP-GSM(zoominfo company profile, Kyiv)
+  > Oleksandr Bliednov — Technical Specialist at SHOP-GSM(zoominfo company profile, Kyiv)
+  > 来源：https://www.zoominfo.com/c/shop-gsmua/465293593
+- **【谱档】**shop-gsm.ua — GSM/VoIP шлюзи, IP АТС, WLAN обладнання;domain age档(hypestat)
+  > shop-gsm.ua — GSM/VoIP шлюзи, IP АТС, WLAN обладнання;domain age档(hypestat)
+  > 来源：https://hypestat.com/info/shop-gsm.ua
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -140,7 +146,7 @@ STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
+S=19 年老牌+集成商位+四城触网=乌网金矿·W=Bliednov 单窗证度注·O=VoIP/WLAN 项目=PoE 打包正口·T=Bliednov 单窗注
 
 ## 触达与风险红线
 
@@ -168,8 +174,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节�
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] Oleksandr Bliednov 截图为 zoominfo 单窗(证度注)
+  - [ ] Skype=shop-gsm.net 另口
+  - [ ] ТМ ©2007 商标档证老牌
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -181,9 +188,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节�
 **主题**：PoE switching for your line
 
 ```text
-Dear SHOP-GSM.NET Team,
+Dear Oleksandr,
 
-We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — the kind of access layer that ships alongside VoIP gateways and WLAN projects. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.
 
 Best regards
 Saga / SmartByte ODM

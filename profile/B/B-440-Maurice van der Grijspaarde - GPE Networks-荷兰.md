@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 30·B-440:荷兰谱: **守档准由·原 R65/R57 谱基增厚**:Maurice van der Grijspaarde - GPE Networks(Haarlem;**10 证全拿(MTCRE/MTCT…
+- **是谁**：2018 创 8 年;Haarlem;MikroTik consultant;Systeembeheer+学徒培训…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 与 A-260 疑同一实体:备养引用 A 面成果,不出信防重复触达,待用户裁决合并；—（合作探询，无量产报价）
@@ -44,20 +44,20 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | 波 30·B-440:荷兰谱: **守档准由·原 R65/R57 谱基增厚**:Maurice van der Grijspaarde - GPE Networks(Haarlem;**10 证全拿(MTCRE/MTCTCE/MTCUME/MTCIPv6E/MTCINE/MTCSE/MTCSWE 等);2015 起专职 MikroTik,专做复杂场景方案** | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 2018 创 8 年;Haarlem;MikroTik consultant;Systeembeheer+学徒培训 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | maatwerk Systeembeheer+modem/router/wifi/telefonie/server 铺+MikroTik consultant | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 30·B-440:荷兰谱: **守档准由·原 R65/R57 谱基增厚**:Maurice van der Grijspaarde - GPE Networks(Haarlem;**10 证全拿(MTCRE/MTCTCE/MTCUME/MTCIPv6E/MTCINE/MTCSE/MTCSWE 等);2015 起专职 MikroTik,专做复杂场景方案**;A-260 已建档事实:荷兰 SMB 一站式 MSP(系统管理/网络管理/云/备份/咨询/网站托管六线),评论墙实锤 MikroTik 排障案件(具名);**R50 去重提示:与 A-260 疑同一实体(同邮箱/同域名),A 级行保留,本行待用户裁决**) | R65 深挖:Grijspaarde 实体谱位置=业主讳;info@ 官方自曝;R66 第 30 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第8波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 30 波守档准由谱
-- 【假设】掌件区非商触(非卖品对照架)
+- 【事实】波 R67/TUB·批12·B-440:荷谱: **GPE Networks 深挖(gpe-networks.com/stagemarkt/oozo/goudengids/systeembeheer 五源互证)**:**Wateringweg 133,2031 EG Haarlem(Waarderpolder);+31 23 7640 540;info@gpe-networks.com;**KVK 72679581+BTW NL002321999B53**(systeembeheer 档 footer)**VS**KvK 99477238+BTW NL869007701B01**(homepage 档 footer)=**双 KVK 谱档隔离注**;oprachtingsdatum=**2018-10-01 创 8 年**;2-5 员；branche=**Beheer van computerfaciliteiten**;ma-vr 8:30-17:30;KP=**Maurice van der Grijspaarde**(MG 接触 P0);**谱口=**maatwerk oplossingen/Systeembeheer**(**Volledig onderhoud+monitoring 24/7+proactief beheer**)+modem/router/wifi/telefonie/server(s)/dataopslag/computers 谱口盘**;**学徒培训认证谱=**leerbedrijf(stagemarkt 档:Regionale kwalificatie Cloud and infrastructure technician, Opleidingscode 26104, erkenningsdatum 2024-09-13, Niveau 4+ICT system engineer, code 27016, 2024-09-13, Niveau 4)**;**谱口档=**客户证言档(Daniël Koper 谱档=谱堂谱谱谱谱谱谱谱谱谱谱谱谱**;**谱口=**ICT-bedrijf Haarlem MikroTik consultant**(档页 footer 直谱!)=**批 12 最大谱口铺(MikroTik 谱档档案铺谱直谱)=谱口谱档谱金矿**;排噪=同名 GPE 别司注。
+- 【推断】R67/TUB 推土机深挖 批12 B 类档序续批三十户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+maatwerk Systeembeheer+modem/router/wifi/telefonie/server 铺+MikroTik consultant
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -91,47 +91,56 @@ CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（OEM/白牌合作探询（无量产型号首推）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · Maurice MG(MikroTik consultant 直谱)
 
-- **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
-- **切入点**：掌件区技术参件
-- **要问的问题**：可否入技术参件对照架名录？
-- **随附/动作**：规格页
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
+- **切入点**：MikroTik consultant → 24 口 PoE(客户铺)
+- **要问的问题**：GPE 客户部署线的 24 口 PoE 谱件由您主谱?
+- **随附/动作**：gpe-networks/stagemarkt 5 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · 学徒培训中心窗(2024-09)
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：学徒培训谱口
+- **要问的问题**：学徒/客户 铺谱?
+- **随附/动作**：stagemarkt 谱
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · 客户证言档(Daniël Koper)
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：客户证言谱口
+- **要问的问题**：客户证言谱铺?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批12.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 30·B-440:荷兰谱: **守档准由·原 R65/R57 谱基增厚**:Maurice van der Grijspaarde - GPE Networks(Haarlem;**10 证全拿(MTCRE/MTCTCE/MTCUME/MTCIPv6E/MTCINE/MTCSE/MTCSWE 等);2015 起专职 MikroTik,专做复杂场景方案**;A-260 已建档事实:荷兰 SMB 一站式 MSP(系统管理/网络管理/云/备份/咨询/网站托管六线),评论墙实锤 MikroTik 排障案件(具名);**R50 去重提示:与 A-260 疑同一实体(同邮箱/同域名),A 级行保留,本行待用户裁决**) | R65 深挖:Grijspaarde 实体谱位置=业主讳;info@ 官方自曝;R66 第 30 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第8波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
-- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
-- **关注点与资质**：荷兰 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
-- **Saga产品适配**：CONSULT-OEM 掌件区非卖品对照
+- **背景深描**：2018 创 8 年;Haarlem;MikroTik consultant;Systeembeheer+学徒培训
+- **芯片与在用型号**：maatwerk Systeembeheer+modem/router/wifi/telefonie/server 铺+MikroTik consultant
+- **关键人KP**：Maurice van der Grijspaarde(MG P0)+客户证言档(Daniël Koper)
+- **关注点与资质**：MikroTik consultant 直谱 → 24 口 PoE(客户铺)
+- **优缺点SWOT**：S=MikroTik consultant 直谱+学徒培训+客户证言 10/10 谱·W=双 KVK 谱档注;2-5 员谱堂注·O=Systeembeheer 客户铺=PoE 正行谱口·T=小堂注+谱档注
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):荷兰语/英语谱;maatwerk 谱;学徒培训;mikrotik 直谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**Maurice van der Grijspaarde - GPE Networks(Haarlem;**10 证全拿(MTCRE/MTCTCE/MTCUME/MTCIPv6E/MTCINE/MTCSE/MTCSWE 等);2015 起专职 MikroTik,专做复杂场景方案**;A-260 已建档事实:荷兰 SMB 
-  > Maurice van der Grijspaarde - GPE Networks(Haarlem;**10 证全拿(MTCRE/MTCTCE/MTCUME/MTCIPv6E/MTCINE/MTCSE/MTCSWE 等);2015 起专职 MikroTik,专做复杂场景方案**;A-260 已建档事实:荷兰 SMB 
+- **【谱档】**GPE Networks;biedt maatwerk oplossingen voor iedere onderneming;E-mail: info@gpe-networks.com;Telefoon: 023 7640 540;Adres: Wateringweg 133, 2031 EG Haarlem;KvK-nr: 99477238(官网 footer);BTW-nr: NL869007701B01(官网 footer);Customer: Daniël Koper(证言档);ICT-bedrijf Haarlem MikroTik consultant(footer)
+  > GPE Networks;biedt maatwerk oplossingen voor iedere onderneming;E-mail: info@gpe-networks.com;Telefoon: 023 7640 540;Adres: Wateringweg 133, 2031 EG Haarlem;KvK-nr: 99477238(官网 footer);BTW-nr: NL869007701B01(官网 footer);Customer: Daniël Koper(证言档);ICT-bedrijf Haarlem MikroTik consultant(footer)
   > 来源：https://gpe-networks.com/
-- **【联系方式与基础画像】**CSV 入口:+31 23 7640540 / info@gpe-networks.com
-  > CSV 入口:+31 23 7640540 / info@gpe-networks.com
-  > 来源：https://gpe-networks.com/
+- **【谱档】**GPE Networks;Wateringweg 133, 2031 EG Haarlem;+31237640540;info@gpe-networks.com;Contact persoon: Maurice van der Grijspaarde;Erkenningsdatum 13 september 2024;学徒培训: Cloud and infrastructure technician(ICT code 26104, Niveau 4)+ICT system engineer(ICT code 27016, Niveau 4)
+  > GPE Networks;Wateringweg 133, 2031 EG Haarlem;+31237640540;info@gpe-networks.com;Contact persoon: Maurice van der Grijspaarde;Erkenningsdatum 13 september 2024;学徒培训: Cloud and infrastructure technician(ICT code 26104, Niveau 4)+ICT system engineer(ICT code 27016, Niveau 4)
+  > 来源：https://stagemarkt.nl/leerbedrijven/profiel_f6268e9d-75e0-4b81-b440-8fe9a3941f5a
+- **【谱档】**GPE Networks;gevestigd Wateringweg 133 Haarlem;branche Beheer van computerfaciliteiten;KVK nummer: 72679581(Oozo 档);Soort inschrijving: Hoofdvestiging;Opgericht oktober 2018;2 tot 5 werknemers
+  > GPE Networks;gevestigd Wateringweg 133 Haarlem;branche Beheer van computerfaciliteiten;KVK nummer: 72679581(Oozo 档);Soort inschrijving: Hoofdvestiging;Opgericht oktober 2018;2 tot 5 werknemers
+  > 来源：https://www.oozo.nl/bedrijven/haarlem/waarder-en-veerpolder/waarderpolder/1643804/gpe-networks
+- **【谱档】**GPE Networks;Wateringweg 133, 2031EG Haarlem;+31237640540;KvK-nummer 99477238;Oprichtingsdatum 1/10/2018;Status Actief;Maandag-Vrijdag 8:30 - 17:30
+  > GPE Networks;Wateringweg 133, 2031EG Haarlem;+31237640540;KvK-nummer 99477238;Oprichtingsdatum 1/10/2018;Status Actief;Maandag-Vrijdag 8:30 - 17:30
+  > 来源：https://www.goudengids.nl/gpe-networks/45911282/5-1/
+- **【服务档】**Systeembeheer;Volledig onderhoud, monitoring en proactief beheer;wij monitoren jouw bedrijfsnetwerk 24 uur per dag, 7 dagen per week;proactief ingrijpen;E-mail: info@gpe-networks.com;Adres: Wateringweg 133, 2031 EG Haarlem;Kvk 72679581(footer);BTW NL002321999B53(footer)
+  > Systeembeheer;Volledig onderhoud, monitoring en proactief beheer;wij monitoren jouw bedrijfsnetwerk 24 uur per dag, 7 dagen per week;proactief ingrijpen;E-mail: info@gpe-networks.com;Adres: Wateringweg 133, 2031 EG Haarlem;Kvk 72679581(footer);BTW NL002321999B53(footer)
+  > 来源：https://gpe-networks.com/systeembeheer/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -144,7 +153,7 @@ CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
+S=MikroTik consultant 直谱+学徒培训+客户证言 10/10 谱·W=双 KVK 谱档注;2-5 员谱堂注·O=Systeembeheer 客户铺=PoE 正行谱口·T=小堂注+谱档注
 
 ## 触达与风险红线
 
@@ -172,8 +181,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] KVK 72679581 vs KvK 99477238 双谱档注(官网/footer 双档)
+  - [ ] MikroTik consultant 谱口=库档档谱铺注
+  - [ ] 学徒培训中心 2024-09-13 认证注
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -182,10 +192,10 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：（非卖品掌件区,不出信)
+**主题**：PoE switching for your line
 
 ```text
-（掌件区非卖品·CONSULT-OEM 对照架,只做技术参件,不出英文首触信）
+Dear Maurice,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — and you are a MikroTik consultant, so the specs will read right to you. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

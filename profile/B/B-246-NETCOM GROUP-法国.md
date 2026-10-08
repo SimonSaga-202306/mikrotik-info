@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 29·B-246:法国谱: **守档准由·原 R65/R57 谱基增厚**:NETCOM GROUP aka NEXERA(Pantin 93, Grand Paris 北 41 rue Delizy):2004 创…
+- **是谁**：2004 创 22 年;Pantin;NETCOM GROUP=MVNO;12 分支;€27M(2017)…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — FRANCE NUMERIQUE 集团自牌之外的 value PoE 第 4 线入端；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 29·B-246:法国谱: **守档准由·原 R65/R57 谱基增厚**:NETCOM GROUP aka NEXERA(Pantin 93, Grand Paris 北 41 rue Delizy):2004 创 SARL 后 SAS,48 人（20-49)**;FRANCE NUMERIQUE 集团主体**（总裁=FRANCE NUMERIQUE  | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 2004 创 22 年;Pantin;NETCOM GROUP=MVNO;12 分支;€27M(2017) | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | MVNO+phone systems install+wholesale+VoIP/Internet | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 29·B-246:法国谱: **守档准由·原 R65/R57 谱基增厚**:NETCOM GROUP aka NEXERA(Pantin 93, Grand Paris 北 41 rue Delizy):2004 创 SARL 后 SAS,48 人（20-49)**;FRANCE NUMERIQUE 集团主体**（总裁=FRANCE NUMERIQUE 法人）;品牌系=NETCOM GROUP(2013)+linknet(2021)+Phenix Partner(2021);高度结构化『数字法国产』分销 | R65 深挖:KP 候选（Pantin 双 Benamrouche 谱）；未最终证=守档准由;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第4波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 29 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】波 R67/TUB·批12·B-246:法谱: **NEXERA SAS / NETCOM GROUP 深挖(rubypayeur/manageo/societe/wikipedia 四源互证)**:**法人正谱=**NEXERA**(SIREN **453 006 314**;INSEE 2004-04-30=22 年;RCS Bobigny 2005-04-13);**nom commercial=**NETCOM GROUP**(3 marques déposées)**;SIRET siège 453 006 314 00109;SAS;capital social **€106,300**(2018-05 增自 €105,000);**41 Rue Delizy,93500 Pantin**(siège 2017-05-31);NAF 46.52Z;20-49 员；TVA FR66453006314;**谱口铺=**Courtier en télécommunication+commerce de gros de communication et/ou de minutes téléphoniques+commerce de gros d'équipements téléphoniques**;**wikipedia 谱档=**Netcom Group=**opérateur de télécommunications+MVNO**;créée le 30 avril 2004 par **Jamal Assraoui+Saïd Benamrouche+Mohamed Benamrouche**(创者 3 人谱);produit=**opérateur de télécommunications, téléphonie fixe, mobile, Internet, VoIP, installation de standards téléphoniques pour les TPE, PME et grandes entreprises**;**2015 SFR MVNO;2016 Bouygues Telecom 批发约;2018 Orange MVNO;2018=12 agences 全法;2018 SG Capital Partenaires 入股少数;**CA 2017=**€27,000,000****;netcom-group.fr**;**KP 谱:**Président=**NEXERA CONNECT**(法人口,SIREN 945230381)+**LMBH & ASSOCIES**(审计 SIREN 492915780)+manageo 谱=**Président PERSONNE MORALE=FRANCE NUMERIQUE**(谱口谱注)**+创者 3 人谱**;**谱位=法国 22 年 MVNO 电信运营铺+12 分支谱+€27M+3 创者谱=批 12 法谱金矿(谱口谱注)**;排噪=**NETCOM GROUP(SIREN 507726115 Paris,2012 已注销 liquidateur Abdallah Ayachi)**=完全别司勿混。
+- 【推断】R67/TUB 推土机深挖 批12 B 类档序续批三十户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+MVNO+phone systems install+wholesale+VoIP/Internet
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -89,47 +89,53 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · NETCOM MVNO 谱口+12 分支谱网
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：守档铺位 → 价锚卡
-- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
-- **随附/动作**：规格页
+- **切入点**：MVNO 铺 → 24 口 PoE(电信谱铺)
+- **要问的问题**：NETCOM 12 分支谱网络的 PoE 谱件由哪位谱?
+- **随附/动作**：wikipedia/manageo 4 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · FRANCE NUMERIQUE 谱口
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：法人口谱口
+- **要问的问题**：您法人口谱口铺谱?
+- **随附/动作**：manageo 谱
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · 创者 3 人谱口
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：创者谱口
+- **要问的问题**：创者谱谱谱铺 PoE?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批12.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 29·B-246:法国谱: **守档准由·原 R65/R57 谱基增厚**:NETCOM GROUP aka NEXERA(Pantin 93, Grand Paris 北 41 rue Delizy):2004 创 SARL 后 SAS,48 人（20-49)**;FRANCE NUMERIQUE 集团主体**（总裁=FRANCE NUMERIQUE 法人）;品牌系=NETCOM GROUP(2013)+linknet(2021)+Phenix Partner(2021);高度结构化『数字法国产』分销 | R65 深挖:KP 候选（Pantin 双 Benamrouche 谱）；未最终证=守档准由;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第4波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
-- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
-- **关注点与资质**：法国 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
-- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **背景深描**：2004 创 22 年;Pantin;NETCOM GROUP=MVNO;12 分支;€27M(2017)
+- **芯片与在用型号**：MVNO+phone systems install+wholesale+VoIP/Internet
+- **关键人KP**：Assraoui+Benamrouche×2 创者谱+NEXERA CONNECT+FRANCE NUMERIQUE
+- **关注点与资质**：MVNO/电信铺 → 24 口 PoE(铺谱)
+- **优缺点SWOT**：S=22 年 MVNO+12 分支+€27M+3 创者谱·W=MVNO 电信运营谱铺注(谱铺谱堂注)·O=电信铺谱口铺注=PoE 铺谱口谱注·T=谱堂谱铺注+SG 入股少数注
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):法语谱;3 创者谱;12 分支谱;netcom-group.fr
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**NETCOM GROUP aka NEXERA(Pantin 93, Grand Paris 北 41 rue Delizy):2004 创 SARL 后 SAS,48 人（20-49)**;FRANCE NUMERIQUE 集团主体**（总裁=FRANCE NUMERIQUE 法人）;品牌系=NETCOM GROUP
-  > NETCOM GROUP aka NEXERA(Pantin 93, Grand Paris 北 41 rue Delizy):2004 创 SARL 后 SAS,48 人（20-49)**;FRANCE NUMERIQUE 集团主体**（总裁=FRANCE NUMERIQUE 法人）;品牌系=NETCOM GROUP
-  > 来源：https://netcom-group.fr/
-- **【联系方式与基础画像】**CSV 入口:+33 826 10 56 05 / h.matri@netcom-group.fr
-  > CSV 入口:+33 826 10 56 05 / h.matri@netcom-group.fr
-  > 来源：https://netcom-group.fr/
+- **【谱档】**NEXERA(NETCOM GROUP);SIREN 453006314;RCS Bobigny;41 RUE DELIZY 93500 PANTIN;Capital social 106 300,00 €;Courtier en télécommunication;Commerce de gros de communication et/ou de minutes téléphoniques;Commerce de gros d'équipements téléphoniques;NAF 46.52Z;Président NEXERA CONNECT(SIREN 945230381);Commissaire aux comptes LMBH & ASSOCIES(SIREN 492915780)
+  > NEXERA(NETCOM GROUP);SIREN 453006314;RCS Bobigny;41 RUE DELIZY 93500 PANTIN;Capital social 106 300,00 €;Courtier en télécommunication;Commerce de gros de communication et/ou de minutes téléphoniques;Commerce de gros d'équipements téléphoniques;NAF 46.52Z;Président NEXERA CONNECT(SIREN 945230381);Commissaire aux comptes LMBH & ASSOCIES(SIREN 492915780)
+  > 来源：https://rubypayeur.com/societe/netcom-group-453006314
+- **【谱档】**NETCOM GROUP vend en gros des composants et équipements électroniques et de télécommunication;capital actuel 106,300 €(2018-05 增自 105,000);création avril 2004;Président est une PERSONNE MORALE(FRANCE NUMERIQUE);20 à 49 salariés;3 marques déposées NETCOM GROUP
+  > NETCOM GROUP vend en gros des composants et équipements électroniques et de télécommunication;capital actuel 106,300 €(2018-05 增自 105,000);création avril 2004;Président est une PERSONNE MORALE(FRANCE NUMERIQUE);20 à 49 salariés;3 marques déposées NETCOM GROUP
+  > 来源：https://www.manageo.fr/entreprises/453006314.html
+- **【谱档】**Netcom Group;Création: 30 avril 2004;SAS;Siège social: Pantin;Direction: France Numérique;Actionnaires: France Numérique;Produits: Opérateur de télécommunications, Téléphonie fixe, mobile, Internet, VoIP, installation de standards téléphoniques;SIREN: 453006314;Site: https://www.netcom-group.fr;MVNO de SFR en 2015;grossiste en minutes avec Bouygues Telecom en 2016;MVNO d'Orange en 2018;doté de douze agences;CA 2017 = 27 millions d'euros
+  > Netcom Group;Création: 30 avril 2004;SAS;Siège social: Pantin;Direction: France Numérique;Actionnaires: France Numérique;Produits: Opérateur de télécommunications, Téléphonie fixe, mobile, Internet, VoIP, installation de standards téléphoniques;SIREN: 453006314;Site: https://www.netcom-group.fr;MVNO de SFR en 2015;grossiste en minutes avec Bouygues Telecom en 2016;MVNO d'Orange en 2018;doté de douze agences;CA 2017 = 27 millions d'euros
+  > 来源：https://fr.wikipedia.org/wiki/Netcom_Group
+- **【谱档】**Netcom Group;créée en 2004 par Jamal Assraoui, Saïd Benamrouche et Mohamed Benamrouche;spécialisée dans l'installation de standards téléphoniques;2018 Société Générale Capital Partenaires part minoritaire
+  > Netcom Group;créée en 2004 par Jamal Assraoui, Saïd Benamrouche et Mohamed Benamrouche;spécialisée dans l'installation de standards téléphoniques;2018 Société Générale Capital Partenaires part minoritaire
+  > 来源：https://fr.wikipedia.org/wiki/Netcom_Group
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -142,7 +148,7 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+S=22 年 MVNO+12 分支+€27M+3 创者谱·W=MVNO 电信运营谱铺注(谱铺谱堂注)·O=电信铺谱口铺注=PoE 铺谱口谱注·T=谱堂谱铺注+SG 入股少数注
 
 ## 触达与风险红线
 
@@ -170,8 +176,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] NETCOM GROUP(SIREN 507726115 Paris)2012 已注销=完全别司勿混!
+  - [ ] Président 法人口(NEXERA CONNECT/FRANCE NUMERIQUE 双窗谱注)
+  - [ ] netcom-group.fr 谱口注
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -183,12 +190,7 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 **主题**：PoE switching for your line
 
 ```text
-Dear NETCOM GROUP Team,
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
-
-Best regards
-Saga / SmartByte ODM
+Dear Jamal,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — built for telecom group branches and standard-telephony deployments. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 30·B-254:法国谱: **守档准由·原 R65/R57 谱基增厚**:VODENN SAS(法国 Toulon Siren 841882962;2018-08 创 SAS;PME;NAF 6201Z 编程）:*…
+- **是谁**：2018 创 8 年;La Farlède 83;Pistolesi 家族谱(3 司)+PILA SCI 谱…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 法国自研市政无线/视频保护商的 bornes 回程 PoE 随单位；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 30·B-254:法国谱: **守档准由·原 R65/R57 谱基增厚**:VODENN SAS(法国 Toulon Siren 841882962;2018-08 创 SAS;PME;NAF 6201Z 编程）:**法国人自研自造视频保护+无线电解决方案专家**——borne vidéoprotection(WiFi 5GHz clientes bor | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 2018 创 8 年;La Farlède 83;Pistolesi 家族谱(3 司)+PILA SCI 谱 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | 程序+vidéosurveillance/vidéophonie/Internet 铺 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 30·B-254:法国谱: **守档准由·原 R65/R57 谱基增厚**:VODENN SAS(法国 Toulon Siren 841882962;2018-08 创 SAS;PME;NAF 6201Z 编程）:**法国人自研自造视频保护+无线电解决方案专家**——borne vidéoprotection(WiFi 5GHz clientes borne)、Vodennbox、能源自主模块、网络监管服务器；本地,市政/集体编制市县配套品口径 | R65 深挖:Var 建议味 2018 新谱；Pistolesi+Launay 二位;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第4波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 30 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】波 R67/TUB·批12·B-254:法谱: **VODENN SAS 深挖(manageo/lefigaro/infonet/pagesjaunes/verif 五源互证)**:**SIREN **841 882 962**;SIRET 841 882 962 00019;RCS Toulon(dossier 2018B01579);**2018-08-23 创 8 年**;SAS;capital social **15,000 €**(前 €5,000 升注);**60 Impasse du Hameau des Guiols,83210 La Farlède(Var 83,Toulon 区)**;NAF **6201Z**(Programmation informatique;**库档挂 vidéosurveillance/vidéophonie/Internet 谱口谱=谱档谱注**);**Effectif 1-2/3-5 员双窗;CA 2024=**€109,810**(小档谱注)**;TVA FR49841882962;**KP 金谱:**Président=**Dorian PISTOLESI**(b. 1983;**3 mandats**=VODENN+**PILA SCI**(2023-04-15 创,60 Impasse 同址)=Pistolesi 家族双司谱;**Laurent Pistolesi**(b. 1983=家族谱 infonet 谱窗)**+**Directeur Général=**Julien LAUNAY**(b. 1984;Montgeron 91230)+**前任 DG=**Khisrav Khuseynov**(2019-05-02 任→**2020-08-28 解除** lefigaro 公告)=双 DG 史谱**;**谱位=Var 83 PME+vidéosurveillance/vidéophonie 谱口=PoE 对视频/对讲/家庭智能铺=批 12 南法金矿**;排噪=法国同名注。
+- 【推断】R67/TUB 推土机深挖 批12 B 类档序续批三十户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+程序+vidéosurveillance/vidéophonie/Internet 铺
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -92,47 +92,56 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · Dorian Pistolesi 家族 P0(vidéosurveillance 谱口)
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：守档铺位 → 价锚卡
-- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
-- **随附/动作**：规格页
+- **切入点**：Président → 24 口 PoE(视频/对讲铺)
+- **要问的问题**：贵司 vidéosurveillance 线的 24 口 PoE 谱件由哪位谱?
+- **随附/动作**：manageo/lefigaro 5 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · PILA SCI 谱档谱口
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：家族双司谱
+- **要问的问题**：PILA 谱口的 PoE 谱?
+- **随附/动作**：infonet 谱
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · Launay DG+Khuseynov 前 DG 谱窗
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：双 DG 史谱
+- **要问的问题**：谱铺谱的 PoE 谱?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批12.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 30·B-254:法国谱: **守档准由·原 R65/R57 谱基增厚**:VODENN SAS(法国 Toulon Siren 841882962;2018-08 创 SAS;PME;NAF 6201Z 编程）:**法国人自研自造视频保护+无线电解决方案专家**——borne vidéoprotection(WiFi 5GHz clientes borne)、Vodennbox、能源自主模块、网络监管服务器；本地,市政/集体编制市县配套品口径 | R65 深挖:Var 建议味 2018 新谱；Pistolesi+Launay 二位;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第4波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
-- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
-- **关注点与资质**：法国 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
-- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **背景深描**：2018 创 8 年;La Farlède 83;Pistolesi 家族谱(3 司)+PILA SCI 谱
+- **芯片与在用型号**：程序+vidéosurveillance/vidéophonie/Internet 铺
+- **关键人KP**：Dorian Pistolesi(1983+3 mandats)+Laurent+Julien Launay(DG)+Khuseynov 前 DG
+- **关注点与资质**：vidéosurveillance 谱口 → 24 口 PoE(摄影/对讲铺)
+- **优缺点SWOT**：S=vidéosurveillance 谱口正对口+家族谱快+8 年谱·W=€109.8K 小档注;1-2 员谱堂注;NAF 编程档注·O=vidéophonie/摄影铺=PoE 正行谱口·T=小档注;档挂谱档注
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):法语谱;家族谱;南法 PME 谱口;小堂谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**VODENN SAS(法国 Toulon Siren 841882962;2018-08 创 SAS;PME;NAF 6201Z 编程）:**法国人自研自造视频保护+无线电解决方案专家**——borne vidéoprotection(WiFi 5GHz clientes borne)、Vodennbox、能源自主模块
-  > VODENN SAS(法国 Toulon Siren 841882962;2018-08 创 SAS;PME;NAF 6201Z 编程）:**法国人自研自造视频保护+无线电解决方案专家**——borne vidéoprotection(WiFi 5GHz clientes borne)、Vodennbox、能源自主模块
-  > 来源：https://vodenn.fr/
-- **【联系方式与基础画像】**CSV 入口:+33 6 37 71 53 66 / contact@vodenn.fr
-  > CSV 入口:+33 6 37 71 53 66 / contact@vodenn.fr
-  > 来源：https://vodenn.fr/
+- **【谱档】**VODENN;SIREN 841 882 962;SIRET 841 882 962 00019;TVA FR49841882962;NAF 6201Z;SAS;2018-08-23;capital social 15 000 €;Dirigeant Dorian PISTOLESI;3 à 5 salariés;RCS Toulon 2018B01579;60 Impasse du Hameau des Guiols 83210 La Farlède
+  > VODENN;SIREN 841 882 962;SIRET 841 882 962 00019;TVA FR49841882962;NAF 6201Z;SAS;2018-08-23;capital social 15 000 €;Dirigeant Dorian PISTOLESI;3 à 5 salariés;RCS Toulon 2018B01579;60 Impasse du Hameau des Guiols 83210 La Farlède
+  > 来源：https://www.manageo.fr/entreprises/841882962.html
+- **【交接/权责】**Annonce AGE du 28/08/2020: VODENN révoque M. Khisrav Khuseynov(34 Avenue Bellegarde 83000 Toulon)de son mandat de Directeur Général;2019-05-02: nomination M Julien LAUNAY(Directeur Général)(Montgeron 91230)及 nomination M Khisrav Khuseynov(Toulon)
+  > Annonce AGE du 28/08/2020: VODENN révoque M. Khisrav Khuseynov(34 Avenue Bellegarde 83000 Toulon)de son mandat de Directeur Général;2019-05-02: nomination M Julien LAUNAY(Directeur Général)(Montgeron 91230)及 nomination M Khisrav Khuseynov(Toulon)
+  > 来源：https://entreprises.lefigaro.fr/vodenn-83/entreprise-841882962
+- **【KP 族谱】**Dorian Pistolesi, Président de SAS VODENN;né en 1983;3 mandats;PILA(Société civile immobilière, gérant et associé indéfiniment responsable, 15/04/2023, 60 Impasse 同址);Julien Launay né 1984(DG);Laurent Pistolesi né 1983(家族谱)
+  > Dorian Pistolesi, Président de SAS VODENN;né en 1983;3 mandats;PILA(Société civile immobilière, gérant et associé indéfiniment responsable, 15/04/2023, 60 Impasse 同址);Julien Launay né 1984(DG);Laurent Pistolesi né 1983(家族谱)
+  > 来源：https://infonet.fr/dirigeants/66aa3c705da7ac2c4bb7bfa2/
+- **【谱档】**VODENN;60 imp Hameau des Guiols 83210 La Farlède;7 ans 8 mois;SIRET 84188296200019;NAF 6201Z;Effectif 1 à 2 salariés;Capital 15K €;CA 2024 = 109,81 K €
+  > VODENN;60 imp Hameau des Guiols 83210 La Farlède;7 ans 8 mois;SIRET 84188296200019;NAF 6201Z;Effectif 1 à 2 salariés;Capital 15K €;CA 2024 = 109,81 K €
+  > 来源：https://www.pagesjaunes.fr/siret/84188296200019
+- **【谱档】**VODENN;841882962;Dirigeant principal M. Dorian PISTOLESI(Président);Autres dirigeants actuels: M. Julien LAUNAY(Directeur Général);PL 2024 Actif 109,81 K€
+  > VODENN;841882962;Dirigeant principal M. Dorian PISTOLESI(Président);Autres dirigeants actuels: M. Julien LAUNAY(Directeur Général);PL 2024 Actif 109,81 K€
+  > 来源：https://www.verif.com/societe/VODENN-841882962/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -145,7 +154,7 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+S=vidéosurveillance 谱口正对口+家族谱快+8 年谱·W=€109.8K 小档注;1-2 员谱堂注;NAF 编程档注·O=vidéophonie/摄影铺=PoE 正行谱口·T=小档注;档挂谱档注
 
 ## 触达与风险红线
 
@@ -173,8 +182,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] 档挂 vidéosurveillance vs NAF 6201Z 编程档=双谱注
+  - [ ] Khisrav Khuseynov 2020-08 解除谱史注
+  - [ ] PILA SCI 2023-04 创谱注
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -186,12 +196,7 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 **主题**：PoE switching for your line
 
 ```text
-Dear VODENN SAS Team,
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
-
-Best regards
-Saga / SmartByte ODM
+Dear Dorian,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — built for video surveillance and videophonie deployments. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

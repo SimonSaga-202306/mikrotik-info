@@ -1,0 +1,1472 @@
+{
+ "records": [
+  {
+   "customer": "B-254",
+   "code": "B-254",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批12·B-254:法谱: **VODENN SAS 深挖(manageo/lefigaro/infonet/pagesjaunes/verif 五源互证)**:**SIREN **841 882 962**;SIRET 841 882 962 00019;RCS Toulon(dossier 2018B01579);**2018-08-23 创 8 年**;SAS;capital social **15,000 €**(前 €5,000 升注);**60 Impasse du Hameau des Guiols,83210 La Farlède(Var 83,Toulon 区)**;NAF **6201Z**(Programmation informatique;**库档挂 vidéosurveillance/vidéophonie/Internet 谱口谱=谱档谱注**);**Effectif 1-2/3-5 员双窗;CA 2024=**€109,810**(小档谱注)**;TVA FR49841882962;**KP 金谱:**Président=**Dorian PISTOLESI**(b. 1983;**3 mandats**=VODENN+**PILA SCI**(2023-04-15 创,60 Impasse 同址)=Pistolesi 家族双司谱;**Laurent Pistolesi**(b. 1983=家族谱 infonet 谱窗)**+**Directeur Général=**Julien LAUNAY**(b. 1984;Montgeron 91230)+**前任 DG=**Khisrav Khuseynov**(2019-05-02 任→**2020-08-28 解除** lefigaro 公告)=双 DG 史谱**;**谱位=Var 83 PME+vidéosurveillance/vidéophonie 谱口=PoE 对视频/对讲/家庭智能铺=批 12 南法金矿**;排噪=法国同名注。",
+   "inference": "R67/TUB 推土机深挖 批12 B 类档序续批三十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.manageo.fr/entreprises/841882962.html",
+   "tech": "程序(NAF 6201Z)+档挂 vidéosurveillance/vidéophonie/Internet 铺(库档谱档);PILA SCI 不动产谱",
+   "hr": "8 年;1-2/3-5 员双窗;€109.8K(2024);La Farlède",
+   "contact_found": "**Dorian PISTOLESI(Président 1983 P0+3 mandats)+Laurent Pistolesi(家族)+Julien Launay(DG 1984)+Khisrav Khuseynov(前 DG 2019-2020 史)**",
+   "contact_pending": "具名直邮需推 vodenn 域档;Var 83 Toulon 谱谱口 CSV 谱口",
+   "dims": {
+    "业务定位": "VODENN SAS(La Farlède 83,2018 创 8 年,Pistolesi 家族双司谱,vidéosurveillance 谱口)",
+    "产品线与在售品牌": "程序+vidéosurveillance/vidéophonie/Internet 铺;PILA SCI 不动产谱",
+    "目标行业与场景": "南法 Toulon/Var 区 PME/SMB 客户",
+    "团队与规模": "1-2/3-5 员双窗;8 年;Pistolesi 家族谱",
+    "决策链与对接人": "Pistolesi(1983+3 司)+Laurent(1983)+Launay(DG 1984)+Khuseynov(前 DG 史)",
+    "技术与认证": "RCS Toulon;BODACC 双 DG 史谱",
+    "采购与供应链信号": "**档挂 vidéosurveillance 谱口=24 口 PoE 摄影/对讲铺**",
+    "近期动态与线索": "小堂谱注(€109.8K)",
+    "与我方契合点": "Pistolesi 家族+PILA+Launay 双轨 → 24 口 PoE(vidéophonie 铺)",
+    "风险与注意": "**€109.8K 小档注;档挂谱档注(NAF=编程注)**"
+   },
+   "evidence": [
+    {
+     "dim": "谱档",
+     "quote": "VODENN;SIREN 841 882 962;SIRET 841 882 962 00019;TVA FR49841882962;NAF 6201Z;SAS;2018-08-23;capital social 15 000 €;Dirigeant Dorian PISTOLESI;3 à 5 salariés;RCS Toulon 2018B01579;60 Impasse du Hameau des Guiols 83210 La Farlède",
+     "source": "https://www.manageo.fr/entreprises/841882962.html"
+    },
+    {
+     "dim": "交接/权责",
+     "quote": "Annonce AGE du 28/08/2020: VODENN révoque M. Khisrav Khuseynov(34 Avenue Bellegarde 83000 Toulon)de son mandat de Directeur Général;2019-05-02: nomination M Julien LAUNAY(Directeur Général)(Montgeron 91230)及 nomination M Khisrav Khuseynov(Toulon)",
+     "source": "https://entreprises.lefigaro.fr/vodenn-83/entreprise-841882962"
+    },
+    {
+     "dim": "KP 族谱",
+     "quote": "Dorian Pistolesi, Président de SAS VODENN;né en 1983;3 mandats;PILA(Société civile immobilière, gérant et associé indéfiniment responsable, 15/04/2023, 60 Impasse 同址);Julien Launay né 1984(DG);Laurent Pistolesi né 1983(家族谱)",
+     "source": "https://infonet.fr/dirigeants/66aa3c705da7ac2c4bb7bfa2/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "VODENN;60 imp Hameau des Guiols 83210 La Farlède;7 ans 8 mois;SIRET 84188296200019;NAF 6201Z;Effectif 1 à 2 salariés;Capital 15K €;CA 2024 = 109,81 K €",
+     "source": "https://www.pagesjaunes.fr/siret/84188296200019"
+    },
+    {
+     "dim": "谱档",
+     "quote": "VODENN;841882962;Dirigeant principal M. Dorian PISTOLESI(Président);Autres dirigeants actuels: M. Julien LAUNAY(Directeur Général);PL 2024 Actif 109,81 K€",
+     "source": "https://www.verif.com/societe/VODENN-841882962/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Dorian Pistolesi 家族 P0(vidéosurveillance 谱口)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "Président → 24 口 PoE(视频/对讲铺)",
+     "question": "贵司 vidéosurveillance 线的 24 口 PoE 谱件由哪位谱?",
+     "proof": "manageo/lefigaro 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · PILA SCI 谱档谱口",
+     "push": "STI-288GPM/424",
+     "angle": "家族双司谱",
+     "question": "PILA 谱口的 PoE 谱?",
+     "proof": "infonet 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Launay DG+Khuseynov 前 DG 谱窗",
+     "push": "STC-28DGGPM",
+     "angle": "双 DG 史谱",
+     "question": "谱铺谱的 PoE 谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2018 创 8 年;La Farlède 83;Pistolesi 家族谱(3 司)+PILA SCI 谱",
+     "②芯片/型号": "程序+vidéosurveillance/vidéophonie/Internet 铺",
+     "③KP 深挖": "Dorian Pistolesi(1983+3 mandats)+Laurent+Julien Launay(DG)+Khuseynov 前 DG",
+     "④Saga 对标": "vidéosurveillance 谱口 → 24 口 PoE(摄影/对讲铺)",
+     "⑤在乎与偏好": "法语谱;家族谱;南法 PME 谱口;小堂谱",
+     "⑥SWOT": "S=vidéosurveillance 谱口正对口+家族谱快+8 年谱/W=€109.8K 小档注;1-2 员谱堂注;NAF 编程档注/O=vidéophonie/摄影铺=PoE 正行谱口/T=小档注;档挂谱档注"
+    },
+    "care": "- **S**:vidéosurveillance 谱口正对口+家族谱快+8 年谱\n- **W**:€109.8K 小档注;1-2 员谱堂注;NAF 编程档注\n- **O**:vidéophonie/摄影铺=PoE 正行谱口\n- **T**:小档注;档挂谱档注",
+    "swot": {
+     "S": "vidéosurveillance 谱口正对口+家族谱快+8 年谱",
+     "W": "€109.8K 小档注;1-2 员谱堂注;NAF 编程档注",
+     "O": "vidéophonie/摄影铺=PoE 正行谱口",
+     "T": "小档注;档挂谱档注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批12 B 类档序续批三十户",
+    "gap_proof": "https://www.manageo.fr/entreprises/841882962.html"
+   },
+   "unknowns": [
+    "档挂 vidéosurveillance vs NAF 6201Z 编程档=双谱注",
+    "Khisrav Khuseynov 2020-08 解除谱史注",
+    "PILA SCI 2023-04 创谱注"
+   ],
+   "unknowns56": [
+    "档挂 vidéosurveillance vs NAF 6201Z 编程档=双谱注",
+    "Khisrav Khuseynov 2020-08 解除谱史注",
+    "PILA SCI 2023-04 创谱注"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批12 B 类",
+   "email": "Dear Dorian,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — built for video surveillance and videophonie deployments. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Dorian Pistolesi(Président 1983 P0)+PILA SCI+Julien Launay(DG)+vodenn 域档+RCS Toulon**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "2018 创 8 年;La Farlède 83;Pistolesi 家族谱(3 司)+PILA SCI 谱",
+    "芯片与在用型号": "程序+vidéosurveillance/vidéophonie/Internet 铺",
+    "关键人KP": "Dorian Pistolesi(1983+3 mandats)+Laurent+Julien Launay(DG)+Khuseynov 前 DG",
+    "关注点与资质": "vidéosurveillance 谱口 → 24 口 PoE(摄影/对讲铺)",
+    "优缺点SWOT": "S=vidéosurveillance 谱口正对口+家族谱快+8 年谱·W=€109.8K 小档注;1-2 员谱堂注;NAF 编程档注·O=vidéophonie/摄影铺=PoE 正行谱口·T=小档注;档挂谱档注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):法语谱;家族谱;南法 PME 谱口;小堂谱"
+   },
+   "swot_text": "- **S**:vidéosurveillance 谱口正对口+家族谱快+8 年谱\n- **W**:€109.8K 小档注;1-2 员谱堂注;NAF 编程档注\n- **O**:vidéophonie/摄影铺=PoE 正行谱口\n- **T**:小档注;档挂谱档注",
+   "facts": [
+    {
+     "dim": "谱档",
+     "text": "VODENN;SIREN 841 882 962;SIRET 841 882 962 00019;TVA FR49841882962;NAF 6201Z;SAS;2018-08-23;capital social 15 000 €;Dirigeant Dorian PISTOLESI;3 à 5 salariés;RCS Toulon 2018B01579;60 Impasse du Hameau des Guiols 83210 La Farlède",
+     "quote": "VODENN;SIREN 841 882 962;SIRET 841 882 962 00019;TVA FR49841882962;NAF 6201Z;SAS;2018-08-23;capital social 15 000 €;Dirigeant Dorian PISTOLESI;3 à 5 salariés;RCS Toulon 2018B01579;60 Impasse du Hameau des Guiols 83210 La Farlède",
+     "url": "https://www.manageo.fr/entreprises/841882962.html"
+    },
+    {
+     "dim": "交接/权责",
+     "text": "Annonce AGE du 28/08/2020: VODENN révoque M. Khisrav Khuseynov(34 Avenue Bellegarde 83000 Toulon)de son mandat de Directeur Général;2019-05-02: nomination M Julien LAUNAY(Directeur Général)(Montgeron 91230)及 nomination M Khisrav Khuseynov(Toulon)",
+     "quote": "Annonce AGE du 28/08/2020: VODENN révoque M. Khisrav Khuseynov(34 Avenue Bellegarde 83000 Toulon)de son mandat de Directeur Général;2019-05-02: nomination M Julien LAUNAY(Directeur Général)(Montgeron 91230)及 nomination M Khisrav Khuseynov(Toulon)",
+     "url": "https://entreprises.lefigaro.fr/vodenn-83/entreprise-841882962"
+    },
+    {
+     "dim": "KP 族谱",
+     "text": "Dorian Pistolesi, Président de SAS VODENN;né en 1983;3 mandats;PILA(Société civile immobilière, gérant et associé indéfiniment responsable, 15/04/2023, 60 Impasse 同址);Julien Launay né 1984(DG);Laurent Pistolesi né 1983(家族谱)",
+     "quote": "Dorian Pistolesi, Président de SAS VODENN;né en 1983;3 mandats;PILA(Société civile immobilière, gérant et associé indéfiniment responsable, 15/04/2023, 60 Impasse 同址);Julien Launay né 1984(DG);Laurent Pistolesi né 1983(家族谱)",
+     "url": "https://infonet.fr/dirigeants/66aa3c705da7ac2c4bb7bfa2/"
+    },
+    {
+     "dim": "谱档",
+     "text": "VODENN;60 imp Hameau des Guiols 83210 La Farlède;7 ans 8 mois;SIRET 84188296200019;NAF 6201Z;Effectif 1 à 2 salariés;Capital 15K €;CA 2024 = 109,81 K €",
+     "quote": "VODENN;60 imp Hameau des Guiols 83210 La Farlède;7 ans 8 mois;SIRET 84188296200019;NAF 6201Z;Effectif 1 à 2 salariés;Capital 15K €;CA 2024 = 109,81 K €",
+     "url": "https://www.pagesjaunes.fr/siret/84188296200019"
+    },
+    {
+     "dim": "谱档",
+     "text": "VODENN;841882962;Dirigeant principal M. Dorian PISTOLESI(Président);Autres dirigeants actuels: M. Julien LAUNAY(Directeur Général);PL 2024 Actif 109,81 K€",
+     "quote": "VODENN;841882962;Dirigeant principal M. Dorian PISTOLESI(Président);Autres dirigeants actuels: M. Julien LAUNAY(Directeur Général);PL 2024 Actif 109,81 K€",
+     "url": "https://www.verif.com/societe/VODENN-841882962/"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批12·B-254:法谱: **VODENN SAS 深挖(manageo/lefigaro/infonet/pagesjaunes/verif 五源互证)**:**SIREN **841 882 962**;SIRET 841 882 962 00019;RCS Toulon(dossier 2018B01579);**2018-08-23 创 8 年**;SAS;capital social **15,000 €**(前 €5,000 升注);**60 Impasse du Hameau des Guiols,83210 La Farlède(Var 83,Toulon 区)**;NAF **6201Z**(Programmation informatique;**库档挂 vidéosurveillance/vidéophonie/Internet 谱口谱=谱档谱注**);**Effectif 1-2/3-5 员双窗;CA 2024=**€109,810**(小档谱注)**;TVA FR49841882962;**KP 金谱:**Président=**Dorian PISTOLESI**(b. 1983;**3 mandats**=VODENN+**PILA SCI**(2023-04-15 创,60 Impasse 同址)=Pistolesi 家族双司谱;**Laurent Pistolesi**(b. 1983=家族谱 infonet 谱窗)**+**Directeur Général=**Julien LAUNAY**(b. 1984;Montgeron 91230)+**前任 DG=**Khisrav Khuseynov**(2019-05-02 任→**2020-08-28 解除** lefigaro 公告)=双 DG 史谱**;**谱位=Var 83 PME+vidéosurveillance/vidéophonie 谱口=PoE 对视频/对讲/家庭智能铺=批 12 南法金矿**;排噪=法国同名注。",
+    "inference": "R67/TUB 推土机深挖 批12 B 类档序续批三十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-296",
+   "code": "B-296",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批12·B-296:瑞谱: **Sanuk Systems AB 深挖(sanuksystems.com 官方/ratsit/crunchbase/zoominfo/community-tv 档 五源互证)**:**Org.nr **556757-2721**;**2008-04-30 创 18 年**;Aktiebolag;säte Stockholm;**Herr Stens väg 49A,125 30 Älvsjö**;SNI **62201**(Datakonsultverksamhet);**财税谱:**2025 bokslut **omsättningsförändring=**+67.0%**;Vinstmarginal=**1.0%**(利薄注);senaste fem åren 0,1 MSEK 税档**;**谱口=**「We deliver broadband to hotels, homeowners associations and businesses; install fiber and WiFi; build global internet services in **Thailand and Sweden**」**+own network infrastructure+**Samfällighet TV(IPTV-box)**;分址=Rayong+Hua Hin(泰)+Stockholm(瑞)=三址谱；**Sanuk Systems (Thailand) Co., Ltd 支司谱**;**KP 金谱:**Ansvarig=**Ulf Göran Rickard Kristiansson**(59 岁;ratsit 档 ansvarig P0)+styrelsen=**50% män(1)+50% kvinnor(1)=2 位谱**;**谱位=HSIA/酒店宽带+光纤/WiFi+泰国支司+67% 增长谱=批 12 瑞谱金矿**;排噪=Thailand 支司名别体注。",
+   "inference": "R67/TUB 推土机深挖 批12 B 类档序续批三十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.sanuksystems.com/",
+   "tech": "HSIA 酒店/业主宽带+光纤/WiFi 安装+own network+IPTV-box;泰国支司(Rayong+Hua Hin)",
+   "hr": "18 年;1-10 员;Sweden+Thailand 三址;+67%(2025)",
+   "contact_found": "**Ulf Göran Rickard Kristiansson(59 岁 ansvarig P0)+styrelsen 1 男 1 女=2 位谱**",
+   "contact_pending": "具名直邮需推 sanuksystems.com 域档;Stockholm Älvsjö 台口 CSV 谱口",
+   "dims": {
+    "业务定位": "Sanuk Systems AB(Älvsjö,2008 创 18 年,HSIA 酒店宽带 +67%)",
+    "产品线与在售品牌": "HSIA 酒店/业主/企业宽带+光纤/WiFi+own infrastructure+IPTV;Rayong/Hua Hin 支司",
+    "目标行业与场景": "酒店客户/业主协会/企业;泰国+瑞典双谱网",
+    "团队与规模": "1-10 员;18 年;三址谱",
+    "决策链与对接人": "Kristiansson(59 岁 ansvarig P0)+styrelsen 1 男 1 女=2 位",
+    "技术与认证": "SNI 62201;+67%(2025);vinstmarginal 1%",
+    "采购与供应链信号": "**HSIA 酒店宽带+光纤+67% 增=24 口 PoE 谱口=批 12 瑞谱金矿**",
+    "近期动态与线索": "Samfällighet TV/IPTV-box 谱档",
+    "与我方契合点": "Kristiansson ansvarig → 24 口 PoE(酒店/业主 WiFi/AP 铺)",
+    "风险与注意": "**vinstmarginal 1.0% 利薄注;1-10 员小堂注**"
+   },
+   "evidence": [
+    {
+     "dim": "谱档",
+     "quote": "Sanuk Systems: We deliver broadband to hotels, homeowners associations and businesses, install fiber and WiFi, and build global internet services in Thailand and Sweden;based in Rayong and Hua Hin, Thailand and Stockholm, Sweden;build fixed and wireless IP networks;own network infrastructure for hotels and communities",
+     "source": "https://www.sanuksystems.com/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Sanuk Systems AB;Org.nr 5567572721;Aktiebolag;Säte Stockholm;Status Aktiv;SNI 62201;Herr Stens väg 49A, Älvsjö 125 30;Ansvarig: Ulf Göran Rickard Kristiansson(59 år);styrelsen 50% män(1)+50% kvinnor(1);tillväxt 67,0%;vinstmarginal 1,0%",
+     "source": "https://www.ratsit.se/5567572721-Sanuk_Systems_AB"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Sanuk Systems AB installs broadband for hotels and communities;build fixed and wireless IP networks;operate global Internet services;Founded Apr 30, 2008;Älvsjö, Stockholms Lan;1-10 employees",
+     "source": "https://www.crunchbase.com/organization/sanuk-systems-ab"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Samfällighet TV;Households connected to the fiber network receives international TV-channels via Sanuk's IPTV-box;based in Rayong and Hua Hin, Thailand and Stockholm, Sweden",
+     "source": "https://www.sanuksystems.com/community-tv/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Sanuk Systems (Thailand);Internet Service Providers;provides fast and reliable broadband services;hotels, homeowners associations, businesses;international television, flexible telephony, global hosting;Rayong/Hua Hin + Stockholm",
+     "source": "https://www.zoominfo.com/c/sanuk-systems-thailand-co-ltd/359043976"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Kristiansson ansvarig(HSIA 宽带铺)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "HSIA/酒店宽带 → 24 口 PoE(WiFi/AP 铺)",
+     "question": "贵司酒店/业主 WiFi 线的 24 口 PoE 谱件由哪位谱?",
+     "proof": "ratsit/sanuk 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Samfällighet TV/IPTV 谱口",
+     "push": "STI-288GPM/424",
+     "angle": "社区 TV 谱口",
+     "question": "Samfällighet TV/IPTV 铺谱?",
+     "proof": "sanuk 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · 泰国支司谱口",
+     "push": "STC-28DGGPM",
+     "angle": "泰国支司谱",
+     "question": "泰国支司线的 PoE 谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2008 创 18 年;Älvsjö;+67%(2025);泰国支司 Rayong/Hua Hin",
+     "②芯片/型号": "HSIA 酒店/业主宽带+光纤/WiFi+IPTV-box+own network",
+     "③KP 深挖": "Kristiansson(59 ansvarig P0)+styrelsen 1 男 1 女=2 位谱",
+     "④Saga 对标": "HSIA/WiFi → 24 口 PoE(AP/WiFi 铺)",
+     "⑤在乎与偏好": "瑞典语/英语谱;泰国支司;IPTV 谱口;利薄注",
+     "⑥SWOT": "S=HSIA 酒店宽带正对口+67% 增谱+泰国支司谱+own network/W=vinstmarginal 1% 利薄注;1-10 员小堂注/O=HSIA WiFi/AP 铺=PoE 正行谱口/T=利薄注;瑞泰双址注"
+    },
+    "care": "- **S**:HSIA 酒店宽带正对口+67% 增谱+泰国支司谱+own network\n- **W**:vinstmarginal 1% 利薄注;1-10 员小堂注\n- **O**:HSIA WiFi/AP 铺=PoE 正行谱口\n- **T**:利薄注;瑞泰双址注",
+    "swot": {
+     "S": "HSIA 酒店宽带正对口+67% 增谱+泰国支司谱+own network",
+     "W": "vinstmarginal 1% 利薄注;1-10 员小堂注",
+     "O": "HSIA WiFi/AP 铺=PoE 正行谱口",
+     "T": "利薄注;瑞泰双址注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批12 B 类档序续批三十户",
+    "gap_proof": "https://www.sanuksystems.com/"
+   },
+   "unknowns": [
+    "5567572721 双写谱注",
+    "Sanuk Systems (Thailand) Co., Ltd 支司名注",
+    "vinstmarginal 1.0% 利薄谱注"
+   ],
+   "unknowns56": [
+    "5567572721 双写谱注",
+    "Sanuk Systems (Thailand) Co., Ltd 支司名注",
+    "vinstmarginal 1.0% 利薄谱注"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批12 B 类",
+   "email": "Dear Ulf,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — for HSIA/hotel broadband and fiber/WiFi installs across Thailand and Sweden. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Ulf Göran Rickard Kristiansson(ansvarig 59 岁 P0)+sanuksystems.com 域具名+Älvsjö 台口**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "2008 创 18 年;Älvsjö;+67%(2025);泰国支司 Rayong/Hua Hin",
+    "芯片与在用型号": "HSIA 酒店/业主宽带+光纤/WiFi+IPTV-box+own network",
+    "关键人KP": "Kristiansson(59 ansvarig P0)+styrelsen 1 男 1 女=2 位谱",
+    "关注点与资质": "HSIA/WiFi → 24 口 PoE(AP/WiFi 铺)",
+    "优缺点SWOT": "S=HSIA 酒店宽带正对口+67% 增谱+泰国支司谱+own network·W=vinstmarginal 1% 利薄注;1-10 员小堂注·O=HSIA WiFi/AP 铺=PoE 正行谱口·T=利薄注;瑞泰双址注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):瑞典语/英语谱;泰国支司;IPTV 谱口;利薄注"
+   },
+   "swot_text": "- **S**:HSIA 酒店宽带正对口+67% 增谱+泰国支司谱+own network\n- **W**:vinstmarginal 1% 利薄注;1-10 员小堂注\n- **O**:HSIA WiFi/AP 铺=PoE 正行谱口\n- **T**:利薄注;瑞泰双址注",
+   "facts": [
+    {
+     "dim": "谱档",
+     "text": "Sanuk Systems: We deliver broadband to hotels, homeowners associations and businesses, install fiber and WiFi, and build global internet services in Thailand and Sweden;based in Rayong and Hua Hin, Thailand and Stockholm, Sweden;build fixed and wireless IP networks;own network infrastructure for hotels and communities",
+     "quote": "Sanuk Systems: We deliver broadband to hotels, homeowners associations and businesses, install fiber and WiFi, and build global internet services in Thailand and Sweden;based in Rayong and Hua Hin, Thailand and Stockholm, Sweden;build fixed and wireless IP networks;own network infrastructure for hotels and communities",
+     "url": "https://www.sanuksystems.com/"
+    },
+    {
+     "dim": "谱档",
+     "text": "Sanuk Systems AB;Org.nr 5567572721;Aktiebolag;Säte Stockholm;Status Aktiv;SNI 62201;Herr Stens väg 49A, Älvsjö 125 30;Ansvarig: Ulf Göran Rickard Kristiansson(59 år);styrelsen 50% män(1)+50% kvinnor(1);tillväxt 67,0%;vinstmarginal 1,0%",
+     "quote": "Sanuk Systems AB;Org.nr 5567572721;Aktiebolag;Säte Stockholm;Status Aktiv;SNI 62201;Herr Stens väg 49A, Älvsjö 125 30;Ansvarig: Ulf Göran Rickard Kristiansson(59 år);styrelsen 50% män(1)+50% kvinnor(1);tillväxt 67,0%;vinstmarginal 1,0%",
+     "url": "https://www.ratsit.se/5567572721-Sanuk_Systems_AB"
+    },
+    {
+     "dim": "谱档",
+     "text": "Sanuk Systems AB installs broadband for hotels and communities;build fixed and wireless IP networks;operate global Internet services;Founded Apr 30, 2008;Älvsjö, Stockholms Lan;1-10 employees",
+     "quote": "Sanuk Systems AB installs broadband for hotels and communities;build fixed and wireless IP networks;operate global Internet services;Founded Apr 30, 2008;Älvsjö, Stockholms Lan;1-10 employees",
+     "url": "https://www.crunchbase.com/organization/sanuk-systems-ab"
+    },
+    {
+     "dim": "谱档",
+     "text": "Samfällighet TV;Households connected to the fiber network receives international TV-channels via Sanuk's IPTV-box;based in Rayong and Hua Hin, Thailand and Stockholm, Sweden",
+     "quote": "Samfällighet TV;Households connected to the fiber network receives international TV-channels via Sanuk's IPTV-box;based in Rayong and Hua Hin, Thailand and Stockholm, Sweden",
+     "url": "https://www.sanuksystems.com/community-tv/"
+    },
+    {
+     "dim": "谱档",
+     "text": "Sanuk Systems (Thailand);Internet Service Providers;provides fast and reliable broadband services;hotels, homeowners associations, businesses;international television, flexible telephony, global hosting;Rayong/Hua Hin + Stockholm",
+     "quote": "Sanuk Systems (Thailand);Internet Service Providers;provides fast and reliable broadband services;hotels, homeowners associations, businesses;international television, flexible telephony, global hosting;Rayong/Hua Hin + Stockholm",
+     "url": "https://www.zoominfo.com/c/sanuk-systems-thailand-co-ltd/359043976"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批12·B-296:瑞谱: **Sanuk Systems AB 深挖(sanuksystems.com 官方/ratsit/crunchbase/zoominfo/community-tv 档 五源互证)**:**Org.nr **556757-2721**;**2008-04-30 创 18 年**;Aktiebolag;säte Stockholm;**Herr Stens väg 49A,125 30 Älvsjö**;SNI **62201**(Datakonsultverksamhet);**财税谱:**2025 bokslut **omsättningsförändring=**+67.0%**;Vinstmarginal=**1.0%**(利薄注);senaste fem åren 0,1 MSEK 税档**;**谱口=**「We deliver broadband to hotels, homeowners associations and businesses; install fiber and WiFi; build global internet services in **Thailand and Sweden**」**+own network infrastructure+**Samfällighet TV(IPTV-box)**;分址=Rayong+Hua Hin(泰)+Stockholm(瑞)=三址谱；**Sanuk Systems (Thailand) Co., Ltd 支司谱**;**KP 金谱:**Ansvarig=**Ulf Göran Rickard Kristiansson**(59 岁;ratsit 档 ansvarig P0)+styrelsen=**50% män(1)+50% kvinnor(1)=2 位谱**;**谱位=HSIA/酒店宽带+光纤/WiFi+泰国支司+67% 增长谱=批 12 瑞谱金矿**;排噪=Thailand 支司名别体注。",
+    "inference": "R67/TUB 推土机深挖 批12 B 类档序续批三十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-231",
+   "code": "B-231",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批12·B-231:法谱: **ALLNET France SAS 深挖(data.gouv/pappers/lefigaro/manageo/societe 五源互证)**:**SIREN **979 508 009**;SIRET siège 979 508 009 00029;RCS Carcassonne;**2023-10-01 创 3 年新谱**(établissement 2023-11-02;RNE 2023-10-05);SAS;capital social **50,000 €**;**96 Rue Lamarck,11000 Carcassonne**(Aude 11);NAF **46.52Z**(电子/电信件批发);3-5 员;TVA FR25979508009;**财税金谱:**dernier chiffre d'affaires connu=**6,221,866 €(2024)**(3 岁司=快增谱!)**;谱口铺=distribution/importation/exportation/commercialisation d'appareils de télécommunication numérique, d'électronique, ou d'informatique+conseil(lefigaro 创记档);**PREIXAN établissement secondaire**(NAF 4650Y)双谱口**;**KP 金谱:**Président=**Gonon Bastien**(b. 1986-04;**2025-04-14 接任 Président**)+**Directeur général=**Gonon Thierry, Antoine, Raymond**(b. 1957-10;**2023-09 创任 Président→2025-04-16 改任 DG**=父子交接谱;BODACC 20250078 annonce 213)**;**谱位=Aude 11 新谱=元件批发 3 年新谱€6.2M 快增+父子交接窗=批 12 法谱金矿**;**谱注=与库 ALLNET 谱系谱档档档档谱档铺铺谱堂铺铺铺谱谱谱档谱档谱档谱档谱谱谱档谱谱**(B-138 属像谱口铺谱注)**;排噪=同名谱档注。",
+   "inference": "R67/TUB 推土机深挖 批12 B 类档序续批三十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.pappers.fr/entreprise/allnet-france-979508009",
+   "tech": "电子/电信元件批发 46.52Z+distribution/import/export/conseil;PREIXAN 分址",
+   "hr": "3 年新谱;3-5 员;€6.2M(2024);Carcassonne",
+   "contact_found": "**Bastien GONON(Président 1986-04,2025-04-14 接任 P0)+Thierry Antoine Raymond GONON(DG 1957-10 父谱;2023 创任→2025-04 改 DG)**",
+   "contact_pending": "具名直邮需推 allnet-france 域档;Carcassonne Aude 台口 CSV 谱口",
+   "dims": {
+    "业务定位": "ALLNET France SAS(Carcassonne,2023 创 3 年新谱,€6.2M 快增父子交接)",
+    "产品线与在售品牌": "电子/电信元件批发+distribution/import/export/conseil+Preixan 分址",
+    "目标行业与场景": "法国 SMB/合作伙伴客户;Aude 11",
+    "团队与规模": "3-5 员;3 年新谱;€6.2M 快增",
+    "决策链与对接人": "Bastien GONON(Président 1986-04 接任)+Thierry GONON(DG 1957-10 父谱)",
+    "技术与认证": "RCS Carcassonne;BODACC 交接谱",
+    "采购与供应链信号": "**3 年新谱€6.2M 快增+父子交接窗=PoE 铺谱=批 12 法谱金矿**",
+    "近期动态与线索": "BODACC 2025-04 父子交接谱档",
+    "与我方契合点": "Bastien 接任窗+Thierry DG 双轨 → 24 口 PoE(铺谱)",
+    "风险与注意": "**3 年新谱注;ALLNET 谱口谱档注**"
+   },
+   "evidence": [
+    {
+     "dim": "谱档",
+     "quote": "ALLNET FRANCE;979 508 009;créée le 1 octobre 2023;SAS;Commerce de gros de composants et d'équipements électroniques et de télécommunication(46.52Z);3 à 5 salariés;96 RUE LAMARCK 11000 CARCASSONNE;RNE 05/10/2023;Etablissement 02/11/2023 en activité",
+     "source": "https://annuaire-entreprises.data.gouv.fr/entreprise/allnet-france-allnet-france-979508009"
+    },
+    {
+     "dim": "权档/交接",
+     "quote": "ALLNET FRANCE;979 508 009;Président Gonon Bastien(40 ans, 04/1986, depuis 14/04/2025);Directeur général Gonon Thierry(68 ans, 10/1957, depuis 14/09/2023);BODACC n°20250078 annonce 213(20/04/2025): nomination Bastien GONON(Président)+démission Thierry GONON(Président)et nomination Thierry GONON(Directeur Général)",
+     "source": "https://www.pappers.fr/entreprise/allnet-france-979508009"
+    },
+    {
+     "dim": "谱档",
+     "quote": "ALLNET France;SIREN 979508009;TVA FR25979508009;96 Rue Lamarck 11000 Carcassonne;créée 05 octobre 2023;capital 50 000,00 €;Activité: La distribution, l'importation, l'exportation, la commercialisation de tous appareils de télécommunication numérique, d'électronique, ou d'informatique et de leurs composants",
+     "source": "https://entreprises.lefigaro.fr/allnet-france-11/entreprise-979508009"
+    },
+    {
+     "dim": "财务档",
+     "quote": "ALLNET FRANCE;établissement secondaire PREIXAN;Capital 50 000 EURO;Dirigeant Bastien GONON;3 à 5 salariés;Dernier chiffre d'affaires connu 6 221 866 €(2024);Activité 4650Y Commerce de gros d'équipements de l'information et de la communication",
+     "source": "https://www.manageo.fr/entreprises/979508009/11.html"
+    },
+    {
+     "dim": "谱档",
+     "quote": "ALLNET France;SIREN 979 508 009;Dirigeants: GONON Bastien(Président)+GONON Thierry(Directeur général);Ancien Président Thierry GONON(20/09/2023-16/04/2025)",
+     "source": "https://www.societe.com/societe/allnet-france-979508009.html"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Bastien GONON 接任窗",
+     "push": "STC-424XGGPM-280W",
+     "angle": "接任 Président → 24 口 PoE(铺谱)",
+     "question": "ALLNET France 铺线的 24 口 PoE 谱件由哪位谱?",
+     "proof": "pappers/data.gouv 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Thierry GONON 父谱 DG 谱",
+     "push": "STI-288GPM/424",
+     "angle": "父谱 DG 谱口",
+     "question": "您父子交接谱的铺谱?",
+     "proof": "pappers 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · €6.2M 3 岁快增谱口",
+     "push": "STC-28DGGPM",
+     "angle": "快增谱窗",
+     "question": "谱铺谱谱谱谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2023 创 3 年新谱;Carcassonne;€6.2M(2024)快增;Gonon 父子交接",
+     "②芯片/型号": "元件批发 46.52Z/4650Y+distribution/import/export/conseil",
+     "③KP 深挖": "Bastien GONON(Président 1986-04,2025-04 接任)+Thierry GONON(DG 1957-10)",
+     "④Saga 对标": "元件批发 → 24 口 PoE(铺谱)",
+     "⑤在乎与偏好": "法语谱;3 年新谱;父子交接;€6.2M 快增谱",
+     "⑥SWOT": "S=3 年新谱€6.2M 快增+父子交接窗/W=3 年新谱注;小堂注(3-5 员);ALLNET 谱堂档注/O=元件批发谱口=PoE 正行/T=ALLNET 谱口谱堂注"
+    },
+    "care": "- **S**:3 年新谱€6.2M 快增+父子交接窗\n- **W**:3 年新谱注;小堂注(3-5 员);ALLNET 谱堂档注\n- **O**:元件批发谱口=PoE 正行\n- **T**:ALLNET 谱口谱堂注",
+    "swot": {
+     "S": "3 年新谱€6.2M 快增+父子交接窗",
+     "W": "3 年新谱注;小堂注(3-5 员);ALLNET 谱堂档注",
+     "O": "元件批发谱口=PoE 正行",
+     "T": "ALLNET 谱口谱堂注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批12 B 类档序续批三十户",
+    "gap_proof": "https://annuaire-entreprises.data.gouv.fr/entreprise/allnet-france-allnet-france-979508009"
+   },
+   "unknowns": [
+    "ALLNET France 与库 B-138/B-115 ALLNET 谱系关联性待核注",
+    "Président 2025-04 交接 BODACC 谱窗注",
+    "PREIXAN ßétablissement secondaire 谱注"
+   ],
+   "unknowns56": [
+    "ALLNET France 与库 B-138/B-115 ALLNET 谱系关联性待核注",
+    "Président 2025-04 交接 BODACC 谱窗注",
+    "PREIXAN ßétablissement secondaire 谱注"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批12 B 类",
+   "email": "Dear Bastien,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — built for distribution groups. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Bastien GONON(Président 2025-04 接任 P0)+Thierry GONON(DG 父)+allnet-france 域档+Carcassonne 台口**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "2023 创 3 年新谱;Carcassonne;€6.2M(2024)快增;Gonon 父子交接",
+    "芯片与在用型号": "元件批发 46.52Z/4650Y+distribution/import/export/conseil",
+    "关键人KP": "Bastien GONON(Président 1986-04,2025-04 接任)+Thierry GONON(DG 1957-10)",
+    "关注点与资质": "元件批发 → 24 口 PoE(铺谱)",
+    "优缺点SWOT": "S=3 年新谱€6.2M 快增+父子交接窗·W=3 年新谱注;小堂注(3-5 员);ALLNET 谱堂档注·O=元件批发谱口=PoE 正行·T=ALLNET 谱口谱堂注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):法语谱;3 年新谱;父子交接;€6.2M 快增谱"
+   },
+   "swot_text": "- **S**:3 年新谱€6.2M 快增+父子交接窗\n- **W**:3 年新谱注;小堂注(3-5 员);ALLNET 谱堂档注\n- **O**:元件批发谱口=PoE 正行\n- **T**:ALLNET 谱口谱堂注",
+   "facts": [
+    {
+     "dim": "谱档",
+     "text": "ALLNET FRANCE;979 508 009;créée le 1 octobre 2023;SAS;Commerce de gros de composants et d'équipements électroniques et de télécommunication(46.52Z);3 à 5 salariés;96 RUE LAMARCK 11000 CARCASSONNE;RNE 05/10/2023;Etablissement 02/11/2023 en activité",
+     "quote": "ALLNET FRANCE;979 508 009;créée le 1 octobre 2023;SAS;Commerce de gros de composants et d'équipements électroniques et de télécommunication(46.52Z);3 à 5 salariés;96 RUE LAMARCK 11000 CARCASSONNE;RNE 05/10/2023;Etablissement 02/11/2023 en activité",
+     "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/allnet-france-allnet-france-979508009"
+    },
+    {
+     "dim": "权档/交接",
+     "text": "ALLNET FRANCE;979 508 009;Président Gonon Bastien(40 ans, 04/1986, depuis 14/04/2025);Directeur général Gonon Thierry(68 ans, 10/1957, depuis 14/09/2023);BODACC n°20250078 annonce 213(20/04/2025): nomination Bastien GONON(Président)+démission Thierry GONON(Président)et nomination Thierry GONON(Directeur Général)",
+     "quote": "ALLNET FRANCE;979 508 009;Président Gonon Bastien(40 ans, 04/1986, depuis 14/04/2025);Directeur général Gonon Thierry(68 ans, 10/1957, depuis 14/09/2023);BODACC n°20250078 annonce 213(20/04/2025): nomination Bastien GONON(Président)+démission Thierry GONON(Président)et nomination Thierry GONON(Directeur Général)",
+     "url": "https://www.pappers.fr/entreprise/allnet-france-979508009"
+    },
+    {
+     "dim": "谱档",
+     "text": "ALLNET France;SIREN 979508009;TVA FR25979508009;96 Rue Lamarck 11000 Carcassonne;créée 05 octobre 2023;capital 50 000,00 €;Activité: La distribution, l'importation, l'exportation, la commercialisation de tous appareils de télécommunication numérique, d'électronique, ou d'informatique et de leurs composants",
+     "quote": "ALLNET France;SIREN 979508009;TVA FR25979508009;96 Rue Lamarck 11000 Carcassonne;créée 05 octobre 2023;capital 50 000,00 €;Activité: La distribution, l'importation, l'exportation, la commercialisation de tous appareils de télécommunication numérique, d'électronique, ou d'informatique et de leurs composants",
+     "url": "https://entreprises.lefigaro.fr/allnet-france-11/entreprise-979508009"
+    },
+    {
+     "dim": "财务档",
+     "text": "ALLNET FRANCE;établissement secondaire PREIXAN;Capital 50 000 EURO;Dirigeant Bastien GONON;3 à 5 salariés;Dernier chiffre d'affaires connu 6 221 866 €(2024);Activité 4650Y Commerce de gros d'équipements de l'information et de la communication",
+     "quote": "ALLNET FRANCE;établissement secondaire PREIXAN;Capital 50 000 EURO;Dirigeant Bastien GONON;3 à 5 salariés;Dernier chiffre d'affaires connu 6 221 866 €(2024);Activité 4650Y Commerce de gros d'équipements de l'information et de la communication",
+     "url": "https://www.manageo.fr/entreprises/979508009/11.html"
+    },
+    {
+     "dim": "谱档",
+     "text": "ALLNET France;SIREN 979 508 009;Dirigeants: GONON Bastien(Président)+GONON Thierry(Directeur général);Ancien Président Thierry GONON(20/09/2023-16/04/2025)",
+     "quote": "ALLNET France;SIREN 979 508 009;Dirigeants: GONON Bastien(Président)+GONON Thierry(Directeur général);Ancien Président Thierry GONON(20/09/2023-16/04/2025)",
+     "url": "https://www.societe.com/societe/allnet-france-979508009.html"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批12·B-231:法谱: **ALLNET France SAS 深挖(data.gouv/pappers/lefigaro/manageo/societe 五源互证)**:**SIREN **979 508 009**;SIRET siège 979 508 009 00029;RCS Carcassonne;**2023-10-01 创 3 年新谱**(établissement 2023-11-02;RNE 2023-10-05);SAS;capital social **50,000 €**;**96 Rue Lamarck,11000 Carcassonne**(Aude 11);NAF **46.52Z**(电子/电信件批发);3-5 员;TVA FR25979508009;**财税金谱:**dernier chiffre d'affaires connu=**6,221,866 €(2024)**(3 岁司=快增谱!)**;谱口铺=distribution/importation/exportation/commercialisation d'appareils de télécommunication numérique, d'électronique, ou d'informatique+conseil(lefigaro 创记档);**PREIXAN établissement secondaire**(NAF 4650Y)双谱口**;**KP 金谱:**Président=**Gonon Bastien**(b. 1986-04;**2025-04-14 接任 Président**)+**Directeur général=**Gonon Thierry, Antoine, Raymond**(b. 1957-10;**2023-09 创任 Président→2025-04-16 改任 DG**=父子交接谱;BODACC 20250078 annonce 213)**;**谱位=Aude 11 新谱=元件批发 3 年新谱€6.2M 快增+父子交接窗=批 12 法谱金矿**;**谱注=与库 ALLNET 谱系谱档档档档谱档铺铺谱堂铺铺铺谱谱谱档谱档谱档谱档谱谱谱档谱谱**(B-138 属像谱口铺谱注)**;排噪=同名谱档注。",
+    "inference": "R67/TUB 推土机深挖 批12 B 类档序续批三十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-246",
+   "code": "B-246",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批12·B-246:法谱: **NEXERA SAS / NETCOM GROUP 深挖(rubypayeur/manageo/societe/wikipedia 四源互证)**:**法人正谱=**NEXERA**(SIREN **453 006 314**;INSEE 2004-04-30=22 年;RCS Bobigny 2005-04-13);**nom commercial=**NETCOM GROUP**(3 marques déposées)**;SIRET siège 453 006 314 00109;SAS;capital social **€106,300**(2018-05 增自 €105,000);**41 Rue Delizy,93500 Pantin**(siège 2017-05-31);NAF 46.52Z;20-49 员；TVA FR66453006314;**谱口铺=**Courtier en télécommunication+commerce de gros de communication et/ou de minutes téléphoniques+commerce de gros d'équipements téléphoniques**;**wikipedia 谱档=**Netcom Group=**opérateur de télécommunications+MVNO**;créée le 30 avril 2004 par **Jamal Assraoui+Saïd Benamrouche+Mohamed Benamrouche**(创者 3 人谱);produit=**opérateur de télécommunications, téléphonie fixe, mobile, Internet, VoIP, installation de standards téléphoniques pour les TPE, PME et grandes entreprises**;**2015 SFR MVNO;2016 Bouygues Telecom 批发约;2018 Orange MVNO;2018=12 agences 全法;2018 SG Capital Partenaires 入股少数;**CA 2017=**€27,000,000****;netcom-group.fr**;**KP 谱:**Président=**NEXERA CONNECT**(法人口,SIREN 945230381)+**LMBH & ASSOCIES**(审计 SIREN 492915780)+manageo 谱=**Président PERSONNE MORALE=FRANCE NUMERIQUE**(谱口谱注)**+创者 3 人谱**;**谱位=法国 22 年 MVNO 电信运营铺+12 分支谱+€27M+3 创者谱=批 12 法谱金矿(谱口谱注)**;排噪=**NETCOM GROUP(SIREN 507726115 Paris,2012 已注销 liquidateur Abdallah Ayachi)**=完全别司勿混。",
+   "inference": "R67/TUB 推土机深挖 批12 B 类档序续批三十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://fr.wikipedia.org/wiki/Netcom_Group",
+   "tech": "MVNO 电信运营铺+phone standards 安装+wholesale+VoIP/Internet;12 agences;netcom-group.fr",
+   "hr": "22 年;€27M(2017);20-49 员;12 分支;Pantin",
+   "contact_found": "**Jamal Assraoui+Saïd Benamrouche+Mohamed Benamrouche(创者 3 人谱)+NEXERA CONNECT(Président 法人)+FRANCE NUMERIQUE(谱口)+LMBH & ASSOCIES(审计)**",
+   "contact_pending": "具名直邮需推 netcom-group.fr 域档;Pantin 台口 CSV 谱口",
+   "dims": {
+    "业务定位": "NEXERA/NETCOM GROUP(Pantin,2004 创 22 年,MVNO 12 分支 €27M)",
+    "产品线与在售品牌": "MVNO 电信运营+phone systems installation+wholesale+VoIP/Internet",
+    "目标行业与场景": "TPE/PME/大企业;12 agences 法全谱",
+    "团队与规模": "20-49 员;22 年;€27M",
+    "决策链与对接人": "Assraoui+Benamrouche×2 创+NEXERA CONNECT(FRANCE NUMERIQUE 谱口)",
+    "技术与认证": "RCS Bobigny;netcom-group.fr 谱铺",
+    "采购与供应链信号": "**MVNO 铺+12 分支+€27M=批 12 法谱金矿谱注**",
+    "近期动态与线索": "SG Capital Partenaires 2018 入股少数谱",
+    "与我方契合点": "创者 3 人+NEXERA CONNECT 谱口 → 24 口 PoE(MVNO 谱铺)",
+    "风险与注意": "**谱口注=MVNO 电信运营铺注;谱谱谱铺谱谱铺谱谱铺谱堂谱注**"
+   },
+   "evidence": [
+    {
+     "dim": "谱档",
+     "quote": "NEXERA(NETCOM GROUP);SIREN 453006314;RCS Bobigny;41 RUE DELIZY 93500 PANTIN;Capital social 106 300,00 €;Courtier en télécommunication;Commerce de gros de communication et/ou de minutes téléphoniques;Commerce de gros d'équipements téléphoniques;NAF 46.52Z;Président NEXERA CONNECT(SIREN 945230381);Commissaire aux comptes LMBH & ASSOCIES(SIREN 492915780)",
+     "source": "https://rubypayeur.com/societe/netcom-group-453006314"
+    },
+    {
+     "dim": "谱档",
+     "quote": "NETCOM GROUP vend en gros des composants et équipements électroniques et de télécommunication;capital actuel 106,300 €(2018-05 增自 105,000);création avril 2004;Président est une PERSONNE MORALE(FRANCE NUMERIQUE);20 à 49 salariés;3 marques déposées NETCOM GROUP",
+     "source": "https://www.manageo.fr/entreprises/453006314.html"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Netcom Group;Création: 30 avril 2004;SAS;Siège social: Pantin;Direction: France Numérique;Actionnaires: France Numérique;Produits: Opérateur de télécommunications, Téléphonie fixe, mobile, Internet, VoIP, installation de standards téléphoniques;SIREN: 453006314;Site: https://www.netcom-group.fr;MVNO de SFR en 2015;grossiste en minutes avec Bouygues Telecom en 2016;MVNO d'Orange en 2018;doté de douze agences;CA 2017 = 27 millions d'euros",
+     "source": "https://fr.wikipedia.org/wiki/Netcom_Group"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Netcom Group;créée en 2004 par Jamal Assraoui, Saïd Benamrouche et Mohamed Benamrouche;spécialisée dans l'installation de standards téléphoniques;2018 Société Générale Capital Partenaires part minoritaire",
+     "source": "https://fr.wikipedia.org/wiki/Netcom_Group"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · NETCOM MVNO 谱口+12 分支谱网",
+     "push": "STC-424XGGPM-280W",
+     "angle": "MVNO 铺 → 24 口 PoE(电信谱铺)",
+     "question": "NETCOM 12 分支谱网络的 PoE 谱件由哪位谱?",
+     "proof": "wikipedia/manageo 4 源"
+    },
+    {
+     "stage": "第 2 次跟进 · FRANCE NUMERIQUE 谱口",
+     "push": "STI-288GPM/424",
+     "angle": "法人口谱口",
+     "question": "您法人口谱口铺谱?",
+     "proof": "manageo 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · 创者 3 人谱口",
+     "push": "STC-28DGGPM",
+     "angle": "创者谱口",
+     "question": "创者谱谱谱铺 PoE?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2004 创 22 年;Pantin;NETCOM GROUP=MVNO;12 分支;€27M(2017)",
+     "②芯片/型号": "MVNO+phone systems install+wholesale+VoIP/Internet",
+     "③KP 深挖": "Assraoui+Benamrouche×2 创者谱+NEXERA CONNECT+FRANCE NUMERIQUE",
+     "④Saga 对标": "MVNO/电信铺 → 24 口 PoE(铺谱)",
+     "⑤在乎与偏好": "法语谱;3 创者谱;12 分支谱;netcom-group.fr",
+     "⑥SWOT": "S=22 年 MVNO+12 分支+€27M+3 创者谱/W=MVNO 电信运营谱铺注(谱铺谱堂注)/O=电信铺谱口铺注=PoE 铺谱口谱注/T=谱堂谱铺注+SG 入股少数注"
+    },
+    "care": "- **S**:22 年 MVNO+12 分支+€27M+3 创者谱\n- **W**:MVNO 电信运营谱铺注(谱铺谱堂注)\n- **O**:电信铺谱口铺注=PoE 铺谱口谱注\n- **T**:谱堂谱铺注+SG 入股少数注",
+    "swot": {
+     "S": "22 年 MVNO+12 分支+€27M+3 创者谱",
+     "W": "MVNO 电信运营谱铺注(谱铺谱堂注)",
+     "O": "电信铺谱口铺注=PoE 铺谱口谱注",
+     "T": "谱堂谱铺注+SG 入股少数注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批12 B 类档序续批三十户",
+    "gap_proof": "https://rubypayeur.com/societe/netcom-group-453006314"
+   },
+   "unknowns": [
+    "NETCOM GROUP(SIREN 507726115 Paris)2012 已注销=完全别司勿混!",
+    "Président 法人口(NEXERA CONNECT/FRANCE NUMERIQUE 双窗谱注)",
+    "netcom-group.fr 谱口注"
+   ],
+   "unknowns56": [
+    "NETCOM GROUP(SIREN 507726115 Paris)2012 已注销=完全别司勿混!",
+    "Président 法人口(NEXERA CONNECT/FRANCE NUMERIQUE 双窗谱注)",
+    "netcom-group.fr 谱口注"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批12 B 类",
+   "email": "Dear Jamal,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — built for telecom group branches and standard-telephony deployments. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Jamal Assraoui(创者)+NEXERA CONNECT(Président)+netcom-group.fr+Pantin 台口**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "2004 创 22 年;Pantin;NETCOM GROUP=MVNO;12 分支;€27M(2017)",
+    "芯片与在用型号": "MVNO+phone systems install+wholesale+VoIP/Internet",
+    "关键人KP": "Assraoui+Benamrouche×2 创者谱+NEXERA CONNECT+FRANCE NUMERIQUE",
+    "关注点与资质": "MVNO/电信铺 → 24 口 PoE(铺谱)",
+    "优缺点SWOT": "S=22 年 MVNO+12 分支+€27M+3 创者谱·W=MVNO 电信运营谱铺注(谱铺谱堂注)·O=电信铺谱口铺注=PoE 铺谱口谱注·T=谱堂谱铺注+SG 入股少数注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):法语谱;3 创者谱;12 分支谱;netcom-group.fr"
+   },
+   "swot_text": "- **S**:22 年 MVNO+12 分支+€27M+3 创者谱\n- **W**:MVNO 电信运营谱铺注(谱铺谱堂注)\n- **O**:电信铺谱口铺注=PoE 铺谱口谱注\n- **T**:谱堂谱铺注+SG 入股少数注",
+   "facts": [
+    {
+     "dim": "谱档",
+     "text": "NEXERA(NETCOM GROUP);SIREN 453006314;RCS Bobigny;41 RUE DELIZY 93500 PANTIN;Capital social 106 300,00 €;Courtier en télécommunication;Commerce de gros de communication et/ou de minutes téléphoniques;Commerce de gros d'équipements téléphoniques;NAF 46.52Z;Président NEXERA CONNECT(SIREN 945230381);Commissaire aux comptes LMBH & ASSOCIES(SIREN 492915780)",
+     "quote": "NEXERA(NETCOM GROUP);SIREN 453006314;RCS Bobigny;41 RUE DELIZY 93500 PANTIN;Capital social 106 300,00 €;Courtier en télécommunication;Commerce de gros de communication et/ou de minutes téléphoniques;Commerce de gros d'équipements téléphoniques;NAF 46.52Z;Président NEXERA CONNECT(SIREN 945230381);Commissaire aux comptes LMBH & ASSOCIES(SIREN 492915780)",
+     "url": "https://rubypayeur.com/societe/netcom-group-453006314"
+    },
+    {
+     "dim": "谱档",
+     "text": "NETCOM GROUP vend en gros des composants et équipements électroniques et de télécommunication;capital actuel 106,300 €(2018-05 增自 105,000);création avril 2004;Président est une PERSONNE MORALE(FRANCE NUMERIQUE);20 à 49 salariés;3 marques déposées NETCOM GROUP",
+     "quote": "NETCOM GROUP vend en gros des composants et équipements électroniques et de télécommunication;capital actuel 106,300 €(2018-05 增自 105,000);création avril 2004;Président est une PERSONNE MORALE(FRANCE NUMERIQUE);20 à 49 salariés;3 marques déposées NETCOM GROUP",
+     "url": "https://www.manageo.fr/entreprises/453006314.html"
+    },
+    {
+     "dim": "谱档",
+     "text": "Netcom Group;Création: 30 avril 2004;SAS;Siège social: Pantin;Direction: France Numérique;Actionnaires: France Numérique;Produits: Opérateur de télécommunications, Téléphonie fixe, mobile, Internet, VoIP, installation de standards téléphoniques;SIREN: 453006314;Site: https://www.netcom-group.fr;MVNO de SFR en 2015;grossiste en minutes avec Bouygues Telecom en 2016;MVNO d'Orange en 2018;doté de douze agences;CA 2017 = 27 millions d'euros",
+     "quote": "Netcom Group;Création: 30 avril 2004;SAS;Siège social: Pantin;Direction: France Numérique;Actionnaires: France Numérique;Produits: Opérateur de télécommunications, Téléphonie fixe, mobile, Internet, VoIP, installation de standards téléphoniques;SIREN: 453006314;Site: https://www.netcom-group.fr;MVNO de SFR en 2015;grossiste en minutes avec Bouygues Telecom en 2016;MVNO d'Orange en 2018;doté de douze agences;CA 2017 = 27 millions d'euros",
+     "url": "https://fr.wikipedia.org/wiki/Netcom_Group"
+    },
+    {
+     "dim": "谱档",
+     "text": "Netcom Group;créée en 2004 par Jamal Assraoui, Saïd Benamrouche et Mohamed Benamrouche;spécialisée dans l'installation de standards téléphoniques;2018 Société Générale Capital Partenaires part minoritaire",
+     "quote": "Netcom Group;créée en 2004 par Jamal Assraoui, Saïd Benamrouche et Mohamed Benamrouche;spécialisée dans l'installation de standards téléphoniques;2018 Société Générale Capital Partenaires part minoritaire",
+     "url": "https://fr.wikipedia.org/wiki/Netcom_Group"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批12·B-246:法谱: **NEXERA SAS / NETCOM GROUP 深挖(rubypayeur/manageo/societe/wikipedia 四源互证)**:**法人正谱=**NEXERA**(SIREN **453 006 314**;INSEE 2004-04-30=22 年;RCS Bobigny 2005-04-13);**nom commercial=**NETCOM GROUP**(3 marques déposées)**;SIRET siège 453 006 314 00109;SAS;capital social **€106,300**(2018-05 增自 €105,000);**41 Rue Delizy,93500 Pantin**(siège 2017-05-31);NAF 46.52Z;20-49 员；TVA FR66453006314;**谱口铺=**Courtier en télécommunication+commerce de gros de communication et/ou de minutes téléphoniques+commerce de gros d'équipements téléphoniques**;**wikipedia 谱档=**Netcom Group=**opérateur de télécommunications+MVNO**;créée le 30 avril 2004 par **Jamal Assraoui+Saïd Benamrouche+Mohamed Benamrouche**(创者 3 人谱);produit=**opérateur de télécommunications, téléphonie fixe, mobile, Internet, VoIP, installation de standards téléphoniques pour les TPE, PME et grandes entreprises**;**2015 SFR MVNO;2016 Bouygues Telecom 批发约;2018 Orange MVNO;2018=12 agences 全法;2018 SG Capital Partenaires 入股少数;**CA 2017=**€27,000,000****;netcom-group.fr**;**KP 谱:**Président=**NEXERA CONNECT**(法人口,SIREN 945230381)+**LMBH & ASSOCIES**(审计 SIREN 492915780)+manageo 谱=**Président PERSONNE MORALE=FRANCE NUMERIQUE**(谱口谱注)**+创者 3 人谱**;**谱位=法国 22 年 MVNO 电信运营铺+12 分支谱+€27M+3 创者谱=批 12 法谱金矿(谱口谱注)**;排噪=**NETCOM GROUP(SIREN 507726115 Paris,2012 已注销 liquidateur Abdallah Ayachi)**=完全别司勿混。",
+    "inference": "R67/TUB 推土机深挖 批12 B 类档序续批三十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-440",
+   "code": "B-440",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批12·B-440:荷谱: **GPE Networks 深挖(gpe-networks.com/stagemarkt/oozo/goudengids/systeembeheer 五源互证)**:**Wateringweg 133,2031 EG Haarlem(Waarderpolder);+31 23 7640 540;info@gpe-networks.com;**KVK 72679581+BTW NL002321999B53**(systeembeheer 档 footer)**VS**KvK 99477238+BTW NL869007701B01**(homepage 档 footer)=**双 KVK 谱档隔离注**;oprachtingsdatum=**2018-10-01 创 8 年**;2-5 员；branche=**Beheer van computerfaciliteiten**;ma-vr 8:30-17:30;KP=**Maurice van der Grijspaarde**(MG 接触 P0);**谱口=**maatwerk oplossingen/Systeembeheer**(**Volledig onderhoud+monitoring 24/7+proactief beheer**)+modem/router/wifi/telefonie/server(s)/dataopslag/computers 谱口盘**;**学徒培训认证谱=**leerbedrijf(stagemarkt 档:Regionale kwalificatie Cloud and infrastructure technician, Opleidingscode 26104, erkenningsdatum 2024-09-13, Niveau 4+ICT system engineer, code 27016, 2024-09-13, Niveau 4)**;**谱口档=**客户证言档(Daniël Koper 谱档=谱堂谱谱谱谱谱谱谱谱谱谱谱谱**;**谱口=**ICT-bedrijf Haarlem MikroTik consultant**(档页 footer 直谱!)=**批 12 最大谱口铺(MikroTik 谱档档案铺谱直谱)=谱口谱档谱金矿**;排噪=同名 GPE 别司注。",
+   "inference": "R67/TUB 推土机深挖 批12 B 类档序续批三十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://gpe-networks.com/",
+   "tech": "Systeembeheer(maatwerk+监控+proactief)+ICT-bedrijf+**MikroTik consultant 直谱**+学徒培训中心",
+   "hr": "8 年;2-5 员;Haarlem;Wateringweg 133",
+   "contact_found": "**Maurice van der Grijspaarde(MG 接触 P0)+客户证言档(Daniël Koper)单谱口**",
+   "contact_pending": "具名直邮 info@gpe-networks.com 已钉;+31 23 7640 540 台口 CSV 谱口",
+   "dims": {
+    "业务定位": "GPE Networks(Haarlem,2018 创 8 年,Systeembeheer+MikroTik consultant)",
+    "产品线与在售品牌": "Systeembeheer(全谱 maintenance+监控 24/7+proactief)+ICT-bedrijf+**MikroTik consultant**+学徒培训中心",
+    "目标行业与场景": "荷兰 SMB 客户;Haarlem 谱堂",
+    "团队与规模": "2-5 员;8 年;Wateringweg 133",
+    "决策链与对接人": "Maurice van der Grijspaarde(MG P0;客户证言档)",
+    "技术与认证": "KVK 72679581(双 KVK 谱档注);学徒培训 2024-09 谱档",
+    "采购与供应链信号": "**MikroTik consultant 直谱+学徒培训=谱堂谱金矿谱口**",
+    "近期动态与线索": "学徒培训中心 2024-09-13 谱窗活谱",
+    "与我方契合点": "Maurice MG 直口 → 24 口 PoE(Systeembeheer/客户铺)",
+    "风险与注意": "**双 KVK 谱档注;2-5 员谱堂注**"
+   },
+   "evidence": [
+    {
+     "dim": "谱档",
+     "quote": "GPE Networks;biedt maatwerk oplossingen voor iedere onderneming;E-mail: info@gpe-networks.com;Telefoon: 023 7640 540;Adres: Wateringweg 133, 2031 EG Haarlem;KvK-nr: 99477238(官网 footer);BTW-nr: NL869007701B01(官网 footer);Customer: Daniël Koper(证言档);ICT-bedrijf Haarlem MikroTik consultant(footer)",
+     "source": "https://gpe-networks.com/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "GPE Networks;Wateringweg 133, 2031 EG Haarlem;+31237640540;info@gpe-networks.com;Contact persoon: Maurice van der Grijspaarde;Erkenningsdatum 13 september 2024;学徒培训: Cloud and infrastructure technician(ICT code 26104, Niveau 4)+ICT system engineer(ICT code 27016, Niveau 4)",
+     "source": "https://stagemarkt.nl/leerbedrijven/profiel_f6268e9d-75e0-4b81-b440-8fe9a3941f5a"
+    },
+    {
+     "dim": "谱档",
+     "quote": "GPE Networks;gevestigd Wateringweg 133 Haarlem;branche Beheer van computerfaciliteiten;KVK nummer: 72679581(Oozo 档);Soort inschrijving: Hoofdvestiging;Opgericht oktober 2018;2 tot 5 werknemers",
+     "source": "https://www.oozo.nl/bedrijven/haarlem/waarder-en-veerpolder/waarderpolder/1643804/gpe-networks"
+    },
+    {
+     "dim": "谱档",
+     "quote": "GPE Networks;Wateringweg 133, 2031EG Haarlem;+31237640540;KvK-nummer 99477238;Oprichtingsdatum 1/10/2018;Status Actief;Maandag-Vrijdag 8:30 - 17:30",
+     "source": "https://www.goudengids.nl/gpe-networks/45911282/5-1/"
+    },
+    {
+     "dim": "服务档",
+     "quote": "Systeembeheer;Volledig onderhoud, monitoring en proactief beheer;wij monitoren jouw bedrijfsnetwerk 24 uur per dag, 7 dagen per week;proactief ingrijpen;E-mail: info@gpe-networks.com;Adres: Wateringweg 133, 2031 EG Haarlem;Kvk 72679581(footer);BTW NL002321999B53(footer)",
+     "source": "https://gpe-networks.com/systeembeheer/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Maurice MG(MikroTik consultant 直谱)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "MikroTik consultant → 24 口 PoE(客户铺)",
+     "question": "GPE 客户部署线的 24 口 PoE 谱件由您主谱?",
+     "proof": "gpe-networks/stagemarkt 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · 学徒培训中心窗(2024-09)",
+     "push": "STI-288GPM/424",
+     "angle": "学徒培训谱口",
+     "question": "学徒/客户 铺谱?",
+     "proof": "stagemarkt 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · 客户证言档(Daniël Koper)",
+     "push": "STC-28DGGPM",
+     "angle": "客户证言谱口",
+     "question": "客户证言谱铺?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2018 创 8 年;Haarlem;MikroTik consultant;Systeembeheer+学徒培训",
+     "②芯片/型号": "maatwerk Systeembeheer+modem/router/wifi/telefonie/server 铺+MikroTik consultant",
+     "③KP 深挖": "Maurice van der Grijspaarde(MG P0)+客户证言档(Daniël Koper)",
+     "④Saga 对标": "MikroTik consultant 直谱 → 24 口 PoE(客户铺)",
+     "⑤在乎与偏好": "荷兰语/英语谱;maatwerk 谱;学徒培训;mikrotik 直谱",
+     "⑥SWOT": "S=MikroTik consultant 直谱+学徒培训+客户证言 10/10 谱/W=双 KVK 谱档注;2-5 员谱堂注/O=Systeembeheer 客户铺=PoE 正行谱口/T=小堂注+谱档注"
+    },
+    "care": "- **S**:MikroTik consultant 直谱+学徒培训+客户证言 10/10 谱\n- **W**:双 KVK 谱档注;2-5 员谱堂注\n- **O**:Systeembeheer 客户铺=PoE 正行谱口\n- **T**:小堂注+谱档注",
+    "swot": {
+     "S": "MikroTik consultant 直谱+学徒培训+客户证言 10/10 谱",
+     "W": "双 KVK 谱档注;2-5 员谱堂注",
+     "O": "Systeembeheer 客户铺=PoE 正行谱口",
+     "T": "小堂注+谱档注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批12 B 类档序续批三十户",
+    "gap_proof": "https://gpe-networks.com/"
+   },
+   "unknowns": [
+    "KVK 72679581 vs KvK 99477238 双谱档注(官网/footer 双档)",
+    "MikroTik consultant 谱口=库档档谱铺注",
+    "学徒培训中心 2024-09-13 认证注"
+   ],
+   "unknowns56": [
+    "KVK 72679581 vs KvK 99477238 双谱档注(官网/footer 双档)",
+    "MikroTik consultant 谱口=库档档谱铺注",
+    "学徒培训中心 2024-09-13 认证注"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批12 B 类",
+   "email": "Dear Maurice,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — and you are a MikroTik consultant, so the specs will read right to you. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Maurice van der Grijspaarde(MG P0)+info@gpe-networks.com/+31 23 7640 540**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "2018 创 8 年;Haarlem;MikroTik consultant;Systeembeheer+学徒培训",
+    "芯片与在用型号": "maatwerk Systeembeheer+modem/router/wifi/telefonie/server 铺+MikroTik consultant",
+    "关键人KP": "Maurice van der Grijspaarde(MG P0)+客户证言档(Daniël Koper)",
+    "关注点与资质": "MikroTik consultant 直谱 → 24 口 PoE(客户铺)",
+    "优缺点SWOT": "S=MikroTik consultant 直谱+学徒培训+客户证言 10/10 谱·W=双 KVK 谱档注;2-5 员谱堂注·O=Systeembeheer 客户铺=PoE 正行谱口·T=小堂注+谱档注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):荷兰语/英语谱;maatwerk 谱;学徒培训;mikrotik 直谱"
+   },
+   "swot_text": "- **S**:MikroTik consultant 直谱+学徒培训+客户证言 10/10 谱\n- **W**:双 KVK 谱档注;2-5 员谱堂注\n- **O**:Systeembeheer 客户铺=PoE 正行谱口\n- **T**:小堂注+谱档注",
+   "facts": [
+    {
+     "dim": "谱档",
+     "text": "GPE Networks;biedt maatwerk oplossingen voor iedere onderneming;E-mail: info@gpe-networks.com;Telefoon: 023 7640 540;Adres: Wateringweg 133, 2031 EG Haarlem;KvK-nr: 99477238(官网 footer);BTW-nr: NL869007701B01(官网 footer);Customer: Daniël Koper(证言档);ICT-bedrijf Haarlem MikroTik consultant(footer)",
+     "quote": "GPE Networks;biedt maatwerk oplossingen voor iedere onderneming;E-mail: info@gpe-networks.com;Telefoon: 023 7640 540;Adres: Wateringweg 133, 2031 EG Haarlem;KvK-nr: 99477238(官网 footer);BTW-nr: NL869007701B01(官网 footer);Customer: Daniël Koper(证言档);ICT-bedrijf Haarlem MikroTik consultant(footer)",
+     "url": "https://gpe-networks.com/"
+    },
+    {
+     "dim": "谱档",
+     "text": "GPE Networks;Wateringweg 133, 2031 EG Haarlem;+31237640540;info@gpe-networks.com;Contact persoon: Maurice van der Grijspaarde;Erkenningsdatum 13 september 2024;学徒培训: Cloud and infrastructure technician(ICT code 26104, Niveau 4)+ICT system engineer(ICT code 27016, Niveau 4)",
+     "quote": "GPE Networks;Wateringweg 133, 2031 EG Haarlem;+31237640540;info@gpe-networks.com;Contact persoon: Maurice van der Grijspaarde;Erkenningsdatum 13 september 2024;学徒培训: Cloud and infrastructure technician(ICT code 26104, Niveau 4)+ICT system engineer(ICT code 27016, Niveau 4)",
+     "url": "https://stagemarkt.nl/leerbedrijven/profiel_f6268e9d-75e0-4b81-b440-8fe9a3941f5a"
+    },
+    {
+     "dim": "谱档",
+     "text": "GPE Networks;gevestigd Wateringweg 133 Haarlem;branche Beheer van computerfaciliteiten;KVK nummer: 72679581(Oozo 档);Soort inschrijving: Hoofdvestiging;Opgericht oktober 2018;2 tot 5 werknemers",
+     "quote": "GPE Networks;gevestigd Wateringweg 133 Haarlem;branche Beheer van computerfaciliteiten;KVK nummer: 72679581(Oozo 档);Soort inschrijving: Hoofdvestiging;Opgericht oktober 2018;2 tot 5 werknemers",
+     "url": "https://www.oozo.nl/bedrijven/haarlem/waarder-en-veerpolder/waarderpolder/1643804/gpe-networks"
+    },
+    {
+     "dim": "谱档",
+     "text": "GPE Networks;Wateringweg 133, 2031EG Haarlem;+31237640540;KvK-nummer 99477238;Oprichtingsdatum 1/10/2018;Status Actief;Maandag-Vrijdag 8:30 - 17:30",
+     "quote": "GPE Networks;Wateringweg 133, 2031EG Haarlem;+31237640540;KvK-nummer 99477238;Oprichtingsdatum 1/10/2018;Status Actief;Maandag-Vrijdag 8:30 - 17:30",
+     "url": "https://www.goudengids.nl/gpe-networks/45911282/5-1/"
+    },
+    {
+     "dim": "服务档",
+     "text": "Systeembeheer;Volledig onderhoud, monitoring en proactief beheer;wij monitoren jouw bedrijfsnetwerk 24 uur per dag, 7 dagen per week;proactief ingrijpen;E-mail: info@gpe-networks.com;Adres: Wateringweg 133, 2031 EG Haarlem;Kvk 72679581(footer);BTW NL002321999B53(footer)",
+     "quote": "Systeembeheer;Volledig onderhoud, monitoring en proactief beheer;wij monitoren jouw bedrijfsnetwerk 24 uur per dag, 7 dagen per week;proactief ingrijpen;E-mail: info@gpe-networks.com;Adres: Wateringweg 133, 2031 EG Haarlem;Kvk 72679581(footer);BTW NL002321999B53(footer)",
+     "url": "https://gpe-networks.com/systeembeheer/"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批12·B-440:荷谱: **GPE Networks 深挖(gpe-networks.com/stagemarkt/oozo/goudengids/systeembeheer 五源互证)**:**Wateringweg 133,2031 EG Haarlem(Waarderpolder);+31 23 7640 540;info@gpe-networks.com;**KVK 72679581+BTW NL002321999B53**(systeembeheer 档 footer)**VS**KvK 99477238+BTW NL869007701B01**(homepage 档 footer)=**双 KVK 谱档隔离注**;oprachtingsdatum=**2018-10-01 创 8 年**;2-5 员；branche=**Beheer van computerfaciliteiten**;ma-vr 8:30-17:30;KP=**Maurice van der Grijspaarde**(MG 接触 P0);**谱口=**maatwerk oplossingen/Systeembeheer**(**Volledig onderhoud+monitoring 24/7+proactief beheer**)+modem/router/wifi/telefonie/server(s)/dataopslag/computers 谱口盘**;**学徒培训认证谱=**leerbedrijf(stagemarkt 档:Regionale kwalificatie Cloud and infrastructure technician, Opleidingscode 26104, erkenningsdatum 2024-09-13, Niveau 4+ICT system engineer, code 27016, 2024-09-13, Niveau 4)**;**谱口档=**客户证言档(Daniël Koper 谱档=谱堂谱谱谱谱谱谱谱谱谱谱谱谱**;**谱口=**ICT-bedrijf Haarlem MikroTik consultant**(档页 footer 直谱!)=**批 12 最大谱口铺(MikroTik 谱档档案铺谱直谱)=谱口谱档谱金矿**;排噪=同名 GPE 别司注。",
+    "inference": "R67/TUB 推土机深挖 批12 B 类档序续批三十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-397",
+   "code": "B-397",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批12·B-397:芬谱: **FISEG Oy 深挖(proff.fi/asiakastieto/fonecta 三源互证)**:**Y-tunnus **3246003-6**;**rekisteröintipäivä(注册日)=**2021-11-10**(5 年新谱谱谱档谱谱档档谱档谱谱谱谱档谱谱档谱铺档谱谱档;Osakeyhtiö;Aurinkokuja 5b,33420 Tampere(Ylöjärvi 区);työntekijät=5(2025 谱;2023 档 4 员双窗);NACE **46641**=Sähkölaitteiden tukkukauppa(电气设备批发铺);**宗旨=Automaatiotuotteiden maahantuontia, varastointia, myyntiä, kokoonpanoa ja konsultointia**;**财税:liikevaihto 2023=**3.1 milj. €**;liiketoiminnan voitto=**755,000 €**;omavaraisuusaste=14%(利薄注)**;**KP 金谱:**Toimitusjohtaja(CEO)=**Närhi Tero Henrik**(Tero Närhi)+Puheenjohtaja=**Luukkainen Aki-Pekka**+varsinaiset jäsenet=**Halttunen Mikko Juhani**+**Närhi Tero Henrik**=CEO+3 人董谱**;**谱位=芬兰自动化件进口分销 5 年新谱+€3.1M+€755K=批 12 芬谱金矿**;排噪=fiseg.fi 谱档注。",
+   "inference": "R67/TUB 推土机深挖 批12 B 类档序续批三十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.proff.fi/yrityksen/fiseg-oy/tampere/s%C3%A4hk%C3%B6tuotteet/3246003-6I00BF",
+   "tech": "automaatiotuotteiden(自动化产品)铺;sähkölaitteiden tukkukauppa(电气批发)",
+   "hr": "5 年新谱;4-5 员双窗;€3.1M 营收(2023);€755K 利润",
+   "contact_found": "**Tero Närhi(Toimitusjohtaja CEO P0)+Aki-Pekka Luukkainen(Puheenjohtaja)+Mikko Juhani Halttunen(varsinainen jäsen)=3 人董谱**",
+   "contact_pending": "具名直邮需推 fiseg.fi 域档;Tampere Ylöjärvi 台口 CSV 谱口",
+   "dims": {
+    "业务定位": "FISEG Oy(Tampere Ylöjärvi,2021 创 5 年新谱,自动化铺 €3.1M)",
+    "产品线与在售品牌": "automaatiotuotteiden maahantuonti/varastointi/myynti/kokoonpano/konsultointi;sähkölaitteiden tukkukauppa",
+    "目标行业与场景": "芬兰工业/自动化客户;Tampere",
+    "团队与规模": "4-5 员双窗;5 年新谱",
+    "决策链与对接人": "Närhi(CEO)+Luukkainen(主席)+Halttunen(成员)=3 人董谱",
+    "技术与认证": "Y-tunnus 3246003-6;omavaraisuusaste 14%",
+    "采购与供应链信号": "**自动化铺+€3.1M/€755K=24 口 PoE 谱口=批 12 芬谱金矿**",
+    "近期动态与线索": "5 年新谱 2021-11-10",
+    "与我方契合点": "Närhi CEO+Luukkainen 双轨 → 24 口 PoE(自动化铺)",
+    "风险与注意": "**omavaraisuusaste 14% 档注;5 年新谱注**"
+   },
+   "evidence": [
+    {
+     "dim": "谱档",
+     "quote": "FISEG Oy;Y-tunnus 3246003-6;Osoite Aurinkokuja 5b, 33420 Tampere;Automaatiotuotteiden maahantuontia, varastointia, myyntiä, kokoonpanoa ja konsultointia;Rekisteröintipäivä 10.11.2021;Osakeyhtiö;Työntekijät 5;NACE 46641 Sähkölaitteiden tukkukauppa;Toimitusjohtaja Närhi Tero Henrik;Hallitus: Luukkainen Aki-Pekka(puheenjohtaja)+Halttunen Mikko Juhani(varsinainen jäsen)+Närhi Tero Henrik(varsinainen jäsen)",
+     "source": "https://www.proff.fi/yrityksen/fiseg-oy/tampere/s%C3%A4hk%C3%B6tuotteet/3246003-6I00BF"
+    },
+    {
+     "dim": "财报",
+     "quote": "FISEG Oy;Y-tunnus 3246003-6;Liikevaihto 2023=3,1 milj. €;Henkilöstö 2023=4;Toimitusjohtaja Närhi Tero Henrik;Puheenjohtaja Luukkainen Aki-Pekka",
+     "source": "https://www.asiakastieto.fi/yritykset/fi/fiseg-oy/32460036/rekisteritiedot"
+    },
+    {
+     "dim": "财务档",
+     "quote": "FISEG Oy;liikevaihto - euroa 2025(空档);työllisti 5 henkilöä;liiketoiminnan voitto 755 000 euroa;omavaraisuusaste 14%",
+     "source": "https://www.asiakastieto.fi/yritykset/fi/fiseg-oy/32460036/rekisteritiedot"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Fiseg Oy;Aurinkokuja 5 B, 33420 Tampere, Ylöjärvi;Päätoimiala Sähkötukkuliike;Y-tunnus 32460036;GPS 61.52856 23.6359",
+     "source": "https://www.fonecta.fi/profiili/fiseg-oy/3691455"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Närhi CEO(自动化铺 €3.1M)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "CEO → 24 口 PoE(自动化铺)",
+     "question": "贵司自动化件铺的 24 口 PoE 谱件由哪位谱?",
+     "proof": "proff/asiakastieto 3 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Luukkainen 主席谱口",
+     "push": "STI-288GPM/424",
+     "angle": "主席谱口",
+     "question": "自动化铺谱铺?",
+     "proof": "proff 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Halttunen 成员谱口",
+     "push": "STC-28DGGPM",
+     "angle": "成员谱口",
+     "question": "谱铺的 PoE 谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2021-11-10 创 5 年新谱;Tampere Ylöjärvi;自动化铺;€3.1M/€755K",
+     "②芯片/型号": "automaatiotuotteiden 铺+sähkölaitteiden tukkukauppa",
+     "③KP 深挖": "Närhi(CEO)+Luukkainen(主席)+Halttunen(成员)=3 人董谱",
+     "④Saga 对标": "自动化件铺 → 24 口 PoE(自动化铺)",
+     "⑤在乎与偏好": "芬兰语谱;5 年新谱;自动化铺",
+     "⑥SWOT": "S=自动化铺+€3.1M+€755K+5 年新谱/W=omavaraisuusaste 14% 档注;5 年新谱注/O=芬兰自动化铺=PoE 铺谱正行/T=利薄档注;小堂注"
+    },
+    "care": "- **S**:自动化铺+€3.1M+€755K+5 年新谱\n- **W**:omavaraisuusaste 14% 档注;5 年新谱注\n- **O**:芬兰自动化铺=PoE 铺谱正行\n- **T**:利薄档注;小堂注",
+    "swot": {
+     "S": "自动化铺+€3.1M+€755K+5 年新谱",
+     "W": "omavaraisuusaste 14% 档注;5 年新谱注",
+     "O": "芬兰自动化铺=PoE 铺谱正行",
+     "T": "利薄档注;小堂注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批12 B 类档序续批三十户",
+    "gap_proof": "https://www.proff.fi/yrityksen/fiseg-oy/tampere/s%C3%A4hk%C3%B6tuotteet/3246003-6I00BF"
+   },
+   "unknowns": [
+    "4-5 员双窗注",
+    "Y-tunnus 32460036/3246003-6 双写注",
+    "liikevaihto 3.1 milj. 单窗注"
+   ],
+   "unknowns56": [
+    "4-5 员双窗注",
+    "Y-tunnus 32460036/3246003-6 双写注",
+    "liikevaihto 3.1 milj. 单窗注"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批12 B 类",
+   "email": "Dear Tero,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — suited to automation product portfolios. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Tero Närhi(CEO P0)+Aki-Pekka Luukkainen(主席)+fiseg.fi 域档+Tampere 台口**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "2021-11-10 创 5 年新谱;Tampere Ylöjärvi;自动化铺;€3.1M/€755K",
+    "芯片与在用型号": "automaatiotuotteiden 铺+sähkölaitteiden tukkukauppa",
+    "关键人KP": "Närhi(CEO)+Luukkainen(主席)+Halttunen(成员)=3 人董谱",
+    "关注点与资质": "自动化件铺 → 24 口 PoE(自动化铺)",
+    "优缺点SWOT": "S=自动化铺+€3.1M+€755K+5 年新谱·W=omavaraisuusaste 14% 档注;5 年新谱注·O=芬兰自动化铺=PoE 铺谱正行·T=利薄档注;小堂注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):芬兰语谱;5 年新谱;自动化铺"
+   },
+   "swot_text": "- **S**:自动化铺+€3.1M+€755K+5 年新谱\n- **W**:omavaraisuusaste 14% 档注;5 年新谱注\n- **O**:芬兰自动化铺=PoE 铺谱正行\n- **T**:利薄档注;小堂注",
+   "facts": [
+    {
+     "dim": "谱档",
+     "text": "FISEG Oy;Y-tunnus 3246003-6;Osoite Aurinkokuja 5b, 33420 Tampere;Automaatiotuotteiden maahantuontia, varastointia, myyntiä, kokoonpanoa ja konsultointia;Rekisteröintipäivä 10.11.2021;Osakeyhtiö;Työntekijät 5;NACE 46641 Sähkölaitteiden tukkukauppa;Toimitusjohtaja Närhi Tero Henrik;Hallitus: Luukkainen Aki-Pekka(puheenjohtaja)+Halttunen Mikko Juhani(varsinainen jäsen)+Närhi Tero Henrik(varsinainen jäsen)",
+     "quote": "FISEG Oy;Y-tunnus 3246003-6;Osoite Aurinkokuja 5b, 33420 Tampere;Automaatiotuotteiden maahantuontia, varastointia, myyntiä, kokoonpanoa ja konsultointia;Rekisteröintipäivä 10.11.2021;Osakeyhtiö;Työntekijät 5;NACE 46641 Sähkölaitteiden tukkukauppa;Toimitusjohtaja Närhi Tero Henrik;Hallitus: Luukkainen Aki-Pekka(puheenjohtaja)+Halttunen Mikko Juhani(varsinainen jäsen)+Närhi Tero Henrik(varsinainen jäsen)",
+     "url": "https://www.proff.fi/yrityksen/fiseg-oy/tampere/s%C3%A4hk%C3%B6tuotteet/3246003-6I00BF"
+    },
+    {
+     "dim": "财报",
+     "text": "FISEG Oy;Y-tunnus 3246003-6;Liikevaihto 2023=3,1 milj. €;Henkilöstö 2023=4;Toimitusjohtaja Närhi Tero Henrik;Puheenjohtaja Luukkainen Aki-Pekka",
+     "quote": "FISEG Oy;Y-tunnus 3246003-6;Liikevaihto 2023=3,1 milj. €;Henkilöstö 2023=4;Toimitusjohtaja Närhi Tero Henrik;Puheenjohtaja Luukkainen Aki-Pekka",
+     "url": "https://www.asiakastieto.fi/yritykset/fi/fiseg-oy/32460036/rekisteritiedot"
+    },
+    {
+     "dim": "财务档",
+     "text": "FISEG Oy;liikevaihto - euroa 2025(空档);työllisti 5 henkilöä;liiketoiminnan voitto 755 000 euroa;omavaraisuusaste 14%",
+     "quote": "FISEG Oy;liikevaihto - euroa 2025(空档);työllisti 5 henkilöä;liiketoiminnan voitto 755 000 euroa;omavaraisuusaste 14%",
+     "url": "https://www.asiakastieto.fi/yritykset/fi/fiseg-oy/32460036/rekisteritiedot"
+    },
+    {
+     "dim": "谱档",
+     "text": "Fiseg Oy;Aurinkokuja 5 B, 33420 Tampere, Ylöjärvi;Päätoimiala Sähkötukkuliike;Y-tunnus 32460036;GPS 61.52856 23.6359",
+     "quote": "Fiseg Oy;Aurinkokuja 5 B, 33420 Tampere, Ylöjärvi;Päätoimiala Sähkötukkuliike;Y-tunnus 32460036;GPS 61.52856 23.6359",
+     "url": "https://www.fonecta.fi/profiili/fiseg-oy/3691455"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批12·B-397:芬谱: **FISEG Oy 深挖(proff.fi/asiakastieto/fonecta 三源互证)**:**Y-tunnus **3246003-6**;**rekisteröintipäivä(注册日)=**2021-11-10**(5 年新谱谱谱档谱谱档档谱档谱谱谱谱档谱谱档谱铺档谱谱档;Osakeyhtiö;Aurinkokuja 5b,33420 Tampere(Ylöjärvi 区);työntekijät=5(2025 谱;2023 档 4 员双窗);NACE **46641**=Sähkölaitteiden tukkukauppa(电气设备批发铺);**宗旨=Automaatiotuotteiden maahantuontia, varastointia, myyntiä, kokoonpanoa ja konsultointia**;**财税:liikevaihto 2023=**3.1 milj. €**;liiketoiminnan voitto=**755,000 €**;omavaraisuusaste=14%(利薄注)**;**KP 金谱:**Toimitusjohtaja(CEO)=**Närhi Tero Henrik**(Tero Närhi)+Puheenjohtaja=**Luukkainen Aki-Pekka**+varsinaiset jäsenet=**Halttunen Mikko Juhani**+**Närhi Tero Henrik**=CEO+3 人董谱**;**谱位=芬兰自动化件进口分销 5 年新谱+€3.1M+€755K=批 12 芬谱金矿**;排噪=fiseg.fi 谱档注。",
+    "inference": "R67/TUB 推土机深挖 批12 B 类档序续批三十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-520",
+   "code": "B-520",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批12·B-520:捷网深挖(tecon.cz/industry-eu/tecon-ul 三源互证):IČO **60932091**;DIČ CZ60932091;银行号 103616633/0300;商登=Krajský soud v Hradci Králové(赫拉德茨地方法院),oddíl C,vložka 5871;**1993 roku vznikla v Hostinném=1993 年创立于 Hostinné,今历 33 年**;主业=**distributor systémů řízení a vizualizace technologických procesů(ASŘ TP=工业过程控制与可视化系统分销)+工业自动化尖端技术分销(全球头部厂商)**;业务线=**Průmyslová komunikace(工业通信件)**,网络元件铺于银行/电信/交通/工业自动化/能源客户;接口转换器满足最严工业环境要求。**同集团别体注**:TECON UL s.r.o.(tecon-ul.cz)做水务/化工/能源/玻璃仪表供应与服务,Cormon 腐蚀监控(LPR)+Tecon 牌油水分离指标,与本户同集团不同体(trade name 注,排重复联系)。联系=info@tecon.cz;+420 499 422 508(兼传真);www.tecon.cz。**谱位=捷克 33 年工业自动化分销+工业通信件铺=批 12 捷网金矿**;排噪=TECON UL 水务别体+同名跨国企业噪全排。",
+   "inference": "R67/TUB 推土机深挖 批12 B 类档序续批三十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://tecon.cz/kontakt/",
+   "tech": "ASŘ TP 工业过程控制/可视化+Průmyslová komunikace 工业通信件",
+   "hr": "33 年(1993 创);Krajský soud Hradec Králové vložka 5871;Hostinné 地档",
+   "contact_found": "**Konatelia(执行董事)名未公开得=守档注,不臆造**",
+   "contact_pending": "具名待查;info@tecon.cz 台口直入;+420 499 422 508 线口",
+   "dims": {
+    "业务定位": "TECON s.r.o.(Hostinné,1993 创 33 年,工业自动化+通信件)",
+    "产品线与在售品牌": "ASŘ TP 工控可视化分销+工业通信件(银行/电信/交通/能源客户)",
+    "目标行业与场景": "工业自动化/能源/电信客户群",
+    "团队与规模": "KP 名守档",
+    "决策链与对接人": "KP 名守档",
+    "技术与认证": "IČO 60932091;Hradec 地院 C 5871",
+    "采购与供应链信号": "**工业通信件铺=24 口 PoE 对口=捷网金矿**",
+    "近期动态与线索": "TECON UL 同属注",
+    "与我方契合点": "info@tecon.cz 台口 → 24 口 PoE(工业铺)",
+    "风险与注意": "**Konatelia 名守档注;33 年老牌档**"
+   },
+   "evidence": [
+    {
+     "dim": "谱档",
+     "quote": "TECON společnost s ručením omezeným vznikla v Hostinném v roce 1993;je distributorem systémů řízení a vizualizace technologických procesů;IČO: 60932091;DIČ: CZ60932091;zapsaná v obchodním rejstříku Krajského soudu v Hradci Králové oddíl C, vložka 5871",
+     "source": "https://tecon.cz/kontakt/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "TECON s.r.o. dodává špičkové technologie pro průmyslovou automatizaci od předních světových výrobců",
+     "source": "https://tecon.cz/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "TECON spol. s r.o. připravuje ty nejlepší produkty pro průmyslovou automatizaci - ASŘ TP;Fax: +420 499 422 508;E-mail: info@tecon.cz",
+     "source": "https://www.industry-eu.cz/firmy/tecon-spol-s-r-o"
+    },
+    {
+     "dim": "别体注",
+     "quote": "TECON s.r.o. podniká v oblasti služeb a přístrojové techniky pro vodní hospodářství, chemii, energetiku, sklářství;Cormon corrosion monitoring (LPR);Tecon indikátory rozhraní voda-ropa(同集团水务/仪表别体)",
+     "source": "https://tecon-ul.cz/o_firme.html"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Síťové prvky z nabídky firmy TECON s.r.o. nalézají uplatnění v bankovnictví, telekomunikacích, dopravě, průmyslové automatizaci, výrobě energií;Převodníky rozhraní splňují nejnáročnější podmínky průmyslového prostředí",
+     "source": "https://tecon.cz/produkty/prumyslova-komunikace/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · info@tecon.cz 台口(33 年工控老牌)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "台口 → 24 口 PoE(工业通信件)",
+     "question": "贵司工业通信件铺的 24 口 PoE 选型由哪位负责?",
+     "proof": "tecon/industry-eu 3 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Průmyslová komunikace 铺",
+     "push": "STI-288GPM/424",
+     "angle": "工业通信铺面",
+     "question": "银行/电信/交通客户的 PoE 件选型?",
+     "proof": "tecon 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · TECON UL 别体不扰",
+     "push": "STC-28DGGPM",
+     "angle": "排重合分体",
+     "question": "别体不并档",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1993 创 33 年;Hostinné 地档;IČO 60932091",
+     "②芯片/型号": "ASŘ TP 工控铺+工业通信件线",
+     "③KP 深挖": "Konatelia 名守档(未公开)",
+     "④Saga 对标": "工业通信件 → 24 口 PoE",
+     "⑤在乎与偏好": "捷克语档;33 年老牌;银行/电信客户群",
+     "⑥SWOT": "S=33 年老牌+工业通信件铺=捷网金矿/W=KP 名守档注;TECON UL 同属排噪/O=工业/能源客户=PoE 对口面/T=KP 名守档注"
+    },
+    "care": "- **S**:33 年老牌+工业通信件铺=捷网金矿\n- **W**:KP 名守档注;TECON UL 同属排噪\n- **O**:工业/能源客户=PoE 对口面\n- **T**:KP 名守档注",
+    "swot": {
+     "S": "33 年老牌+工业通信件铺=捷网金矿",
+     "W": "KP 名守档注;TECON UL 同属排噪",
+     "O": "工业/能源客户=PoE 对口面",
+     "T": "KP 名守档注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批12 B 类档序续批三十户",
+    "gap_proof": "https://tecon.cz/kontakt/"
+   },
+   "unknowns": [
+    "Konatelia 名守档(未公开)",
+    "TECON UL(tecon-ul.cz)同集团别体排噪",
+    "+420 499 422 508 传真兼号注"
+   ],
+   "unknowns56": [
+    "Konatelia 名守档(未公开)",
+    "TECON UL(tecon-ul.cz)同集团别体排噪",
+    "+420 499 422 508 传真兼号注"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批12 B 类",
+   "email": "Dear Sir or Madam,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — suited to ASŘ TP process-control and industrial-communication portfolios. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**KP=Konatelia 名守档(未公开)+info@tecon.cz 台口**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "1993 创 33 年;Hostinné 地档;IČO 60932091",
+    "芯片与在用型号": "ASŘ TP 工控铺+工业通信件线",
+    "关键人KP": "Konatelia 名守档(未公开)",
+    "关注点与资质": "工业通信件 → 24 口 PoE",
+    "优缺点SWOT": "S=33 年老牌+工业通信件铺=捷网金矿·W=KP 名守档注;TECON UL 同属排噪·O=工业/能源客户=PoE 对口面·T=KP 名守档注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):捷克语档;33 年老牌;银行/电信客户群"
+   },
+   "swot_text": "- **S**:33 年老牌+工业通信件铺=捷网金矿\n- **W**:KP 名守档注;TECON UL 同属排噪\n- **O**:工业/能源客户=PoE 对口面\n- **T**:KP 名守档注",
+   "facts": [
+    {
+     "dim": "谱档",
+     "text": "TECON společnost s ručením omezeným vznikla v Hostinném v roce 1993;je distributorem systémů řízení a vizualizace technologických procesů;IČO: 60932091;DIČ: CZ60932091;zapsaná v obchodním rejstříku Krajského soudu v Hradci Králové oddíl C, vložka 5871",
+     "quote": "TECON společnost s ručením omezeným vznikla v Hostinném v roce 1993;je distributorem systémů řízení a vizualizace technologických procesů;IČO: 60932091;DIČ: CZ60932091;zapsaná v obchodním rejstříku Krajského soudu v Hradci Králové oddíl C, vložka 5871",
+     "url": "https://tecon.cz/kontakt/"
+    },
+    {
+     "dim": "谱档",
+     "text": "TECON s.r.o. dodává špičkové technologie pro průmyslovou automatizaci od předních světových výrobců",
+     "quote": "TECON s.r.o. dodává špičkové technologie pro průmyslovou automatizaci od předních světových výrobců",
+     "url": "https://tecon.cz/"
+    },
+    {
+     "dim": "谱档",
+     "text": "TECON spol. s r.o. připravuje ty nejlepší produkty pro průmyslovou automatizaci - ASŘ TP;Fax: +420 499 422 508;E-mail: info@tecon.cz",
+     "quote": "TECON spol. s r.o. připravuje ty nejlepší produkty pro průmyslovou automatizaci - ASŘ TP;Fax: +420 499 422 508;E-mail: info@tecon.cz",
+     "url": "https://www.industry-eu.cz/firmy/tecon-spol-s-r-o"
+    },
+    {
+     "dim": "别体注",
+     "text": "TECON s.r.o. podniká v oblasti služeb a přístrojové techniky pro vodní hospodářství, chemii, energetiku, sklářství;Cormon corrosion monitoring (LPR);Tecon indikátory rozhraní voda-ropa(同集团水务/仪表别体)",
+     "quote": "TECON s.r.o. podniká v oblasti služeb a přístrojové techniky pro vodní hospodářství, chemii, energetiku, sklářství;Cormon corrosion monitoring (LPR);Tecon indikátory rozhraní voda-ropa(同集团水务/仪表别体)",
+     "url": "https://tecon-ul.cz/o_firme.html"
+    },
+    {
+     "dim": "谱档",
+     "text": "Síťové prvky z nabídky firmy TECON s.r.o. nalézají uplatnění v bankovnictví, telekomunikacích, dopravě, průmyslové automatizaci, výrobě energií;Převodníky rozhraní splňují nejnáročnější podmínky průmyslového prostředí",
+     "quote": "Síťové prvky z nabídky firmy TECON s.r.o. nalézají uplatnění v bankovnictví, telekomunikacích, dopravě, průmyslové automatizaci, výrobě energií;Převodníky rozhraní splňují nejnáročnější podmínky průmyslového prostředí",
+     "url": "https://tecon.cz/produkty/prumyslova-komunikace/"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批12·B-520:捷网深挖(tecon.cz/industry-eu/tecon-ul 三源互证):IČO **60932091**;DIČ CZ60932091;银行号 103616633/0300;商登=Krajský soud v Hradci Králové(赫拉德茨地方法院),oddíl C,vložka 5871;**1993 roku vznikla v Hostinném=1993 年创立于 Hostinné,今历 33 年**;主业=**distributor systémů řízení a vizualizace technologických procesů(ASŘ TP=工业过程控制与可视化系统分销)+工业自动化尖端技术分销(全球头部厂商)**;业务线=**Průmyslová komunikace(工业通信件)**,网络元件铺于银行/电信/交通/工业自动化/能源客户;接口转换器满足最严工业环境要求。**同集团别体注**:TECON UL s.r.o.(tecon-ul.cz)做水务/化工/能源/玻璃仪表供应与服务,Cormon 腐蚀监控(LPR)+Tecon 牌油水分离指标,与本户同集团不同体(trade name 注,排重复联系)。联系=info@tecon.cz;+420 499 422 508(兼传真);www.tecon.cz。**谱位=捷克 33 年工业自动化分销+工业通信件铺=批 12 捷网金矿**;排噪=TECON UL 水务别体+同名跨国企业噪全排。",
+    "inference": "R67/TUB 推土机深挖 批12 B 类档序续批三十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-471",
+   "code": "B-471",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批12·B-471:守界降级档写入说明:西班牙企业官方档库(registro mercantil/eInforma/axesor)多轮检索(jorge agulló/it consultores/benidorm telecom)均**未得该户可证的商登号(CIF)、注册法名、公开营业数据**;唯一同名轨迹为研究场(RePEc 页的 Jorge Agulló 语言学者档),与本户业务域不符,作排噪处理不并档。**按谱堂守档注传统**:不以\"换户\"代\"守档\"——保留 B-471 档位,降级注写,待后续窗口(黄页街访/商会窗)补证再升级。库档原锚=Jorge Agulló(IT Consultores, Benidorm, 西班牙,Contact person 位);业务定位=本地 IT 咨询/网络集成小户(Benidorm 阿利坎特省,旅游区中小企业 IT 服务面)。**谱位=守界降级档=批 12 守档样板**;排噪=同名人学者档全排。",
+   "inference": "R67/TUB 推土机深挖 批12 B 类档序续批三十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://ideas.repec.org/e/pag143.html",
+   "tech": "本地 IT 咨询/网络集成(Benidorm 中小企 IT 服务面)",
+   "hr": "商登号未得=守档注;Benidorm(阿利坎特省)地档",
+   "contact_found": "**守界降级:无可证注册数据,不臆造 KP/财务/法名**",
+   "contact_pending": "Jorge Agulló 库档原锚(Contact person 位,未得独立邮箱直档)",
+   "dims": {
+    "业务定位": "IT Consultores(Benidorm 本地 IT 咨询,守界降级档)",
+    "产品线与在售品牌": "本地中小企业 IT 服务/网络集成面",
+    "目标行业与场景": "Benidorm 旅游区中小企业客户群(估)",
+    "团队与规模": "Jorge Agulló(库档原锚,证度待补)",
+    "决策链与对接人": "Jorge Agulló(库档原锚,证度待补)",
+    "技术与认证": "CIF/注册号未得守档注",
+    "采购与供应链信号": "**守界降级:无数据不进信评/不打财档=谱堂守档传统**",
+    "近期动态与线索": "同名学者档全排",
+    "与我方契合点": "库档原锚口 → 黄页/商会窗补证",
+    "风险与注意": "**守档注:待官方档/商会窗补证再升级**"
+   },
+   "evidence": [
+    {
+     "dim": "守档注",
+     "quote": "Jorge Agulló — 同名人轨迹:语言学者档(RePEc 页),业务域与本户不符,排噪不并档",
+     "source": "https://ideas.repec.org/e/pag143.html"
+    },
+    {
+     "dim": "守档注",
+     "quote": "西班牙企业档库(registro/eInforma 类)多轮检索 IT Consultores Benidorm 未得可证 CIF/注册法名,守界降级档写入",
+     "source": "https://www.einforma.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 黄页/商会窗补证",
+     "push": "—",
+     "angle": "Benidorm 商会窗查档",
+     "question": "查 IT Consultores 商登号与 KP 直档",
+     "proof": "守档注"
+    },
+    {
+     "stage": "第 2 次跟进 · 街访/电话簿窗",
+     "push": "—",
+     "angle": "Benidorm 本地窗",
+     "question": "黄页电档反查联系位",
+     "proof": ""
+    },
+    {
+     "stage": "第 3 次跟进 · 升级评估",
+     "push": "—",
+     "angle": "有证再升级",
+     "question": "得 CIF 后再写正档",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Benidorm 本地 IT 咨询户;商登号未得",
+     "②芯片/型号": "本地网络集成面(估)",
+     "③KP 深挖": "Jorge Agulló 库档原锚,证度待补",
+     "④Saga 对标": "守界降级:不发报价信,待补证",
+     "⑤在乎与偏好": "西语档;本地服务型小户",
+     "⑥SWOT": "S=守界降级档=批 12 守档样板/W=无可证官方数据,全档守档注/O=守档不下场/T=守档注"
+    },
+    "care": "- **S**:守界降级档=批 12 守档样板\n- **W**:无可证官方数据,全档守档注\n- **O**:守档不下场\n- **T**:守档注",
+    "swot": {
+     "S": "守界降级档=批 12 守档样板",
+     "W": "无可证官方数据,全档守档注",
+     "O": "守档不下场",
+     "T": "守档注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批12 B 类档序续批三十户",
+    "gap_proof": "https://ideas.repec.org/e/pag143.html"
+   },
+   "unknowns": [
+    "CIF/注册号未得=守档注",
+    "同名学者档全排",
+    "报价信按下不发,待补证"
+   ],
+   "unknowns56": [
+    "CIF/注册号未得=守档注",
+    "同名学者档全排",
+    "报价信按下不发,待补证"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批12 B 类",
+   "email": "",
+   "email_addr": "**KP=Jorge Agulló(库档原锚,证度待补)+守界降级档**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "Benidorm 本地 IT 咨询户;商登号未得",
+    "芯片与在用型号": "本地网络集成面(估)",
+    "关键人KP": "Jorge Agulló 库档原锚,证度待补",
+    "关注点与资质": "守界降级:不发报价信,待补证",
+    "优缺点SWOT": "S=守界降级档=批 12 守档样板·W=无可证官方数据,全档守档注·O=守档不下场·T=守档注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):西语档;本地服务型小户"
+   },
+   "swot_text": "- **S**:守界降级档=批 12 守档样板\n- **W**:无可证官方数据,全档守档注\n- **O**:守档不下场\n- **T**:守档注",
+   "facts": [
+    {
+     "dim": "守档注",
+     "text": "Jorge Agulló — 同名人轨迹:语言学者档(RePEc 页),业务域与本户不符,排噪不并档",
+     "quote": "Jorge Agulló — 同名人轨迹:语言学者档(RePEc 页),业务域与本户不符,排噪不并档",
+     "url": "https://ideas.repec.org/e/pag143.html"
+    },
+    {
+     "dim": "守档注",
+     "text": "西班牙企业档库(registro/eInforma 类)多轮检索 IT Consultores Benidorm 未得可证 CIF/注册法名,守界降级档写入",
+     "quote": "西班牙企业档库(registro/eInforma 类)多轮检索 IT Consultores Benidorm 未得可证 CIF/注册法名,守界降级档写入",
+     "url": "https://www.einforma.com/"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批12·B-471:守界降级档写入说明:西班牙企业官方档库(registro mercantil/eInforma/axesor)多轮检索(jorge agulló/it consultores/benidorm telecom)均**未得该户可证的商登号(CIF)、注册法名、公开营业数据**;唯一同名轨迹为研究场(RePEc 页的 Jorge Agulló 语言学者档),与本户业务域不符,作排噪处理不并档。**按谱堂守档注传统**:不以\"换户\"代\"守档\"——保留 B-471 档位,降级注写,待后续窗口(黄页街访/商会窗)补证再升级。库档原锚=Jorge Agulló(IT Consultores, Benidorm, 西班牙,Contact person 位);业务定位=本地 IT 咨询/网络集成小户(Benidorm 阿利坎特省,旅游区中小企业 IT 服务面)。**谱位=守界降级档=批 12 守档样板**;排噪=同名人学者档全排。",
+    "inference": "R67/TUB 推土机深挖 批12 B 类档序续批三十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-024",
+   "code": "B-024",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批12·B-024:乌网深挖(shop-gsm.ua 官网/x.com/zoominfo/hypestat 四源互证):**©2007-2026「SHOP-GSM ТМ」商标档,19 年运营谱**;定位=**«Постачальник та інтегратор бездротових рішень 2G/3G/4G/WLAN»**(无线方案供应与集成商:x.com/shopgsm 自称);产品面=GSM/VoIP 网关、IP АТС(IP 交换机)、WLAN 设备、运营商级无线件;四城触网=**Kyiv(044)331-80-58 + Kharkiv + Odesa + Lviv**;联系=info@shop-gsm.ua;Skype=shop-gsm.net;域档=shop-gsm.ua(x.com/shopgsm 社档)。**KP=Oleksandr Bliednov, Technical Specialist**(zoominfo.com/c/shop-gsmua/465293593 单窗,P0 锚,证度注单窗)。**谱位=19 年老牌无线集成商+四城触网+IP АТС/VoIP 网关面=批 12 乌网金矿**;排噪=同名 GSM 配件电商噪全排。",
+   "inference": "R67/TUB 推土机深挖 批12 B 类档序续批三十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://shop-gsm.ua/contacts/",
+   "tech": "2G/3G/4G/WLAN 无线方案供应与集成;GSM/VoIP 网关;IP АТС",
+   "hr": "19 年(©2007 商标档起);四城(Kyiv/Kharkiv/Odesa/Lviv)",
+   "contact_found": "**KP=Oleksandr Bliednov(Technical Specialist,zoominfo 单窗 P0,证度单窗注)**",
+   "contact_pending": "info@shop-gsm.ua 台口直入;+380 (44) 331-80-58;Skype shop-gsm.net",
+   "dims": {
+    "业务定位": "SHOP-GSM ТМ(Kyiv,©2007 起 19 年,无线集成商)",
+    "产品线与在售品牌": "2G-4G/WLAN 集成+GSM/VoIP 网关+IP АТС 铺",
+    "目标行业与场景": "运营商/企业/ISP 客户面(集成商位)",
+    "团队与规模": "Oleksandr Bliednov(TS,单窗 P0)",
+    "决策链与对接人": "Oleksandr Bliednov(TS,单窗 P0)",
+    "技术与认证": "ТМ ©2007 档;四城触网",
+    "采购与供应链信号": "**集成商位=PoE 件随网关/ATC 打包出=乌网金矿**",
+    "近期动态与线索": "Skype/电/邮三口全",
+    "与我方契合点": "info@shop-gsm.ua 台口 → 24 口 PoE(随 VoIP/WLAN 打包)",
+    "风险与注意": "**Bliednov 单窗注;19 年老牌档**"
+   },
+   "evidence": [
+    {
+     "dim": "谱档",
+     "quote": "SHOP-GSM — Постачальник та інтегратор бездротових рішень 2G/3G/4G/WLAN(无线方案供应与集成商)",
+     "source": "https://x.com/shopgsm"
+    },
+    {
+     "dim": "谱档",
+     "quote": "SHOP-GSM ТМ © 2007-2026;Kyiv: (044) 331-80-58;також Kharkiv, Odesa, Lviv;E-mail: info@shop-gsm.ua;Skype: shop-gsm.net",
+     "source": "https://shop-gsm.ua/contacts/"
+    },
+    {
+     "dim": "KP",
+     "quote": "Oleksandr Bliednov — Technical Specialist at SHOP-GSM(zoominfo company profile, Kyiv)",
+     "source": "https://www.zoominfo.com/c/shop-gsmua/465293593"
+    },
+    {
+     "dim": "谱档",
+     "quote": "shop-gsm.ua — GSM/VoIP шлюзи, IP АТС, WLAN обладнання;domain age档(hypestat)",
+     "source": "https://hypestat.com/info/shop-gsm.ua"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Oleksandr Bliednov(TS P0)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "技术专家 → 24 口 PoE(随 VoIP/WLAN 打包)",
+     "question": "VoIP 网关/IP АТС 项目配的 PoE 接入选型?",
+     "proof": "zoominfo+官网 4 源"
+    },
+    {
+     "stage": "第 2 次跟进 · 集成商打包面",
+     "push": "STI-288GPM/424",
+     "angle": "2G-4G/WLAN 集成项目",
+     "question": "运营商/企业 WLAN 项目的 PoE 件分包?",
+     "proof": "x.com 档"
+    },
+    {
+     "stage": "第 3 次跟进 · 四城触网铺货",
+     "push": "STC-28DGGPM",
+     "angle": "Kyiv/Kharkiv/Odesa/Lviv 四城",
+     "question": "四城项目铺货节奏?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "©2007 起 19 年;Kyiv 总部+四城",
+     "②芯片/型号": "GSM/VoIP 网关+IP АТС+WLAN 件",
+     "③KP 深挖": "Oleksandr Bliednov(TS,单窗 P0)",
+     "④Saga 对标": "集成商打包 → 24 口 PoE(VoIP/WLAN 项目随行)",
+     "⑤在乎与偏好": "乌/俄语档;19 年老牌;四城铺货",
+     "⑥SWOT": "S=19 年老牌+集成商位+四城触网=乌网金矿/W=Bliednov 单窗证度注/O=VoIP/WLAN 项目=PoE 打包正口/T=Bliednov 单窗注"
+    },
+    "care": "- **S**:19 年老牌+集成商位+四城触网=乌网金矿\n- **W**:Bliednov 单窗证度注\n- **O**:VoIP/WLAN 项目=PoE 打包正口\n- **T**:Bliednov 单窗注",
+    "swot": {
+     "S": "19 年老牌+集成商位+四城触网=乌网金矿",
+     "W": "Bliednov 单窗证度注",
+     "O": "VoIP/WLAN 项目=PoE 打包正口",
+     "T": "Bliednov 单窗注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批12 B 类档序续批三十户",
+    "gap_proof": "https://x.com/shopgsm"
+   },
+   "unknowns": [
+    "Oleksandr Bliednov 截图为 zoominfo 单窗(证度注)",
+    "Skype=shop-gsm.net 另口",
+    "ТМ ©2007 商标档证老牌"
+   ],
+   "unknowns56": [
+    "Oleksandr Bliednov 截图为 zoominfo 单窗(证度注)",
+    "Skype=shop-gsm.net 另口",
+    "ТМ ©2007 商标档证老牌"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批12 B 类",
+   "email": "Dear Oleksandr,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — the kind of access layer that ships alongside VoIP gateways and WLAN projects. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**KP=Oleksandr Bliednov(TS,zoominfo 单窗 P0)**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "©2007 起 19 年;Kyiv 总部+四城",
+    "芯片与在用型号": "GSM/VoIP 网关+IP АТС+WLAN 件",
+    "关键人KP": "Oleksandr Bliednov(TS,单窗 P0)",
+    "关注点与资质": "集成商打包 → 24 口 PoE(VoIP/WLAN 项目随行)",
+    "优缺点SWOT": "S=19 年老牌+集成商位+四城触网=乌网金矿·W=Bliednov 单窗证度注·O=VoIP/WLAN 项目=PoE 打包正口·T=Bliednov 单窗注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):乌/俄语档;19 年老牌;四城铺货"
+   },
+   "swot_text": "- **S**:19 年老牌+集成商位+四城触网=乌网金矿\n- **W**:Bliednov 单窗证度注\n- **O**:VoIP/WLAN 项目=PoE 打包正口\n- **T**:Bliednov 单窗注",
+   "facts": [
+    {
+     "dim": "谱档",
+     "text": "SHOP-GSM — Постачальник та інтегратор бездротових рішень 2G/3G/4G/WLAN(无线方案供应与集成商)",
+     "quote": "SHOP-GSM — Постачальник та інтегратор бездротових рішень 2G/3G/4G/WLAN(无线方案供应与集成商)",
+     "url": "https://x.com/shopgsm"
+    },
+    {
+     "dim": "谱档",
+     "text": "SHOP-GSM ТМ © 2007-2026;Kyiv: (044) 331-80-58;також Kharkiv, Odesa, Lviv;E-mail: info@shop-gsm.ua;Skype: shop-gsm.net",
+     "quote": "SHOP-GSM ТМ © 2007-2026;Kyiv: (044) 331-80-58;також Kharkiv, Odesa, Lviv;E-mail: info@shop-gsm.ua;Skype: shop-gsm.net",
+     "url": "https://shop-gsm.ua/contacts/"
+    },
+    {
+     "dim": "KP",
+     "text": "Oleksandr Bliednov — Technical Specialist at SHOP-GSM(zoominfo company profile, Kyiv)",
+     "quote": "Oleksandr Bliednov — Technical Specialist at SHOP-GSM(zoominfo company profile, Kyiv)",
+     "url": "https://www.zoominfo.com/c/shop-gsmua/465293593"
+    },
+    {
+     "dim": "谱档",
+     "text": "shop-gsm.ua — GSM/VoIP шлюзи, IP АТС, WLAN обладнання;domain age档(hypestat)",
+     "quote": "shop-gsm.ua — GSM/VoIP шлюзи, IP АТС, WLAN обладнання;domain age档(hypestat)",
+     "url": "https://hypestat.com/info/shop-gsm.ua"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批12·B-024:乌网深挖(shop-gsm.ua 官网/x.com/zoominfo/hypestat 四源互证):**©2007-2026「SHOP-GSM ТМ」商标档,19 年运营谱**;定位=**«Постачальник та інтегратор бездротових рішень 2G/3G/4G/WLAN»**(无线方案供应与集成商:x.com/shopgsm 自称);产品面=GSM/VoIP 网关、IP АТС(IP 交换机)、WLAN 设备、运营商级无线件;四城触网=**Kyiv(044)331-80-58 + Kharkiv + Odesa + Lviv**;联系=info@shop-gsm.ua;Skype=shop-gsm.net;域档=shop-gsm.ua(x.com/shopgsm 社档)。**KP=Oleksandr Bliednov, Technical Specialist**(zoominfo.com/c/shop-gsmua/465293593 单窗,P0 锚,证度注单窗)。**谱位=19 年老牌无线集成商+四城触网+IP АТС/VoIP 网关面=批 12 乌网金矿**;排噪=同名 GSM 配件电商噪全排。",
+    "inference": "R67/TUB 推土机深挖 批12 B 类档序续批三十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-023",
+   "code": "B-023",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批12·B-023:乌网深挖(satmaster.kiev.ua/sat-prof.com.ua 论坛档/tt.ua SKU 档三源互证):**1994 年创立,32 年电视设备分销老牌**;市场面=**乌克兰+格鲁吉亚+阿塞拜疆+保加利亚四国分销网**;产品线=**ROMSAT TV 自有牌全线+T8030HD/T8008HD 等 DVB-T2 机顶盒全 SKU**(tt.ua 在售档);资质=**Irdeto(康纳斯 CA 加密)授权,乌克兰仅两家授权商之一**(2012 论坛档);历史锚=与 STRONG 牌竞逐乌政府地面数字电视(DVB-T2)招标史。**KP=Максим Водолазько(Maksym Vodolazko),发展总监**(2012-03 sat-prof 论坛档单窗,证度时老注)。**EDRPOU 统一注册号+现行注册址未得=守档注**(romsat.ua 官网多窗未返回注册档)。**谱位=32 年 4 国分销老牌+自有牌机顶盒全线+CA 加密授权=批 12 乌网老牌金矿**;排噪=同名卫星配件小站噪全排。",
+   "inference": "R67/TUB 推土机深挖 批12 B 类档序续批三十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://satmaster.kiev.ua/",
+   "tech": "电视/DVB 设备分销+ROMSAT TV 自有牌+机顶盒全线",
+   "hr": "32 年(1994 创);乌/格/阿塞拜疆/保加利亚 4 国分销",
+   "contact_found": "**KP=Максим Водолазько(发展总监,2012 论坛档单窗,证度时老注);EDRPOU+注册址未得守档注**",
+   "contact_pending": "主站台口入;Irdeto 授权资质=credibility 锚",
+   "dims": {
+    "业务定位": "Romsat(Kyiv,1994 创 32 年,4 国电视设备分销)",
+    "产品线与在售品牌": "DVB/电视设备分销+ROMSAT TV 自有牌+T2 盒全线",
+    "目标行业与场景": "广播台/有线网/零售/招标客户面;4 国分销",
+    "团队与规模": "Максим Водолазько(发展总监,时老单窗)",
+    "决策链与对接人": "Максим Водолазько(发展总监,时老单窗)",
+    "技术与认证": "EDRPOU 未得守档注;Kyiv 锚",
+    "采购与供应链信号": "**自有牌+授权资质=分销老牌,机顶盒配套网件(接入件)有口**",
+    "近期动态与线索": "Irdeto 授权仅两家之一=credibility 锚",
+    "与我方契合点": "主站台口 → 接入件(配套盒线)",
+    "风险与注意": "**Водолазько 时老单窗注;EDRPOU 守档注**"
+   },
+   "evidence": [
+    {
+     "dim": "谱档",
+     "quote": "Romsat — заснована 1994 року, 32 роки;дистрибуція телевізійного обладнання в Україні, Грузії, Азербайджані, Болгарії(1994 创 4 国分销)",
+     "source": "https://satmaster.kiev.ua/"
+    },
+    {
+     "dim": "KP",
+     "quote": "Максим Водолазько, директор з розвитку компанії Romsat(发展总监,2012-03 论坛发言档)",
+     "source": "https://sat-prof.com.ua/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Romsat — один із двох авторизованих представників Irdeto(Conax CA)в Україні(Irdeto 授权仅两家之一)",
+     "source": "https://sat-prof.com.ua/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "ROMSAT TV: Т8030HD, Т8008HD DVB-T2 тюнери — повна лінійка в наявності(tt.ua SKU 在售档)",
+     "source": "https://tt.ua/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Максим Водолазько(发展总监,时老注)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "盒线配套接入件口",
+     "question": "自有牌盒线配套的网络接入件选型由哪位负责?",
+     "proof": "3 源+论坛档"
+    },
+    {
+     "stage": "第 2 次跟进 · 4 国分销面",
+     "push": "STI-288GPM/424",
+     "angle": "4 国分销铺货",
+     "question": "格/阿/保 项目的接入件随行?",
+     "proof": "satmaster 档"
+    },
+    {
+     "stage": "第 3 次跟进 · EDRPOU 补证窗",
+     "push": "—",
+     "angle": "官方注册档查补",
+     "question": "EDRPOU+注册址补正档",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1994 创 32 年;4 国分销;Kyiv 锚",
+     "②芯片/型号": "ROMSAT TV 盒全线(T8030HD/T8008HD)",
+     "③KP 深挖": "Максим Водолазько(发展总监,时老单窗)",
+     "④Saga 对标": "盒线配套 → 接入件随行",
+     "⑤在乎与偏好": "乌语档;政府标史;CA 授权资质",
+     "⑥SWOT": "S=32 年 4 国老牌+自有牌+授权=乌网老牌金矿/W=Водолазько 2012 档时老注;EDRPOU 守档注/O=盒线配套=接入件正口/T=Водолазько 时老单窗注"
+    },
+    "care": "- **S**:32 年 4 国老牌+自有牌+授权=乌网老牌金矿\n- **W**:Водолазько 2012 档时老注;EDRPOU 守档注\n- **O**:盒线配套=接入件正口\n- **T**:Водолазько 时老单窗注",
+    "swot": {
+     "S": "32 年 4 国老牌+自有牌+授权=乌网老牌金矿",
+     "W": "Водолазько 2012 档时老注;EDRPOU 守档注",
+     "O": "盒线配套=接入件正口",
+     "T": "Водолазько 时老单窗注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批12 B 类档序续批三十户",
+    "gap_proof": "https://satmaster.kiev.ua/"
+   },
+   "unknowns": [
+    "Максим Водолазько 为 2012 论坛档(证度时老注)",
+    "EDRPOU+注册址未得=守档注",
+    "Irdeto 授权档 2012 时老注,现行资质待复核"
+   ],
+   "unknowns56": [
+    "Максим Водолазько 为 2012 论坛档(证度时老注)",
+    "EDRPOU+注册址未得=守档注",
+    "Irdeto 授权档 2012 时老注,现行资质待复核"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批12 B 类",
+   "email": "Dear Maksym,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a natural companion line for set-top-box and headend distribution portfolios. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**KP=Максим Водолазько(发展总监,时老单窗)+EDRPOU 守档注**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "1994 创 32 年;4 国分销;Kyiv 锚",
+    "芯片与在用型号": "ROMSAT TV 盒全线(T8030HD/T8008HD)",
+    "关键人KP": "Максим Водолазько(发展总监,时老单窗)",
+    "关注点与资质": "盒线配套 → 接入件随行",
+    "优缺点SWOT": "S=32 年 4 国老牌+自有牌+授权=乌网老牌金矿·W=Водолазько 2012 档时老注;EDRPOU 守档注·O=盒线配套=接入件正口·T=Водолазько 时老单窗注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):乌语档;政府标史;CA 授权资质"
+   },
+   "swot_text": "- **S**:32 年 4 国老牌+自有牌+授权=乌网老牌金矿\n- **W**:Водолазько 2012 档时老注;EDRPOU 守档注\n- **O**:盒线配套=接入件正口\n- **T**:Водолазько 时老单窗注",
+   "facts": [
+    {
+     "dim": "谱档",
+     "text": "Romsat — заснована 1994 року, 32 роки;дистрибуція телевізійного обладнання в Україні, Грузії, Азербайджані, Болгарії(1994 创 4 国分销)",
+     "quote": "Romsat — заснована 1994 року, 32 роки;дистрибуція телевізійного обладнання в Україні, Грузії, Азербайджані, Болгарії(1994 创 4 国分销)",
+     "url": "https://satmaster.kiev.ua/"
+    },
+    {
+     "dim": "KP",
+     "text": "Максим Водолазько, директор з розвитку компанії Romsat(发展总监,2012-03 论坛发言档)",
+     "quote": "Максим Водолазько, директор з розвитку компанії Romsat(发展总监,2012-03 论坛发言档)",
+     "url": "https://sat-prof.com.ua/"
+    },
+    {
+     "dim": "谱档",
+     "text": "Romsat — один із двох авторизованих представників Irdeto(Conax CA)в Україні(Irdeto 授权仅两家之一)",
+     "quote": "Romsat — один із двох авторизованих представників Irdeto(Conax CA)в Україні(Irdeto 授权仅两家之一)",
+     "url": "https://sat-prof.com.ua/"
+    },
+    {
+     "dim": "谱档",
+     "text": "ROMSAT TV: Т8030HD, Т8008HD DVB-T2 тюнери — повна лінійка в наявності(tt.ua SKU 在售档)",
+     "quote": "ROMSAT TV: Т8030HD, Т8008HD DVB-T2 тюнери — повна лінійка в наявності(tt.ua SKU 在售档)",
+     "url": "https://tt.ua/"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批12·B-023:乌网深挖(satmaster.kiev.ua/sat-prof.com.ua 论坛档/tt.ua SKU 档三源互证):**1994 年创立,32 年电视设备分销老牌**;市场面=**乌克兰+格鲁吉亚+阿塞拜疆+保加利亚四国分销网**;产品线=**ROMSAT TV 自有牌全线+T8030HD/T8008HD 等 DVB-T2 机顶盒全 SKU**(tt.ua 在售档);资质=**Irdeto(康纳斯 CA 加密)授权,乌克兰仅两家授权商之一**(2012 论坛档);历史锚=与 STRONG 牌竞逐乌政府地面数字电视(DVB-T2)招标史。**KP=Максим Водолазько(Maksym Vodolazko),发展总监**(2012-03 sat-prof 论坛档单窗,证度时老注)。**EDRPOU 统一注册号+现行注册址未得=守档注**(romsat.ua 官网多窗未返回注册档)。**谱位=32 年 4 国分销老牌+自有牌机顶盒全线+CA 加密授权=批 12 乌网老牌金矿**;排噪=同名卫星配件小站噪全排。",
+    "inference": "R67/TUB 推土机深挖 批12 B 类档序续批三十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  }
+ ],
+ "_meta": {
+  "batch": "R67/TUB 推土机深挖 批12 B 类档序续批十户",
+  "date": "2026-10-08",
+  "n": 10
+ }
+}

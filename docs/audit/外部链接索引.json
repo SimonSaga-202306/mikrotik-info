@@ -3906,14 +3906,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json",
         "locator": "L8441"
-      },
-      {
-        "path": "profile/B/B-231-ALLNET France SAS-法国.md",
-        "locator": "L131"
-      },
-      {
-        "path": "profile/B/B-231-ALLNET France SAS-法国.md",
-        "locator": "L134"
       }
     ]
   },
@@ -4526,6 +4518,28 @@
       {
         "path": "profile/B/B-524-HD Technology-法国.md",
         "locator": "L132"
+      }
+    ]
+  },
+  {
+    "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/allnet-france-allnet-france-979508009",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L339"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L402"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L432"
+      },
+      {
+        "path": "profile/B/B-231-ALLNET France SAS-法国.md",
+        "locator": "L131"
       }
     ]
   },
@@ -15760,8 +15774,20 @@
         "locator": "L212"
       },
       {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L349"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L444"
+      },
+      {
         "path": "profile/B/B-231-ALLNET France SAS-法国.md",
         "locator": "L87"
+      },
+      {
+        "path": "profile/B/B-231-ALLNET France SAS-法国.md",
+        "locator": "L137"
       }
     ]
   },
@@ -15902,6 +15928,18 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第19批.json",
         "locator": "L196"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L36"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L130"
+      },
+      {
+        "path": "profile/B/B-254-VODENN SAS-法国.md",
+        "locator": "L135"
       }
     ]
   },
@@ -19242,14 +19280,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json",
         "locator": "L3800"
-      },
-      {
-        "path": "profile/B/B-397-Fiseg Oy-芬兰.md",
-        "locator": "L130"
-      },
-      {
-        "path": "profile/B/B-397-Fiseg Oy-芬兰.md",
-        "locator": "L133"
       }
     ]
   },
@@ -19912,6 +19942,40 @@
       {
         "path": "profile/A/A-579-EDOX SAS-法国.md",
         "locator": "L82"
+      }
+    ]
+  },
+  {
+    "url": "https://fr.wikipedia.org/wiki/Netcom_Group",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L472"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L503"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L508"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L593"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L599"
+      },
+      {
+        "path": "profile/B/B-246-NETCOM GROUP-法国.md",
+        "locator": "L135"
+      },
+      {
+        "path": "profile/B/B-246-NETCOM GROUP-法国.md",
+        "locator": "L138"
       }
     ]
   },
@@ -21594,6 +21658,22 @@
         "locator": "L5109"
       },
       {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L615"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L636"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L699"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L729"
+      },
+      {
         "path": "profile/A/A-260-Maurice Van Der Grijspaarde-荷兰.md",
         "locator": "L134"
       },
@@ -21608,10 +21688,6 @@
       {
         "path": "profile/B/B-440-Maurice van der Grijspaarde - GPE Networks-荷兰.md",
         "locator": "L131"
-      },
-      {
-        "path": "profile/B/B-440-Maurice van der Grijspaarde - GPE Networks-荷兰.md",
-        "locator": "L134"
       }
     ]
   },
@@ -21638,6 +21714,24 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-91/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://gpe-networks.com/systeembeheer/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L656"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L753"
+      },
+      {
+        "path": "profile/B/B-440-Maurice van der Grijspaarde - GPE Networks-荷兰.md",
+        "locator": "L143"
       }
     ]
   },
@@ -23140,6 +23234,24 @@
     ]
   },
   {
+    "url": "https://hypestat.com/info/shop-gsm.ua",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L1223"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L1314"
+      },
+      {
+        "path": "profile/B/B-024-SHOP-GSM.NET-乌克兰.md",
+        "locator": "L136"
+      }
+    ]
+  },
+  {
     "url": "https://i4wifi.eu/",
     "http_checked": false,
     "occurrences": [
@@ -23382,6 +23494,32 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json",
         "locator": "L6775"
+      }
+    ]
+  },
+  {
+    "url": "https://ideas.repec.org/e/pag143.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L1066"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L1087"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L1135"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L1165"
+      },
+      {
+        "path": "profile/B/B-471-Jorge Agulló - IT Consultores-西班牙.md",
+        "locator": "L132"
       }
     ]
   },
@@ -24250,6 +24388,24 @@
       {
         "path": "profile/B/B-523-FGET International-法国.md",
         "locator": "L83"
+      }
+    ]
+  },
+  {
+    "url": "https://infonet.fr/dirigeants/66aa3c705da7ac2c4bb7bfa2/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L41"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L136"
+      },
+      {
+        "path": "profile/B/B-254-VODENN SAS-法国.md",
+        "locator": "L138"
       }
     ]
   },
@@ -26730,14 +26886,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json",
         "locator": "L6180"
-      },
-      {
-        "path": "profile/B/B-471-Jorge Agulló - IT Consultores-西班牙.md",
-        "locator": "L132"
-      },
-      {
-        "path": "profile/B/B-471-Jorge Agulló - IT Consultores-西班牙.md",
-        "locator": "L135"
       }
     ]
   },
@@ -40222,14 +40370,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json",
         "locator": "L8798"
-      },
-      {
-        "path": "profile/B/B-246-NETCOM GROUP-法国.md",
-        "locator": "L129"
-      },
-      {
-        "path": "profile/B/B-246-NETCOM GROUP-法国.md",
-        "locator": "L132"
       }
     ]
   },
@@ -50538,14 +50678,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json",
         "locator": "L1420"
-      },
-      {
-        "path": "profile/B/B-023-Romsat-乌克兰.md",
-        "locator": "L128"
-      },
-      {
-        "path": "profile/B/B-023-Romsat-乌克兰.md",
-        "locator": "L131"
       }
     ]
   },
@@ -51006,6 +51138,28 @@
     ]
   },
   {
+    "url": "https://rubypayeur.com/societe/netcom-group-453006314",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L493"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L551"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L581"
+      },
+      {
+        "path": "profile/B/B-246-NETCOM GROUP-法国.md",
+        "locator": "L129"
+      }
+    ]
+  },
+  {
     "url": "https://rubypayeur.com/societe/perpitech-818099160",
     "http_checked": false,
     "occurrences": [
@@ -51392,6 +51546,36 @@
     ]
   },
   {
+    "url": "https://sat-prof.com.ua/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L1356"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L1361"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L1445"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L1451"
+      },
+      {
+        "path": "profile/B/B-023-Romsat-乌克兰.md",
+        "locator": "L131"
+      },
+      {
+        "path": "profile/B/B-023-Romsat-乌克兰.md",
+        "locator": "L134"
+      }
+    ]
+  },
+  {
     "url": "https://satel.no",
     "http_checked": false,
     "occurrences": [
@@ -51610,6 +51794,32 @@
       {
         "path": "profile/A/A-236-Leo De Geer-瑞典.md",
         "locator": "L80"
+      }
+    ]
+  },
+  {
+    "url": "https://satmaster.kiev.ua/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L1330"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L1351"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L1409"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L1439"
+      },
+      {
+        "path": "profile/B/B-023-Romsat-乌克兰.md",
+        "locator": "L128"
       }
     ]
   },
@@ -52852,10 +53062,24 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json",
         "locator": "L1539"
+      }
+    ]
+  },
+  {
+    "url": "https://shop-gsm.ua/contacts/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L1187"
       },
       {
-        "path": "profile/B/B-024-SHOP-GSM.NET-乌克兰.md",
-        "locator": "L127"
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L1213"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L1302"
       },
       {
         "path": "profile/B/B-024-SHOP-GSM.NET-乌克兰.md",
@@ -55120,8 +55344,20 @@
         "locator": "L477"
       },
       {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L641"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L735"
+      },
+      {
         "path": "profile/B/B-440-Maurice van der Grijspaarde - GPE Networks-荷兰.md",
         "locator": "L88"
+      },
+      {
+        "path": "profile/B/B-440-Maurice van der Grijspaarde - GPE Networks-荷兰.md",
+        "locator": "L134"
       }
     ]
   },
@@ -56666,6 +56902,24 @@
     ]
   },
   {
+    "url": "https://tecon-ul.cz/o_firme.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L948"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L1044"
+      },
+      {
+        "path": "profile/B/B-520-TECON s.r.o-捷克.md",
+        "locator": "L140"
+      }
+    ]
+  },
+  {
     "url": "https://tecon.cz/",
     "http_checked": false,
     "occurrences": [
@@ -56694,8 +56948,12 @@
         "locator": "L7965"
       },
       {
-        "path": "profile/B/B-520-TECON s.r.o-捷克.md",
-        "locator": "L131"
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L938"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L1032"
       },
       {
         "path": "profile/B/B-520-TECON s.r.o-捷克.md",
@@ -56712,6 +56970,22 @@
         "locator": "反向信号名单!Q296"
       },
       {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L912"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L933"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L996"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L1026"
+      },
+      {
         "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
         "locator": "L252"
       },
@@ -56724,12 +56998,34 @@
         "locator": "L45"
       },
       {
+        "path": "profile/B/B-520-TECON s.r.o-捷克.md",
+        "locator": "L131"
+      },
+      {
         "path": "客户分级跟进表_2026-09.xlsx",
         "locator": "B级-慢慢跟!Q73"
       },
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-296/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://tecon.cz/produkty/prumyslova-komunikace/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L953"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L1050"
+      },
+      {
+        "path": "profile/B/B-520-TECON s.r.o-捷克.md",
+        "locator": "L143"
       }
     ]
   },
@@ -58294,6 +58590,24 @@
     ]
   },
   {
+    "url": "https://tt.ua/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L1366"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L1457"
+      },
+      {
+        "path": "profile/B/B-023-Romsat-乌克兰.md",
+        "locator": "L137"
+      }
+    ]
+  },
+  {
     "url": "https://tyopaikkailmoitukset.fi/tekninen-asiakaspalvelija-localnet-finland-tyopaikat/",
     "http_checked": false,
     "occurrences": [
@@ -59574,14 +59888,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json",
         "locator": "L230"
-      },
-      {
-        "path": "profile/B/B-254-VODENN SAS-法国.md",
-        "locator": "L132"
-      },
-      {
-        "path": "profile/B/B-254-VODENN SAS-法国.md",
-        "locator": "L135"
       }
     ]
   },
@@ -66312,6 +66618,36 @@
     ]
   },
   {
+    "url": "https://www.asiakastieto.fi/yritykset/fi/fiseg-oy/32460036/rekisteritiedot",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L795"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L800"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L884"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L890"
+      },
+      {
+        "path": "profile/B/B-397-Fiseg Oy-芬兰.md",
+        "locator": "L133"
+      },
+      {
+        "path": "profile/B/B-397-Fiseg Oy-芬兰.md",
+        "locator": "L136"
+      }
+    ]
+  },
+  {
     "url": "https://www.asiakastieto.fi/yritykset/fi/sarlin-oy-ab/06126835/paattajat",
     "http_checked": false,
     "occurrences": [
@@ -68919,19 +69255,11 @@
       },
       {
         "path": "profile/B/B-296-Sanuk Systems AB-瑞典.md",
-        "locator": "L80"
+        "locator": "L87"
       },
       {
         "path": "profile/B/B-296-Sanuk Systems AB-瑞典.md",
-        "locator": "L81"
-      },
-      {
-        "path": "profile/B/B-296-Sanuk Systems AB-瑞典.md",
-        "locator": "L124"
-      },
-      {
-        "path": "profile/B/B-296-Sanuk Systems AB-瑞典.md",
-        "locator": "L127"
+        "locator": "L88"
       }
     ]
   },
@@ -68963,11 +69291,11 @@
     "occurrences": [
       {
         "path": "profile/B/B-296-Sanuk Systems AB-瑞典.md",
-        "locator": "L73"
+        "locator": "L80"
       },
       {
         "path": "profile/B/B-296-Sanuk Systems AB-瑞典.md",
-        "locator": "L74"
+        "locator": "L81"
       }
     ]
   },
@@ -73578,6 +73906,24 @@
       {
         "path": "scripts/R65_第23批精修落盘.py",
         "locator": "L56"
+      }
+    ]
+  },
+  {
+    "url": "https://www.crunchbase.com/organization/sanuk-systems-ab",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L195"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L290"
+      },
+      {
+        "path": "profile/B/B-296-Sanuk Systems AB-瑞典.md",
+        "locator": "L137"
       }
     ]
   },
@@ -79650,6 +79996,24 @@
     ]
   },
   {
+    "url": "https://www.einforma.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L1092"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L1171"
+      },
+      {
+        "path": "profile/B/B-471-Jorge Agulló - IT Consultores-西班牙.md",
+        "locator": "L135"
+      }
+    ]
+  },
+  {
     "url": "https://www.einforma.com/informacion-empresa/deinta-seguridad",
     "http_checked": false,
     "occurrences": [
@@ -83702,6 +84066,24 @@
     ]
   },
   {
+    "url": "https://www.fonecta.fi/profiili/fiseg-oy/3691455",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L805"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L896"
+      },
+      {
+        "path": "profile/B/B-397-Fiseg Oy-芬兰.md",
+        "locator": "L139"
+      }
+    ]
+  },
+  {
     "url": "https://www.formacionmikrotik.com/",
     "http_checked": false,
     "occurrences": [
@@ -85054,6 +85436,24 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-966/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.goudengids.nl/gpe-networks/45911282/5-1/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L651"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L747"
+      },
+      {
+        "path": "profile/B/B-440-Maurice van der Grijspaarde - GPE Networks-荷兰.md",
+        "locator": "L140"
       }
     ]
   },
@@ -87522,6 +87922,24 @@
       {
         "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
         "locator": "L313"
+      }
+    ]
+  },
+  {
+    "url": "https://www.industry-eu.cz/firmy/tecon-spol-s-r-o",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L943"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L1038"
+      },
+      {
+        "path": "profile/B/B-520-TECON s.r.o-捷克.md",
+        "locator": "L137"
       }
     ]
   },
@@ -101852,6 +102270,18 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第11批.json",
         "locator": "L281"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L498"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L587"
+      },
+      {
+        "path": "profile/B/B-246-NETCOM GROUP-法国.md",
+        "locator": "L132"
       }
     ]
   },
@@ -101954,6 +102384,32 @@
     ]
   },
   {
+    "url": "https://www.manageo.fr/entreprises/841882962.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L10"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L31"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L94"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L124"
+      },
+      {
+        "path": "profile/B/B-254-VODENN SAS-法国.md",
+        "locator": "L132"
+      }
+    ]
+  },
+  {
     "url": "https://www.manageo.fr/entreprises/950012989.html",
     "http_checked": false,
     "occurrences": [
@@ -101984,6 +102440,24 @@
       {
         "path": "profile/A/A-328-Delta Sertec-法国.md",
         "locator": "L79"
+      }
+    ]
+  },
+  {
+    "url": "https://www.manageo.fr/entreprises/979508009/11.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L354"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L450"
+      },
+      {
+        "path": "profile/B/B-231-ALLNET France SAS-法国.md",
+        "locator": "L140"
       }
     ]
   },
@@ -106212,6 +106686,32 @@
     ]
   },
   {
+    "url": "https://www.netcom-group.fr;MVNO",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L502"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L591"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L592"
+      },
+      {
+        "path": "profile/B/B-246-NETCOM GROUP-法国.md",
+        "locator": "L133"
+      },
+      {
+        "path": "profile/B/B-246-NETCOM GROUP-法国.md",
+        "locator": "L134"
+      }
+    ]
+  },
+  {
     "url": "https://www.nethightech.com",
     "http_checked": false,
     "occurrences": [
@@ -109926,6 +110426,24 @@
     ]
   },
   {
+    "url": "https://www.oozo.nl/bedrijven/haarlem/waarder-en-veerpolder/waarderpolder/1643804/gpe-networks",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L646"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L741"
+      },
+      {
+        "path": "profile/B/B-440-Maurice van der Grijspaarde - GPE Networks-荷兰.md",
+        "locator": "L137"
+      }
+    ]
+  },
+  {
     "url": "https://www.organisator.ch/en/management/2022-08-08/oliver-lyoth-becomes-new-ceo-of-five-informatics-ag/",
     "http_checked": false,
     "occurrences": [
@@ -110040,6 +110558,24 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第11批.json",
         "locator": "L358"
+      }
+    ]
+  },
+  {
+    "url": "https://www.pagesjaunes.fr/siret/84188296200019",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L46"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L142"
+      },
+      {
+        "path": "profile/B/B-254-VODENN SAS-法国.md",
+        "locator": "L141"
       }
     ]
   },
@@ -110294,6 +110830,28 @@
       {
         "path": "profile/A/A-328-Delta Sertec-法国.md",
         "locator": "L78"
+      }
+    ]
+  },
+  {
+    "url": "https://www.pappers.fr/entreprise/allnet-france-979508009",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L318"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L344"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L438"
+      },
+      {
+        "path": "profile/B/B-231-ALLNET France SAS-法国.md",
+        "locator": "L134"
       }
     ]
   },
@@ -112530,6 +113088,32 @@
     ]
   },
   {
+    "url": "https://www.proff.fi/yrityksen/fiseg-oy/tampere/s%C3%A4hk%C3%B6tuotteet/3246003-6I00BF",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L769"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L790"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L848"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L878"
+      },
+      {
+        "path": "profile/B/B-397-Fiseg Oy-芬兰.md",
+        "locator": "L130"
+      }
+    ]
+  },
+  {
     "url": "https://www.proff.no/selskap/fiberworks-as/oslo/elektronikk-og-telekommunikasjonsutstyr-engros/IFVJN1210MZ",
     "http_checked": false,
     "occurrences": [
@@ -113458,6 +114042,24 @@
       {
         "path": "profile/A/A-054-Direktronik AB-瑞典.md",
         "locator": "L81"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ratsit.se/5567572721-Sanuk_Systems_AB",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L190"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L284"
+      },
+      {
+        "path": "profile/B/B-296-Sanuk Systems AB-瑞典.md",
+        "locator": "L134"
       }
     ]
   },
@@ -114492,6 +115094,26 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第16批.json",
         "locator": "L139"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L164"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L185"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L248"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L278"
+      },
+      {
+        "path": "profile/B/B-296-Sanuk Systems AB-瑞典.md",
+        "locator": "L131"
       }
     ]
   },
@@ -114516,6 +115138,24 @@
     ]
   },
   {
+    "url": "https://www.sanuksystems.com/community-tv/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L200"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L296"
+      },
+      {
+        "path": "profile/B/B-296-Sanuk Systems AB-瑞典.md",
+        "locator": "L140"
+      }
+    ]
+  },
+  {
     "url": "https://www.sanuksystems.com/contact/",
     "http_checked": false,
     "occurrences": [
@@ -114526,10 +115166,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_BKP波1.json",
         "locator": "L337"
-      },
-      {
-        "path": "profile/B/B-296-Sanuk Systems AB-瑞典.md",
-        "locator": "L130"
       }
     ]
   },
@@ -116730,6 +117366,24 @@
       {
         "path": "scripts/R66_R56_KP第22波_50户落盘.py",
         "locator": "L299"
+      }
+    ]
+  },
+  {
+    "url": "https://www.societe.com/societe/allnet-france-979508009.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L359"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L456"
+      },
+      {
+        "path": "profile/B/B-231-ALLNET France SAS-法国.md",
+        "locator": "L143"
       }
     ]
   },
@@ -121454,8 +122108,20 @@
         "locator": "L211"
       },
       {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L51"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L148"
+      },
+      {
         "path": "profile/B/B-254-VODENN SAS-法国.md",
         "locator": "L88"
+      },
+      {
+        "path": "profile/B/B-254-VODENN SAS-法国.md",
+        "locator": "L144"
       }
     ]
   },
@@ -126288,6 +126954,24 @@
     ]
   },
   {
+    "url": "https://www.zoominfo.com/c/sanuk-systems-thailand-co-ltd/359043976",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L205"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L302"
+      },
+      {
+        "path": "profile/B/B-296-Sanuk Systems AB-瑞典.md",
+        "locator": "L143"
+      }
+    ]
+  },
+  {
     "url": "https://www.zoominfo.com/c/senseco-systems-ltd/351365780",
     "http_checked": false,
     "occurrences": [
@@ -126298,6 +126982,24 @@
       {
         "path": "profile/A/A-110-Senseco Systems Ltd-英国.md",
         "locator": "L181"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/c/shop-gsmua/465293593",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L1218"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L1308"
+      },
+      {
+        "path": "profile/B/B-024-SHOP-GSM.NET-乌克兰.md",
+        "locator": "L133"
       }
     ]
   },
@@ -127418,6 +128120,28 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第4批.json",
         "locator": "L420"
+      }
+    ]
+  },
+  {
+    "url": "https://x.com/shopgsm",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L1208"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L1266"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+        "locator": "L1296"
+      },
+      {
+        "path": "profile/B/B-024-SHOP-GSM.NET-乌克兰.md",
+        "locator": "L127"
       }
     ]
   },

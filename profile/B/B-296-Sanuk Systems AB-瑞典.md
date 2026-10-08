@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Sanuk Systems AB(瑞典 Älvsjö(Stockholm),Herr Stens väg 49A, SE-12530;Org.no **556757-2721**,VAT SE556757272101;2…
+- **是谁**：2008 创 18 年;Älvsjö;+67%(2025);泰国支司 Rayong/Hua Hin…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 瑞典 Reseller value PoE 试探(活跃验证先行)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,13 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Sanuk Systems AB(瑞典 Älvsjö(Stockholm),Herr Stens väg 49A, SE-12530;Org.no **556757-2721**,VAT SE556757272101;2008-04-01 创于泰国 Rayong+瑞典 Stockholm 双地;**2 员工/营收 1,837 KSEK(2025,+67%)* | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | (待谱面二补) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 2008 创 18 年;Älvsjö;+67%(2025);泰国支司 Rayong/Hua Hin | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | HSIA 酒店/业主宽带+光纤/WiFi+IPTV-box+own network | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】波 R67/TUB·批12·B-296:瑞谱: **Sanuk Systems AB 深挖(sanuksystems.com 官方/ratsit/crunchbase/zoominfo/community-tv 档 五源互证)**:**Org.nr **556757-2721**;**2008-04-30 创 18 年**;Aktiebolag;säte Stockholm;**Herr Stens väg 49A,125 30 Älvsjö**;SNI **62201**(Datakonsultverksamhet);**财税谱:**2025 bokslut **omsättningsförändring=**+67.0%**;Vinstmarginal=**1.0%**(利薄注);senaste fem åren 0,1 MSEK 税档**;**谱口=**「We deliver broadband to hotels, homeowners associations and businesses; install fiber and WiFi; build global internet services in **Thailand and Sweden**」**+own network infrastructure+**Samfällighet TV(IPTV-box)**;分址=Rayong+Hua Hin(泰)+Stockholm(瑞)=三址谱；**Sanuk Systems (Thailand) Co., Ltd 支司谱**;**KP 金谱:**Ansvarig=**Ulf Göran Rickard Kristiansson**(59 岁;ratsit 档 ansvarig P0)+styrelsen=**50% män(1)+50% kvinnor(1)=2 位谱**;**谱位=HSIA/酒店宽带+光纤/WiFi+泰国支司+67% 增长谱=批 12 瑞谱金矿**;排噪=Thailand 支司名别体注。
+- 【推断】R67/TUB 推土机深挖 批12 B 类档序续批三十户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-(待谱面二补)
+HSIA 酒店/业主宽带+光纤/WiFi+IPTV-box+own network
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -60,7 +67,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- Sanuk Systems AB(瑞典 Älvsjö(Stockholm),Herr Stens väg 49A, SE-12530;Org.no **556757-2721**,VAT SE556757272101;2008-04-01 创于泰国 Rayong+瑞典 Stockholm 双地;**2 员工/营收 1,837 KSEK(2025,+67%)**;谱型=酒店/业委会/商户宽带+光纤+WiFi 安装与全球互联网服务(泰国自有网建);sanuksystems.com;mail@sanuksystems.com / +46 70 6966660
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -84,50 +91,56 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 具名 kp 引路口
+### 第 1 次跟进 · Kristiansson ansvarig(HSIA 宽带铺)
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
-- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
-- **随附/动作**：规格页
+- **切入点**：HSIA/酒店宽带 → 24 口 PoE(WiFi/AP 铺)
+- **要问的问题**：贵司酒店/业主 WiFi 线的 24 口 PoE 谱件由哪位谱?
+- **随附/动作**：ratsit/sanuk 5 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · Samfällighet TV/IPTV 谱口
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：价值层 PoE 谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：社区 TV 谱口
+- **要问的问题**：Samfällighet TV/IPTV 铺谱?
+- **随附/动作**：sanuk 谱
 
-### 第 3 次跟进 · 留档+LinkedIn 谱
+### 第 3 次跟进 · 泰国支司谱口
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：谱链明智途径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：泰国支司谱
+- **要问的问题**：泰国支司线的 PoE 谱?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08(R66-B 波 1)**；原始记录：`batch/B类深挖_2026-10-08_R66_BKP波1.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批12.json`；价格均为 EXW 快照。
 
-- **背景深描**：Sanuk Systems AB(瑞典 Älvsjö(Stockholm),Herr Stens väg 49A, SE-12530;Org.no **556757-2721**,VAT SE556757272101;2008-04-01 创于泰国 Rayong+瑞典 Stockholm 双地;**2 员工/营收 1,837 KSEK(2025,+67%)**;谱型=酒店/业委会/商户宽带+光纤+WiFi 安装与全球互联网服务(泰国自有网建);sanuksystems.com;mail@sanuksystems.com / +46 70 6966660
-- **芯片与在用型号**：(待谱面二补)
-- **关键人KP**：**Rickard Kristiansson(Verklig huvudman(100% 实益拥有人)+Styrelseledamot(董事;创办人直达),official-self-published·谱/leads-only(直发需 opt-in));Karin Elisabeth Kristiansson(Styrelsesuppleant(候补董事;家族谱),official-self-published·谱/leads-only(直发需 opt-in))**
-- **关注点与资质**：创办人 100% 拥有人直达
-- **优缺点SWOT**：S 创办人 100% 拥有人直达 / W 微实体(2 人;采购偶发) / O 酒店 WiFi/PoE 场景正谱 / T 大牌厂商链竞谱
-- **Saga产品适配**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效)):瑞典/泰国酒店宽带小微建网商;Rickard 一人决策谱(opt-in 律)
+- **背景深描**：2008 创 18 年;Älvsjö;+67%(2025);泰国支司 Rayong/Hua Hin
+- **芯片与在用型号**：HSIA 酒店/业主宽带+光纤/WiFi+IPTV-box+own network
+- **关键人KP**：Kristiansson(59 ansvarig P0)+styrelsen 1 男 1 女=2 位谱
+- **关注点与资质**：HSIA/WiFi → 24 口 PoE(AP/WiFi 铺)
+- **优缺点SWOT**：S=HSIA 酒店宽带正对口+67% 增谱+泰国支司谱+own network·W=vinstmarginal 1% 利薄注;1-10 员小堂注·O=HSIA WiFi/AP 铺=PoE 正行谱口·T=利薄注;瑞泰双址注
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):瑞典语/英语谱;泰国支司;IPTV 谱口;利薄注
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**Verklig huvudman: Rickard Kristiansson 100%;Styrelseledamot: Rickard Kristiansson (59);Styrelsesuppleant: Karin Elisabeth Kristiansson (62)
-  > Verklig huvudman: Rickard Kristiansson 100%;Styrelseledamot: Rickard Kristiansson (59);Styrelsesuppleant: Karin Elisabeth Kristiansson (62)
-  > 来源：https://www.bolagsfakta.se/5567572721-Sanuk_Systems_AB
-- **【团队与规模】**2 anställda;Omsättning 1 837 KSEK (+67,0%);Senaste bokslut 2025
-  > 2 anställda;Omsättning 1 837 KSEK (+67,0%);Senaste bokslut 2025
-  > 来源：https://www.bolagsfakta.se/5567572721-Sanuk_Systems_AB
-- **【业务定位】**Sanuk Systems was founded on April 1, 2008, in Rayong, Thailand and Stockholm, Sweden;we build fixed and wireless IP networks...for hotels and communities(官网 contact 自署 Org.no/VAT)
-  > Sanuk Systems was founded on April 1, 2008, in Rayong, Thailand and Stockholm, Sweden;we build fixed and wireless IP networks...for hotels and communities(官网 contact 自署 Org.no/VAT)
-  > 来源：https://www.sanuksystems.com/contact/
+- **【谱档】**Sanuk Systems: We deliver broadband to hotels, homeowners associations and businesses, install fiber and WiFi, and build global internet services in Thailand and Sweden;based in Rayong and Hua Hin, Thailand and Stockholm, Sweden;build fixed and wireless IP networks;own network infrastructure for hotels and communities
+  > Sanuk Systems: We deliver broadband to hotels, homeowners associations and businesses, install fiber and WiFi, and build global internet services in Thailand and Sweden;based in Rayong and Hua Hin, Thailand and Stockholm, Sweden;build fixed and wireless IP networks;own network infrastructure for hotels and communities
+  > 来源：https://www.sanuksystems.com/
+- **【谱档】**Sanuk Systems AB;Org.nr 5567572721;Aktiebolag;Säte Stockholm;Status Aktiv;SNI 62201;Herr Stens väg 49A, Älvsjö 125 30;Ansvarig: Ulf Göran Rickard Kristiansson(59 år);styrelsen 50% män(1)+50% kvinnor(1);tillväxt 67,0%;vinstmarginal 1,0%
+  > Sanuk Systems AB;Org.nr 5567572721;Aktiebolag;Säte Stockholm;Status Aktiv;SNI 62201;Herr Stens väg 49A, Älvsjö 125 30;Ansvarig: Ulf Göran Rickard Kristiansson(59 år);styrelsen 50% män(1)+50% kvinnor(1);tillväxt 67,0%;vinstmarginal 1,0%
+  > 来源：https://www.ratsit.se/5567572721-Sanuk_Systems_AB
+- **【谱档】**Sanuk Systems AB installs broadband for hotels and communities;build fixed and wireless IP networks;operate global Internet services;Founded Apr 30, 2008;Älvsjö, Stockholms Lan;1-10 employees
+  > Sanuk Systems AB installs broadband for hotels and communities;build fixed and wireless IP networks;operate global Internet services;Founded Apr 30, 2008;Älvsjö, Stockholms Lan;1-10 employees
+  > 来源：https://www.crunchbase.com/organization/sanuk-systems-ab
+- **【谱档】**Samfällighet TV;Households connected to the fiber network receives international TV-channels via Sanuk's IPTV-box;based in Rayong and Hua Hin, Thailand and Stockholm, Sweden
+  > Samfällighet TV;Households connected to the fiber network receives international TV-channels via Sanuk's IPTV-box;based in Rayong and Hua Hin, Thailand and Stockholm, Sweden
+  > 来源：https://www.sanuksystems.com/community-tv/
+- **【谱档】**Sanuk Systems (Thailand);Internet Service Providers;provides fast and reliable broadband services;hotels, homeowners associations, businesses;international television, flexible telephony, global hosting;Rayong/Hua Hin + Stockholm
+  > Sanuk Systems (Thailand);Internet Service Providers;provides fast and reliable broadband services;hotels, homeowners associations, businesses;international television, flexible telephony, global hosting;Rayong/Hua Hin + Stockholm
+  > 来源：https://www.zoominfo.com/c/sanuk-systems-thailand-co-ltd/359043976
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -140,7 +153,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S 创办人 100% 拥有人直达 / W 微实体(2 人;采购偶发) / O 酒店 WiFi/PoE 场景正谱 / T 大牌厂商链竞谱
+S=HSIA 酒店宽带正对口+67% 增谱+泰国支司谱+own network·W=vinstmarginal 1% 利薄注;1-10 员小堂注·O=HSIA WiFi/AP 铺=PoE 正行谱口·T=利薄注;瑞泰双址注
 
 ## 触达与风险红线
 
@@ -168,8 +181,9 @@ S 创办人 100% 拥有人直达 / W 微实体(2 人;采购偶发) / O 酒店 Wi
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 硬件采购线在职者(波次二)
-  - [ ] MikroTik 谱面份额
+  - [ ] 5567572721 双写谱注
+  - [ ] Sanuk Systems (Thailand) Co., Ltd 支司名注
+  - [ ] vinstmarginal 1.0% 利薄谱注
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -181,12 +195,7 @@ S 创办人 100% 拥有人直达 / W 微实体(2 人;采购偶发) / O 酒店 Wi
 **主题**：PoE switching for your line
 
 ```text
-Hej Rickard,
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
-
-Best regards,
-Saga Networks Export Desk
+Dear Ulf,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — for HSIA/hotel broadband and fiber/WiFi installs across Thailand and Sweden. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

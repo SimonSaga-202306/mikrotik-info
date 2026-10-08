@@ -1,5 +1,5 @@
 {
-  "recorded_on": "2026-09-27",
+  "recorded_on": "2026-10-08",
   "excluded": [
     ".arena",
     ".aws",
@@ -2417,9 +2417,19 @@
       "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
       "sha256": "7820957a406c1e1872be34121ef069f9e1c28d799b449e521b3202363fc313cd",
       "bytes": 140935,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 1505,
       "unique_url_count": 47,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批12.json",
+      "sha256": "6fcbdd0f92b9ca9621da4a3696a62245ddaef1d6adecacbaa02c7801a872117e",
+      "bytes": 113552,
+      "tracked_at_scan": false,
+      "units_scanned": 1472,
+      "unique_url_count": 41,
       "inspection": {},
       "errors": []
     },
@@ -3155,10 +3165,10 @@
     },
     {
       "path": "docs/requirements/用户要求总账.md",
-      "sha256": "8be1a37a8302122f41a7c7bcebadd930353e0919f93947adc547d79a4d41e4ea",
-      "bytes": 287155,
+      "sha256": "1bba3258f64e039d95b069860156b12488434f1a96f5c0ab5298b1bbe1e45ff1",
+      "bytes": 296138,
       "tracked_at_scan": true,
-      "units_scanned": 1641,
+      "units_scanned": 1659,
       "unique_url_count": 3,
       "inspection": {},
       "errors": []
@@ -9125,21 +9135,21 @@
     },
     {
       "path": "profile/B/B-023-Romsat-乌克兰.md",
-      "sha256": "d79dba505ee41711b2d2bab383c0960724b583c545b0dfd1c545ac40dc8c3419",
-      "bytes": 12138,
+      "sha256": "9c3533a5c70855f18d6d5789b98596f4b524e8a25d32c66f69ddb97ac9359841",
+      "bytes": 12232,
       "tracked_at_scan": true,
-      "units_scanned": 210,
-      "unique_url_count": 1,
+      "units_scanned": 217,
+      "unique_url_count": 3,
       "inspection": {},
       "errors": []
     },
     {
       "path": "profile/B/B-024-SHOP-GSM.NET-乌克兰.md",
-      "sha256": "019283a1f1156bf711526ef42c0e782baef2209b025846d8abbd7a6097f1cfea",
-      "bytes": 12144,
+      "sha256": "b07b6ffc56b993dc5a6a2513161e73a3a89f711a4502ca0bf813f574207bc864",
+      "bytes": 11803,
       "tracked_at_scan": true,
-      "units_scanned": 209,
-      "unique_url_count": 1,
+      "units_scanned": 216,
+      "unique_url_count": 4,
       "inspection": {},
       "errors": []
     },
@@ -9815,11 +9825,11 @@
     },
     {
       "path": "profile/B/B-231-ALLNET France SAS-法国.md",
-      "sha256": "7852bcd6999ce07c4a4edd6bd8660b32b687ad647deb16f406af7dac501f7b58",
-      "bytes": 12243,
+      "sha256": "1c4a8ae0f8a87dfdf8828fa4fd8f13066b2eac6a6fb2d9f0476bccb25cfdcb88",
+      "bytes": 14915,
       "tracked_at_scan": true,
-      "units_scanned": 213,
-      "unique_url_count": 5,
+      "units_scanned": 218,
+      "unique_url_count": 8,
       "inspection": {},
       "errors": []
     },
@@ -9845,11 +9855,11 @@
     },
     {
       "path": "profile/B/B-246-NETCOM GROUP-法国.md",
-      "sha256": "b3f717f2f3f912cc4626457429c452386d6df7fce6839702b0e8e0eae2e44d61",
-      "bytes": 12222,
+      "sha256": "807b0db3a91c9ca6dffebc56d3bb8e2d29c1d62ccfaaf6a3bdc2fc6b04a6c531",
+      "bytes": 14989,
       "tracked_at_scan": true,
-      "units_scanned": 211,
-      "unique_url_count": 3,
+      "units_scanned": 213,
+      "unique_url_count": 6,
       "inspection": {},
       "errors": []
     },
@@ -9885,11 +9895,11 @@
     },
     {
       "path": "profile/B/B-254-VODENN SAS-法国.md",
-      "sha256": "366bd576ee81cb824937999c5311259db23d8598f875f2772d9c380a8b78a1a0",
-      "bytes": 12268,
+      "sha256": "923ee956db89f8383759e5e961fafb4c60d33803d20cae17e1afac1ff114e894",
+      "bytes": 14097,
       "tracked_at_scan": true,
-      "units_scanned": 214,
-      "unique_url_count": 3,
+      "units_scanned": 219,
+      "unique_url_count": 6,
       "inspection": {},
       "errors": []
     },
@@ -10005,11 +10015,11 @@
     },
     {
       "path": "profile/B/B-296-Sanuk Systems AB-瑞典.md",
-      "sha256": "ed0a10c65911d0a6ba148885d9edc2e4d753295ef54995c42d07634a3a0811b9",
-      "bytes": 12256,
+      "sha256": "072196630b13ffda4a123eff1eb2ba77f1a33bf7b62f7549a78fbb387762db8c",
+      "bytes": 14518,
       "tracked_at_scan": true,
-      "units_scanned": 209,
-      "unique_url_count": 3,
+      "units_scanned": 218,
+      "unique_url_count": 7,
       "inspection": {},
       "errors": []
     },
@@ -10225,11 +10235,11 @@
     },
     {
       "path": "profile/B/B-397-Fiseg Oy-芬兰.md",
-      "sha256": "34c62fcd4bda35b1a1f156f5c1832dd693decd3236d1d75d28d9ff75d1e7492b",
-      "bytes": 12160,
+      "sha256": "aa1de6117309fb80fb6a83ae1e5d23b20fa395cea799ddde8fae715a0e5978f9",
+      "bytes": 13236,
       "tracked_at_scan": true,
-      "units_scanned": 212,
-      "unique_url_count": 3,
+      "units_scanned": 214,
+      "unique_url_count": 5,
       "inspection": {},
       "errors": []
     },
@@ -10335,11 +10345,11 @@
     },
     {
       "path": "profile/B/B-440-Maurice van der Grijspaarde - GPE Networks-荷兰.md",
-      "sha256": "b047339953319d49c9f2d048b19aaab796da9dd06689e150f8358ac4edb10cbd",
-      "bytes": 12201,
+      "sha256": "0f781528566f5776a726e5b0cae1232cb37d81f1eae561acd3af916fa596dfb5",
+      "bytes": 14715,
       "tracked_at_scan": true,
-      "units_scanned": 208,
-      "unique_url_count": 3,
+      "units_scanned": 218,
+      "unique_url_count": 6,
       "inspection": {},
       "errors": []
     },
@@ -10445,11 +10455,11 @@
     },
     {
       "path": "profile/B/B-471-Jorge Agulló - IT Consultores-西班牙.md",
-      "sha256": "b4531d358a2ffc3556dcc65fd87bb9167f69e774d97923746f7b135ebe9b06f5",
-      "bytes": 12146,
+      "sha256": "b303cd10dace093c1de632656562128859b11e8b12e3fce62807b5d529a1c80d",
+      "bytes": 11577,
       "tracked_at_scan": true,
-      "units_scanned": 209,
-      "unique_url_count": 3,
+      "units_scanned": 221,
+      "unique_url_count": 4,
       "inspection": {},
       "errors": []
     },
@@ -10595,11 +10605,11 @@
     },
     {
       "path": "profile/B/B-520-TECON s.r.o-捷克.md",
-      "sha256": "87d43fc0690994155dc8406a9216956cd4e5a82426406c74cd02394016e7156a",
-      "bytes": 12147,
+      "sha256": "53843170befb260cd41b8b2563f5c9ec273f0e90824d08b8d41aa93c15e10844",
+      "bytes": 13790,
       "tracked_at_scan": true,
-      "units_scanned": 213,
-      "unique_url_count": 3,
+      "units_scanned": 223,
+      "unique_url_count": 7,
       "inspection": {},
       "errors": []
     },
@@ -14325,10 +14335,10 @@
     },
     {
       "path": "scripts/make_profiles.py",
-      "sha256": "fbedd0c54bc287d6ed8b7f2a32e2081a395874f88c86eba2e1102b27ed13ff2b",
-      "bytes": 40463,
+      "sha256": "dbb742766af0890442cdec1f69fb700c31d0a3c0c03f5a5fe0942eb0b1295e59",
+      "bytes": 40526,
       "tracked_at_scan": true,
-      "units_scanned": 830,
+      "units_scanned": 831,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []

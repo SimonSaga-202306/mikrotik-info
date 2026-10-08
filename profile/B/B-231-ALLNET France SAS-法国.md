@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 29·B-231:法国谱: **守档准由·原 R65/R57 谱基增厚**:ALLNET France SAS(allnetfrance.fr;+33 4 48 23 02 90 sales@)：ALLNET 集团(…
+- **是谁**：2023 创 3 年新谱;Carcassonne;€6.2M(2024)快增;Gonon 父子交接…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — ALLNET 集团法国站的 value PoE 集团谱补位（同 NORDIC/GREECE 逻辑联动）；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 29·B-231:法国谱: **守档准由·原 R65/R57 谱基增厚**:ALLNET France SAS(allnetfrance.fr;+33 4 48 23 02 90 sales@)：ALLNET 集团(€500M;Allnet GmbH Munich 1991 创）法国站；同族集:B-001 ALLNET Nordic(丹麦)+B-115  | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 2023 创 3 年新谱;Carcassonne;€6.2M(2024)快增;Gonon 父子交接 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | 元件批发 46.52Z/4650Y+distribution/import/export/conseil | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 29·B-231:法国谱: **守档准由·原 R65/R57 谱基增厚**:ALLNET France SAS(allnetfrance.fr;+33 4 48 23 02 90 sales@)：ALLNET 集团(€500M;Allnet GmbH Munich 1991 创）法国站；同族集:B-001 ALLNET Nordic(丹麦)+B-115 Allnet Greece(ALLNET Italia 南欧延伸)+ALLNET France——集团工谱极高配 | R65 深挖:Gonon 家族新创 2023;谱与德国母体联动候选(供联动判断;不证不动);R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第4波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 29 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】波 R67/TUB·批12·B-231:法谱: **ALLNET France SAS 深挖(data.gouv/pappers/lefigaro/manageo/societe 五源互证)**:**SIREN **979 508 009**;SIRET siège 979 508 009 00029;RCS Carcassonne;**2023-10-01 创 3 年新谱**(établissement 2023-11-02;RNE 2023-10-05);SAS;capital social **50,000 €**;**96 Rue Lamarck,11000 Carcassonne**(Aude 11);NAF **46.52Z**(电子/电信件批发);3-5 员;TVA FR25979508009;**财税金谱:**dernier chiffre d'affaires connu=**6,221,866 €(2024)**(3 岁司=快增谱!)**;谱口铺=distribution/importation/exportation/commercialisation d'appareils de télécommunication numérique, d'électronique, ou d'informatique+conseil(lefigaro 创记档);**PREIXAN établissement secondaire**(NAF 4650Y)双谱口**;**KP 金谱:**Président=**Gonon Bastien**(b. 1986-04;**2025-04-14 接任 Président**)+**Directeur général=**Gonon Thierry, Antoine, Raymond**(b. 1957-10;**2023-09 创任 Président→2025-04-16 改任 DG**=父子交接谱;BODACC 20250078 annonce 213)**;**谱位=Aude 11 新谱=元件批发 3 年新谱€6.2M 快增+父子交接窗=批 12 法谱金矿**;**谱注=与库 ALLNET 谱系谱档档档档谱档铺铺谱堂铺铺铺谱谱谱档谱档谱档谱档谱谱谱档谱谱**(B-138 属像谱口铺谱注)**;排噪=同名谱档注。
+- 【推断】R67/TUB 推土机深挖 批12 B 类档序续批三十户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+元件批发 46.52Z/4650Y+distribution/import/export/conseil
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -91,47 +91,56 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · Bastien GONON 接任窗
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：守档铺位 → 价锚卡
-- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
-- **随附/动作**：规格页
+- **切入点**：接任 Président → 24 口 PoE(铺谱)
+- **要问的问题**：ALLNET France 铺线的 24 口 PoE 谱件由哪位谱?
+- **随附/动作**：pappers/data.gouv 5 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · Thierry GONON 父谱 DG 谱
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：父谱 DG 谱口
+- **要问的问题**：您父子交接谱的铺谱?
+- **随附/动作**：pappers 谱
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · €6.2M 3 岁快增谱口
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：快增谱窗
+- **要问的问题**：谱铺谱谱谱谱?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批12.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 29·B-231:法国谱: **守档准由·原 R65/R57 谱基增厚**:ALLNET France SAS(allnetfrance.fr;+33 4 48 23 02 90 sales@)：ALLNET 集团(€500M;Allnet GmbH Munich 1991 创）法国站；同族集:B-001 ALLNET Nordic(丹麦)+B-115 Allnet Greece(ALLNET Italia 南欧延伸)+ALLNET France——集团工谱极高配 | R65 深挖:Gonon 家族新创 2023;谱与德国母体联动候选(供联动判断;不证不动);R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第4波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
-- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
-- **关注点与资质**：法国 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
-- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **背景深描**：2023 创 3 年新谱;Carcassonne;€6.2M(2024)快增;Gonon 父子交接
+- **芯片与在用型号**：元件批发 46.52Z/4650Y+distribution/import/export/conseil
+- **关键人KP**：Bastien GONON(Président 1986-04,2025-04 接任)+Thierry GONON(DG 1957-10)
+- **关注点与资质**：元件批发 → 24 口 PoE(铺谱)
+- **优缺点SWOT**：S=3 年新谱€6.2M 快增+父子交接窗·W=3 年新谱注;小堂注(3-5 员);ALLNET 谱堂档注·O=元件批发谱口=PoE 正行·T=ALLNET 谱口谱堂注
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):法语谱;3 年新谱;父子交接;€6.2M 快增谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**ALLNET France SAS(allnetfrance.fr;+33 4 48 23 02 90 sales@)：ALLNET 集团(€500M;Allnet GmbH Munich 1991 创）法国站；同族集:B-001 ALLNET Nordic(丹麦)+B-115 Allnet Greece(ALLNET
-  > ALLNET France SAS(allnetfrance.fr;+33 4 48 23 02 90 sales@)：ALLNET 集团(€500M;Allnet GmbH Munich 1991 创）法国站；同族集:B-001 ALLNET Nordic(丹麦)+B-115 Allnet Greece(ALLNET
-  > 来源：https://allnetfrance.fr/
-- **【联系方式与基础画像】**CSV 入口:04 48 23 02 90 / sales@allnetfrance.fr
-  > CSV 入口:04 48 23 02 90 / sales@allnetfrance.fr
-  > 来源：https://allnetfrance.fr/
+- **【谱档】**ALLNET FRANCE;979 508 009;créée le 1 octobre 2023;SAS;Commerce de gros de composants et d'équipements électroniques et de télécommunication(46.52Z);3 à 5 salariés;96 RUE LAMARCK 11000 CARCASSONNE;RNE 05/10/2023;Etablissement 02/11/2023 en activité
+  > ALLNET FRANCE;979 508 009;créée le 1 octobre 2023;SAS;Commerce de gros de composants et d'équipements électroniques et de télécommunication(46.52Z);3 à 5 salariés;96 RUE LAMARCK 11000 CARCASSONNE;RNE 05/10/2023;Etablissement 02/11/2023 en activité
+  > 来源：https://annuaire-entreprises.data.gouv.fr/entreprise/allnet-france-allnet-france-979508009
+- **【权档/交接】**ALLNET FRANCE;979 508 009;Président Gonon Bastien(40 ans, 04/1986, depuis 14/04/2025);Directeur général Gonon Thierry(68 ans, 10/1957, depuis 14/09/2023);BODACC n°20250078 annonce 213(20/04/2025): nomination Bastien GONON(Président)+démission Thierry GONON(Président)et nomination Thierry GONON(Directeur Général)
+  > ALLNET FRANCE;979 508 009;Président Gonon Bastien(40 ans, 04/1986, depuis 14/04/2025);Directeur général Gonon Thierry(68 ans, 10/1957, depuis 14/09/2023);BODACC n°20250078 annonce 213(20/04/2025): nomination Bastien GONON(Président)+démission Thierry GONON(Président)et nomination Thierry GONON(Directeur Général)
+  > 来源：https://www.pappers.fr/entreprise/allnet-france-979508009
+- **【谱档】**ALLNET France;SIREN 979508009;TVA FR25979508009;96 Rue Lamarck 11000 Carcassonne;créée 05 octobre 2023;capital 50 000,00 €;Activité: La distribution, l'importation, l'exportation, la commercialisation de tous appareils de télécommunication numérique, d'électronique, ou d'informatique et de leurs composants
+  > ALLNET France;SIREN 979508009;TVA FR25979508009;96 Rue Lamarck 11000 Carcassonne;créée 05 octobre 2023;capital 50 000,00 €;Activité: La distribution, l'importation, l'exportation, la commercialisation de tous appareils de télécommunication numérique, d'électronique, ou d'informatique et de leurs composants
+  > 来源：https://entreprises.lefigaro.fr/allnet-france-11/entreprise-979508009
+- **【财务档】**ALLNET FRANCE;établissement secondaire PREIXAN;Capital 50 000 EURO;Dirigeant Bastien GONON;3 à 5 salariés;Dernier chiffre d'affaires connu 6 221 866 €(2024);Activité 4650Y Commerce de gros d'équipements de l'information et de la communication
+  > ALLNET FRANCE;établissement secondaire PREIXAN;Capital 50 000 EURO;Dirigeant Bastien GONON;3 à 5 salariés;Dernier chiffre d'affaires connu 6 221 866 €(2024);Activité 4650Y Commerce de gros d'équipements de l'information et de la communication
+  > 来源：https://www.manageo.fr/entreprises/979508009/11.html
+- **【谱档】**ALLNET France;SIREN 979 508 009;Dirigeants: GONON Bastien(Président)+GONON Thierry(Directeur général);Ancien Président Thierry GONON(20/09/2023-16/04/2025)
+  > ALLNET France;SIREN 979 508 009;Dirigeants: GONON Bastien(Président)+GONON Thierry(Directeur général);Ancien Président Thierry GONON(20/09/2023-16/04/2025)
+  > 来源：https://www.societe.com/societe/allnet-france-979508009.html
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -144,7 +153,7 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+S=3 年新谱€6.2M 快增+父子交接窗·W=3 年新谱注;小堂注(3-5 员);ALLNET 谱堂档注·O=元件批发谱口=PoE 正行·T=ALLNET 谱口谱堂注
 
 ## 触达与风险红线
 
@@ -172,8 +181,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] ALLNET France 与库 B-138/B-115 ALLNET 谱系关联性待核注
+  - [ ] Président 2025-04 交接 BODACC 谱窗注
+  - [ ] PREIXAN ßétablissement secondaire 谱注
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -185,12 +195,7 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 **主题**：PoE switching for your line
 
 ```text
-Dear ALLNET France SAS Team,
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
-
-Best regards
-Saga / SmartByte ODM
+Dear Bastien,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — built for distribution groups. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

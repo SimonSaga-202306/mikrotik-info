@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 30·B-471:西班牙谱: **守档准由·原 R65/R57 谱基增厚**:Jorge Agulló - IT Consultores(Benidorm Calle Apolo XI nº 5 2º;20+ 年 I…
+- **是谁**：Benidorm 本地 IT 咨询户;商登号未得…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — SME 顾问小团队备养:具名通道,项目随单信号再激活；—（合作探询，无量产报价）
@@ -44,20 +44,20 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | 波 30·B-471:西班牙谱: **守档准由·原 R65/R57 谱基增厚**:Jorge Agulló - IT Consultores(Benidorm Calle Apolo XI nº 5 2º;20+ 年 IT/网络经验小团队;MikroTik 认证顾问 MTCNA+MTCRE;SME 服务谱:网络安全审计/LOPD 合规/VPN/备份/远程办公 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Benidorm 本地 IT 咨询户;商登号未得 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | 本地网络集成面(估) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 30·B-471:西班牙谱: **守档准由·原 R65/R57 谱基增厚**:Jorge Agulló - IT Consultores(Benidorm Calle Apolo XI nº 5 2º;20+ 年 IT/网络经验小团队;MikroTik 认证顾问 MTCNA+MTCRE;SME 服务谱:网络安全审计/LOPD 合规/VPN/备份/远程办公) | R65 深挖:西班牙 MikroTik 认证咨询 20 年谱位;R66 第 30 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第6波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 30 波守档准由谱
-- 【假设】掌件区非商触(非卖品对照架)
+- 【事实】波 R67/TUB·批12·B-471:守界降级档写入说明:西班牙企业官方档库(registro mercantil/eInforma/axesor)多轮检索(jorge agulló/it consultores/benidorm telecom)均**未得该户可证的商登号(CIF)、注册法名、公开营业数据**;唯一同名轨迹为研究场(RePEc 页的 Jorge Agulló 语言学者档),与本户业务域不符,作排噪处理不并档。**按谱堂守档注传统**:不以"换户"代"守档"——保留 B-471 档位,降级注写,待后续窗口(黄页街访/商会窗)补证再升级。库档原锚=Jorge Agulló(IT Consultores, Benidorm, 西班牙,Contact person 位);业务定位=本地 IT 咨询/网络集成小户(Benidorm 阿利坎特省,旅游区中小企业 IT 服务面)。**谱位=守界降级档=批 12 守档样板**;排噪=同名人学者档全排。
+- 【推断】R67/TUB 推土机深挖 批12 B 类档序续批三十户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+本地网络集成面(估)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -70,7 +70,7 @@ CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 波 30·B-471:西班牙谱: **守档准由·原 R65/R57 谱基增厚**:Jorge Agulló - IT Consultores(Benidorm Calle Apolo XI nº 5 2º;20+ 年 IT/网络经验小团队;MikroTik 认证顾问 MTCNA+MTCRE;SME 服务谱:网络安全审计/LOPD 合规/VPN/备份/远程办公) | R65 深挖:西班牙 MikroTik 认证咨询 20 年谱位;R66 第 30 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第6波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -92,47 +92,47 @@ CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（OEM/白牌合作探询（无量产型号首推）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
-
-- **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
-- **切入点**：掌件区技术参件
-- **要问的问题**：可否入技术参件对照架名录？
-- **随附/动作**：规格页
-
-### 第 2 次跟进 · 一页目录卡
-
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
-
-### 第 3 次跟进 · 留档
+### 第 1 次跟进 · 黄页/商会窗补证
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **切入点**：Benidorm 商会窗查档
+- **要问的问题**：查 IT Consultores 商登号与 KP 直档
+- **随附/动作**：守档注
+
+### 第 2 次跟进 · 街访/电话簿窗
+
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：Benidorm 本地窗
+- **要问的问题**：黄页电档反查联系位
+- **随附/动作**：
+
+### 第 3 次跟进 · 升级评估
+
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：有证再升级
+- **要问的问题**：得 CIF 后再写正档
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批12.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 30·B-471:西班牙谱: **守档准由·原 R65/R57 谱基增厚**:Jorge Agulló - IT Consultores(Benidorm Calle Apolo XI nº 5 2º;20+ 年 IT/网络经验小团队;MikroTik 认证顾问 MTCNA+MTCRE;SME 服务谱:网络安全审计/LOPD 合规/VPN/备份/远程办公) | R65 深挖:西班牙 MikroTik 认证咨询 20 年谱位;R66 第 30 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第6波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
-- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
-- **关注点与资质**：西班牙 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
-- **Saga产品适配**：CONSULT-OEM 掌件区非卖品对照
+- **背景深描**：Benidorm 本地 IT 咨询户;商登号未得
+- **芯片与在用型号**：本地网络集成面(估)
+- **关键人KP**：Jorge Agulló 库档原锚,证度待补
+- **关注点与资质**：守界降级:不发报价信,待补证
+- **优缺点SWOT**：S=守界降级档=批 12 守档样板·W=无可证官方数据,全档守档注·O=守档不下场·T=守档注
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):西语档;本地服务型小户
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**Jorge Agulló - IT Consultores(Benidorm Calle Apolo XI nº 5 2º;20+ 年 IT/网络经验小团队;MikroTik 认证顾问 MTCNA+MTCRE;SME 服务谱:网络安全审计/LOPD 合规/VPN/备份/远程办公) | R65 深挖:西班牙 MikroT
-  > Jorge Agulló - IT Consultores(Benidorm Calle Apolo XI nº 5 2º;20+ 年 IT/网络经验小团队;MikroTik 认证顾问 MTCNA+MTCRE;SME 服务谱:网络安全审计/LOPD 合规/VPN/备份/远程办公) | R65 深挖:西班牙 MikroT
-  > 来源：https://itconsultores.es/
-- **【联系方式与基础画像】**CSV 入口:+34 966 830 220 / jorge.agullo@itconsultores.es
-  > CSV 入口:+34 966 830 220 / jorge.agullo@itconsultores.es
-  > 来源：https://itconsultores.es/
+- **【守档注】**Jorge Agulló — 同名人轨迹:语言学者档(RePEc 页),业务域与本户不符,排噪不并档
+  > Jorge Agulló — 同名人轨迹:语言学者档(RePEc 页),业务域与本户不符,排噪不并档
+  > 来源：https://ideas.repec.org/e/pag143.html
+- **【守档注】**西班牙企业档库(registro/eInforma 类)多轮检索 IT Consultores Benidorm 未得可证 CIF/注册法名,守界降级档写入
+  > 西班牙企业档库(registro/eInforma 类)多轮检索 IT Consultores Benidorm 未得可证 CIF/注册法名,守界降级档写入
+  > 来源：https://www.einforma.com/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -145,7 +145,7 @@ CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
+S=守界降级档=批 12 守档样板·W=无可证官方数据,全档守档注·O=守档不下场·T=守档注
 
 ## 触达与风险红线
 
@@ -173,8 +173,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] CIF/注册号未得=守档注
+  - [ ] 同名学者档全排
+  - [ ] 报价信按下不发,待补证
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -183,10 +184,21 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：（非卖品掌件区,不出信)
+**主题**：Neutral-built PoE switches under your own label
 
 ```text
-（掌件区非卖品·CONSULT-OEM 对照架,只做技术参件,不出英文首触信）
+Hi Jorge,
+
+I came across IT Consultores - 集成商/顾问（MikroTik 认证）.
+
+We manufacture PoE access switches (Marvell-based, L2+) for OEM/white-label programs - neutral packing, your model numbers, ODM options on request.
+
+One question: 你们给 Benidorm 的 SME(餐饮酒店)做 LOPD/网络项目时,PoE 监控/接入件现随哪家?
+
+If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM (neutral packing available)
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
