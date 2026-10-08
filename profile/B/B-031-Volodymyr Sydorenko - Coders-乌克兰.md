@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 29·B-031:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:Volodymyr Sydorenko / Coders in UA team(乌克兰 Zhytomyr）:**LinkedIn 实锤:1…
+- **是谁**：10+ 年;VVS=vvs@coders.in.ua 锚…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 软件 CEO 双深谱走顾问关系线,不入上架；—（合作探询，无量产报价）
@@ -44,20 +44,20 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | 波 29·B-031:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:Volodymyr Sydorenko / Coders in UA team(乌克兰 Zhytomyr）:**LinkedIn 实锤:1999 年创 Coders in UA team 软件 CEO/GM 25 年;MTCNA(2015)+MTCRE+MTCWE(2016）三 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 10+ 年;VVS=vvs@coders.in.ua 锚 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | MikroTik 深栈(OSPF/CAPsMAN/VPN)+外包 DSP | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 29·B-031:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:Volodymyr Sydorenko / Coders in UA team(乌克兰 Zhytomyr）:**LinkedIn 实锤:1999 年创 Coders in UA team 软件 CEO/GM 25 年;MTCNA(2015)+MTCRE+MTCWE(2016）三证在 LinkedIn(cert ID 完整）;ZoomInfo 口径:现为 Cinegy Systems LLC 乌办总经理**——软件+网络双资历老将;R66 第 29 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第2波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 29 波守档准由谱
-- 【假设】掌件区非商触(非卖品对照架)
+- 【事实】波 R67/TUB·批13·B-031:乌网深挖(coders.in.ua 官网 about+HWIO 档互证):**VVS / Coders In UA(Volodymyr V. Sydorenko 缩写锚=vvs@coders.in.ua 官邮档)**;**10+ 年团队谱;双业务面:①软件外包(DSP 数字信号处理/图像视频音频处理/反向工程/低级编程/桌面应用 Windows/C++)②Network/system administration 深谱——技能单=OSPF/CAPsMAN/SIP/QoS/Traffic shaping/VPN(EoIP/GRE/IPIP)/PPP(PPPoE/PPTP/L2TP/SSTP/OpenVPN)/IPsec/MultiWAN/Load balancing/Advanced Scripting=MikroTik 全线深栈**;**Certificates: MTCNA+MTCRE+MTCWE 三证(官网自列)**;24/7 支持(英/俄/乌三语 voice);监控栈 Nagios/Zabbix+Telegram bots/ELK/Grafana;虚拟化 Hyper-V/ESXi/AWS/Hetzner;**HWIO2021 Capture the Signal CTF(无线电反向工程赛)参赛+GNU Radio 工具迁移=SDR 黑客谱**;社网窗=LinkedIn/FB/Hackerrank/GitHub 全档。**谱位=三证+深网栈+外包双面的技术型小户=批 13 技术金矿(库档标 MTCNA+MTCIPv6E——官网列 MTCWЕ 异窗注:库档口径为准注)**。
+- 【推断】R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+MikroTik 深栈(OSPF/CAPsMAN/VPN)+外包 DSP
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -91,47 +91,56 @@ CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（OEM/白牌合作探询（无量产型号首推）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · Volodymyr(VVS P0 直邮)
 
-- **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
-- **切入点**：掌件区技术参件
-- **要问的问题**：可否入技术参件对照架名录？
-- **随附/动作**：规格页
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
+- **切入点**：深栈网工 → 24 口 PoE(SMB 项目)
+- **要问的问题**：你 SMB 网络项目的接入层 PoE 选型偏哪档?
+- **随附/动作**：coders.in.ua 5 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · 项目谱口
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：外包+网络双面
+- **要问的问题**：网络 vs 外包客户配比?
+- **随附/动作**：about 档
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · 试单节奏
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：$165 级试单
+- **要问的问题**：首单小批 LCL/空运?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批13.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 29·B-031:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:Volodymyr Sydorenko / Coders in UA team(乌克兰 Zhytomyr）:**LinkedIn 实锤:1999 年创 Coders in UA team 软件 CEO/GM 25 年;MTCNA(2015)+MTCRE+MTCWE(2016）三证在 LinkedIn(cert ID 完整）;ZoomInfo 口径:现为 Cinegy Systems LLC 乌办总经理**——软件+网络双资历老将;R66 第 29 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第2波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
-- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
-- **关注点与资质**：乌克兰 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
-- **Saga产品适配**：CONSULT-OEM 掌件区非卖品对照
+- **背景深描**：10+ 年;VVS=vvs@coders.in.ua 锚
+- **芯片与在用型号**：MikroTik 深栈(OSPF/CAPsMAN/VPN)+外包 DSP
+- **关键人KP**：Volodymyr V. Sydorenko(VVS P0)
+- **关注点与资质**：SMB 网络 → 24 口 PoE 技术自决口
+- **优缺点SWOT**：S=三证+深栈+双面=技术金矿·W=小户价格敏感注·O=$165 试单=正口·T=小户量谱注
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):英语可;深网工价敏谱;$165 试单口
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**Volodymyr Sydorenko / Coders in UA team(乌克兰 Zhytomyr）:**LinkedIn 实锤:1999 年创 Coders in UA team 软件 CEO/GM 25 年;MTCNA(2015)+MTCRE+MTCWE(2016）三证在 LinkedIn(cert ID 完
-  > Volodymyr Sydorenko / Coders in UA team(乌克兰 Zhytomyr）:**LinkedIn 实锤:1999 年创 Coders in UA team 软件 CEO/GM 25 年;MTCNA(2015)+MTCRE+MTCWE(2016）三证在 LinkedIn(cert ID 完
-  > 来源：https://coders.in.ua/
-- **【联系方式与基础画像】**CSV 入口:+380 67 760 0368 / vvs@coders.in.ua
-  > CSV 入口:+380 67 760 0368 / vvs@coders.in.ua
-  > 来源：https://coders.in.ua/
+- **【KP】**Contacts: mailto:vvs@coders.in.ua;Me at Linkedin/FB/Hackerrank/GitHub;VVS / Coders In UA
+  > Contacts: mailto:vvs@coders.in.ua;Me at Linkedin/FB/Hackerrank/GitHub;VVS / Coders In UA
+  > 来源：https://coders.in.ua/about/
+- **【资质】**Certificates: MTCNA, MTCRE, MTCWE(官网技能单自列)
+  > Certificates: MTCNA, MTCRE, MTCWE(官网技能单自列)
+  > 来源：https://coders.in.ua/about/
+- **【谱档】**Network/system administration: OSPF, CAPsMAN, SIP, QoS, Traffic shaping, VPN (EoIP, GRE, IPIP), PPP (PPPoE, PPTP, L2TP, SSTP, OpenVPN) IPSEC, MultiWAN, Load balancing and Failover, Advanced Routing, Advanced Scripting
+  > Network/system administration: OSPF, CAPsMAN, SIP, QoS, Traffic shaping, VPN (EoIP, GRE, IPIP), PPP (PPPoE, PPTP, L2TP, SSTP, OpenVPN) IPSEC, MultiWAN, Load balancing and Failover, Advanced Routing, Advanced Scripting
+  > 来源：https://coders.in.ua/about/
+- **【谱档】**Experienced team 10+ years available for long-term hiring/complex projects;24/7 coverage English/Russian/Ukrainian voice support
+  > Experienced team 10+ years available for long-term hiring/complex projects;24/7 coverage English/Russian/Ukrainian voice support
+  > 来源：https://coders.in.ua/about/
+- **【谱档】**HWIO2021 Capture the Signal CTF — radio-signal reverse engineering;migrated official tools to latest Python/GNU Radio(SDR 谱档)
+  > HWIO2021 Capture the Signal CTF — radio-signal reverse engineering;migrated official tools to latest Python/GNU Radio(SDR 谱档)
+  > 来源：https://coders.in.ua/hwio2021-cts/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -144,7 +153,7 @@ CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
+S=三证+深栈+双面=技术金矿·W=小户价格敏感注·O=$165 试单=正口·T=小户量谱注
 
 ## 触达与风险红线
 
@@ -172,8 +181,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] 库档 MTCNA+MTCIPv6E vs 官网 MTCNA/MTCRE/MTCWE 异窗注(库档口径为准)
+  - [ ] SDR/CTF 谱注
+  - [ ] 外包国际客户面=信息流锚
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -182,10 +192,15 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：（非卖品掌件区,不出信)
+**主题**：PoE switching for your line
 
 ```text
-（掌件区非卖品·CONSULT-OEM 对照架,只做技术参件,不出英文首触信）
+Dear Volodymyr,
+
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — matching the deep MikroTik-style stacks you run for SMB networks. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.
+
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

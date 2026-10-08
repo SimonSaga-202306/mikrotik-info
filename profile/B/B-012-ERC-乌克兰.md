@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 29·B-012:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:ERC（基辅 04073, Marka Vovchka 18A;EDRPOU 38204199;2026-04 UA-REGION 仍 A…
+- **是谁**：1995 创 31 年;ЄДРПОУ 38204199;奥地利控股…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 工业 KNOT 在架+2E 自牌谱正宗:OEM 血统咬合的角度入 DIN 轨 value PoE 8 口；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 29·B-012:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:ERC（基辅 04073, Marka Vovchka 18A;EDRPOU 38204199;2026-04 UA-REGION 仍 ACTIVE）：独立专业分销社;2E 自有品牌独家分销商（覆盖 UA/中欧/东欧/CIS）;MikroTik 官方供应明示,在架 CRS328 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 1995 创 31 年;ЄДРПОУ 38204199;奥地利控股 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | IT/CE 分销+VAD 服务;46.51 电脑批发 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 29·B-012:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:ERC（基辅 04073, Marka Vovchka 18A;EDRPOU 38204199;2026-04 UA-REGION 仍 ACTIVE）：独立专业分销社;2E 自有品牌独家分销商（覆盖 UA/中欧/东欧/CIS）;MikroTik 官方供应明示,在架 CRS328-24P-4S+RM（500W 重型）、SFP、KNOT LTE4 工业 IoT;MikroTik 官方宣传稿《ERC 成 MikroTik 分销商》;R66 第 29 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第2波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 29 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】波 R67/TUB·批13·B-012:乌网深挖(opendatabot/youcontrol/compu wiki/EBA 四源互证):**ІНОЗЕМНЕ ПІДПРИЄМСТВО «І-АР-СІ»(FOREIGN COMPANY «ERC»);ЄДРПОУ 38204199**;乌司注册 2012-04-19;вул. Марка Вовчка 18А, 04073 Kyiv;授权资本 ₴5,589,500;КВЕД 46.51(电脑批发);**集团谱=ERC 分销 1995 年乌知名;国际控股 ERC registered in Austria;业务国=阿塞拜疆/格鲁吉亚/哈萨克/立陶宛/摩尔多瓦/乌克兰/乌兹别克斯坦+瑞士运营司+奥地利控股司;EBA(欧洲商业协会)会员 2021;25th Birthday Star**;乌基设=Own 单一领地办公+物流综合体+服务/培训中心(EBA 原声「no analogues in Eastern Europe」);服务网 50+ 授权服务伙伴全乌。**KP=Іщенко Вадим Антонович(乌司 Diректор+Authorized person+UBO 三职 P0)+集团层=Андрій Дегода(President ERC group)+Кадулін Сергій(Apple 分销部总监)+Колос Сергій(笔记本/PC 部总监)**;电话 230 3474/390 5510;erc.ua。**谱位=31 年分销巨头+MikroTik VAD 位(库档标)=同谱竞合注+VAD 服务网=补位谱口**。
+- 【推断】R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+IT/CE 分销+VAD 服务;46.51 电脑批发
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -87,47 +87,56 @@ STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · Іщенко Вадим(乌司 UBO P0)
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：守档铺位 → 价锚卡
-- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
-- **随附/动作**：规格页
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
+- **切入点**：UBO → 24 口 PoE(VAD 补位)
+- **要问的问题**：贵司企业网 VAD 谱的 24 口 PoE 档由哪位铺?
+- **随附/动作**：opendatabot/EBA 5 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · 集团层(Дегода President)
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：奥地利控股 7 国谱
+- **要问的问题**：乌司独立采购 vs 集团统筹?
+- **随附/动作**：EBA 档
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · 7 国分体谱
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：中亚/高加索分体
+- **要问的问题**：哈萨克/格鲁吉亚分体铺口?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批13.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 29·B-012:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:ERC（基辅 04073, Marka Vovchka 18A;EDRPOU 38204199;2026-04 UA-REGION 仍 ACTIVE）：独立专业分销社;2E 自有品牌独家分销商（覆盖 UA/中欧/东欧/CIS）;MikroTik 官方供应明示,在架 CRS328-24P-4S+RM（500W 重型）、SFP、KNOT LTE4 工业 IoT;MikroTik 官方宣传稿《ERC 成 MikroTik 分销商》;R66 第 29 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第2波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
-- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
-- **关注点与资质**：乌克兰 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
-- **Saga产品适配**：STI-288GP vs PLANET/当批价差窗
+- **背景深描**：1995 创 31 年;ЄДРПОУ 38204199;奥地利控股
+- **芯片与在用型号**：IT/CE 分销+VAD 服务;46.51 电脑批发
+- **关键人KP**：Іщенко(三职 P0)+Дегода(集团 Pres)+2 部总
+- **关注点与资质**：同谱竞合 → 24 口 PoE(VAD 补位)
+- **优缺点SWOT**：S=31 年巨头+奥地利控股+7 国谱=金矿·W=MikroTik VAD=同谱竞合·O=VAD 补位+7 国分体=双口·T=竞合红线注
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):乌语档;EBA 会员;50 服务网
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**ERC（基辅 04073, Marka Vovchka 18A;EDRPOU 38204199;2026-04 UA-REGION 仍 ACTIVE）：独立专业分销社;2E 自有品牌独家分销商（覆盖 UA/中欧/东欧/CIS）;MikroTik 官方供应明示,在架 CRS328-24P-4S+RM（500W 重型）、S
-  > ERC（基辅 04073, Marka Vovchka 18A;EDRPOU 38204199;2026-04 UA-REGION 仍 ACTIVE）：独立专业分销社;2E 自有品牌独家分销商（覆盖 UA/中欧/东欧/CIS）;MikroTik 官方供应明示,在架 CRS328-24P-4S+RM（500W 重型）、S
-  > 来源：https://erc.ua/
-- **【联系方式与基础画像】**CSV 入口:+380 44 230 3474 / Network_SOHO@erc.ua
-  > CSV 入口:+380 44 230 3474 / Network_SOHO@erc.ua
-  > 来源：https://erc.ua/
+- **【谱档】**ІП «І-АР-СІ»;Код ЄДРПОУ 38204199;FOREIGN COMPANY «ERC»;04073, Київ, вул. Марка Вовчка, 18А;Дата заснування 19.04.2012;Директор Іщенко Вадим Антонович;Статутний капітал 5 589 500 ₴
+  > ІП «І-АР-СІ»;Код ЄДРПОУ 38204199;FOREIGN COMPANY «ERC»;04073, Київ, вул. Марка Вовчка, 18А;Дата заснування 19.04.2012;Директор Іщенко Вадим Антонович;Статутний капітал 5 589 500 ₴
+  > 来源：https://opendatabot.ua/c/38204199
+- **【谱档】**Ultimate beneficial owner (controller) — Іщенко Вадим Антонович;Founders — АТ ЗАКРИТИЙ НЕДИВЕРСИФІКОВАНИЙ ВКІФ «ФОРІНТ»;main line 46.51 Wholesale of computers
+  > Ultimate beneficial owner (controller) — Іщенко Вадим Антонович;Founders — АТ ЗАКРИТИЙ НЕДИВЕРСИФІКОВАНИЙ ВКІФ «ФОРІНТ»;main line 46.51 Wholesale of computers
+  > 来源：https://youcontrol.com.ua/en/catalog/company_details/38204199/
+- **【谱档】**ERC is a professional international-level distributor, registered in Austria since 1995 well-known in Ukraine;offices in Azerbaijan, Georgia, Kazakhstan, Lithuania, Moldova, Ukraine, Uzbekistan, operating in Switzerland and holding in Austria;In Association(EBA)since 2021;Chief: Vadym Ishchenko
+  > ERC is a professional international-level distributor, registered in Austria since 1995 well-known in Ukraine;offices in Azerbaijan, Georgia, Kazakhstan, Lithuania, Moldova, Ukraine, Uzbekistan, operating in Switzerland and holding in Austria;In Association(EBA)since 2021;Chief: Vadym Ishchenko
+  > 来源：https://eba.com.ua/en/member/inozemne-pidpryyemstvo-i-ar-si/
+- **【KP】**Андрій Дегода — президент групи компаній ERC;Кадулін Сергій — директор департаменту дистрибуції Apple;Колос Сергій — директор дивізіону ноутбуків і ПК
+  > Андрій Дегода — президент групи компаній ERC;Кадулін Сергій — директор департаменту дистрибуції Apple;Колос Сергій — директор дивізіону ноутбуків і ПК
+  > 来源：https://compu.fandom.com/uk/wiki/ERC
+- **【谱档】**ERC заснована 1995;сервісна мережа 50+ авторизованих сервіс-партнерів у всіх областях;вул.Марка Вовчка, 18а;Тел.: 230 3474; 390 5510
+  > ERC заснована 1995;сервісна мережа 50+ авторизованих сервіс-партнерів у всіх областях;вул.Марка Вовчка, 18а;Тел.: 230 3474; 390 5510
+  > 来源：https://compu.fandom.com/uk/wiki/ERC
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -140,7 +149,7 @@ STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
+S=31 年巨头+奥地利控股+7 国谱=金矿·W=MikroTik VAD=同谱竞合·O=VAD 补位+7 国分体=双口·T=竞合红线注
 
 ## 触达与风险红线
 
@@ -168,8 +177,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节�
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] 同谱竞合注(MikroTik VAD 库档)
+  - [ ] 集团谱谱谱位:乌司 vs 奥地利控股层
+  - [ ] 电话 230 3474/390 5510 档
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -181,9 +191,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节�
 **主题**：PoE switching for your line
 
 ```text
-Dear ERC Team,
+Dear Vadym,
 
-We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a complement for enterprise-network VAD portfolios. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.
 
 Best regards
 Saga / SmartByte ODM

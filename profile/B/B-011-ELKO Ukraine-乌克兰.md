@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 29·B-011:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:ELKO Ukraine（基辅,1998 创,51-200 人）=ELKO Group 旗下（400 IT 厂牌/10 国 10000+ …
+- **是谁**：ELKO Group 1993 Riga;$2B+;乌司 1998 入…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 波罗的海 VAD 集团乌克兰站——value PoE 档集团谱补位最对口；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 29·B-011:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:ELKO Ukraine（基辅,1998 创,51-200 人）=ELKO Group 旗下（400 IT 厂牌/10 国 10000+ 伙伴;拉脱维亚血统）;双主线=项目分销（系统集成支持服务）+批发出货;在架网牌 20+:AAeon/Advantech/Aruba/Axio | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | ELKO Group 1993 Riga;$2B+;乌司 1998 入 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | 40k SKU 全谱+MikroTik 官方位 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 29·B-011:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:ELKO Ukraine（基辅,1998 创,51-200 人）=ELKO Group 旗下（400 IT 厂牌/10 国 10000+ 伙伴;拉脱维亚血统）;双主线=项目分销（系统集成支持服务）+批发出货;在架网牌 20+:AAeon/Advantech/Aruba/Axiomtek/GIGA-IPC/IEI/Intel/Keenetic/Lanner/LR-Link/Mellanox/MikroTik/Netis/Nexcom/QLogic/QNAP/Supermicro/Synology/TP-Link/Ubiquiti;LinkedIn 每周更新 MikroTik 新品/停产公告（活跃度高）;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第2波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 29 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】波 R67/TUB·批13·B-011:乌网深挖(elko.ua/compu wiki/EBA 三源互证):**ELKO Group=拉脱维亚 Riga 1993 创,GTDC(全球科技分销理事会)成员,债券上 Nasdaq Baltic,年营收超 $2B;1998 年进入乌克兰市场**;乌司址=Kyiv пров. Охтирський 7 к.2 літ.Б оф.2H-301 03195(新档)/вул. Козацька 120/4 03022(旧档双窗);+38 044 461 9670;elko@elko.ua;**40,000+ SKU(IT/消费电子/家电全谱);参展 MikroTik User Meeting 基辅 Fairmont=乌克兰 MikroTik 官方分销位**;谱系注=本批 B-285 ELKO Eesti(€380M)、批10-ELKO 系同集团,爱沙尼亚/斯洛伐克(WESTech 51%)分体已深挖,乌司补全 ELKO 东欧网。**KP=Юлія Ратушна(Керівник групи продакт-менеджерів ELKO Ukraine=产品经理组长,官网新闻原声 P0+)**;**谱位=同谱竞合:分销含 MikroTik 线,对我方=生态情报+集团分层谱位(非直谱客)=巨头谱堂协同注**。
+- 【推断】R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+40k SKU 全谱+MikroTik 官方位
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -85,47 +85,56 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · Юлія Ратушна(PM 组长 P0+)
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：守档铺位 → 价锚卡
-- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
-- **随附/动作**：规格页
+- **切入点**：PM 组长 → 24 口 PoE(MT 空档补位)
+- **要问的问题**：贵司网件谱中 MT 未盖的工业/大 PoE 位由哪条品牌线铺?
+- **随附/动作**：elko.ua/MUM 档 5 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · 集团分层谱位
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：ELKO 集团谱系(批10 已钉)
+- **要问的问题**：乌司 vs 集团采购层级?
+- **随附/动作**：批10 ELKO Eesti 档
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · MUM 基辅窗
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：下届 MUM 展位邻
+- **要问的问题**：展会谱口节奏?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批13.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 29·B-011:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:ELKO Ukraine（基辅,1998 创,51-200 人）=ELKO Group 旗下（400 IT 厂牌/10 国 10000+ 伙伴;拉脱维亚血统）;双主线=项目分销（系统集成支持服务）+批发出货;在架网牌 20+:AAeon/Advantech/Aruba/Axiomtek/GIGA-IPC/IEI/Intel/Keenetic/Lanner/LR-Link/Mellanox/MikroTik/Netis/Nexcom/QLogic/QNAP/Supermicro/Synology/TP-Link/Ubiquiti;LinkedIn 每周更新 MikroTik 新品/停产公告（活跃度高）;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第2波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
-- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
-- **关注点与资质**：乌克兰 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
-- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **背景深描**：ELKO Group 1993 Riga;$2B+;乌司 1998 入
+- **芯片与在用型号**：40k SKU 全谱+MikroTik 官方位
+- **关键人KP**：Юлія Ратушна(PM 组长)+集团层(批10 钉)
+- **关注点与资质**：同谱竞合 → 24 口 PoE 补位(非 MT 空档)
+- **优缺点SWOT**：S=$2B 集团乌司+40k SKU=巨头谱堂·W=MikroTik 官方位=同谱竞合红线·O=MT 空档补位=正口·T=竞合注:硬冲 MT 线必败
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):乌语档;GTDC/上市合规;集团分层
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**ELKO Ukraine（基辅,1998 创,51-200 人）=ELKO Group 旗下（400 IT 厂牌/10 国 10000+ 伙伴;拉脱维亚血统）;双主线=项目分销（系统集成支持服务）+批发出货;在架网牌 20+:AAeon/Advantech/Aruba/Axiomtek/GIGA-IPC/IEI/Int
-  > ELKO Ukraine（基辅,1998 创,51-200 人）=ELKO Group 旗下（400 IT 厂牌/10 国 10000+ 伙伴;拉脱维亚血统）;双主线=项目分销（系统集成支持服务）+批发出货;在架网牌 20+:AAeon/Advantech/Aruba/Axiomtek/GIGA-IPC/IEI/Int
-  > 来源：https://elko.ua/
-- **【联系方式与基础画像】**CSV 入口:+380 44 461 9670 / elko@elko.ua
-  > CSV 入口:+380 44 461 9670 / elko@elko.ua
-  > 来源：https://elko.ua/
+- **【谱档】**ELKO Ukraine – дистрибютор широкого асортименту IT продуктів, споживчої електроніки та побутової техніки;Оборот ELKO Group перевищує 2 мільярди доларів США;03195, Київ, провулок Охтирський, 7, корпус 2, літера «Б», офіс 2H-301(Б);+38 044 461 9670;elko@elko.ua
+  > ELKO Ukraine – дистрибютор широкого асортименту IT продуктів, споживчої електроніки та побутової техніки;Оборот ELKO Group перевищує 2 мільярди доларів США;03195, Київ, провулок Охтирський, 7, корпус 2, літера «Б», офіс 2H-301(Б);+38 044 461 9670;elko@elko.ua
+  > 来源：https://www.elko.ua/pro-nas/
+- **【谱档】**ELKO Group стала членом обєднання Global Technology Distribution Council, GTDC;Облігації компанії розміщені на біржі Nasdaq Baltic
+  > ELKO Group стала членом обєднання Global Technology Distribution Council, GTDC;Облігації компанії розміщені на біржі Nasdaq Baltic
+  > 来源：https://www.elko.ua/pro-nas/
+- **【谱档】**ELKO Ukraine - дистрибютор MikroTik в Україні;Запрошуємо на стенд ELKO в межах зустрічі користувачів MikroTik MUM Fairmont Grand Hotel Kyiv
+  > ELKO Ukraine - дистрибютор MikroTik в Україні;Запрошуємо на стенд ELKO в межах зустрічі користувачів MikroTik MUM Fairmont Grand Hotel Kyiv
+  > 来源：https://www.elko.ua/sobytiya/conferentsya-mikrotik-user-meeting
+- **【KP】**Юлія Ратушна, Керівник групи продакт-менеджерів ELKO Ukraine(Micro Focus 合作新闻原声)
+  > Юлія Ратушна, Керівник групи продакт-менеджерів ELKO Ukraine(Micro Focus 合作新闻原声)
+  > 来源：https://www.elko.ua/novosti2/elko-ukraina-predlozhila-partneram-luchshiye-v-otrasli-servisy-i-po-micro-focus
+- **【史谱】**ELKO Group 1993 Riga 创;1998 进入乌克兰市场;在东欧/独联体 9 国 24 办公室
+  > ELKO Group 1993 Riga 创;1998 进入乌克兰市场;在东欧/独联体 9 国 24 办公室
+  > 来源：https://compu.fandom.com/uk/wiki/ELKO
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -138,7 +147,7 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+S=$2B 集团乌司+40k SKU=巨头谱堂·W=MikroTik 官方位=同谱竞合红线·O=MT 空档补位=正口·T=竞合注:硬冲 MT 线必败
 
 ## 触达与风险红线
 
@@ -166,8 +175,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] 同谱竞合注:MikroTik 官方分销
+  - [ ] 报价策略=补位不硬冲
+  - [ ] 乌司址双窗(Охтирський新/Козацька旧)
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -179,9 +189,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 **主题**：PoE switching for your line
 
 ```text
-Dear ELKO Ukraine Team,
+Dear Yuliia,
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a complement line for portfolios where MikroTik has no direct SKU (industrial/high-PoE access). Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.
 
 Best regards
 Saga / SmartByte ODM

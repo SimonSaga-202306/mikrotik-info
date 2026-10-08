@@ -9300,6 +9300,52 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json",
         "locator": "L1777"
+      }
+    ]
+  },
+  {
+    "url": "https://coders.in.ua/about/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1044"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1065"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1070"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1075"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1080"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1128"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1158"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1164"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1170"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1176"
       },
       {
         "path": "profile/B/B-031-Volodymyr Sydorenko - Coders-乌克兰.md",
@@ -9308,6 +9354,32 @@
       {
         "path": "profile/B/B-031-Volodymyr Sydorenko - Coders-乌克兰.md",
         "locator": "L134"
+      },
+      {
+        "path": "profile/B/B-031-Volodymyr Sydorenko - Coders-乌克兰.md",
+        "locator": "L137"
+      },
+      {
+        "path": "profile/B/B-031-Volodymyr Sydorenko - Coders-乌克兰.md",
+        "locator": "L140"
+      }
+    ]
+  },
+  {
+    "url": "https://coders.in.ua/hwio2021-cts/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1085"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1182"
+      },
+      {
+        "path": "profile/B/B-031-Volodymyr Sydorenko - Coders-乌克兰.md",
+        "locator": "L143"
       }
     ]
   },
@@ -9726,6 +9798,54 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第4批.json",
         "locator": "L99"
+      }
+    ]
+  },
+  {
+    "url": "https://compu.fandom.com/uk/wiki/ELKO",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L51"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L148"
+      },
+      {
+        "path": "profile/B/B-011-ELKO Ukraine-乌克兰.md",
+        "locator": "L137"
+      }
+    ]
+  },
+  {
+    "url": "https://compu.fandom.com/uk/wiki/ERC",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L200"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L205"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L296"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L302"
+      },
+      {
+        "path": "profile/B/B-012-ERC-乌克兰.md",
+        "locator": "L136"
+      },
+      {
+        "path": "profile/B/B-012-ERC-乌克兰.md",
+        "locator": "L139"
       }
     ]
   },
@@ -14824,6 +14944,24 @@
     ]
   },
   {
+    "url": "https://eba.com.ua/en/member/inozemne-pidpryyemstvo-i-ar-si/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L195"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L290"
+      },
+      {
+        "path": "profile/B/B-012-ERC-乌克兰.md",
+        "locator": "L133"
+      }
+    ]
+  },
+  {
     "url": "https://ebc-marburg.de",
     "http_checked": false,
     "occurrences": [
@@ -15488,14 +15626,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json",
         "locator": "L706"
-      },
-      {
-        "path": "profile/B/B-011-ELKO Ukraine-乌克兰.md",
-        "locator": "L125"
-      },
-      {
-        "path": "profile/B/B-011-ELKO Ukraine-乌克兰.md",
-        "locator": "L128"
       }
     ]
   },
@@ -15662,6 +15792,24 @@
       {
         "path": "profile/B/B-200-OEM Automatic spol. s r.o-捷克.md",
         "locator": "L141"
+      }
+    ]
+  },
+  {
+    "url": "https://en.thepage.ua/dossier/mti",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L359"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L456"
+      },
+      {
+        "path": "profile/B/B-018-MTI-乌克兰.md",
+        "locator": "L138"
       }
     ]
   },
@@ -16010,14 +16158,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json",
         "locator": "L825"
-      },
-      {
-        "path": "profile/B/B-012-ERC-乌克兰.md",
-        "locator": "L127"
-      },
-      {
-        "path": "profile/B/B-012-ERC-乌克兰.md",
-        "locator": "L130"
       }
     ]
   },
@@ -32526,6 +32666,54 @@
         "locator": "L471"
       },
       {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L641"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L725"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1198"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1219"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1272"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1302"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1330"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1351"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1361"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1404"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1434"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1446"
+      },
+      {
         "path": "profile/A/A-003-Andrew Drozd - Iron Sentinel-乌克兰.md",
         "locator": "L87"
       },
@@ -32708,6 +32896,22 @@
       {
         "path": "profile/A/A-296-Frederic Gauthier-加拿大.md",
         "locator": "L136"
+      },
+      {
+        "path": "profile/B/B-008-Andrii Chernov - VIP-乌克兰.md",
+        "locator": "L135"
+      },
+      {
+        "path": "profile/B/B-009-Andrii Nagornyi-乌克兰.md",
+        "locator": "L127"
+      },
+      {
+        "path": "profile/B/B-026-Serhii Maksymenko-乌克兰.md",
+        "locator": "L126"
+      },
+      {
+        "path": "profile/B/B-026-Serhii Maksymenko-乌克兰.md",
+        "locator": "L132"
       }
     ]
   },
@@ -42906,12 +43110,66 @@
         "locator": "L1182"
       },
       {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L493"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L508"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L551"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L581"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L599"
+      },
+      {
         "path": "profile/B/B-021-Omnilink-乌克兰.md",
         "locator": "L126"
       },
       {
         "path": "profile/B/B-021-Omnilink-乌克兰.md",
+        "locator": "L135"
+      }
+    ]
+  },
+  {
+    "url": "https://omnilink.ua/novinki-vid-mikrotik/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L472"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L498"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L503"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L587"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L593"
+      },
+      {
+        "path": "profile/B/B-021-Omnilink-乌克兰.md",
         "locator": "L129"
+      },
+      {
+        "path": "profile/B/B-021-Omnilink-乌克兰.md",
+        "locator": "L132"
       }
     ]
   },
@@ -43176,6 +43434,76 @@
       {
         "path": "profile/B/B-421-Pymatek Automation-英国.md",
         "locator": "L144"
+      }
+    ]
+  },
+  {
+    "url": "https://opendatabot.ua/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1229"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1314"
+      },
+      {
+        "path": "profile/B/B-009-Andrii Nagornyi-乌克兰.md",
+        "locator": "L133"
+      }
+    ]
+  },
+  {
+    "url": "https://opendatabot.ua/c/13669756",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L318"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L339"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L402"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L432"
+      },
+      {
+        "path": "profile/B/B-018-MTI-乌克兰.md",
+        "locator": "L126"
+      }
+    ]
+  },
+  {
+    "url": "https://opendatabot.ua/c/38204199",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L164"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L185"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L248"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L278"
+      },
+      {
+        "path": "profile/B/B-012-ERC-乌克兰.md",
+        "locator": "L127"
       }
     ]
   },
@@ -45204,14 +45532,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json",
         "locator": "L1063"
-      },
-      {
-        "path": "profile/B/B-018-MTI-乌克兰.md",
-        "locator": "L126"
-      },
-      {
-        "path": "profile/B/B-018-MTI-乌克兰.md",
-        "locator": "L129"
       }
     ]
   },
@@ -47186,6 +47506,24 @@
     ]
   },
   {
+    "url": "https://rim2000.prom.ua/ua/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L778"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L873"
+      },
+      {
+        "path": "profile/B/B-022-RIM2000-乌克兰.md",
+        "locator": "L132"
+      }
+    ]
+  },
+  {
     "url": "https://rim2000.ua/",
     "http_checked": false,
     "occurrences": [
@@ -47214,12 +47552,36 @@
         "locator": "L1301"
       },
       {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L747"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L768"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L788"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L831"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L861"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L885"
+      },
+      {
         "path": "profile/B/B-022-RIM2000-乌克兰.md",
         "locator": "L126"
       },
       {
         "path": "profile/B/B-022-RIM2000-乌克兰.md",
-        "locator": "L129"
+        "locator": "L138"
       }
     ]
   },
@@ -54604,6 +54966,24 @@
     ]
   },
   {
+    "url": "https://sites.google.com/view/maksymenkosd",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1356"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1440"
+      },
+      {
+        "path": "profile/B/B-026-Serhii Maksymenko-乌克兰.md",
+        "locator": "L129"
+      }
+    ]
+  },
+  {
     "url": "https://skytron.business/",
     "http_checked": false,
     "occurrences": [
@@ -59180,6 +59560,42 @@
     ]
   },
   {
+    "url": "https://uk.wikipedia.org/wiki/MTI",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L344"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L438"
+      },
+      {
+        "path": "profile/B/B-018-MTI-乌克兰.md",
+        "locator": "L129"
+      }
+    ]
+  },
+  {
+    "url": "https://uk.wikipedia.org/wiki/MTI_hi-tech_дистрибуція",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L349"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L444"
+      },
+      {
+        "path": "profile/B/B-018-MTI-乌克兰.md",
+        "locator": "L132"
+      }
+    ]
+  },
+  {
     "url": "https://unifoss.com/",
     "http_checked": false,
     "occurrences": [
@@ -59728,14 +60144,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json",
         "locator": "L468"
-      },
-      {
-        "path": "profile/B/B-008-Andrii Chernov - VIP-乌克兰.md",
-        "locator": "L132"
-      },
-      {
-        "path": "profile/B/B-008-Andrii Chernov - VIP-乌克兰.md",
-        "locator": "L135"
       }
     ]
   },
@@ -60718,12 +61126,28 @@
         "locator": "L1896"
       },
       {
-        "path": "profile/B/B-032-WinTik-乌克兰.md",
-        "locator": "L125"
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L927"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L932"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1016"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1022"
       },
       {
         "path": "profile/B/B-032-WinTik-乌克兰.md",
         "locator": "L128"
+      },
+      {
+        "path": "profile/B/B-032-WinTik-乌克兰.md",
+        "locator": "L131"
       }
     ]
   },
@@ -60746,6 +61170,44 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_R57转写.json",
         "locator": "L969"
+      }
+    ]
+  },
+  {
+    "url": "https://wintik.com.ua/contacts",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L901"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L922"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L937"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L980"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1010"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1028"
+      },
+      {
+        "path": "profile/B/B-032-WinTik-乌克兰.md",
+        "locator": "L125"
+      },
+      {
+        "path": "profile/B/B-032-WinTik-乌克兰.md",
+        "locator": "L134"
       }
     ]
   },
@@ -80268,6 +80730,62 @@
     ]
   },
   {
+    "url": "https://www.elko.ua/novosti2/elko-ukraina-predlozhila-partneram-luchshiye-v-otrasli-servisy-i-po-micro-focus",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L46"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L142"
+      },
+      {
+        "path": "profile/B/B-011-ELKO Ukraine-乌克兰.md",
+        "locator": "L134"
+      }
+    ]
+  },
+  {
+    "url": "https://www.elko.ua/pro-nas/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L10"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L31"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L36"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L94"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L124"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L130"
+      },
+      {
+        "path": "profile/B/B-011-ELKO Ukraine-乌克兰.md",
+        "locator": "L125"
+      },
+      {
+        "path": "profile/B/B-011-ELKO Ukraine-乌克兰.md",
+        "locator": "L128"
+      }
+    ]
+  },
+  {
     "url": "https://www.elko.ua/ru/produkty/setevoe-oborudovanie-u-oficialnogo-distribyutora-elko-ukraine",
     "http_checked": false,
     "occurrences": [
@@ -80278,6 +80796,24 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_R57转写.json",
         "locator": "L352"
+      }
+    ]
+  },
+  {
+    "url": "https://www.elko.ua/sobytiya/conferentsya-mikrotik-user-meeting",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L41"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L136"
+      },
+      {
+        "path": "profile/B/B-011-ELKO Ukraine-乌克兰.md",
+        "locator": "L131"
       }
     ]
   },
@@ -83214,6 +83750,24 @@
       {
         "path": "profile/B/B-397-Fiseg Oy-芬兰.md",
         "locator": "L81"
+      }
+    ]
+  },
+  {
+    "url": "https://www.findglocal.com/UA/Kyiv/174448122762762/MTI-Group",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L354"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L450"
+      },
+      {
+        "path": "profile/B/B-018-MTI-乌克兰.md",
+        "locator": "L135"
       }
     ]
   },
@@ -114370,6 +114924,42 @@
     ]
   },
   {
+    "url": "https://www.rim2000.com/contacts/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L773"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L867"
+      },
+      {
+        "path": "profile/B/B-022-RIM2000-乌克兰.md",
+        "locator": "L129"
+      }
+    ]
+  },
+  {
+    "url": "https://www.rim2000.com/equipment/networks/security/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L783"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L879"
+      },
+      {
+        "path": "profile/B/B-022-RIM2000-乌克兰.md",
+        "locator": "L135"
+      }
+    ]
+  },
+  {
     "url": "https://www.rim2000.com/news/company/rim2000-distribyutor-mikrotik/",
     "http_checked": false,
     "occurrences": [
@@ -120666,6 +121256,44 @@
       {
         "path": "scripts/R66_R56_KP第24波_50户落盘.py",
         "locator": "L146"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ua-region.com.ua/34419514",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L615"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L636"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L646"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L689"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L719"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L731"
+      },
+      {
+        "path": "profile/B/B-008-Andrii Chernov - VIP-乌克兰.md",
+        "locator": "L132"
+      },
+      {
+        "path": "profile/B/B-008-Andrii Chernov - VIP-乌克兰.md",
+        "locator": "L138"
       }
     ]
   },
@@ -127382,6 +128010,24 @@
     ]
   },
   {
+    "url": "https://www.zoominfo.com/p/Andrii-Nagornyi/17759900764",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1224"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L1308"
+      },
+      {
+        "path": "profile/B/B-009-Andrii Nagornyi-乌克兰.md",
+        "locator": "L130"
+      }
+    ]
+  },
+  {
     "url": "https://www.zoominfo.com/p/David-Garland/",
     "http_checked": false,
     "occurrences": [
@@ -128490,6 +129136,24 @@
       {
         "path": "scripts/R66_R56_KP第24波_50户落盘.py",
         "locator": "L136"
+      }
+    ]
+  },
+  {
+    "url": "https://youcontrol.com.ua/en/catalog/company_details/38204199/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L190"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批13.json",
+        "locator": "L284"
+      },
+      {
+        "path": "profile/B/B-012-ERC-乌克兰.md",
+        "locator": "L130"
       }
     ]
   },

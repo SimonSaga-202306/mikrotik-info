@@ -1,0 +1,1461 @@
+{
+ "records": [
+  {
+   "customer": "B-011",
+   "code": "B-011",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批13·B-011:乌网深挖(elko.ua/compu wiki/EBA 三源互证):**ELKO Group=拉脱维亚 Riga 1993 创,GTDC(全球科技分销理事会)成员,债券上 Nasdaq Baltic,年营收超 $2B;1998 年进入乌克兰市场**;乌司址=Kyiv пров. Охтирський 7 к.2 літ.Б оф.2H-301 03195(新档)/вул. Козацька 120/4 03022(旧档双窗);+38 044 461 9670;elko@elko.ua;**40,000+ SKU(IT/消费电子/家电全谱);参展 MikroTik User Meeting 基辅 Fairmont=乌克兰 MikroTik 官方分销位**;谱系注=本批 B-285 ELKO Eesti(€380M)、批10-ELKO 系同集团,爱沙尼亚/斯洛伐克(WESTech 51%)分体已深挖,乌司补全 ELKO 东欧网。**KP=Юлія Ратушна(Керівник групи продакт-менеджерів ELKO Ukraine=产品经理组长,官网新闻原声 P0+)**;**谱位=同谱竞合:分销含 MikroTik 线,对我方=生态情报+集团分层谱位(非直谱客)=巨头谱堂协同注**。",
+   "inference": "R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.elko.ua/pro-nas/",
+   "tech": "ELKO Group $2B+ 国际分销;乌克兰 MikroTik 官方位;40k SKU 全谱",
+   "hr": "33 年(1993 Riga);Nasdaq Baltic 债券;GTDC 会员",
+   "contact_found": "**KP=Юлія Ратушна(产品经理组长 P0+,官网新闻原声);集团层=ELKO Grupa AS Svens Dinsdorfs(CEO,批10 已钉)**",
+   "contact_pending": "elko@elko.ua 台口+38 044 461 9670;MUM 参展窗=credibility 锚",
+   "dims": {
+    "业务定位": "ELKO Ukraine(Kyiv,ELKO Group $2B 乌司)",
+    "产品线与在售品牌": "IT/CE/家电 40k SKU 分销+MikroTik 官方位",
+    "目标行业与场景": "全乌零售/集成商/ISP 渠道网",
+    "团队与规模": "乌司数百员(集团 2,500+);33 年集团",
+    "决策链与对接人": "Юлія Ратушна(PM 组长);集团层 Dinsdorfs CEO(批10 钉)",
+    "技术与认证": "Nasdaq Baltic 债券;GTDC 会员;AEO 类物流谱",
+    "采购与供应链信号": "**MikroTik 官方位=同谱竞合:我方价谱可进其非 MT 网件空档(工业 PoE 谱)**",
+    "近期动态与线索": "GTDC/上市集团=合规谱哺",
+    "与我方契合点": "Ратушна(PM 组长)→ 24 口 PoE 非 MT 空档",
+    "风险与注意": "**同谱竞合注:MikroTik 官方分销,报价策略=补位不硬冲**"
+   },
+   "evidence": [
+    {
+     "dim": "谱档",
+     "quote": "ELKO Ukraine – дистрибютор широкого асортименту IT продуктів, споживчої електроніки та побутової техніки;Оборот ELKO Group перевищує 2 мільярди доларів США;03195, Київ, провулок Охтирський, 7, корпус 2, літера «Б», офіс 2H-301(Б);+38 044 461 9670;elko@elko.ua",
+     "source": "https://www.elko.ua/pro-nas/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "ELKO Group стала членом обєднання Global Technology Distribution Council, GTDC;Облігації компанії розміщені на біржі Nasdaq Baltic",
+     "source": "https://www.elko.ua/pro-nas/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "ELKO Ukraine - дистрибютор MikroTik в Україні;Запрошуємо на стенд ELKO в межах зустрічі користувачів MikroTik MUM Fairmont Grand Hotel Kyiv",
+     "source": "https://www.elko.ua/sobytiya/conferentsya-mikrotik-user-meeting"
+    },
+    {
+     "dim": "KP",
+     "quote": "Юлія Ратушна, Керівник групи продакт-менеджерів ELKO Ukraine(Micro Focus 合作新闻原声)",
+     "source": "https://www.elko.ua/novosti2/elko-ukraina-predlozhila-partneram-luchshiye-v-otrasli-servisy-i-po-micro-focus"
+    },
+    {
+     "dim": "史谱",
+     "quote": "ELKO Group 1993 Riga 创;1998 进入乌克兰市场;在东欧/独联体 9 国 24 办公室",
+     "source": "https://compu.fandom.com/uk/wiki/ELKO"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Юлія Ратушна(PM 组长 P0+)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "PM 组长 → 24 口 PoE(MT 空档补位)",
+     "question": "贵司网件谱中 MT 未盖的工业/大 PoE 位由哪条品牌线铺?",
+     "proof": "elko.ua/MUM 档 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · 集团分层谱位",
+     "push": "STI-288GPM/424",
+     "angle": "ELKO 集团谱系(批10 已钉)",
+     "question": "乌司 vs 集团采购层级?",
+     "proof": "批10 ELKO Eesti 档"
+    },
+    {
+     "stage": "第 3 次跟进 · MUM 基辅窗",
+     "push": "STC-28DGGPM",
+     "angle": "下届 MUM 展位邻",
+     "question": "展会谱口节奏?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "ELKO Group 1993 Riga;$2B+;乌司 1998 入",
+     "②芯片/型号": "40k SKU 全谱+MikroTik 官方位",
+     "③KP 深挖": "Юлія Ратушна(PM 组长)+集团层(批10 钉)",
+     "④Saga 对标": "同谱竞合 → 24 口 PoE 补位(非 MT 空档)",
+     "⑤在乎与偏好": "乌语档;GTDC/上市合规;集团分层",
+     "⑥SWOT": "S=$2B 集团乌司+40k SKU=巨头谱堂/W=MikroTik 官方位=同谱竞合红线/O=MT 空档补位=正口/T=竞合注:硬冲 MT 线必败"
+    },
+    "care": "- **S**:$2B 集团乌司+40k SKU=巨头谱堂\n- **W**:MikroTik 官方位=同谱竞合红线\n- **O**:MT 空档补位=正口\n- **T**:竞合注:硬冲 MT 线必败",
+    "swot": {
+     "S": "$2B 集团乌司+40k SKU=巨头谱堂",
+     "W": "MikroTik 官方位=同谱竞合红线",
+     "O": "MT 空档补位=正口",
+     "T": "竞合注:硬冲 MT 线必败"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户",
+    "gap_proof": "https://www.elko.ua/pro-nas/"
+   },
+   "unknowns": [
+    "同谱竞合注:MikroTik 官方分销",
+    "报价策略=补位不硬冲",
+    "乌司址双窗(Охтирський新/Козацька旧)"
+   ],
+   "unknowns56": [
+    "同谱竞合注:MikroTik 官方分销",
+    "报价策略=补位不硬冲",
+    "乌司址双窗(Охтирський新/Козацька旧)"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批13 B 类",
+   "email": "Dear Yuliia,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a complement line for portfolios where MikroTik has no direct SKU (industrial/high-PoE access). Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**KP=Юлія Ратушна(PM 组长 P0+)+elko@elko.ua 台口;同谱竞合注**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "ELKO Group 1993 Riga;$2B+;乌司 1998 入",
+    "芯片与在用型号": "40k SKU 全谱+MikroTik 官方位",
+    "关键人KP": "Юлія Ратушна(PM 组长)+集团层(批10 钉)",
+    "关注点与资质": "同谱竞合 → 24 口 PoE 补位(非 MT 空档)",
+    "优缺点SWOT": "S=$2B 集团乌司+40k SKU=巨头谱堂·W=MikroTik 官方位=同谱竞合红线·O=MT 空档补位=正口·T=竞合注:硬冲 MT 线必败",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):乌语档;GTDC/上市合规;集团分层"
+   },
+   "swot_text": "- **S**:$2B 集团乌司+40k SKU=巨头谱堂\n- **W**:MikroTik 官方位=同谱竞合红线\n- **O**:MT 空档补位=正口\n- **T**:竞合注:硬冲 MT 线必败",
+   "facts": [
+    {
+     "dim": "谱档",
+     "text": "ELKO Ukraine – дистрибютор широкого асортименту IT продуктів, споживчої електроніки та побутової техніки;Оборот ELKO Group перевищує 2 мільярди доларів США;03195, Київ, провулок Охтирський, 7, корпус 2, літера «Б», офіс 2H-301(Б);+38 044 461 9670;elko@elko.ua",
+     "quote": "ELKO Ukraine – дистрибютор широкого асортименту IT продуктів, споживчої електроніки та побутової техніки;Оборот ELKO Group перевищує 2 мільярди доларів США;03195, Київ, провулок Охтирський, 7, корпус 2, літера «Б», офіс 2H-301(Б);+38 044 461 9670;elko@elko.ua",
+     "url": "https://www.elko.ua/pro-nas/"
+    },
+    {
+     "dim": "谱档",
+     "text": "ELKO Group стала членом обєднання Global Technology Distribution Council, GTDC;Облігації компанії розміщені на біржі Nasdaq Baltic",
+     "quote": "ELKO Group стала членом обєднання Global Technology Distribution Council, GTDC;Облігації компанії розміщені на біржі Nasdaq Baltic",
+     "url": "https://www.elko.ua/pro-nas/"
+    },
+    {
+     "dim": "谱档",
+     "text": "ELKO Ukraine - дистрибютор MikroTik в Україні;Запрошуємо на стенд ELKO в межах зустрічі користувачів MikroTik MUM Fairmont Grand Hotel Kyiv",
+     "quote": "ELKO Ukraine - дистрибютор MikroTik в Україні;Запрошуємо на стенд ELKO в межах зустрічі користувачів MikroTik MUM Fairmont Grand Hotel Kyiv",
+     "url": "https://www.elko.ua/sobytiya/conferentsya-mikrotik-user-meeting"
+    },
+    {
+     "dim": "KP",
+     "text": "Юлія Ратушна, Керівник групи продакт-менеджерів ELKO Ukraine(Micro Focus 合作新闻原声)",
+     "quote": "Юлія Ратушна, Керівник групи продакт-менеджерів ELKO Ukraine(Micro Focus 合作新闻原声)",
+     "url": "https://www.elko.ua/novosti2/elko-ukraina-predlozhila-partneram-luchshiye-v-otrasli-servisy-i-po-micro-focus"
+    },
+    {
+     "dim": "史谱",
+     "text": "ELKO Group 1993 Riga 创;1998 进入乌克兰市场;在东欧/独联体 9 国 24 办公室",
+     "quote": "ELKO Group 1993 Riga 创;1998 进入乌克兰市场;在东欧/独联体 9 国 24 办公室",
+     "url": "https://compu.fandom.com/uk/wiki/ELKO"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批13·B-011:乌网深挖(elko.ua/compu wiki/EBA 三源互证):**ELKO Group=拉脱维亚 Riga 1993 创,GTDC(全球科技分销理事会)成员,债券上 Nasdaq Baltic,年营收超 $2B;1998 年进入乌克兰市场**;乌司址=Kyiv пров. Охтирський 7 к.2 літ.Б оф.2H-301 03195(新档)/вул. Козацька 120/4 03022(旧档双窗);+38 044 461 9670;elko@elko.ua;**40,000+ SKU(IT/消费电子/家电全谱);参展 MikroTik User Meeting 基辅 Fairmont=乌克兰 MikroTik 官方分销位**;谱系注=本批 B-285 ELKO Eesti(€380M)、批10-ELKO 系同集团,爱沙尼亚/斯洛伐克(WESTech 51%)分体已深挖,乌司补全 ELKO 东欧网。**KP=Юлія Ратушна(Керівник групи продакт-менеджерів ELKO Ukraine=产品经理组长,官网新闻原声 P0+)**;**谱位=同谱竞合:分销含 MikroTik 线,对我方=生态情报+集团分层谱位(非直谱客)=巨头谱堂协同注**。",
+    "inference": "R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-012",
+   "code": "B-012",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批13·B-012:乌网深挖(opendatabot/youcontrol/compu wiki/EBA 四源互证):**ІНОЗЕМНЕ ПІДПРИЄМСТВО «І-АР-СІ»(FOREIGN COMPANY «ERC»);ЄДРПОУ 38204199**;乌司注册 2012-04-19;вул. Марка Вовчка 18А, 04073 Kyiv;授权资本 ₴5,589,500;КВЕД 46.51(电脑批发);**集团谱=ERC 分销 1995 年乌知名;国际控股 ERC registered in Austria;业务国=阿塞拜疆/格鲁吉亚/哈萨克/立陶宛/摩尔多瓦/乌克兰/乌兹别克斯坦+瑞士运营司+奥地利控股司;EBA(欧洲商业协会)会员 2021;25th Birthday Star**;乌基设=Own 单一领地办公+物流综合体+服务/培训中心(EBA 原声「no analogues in Eastern Europe」);服务网 50+ 授权服务伙伴全乌。**KP=Іщенко Вадим Антонович(乌司 Diректор+Authorized person+UBO 三职 P0)+集团层=Андрій Дегода(President ERC group)+Кадулін Сергій(Apple 分销部总监)+Колос Сергій(笔记本/PC 部总监)**;电话 230 3474/390 5510;erc.ua。**谱位=31 年分销巨头+MikroTik VAD 位(库档标)=同谱竞合注+VAD 服务网=补位谱口**。",
+   "inference": "R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://opendatabot.ua/c/38204199",
+   "tech": "FC «ERC» ЄДРПОУ 38204199;1995 创 31 年分销巨头;奥地利控股",
+   "hr": "31 年(1995);Austria holding;7 国+瑞士",
+   "contact_found": "**KP=Іщенко Вадим Антонович(董事+授权人+UBO 三职 P0)+Андрій Дегода(集团 President)+Кадулін Сергій(Apple 分销总监)+Колос Сергій(PC 部总监)=四锚**",
+   "contact_pending": "erc.ua 台口;(044) 230 3474/390 5510;EBA 会员窗",
+   "dims": {
+    "业务定位": "ERC / FC «І-АР-СІ»(Kyiv,1995 创 31 年,奥地利控股)",
+    "产品线与在售品牌": "IT/CE 全国分销+50 服务伙伴网+企业方案",
+    "目标行业与场景": "全乌 B2B+国企+零售;VAD 服务谱",
+    "团队与规模": "自领地物流/服务/培训综合体(EBA 原声东欧无双)",
+    "决策链与对接人": "Іщенко Вадим(P0 三职)+Дегода(集团 Pres)+Кадулін/Колос(部总)",
+    "技术与认证": "ЄДРПОУ 38204199;VAT 谱;EBA 2021;",
+    "采购与供应链信号": "**MikroTik VAD 位(库档)=同谱竞合+企业网谱口**",
+    "近期动态与线索": "7 国集团+瑞士司=跨境谱哺",
+    "与我方契合点": "Іщенко(UBO)→ 24 口 PoE(VAD 补位)",
+    "风险与注意": "**同谱竞合注:补位不硬冲;奥地利控股谱**"
+   },
+   "evidence": [
+    {
+     "dim": "谱档",
+     "quote": "ІП «І-АР-СІ»;Код ЄДРПОУ 38204199;FOREIGN COMPANY «ERC»;04073, Київ, вул. Марка Вовчка, 18А;Дата заснування 19.04.2012;Директор Іщенко Вадим Антонович;Статутний капітал 5 589 500 ₴",
+     "source": "https://opendatabot.ua/c/38204199"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Ultimate beneficial owner (controller) — Іщенко Вадим Антонович;Founders — АТ ЗАКРИТИЙ НЕДИВЕРСИФІКОВАНИЙ ВКІФ «ФОРІНТ»;main line 46.51 Wholesale of computers",
+     "source": "https://youcontrol.com.ua/en/catalog/company_details/38204199/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "ERC is a professional international-level distributor, registered in Austria since 1995 well-known in Ukraine;offices in Azerbaijan, Georgia, Kazakhstan, Lithuania, Moldova, Ukraine, Uzbekistan, operating in Switzerland and holding in Austria;In Association(EBA)since 2021;Chief: Vadym Ishchenko",
+     "source": "https://eba.com.ua/en/member/inozemne-pidpryyemstvo-i-ar-si/"
+    },
+    {
+     "dim": "KP",
+     "quote": "Андрій Дегода — президент групи компаній ERC;Кадулін Сергій — директор департаменту дистрибуції Apple;Колос Сергій — директор дивізіону ноутбуків і ПК",
+     "source": "https://compu.fandom.com/uk/wiki/ERC"
+    },
+    {
+     "dim": "谱档",
+     "quote": "ERC заснована 1995;сервісна мережа 50+ авторизованих сервіс-партнерів у всіх областях;вул.Марка Вовчка, 18а;Тел.: 230 3474; 390 5510",
+     "source": "https://compu.fandom.com/uk/wiki/ERC"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Іщенко Вадим(乌司 UBO P0)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "UBO → 24 口 PoE(VAD 补位)",
+     "question": "贵司企业网 VAD 谱的 24 口 PoE 档由哪位铺?",
+     "proof": "opendatabot/EBA 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · 集团层(Дегода President)",
+     "push": "STI-288GPM/424",
+     "angle": "奥地利控股 7 国谱",
+     "question": "乌司独立采购 vs 集团统筹?",
+     "proof": "EBA 档"
+    },
+    {
+     "stage": "第 3 次跟进 · 7 国分体谱",
+     "push": "STC-28DGGPM",
+     "angle": "中亚/高加索分体",
+     "question": "哈萨克/格鲁吉亚分体铺口?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1995 创 31 年;ЄДРПОУ 38204199;奥地利控股",
+     "②芯片/型号": "IT/CE 分销+VAD 服务;46.51 电脑批发",
+     "③KP 深挖": "Іщенко(三职 P0)+Дегода(集团 Pres)+2 部总",
+     "④Saga 对标": "同谱竞合 → 24 口 PoE(VAD 补位)",
+     "⑤在乎与偏好": "乌语档;EBA 会员;50 服务网",
+     "⑥SWOT": "S=31 年巨头+奥地利控股+7 国谱=金矿/W=MikroTik VAD=同谱竞合/O=VAD 补位+7 国分体=双口/T=竞合红线注"
+    },
+    "care": "- **S**:31 年巨头+奥地利控股+7 国谱=金矿\n- **W**:MikroTik VAD=同谱竞合\n- **O**:VAD 补位+7 国分体=双口\n- **T**:竞合红线注",
+    "swot": {
+     "S": "31 年巨头+奥地利控股+7 国谱=金矿",
+     "W": "MikroTik VAD=同谱竞合",
+     "O": "VAD 补位+7 国分体=双口",
+     "T": "竞合红线注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户",
+    "gap_proof": "https://opendatabot.ua/c/38204199"
+   },
+   "unknowns": [
+    "同谱竞合注(MikroTik VAD 库档)",
+    "集团谱谱谱位:乌司 vs 奥地利控股层",
+    "电话 230 3474/390 5510 档"
+   ],
+   "unknowns56": [
+    "同谱竞合注(MikroTik VAD 库档)",
+    "集团谱谱谱位:乌司 vs 奥地利控股层",
+    "电话 230 3474/390 5510 档"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批13 B 类",
+   "email": "Dear Vadym,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a complement for enterprise-network VAD portfolios. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**KP=Іщенко Вадим(UBO 三职 P0)+Дегода(集团 Pres);同谱竞合注**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "1995 创 31 年;ЄДРПОУ 38204199;奥地利控股",
+    "芯片与在用型号": "IT/CE 分销+VAD 服务;46.51 电脑批发",
+    "关键人KP": "Іщенко(三职 P0)+Дегода(集团 Pres)+2 部总",
+    "关注点与资质": "同谱竞合 → 24 口 PoE(VAD 补位)",
+    "优缺点SWOT": "S=31 年巨头+奥地利控股+7 国谱=金矿·W=MikroTik VAD=同谱竞合·O=VAD 补位+7 国分体=双口·T=竞合红线注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):乌语档;EBA 会员;50 服务网"
+   },
+   "swot_text": "- **S**:31 年巨头+奥地利控股+7 国谱=金矿\n- **W**:MikroTik VAD=同谱竞合\n- **O**:VAD 补位+7 国分体=双口\n- **T**:竞合红线注",
+   "facts": [
+    {
+     "dim": "谱档",
+     "text": "ІП «І-АР-СІ»;Код ЄДРПОУ 38204199;FOREIGN COMPANY «ERC»;04073, Київ, вул. Марка Вовчка, 18А;Дата заснування 19.04.2012;Директор Іщенко Вадим Антонович;Статутний капітал 5 589 500 ₴",
+     "quote": "ІП «І-АР-СІ»;Код ЄДРПОУ 38204199;FOREIGN COMPANY «ERC»;04073, Київ, вул. Марка Вовчка, 18А;Дата заснування 19.04.2012;Директор Іщенко Вадим Антонович;Статутний капітал 5 589 500 ₴",
+     "url": "https://opendatabot.ua/c/38204199"
+    },
+    {
+     "dim": "谱档",
+     "text": "Ultimate beneficial owner (controller) — Іщенко Вадим Антонович;Founders — АТ ЗАКРИТИЙ НЕДИВЕРСИФІКОВАНИЙ ВКІФ «ФОРІНТ»;main line 46.51 Wholesale of computers",
+     "quote": "Ultimate beneficial owner (controller) — Іщенко Вадим Антонович;Founders — АТ ЗАКРИТИЙ НЕДИВЕРСИФІКОВАНИЙ ВКІФ «ФОРІНТ»;main line 46.51 Wholesale of computers",
+     "url": "https://youcontrol.com.ua/en/catalog/company_details/38204199/"
+    },
+    {
+     "dim": "谱档",
+     "text": "ERC is a professional international-level distributor, registered in Austria since 1995 well-known in Ukraine;offices in Azerbaijan, Georgia, Kazakhstan, Lithuania, Moldova, Ukraine, Uzbekistan, operating in Switzerland and holding in Austria;In Association(EBA)since 2021;Chief: Vadym Ishchenko",
+     "quote": "ERC is a professional international-level distributor, registered in Austria since 1995 well-known in Ukraine;offices in Azerbaijan, Georgia, Kazakhstan, Lithuania, Moldova, Ukraine, Uzbekistan, operating in Switzerland and holding in Austria;In Association(EBA)since 2021;Chief: Vadym Ishchenko",
+     "url": "https://eba.com.ua/en/member/inozemne-pidpryyemstvo-i-ar-si/"
+    },
+    {
+     "dim": "KP",
+     "text": "Андрій Дегода — президент групи компаній ERC;Кадулін Сергій — директор департаменту дистрибуції Apple;Колос Сергій — директор дивізіону ноутбуків і ПК",
+     "quote": "Андрій Дегода — президент групи компаній ERC;Кадулін Сергій — директор департаменту дистрибуції Apple;Колос Сергій — директор дивізіону ноутбуків і ПК",
+     "url": "https://compu.fandom.com/uk/wiki/ERC"
+    },
+    {
+     "dim": "谱档",
+     "text": "ERC заснована 1995;сервісна мережа 50+ авторизованих сервіс-партнерів у всіх областях;вул.Марка Вовчка, 18а;Тел.: 230 3474; 390 5510",
+     "quote": "ERC заснована 1995;сервісна мережа 50+ авторизованих сервіс-партнерів у всіх областях;вул.Марка Вовчка, 18а;Тел.: 230 3474; 390 5510",
+     "url": "https://compu.fandom.com/uk/wiki/ERC"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批13·B-012:乌网深挖(opendatabot/youcontrol/compu wiki/EBA 四源互证):**ІНОЗЕМНЕ ПІДПРИЄМСТВО «І-АР-СІ»(FOREIGN COMPANY «ERC»);ЄДРПОУ 38204199**;乌司注册 2012-04-19;вул. Марка Вовчка 18А, 04073 Kyiv;授权资本 ₴5,589,500;КВЕД 46.51(电脑批发);**集团谱=ERC 分销 1995 年乌知名;国际控股 ERC registered in Austria;业务国=阿塞拜疆/格鲁吉亚/哈萨克/立陶宛/摩尔多瓦/乌克兰/乌兹别克斯坦+瑞士运营司+奥地利控股司;EBA(欧洲商业协会)会员 2021;25th Birthday Star**;乌基设=Own 单一领地办公+物流综合体+服务/培训中心(EBA 原声「no analogues in Eastern Europe」);服务网 50+ 授权服务伙伴全乌。**KP=Іщенко Вадим Антонович(乌司 Diректор+Authorized person+UBO 三职 P0)+集团层=Андрій Дегода(President ERC group)+Кадулін Сергій(Apple 分销部总监)+Колос Сергій(笔记本/PC 部总监)**;电话 230 3474/390 5510;erc.ua。**谱位=31 年分销巨头+MikroTik VAD 位(库档标)=同谱竞合注+VAD 服务网=补位谱口**。",
+    "inference": "R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-018",
+   "code": "B-018",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批13·B-018:乌网深挖(opendatabot/wiki×2/thepage/findglocal 五源互证):**ТОВ «МТІ»;ЄДРПОУ 13669756;1991-02-25 创(法司 1992-09-29 注册),2026=35 周年集团档**;Б. Лесі Українки 4, 01001 Kyiv;资本 ₴541.6M(thepage 档 ₴39M 时老双窗);ПДВ 136697526106;**2016 营收 ₴6B/净利 ₴129M;纳税 2017≈₴2B;80+ 国际厂商;800+ 乌伙伴;400+ 企业网/云/基建项目**;**2024-02-15 获乌克兰海关 №215 令=乌首家电子/IT 分销 AEO-C(授权经济运营商)!**;MTI hi-tech:2002 乌首个 B2B 分销门户;1996 IT 分销线(Sharp/IBM/Epson);AEO 谱=**谱口谱:分销 MikroTik 官方位(库档 Master+VAD)=同谱竞合注**。所有者=ТОВ «МТІ ІНВЕСТМЕНТС»89.74%+Niku Holding Ltd(塞);**KP=Володимир Цой(President/创始人 1991 同学共创,CEO Club Ukraine icipant P0)+Сергій Башлаков(Віце-президент+受益人档)+Борис Белянський(ТОВ МТІ Director+MTI hi-tech 关键人)+Сергій Яковлєв+Руслан Андрійчук(hi-tech 关键人档)**;**谱位=35 年巨头+AEO 独家+企业网 400 项目=批 13 最大金矿;同谱竞合注:企业网项目件(VAD)补位口**。",
+   "inference": "R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://opendatabot.ua/c/13669756",
+   "tech": "ТОВ МТІ ЄДРПОУ 13669756;35 年巨头;₴6B 营收;乌首家 AEO-C",
+   "hr": "35 年(1991);80+ 厂商;800+ 伙伴;AEO-C 2024 首家",
+   "contact_found": "**KP=Володимир Цой(President+创始人 P0)+Сергій Башлаков(Vice-President+受益人)+Борис Белянський(ТОВ МТІ Director)+Яковлєв/Андрійчук(hi-tech 关键)=五锚**",
+   "contact_pending": "products.mti.ua 门户谱;wiki/thepage 双窗 KP 钉全",
+   "dims": {
+    "业务定位": "MTI(Kyiv,1991 创 35 年,乌首家 AEO-C)",
+    "产品线与在售品牌": "MTI hi-tech IT 分销+企业网/云 400 项目+VAD 谱",
+    "目标行业与场景": "乌全国 800 伙伴+国企/零售;哈萨克分体",
+    "团队与规模": "数千员(集团);35 年巨头",
+    "决策链与对接人": "Цой(Pres)+Башлаков(VP)+Белянський(Dir)+Яковлєв+Андрійчук",
+    "技术与认证": "ЄДРПОУ 13669756;AEO-C 2024 №215 令",
+    "采购与供应链信号": "**企业网 400 项目=24 口 PoE VAD 补位金矿口**",
+    "近期动态与线索": "Niku Holding(塞)受益谱",
+    "与我方契合点": "Белянський(Dir)→ 24 口 PoE(hi-tech 补位)",
+    "风险与注意": "**同谱竞合注:MikroTik 官方分销位,补位不硬冲**"
+   },
+   "evidence": [
+    {
+     "dim": "谱档",
+     "quote": "ТОВ МТІ;Код ЄДРПОУ 13669756;01001 Київ, Б. Лесі Українки 4;Дата заснування 29.09.1992;Директор Белянський Борис Вікторович;Статутний капітал 541 600 000 ₴;Платник ПДВ 136697526106;Активи(2025)3 610 418 000 ₴",
+     "source": "https://opendatabot.ua/c/13669756"
+    },
+    {
+     "dim": "谱档",
+     "quote": "MTI заснована 25 лютого 1991;Ключові особи: Володимир Цой(президент), Башлаков Сергій(віце-президент);2024-02-15 Наказ №215 — МТІ першою серед українських компаній у сегменті дистрибуції електроніки, IT та побутової техніки отримала статус AEO-C",
+     "source": "https://uk.wikipedia.org/wiki/MTI"
+    },
+    {
+     "dim": "谱档",
+     "quote": "MTI hi-tech дистрибуція: імпортер та дистрибутор IT-товарів;з 1991;понад 800 партнерів;ключові особи: Борис Белянський, Сергій Яковлєв, Руслан Андрійчук;2002 — перший в Україні B2B портал IT-дистрибуції",
+     "source": "https://uk.wikipedia.org/wiki/MTI_hi-tech_дистрибуція"
+    },
+    {
+     "dim": "谱档",
+     "quote": "35 років МТІ;понад 400 реалізованих комплексних проєктів у сферах корпоративних мереж, хмарних сервісів;Володимир Цой, президент Групи MTI Group(2026 findglocal 档)",
+     "source": "https://www.findglocal.com/UA/Kyiv/174448122762762/MTI-Group"
+    },
+    {
+     "dim": "谱档",
+     "quote": "2016: виручка 6 млрд грн, чистий прибуток 129 млн грн;податкові відрахування групи 2017 ≈ 2 млрд грн(великі платники)",
+     "source": "https://en.thepage.ua/dossier/mti"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Борис Белянський(ТОВ МТІ Director)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "hi-tech 总监 → 24 口 PoE(VAD 补位)",
+     "question": "400 企业网项目的接入层 PoE 选型由哪位谱?",
+     "proof": "opendatabot/wiki 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Цой President 层/Андрійчук(hi-tech)",
+     "push": "STI-288GPM/424",
+     "angle": "集团谱口+hi-tech 部",
+     "question": "集团采购层级 vs hi-tech 独立?",
+     "proof": "thepage 档"
+    },
+    {
+     "stage": "第 3 次跟进 · AEO-C 谱口",
+     "push": "STC-28DGGPM",
+     "angle": "乌首家 AEO=物流谱锚",
+     "question": "中亚(哈萨克)分体铺口?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1991 创 35 年;ЄДРПОУ 13669756;₴6B 营收",
+     "②芯片/型号": "MTI hi-tech IT 分销+B2B 门户+企业网 400 项目",
+     "③KP 深挖": "Цой/Башлаков/Белянський/Яковлєв/Андрійчук 五锚",
+     "④Saga 对标": "企业网 VAD → 24 口 PoE 补位",
+     "⑤在乎与偏好": "乌语档;AEO 合规;35 年信任谱",
+     "⑥SWOT": "S=35 年巨头+AEO 独家+400 企业网项目=批 13 最大金矿/W=MikroTik 官方位=同谱竞合红线/O=VAD 企业网补位=正口/T=竞合注:补位谱策"
+    },
+    "care": "- **S**:35 年巨头+AEO 独家+400 企业网项目=批 13 最大金矿\n- **W**:MikroTik 官方位=同谱竞合红线\n- **O**:VAD 企业网补位=正口\n- **T**:竞合注:补位谱策",
+    "swot": {
+     "S": "35 年巨头+AEO 独家+400 企业网项目=批 13 最大金矿",
+     "W": "MikroTik 官方位=同谱竞合红线",
+     "O": "VAD 企业网补位=正口",
+     "T": "竞合注:补位谱策"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户",
+    "gap_proof": "https://opendatabot.ua/c/13669756"
+   },
+   "unknowns": [
+    "同谱竞合注(MikroTik Master+VAD 库档)",
+    "资本 ₴541.6M vs 39M 双窗时老注",
+    "products.mti.ua 门户=B2B 谱锚"
+   ],
+   "unknowns56": [
+    "同谱竞合注(MikroTik Master+VAD 库档)",
+    "资本 ₴541.6M vs 39M 双窗时老注",
+    "products.mti.ua 门户=B2B 谱锚"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批13 B 类",
+   "email": "Dear Borys,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a complement line for your 400+ enterprise-network projects where MT lines end. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**KP=Цой(Pres)+Башлаков(VP)+Белянський(Dir) 三锚;同谱竞合注**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "1991 创 35 年;ЄДРПОУ 13669756;₴6B 营收",
+    "芯片与在用型号": "MTI hi-tech IT 分销+B2B 门户+企业网 400 项目",
+    "关键人KP": "Цой/Башлаков/Белянський/Яковлєв/Андрійчук 五锚",
+    "关注点与资质": "企业网 VAD → 24 口 PoE 补位",
+    "优缺点SWOT": "S=35 年巨头+AEO 独家+400 企业网项目=批 13 最大金矿·W=MikroTik 官方位=同谱竞合红线·O=VAD 企业网补位=正口·T=竞合注:补位谱策",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):乌语档;AEO 合规;35 年信任谱"
+   },
+   "swot_text": "- **S**:35 年巨头+AEO 独家+400 企业网项目=批 13 最大金矿\n- **W**:MikroTik 官方位=同谱竞合红线\n- **O**:VAD 企业网补位=正口\n- **T**:竞合注:补位谱策",
+   "facts": [
+    {
+     "dim": "谱档",
+     "text": "ТОВ МТІ;Код ЄДРПОУ 13669756;01001 Київ, Б. Лесі Українки 4;Дата заснування 29.09.1992;Директор Белянський Борис Вікторович;Статутний капітал 541 600 000 ₴;Платник ПДВ 136697526106;Активи(2025)3 610 418 000 ₴",
+     "quote": "ТОВ МТІ;Код ЄДРПОУ 13669756;01001 Київ, Б. Лесі Українки 4;Дата заснування 29.09.1992;Директор Белянський Борис Вікторович;Статутний капітал 541 600 000 ₴;Платник ПДВ 136697526106;Активи(2025)3 610 418 000 ₴",
+     "url": "https://opendatabot.ua/c/13669756"
+    },
+    {
+     "dim": "谱档",
+     "text": "MTI заснована 25 лютого 1991;Ключові особи: Володимир Цой(президент), Башлаков Сергій(віце-президент);2024-02-15 Наказ №215 — МТІ першою серед українських компаній у сегменті дистрибуції електроніки, IT та побутової техніки отримала статус AEO-C",
+     "quote": "MTI заснована 25 лютого 1991;Ключові особи: Володимир Цой(президент), Башлаков Сергій(віце-президент);2024-02-15 Наказ №215 — МТІ першою серед українських компаній у сегменті дистрибуції електроніки, IT та побутової техніки отримала статус AEO-C",
+     "url": "https://uk.wikipedia.org/wiki/MTI"
+    },
+    {
+     "dim": "谱档",
+     "text": "MTI hi-tech дистрибуція: імпортер та дистрибутор IT-товарів;з 1991;понад 800 партнерів;ключові особи: Борис Белянський, Сергій Яковлєв, Руслан Андрійчук;2002 — перший в Україні B2B портал IT-дистрибуції",
+     "quote": "MTI hi-tech дистрибуція: імпортер та дистрибутор IT-товарів;з 1991;понад 800 партнерів;ключові особи: Борис Белянський, Сергій Яковлєв, Руслан Андрійчук;2002 — перший в Україні B2B портал IT-дистрибуції",
+     "url": "https://uk.wikipedia.org/wiki/MTI_hi-tech_дистрибуція"
+    },
+    {
+     "dim": "谱档",
+     "text": "35 років МТІ;понад 400 реалізованих комплексних проєктів у сферах корпоративних мереж, хмарних сервісів;Володимир Цой, президент Групи MTI Group(2026 findglocal 档)",
+     "quote": "35 років МТІ;понад 400 реалізованих комплексних проєктів у сферах корпоративних мереж, хмарних сервісів;Володимир Цой, президент Групи MTI Group(2026 findglocal 档)",
+     "url": "https://www.findglocal.com/UA/Kyiv/174448122762762/MTI-Group"
+    },
+    {
+     "dim": "谱档",
+     "text": "2016: виручка 6 млрд грн, чистий прибуток 129 млн грн;податкові відрахування групи 2017 ≈ 2 млрд грн(великі платники)",
+     "quote": "2016: виручка 6 млрд грн, чистий прибуток 129 млн грн;податкові відрахування групи 2017 ≈ 2 млрд грн(великі платники)",
+     "url": "https://en.thepage.ua/dossier/mti"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批13·B-018:乌网深挖(opendatabot/wiki×2/thepage/findglocal 五源互证):**ТОВ «МТІ»;ЄДРПОУ 13669756;1991-02-25 创(法司 1992-09-29 注册),2026=35 周年集团档**;Б. Лесі Українки 4, 01001 Kyiv;资本 ₴541.6M(thepage 档 ₴39M 时老双窗);ПДВ 136697526106;**2016 营收 ₴6B/净利 ₴129M;纳税 2017≈₴2B;80+ 国际厂商;800+ 乌伙伴;400+ 企业网/云/基建项目**;**2024-02-15 获乌克兰海关 №215 令=乌首家电子/IT 分销 AEO-C(授权经济运营商)!**;MTI hi-tech:2002 乌首个 B2B 分销门户;1996 IT 分销线(Sharp/IBM/Epson);AEO 谱=**谱口谱:分销 MikroTik 官方位(库档 Master+VAD)=同谱竞合注**。所有者=ТОВ «МТІ ІНВЕСТМЕНТС»89.74%+Niku Holding Ltd(塞);**KP=Володимир Цой(President/创始人 1991 同学共创,CEO Club Ukraine icipant P0)+Сергій Башлаков(Віце-президент+受益人档)+Борис Белянський(ТОВ МТІ Director+MTI hi-tech 关键人)+Сергій Яковлєв+Руслан Андрійчук(hi-tech 关键人档)**;**谱位=35 年巨头+AEO 独家+企业网 400 项目=批 13 最大金矿;同谱竞合注:企业网项目件(VAD)补位口**。",
+    "inference": "R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-021",
+   "code": "B-021",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批13·B-021:乌网深挖(omnilink.ua 官网双页互证):**OmniLink «Power of Communication»=спеціалізований постачальник телекомунікаційного обладнання і високотехнологічних рішень для операторів зв'язку і інтернет провайдерів України**(运营商与 ISP 专业设备供应商,官网 schema 原声);址=вул. Авіаконструктора І. Сікорського 8, ОЦ «Флора Парк», оф.30, 5-й поверх(праве крило), 04112 Kyiv;+38 044 359 07 70(兼传真);sale@omnilink.com.ua;**谱面=专业深谱:GPON-концентратори(OLT)+мукспондери+мультиплексори PDH+DWDM 系统+транспондери Pizza-Box+QSFP+ 光模块+SFP+/DDOS 防护系统+操作系统+радіо+CPE+маршрутизатори+комутатори(MikroTik CRS305 等新品谱档)**;**谱位=运营商/ISP 专业光纤+回传谱金矿(非一般分销)=批 13 专业金矿;MikroTik Reseller 位(库档)=生态位注非竞合红线**。**KP=官网未公名=守档注(具名待 LinkedIn/名录窗补)**。",
+   "inference": "R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://omnilink.ua/novinki-vid-mikrotik/",
+   "tech": "运营商/ISP 专业电信设备分销;GPON/DWDM/xWDM/QSFP+ 深谱",
+   "hr": "Kyiv Флора Парк 档;运营商客户面",
+   "contact_found": "**KP=官网未公名=守档注(具名待补)**",
+   "contact_pending": "sale@omnilink.com.ua 台口+38 044 359 07 70",
+   "dims": {
+    "业务定位": "Omnilink(Kyiv,运营商级电信设备专业分销)",
+    "产品线与在售品牌": "GPON OLT/DWDM/muxponder/QSFP+/路由/交换/CPE/DDOS 防",
+    "目标行业与场景": "运营商+ISP 客户面(乌克兰)",
+    "团队与规模": "专业铺(规模未公)",
+    "决策链与对接人": "KP 守档(未公名)",
+    "技术与认证": "官网谱档;MikroTik CRS305 新品谱",
+    "采购与供应链信号": "**DWDM/GPON 铺前端的接入件(PoE)=配套口=专业金矿**",
+    "近期动态与线索": "运营商谱=账期/标案节奏",
+    "与我方契合点": "sale@ 台口 → 24 口 PoE(ISP 接入配套)",
+    "风险与注意": "**KP 守档注;MikroTik Reseller 生态位注**"
+   },
+   "evidence": [
+    {
+     "dim": "谱档",
+     "quote": "OmniLink Power of Communication;спеціалізований постачальник телекомунікаційного обладнання і високотехнологічних рішень для операторів зв'язку і інтернет провайдерів України",
+     "source": "https://omnilink.ua/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Контакти: вул. Авіаконструктора І. Сікорського, 8, ОЦ «Флора Парк», оф. 30, 5-й поверх (праве крило) 04112, Київ;Телефон/факс +38 044 359 07 70;E-mail sale@omnilink.com.ua",
+     "source": "https://omnilink.ua/novinki-vid-mikrotik/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Новинки від Mikrotik: CRS305 — компактний комутатор на чотири порти SFP+;10G-дзеркалювання трафіку;регенерація хвиль xWDM(官网 MikroTik 新品谱档)",
+     "source": "https://omnilink.ua/novinki-vid-mikrotik/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Комутатори;Маршрутизатори;GPON-концентратори;Мукспондери;Мультиплексори PDH;Системи ущільнення DWDM;Транспондери Pizza-Box;Оптичні модулі QSFP+;Системи захисту від DDos;Операційна система;Радіообладнання;CPE",
+     "source": "https://omnilink.ua/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · sale@omnilink.com.ua 台口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "ISP 接入配套口",
+     "question": "贵司给 ISP 的 GPON/DWDM 项目,前端接入层 PoE 件由哪位谱?",
+     "proof": "omnilink 官双页"
+    },
+    {
+     "stage": "第 2 次跟进 · 具名窗(LinkedIn/名录补)",
+     "push": "STI-288GPM/424",
+     "angle": "具名谱窗",
+     "question": "Product/Owner 具名?",
+     "proof": "守档注"
+    },
+    {
+     "stage": "第 3 次跟进 · 运营商标案谱",
+     "push": "STC-28DGGPM",
+     "angle": "运营商账期/标口",
+     "question": "运营商标案节奏?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Kyiv Флора Парк;运营商/ISP 专业位",
+     "②芯片/型号": "GPON OLT+DWDM+QSFP++CRS305 类深谱",
+     "③KP 深挖": "守档(官网未公名)",
+     "④Saga 对标": "ISP 前端接入 → 24 口 PoE 配套",
+     "⑤在乎与偏好": "乌/俄语档;运营商专业面;光纤谱",
+     "⑥SWOT": "S=运营商级专业分销=批 13 专业金矿/W=KP 守档注/O=ISP 接入配套=正口/T=KP 守档注"
+    },
+    "care": "- **S**:运营商级专业分销=批 13 专业金矿\n- **W**:KP 守档注\n- **O**:ISP 接入配套=正口\n- **T**:KP 守档注",
+    "swot": {
+     "S": "运营商级专业分销=批 13 专业金矿",
+     "W": "KP 守档注",
+     "O": "ISP 接入配套=正口",
+     "T": "KP 守档注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户",
+    "gap_proof": "https://omnilink.ua/"
+   },
+   "unknowns": [
+    "KP 官网未公名=守档注",
+    "MikroTik Reseller 生态位注",
+    "+38 044 359 07 70 传真兼号"
+   ],
+   "unknowns56": [
+    "KP 官网未公名=守档注",
+    "MikroTik Reseller 生态位注",
+    "+38 044 359 07 70 传真兼号"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批13 B 类",
+   "email": "Dear Sir or Madam,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a natural front-end access layer beside GPON/DWDM projects for ISPs. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**KP=官网未公名守档+sale@omnilink.com.ua 台口**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "Kyiv Флора Парк;运营商/ISP 专业位",
+    "芯片与在用型号": "GPON OLT+DWDM+QSFP++CRS305 类深谱",
+    "关键人KP": "守档(官网未公名)",
+    "关注点与资质": "ISP 前端接入 → 24 口 PoE 配套",
+    "优缺点SWOT": "S=运营商级专业分销=批 13 专业金矿·W=KP 守档注·O=ISP 接入配套=正口·T=KP 守档注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):乌/俄语档;运营商专业面;光纤谱"
+   },
+   "swot_text": "- **S**:运营商级专业分销=批 13 专业金矿\n- **W**:KP 守档注\n- **O**:ISP 接入配套=正口\n- **T**:KP 守档注",
+   "facts": [
+    {
+     "dim": "谱档",
+     "text": "OmniLink Power of Communication;спеціалізований постачальник телекомунікаційного обладнання і високотехнологічних рішень для операторів зв'язку і інтернет провайдерів України",
+     "quote": "OmniLink Power of Communication;спеціалізований постачальник телекомунікаційного обладнання і високотехнологічних рішень для операторів зв'язку і інтернет провайдерів України",
+     "url": "https://omnilink.ua/"
+    },
+    {
+     "dim": "谱档",
+     "text": "Контакти: вул. Авіаконструктора І. Сікорського, 8, ОЦ «Флора Парк», оф. 30, 5-й поверх (праве крило) 04112, Київ;Телефон/факс +38 044 359 07 70;E-mail sale@omnilink.com.ua",
+     "quote": "Контакти: вул. Авіаконструктора І. Сікорського, 8, ОЦ «Флора Парк», оф. 30, 5-й поверх (праве крило) 04112, Київ;Телефон/факс +38 044 359 07 70;E-mail sale@omnilink.com.ua",
+     "url": "https://omnilink.ua/novinki-vid-mikrotik/"
+    },
+    {
+     "dim": "谱档",
+     "text": "Новинки від Mikrotik: CRS305 — компактний комутатор на чотири порти SFP+;10G-дзеркалювання трафіку;регенерація хвиль xWDM(官网 MikroTik 新品谱档)",
+     "quote": "Новинки від Mikrotik: CRS305 — компактний комутатор на чотири порти SFP+;10G-дзеркалювання трафіку;регенерація хвиль xWDM(官网 MikroTik 新品谱档)",
+     "url": "https://omnilink.ua/novinki-vid-mikrotik/"
+    },
+    {
+     "dim": "谱档",
+     "text": "Комутатори;Маршрутизатори;GPON-концентратори;Мукспондери;Мультиплексори PDH;Системи ущільнення DWDM;Транспондери Pizza-Box;Оптичні модулі QSFP+;Системи захисту від DDos;Операційна система;Радіообладнання;CPE",
+     "quote": "Комутатори;Маршрутизатори;GPON-концентратори;Мукспондери;Мультиплексори PDH;Системи ущільнення DWDM;Транспондери Pizza-Box;Оптичні модулі QSFP+;Системи захисту від DDos;Операційна система;Радіообладнання;CPE",
+     "url": "https://omnilink.ua/"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批13·B-021:乌网深挖(omnilink.ua 官网双页互证):**OmniLink «Power of Communication»=спеціалізований постачальник телекомунікаційного обладнання і високотехнологічних рішень для операторів зв'язку і інтернет провайдерів України**(运营商与 ISP 专业设备供应商,官网 schema 原声);址=вул. Авіаконструктора І. Сікорського 8, ОЦ «Флора Парк», оф.30, 5-й поверх(праве крило), 04112 Kyiv;+38 044 359 07 70(兼传真);sale@omnilink.com.ua;**谱面=专业深谱:GPON-концентратори(OLT)+мукспондери+мультиплексори PDH+DWDM 系统+транспондери Pizza-Box+QSFP+ 光模块+SFP+/DDOS 防护系统+操作系统+радіо+CPE+маршрутизатори+комутатори(MikroTik CRS305 等新品谱档)**;**谱位=运营商/ISP 专业光纤+回传谱金矿(非一般分销)=批 13 专业金矿;MikroTik Reseller 位(库档)=生态位注非竞合红线**。**KP=官网未公名=守档注(具名待 LinkedIn/名录窗补)**。",
+    "inference": "R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-008",
+   "code": "B-008",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批13·B-008:乌网深挖(ua-region 企业档+vip.te.ua 互证):**ТОВ «ВІП КОМП'ЮТЕР»;ЄДРПОУ 34419514**;Ternopil вул. Танцорова 22, 46008;+380 67 352 7697;service@vip.te.ua;vip.te.ua 官网谱;**Керівник(директор)=Кіцак Галина Василівна(新任管理位);Бухгалтер=Чернов Андрій Володимирович=库档原锚 Andrii Chernov!MikroTik 认证顾问 MTCNA+MTCRE+MTCIPv6E 三证(库档名录口径)**;**谱位=Ternopil 地方 IT/网络服务商(Chernov 兼具财务+技术顾问双位,实为技术驱动小户)=批 13 地方金矿;MTCRE 路由证=深度网工谱**。",
+   "inference": "R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.ua-region.com.ua/34419514",
+   "tech": "ТОВ ВІП КОМП'ЮТЕР ЄДРПОУ 34419514;Ternopil 地方 IT 服务商",
+   "hr": "Ternopil 46008;щ Member 谱(MTCNA/MTCRE/MTCIPv6E)",
+   "contact_found": "**KP=Кіцак Галина Василівна(董事)+Чернов Андрій Володимирович(会计+MikroTik 顾问三证=技术实锚 P0)**",
+   "contact_pending": "service@vip.te.ua 台口;+380 67 352 7697",
+   "dims": {
+    "业务定位": "ВІП КОМП'ЮТЕР ТОВ(Ternopil,MikroTik 三证顾问户)",
+    "产品线与在售品牌": "地方 IT 服务+网络集成(MikroTik 栈)",
+    "目标行业与场景": "Ternopil 州中小企/机构客户",
+    "团队与规模": "小户(地方铺)",
+    "决策链与对接人": "Кіцак Галина(董事)+Чернов Андрій(三证技术锚)",
+    "技术与认证": "ЄДРПОУ 34419514;MTCNA/MTCRE/MTCIPv6E",
+    "采购与供应链信号": "**MTCRE 路由证=深度网工,接入层 PoE 项目自决=正口**",
+    "近期动态与线索": "地方户=价格敏感谱注",
+    "与我方契合点": "Chernov(技术锚)→ 24 口 PoE(中小企网络铺)",
+    "风险与注意": "**小户谱注:小批量$165 级试单口**"
+   },
+   "evidence": [
+    {
+     "dim": "谱档",
+     "quote": "ВІП КОМП'ЮТЕР, ТОВ;34419514;46008, Тернопіль, вул. Танцорова, 22;(067) 3527697;Керівник: Кіцак Галина Василівна;Бухгалтер: Чернов Андрій Володимирович;Сайт vip.te.ua;email service@vip.te.ua",
+     "source": "https://www.ua-region.com.ua/34419514"
+    },
+    {
+     "dim": "资质",
+     "quote": "MikroTik 认证顾问 MTCNA+MTCRE+MTCIPv6E(库档 MikroTik 名录口径)",
+     "source": "https://mikrotik.com/consultants"
+    },
+    {
+     "dim": "谱档",
+     "quote": "JSON-LD: telephone +380673527697;email service@vip.te.ua;address Тернопіль, вул. Танцорова 22",
+     "source": "https://www.ua-region.com.ua/34419514"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Чернов Андрій(技术锚 P0)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "三证网工 → 24 口 PoE(中小企铺)",
+     "question": "Ternopil 中小企网络铺的接入层 PoE 选型?",
+     "proof": "ua-region+MikroTik 名录"
+    },
+    {
+     "stage": "第 2 次跟进 · Кіцак Галина(董事)",
+     "push": "STI-288GPM/424",
+     "angle": "管理层谱口",
+     "question": "采购决策双人位?",
+     "proof": "ua-region 档"
+    },
+    {
+     "stage": "第 3 次跟进 · 小批量试单",
+     "push": "STC-28DGGPM",
+     "angle": "$165 级试单口",
+     "question": "首单 LCL/空运小批节奏?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "ЄДРПОУ 34419514;Ternopil 46008",
+     "②芯片/型号": "MikroTik 栈(MTCNA/MTCRE/MTCIPv6E)",
+     "③KP 深挖": "Кіцак(董事)+Чернов(三证技术锚)",
+     "④Saga 对标": "中小企网络铺 → 24 口 PoE",
+     "⑤在乎与偏好": "乌语档;价格敏感;小批量口",
+     "⑥SWOT": "S=三证顾问户+地方铺=批 13 地方金矿/W=小户价格敏感注/O=$165 级试单=正口/T=小户量谱注"
+    },
+    "care": "- **S**:三证顾问户+地方铺=批 13 地方金矿\n- **W**:小户价格敏感注\n- **O**:$165 级试单=正口\n- **T**:小户量谱注",
+    "swot": {
+     "S": "三证顾问户+地方铺=批 13 地方金矿",
+     "W": "小户价格敏感注",
+     "O": "$165 级试单=正口",
+     "T": "小户量谱注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户",
+    "gap_proof": "https://www.ua-region.com.ua/34419514"
+   },
+   "unknowns": [
+    "Chernov=会计+技术顾问双位锚",
+    "Кіцак 董事管理位",
+    "小批量试单谱注"
+   ],
+   "unknowns56": [
+    "Chernov=会计+技术顾问双位锚",
+    "Кіцак 董事管理位",
+    "小批量试单谱注"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批13 B 类",
+   "email": "Dear Andrii,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — suited to the SMB networks you deploy in the Ternopil region. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**KP=Чернов Андрій(三证技术锚 P0)+Кіцак Галина(董事)**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "ЄДРПОУ 34419514;Ternopil 46008",
+    "芯片与在用型号": "MikroTik 栈(MTCNA/MTCRE/MTCIPv6E)",
+    "关键人KP": "Кіцак(董事)+Чернов(三证技术锚)",
+    "关注点与资质": "中小企网络铺 → 24 口 PoE",
+    "优缺点SWOT": "S=三证顾问户+地方铺=批 13 地方金矿·W=小户价格敏感注·O=$165 级试单=正口·T=小户量谱注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):乌语档;价格敏感;小批量口"
+   },
+   "swot_text": "- **S**:三证顾问户+地方铺=批 13 地方金矿\n- **W**:小户价格敏感注\n- **O**:$165 级试单=正口\n- **T**:小户量谱注",
+   "facts": [
+    {
+     "dim": "谱档",
+     "text": "ВІП КОМП'ЮТЕР, ТОВ;34419514;46008, Тернопіль, вул. Танцорова, 22;(067) 3527697;Керівник: Кіцак Галина Василівна;Бухгалтер: Чернов Андрій Володимирович;Сайт vip.te.ua;email service@vip.te.ua",
+     "quote": "ВІП КОМП'ЮТЕР, ТОВ;34419514;46008, Тернопіль, вул. Танцорова, 22;(067) 3527697;Керівник: Кіцак Галина Василівна;Бухгалтер: Чернов Андрій Володимирович;Сайт vip.te.ua;email service@vip.te.ua",
+     "url": "https://www.ua-region.com.ua/34419514"
+    },
+    {
+     "dim": "资质",
+     "text": "MikroTik 认证顾问 MTCNA+MTCRE+MTCIPv6E(库档 MikroTik 名录口径)",
+     "quote": "MikroTik 认证顾问 MTCNA+MTCRE+MTCIPv6E(库档 MikroTik 名录口径)",
+     "url": "https://mikrotik.com/consultants"
+    },
+    {
+     "dim": "谱档",
+     "text": "JSON-LD: telephone +380673527697;email service@vip.te.ua;address Тернопіль, вул. Танцорова 22",
+     "quote": "JSON-LD: telephone +380673527697;email service@vip.te.ua;address Тернопіль, вул. Танцорова 22",
+     "url": "https://www.ua-region.com.ua/34419514"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批13·B-008:乌网深挖(ua-region 企业档+vip.te.ua 互证):**ТОВ «ВІП КОМП'ЮТЕР»;ЄДРПОУ 34419514**;Ternopil вул. Танцорова 22, 46008;+380 67 352 7697;service@vip.te.ua;vip.te.ua 官网谱;**Керівник(директор)=Кіцак Галина Василівна(新任管理位);Бухгалтер=Чернов Андрій Володимирович=库档原锚 Andrii Chernov!MikroTik 认证顾问 MTCNA+MTCRE+MTCIPv6E 三证(库档名录口径)**;**谱位=Ternopil 地方 IT/网络服务商(Chernov 兼具财务+技术顾问双位,实为技术驱动小户)=批 13 地方金矿;MTCRE 路由证=深度网工谱**。",
+    "inference": "R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-022",
+   "code": "B-022",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批13·B-022:乌网深挖(rim2000.ua/rim2000.com/prom.ua 三源互证):**RIM2000=«комп'ютери та сервери»,1994 年进入电脑技术市场=32 年老牌(rim2000.ua 官网自述)**;主址=Dnipro вул. Академіка Белелюбського 36, 49300;**三分点谱=Dnipro 主+Житомир(вул. Жуйка 43, +38 0412 34-15-33)+Київ(вул. Раїси Окіпної 4Б)**;+38 (0562) 360-300(办公/店铺/服务中心同号)+38 050 321-15-94(店)+38 050 361-89-32(服务);shop@rim2000.com;prom 档另窗=referent@rim2000.com 联系**Владислав**(prom 单窗注);FB/TW/YT/IG 四社档。**谱=电脑/组件/显示器/服务器/网络设备(路由器/WiFi/交换机/接入点/LTE/媒体转换模块)+办公设备,Patriot 自装机线+系统集成谱(安全网络建设服务,SMB/企业网)**;**谱位=32 年三城老牌分销+SI 谱=批 13 地方巨头金矿**。",
+   "inference": "R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://rim2000.ua/",
+   "tech": "RIM2000 1994 创 32 年;电脑/服务器/网络设备分销+SI 安全网络",
+   "hr": "32 年(1994);Dnipro 主+Житомир+Київ 三城",
+   "contact_found": "**KP=Владислав(referent@rim2000.com prom 单窗)+台口经理层(官网未公名注)**",
+   "contact_pending": "shop@rim2000.com 台口;+38 (0562) 360-300 总号;FB/YT 档",
+   "dims": {
+    "业务定位": "RIM2000(Dnipro,1994 创 32 年,三城分销+SI)",
+    "产品线与在售品牌": "电脑/服务器/网络设备+Patriot 自装机+SI 安全网络谱",
+    "目标行业与场景": "Dnipro 州 SMB/企业客户;三城铺",
+    "团队与规模": "中型分销铺(32 年)",
+    "决策链与对接人": "Владислав(referent 单窗)",
+    "技术与认证": "1994 创档;三城服务谱",
+    "采购与供应链信号": "**SI 安全网络谱=接入件随项目出=正口金矿**",
+    "近期动态与线索": "三城服务网=账期铺谱",
+    "与我方契合点": "shop@ 台口+Владислав → 24 口 PoE(SI 项目随行)",
+    "风险与注意": "**KP 薄窗注(单窗单名)**"
+   },
+   "evidence": [
+    {
+     "dim": "谱档",
+     "quote": "Наш магазин є структурним підрозділом компанії RIM2000, яка успішно працює на ринку комп'ютерних технологій з 1994 року;м. Дніпро, Академіка Белелюбського, 36;shop@rim2000.com;(0562) 360-300",
+     "source": "https://rim2000.ua/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Житомир: вул. Жуйка, 43, +38 (0412) 34-15-33;Київ: вул. Раїси Окіпної, 4Б;Офіс/Магазин/Сервіс-центр: +38 (0562) 360-300, +38 (050) 321-15-94",
+     "source": "https://www.rim2000.com/contacts/"
+    },
+    {
+     "dim": "KP",
+     "quote": "RIM 2000;Владислав;Вул.Академіка Белелюбського,буд 36., Дніпро;referent@rim2000.com(prom.ua 档)",
+     "source": "https://rim2000.prom.ua/ua/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Системний інтегратор RIM2000: Безпека мереж — послуги створення безпечних інформаційних мереж(SI 安全网络谱)",
+     "source": "https://www.rim2000.com/equipment/networks/security/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Мережеве обладнання: Маршрутизатори, Wifi-маршрутизатори, Комутатори, Точки доступу, LTE обладнання, Медіа конвертери і модулі",
+     "source": "https://rim2000.ua/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · shop@ 台口+Владислав(referent 窗)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "SI 项目随行口",
+     "question": "安全网络项目的接入层 PoE 件选型?",
+     "proof": "rim2000×3 源"
+    },
+    {
+     "stage": "第 2 次跟进 · 具名窗铺(Owner/采购)",
+     "push": "STI-288GPM/424",
+     "angle": "具名谱窗",
+     "question": "Owner/采购具名?",
+     "proof": "守档注"
+    },
+    {
+     "stage": "第 3 次跟进 · 三城铺货谱",
+     "push": "STC-28DGGPM",
+     "angle": "Dnipro/Житомир/Київ 三城",
+     "question": "三城项目节奏?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1994 创 32 年;Dnipro 主+两城",
+     "②芯片/型号": "网络设备线+Patriot 自装机+SI",
+     "③KP 深挖": "Владислав(referent 单窗)",
+     "④Saga 对标": "SI 安全网络 → 24 口 PoE 随行",
+     "⑤在乎与偏好": "乌语档;32 年信任谱;三城账期",
+     "⑥SWOT": "S=32 年三城老牌+SI 谱=地方巨头金矿/W=KP 薄窗注(单窗单名)/O=SI 项目随行=正口/T=KP 薄窗注"
+    },
+    "care": "- **S**:32 年三城老牌+SI 谱=地方巨头金矿\n- **W**:KP 薄窗注(单窗单名)\n- **O**:SI 项目随行=正口\n- **T**:KP 薄窗注",
+    "swot": {
+     "S": "32 年三城老牌+SI 谱=地方巨头金矿",
+     "W": "KP 薄窗注(单窗单名)",
+     "O": "SI 项目随行=正口",
+     "T": "KP 薄窗注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户",
+    "gap_proof": "https://rim2000.ua/"
+   },
+   "unknowns": [
+    "Владислав 单窗单名注",
+    "具名 Owner 待补",
+    "三城谱=Dnipro 主"
+   ],
+   "unknowns56": [
+    "Владислав 单窗单名注",
+    "具名 Owner 待补",
+    "三城谱=Dnipro 主"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批13 B 类",
+   "email": "Dear Sir or Madam,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a natural companion for the secure-network projects you integrate. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**KP=Владислав(referent 单窗)+shop@rim2000.com 台口**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "1994 创 32 年;Dnipro 主+两城",
+    "芯片与在用型号": "网络设备线+Patriot 自装机+SI",
+    "关键人KP": "Владислав(referent 单窗)",
+    "关注点与资质": "SI 安全网络 → 24 口 PoE 随行",
+    "优缺点SWOT": "S=32 年三城老牌+SI 谱=地方巨头金矿·W=KP 薄窗注(单窗单名)·O=SI 项目随行=正口·T=KP 薄窗注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):乌语档;32 年信任谱;三城账期"
+   },
+   "swot_text": "- **S**:32 年三城老牌+SI 谱=地方巨头金矿\n- **W**:KP 薄窗注(单窗单名)\n- **O**:SI 项目随行=正口\n- **T**:KP 薄窗注",
+   "facts": [
+    {
+     "dim": "谱档",
+     "text": "Наш магазин є структурним підрозділом компанії RIM2000, яка успішно працює на ринку комп'ютерних технологій з 1994 року;м. Дніпро, Академіка Белелюбського, 36;shop@rim2000.com;(0562) 360-300",
+     "quote": "Наш магазин є структурним підрозділом компанії RIM2000, яка успішно працює на ринку комп'ютерних технологій з 1994 року;м. Дніпро, Академіка Белелюбського, 36;shop@rim2000.com;(0562) 360-300",
+     "url": "https://rim2000.ua/"
+    },
+    {
+     "dim": "谱档",
+     "text": "Житомир: вул. Жуйка, 43, +38 (0412) 34-15-33;Київ: вул. Раїси Окіпної, 4Б;Офіс/Магазин/Сервіс-центр: +38 (0562) 360-300, +38 (050) 321-15-94",
+     "quote": "Житомир: вул. Жуйка, 43, +38 (0412) 34-15-33;Київ: вул. Раїси Окіпної, 4Б;Офіс/Магазин/Сервіс-центр: +38 (0562) 360-300, +38 (050) 321-15-94",
+     "url": "https://www.rim2000.com/contacts/"
+    },
+    {
+     "dim": "KP",
+     "text": "RIM 2000;Владислав;Вул.Академіка Белелюбського,буд 36., Дніпро;referent@rim2000.com(prom.ua 档)",
+     "quote": "RIM 2000;Владислав;Вул.Академіка Белелюбського,буд 36., Дніпро;referent@rim2000.com(prom.ua 档)",
+     "url": "https://rim2000.prom.ua/ua/"
+    },
+    {
+     "dim": "谱档",
+     "text": "Системний інтегратор RIM2000: Безпека мереж — послуги створення безпечних інформаційних мереж(SI 安全网络谱)",
+     "quote": "Системний інтегратор RIM2000: Безпека мереж — послуги створення безпечних інформаційних мереж(SI 安全网络谱)",
+     "url": "https://www.rim2000.com/equipment/networks/security/"
+    },
+    {
+     "dim": "谱档",
+     "text": "Мережеве обладнання: Маршрутизатори, Wifi-маршрутизатори, Комутатори, Точки доступу, LTE обладнання, Медіа конвертери і модулі",
+     "quote": "Мережеве обладнання: Маршрутизатори, Wifi-маршрутизатори, Комутатори, Точки доступу, LTE обладнання, Медіа конвертери і модулі",
+     "url": "https://rim2000.ua/"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批13·B-022:乌网深挖(rim2000.ua/rim2000.com/prom.ua 三源互证):**RIM2000=«комп'ютери та сервери»,1994 年进入电脑技术市场=32 年老牌(rim2000.ua 官网自述)**;主址=Dnipro вул. Академіка Белелюбського 36, 49300;**三分点谱=Dnipro 主+Житомир(вул. Жуйка 43, +38 0412 34-15-33)+Київ(вул. Раїси Окіпної 4Б)**;+38 (0562) 360-300(办公/店铺/服务中心同号)+38 050 321-15-94(店)+38 050 361-89-32(服务);shop@rim2000.com;prom 档另窗=referent@rim2000.com 联系**Владислав**(prom 单窗注);FB/TW/YT/IG 四社档。**谱=电脑/组件/显示器/服务器/网络设备(路由器/WiFi/交换机/接入点/LTE/媒体转换模块)+办公设备,Patriot 自装机线+系统集成谱(安全网络建设服务,SMB/企业网)**;**谱位=32 年三城老牌分销+SI 谱=批 13 地方巨头金矿**。",
+    "inference": "R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-032",
+   "code": "B-032",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批13·B-032:乌网深挖(wintik.com.ua 官网+联系页互证):**ООО «ВИНТИК УКРАИНА»;ЄДРПОУ 43092037**;юр. адр.=61045 Kharkiv вул. Отакара Яроша 17-Б;**2017 年创=9 年电商**(官网自述);0 800 330 503(乌全国免费线);4 职能邮箱(общие/закази/сервис/партнерство=info/order/service/partner @wintik.com.ua);**谱=网络设备+视频监控|对讲|СКУД(门禁)|报警 安全系统全谱+FPV 无人机用光纤跳线(军需供应链谱注)+建材工具+家电;B2B 部门档**;Viber/Telegram 双 messenger 客服;周一至五 9-18。**谱位=Kharkiv 前线城市电商+安防/网络谱+FPV 光纤线=乌战态供应链谱注(安全系统低价敏感+FPV 谱络),批 13 金矿;KP=官网未公名=守档注**。",
+   "inference": "R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://wintik.com.ua/contacts",
+   "tech": "ООО ВИНТИК УКРАИНА ЄДРПОУ 43092037;2017 创 9 年电商;安防+网络全谱",
+   "hr": "9 年(2017);Kharkiv 61045;B2B 部门",
+   "contact_found": "**KP=官网未公名=守档注(具名待 B2B 窗补)**",
+   "contact_pending": "4 职能邮箱+0 800 330 503 免费线+Viber/Telegram",
+   "dims": {
+    "业务定位": "WinTik(Kharkiv,2017 创 9 年,安防/网络电商)",
+    "产品线与在售品牌": "网络设备+视频监控/СКУД/报警+B2B 谱",
+    "目标行业与场景": "全乌零售+B2B;安防/网件面",
+    "团队与规模": "中型电商铺",
+    "决策链与对接人": "KP 守档(未公名)",
+    "技术与认证": "ЄДРПОУ 43092037;免费热线谱",
+    "采购与供应链信号": "**安防/СКУД 谱=PoE 摄像/门禁对口=金矿口;FPV 谱注**",
+    "近期动态与线索": "Kharkiv 前线档=物流谱注",
+    "与我方契合点": "partner@ 合作窗 → 24 口 PoE(安防铺)",
+    "风险与注意": "**KP 守档注;FPV 光纤线=军需谱注(不推军口)**"
+   },
+   "evidence": [
+    {
+     "dim": "谱档",
+     "quote": "ООО «ВИНТИК УКРАИНА»;ЄГРПОУ: 43092037;Юридичний адреса: 61045, Харків, вул. Отакара Яроша, 17-Б;4 emails(общие/закази/сервис/партнерство);0 800 330 503",
+     "source": "https://wintik.com.ua/contacts"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Wintik — інтернет магазин заснований у 2017 році;електронна техніка, мережеве обладнання, системи відеоспостереження та сигналізація, будівельні інструменти",
+     "source": "https://wintik.com.ua/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Оптичні патч-корди Для FPV дронів(FPV 无人机光纤跳线 SKU=军需供应链谱注);Системи безпеки: Відеоспостереження|Домофони|СКУД|Сигналізація",
+     "source": "https://wintik.com.ua/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "B2B 部门档;Viber/Telegram 客服;Пн–Пт 9:00–18:00",
+     "source": "https://wintik.com.ua/contacts"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · partner@ 合作窗(B2B)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "安防铺对口口",
+     "question": "视频监控/СКУД 铺的 PoE 件选型?",
+     "proof": "wintik 官双页"
+    },
+    {
+     "stage": "第 2 次跟进 · B2B 具名窗",
+     "push": "STI-288GPM/424",
+     "angle": "具名谱窗",
+     "question": "B2B 采购具名?",
+     "proof": "守档注"
+    },
+    {
+     "stage": "第 3 次跟进 · 安防 SKU 铺货",
+     "push": "STC-28DGGPM",
+     "angle": "СКУД/摄像项目",
+     "question": "安防项目铺货节奏?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2017 创 9 年;ЄДРПОУ 43092037;Kharkiv",
+     "②芯片/型号": "网络设备+视频监控/СКУД/报警+FPV 光纤线",
+     "③KP 深挖": "守档(未公名)",
+     "④Saga 对标": "安防铺 → 24 口 PoE(摄像/门禁对口)",
+     "⑤在乎与偏好": "乌/俄语档;低价敏感;B2B 部门",
+     "⑥SWOT": "S=9 年电商+安防全谱=金矿口/W=KP 守档注;FPV 谱注(军需线不碰)/O=安防 PoE 对口=正口/T=KP 守档注;战态物流注"
+    },
+    "care": "- **S**:9 年电商+安防全谱=金矿口\n- **W**:KP 守档注;FPV 谱注(军需线不碰)\n- **O**:安防 PoE 对口=正口\n- **T**:KP 守档注;战态物流注",
+    "swot": {
+     "S": "9 年电商+安防全谱=金矿口",
+     "W": "KP 守档注;FPV 谱注(军需线不碰)",
+     "O": "安防 PoE 对口=正口",
+     "T": "KP 守档注;战态物流注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户",
+    "gap_proof": "https://wintik.com.ua/contacts"
+   },
+   "unknowns": [
+    "KP 未公名=守档注",
+    "FPV 光纤线=军需谱注(我方不推军口)",
+    "Kharkiv 前线物流谱注"
+   ],
+   "unknowns56": [
+    "KP 未公名=守档注",
+    "FPV 光纤线=军需谱注(我方不推军口)",
+    "Kharkiv 前线物流谱注"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批13 B 类",
+   "email": "Dear Partner,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a perfect fit for your CCTV and access-control catalog. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**KP=守档+partner@ 合作窗;FPV 军口避推**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "2017 创 9 年;ЄДРПОУ 43092037;Kharkiv",
+    "芯片与在用型号": "网络设备+视频监控/СКУД/报警+FPV 光纤线",
+    "关键人KP": "守档(未公名)",
+    "关注点与资质": "安防铺 → 24 口 PoE(摄像/门禁对口)",
+    "优缺点SWOT": "S=9 年电商+安防全谱=金矿口·W=KP 守档注;FPV 谱注(军需线不碰)·O=安防 PoE 对口=正口·T=KP 守档注;战态物流注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):乌/俄语档;低价敏感;B2B 部门"
+   },
+   "swot_text": "- **S**:9 年电商+安防全谱=金矿口\n- **W**:KP 守档注;FPV 谱注(军需线不碰)\n- **O**:安防 PoE 对口=正口\n- **T**:KP 守档注;战态物流注",
+   "facts": [
+    {
+     "dim": "谱档",
+     "text": "ООО «ВИНТИК УКРАИНА»;ЄГРПОУ: 43092037;Юридичний адреса: 61045, Харків, вул. Отакара Яроша, 17-Б;4 emails(общие/закази/сервис/партнерство);0 800 330 503",
+     "quote": "ООО «ВИНТИК УКРАИНА»;ЄГРПОУ: 43092037;Юридичний адреса: 61045, Харків, вул. Отакара Яроша, 17-Б;4 emails(общие/закази/сервис/партнерство);0 800 330 503",
+     "url": "https://wintik.com.ua/contacts"
+    },
+    {
+     "dim": "谱档",
+     "text": "Wintik — інтернет магазин заснований у 2017 році;електронна техніка, мережеве обладнання, системи відеоспостереження та сигналізація, будівельні інструменти",
+     "quote": "Wintik — інтернет магазин заснований у 2017 році;електронна техніка, мережеве обладнання, системи відеоспостереження та сигналізація, будівельні інструменти",
+     "url": "https://wintik.com.ua/"
+    },
+    {
+     "dim": "谱档",
+     "text": "Оптичні патч-корди Для FPV дронів(FPV 无人机光纤跳线 SKU=军需供应链谱注);Системи безпеки: Відеоспостереження|Домофони|СКУД|Сигналізація",
+     "quote": "Оптичні патч-корди Для FPV дронів(FPV 无人机光纤跳线 SKU=军需供应链谱注);Системи безпеки: Відеоспостереження|Домофони|СКУД|Сигналізація",
+     "url": "https://wintik.com.ua/"
+    },
+    {
+     "dim": "谱档",
+     "text": "B2B 部门档;Viber/Telegram 客服;Пн–Пт 9:00–18:00",
+     "quote": "B2B 部门档;Viber/Telegram 客服;Пн–Пт 9:00–18:00",
+     "url": "https://wintik.com.ua/contacts"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批13·B-032:乌网深挖(wintik.com.ua 官网+联系页互证):**ООО «ВИНТИК УКРАИНА»;ЄДРПОУ 43092037**;юр. адр.=61045 Kharkiv вул. Отакара Яроша 17-Б;**2017 年创=9 年电商**(官网自述);0 800 330 503(乌全国免费线);4 职能邮箱(общие/закази/сервис/партнерство=info/order/service/partner @wintik.com.ua);**谱=网络设备+视频监控|对讲|СКУД(门禁)|报警 安全系统全谱+FPV 无人机用光纤跳线(军需供应链谱注)+建材工具+家电;B2B 部门档**;Viber/Telegram 双 messenger 客服;周一至五 9-18。**谱位=Kharkiv 前线城市电商+安防/网络谱+FPV 光纤线=乌战态供应链谱注(安全系统低价敏感+FPV 谱络),批 13 金矿;KP=官网未公名=守档注**。",
+    "inference": "R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-031",
+   "code": "B-031",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批13·B-031:乌网深挖(coders.in.ua 官网 about+HWIO 档互证):**VVS / Coders In UA(Volodymyr V. Sydorenko 缩写锚=vvs@coders.in.ua 官邮档)**;**10+ 年团队谱;双业务面:①软件外包(DSP 数字信号处理/图像视频音频处理/反向工程/低级编程/桌面应用 Windows/C++)②Network/system administration 深谱——技能单=OSPF/CAPsMAN/SIP/QoS/Traffic shaping/VPN(EoIP/GRE/IPIP)/PPP(PPPoE/PPTP/L2TP/SSTP/OpenVPN)/IPsec/MultiWAN/Load balancing/Advanced Scripting=MikroTik 全线深栈**;**Certificates: MTCNA+MTCRE+MTCWE 三证(官网自列)**;24/7 支持(英/俄/乌三语 voice);监控栈 Nagios/Zabbix+Telegram bots/ELK/Grafana;虚拟化 Hyper-V/ESXi/AWS/Hetzner;**HWIO2021 Capture the Signal CTF(无线电反向工程赛)参赛+GNU Radio 工具迁移=SDR 黑客谱**;社网窗=LinkedIn/FB/Hackerrank/GitHub 全档。**谱位=三证+深网栈+外包双面的技术型小户=批 13 技术金矿(库档标 MTCNA+MTCIPv6E——官网列 MTCWЕ 异窗注:库档口径为准注)**。",
+   "inference": "R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://coders.in.ua/about/",
+   "tech": "VVS / Coders In UA;软件外包+MikroTik 深栈网络管理(MTCNA/MTCRE/MTCWE)",
+   "hr": "10+ 年;24/7 三语支持;SDR/CTF 谱",
+   "contact_found": "**KP=Volodymyr V. Sydorenko(VVS=vvs@coders.in.ua 官邮锚 P0)**",
+   "contact_pending": "vvs@coders.in.ua 直档;LinkedIn/GitHub 窗全",
+   "dims": {
+    "业务定位": "Coders In UA / VVS(乌克兰,外包+深网工三证户)",
+    "产品线与在售品牌": "软件外包(DSP/反向)+MikroTik 深栈(OSPF/CAPsMAN/QoS/VPN 全线)",
+    "目标行业与场景": "SMB 网络项目+外包客户(国际)",
+    "团队与规模": "小团队(10+ 年);三语支持",
+    "决策链与对接人": "Volodymyr V. Sydorenko(VVS P0)",
+    "技术与认证": "MTCNA/MTCRE/MTCWE 官网自列",
+    "采购与供应链信号": "**深栈网工=接入层 PoE 项目技术自决=正口金矿**",
+    "近期动态与线索": "外包面=国际客户信息流",
+    "与我方契合点": "vvs@ 直档 → 24 口 PoE(SMB 网络铺)",
+    "风险与注意": "**小户价格敏感;$165 级试单口**"
+   },
+   "evidence": [
+    {
+     "dim": "KP",
+     "quote": "Contacts: mailto:vvs@coders.in.ua;Me at Linkedin/FB/Hackerrank/GitHub;VVS / Coders In UA",
+     "source": "https://coders.in.ua/about/"
+    },
+    {
+     "dim": "资质",
+     "quote": "Certificates: MTCNA, MTCRE, MTCWE(官网技能单自列)",
+     "source": "https://coders.in.ua/about/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Network/system administration: OSPF, CAPsMAN, SIP, QoS, Traffic shaping, VPN (EoIP, GRE, IPIP), PPP (PPPoE, PPTP, L2TP, SSTP, OpenVPN) IPSEC, MultiWAN, Load balancing and Failover, Advanced Routing, Advanced Scripting",
+     "source": "https://coders.in.ua/about/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Experienced team 10+ years available for long-term hiring/complex projects;24/7 coverage English/Russian/Ukrainian voice support",
+     "source": "https://coders.in.ua/about/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "HWIO2021 Capture the Signal CTF — radio-signal reverse engineering;migrated official tools to latest Python/GNU Radio(SDR 谱档)",
+     "source": "https://coders.in.ua/hwio2021-cts/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Volodymyr(VVS P0 直邮)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "深栈网工 → 24 口 PoE(SMB 项目)",
+     "question": "你 SMB 网络项目的接入层 PoE 选型偏哪档?",
+     "proof": "coders.in.ua 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · 项目谱口",
+     "push": "STI-288GPM/424",
+     "angle": "外包+网络双面",
+     "question": "网络 vs 外包客户配比?",
+     "proof": "about 档"
+    },
+    {
+     "stage": "第 3 次跟进 · 试单节奏",
+     "push": "STC-28DGGPM",
+     "angle": "$165 级试单",
+     "question": "首单小批 LCL/空运?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "10+ 年;VVS=vvs@coders.in.ua 锚",
+     "②芯片/型号": "MikroTik 深栈(OSPF/CAPsMAN/VPN)+外包 DSP",
+     "③KP 深挖": "Volodymyr V. Sydorenko(VVS P0)",
+     "④Saga 对标": "SMB 网络 → 24 口 PoE 技术自决口",
+     "⑤在乎与偏好": "英语可;深网工价敏谱;$165 试单口",
+     "⑥SWOT": "S=三证+深栈+双面=技术金矿/W=小户价格敏感注/O=$165 试单=正口/T=小户量谱注"
+    },
+    "care": "- **S**:三证+深栈+双面=技术金矿\n- **W**:小户价格敏感注\n- **O**:$165 试单=正口\n- **T**:小户量谱注",
+    "swot": {
+     "S": "三证+深栈+双面=技术金矿",
+     "W": "小户价格敏感注",
+     "O": "$165 试单=正口",
+     "T": "小户量谱注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户",
+    "gap_proof": "https://coders.in.ua/about/"
+   },
+   "unknowns": [
+    "库档 MTCNA+MTCIPv6E vs 官网 MTCNA/MTCRE/MTCWE 异窗注(库档口径为准)",
+    "SDR/CTF 谱注",
+    "外包国际客户面=信息流锚"
+   ],
+   "unknowns56": [
+    "库档 MTCNA+MTCIPv6E vs 官网 MTCNA/MTCRE/MTCWE 异窗注(库档口径为准)",
+    "SDR/CTF 谱注",
+    "外包国际客户面=信息流锚"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批13 B 类",
+   "email": "Dear Volodymyr,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — matching the deep MikroTik-style stacks you run for SMB networks. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**KP=Volodymyr V. Sydorenko(VVS,vvs@coders.in.ua 直档 P0)**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "10+ 年;VVS=vvs@coders.in.ua 锚",
+    "芯片与在用型号": "MikroTik 深栈(OSPF/CAPsMAN/VPN)+外包 DSP",
+    "关键人KP": "Volodymyr V. Sydorenko(VVS P0)",
+    "关注点与资质": "SMB 网络 → 24 口 PoE 技术自决口",
+    "优缺点SWOT": "S=三证+深栈+双面=技术金矿·W=小户价格敏感注·O=$165 试单=正口·T=小户量谱注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):英语可;深网工价敏谱;$165 试单口"
+   },
+   "swot_text": "- **S**:三证+深栈+双面=技术金矿\n- **W**:小户价格敏感注\n- **O**:$165 试单=正口\n- **T**:小户量谱注",
+   "facts": [
+    {
+     "dim": "KP",
+     "text": "Contacts: mailto:vvs@coders.in.ua;Me at Linkedin/FB/Hackerrank/GitHub;VVS / Coders In UA",
+     "quote": "Contacts: mailto:vvs@coders.in.ua;Me at Linkedin/FB/Hackerrank/GitHub;VVS / Coders In UA",
+     "url": "https://coders.in.ua/about/"
+    },
+    {
+     "dim": "资质",
+     "text": "Certificates: MTCNA, MTCRE, MTCWE(官网技能单自列)",
+     "quote": "Certificates: MTCNA, MTCRE, MTCWE(官网技能单自列)",
+     "url": "https://coders.in.ua/about/"
+    },
+    {
+     "dim": "谱档",
+     "text": "Network/system administration: OSPF, CAPsMAN, SIP, QoS, Traffic shaping, VPN (EoIP, GRE, IPIP), PPP (PPPoE, PPTP, L2TP, SSTP, OpenVPN) IPSEC, MultiWAN, Load balancing and Failover, Advanced Routing, Advanced Scripting",
+     "quote": "Network/system administration: OSPF, CAPsMAN, SIP, QoS, Traffic shaping, VPN (EoIP, GRE, IPIP), PPP (PPPoE, PPTP, L2TP, SSTP, OpenVPN) IPSEC, MultiWAN, Load balancing and Failover, Advanced Routing, Advanced Scripting",
+     "url": "https://coders.in.ua/about/"
+    },
+    {
+     "dim": "谱档",
+     "text": "Experienced team 10+ years available for long-term hiring/complex projects;24/7 coverage English/Russian/Ukrainian voice support",
+     "quote": "Experienced team 10+ years available for long-term hiring/complex projects;24/7 coverage English/Russian/Ukrainian voice support",
+     "url": "https://coders.in.ua/about/"
+    },
+    {
+     "dim": "谱档",
+     "text": "HWIO2021 Capture the Signal CTF — radio-signal reverse engineering;migrated official tools to latest Python/GNU Radio(SDR 谱档)",
+     "quote": "HWIO2021 Capture the Signal CTF — radio-signal reverse engineering;migrated official tools to latest Python/GNU Radio(SDR 谱档)",
+     "url": "https://coders.in.ua/hwio2021-cts/"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批13·B-031:乌网深挖(coders.in.ua 官网 about+HWIO 档互证):**VVS / Coders In UA(Volodymyr V. Sydorenko 缩写锚=vvs@coders.in.ua 官邮档)**;**10+ 年团队谱;双业务面:①软件外包(DSP 数字信号处理/图像视频音频处理/反向工程/低级编程/桌面应用 Windows/C++)②Network/system administration 深谱——技能单=OSPF/CAPsMAN/SIP/QoS/Traffic shaping/VPN(EoIP/GRE/IPIP)/PPP(PPPoE/PPTP/L2TP/SSTP/OpenVPN)/IPsec/MultiWAN/Load balancing/Advanced Scripting=MikroTik 全线深栈**;**Certificates: MTCNA+MTCRE+MTCWE 三证(官网自列)**;24/7 支持(英/俄/乌三语 voice);监控栈 Nagios/Zabbix+Telegram bots/ELK/Grafana;虚拟化 Hyper-V/ESXi/AWS/Hetzner;**HWIO2021 Capture the Signal CTF(无线电反向工程赛)参赛+GNU Radio 工具迁移=SDR 黑客谱**;社网窗=LinkedIn/FB/Hackerrank/GitHub 全档。**谱位=三证+深网栈+外包双面的技术型小户=批 13 技术金矿(库档标 MTCNA+MTCIPv6E——官网列 MTCWЕ 异窗注:库档口径为准注)**。",
+    "inference": "R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-009",
+   "code": "B-009",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批13·B-009:守界降级档写入(b1 守界成例同法):库档原锚=**Andrii Nagornyi(MikroTik 认证顾问 MTCNA+MTCTCE+MTCSE 三证,MikroTik 名录口径;无公开站点)**。三波公开检索(zoominfo/opendatabot/ithillel)同名轨迹全排噪:Lab181 Architect Designer(建筑域不符)、Hillel Online React-Native 讲师(移动开发域不符)、ФОП 法律 69.10(域不符)=**无 MikroTik 顾问本人的独立可证官方档**。**按谱堂守档注传统**:不换户、守档注、报价信按下不发——顾问为自然人位,无公司司档窗;待 MikroTik 名录页/LinkedIn 直档补证再升级。**MTCTCE(流量控制)+MTCSE(安全)双证注=技术面可信但触达窗未证**。",
+   "inference": "R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://mikrotik.com/consultants",
+   "tech": "MikroTik 顾问三证(MTCNA/MTCTCE/MTCSE,名录口径);自然人顾问位",
+   "hr": "无公开站点=守档注",
+   "contact_found": "**KP=Andrii Nagornyi(库档原锚;独立官方档未得=守档注)**",
+   "contact_pending": "库档邮箱字段守档(发信暂缓)",
+   "dims": {
+    "业务定位": "Andrii Nagornyi(乌克兰,MikroTik 三证顾问,守界降级档)",
+    "产品线与在售品牌": "网络顾问服务(MikroTik 栈,TC/SE 向)",
+    "目标行业与场景": "乌本地客户(顾问位)",
+    "团队与规模": "自然人户",
+    "决策链与对接人": "Andrii Nagornyi(库档锚,证度待补)",
+    "技术与认证": "MTCNA/MTCTCE/MTCSE 名录口径",
+    "采购与供应链信号": "**守界降级:证位可信但触达未证=守档注**",
+    "近期动态与线索": "排噪三窗(建筑/开发讲师/法律)",
+    "与我方契合点": "暂缓,待名录/LinkedIn 具名窗补",
+    "风险与注意": "**守档注:报价信按下不发**"
+   },
+   "evidence": [
+    {
+     "dim": "资质",
+     "quote": "MikroTik Consultant: MTCNA+MTCTCE+MTCSE(库档 MikroTik 名录口径)",
+     "source": "https://mikrotik.com/consultants"
+    },
+    {
+     "dim": "守档注",
+     "quote": "同名轨迹排噪:Lab181 Architect Designer(zoominfo)/Hillel React-Native 讲师/ФОП Рівне 法律 69.10=域不符,不并档",
+     "source": "https://www.zoominfo.com/p/Andrii-Nagornyi/17759900764"
+    },
+    {
+     "dim": "守档注",
+     "quote": "无 MikroTik 顾问本人独立可证官方档(公司司档/LinkedIn 直档未得)=守界降级档写入",
+     "source": "https://opendatabot.ua/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · MikroTik 名录窗补证",
+     "push": "—",
+     "angle": "名录页直档窗",
+     "question": "名录页公开联系字段?",
+     "proof": "守档注"
+    },
+    {
+     "stage": "第 2 次跟进 · LinkedIn 具名窗",
+     "push": "—",
+     "angle": "LI 具名直档",
+     "question": "具名+公司窗?",
+     "proof": ""
+    },
+    {
+     "stage": "第 3 次跟进 · 升级评估",
+     "push": "—",
+     "angle": "有证再升级",
+     "question": "得直档再写正档",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "自然人顾问;无公开站点",
+     "②芯片/型号": "MikroTik 栈(MTCNA/MTCTCE/MTCSE)",
+     "③KP 深挖": "Andrii Nagornyi(库档锚,证度待补)",
+     "④Saga 对标": "守界降级:不发报价信,待补证",
+     "⑤在乎与偏好": "乌语档;顾问小户谱",
+     "⑥SWOT": "S=三证顾问谱位可信/W=触达窗未证=守档/O=TC/SE 技术面=未来正口/T=守档注"
+    },
+    "care": "- **S**:三证顾问谱位可信\n- **W**:触达窗未证=守档\n- **O**:TC/SE 技术面=未来正口\n- **T**:守档注",
+    "swot": {
+     "S": "三证顾问谱位可信",
+     "W": "触达窗未证=守档",
+     "O": "TC/SE 技术面=未来正口",
+     "T": "守档注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户",
+    "gap_proof": "https://mikrotik.com/consultants"
+   },
+   "unknowns": [
+    "独立官方档未得=守档注",
+    "同名三窗全排噪",
+    "报价信按下不发"
+   ],
+   "unknowns56": [
+    "独立官方档未得=守档注",
+    "同名三窗全排噪",
+    "报价信按下不发"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批13 B 类",
+   "email": "",
+   "email_addr": "**KP=Andrii Nagornyi(库档锚,证度待补)+守界降级档**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "自然人顾问;无公开站点",
+    "芯片与在用型号": "MikroTik 栈(MTCNA/MTCTCE/MTCSE)",
+    "关键人KP": "Andrii Nagornyi(库档锚,证度待补)",
+    "关注点与资质": "守界降级:不发报价信,待补证",
+    "优缺点SWOT": "S=三证顾问谱位可信·W=触达窗未证=守档·O=TC/SE 技术面=未来正口·T=守档注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):乌语档;顾问小户谱"
+   },
+   "swot_text": "- **S**:三证顾问谱位可信\n- **W**:触达窗未证=守档\n- **O**:TC/SE 技术面=未来正口\n- **T**:守档注",
+   "facts": [
+    {
+     "dim": "资质",
+     "text": "MikroTik Consultant: MTCNA+MTCTCE+MTCSE(库档 MikroTik 名录口径)",
+     "quote": "MikroTik Consultant: MTCNA+MTCTCE+MTCSE(库档 MikroTik 名录口径)",
+     "url": "https://mikrotik.com/consultants"
+    },
+    {
+     "dim": "守档注",
+     "text": "同名轨迹排噪:Lab181 Architect Designer(zoominfo)/Hillel React-Native 讲师/ФОП Рівне 法律 69.10=域不符,不并档",
+     "quote": "同名轨迹排噪:Lab181 Architect Designer(zoominfo)/Hillel React-Native 讲师/ФОП Рівне 法律 69.10=域不符,不并档",
+     "url": "https://www.zoominfo.com/p/Andrii-Nagornyi/17759900764"
+    },
+    {
+     "dim": "守档注",
+     "text": "无 MikroTik 顾问本人独立可证官方档(公司司档/LinkedIn 直档未得)=守界降级档写入",
+     "quote": "无 MikroTik 顾问本人独立可证官方档(公司司档/LinkedIn 直档未得)=守界降级档写入",
+     "url": "https://opendatabot.ua/"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批13·B-009:守界降级档写入(b1 守界成例同法):库档原锚=**Andrii Nagornyi(MikroTik 认证顾问 MTCNA+MTCTCE+MTCSE 三证,MikroTik 名录口径;无公开站点)**。三波公开检索(zoominfo/opendatabot/ithillel)同名轨迹全排噪:Lab181 Architect Designer(建筑域不符)、Hillel Online React-Native 讲师(移动开发域不符)、ФОП 法律 69.10(域不符)=**无 MikroTik 顾问本人的独立可证官方档**。**按谱堂守档注传统**:不换户、守档注、报价信按下不发——顾问为自然人位,无公司司档窗;待 MikroTik 名录页/LinkedIn 直档补证再升级。**MTCTCE(流量控制)+MTCSE(安全)双证注=技术面可信但触达窗未证**。",
+    "inference": "R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-026",
+   "code": "B-026",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批13·B-026:守界降级档写入(B-009 同法):库档原锚=**Serhii Maksymenko(MikroTik 认证顾问 MTCNA+MTCEWE 双证,MikroTik 名录口径;无公开站点)**。公开检索同名轨迹全排噪:Сергій Максименко=心理学博士/教授/国家教育科学院心理研究所所长(scholar 域不符)=**无 MikroTik 顾问本人独立可证官方档**。**按谱堂守档注传统**:不换户、守档注、报价信按下不发;**MTCEWE(企业无线)证注=无线面技术可信,触达窗未证**;待 MikroTik 名录页/LinkedIn 直档补证再升级。",
+   "inference": "R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://mikrotik.com/consultants",
+   "tech": "MikroTik 顾问双证(MTCNA/MTCEWE,名录口径);自然人顾问位",
+   "hr": "无公开站点=守档注",
+   "contact_found": "**KP=Serhii Maksymenko(库档原锚;独立官方档未得=守档注)**",
+   "contact_pending": "库档邮箱字段守档(发信暂缓)",
+   "dims": {
+    "业务定位": "Serhii Maksymenko(乌克兰,MikroTik 双证顾问,守界降级档)",
+    "产品线与在售品牌": "网络顾问服务(MikroTik 栈,企业无线向)",
+    "目标行业与场景": "乌本地客户(顾问位)",
+    "团队与规模": "自然人户",
+    "决策链与对接人": "Serhii Maksymenko(库档锚,证度待补)",
+    "技术与认证": "MTCNA/MTCEWE 名录口径",
+    "采购与供应链信号": "**守界降级:EWE 无线证位可信但触达未证**",
+    "近期动态与线索": "同名心理学院士档全排噪",
+    "与我方契合点": "暂缓,待名录/LinkedIn 具名窗补",
+    "风险与注意": "**守档注:报价信按下不发**"
+   },
+   "evidence": [
+    {
+     "dim": "资质",
+     "quote": "MikroTik Consultant: MTCNA+MTCEWE(库档 MikroTik 名录口径)",
+     "source": "https://mikrotik.com/consultants"
+    },
+    {
+     "dim": "守档注",
+     "quote": "同名轨迹排噪:Сергій Максименко 心理学博士/研究所所长(sites.google 档)=域不符,不并档",
+     "source": "https://sites.google.com/view/maksymenkosd"
+    },
+    {
+     "dim": "守档注",
+     "quote": "无 MikroTik 顾问本人独立可证官方档=守界降级档写入",
+     "source": "https://mikrotik.com/consultants"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · MikroTik 名录窗补证",
+     "push": "—",
+     "angle": "名录页直档窗",
+     "question": "名录页公开联系字段?",
+     "proof": "守档注"
+    },
+    {
+     "stage": "第 2 次跟进 · LinkedIn 具名窗",
+     "push": "—",
+     "angle": "LI 具名直档",
+     "question": "具名+公司窗?",
+     "proof": ""
+    },
+    {
+     "stage": "第 3 次跟进 · 升级评估",
+     "push": "—",
+     "angle": "有证再升级",
+     "question": "得直档再写正档",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "自然人顾问;无公开站点",
+     "②芯片/型号": "MikroTik 栈(MTCNA/MTCEWE 企业无线)",
+     "③KP 深挖": "Serhii Maksymenko(库档锚,证度待补)",
+     "④Saga 对标": "守界降级:不发报价信,待补证",
+     "⑤在乎与偏好": "乌语档;顾问小户谱",
+     "⑥SWOT": "S=双证顾问谱位可信(EWE 无线向)/W=触达窗未证=守档/O=无线面=未来正口/T=守档注"
+    },
+    "care": "- **S**:双证顾问谱位可信(EWE 无线向)\n- **W**:触达窗未证=守档\n- **O**:无线面=未来正口\n- **T**:守档注",
+    "swot": {
+     "S": "双证顾问谱位可信(EWE 无线向)",
+     "W": "触达窗未证=守档",
+     "O": "无线面=未来正口",
+     "T": "守档注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户",
+    "gap_proof": "https://mikrotik.com/consultants"
+   },
+   "unknowns": [
+    "独立官方档未得=守档注",
+    "同名心理学者档全排噪",
+    "报价信按下不发"
+   ],
+   "unknowns56": [
+    "独立官方档未得=守档注",
+    "同名心理学者档全排噪",
+    "报价信按下不发"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批13 B 类",
+   "email": "",
+   "email_addr": "**KP=Serhii Maksymenko(库档锚,证度待补)+守界降级档**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "自然人顾问;无公开站点",
+    "芯片与在用型号": "MikroTik 栈(MTCNA/MTCEWE 企业无线)",
+    "关键人KP": "Serhii Maksymenko(库档锚,证度待补)",
+    "关注点与资质": "守界降级:不发报价信,待补证",
+    "优缺点SWOT": "S=双证顾问谱位可信(EWE 无线向)·W=触达窗未证=守档·O=无线面=未来正口·T=守档注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):乌语档;顾问小户谱"
+   },
+   "swot_text": "- **S**:双证顾问谱位可信(EWE 无线向)\n- **W**:触达窗未证=守档\n- **O**:无线面=未来正口\n- **T**:守档注",
+   "facts": [
+    {
+     "dim": "资质",
+     "text": "MikroTik Consultant: MTCNA+MTCEWE(库档 MikroTik 名录口径)",
+     "quote": "MikroTik Consultant: MTCNA+MTCEWE(库档 MikroTik 名录口径)",
+     "url": "https://mikrotik.com/consultants"
+    },
+    {
+     "dim": "守档注",
+     "text": "同名轨迹排噪:Сергій Максименко 心理学博士/研究所所长(sites.google 档)=域不符,不并档",
+     "quote": "同名轨迹排噪:Сергій Максименко 心理学博士/研究所所长(sites.google 档)=域不符,不并档",
+     "url": "https://sites.google.com/view/maksymenkosd"
+    },
+    {
+     "dim": "守档注",
+     "text": "无 MikroTik 顾问本人独立可证官方档=守界降级档写入",
+     "quote": "无 MikroTik 顾问本人独立可证官方档=守界降级档写入",
+     "url": "https://mikrotik.com/consultants"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批13·B-026:守界降级档写入(B-009 同法):库档原锚=**Serhii Maksymenko(MikroTik 认证顾问 MTCNA+MTCEWE 双证,MikroTik 名录口径;无公开站点)**。公开检索同名轨迹全排噪:Сергій Максименко=心理学博士/教授/国家教育科学院心理研究所所长(scholar 域不符)=**无 MikroTik 顾问本人独立可证官方档**。**按谱堂守档注传统**:不换户、守档注、报价信按下不发;**MTCEWE(企业无线)证注=无线面技术可信,触达窗未证**;待 MikroTik 名录页/LinkedIn 直档补证再升级。",
+    "inference": "R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  }
+ ],
+ "_meta": {
+  "batch": "R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户(B 类 167 档全覆盖收关)",
+  "date": "2026-10-08",
+  "n": 10
+ }
+}

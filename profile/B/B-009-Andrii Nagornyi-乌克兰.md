@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 29·B-009:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:Andrii Nagornyi(乌克兰 Kryvyi Rih;无站、hotmail 挂机）:CSV 载 MTCNA+MTCTCE+MTCS…
+- **是谁**：自然人顾问;无公开站点…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 乌克兰个体顾问谱统一；—（合作探询，无量产报价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 未明 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 29·B-009:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:Andrii Nagornyi(乌克兰 Kryvyi Rih;无站、hotmail 挂机）:CSV 载 MTCNA+MTCTCE+MTCSE 三证顾问;公开足迹未查到;R66 第 29 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;**战区 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 自然人顾问;无公开站点 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | MikroTik 栈(MTCNA/MTCTCE/MTCSE) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 29·B-009:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:Andrii Nagornyi(乌克兰 Kryvyi Rih;无站、hotmail 挂机）:CSV 载 MTCNA+MTCTCE+MTCSE 三证顾问;公开足迹未查到;R66 第 29 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第2波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 29 波守档准由谱
-- 【假设】掌件区非商触(非卖品对照架)
+- 【事实】波 R67/TUB·批13·B-009:守界降级档写入(b1 守界成例同法):库档原锚=**Andrii Nagornyi(MikroTik 认证顾问 MTCNA+MTCTCE+MTCSE 三证,MikroTik 名录口径;无公开站点)**。三波公开检索(zoominfo/opendatabot/ithillel)同名轨迹全排噪:Lab181 Architect Designer(建筑域不符)、Hillel Online React-Native 讲师(移动开发域不符)、ФОП 法律 69.10(域不符)=**无 MikroTik 顾问本人的独立可证官方档**。**按谱堂守档注传统**:不换户、守档注、报价信按下不发——顾问为自然人位,无公司司档窗;待 MikroTik 名录页/LinkedIn 直档补证再升级。**MTCTCE(流量控制)+MTCSE(安全)双证注=技术面可信但触达窗未证**。
+- 【推断】R67/TUB 推土机深挖 批13 B 类档序收批乌专批十户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+MikroTik 栈(MTCNA/MTCTCE/MTCSE)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -87,47 +87,50 @@ CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（OEM/白牌合作探询（无量产型号首推）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
-
-- **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
-- **切入点**：掌件区技术参件
-- **要问的问题**：可否入技术参件对照架名录？
-- **随附/动作**：规格页
-
-### 第 2 次跟进 · 一页目录卡
-
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
-
-### 第 3 次跟进 · 留档
+### 第 1 次跟进 · MikroTik 名录窗补证
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **切入点**：名录页直档窗
+- **要问的问题**：名录页公开联系字段?
+- **随附/动作**：守档注
+
+### 第 2 次跟进 · LinkedIn 具名窗
+
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：LI 具名直档
+- **要问的问题**：具名+公司窗?
+- **随附/动作**：
+
+### 第 3 次跟进 · 升级评估
+
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：有证再升级
+- **要问的问题**：得直档再写正档
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批13.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 29·B-009:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:Andrii Nagornyi(乌克兰 Kryvyi Rih;无站、hotmail 挂机）:CSV 载 MTCNA+MTCTCE+MTCSE 三证顾问;公开足迹未查到;R66 第 29 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第2波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
-- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
-- **关注点与资质**：乌克兰 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
-- **Saga产品适配**：CONSULT-OEM 掌件区非卖品对照
+- **背景深描**：自然人顾问;无公开站点
+- **芯片与在用型号**：MikroTik 栈(MTCNA/MTCTCE/MTCSE)
+- **关键人KP**：Andrii Nagornyi(库档锚,证度待补)
+- **关注点与资质**：守界降级:不发报价信,待补证
+- **优缺点SWOT**：S=三证顾问谱位可信·W=触达窗未证=守档·O=TC/SE 技术面=未来正口·T=守档注
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):乌语档;顾问小户谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**Andrii Nagornyi(乌克兰 Kryvyi Rih;无站、hotmail 挂机）:CSV 载 MTCNA+MTCTCE+MTCSE 三证顾问;公开足迹未查到
-  > Andrii Nagornyi(乌克兰 Kryvyi Rih;无站、hotmail 挂机）:CSV 载 MTCNA+MTCTCE+MTCSE 三证顾问;公开足迹未查到
-  > 来源：仓内:roster
-- **【联系方式与基础画像】**CSV 入口:+380 67 539 2648 / orglink@hotmail.com
-  > CSV 入口:+380 67 539 2648 / orglink@hotmail.com
-  > 来源：仓内:roster
+- **【资质】**MikroTik Consultant: MTCNA+MTCTCE+MTCSE(库档 MikroTik 名录口径)
+  > MikroTik Consultant: MTCNA+MTCTCE+MTCSE(库档 MikroTik 名录口径)
+  > 来源：https://mikrotik.com/consultants
+- **【守档注】**同名轨迹排噪:Lab181 Architect Designer(zoominfo)/Hillel React-Native 讲师/ФОП Рівне 法律 69.10=域不符,不并档
+  > 同名轨迹排噪:Lab181 Architect Designer(zoominfo)/Hillel React-Native 讲师/ФОП Рівне 法律 69.10=域不符,不并档
+  > 来源：https://www.zoominfo.com/p/Andrii-Nagornyi/17759900764
+- **【守档注】**无 MikroTik 顾问本人独立可证官方档(公司司档/LinkedIn 直档未得)=守界降级档写入
+  > 无 MikroTik 顾问本人独立可证官方档(公司司档/LinkedIn 直档未得)=守界降级档写入
+  > 来源：https://opendatabot.ua/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -140,7 +143,7 @@ CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
+S=三证顾问谱位可信·W=触达窗未证=守档·O=TC/SE 技术面=未来正口·T=守档注
 
 ## 触达与风险红线
 
@@ -168,8 +171,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] 独立官方档未得=守档注
+  - [ ] 同名三窗全排噪
+  - [ ] 报价信按下不发
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -178,10 +182,21 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：（非卖品掌件区,不出信)
+**主题**：Neutral-built PoE switches under your own label
 
 ```text
-（掌件区非卖品·CONSULT-OEM 对照架,只做技术参件,不出英文首触信）
+Hi Andrii,
+
+I came across Andrii Nagornyi - 集成商/顾问（MikroTik 认证）.
+
+We manufacture PoE access switches (Marvell-based, L2+) for OEM/white-label programs - neutral packing, your model numbers, ODM options on request.
+
+One question: Kryvyi Rih 矿区/重工业案里,PoE 接层现供？
+
+If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE switch OEM/ODM (neutral packing available)
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
