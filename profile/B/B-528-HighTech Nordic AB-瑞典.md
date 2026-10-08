@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 30·B-528:瑞典谱: **守档准由·原 R65/R57 谱基增厚**:HighTech Nordic AB(瑞典;hightechnordic.com;ORing 授权(台厂工业交换);R49 复核:官网在营,…
+- **是谁**：2017 创 9 年;Norrtälje;Luther&Jeminen 双创始;2024-05 Primotech 集团多数股;48.2 MSEK…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：【2026-09-28 复核回升 C-227→B-528】官网联系页正文可见；邮箱补到后原「无邮箱（群发触达不到）」下放原因消除 → 恢复 B（群发可触达）。原判：三星依据仅渠道等级（分销（ORing 授权））与「ORing」，需求未核。
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — ORing 授权谱的 DIN 轨 value 二源(台厂渠道话术模板)；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 30·B-528:瑞典谱: **守档准由·原 R65/R57 谱基增厚**:HighTech Nordic AB(瑞典;hightechnordic.com;ORing 授权(台厂工业交换);R49 复核:官网在营,四部邮箱 info@/logistics@/support@/invoice@ 组织化结构) | R65 深挖:PrimoTech 收购 2 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 2017 创 9 年;Norrtälje;Luther&Jeminen 双创始;2024-05 Primotech 集团多数股;48.2 MSEK | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | 工业 PC/嵌入式/医电 PC/触摸屏;ESD;3000+ 定制方案/年 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 30·B-528:瑞典谱: **守档准由·原 R65/R57 谱基增厚**:HighTech Nordic AB(瑞典;hightechnordic.com;ORing 授权(台厂工业交换);R49 复核:官网在营,四部邮箱 info@/logistics@/support@/invoice@ 组织化结构) | R65 深挖:PrimoTech 收购 2024-05;Luther 实首工业 PC 谱;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第9波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 30 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】波 R67/TUB·批10·B-528:瑞谱: **HighTech Nordic AB 深挖(allabolag/merinfo/primotech.se/profura.se 四源互证)**:**Org.nr 559097-1437;2017-01-16 注册(namnhighomen 2021-04-21 起用现名;grundades=始 2017-01-01 由 Luther & Jeminen 双创始);Aktiebolag;Aktiekapital 100 Tkr;Gäddvägen 3,761 48 Norrtälje;SNI 46501(电脑批发 主)+62100(编程);ansatte 5-7 员;010-177 58 00;**宗旨档「handel inom industridatorer, inbyggda system, digital skyltning och medicin pc」=工业 PC/嵌入式系统/数示牌/医电 PC 谱**;**Primotech Group 收购谱:2024-05 Profura Industri 子集团 Primotech Group 购得多数股(黄金原因谱:「Det är med stor entusiasam vi ser fram emot detta samarbete med Primotech」=创始原声谱);关联 182-188 公司级集团谱(Primotech Group AB 集团母谱)**;**财务金谱:**Omsättning 2025=48,206 tkr(48.2 MSEK);Resultat efter finansnetto 3,440;EBITDA 3,664;Utdelning 2026=6,000,000 kr 分红谱注;**KP 金谱:**Verkställande direktör=**Tommy Andreas Luther(f 1973;双创始之一)**+**Ordförande=Martin Olof Johansson(f 1970)**+**Keith Jeminen(双创始之二+firmatecknare 签权人)**+**Primotech/Profura 集团层谱(Mikael Thörnkvist=Profura AB VD 头)**;**谱口=**ESD 组装 Norrtälje+3000+ 定制方案/年+robusta IT 谱(infrastruktur/industri/försvar/marin/retail/automation 全球寄谱)**=工业 PC/嵌入式谱=普朗 PoE 谱位=对投影仪/医用 PoE/工业心机部署谱口=批 10 瑞谱金矿**;排噪:无。
+- 【推断】R67/TUB 推土机深挖 批10 B 类档序续批十户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+工业 PC/嵌入式/医电 PC/触摸屏;ESD;3000+ 定制方案/年
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -93,47 +93,53 @@ STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · Luther 双创始 VD 直口(工业 PC 谱)
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：守档铺位 → 价锚卡
-- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
-- **随附/动作**：规格页
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
+- **切入点**：双创始 VD → 24 口 PoE(工业/医电部署)
+- **要问的问题**：贵司工业 PC/医电部署线的 24 口 PoE 谱件由哪位主管?
+- **随附/动作**：allabolag/merinfo 4 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · Jeminen 联合创始+签权人谱
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：双创始+签权人谱口
+- **要问的问题**：您对元件品牌与定织的谱?
+- **随附/动作**：merinfo 谱
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · Primotech 集团谱口(2024-05 收)
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：集团整合+谱老
+- **要问的问题**：Primotech 层谱谱:
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批10.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 30·B-528:瑞典谱: **守档准由·原 R65/R57 谱基增厚**:HighTech Nordic AB(瑞典;hightechnordic.com;ORing 授权(台厂工业交换);R49 复核:官网在营,四部邮箱 info@/logistics@/support@/invoice@ 组织化结构) | R65 深挖:PrimoTech 收购 2024-05;Luther 实首工业 PC 谱;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第9波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
-- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
-- **关注点与资质**：瑞典 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
-- **Saga产品适配**：STI-288GP vs PLANET/当批价差窗
+- **背景深描**：2017 创 9 年;Norrtälje;Luther&Jeminen 双创始;2024-05 Primotech 集团多数股;48.2 MSEK
+- **芯片与在用型号**：工业 PC/嵌入式/医电 PC/触摸屏;ESD;3000+ 定制方案/年
+- **关键人KP**：Luther(VD 1973+双创始)+Jeminen(双创始+签权人)+Johansson(Ordf 1970)+Thörnkvist(Profura VD)=4 轨谱
+- **关注点与资质**：工业 PC/医电部署 → 24 口 PoE(工业/医电部署件)
+- **优缺点SWOT**：S=双创始+ESD+48.2 MSEK 谱+Primotech 集团谱老·W=5-7 员小档注;集团决策窗谱注·O=工业/医电/防防/海防部署=PoE 增织谱口·T=集团决策层+整合期谱注
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):瑞典语谱;robusta IT 谱;集团整合窗;小厂高定章
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**HighTech Nordic AB(瑞典;hightechnordic.com;ORing 授权(台厂工业交换);R49 复核:官网在营,四部邮箱 info@/logistics@/support@/invoice@ 组织化结构) | R65 深挖:PrimoTech 收购 2024-05;Luther 实首工业 P
-  > HighTech Nordic AB(瑞典;hightechnordic.com;ORing 授权(台厂工业交换);R49 复核:官网在营,四部邮箱 info@/logistics@/support@/invoice@ 组织化结构) | R65 深挖:PrimoTech 收购 2024-05;Luther 实首工业 P
-  > 来源：https://hightechnordic.com/
-- **【联系方式与基础画像】**CSV 入口:info@hightechnordic.com（销售；物流/支持/发票另有分邮箱）；+46 10-177 58 00
-  > CSV 入口:info@hightechnordic.com（销售；物流/支持/发票另有分邮箱）；+46 10-177 58 00
-  > 来源：https://hightechnordic.com/
+- **【法体登册】**HighTech Nordic AB;Org.nr 559097-1437;Registreringsdatum 2017-01-16;Nuvarande namn sedan 2021-04-21;Gäddvägen 3, 761 48 Norrtälje;Verksamhet: handel inom industridatorer, inbyggda system, digital skyltning och medicin pc;Försäljning, produktion, service, konsultation av hård- & mjukvaror;SNI: 46501 + 62100;5 anställda;Aktiekapital 100 Tkr;Del av Primotech Group AB
+  > HighTech Nordic AB;Org.nr 559097-1437;Registreringsdatum 2017-01-16;Nuvarande namn sedan 2021-04-21;Gäddvägen 3, 761 48 Norrtälje;Verksamhet: handel inom industridatorer, inbyggda system, digital skyltning och medicin pc;Försäljning, produktion, service, konsultation av hård- & mjukvaror;SNI: 46501 + 62100;5 anställda;Aktiekapital 100 Tkr;Del av Primotech Group AB
+  > 来源：https://www.allabolag.se/5590971437/hightech-nordic-ab
+- **【财报】**Omsättning 2025: 48 206 tkr;Resultat efter finansnetto 2025: 3 440 tkr;EBITDA 2025: 3 664 tkr;Bolagsform Aktiebolag;Registreringsår 2017;Anställda 5
+  > Omsättning 2025: 48 206 tkr;Resultat efter finansnetto 2025: 3 440 tkr;EBITDA 2025: 3 664 tkr;Bolagsform Aktiebolag;Registreringsår 2017;Anställda 5
+  > 来源：https://www.allabolag.se/5590971437/hightech-nordic-ab
+- **【谱档】**HighTech Nordic AB;i en koncern med 182 bolag;Moderbolaget Primotech Group AB;Firmatecknare: Jansson, Andreas Bo Oskar+Johansson Martin Olof 或者 en av Jeminen Keith+Luther Tommy Andreas;VD Tommy Andreas Luther(f 1973);Utdelning 2026: 6,000,000 kr;7 员
+  > HighTech Nordic AB;i en koncern med 182 bolag;Moderbolaget Primotech Group AB;Firmatecknare: Jansson, Andreas Bo Oskar+Johansson Martin Olof 或者 en av Jeminen Keith+Luther Tommy Andreas;VD Tommy Andreas Luther(f 1973);Utdelning 2026: 6,000,000 kr;7 员
+  > 来源：https://www.merinfo.se/foretag/HighTech-Nordic-AB-5590971437/2kgpx65-1mlck
+- **【收购/创始】**Primotech 2024-05 acquired a majority stake in HighTech Nordic(Profura Industri 子集团=182 司群);grundare Andreas Luther & Keith Jeminen 2017;泰介 Van Primotech:「Det är med stor entusiasm vi ser fram emot detta samarbete med Primotech」;公司 Mission: Industri-PC, Embedded, Medicin-datorer, pekskärmar for robusta miljöer;ESD Norrtälje;3000+ 定制方案/年
+  > Primotech 2024-05 acquired a majority stake in HighTech Nordic(Profura Industri 子集团=182 司群);grundare Andreas Luther & Keith Jeminen 2017;泰介 Van Primotech:「Det är med stor entusiasm vi ser fram emot detta samarbete med Primotech」;公司 Mission: Industri-PC, Embedded, Medicin-datorer, pekskärmar for robusta miljöer;ESD Norrtälje;3000+ 定制方案/年
+  > 来源：https://www.profura.se/nyheter/primotech-forvarvar-hightech-nordic
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -146,7 +152,7 @@ STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
+S=双创始+ESD+48.2 MSEK 谱+Primotech 集团谱老·W=5-7 员小档注;集团决策窗谱注·O=工业/医电/防防/海防部署=PoE 增织谱口·T=集团决策层+整合期谱注
 
 ## 触达与风险红线
 
@@ -174,8 +180,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节�
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] namnhighomen=现名 2021-04-21(登档始名);grundades 2017-01-01 与 Registreringsdatum 2017-01-16 双窗注
+  - [ ] merinfo 7 员 vs allabolag 5 员双窗注
+  - [ ] Profura Industri/Primotech Group 多层谱注(182-188 司双窗)
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -187,12 +194,7 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节�
 **主题**：PoE switching for your line
 
 ```text
-Dear HighTech Nordic AB Team,
-
-We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
-
-Best regards
-Saga / SmartByte ODM
+Dear Andreas,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — robust, ready for industrial and medical deployments riding on copper. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack available.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 29·B-040:保加利亚谱: **守档准由·原 R65/R57 谱基增厚**:ASAP Ltd(Sofia 93 Tsar Boris III Blvd;2007 创;47 员工/$5.6M;IT 服务与咨询公司兼…
+- **是谁**：2008 创 18 年(2007 双窗注);Sofia;独资 Zyumbilev;小城塞浦路斯进口谱无…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — IT 方案商项目谱的 value PoE 管理档；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 29·B-040:保加利亚谱: **守档准由·原 R65/R57 谱基增厚**:ASAP Ltd(Sofia 93 Tsar Boris III Blvd;2007 创;47 员工/$5.6M;IT 服务与咨询公司兼电商;官网设 MikroTik 专页,hEX S/hAP/cAP/hAP ax³/ATL LTE18 kit 在架;altostrat 名录 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 2008 创 18 年(2007 双窗注);Sofia;独资 Zyumbilev;小城塞浦路斯进口谱无 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | SAP/ERP/云/安全方案;Juniper networking;政务部署谱 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 29·B-040:保加利亚谱: **守档准由·原 R65/R57 谱基增厚**:ASAP Ltd(Sofia 93 Tsar Boris III Blvd;2007 创;47 员工/$5.6M;IT 服务与咨询公司兼电商;官网设 MikroTik 专页,hEX S/hAP/cAP/hAP ax³/ATL LTE18 kit 在架;altostrat 名录 Reseller 在册 sales@asap.bg) | R65 深挖:SAP Education 伙伴口径=培训交付正事;MikroTik 谱挂在 ASAPIT 服务线;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第11波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 29 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】波 R67/TUB·批10·B-040:保谱: **АСАП ЕООД(ASAP Ltd.)深挖(papagal/bgrobodatel/asap.bg/dev.bg/АХН насти 五源互证)**:**ЕИК/ПИК 175370880(ДДС No BG175370880),2008-08-29 注册 18 年(dev.bg 招窗「2007 创」双窗注);ЕООД=独资有限公司;гр. София,бул. Цар Борис III №93(1612,Biznes Center ASAP);капитал 35,790 €(внесен);тел 02-4475-100;sales@asap.bg;www.asap.bg**;**财税金谱:**2020 оборот=1,085,984 €;служители 22(2021);dev.bg 招窗「50+ 员/保加利亚;Juniper networking 技谱」**;**谱性=**SAP Education Partner(Albania/Bulgaria/Romania/Macedonia 四国认证)**+卫生部(ЕКТ)+ERP 平台/集成云/安全部解决方案(публични услуги;dev.bg 自白「високи изисквания за сигурност, надеждност и мащабируемост」);АСАП 30+ 年 IT 综合商谱**;**KP 金锚:**Управител=ПЕТЪР АНГЕЛОВ ЗЮМБИЛЕВ(Petar Zyumbilev)=同时唯一资本主(едноличен собственик)+管理部 P0(свидетеля 3 фирми 关联谱)**;**谱位=索菲亚 18 年公/私部门 IT 集成商+SAP/重资格培训谱+Juniper networking 谱=我方 24 口 PoE 对政府/教育网络部署谱口=批 10 保谱直口**;排噪:无。
+- 【推断】R67/TUB 推土机深挖 批10 B 类档序续批十户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+SAP/ERP/云/安全方案;Juniper networking;政务部署谱
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -68,7 +68,7 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 波 29·B-040:保加利亚谱: **守档准由·原 R65/R57 谱基增厚**:ASAP Ltd(Sofia 93 Tsar Boris III Blvd;2007 创;47 员工/$5.6M;IT 服务与咨询公司兼电商;官网设 MikroTik 专页,hEX S/hAP/cAP/hAP ax³/ATL LTE18 kit 在架;altostrat 名录 Reseller 在册 sales@asap.bg) | R65 深挖:SAP Education 伙伴口径=培训交付正事;MikroTik 谱挂在 ASAPIT 服务线;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第11波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -92,47 +92,53 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · Zyumbilev 独主直口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：守档铺位 → 价锚卡
-- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
-- **随附/动作**：规格页
+- **切入点**：唯一车主+管理部 → 24 口 PoE(政务教育部署)
+- **要问的问题**：贵司政务/教育项目线的 24 口 PoE 部署设备由哪位同事定选?
+- **随附/动作**：papagal/bgrobodatel 5 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · SAP 认证谱口+培训谱
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：SAP 4 国认证+重资格培训
+- **要问的问题**：贵 SAP/重资格客户的教育/政务部署件谱?
+- **随附/动作**：asap.bg 谱
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · Juniper 客网谱口
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：Juniper networking 技谱
+- **要问的问题**：客户网中的 PoE 交换机层谱?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批10.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 29·B-040:保加利亚谱: **守档准由·原 R65/R57 谱基增厚**:ASAP Ltd(Sofia 93 Tsar Boris III Blvd;2007 创;47 员工/$5.6M;IT 服务与咨询公司兼电商;官网设 MikroTik 专页,hEX S/hAP/cAP/hAP ax³/ATL LTE18 kit 在架;altostrat 名录 Reseller 在册 sales@asap.bg) | R65 深挖:SAP Education 伙伴口径=培训交付正事;MikroTik 谱挂在 ASAPIT 服务线;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第11波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
-- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
-- **关注点与资质**：保加利亚 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
-- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **背景深描**：2008 创 18 年(2007 双窗注);Sofia;独资 Zyumbilev;小城塞浦路斯进口谱无
+- **芯片与在用型号**：SAP/ERP/云/安全方案;Juniper networking;政务部署谱
+- **关键人KP**：Petar Zyumbilev(唯一车主+管理部 P0;3 司关联谱)=单口决策谱
+- **关注点与资质**：政务/教育 IT 集成 → 24 口 PoE(教室/政务基建件)
+- **优缺点SWOT**：S=独资决策快+政务/SAP 4 国认证谱+教育重资谱位·W=单源最小档 €1.08M;双窗创年注·O=政务/教育网络升级=PoE 部署正行·T=SAP/Juniper 认证伙伴敏感谱;小档税注
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):保语谱;独主直口;SAP 认证资质;Juniper 客网
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**ASAP Ltd(Sofia 93 Tsar Boris III Blvd;2007 创;47 员工/$5.6M;IT 服务与咨询公司兼电商;官网设 MikroTik 专页,hEX S/hAP/cAP/hAP ax³/ATL LTE18 kit 在架;altostrat 名录 Reseller 在册 sales@asa
-  > ASAP Ltd(Sofia 93 Tsar Boris III Blvd;2007 创;47 员工/$5.6M;IT 服务与咨询公司兼电商;官网设 MikroTik 专页,hEX S/hAP/cAP/hAP ax³/ATL LTE18 kit 在架;altostrat 名录 Reseller 在册 sales@asa
-  > 来源：https://asap.bg/
-- **【联系方式与基础画像】**CSV 入口:+359 2 4475 100 / sales@asap.bg
-  > CSV 入口:+359 2 4475 100 / sales@asap.bg
-  > 来源：https://asap.bg/
+- **【法体登册】**Фирма АСАП ЕООД (на латиница ASAP) ЕИК/ПИК 175370880 е основана на 29 Август 2008;ЕООД;Седалище: БЪЛГАРИЯ, гр. София (1612);Оборот: 1 085 984 € оборот за 2020 г.;Служители: 22 служители към 2021 г.;Представляващи: Управител: ПЕТЪР АНГЕЛОВ ЗЮМБИЛЕВ (свързан с 3 фирми);Едноличен собственик на капитала: ПЕТЪР АНГЕЛОВ ЗЮМБИЛЕВ;Капитал 35 790 €
+  > Фирма АСАП ЕООД (на латиница ASAP) ЕИК/ПИК 175370880 е основана на 29 Август 2008;ЕООД;Седалище: БЪЛГАРИЯ, гр. София (1612);Оборот: 1 085 984 € оборот за 2020 г.;Служители: 22 служители към 2021 г.;Представляващи: Управител: ПЕТЪР АНГЕЛОВ ЗЮМБИЛЕВ (свързан с 3 фирми);Едноличен собственик на капитала: ПЕТЪР АНГЕЛОВ ЗЮМБИЛЕВ;Капитал 35 790 €
+  > 来源：https://papagal.bg/eik/175370880/93d3
+- **【谱档】**АСАП ЕООД;Корпоративни технологии - управител: П. Зюмбилев;индустрия: Компютри и телекомуникации;София;тел: 024475100;сайт: www.asapbulgaria.com (зтр)
+  > АСАП ЕООД;Корпоративни технологии - управител: П. Зюмбилев;индустрия: Компютри и телекомуникации;София;тел: 024475100;сайт: www.asapbulgaria.com (зтр)
+  > 来源：https://bgrabotodatel.com/company/7956
+- **【轮档】**АСАП ЕООД;Адрес: гр. София, бул. Цар Борис III, N 93, ет. 2, офис 1 прим;Тел: +359 2 4475 100;ДДС No. BG175370880;Идент. No. 175370880;МОЛ: Петър Зюмбилев;RO +40 31 6300863;UK +44 84 33303591
+  > АСАП ЕООД;Адрес: гр. София, бул. Цар Борис III, N 93, ет. 2, офис 1 прим;Тел: +359 2 4475 100;ДДС No. BG175370880;Идент. No. 175370880;МОЛ: Петър Зюмбилев;RO +40 31 6300863;UK +44 84 33303591
+  > 来源：https://www.asap.bg/bulgaria/firmena-informatsiya.html
+- **【技谱档】**ASAP е българска технологична компания, основана през 2007 г.;стратегически софтуерни и инфраструктурни системи за публичния и корпоративния сектор;Технологии: Juniper networking;50+ 员;София
+  > ASAP е българска технологична компания, основана през 2007 г.;стратегически софтуерни и инфраструктурни системи за публичния и корпоративния сектор;Технологии: Juniper networking;50+ 员;София
+  > 来源：https://dev.bg/company/asap/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -145,7 +151,7 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+S=独资决策快+政务/SAP 4 国认证谱+教育重资谱位·W=单源最小档 €1.08M;双窗创年注·O=政务/教育网络升级=PoE 部署正行·T=SAP/Juniper 认证伙伴敏感谱;小档税注
 
 ## 触达与风险红线
 
@@ -173,8 +179,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] логотип/фирмен стил 三档别注
+  - [ ] асapbulgaria.com 遗域谱注
+  - [ ] Zyumbilev 3 司三级档待核
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -186,12 +193,7 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 **主题**：PoE switching for your line
 
 ```text
-Dear ASAP Team,
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
-
-Best regards
-Saga / SmartByte ODM
+Dear Petar,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a solid, quietly reliable piece of infrastructure for government, education and enterprise network deployments. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack available.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

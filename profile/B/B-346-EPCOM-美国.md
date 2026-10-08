@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 30·B-346:美国谱: **守档准由·原 R65/R57 谱基增厚**:EPCOM（El Paso Communication Systems，佛罗里达 Doral 拉美仓+德克萨斯 El Paso HQ 163…
+- **是谁**：El Paso TX 主谱 23 员+$23.41M+Doral/Miami FL 拉美仓双址;安防+networking…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 缺工业/PoE++ 空穴（CSV 研判）+拉美通道：温宽 DIN 轨 8 口 OEM 线最对口；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 30·B-346:美国谱: **守档准由·原 R65/R57 谱基增厚**:EPCOM（El Paso Communication Systems，佛罗里达 Doral 拉美仓+德克萨斯 El Paso HQ 1630 E Paisano Dr/San Antonio 同线 915-533-5119）:EPCOM Syscom 自述"manufactur | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | El Paso TX 主谱 23 员+$23.41M+Doral/Miami FL 拉美仓双址;安防+networking | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | 视频监控/门禁/火灾/入侵/networking/IoT 元件批发 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 30·B-346:美国谱: **守档准由·原 R65/R57 谱基增厚**:EPCOM（El Paso Communication Systems，佛罗里达 Doral 拉美仓+德克萨斯 El Paso HQ 1630 E Paisano Dr/San Antonio 同线 915-533-5119）:EPCOM Syscom 自述"manufactures, exports, imports and distributes specialized equipment"——自牌+分销混合大型专业设备商；MikroTik Reseller 挂一角 | R65 深挖:Miami 安全/监控互销 19M$；Opyrchal CEO 实首;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第1波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 30 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】波 R67/TUB·批10·B-346:美谱: **EPCOM 深挖(D&B El Paso 档+zoominfo/datanyze Miami 档+库 R65/R57 档谱三窗互证)**:**正体=El Paso Communication Systems, Inc., Doing Business As EPCOM(D&B 档):1630 E Paisano Dr,El Paso, TX 79901-3170;**2 principals/23 contacts;独主音 $23.41M(单窗)**;www.epcom.net;**谱位=视频监控/门禁/火灾测警/入侵警报/networking/IoT设备大谱=安防+网络元件批发分销**;**第二窗=zoominfo Epcom 17613993(同 epcom.net):记「Florida,51-200 员;$19.1M;2011 创;$<5M 融资」+datanyze 同司：8301 NW 27th St Ste 1,Miami FL 33122+**Joseph Opyrchal CEO**=EPCOM Doral/Miami 拉美仓址窗(库 R65/R57 档「佛罗里达 Doral 拉美仓谱」谱档);双窗=HQ El Paso TX+Doral/Miami 拉美仓谱**;**KP 金谱:**Jorge A. Saad(President=D&B El Paso 主谱 P0)+**Joseph Opyrchal(CEO=zoominfo/datanyze Miami-Latin 仓窗 P0)+**Freddie Crespo(VP-GM zoominfo 谱)**=3 轨谱;+23 contacts D&B 档**;**谱位=美国双语边境安防+网络批发大谱($23.41M+23 员+Doral 拉美仓)=我方 24 口 PoE 对安防/网络部署+拉美出口谱口=批 10 美谱金矿之一**;排噪:**Epcom World Industries Inc.(纽约,Rudy Pancaro President/CEO)=完全别司勿混**。
+- 【推断】R67/TUB 推土机深挖 批10 B 类档序续批十户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+视频监控/门禁/火灾/入侵/networking/IoT 元件批发
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -94,47 +94,53 @@ STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · Saad 直接 P0($23.41M 安防网络批发)
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：守档铺位 → 价锚卡
-- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
-- **随附/动作**：规格页
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
+- **切入点**：President → 24 口 PoE(安防网络部署)
+- **要问的问题**：贵司安防/video/networking 线的 24 口 PoE 部署设备由哪位主责?
+- **随附/动作**：D&B+库 R65/R57 谱
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · Opyrchal 拉美仓谱口
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：Miami/Doral 拉美出口窗
+- **要问的问题**：经 Doral 仓客户的拉美出口网络件谱?
+- **随附/动作**：datanyze 谱
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · Crespo VP-GM 谱口
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：门店/GM 谱口
+- **要问的问题**：司管家谱的 PoE 设备层?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批10.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 30·B-346:美国谱: **守档准由·原 R65/R57 谱基增厚**:EPCOM（El Paso Communication Systems，佛罗里达 Doral 拉美仓+德克萨斯 El Paso HQ 1630 E Paisano Dr/San Antonio 同线 915-533-5119）:EPCOM Syscom 自述"manufactures, exports, imports and distributes specialized equipment"——自牌+分销混合大型专业设备商；MikroTik Reseller 挂一角 | R65 深挖:Miami 安全/监控互销 19M$；Opyrchal CEO 实首;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第1波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
-- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
-- **关注点与资质**：美国 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
-- **Saga产品适配**：STI-288GP vs PLANET/当批价差窗
+- **背景深描**：El Paso TX 主谱 23 员+$23.41M+Doral/Miami FL 拉美仓双址;安防+networking
+- **芯片与在用型号**：视频监控/门禁/火灾/入侵/networking/IoT 元件批发
+- **关键人KP**：Jorge A. Saad(President D&B)+Joseph Opyrchal(CEO Miami 窗)+Freddie Crespo(VP-GM)+23 contacts
+- **关注点与资质**：安防网络集成 → 24 口 PoE(video/AP/门禁部署件+拉美出口)
+- **优缺点SWOT**：S=$23.41M 大谱+双址+安防/nw 谱对口+拉美出口窗·W=二窗档号冲突注;51-200 员双窗注·O=视频监控/门禁 PoE 部署正行;南美出口谱口·T=Doral 拉美节奏注;Epcom World Industries 别司勿混
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):双语谱(English/Spanish);Doral 拉美仓;安防谱敏感
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**EPCOM（El Paso Communication Systems，佛罗里达 Doral 拉美仓+德克萨斯 El Paso HQ 1630 E Paisano Dr/San Antonio 同线 915-533-5119）:EPCOM Syscom 自述"manufactures, exports, imports
-  > EPCOM（El Paso Communication Systems，佛罗里达 Doral 拉美仓+德克萨斯 El Paso HQ 1630 E Paisano Dr/San Antonio 同线 915-533-5119）:EPCOM Syscom 自述"manufactures, exports, imports
-  > 来源：https://epcom.net/
-- **【联系方式与基础画像】**CSV 入口:+1 915 533 5119 / sales@epcom.net
-  > CSV 入口:+1 915 533 5119 / sales@epcom.net
-  > 来源：https://epcom.net/
+- **【谱档】**El Paso Communication Systems, Inc.;Doing Business As: EPCOM;1630 E Paisano Dr El Paso, TX 79901-3170;www.epcom.net;Jorge A Saad President;D&B 记 2 Principals/23 Contacts;收入 $23.41 million 登档
+  > El Paso Communication Systems, Inc.;Doing Business As: EPCOM;1630 E Paisano Dr El Paso, TX 79901-3170;www.epcom.net;Jorge A Saad President;D&B 记 2 Principals/23 Contacts;收入 $23.41 million 登档
+  > 来源：https://www.dnb.com/business-directory/company-profiles.el_paso_communication_systems_inc.f1c94c1525981b6077d88fb41f897cb8.html
+- **【Miami/Latin 窗】**Epcom Location Florida, United States;51-200 Employees;$19.1M(营收估);Computer Equipment & Peripherals;EPCOM specializes in security, emergency, and communication systems—video surveillance, access control, fire detection, networking solutions, alarms, intrusion systems, IoT devices;2011 Founded;Funding History: $350 K(1 轮);Top Executive: Freddie Crespo Vp-Gm
+  > Epcom Location Florida, United States;51-200 Employees;$19.1M(营收估);Computer Equipment & Peripherals;EPCOM specializes in security, emergency, and communication systems—video surveillance, access control, fire detection, networking solutions, alarms, intrusion systems, IoT devices;2011 Founded;Funding History: $350 K(1 轮);Top Executive: Freddie Crespo Vp-Gm
+  > 来源：https://www.zoominfo.com/c/epcom/17613993
+- **【Miami 档】**Epcom;8301 NW 27th St Ste 1, Miami, Florida, 33122;Joseph Opyrchal CEO;73 Employees;Founded 2011;$19.1 M revenues
+  > Epcom;8301 NW 27th St Ste 1, Miami, Florida, 33122;Joseph Opyrchal CEO;73 Employees;Founded 2011;$19.1 M revenues
+  > 来源：https://www.datanyze.com/companies/epcom/17613993
+- **【排噪】**Epcom World Industries, Inc.(Rudy Pancaro President/CEO;NY;11-50 员;LI 45 粉;epcomworld.com)=完全别司勿混
+  > Epcom World Industries, Inc.(Rudy Pancaro President/CEO;NY;11-50 员;LI 45 粉;epcomworld.com)=完全别司勿混
+  > 来源：https://www.linkedin.com/company/epcom-world-industries
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -147,7 +153,7 @@ STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
+S=$23.41M 大谱+双址+安防/nw 谱对口+拉美出口窗·W=二窗档号冲突注;51-200 员双窗注·O=视频监控/门禁 PoE 部署正行;南美出口谱口·T=Doral 拉美节奏注;Epcom World Industries 别司勿混
 
 ## 触达与风险红线
 
@@ -175,8 +181,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节�
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] El Paso HQ/FL Doral 仓双址谱注($23.41M D&B vs $19.1M zoominfo 双窗)
+  - [ ] Opyrchal/Saad 双 CEO 谱注——需通信定谁主采购
+  - [ ] Rudy Pancaro Epcom World Industries NY=完全别司勿混
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -188,12 +195,7 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节�
 **主题**：PoE switching for your line
 
 ```text
-Dear EPCOM Team,
-
-We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
-
-Best regards
-Saga / SmartByte ODM
+Dear Jorge,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — built for surveillance, access-control and network deployments, with our Doral-adjacent cost profile baked into a $165 USD EXW reference (2026-10-08, 15 days valid). Datasheet + UL/CE pack on request.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

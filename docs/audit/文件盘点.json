@@ -2404,6 +2404,16 @@
       "errors": []
     },
     {
+      "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批10.json",
+      "sha256": "065c8fc995129a588c2a69cbb13032fea40f913ea58efcd5b165af945f01cbb5",
+      "bytes": 139947,
+      "tracked_at_scan": false,
+      "units_scanned": 1494,
+      "unique_url_count": 46,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批2.json",
       "sha256": "09778603e06e4d24eace21991c45e29ef7651a2eb9503ba4aaf0c21637d4a1e7",
       "bytes": 128002,
@@ -2437,7 +2447,7 @@
       "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
       "sha256": "649a911139b34a6a296940eedf29798ed9a0f548dfbb316d9244c794c23b7174",
       "bytes": 130183,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 1406,
       "unique_url_count": 36,
       "inspection": {},
@@ -3135,10 +3145,10 @@
     },
     {
       "path": "docs/requirements/用户要求总账.md",
-      "sha256": "425c93db0f6653b0bfc4b23f1351f9a1b5a216b935ef8b5fa9766ef53a6672e5",
-      "bytes": 266302,
+      "sha256": "8d6535dd3d6e1700bc75c0de6cda6a319a6472128844005d69ec4900acf1b7d2",
+      "bytes": 277562,
       "tracked_at_scan": true,
-      "units_scanned": 1605,
+      "units_scanned": 1623,
       "unique_url_count": 3,
       "inspection": {},
       "errors": []
@@ -9065,11 +9075,11 @@
     },
     {
       "path": "profile/B/B-013-Gazik Store-乌克兰.md",
-      "sha256": "0186e7b83812e49efd8efd31b801ad1cbc7d7df4a81ab5699a5011e15c334e78",
-      "bytes": 12463,
+      "sha256": "e7cae96a7e529bf7722770a6e9decd6735c7feca372d9360aa6c425ecdfd68f7",
+      "bytes": 16449,
       "tracked_at_scan": true,
-      "units_scanned": 210,
-      "unique_url_count": 1,
+      "units_scanned": 212,
+      "unique_url_count": 4,
       "inspection": {},
       "errors": []
     },
@@ -9165,11 +9175,11 @@
     },
     {
       "path": "profile/B/B-040-ASAP-保加利亚.md",
-      "sha256": "159f7123049c77e30bb45440924249f1555e21036b18503c6d60efda3a37723c",
-      "bytes": 12588,
+      "sha256": "2a0e63c7d8dd22988ff38460d1077b5d96c70948854f48e2cb0dff6bf4aa5a6b",
+      "bytes": 15100,
       "tracked_at_scan": true,
-      "units_scanned": 214,
-      "unique_url_count": 3,
+      "units_scanned": 216,
+      "unique_url_count": 6,
       "inspection": {},
       "errors": []
     },
@@ -9515,11 +9525,11 @@
     },
     {
       "path": "profile/B/B-138-ALLNET GmbH Computersysteme-德国.md",
-      "sha256": "6c0c66e1150d21a3f332b85790c5043c64921c53315bbb51e0d8c2bf06e044e2",
-      "bytes": 12513,
+      "sha256": "6d32c837f94110deba6dfae514b47f57280f6ec82275349062b2f30bf330e497",
+      "bytes": 15518,
       "tracked_at_scan": true,
-      "units_scanned": 211,
-      "unique_url_count": 3,
+      "units_scanned": 218,
+      "unique_url_count": 6,
       "inspection": {},
       "errors": []
     },
@@ -9735,11 +9745,11 @@
     },
     {
       "path": "profile/B/B-217-WESTech, spol. s r.o-斯洛伐克.md",
-      "sha256": "d6e0fff9a332da35260c00bb7382de488a56eda49bbe1f2b7d2124dbcc836e98",
-      "bytes": 12484,
+      "sha256": "4db30ad71059c64ffc76be858eb73c49d838f9c0e6a00c879701318b1b476830",
+      "bytes": 15130,
       "tracked_at_scan": true,
-      "units_scanned": 213,
-      "unique_url_count": 3,
+      "units_scanned": 218,
+      "unique_url_count": 7,
       "inspection": {},
       "errors": []
     },
@@ -9855,11 +9865,11 @@
     },
     {
       "path": "profile/B/B-252-SEWAN-法国.md",
-      "sha256": "a7696804a94851775cab6797bc88bc6636b8ad4af63cea2db6d9c8c42011db04",
-      "bytes": 12490,
+      "sha256": "397227dc9e0a8ca3dd8432a9dde31ec6f7a88ca715faf971383f46df5c7273a4",
+      "bytes": 14518,
       "tracked_at_scan": true,
-      "units_scanned": 212,
-      "unique_url_count": 3,
+      "units_scanned": 217,
+      "unique_url_count": 7,
       "inspection": {},
       "errors": []
     },
@@ -9875,11 +9885,11 @@
     },
     {
       "path": "profile/B/B-263-FYR-SYSTEMS Sp. z o.o-波兰.md",
-      "sha256": "17f7e66c3a65807b7cd9c637913fc02f0cb629b2683bfe82f46ce739054eb5e3",
-      "bytes": 12564,
+      "sha256": "fab0afdea13ed002d9e85b7ac4762a8a87562da42d31c2fd6186ebccc0c7caea",
+      "bytes": 14741,
       "tracked_at_scan": true,
-      "units_scanned": 213,
-      "unique_url_count": 5,
+      "units_scanned": 218,
+      "unique_url_count": 8,
       "inspection": {},
       "errors": []
     },
@@ -9965,11 +9975,11 @@
     },
     {
       "path": "profile/B/B-285-ELKO Eesti OÜ-爱沙尼亚.md",
-      "sha256": "0ae72dc0baaa8e6d2254b986c0e2a44013def94ba7d65f5af7af9185bef9f6c6",
-      "bytes": 12495,
+      "sha256": "2cf9bff9b48b73c4f7d8ecc45e335d25ac8ce352d373168d6d5c01889157b758",
+      "bytes": 14671,
       "tracked_at_scan": true,
-      "units_scanned": 213,
-      "unique_url_count": 3,
+      "units_scanned": 218,
+      "unique_url_count": 6,
       "inspection": {},
       "errors": []
     },
@@ -10135,11 +10145,11 @@
     },
     {
       "path": "profile/B/B-346-EPCOM-美国.md",
-      "sha256": "7d194e3e577fe9b493cd331c9e5c85615b919791d0b3debd380d979a1474f49f",
-      "bytes": 12517,
+      "sha256": "348f59598b7c2fa49d77ab8f70593435552d346f3d312ac61e85a8e9bad938a7",
+      "bytes": 14439,
       "tracked_at_scan": true,
-      "units_scanned": 216,
-      "unique_url_count": 5,
+      "units_scanned": 218,
+      "unique_url_count": 7,
       "inspection": {},
       "errors": []
     },
@@ -10565,11 +10575,11 @@
     },
     {
       "path": "profile/B/B-517-Fiberworks AS-挪威.md",
-      "sha256": "b04d7045e74d104851e2309c1602fae4e2232a131a60ae14e5e527aaa6f61259",
-      "bytes": 12568,
+      "sha256": "9189b3d4de5beba20da5c964c135e8e430757dffaf36d88bf04c6788c77da4ae",
+      "bytes": 15456,
       "tracked_at_scan": true,
-      "units_scanned": 215,
-      "unique_url_count": 3,
+      "units_scanned": 220,
+      "unique_url_count": 6,
       "inspection": {},
       "errors": []
     },
@@ -10625,11 +10635,11 @@
     },
     {
       "path": "profile/B/B-528-HighTech Nordic AB-瑞典.md",
-      "sha256": "9d94c8f82e7694324ba95f111cc178932cf53b619c20a13e80aea57cf1fcd828",
-      "bytes": 12513,
+      "sha256": "3cd76b9441af8c18628d5a33baf4f8bb235720d4f48b2127518717a900317397",
+      "bytes": 15413,
       "tracked_at_scan": true,
-      "units_scanned": 215,
-      "unique_url_count": 3,
+      "units_scanned": 217,
+      "unique_url_count": 5,
       "inspection": {},
       "errors": []
     },
@@ -14305,10 +14315,10 @@
     },
     {
       "path": "scripts/make_profiles.py",
-      "sha256": "7d1398f7cdcaabd223d346b2a75676c468e7c7a7a3b91b7550dac735822f48ed",
-      "bytes": 40337,
+      "sha256": "b7573e4a757dd5884b1355769acda736822841da294ec93e331c6b111ee3b742",
+      "bytes": 40400,
       "tracked_at_scan": true,
-      "units_scanned": 828,
+      "units_scanned": 829,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []

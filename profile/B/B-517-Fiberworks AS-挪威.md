@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 30·B-517:挪威谱: **守档准由·原 R65/R57 谱基增厚**:Fiberworks AS(挪威;fiberworks.no;ORing 授权;R49 复核：官网 /kontakt/ 正文可见 salg@…
+- **是谁**：1990 创 36 年;Økern Oslo;Sorb Industri AB 全资(瑞典集团);fiberoptikk 根源…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：【2026-09-28 复核回升 C-191→B-517】官网 /kontakt/ 正文可见；邮箱补到后原「无邮箱（群发触达不到）」下放原因消除 → 恢复 B（群发可触达）。原判：三星依据仅渠道等级（分销（ORing 授权））与「ORing」，需求未核。
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 挪威光纤专精分销 ORing 谱旁 DIN 轨 value 二源(机柜随单双扣)；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 30·B-517:挪威谱: **守档准由·原 R65/R57 谱基增厚**:Fiberworks AS(挪威;fiberworks.no;ORing 授权;R49 复核：官网 /kontakt/ 正文可见 salg@fiberworks.no;挪威光纤/网络分销名义) | R65 深挖:Sorb Industri AB 全资子=ORing 谱中的北欧补位 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 1990 创 36 年;Økern Oslo;Sorb Industri AB 全资(瑞典集团);fiberoptikk 根源 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | 光纤连接/收发器/光纤布线/工业网络件;telecom/PC/elektronikkprodukter | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 30·B-517:挪威谱: **守档准由·原 R65/R57 谱基增厚**:Fiberworks AS(挪威;fiberworks.no;ORing 授权;R49 复核：官网 /kontakt/ 正文可见 salg@fiberworks.no;挪威光纤/网络分销名义) | R65 深挖:Sorb Industri AB 全资子=ORing 谱中的北欧补位;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第9波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 30 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】波 R67/TUB·批10·B-517:挪谱: **Fiberworks AS 深挖(1881/proff/gulesider/fiberworks.net/brreg 五源互证)**:**Org.nr 959 977 046;stiftelsesdato 1990-12-27(36 年!);registrert 1995-02-20(Foretaksregisteret);Aksjeselskap;Aksjekapital 500,000;Eikenga 11,0579 Oslo(Økern);NACE 46.500 ICT 批发;antall ansatte 23-24;tel 23 03 53 30;sales@fiberworks.no;fiberworks.net + fiberworks.no**;**集团金锚:**Aksjonærer=**Sorb Industri AB(100%)**=瑞典 Sorb Industri 全资子司(Proff.no 记「inngår i konsern」);**KP 金谱:**Daglig leder=**Roger Allan Wahlgren(f 1973;同时 Styremedlem)**+**Styrets leder=Martin Roland Linder(f 1972)**+**集团层=Sorb Industri AB 董事会(名待核)=3 轨谱**;**谱口:**fiberoptikk 根源名 fiberworks.net=光纤连接件/收发器/光纤布线/工业网络件(produkter 档;fiberconnect/光纤光缆谱);telecom/datamaskin/elektronikkprodukter 三业档**;**谱位=挪威 36 年光纤/电信件批+瑞典集团全资背景=我方 24 口 PoE 北欧光纤网/工业网络部署谱口=批 10 北欧金矿之一**;排噪:美国 Fiberworks(光纤美国司)=同名别司注。
+- 【推断】R67/TUB 推土机深挖 批10 B 类档序续批十户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+光纤连接/收发器/光纤布线/工业网络件;telecom/PC/elektronikkprodukter
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -93,47 +93,56 @@ STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · Wahlgren 直口(36 年批发谱)
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：守档铺位 → 价锚卡
-- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
-- **随附/动作**：规格页
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
+- **切入点**：Daglig leder+Styremedlem → 24 口 PoE(光纤网/工业部署)
+- **要问的问题**：贵司光纤/工业网络件线的 24 口 PoE 交换机引入由哪位同事主责?
+- **随附/动作**：proff/1881 5 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · Sorb Industri 集团层
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：全资集团决策窗
+- **要问的问题**：Sorb 集团层对新品织谱?
+- **随附/动作**：proff 谱
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · Linder 主席谱
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：Styrets leder 谱口
+- **要问的问题**：贵司售市中的 PoE 谱?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批10.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 30·B-517:挪威谱: **守档准由·原 R65/R57 谱基增厚**:Fiberworks AS(挪威;fiberworks.no;ORing 授权;R49 复核：官网 /kontakt/ 正文可见 salg@fiberworks.no;挪威光纤/网络分销名义) | R65 深挖:Sorb Industri AB 全资子=ORing 谱中的北欧补位;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第9波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
-- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
-- **关注点与资质**：挪威 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
-- **Saga产品适配**：STI-288GP vs PLANET/当批价差窗
+- **背景深描**：1990 创 36 年;Økern Oslo;Sorb Industri AB 全资(瑞典集团);fiberoptikk 根源
+- **芯片与在用型号**：光纤连接/收发器/光纤布线/工业网络件;telecom/PC/elektronikkprodukter
+- **关键人KP**：Wahlgren(Daglig leder 1973+Styremedlem P0)+Linder(Styrets leder 1972)+Sorb 集团层=3 轨谱
+- **关注点与资质**：光纤网/工业网络件 → 24 口 PoE(ISP/工业部署件)
+- **优缺点SWOT**：S=36 年谱稳+光纤根源+Sorb 全资背景集团链·W=全资决策在集团;23-24 员双档注·O=北欧 ISP/工业网络设备谱口+光纤市场切换窗·T=瑞典集团决策链长注;光纤/铜缆双轨敏谱
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):挪威语谱;集团全资;fiberoptikk 技私;销售开放 Mon-Fri 08-16 CET
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**Fiberworks AS(挪威;fiberworks.no;ORing 授权;R49 复核：官网 /kontakt/ 正文可见 salg@fiberworks.no;挪威光纤/网络分销名义) | R65 深挖:Sorb Industri AB 全资子=ORing 谱中的北欧补位
-  > Fiberworks AS(挪威;fiberworks.no;ORing 授权;R49 复核：官网 /kontakt/ 正文可见 salg@fiberworks.no;挪威光纤/网络分销名义) | R65 深挖:Sorb Industri AB 全资子=ORing 谱中的北欧补位
-  > 来源：https://fiberworks.no/
-- **【联系方式与基础画像】**CSV 入口:salg@fiberworks.no；+47 23 03 53 30
-  > CSV 入口:salg@fiberworks.no；+47 23 03 53 30
-  > 来源：https://fiberworks.no/
+- **【法体登册】**FIBERWORKS AS;Org nr 959 977 046;Registreringsdato 20.02.1995;Stiftelsesdato 27.12.1990;Selskapsform Aksjeselskap;Antall ansatte 24;NACE-bransje 46.500 Engroshandel med informasjons- og kommunikasjonsteknologiutstyr;Aksjekapital 500
+  > FIBERWORKS AS;Org nr 959 977 046;Registreringsdato 20.02.1995;Stiftelsesdato 27.12.1990;Selskapsform Aksjeselskap;Antall ansatte 24;NACE-bransje 46.500 Engroshandel med informasjons- og kommunikasjonsteknologiutstyr;Aksjekapital 500
+  > 来源：https://www.proff.no/selskap/fiberworks-as/oslo/elektronikk-og-telekommunikasjonsutstyr-engros/IFVJN1210MZ
+- **【谱档】**Fiberworks AS;Eikenga 11, 0579 Oslo;Ring 23 03 53 30;Styrets leder: Martin Roland Linder;Daglig leder: Roger Allan Wahlgren;Styremedlem: Roger Allan Wahlgren;Antall ansatte: 23;Aksjonærer: Sorb Industri AB (100%);Stiftelsesdato: 27.12.1990
+  > Fiberworks AS;Eikenga 11, 0579 Oslo;Ring 23 03 53 30;Styrets leder: Martin Roland Linder;Daglig leder: Roger Allan Wahlgren;Styremedlem: Roger Allan Wahlgren;Antall ansatte: 23;Aksjonærer: Sorb Industri AB (100%);Stiftelsesdato: 27.12.1990
+  > 来源：https://www.1881.no/telematikk-og-telekommunikasjon/telematikk-og-telekommunikasjon-oslo/telematikk-og-telekommunikasjon-oekern/fiberworks-as_100206951S1/
+- **【谱档】**Fiberworks AS;Eikenga 11;23035330;Daglig leder Roger Allan Wahlgren;Styrets leder Martin Roland Linder;Juridisk navn FIBERWORKS AS;Selskapsform: Aksjeselskap;Stiftelsesdato 27.12.1990;Org.nr: 959977046;Aksjekapital 500000;Omsetning: 1. Telekommunikasjon 2. Datamaskiner, Datautstyr 3. Elektronikkprodukt
+  > Fiberworks AS;Eikenga 11;23035330;Daglig leder Roger Allan Wahlgren;Styrets leder Martin Roland Linder;Juridisk navn FIBERWORKS AS;Selskapsform: Aksjeselskap;Stiftelsesdato 27.12.1990;Org.nr: 959977046;Aksjekapital 500000;Omsetning: 1. Telekommunikasjon 2. Datamaskiner, Datautstyr 3. Elektronikkprodukt
+  > 来源：https://www.gulesider.no/fiberworks+as+oslo/84446737/bedrift
+- **【运作谱】**Fiberworks AS;Eikenga 11 0579 Oslo;+47 23 03 53 30;sales@fiberworks.no;Organisation Number: 959 977 046;Åpningstider: Mandag til fredag 08:00 - 16:00 CET
+  > Fiberworks AS;Eikenga 11 0579 Oslo;+47 23 03 53 30;sales@fiberworks.no;Organisation Number: 959 977 046;Åpningstider: Mandag til fredag 08:00 - 16:00 CET
+  > 来源：https://www.fiberworks.net/en/products
+- **【Brønnøysund】**FIBERWORKS AS;Organisasjonsnummer: 959 977 046;Forretningsadresse: Eikenga 11 0579 OSLO;Organisasjonsform: Aksjeselskap;Næringskode: 46.500 Engroshandel med informasjons- og kommunikasjonsteknologiutstyr
+  > FIBERWORKS AS;Organisasjonsnummer: 959 977 046;Forretningsadresse: Eikenga 11 0579 OSLO;Organisasjonsform: Aksjeselskap;Næringskode: 46.500 Engroshandel med informasjons- og kommunikasjonsteknologiutstyr
+  > 来源：https://virksomhet.brreg.no/nb/oppslag/enheter/959977046
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -146,7 +155,7 @@ STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
+S=36 年谱稳+光纤根源+Sorb 全资背景集团链·W=全资决策在集团;23-24 员双档注·O=北欧 ISP/工业网络设备谱口+光纤市场切换窗·T=瑞典集团决策链长注;光纤/铜缆双轨敏谱
 
 ## 触达与风险红线
 
@@ -174,8 +183,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节�
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] Sorb Industri AB 集团 CEO 名待核
+  - [ ] fiberworks.net/fiberworks.no 双域合谱注
+  - [ ] Sorb 集团网谱位待核
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -187,12 +197,7 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节�
 **主题**：PoE switching for your line
 
 ```text
-Dear Fiberworks AS Team,
-
-We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
-
-Best regards
-Saga / SmartByte ODM
+Dear Roger,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a solid block for ISP, industrial and fibre-network shop floors where cameras, APs and readers ride on copper. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack available.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 29·B-138:德国谱: **守档准由·原 R65/R57 谱基增厚**:ALLNET GmbH Computersysteme(Germering 慕尼黑 Maistraße 2;1991 Wolfgang Ma…
+- **是谁**：1991 创 35 年;Germering München 郊;€94.5M;Bauer 独家执;谱系全球(B-001/B-115/italia/fr)…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 同业制造商(自牌工业 PoE 在产):走代工二源守档,不推出入;与集团各分销站 STC-424 动线互不冲突；—（合作探询，无量产报价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 29·B-138:德国谱: **守档准由·原 R65/R57 谱基增厚**:ALLNET GmbH Computersysteme(Germering 慕尼黑 Maistraße 2;1991 Wolfgang Marcus Bauer 创):**Hersteller+Distributor 双血**——1992 起自产 ALLNET brand(匈牙利 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 1991 创 35 年;Germering München 郊;€94.5M;Bauer 独家执;谱系全球(B-001/B-115/italia/fr) | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | 计算/网络/软件产品;自有品牌+DropShipping;Home Automation/Stromversorgung/VoIP | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 29·B-138:德国谱: **守档准由·原 R65/R57 谱基增厚**:ALLNET GmbH Computersysteme(Germering 慕尼黑 Maistraße 2;1991 Wolfgang Marcus Bauer 创):**Hersteller+Distributor 双血**——1992 起自产 ALLNET brand(匈牙利自有厂),自牌谱含 **PoE 交换机(工业级 -40~+75°C/90W/冗余电源)+Smart/Full Managed 10G 交换机**、WLAN、IP 摄像头、VoIP、楼宇自控;160+ 分销品牌;802.lab 自有培训学院(150+ 课/年);9+ 国分支;2026-07 起分销华为 eKit DACH | R65 深挖:德国母体 Bauer 1991 创立;R56 守档谱性维持(同业守档);R66 第 29 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第5波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 29 波守档准由谱
-- 【假设】掌件区非商触(非卖品对照架)
+- 【事实】波 R67/TUB·批10·B-138:德谱: **ALLNET GmbH Computersysteme 深挖(allnet.de Impressum/implisense/Creditsafe/lieferanten.de 四源互证+库 ALLNET 谱系自档)**:**Gesellschaft=ALLNET GmbH;Gesellschaft 全称=**ALLNET GmbH Computersysteme**;Maistrasse 2,82110 Germering(近慕尼黑=2500 年莫尼黑环境谱);Sitz Germering;**Handelsregister: Amtsgericht München HRB 95992;USt-IdNr. DE 128 214 294;WEEE DE 13101093;LEI 5299008GWAOUQEZ8HJ12**;**1991-05-26 创 35 年;**Geschäftsführer=Wolfgang Marcus Bauer**(30+ 年独家执)!;+49 89 8942220;allnet.de**;**财务金谱:**Balance sheet total=90 M €(2023,vs 前一年 +8.5%);**Umsatz=94,521,718 €(2023 implisense 谱)****;**谱口=**Herstellung/Vertrieb/Schulung von Computerprodukten aller Art**(计算生产+分销+培训谱;宗旨档原文)+**30,000 产品数+DropShipping 谱+LIEferanten.de 记=自有品牌+国际销售(7 国语:Deutsch/Englisch/Französisch/Griechisch/Italienisch/Spanisch/Türkisch)+Mo-Fr 8-18 Uhr 营业时**+制造计算产品+Home Automation/Networking/Stromversorgung/Multimedia/Voice over IP 自有品牌谱**;**谱位=**ALLNET 集团母司**(库批 2 B-115 ALLNET.Greece+库 B-001 allnet.de 谱系子点)=€94.5M 集团链谱位**;**谱位=德国 30+ 年 IT 分销巨头=我方 MikroTik €94 大谱口=批 10 级金矿谱(集团链/自有品牌/国际合作谱口,需谱注 ALLNET 常年 MikroTik 分销谱=竞合谱注+合作谱口并存)**;排噪:allnet-italia.it(全资意子点)、Allnet.Greece(全资希子点)、allnet.fr(谱系)=谱系分堂谱注。
+- 【推断】R67/TUB 推土机深挖 批10 B 类档序续批十户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+计算/网络/软件产品;自有品牌+DropShipping;Home Automation/Stromversorgung/VoIP
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -94,47 +94,53 @@ CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（OEM/白牌合作探询（无量产型号首推）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · Bauer 独家 Geschäftsführer 35 年谱
 
-- **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
-- **切入点**：掌件区技术参件
-- **要问的问题**：可否入技术参件对照架名录？
-- **随附/动作**：规格页
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
+- **切入点**：唯一执 → 24 口 PoE 白牌/上行(自有品牌谱客)
+- **要问的问题**：ALLNET 自有品牌谱线的 24 口 PoE 白牌/OEM 由哪位主管?
+- **随附/动作**：allnet.de+implisense 4 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · 集团谱链(B-115 Greece 谱系照欧)
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：谱系子点白牌链
+- **要问的问题**：谱系子点/自有品牌谱链谱口?
+- **随附/动作**：库谱 B-115
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · 30,000 产品+DropShipping 谱口
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：DropShipping 平台谱
+- **要问的问题**：您电商平台谱层的 PoE 谱?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批10.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 29·B-138:德国谱: **守档准由·原 R65/R57 谱基增厚**:ALLNET GmbH Computersysteme(Germering 慕尼黑 Maistraße 2;1991 Wolfgang Marcus Bauer 创):**Hersteller+Distributor 双血**——1992 起自产 ALLNET brand(匈牙利自有厂),自牌谱含 **PoE 交换机(工业级 -40~+75°C/90W/冗余电源)+Smart/Full Managed 10G 交换机**、WLAN、IP 摄像头、VoIP、楼宇自控;160+ 分销品牌;802.lab 自有培训学院(150+ 课/年);9+ 国分支;2026-07 起分销华为 eKit DACH | R65 深挖:德国母体 Bauer 1991 创立;R56 守档谱性维持(同业守档);R66 第 29 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第5波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
-- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
-- **关注点与资质**：德国 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
-- **Saga产品适配**：CONSULT-OEM 掌件区非卖品对照
+- **背景深描**：1991 创 35 年;Germering München 郊;€94.5M;Bauer 独家执;谱系全球(B-001/B-115/italia/fr)
+- **芯片与在用型号**：计算/网络/软件产品;自有品牌+DropShipping;Home Automation/Stromversorgung/VoIP
+- **关键人KP**：Wolfgang Marcus Bauer(Geschäftsführer 35 年 P0 唯一)+Γ. Μούζαρης(库 B-115 谱)+allnet-italia/Allnet.Greece/allnet.fr 谱系谱口
+- **关注点与资质**：自有品牌成长谱口 → 24 口 PoE(白牌 OEM 上行/集团铺谱)
+- **优缺点SWOT**：S=€94.5M 集团母+自有品牌谱口+7 语集团网+35 年谱稳·W=MikroTik 分销谱多年=合作谱敏注(增益白牌谱口需分管)·O=计算/网络白牌增长 = PoE 上行谱窗;+8.5% 增长·T=增位敏感谱(谱亲多年);集团决策在 Bauer 单口注
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):德语谱;集团链谱;自有品牌谱=上游谱敏注(白牌谱口正管)
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**ALLNET GmbH Computersysteme(Germering 慕尼黑 Maistraße 2;1991 Wolfgang Marcus Bauer 创):**Hersteller+Distributor 双血**——1992 起自产 ALLNET brand(匈牙利自有厂),自牌谱含 **PoE 交换机(
-  > ALLNET GmbH Computersysteme(Germering 慕尼黑 Maistraße 2;1991 Wolfgang Marcus Bauer 创):**Hersteller+Distributor 双血**——1992 起自产 ALLNET brand(匈牙利自有厂),自牌谱含 **PoE 交换机(
-  > 来源：https://shop.allnet.de/
-- **【联系方式与基础画像】**CSV 入口:+49 89 89422222 / sales@allnet.de
-  > CSV 入口:+49 89 89422222 / sales@allnet.de
-  > 来源：https://shop.allnet.de/
+- **【法体登册】**Gesellschaft: ALLNET GmbH Computersysteme;Maistrasse 2 82110 Germering;Sitz: Maistrasse 2 82110 Germering;Geschäftsführer: Wolfgang Marcus Bauer;Handelsregister: Amtsgericht München HRB 95 992;Umsatzsteueridentifikationsnr.: DE 128 214 294;WEEE: DE 13101093
+  > Gesellschaft: ALLNET GmbH Computersysteme;Maistrasse 2 82110 Germering;Sitz: Maistrasse 2 82110 Germering;Geschäftsführer: Wolfgang Marcus Bauer;Handelsregister: Amtsgericht München HRB 95 992;Umsatzsteueridentifikationsnr.: DE 128 214 294;WEEE: DE 13101093
+  > 来源：https://distribution.allnet.de/impressum0.html
+- **【谱档】**ALLNET GmbH Computersysteme;HRB 95992(München);Managing directors: Wolfgang Marcus Bauer;Founded 26 May 1991;LEI: 5299008GWAOUQEZ8HJ12;VAT DE128214294;Balance sheet total: 90 M €;Purpose: Herstellung, Vertrieb und Schulung von Computerprodukten aller Art(计算产品生产+销售+培训);+49 89 89422220
+  > ALLNET GmbH Computersysteme;HRB 95992(München);Managing directors: Wolfgang Marcus Bauer;Founded 26 May 1991;LEI: 5299008GWAOUQEZ8HJ12;VAT DE128214294;Balance sheet total: 90 M €;Purpose: Herstellung, Vertrieb und Schulung von Computerprodukten aller Art(计算产品生产+销售+培训);+49 89 89422220
+  > 来源：https://app.implisense.com/en/companies/allnet-gmbh-computersysteme-germering--DEY6G3JLK664
+- **【财务/规模】**Balance sheet total: 90 M €(2023,+8.5%);Key Figures: € 94,521,718.00(2023);Small company;Herstellung, Vertrieb und Schulung von Computerprodukten aller Art=(计算/网络/软件产品生产+分销+培训);Gründung 1991;30.000 Produkte;DropShipping
+  > Balance sheet total: 90 M €(2023,+8.5%);Key Figures: € 94,521,718.00(2023);Small company;Herstellung, Vertrieb und Schulung von Computerprodukten aller Art=(计算/网络/软件产品生产+分销+培训);Gründung 1991;30.000 Produkte;DropShipping
+  > 来源：https://www.lieferanten.de/lieferant-840-allnet-gmbh-computersysteme.html
+- **【谱档】**ALLNET GmbH Computersysteme;HRB 95992 beim Amtsgericht 80333 München;Incorporated 1991;Maistraße 2 82110 Germering;SIC 46510(电脑批发);Status Actively Trading;Creditsafe DE01568624
+  > ALLNET GmbH Computersysteme;HRB 95992 beim Amtsgericht 80333 München;Incorporated 1991;Maistraße 2 82110 Germering;SIC 46510(电脑批发);Status Actively Trading;Creditsafe DE01568624
+  > 来源：https://www.creditsafe.com/business-index/en-gb/company/allnet-gmbh-computersysteme-de01568624
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -147,7 +153,7 @@ CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
+S=€94.5M 集团母+自有品牌谱口+7 语集团网+35 年谱稳·W=MikroTik 分销谱多年=合作谱敏注(增益白牌谱口需分管)·O=计算/网络白牌增长 = PoE 上行谱窗;+8.5% 增长·T=增位敏感谱(谱亲多年);集团决策在 Bauer 单口注
 
 ## 触达与风险红线
 
@@ -175,8 +181,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] ALLNET 与 MikroTik 合作谱多年=增位需敏分管(白牌谱口/自有品牌谱位可透)
+  - [ ] 谱系谱位谱位:allnet.de/B-001 vs Allnet.Greece/B-115 vs allnet-italia = 布雷谱注
+  - [ ] WEEE DE 13101093 谱位注
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -185,10 +192,10 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：（非卖品掌件区,不出信)
+**主题**：PoE switching for your line
 
 ```text
-（掌件区非卖品·CONSULT-OEM 对照架,只做技术参件,不出英文首触信）
+Dear Mr. Bauer,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — designed as a cost-engineered private-label block for distribution groups carrying their own line. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

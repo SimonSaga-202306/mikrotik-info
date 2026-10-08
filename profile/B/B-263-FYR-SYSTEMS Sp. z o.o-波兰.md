@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 30·B-263:波兰谱: **守档准由·原 R65/R57 谱基增厚**:FYR-SYSTEMS Sp. z o.o.(Warszawa Żoliborz;KRS 0000900908,2021 创):**企业级 …
+- **是谁**：2021 创 5 年新谱;Żoliborz 华沙;Siewicz 夫妇双懂;IT 系统集成…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 企业级精品集成商的 SME/分支项目随单 24 口 PoE 位(具名生态人开口)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 30·B-263:波兰谱: **守档准由·原 R65/R57 谱基增厚**:FYR-SYSTEMS Sp. z o.o.(Warszawa Żoliborz;KRS 0000900908,2021 创):**企业级 IT 系统集成商**——backup/数据归档/networking/storage/HPC 高性能计算/**IBM LinuxONE 迁移 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 2021 创 5 年新谱;Żoliborz 华沙;Siewicz 夫妇双懂;IT 系统集成 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | IT 系统集成;电脑批发;IT 咨询;管理咨询 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 30·B-263:波兰谱: **守档准由·原 R65/R57 谱基增厚**:FYR-SYSTEMS Sp. z o.o.(Warszawa Żoliborz;KRS 0000900908,2021 创):**企业级 IT 系统集成商**——backup/数据归档/networking/storage/HPC 高性能计算/**IBM LinuxONE 迁移**;与 Dell/IBM/Red Hat 合作;创始人 **Rafał Siewicz 具名(18 年 vendor/分销/集成三段生态经验)**;官网自挂『We are a proud MikroTik reseller』 | R65 深挖:Warszawa 集成商实体；Siewicz 家族结构;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第8波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 30 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】波 R67/TUB·批10·B-263:波谱: **FYR-SYSTEMS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ 深挖(rejestr.io/krs-online/aleo/owg/fyr-systems.pl 五源互证)**:**KRS 0000900908;NIP 5252863223;REGON 388992660(00000 尾注);2021-05-19 注册 5 年新谱;kapitał 50,000 zł;Alojzego Felińskiego 46 lok. 2,01-563 Warszawa(Żoliborz;KRS 档 01-604 双窗注);PKD 主=46.51.Z 电脑批发(后备 62 IT 编程咨询+70.22.Z 管理咨询);MBANK PL62 114 0 2004 0 000 3102 8125 8070(aleo 档)**;**网站谱:fyr-systems.pl=IT 系统集成商(「vendor, dystrybutor, partner」生态自白);+48 513 130 332;kontakt@fyr-systems.pl**;**KP 金谱:**Prezes Zarządu=**Rafał Artur Siewicz**(46 岁;80 股 40,000 zł)+**Członek Zarządu=**Katarzyna Anna Grochowska Siewicz**(44 岁;20 股 10,000 zł)**=夫妻双懂董事会谱(「kapitanowie i marynarze」海运网命美网站看「kapitanowie」)**;**谱位=华沙 5 年新 IT 集成商=我方 24 口 PoE 对 SMB/企业客户部署谱口=批 10 波谱新金矿之一**;排噪:无。
+- 【推断】R67/TUB 推土机深挖 批10 B 类档序续批十户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+IT 系统集成;电脑批发;IT 咨询;管理咨询
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -91,47 +91,56 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · Siewicz 独主家庭谱口(5 年新谱)
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：守档铺位 → 价锚卡
-- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
-- **随附/动作**：规格页
+- **切入点**：Prezes 80 股 P0 → 24 口 PoE(SMB/企业部署)
+- **要问的问题**：贵司 SMB/企业部署线的 24 口 PoE 交换机引入由哪位同事主责?
+- **随附/动作**：rejestr/krs/aleo 5 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · Grochowska Siewicz 双懂谱
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：Członek Zarządu 20 股谱
+- **要问的问题**：夫妇双懂各线的交换机谱口?
+- **随附/动作**：aleo 谱
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · vendor/distributor 生态谱口
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：vendor 生态谱位
+- **要问的问题**：vendor 对接谱口的品牌谱?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批10.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 30·B-263:波兰谱: **守档准由·原 R65/R57 谱基增厚**:FYR-SYSTEMS Sp. z o.o.(Warszawa Żoliborz;KRS 0000900908,2021 创):**企业级 IT 系统集成商**——backup/数据归档/networking/storage/HPC 高性能计算/**IBM LinuxONE 迁移**;与 Dell/IBM/Red Hat 合作;创始人 **Rafał Siewicz 具名(18 年 vendor/分销/集成三段生态经验)**;官网自挂『We are a proud MikroTik reseller』 | R65 深挖:Warszawa 集成商实体；Siewicz 家族结构;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第8波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
-- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
-- **关注点与资质**：波兰 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
-- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **背景深描**：2021 创 5 年新谱;Żoliborz 华沙;Siewicz 夫妇双懂;IT 系统集成
+- **芯片与在用型号**：IT 系统集成;电脑批发;IT 咨询;管理咨询
+- **关键人KP**：Rafał Siewicz(Prezes 46 岁 80 股 P0)+Katarzyna Grochowska Siewicz(Członek 44 岁 20 股)=夫妻家庭谱双懂
+- **关注点与资质**：SMB/企业 IT 集成 → 24 口 PoE(部署件)
+- **优缺点SWOT**：S=5 年新谱+家庭双懂决策快+集成商谱位对口·W=新谱=建账细档少注;50k zł 资本小档·O=SMB/企业部署 PoE 正行;波兰伺服国企中段增长窗·T=家庭司人敏感;新司资金稳注
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):波兰语谱;家庭谱决策快;vendor 生态谱;新司调性活
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**FYR-SYSTEMS Sp. z o.o.(Warszawa Żoliborz;KRS 0000900908,2021 创):**企业级 IT 系统集成商**——backup/数据归档/networking/storage/HPC 高性能计算/**IBM LinuxONE 迁移**;与 Dell/IBM/Red Ha
-  > FYR-SYSTEMS Sp. z o.o.(Warszawa Żoliborz;KRS 0000900908,2021 创):**企业级 IT 系统集成商**——backup/数据归档/networking/storage/HPC 高性能计算/**IBM LinuxONE 迁移**;与 Dell/IBM/Red Ha
-  > 来源：https://fyr-systems.pl/
-- **【联系方式与基础画像】**CSV 入口:+48 537 307 562 / mikrotik@fyr-systems.pl
-  > CSV 入口:+48 537 307 562 / mikrotik@fyr-systems.pl
-  > 来源：https://fyr-systems.pl/
+- **【法体登册】**FYR-SYSTEMS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ;KRS: 0000900908;NIP: 5252863223;KRS 0000900908;Alojzego Felińskiego 46/2, 01-563 Warszawa;SPÓŁKA;19 maja 2021;Kapitał zakładowy: 50 tys. zł
+  > FYR-SYSTEMS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ;KRS: 0000900908;NIP: 5252863223;KRS 0000900908;Alojzego Felińskiego 46/2, 01-563 Warszawa;SPÓŁKA;19 maja 2021;Kapitał zakładowy: 50 tys. zł
+  > 来源：https://rejestr.io/krs/900908/fyr-systems
+- **【谱档】**Fyr-Systems Sp. z o.o.;Felińskiego 46 lok. 2, 01-604 Warszawa, woj. mazowieckie;NIP: 5252863223;REGON: 38899266000000;KRS: 0000900908;IT 与电信业(电脑配件/维修/软件/网络设计);2021;http://fyr-systems.pl
+  > Fyr-Systems Sp. z o.o.;Felińskiego 46 lok. 2, 01-604 Warszawa, woj. mazowieckie;NIP: 5252863223;REGON: 38899266000000;KRS: 0000900908;IT 与电信业(电脑配件/维修/软件/网络设计);2021;http://fyr-systems.pl
+  > 来源：https://www.krs-online.com.pl/firma/8325317-fyr-systems-sp-z-o-o
+- **【掌权/股东】**ZARZĄD=KAŻDYT CZŁONEK ZARZĄDU SPÓŁKI(单独代表):Katarzyna Anna Grochowska Siewicz(Członek Zarządu, 44 岁,20 udziałów 10,000 zł)+Rafał Artur Siewicz(Prezes Zarządu, 46 岁,80 udziałów 40,000 zł);MBANK PL62 114 0 2004 0 000 3102 8125 8070
+  > ZARZĄD=KAŻDYT CZŁONEK ZARZĄDU SPÓŁKI(单独代表):Katarzyna Anna Grochowska Siewicz(Członek Zarządu, 44 岁,20 udziałów 10,000 zł)+Rafał Artur Siewicz(Prezes Zarządu, 46 岁,80 udziałów 40,000 zł);MBANK PL62 114 0 2004 0 000 3102 8125 8070
+  > 来源：https://aleo.com/int/company/fyr-systems-spolka-z-ograniczona-odpowiedzialnoscia-warszawa
+- **【PKD 档】**Data rozpoczęcia: 2021-05-19;status AKTYWNY;PKD: 46.51.Z Sprzedaż hurtowa komputerów, urządzeń peryferyjnych i oprogramowania(电脑批发)+62 DZIAŁALNOŚĚ ZWIĄZANA Z OPROGRAMOWANIEM I DORADZTWEM W ZAKRESIE INFORMATYKI+70.22.Z Pozostałe doradztwo
+  > Data rozpoczęcia: 2021-05-19;status AKTYWNY;PKD: 46.51.Z Sprzedaż hurtowa komputerów, urządzeń peryferyjnych i oprogramowania(电脑批发)+62 DZIAŁALNOŚĚ ZWIĄZANA Z OPROGRAMOWANIEM I DORADZTWEM W ZAKRESIE INFORMATYKI+70.22.Z Pozostałe doradztwo
+  > 来源：https://www.owg.pl/krs-rp/fyr_systems_spolka_z_ograniczona_odpowiedzialnoscia_9,88,000090090,0000900908
+- **【运作谱】**FYR-SYSTEMS Sp. z o.o.;ul. A. Felińskiego 46/2, 01-563 Warszawa;+48 513 130 332;kontakt@fyr-systems.pl;网站「Poznaj kapitanów i marynarzy FYR-Systems」=IT 系统集成;vendor, dystrybutor, partner 生态自白
+  > FYR-SYSTEMS Sp. z o.o.;ul. A. Felińskiego 46/2, 01-563 Warszawa;+48 513 130 332;kontakt@fyr-systems.pl;网站「Poznaj kapitanów i marynarzy FYR-Systems」=IT 系统集成;vendor, dystrybutor, partner 生态自白
+  > 来源：https://fyr-systems.pl/o-nas/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -144,7 +153,7 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+S=5 年新谱+家庭双懂决策快+集成商谱位对口·W=新谱=建账细档少注;50k zł 资本小档·O=SMB/企业部署 PoE 正行;波兰伺服国企中段增长窗·T=家庭司人敏感;新司资金稳注
 
 ## 触达与风险红线
 
@@ -172,8 +181,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] REGON 38899266000000/388992660 双窗注
+  - [ ] KRS/KRS-online 邮编 01-563/01-604 双窗注
+  - [ ] Grochowska Siewicz 双名连写谱注
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -185,12 +195,7 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 **主题**：PoE switching for your line
 
 ```text
-Dear FYR-SYSTEMS Sp. z o.o. Team,
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
-
-Best regards
-Saga / SmartByte ODM
+Dear Rafał,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a solid deployment block for SMB and enterprise integrations. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack available.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

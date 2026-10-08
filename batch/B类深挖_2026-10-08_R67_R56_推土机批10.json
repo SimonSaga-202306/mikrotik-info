@@ -1,0 +1,1494 @@
+{
+ "records": [
+  {
+   "customer": "B-040",
+   "code": "B-040",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批10·B-040:保谱: **АСАП ЕООД(ASAP Ltd.)深挖(papagal/bgrobodatel/asap.bg/dev.bg/АХН насти 五源互证)**:**ЕИК/ПИК 175370880(ДДС No BG175370880),2008-08-29 注册 18 年(dev.bg 招窗「2007 创」双窗注);ЕООД=独资有限公司;гр. София,бул. Цар Борис III №93(1612,Biznes Center ASAP);капитал 35,790 €(внесен);тел 02-4475-100;sales@asap.bg;www.asap.bg**;**财税金谱:**2020 оборот=1,085,984 €;служители 22(2021);dev.bg 招窗「50+ 员/保加利亚;Juniper networking 技谱」**;**谱性=**SAP Education Partner(Albania/Bulgaria/Romania/Macedonia 四国认证)**+卫生部(ЕКТ)+ERP 平台/集成云/安全部解决方案(публични услуги;dev.bg 自白「високи изисквания за сигурност, надеждност и мащабируемост」);АСАП 30+ 年 IT 综合商谱**;**KP 金锚:**Управител=ПЕТЪР АНГЕЛОВ ЗЮМБИЛЕВ(Petar Zyumbilev)=同时唯一资本主(едноличен собственик)+管理部 P0(свидетеля 3 фирми 关联谱)**;**谱位=索菲亚 18 年公/私部门 IT 集成商+SAP/重资格培训谱+Juniper networking 谱=我方 24 口 PoE 对政府/教育网络部署谱口=批 10 保谱直口**;排噪:无。",
+   "inference": "R67/TUB 推土机深挖 批10 B 类档序续批十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://papagal.bg/eik/175370880/93d3",
+   "tech": "IT 系统集成商+SAP 教育伙伴 4 国+Juniper networking+政务 ERP/云/安全方案;22-50+ 员",
+   "hr": "18 年;独资;капитал 35,790€;2020 营收 €1.08M;索菲亚 Цар Борис III 谱",
+   "contact_found": "**Петър Ангелов Зюмбилев(Petar Zyumbilev=唯一车主+管理部 P0;sales@asap.bg)**",
+   "contact_pending": "具名直邮 sales@asap.bg 已钉;+359 2 4475 100 台口 CSV 谱口",
+   "dims": {
+    "业务定位": "АСАП ЕООД(Sofia,2008 创 18 年,独资):SAP/政务 IT 集成商+培训重资谱",
+    "产品线与在售品牌": "SAP Education Partner 4 国+ERP/云/安全方案+Juniper networking 谱;政务/企业平台",
+    "目标行业与场景": "保加利亚政务/卫生部/企业;重资格再培训",
+    "团队与规模": "22 员(2021,登档)/50+(dev.bg 招窗);35,790 € 资本",
+    "决策链与对接人": "Zyumbilev 唯一车主+管理部+3 司关联谱",
+    "技术与认证": "SAP 认证伙伴/卫生部 госконтракт;Juniper 技谱",
+    "采购与供应链信号": "**政务/教育网络部署+Juniper networking 客户网=24 口 PoE 部署墙面/教育谱口;独资决策快**",
+    "近期动态与线索": "€1.08M 营收(2020 最低档);оздаляване от спонсорство 谱注",
+    "与我方契合点": "Zyumbilev 独主直口 → 24 口 PoE(政务教育基地部署)",
+    "风险与注意": "**营收逐年单源注(2020 €1.08M);22→50 员双窗注;SAP 认证谱口敏感注**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "Фирма АСАП ЕООД (на латиница ASAP) ЕИК/ПИК 175370880 е основана на 29 Август 2008;ЕООД;Седалище: БЪЛГАРИЯ, гр. София (1612);Оборот: 1 085 984 € оборот за 2020 г.;Служители: 22 служители към 2021 г.;Представляващи: Управител: ПЕТЪР АНГЕЛОВ ЗЮМБИЛЕВ (свързан с 3 фирми);Едноличен собственик на капитала: ПЕТЪР АНГЕЛОВ ЗЮМБИЛЕВ;Капитал 35 790 €",
+     "source": "https://papagal.bg/eik/175370880/93d3"
+    },
+    {
+     "dim": "谱档",
+     "quote": "АСАП ЕООД;Корпоративни технологии - управител: П. Зюмбилев;индустрия: Компютри и телекомуникации;София;тел: 024475100;сайт: www.asapbulgaria.com (зтр)",
+     "source": "https://bgrabotodatel.com/company/7956"
+    },
+    {
+     "dim": "轮档",
+     "quote": "АСАП ЕООД;Адрес: гр. София, бул. Цар Борис III, N 93, ет. 2, офис 1 прим;Тел: +359 2 4475 100;ДДС No. BG175370880;Идент. No. 175370880;МОЛ: Петър Зюмбилев;RO +40 31 6300863;UK +44 84 33303591",
+     "source": "https://www.asap.bg/bulgaria/firmena-informatsiya.html"
+    },
+    {
+     "dim": "技谱档",
+     "quote": "ASAP е българска технологична компания, основана през 2007 г.;стратегически софтуерни и инфраструктурни системи за публичния и корпоративния сектор;Технологии: Juniper networking;50+ 员;София",
+     "source": "https://dev.bg/company/asap/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Zyumbilev 独主直口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "唯一车主+管理部 → 24 口 PoE(政务教育部署)",
+     "question": "贵司政务/教育项目线的 24 口 PoE 部署设备由哪位同事定选?",
+     "proof": "papagal/bgrobodatel 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · SAP 认证谱口+培训谱",
+     "push": "STI-288GPM/424",
+     "angle": "SAP 4 国认证+重资格培训",
+     "question": "贵 SAP/重资格客户的教育/政务部署件谱?",
+     "proof": "asap.bg 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Juniper 客网谱口",
+     "push": "STC-28DGGPM",
+     "angle": "Juniper networking 技谱",
+     "question": "客户网中的 PoE 交换机层谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2008 创 18 年(2007 双窗注);Sofia;独资 Zyumbilev;小城塞浦路斯进口谱无",
+     "②芯片/型号": "SAP/ERP/云/安全方案;Juniper networking;政务部署谱",
+     "③KP 深挖": "Petar Zyumbilev(唯一车主+管理部 P0;3 司关联谱)=单口决策谱",
+     "④Saga 对标": "政务/教育 IT 集成 → 24 口 PoE(教室/政务基建件)",
+     "⑤在乎与偏好": "保语谱;独主直口;SAP 认证资质;Juniper 客网",
+     "⑥SWOT": "S=独资决策快+政务/SAP 4 国认证谱+教育重资谱位/W=单源最小档 €1.08M;双窗创年注/O=政务/教育网络升级=PoE 部署正行/T=SAP/Juniper 认证伙伴敏感谱;小档税注"
+    },
+    "care": "- **S**:独资决策快+政务/SAP 4 国认证谱+教育重资谱位\n- **W**:单源最小档 €1.08M;双窗创年注\n- **O**:政务/教育网络升级=PoE 部署正行\n- **T**:SAP/Juniper 认证伙伴敏感谱;小档税注",
+    "swot": {
+     "S": "独资决策快+政务/SAP 4 国认证谱+教育重资谱位",
+     "W": "单源最小档 €1.08M;双窗创年注",
+     "O": "政务/教育网络升级=PoE 部署正行",
+     "T": "SAP/Juniper 认证伙伴敏感谱;小档税注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批10 B 类档序续批十户",
+    "gap_proof": "https://papagal.bg/eik/175370880/93d3"
+   },
+   "unknowns": [
+    "логотип/фирмен стил 三档别注",
+    "асapbulgaria.com 遗域谱注",
+    "Zyumbilev 3 司三级档待核"
+   ],
+   "unknowns56": [
+    "логотип/фирмен стил 三档别注",
+    "асapbulgaria.com 遗域谱注",
+    "Zyumbilev 3 司三级档待核"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批10 B 类",
+   "email": "Dear Petar,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a solid, quietly reliable piece of infrastructure for government, education and enterprise network deployments. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack available.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Petar Zyumbilev(Petar Zyumbilev=唯一车主+管理部 P0)+sales@asap.bg/info@asap.bg 口口 +359 2 4475 100**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "2008 创 18 年(2007 双窗注);Sofia;独资 Zyumbilev;小城塞浦路斯进口谱无",
+    "芯片与在用型号": "SAP/ERP/云/安全方案;Juniper networking;政务部署谱",
+    "关键人KP": "Petar Zyumbilev(唯一车主+管理部 P0;3 司关联谱)=单口决策谱",
+    "关注点与资质": "政务/教育 IT 集成 → 24 口 PoE(教室/政务基建件)",
+    "优缺点SWOT": "S=独资决策快+政务/SAP 4 国认证谱+教育重资谱位·W=单源最小档 €1.08M;双窗创年注·O=政务/教育网络升级=PoE 部署正行·T=SAP/Juniper 认证伙伴敏感谱;小档税注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):保语谱;独主直口;SAP 认证资质;Juniper 客网"
+   },
+   "swot_text": "- **S**:独资决策快+政务/SAP 4 国认证谱+教育重资谱位\n- **W**:单源最小档 €1.08M;双窗创年注\n- **O**:政务/教育网络升级=PoE 部署正行\n- **T**:SAP/Juniper 认证伙伴敏感谱;小档税注",
+   "facts": [
+    {
+     "dim": "法体登册",
+     "text": "Фирма АСАП ЕООД (на латиница ASAP) ЕИК/ПИК 175370880 е основана на 29 Август 2008;ЕООД;Седалище: БЪЛГАРИЯ, гр. София (1612);Оборот: 1 085 984 € оборот за 2020 г.;Служители: 22 служители към 2021 г.;Представляващи: Управител: ПЕТЪР АНГЕЛОВ ЗЮМБИЛЕВ (свързан с 3 фирми);Едноличен собственик на капитала: ПЕТЪР АНГЕЛОВ ЗЮМБИЛЕВ;Капитал 35 790 €",
+     "quote": "Фирма АСАП ЕООД (на латиница ASAP) ЕИК/ПИК 175370880 е основана на 29 Август 2008;ЕООД;Седалище: БЪЛГАРИЯ, гр. София (1612);Оборот: 1 085 984 € оборот за 2020 г.;Служители: 22 служители към 2021 г.;Представляващи: Управител: ПЕТЪР АНГЕЛОВ ЗЮМБИЛЕВ (свързан с 3 фирми);Едноличен собственик на капитала: ПЕТЪР АНГЕЛОВ ЗЮМБИЛЕВ;Капитал 35 790 €",
+     "url": "https://papagal.bg/eik/175370880/93d3"
+    },
+    {
+     "dim": "谱档",
+     "text": "АСАП ЕООД;Корпоративни технологии - управител: П. Зюмбилев;индустрия: Компютри и телекомуникации;София;тел: 024475100;сайт: www.asapbulgaria.com (зтр)",
+     "quote": "АСАП ЕООД;Корпоративни технологии - управител: П. Зюмбилев;индустрия: Компютри и телекомуникации;София;тел: 024475100;сайт: www.asapbulgaria.com (зтр)",
+     "url": "https://bgrabotodatel.com/company/7956"
+    },
+    {
+     "dim": "轮档",
+     "text": "АСАП ЕООД;Адрес: гр. София, бул. Цар Борис III, N 93, ет. 2, офис 1 прим;Тел: +359 2 4475 100;ДДС No. BG175370880;Идент. No. 175370880;МОЛ: Петър Зюмбилев;RO +40 31 6300863;UK +44 84 33303591",
+     "quote": "АСАП ЕООД;Адрес: гр. София, бул. Цар Борис III, N 93, ет. 2, офис 1 прим;Тел: +359 2 4475 100;ДДС No. BG175370880;Идент. No. 175370880;МОЛ: Петър Зюмбилев;RO +40 31 6300863;UK +44 84 33303591",
+     "url": "https://www.asap.bg/bulgaria/firmena-informatsiya.html"
+    },
+    {
+     "dim": "技谱档",
+     "text": "ASAP е българска технологична компания, основана през 2007 г.;стратегически софтуерни и инфраструктурни системи за публичния и корпоративния сектор;Технологии: Juniper networking;50+ 员;София",
+     "quote": "ASAP е българска технологична компания, основана през 2007 г.;стратегически софтуерни и инфраструктурни системи за публичния и корпоративния сектор;Технологии: Juniper networking;50+ 员;София",
+     "url": "https://dev.bg/company/asap/"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批10·B-040:保谱: **АСАП ЕООД(ASAP Ltd.)深挖(papagal/bgrobodatel/asap.bg/dev.bg/АХН насти 五源互证)**:**ЕИК/ПИК 175370880(ДДС No BG175370880),2008-08-29 注册 18 年(dev.bg 招窗「2007 创」双窗注);ЕООД=独资有限公司;гр. София,бул. Цар Борис III №93(1612,Biznes Center ASAP);капитал 35,790 €(внесен);тел 02-4475-100;sales@asap.bg;www.asap.bg**;**财税金谱:**2020 оборот=1,085,984 €;служители 22(2021);dev.bg 招窗「50+ 员/保加利亚;Juniper networking 技谱」**;**谱性=**SAP Education Partner(Albania/Bulgaria/Romania/Macedonia 四国认证)**+卫生部(ЕКТ)+ERP 平台/集成云/安全部解决方案(публични услуги;dev.bg 自白「високи изисквания за сигурност, надеждност и мащабируемост」);АСАП 30+ 年 IT 综合商谱**;**KP 金锚:**Управител=ПЕТЪР АНГЕЛОВ ЗЮМБИЛЕВ(Petar Zyumbilev)=同时唯一资本主(едноличен собственик)+管理部 P0(свидетеля 3 фирми 关联谱)**;**谱位=索菲亚 18 年公/私部门 IT 集成商+SAP/重资格培训谱+Juniper networking 谱=我方 24 口 PoE 对政府/教育网络部署谱口=批 10 保谱直口**;排噪:无。",
+    "inference": "R67/TUB 推土机深挖 批10 B 类档序续批十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-517",
+   "code": "B-517",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批10·B-517:挪谱: **Fiberworks AS 深挖(1881/proff/gulesider/fiberworks.net/brreg 五源互证)**:**Org.nr 959 977 046;stiftelsesdato 1990-12-27(36 年!);registrert 1995-02-20(Foretaksregisteret);Aksjeselskap;Aksjekapital 500,000;Eikenga 11,0579 Oslo(Økern);NACE 46.500 ICT 批发;antall ansatte 23-24;tel 23 03 53 30;sales@fiberworks.no;fiberworks.net + fiberworks.no**;**集团金锚:**Aksjonærer=**Sorb Industri AB(100%)**=瑞典 Sorb Industri 全资子司(Proff.no 记「inngår i konsern」);**KP 金谱:**Daglig leder=**Roger Allan Wahlgren(f 1973;同时 Styremedlem)**+**Styrets leder=Martin Roland Linder(f 1972)**+**集团层=Sorb Industri AB 董事会(名待核)=3 轨谱**;**谱口:**fiberoptikk 根源名 fiberworks.net=光纤连接件/收发器/光纤布线/工业网络件(produkter 档;fiberconnect/光纤光缆谱);telecom/datamaskin/elektronikkprodukter 三业档**;**谱位=挪威 36 年光纤/电信件批+瑞典集团全资背景=我方 24 口 PoE 北欧光纤网/工业网络部署谱口=批 10 北欧金矿之一**;排噪:美国 Fiberworks(光纤美国司)=同名别司注。",
+   "inference": "R67/TUB 推土机深挖 批10 B 类档序续批十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.proff.no/selskap/fiberworks-as/oslo/elektronikk-og-telekommunikasjonsutstyr-engros/IFVJN1210MZ",
+   "tech": "光纤/电信件/工业网络件批发分销(NACE 46.500);瑞典 Sorb Industri 全资子;fiberoptikk 技谱",
+   "hr": "36 年;23-24 员;Oslo Økern;aksjekapital 500k",
+   "contact_found": "**Roger Allan Wahlgren(Daglig leder 1973 生 P0+Styremedlem)+Martin Roland Linder(Styrets leder,1972)+Sorb Industri AB 集团层**",
+   "contact_pending": "具名直邮 sales@fiberworks.no 已钉;+47 23 03 53 30 台口 CSV 谱口",
+   "dims": {
+    "业务定位": "Fiberworks AS(Oslo Økern,1990 创 36 年,Sorb 全资):挪威光纤/电信件 36 年批发谱",
+    "产品线与在售品牌": "光纤连接件/收发器/光纤布线/工业网络件+telecom/datamaskin/elektronikkprodukter 三业档",
+    "目标行业与场景": "挪威/北欧 ISP/电信/工业客户;集团内部谱",
+    "团队与规模": "23-24 员(登档+1881 谱);36 年",
+    "决策链与对接人": "Wahlgren(Daglig leder 1973)+Linder(Styrets leder)+Sorb 集团层",
+    "技术与认证": "Proff Brønnøysund 登档;NACE 46.500",
+    "采购与供应链信号": "**光纤网/工业网络设备批发+36 年谱=24 口 PoE 对光纤市场/工业部署/ISP 谱口;全资决策在集团注**",
+    "近期动态与线索": "36 年上市级稳定性;集团内部谱网;skjønnerden 30+ 年 fiberoptikk 谱",
+    "与我方契合点": "Wahlgren 直口 → 24 口 PoE(光纤网/工业部署)",
+    "风险与注意": "**全资决策层在 Sorb 瑞典集团注;23-24 员双档注**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "FIBERWORKS AS;Org nr 959 977 046;Registreringsdato 20.02.1995;Stiftelsesdato 27.12.1990;Selskapsform Aksjeselskap;Antall ansatte 24;NACE-bransje 46.500 Engroshandel med informasjons- og kommunikasjonsteknologiutstyr;Aksjekapital 500",
+     "source": "https://www.proff.no/selskap/fiberworks-as/oslo/elektronikk-og-telekommunikasjonsutstyr-engros/IFVJN1210MZ"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Fiberworks AS;Eikenga 11, 0579 Oslo;Ring 23 03 53 30;Styrets leder: Martin Roland Linder;Daglig leder: Roger Allan Wahlgren;Styremedlem: Roger Allan Wahlgren;Antall ansatte: 23;Aksjonærer: Sorb Industri AB (100%);Stiftelsesdato: 27.12.1990",
+     "source": "https://www.1881.no/telematikk-og-telekommunikasjon/telematikk-og-telekommunikasjon-oslo/telematikk-og-telekommunikasjon-oekern/fiberworks-as_100206951S1/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Fiberworks AS;Eikenga 11;23035330;Daglig leder Roger Allan Wahlgren;Styrets leder Martin Roland Linder;Juridisk navn FIBERWORKS AS;Selskapsform: Aksjeselskap;Stiftelsesdato 27.12.1990;Org.nr: 959977046;Aksjekapital 500000;Omsetning: 1. Telekommunikasjon 2. Datamaskiner, Datautstyr 3. Elektronikkprodukt",
+     "source": "https://www.gulesider.no/fiberworks+as+oslo/84446737/bedrift"
+    },
+    {
+     "dim": "运作谱",
+     "quote": "Fiberworks AS;Eikenga 11 0579 Oslo;+47 23 03 53 30;sales@fiberworks.no;Organisation Number: 959 977 046;Åpningstider: Mandag til fredag 08:00 - 16:00 CET",
+     "source": "https://www.fiberworks.net/en/products"
+    },
+    {
+     "dim": "Brønnøysund",
+     "quote": "FIBERWORKS AS;Organisasjonsnummer: 959 977 046;Forretningsadresse: Eikenga 11 0579 OSLO;Organisasjonsform: Aksjeselskap;Næringskode: 46.500 Engroshandel med informasjons- og kommunikasjonsteknologiutstyr",
+     "source": "https://virksomhet.brreg.no/nb/oppslag/enheter/959977046"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Wahlgren 直口(36 年批发谱)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "Daglig leder+Styremedlem → 24 口 PoE(光纤网/工业部署)",
+     "question": "贵司光纤/工业网络件线的 24 口 PoE 交换机引入由哪位同事主责?",
+     "proof": "proff/1881 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Sorb Industri 集团层",
+     "push": "STI-288GPM/424",
+     "angle": "全资集团决策窗",
+     "question": "Sorb 集团层对新品织谱?",
+     "proof": "proff 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Linder 主席谱",
+     "push": "STC-28DGGPM",
+     "angle": "Styrets leder 谱口",
+     "question": "贵司售市中的 PoE 谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1990 创 36 年;Økern Oslo;Sorb Industri AB 全资(瑞典集团);fiberoptikk 根源",
+     "②芯片/型号": "光纤连接/收发器/光纤布线/工业网络件;telecom/PC/elektronikkprodukter",
+     "③KP 深挖": "Wahlgren(Daglig leder 1973+Styremedlem P0)+Linder(Styrets leder 1972)+Sorb 集团层=3 轨谱",
+     "④Saga 对标": "光纤网/工业网络件 → 24 口 PoE(ISP/工业部署件)",
+     "⑤在乎与偏好": "挪威语谱;集团全资;fiberoptikk 技私;销售开放 Mon-Fri 08-16 CET",
+     "⑥SWOT": "S=36 年谱稳+光纤根源+Sorb 全资背景集团链/W=全资决策在集团;23-24 员双档注/O=北欧 ISP/工业网络设备谱口+光纤市场切换窗/T=瑞典集团决策链长注;光纤/铜缆双轨敏谱"
+    },
+    "care": "- **S**:36 年谱稳+光纤根源+Sorb 全资背景集团链\n- **W**:全资决策在集团;23-24 员双档注\n- **O**:北欧 ISP/工业网络设备谱口+光纤市场切换窗\n- **T**:瑞典集团决策链长注;光纤/铜缆双轨敏谱",
+    "swot": {
+     "S": "36 年谱稳+光纤根源+Sorb 全资背景集团链",
+     "W": "全资决策在集团;23-24 员双档注",
+     "O": "北欧 ISP/工业网络设备谱口+光纤市场切换窗",
+     "T": "瑞典集团决策链长注;光纤/铜缆双轨敏谱"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批10 B 类档序续批十户",
+    "gap_proof": "https://www.proff.no/selskap/fiberworks-as/oslo/elektronikk-og-telekommunikasjonsutstyr-engros/IFVJN1210MZ"
+   },
+   "unknowns": [
+    "Sorb Industri AB 集团 CEO 名待核",
+    "fiberworks.net/fiberworks.no 双域合谱注",
+    "Sorb 集团网谱位待核"
+   ],
+   "unknowns56": [
+    "Sorb Industri AB 集团 CEO 名待核",
+    "fiberworks.net/fiberworks.no 双域合谱注",
+    "Sorb 集团网谱位待核"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批10 B 类",
+   "email": "Dear Roger,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a solid block for ISP, industrial and fibre-network shop floors where cameras, APs and readers ride on copper. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack available.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Roger Allan Wahlgren(Daglig leder 1973 P0)+Martin Roland Linder(Styrets leder)+sales@fiberworks.no/+47 23 03 53 30**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "1990 创 36 年;Økern Oslo;Sorb Industri AB 全资(瑞典集团);fiberoptikk 根源",
+    "芯片与在用型号": "光纤连接/收发器/光纤布线/工业网络件;telecom/PC/elektronikkprodukter",
+    "关键人KP": "Wahlgren(Daglig leder 1973+Styremedlem P0)+Linder(Styrets leder 1972)+Sorb 集团层=3 轨谱",
+    "关注点与资质": "光纤网/工业网络件 → 24 口 PoE(ISP/工业部署件)",
+    "优缺点SWOT": "S=36 年谱稳+光纤根源+Sorb 全资背景集团链·W=全资决策在集团;23-24 员双档注·O=北欧 ISP/工业网络设备谱口+光纤市场切换窗·T=瑞典集团决策链长注;光纤/铜缆双轨敏谱",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):挪威语谱;集团全资;fiberoptikk 技私;销售开放 Mon-Fri 08-16 CET"
+   },
+   "swot_text": "- **S**:36 年谱稳+光纤根源+Sorb 全资背景集团链\n- **W**:全资决策在集团;23-24 员双档注\n- **O**:北欧 ISP/工业网络设备谱口+光纤市场切换窗\n- **T**:瑞典集团决策链长注;光纤/铜缆双轨敏谱",
+   "facts": [
+    {
+     "dim": "法体登册",
+     "text": "FIBERWORKS AS;Org nr 959 977 046;Registreringsdato 20.02.1995;Stiftelsesdato 27.12.1990;Selskapsform Aksjeselskap;Antall ansatte 24;NACE-bransje 46.500 Engroshandel med informasjons- og kommunikasjonsteknologiutstyr;Aksjekapital 500",
+     "quote": "FIBERWORKS AS;Org nr 959 977 046;Registreringsdato 20.02.1995;Stiftelsesdato 27.12.1990;Selskapsform Aksjeselskap;Antall ansatte 24;NACE-bransje 46.500 Engroshandel med informasjons- og kommunikasjonsteknologiutstyr;Aksjekapital 500",
+     "url": "https://www.proff.no/selskap/fiberworks-as/oslo/elektronikk-og-telekommunikasjonsutstyr-engros/IFVJN1210MZ"
+    },
+    {
+     "dim": "谱档",
+     "text": "Fiberworks AS;Eikenga 11, 0579 Oslo;Ring 23 03 53 30;Styrets leder: Martin Roland Linder;Daglig leder: Roger Allan Wahlgren;Styremedlem: Roger Allan Wahlgren;Antall ansatte: 23;Aksjonærer: Sorb Industri AB (100%);Stiftelsesdato: 27.12.1990",
+     "quote": "Fiberworks AS;Eikenga 11, 0579 Oslo;Ring 23 03 53 30;Styrets leder: Martin Roland Linder;Daglig leder: Roger Allan Wahlgren;Styremedlem: Roger Allan Wahlgren;Antall ansatte: 23;Aksjonærer: Sorb Industri AB (100%);Stiftelsesdato: 27.12.1990",
+     "url": "https://www.1881.no/telematikk-og-telekommunikasjon/telematikk-og-telekommunikasjon-oslo/telematikk-og-telekommunikasjon-oekern/fiberworks-as_100206951S1/"
+    },
+    {
+     "dim": "谱档",
+     "text": "Fiberworks AS;Eikenga 11;23035330;Daglig leder Roger Allan Wahlgren;Styrets leder Martin Roland Linder;Juridisk navn FIBERWORKS AS;Selskapsform: Aksjeselskap;Stiftelsesdato 27.12.1990;Org.nr: 959977046;Aksjekapital 500000;Omsetning: 1. Telekommunikasjon 2. Datamaskiner, Datautstyr 3. Elektronikkprodukt",
+     "quote": "Fiberworks AS;Eikenga 11;23035330;Daglig leder Roger Allan Wahlgren;Styrets leder Martin Roland Linder;Juridisk navn FIBERWORKS AS;Selskapsform: Aksjeselskap;Stiftelsesdato 27.12.1990;Org.nr: 959977046;Aksjekapital 500000;Omsetning: 1. Telekommunikasjon 2. Datamaskiner, Datautstyr 3. Elektronikkprodukt",
+     "url": "https://www.gulesider.no/fiberworks+as+oslo/84446737/bedrift"
+    },
+    {
+     "dim": "运作谱",
+     "text": "Fiberworks AS;Eikenga 11 0579 Oslo;+47 23 03 53 30;sales@fiberworks.no;Organisation Number: 959 977 046;Åpningstider: Mandag til fredag 08:00 - 16:00 CET",
+     "quote": "Fiberworks AS;Eikenga 11 0579 Oslo;+47 23 03 53 30;sales@fiberworks.no;Organisation Number: 959 977 046;Åpningstider: Mandag til fredag 08:00 - 16:00 CET",
+     "url": "https://www.fiberworks.net/en/products"
+    },
+    {
+     "dim": "Brønnøysund",
+     "text": "FIBERWORKS AS;Organisasjonsnummer: 959 977 046;Forretningsadresse: Eikenga 11 0579 OSLO;Organisasjonsform: Aksjeselskap;Næringskode: 46.500 Engroshandel med informasjons- og kommunikasjonsteknologiutstyr",
+     "quote": "FIBERWORKS AS;Organisasjonsnummer: 959 977 046;Forretningsadresse: Eikenga 11 0579 OSLO;Organisasjonsform: Aksjeselskap;Næringskode: 46.500 Engroshandel med informasjons- og kommunikasjonsteknologiutstyr",
+     "url": "https://virksomhet.brreg.no/nb/oppslag/enheter/959977046"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批10·B-517:挪谱: **Fiberworks AS 深挖(1881/proff/gulesider/fiberworks.net/brreg 五源互证)**:**Org.nr 959 977 046;stiftelsesdato 1990-12-27(36 年!);registrert 1995-02-20(Foretaksregisteret);Aksjeselskap;Aksjekapital 500,000;Eikenga 11,0579 Oslo(Økern);NACE 46.500 ICT 批发;antall ansatte 23-24;tel 23 03 53 30;sales@fiberworks.no;fiberworks.net + fiberworks.no**;**集团金锚:**Aksjonærer=**Sorb Industri AB(100%)**=瑞典 Sorb Industri 全资子司(Proff.no 记「inngår i konsern」);**KP 金谱:**Daglig leder=**Roger Allan Wahlgren(f 1973;同时 Styremedlem)**+**Styrets leder=Martin Roland Linder(f 1972)**+**集团层=Sorb Industri AB 董事会(名待核)=3 轨谱**;**谱口:**fiberoptikk 根源名 fiberworks.net=光纤连接件/收发器/光纤布线/工业网络件(produkter 档;fiberconnect/光纤光缆谱);telecom/datamaskin/elektronikkprodukter 三业档**;**谱位=挪威 36 年光纤/电信件批+瑞典集团全资背景=我方 24 口 PoE 北欧光纤网/工业网络部署谱口=批 10 北欧金矿之一**;排噪:美国 Fiberworks(光纤美国司)=同名别司注。",
+    "inference": "R67/TUB 推土机深挖 批10 B 类档序续批十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-263",
+   "code": "B-263",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批10·B-263:波谱: **FYR-SYSTEMS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ 深挖(rejestr.io/krs-online/aleo/owg/fyr-systems.pl 五源互证)**:**KRS 0000900908;NIP 5252863223;REGON 388992660(00000 尾注);2021-05-19 注册 5 年新谱;kapitał 50,000 zł;Alojzego Felińskiego 46 lok. 2,01-563 Warszawa(Żoliborz;KRS 档 01-604 双窗注);PKD 主=46.51.Z 电脑批发(后备 62 IT 编程咨询+70.22.Z 管理咨询);MBANK PL62 114 0 2004 0 000 3102 8125 8070(aleo 档)**;**网站谱:fyr-systems.pl=IT 系统集成商(「vendor, dystrybutor, partner」生态自白);+48 513 130 332;kontakt@fyr-systems.pl**;**KP 金谱:**Prezes Zarządu=**Rafał Artur Siewicz**(46 岁;80 股 40,000 zł)+**Członek Zarządu=**Katarzyna Anna Grochowska Siewicz**(44 岁;20 股 10,000 zł)**=夫妻双懂董事会谱(「kapitanowie i marynarze」海运网命美网站看「kapitanowie」)**;**谱位=华沙 5 年新 IT 集成商=我方 24 口 PoE 对 SMB/企业客户部署谱口=批 10 波谱新金矿之一**;排噪:无。",
+   "inference": "R67/TUB 推土机深挖 批10 B 类档序续批十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://rejestr.io/krs/900908/fyr-systems",
+   "tech": "IT 系统集成商(vendor/分销商/伙伴生态自白);PKD 46.51.Z 电脑批发+62 IT 咨询",
+   "hr": "5 年新谱;Siewicz 夫妇双懂;华沙 Żoliborz",
+   "contact_found": "**Rafał Artur Siewicz(Prezes Zarządu 46 岁 P0+80 股)+Katarzyna Anna Grochowska Siewicz(Członek Zarządu 44 岁+20 股)**",
+   "contact_pending": "具名直邮 kontakt@fyr-systems.pl 已钉;+48 513 130 332 台口 CSV 谱口",
+   "dims": {
+    "业务定位": "FYR-SYSTEMS Sp. z o.o.(Warszawa Żoliborz,2021 创 5 年,夫妇双懂):华沙新 IT 系统集成商",
+    "产品线与在售品牌": "电脑/外围/SW 批发+IT 咨询+管理咨询;IT 系统集成商(vendor/distributor/partner 生态)",
+    "目标行业与场景": "波兰 SMB/企业客户;vendor 生态客户网",
+    "团队与规模": "5 年;50,000 zł 资本;夫妇双懂",
+    "决策链与对接人": "Siewicz(Prezes 80 股)+Grochowska Siewicz(Członek 20 股)",
+    "技术与认证": "MBANK 活跃;PKD 46.51.Z 档",
+    "采购与供应链信号": "**5 年新谱+集成商=24 口 PoE 对 SMB/企业部署谱口;独主家庭谱口决策快**",
+    "近期动态与线索": "网站「vendor/distributor/partner」生态自白=集成商定位谱",
+    "与我方契合点": "Siewicz 直口 → 24 口 PoE(SMB/企业部署)",
+    "风险与注意": "**5 年新谱=建立期财务档少注;夫妇唯一双懂=单口人谱敏感注**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "FYR-SYSTEMS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ;KRS: 0000900908;NIP: 5252863223;KRS 0000900908;Alojzego Felińskiego 46/2, 01-563 Warszawa;SPÓŁKA;19 maja 2021;Kapitał zakładowy: 50 tys. zł",
+     "source": "https://rejestr.io/krs/900908/fyr-systems"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Fyr-Systems Sp. z o.o.;Felińskiego 46 lok. 2, 01-604 Warszawa, woj. mazowieckie;NIP: 5252863223;REGON: 38899266000000;KRS: 0000900908;IT 与电信业(电脑配件/维修/软件/网络设计);2021;http://fyr-systems.pl",
+     "source": "https://www.krs-online.com.pl/firma/8325317-fyr-systems-sp-z-o-o"
+    },
+    {
+     "dim": "掌权/股东",
+     "quote": "ZARZĄD=KAŻDYT CZŁONEK ZARZĄDU SPÓŁKI(单独代表):Katarzyna Anna Grochowska Siewicz(Członek Zarządu, 44 岁,20 udziałów 10,000 zł)+Rafał Artur Siewicz(Prezes Zarządu, 46 岁,80 udziałów 40,000 zł);MBANK PL62 114 0 2004 0 000 3102 8125 8070",
+     "source": "https://aleo.com/int/company/fyr-systems-spolka-z-ograniczona-odpowiedzialnoscia-warszawa"
+    },
+    {
+     "dim": "PKD 档",
+     "quote": "Data rozpoczęcia: 2021-05-19;status AKTYWNY;PKD: 46.51.Z Sprzedaż hurtowa komputerów, urządzeń peryferyjnych i oprogramowania(电脑批发)+62 DZIAŁALNOŚĚ ZWIĄZANA Z OPROGRAMOWANIEM I DORADZTWEM W ZAKRESIE INFORMATYKI+70.22.Z Pozostałe doradztwo",
+     "source": "https://www.owg.pl/krs-rp/fyr_systems_spolka_z_ograniczona_odpowiedzialnoscia_9,88,000090090,0000900908"
+    },
+    {
+     "dim": "运作谱",
+     "quote": "FYR-SYSTEMS Sp. z o.o.;ul. A. Felińskiego 46/2, 01-563 Warszawa;+48 513 130 332;kontakt@fyr-systems.pl;网站「Poznaj kapitanów i marynarzy FYR-Systems」=IT 系统集成;vendor, dystrybutor, partner 生态自白",
+     "source": "https://fyr-systems.pl/o-nas/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Siewicz 独主家庭谱口(5 年新谱)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "Prezes 80 股 P0 → 24 口 PoE(SMB/企业部署)",
+     "question": "贵司 SMB/企业部署线的 24 口 PoE 交换机引入由哪位同事主责?",
+     "proof": "rejestr/krs/aleo 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Grochowska Siewicz 双懂谱",
+     "push": "STI-288GPM/424",
+     "angle": "Członek Zarządu 20 股谱",
+     "question": "夫妇双懂各线的交换机谱口?",
+     "proof": "aleo 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · vendor/distributor 生态谱口",
+     "push": "STC-28DGGPM",
+     "angle": "vendor 生态谱位",
+     "question": "vendor 对接谱口的品牌谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2021 创 5 年新谱;Żoliborz 华沙;Siewicz 夫妇双懂;IT 系统集成",
+     "②芯片/型号": "IT 系统集成;电脑批发;IT 咨询;管理咨询",
+     "③KP 深挖": "Rafał Siewicz(Prezes 46 岁 80 股 P0)+Katarzyna Grochowska Siewicz(Członek 44 岁 20 股)=夫妻家庭谱双懂",
+     "④Saga 对标": "SMB/企业 IT 集成 → 24 口 PoE(部署件)",
+     "⑤在乎与偏好": "波兰语谱;家庭谱决策快;vendor 生态谱;新司调性活",
+     "⑥SWOT": "S=5 年新谱+家庭双懂决策快+集成商谱位对口/W=新谱=建账细档少注;50k zł 资本小档/O=SMB/企业部署 PoE 正行;波兰伺服国企中段增长窗/T=家庭司人敏感;新司资金稳注"
+    },
+    "care": "- **S**:5 年新谱+家庭双懂决策快+集成商谱位对口\n- **W**:新谱=建账细档少注;50k zł 资本小档\n- **O**:SMB/企业部署 PoE 正行;波兰伺服国企中段增长窗\n- **T**:家庭司人敏感;新司资金稳注",
+    "swot": {
+     "S": "5 年新谱+家庭双懂决策快+集成商谱位对口",
+     "W": "新谱=建账细档少注;50k zł 资本小档",
+     "O": "SMB/企业部署 PoE 正行;波兰伺服国企中段增长窗",
+     "T": "家庭司人敏感;新司资金稳注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批10 B 类档序续批十户",
+    "gap_proof": "https://rejestr.io/krs/900908/fyr-systems"
+   },
+   "unknowns": [
+    "REGON 38899266000000/388992660 双窗注",
+    "KRS/KRS-online 邮编 01-563/01-604 双窗注",
+    "Grochowska Siewicz 双名连写谱注"
+   ],
+   "unknowns56": [
+    "REGON 38899266000000/388992660 双窗注",
+    "KRS/KRS-online 邮编 01-563/01-604 双窗注",
+    "Grochowska Siewicz 双名连写谱注"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批10 B 类",
+   "email": "Dear Rafał,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a solid deployment block for SMB and enterprise integrations. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack available.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Rafał Siewicz(Prezes 46 岁 80 股 P0)+Katarzyna Grochowska Siewicz(44 岁 Członek)+kontakt@fyr-systems.pl/+48 513 130 332 0**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "2021 创 5 年新谱;Żoliborz 华沙;Siewicz 夫妇双懂;IT 系统集成",
+    "芯片与在用型号": "IT 系统集成;电脑批发;IT 咨询;管理咨询",
+    "关键人KP": "Rafał Siewicz(Prezes 46 岁 80 股 P0)+Katarzyna Grochowska Siewicz(Członek 44 岁 20 股)=夫妻家庭谱双懂",
+    "关注点与资质": "SMB/企业 IT 集成 → 24 口 PoE(部署件)",
+    "优缺点SWOT": "S=5 年新谱+家庭双懂决策快+集成商谱位对口·W=新谱=建账细档少注;50k zł 资本小档·O=SMB/企业部署 PoE 正行;波兰伺服国企中段增长窗·T=家庭司人敏感;新司资金稳注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):波兰语谱;家庭谱决策快;vendor 生态谱;新司调性活"
+   },
+   "swot_text": "- **S**:5 年新谱+家庭双懂决策快+集成商谱位对口\n- **W**:新谱=建账细档少注;50k zł 资本小档\n- **O**:SMB/企业部署 PoE 正行;波兰伺服国企中段增长窗\n- **T**:家庭司人敏感;新司资金稳注",
+   "facts": [
+    {
+     "dim": "法体登册",
+     "text": "FYR-SYSTEMS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ;KRS: 0000900908;NIP: 5252863223;KRS 0000900908;Alojzego Felińskiego 46/2, 01-563 Warszawa;SPÓŁKA;19 maja 2021;Kapitał zakładowy: 50 tys. zł",
+     "quote": "FYR-SYSTEMS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ;KRS: 0000900908;NIP: 5252863223;KRS 0000900908;Alojzego Felińskiego 46/2, 01-563 Warszawa;SPÓŁKA;19 maja 2021;Kapitał zakładowy: 50 tys. zł",
+     "url": "https://rejestr.io/krs/900908/fyr-systems"
+    },
+    {
+     "dim": "谱档",
+     "text": "Fyr-Systems Sp. z o.o.;Felińskiego 46 lok. 2, 01-604 Warszawa, woj. mazowieckie;NIP: 5252863223;REGON: 38899266000000;KRS: 0000900908;IT 与电信业(电脑配件/维修/软件/网络设计);2021;http://fyr-systems.pl",
+     "quote": "Fyr-Systems Sp. z o.o.;Felińskiego 46 lok. 2, 01-604 Warszawa, woj. mazowieckie;NIP: 5252863223;REGON: 38899266000000;KRS: 0000900908;IT 与电信业(电脑配件/维修/软件/网络设计);2021;http://fyr-systems.pl",
+     "url": "https://www.krs-online.com.pl/firma/8325317-fyr-systems-sp-z-o-o"
+    },
+    {
+     "dim": "掌权/股东",
+     "text": "ZARZĄD=KAŻDYT CZŁONEK ZARZĄDU SPÓŁKI(单独代表):Katarzyna Anna Grochowska Siewicz(Członek Zarządu, 44 岁,20 udziałów 10,000 zł)+Rafał Artur Siewicz(Prezes Zarządu, 46 岁,80 udziałów 40,000 zł);MBANK PL62 114 0 2004 0 000 3102 8125 8070",
+     "quote": "ZARZĄD=KAŻDYT CZŁONEK ZARZĄDU SPÓŁKI(单独代表):Katarzyna Anna Grochowska Siewicz(Członek Zarządu, 44 岁,20 udziałów 10,000 zł)+Rafał Artur Siewicz(Prezes Zarządu, 46 岁,80 udziałów 40,000 zł);MBANK PL62 114 0 2004 0 000 3102 8125 8070",
+     "url": "https://aleo.com/int/company/fyr-systems-spolka-z-ograniczona-odpowiedzialnoscia-warszawa"
+    },
+    {
+     "dim": "PKD 档",
+     "text": "Data rozpoczęcia: 2021-05-19;status AKTYWNY;PKD: 46.51.Z Sprzedaż hurtowa komputerów, urządzeń peryferyjnych i oprogramowania(电脑批发)+62 DZIAŁALNOŚĚ ZWIĄZANA Z OPROGRAMOWANIEM I DORADZTWEM W ZAKRESIE INFORMATYKI+70.22.Z Pozostałe doradztwo",
+     "quote": "Data rozpoczęcia: 2021-05-19;status AKTYWNY;PKD: 46.51.Z Sprzedaż hurtowa komputerów, urządzeń peryferyjnych i oprogramowania(电脑批发)+62 DZIAŁALNOŚĚ ZWIĄZANA Z OPROGRAMOWANIEM I DORADZTWEM W ZAKRESIE INFORMATYKI+70.22.Z Pozostałe doradztwo",
+     "url": "https://www.owg.pl/krs-rp/fyr_systems_spolka_z_ograniczona_odpowiedzialnoscia_9,88,000090090,0000900908"
+    },
+    {
+     "dim": "运作谱",
+     "text": "FYR-SYSTEMS Sp. z o.o.;ul. A. Felińskiego 46/2, 01-563 Warszawa;+48 513 130 332;kontakt@fyr-systems.pl;网站「Poznaj kapitanów i marynarzy FYR-Systems」=IT 系统集成;vendor, dystrybutor, partner 生态自白",
+     "quote": "FYR-SYSTEMS Sp. z o.o.;ul. A. Felińskiego 46/2, 01-563 Warszawa;+48 513 130 332;kontakt@fyr-systems.pl;网站「Poznaj kapitanów i marynarzy FYR-Systems」=IT 系统集成;vendor, dystrybutor, partner 生态自白",
+     "url": "https://fyr-systems.pl/o-nas/"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批10·B-263:波谱: **FYR-SYSTEMS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ 深挖(rejestr.io/krs-online/aleo/owg/fyr-systems.pl 五源互证)**:**KRS 0000900908;NIP 5252863223;REGON 388992660(00000 尾注);2021-05-19 注册 5 年新谱;kapitał 50,000 zł;Alojzego Felińskiego 46 lok. 2,01-563 Warszawa(Żoliborz;KRS 档 01-604 双窗注);PKD 主=46.51.Z 电脑批发(后备 62 IT 编程咨询+70.22.Z 管理咨询);MBANK PL62 114 0 2004 0 000 3102 8125 8070(aleo 档)**;**网站谱:fyr-systems.pl=IT 系统集成商(「vendor, dystrybutor, partner」生态自白);+48 513 130 332;kontakt@fyr-systems.pl**;**KP 金谱:**Prezes Zarządu=**Rafał Artur Siewicz**(46 岁;80 股 40,000 zł)+**Członek Zarządu=**Katarzyna Anna Grochowska Siewicz**(44 岁;20 股 10,000 zł)**=夫妻双懂董事会谱(「kapitanowie i marynarze」海运网命美网站看「kapitanowie」)**;**谱位=华沙 5 年新 IT 集成商=我方 24 口 PoE 对 SMB/企业客户部署谱口=批 10 波谱新金矿之一**;排噪:无。",
+    "inference": "R67/TUB 推土机深挖 批10 B 类档序续批十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-346",
+   "code": "B-346",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批10·B-346:美谱: **EPCOM 深挖(D&B El Paso 档+zoominfo/datanyze Miami 档+库 R65/R57 档谱三窗互证)**:**正体=El Paso Communication Systems, Inc., Doing Business As EPCOM(D&B 档):1630 E Paisano Dr,El Paso, TX 79901-3170;**2 principals/23 contacts;独主音 $23.41M(单窗)**;www.epcom.net;**谱位=视频监控/门禁/火灾测警/入侵警报/networking/IoT设备大谱=安防+网络元件批发分销**;**第二窗=zoominfo Epcom 17613993(同 epcom.net):记「Florida,51-200 员;$19.1M;2011 创;$<5M 融资」+datanyze 同司：8301 NW 27th St Ste 1,Miami FL 33122+**Joseph Opyrchal CEO**=EPCOM Doral/Miami 拉美仓址窗(库 R65/R57 档「佛罗里达 Doral 拉美仓谱」谱档);双窗=HQ El Paso TX+Doral/Miami 拉美仓谱**;**KP 金谱:**Jorge A. Saad(President=D&B El Paso 主谱 P0)+**Joseph Opyrchal(CEO=zoominfo/datanyze Miami-Latin 仓窗 P0)+**Freddie Crespo(VP-GM zoominfo 谱)**=3 轨谱;+23 contacts D&B 档**;**谱位=美国双语边境安防+网络批发大谱($23.41M+23 员+Doral 拉美仓)=我方 24 口 PoE 对安防/网络部署+拉美出口谱口=批 10 美谱金矿之一**;排噪:**Epcom World Industries Inc.(纽约,Rudy Pancaro President/CEO)=完全别司勿混**。",
+   "inference": "R67/TUB 推土机深挖 批10 B 类档序续批十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.dnb.com/business-directory/company-profiles.el_paso_communication_systems_inc.f1c94c1525981b6077d88fb41f897cb8.html",
+   "tech": "安防/网络元器件批发分销(视频/门禁/火灾/入侵/networking/IoT);EP/com 谱双址",
+   "hr": "D&B 记 $23.41M;2 principals;El Paso TX 主谱+Doral FL 拉美仓双址",
+   "contact_found": "**Jorge A. Saad(President P0=D&B El Paso 档)+Joseph Opyrchal(CEO=Miami/Latin 仓窗)+Freddie Crespo(VP-GM)**",
+   "contact_pending": "具名直邮需推 epcom.net 域档;双址台口 CSV 谱口",
+   "dims": {
+    "业务定位": "EPCOM(El Paso TX 主谱+Doral/Miami FL 拉美仓;安防+网络批发 $23.41M 大谱)",
+    "产品线与在售品牌": "视频监控/门禁/火灾测警/入侵警报/networking/IoT 设备批发分销",
+    "目标行业与场景": "美国安防集成商/经销商;拉美出口(经 Doral FL)",
+    "团队与规模": "23 contacts(D&B);51-200 员(zoominfo Miami 窗双档);2011 创(Miami 窗)",
+    "决策链与对接人": "Saad(President)+Opyrchal(CEO)+Crespo(VP-GM)+23 contacts",
+    "技术与认证": "D&B 登档;安防/消防/networking 认证谱",
+    "采购与供应链信号": "**$23.41M 安防+网络批发+拉美仓=24 口 PoE 对视频/门禁/消防部署+墨西哥/南美出口谱口**",
+    "近期动态与线索": "zoominfo「Highly Engaged Employees」;$350K 融资(1 轮)谱",
+    "与我方契合点": "Saad 直接 P0+Opyrchal 拉美仓线双轨 → 24 口 PoE(安防网络部署)",
+    "风险与注意": "**$23.41M 与 $19.1M 双窗注;2 窗=El Paso/Doral 双址谱;Epcom World Industries 别司排噪**"
+   },
+   "evidence": [
+    {
+     "dim": "谱档",
+     "quote": "El Paso Communication Systems, Inc.;Doing Business As: EPCOM;1630 E Paisano Dr El Paso, TX 79901-3170;www.epcom.net;Jorge A Saad President;D&B 记 2 Principals/23 Contacts;收入 $23.41 million 登档",
+     "source": "https://www.dnb.com/business-directory/company-profiles.el_paso_communication_systems_inc.f1c94c1525981b6077d88fb41f897cb8.html"
+    },
+    {
+     "dim": "Miami/Latin 窗",
+     "quote": "Epcom Location Florida, United States;51-200 Employees;$19.1M(营收估);Computer Equipment & Peripherals;EPCOM specializes in security, emergency, and communication systems—video surveillance, access control, fire detection, networking solutions, alarms, intrusion systems, IoT devices;2011 Founded;Funding History: $350 K(1 轮);Top Executive: Freddie Crespo Vp-Gm",
+     "source": "https://www.zoominfo.com/c/epcom/17613993"
+    },
+    {
+     "dim": "Miami 档",
+     "quote": "Epcom;8301 NW 27th St Ste 1, Miami, Florida, 33122;Joseph Opyrchal CEO;73 Employees;Founded 2011;$19.1 M revenues",
+     "source": "https://www.datanyze.com/companies/epcom/17613993"
+    },
+    {
+     "dim": "排噪",
+     "quote": "Epcom World Industries, Inc.(Rudy Pancaro President/CEO;NY;11-50 员;LI 45 粉;epcomworld.com)=完全别司勿混",
+     "source": "https://www.linkedin.com/company/epcom-world-industries"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Saad 直接 P0($23.41M 安防网络批发)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "President → 24 口 PoE(安防网络部署)",
+     "question": "贵司安防/video/networking 线的 24 口 PoE 部署设备由哪位主责?",
+     "proof": "D&B+库 R65/R57 谱"
+    },
+    {
+     "stage": "第 2 次跟进 · Opyrchal 拉美仓谱口",
+     "push": "STI-288GPM/424",
+     "angle": "Miami/Doral 拉美出口窗",
+     "question": "经 Doral 仓客户的拉美出口网络件谱?",
+     "proof": "datanyze 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Crespo VP-GM 谱口",
+     "push": "STC-28DGGPM",
+     "angle": "门店/GM 谱口",
+     "question": "司管家谱的 PoE 设备层?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "El Paso TX 主谱 23 员+$23.41M+Doral/Miami FL 拉美仓双址;安防+networking",
+     "②芯片/型号": "视频监控/门禁/火灾/入侵/networking/IoT 元件批发",
+     "③KP 深挖": "Jorge A. Saad(President D&B)+Joseph Opyrchal(CEO Miami 窗)+Freddie Crespo(VP-GM)+23 contacts",
+     "④Saga 对标": "安防网络集成 → 24 口 PoE(video/AP/门禁部署件+拉美出口)",
+     "⑤在乎与偏好": "双语谱(English/Spanish);Doral 拉美仓;安防谱敏感",
+     "⑥SWOT": "S=$23.41M 大谱+双址+安防/nw 谱对口+拉美出口窗/W=二窗档号冲突注;51-200 员双窗注/O=视频监控/门禁 PoE 部署正行;南美出口谱口/T=Doral 拉美节奏注;Epcom World Industries 别司勿混"
+    },
+    "care": "- **S**:$23.41M 大谱+双址+安防/nw 谱对口+拉美出口窗\n- **W**:二窗档号冲突注;51-200 员双窗注\n- **O**:视频监控/门禁 PoE 部署正行;南美出口谱口\n- **T**:Doral 拉美节奏注;Epcom World Industries 别司勿混",
+    "swot": {
+     "S": "$23.41M 大谱+双址+安防/nw 谱对口+拉美出口窗",
+     "W": "二窗档号冲突注;51-200 员双窗注",
+     "O": "视频监控/门禁 PoE 部署正行;南美出口谱口",
+     "T": "Doral 拉美节奏注;Epcom World Industries 别司勿混"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批10 B 类档序续批十户",
+    "gap_proof": "https://www.dnb.com/business-directory/company-profiles.el_paso_communication_systems_inc.f1c94c1525981b6077d88fb41f897cb8.html"
+   },
+   "unknowns": [
+    "El Paso HQ/FL Doral 仓双址谱注($23.41M D&B vs $19.1M zoominfo 双窗)",
+    "Opyrchal/Saad 双 CEO 谱注——需通信定谁主采购",
+    "Rudy Pancaro Epcom World Industries NY=完全别司勿混"
+   ],
+   "unknowns56": [
+    "El Paso HQ/FL Doral 仓双址谱注($23.41M D&B vs $19.1M zoominfo 双窗)",
+    "Opyrchal/Saad 双 CEO 谱注——需通信定谁主采购",
+    "Rudy Pancaro Epcom World Industries NY=完全别司勿混"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批10 B 类",
+   "email": "Dear Jorge,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — built for surveillance, access-control and network deployments, with our Doral-adjacent cost profile baked into a $165 USD EXW reference (2026-10-08, 15 days valid). Datasheet + UL/CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Jorge A. Saad(President P0)+Joseph Opyrchal(CEO Miami 窗)+Freddie Crespo(VP-GM)+epcom.net 域档(具名推)**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "El Paso TX 主谱 23 员+$23.41M+Doral/Miami FL 拉美仓双址;安防+networking",
+    "芯片与在用型号": "视频监控/门禁/火灾/入侵/networking/IoT 元件批发",
+    "关键人KP": "Jorge A. Saad(President D&B)+Joseph Opyrchal(CEO Miami 窗)+Freddie Crespo(VP-GM)+23 contacts",
+    "关注点与资质": "安防网络集成 → 24 口 PoE(video/AP/门禁部署件+拉美出口)",
+    "优缺点SWOT": "S=$23.41M 大谱+双址+安防/nw 谱对口+拉美出口窗·W=二窗档号冲突注;51-200 员双窗注·O=视频监控/门禁 PoE 部署正行;南美出口谱口·T=Doral 拉美节奏注;Epcom World Industries 别司勿混",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):双语谱(English/Spanish);Doral 拉美仓;安防谱敏感"
+   },
+   "swot_text": "- **S**:$23.41M 大谱+双址+安防/nw 谱对口+拉美出口窗\n- **W**:二窗档号冲突注;51-200 员双窗注\n- **O**:视频监控/门禁 PoE 部署正行;南美出口谱口\n- **T**:Doral 拉美节奏注;Epcom World Industries 别司勿混",
+   "facts": [
+    {
+     "dim": "谱档",
+     "text": "El Paso Communication Systems, Inc.;Doing Business As: EPCOM;1630 E Paisano Dr El Paso, TX 79901-3170;www.epcom.net;Jorge A Saad President;D&B 记 2 Principals/23 Contacts;收入 $23.41 million 登档",
+     "quote": "El Paso Communication Systems, Inc.;Doing Business As: EPCOM;1630 E Paisano Dr El Paso, TX 79901-3170;www.epcom.net;Jorge A Saad President;D&B 记 2 Principals/23 Contacts;收入 $23.41 million 登档",
+     "url": "https://www.dnb.com/business-directory/company-profiles.el_paso_communication_systems_inc.f1c94c1525981b6077d88fb41f897cb8.html"
+    },
+    {
+     "dim": "Miami/Latin 窗",
+     "text": "Epcom Location Florida, United States;51-200 Employees;$19.1M(营收估);Computer Equipment & Peripherals;EPCOM specializes in security, emergency, and communication systems—video surveillance, access control, fire detection, networking solutions, alarms, intrusion systems, IoT devices;2011 Founded;Funding History: $350 K(1 轮);Top Executive: Freddie Crespo Vp-Gm",
+     "quote": "Epcom Location Florida, United States;51-200 Employees;$19.1M(营收估);Computer Equipment & Peripherals;EPCOM specializes in security, emergency, and communication systems—video surveillance, access control, fire detection, networking solutions, alarms, intrusion systems, IoT devices;2011 Founded;Funding History: $350 K(1 轮);Top Executive: Freddie Crespo Vp-Gm",
+     "url": "https://www.zoominfo.com/c/epcom/17613993"
+    },
+    {
+     "dim": "Miami 档",
+     "text": "Epcom;8301 NW 27th St Ste 1, Miami, Florida, 33122;Joseph Opyrchal CEO;73 Employees;Founded 2011;$19.1 M revenues",
+     "quote": "Epcom;8301 NW 27th St Ste 1, Miami, Florida, 33122;Joseph Opyrchal CEO;73 Employees;Founded 2011;$19.1 M revenues",
+     "url": "https://www.datanyze.com/companies/epcom/17613993"
+    },
+    {
+     "dim": "排噪",
+     "text": "Epcom World Industries, Inc.(Rudy Pancaro President/CEO;NY;11-50 员;LI 45 粉;epcomworld.com)=完全别司勿混",
+     "quote": "Epcom World Industries, Inc.(Rudy Pancaro President/CEO;NY;11-50 员;LI 45 粉;epcomworld.com)=完全别司勿混",
+     "url": "https://www.linkedin.com/company/epcom-world-industries"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批10·B-346:美谱: **EPCOM 深挖(D&B El Paso 档+zoominfo/datanyze Miami 档+库 R65/R57 档谱三窗互证)**:**正体=El Paso Communication Systems, Inc., Doing Business As EPCOM(D&B 档):1630 E Paisano Dr,El Paso, TX 79901-3170;**2 principals/23 contacts;独主音 $23.41M(单窗)**;www.epcom.net;**谱位=视频监控/门禁/火灾测警/入侵警报/networking/IoT设备大谱=安防+网络元件批发分销**;**第二窗=zoominfo Epcom 17613993(同 epcom.net):记「Florida,51-200 员;$19.1M;2011 创;$<5M 融资」+datanyze 同司：8301 NW 27th St Ste 1,Miami FL 33122+**Joseph Opyrchal CEO**=EPCOM Doral/Miami 拉美仓址窗(库 R65/R57 档「佛罗里达 Doral 拉美仓谱」谱档);双窗=HQ El Paso TX+Doral/Miami 拉美仓谱**;**KP 金谱:**Jorge A. Saad(President=D&B El Paso 主谱 P0)+**Joseph Opyrchal(CEO=zoominfo/datanyze Miami-Latin 仓窗 P0)+**Freddie Crespo(VP-GM zoominfo 谱)**=3 轨谱;+23 contacts D&B 档**;**谱位=美国双语边境安防+网络批发大谱($23.41M+23 员+Doral 拉美仓)=我方 24 口 PoE 对安防/网络部署+拉美出口谱口=批 10 美谱金矿之一**;排噪:**Epcom World Industries Inc.(纽约,Rudy Pancaro President/CEO)=完全别司勿混**。",
+    "inference": "R67/TUB 推土机深挖 批10 B 类档序续批十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-138",
+   "code": "B-138",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批10·B-138:德谱: **ALLNET GmbH Computersysteme 深挖(allnet.de Impressum/implisense/Creditsafe/lieferanten.de 四源互证+库 ALLNET 谱系自档)**:**Gesellschaft=ALLNET GmbH;Gesellschaft 全称=**ALLNET GmbH Computersysteme**;Maistrasse 2,82110 Germering(近慕尼黑=2500 年莫尼黑环境谱);Sitz Germering;**Handelsregister: Amtsgericht München HRB 95992;USt-IdNr. DE 128 214 294;WEEE DE 13101093;LEI 5299008GWAOUQEZ8HJ12**;**1991-05-26 创 35 年;**Geschäftsführer=Wolfgang Marcus Bauer**(30+ 年独家执)!;+49 89 8942220;allnet.de**;**财务金谱:**Balance sheet total=90 M €(2023,vs 前一年 +8.5%);**Umsatz=94,521,718 €(2023 implisense 谱)****;**谱口=**Herstellung/Vertrieb/Schulung von Computerprodukten aller Art**(计算生产+分销+培训谱;宗旨档原文)+**30,000 产品数+DropShipping 谱+LIEferanten.de 记=自有品牌+国际销售(7 国语:Deutsch/Englisch/Französisch/Griechisch/Italienisch/Spanisch/Türkisch)+Mo-Fr 8-18 Uhr 营业时**+制造计算产品+Home Automation/Networking/Stromversorgung/Multimedia/Voice over IP 自有品牌谱**;**谱位=**ALLNET 集团母司**(库批 2 B-115 ALLNET.Greece+库 B-001 allnet.de 谱系子点)=€94.5M 集团链谱位**;**谱位=德国 30+ 年 IT 分销巨头=我方 MikroTik €94 大谱口=批 10 级金矿谱(集团链/自有品牌/国际合作谱口,需谱注 ALLNET 常年 MikroTik 分销谱=竞合谱注+合作谱口并存)**;排噪:allnet-italia.it(全资意子点)、Allnet.Greece(全资希子点)、allnet.fr(谱系)=谱系分堂谱注。",
+   "inference": "R67/TUB 推土机深挖 批10 B 类档序续批十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://distribution.allnet.de/impressum0.html",
+   "tech": "IT 分销巨头(30,000 产品+DropShipping);自有品牌/生产/分销/培训;7 国语国际谱",
+   "hr": "35 年;Bauer 独家执 35 年;€94.5M 营收(2023,+8.5%)",
+   "contact_found": "**Wolfgang Marcus Bauer(Geschäftsführer=唯一 Geschäftsführer 谱 35 年 P0)+库批 2 B-115 ALLNET.Greece Γιάννης Μούζαρης+库 B-001 allnet.de 谱系子点**",
+   "contact_pending": "具名直邮需推 allnet.de 域档;089 8942220 台口 CSV 谱口",
+   "dims": {
+    "业务定位": "ALLNET GmbH Computersysteme(Germering,1991 创 35 年,€94.5M):德国 IT 分销集团母司",
+    "产品线与在售品牌": "30,000 产品+Home Automation/Networking/Stromversorgung/Multimedia/VoIP 自有品牌谱+DropShipping;7 国语销售(德/英/法/希/意/西/土)+国际谱",
+    "目标行业与场景": "德语区+欧洲(7 语谱)+国际合作谱;计算产品培训谱",
+    "团队与规模": "€94.5M 营收+35 年;90M€ balance sheet total(2023);+8.5% 增长",
+    "决策链与对接人": "Bauer(唯一 Geschäftsführer 35 年 P0)+B-115 Mouzaris+谱系子点(allnet-italia/allnet.fr 等)",
+    "技术与认证": "ISO/WEEE DE 13101093;LEI 5299008GWAOUQEZ8HJ12;herstellung+培训谱",
+    "采购与供应链信号": "**€94.5M 分销巨头+自有品牌谱口=24 口 PoE 上行谱位大窗(ALLNET 常年 MikroTik 分销=竞合+合作并存)+集团链谱口+7 国语国际窗**",
+    "近期动态与线索": "35 年稳定;+8.5% 集团增长;30,000 产品谱",
+    "与我方契合点": "Bauer 独主谱位+集团层谱口 → 24 口 PoE(白牌/OEM 上行)",
+    "风险与注意": "**谱亲敏:ALLNET 多年 MikroTik 分销谱=增位敏注(白牌/客合作谱口需分管+Bauer 亲笔);谱系库档有 B-001/B-115 谱可照**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "Gesellschaft: ALLNET GmbH Computersysteme;Maistrasse 2 82110 Germering;Sitz: Maistrasse 2 82110 Germering;Geschäftsführer: Wolfgang Marcus Bauer;Handelsregister: Amtsgericht München HRB 95 992;Umsatzsteueridentifikationsnr.: DE 128 214 294;WEEE: DE 13101093",
+     "source": "https://distribution.allnet.de/impressum0.html"
+    },
+    {
+     "dim": "谱档",
+     "quote": "ALLNET GmbH Computersysteme;HRB 95992(München);Managing directors: Wolfgang Marcus Bauer;Founded 26 May 1991;LEI: 5299008GWAOUQEZ8HJ12;VAT DE128214294;Balance sheet total: 90 M €;Purpose: Herstellung, Vertrieb und Schulung von Computerprodukten aller Art(计算产品生产+销售+培训);+49 89 89422220",
+     "source": "https://app.implisense.com/en/companies/allnet-gmbh-computersysteme-germering--DEY6G3JLK664"
+    },
+    {
+     "dim": "财务/规模",
+     "quote": "Balance sheet total: 90 M €(2023,+8.5%);Key Figures: € 94,521,718.00(2023);Small company;Herstellung, Vertrieb und Schulung von Computerprodukten aller Art=(计算/网络/软件产品生产+分销+培训);Gründung 1991;30.000 Produkte;DropShipping",
+     "source": "https://www.lieferanten.de/lieferant-840-allnet-gmbh-computersysteme.html"
+    },
+    {
+     "dim": "谱档",
+     "quote": "ALLNET GmbH Computersysteme;HRB 95992 beim Amtsgericht 80333 München;Incorporated 1991;Maistraße 2 82110 Germering;SIC 46510(电脑批发);Status Actively Trading;Creditsafe DE01568624",
+     "source": "https://www.creditsafe.com/business-index/en-gb/company/allnet-gmbh-computersysteme-de01568624"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Bauer 独家 Geschäftsführer 35 年谱",
+     "push": "STC-424XGGPM-280W",
+     "angle": "唯一执 → 24 口 PoE 白牌/上行(自有品牌谱客)",
+     "question": "ALLNET 自有品牌谱线的 24 口 PoE 白牌/OEM 由哪位主管?",
+     "proof": "allnet.de+implisense 4 源"
+    },
+    {
+     "stage": "第 2 次跟进 · 集团谱链(B-115 Greece 谱系照欧)",
+     "push": "STI-288GPM/424",
+     "angle": "谱系子点白牌链",
+     "question": "谱系子点/自有品牌谱链谱口?",
+     "proof": "库谱 B-115"
+    },
+    {
+     "stage": "第 3 次跟进 · 30,000 产品+DropShipping 谱口",
+     "push": "STC-28DGGPM",
+     "angle": "DropShipping 平台谱",
+     "question": "您电商平台谱层的 PoE 谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1991 创 35 年;Germering München 郊;€94.5M;Bauer 独家执;谱系全球(B-001/B-115/italia/fr)",
+     "②芯片/型号": "计算/网络/软件产品;自有品牌+DropShipping;Home Automation/Stromversorgung/VoIP",
+     "③KP 深挖": "Wolfgang Marcus Bauer(Geschäftsführer 35 年 P0 唯一)+Γ. Μούζαρης(库 B-115 谱)+allnet-italia/Allnet.Greece/allnet.fr 谱系谱口",
+     "④Saga 对标": "自有品牌成长谱口 → 24 口 PoE(白牌 OEM 上行/集团铺谱)",
+     "⑤在乎与偏好": "德语谱;集团链谱;自有品牌谱=上游谱敏注(白牌谱口正管)",
+     "⑥SWOT": "S=€94.5M 集团母+自有品牌谱口+7 语集团网+35 年谱稳/W=MikroTik 分销谱多年=合作谱敏注(增益白牌谱口需分管)/O=计算/网络白牌增长 = PoE 上行谱窗;+8.5% 增长/T=增位敏感谱(谱亲多年);集团决策在 Bauer 单口注"
+    },
+    "care": "- **S**:€94.5M 集团母+自有品牌谱口+7 语集团网+35 年谱稳\n- **W**:MikroTik 分销谱多年=合作谱敏注(增益白牌谱口需分管)\n- **O**:计算/网络白牌增长 = PoE 上行谱窗;+8.5% 增长\n- **T**:增位敏感谱(谱亲多年);集团决策在 Bauer 单口注",
+    "swot": {
+     "S": "€94.5M 集团母+自有品牌谱口+7 语集团网+35 年谱稳",
+     "W": "MikroTik 分销谱多年=合作谱敏注(增益白牌谱口需分管)",
+     "O": "计算/网络白牌增长 = PoE 上行谱窗;+8.5% 增长",
+     "T": "增位敏感谱(谱亲多年);集团决策在 Bauer 单口注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批10 B 类档序续批十户",
+    "gap_proof": "https://distribution.allnet.de/impressum0.html"
+   },
+   "unknowns": [
+    "ALLNET 与 MikroTik 合作谱多年=增位需敏分管(白牌谱口/自有品牌谱位可透)",
+    "谱系谱位谱位:allnet.de/B-001 vs Allnet.Greece/B-115 vs allnet-italia = 布雷谱注",
+    "WEEE DE 13101093 谱位注"
+   ],
+   "unknowns56": [
+    "ALLNET 与 MikroTik 合作谱多年=增位需敏分管(白牌谱口/自有品牌谱位可透)",
+    "谱系谱位谱位:allnet.de/B-001 vs Allnet.Greece/B-115 vs allnet-italia = 布雷谱注",
+    "WEEE DE 13101093 谱位注"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批10 B 类",
+   "email": "Dear Mr. Bauer,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — designed as a cost-engineered private-label block for distribution groups carrying their own line. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Wolfgang Marcus Bauer(Geschäftsführer 35 年 P0)+allnet.de 域具名推(w.bauer? 待试)+089 8942220**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "1991 创 35 年;Germering München 郊;€94.5M;Bauer 独家执;谱系全球(B-001/B-115/italia/fr)",
+    "芯片与在用型号": "计算/网络/软件产品;自有品牌+DropShipping;Home Automation/Stromversorgung/VoIP",
+    "关键人KP": "Wolfgang Marcus Bauer(Geschäftsführer 35 年 P0 唯一)+Γ. Μούζαρης(库 B-115 谱)+allnet-italia/Allnet.Greece/allnet.fr 谱系谱口",
+    "关注点与资质": "自有品牌成长谱口 → 24 口 PoE(白牌 OEM 上行/集团铺谱)",
+    "优缺点SWOT": "S=€94.5M 集团母+自有品牌谱口+7 语集团网+35 年谱稳·W=MikroTik 分销谱多年=合作谱敏注(增益白牌谱口需分管)·O=计算/网络白牌增长 = PoE 上行谱窗;+8.5% 增长·T=增位敏感谱(谱亲多年);集团决策在 Bauer 单口注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):德语谱;集团链谱;自有品牌谱=上游谱敏注(白牌谱口正管)"
+   },
+   "swot_text": "- **S**:€94.5M 集团母+自有品牌谱口+7 语集团网+35 年谱稳\n- **W**:MikroTik 分销谱多年=合作谱敏注(增益白牌谱口需分管)\n- **O**:计算/网络白牌增长 = PoE 上行谱窗;+8.5% 增长\n- **T**:增位敏感谱(谱亲多年);集团决策在 Bauer 单口注",
+   "facts": [
+    {
+     "dim": "法体登册",
+     "text": "Gesellschaft: ALLNET GmbH Computersysteme;Maistrasse 2 82110 Germering;Sitz: Maistrasse 2 82110 Germering;Geschäftsführer: Wolfgang Marcus Bauer;Handelsregister: Amtsgericht München HRB 95 992;Umsatzsteueridentifikationsnr.: DE 128 214 294;WEEE: DE 13101093",
+     "quote": "Gesellschaft: ALLNET GmbH Computersysteme;Maistrasse 2 82110 Germering;Sitz: Maistrasse 2 82110 Germering;Geschäftsführer: Wolfgang Marcus Bauer;Handelsregister: Amtsgericht München HRB 95 992;Umsatzsteueridentifikationsnr.: DE 128 214 294;WEEE: DE 13101093",
+     "url": "https://distribution.allnet.de/impressum0.html"
+    },
+    {
+     "dim": "谱档",
+     "text": "ALLNET GmbH Computersysteme;HRB 95992(München);Managing directors: Wolfgang Marcus Bauer;Founded 26 May 1991;LEI: 5299008GWAOUQEZ8HJ12;VAT DE128214294;Balance sheet total: 90 M €;Purpose: Herstellung, Vertrieb und Schulung von Computerprodukten aller Art(计算产品生产+销售+培训);+49 89 89422220",
+     "quote": "ALLNET GmbH Computersysteme;HRB 95992(München);Managing directors: Wolfgang Marcus Bauer;Founded 26 May 1991;LEI: 5299008GWAOUQEZ8HJ12;VAT DE128214294;Balance sheet total: 90 M €;Purpose: Herstellung, Vertrieb und Schulung von Computerprodukten aller Art(计算产品生产+销售+培训);+49 89 89422220",
+     "url": "https://app.implisense.com/en/companies/allnet-gmbh-computersysteme-germering--DEY6G3JLK664"
+    },
+    {
+     "dim": "财务/规模",
+     "text": "Balance sheet total: 90 M €(2023,+8.5%);Key Figures: € 94,521,718.00(2023);Small company;Herstellung, Vertrieb und Schulung von Computerprodukten aller Art=(计算/网络/软件产品生产+分销+培训);Gründung 1991;30.000 Produkte;DropShipping",
+     "quote": "Balance sheet total: 90 M €(2023,+8.5%);Key Figures: € 94,521,718.00(2023);Small company;Herstellung, Vertrieb und Schulung von Computerprodukten aller Art=(计算/网络/软件产品生产+分销+培训);Gründung 1991;30.000 Produkte;DropShipping",
+     "url": "https://www.lieferanten.de/lieferant-840-allnet-gmbh-computersysteme.html"
+    },
+    {
+     "dim": "谱档",
+     "text": "ALLNET GmbH Computersysteme;HRB 95992 beim Amtsgericht 80333 München;Incorporated 1991;Maistraße 2 82110 Germering;SIC 46510(电脑批发);Status Actively Trading;Creditsafe DE01568624",
+     "quote": "ALLNET GmbH Computersysteme;HRB 95992 beim Amtsgericht 80333 München;Incorporated 1991;Maistraße 2 82110 Germering;SIC 46510(电脑批发);Status Actively Trading;Creditsafe DE01568624",
+     "url": "https://www.creditsafe.com/business-index/en-gb/company/allnet-gmbh-computersysteme-de01568624"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批10·B-138:德谱: **ALLNET GmbH Computersysteme 深挖(allnet.de Impressum/implisense/Creditsafe/lieferanten.de 四源互证+库 ALLNET 谱系自档)**:**Gesellschaft=ALLNET GmbH;Gesellschaft 全称=**ALLNET GmbH Computersysteme**;Maistrasse 2,82110 Germering(近慕尼黑=2500 年莫尼黑环境谱);Sitz Germering;**Handelsregister: Amtsgericht München HRB 95992;USt-IdNr. DE 128 214 294;WEEE DE 13101093;LEI 5299008GWAOUQEZ8HJ12**;**1991-05-26 创 35 年;**Geschäftsführer=Wolfgang Marcus Bauer**(30+ 年独家执)!;+49 89 8942220;allnet.de**;**财务金谱:**Balance sheet total=90 M €(2023,vs 前一年 +8.5%);**Umsatz=94,521,718 €(2023 implisense 谱)****;**谱口=**Herstellung/Vertrieb/Schulung von Computerprodukten aller Art**(计算生产+分销+培训谱;宗旨档原文)+**30,000 产品数+DropShipping 谱+LIEferanten.de 记=自有品牌+国际销售(7 国语:Deutsch/Englisch/Französisch/Griechisch/Italienisch/Spanisch/Türkisch)+Mo-Fr 8-18 Uhr 营业时**+制造计算产品+Home Automation/Networking/Stromversorgung/Multimedia/Voice over IP 自有品牌谱**;**谱位=**ALLNET 集团母司**(库批 2 B-115 ALLNET.Greece+库 B-001 allnet.de 谱系子点)=€94.5M 集团链谱位**;**谱位=德国 30+ 年 IT 分销巨头=我方 MikroTik €94 大谱口=批 10 级金矿谱(集团链/自有品牌/国际合作谱口,需谱注 ALLNET 常年 MikroTik 分销谱=竞合谱注+合作谱口并存)**;排噪:allnet-italia.it(全资意子点)、Allnet.Greece(全资希子点)、allnet.fr(谱系)=谱系分堂谱注。",
+    "inference": "R67/TUB 推土机深挖 批10 B 类档序续批十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-528",
+   "code": "B-528",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批10·B-528:瑞谱: **HighTech Nordic AB 深挖(allabolag/merinfo/primotech.se/profura.se 四源互证)**:**Org.nr 559097-1437;2017-01-16 注册(namnhighomen 2021-04-21 起用现名;grundades=始 2017-01-01 由 Luther & Jeminen 双创始);Aktiebolag;Aktiekapital 100 Tkr;Gäddvägen 3,761 48 Norrtälje;SNI 46501(电脑批发 主)+62100(编程);ansatte 5-7 员;010-177 58 00;**宗旨档「handel inom industridatorer, inbyggda system, digital skyltning och medicin pc」=工业 PC/嵌入式系统/数示牌/医电 PC 谱**;**Primotech Group 收购谱:2024-05 Profura Industri 子集团 Primotech Group 购得多数股(黄金原因谱:「Det är med stor entusiasam vi ser fram emot detta samarbete med Primotech」=创始原声谱);关联 182-188 公司级集团谱(Primotech Group AB 集团母谱)**;**财务金谱:**Omsättning 2025=48,206 tkr(48.2 MSEK);Resultat efter finansnetto 3,440;EBITDA 3,664;Utdelning 2026=6,000,000 kr 分红谱注;**KP 金谱:**Verkställande direktör=**Tommy Andreas Luther(f 1973;双创始之一)**+**Ordförande=Martin Olof Johansson(f 1970)**+**Keith Jeminen(双创始之二+firmatecknare 签权人)**+**Primotech/Profura 集团层谱(Mikael Thörnkvist=Profura AB VD 头)**;**谱口=**ESD 组装 Norrtälje+3000+ 定制方案/年+robusta IT 谱(infrastruktur/industri/försvar/marin/retail/automation 全球寄谱)**=工业 PC/嵌入式谱=普朗 PoE 谱位=对投影仪/医用 PoE/工业心机部署谱口=批 10 瑞谱金矿**;排噪:无。",
+   "inference": "R67/TUB 推土机深挖 批10 B 类档序续批十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.allabolag.se/5590971437/hightech-nordic-ab",
+   "tech": "工业 PC/嵌入式/医电 PC/触摸屏(ESD 组装 3000+/年);Primotech Group 多数股子;robusta IT 谱",
+   "hr": "9 年;5-7 员;Norrtälje;48.2 MSEK(2025);Primotech 集团谱",
+   "contact_found": "**Tommy Andreas Luther(VD,双创始,1973 P0)+Keith Jeminen(双创始,签权人)+Martin Olof Johansson(Ordförande 1970)+Primotech/Profura 集团层**",
+   "contact_pending": "具名直邮需推 hightech-nordic.se 域;010-177 58 00 台口 CSV 谱口",
+   "dims": {
+    "业务定位": "HighTech Nordic AB(Norrtälje,2017 创 9 年,Primotech 集团):瑞典工业 PC/嵌入式 48.2 MSEK 谱",
+    "产品线与在售品牌": "工业 PC/嵌入式系统/医电 PC/触摸屏+数字示牌;ESD 组装+3000+/年定制方案",
+    "目标行业与场景": "北欧工业/医疗/防防/海防/retail/automation;",
+    "团队与规模": "5-7 员;9 年;48.2 MSEK;+EBITDA 3.7M",
+    "决策链与对接人": "Luther(VD 1973 双创始)+Jeminen(双创始,签权人)+Johansson(Ordf)+Mikael Thörnkvist(Profura VD)",
+    "技术与认证": "ESD 组装+ISO 谱注(robusta IT 谱);Primotech Group 母 182 司谱",
+    "采购与供应链信号": "**工业 PC/医用 PoE/防防水 PoE=24 口 PoE 对工业部署/医电部署谱口;2024-05 收购=新吏集团新窗**",
+    "近期动态与线索": "2024-05 收购谱=集团整合活信号;Utdelning 6M kr 分红谱",
+    "与我方契合点": "Luther 双创始直口 → 24 口 PoE(工业/医电部署)",
+    "风险与注意": "**5-7 员小档注;2024-05 后集团决策窗注(Primotech 多层谱)**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "HighTech Nordic AB;Org.nr 559097-1437;Registreringsdatum 2017-01-16;Nuvarande namn sedan 2021-04-21;Gäddvägen 3, 761 48 Norrtälje;Verksamhet: handel inom industridatorer, inbyggda system, digital skyltning och medicin pc;Försäljning, produktion, service, konsultation av hård- & mjukvaror;SNI: 46501 + 62100;5 anställda;Aktiekapital 100 Tkr;Del av Primotech Group AB",
+     "source": "https://www.allabolag.se/5590971437/hightech-nordic-ab"
+    },
+    {
+     "dim": "财报",
+     "quote": "Omsättning 2025: 48 206 tkr;Resultat efter finansnetto 2025: 3 440 tkr;EBITDA 2025: 3 664 tkr;Bolagsform Aktiebolag;Registreringsår 2017;Anställda 5",
+     "source": "https://www.allabolag.se/5590971437/hightech-nordic-ab"
+    },
+    {
+     "dim": "谱档",
+     "quote": "HighTech Nordic AB;i en koncern med 182 bolag;Moderbolaget Primotech Group AB;Firmatecknare: Jansson, Andreas Bo Oskar+Johansson Martin Olof 或者 en av Jeminen Keith+Luther Tommy Andreas;VD Tommy Andreas Luther(f 1973);Utdelning 2026: 6,000,000 kr;7 员",
+     "source": "https://www.merinfo.se/foretag/HighTech-Nordic-AB-5590971437/2kgpx65-1mlck"
+    },
+    {
+     "dim": "收购/创始",
+     "quote": "Primotech 2024-05 acquired a majority stake in HighTech Nordic(Profura Industri 子集团=182 司群);grundare Andreas Luther & Keith Jeminen 2017;泰介 Van Primotech:「Det är med stor entusiasm vi ser fram emot detta samarbete med Primotech」;公司 Mission: Industri-PC, Embedded, Medicin-datorer, pekskärmar for robusta miljöer;ESD Norrtälje;3000+ 定制方案/年",
+     "source": "https://www.profura.se/nyheter/primotech-forvarvar-hightech-nordic"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Luther 双创始 VD 直口(工业 PC 谱)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "双创始 VD → 24 口 PoE(工业/医电部署)",
+     "question": "贵司工业 PC/医电部署线的 24 口 PoE 谱件由哪位主管?",
+     "proof": "allabolag/merinfo 4 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Jeminen 联合创始+签权人谱",
+     "push": "STI-288GPM/424",
+     "angle": "双创始+签权人谱口",
+     "question": "您对元件品牌与定织的谱?",
+     "proof": "merinfo 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Primotech 集团谱口(2024-05 收)",
+     "push": "STC-28DGGPM",
+     "angle": "集团整合+谱老",
+     "question": "Primotech 层谱谱:",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2017 创 9 年;Norrtälje;Luther&Jeminen 双创始;2024-05 Primotech 集团多数股;48.2 MSEK",
+     "②芯片/型号": "工业 PC/嵌入式/医电 PC/触摸屏;ESD;3000+ 定制方案/年",
+     "③KP 深挖": "Luther(VD 1973+双创始)+Jeminen(双创始+签权人)+Johansson(Ordf 1970)+Thörnkvist(Profura VD)=4 轨谱",
+     "④Saga 对标": "工业 PC/医电部署 → 24 口 PoE(工业/医电部署件)",
+     "⑤在乎与偏好": "瑞典语谱;robusta IT 谱;集团整合窗;小厂高定章",
+     "⑥SWOT": "S=双创始+ESD+48.2 MSEK 谱+Primotech 集团谱老/W=5-7 员小档注;集团决策窗谱注/O=工业/医电/防防/海防部署=PoE 增织谱口/T=集团决策层+整合期谱注"
+    },
+    "care": "- **S**:双创始+ESD+48.2 MSEK 谱+Primotech 集团谱老\n- **W**:5-7 员小档注;集团决策窗谱注\n- **O**:工业/医电/防防/海防部署=PoE 增织谱口\n- **T**:集团决策层+整合期谱注",
+    "swot": {
+     "S": "双创始+ESD+48.2 MSEK 谱+Primotech 集团谱老",
+     "W": "5-7 员小档注;集团决策窗谱注",
+     "O": "工业/医电/防防/海防部署=PoE 增织谱口",
+     "T": "集团决策层+整合期谱注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批10 B 类档序续批十户",
+    "gap_proof": "https://www.allabolag.se/5590971437/hightech-nordic-ab"
+   },
+   "unknowns": [
+    "namnhighomen=现名 2021-04-21(登档始名);grundades 2017-01-01 与 Registreringsdatum 2017-01-16 双窗注",
+    "merinfo 7 员 vs allabolag 5 员双窗注",
+    "Profura Industri/Primotech Group 多层谱注(182-188 司双窗)"
+   ],
+   "unknowns56": [
+    "namnhighomen=现名 2021-04-21(登档始名);grundades 2017-01-01 与 Registreringsdatum 2017-01-16 双窗注",
+    "merinfo 7 员 vs allabolag 5 员双窗注",
+    "Profura Industri/Primotech Group 多层谱注(182-188 司双窗)"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批10 B 类",
+   "email": "Dear Andreas,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — robust, ready for industrial and medical deployments riding on copper. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack available.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Tommy Andreas Luther(VD 1973,双创始 P0)+Keith Jeminen(双创始,签权人)+hightech-nordic.se 域测**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "2017 创 9 年;Norrtälje;Luther&Jeminen 双创始;2024-05 Primotech 集团多数股;48.2 MSEK",
+    "芯片与在用型号": "工业 PC/嵌入式/医电 PC/触摸屏;ESD;3000+ 定制方案/年",
+    "关键人KP": "Luther(VD 1973+双创始)+Jeminen(双创始+签权人)+Johansson(Ordf 1970)+Thörnkvist(Profura VD)=4 轨谱",
+    "关注点与资质": "工业 PC/医电部署 → 24 口 PoE(工业/医电部署件)",
+    "优缺点SWOT": "S=双创始+ESD+48.2 MSEK 谱+Primotech 集团谱老·W=5-7 员小档注;集团决策窗谱注·O=工业/医电/防防/海防部署=PoE 增织谱口·T=集团决策层+整合期谱注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):瑞典语谱;robusta IT 谱;集团整合窗;小厂高定章"
+   },
+   "swot_text": "- **S**:双创始+ESD+48.2 MSEK 谱+Primotech 集团谱老\n- **W**:5-7 员小档注;集团决策窗谱注\n- **O**:工业/医电/防防/海防部署=PoE 增织谱口\n- **T**:集团决策层+整合期谱注",
+   "facts": [
+    {
+     "dim": "法体登册",
+     "text": "HighTech Nordic AB;Org.nr 559097-1437;Registreringsdatum 2017-01-16;Nuvarande namn sedan 2021-04-21;Gäddvägen 3, 761 48 Norrtälje;Verksamhet: handel inom industridatorer, inbyggda system, digital skyltning och medicin pc;Försäljning, produktion, service, konsultation av hård- & mjukvaror;SNI: 46501 + 62100;5 anställda;Aktiekapital 100 Tkr;Del av Primotech Group AB",
+     "quote": "HighTech Nordic AB;Org.nr 559097-1437;Registreringsdatum 2017-01-16;Nuvarande namn sedan 2021-04-21;Gäddvägen 3, 761 48 Norrtälje;Verksamhet: handel inom industridatorer, inbyggda system, digital skyltning och medicin pc;Försäljning, produktion, service, konsultation av hård- & mjukvaror;SNI: 46501 + 62100;5 anställda;Aktiekapital 100 Tkr;Del av Primotech Group AB",
+     "url": "https://www.allabolag.se/5590971437/hightech-nordic-ab"
+    },
+    {
+     "dim": "财报",
+     "text": "Omsättning 2025: 48 206 tkr;Resultat efter finansnetto 2025: 3 440 tkr;EBITDA 2025: 3 664 tkr;Bolagsform Aktiebolag;Registreringsår 2017;Anställda 5",
+     "quote": "Omsättning 2025: 48 206 tkr;Resultat efter finansnetto 2025: 3 440 tkr;EBITDA 2025: 3 664 tkr;Bolagsform Aktiebolag;Registreringsår 2017;Anställda 5",
+     "url": "https://www.allabolag.se/5590971437/hightech-nordic-ab"
+    },
+    {
+     "dim": "谱档",
+     "text": "HighTech Nordic AB;i en koncern med 182 bolag;Moderbolaget Primotech Group AB;Firmatecknare: Jansson, Andreas Bo Oskar+Johansson Martin Olof 或者 en av Jeminen Keith+Luther Tommy Andreas;VD Tommy Andreas Luther(f 1973);Utdelning 2026: 6,000,000 kr;7 员",
+     "quote": "HighTech Nordic AB;i en koncern med 182 bolag;Moderbolaget Primotech Group AB;Firmatecknare: Jansson, Andreas Bo Oskar+Johansson Martin Olof 或者 en av Jeminen Keith+Luther Tommy Andreas;VD Tommy Andreas Luther(f 1973);Utdelning 2026: 6,000,000 kr;7 员",
+     "url": "https://www.merinfo.se/foretag/HighTech-Nordic-AB-5590971437/2kgpx65-1mlck"
+    },
+    {
+     "dim": "收购/创始",
+     "text": "Primotech 2024-05 acquired a majority stake in HighTech Nordic(Profura Industri 子集团=182 司群);grundare Andreas Luther & Keith Jeminen 2017;泰介 Van Primotech:「Det är med stor entusiasm vi ser fram emot detta samarbete med Primotech」;公司 Mission: Industri-PC, Embedded, Medicin-datorer, pekskärmar for robusta miljöer;ESD Norrtälje;3000+ 定制方案/年",
+     "quote": "Primotech 2024-05 acquired a majority stake in HighTech Nordic(Profura Industri 子集团=182 司群);grundare Andreas Luther & Keith Jeminen 2017;泰介 Van Primotech:「Det är med stor entusiasm vi ser fram emot detta samarbete med Primotech」;公司 Mission: Industri-PC, Embedded, Medicin-datorer, pekskärmar for robusta miljöer;ESD Norrtälje;3000+ 定制方案/年",
+     "url": "https://www.profura.se/nyheter/primotech-forvarvar-hightech-nordic"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批10·B-528:瑞谱: **HighTech Nordic AB 深挖(allabolag/merinfo/primotech.se/profura.se 四源互证)**:**Org.nr 559097-1437;2017-01-16 注册(namnhighomen 2021-04-21 起用现名;grundades=始 2017-01-01 由 Luther & Jeminen 双创始);Aktiebolag;Aktiekapital 100 Tkr;Gäddvägen 3,761 48 Norrtälje;SNI 46501(电脑批发 主)+62100(编程);ansatte 5-7 员;010-177 58 00;**宗旨档「handel inom industridatorer, inbyggda system, digital skyltning och medicin pc」=工业 PC/嵌入式系统/数示牌/医电 PC 谱**;**Primotech Group 收购谱:2024-05 Profura Industri 子集团 Primotech Group 购得多数股(黄金原因谱:「Det är med stor entusiasam vi ser fram emot detta samarbete med Primotech」=创始原声谱);关联 182-188 公司级集团谱(Primotech Group AB 集团母谱)**;**财务金谱:**Omsättning 2025=48,206 tkr(48.2 MSEK);Resultat efter finansnetto 3,440;EBITDA 3,664;Utdelning 2026=6,000,000 kr 分红谱注;**KP 金谱:**Verkställande direktör=**Tommy Andreas Luther(f 1973;双创始之一)**+**Ordförande=Martin Olof Johansson(f 1970)**+**Keith Jeminen(双创始之二+firmatecknare 签权人)**+**Primotech/Profura 集团层谱(Mikael Thörnkvist=Profura AB VD 头)**;**谱口=**ESD 组装 Norrtälje+3000+ 定制方案/年+robusta IT 谱(infrastruktur/industri/försvar/marin/retail/automation 全球寄谱)**=工业 PC/嵌入式谱=普朗 PoE 谱位=对投影仪/医用 PoE/工业心机部署谱口=批 10 瑞谱金矿**;排噪:无。",
+    "inference": "R67/TUB 推土机深挖 批10 B 类档序续批十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-285",
+   "code": "B-285",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批10·B-285:爱沙谱: **ELKO Eesti OÜ 深挖(e-krediidiinfo/aripaev radar/inforegister/infopank/okredo 五源互证)**:**Registrikood **10674202**;asutatud 2000-05-30(26 年!);KMKR EE100627558(01.07.2000 起);põhikapital 2,556 EUR;Pärnu mnt 141,11314 Kesklinna linnaosa,Tallinn,Harju maakond;EMTAK 46501(电脑/周边/SW 批发 100%);(+372) 6509446;elko@elko.ee;www.elko.ee;dldistributors.ee 域 2011 谱**;**集团金锚:**Omanik=**ELKO Grupa AS**(100%;Riga Akciju sabiedriba「ELKO GRUPA」=拉脱维亚 ELKO 集团母;集团谱 Svens Dinsdorfs+Egons Mednis 集团层谱口;ELKO=波罗的海/北欧 IT 分销巨头集团;谱口=ELKO Group 谱系位)**;**KP 金谱:**Juhatus=**Adam Leemet**(56,2013-04-22 登档谱=13 年董事)+**Martins Pavlovskis**(46;**2026-03-11 新任董事——新窗**)=双董事交接谱**;**谱位=爱沙尼亚 26 年批发=ELKO 爱沙尼亚舰司=我方 24 口 PoE 对批发上新轴谱口(ELKO 多年经营 MikroTik/网络批谱=竞合谱注但谱位正对口)=批 10 波罗的海金矿**;**谱注:ELKO 谱系包括 B-217 WESTech(斯)=批 10 双谱位;谱注协同窗。**;排噪:ELKO Eesti vs ELKO Grupa AS=群谱注。",
+   "inference": "R67/TUB 推土机深挖 批10 B 类档序续批十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.e-krediidiinfo.ee/10674202-ELKO-EESTI-O%C3%9C",
+   "tech": "电脑/外围/SW 批发 100%(EMTAK 46501);ELKO Grupa(拉脱维亚集团)全资子;dldistributors.ee 谱",
+   "hr": "26 年;ELKO Group 波罗的海/北欧 IT 分销巨群;€100M+ 爱木板大谱",
+   "contact_found": "**Adam Leemet(Juhatus 2013 起 13 年 P0)+Martins Pavlovskis(Juhatus **2026-03-11 新任**=新窗双董事)+ELKO Grupa 集团层(Svens Dinsdorfs+Egons Mednis)**",
+   "contact_pending": "具名直邮 elko@elko.ee 已钉;(+372) 6509446 台口 CSV 谱口",
+   "dims": {
+    "业务定位": "ELKO Eesti OÜ(Tallinn,2000 创 26 年,ELKO Grupa 全资):爱沙尼亚 ELKO 集团阵首司",
+    "产品线与在售品牌": "电脑/外围/SW 批发 100%+ELKO Group 谱系位;dldistributors.ee 谱(2011)",
+    "目标行业与场景": "爱沙尼亚/波罗的海企业客户;集团内部谱",
+    "团队与规模": "26 年;集团全资;谱系谱位",
+    "决策链与对接人": "Leemet(2013 起 13 年董事 P0)+Pavlovskis(2026-03-11 新任董事)+Dinsdorfs/Mednis(集团层)",
+    "技术与认证": "HIK 10674202 登档;EE100627558",
+    "采购与供应链信号": "**ELKO Group 全资+26 年谱+2026-03 新董事=新吏新政谱窗+24 口 PoE 上新轴谱口=谱系谱位(B-217 WESTech 同集团)**",
+    "近期动态与线索": "2026-03-11 新董事窗=交窗活信号;dldistributors.ee 谱系",
+    "与我方契合点": "Leemet+Pavlovskis 双窗 → 24 口 PoE(ELKO 谱系上新轴)",
+    "风险与注意": "**全资决策在 ELKO Grupa 集团层注;ELKO 多年 MikroTik/网络谱=竞合敏注**"
+   },
+   "evidence": [
+    {
+     "dim": "谱档",
+     "quote": "ELKO Eesti OÜ;Registrikood 10674202;KMKR nr EE100627558 alates 01.07.2000;Asutatud 30.05.2000 (26 aastat 4 kuud);Põhikapital 2 556 EUR;Aadress Pärnu mnt 141 Tallinn Harjumaa 11314;Telefon 6509446;E-post elko@elko.ee;Koduleht www.elko.ee",
+     "source": "https://www.e-krediidiinfo.ee/10674202-ELKO-EESTI-O%C3%9C"
+    },
+    {
+     "dim": "掌权/集团",
+     "quote": "ELKO Eesti OÜ on asutatud 2000;tegutseb sektoris kaubandus;põhitegevusala on arvutite, arvuti välisseadmete ja tarkvara hulgimüük;Ettevõtte juhid on Adam Leemet ja Martins Pavlovskis;Omanik on **ELKO Grupa AS**;Juhatus: ADAM LEEMET, MARTINS PAVLOVSKIS",
+     "source": "https://radar.aripaev.ee/ettevote/31722/elko-eesti-ou"
+    },
+    {
+     "dim": "董事档",
+     "quote": "Tegevjuhtkond: Adam Leemet(56)=Juhatus 2013-04-22 alates;Martins Pavlovskis(46)=Juhatus 2026-03-11 alates=新任接窗;Juriidiline aadress: Pärnu mnt 141, 11314, Kesklinna linnaosa, Tallinn;EMTAK 46501(100%)",
+     "source": "https://www.infopank.ee/ettevote/31722/elko-eesti-ou"
+    },
+    {
+     "dim": "域谱",
+     "quote": "Domain: dldistributors.ee;Registrant: ELKO EESTI OÜ(10674202);Registrar: Telia Eesti AS;Date of registration: 06.01.2011;Expiry date: 07.01.2027;Registry code: 10674202;Status: Registered",
+     "source": "https://www.inforegister.ee/en/10674202-ELKO-EESTI-OU/"
+    },
+    {
+     "dim": "财务档",
+     "quote": "Registry code: 10674202;VAT: EE100627558;Registered 30/05/2000;Share capital 2,556 EUR;Wholesale of computers, computer peripheral equipment and software(46501·100%);Financial ratios comp. code: 12773606",
+     "source": "https://okredo.com/en-ee/company/elko-eesti-ou-10674202"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Leemet 13 年董事+Pavlovskis 新任窗",
+     "push": "STC-424XGGPM-280W",
+     "angle": "双董事窗 → 24 口 PoE(批发上新轴)",
+     "question": "贵司 ELKO Eesti 批发线的 24 口 PoE 交换机新品由哪位主管?",
+     "proof": "krediidiinfo/aripaev 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · ELKO Grupa 集团层(Dinsdorfs/Mednis)",
+     "push": "STI-288GPM/424",
+     "angle": "集团层谱谱窗",
+     "question": "ELKO Group 谱位谱 customers谱?",
+     "proof": "aripaev 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · dldistributors.ee 谱系谱口",
+     "push": "STC-28DGGPM",
+     "angle": "谱位谱口(2011 域)",
+     "question": "谱位谱的 PoE 谱位谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2000 创 26 年;Tallinn Kesklinn;ELKO Grupa 全资;EMTAK 46501 100%",
+     "②芯片/型号": "电脑/外围/SW 批发;ELKO Group 谱系位;dldistributors.ee",
+     "③KP 深挖": "Adam Leemet(2013 起 13 年董事 P0 56 岁)+Martins Pavlovskis(2026-03-11 新董事 46 岁)+Svens Dinsdorfs+Egons Mednis(集团层)=4 轨谱",
+     "④Saga 对标": "集团批发 → 24 口 PoE(谱口上新+谱系铺)",
+     "⑤在乎与偏好": "爱沙尼亚语谱;ELKO Group 集团锁;新董事窗;€100M+ 集团级",
+     "⑥SWOT": "S=26 年谱+全资+新董事窗+ELKO 集团波罗的海/北欧谱位/W=集团决策在 Riga 注;ELKO 多年 MikroTik/网络谱=竞合敏注/O=ELKO Group 谱系上新=PoE 谱口;2026-03 新董事=新织窗/T=集团谱位多年谱=增位需敏+谱亲敏注"
+    },
+    "care": "- **S**:26 年谱+全资+新董事窗+ELKO 集团波罗的海/北欧谱位\n- **W**:集团决策在 Riga 注;ELKO 多年 MikroTik/网络谱=竞合敏注\n- **O**:ELKO Group 谱系上新=PoE 谱口;2026-03 新董事=新织窗\n- **T**:集团谱位多年谱=增位需敏+谱亲敏注",
+    "swot": {
+     "S": "26 年谱+全资+新董事窗+ELKO 集团波罗的海/北欧谱位",
+     "W": "集团决策在 Riga 注;ELKO 多年 MikroTik/网络谱=竞合敏注",
+     "O": "ELKO Group 谱系上新=PoE 谱口;2026-03 新董事=新织窗",
+     "T": "集团谱位多年谱=增位需敏+谱亲敏注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批10 B 类档序续批十户",
+    "gap_proof": "https://www.e-krediidiinfo.ee/10674202-ELKO-EESTI-O%C3%9C"
+   },
+   "unknowns": [
+    "ELKO Grupa 谱位=与 B-217 WESTech(斯)同集团=批 10 双谱位谱注",
+    "2026-03-11 Pavlovskis 登档=新任政策窗",
+    "HIK 10674202 vs elko@elko.ee 谱位注"
+   ],
+   "unknowns56": [
+    "ELKO Grupa 谱位=与 B-217 WESTech(斯)同集团=批 10 双谱位谱注",
+    "2026-03-11 Pavlovskis 登档=新任政策窗",
+    "HIK 10674202 vs elko@elko.ee 谱位注"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批10 B 类",
+   "email": "Dear Adam,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a compact new-line block for wholesale portfolios, with a $165 USD EXW reference (2026-10-08, 15 days valid). Datasheet + CE pack available.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Adam Leemet(Juhatus 2013 起 13 年 P0)+Martins Pavlovskis(2026-03-11 新董事)+elko@elko.ee/(+372) 6509446**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "2000 创 26 年;Tallinn Kesklinn;ELKO Grupa 全资;EMTAK 46501 100%",
+    "芯片与在用型号": "电脑/外围/SW 批发;ELKO Group 谱系位;dldistributors.ee",
+    "关键人KP": "Adam Leemet(2013 起 13 年董事 P0 56 岁)+Martins Pavlovskis(2026-03-11 新董事 46 岁)+Svens Dinsdorfs+Egons Mednis(集团层)=4 轨谱",
+    "关注点与资质": "集团批发 → 24 口 PoE(谱口上新+谱系铺)",
+    "优缺点SWOT": "S=26 年谱+全资+新董事窗+ELKO 集团波罗的海/北欧谱位·W=集团决策在 Riga 注;ELKO 多年 MikroTik/网络谱=竞合敏注·O=ELKO Group 谱系上新=PoE 谱口;2026-03 新董事=新织窗·T=集团谱位多年谱=增位需敏+谱亲敏注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):爱沙尼亚语谱;ELKO Group 集团锁;新董事窗;€100M+ 集团级"
+   },
+   "swot_text": "- **S**:26 年谱+全资+新董事窗+ELKO 集团波罗的海/北欧谱位\n- **W**:集团决策在 Riga 注;ELKO 多年 MikroTik/网络谱=竞合敏注\n- **O**:ELKO Group 谱系上新=PoE 谱口;2026-03 新董事=新织窗\n- **T**:集团谱位多年谱=增位需敏+谱亲敏注",
+   "facts": [
+    {
+     "dim": "谱档",
+     "text": "ELKO Eesti OÜ;Registrikood 10674202;KMKR nr EE100627558 alates 01.07.2000;Asutatud 30.05.2000 (26 aastat 4 kuud);Põhikapital 2 556 EUR;Aadress Pärnu mnt 141 Tallinn Harjumaa 11314;Telefon 6509446;E-post elko@elko.ee;Koduleht www.elko.ee",
+     "quote": "ELKO Eesti OÜ;Registrikood 10674202;KMKR nr EE100627558 alates 01.07.2000;Asutatud 30.05.2000 (26 aastat 4 kuud);Põhikapital 2 556 EUR;Aadress Pärnu mnt 141 Tallinn Harjumaa 11314;Telefon 6509446;E-post elko@elko.ee;Koduleht www.elko.ee",
+     "url": "https://www.e-krediidiinfo.ee/10674202-ELKO-EESTI-O%C3%9C"
+    },
+    {
+     "dim": "掌权/集团",
+     "text": "ELKO Eesti OÜ on asutatud 2000;tegutseb sektoris kaubandus;põhitegevusala on arvutite, arvuti välisseadmete ja tarkvara hulgimüük;Ettevõtte juhid on Adam Leemet ja Martins Pavlovskis;Omanik on **ELKO Grupa AS**;Juhatus: ADAM LEEMET, MARTINS PAVLOVSKIS",
+     "quote": "ELKO Eesti OÜ on asutatud 2000;tegutseb sektoris kaubandus;põhitegevusala on arvutite, arvuti välisseadmete ja tarkvara hulgimüük;Ettevõtte juhid on Adam Leemet ja Martins Pavlovskis;Omanik on **ELKO Grupa AS**;Juhatus: ADAM LEEMET, MARTINS PAVLOVSKIS",
+     "url": "https://radar.aripaev.ee/ettevote/31722/elko-eesti-ou"
+    },
+    {
+     "dim": "董事档",
+     "text": "Tegevjuhtkond: Adam Leemet(56)=Juhatus 2013-04-22 alates;Martins Pavlovskis(46)=Juhatus 2026-03-11 alates=新任接窗;Juriidiline aadress: Pärnu mnt 141, 11314, Kesklinna linnaosa, Tallinn;EMTAK 46501(100%)",
+     "quote": "Tegevjuhtkond: Adam Leemet(56)=Juhatus 2013-04-22 alates;Martins Pavlovskis(46)=Juhatus 2026-03-11 alates=新任接窗;Juriidiline aadress: Pärnu mnt 141, 11314, Kesklinna linnaosa, Tallinn;EMTAK 46501(100%)",
+     "url": "https://www.infopank.ee/ettevote/31722/elko-eesti-ou"
+    },
+    {
+     "dim": "域谱",
+     "text": "Domain: dldistributors.ee;Registrant: ELKO EESTI OÜ(10674202);Registrar: Telia Eesti AS;Date of registration: 06.01.2011;Expiry date: 07.01.2027;Registry code: 10674202;Status: Registered",
+     "quote": "Domain: dldistributors.ee;Registrant: ELKO EESTI OÜ(10674202);Registrar: Telia Eesti AS;Date of registration: 06.01.2011;Expiry date: 07.01.2027;Registry code: 10674202;Status: Registered",
+     "url": "https://www.inforegister.ee/en/10674202-ELKO-EESTI-OU/"
+    },
+    {
+     "dim": "财务档",
+     "text": "Registry code: 10674202;VAT: EE100627558;Registered 30/05/2000;Share capital 2,556 EUR;Wholesale of computers, computer peripheral equipment and software(46501·100%);Financial ratios comp. code: 12773606",
+     "quote": "Registry code: 10674202;VAT: EE100627558;Registered 30/05/2000;Share capital 2,556 EUR;Wholesale of computers, computer peripheral equipment and software(46501·100%);Financial ratios comp. code: 12773606",
+     "url": "https://okredo.com/en-ee/company/elko-eesti-ou-10674202"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批10·B-285:爱沙谱: **ELKO Eesti OÜ 深挖(e-krediidiinfo/aripaev radar/inforegister/infopank/okredo 五源互证)**:**Registrikood **10674202**;asutatud 2000-05-30(26 年!);KMKR EE100627558(01.07.2000 起);põhikapital 2,556 EUR;Pärnu mnt 141,11314 Kesklinna linnaosa,Tallinn,Harju maakond;EMTAK 46501(电脑/周边/SW 批发 100%);(+372) 6509446;elko@elko.ee;www.elko.ee;dldistributors.ee 域 2011 谱**;**集团金锚:**Omanik=**ELKO Grupa AS**(100%;Riga Akciju sabiedriba「ELKO GRUPA」=拉脱维亚 ELKO 集团母;集团谱 Svens Dinsdorfs+Egons Mednis 集团层谱口;ELKO=波罗的海/北欧 IT 分销巨头集团;谱口=ELKO Group 谱系位)**;**KP 金谱:**Juhatus=**Adam Leemet**(56,2013-04-22 登档谱=13 年董事)+**Martins Pavlovskis**(46;**2026-03-11 新任董事——新窗**)=双董事交接谱**;**谱位=爱沙尼亚 26 年批发=ELKO 爱沙尼亚舰司=我方 24 口 PoE 对批发上新轴谱口(ELKO 多年经营 MikroTik/网络批谱=竞合谱注但谱位正对口)=批 10 波罗的海金矿**;**谱注:ELKO 谱系包括 B-217 WESTech(斯)=批 10 双谱位;谱注协同窗。**;排噪:ELKO Eesti vs ELKO Grupa AS=群谱注。",
+    "inference": "R67/TUB 推土机深挖 批10 B 类档序续批十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-252",
+   "code": "B-252",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批10·B-252:法谱: **SEWAN 深挖(manageo/verif/score3/xerfi/contract-factory 五源互证)**:**SIREN 452 363 153;SIRET( siège) 452 363 153 00043;SAS 创 2004-03-05(22 年);capital social 723,057 EUR;TVA FR10452363153; siège=2 Cité Paradis,75010 Paris 10(établissement siège 2015-03-01);**NAF 6110Z=Télécommunications filaires(有线电信)**; effectif=250-499 salariés(xerfi 记 ~400 员)**;**财务金谱:**Chiffre d\"affaires 2024=**154,624,210 €**(bilan 2024-12-31;xerfi 记 155 M€;+行业最大谱之一);**Group of 17 entities;Global Ultimate=SEWAN 集团母**;**KP 金谱:**Président=**Alexis Julien Armand Michel De Goriaïnoff**(b. 1974-11;**2016-06-28 任 10 年**)+**Directeur Général=**David Brette**(b. 1972-10)+N.S.K FIDUCIAIRE(审计 SIREN 391857760)=核心三档谱**;**谱位=**有线电信运营/企业云服务(sagepaas 谱位谱口)+集团千家客户谱;Facturation électronique=TESSI TECHNOLOGIES 域谱**=谱口=**电信大客户采购口+企业客户云接入**;**谱位注=谱位谱位=谱口=非直分销谱位(电信/云运营非电子设备批发)=谱位接 +MikroTik 采购口谱(MikroTik 已是法音 SEWAN 类谱案?谱档注)=批 10 法谱大谱(€154.6M 规模大谱;谱位谱注:谱口=谱位=法電信/云运营接谱位谱注,直口=设备采购层非分销谱**;排噪:法国同名 Sewan(simepreuve 法艺术司)=别司注。",
+   "inference": "R67/TUB 推土机深挖 批10 B 类档序续批十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.manageo.fr/entreprises/452363153.html",
+   "tech": "有线电信运营/企业云服务(NAF 6110Z);SEWAN 集团母 17 司;电信大客户谱",
+   "hr": "22 年;Paris 10;400 员;CA 2024 €154.6M(+)",
+   "contact_found": "**Alexis De Goriaïnoff(Président 2016 起 10 年 P0)+David Brette(Directeur Général)+N.S.K FIDUCIAIRE 审计**",
+   "contact_pending": "具名直邮需推 sewan.com 域档;谱台口谱档待推",
+   "dims": {
+    "业务定位": "SEWAN SAS(Paris 10,2004 创 22 年,€154.6M):法国有线电信/云运营集团母",
+    "产品线与在售品牌": "有线电信+企业云服务+集团 17 司谱;千家客户企业网谱",
+    "目标行业与场景": "法国企业客户/电信大客户;集团谱位",
+    "团队与规模": "400 员;22 年;€154.6M",
+    "决策链与对接人": "De Goriaïnoff(Président 10 年 P0)+Brette(DG)+N.S.K FIDUCIAIRE 审计",
+    "技术与认证": "NAF 6110Z;NAF 谱档;谱位谱注",
+    "采购与供应链信号": "**€154.6M 有线电信/云=谱位谱口=谱注谱位:设备采购层 MikroTik 谱口谱(运营接治理非分销谱)+集团谱链**",
+    "近期动态与线索": "Facturation 电谱=TESSI 谱;22 年稳",
+    "与我方契合点": "De Goriaïnoff 合唱 P0 → 24 口 PoE(电信/云运营接谱位谱注)",
+    "风险与注意": "**谱位谱注:谱位=非分销谱谱口(大电信非白牌商业谱)+£154.6M 场谱注;谱位谱当半对口**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "ENTREPRISE SEWAN;SIREN 452 363 153;SIRET 452 363 153 00043;TVA FR10452363153;Code NAF 6110Z Télécommunications filaires;Capital social 723 057 EURO;Dirigeant: Alexis Julien Armand Michel De Goriainoff;Effectif 250 à 499 salariés;SAS 创 2004-03-05;2 Cité Paradis, Paris 10(établissement siège 2015)",
+     "source": "https://www.manageo.fr/entreprises/452363153.html"
+    },
+    {
+     "dim": "财务档",
+     "quote": "SEWAN;bilan publié 31/12/2024;chiffre d\"affaires 154,624,210 euros;Group of 17 entities;Global Ultimate SEWAN;SIREN 452363153;FR10452363153",
+     "source": "https://www.verif.com/en/company/SEWAN-68d9c0ee1299230338840361/"
+    },
+    {
+     "dim": "掌权",
+     "quote": "Dirigeants: De Goriainoff Alexis(Président, depuis 28/06/2016, né 11/1974, residant Paris 9e)+David BRETTE(Directeur Général, né 10/1972, residant Ville-d\"Avray)+N.S.K FIDUCIAIRE(Commissaire aux comptes titulaire)",
+     "source": "https://www.contract-factory.com/infosocietes/sewan-452363153"
+    },
+    {
+     "dim": "谱档",
+     "quote": "SEWAN;2 Cité Paradis,75010 Paris;Capital 723 057 €;7 établissements;SIRET 452 363 153 00043;SAS",
+     "source": "https://www.score3.fr/SEWAN-452363153.shtml"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Sewan;créée mars 2004;capital 723 k€;400 personnes;CA 155 M€ en 2024;siège social Paris 10;2 autres établissements;NAF 61.10Z(Télécommunications filaires);Président Alexis DE GORIAINOFF;DG David BRETTE",
+     "source": "https://www.xerfi.com/etudes-par-entreprise/sewan_452363153"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · De Goriaïnoff 合唱 10 年谱(€154.6M 集团)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "Président → 24 口 PoE(电信运营采购谱注)",
+     "question": "SEWAN 集团设备采购岚借接入件主任谱?",
+     "proof": "manageo/verif 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Brette DG 谱",
+     "push": "STI-288GPM/424",
+     "angle": "DG 谱口",
+     "question": "贵司 MikroTik 谱位采购谱?",
+     "proof": "contract-factory 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · 集团 17 司谱链",
+     "push": "STC-28DGGPM",
+     "angle": "集团谱链谱",
+     "question": "17 司谱的接入设备谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2004 创 22 年;Paris 10;De Goriaïnoff 10 年 Président;€154.6M(2024)",
+     "②芯片/型号": "有线电信(NAF 6110Z)+企业云+集团 17 司",
+     "③KP 深挖": "Alexis De Goriaïnoff(Président 2016-06-28 起 10 年)+David Brette(DG)+N.S.K FIDUCIAIRE 审计=核心三档",
+     "④Saga 对标": "谱位注谱口谱谱口(设备采购层非分销谱)=注意谱当谱注 MikroTik 采购层",
+     "⑤在乎与偏好": "法语谱;€154.6M 大谱;集团决策链;谱档谱口谱注",
+     "⑥SWOT": "S=€154.6M 大谱+集团 17 司+400 员规模/W=谱位谱当半对口=谱谱谱注(运营非分销)/O=企业/电信设备采购层=接入设备链纺谱注/T=谱亲敏注(运营/谱供系统注);集团决策链长"
+    },
+    "care": "- **S**:€154.6M 大谱+集团 17 司+400 员规模\n- **W**:谱位谱当半对口=谱谱谱注(运营非分销)\n- **O**:企业/电信设备采购层=接入设备链纺谱注\n- **T**:谱亲敏注(运营/谱供系统注);集团决策链长",
+    "swot": {
+     "S": "€154.6M 大谱+集团 17 司+400 员规模",
+     "W": "谱位谱当半对口=谱谱谱注(运营非分销)",
+     "O": "企业/电信设备采购层=接入设备链纺谱注",
+     "T": "谱亲敏注(运营/谱供系统注);集团决策链长"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批10 B 类档序续批十户",
+    "gap_proof": "https://www.manageo.fr/entreprises/452363153.html"
+   },
+   "unknowns": [
+    "谱位谱注:谱位谱=电信运营+云非白牌分销=谱口半对口注",
+    "400 员 vs 250-499 双窗注",
+    "SIRES 452363153 谱注"
+   ],
+   "unknowns56": [
+    "谱位谱注:谱位谱=电信运营+云非白牌分销=谱口半对口注",
+    "400 员 vs 250-499 双窗注",
+    "SIRES 452363153 谱注"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批10 B 类",
+   "email": "Dear Alexis,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — reference $165 USD EXW (2026-10-08, 15 days valid), with our private-label and supply-chain flexibility documented for distribution groups. Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Alexis De Goriaïnoff(Président 10 年 P0)+David Brette(DG)+sewan.com 域档推**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "2004 创 22 年;Paris 10;De Goriaïnoff 10 年 Président;€154.6M(2024)",
+    "芯片与在用型号": "有线电信(NAF 6110Z)+企业云+集团 17 司",
+    "关键人KP": "Alexis De Goriaïnoff(Président 2016-06-28 起 10 年)+David Brette(DG)+N.S.K FIDUCIAIRE 审计=核心三档",
+    "关注点与资质": "谱位注谱口谱谱口(设备采购层非分销谱)=注意谱当谱注 MikroTik 采购层",
+    "优缺点SWOT": "S=€154.6M 大谱+集团 17 司+400 员规模·W=谱位谱当半对口=谱谱谱注(运营非分销)·O=企业/电信设备采购层=接入设备链纺谱注·T=谱亲敏注(运营/谱供系统注);集团决策链长",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):法语谱;€154.6M 大谱;集团决策链;谱档谱口谱注"
+   },
+   "swot_text": "- **S**:€154.6M 大谱+集团 17 司+400 员规模\n- **W**:谱位谱当半对口=谱谱谱注(运营非分销)\n- **O**:企业/电信设备采购层=接入设备链纺谱注\n- **T**:谱亲敏注(运营/谱供系统注);集团决策链长",
+   "facts": [
+    {
+     "dim": "法体登册",
+     "text": "ENTREPRISE SEWAN;SIREN 452 363 153;SIRET 452 363 153 00043;TVA FR10452363153;Code NAF 6110Z Télécommunications filaires;Capital social 723 057 EURO;Dirigeant: Alexis Julien Armand Michel De Goriainoff;Effectif 250 à 499 salariés;SAS 创 2004-03-05;2 Cité Paradis, Paris 10(établissement siège 2015)",
+     "quote": "ENTREPRISE SEWAN;SIREN 452 363 153;SIRET 452 363 153 00043;TVA FR10452363153;Code NAF 6110Z Télécommunications filaires;Capital social 723 057 EURO;Dirigeant: Alexis Julien Armand Michel De Goriainoff;Effectif 250 à 499 salariés;SAS 创 2004-03-05;2 Cité Paradis, Paris 10(établissement siège 2015)",
+     "url": "https://www.manageo.fr/entreprises/452363153.html"
+    },
+    {
+     "dim": "财务档",
+     "text": "SEWAN;bilan publié 31/12/2024;chiffre d\"affaires 154,624,210 euros;Group of 17 entities;Global Ultimate SEWAN;SIREN 452363153;FR10452363153",
+     "quote": "SEWAN;bilan publié 31/12/2024;chiffre d\"affaires 154,624,210 euros;Group of 17 entities;Global Ultimate SEWAN;SIREN 452363153;FR10452363153",
+     "url": "https://www.verif.com/en/company/SEWAN-68d9c0ee1299230338840361/"
+    },
+    {
+     "dim": "掌权",
+     "text": "Dirigeants: De Goriainoff Alexis(Président, depuis 28/06/2016, né 11/1974, residant Paris 9e)+David BRETTE(Directeur Général, né 10/1972, residant Ville-d\"Avray)+N.S.K FIDUCIAIRE(Commissaire aux comptes titulaire)",
+     "quote": "Dirigeants: De Goriainoff Alexis(Président, depuis 28/06/2016, né 11/1974, residant Paris 9e)+David BRETTE(Directeur Général, né 10/1972, residant Ville-d\"Avray)+N.S.K FIDUCIAIRE(Commissaire aux comptes titulaire)",
+     "url": "https://www.contract-factory.com/infosocietes/sewan-452363153"
+    },
+    {
+     "dim": "谱档",
+     "text": "SEWAN;2 Cité Paradis,75010 Paris;Capital 723 057 €;7 établissements;SIRET 452 363 153 00043;SAS",
+     "quote": "SEWAN;2 Cité Paradis,75010 Paris;Capital 723 057 €;7 établissements;SIRET 452 363 153 00043;SAS",
+     "url": "https://www.score3.fr/SEWAN-452363153.shtml"
+    },
+    {
+     "dim": "谱档",
+     "text": "Sewan;créée mars 2004;capital 723 k€;400 personnes;CA 155 M€ en 2024;siège social Paris 10;2 autres établissements;NAF 61.10Z(Télécommunications filaires);Président Alexis DE GORIAINOFF;DG David BRETTE",
+     "quote": "Sewan;créée mars 2004;capital 723 k€;400 personnes;CA 155 M€ en 2024;siège social Paris 10;2 autres établissements;NAF 61.10Z(Télécommunications filaires);Président Alexis DE GORIAINOFF;DG David BRETTE",
+     "url": "https://www.xerfi.com/etudes-par-entreprise/sewan_452363153"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批10·B-252:法谱: **SEWAN 深挖(manageo/verif/score3/xerfi/contract-factory 五源互证)**:**SIREN 452 363 153;SIRET( siège) 452 363 153 00043;SAS 创 2004-03-05(22 年);capital social 723,057 EUR;TVA FR10452363153; siège=2 Cité Paradis,75010 Paris 10(établissement siège 2015-03-01);**NAF 6110Z=Télécommunications filaires(有线电信)**; effectif=250-499 salariés(xerfi 记 ~400 员)**;**财务金谱:**Chiffre d\"affaires 2024=**154,624,210 €**(bilan 2024-12-31;xerfi 记 155 M€;+行业最大谱之一);**Group of 17 entities;Global Ultimate=SEWAN 集团母**;**KP 金谱:**Président=**Alexis Julien Armand Michel De Goriaïnoff**(b. 1974-11;**2016-06-28 任 10 年**)+**Directeur Général=**David Brette**(b. 1972-10)+N.S.K FIDUCIAIRE(审计 SIREN 391857760)=核心三档谱**;**谱位=**有线电信运营/企业云服务(sagepaas 谱位谱口)+集团千家客户谱;Facturation électronique=TESSI TECHNOLOGIES 域谱**=谱口=**电信大客户采购口+企业客户云接入**;**谱位注=谱位谱位=谱口=非直分销谱位(电信/云运营非电子设备批发)=谱位接 +MikroTik 采购口谱(MikroTik 已是法音 SEWAN 类谱案?谱档注)=批 10 法谱大谱(€154.6M 规模大谱;谱位谱注:谱口=谱位=法電信/云运营接谱位谱注,直口=设备采购层非分销谱**;排噪:法国同名 Sewan(simepreuve 法艺术司)=别司注。",
+    "inference": "R67/TUB 推土机深挖 批10 B 类档序续批十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-217",
+   "code": "B-217",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批10·B-217:斯谱: **WESTech, spol. s r.o. 深挖(foaf.sk/zoznam.sk/register.peniaze.sk/valida.sk/westech.sk 五源互证)**:**IČO 35796111;DIČ 2020245557;IČ DPH SK2020245557(注册 01.11.2000 §4);Mestský súd Bratislava III,vložka Sro/22493/B;**2023-09-25 创(26 年!);资本 33,195 EUR(登档);Stará Vajnorská 17,83104 Bratislava;NACE 46510(电脑批发);02 4445 4090;westech.eu/online.westech.sk/westech.sk 域谱**;**股东金锚=**Akciju sabiedriba 「ELKO GRUPA」(拉脱维亚)=**2023-02-03 起 51%**(历史=2004-05-08 至 2023-02-02 已 51%,16,929 EUR 股东层注;2000 创始时股东=ELKO-RIGA+Zero spol. s r.o. 双焦谱)=**26 年 ELKO 集团谱系位/B-285 ELKO Eesti 集团羁绊;**财务金谱:**Tržby 2023=**232,364,707 EUR**(+18.75% vs 2022;tovar predany 231,930,637;obchodná marža 6%);Zisk=4,020,587 EUR;Aktíva=72,106,736 EUR( valida.sk 登档)**;**KP 金谱:**Konateľ=**Ing. Matej Sršeň**(2000-09-25 创任 26 年 P0 创始人董事经;2022-05-23 增/2004-05-08/2009-09接;Nová Dedinka 档)+**Ing. Martin Strigač(**2025-03-24 新任董事**=新窗)**+**历史 Konateľ Ing. Róbert Király(2000 创任→2004-03-31 除)**+ELKO Grupa 集团层(Dinsdorfs/Mednis)=权势谱**;**谱位=斯洛伐克 €232.4M 分销母+ELKO 51% 集团谱=我方 24 口 PoE 对白牌/谱口谱=批 10 级金矿谱之一**;排噪:WESTech UK(Glasgow 安控司)=完全别司;%**谱注=库批 10 双谱位(B-285 ELKO Eesti 同集团)谱位协同谱注。**",
+   "inference": "R67/TUB 推土机深挖 批10 B 类档序续批十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://valida.sk/35796111",
+   "tech": "PC/办公电器/手机批发分销+westech.eu/online.westech.sk/westech.sk 域谱;ELKO GRUPA 51%",
+   "hr": "26 年;Bratislava;2023 营收 €232.4M(+18.75%);ELKO 集团子",
+   "contact_found": "**Ing. Matej Sršeň(Konateľ 2000 创任 26 年 P0)+Ing. Martin Strigač(2025-03-24 新任董事)+Ing. Róbert Király(前任谱)+ELKO Grupa 集团层**",
+   "contact_pending": "具名直邮需推 westech.sk 域档;02 4445 4090 台口 CSV 谱口",
+   "dims": {
+    "业务定位": "WESTech, spol. s r.o.(Bratislava,2000 创 26 年,ELKO Grupa 51%):斯洛伐克 €232.4M 分销母",
+    "产品线与在售品牌": "PC/notebook/phone/办公电器批发+e-shop(westech.eu/online.westech.sk/westech.sk);NACE 46510",
+    "目标行业与场景": "斯洛伐克/中欧企业/客户;ELKO Group 谱系位",
+    "团队与规模": "26 年;€232.4M 营收(2023,+18.75%);€4.02M 利润",
+    "决策链与对接人": "Sršeň(2000 创任 26 年 P0)+Strigač(2025-03 新任)+Király(前任 2000-2004)+Dinsdorfs/Mednis(集团层)",
+    "技术与认证": "§4 注册 SK2020245557;Mestský súd Bratislava III",
+    "采购与供应链信号": "**€232.4M+ELKO 集团子+2025-03 新董事=新吏新政谱窗+24 口 PoE 谱口;6% 商业毛利谱=大谱口谱注**",
+    "近期动态与线索": "+18.75% 增淌;€72.1M 资产;谱系频谱",
+    "与我方契合点": "Sršeň 26 年 P0 → 24 口 PoE(谱上口/白牌谱位)",
+    "风险与注意": "**全资 51% 决策在 ELKO Grupa 注;€232M 大谱与 6% 毛利=谱谱敏注(谱峃多年 MikroTik/网络谱=竞合谱注)**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "WESTech, spol. s r.o.;IČO: 35796111;DIČ: 2020245557;IČ DPH: SK2020245557;Mestský súd Bratislava III, vložka Sro/22493/B;Stará Vajnorská 17, 831 04 Bratislava;§4 od 01.11.2000;Firma vznikla 25.09.2000;Email gdpr@westech.sk",
+     "source": "https://www.foaf.sk/35796111?locale=en"
+    },
+    {
+     "dim": "掌权/股东",
+     "quote": "Konatelia 2025-03-24 alates: Ing. Martin Strigač(Senec;2025-03-24 登档)+Ing. Matej Sršeň(2000-09-25 登档,26 年);历史 Konateľ Ing. Matej Sršeň 多注(2022-05/2004/2009/2000 谱)+Ing. Róbert Király(Bratislava;2000 创任 → vymazáno 31.03.2004);Spoločníci: Akciju sabiedriba「ELKO GRUPA」(Riga)51,00% od 03.02.2023(历史 2004-05-08 至 2023-02-02 已 51%)",
+     "source": "https://register.peniaze.sk/35796111-westech-spol-s-r-o"
+    },
+    {
+     "dim": "财务档",
+     "quote": "Zisk: 4 020 587 €;Tržby: 232 364 707 €(2023,+18,75%);Aktíva: 72 106 736 €;tovar predany za 231 930 637 €;obchodná marža 6%;IČO 35 796 111",
+     "source": "https://valida.sk/35796111"
+    },
+    {
+     "dim": "谱档",
+     "quote": "WESTech, spol. s r.o.;Distribúcia, veľkoobchod, e-shop: počítače, notebooky, telefóny, nositeľné zariadenia, kancelárska elektronika;Adresa: Stará Vajnorská 17, 83104 Bratislava;02 4445 4090;https://www.westech.eu/sk",
+     "source": "https://www.zoznam.sk/firma/79844/WESTech-spol-s-r-o-Bratislava"
+    },
+    {
+     "dim": "集团档",
+     "quote": "Prevádzkovateľ WESTech, spol. s r.o. ako pobočka medzinárodnej spoločnosti ELKO Group;IČO 35 796 111;reg. OS Bratislava 1, odd. Sro, vl. č. 22493/B(westech.sk 隐私政策页「WESTech pobočka ELKO Group」)",
+     "source": "https://online.westech.sk/ochrana-osobnych-udajov_ma2156.html"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Sršeň 26 年 P0(€232.4M 分销谱)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "创始人董事具名 → 24 口 PoE(谱口/白牌)",
+     "question": "贵司分销线的 24 口 PoE 白牌/交换机新品由哪位主管?",
+     "proof": "foaf/register/valida 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Strigač 新董事窗(2025-03 谱窗)",
+     "push": "STI-288GPM/424",
+     "angle": "新任董事窗=新织谱",
+     "question": "新吏新政谱窗中的 PoE 谱?",
+     "proof": "register 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · ELKO GRUPA 集团谱口(Riga)",
+     "push": "STC-28DGGPM",
+     "angle": "51% 集团子=决策链谱",
+     "question": "ELKO Group 谱位的 elements谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2000 创 26 年;Bratislava;ELKO GRUPA 51%;€232.4M(2023,+18.75%)",
+     "②芯片/型号": "PC/notebook/手机/办公电器批发+e-shop 三域谱;NACE 46510",
+     "③KP 深挖": "Sršeň(Konateľ 2000 创任 26 年 P0)+Strigač(2025-03-24 新任)+Király(前任 2000-2004)+ELKO Grupa 集团层",
+     "④Saga 对标": "€232M 集团批发 → 24 口 PoE(谱口/白牌谱位)",
+     "⑤在乎与偏好": "斯洛伐克语谱;ELKO Group 集团谱;新董事窗;€232M 大谱",
+     "⑥SWOT": "S=€232M 大谱+ELKO 集团子+26 年谱稳+新董事活窗/W=51% 全资谱注;6% 商业毛利=谱低利注/O=谱口/白牌谱位谱口谱口谱注 MikroTik 谱/T=ELKO 多年网络谱竞合敏注;集团决策链"
+    },
+    "care": "- **S**:€232M 大谱+ELKO 集团子+26 年谱稳+新董事活窗\n- **W**:51% 全资谱注;6% 商业毛利=谱低利注\n- **O**:谱口/白牌谱位谱口谱口谱注 MikroTik 谱\n- **T**:ELKO 多年网络谱竞合敏注;集团决策链",
+    "swot": {
+     "S": "€232M 大谱+ELKO 集团子+26 年谱稳+新董事活窗",
+     "W": "51% 全资谱注;6% 商业毛利=谱低利注",
+     "O": "谱口/白牌谱位谱口谱口谱注 MikroTik 谱",
+     "T": "ELKO 多年网络谱竞合敏注;集团决策链"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批10 B 类档序续批十户",
+    "gap_proof": "https://www.foaf.sk/35796111?locale=en"
+   },
+   "unknowns": [
+    "ELKO Grupa 谱系位 B-217+B-285 同集团=批 10 双谱位谱注",
+    "2004-2023 vs 2023-02-03 起 51% 谱位档(股变重登谱)",
+    "Sršeň Nová Dedinka/Banská Bystrica 双窗谱注"
+   ],
+   "unknowns56": [
+    "ELKO Grupa 谱系位 B-217+B-285 同集团=批 10 双谱位谱注",
+    "2004-2023 vs 2023-02-03 起 51% 谱位档(股变重登谱)",
+    "Sršeň Nová Dedinka/Banská Bystrica 双窗谱注"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批10 B 类",
+   "email": "Dear Matej,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a cost-engineered new-line block designed for distribution groups like ELKO Group. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Ing. Matej Sršeň(Konateľ 26 年 P0)+Ing. Martin Strigač(2025-03 新董事)+westech.sk 域档具名推+02 4445 4090**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "2000 创 26 年;Bratislava;ELKO GRUPA 51%;€232.4M(2023,+18.75%)",
+    "芯片与在用型号": "PC/notebook/手机/办公电器批发+e-shop 三域谱;NACE 46510",
+    "关键人KP": "Sršeň(Konateľ 2000 创任 26 年 P0)+Strigač(2025-03-24 新任)+Király(前任 2000-2004)+ELKO Grupa 集团层",
+    "关注点与资质": "€232M 集团批发 → 24 口 PoE(谱口/白牌谱位)",
+    "优缺点SWOT": "S=€232M 大谱+ELKO 集团子+26 年谱稳+新董事活窗·W=51% 全资谱注;6% 商业毛利=谱低利注·O=谱口/白牌谱位谱口谱口谱注 MikroTik 谱·T=ELKO 多年网络谱竞合敏注;集团决策链",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):斯洛伐克语谱;ELKO Group 集团谱;新董事窗;€232M 大谱"
+   },
+   "swot_text": "- **S**:€232M 大谱+ELKO 集团子+26 年谱稳+新董事活窗\n- **W**:51% 全资谱注;6% 商业毛利=谱低利注\n- **O**:谱口/白牌谱位谱口谱口谱注 MikroTik 谱\n- **T**:ELKO 多年网络谱竞合敏注;集团决策链",
+   "facts": [
+    {
+     "dim": "法体登册",
+     "text": "WESTech, spol. s r.o.;IČO: 35796111;DIČ: 2020245557;IČ DPH: SK2020245557;Mestský súd Bratislava III, vložka Sro/22493/B;Stará Vajnorská 17, 831 04 Bratislava;§4 od 01.11.2000;Firma vznikla 25.09.2000;Email gdpr@westech.sk",
+     "quote": "WESTech, spol. s r.o.;IČO: 35796111;DIČ: 2020245557;IČ DPH: SK2020245557;Mestský súd Bratislava III, vložka Sro/22493/B;Stará Vajnorská 17, 831 04 Bratislava;§4 od 01.11.2000;Firma vznikla 25.09.2000;Email gdpr@westech.sk",
+     "url": "https://www.foaf.sk/35796111?locale=en"
+    },
+    {
+     "dim": "掌权/股东",
+     "text": "Konatelia 2025-03-24 alates: Ing. Martin Strigač(Senec;2025-03-24 登档)+Ing. Matej Sršeň(2000-09-25 登档,26 年);历史 Konateľ Ing. Matej Sršeň 多注(2022-05/2004/2009/2000 谱)+Ing. Róbert Király(Bratislava;2000 创任 → vymazáno 31.03.2004);Spoločníci: Akciju sabiedriba「ELKO GRUPA」(Riga)51,00% od 03.02.2023(历史 2004-05-08 至 2023-02-02 已 51%)",
+     "quote": "Konatelia 2025-03-24 alates: Ing. Martin Strigač(Senec;2025-03-24 登档)+Ing. Matej Sršeň(2000-09-25 登档,26 年);历史 Konateľ Ing. Matej Sršeň 多注(2022-05/2004/2009/2000 谱)+Ing. Róbert Király(Bratislava;2000 创任 → vymazáno 31.03.2004);Spoločníci: Akciju sabiedriba「ELKO GRUPA」(Riga)51,00% od 03.02.2023(历史 2004-05-08 至 2023-02-02 已 51%)",
+     "url": "https://register.peniaze.sk/35796111-westech-spol-s-r-o"
+    },
+    {
+     "dim": "财务档",
+     "text": "Zisk: 4 020 587 €;Tržby: 232 364 707 €(2023,+18,75%);Aktíva: 72 106 736 €;tovar predany za 231 930 637 €;obchodná marža 6%;IČO 35 796 111",
+     "quote": "Zisk: 4 020 587 €;Tržby: 232 364 707 €(2023,+18,75%);Aktíva: 72 106 736 €;tovar predany za 231 930 637 €;obchodná marža 6%;IČO 35 796 111",
+     "url": "https://valida.sk/35796111"
+    },
+    {
+     "dim": "谱档",
+     "text": "WESTech, spol. s r.o.;Distribúcia, veľkoobchod, e-shop: počítače, notebooky, telefóny, nositeľné zariadenia, kancelárska elektronika;Adresa: Stará Vajnorská 17, 83104 Bratislava;02 4445 4090;https://www.westech.eu/sk",
+     "quote": "WESTech, spol. s r.o.;Distribúcia, veľkoobchod, e-shop: počítače, notebooky, telefóny, nositeľné zariadenia, kancelárska elektronika;Adresa: Stará Vajnorská 17, 83104 Bratislava;02 4445 4090;https://www.westech.eu/sk",
+     "url": "https://www.zoznam.sk/firma/79844/WESTech-spol-s-r-o-Bratislava"
+    },
+    {
+     "dim": "集团档",
+     "text": "Prevádzkovateľ WESTech, spol. s r.o. ako pobočka medzinárodnej spoločnosti ELKO Group;IČO 35 796 111;reg. OS Bratislava 1, odd. Sro, vl. č. 22493/B(westech.sk 隐私政策页「WESTech pobočka ELKO Group」)",
+     "quote": "Prevádzkovateľ WESTech, spol. s r.o. ako pobočka medzinárodnej spoločnosti ELKO Group;IČO 35 796 111;reg. OS Bratislava 1, odd. Sro, vl. č. 22493/B(westech.sk 隐私政策页「WESTech pobočka ELKO Group」)",
+     "url": "https://online.westech.sk/ochrana-osobnych-udajov_ma2156.html"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批10·B-217:斯谱: **WESTech, spol. s r.o. 深挖(foaf.sk/zoznam.sk/register.peniaze.sk/valida.sk/westech.sk 五源互证)**:**IČO 35796111;DIČ 2020245557;IČ DPH SK2020245557(注册 01.11.2000 §4);Mestský súd Bratislava III,vložka Sro/22493/B;**2023-09-25 创(26 年!);资本 33,195 EUR(登档);Stará Vajnorská 17,83104 Bratislava;NACE 46510(电脑批发);02 4445 4090;westech.eu/online.westech.sk/westech.sk 域谱**;**股东金锚=**Akciju sabiedriba 「ELKO GRUPA」(拉脱维亚)=**2023-02-03 起 51%**(历史=2004-05-08 至 2023-02-02 已 51%,16,929 EUR 股东层注;2000 创始时股东=ELKO-RIGA+Zero spol. s r.o. 双焦谱)=**26 年 ELKO 集团谱系位/B-285 ELKO Eesti 集团羁绊;**财务金谱:**Tržby 2023=**232,364,707 EUR**(+18.75% vs 2022;tovar predany 231,930,637;obchodná marža 6%);Zisk=4,020,587 EUR;Aktíva=72,106,736 EUR( valida.sk 登档)**;**KP 金谱:**Konateľ=**Ing. Matej Sršeň**(2000-09-25 创任 26 年 P0 创始人董事经;2022-05-23 增/2004-05-08/2009-09接;Nová Dedinka 档)+**Ing. Martin Strigač(**2025-03-24 新任董事**=新窗)**+**历史 Konateľ Ing. Róbert Király(2000 创任→2004-03-31 除)**+ELKO Grupa 集团层(Dinsdorfs/Mednis)=权势谱**;**谱位=斯洛伐克 €232.4M 分销母+ELKO 51% 集团谱=我方 24 口 PoE 对白牌/谱口谱=批 10 级金矿谱之一**;排噪:WESTech UK(Glasgow 安控司)=完全别司;%**谱注=库批 10 双谱位(B-285 ELKO Eesti 同集团)谱位协同谱注。**",
+    "inference": "R67/TUB 推土机深挖 批10 B 类档序续批十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-013",
+   "code": "B-013",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批10·B-013:乌谱: **Gazik Store 深挖(synthetic.ua/list.in.ua/gazik.ub.ua/facebook 盘谱 四源互证)**:**店网谱=**Львів вул. Генерала Чупринки 22(Lviv 店址)+基辅/利沃夫/捷尔诺波尔三城门店(谱双窗:基辅/利沃夫/敖德萨 谱档也别窗注);+38 (067) 117-76-38/+38 (093) 505-68-04;cheys1990@gmail.com;gazikoutlet.olx.ua/uk;facebook.com/GazikNoteBook(Lviv 谱)**;**谱口=**欧美商务类设备进口商+零售/批发商**=「ми самостійно поставляємо всю техніку з Європи та США і продаємо виключно моделі бізнес-класу=我自欧美直采商务设备」+「поставки відбуваються кожні 2 тижні в великих розмірах=每 2 周大货」+**ть谱=**Lenovo ThinkPad/Dell Latitude/HP EliteBook/Fujitsu-Siemens Lifebook(+ноутбуки/системні блоки/монітори/принтери/планшети/моноблоки/сервер/роутери/сетеве обладнання/аксесуари)**;**谱谱=可对配置/RAM/SSD/开发票(безготівкова форма оплати з ПДВ=含 VAT 发票谱)+отримання отсня в великих розмірах=批发谱;12 月保谱**;**谱位=乌克兰西欧美欧美设备进口/零售/批发+网络件谱=我方 24 口 PoE 对小机部署谱口(进口平价谱口对 PoE EXW 收货谱)+网络件谱(router/network)**=批 10 乌谱金矿**;**守档注:**法名/注册号/ІПН/ЄДРПОУ 未公开钉=谱窗待冹(乌谱多窗口小司/个体谱注);KP=谱档归「经营者未钉谱」注(谱档多窗 FB/OLX 为店网非登档谱)**;排噪=**库 B-013=CSV/Gazik Store 谱档=本户谱档(谱位正谱)**;**倡议谱注=EXW 谱注(欧美进口→乌客谱口谱)。",
+   "inference": "R67/TUB 推土机深挖 批10 B 类档序续批十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://synthetic.ua/seller/gazik-store",
+   "tech": "欧美商务设备进口+零售/批发(双周大批货);Lenovo/Dell/HP/Fujitsu+server/router/网络件铺",
+   "hr": "规模未钉(谱小档窗)+利沃夫 base+多城门店",
+   "contact_found": "**谱注：经营者/部主未公开档钉(FB/chez 谱口)+谱窗 самостійна поставка=进口主管谱待核**",
+   "contact_pending": "具名直邮 cheys1990@gmail.com(登档谱口)+067-117-76-38 台口 CSV 谱口",
+   "dims": {
+    "业务定位": "Gazik Store(Львів,Lviv;欧美商务设备进口/零售/批发+多城门店;法名未钉谱)",
+    "产品线与在售品牌": "欧美商务类笔记本/PC/网络件谱+Lenovo ThinkPad/Dell Latitude/HP EliteBook/Fujitsu Lifebook+server/router/电网谱",
+    "目标行业与场景": "乌克兰 SMB/个体客户;基辅/利沃夫/捷尔诺波尔(档双窗敖德萨谱)",
+    "团队与规模": "小档谱(谱档未钉)+多店",
+    "决策链与对接人": "经营者未钉谱(谱注)+cheys1990@gmail.com 联系谱口",
+    "技术与认证": "VAT 发票谱 z ПДВ;Аверес谱谱",
+    "采购与供应链信号": "**欧美进口谱口(EXW 谱对 PoE 收获谱)+网络件谱口+每 2 周大谱货=PoE 小谱口谱+法名谱待补档**",
+    "近期动态与线索": "双周大谱活信号;多城门店谱",
+    "与我方契合点": "cheys1990@gmail.com 写谱谱 → 24 口 PoE(小部署/培训中心)",
+    "风险与注意": "**法名未钉=谱档谱注+KP 谱位档谱注(谱档谱口应调)**"
+   },
+   "evidence": [
+    {
+     "dim": "谱档",
+     "quote": "Gazik Store пропонує вам легендарні модельний ряд ноутбуків бізнес класу;Lenovo ThinkPad, Dell Latitude, HP EliteBook, Fujitsu-Simens Lefebook;Ми самостійно поставляємо всю техніку з Європи та США;поставки відбуваються кожні 2 тижні в великих розмірах(ноутбуки, нетбуки, ПК, планшети, монітори та моноблоки);Функціонує мережа магазинів у містах: Києві, Львові та Тернополі;Перевірочна гарантія до 12 місяців;Адреса магазину у Львові вул. Генерала Чупринки 22",
+     "source": "https://synthetic.ua/seller/gazik-store"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Магазин комп\"ютерної техніки «Gazik NotebooK» займається продажем ноутбуків з США в вроздріб так і оптом;Lviv, Ukraine;+380 67 117 7638;cheys1990@gmail.com;gazikoutlet.olx.ua/uk",
+     "source": "https://www.facebook.com/gazikstorenotebook/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Gazik Store;вулиця Генерала Чупринки, 22;+38 (067) 117-76-38;+38 (093) 505-68-04;Продаж комп\"ютерної техніки та мережевого обладнання(电脑与网络设备销售);ноутбуків;мережевого обладнання;моніторів;системних блоків;моноблоків;серверів;планшетів;роутерів;аксесуарів(含服务器/路由器/网络设备谱)",
+     "source": "https://list.in.ua/138558/Gazik-Store-%D0%9B%D1%8C%D0%B2%D1%96%D0%B2"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Gazik notebook;Адреса Україна Львівська Львів Чупринки 22;Gazik Store Notebook;Импорт из Європи та США;мережа Києві/Львові/Одесі(谱双窗)",
+     "source": "https://gazik.ub.ua/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · cheys1990@gmail.com 谱口谱档",
+     "push": "STC-424XGGPM-280W",
+     "angle": "欧美进口谱 → 24 口 PoE(EXW 小部署)",
+     "question": "贵司进口欧美商务设备的 PoE 交换机器位谱?",
+     "proof": "synthetic/list.in.ua 4 源"
+    },
+    {
+     "stage": "第 2 次跟进 · 网络件谱口(router/server/网络电谱)",
+     "push": "STI-288GPM/424",
+     "angle": "网络电+server 谱",
+     "question": "网络设备与服务器谱位的 PoE 谱?",
+     "proof": "list.in.ua 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · 谱位法名待核+批发/24 小部署谱",
+     "push": "STC-28DGGPM",
+     "angle": "批发+双周大谱货",
+     "question": "贵司欧美谱链喜爱的接 24 口交换机?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Lviv 利沃夫;多城门店(基辅/利沃夫/捷尔诺波尔/敖德萨双窗);欧美进口商务设备零售/批发",
+     "②芯片/型号": "Lenovo ThinkPad/Dell Latitude/HP EliteBook/Fujitsu Lifebook;server/router/network/监控谱",
+     "③KP 深挖": "谱注：经营者/部主未公开档钉(谱档谱口待补查)->cheys1990@gmail.com 谱口(FB 谱)",
+     "④Saga 对标": "欧美进口谱口(EXW+批发/小部署)→ 24 口 PoE(小部署/培训中心/零售谱口)",
+     "⑤在乎与偏好": "乌克兰语谱;12 月保谱;含 VAT 发票;双周大谱货谱口",
+     "⑥SWOT": "S=欧美进口直口谱+批发谱+网络件谱+VAP 发票谱/W=法名未钉谱注;KP 未钉谱注;小档注/O=EXW $165 平价体+谱口谱欧确谱口谱/T=谱档谱注(烏克战线注/个体谱注);乌厂谱落单战备注"
+    },
+    "care": "- **S**:欧美进口直口谱+批发谱+网络件谱+VAP 发票谱\n- **W**:法名未钉谱注;KP 未钉谱注;小档注\n- **O**:EXW $165 平价体+谱口谱欧确谱口谱\n- **T**:谱档谱注(烏克战线注/个体谱注);乌厂谱落单战备注",
+    "swot": {
+     "S": "欧美进口直口谱+批发谱+网络件谱+VAP 发票谱",
+     "W": "法名未钉谱注;KP 未钉谱注;小档注",
+     "O": "EXW $165 平价体+谱口谱欧确谱口谱",
+     "T": "谱档谱注(烏克战线注/个体谱注);乌厂谱落单战备注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批10 B 类档序续批十户",
+    "gap_proof": "https://synthetic.ua/seller/gazik-store"
+   },
+   "unknowns": [
+    "谱档法名/ІПН/ЄДРПОУ 未公开谱窗注",
+    "谱口基辅/利沃夫/捷尔诺波尔 vs 基辅/利沃夫/敖德萨双窗注",
+    "法名/联系人未档谱注=谱谱注(carrier FB/OLX)"
+   ],
+   "unknowns56": [
+    "谱档法名/ІПН/ЄДРПОУ 未公开谱窗注",
+    "谱口基辅/利沃夫/捷尔诺波尔 vs 基辅/利沃夫/敖德萨双窗注",
+    "法名/联系人未档谱注=谱谱注(carrier FB/OLX)"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批10 B 类",
+   "email": "Dear Sir or Madam,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — ready for export with a $165 USD EXW reference (2026-10-08, 15 days valid). Datasheet + CE pack available.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**谱注:经营者未档谱(谱谱注)+cheys1990@gmail.com+067-117-76-38 谱口**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "Lviv 利沃夫;多城门店(基辅/利沃夫/捷尔诺波尔/敖德萨双窗);欧美进口商务设备零售/批发",
+    "芯片与在用型号": "Lenovo ThinkPad/Dell Latitude/HP EliteBook/Fujitsu Lifebook;server/router/network/监控谱",
+    "关键人KP": "谱注：经营者/部主未公开档钉(谱档谱口待补查)->cheys1990@gmail.com 谱口(FB 谱)",
+    "关注点与资质": "欧美进口谱口(EXW+批发/小部署)→ 24 口 PoE(小部署/培训中心/零售谱口)",
+    "优缺点SWOT": "S=欧美进口直口谱+批发谱+网络件谱+VAP 发票谱·W=法名未钉谱注;KP 未钉谱注;小档注·O=EXW $165 平价体+谱口谱欧确谱口谱·T=谱档谱注(烏克战线注/个体谱注);乌厂谱落单战备注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):乌克兰语谱;12 月保谱;含 VAT 发票;双周大谱货谱口"
+   },
+   "swot_text": "- **S**:欧美进口直口谱+批发谱+网络件谱+VAP 发票谱\n- **W**:法名未钉谱注;KP 未钉谱注;小档注\n- **O**:EXW $165 平价体+谱口谱欧确谱口谱\n- **T**:谱档谱注(烏克战线注/个体谱注);乌厂谱落单战备注",
+   "facts": [
+    {
+     "dim": "谱档",
+     "text": "Gazik Store пропонує вам легендарні модельний ряд ноутбуків бізнес класу;Lenovo ThinkPad, Dell Latitude, HP EliteBook, Fujitsu-Simens Lefebook;Ми самостійно поставляємо всю техніку з Європи та США;поставки відбуваються кожні 2 тижні в великих розмірах(ноутбуки, нетбуки, ПК, планшети, монітори та моноблоки);Функціонує мережа магазинів у містах: Києві, Львові та Тернополі;Перевірочна гарантія до 12 місяців;Адреса магазину у Львові вул. Генерала Чупринки 22",
+     "quote": "Gazik Store пропонує вам легендарні модельний ряд ноутбуків бізнес класу;Lenovo ThinkPad, Dell Latitude, HP EliteBook, Fujitsu-Simens Lefebook;Ми самостійно поставляємо всю техніку з Європи та США;поставки відбуваються кожні 2 тижні в великих розмірах(ноутбуки, нетбуки, ПК, планшети, монітори та моноблоки);Функціонує мережа магазинів у містах: Києві, Львові та Тернополі;Перевірочна гарантія до 12 місяців;Адреса магазину у Львові вул. Генерала Чупринки 22",
+     "url": "https://synthetic.ua/seller/gazik-store"
+    },
+    {
+     "dim": "谱档",
+     "text": "Магазин комп\"ютерної техніки «Gazik NotebooK» займається продажем ноутбуків з США в вроздріб так і оптом;Lviv, Ukraine;+380 67 117 7638;cheys1990@gmail.com;gazikoutlet.olx.ua/uk",
+     "quote": "Магазин комп\"ютерної техніки «Gazik NotebooK» займається продажем ноутбуків з США в вроздріб так і оптом;Lviv, Ukraine;+380 67 117 7638;cheys1990@gmail.com;gazikoutlet.olx.ua/uk",
+     "url": "https://www.facebook.com/gazikstorenotebook/"
+    },
+    {
+     "dim": "谱档",
+     "text": "Gazik Store;вулиця Генерала Чупринки, 22;+38 (067) 117-76-38;+38 (093) 505-68-04;Продаж комп\"ютерної техніки та мережевого обладнання(电脑与网络设备销售);ноутбуків;мережевого обладнання;моніторів;системних блоків;моноблоків;серверів;планшетів;роутерів;аксесуарів(含服务器/路由器/网络设备谱)",
+     "quote": "Gazik Store;вулиця Генерала Чупринки, 22;+38 (067) 117-76-38;+38 (093) 505-68-04;Продаж комп\"ютерної техніки та мережевого обладнання(电脑与网络设备销售);ноутбуків;мережевого обладнання;моніторів;системних блоків;моноблоків;серверів;планшетів;роутерів;аксесуарів(含服务器/路由器/网络设备谱)",
+     "url": "https://list.in.ua/138558/Gazik-Store-%D0%9B%D1%8C%D0%B2%D1%96%D0%B2"
+    },
+    {
+     "dim": "谱档",
+     "text": "Gazik notebook;Адреса Україна Львівська Львів Чупринки 22;Gazik Store Notebook;Импорт из Європи та США;мережа Києві/Львові/Одесі(谱双窗)",
+     "quote": "Gazik notebook;Адреса Україна Львівська Львів Чупринки 22;Gazik Store Notebook;Импорт из Європи та США;мережа Києві/Львові/Одесі(谱双窗)",
+     "url": "https://gazik.ub.ua/"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批10·B-013:乌谱: **Gazik Store 深挖(synthetic.ua/list.in.ua/gazik.ub.ua/facebook 盘谱 四源互证)**:**店网谱=**Львів вул. Генерала Чупринки 22(Lviv 店址)+基辅/利沃夫/捷尔诺波尔三城门店(谱双窗:基辅/利沃夫/敖德萨 谱档也别窗注);+38 (067) 117-76-38/+38 (093) 505-68-04;cheys1990@gmail.com;gazikoutlet.olx.ua/uk;facebook.com/GazikNoteBook(Lviv 谱)**;**谱口=**欧美商务类设备进口商+零售/批发商**=「ми самостійно поставляємо всю техніку з Європи та США і продаємо виключно моделі бізнес-класу=我自欧美直采商务设备」+「поставки відбуваються кожні 2 тижні в великих розмірах=每 2 周大货」+**ть谱=**Lenovo ThinkPad/Dell Latitude/HP EliteBook/Fujitsu-Siemens Lifebook(+ноутбуки/системні блоки/монітори/принтери/планшети/моноблоки/сервер/роутери/сетеве обладнання/аксесуари)**;**谱谱=可对配置/RAM/SSD/开发票(безготівкова форма оплати з ПДВ=含 VAT 发票谱)+отримання отсня в великих розмірах=批发谱;12 月保谱**;**谱位=乌克兰西欧美欧美设备进口/零售/批发+网络件谱=我方 24 口 PoE 对小机部署谱口(进口平价谱口对 PoE EXW 收货谱)+网络件谱(router/network)**=批 10 乌谱金矿**;**守档注:**法名/注册号/ІПН/ЄДРПОУ 未公开钉=谱窗待冹(乌谱多窗口小司/个体谱注);KP=谱档归「经营者未钉谱」注(谱档多窗 FB/OLX 为店网非登档谱)**;排噪=**库 B-013=CSV/Gazik Store 谱档=本户谱档(谱位正谱)**;**倡议谱注=EXW 谱注(欧美进口→乌客谱口谱)。",
+    "inference": "R67/TUB 推土机深挖 批10 B 类档序续批十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  }
+ ],
+ "_meta": {
+  "batch": "R67/TUB 推土机深挖 批10 B 类档序续批十户",
+  "date": "2026-10-08",
+  "n": 10
+ }
+}
