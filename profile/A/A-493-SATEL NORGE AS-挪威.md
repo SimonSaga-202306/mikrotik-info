@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 25·493:挪威谱: SATEL NORGE AS:**Dag Henning Dahlby 日用经理(SATEL 原厂 where-to-buy 页+proff.no 挪威登记件双源 O 级具名)**;Org.nr 984 737 238,Moss Pottemakerveien 35;ORing 工业+MileSight/WLink/FlexDSL/Conta-Clip/Etic Telecom 牌谱;应用含军用/机场谱=**守界注(我司民用商用限定,军事用途推辞)**;Dixi Holding AS 100% 母;我司 424 XGG 先价锚 $165,OK。
-- 【推断】R66 第 25 波具名 KP 金谱
-- 【假设】STC-424XGGPM-280W($165/$80 双轨 (2026-10-08, 15天有效))具名谱位引路
+- 【事实】波 R67·A-493:挪威谱: **SATEL NORGE 深挖(proff.no 登记件+LI 双源)**:①**Dag Henning Dahlby(f 1961)=65 岁**,LI 自署「Owner of Satel Norge AS」+**Daglig leder(日用经理)与 Styrets leder(董事会主席)双职**(proff.no 984 737 238);②同址企业谱 **KLAUSEN DAHLBY + DIXI HOLDING AS(100% 母)**=家族 Dixi 集团;③物业 Pottemakerveien 35 自营 1109.5 m²;雇员 1-4 人微铺(家族精品分销型);satel.no「MISSION-CRITICAL」自定;应用谱含 **GPS offshore/机场/电力/隧道/风电/海事/military installations(zoominfo 件)=军用邻谱守界注(我司民用商用限定,军事用途推辞)**;④SATELLINE-3AS 电台 modem 应用库(Yumpu 件)
+- 【推断】R67 推土机深挖 批1 具名 KP 金谱(全系深挖加厚)
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名梯队引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -77,12 +77,14 @@ updated: 2026-09-28
 - **原始联系字段**：produktinfo@satel.no；+47 69 27 70 40
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Dag Henning Dahlby (f 1961)**(Owner(LI 自署)+Daglig leder+Styrets leder 双职(proff.no 登记))— dhh@satel.no(猜测)/produktinfo@satel.no;+47 6927 7040;Moss 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.proff.no/selskap/satel-norge-as/moss/-/984737238〕
   - **Dag Henning Dahlby**(日用经理(SATEL 原厂 where-to-buy 页+proff.no 挪威登记件双源))— satel.no+produktinfo 批口 〔已有(公司官方公开件/登记册自曝);源:https://www.satel.com/where-to-buy/〕
 
 ## 关键人（KP）与触达通道
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Dag Henning Dahlby (f 1961) | Owner(LI 自署)+Daglig leder+Styrets leder 双职(proff.no 登记) | dhh@satel.no(猜测)/produktinfo@satel.no;+47 6927 7040;Moss | LI+挪登记+SATEL 原厂页 三源 O 级/leads-only | https://www.proff.no/selskap/satel-norge-as/moss/-/984737238 |
 | Dag Henning Dahlby | 日用经理(SATEL 原厂 where-to-buy 页+proff.no 挪威登记件双源) | satel.no+produktinfo 批口 | official-self-published+registry·谱/leads-only(直发需 opt-in) | https://www.satel.com/where-to-buy/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
@@ -93,7 +95,7 @@ updated: 2026-09-28
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
 - **切入点**：具名 kp 引路 → 采购/技术硬件分载线
-- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
+- **要问的问题**：贵司 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
 ### 第 2 次跟进 · 一页目录卡
@@ -113,35 +115,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第25波50户.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R67_R56_推土机批1.json`；价格均为 EXW 快照。
 
-- **①背景再核**：SATEL NORGE AS:**Dag Henning Dahlby 日用经理(SATEL 原厂 where-to-buy 页+proff.no 挪威登记件双源 O 级具名)**;Org.nr 984 737 238,Moss Pottemakerveien 35;ORing 工业+MileSight/WLink/FlexDSL/Conta-Clip/Etic Telecom 牌谱;应用含军用/机场谱=**守界注(我司民用商用限定,军事用途推辞)**;Dixi Holding AS 100% 母;我司 424 XGG 先价锚 $165,OK。
-- **②芯片/型号**：p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。
-- **③KP 深挖**：**Dag Henning Dahlby(日用经理(SATEL 原厂 where-to-buy 页+proff.no 挪威登记件双源),official-self-published+registry·谱/leads-only(直发需 opt-in))**
-- **④Saga 对标**：424 XGG 280W vs PLANET 当批价差
-- **⑤在乎与偏好**：B2B 批谱;CE/UKCA 齐套;持续关注新一季
+- **①背景再核**：SATEL NORGE AS(Moss,2002-07-01 创,Org.nr 984 737 238):ORing 工业授权+SATEL Oy(芬)挪威子体+MileSight/WLink/FlexDSL/Conta-Clip/Etic Telecom/Completech 天线
+- **②芯片/型号**：SATEL Oy 原厂 where-to-buy 页自署;SATEL XPRS 方案;ORing L2/L3 管理
+- **③KP 深挖**：**Dahlby(65)Owner+日用经理+董事会主席三合一(登记+LI+原厂页三源)**;KLAUSEN DAHLBY 同址家族坊
+- **④Saga 对标**：我司 424($165)对照 ORing IGS 谱;Dahlby 直达窗
+- **⑤在乎与偏好**：挪新一季 ORing 谱线补件开放比选?
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**SATEL NORGE AS:**Dag Henning Dahlby 日用经理(SATEL 原厂 where-to-buy 页+proff.no 挪威登记件双源 O 级具名)**;Org.nr 984 737 238,Moss Pottemakerveien 35;ORing 工业+MileSight/WLink/F
-  > SATEL NORGE AS:**Dag Henning Dahlby 日用经理(SATEL 原厂 where-to-buy 页+proff.no 挪威登记件双源 O 级具名)**;Org.nr 984 737 238,Moss Pottemakerveien 35;ORing 工业+MileSight/WLink/F
-  > 来源：https://satel.no/
-- **【近期动态与线索】**KP 具名谱:Dag Henning Dahlby
-  > KP 具名谱:Dag Henning Dahlby
+- **【决策链与对接人】**Daglig leder Dag Henning Dahlby (f 1961);Styrets leder Dag Henning Dahlby;同址 DIXI HOLDING AS/KLAUSEN DAHLBY
+  > Daglig leder Dag Henning Dahlby (f 1961);Styrets leder Dag Henning Dahlby;同址 DIXI HOLDING AS/KLAUSEN DAHLBY
+  > 来源：https://www.proff.no/selskap/satel-norge-as/moss/-/984737238
+- **【目标行业与场景】**Applications: GPS systems land/offshore, VA-sektor, kraftforsyning, lufthavner, militært, tunneler, vindmøllekraft, marin
+  > Applications: GPS systems land/offshore, VA-sektor, kraftforsyning, lufthavner, militært, tunneler, vindmøllekraft, marin
+  > 来源：https://satel.no/om-satel/
+- **【产品线与在售品牌】**SATELLINE-3AS(d) radio modem application notes;MISSION-CRITICAL COMMUNICATIONS SOLUTIONS
+  > SATELLINE-3AS(d) radio modem application notes;MISSION-CRITICAL COMMUNICATIONS SOLUTIONS
   > 来源：https://satel.no/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：SATEL NORGE AS:**Dag Henning Dahlby 日用经理(SATEL 原厂 where-to-buy 页+proff.no 挪威登记件双源 O 级具名)**;Org.nr 984 737 238,Moss Pottemakerveien 35;ORing 工业+MileSight/WLink/FlexDSL/Conta-Clip/Etic Telecom 牌谱;应用含军用/机场谱=**守界注(我司民用商用限定,军事用途推辞)**;Dixi Holding AS 100% 母;我司 424 XGG 先价锚 $165,OK。
-- **产品线与在售品牌**：p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。
-- **目标行业与场景**：挪威分销/批发谱;**军用邻谱守界注(我司民用商用限定,军事用途推辞)**
-- **团队与规模**：挪威谱·具名决策档
-- **决策链与对接人**：**Dag Henning Dahlby(日用经理(SATEL 原厂 where-to-buy 页+proff.no 挪威登记件双源),official-self-published+registry·谱/leads-only(直发需 opt-in))**
-- **技术与认证**：p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。
-- **采购与供应链信号**：具名谱位引路
-- **近期动态与线索**：2026-10-08 R66 25 波谱名牌
-- **与我方契合点**：24 口 280W XGG 谱链窗口
-- **风险与注意**：leads-only;直发需 opt-in
+- **业务定位**：SATEL NORGE AS(Moss,2002-07-01 创,Org.nr 984 737 238):ORing 工业授权+SATEL Oy(芬)挪威子体+MileSight/WLink/FlexDSL/Conta-Clip/Etic Telecom/Completech 天线
+- **产品线与在售品牌**：电台 modem/GSM 路由/SFP 收发器/PoE 工业/天线全系;OEM embedded 通讯模块
+- **目标行业与场景**：挪 VA 电力/机场/offshore GPS/隧道/风电/海事/一般工业;**军用邻谱(military installations)=守界注**
+- **团队与规模**：微铺 1-4 人;Dixi Holding 100% 母;家族运转
+- **决策链与对接人**：**Dahlby(65)Owner+日用经理+董事会主席三合一(登记+LI+原厂页三源)**;KLAUSEN DAHLBY 同址家族坊
+- **技术与认证**：SATEL Oy 原厂 where-to-buy 页自署;SATEL XPRS 方案;ORing L2/L3 管理
+- **采购与供应链信号**：ORing 谱线 24 口件对照口;电台 modem 后台我司 PoE 补链
+- **近期动态与线索**：SATELLINE-3AS 应用库(yumpu 件);工业区展件
+- **与我方契合点**：我司 424($165)对照 ORing IGS 谱;Dahlby 直达窗
+- **风险与注意**：军用邻谱守界;微铺弹性;leads-only
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -156,10 +161,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：具名决策档+roster/官网金谱在册
-- **W**：直发需 opt-in;leads-only
-- **O**：424 XGG 280W $165/$80 双轨价差窗
-- **T**：欧洲分销带节奏;先报价不回则档案铺位
+- **S**：具名梯队金谱
+- **W**：军用邻谱守界;微铺;leads-only
+- **O**：挪新一季 ORing 谱线补件开放比选?
+- **T**：谱链节奏;leads-only
 
 ## 触达与风险红线
 
@@ -187,8 +192,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] KP 在职时效
-  - [ ] 谱面份额
+  - [ ] 三职合一 65 岁创主、家族微铺弹性、物业自营 1109m²、应用军邻谱
+  - [ ] 三源 O 级
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算

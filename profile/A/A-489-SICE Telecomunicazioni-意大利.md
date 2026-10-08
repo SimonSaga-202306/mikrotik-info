@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 25·489:意大利谱: SICE Telecomunicazioni:**意大利 MT 官方分销第一票(routerositalia 社区榜 36%)+Ubiquiti/Cambium/Mimosa/Ceragon/SIAE/Intracom 八牌官方谱**,自建 Hiperlink/Hiperlink Premium 微波持有牌(5GHz/24-28GHz,持部证 6-80GHz 到 10Gbps);Capannori LU Via Tazio Nuvolari 53;只 B2B(安装商/二级);我司 424 XGG 大件 B2B 借牌窗,OK。
-- 【推断】R66 第 25 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】波 R67·A-489:意谱: **SICE 厂级全梯队深挖(意 ICT 老牌第一)**:**法体 Società Italiana Costruzioni Elettroniche S.r.l.(P.IVA 00871160461,1980 创 46 年,Capannori LU)€22.48M 营收(2024 registroaziende)**;**KP 梯队(RocketReach 全谱)**:**Arnaldo Moriconi=Amministratore delegato(CEO)**;**Tommaso Cecchini=EVP+研发分部总监(R&D Division Director)**;**Matteo Tognini=采购经理(Purchasing Manager=P0 KPI 件链直口!)**;Michele Picconi=区销售经理;Francesco Zanni=营销经理;Fabio Moriconi=PM;厂谱:Hiperlink 3.4-28GHz+持牌 IP 桥至 80GHz+OEM 射频模块至 43/80GHz,100 万+设备产量,R&D 40+ 年,军带分支(「ponti radio in banda militare VHF÷80GHz」=守界注);分销阵 MT/Ubiquiti/Cambium/Arc Wireless/Jirous/Mars/Mobotix/Dragon Wave;赞助 ICT Security Forum 2024;Smart Road/Radar/电充站/车牌识读=业务分布五板
+- 【推断】R67 推土机深挖 批1 具名 KP 金谱(全系深挖加厚)
+- 【假设】Tognini 经理:我司 24 口 280W PoE($165 USD EXW 15 天)对照分销阵,新一季谱链开放比选?
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -77,20 +77,30 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：+39 0583 980787 / info@sicetelecom.it
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Arnaldo Moriconi**(Amministratore delegato(CEO))— sicetelecom.it 域箱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/sice-telecomunicazioni-profile_b452c9befc8c62d8〕
+  - **Tommaso Cecchini**(EVP & R&D Division Director(研发分部总监))— sicetelecom.it 域箱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://contactout.com/company/SICE-Telecomunicazioni-57515〕
+  - **Matteo Tognini**(Purchasing Manager(采购经理=P0 KPI 件链直口))— sicetelecom.it 域箱;mob 39328827XXXX(部分掩) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/sice-telecomunicazioni-profile_b452c9befc8c62d8〕
+  - **Michele Picconi / Francesco Zanni**(Area Sales Manager / Sales & Marketing Manager)— sicetelecom.it 域箱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://contactout.com/company/SICE-Telecomunicazioni-57515〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Arnaldo Moriconi | Amministratore delegato(CEO) | sicetelecom.it 域箱 | third-party-RocketReach G+/leads-only | https://rocketreach.co/sice-telecomunicazioni-profile_b452c9befc8c62d8 |
+| Tommaso Cecchini | EVP & R&D Division Director(研发分部总监) | sicetelecom.it 域箱 | third-party-contactout G/leads-only | https://contactout.com/company/SICE-Telecomunicazioni-57515 |
+| Matteo Tognini | Purchasing Manager(采购经理=P0 KPI 件链直口) | sicetelecom.it 域箱;mob 39328827XXXX(部分掩) | third-party-RocketReach G/leads-only | https://rocketreach.co/sice-telecomunicazioni-profile_b452c9befc8c62d8 |
+| Michele Picconi / Francesco Zanni | Area Sales Manager / Sales & Marketing Manager | sicetelecom.it 域箱 | third-party-contactout G/leads-only | https://contactout.com/company/SICE-Telecomunicazioni-57515 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：守档铺位 → 价锚卡
-- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
 ### 第 2 次跟进 · 一页目录卡
@@ -100,45 +110,54 @@ updated: 2026-09-28
 - **要问的问题**：可否入谱链名录？
 - **随附/动作**：卡
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第25波50户.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R67_R56_推土机批1.json`；价格均为 EXW 快照。
 
-- **①背景再核**：SICE Telecomunicazioni:**意大利 MT 官方分销第一票(routerositalia 社区榜 36%)+Ubiquiti/Cambium/Mimosa/Ceragon/SIAE/Intracom 八牌官方谱**,自建 Hiperlink/Hiperlink Premium 微波持有牌(5GHz/24-28GHz,持部证 6-80GHz 到 10Gbps);Capannori LU Via Tazio Nuvolari 53;只 B2B(安装商/二级);我司 424 XGG 大件 B2B 借牌窗,OK。
-- **②芯片/型号**：p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。
-- **③KP 深挖**：**守档准由;R66 第 25 波点名(谱面无实名)**
-- **④Saga 对标**：424 XGG 280W vs PLANET 当批价差
-- **⑤在乎与偏好**：B2B 批谱;CE/UKCA 齐套;持续关注新一季
+- **①背景再核**：SICE Telecomunicazioni(法体 Società Italiana Costruzioni Elettroniche S.r.l.,P.IVA 00871160461):1980 创 46 年 ICT 老牌
+- **②芯片/型号**：R&D 40+ 年;军带分支(banda militare)=守界注;difesa 谱(ICT magazine)
+- **③KP 深挖**：**Arnaldo Moriconi(CEO)+Tommaso Cecchini(EVP R&D)+Matteo Tognini(Purchasing Manager KPI)+Picconi(销)/Zanni(销)/Moriconi F.(PM)** 梯队全
+- **④Saga 对标**：我司 424($165)对照分销阵+Hiperlink 供电补链;Tognini 直投窗
+- **⑤在乎与偏好**：€22.48M 大户+Tognini 采购直口=P0 窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**SICE Telecomunicazioni:**意大利 MT 官方分销第一票(routerositalia 社区榜 36%)+Ubiquiti/Cambium/Mimosa/Ceragon/SIAE/Intracom 八牌官方谱**,自建 Hiperlink/Hiperlink Premium 微波持有牌(5GHz/
-  > SICE Telecomunicazioni:**意大利 MT 官方分销第一票(routerositalia 社区榜 36%)+Ubiquiti/Cambium/Mimosa/Ceragon/SIAE/Intracom 八牌官方谱**,自建 Hiperlink/Hiperlink Premium 微波持有牌(5GHz/
-  > 来源：https://sicetelecom.it/
-- **【近期动态与线索】**守档准由+roster 市场档谱
-  > 守档准由+roster 市场档谱
-  > 来源：https://sicetelecom.it/
+- **【团队与规模】**Fatturato € 22.48 M (2024);P.IVA 00871160461;Ateco 26.30.1 Fabbricazione apparati radiotelevisivi
+  > Fatturato € 22.48 M (2024);P.IVA 00871160461;Ateco 26.30.1 Fabbricazione apparati radiotelevisivi
+  > 来源：https://registroaziende.it/azienda/societa-italiana-costruzioni-elettroniche-srl-enunciabile-anche-in-sice-srl-o-sice-srl-o-capannori
+- **【决策链与对接人】**Arnaldo Moriconi Amministratore delegato;Matteo Tognini Purchasing Manager(39328827XXXX)
+  > Arnaldo Moriconi Amministratore delegato;Matteo Tognini Purchasing Manager(39328827XXXX)
+  > 来源：https://rocketreach.co/sice-telecomunicazioni-profile_b452c9befc8c62d8
+- **【决策链与对接人】**Tommaso Cecchini EVP, R&D Division Director;Michele Picconi Area Sales Manager;Francesco Zanni Sales & Marketing Manager
+  > Tommaso Cecchini EVP, R&D Division Director;Michele Picconi Area Sales Manager;Francesco Zanni Sales & Marketing Manager
+  > 来源：https://contactout.com/company/SICE-Telecomunicazioni-57515
+- **【技术与认证】**ponti radio in banda militare in tutte le bande licenziate e non, in gamma VHF ÷ 80 GHz;OEM radio modules up to 43/80 GHz
+  > ponti radio in banda militare in tutte le bande licenziate e non, in gamma VHF ÷ 80 GHz;OEM radio modules up to 43/80 GHz
+  > 来源：https://www.ictsecuritymagazine.com/notizie/sice-telecomunicazioni/
+- **【近期动态与线索】**Sponsor ICT Security Forum 2024;produzione oltre un milione di dispositivi
+  > Sponsor ICT Security Forum 2024;produzione oltre un milione di dispositivi
+  > 来源：https://www.ictsecuritymagazine.com/eventi/forumictsecurity2024/sponsor-sice_telecomunicazioni
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：SICE Telecomunicazioni:**意大利 MT 官方分销第一票(routerositalia 社区榜 36%)+Ubiquiti/Cambium/Mimosa/Ceragon/SIAE/Intracom 八牌官方谱**,自建 Hiperlink/Hiperlink Premium 微波持有牌(5GHz/24-28GHz,持部证 6-80GHz 到 10Gbps);Capannori LU Via Tazio Nuvolari 53;只 B2B(安装商/二级);我司 424 XGG 大件 B2B 借牌窗,OK。
-- **产品线与在售品牌**：p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。
-- **目标行业与场景**：意大利分销/批发谱;
-- **团队与规模**：意大利谱·具名缺(守档准由)
-- **决策链与对接人**：**守档准由;R66 第 25 波点名(谱面无实名)**
-- **技术与认证**：p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。
-- **采购与供应链信号**：B2B 大件批口谱
-- **近期动态与线索**：2026-10-08 R66 25 波谱名牌
-- **与我方契合点**：24 口 280W XGG 谱链窗口
-- **风险与注意**：具名缺(守档准由);先报价不回
+- **业务定位**：SICE Telecomunicazioni(法体 Società Italiana Costruzioni Elettroniche S.r.l.,P.IVA 00871160461):1980 创 46 年 ICT 老牌
+- **产品线与在售品牌**：Hiperlink 3.4-28GHz PtP/PtMP+持牌 IP 桥 80GHz+OEM 射频模块 43/80GHz;Smart Road/Radar/电充站/车牌识读/LoRaWAN/WiMax/LTE/5G
+- **目标行业与场景**：意+全球 B2B(只安装商/二级分销);ICT Security Forum 2024 赞助;Smart Road/Radar 高新板
+- **团队与规模**：26-200 人谱差旗(RocketReach 26/LI 51-200 band/contactout 28);LI 2316 粉;€22.48M(2024)营收
+- **决策链与对接人**：**Arnaldo Moriconi(CEO)+Tommaso Cecchini(EVP R&D)+Matteo Tognini(Purchasing Manager KPI)+Picconi(销)/Zanni(销)/Moriconi F.(PM)** 梯队全
+- **技术与认证**：R&D 40+ 年;军带分支(banda militare)=守界注;difesa 谱(ICT magazine)
+- **采购与供应链信号**：Tognini 采购经理=我司件链 P0 口;sicetelecom.it 域箱;
+- **近期动态与线索**：2024-12 ICT magazine 深报;ICT Security Forum 赞助;SIAE/Intracom 谱带
+- **与我方契合点**：我司 424($165)对照分销阵+Hiperlink 供电补链;Tognini 直投窗
+- **风险与注意**：军带守界;人谱带差旗;leads-only
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -153,10 +172,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：roster/官网金谱在册
-- **W**：具名缺(守档准由)
-- **O**：424 XGG 280W $165/$80 双轨价差窗
-- **T**：欧洲分销带节奏;先报价不回则档案铺位
+- **S**：具名梯队金谱
+- **W**：军带守界;人谱差旗;leads-only
+- **O**：€22.48M 大户+Tognini 采购直口=P0 窗
+- **T**：谱链节奏;leads-only
 
 ## 触达与风险红线
 
@@ -179,7 +198,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -188,8 +207,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] CEO/R&D/采购梯队全、46 年 R&D、100 万+设备、雷达/Smart Road 新板
+  - [ ] 军段推辞・民用商业限定
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -201,7 +220,7 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Dear Team,
+Dear Arnaldo Moriconi Team,
 
 We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 

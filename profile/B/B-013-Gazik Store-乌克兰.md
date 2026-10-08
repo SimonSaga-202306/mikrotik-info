@@ -77,6 +77,9 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 - **原始联系字段**：+380 67 323 17 30 / orest@gazik.in
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
+
+- **退信实测（2026-09-29）**：`orest@gazik.in` 观察期满转永久（2026-10-08 Address not found:域名 gazik.in 不存在(用户回执);档案主站 gazik.ua 存活→双域差旗(邮箱域≠网站域),邮箱域 dead=永久退信,不删原邮）→ 停用该地址；替代通道：+380 67 323 17 30(档案在册)；orest@gazik.ua(猜测:同名片段+存活域)；gazik.ua 官网表单
+  > 处置：停用 orest@gazik.in;改走 +380 电话/官网表单;orest@gazik.ua 猜测口仅 leads-only;**战区民用商业限定句必压**
 ## 关键人（KP）与触达通道
 
 - 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。

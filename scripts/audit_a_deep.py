@@ -25,6 +25,10 @@ for f in glob.glob(str(ROOT / 'batch/A类深挖_2026-09-28_R56_第*批.json')):
 for f in sorted(glob.glob(str(ROOT / 'batch/A类深挖_*_R66_R56_KP第*波*.json'))):
     for r in json.load(open(f, encoding='utf-8'))['records']:
         recs[r['customer']] = (f.split('/')[-1], r)
+# R67 推土机深挖批=最新落盘层(2026-10-08 制度化):覆盖对应户 R66 波批记录
+for f in sorted(glob.glob(str(ROOT / 'batch/A类深挖_*_R67_R56_*.json'))):
+    for r in json.load(open(f, encoding='utf-8'))['records']:
+        recs[r['customer']] = (f.split('/')[-1], r)
 for f in glob.glob(str(ROOT / 'batch/A类深挖_2026-09-28_R55_第*批.json')):
     for r in json.load(open(f, encoding='utf-8'))['records']:
         r55_old[r['code']] = (f.split('/')[-1], r)
@@ -34,6 +38,7 @@ HDR = rows[0]
 CODEC = HDR.index('档案编号')
 csv_codes = [r[CODEC].strip() for r in rows[1:] if r[CODEC].strip().startswith('A-')]
 md_files = {p.name[:5]: p for p in (ROOT / 'profile/A').glob('A-*.md')}
+md_files_b = {p.name[:5]: p for p in (ROOT / 'profile/B').glob('B-*.md')}  # R63 退信台账已纳 B 类(2026-10-08 第8条 B-013)
 
 # ---------- 1. 四大源数量一致 ----------
 chk('四大源数量一致(CSV/STRUCT/MD/R56+R55批)', 
@@ -146,7 +151,7 @@ chk('OVERRIDE 覆盖 524+43 推断=567(设计)', len(ov_codes) == 524, '覆盖=%
 # ---------- 10. 台账引用合法 ----------
 BOUNCE = json.loads((ROOT / 'batch/邮件退信_2026-09-29.json').read_text(encoding='utf-8'))['records']
 GROUPS = json.loads((ROOT / 'batch/关联实体群_2026-09-29.json').read_text(encoding='utf-8'))['groups']
-chk('退信台账 code 全合法且≥5 户(5 永信+R63 观察群)', all(b['code'] in expect for b in BOUNCE) and len(BOUNCE) >= 5,
+chk('退信台账 code 全合法且≥5 户(5 永信+R63 观察群+B类)', all(b['code'] in expect or b['code'] in md_files_b for b in BOUNCE) and len(BOUNCE) >= 5,
     str([b['code'] for b in BOUNCE]), 'critical')
 g_bad = [c for g in GROUPS for c in g['codes'] if c not in expect]
 chk('关联群台账 19 组 code 合法(3 家组合并后)', not g_bad and len(GROUPS) == 19,
@@ -159,7 +164,11 @@ for g in GROUPS:
             gnote_miss.append(c)
 chk('关联群互注已入 MD', not gnote_miss, ('全过' if not gnote_miss else str(gnote_miss)))
 # 退信注记进 MD
-bmiss = [b['code'] for b in BOUNCE if '退信实测' not in md_files[b['code']].read_text(encoding='utf-8')]
+bmiss = []
+for _b in BOUNCE:
+    _md = md_files.get(_b['code']) or md_files_b.get(_b['code'])
+    if _md is None or ('退信实测' not in _md.read_text(encoding='utf-8') and '发不过去' not in _md.read_text(encoding='utf-8')):
+        bmiss.append(_b['code'])
 chk('退信注记已入 MD', not bmiss, ('全过' if not bmiss else str(bmiss)))
 
 # ---------- 11. 三层分层标签进 MD(R56 547 家) ----------

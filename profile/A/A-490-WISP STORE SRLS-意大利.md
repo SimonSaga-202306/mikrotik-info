@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 25·490:意大利谱: WISP STORE Srl:**CEO/CTO Valerio Tozzi(LI 自署,MikroTik 认证 10+ 年 WISP)**,B2B Ubiquiti/MT/TP-Link/Mimosa/Cambium/Tenda/Raspberry;TrustPilot 4.9(724 评);Montecorvino Pugliano SA;2017 创;我司 424 XGG 先价锚 $80 铺+B2B 大批折价窗,CE/UKCA,OK。
-- 【推断】R66 第 25 波具名 KP 金谱
-- 【假设】STC-424XGGPM-280W($165/$80 双轨 (2026-10-08, 15天有效))具名谱位引路
+- 【事实】波 R67·A-490:意谱: **WISP STORE 深挖**:①**Valerio Tozzi(CEO/CTO)**:LI 自签「Distribuzione B2B e B2C prodotti per Telecomunicazioni. Aiuto gli operatori del mio settore a creare valore」;MikroTik 认证 10+ 年 WISP 经验;**Instagram @wisp.store 962 粉/3022 关/173 帖**(bio 含 Cisco/VoIP=牌谱扩);contactout 2 员工/收入估 $35K(微营收高口碑型,与 TrustPilot 4.9/724 评共谱);②**同名排噪注**:LI valerio-tozzi-3147a6184(罗马 IMPRESA NAVARRA 电工)=另一人,勿混;③司谱:2017 创 Montecorvino Pugliano SA Via Ungaretti 2;Ubiquiti/MT/TP-Link/Mimosa/Cambium/Tenda/Raspberry
+- 【推断】R67 推土机深挖 批1 具名 KP 金谱(全系深挖加厚)
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名梯队引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -77,13 +77,13 @@ updated: 2026-09-28
 - **原始联系字段**：+39 089 8427588 / info@wisp.store
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
-  - **Valerio Tozzi**(CEO/CTO(LI 自署,MikroTik 认证 10+ 年 WISP))— wisp.store 批口+LI 直触窗 〔已有(公司官方公开件/登记册自曝);源:https://wisp.store〕
+  - **Valerio Tozzi**(CEO/CTO,MikroTik 认证 10+ 年 WISP(LI 自签获益语))— info@wisp.store;IG @wisp.store;LI(wispstore 司页关联);+39 089 8427588 〔已有(公司官方公开件/登记册自曝);源:https://it.linkedin.com/company/wispstore〕
 
 ## 关键人（KP）与触达通道
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Valerio Tozzi | CEO/CTO(LI 自署,MikroTik 认证 10+ 年 WISP) | wisp.store 批口+LI 直触窗 | official-self-published·谱/leads-only(直发需 opt-in) | https://wisp.store |
+| Valerio Tozzi | CEO/CTO,MikroTik 认证 10+ 年 WISP(LI 自签获益语) | info@wisp.store;IG @wisp.store;LI(wispstore 司页关联);+39 089 8427588 | official-self-published(LI/IG 自签)O 级/leads-only | https://it.linkedin.com/company/wispstore |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -93,7 +93,7 @@ updated: 2026-09-28
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
 - **切入点**：具名 kp 引路 → 采购/技术硬件分载线
-- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
+- **要问的问题**：贵司 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
 ### 第 2 次跟进 · 一页目录卡
@@ -113,35 +113,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第25波50户.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R67_R56_推土机批1.json`；价格均为 EXW 快照。
 
-- **①背景再核**：WISP STORE Srl:**CEO/CTO Valerio Tozzi(LI 自署,MikroTik 认证 10+ 年 WISP)**,B2B Ubiquiti/MT/TP-Link/Mimosa/Cambium/Tenda/Raspberry;TrustPilot 4.9(724 评);Montecorvino Pugliano SA;2017 创;我司 424 XGG 先价锚 $80 铺+B2B 大批折价窗,CE/UKCA,OK。
-- **②芯片/型号**：p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。
-- **③KP 深挖**：**Valerio Tozzi(CEO/CTO(LI 自署,MikroTik 认证 10+ 年 WISP),official-self-published·谱/leads-only(直发需 opt-in))**
-- **④Saga 对标**：424 XGG 280W vs PLANET 当批价差
-- **⑤在乎与偏好**：B2B 批谱;CE/UKCA 齐套;持续关注新一季
+- **①背景再核**：WISP STORE Srl(意 Montecorvino Pugliano SA,2017 创):B2B 分销 Ubiquiti/MikroTik/TP-Link/Mimosa/Cambium/Tenda/Raspberry
+- **②芯片/型号**：MikroTik 认证 10+ 年 WISP 线
+- **③KP 深挖**：**Valerio Tozzi(CEO/CTO;LI 自签;MikroTik 认证;IG @wisp.store 个人牌)**=唯一决策;**同名罗马电工排噪**
+- **④Saga 对标**：我司 424($165)B2B 大批折价窗;Tozzi 个人牌直达
+- **⑤在乎与偏好**：我司新一季 B2B 谱链开放比选?
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**WISP STORE Srl:**CEO/CTO Valerio Tozzi(LI 自署,MikroTik 认证 10+ 年 WISP)**,B2B Ubiquiti/MT/TP-Link/Mimosa/Cambium/Tenda/Raspberry;TrustPilot 4.9(724 评);Montecorvino
-  > WISP STORE Srl:**CEO/CTO Valerio Tozzi(LI 自署,MikroTik 认证 10+ 年 WISP)**,B2B Ubiquiti/MT/TP-Link/Mimosa/Cambium/Tenda/Raspberry;TrustPilot 4.9(724 评);Montecorvino
-  > 来源：https://wisp.store/
-- **【近期动态与线索】**KP 具名谱:Valerio Tozzi
-  > KP 具名谱:Valerio Tozzi
-  > 来源：https://wisp.store/
+- **【决策链与对接人】**CEO/CTO Valerio Tozzi certificato MikroTik in ambito wireless internet service provider(官网 Chi siamo)
+  > CEO/CTO Valerio Tozzi certificato MikroTik in ambito wireless internet service provider(官网 Chi siamo)
+  > 来源：https://wisp.store/content/4-chi-siamo
+- **【决策链与对接人】**Valerio Tozzi(@wisp.store)Instagram:962 followers, 173 posts「I migliori prodotti:#Ubiquiti #Mikrotik #Cisco #Voip Tp-Link #Tenda」
+  > Valerio Tozzi(@wisp.store)Instagram:962 followers, 173 posts「I migliori prodotti:#Ubiquiti #Mikrotik #Cisco #Voip Tp-Link #Tenda」
+  > 来源：https://www.instagram.com/wisp.store/
+- **【团队与规模】**contactout:2 Employees Found, $35.0K Est Revenue, Founded 2017, Montecorvino Pugliano
+  > contactout:2 Employees Found, $35.0K Est Revenue, Founded 2017, Montecorvino Pugliano
+  > 来源：https://contactout.com/company/Wisp-Store-Srl-61042
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：WISP STORE Srl:**CEO/CTO Valerio Tozzi(LI 自署,MikroTik 认证 10+ 年 WISP)**,B2B Ubiquiti/MT/TP-Link/Mimosa/Cambium/Tenda/Raspberry;TrustPilot 4.9(724 评);Montecorvino Pugliano SA;2017 创;我司 424 XGG 先价锚 $80 铺+B2B 大批折价窗,CE/UKCA,OK。
-- **产品线与在售品牌**：p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。
-- **目标行业与场景**：意大利分销/批发谱;
-- **团队与规模**：意大利谱·具名决策档
-- **决策链与对接人**：**Valerio Tozzi(CEO/CTO(LI 自署,MikroTik 认证 10+ 年 WISP),official-self-published·谱/leads-only(直发需 opt-in))**
-- **技术与认证**：p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。
-- **采购与供应链信号**：具名谱位引路
-- **近期动态与线索**：2026-10-08 R66 25 波谱名牌
-- **与我方契合点**：24 口 280W XGG 谱链窗口
-- **风险与注意**：leads-only;直发需 opt-in
+- **业务定位**：WISP STORE Srl(意 Montecorvino Pugliano SA,2017 创):B2B 分销 Ubiquiti/MikroTik/TP-Link/Mimosa/Cambium/Tenda/Raspberry
+- **产品线与在售品牌**：TrustPilot 4.9(724 评,5/5 95%);contactout:2 员工 $35K est(微营收高口碑);同期员工谱 Valerio T. 唯一
+- **目标行业与场景**：意南 WISP/安装商谱;24h 全意快递;0898427588 客服直应
+- **团队与规模**：2-10 人;LI 司页 91 粉+IG 962 粉(个人牌)
+- **决策链与对接人**：**Valerio Tozzi(CEO/CTO;LI 自签;MikroTik 认证;IG @wisp.store 个人牌)**=唯一决策;**同名罗马电工排噪**
+- **技术与认证**：MikroTik 认证 10+ 年 WISP 线
+- **采购与供应链信号**：B2B 批口 info@wisp.store;TrustPilot 回复 +390898427588
+- **近期动态与线索**：IG 2026-08 活跃(173 帖);LI 司页月更 RB3011/hAP 品推
+- **与我方契合点**：我司 424($165)B2B 大批折价窗;Tozzi 个人牌直达
+- **风险与注意**：同名排噪;微营收;leads-only
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -156,10 +159,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：具名决策档+roster/官网金谱在册
-- **W**：直发需 opt-in;leads-only
-- **O**：424 XGG 280W $165/$80 双轨价差窗
-- **T**：欧洲分销带节奏;先报价不回则档案铺位
+- **S**：具名梯队金谱
+- **W**：同名排噪;微营收;leads-only
+- **O**：我司新一季 B2B 谱链开放比选?
+- **T**：谱链节奏;leads-only
 
 ## 触达与风险红线
 
@@ -187,8 +190,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] KP 在职时效
-  - [ ] 谱面份额
+  - [ ] 认证创主直达、TrustPilot 4.9、IG 活跃+牌扩、微铺弹性
+  - [ ] 同名危
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算

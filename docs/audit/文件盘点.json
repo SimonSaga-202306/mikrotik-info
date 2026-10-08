@@ -1644,6 +1644,16 @@
       "errors": []
     },
     {
+      "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批1.json",
+      "sha256": "08592b5f1c0f6715d66643ffb06d8409d7bb2ce868c980182d64fcccbc91452f",
+      "bytes": 41743,
+      "tracked_at_scan": false,
+      "units_scanned": 677,
+      "unique_url_count": 23,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "batch/B段复筛_2026-09-28_R53_第10批.json",
       "sha256": "9cbc96cae1b76495026948a9d2442e6b968d0d87d1ded8c5dd2de900337633e5",
       "bytes": 7964,
@@ -2327,7 +2337,7 @@
       "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json",
       "sha256": "82eaa2c604e6aac53b1d5bc6dd5f5501e0016a90ebf70cdf0d518c2b412843c2",
       "bytes": 621808,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 9051,
       "unique_url_count": 57,
       "inspection": {},
@@ -2337,7 +2347,7 @@
       "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json",
       "sha256": "e7a7f68a2bff5516a732c879e9194a5a547d6052e0cdc46417d75e869b4f9007",
       "bytes": 630625,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 8932,
       "unique_url_count": 63,
       "inspection": {},
@@ -2805,10 +2815,10 @@
     },
     {
       "path": "batch/邮件退信_2026-09-29.json",
-      "sha256": "5bbd1edb7fdaf65ba61b915be55c7843c3e54e671b008e42367b077e9f3af018",
-      "bytes": 4166,
+      "sha256": "b62fb284d9e5a22c657df8a57ab36157d862e25238ed41119e61b6e07be19089",
+      "bytes": 5037,
       "tracked_at_scan": true,
-      "units_scanned": 92,
+      "units_scanned": 105,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []
@@ -2985,8 +2995,8 @@
     },
     {
       "path": "docs/audit/A类入库完整性审计_2026-09-29.json",
-      "sha256": "c13d02498b0a961fdac975261390b382052e5ae1fdd1d7bd63f5d0f7ee82ce36",
-      "bytes": 3679,
+      "sha256": "bcf451f53772b692a883c271d91e71f739f6afadefae76754503c2ae5f65e491",
+      "bytes": 3693,
       "tracked_at_scan": true,
       "units_scanned": 130,
       "unique_url_count": 0,
@@ -3035,10 +3045,10 @@
     },
     {
       "path": "docs/requirements/用户要求总账.md",
-      "sha256": "8e0b1b6ba144b272788da676603e3c42ccd87150e0dcb87f1daed5a3bdfccafe",
-      "bytes": 205690,
+      "sha256": "f0e8ea2106ba76b20e89c9899da9ab4bb3d3799d10fcab9c66a4074de730e981",
+      "bytes": 207180,
       "tracked_at_scan": true,
-      "units_scanned": 1474,
+      "units_scanned": 1481,
       "unique_url_count": 3,
       "inspection": {},
       "errors": []
@@ -7875,11 +7885,11 @@
     },
     {
       "path": "profile/A/A-479-FMS Internetservice（mikrotik-shop.de）-德国.md",
-      "sha256": "15b6e4b2df0d7ced07a70c88471d622e610b31408c713b3a2c6de62bccc3b770",
-      "bytes": 13540,
+      "sha256": "d18abeb443b06a326dc837db58a790f4e08ae1280591cc6f5b9a34fde9e92ff7",
+      "bytes": 14564,
       "tracked_at_scan": true,
-      "units_scanned": 229,
-      "unique_url_count": 3,
+      "units_scanned": 234,
+      "unique_url_count": 6,
       "inspection": {},
       "errors": []
     },
@@ -7945,11 +7955,11 @@
     },
     {
       "path": "profile/A/A-486-CorsiMikrotik（意大利 MikroTik 培训）-意大利.md",
-      "sha256": "59d668afcce2cd46124f4ee17c212a98f1d4561da9565685c5162fbc9c4bf0b4",
-      "bytes": 13434,
+      "sha256": "3c540fbd7f3d729408e6f5610ec1d26aa976be12080ad398e825e344673db596",
+      "bytes": 14604,
       "tracked_at_scan": true,
-      "units_scanned": 230,
-      "unique_url_count": 3,
+      "units_scanned": 235,
+      "unique_url_count": 6,
       "inspection": {},
       "errors": []
     },
@@ -7975,21 +7985,21 @@
     },
     {
       "path": "profile/A/A-489-SICE Telecomunicazioni-意大利.md",
-      "sha256": "f540853693a161c6f771cec610e9b20a7241958664e49805d28f774a4904d901",
-      "bytes": 12734,
+      "sha256": "0a7960e7d42fbd440ad185294a90ed16bfdaf3f9f8c48ecce5d0432de240afe3",
+      "bytes": 16291,
       "tracked_at_scan": true,
-      "units_scanned": 229,
-      "unique_url_count": 1,
+      "units_scanned": 248,
+      "unique_url_count": 7,
       "inspection": {},
       "errors": []
     },
     {
       "path": "profile/A/A-490-WISP STORE SRLS-意大利.md",
-      "sha256": "ddf15de02524f58f3e4c043906516765602fceb5e60f1cc49224a794a14369d5",
-      "bytes": 12816,
+      "sha256": "d791dbc30a033fb3cca7e237355afab37165415cf0caa2456cd885e0742087e4",
+      "bytes": 13398,
       "tracked_at_scan": true,
-      "units_scanned": 228,
-      "unique_url_count": 3,
+      "units_scanned": 231,
+      "unique_url_count": 5,
       "inspection": {},
       "errors": []
     },
@@ -8015,11 +8025,11 @@
     },
     {
       "path": "profile/A/A-493-SATEL NORGE AS-挪威.md",
-      "sha256": "b3d3a61b714df9de261d21a5504e01bbf2165e295ac747106d6233940b41f9b1",
-      "bytes": 13575,
+      "sha256": "2b0441dcdde925ae71476d24af3ad65c81b816ca962869aa166765f05d51e2f0",
+      "bytes": 14312,
       "tracked_at_scan": true,
-      "units_scanned": 228,
-      "unique_url_count": 3,
+      "units_scanned": 233,
+      "unique_url_count": 6,
       "inspection": {},
       "errors": []
     },
@@ -8055,11 +8065,11 @@
     },
     {
       "path": "profile/A/A-497-Proficomms-捷克.md",
-      "sha256": "cb43739f4198f524e8db0f968d93bd115e0e2c65400bdb7a9034cc567123a159",
-      "bytes": 13193,
+      "sha256": "b46ad99bbcece8cea33e990a67016020dbec64cf91bdbdf6eec6d2aa0f5da9ef",
+      "bytes": 15697,
       "tracked_at_scan": true,
-      "units_scanned": 228,
-      "unique_url_count": 3,
+      "units_scanned": 240,
+      "unique_url_count": 8,
       "inspection": {},
       "errors": []
     },
@@ -8965,10 +8975,10 @@
     },
     {
       "path": "profile/B/B-013-Gazik Store-乌克兰.md",
-      "sha256": "c0d4946f1bb48c708026565bd7322cb294d1840357d037f296e7fe5c3be4f6e8",
-      "bytes": 11920,
+      "sha256": "0186e7b83812e49efd8efd31b801ad1cbc7d7df4a81ab5699a5011e15c334e78",
+      "bytes": 12463,
       "tracked_at_scan": true,
-      "units_scanned": 207,
+      "units_scanned": 210,
       "unique_url_count": 1,
       "inspection": {},
       "errors": []
@@ -14024,12 +14034,32 @@
       "errors": []
     },
     {
+      "path": "scripts/R66_R56_KP第29波_76户落盘.py",
+      "sha256": "8127e8269cdc708ecf1d16d5a1c02cdcaded3d6decd055f5be0530017151823e",
+      "bytes": 6905,
+      "tracked_at_scan": true,
+      "units_scanned": 83,
+      "unique_url_count": 1,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "scripts/R66_R56_KP第2波落盘.py",
       "sha256": "16cc142a2984efbb37b4cdd3ba1a03591648dc397f7949fac42e4c60cfe612ca",
       "bytes": 22037,
       "tracked_at_scan": true,
       "units_scanned": 187,
       "unique_url_count": 18,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "scripts/R66_R56_KP第30波_76户落盘.py",
+      "sha256": "97ea4b0745149b12ec839cf08a4c815a2e55b5696f2779298a40c324f663b953",
+      "bytes": 6905,
+      "tracked_at_scan": true,
+      "units_scanned": 83,
+      "unique_url_count": 1,
       "inspection": {},
       "errors": []
     },
@@ -14085,10 +14115,10 @@
     },
     {
       "path": "scripts/audit_a_deep.py",
-      "sha256": "33e02483aef2ef07ceb0ea8350beb1ef87d0786133c28f1ac8519550e5274050",
-      "bytes": 12311,
+      "sha256": "4339c201980620fbec63df71ce6099ff05f292a7c4a9d38d9a81466e36b3ba8b",
+      "bytes": 12917,
       "tracked_at_scan": true,
-      "units_scanned": 211,
+      "units_scanned": 220,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []
@@ -14185,10 +14215,10 @@
     },
     {
       "path": "scripts/make_profiles.py",
-      "sha256": "89a31377e46b67b4f4184dd86fa14bd42da26872be4c4538ad09f4d69f202092",
-      "bytes": 39717,
+      "sha256": "da0a60b905fcb5cd7afa0087f321abb161b058d826adf61e45aa1e2f818310ae",
+      "bytes": 39779,
       "tracked_at_scan": true,
-      "units_scanned": 818,
+      "units_scanned": 819,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []

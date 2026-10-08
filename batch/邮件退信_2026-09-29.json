@@ -1,7 +1,7 @@
 {
  "date": "2026-09-29",
  "source": "用户跟进实测退信（R57 后首轮真实触达反馈）",
- "note": "状态：blocked=服务器拒收/反垃圾拦截（域存活、地址或通道被挡）；not-found=地址不存在。替代通道出自 CSV 联系方式列与 R56 深挖 contact_found（官网一手）。",
+ "note": "状态：blocked=服务器拒收/反垃圾拦截（域存活、地址或通道被挡）；not-found=地址不存在。替代通道出自 CSV 联系方式列与 R56 深挖 contact_found（官网一手）。;2026-10-08 第8条 B-013 gazik.in 域 dead 永久入册(用户退信回执直证)",
  "records": [
   {
    "code": "A-054",
@@ -79,7 +79,7 @@
    "name": "C TECH BILISIM（enucuzmikrotik.com）",
    "bounced": "info@enucuzmikrotik.com",
    "type": "永久退信(46h retry 观察期满转永久)",
-   "detail": "A-457 enucuzmikrotik.com 46h retry 观察（R63 退信批 9 户条）；2026-10-08 观察期届满未恢复→转永久(不删邮箱、只标「发不过去」+替代)",
+   "detail": "A-457 enucuzmikrotik.com 46h retry 观察（R63 退信批 9 户条）；2026-10-08 观察期届满未恢复→转永久(不删邮箱、只标「发不过去」+替代);2026-10-08 同址第二封退信(info@enucuzmikrotik.com,Gmail 临时退信 22h 重试窗回执)→与域级 dead 同向,永久标维持,替代口 bilisimyol.com 在册",
    "alternates": [
     "bilisimyol.com 官网联系口（roster 主域在册；0850 480 44 47）",
     "CTECH Bilişim 官网表单"
@@ -87,6 +87,19 @@
    "action": "观察期满(2026-10-08)→转永久；主触替代口=bilisimyol.com 主域（双域注：退信域 enucuzmikrotik.com≠主域 bilisimyol.com）",
    "date": "2026-10-08",
    "email": "info@enucuzmikrotik.com"
+  },
+  {
+   "code": "B-013",
+   "name": "Gazik Store(乌克兰)",
+   "bounced": "orest@gazik.in",
+   "type": "domain-not-found|永久",
+   "detail": "2026-10-08 Address not found:域名 gazik.in 不存在(用户回执);档案主站 gazik.ua 存活→双域差旗(邮箱域≠网站域),邮箱域 dead=永久退信,不删原邮",
+   "alternates": [
+    "+380 67 323 17 30(档案在册)",
+    "orest@gazik.ua(猜测:同名片段+存活域)",
+    "gazik.ua 官网表单"
+   ],
+   "action": "停用 orest@gazik.in;改走 +380 电话/官网表单;orest@gazik.ua 猜测口仅 leads-only;**战区民用商业限定句必压**"
   }
  ]
 }

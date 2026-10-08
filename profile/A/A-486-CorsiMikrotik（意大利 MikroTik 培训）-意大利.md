@@ -49,9 +49,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 25·486:意大利谱: CONSULT-OEM 掌件区(**非卖品**):CorsiMikrotik=**MikroTik 官方培训中心**,Trainer **Marco Boschini**(官网/Telegram @marcoboschini 自署,Alessandro+Marco 双讲师口碑 5/5,Lonato del Garda BS+Verona 场,MTCNA/MTCIPv6E/La Palestra IP 月课 €150+IVA,与 MT Distribuzione 机房合作);OEM 对照架=我司嵌入式板等类口头,只做奖学金类非商触,OK。
-- 【推断】R66 第 25 波具名 KP 金谱
-- 【假设】CONSULT-OEM($165/$80 双轨 (2026-10-08, 15天有效))具名谱位引路
+- 【事实】波 R67·A-486:意谱: **Marco Boschini 人脸谱深挖(意 MikroTik 培训头部)**:LI 自签「Un nerd diventato zen. **KNX Tutor & MikroTik Certified Trainer**」=**双牌认证师**;**943 粉/441 帖日更活跃**;**2021 夏自有 Boschini Training Center(KNX)开馆**;CorsiMikrotik=其 MikroTik 培训牌;**自有播客「PoE Podcast over Ethernet」(7+ 期,讲 Ethernet/VLAN/VRF 深技)**;**2024-03-07/08 MikroTik Professionals Conference Prague 演讲者(GNS3 议题)+FlashStart DNS 安全 webinar 嘉宾;MTCEWE 2024-03 新证(恩师 Ron Touw)**;YouTube 意英双语教学;GitHub 谱在(lab export 公开);专攻:VPN WireGuard/VRF/VLAN/DHCP/BACnet 楼控/CHR on Proxmox/GNS3;**排噪:LI 同名 7 粉小片=另谱**
+- 【推断】R67 推土机深挖 批1 具名 KP 金谱(全系深挖加厚)
+- 【假设】双牌头部培训师=OEM 掌件技术窗;424 课案参件
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -80,13 +80,15 @@ updated: 2026-09-28
 - **原始联系字段**：+39 045 485 4174 / marco@corsimikrotik.it
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
-  - **Marco Boschini**(MikroTik 官方 Trainer(官网/Telegram @marcoboschini 自署))— corsimikrotik.it+Telegram @marcoboschini 〔已有(公司官方公开件/登记册自曝);源:https://corsimikrotik.it〕
+  - **Marco Boschini**(KNX Tutor & MikroTik Certified Trainer 双证;MTPC Prague 2024-03 speaker;MTCEWE 2024(Ron Touw 班);PoE Podcast 主播;Boschini Training Center(2021)馆主)— Telegram @marcoboschini/t.me/corsimikrotik;lnkd 联系卡;corsimikrotik.it 〔已有(公司官方公开件/登记册自曝);源:https://corsimikrotik.it〕
+  - **Alessandro(联合讲师)**(CorsiMikrotik 合讲师(评审档 Marco+Alessandro 双口碑 5/5))— corsimikrotik.it 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://armillaweb.it/corsi-mikrotik/〕
 
 ## 关键人（KP）与触达通道
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Marco Boschini | MikroTik 官方 Trainer(官网/Telegram @marcoboschini 自署) | corsimikrotik.it+Telegram @marcoboschini | official-self-published·谱/leads-only(直发需 opt-in) | https://corsimikrotik.it |
+| Marco Boschini | KNX Tutor & MikroTik Certified Trainer 双证;MTPC Prague 2024-03 speaker;MTCEWE 2024(Ron Touw 班);PoE Podcast 主播;Boschini Training Center(2021)馆主 | Telegram @marcoboschini/t.me/corsimikrotik;lnkd 联系卡;corsimikrotik.it | official-self-published(LI 自签+官方培训中心档)O 级/leads-only | https://corsimikrotik.it |
+| Alessandro(联合讲师) | CorsiMikrotik 合讲师(评审档 Marco+Alessandro 双口碑 5/5) | corsimikrotik.it | third-party-评审 G/leads-only | https://armillaweb.it/corsi-mikrotik/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -96,7 +98,7 @@ updated: 2026-09-28
 
 - **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
 - **切入点**：具名 kp 引路 → 采购/技术硬件分载线
-- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
+- **要问的问题**：贵司 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
 ### 第 2 次跟进 · 一页目录卡
@@ -116,35 +118,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第25波50户.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R67_R56_推土机批1.json`；价格均为 EXW 快照。
 
-- **①背景再核**：CONSULT-OEM 掌件区(**非卖品**):CorsiMikrotik=**MikroTik 官方培训中心**,Trainer **Marco Boschini**(官网/Telegram @marcoboschini 自署,Alessandro+Marco 双讲师口碑 5/5,Lonato del Garda BS+Verona 场,MTCNA/MTCIPv6E/La Palestra IP 月课 €150+IVA,与 MT Distribuzione 机房合作);OEM 对照架=我司嵌入式板等类口头,只做奖学金类非商触,OK。
-- **②芯片/型号**：p1 掌件 CONSULT-OEM(**非卖品**:对照架/掌件区,只做技术参件,不挂价)。
-- **③KP 深挖**：**Marco Boschini(MikroTik 官方 Trainer(官网/Telegram @marcoboschini 自署),official-self-published·谱/leads-only(直发需 opt-in))**
-- **④Saga 对标**：非卖品掌件对照架
-- **⑤在乎与偏好**：B2B 批谱;CE/UKCA 齐套;持续关注新一季
+- **①背景再核**：CorsiMikrotik(其牌)+**Boschini Training Center(KNX,2021 夏开)** 双牌运转;Lonato del Garda/Verona 场
+- **②芯片/型号**：MTCEWE 2024-03(Ron Touw 班);KNX Tutor 2021;双语教学;GitHub lab export 公开
+- **③KP 深挖**：**Marco Boschini(KNX Tutor+MikroTik Certified Trainer 双证;MTPC Prague 2024 speaker;MTCEWE 2024;PoE Podcast 主播)**
+- **④Saga 对标**：OEM 掌件区(非卖品)技术参件窗:我司 424 规格页送课案
+- **⑤在乎与偏好**：
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**CONSULT-OEM 掌件区(**非卖品**):CorsiMikrotik=**MikroTik 官方培训中心**,Trainer **Marco Boschini**(官网/Telegram @marcoboschini 自署,Alessandro+Marco 双讲师口碑 5/5,Lonato del Garda 
-  > CONSULT-OEM 掌件区(**非卖品**):CorsiMikrotik=**MikroTik 官方培训中心**,Trainer **Marco Boschini**(官网/Telegram @marcoboschini 自署,Alessandro+Marco 双讲师口碑 5/5,Lonato del Garda 
-  > 来源：https://corsimikrotik.it/
-- **【近期动态与线索】**KP 具名谱:Marco Boschini
-  > KP 具名谱:Marco Boschini
-  > 来源：https://corsimikrotik.it/
+- **【决策链与对接人】**Un nerd diventato zen. KNX Tutor & MikroTik Certified Trainer—943 follower, 441 post(LI 自签)
+  > Un nerd diventato zen. KNX Tutor & MikroTik Certified Trainer—943 follower, 441 post(LI 自签)
+  > 来源：https://it.linkedin.com/posts/marco-boschini_mikrotik-routeros-networking-activity-6980228970730385408-vu81
+- **【近期动态与线索】**MikroTik Professionals Conference Prague 2024-03-07/08 speaker(GNS3 speech);MTCEWE 新证(Ron Touw);PoE Podcast over Ethernet 第 7 期
+  > MikroTik Professionals Conference Prague 2024-03-07/08 speaker(GNS3 speech);MTCEWE 新证(Ron Touw);PoE Podcast over Ethernet 第 7 期
+  > 来源：https://it.linkedin.com/posts/marco-boschini_mikrotik-router-routeros-activity-7160336885595136000-IEiE
+- **【技术与认证】**2021 夏 KNX Tutor 认证→ Boschini Training Center 开馆;FlashStart DNS filtering webinar 嘉宾
+  > 2021 夏 KNX Tutor 认证→ Boschini Training Center 开馆;FlashStart DNS filtering webinar 嘉宾
+  > 来源：https://it.linkedin.com/posts/marco-boschini_mikrotik-router-routeros-activity-7160336885595136000-IEiE
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：CONSULT-OEM 掌件区(**非卖品**):CorsiMikrotik=**MikroTik 官方培训中心**,Trainer **Marco Boschini**(官网/Telegram @marcoboschini 自署,Alessandro+Marco 双讲师口碑 5/5,Lonato del Garda BS+Verona 场,MTCNA/MTCIPv6E/La Palestra IP 月课 €150+IVA,与 MT Distribuzione 机房合作);OEM 对照架=我司嵌入式板等类口头,只做奖学金类非商触,OK。
-- **产品线与在售品牌**：p1 掌件 CONSULT-OEM(**非卖品**:对照架/掌件区,只做技术参件,不挂价)。
-- **目标行业与场景**：意大利分销/批发谱;
-- **团队与规模**：意大利谱·具名决策档
-- **决策链与对接人**：**Marco Boschini(MikroTik 官方 Trainer(官网/Telegram @marcoboschini 自署),official-self-published·谱/leads-only(直发需 opt-in))**
-- **技术与认证**：p1 掌件 CONSULT-OEM(**非卖品**:对照架/掌件区,只做技术参件,不挂价)。
-- **采购与供应链信号**：具名谱位引路
-- **近期动态与线索**：2026-10-08 R66 25 波谱名牌
-- **与我方契合点**：掌件区技术参件窗(非卖品)
-- **风险与注意**：leads-only;直发需 opt-in
+- **业务定位**：CorsiMikrotik(其牌)+**Boschini Training Center(KNX,2021 夏开)** 双牌运转;Lonato del Garda/Verona 场
+- **产品线与在售品牌**：MTCNA/MTCRE/MTCTCE/MTCINE/MTCEWE/ZeroMikroTik/La Palestra IP(€150+IVA 月课)课谱
+- **目标行业与场景**：意 MikroTik 培训头部;KNX 楼控第二带;FlashStart 安全联件
+- **团队与规模**：个人微铺;**943+ 粉 LI 日更**;Telegram @corsimikrotik/@marcoboschini 双渠
+- **决策链与对接人**：**Marco Boschini(KNX Tutor+MikroTik Certified Trainer 双证;MTPC Prague 2024 speaker;MTCEWE 2024;PoE Podcast 主播)**
+- **技术与认证**：MTCEWE 2024-03(Ron Touw 班);KNX Tutor 2021;双语教学;GitHub lab export 公开
+- **采购与供应链信号**：Telegram 直通;lnkd 联系卡;corsimikrotik.it 注册窗
+- **近期动态与线索**：PoE Podcast 7+ 期;MTPC 2024;FlashStart webinar;GNS3/Proxmox CHR 教程
+- **与我方契合点**：OEM 掌件区(非卖品)技术参件窗:我司 424 规格页送课案
+- **风险与注意**：个人牌小谱;教育非商触;leads-only
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -159,10 +164,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：具名决策档+roster/官网金谱在册
-- **W**：直发需 opt-in;leads-only
-- **O**：掌件区技术窗
-- **T**：欧洲分销带节奏;先报价不回则档案铺位
+- **S**：具名梯队金谱
+- **W**：教育非商触;同名小片噪;leads-only
+- **O**：我方供位价差窗
+- **T**：谱链节奏;leads-only
 
 ## 触达与风险红线
 
@@ -194,8 +199,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] KP 在职时效
-  - [ ] 谱面份额
+  - [ ] 双证师、MTPC speaker、日更高产、双渠直通
+  - [ ] 同名小片噪、英力进修
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算

@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 25·497:捷克谱: PROFIcomms s.r.o.:1993 创 33 年,Brno Olomoucká 1273/91;**D&B Key Principal František Urban(O 级具名)**;ComNet(acre security)捷授权分销(**2026-07 续约公开窗=当季热询**)+Microsens 员工厂训+Edge-Core/Brocade 捷唯一认证(2014)+ISO9001;PLANET/Radware/Raisecom/Ruckus/Siqura/LigoWave 牌谱;我司 424 XGG 先价锚 $165 收 ComNet 8100 系隙,OK。
-- 【推断】R66 第 25 波具名 KP 金谱
-- 【假设】STC-424XGGPM-280W($165/$80 双轨 (2026-10-08, 15天有效))具名谱位引路
+- 【事实】波 R67·A-497:捷克谱: **PROFIcomms 全梯队深挖(捷商登 C 9905/KSBR 双证)**:①**doc. Ing. František Urban, CSc.** = 1993-03-24 创司唯一 jednatel+100% 股东(出资 200,000 Kč)至今 33 年,**71 岁**(detail.cz 制),学术头衔 doc.+CSc.(Candidate of Sciences 博士级);Prostějov 籍;D&B 双件(Member of Board+Sole Administrator);②**František Urban Jr. = ředitel společnosti(总经理)**=二代谢位谱,官网联系页直邮 urbanjr(a)proficomms.cz!父机 +420 736 625 804;③**Ing. Petr Nesvadba**(官网联系页技件);公司:IČO 47911263/DIČ CZ47911263;Hillstone×PAN×VUT Brno **网安实验室共建**(媒体引语 Urban);Future Forces Forum/LockFest 展会谱;detail.cz「捷上 10% 营收档·数十人·营收 stagnation」
+- 【推断】R67 推土机深挖 批1 具名 KP 金谱(全系深挖加厚)
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名梯队引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -77,12 +77,18 @@ updated: 2026-09-28
 - **原始联系字段**：info@proficomms.cz（官网 kontakt）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **doc. Ing. František Urban, CSc.**(jednatel(1993 创 33 年)+100% 唯一股东(200,000 Kč);doc.+CSc. 学术头衔;71 岁(detail.cz))— urban(a)proficomms.cz(官网联系页);mob +420 736 625 804;Prostějov 〔已有(公司官方公开件/登记册自曝);源:https://rejstrik-firem.kurzy.cz/47911263/proficomms-sro/〕
+  - **František Urban Jr.**(ředitel společnosti(总经理,executive)=二代谢位谱)— urbanjr(a)proficomms.cz(官网联系页直邮) 〔已有(公司官方公开件/登记册自曝);源:https://www.proficomms.cz/kontakty/t-193/〕
+  - **Ing. Petr Nesvadba**(技件(官网联系页))— proficomms.cz 联系页 〔已有(公司官方公开件/登记册自曝);源:https://www.proficomms.cz/kontakty/t-193/〕
   - **František Urban**(Key Principal(Dun & Bradstreet 商档))— proficomms.cz 批口+LI 司页 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.proficomms.eu〕
 
 ## 关键人（KP）与触达通道
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| doc. Ing. František Urban, CSc. | jednatel(1993 创 33 年)+100% 唯一股东(200,000 Kč);doc.+CSc. 学术头衔;71 岁(detail.cz) | urban(a)proficomms.cz(官网联系页);mob +420 736 625 804;Prostějov | official-self-published+registry(C 9905/KSBR)+D&B 三源 O 级/leads-only | https://rejstrik-firem.kurzy.cz/47911263/proficomms-sro/ |
+| František Urban Jr. | ředitel společnosti(总经理,executive)=二代谢位谱 | urbanjr(a)proficomms.cz(官网联系页直邮) | official-self-published(官网)O 级/leads-only | https://www.proficomms.cz/kontakty/t-193/ |
+| Ing. Petr Nesvadba | 技件(官网联系页) | proficomms.cz 联系页 | official-self-published G/leads-only | https://www.proficomms.cz/kontakty/t-193/ |
 | František Urban | Key Principal(Dun & Bradstreet 商档) | proficomms.cz 批口+LI 司页 | third-party-D&B·谱/leads-only(直发需 opt-in) | https://www.proficomms.eu |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
@@ -93,7 +99,7 @@ updated: 2026-09-28
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
 - **切入点**：具名 kp 引路 → 采购/技术硬件分载线
-- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
+- **要问的问题**：贵司 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
 ### 第 2 次跟进 · 一页目录卡
@@ -113,35 +119,41 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第25波50户.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R67_R56_推土机批1.json`；价格均为 EXW 快照。
 
-- **①背景再核**：PROFIcomms s.r.o.:1993 创 33 年,Brno Olomoucká 1273/91;**D&B Key Principal František Urban(O 级具名)**;ComNet(acre security)捷授权分销(**2026-07 续约公开窗=当季热询**)+Microsens 员工厂训+Edge-Core/Brocade 捷唯一认证(2014)+ISO9001;PLANET/Radware/Raisecom/Ruckus/Siqura/LigoWave 牌谱;我司 424 XGG 先价锚 $165 收 ComNet 8100 系隙,OK。
-- **②芯片/型号**：p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。
-- **③KP 深挖**：**František Urban(Key Principal(Dun & Bradstreet 商档),third-party-D&B·谱/leads-only(直发需 opt-in))**
-- **④Saga 对标**：424 XGG 280W vs PLANET 当批价差
-- **⑤在乎与偏好**：B2B 批谱;CE/UKCA 齐套;当季窗热询
+- **①背景再核**：PROFIcomms s.r.o.(Brno Olomoucká 91/1273/91,1993-03-24 创 C 9905/KSBR):ComNet(acre security)授权 2026-07 续约+Microsens 员工厂训+Edge-Core/Brocade 捷唯一认证(2014)+ISO9001
+- **②芯片/型号**：Brocade Ethernet Fabric 捷唯一(2014);Microsens FTTO 员工厂训;ISO9001
+- **③KP 深挖**：**Urban Sr.(71,doc+CSc,jednatel 33 年)→Urban Jr.(ředitel 二代,urbanjr@ 直邮)** 接力谱;Nesvadba 技件
+- **④Saga 对标**：我司 STC-424XGGPM-280W($165)对照 ComNet/PLANET 谱;Urban Jr. 接力窗直投
+- **⑤在乎与偏好**：捷/斯新季 24 口 PoE 谱链开放比选?
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**PROFIcomms s.r.o.:1993 创 33 年,Brno Olomoucká 1273/91;**D&B Key Principal František Urban(O 级具名)**;ComNet(acre security)捷授权分销(**2026-07 续约公开窗=当季热询**)+Microsens 员
-  > PROFIcomms s.r.o.:1993 创 33 年,Brno Olomoucká 1273/91;**D&B Key Principal František Urban(O 级具名)**;ComNet(acre security)捷授权分销(**2026-07 续约公开窗=当季热询**)+Microsens 员
-  > 来源：https://proficomms.cz/
-- **【近期动态与线索】**KP 具名谱:František Urban
-  > KP 具名谱:František Urban
-  > 来源：https://proficomms.cz/
+- **【决策链与对接人】**Jednatel: Doc. ing. František Urban CSc. Prostějov, den vzniku funkce 24.3.1993;Společník 100%, vklad 200 000 Kč
+  > Jednatel: Doc. ing. František Urban CSc. Prostějov, den vzniku funkce 24.3.1993;Společník 100%, vklad 200 000 Kč
+  > 来源：https://rejstrik-firem.kurzy.cz/47911263/proficomms-sro/
+- **【决策链与对接人】**VEDENÍ SPOLEČNOSTI: Doc. František Urban, CSc.(urban@) 204;František Urban jr.(urbanjr@) ředitel;Ing. Petr Nesvadba
+  > VEDENÍ SPOLEČNOSTI: Doc. František Urban, CSc.(urban@) 204;František Urban jr.(urbanjr@) ředitel;Ing. Petr Nesvadba
+  > 来源：https://www.proficomms.cz/kontakty/t-193/
+- **【近期动态与线索】**Hillstone Networks 与 PAN Networks 及 PROFIcomms 在 VUT Brno 共建网安实验室;Future Forces Forum 出席
+  > Hillstone Networks 与 PAN Networks 及 PROFIcomms 在 VUT Brno 共建网安实验室;Future Forces Forum 出席
+  > 来源：https://adoc.pub/rozhovor-s-editelem-vop-cz.html
+- **【团队与规模】**Rating 2024: horních 10 % firem v ČR, desítky zaměstnanců, obrat stagnuje;vlastník František Urban (71)
+  > Rating 2024: horních 10 % firem v ČR, desítky zaměstnanců, obrat stagnuje;vlastník František Urban (71)
+  > 来源：https://www.detail.cz/firma/47911263-proficomms-sro-olomoucka-1273-91-brno/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：PROFIcomms s.r.o.:1993 创 33 年,Brno Olomoucká 1273/91;**D&B Key Principal František Urban(O 级具名)**;ComNet(acre security)捷授权分销(**2026-07 续约公开窗=当季热询**)+Microsens 员工厂训+Edge-Core/Brocade 捷唯一认证(2014)+ISO9001;PLANET/Radware/Raisecom/Ruckus/Siqura/LigoWave 牌谱;我司 424 XGG 先价锚 $165 收 ComNet 8100 系隙,OK。
-- **产品线与在售品牌**：p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。
-- **目标行业与场景**：捷克分销/批发谱;
-- **团队与规模**：捷克谱·具名决策档
-- **决策链与对接人**：**František Urban(Key Principal(Dun & Bradstreet 商档),third-party-D&B·谱/leads-only(直发需 opt-in))**
-- **技术与认证**：p1 供位 STC-424XGGPM-280W(4×2244 2S2b 2.2-5.7GHz XGG 微波 288/280W,四电三关,24~57V DIN 轨锁定,$165 价锚)。
-- **采购与供应链信号**：具名谱位引路
-- **近期动态与线索**：2026-10-08 R66 25 波谱名牌
-- **与我方契合点**：24 口 280W XGG 谱链窗口
-- **风险与注意**：leads-only;直发需 opt-in
+- **业务定位**：PROFIcomms s.r.o.(Brno Olomoucká 91/1273/91,1993-03-24 创 C 9905/KSBR):ComNet(acre security)授权 2026-07 续约+Microsens 员工厂训+Edge-Core/Brocade 捷唯一认证(2014)+ISO9001
+- **产品线与在售品牌**：Adtran/LG/LigoWave/PacketLight/Pica8/Radware/Raisecom/Ruckus/Siqura/PLANET/SALTEK/Hillstone(共建实验室)牌谱
+- **目标行业与场景**：捷/斯企业通勤网+安防监控网 B2B VAD 分销;ISP/metropolis 带
+- **团队与规模**：数十员工(detail.cz 上 10% 档);LI 321 粉;店时 8:00-16:30
+- **决策链与对接人**：**Urban Sr.(71,doc+CSc,jednatel 33 年)→Urban Jr.(ředitel 二代,urbanjr@ 直邮)** 接力谱;Nesvadba 技件
+- **技术与认证**：Brocade Ethernet Fabric 捷唯一(2014);Microsens FTTO 员工厂训;ISO9001
+- **采购与供应链信号**：ComNet 新 90W/720W 工业 PoE 主推页=我司 424 对照口;Hillstone NGFW 实验室=安防链
+- **近期动态与线索**：2026-07 ComNet 续约新闻;VUT 网安实验室;Future Forces/LockFest 展
+- **与我方契合点**：我司 STC-424XGGPM-280W($165)对照 ComNet/PLANET 谱;Urban Jr. 接力窗直投
+- **风险与注意**：先报价不回;leads-only;两代人谱双投错峰注
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -156,10 +168,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：具名决策档+roster/官网金谱在册
-- **W**：直发需 opt-in;leads-only
-- **O**：424 XGG 280W $165/$80 双轨价差窗
-- **T**：欧洲分销带节奏;先报价不回则档案铺位
+- **S**：具名梯队金谱
+- **W**：leads-only;双投错峰
+- **O**：捷/斯新季 24 口 PoE 谱链开放比选?
+- **T**：谱链节奏;leads-only
 
 ## 触达与风险红线
 
@@ -187,8 +199,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] KP 在职时效
-  - [ ] 谱面份额
+  - [ ] 创主 71 岁学术稳档、Brocade 捷唯一、Hillstone 共建实验室、直邮直机全
+  - [ ] 接续梯队、在职时效
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -200,7 +212,7 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Dear František Urban Team,
+Dear doc. Ing. František Urba Team,
 
 We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
