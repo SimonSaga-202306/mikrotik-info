@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Frédéric Gauthier (ProRéseau)（加拿大）：Pro Réseau(Québec City 魁北克城）:结构化布线/5.2GHz **83KM 点对点链路**案例/路由编程/SIP 电话；70 员工布线环境案例；Wix 站法语
-- 【推断】硬核服务店（83km PtP=野外作业级）:LAN/WiFi 项目=PoE 随单；微型体量低密
-- 【假设】布线/无线项目随单缝（法语区；低密）
+- 【事实】Frédéric Gauthier - ProRéseau:Frédéric Gauthier - ProRéseau(加拿大／Québec;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://proreseau.net;proreseau.net=魁北克法区顾问谱;**CSV 信号:MTCNA+MTCSE+MTCEWE 三证谱**;**同名片噪排除注:检索命中法国米卢斯 PRORÉSEAU→PROÉVOLUTION 人力谱=无关同名,已排**)
+- 【推断】R66 第 24 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,65 +76,75 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：+1 418 933 1285 / fgauthier@proreseau.net
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Frédéric Gauthier - ProRéseau**(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人))— 档谱+档站自署 〔已有(公司官方公开件/登记册自曝);源:https://proreseau.net〕
 
 ## 关键人（KP）与触达通道
 
-- **Frédéric Gauthier**（本人直达；角色=业主/顾问本人，依据名录）
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Frédéric Gauthier - ProRéseau | MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人) | 档谱+档站自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://proreseau.net |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 随单
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：布线/无线项目随单缝（低密）
-- **要问的问题**：随单有缝吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
-
-### 第 3 次跟进 · 留档
-
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第45批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第24波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://proreseau.net|'Point a point 5.2GHz sur 83KM' 案例
-- **②芯片/型号**：——
-- **③KP 深挖**：服务多年
-- **④Saga 对标**：STC-424 随单缝（$180 锚点一致）
-- **⑤在乎与偏好**：灵活开源嗜好（open source 自述）
+- **①背景再核**：Frédéric Gauthier - ProRéseau(加拿大／Québec;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://proreseau.net;proreseau.net=魁北克法区顾问谱;**CSV 信号:MTCNA+MTCSE+MTCEWE 三证谱**;**同名片噪排除注:检索命中法国米卢斯 PRORÉSEAU→PROÉVOLUTION 人力谱=无关同名,已排**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Frédéric Gauthier - ProRéseau(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：MTCSWE/交换认证谱=对口窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【案例】**'Point a point 5.2GHz sur 83KM' + 'Câblage structuré pour environ 70 employés'
-  > 'Point a point 5.2GHz sur 83KM' + 'Câblage structuré pour environ 70 employés'
+- **【联系方式与基础画像】**国家/城市: 加拿大／Québec;网站: https://proreseau.net;类型: 集成商/顾问(MikroTik 认证)(档案基础画像行=事实)
+  > 国家/城市: 加拿大／Québec;网站: https://proreseau.net;类型: 集成商/顾问(MikroTik 认证)(档案基础画像行=事实)
+  > 来源：https://proreseau.net
+- **【近期动态与线索】**档定首触角: 顾问对照单元($180 锚点一致);—(合作探询,无量产报价)
+  > 档定首触角: 顾问对照单元($180 锚点一致);—(合作探询,无量产报价)
+  > 来源：https://proreseau.net
+- **【目标行业与场景】**档定值得跟: 有明确交换/供电需求(交换认证 MTCSWE),且有具体人直联
+  > 档定值得跟: 有明确交换/供电需求(交换认证 MTCSWE),且有具体人直联
   > 来源：https://proreseau.net
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：加魁北克法语网络服务
-- **产品线与在售品牌**：结构化布线/PtP 链路/SIP
-- **目标行业与场景**：SMB 现场
-- **团队与规模**：微型
-- **决策链与对接人**：fgauthier@ 具名
-- **技术与认证**：—
-- **采购与供应链信号**：—
-- **近期动态与线索**：83KM PtP 案例
-- **与我方契合点**：项目随单缝（法语区；低密）
-- **风险与注意**：体量微——低密
+- **业务定位**：Frédéric Gauthier - ProRéseau(加拿大／Québec;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://proreseau.net;proreseau.net=魁北克法区顾问谱;**CSV 信号:MTCNA+MTCSE+MTCEWE 三证谱**;**同名片噪排除注:检索命中法国米卢斯 PRORÉSEAU→PROÉVOLUTION 人力谱=无关同名,已排**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：培训交付谱(MTCSWE 谱链)
+- **团队与规模**：单铺/工作室谱
+- **决策链与对接人**：**Frédéric Gauthier - ProRéseau(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 24 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Bonjour M. Gauthier,(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -149,10 +159,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：硬核
-- **W**：体微
-- **O**：随单
-- **T**：—
+- **S**：MTCSWE/交换认证谱=对口窗
+- **W**：单铺谱
+- **O**：Frédéric Gauthier - ProRéseau 本人直达位
+- **T**：MikroTik 官方课链
 
 ## 触达与风险红线
 
@@ -180,8 +190,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 随单频次
-  - [ ] 首发量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -193,16 +203,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Bonjour Frédéric,
+Bonjour M. Gauthier,
 
-Structured cabling for seventy desks and an 83 km point-to-point link - you are comfortable where budgets meet physics. For the LAN jobs behind those installs, we build a documented 24-port Gigabit PoE switch (280W, watchdog) at $180 USD EXW (2026-09-29).
-
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
-
-One question: in your cabling and wireless projects, is there room for a documented value PoE unit?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

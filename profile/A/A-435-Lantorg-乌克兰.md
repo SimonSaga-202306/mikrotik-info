@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Lantorg（乌克兰）：Lantorg(UA）网络设备店（Tenda/Saftec LiFePO4 电池/Multitest OTDR+虚拟 PBX 服务线）;'年轻乐观团队'自述
-- 【推断】全品类店=谈价值档位最合拍；虚拟 PBX=ITSP 小服务线（Voice VLAN 场景）
-- 【假设】店收录对照行（民用限定；VoIP/店双场景）
+- 【事实】Lantorg:Lantorg(乌克兰 Kharkiv,**2012 创 14 年;MikroTik Reseller(名录信号);自设服务中心谱**;哈尔科夫东部谱;具名决策人谱面未锁→守档准由;**战区民用商业限定句必压(民用商业限定前句)**)
+- 【推断】R66 第 24 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -85,56 +85,59 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 收录
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：店收录对照行（民用限定）
-- **要问的问题**：收录对照行吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
-
-### 第 3 次跟进 · 留档
-
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第44批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第24波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://lantorg.com|年轻团队自述+虚拟PBX 线
-- **②芯片/型号**：——
-- **③KP 深挖**：店+服务
-- **④Saga 对标**：STC-424 收录（$180 锚点一致）
-- **⑤在乎与偏好**：性价比自营
+- **①背景再核**：Lantorg(乌克兰 Kharkiv,**2012 创 14 年;MikroTik Reseller(名录信号);自设服务中心谱**;哈尔科夫东部谱;具名决策人谱面未锁→守档准由;**战区民用商业限定句必压(民用商业限定前句)**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 第 24 波点名(谱面无实名)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：服务中心=售后绑定谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Lantorg: інтернет-магазин мережевого обладнання + Віртуальна АТС 服务线 + 'Молода оптимістична команда'
-  > Lantorg: інтернет-магазин мережевого обладнання + Віртуальна АТС 服务线 + 'Молода оптимістична команда'
-  > 来源：https://lantorg.com
+- **【联系方式与基础画像】**2012 创;Kharkiv;lantorg.com;服务中心谱
+  > 2012 创;Kharkiv;lantorg.com;服务中心谱
+  > 来源：https://lantorg.com/
+- **【业务定位】**MT 官方渠道零售+售后服务中心谱
+  > MT 官方渠道零售+售后服务中心谱
+  > 来源：https://lantorg.com/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：乌网络设备店+虚拟 PBX
-- **产品线与在售品牌**：Tenda/电池/OTDR+虚拟PBX
-- **目标行业与场景**：零售+SMB 服务
-- **团队与规模**：小型
-- **决策链与对接人**：238100@ 口
-- **技术与认证**：—
-- **采购与供应链信号**：—
-- **近期动态与线索**：—
-- **与我方契合点**：店收录对照行（民用限定）
-- **风险与注意**：体量小——低密
+- **业务定位**：Lantorg(乌克兰 Kharkiv,**2012 创 14 年;MikroTik Reseller(名录信号);自设服务中心谱**;哈尔科夫东部谱;具名决策人谱面未锁→守档准由;**战区民用商业限定句必压(民用商业限定前句)**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：乌克兰东部 ISP/企业;**战区民用商业限定句必压(民用商业限定前句)**
+- **团队与规模**：小中铺谱
+- **决策链与对接人**：**守档准由;R66 第 24 波点名(谱面无实名)**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 24 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：**战区民用商业限定句必压(民用商业限定前句)**；具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -149,10 +152,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：灵活
-- **W**：体量小
-- **O**：收录
-- **T**：—
+- **S**：服务中心=售后绑定谱
+- **W**：东部战区委顿
+- **O**：14 年谱
+- **T**：MikroTik 官方链
 
 ## 触达与风险红线
 
@@ -180,8 +183,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 收录意愿
-  - [ ] 首发量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -193,16 +196,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Lantorg team,
+Dear Lantorg Team,
 
-Network gear plus a virtual PBX line means you serve offices that need both - and every office VoIP rollout feeds phones and cameras from PoE ports. One honest framing note first: our offer is strictly for civilian commercial networking - nothing dual-use, nothing for state or military buyers. Here is a documented 24-port Gigabit PoE switch (280W, Voice-VLAN friendly) at $180 USD EXW (2026-09-29).
-
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
-
-One question: would your shop carry a documented value PoE row beside the PBX line?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

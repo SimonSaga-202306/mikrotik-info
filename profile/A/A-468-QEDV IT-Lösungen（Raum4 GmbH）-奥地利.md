@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】QEDV GmbH（奥地利）：QEDV（奥 Tirol IT 全案商+PrestaShop 店）:**MikroTik 24 口 PoE 交换 €224 爆款在价**+ET-1 便携 PoE injector+SMB 数字化转型服务线（Windows Server/Dell)
-- 【推断】**24 口 PoE 即爆款**=同档品认知已建立=对照行直接可比（最顺正口之一）
-- 【假设】爆款 24 口 PoE 旁的 value 对照正口
+- 【事实】QEDV IT-Lösungen（Raum4 GmbH）:QEDV IT-Lösungen(Raum4 GmbH 谱;奥地利 Tirol;**MikroTik Reseller(名录信号);shop.qedv.at 店谱:MikroTik CRS328-24P-4S+RM 24 口 PoE 交换机首页热卖在架=同型对照金口(我方 24 口 PoE 直接对标谱!);IT 全案店+Terra 工作站牌谱**;具名决策人谱面未锁→守档准由)
+- 【推断】R66 第 24 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -85,56 +85,59 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 对照行
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：爆款旁 value 对照
-- **要问的问题**：对照行吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
-
-### 第 3 次跟进 · 留档
-
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第47批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第24波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://shop.qedv.at|'Mikrotik 24-Port PoE Switch €224' 爆款位
-- **②芯片/型号**：MikroTik 部分谱
-- **③KP 深挖**：IT 商多年
-- **④Saga 对标**：STC-424 对照正口（$180 锚点一致）
-- **⑤在乎与偏好**：SMB 务实
+- **①背景再核**：QEDV IT-Lösungen(Raum4 GmbH 谱;奥地利 Tirol;**MikroTik Reseller(名录信号);shop.qedv.at 店谱:MikroTik CRS328-24P-4S+RM 24 口 PoE 交换机首页热卖在架=同型对照金口(我方 24 口 PoE 直接对标谱!);IT 全案店+Terra 工作站牌谱**;具名决策人谱面未锁→守档准由)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 第 24 波点名(谱面无实名)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：CRS328-24P 在架=同型对照金口
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【产品线】**Beliebte Artikel: 'Mikrotik 24-Port Switch mit 2x SFP+ lüfterlos' €224 + 便携 PoE injector 谱
-  > Beliebte Artikel: 'Mikrotik 24-Port Switch mit 2x SFP+ lüfterlos' €224 + 便携 PoE injector 谱
-  > 来源：https://shop.qedv.at
+- **【联系方式与基础画像】**shop.qedv.at;Tirol;CRS328-24P-4S+RM 24 口 PoE 首页热卖(€499.17)
+  > shop.qedv.at;Tirol;CRS328-24P-4S+RM 24 口 PoE 首页热卖(€499.17)
+  > 来源：https://shop.qedv.at/
+- **【业务定位】**IT 全案店谱(网络/服务器/数字化);24 口 PoE 在架=同型对照谱
+  > IT 全案店谱(网络/服务器/数字化);24 口 PoE 在架=同型对照谱
+  > 来源：https://shop.qedv.at/startseite/22-mikrotik-24-port-poe-switch-mit-4x-sfp.html
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：奥 Tirol SMB IT 方案商（24口 PoE 爆款）
-- **产品线与在售品牌**：MikroTik/Dell/Wortmann
-- **目标行业与场景**：装维/集成/ISP/转售
-- **团队与规模**：（官网推）
-- **决策链与对接人**：office@qedv.at 口
-- **技术与认证**：—
-- **采购与供应链信号**：—
-- **近期动态与线索**：—
-- **与我方契合点**：24 口 PoE 爆款旁 value 对照正口
-- **风险与注意**：同档品直接对位——胜在文档+价
+- **业务定位**：QEDV IT-Lösungen(Raum4 GmbH 谱;奥地利 Tirol;**MikroTik Reseller(名录信号);shop.qedv.at 店谱:MikroTik CRS328-24P-4S+RM 24 口 PoE 交换机首页热卖在架=同型对照金口(我方 24 口 PoE 直接对标谱!);IT 全案店+Terra 工作站牌谱**;具名决策人谱面未锁→守档准由)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：奥地利中小企 IT 全案谱
+- **团队与规模**：小店谱
+- **决策链与对接人**：**守档准由;R66 第 24 波点名(谱面无实名)**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 24 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -149,10 +152,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：同档认知
-- **W**：体量小
-- **O**：对照
-- **T**：MikroTik
+- **S**：CRS328-24P 在架=同型对照金口
+- **W**：小店薄谱
+- **O**：Terra 牌谱绑定
+- **T**：MikroTik 官方链
 
 ## 触达与风险红线
 
@@ -180,8 +183,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 价差空间
-  - [ ] 首发量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -193,16 +196,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi QEDV team,
+Sehr geehrtes QEDV Team,
 
-A MikroTik 24-port PoE switch at EUR 224 sits as your best-seller - so your SMB customers already ask for exactly this spec by name. The honest offer: a documented value unit for the quotes where EUR 224 is still too much
-
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
-
-One question: your 24-port PoE is a bestseller - would a documented value unit serve the tighter quotes?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

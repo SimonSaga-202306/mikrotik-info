@@ -49,9 +49,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】MTBG OOD (mikrotikbg.shop)（保加利亚）：MTBG OOD:**保加利亚 MikroTik 认证经销商/MTCSA 伙伴专营站**;库存直播 API 实时；CCR504/WiFi7 新件上架；CLAIRÉ 新品预售；集成商/企业报价页
-- 【推断】纯 MT 谱认证经销=替补逻辑最弱（品牌忠诚）；诚实低密窄针：对照行仅作'预算场景替补'
-- 【假设】纯谱对照行低密窄针（诚实角）
+- 【事实】MTBG OOD（mikrotikbg.shop）:MTBG OOD(保加利亚 Burgas,131 Tsar Simeon I;**MikroTik Master+VAD(名录信号);mikrotikbg.shop 官网 schema 自宣「Official MikroTik distributor since 2018(MTCSA)」+培训/证书页;500 SKU 全谱**;+359 2 451 2525;info@mikrotikbg.shop;**与 A-367(Petar Dimitrov,波 22 人名档,同域 mikrotikbg.shop)同人同域镜像注:A-367 已发档谱位,A-442 公司体档,首触错峰 7+ 天,仍走 A-367 位主发**;具名决策人谱面未锁(除 Petar 本体外)→守档准由)
+- 【推断】R66 第 24 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -85,56 +85,59 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 窄针
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：预算场景对照行（诚实窄针）
-- **要问的问题**：对照行收吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
-
-### 第 3 次跟进 · 留档
-
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第45批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第24波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://mikrotikbg.shop|MTCSA 认证+库存直播+新品页三核
-- **②芯片/型号**：MikroTik 纯谱
-- **③KP 深挖**：专营多年
-- **④Saga 对标**：STC-424 低密窄针（$180 锚点一致）
-- **⑤在乎与偏好**：牌忠/品质定位
+- **①背景再核**：MTBG OOD(保加利亚 Burgas,131 Tsar Simeon I;**MikroTik Master+VAD(名录信号);mikrotikbg.shop 官网 schema 自宣「Official MikroTik distributor since 2018(MTCSA)」+培训/证书页;500 SKU 全谱**;+359 2 451 2525;info@mikrotikbg.shop;**与 A-367(Petar Dimitrov,波 22 人名档,同域 mikrotikbg.shop)同人同域镜像注:A-367 已发档谱位,A-442 公司体档,首触错峰 7+ 天,仍走 A-367 位主发**;具名决策人谱面未锁(除 Petar 本体外)→守档准由)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 第 24 波点名(谱面无实名)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：官方分销 2018 起+培训页=链窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**'Сертифициран MikroTik дилър · MTCSA' + 'Каталогът е свързан на живо със складовата ни система'
-  > 'Сертифициран MikroTik дилър · MTCSA' + 'Каталогът е свързан на живо със складовата ни система'
-  > 来源：https://mikrotikbg.shop
+- **【联系方式与基础画像】**mikrotikbg.shop schema:Official MikroTik distributor since 2018;Burgas;+359 2 451 2525;500 SKU
+  > mikrotikbg.shop schema:Official MikroTik distributor since 2018;Burgas;+359 2 451 2525;500 SKU
+  > 来源：https://mikrotikbg.shop/
+- **【近期动态与线索】**镜像错峰注:A-367 Petar Dimitrov 同域同人(波 22 已发谱位)
+  > 镜像错峰注:A-367 Petar Dimitrov 同域同人(波 22 已发谱位)
+  > 来源：https://mikrotikbg.shop/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：保 MT 认证经销商专营站
-- **产品线与在售品牌**：MikroTik 纯谱
-- **目标行业与场景**：集成商/企业/零售
-- **团队与规模**：小型
-- **决策链与对接人**：info@mikrotikbg.shop 口
-- **技术与认证**：MTCSA 认证经销
-- **采购与供应链信号**：库存直播 API
-- **近期动态与线索**：CLAIRÉ 新品 12月
-- **与我方契合点**：对照行低密窄针（诚实角）
-- **风险与注意**：纯 MT 认证——替补接受度全场最低
+- **业务定位**：MTBG OOD(保加利亚 Burgas,131 Tsar Simeon I;**MikroTik Master+VAD(名录信号);mikrotikbg.shop 官网 schema 自宣「Official MikroTik distributor since 2018(MTCSA)」+培训/证书页;500 SKU 全谱**;+359 2 451 2525;info@mikrotikbg.shop;**与 A-367(Petar Dimitrov,波 22 人名档,同域 mikrotikbg.shop)同人同域镜像注:A-367 已发档谱位,A-442 公司体档,首触错峰 7+ 天,仍走 A-367 位主发**;具名决策人谱面未锁(除 Petar 本体外)→守档准由)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：保加利亚 WISP/企业+培训谱
+- **团队与规模**：分销中户谱
+- **决策链与对接人**：**守档准由;R66 第 24 波点名(谱面无实名)**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 24 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：**A-367 同人同域镜像错峰注**；具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -149,10 +152,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对口
-- **W**：纯谱
-- **O**：对照行
-- **T**：MikroTik
+- **S**：官方分销 2018 起+培训页=链窗
+- **W**：镜像错峰
+- **O**：500 SKU 全谱
+- **T**：MikroTik 官方链
 
 ## 触达与风险红线
 
@@ -184,8 +187,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 收录意愿
-  - [ ] 首发量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -197,16 +200,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi MTBG team,
+Dear MTBG Team,
 
-A certified MikroTik dealer with live stock - the first shop your market trusts. And yet some walk-ins still leave when the budget says no. For exactly those customers, one honest row: a documented 24-port Gigabit PoE switch at $180 USD EXW (2026-09-29), no brand war, no promises beyond the spec sheet.
-
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
-
-One question: for budget-limited walk-ins, would a documented value row be worth shelf space?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

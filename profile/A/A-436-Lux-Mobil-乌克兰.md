@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Lux-Mobil（乌克兰）：LUX-MOBIL(UA):OpenCart 店（Hikvision 监控主线+MikroTik 全线+Tenda 交换机/Asus/D-Link/Zyxel);'Mikrotik 全产品一处购'轮播页
-- 【推断】监控主线=PoE 是每次报价的一部分（相机供电）；混搭店心态开放
-- 【假设】监控主线店的 PoE 收录对照行（民用限定）
+- 【事实】Lux-Mobil:Lux-Mobil(乌克兰 Kyiv;**MikroTik Reseller(名录信号);维修中心谱**;移动件+网络件店谱;具名决策人谱面未锁→守档准由;**战区民用商业限定句必压(民用商业限定前句)**)
+- 【推断】R66 第 24 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -85,56 +85,59 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 收录
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：监控条 PoE 收录对照行（民用限定）
-- **要问的问题**：收录对照行吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
-
-### 第 3 次跟进 · 留档
-
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第44批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第24波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://lux-mobil.com.ua|Hikvision 主线+Mikrotik 全线轮播
-- **②芯片/型号**：Hikvision/MikroTik
-- **③KP 深挖**：店多年
-- **④Saga 对标**：STC-424 收录（$180 锚点一致）
-- **⑤在乎与偏好**：低价导向（按价排类目）
+- **①背景再核**：Lux-Mobil(乌克兰 Kyiv;**MikroTik Reseller(名录信号);维修中心谱**;移动件+网络件店谱;具名决策人谱面未锁→守档准由;**战区民用商业限定句必压(民用商业限定前句)**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 第 24 波点名(谱面无实名)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：维修中心=技术绑谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**LUX-MOBIL: Безпека камери + 'Mikrotik вся продукція в одному місці' 轮播；类目含交换机
-  > LUX-MOBIL: Безпека камери + 'Mikrotik вся продукція в одному місці' 轮播；类目含交换机
-  > 来源：https://lux-mobil.com.ua
+- **【联系方式与基础画像】**lux-mobil.com.ua;Kyiv;维修中心谱
+  > lux-mobil.com.ua;Kyiv;维修中心谱
+  > 来源：https://lux-mobil.com.ua/
+- **【业务定位】**移动+网络件零售维修铺
+  > 移动+网络件零售维修铺
+  > 来源：https://lux-mobil.com.ua/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：乌监控+网络混搭店
-- **产品线与在售品牌**：Hikvision/MikroTik/Tenda/Zyxel
-- **目标行业与场景**：监控装维+网络零售
-- **团队与规模**：小型
-- **决策链与对接人**：info@ 口
-- **技术与认证**：—
-- **采购与供应链信号**：OpenCart 店
-- **近期动态与线索**：Mikrotik 轮播页
-- **与我方契合点**：监控店 PoE 收录对照行（民用限定）
-- **风险与注意**：体量小——低密
+- **业务定位**：Lux-Mobil(乌克兰 Kyiv;**MikroTik Reseller(名录信号);维修中心谱**;移动件+网络件店谱;具名决策人谱面未锁→守档准由;**战区民用商业限定句必压(民用商业限定前句)**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：乌克兰零售维修;**战区民用商业限定句必压(民用商业限定前句)**
+- **团队与规模**：小铺谱
+- **决策链与对接人**：**守档准由;R66 第 24 波点名(谱面无实名)**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 24 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：**战区民用商业限定句必压(民用商业限定前句)**；具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -149,10 +152,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对口
-- **W**：体量小
-- **O**：监控 PoE
-- **T**：两大牌
+- **S**：维修中心=技术绑谱
+- **W**：铺面小
+- **O**：维修口碑谱
+- **T**：MikroTik 官方链
 
 ## 触达与风险红线
 
@@ -180,8 +183,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 收录意愿
-  - [ ] 首发量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -193,16 +196,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi LUX-MOBIL team,
+Dear Lux-Mobil Team,
 
-A camera-first shop knows the truth: every Hikvision on the shelf ends up powered by a PoE switch someone has to sell. One honest framing note first: our offer is strictly for civilian commercial networking - nothing dual-use, nothing for state or military buyers. Ours is a documented 24-port Gigabit PoE switch (280W, per-port watchdog) at $180 USD EXW (2026-09-29) - the value row beside your names.
-
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
-
-One question: would your surveillance shelves carry a documented value PoE row?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

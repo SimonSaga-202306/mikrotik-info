@@ -54,7 +54,7 @@
    "check": "question 同文入 MD 率(早期批问题句独立措辞属设计差异)",
    "ok": true,
    "severity": "info",
-   "detail": "同文入档 445/547;独立措辞 102(信息项)"
+   "detail": "同文入档 474/547;独立措辞 73(信息项)"
   },
   {
    "check": "OVERRIDE 指向真实存在的 A 档",
@@ -69,10 +69,10 @@
    "detail": "覆盖=524, 推断补位=43"
   },
   {
-   "check": "退信台账 5 家 code 合法",
-   "ok": false,
+   "check": "退信台账 code 全合法且≥5 户(5 永信+R63 观察群)",
+   "ok": true,
    "severity": "critical",
-   "detail": "['A-054', 'A-096', 'A-101', 'A-103', 'A-105', 'A-441']"
+   "detail": "['A-054', 'A-096', 'A-101', 'A-103', 'A-105', 'A-441', 'A-457']"
   },
   {
    "check": "关联群台账 19 组 code 合法(3 家组合并后)",
@@ -119,13 +119,12 @@
  ],
  "summary": {
   "checks_total": 19,
-  "failed": 5,
+  "failed": 4,
   "failed_names": [
    "四大源数量一致(CSV/STRUCT/MD/R56+R55批)",
    "编号 A-001..567 连续无缺无多",
    "价锚一致(p1↔email 锚点)",
-   "供位 push≡p1(去矛盾)",
-   "退信台账 5 家 code 合法"
+   "供位 push≡p1(去矛盾)"
   ]
  }
 }

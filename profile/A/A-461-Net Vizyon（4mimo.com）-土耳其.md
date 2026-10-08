@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Net Vizyon (4mimo)（土耳其）：Net Vizyon（土 Shopify 店；原 4mimo.com→shop.netvizyon.net 迁域注）:Ubiquiti/Mimosa/Jirous/Ruijie/Siklu/Cudy 谱；USW-24-PoE $550/USW-Pro-24 $1016 在价
-- 【推断】UniFi PoE 谱已开且挂牌价=value 档替补逻辑顺势；Ruijie 谱说明可收中国牌
-- 【假设】UniFi PoE 谱旁 value 档对照行正口
+- 【事实】Net Vizyon（4mimo.com）:Net Vizyon Bilgi İşlem(土耳其;**MikroTik Reseller(名录信号);Ubiquiti/Infinet/Mimosa/Siklu 土耳其授权分销四牌+Jirous/Ruijie/Cnet 销售谱(netvizyon.biz 自宣);4mimo.com 电商**;2015 土耳其 IT 500 强第 183 位谱;yenitelekom.com/Novabis 关联谱;具名决策人谱面未锁→守档准由)
+- 【推断】R66 第 24 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -85,56 +85,59 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 对照行
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：UniFi 谱旁 value 对照行
-- **要问的问题**：收 value 档吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
-
-### 第 3 次跟进 · 留档
-
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第47批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第24波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://shop.netvizyon.net|品牌墙 6 牌+USW-24-PoE $550 在价
-- **②芯片/型号**：UniFi/Ruijie
-- **③KP 深挖**：店多年
-- **④Saga 对标**：STC-424 对照行（$180 锚点一致）
-- **⑤在乎与偏好**：多牌务实进货
+- **①背景再核**：Net Vizyon Bilgi İşlem(土耳其;**MikroTik Reseller(名录信号);Ubiquiti/Infinet/Mimosa/Siklu 土耳其授权分销四牌+Jirous/Ruijie/Cnet 销售谱(netvizyon.biz 自宣);4mimo.com 电商**;2015 土耳其 IT 500 强第 183 位谱;yenitelekom.com/Novabis 关联谱;具名决策人谱面未锁→守档准由)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 第 24 波点名(谱面无实名)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：四牌授权+IT500=实力谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【产品线】**Markalarımız: Jirous/Mimosa/Ruijie/Siklu/Ubiquiti/Cudy + 'Switch 24 PoE USW-24-PoE-EU $550.80'
-  > Markalarımız: Jirous/Mimosa/Ruijie/Siklu/Ubiquiti/Cudy + 'Switch 24 PoE USW-24-PoE-EU $550.80'
-  > 来源：https://shop.netvizyon.net
+- **【联系方式与基础画像】**4mimo.com 电商+netvizyon.biz/net 三域谱;Ubiquiti/Infinet/Mimosa/Siklu 授权分销
+  > 4mimo.com 电商+netvizyon.biz/net 三域谱;Ubiquiti/Infinet/Mimosa/Siklu 授权分销
+  > 来源：http://www.netvizyon.biz/
+- **【业务定位】**2015 土耳其 IT500 第 183 位;无线专牌大户谱
+  > 2015 土耳其 IT500 第 183 位;无线专牌大户谱
+  > 来源：https://4mimo.com/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：土网络分销店（UniFi PoE 谱在价）
-- **产品线与在售品牌**：Ubiquiti/Mimosa/Jirous/Ruijie/Siklu/Cudy
-- **目标行业与场景**：装维/集成/ISP/转售
-- **团队与规模**：（官网推）
-- **决策链与对接人**：satis@netvizyon.net 口
-- **技术与认证**：—
-- **采购与供应链信号**：—
-- **近期动态与线索**：—
-- **与我方契合点**：UniFi PoE 谱旁 value 对照正口
-- **风险与注意**：USW 谱厚——需规格和价格双实
+- **业务定位**：Net Vizyon Bilgi İşlem(土耳其;**MikroTik Reseller(名录信号);Ubiquiti/Infinet/Mimosa/Siklu 土耳其授权分销四牌+Jirous/Ruijie/Cnet 销售谱(netvizyon.biz 自宣);4mimo.com 电商**;2015 土耳其 IT 500 强第 183 位谱;yenitelekom.com/Novabis 关联谱;具名决策人谱面未锁→守档准由)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：土耳其无线专牌 ISP 谱
+- **团队与规模**：分销中户谱
+- **决策链与对接人**：**守档准由;R66 第 24 波点名(谱面无实名)**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 24 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：具名缺(守档准由)；MT 线为零售位(主推力度中等)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -149,10 +152,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：谱已开
-- **W**：韵牌厚
-- **O**：value 档
-- **T**：UniFi
+- **S**：四牌授权+IT500=实力谱
+- **W**：MT 仅零售线
+- **O**：SIKLU/Infinet 高频段专谱
+- **T**：MikroTik 官方链(零售线)
 
 ## 触达与风险红线
 
@@ -180,8 +183,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] USW 谱厚度
-  - [ ] 首发量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -193,16 +196,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Net Vizyon team,
+Dear Net Vizyon Team,
 
-USW-24-PoE at $550 on your own shelf says your Ubiquiti customers already buy access PoE - the question is what they do when the budget stops halfway. Your catalogue spans Jirous, Mimosa, Ruijie, Siklu and Cudy, so one more honest row fits the logic
-
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
-
-One question: your UniFi PoE shelf runs $288-$1,466 - would you add a documented value row below it?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

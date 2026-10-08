@@ -47,9 +47,9 @@ updated: 2026-10-04
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Wirelesslan.gr（希腊）：Wirelesslan（希 Thessaloniki 2310.510030):Ubiquiti/TP-Link 店（USW-Ultra 52W PoE/U7 Pro Max 上架）;WP 店（模板含 localhost 内链注=维护粗）
-- 【推断】USW-Ultra PoE 在卖=类目已开；店维护粗=低密
-- 【假设】店收录对照行（PoE 类谱已开；低密维护注）
+- 【事实】wirelesslan.gr（Teledata e.e.）:wirelesslan.gr(Teledata e.e.;希腊;**MikroTik Reseller(名录信号);店谱 Ubiquiti 62/TP-Link 142/MikroTik 47/Teltonika 12/RF Elements 9/Cambium/Mimosa SKU 谱;无线微波专营(Microwaves wlan)**;具名决策人谱面未锁→守档准由)
+- 【推断】R66 第 24 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -85,56 +85,59 @@ updated: 2026-10-04
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 对照行
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：收录对照行
-- **要问的问题**：收行吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
-
-### 第 3 次跟进 · 留档
-
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第48批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第24波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://wirelesslan.gr|USW-Ultra 52W PoE 上架（€127)
-- **②芯片/型号**：Ubiquiti/TP-Link
-- **③KP 深挖**：店多年
-- **④Saga 对标**：STC-424 收录（$180 锚点一致）
-- **⑤在乎与偏好**：走量心态
+- **①背景再核**：wirelesslan.gr(Teledata e.e.;希腊;**MikroTik Reseller(名录信号);店谱 Ubiquiti 62/TP-Link 142/MikroTik 47/Teltonika 12/RF Elements 9/Cambium/Mimosa SKU 谱;无线微波专营(Microwaves wlan)**;具名决策人谱面未锁→守档准由)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 第 24 波点名(谱面无实名)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：微波专营=对口窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【产品线】**Featured: Ubiquiti USW-Ultra 8xGig 7xPoE+ €127 + U7 Pro Max
-  > Featured: Ubiquiti USW-Ultra 8xGig 7xPoE+ €127 + U7 Pro Max
-  > 来源：https://wirelesslan.gr
+- **【联系方式与基础画像】**wirelesslan.gr;Teledata e.e.;无线微波专谱;MT 47 SKU
+  > wirelesslan.gr;Teledata e.e.;无线微波专谱;MT 47 SKU
+  > 来源：https://wirelesslan.gr/
+- **【业务定位】**UBNT/TP-Link/MT 多牌专营店
+  > UBNT/TP-Link/MT 多牌专营店
+  > 来源：https://wirelesslan.gr/shop/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：希 Thessaloniki 无线店
-- **产品线与在售品牌**：Ubiquiti/TP-Link
-- **目标行业与场景**：装维/集成/ISP/转售
-- **团队与规模**：（官网推）
-- **决策链与对接人**：info@wirelesslan.gr 口
-- **技术与认证**：—
-- **采购与供应链信号**：—
-- **近期动态与线索**：—
-- **与我方契合点**：收录对照行（PoE 谱已开；低密）
-- **风险与注意**：站维护粗——触达率注
+- **业务定位**：wirelesslan.gr(Teledata e.e.;希腊;**MikroTik Reseller(名录信号);店谱 Ubiquiti 62/TP-Link 142/MikroTik 47/Teltonika 12/RF Elements 9/Cambium/Mimosa SKU 谱;无线微波专营(Microwaves wlan)**;具名决策人谱面未锁→守档准由)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：希腊无线专营铺谱
+- **团队与规模**：小铺谱
+- **决策链与对接人**：**守档准由;R66 第 24 波点名(谱面无实名)**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 24 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：具名缺(守档准由)；TP-Link 主场注(MT 主推力度中等)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -149,10 +152,10 @@ updated: 2026-10-04
 
 ## SWOT
 
-- **S**：类目已开
-- **W**：站粗
-- **O**：收录
-- **T**：两大牌
+- **S**：微波专营=对口窗
+- **W**：TP-Link 为主牌谱
+- **O**：RF Elements 天线谱
+- **T**：MikroTik 官方链
 
 ## 触达与风险红线
 
@@ -180,8 +183,8 @@ updated: 2026-10-04
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 站维护状况
-  - [ ] 首发量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -193,16 +196,12 @@ updated: 2026-10-04
 **主题**：PoE switching for your projects
 
 ```text
-Hi Wirelesslan team,
+Dear wirelesslan Team,
 
-Ubiquiti shelves with USW-UltrAs and U7 Pros, TP-Link JetStreams on the same wall - Thessaloniki knows where to buy Wi-Fi. Access PoE is the quiet row behind those APs, and a documented value unit belongs there
-
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
-
-One question: beside your UniFi and JetStream switches, would you carry a documented value PoE row?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

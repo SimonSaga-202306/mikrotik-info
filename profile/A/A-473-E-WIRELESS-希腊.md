@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】e-Wireless（希腊）：e-Wireless（希）:**Cableworks 姊妹站（同电话 2118502484/同类目/CS-Cart)**；谱同：Ubiquiti/MikroTik/Teltonika/TP-Link 全墙
-- 【推断】同 Cableworks 判（姊妹双站，一封信到一家不冲突——分站各自入库）
-- 【假设】大类目店对照行正口（姊妹站注）
+- 【事实】E-WIRELESS:E-WIRELESS(希腊;**MikroTik Master(名录信号);自宣「Ελληνική Αντιπροσωπίας Ubiquiti」=Ubiquiti 希腊代表谱;MikroTik L4 授权在售;全希 ELTA/ACS 快递谱**;具名决策人谱面未锁→守档准由)
+- 【推断】R66 第 24 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -85,56 +85,59 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 对照行
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：类目对照行
-- **要问的问题**：收对照行吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
-
-### 第 3 次跟进 · 留档
-
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第48批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第24波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://www.e-wireless.gr|全墙类目+PoE Adapters
-- **②芯片/型号**：两大牌
-- **③KP 深挖**：店多年
-- **④Saga 对标**：STC-424 对照行（$180 锚点一致）
-- **⑤在乎与偏好**：全谱堆货心态
+- **①背景再核**：E-WIRELESS(希腊;**MikroTik Master(名录信号);自宣「Ελληνική Αντιπροσωπίας Ubiquiti」=Ubiquiti 希腊代表谱;MikroTik L4 授权在售;全希 ELTA/ACS 快递谱**;具名决策人谱面未锁→守档准由)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 第 24 波点名(谱面无实名)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：Master 名录信号=链窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**e-Wireless 类目： Ubiquiti UniFi/UISP + MikroTik CCR/CRS 全谱 + Teltonika Switches
-  > e-Wireless 类目： Ubiquiti UniFi/UISP + MikroTik CCR/CRS 全谱 + Teltonika Switches
-  > 来源：https://www.e-wireless.gr
+- **【联系方式与基础画像】**e-wireless.gr;Ubiquiti 希腊代表自宣;MT L4 授权在售
+  > e-wireless.gr;Ubiquiti 希腊代表自宣;MT L4 授权在售
+  > 来源：https://www.e-wireless.gr/mikrotik-l4-licence/
+- **【业务定位】**MT+UBNT 双牌专营店谱
+  > MT+UBNT 双牌专营店谱
+  > 来源：https://www.e-wireless.gr/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：希网络装备店（Cableworks 姊妹注）
-- **产品线与在售品牌**：Ubiquiti/MikroTik/Teltonika 全墙
-- **目标行业与场景**：装维/集成/ISP/转售
-- **团队与规模**：（官网推）
-- **决策链与对接人**：info@e-wireless.gr 口
-- **技术与认证**：—
-- **采购与供应链信号**：—
-- **近期动态与线索**：—
-- **与我方契合点**：对照行正口（类目全；姊妹注）
-- **风险与注意**：两大牌固位
+- **业务定位**：E-WIRELESS(希腊;**MikroTik Master(名录信号);自宣「Ελληνική Αντιπροσωπίας Ubiquiti」=Ubiquiti 希腊代表谱;MikroTik L4 授权在售;全希 ELTA/ACS 快递谱**;具名决策人谱面未锁→守档准由)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：希腊 WISP/无线专铺谱
+- **团队与规模**：小中铺谱
+- **决策链与对接人**：**守档准由;R66 第 24 波点名(谱面无实名)**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 24 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：具名缺(守档准由)；UBNT 主场注(MT 主推力度中等)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -149,10 +152,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：类目齐
-- **W**：姊妹重叠
-- **O**：对照行
-- **T**：两大牌
+- **S**：Master 名录信号=链窗
+- **W**：UBNT 主场谱(MT 为二牌)
+- **O**：全希快递谱
+- **T**：MikroTik 官方链
 
 ## 触达与风险红线
 
@@ -180,7 +183,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 首发量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -192,16 +196,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi e-Wireless team,
+Dear E-WIRELESS Team,
 
-Ubiquiti, MikroTik, Teltonika and full fibre categories under one roof - access PoE is the line your installers and WISPs reorder the most. A documented value row is a friendly neighbour of the two big names
-
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
-
-One question: would your switch and PoE categories carry a documented value row?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -47,9 +47,9 @@ updated: 2026-10-04
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Lanmarket（乌克兰）：Lanmarket(UA）网络装备批零店（Bitrix):MikroTik 大区（CCR2004/NetBox 5/SXT)+Ubiquiti airFiber/AF60+TP-Link+ZTE OLT+OTDR/熔接机+IoT 传感；多品'цена пока неизвестна'=报价制；Telegram bot 在售
-- 【推断】报价制批发=中型单逻辑；牌谱全=PON+无线，接入交换档空缺互补
-- 【假设】报价制项目随单对照行（民用限定）
+- 【事实】Lanmarket:Lanmarket(乌克兰 Chernivtsi,2008 创 18 年;**MikroTik Reseller(名录信号);官网联络版面直接自署 4 名销售含手机号=official-self-published 金谱**;Crunchbase 档在册;**战区民用商业限定句必压(民用商业限定前句)**)
+- 【推断】R66 第 24 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,65 +76,78 @@ updated: 2026-10-04
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：+380 50 666 78 58 / sale@lanmarket.net【已停用:2026-10-04 退信 domain-not-found(.net 失效,正域 lanmarket.ua) 发不过去】
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Беркаев Максим Сергеевич**(销售(官网联络版自署+手机号))— lanmarket.ua 联络版 〔已有(公司官方公开件/登记册自曝);源:https://lanmarket.ua/kontakty/〕
+  - **Шарапов Дмитрий**(销售(官网联络版自署+手机号))— lanmarket.ua 联络版 〔已有(公司官方公开件/登记册自曝);源:https://lanmarket.ua/kontakty/〕
+  - **Дячук Семен Вікторович**(销售(官网联络版自署+手机号))— lanmarket.ua 联络版 〔已有(公司官方公开件/登记册自曝);源:https://lanmarket.ua/kontakty/〕
+  - **Бойко Анатолий Іванович**(销售(官网联络版自署+手机号))— lanmarket.ua 联络版 〔已有(公司官方公开件/登记册自曝);源:https://lanmarket.ua/kontakty/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Беркаев Максим Сергеевич | 销售(官网联络版自署+手机号) | lanmarket.ua 联络版 | official-self-published·谱/leads-only(直发需 opt-in) | https://lanmarket.ua/kontakty/ |
+| Шарапов Дмитрий | 销售(官网联络版自署+手机号) | lanmarket.ua 联络版 | official-self-published·谱/leads-only(直发需 opt-in) | https://lanmarket.ua/kontakty/ |
+| Дячук Семен Вікторович | 销售(官网联络版自署+手机号) | lanmarket.ua 联络版 | official-self-published·谱/leads-only(直发需 opt-in) | https://lanmarket.ua/kontakty/ |
+| Бойко Анатолий Іванович | 销售(官网联络版自署+手机号) | lanmarket.ua 联络版 | official-self-published·谱/leads-only(直发需 opt-in) | https://lanmarket.ua/kontakty/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 对照行
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：报价单接入档（民用限定）
-- **要问的问题**：进报价单吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
-
-### 第 3 次跟进 · 留档
-
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第44批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第24波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://lanmarket.ua|CCR2004+ZTE OLT 墙+报价制
-- **②芯片/型号**：——
-- **③KP 深挖**：批零多年
-- **④Saga 对标**：STC-424 对照行（$180 锚点一致）
-- **⑤在乎与偏好**：报价制=可谈条款
+- **①背景再核**：Lanmarket(乌克兰 Chernivtsi,2008 创 18 年;**MikroTik Reseller(名录信号);官网联络版面直接自署 4 名销售含手机号=official-self-published 金谱**;Crunchbase 档在册;**战区民用商业限定句必压(民用商业限定前句)**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Беркаев Максим Сергеевич(销售(官网联络版自署+手机号),official-self-published·谱/leads-only(直发需 opt-in));Шарапов Дмитрий(销售(官网联络版自署+手机号),official-self-published·谱/leads-only(直发需 opt-in));Дячук Семен Вікторович(销售(官网联络版自署+手机号),official-self-published·谱/leads-only(直发需 opt-in));Бойко Анатолий Іванович(销售(官网联络版自署+手机号),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：官网 4 销售具名手机号=金谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Lanmarket: розничная и оптовая продажа; CCR2004-16G-2S+ / ZTE OLT / OTDR 上架；多品报价制
-  > Lanmarket: розничная и оптовая продажа; CCR2004-16G-2S+ / ZTE OLT / OTDR 上架；多品报价制
-  > 来源：https://lanmarket.ua
+- **【决策链与对接人】**官网联络版面自署 4 销售(Беркаев/Шарапов/Дячук/Бойко)含手机号=O 级自署谱
+  > 官网联络版面自署 4 销售(Беркаев/Шарапов/Дячук/Бойко)含手机号=O 级自署谱
+  > 来源：https://lanmarket.ua/kontakty/
+- **【联系方式与基础画像】**Chernivtsi;2008 创;lanmarket.ua;Crunchbase 档
+  > Chernivtsi;2008 创;lanmarket.ua;Crunchbase 档
+  > 来源：https://lanmarket.ua/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：乌网络装备批零店（报价制）
-- **产品线与在售品牌**：MikroTik/Ubiquiti/ZTE OLT/OTDR
-- **目标行业与场景**：装维/ISP/集成
-- **团队与规模**：中型
-- **决策链与对接人**：sale@lanmarket.net 口
-- **技术与认证**：Telegram bot 在售
-- **采购与供应链信号**：报价制片面观
-- **近期动态与线索**：—
-- **与我方契合点**：接入交换档对照行（民用限定）
-- **风险与注意**：报价制——首轮=进报价单
+- **业务定位**：Lanmarket(乌克兰 Chernivtsi,2008 创 18 年;**MikroTik Reseller(名录信号);官网联络版面直接自署 4 名销售含手机号=official-self-published 金谱**;Crunchbase 档在册;**战区民用商业限定句必压(民用商业限定前句)**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：乌克兰西部 ISP/企业谱;**战区民用商业限定句必压(民用商业限定前句)**
+- **团队与规模**：10-50 铺谱
+- **决策链与对接人**：**Беркаев Максим Сергеевич(销售(官网联络版自署+手机号),official-self-published·谱/leads-only(直发需 opt-in));Шарапов Дмитрий(销售(官网联络版自署+手机号),official-self-published·谱/leads-only(直发需 opt-in));Дячук Семен Вікторович(销售(官网联络版自署+手机号),official-self-published·谱/leads-only(直发需 opt-in));Бойко Анатолий Іванович(销售(官网联络版自署+手机号),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 24 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：**战区民用商业限定句必压(民用商业限定前句)**；具名为销售线非采购线(波次二挖采购)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -149,10 +162,10 @@ updated: 2026-10-04
 
 ## SWOT
 
-- **S**：项目档
-- **W**：PON 优先
-- **O**：接入档
-- **T**：ZTE
+- **S**：官网 4 销售具名手机号=金谱
+- **W**：零售身段
+- **O**：18 年老铺
+- **T**：MikroTik 官方链
 
 ## 触达与风险红线
 
@@ -171,7 +184,7 @@ updated: 2026-10-04
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -180,8 +193,8 @@ updated: 2026-10-04
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 报价口
-  - [ ] 首发量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -193,16 +206,12 @@ updated: 2026-10-04
 **主题**：PoE switching for your projects
 
 ```text
-Hi Lanmarket team,
+Доброго дня, шановні,
 
-You quote project lists for ISPs every day - CCRs beside ZTE OLTs, bridges beside fused fibre. The one line those lists usually lack: an access PoE switch that does not eat the margin. One honest framing note first: our offer is strictly for civilian commercial networking - nothing dual-use, nothing for state or military buyers. Ours is a documented 24-port Gigabit PoE unit at $180 USD EXW (2026-09-29).
-
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
-
-One question: would your project quotes carry a documented value PoE row?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Rootelsat (Vesuvius Streamline)（保加利亚）：Vesuvius Streamline/Rootelsat: **保国 WISP/网络全能店**:Ubiquiti 全谱/MikroTik 深/Mimosa/Dahua/SFP 25G 全档/光纤熔接/**PoE Switches 类目明列**/Helium/LoRa;office@ 联系
-- 【推断】类目全=对照行位置已开；PoE Switches 类目明列=正中；全能杂货心态=收录门槛最低
-- 【假设】PoE Switches 类目对照行正口
+- 【事实】Rootelsat, Ltd.（vesuviustreamline.com）:Rootelsat, Ltd.(保加利亚 Shumen,Industrialna zona ZIENO #2;**MikroTik Reseller(名录信号);vesuviustreamline.com 官网自宣「official distributor of Mikrotik for Bulgaria」=官网授权自宣金句;Ubiquiti 同分销;GPEN 光纤概念+60GHz+视频监控/NVR 谱**;+359 54 862 991;office@vstl.eu;**希腊 Rhodes 点具名联系 Ivo Valev +30 693 243 5176(官网联系件自署)=跨境点谱**;zoominfo 法人拼作 RutelSat OOD(名差旗注);11-50 人)
+- 【推断】R66 第 24 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,65 +75,72 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：+359 54 862 991 / office@vesuviustreamline.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Ivo Valev**(希腊 Rhodes 点联系(官网联系件自署手机号))— vesuviustreamline.com 联系版 〔已有(公司官方公开件/登记册自曝);源:https://vesuviustreamline.com/en/form/1/rootelsat-ltd.html〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Ivo Valev | 希腊 Rhodes 点联系(官网联系件自署手机号) | vesuviustreamline.com 联系版 | official-self-published·谱/leads-only(直发需 opt-in) | https://vesuviustreamline.com/en/form/1/rootelsat-ltd.html |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 对照行
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：PoE 类目对照行正口
-- **要问的问题**：类目收对照行吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
-
-### 第 3 次跟进 · 留档
-
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第45批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第24波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://vesuviustreamline.com|ЛАН Networks+PoE Switches 类目+Ubiquiti 全谱
-- **②芯片/型号**：——
-- **③KP 深挖**：店多年
-- **④Saga 对标**：STC-424 对照行（$180 锚点一致）
-- **⑤在乎与偏好**：全能堆货心态
+- **①背景再核**：Rootelsat, Ltd.(保加利亚 Shumen,Industrialna zona ZIENO #2;**MikroTik Reseller(名录信号);vesuviustreamline.com 官网自宣「official distributor of Mikrotik for Bulgaria」=官网授权自宣金句;Ubiquiti 同分销;GPEN 光纤概念+60GHz+视频监控/NVR 谱**;+359 54 862 991;office@vstl.eu;**希腊 Rhodes 点具名联系 Ivo Valev +30 693 243 5176(官网联系件自署)=跨境点谱**;zoominfo 法人拼作 RutelSat OOD(名差旗注);11-50 人)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Ivo Valev(希腊 Rhodes 点联系(官网联系件自署手机号),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：官网授权自宣金句+GPEN 光纤谱=对口窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【产品线】**Кабелни Мрежи: Суичове/ПОЕ Суичове/Оптични Рутери + ПОЕ Суичове 类目 明列
-  > Кабелни Мрежи: Суичове/ПОЕ Суичове/Оптични Рутери + ПОЕ Суичове 类目 明列
-  > 来源：https://vesuviustreamline.com
+- **【联系方式与基础画像】**官网自宣 official distributor of Mikrotik for Bulgaria;Shumen;+359 54 862 991;GPEN/60GHz/监控谱
+  > 官网自宣 official distributor of Mikrotik for Bulgaria;Shumen;+359 54 862 991;GPEN/60GHz/监控谱
+  > 来源：https://vesuviustreamline.com/en/
+- **【决策链与对接人】**官网联系件:希腊 Rhodes 点 Ivo Valev +30 693 243 5176(自署)=跨境具名谱
+  > 官网联系件:希腊 Rhodes 点 Ivo Valev +30 693 243 5176(自署)=跨境具名谱
+  > 来源：https://vesuviustreamline.com/en/form/1/rootelsat-ltd.html
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：保 WISP/网络全能店
-- **产品线与在售品牌**：Ubiquiti/MikroTik/Mimosa/Dahua
-- **目标行业与场景**：WISP/装维/监控
-- **团队与规模**：中型
-- **决策链与对接人**：office@vesuviustreamline.com 口
-- **技术与认证**：—
-- **采购与供应链信号**：—
-- **近期动态与线索**：SFP 25G 全档
-- **与我方契合点**：PoE Switches 类目对照行正口
-- **风险与注意**：牌墙深——对比战直接
+- **业务定位**：Rootelsat, Ltd.(保加利亚 Shumen,Industrialna zona ZIENO #2;**MikroTik Reseller(名录信号);vesuviustreamline.com 官网自宣「official distributor of Mikrotik for Bulgaria」=官网授权自宣金句;Ubiquiti 同分销;GPEN 光纤概念+60GHz+视频监控/NVR 谱**;+359 54 862 991;office@vstl.eu;**希腊 Rhodes 点具名联系 Ivo Valev +30 693 243 5176(官网联系件自署)=跨境点谱**;zoominfo 法人拼作 RutelSat OOD(名差旗注);11-50 人)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：保加利亚+希腊罗德岛 WISP/监控谱
+- **团队与规模**：11-50 人;分销中户
+- **决策链与对接人**：**Ivo Valev(希腊 Rhodes 点联系(官网联系件自署手机号),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 24 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：名差旗注(Rootelsat↔RutelSat OOD)；具名为 Rhodes 点非采购线(波次二)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -148,10 +155,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：类目已开
-- **W**：牌墙深
-- **O**：对照行
-- **T**：两大牌
+- **S**：官网授权自宣金句+GPEN 光纤谱=对口窗
+- **W**：法人名差旗(RutelSat)
+- **O**：Rhodes 跨境点=希腊面延伸
+- **T**：MikroTik 官方链
 
 ## 触达与风险红线
 
@@ -174,7 +181,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -183,8 +190,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 收录意愿
-  - [ ] 首发量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -196,16 +203,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Vesuvius Streamline team,
+Dear Mr. Valev,
 
-From 60 GHz bridges to SFP28 optics, your catalogue leaves almost nothing unsaid - except one honest value row in PoE switches. Here is a documented 24-port Gigabit PoE switch (280W, watchdog) at $180 USD EXW (2026-09-29) for budget-driven builds.
-
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
-
-One question: would your PoE switch category carry a documented value row?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

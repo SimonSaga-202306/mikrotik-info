@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Oleg Smaliychuk (DEPS)（乌克兰）：DEPS(Kyiv):**乌电信大分销/系统集成**;BDCOM GPON/EPON/XGSPON OLT·ONU 主线+FoxGate 10GEPON;**自有 FinMark 文具/线材牌**;Deye 太阳 ESS 业务线；知识库活跃 2026-09
-- 【推断】PON 主力分销：交换/接入档在 FoxGate 旁开放；FinMark 自牌=OEM 心态已熟；UA 民用限定前句
-- 【假设】BDCOM/FoxGate 谱旁接入档（UA 民用限定；自牌 OEM 心态同频）
+- 【事实】DEPS:DEPS(乌克兰 Kyiv;**MikroTik Master+VAD(名录信号)+Ubiquiti 官方分销;Telecom Ukraine 2026 冠名赞助商(行业晚报谱);УкрСЕПРО 认证谱**;分销大户 VAD 档;具名决策人谱面未锁→守档准由(波次二走 youcontrol EDRPOU 登记件挖名);**战区民用商业限定句必压(民用商业限定前句)**)
+- 【推断】R66 第 24 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -84,56 +84,59 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 对照行
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：BDCOM/FoxGate 旁接入档（民用限定）
-- **要问的问题**：接入档接手吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · OEM
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：OEM 条款（统一口径=P1 系列，不外溢）
-- **切入点**：FinMark 类自牌 OEM 路径
-- **要问的问题**：自牌路径谈吗？
-- **随附/动作**：条款页
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第44批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第24波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://deps.ua|BDCOM XGSPON+FoxGate 10GEPON+FinMark 自牌
-- **②芯片/型号**：FoxGate/BDCOM
-- **③KP 深挖**：大分销多年
-- **④Saga 对标**：STC-424 对照行（$180 锚点一致）
-- **⑤在乎与偏好**：自牌心态（FinMark=OEM 熟）
+- **①背景再核**：DEPS(乌克兰 Kyiv;**MikroTik Master+VAD(名录信号)+Ubiquiti 官方分销;Telecom Ukraine 2026 冠名赞助商(行业晚报谱);УкрСЕПРО 认证谱**;分销大户 VAD 档;具名决策人谱面未锁→守档准由(波次二走 youcontrol EDRPOU 登记件挖名);**战区民用商业限定句必压(民用商业限定前句)**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 第 24 波点名(谱面无实名)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：Master+VAD 双档=链窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**DEPS: системный интегратор и дистрибьютор; BDCOM XGSPON/GPON Combo 2026-05 到货+FinMark 自有线材牌
-  > DEPS: системный интегратор и дистрибьютор; BDCOM XGSPON/GPON Combo 2026-05 到货+FinMark 自有线材牌
-  > 来源：https://deps.ua
+- **【联系方式与基础画像】**MikroTik Master+VAD(名录信号);deps.ua 官网;Ubiquiti 官方分销谱
+  > MikroTik Master+VAD(名录信号);deps.ua 官网;Ubiquiti 官方分销谱
+  > 来源：https://deps.ua/
+- **【近期动态与线索】**Telecom Ukraine 2026 冠名赞助=行业活动曝光窗
+  > Telecom Ukraine 2026 冠名赞助=行业活动曝光窗
+  > 来源：https://deps.ua/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：乌电信大分销/集成（PON 主力）
-- **产品线与在售品牌**：BDCOM/FoxGate/FinMark 自牌/Deye
-- **目标行业与场景**：ISP/运营商/集成商
-- **团队与规模**：大型
-- **决策链与对接人**：Oleg.Smaliychuk@ 具名
-- **技术与认证**：多级分权
-- **采购与供应链信号**：自有 FinMark 牌
-- **近期动态与线索**：XGSPON 到货 2026-05
-- **与我方契合点**：接入档对照行（民用限定；OEM 心态同频）
-- **风险与注意**：PON 谱优先——交换档位次
+- **业务定位**：DEPS(乌克兰 Kyiv;**MikroTik Master+VAD(名录信号)+Ubiquiti 官方分销;Telecom Ukraine 2026 冠名赞助商(行业晚报谱);УкрСЕПРО 认证谱**;分销大户 VAD 档;具名决策人谱面未锁→守档准由(波次二走 youcontrol EDRPOU 登记件挖名);**战区民用商业限定句必压(民用商业限定前句)**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：乌克兰 ISP/企业 VAD 分销;**战区民用商业限定句必压(民用商业限定前句)**
+- **团队与规模**：分销大户谱
+- **决策链与对接人**：**守档准由;R66 第 24 波点名(谱面无实名)**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 24 波谱名牌(Master+VAD 名录信号)
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：**战区民用商业限定句必压(民用商业限定前句)**；具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -148,10 +151,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：体量+自牌
-- **W**：PON 优先
-- **O**：接入档
-- **T**：BDCOM
+- **S**：Master+VAD 双档=链窗
+- **W**：具名缺
+- **O**：展会冠名赞助曝光
+- **T**：MikroTik 官方链
 
 ## 触达与风险红线
 
@@ -179,8 +182,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 接入档承接
-  - [ ] 首发量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -192,16 +195,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Oleg,
+Dear DEPS Team,
 
-You already run a house brand with FinMark - so evaluating an OEM value line needs no explaining. One honest framing note first: our offer is strictly for civilian commercial networking - nothing dual-use, nothing for state or military buyers. Beside your PON lines, here is a documented 24-port Gigabit PoE access switch (280W) at $180 USD EXW (2026-09-29).
-
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
-
-One question: beside your fibre lines, would you carry a documented value PoE access tier?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

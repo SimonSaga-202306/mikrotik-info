@@ -63,13 +63,30 @@
   {
    "code": "A-441",
    "name": "Dipole Wireless Communication",
-   "bounced": "watch",
-   "type": "临时退信(Delivery incomplete)",
-   "detail": "Gmail 临时投递失败(sales@dipole-ltd.com),系统重试至多 22 小时;2026-10-08 用户转发回执;若终败改走具名 KP/官网表单另径",
-   "alternates": [],
-   "action": "观察期(≤22h);终败则备选通道启动",
+   "bounced": "sales@dipole-ltd.com",
+   "type": "永久退信(46h retry 观察期满转永久)",
+   "detail": "Gmail 临时投递失败(sales@dipole-ltd.com)，系统重试至多 22 小时；2026-10-08 观察期届满未恢复→转永久(R62/R63 规则：不删邮箱、只标「发不过去」+替代)",
+   "alternates": [
+    "dipole.co.il 官网表单与 info@dipole.co.il（主域在册，R66 波24谱面确认）",
+    "+972 3-5732221（官网联系）"
+   ],
+   "action": "观察期满(2026-10-08)→转永久；主触替代口=dipole.co.il 域（双域注：退信域 dipole-ltd.com≠主域）",
    "date": "2026-10-08",
    "email": "sales@dipole-ltd.com"
+  },
+  {
+   "code": "A-457",
+   "name": "C TECH BILISIM（enucuzmikrotik.com）",
+   "bounced": "info@enucuzmikrotik.com",
+   "type": "永久退信(46h retry 观察期满转永久)",
+   "detail": "A-457 enucuzmikrotik.com 46h retry 观察（R63 退信批 9 户条）；2026-10-08 观察期届满未恢复→转永久(不删邮箱、只标「发不过去」+替代)",
+   "alternates": [
+    "bilisimyol.com 官网联系口（roster 主域在册；0850 480 44 47）",
+    "CTECH Bilişim 官网表单"
+   ],
+   "action": "观察期满(2026-10-08)→转永久；主触替代口=bilisimyol.com 主域（双域注：退信域 enucuzmikrotik.com≠主域 bilisimyol.com）",
+   "date": "2026-10-08",
+   "email": "info@enucuzmikrotik.com"
   }
  ]
 }

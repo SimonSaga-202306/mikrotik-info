@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Hellas Digital（希腊）：Hellas Digital（希 Glyfada 119 Gennimata 实体店）:TV/SAT+CCTV 报警+网络（TP-Link Omada/Mimosa)+电子件杂货老店；电话系统/桥接类目
-- 【推断】杂货老店=装维进货口；监控+网络双类目=PoE 伴随件
-- 【假设】装维杂货店收录对照行（低密）
+- 【事实】Hellas Digital:Hellas Digital(希腊;**MikroTik Master(名录信号);hellasdigital.gr 在线店:卫星上网/VoIP/光纤/Wi-Fi/KNX 楼控谱;MT 全谱+100G QSFP28/400G 高端光模块谱**;Teltonika/Peplink/Cudy/ZTE/TP-Link 牌谱;具名决策人谱面未锁→守档准由)
+- 【推断】R66 第 24 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -84,56 +84,59 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 对照行
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：收录对照行
-- **要问的问题**：类目收行吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
-
-### 第 3 次跟进 · 留档
-
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第48批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第24波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://www.hellasdigital.gr|TV+CCTV+Networking 多类目铺
-- **②芯片/型号**：TP-Link 谱
-- **③KP 深挖**：老店
-- **④Saga 对标**：STC-424 收录（$180 锚点一致）
-- **⑤在乎与偏好**：走量心态
+- **①背景再核**：Hellas Digital(希腊;**MikroTik Master(名录信号);hellasdigital.gr 在线店:卫星上网/VoIP/光纤/Wi-Fi/KNX 楼控谱;MT 全谱+100G QSFP28/400G 高端光模块谱**;Teltonika/Peplink/Cudy/ZTE/TP-Link 牌谱;具名决策人谱面未锁→守档准由)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 第 24 波点名(谱面无实名)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：Master 名录+高端光模块谱=深窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Networking 类目： Switch/PoE Peripherals + CCTV Alarm + TV 全线（Glyfada 实体店）
-  > Networking 类目： Switch/PoE Peripherals + CCTV Alarm + TV 全线（Glyfada 实体店）
-  > 来源：https://www.hellasdigital.gr
+- **【联系方式与基础画像】**hellasdigital.gr;MT 全谱+100G QSFP28 高端谱;卫星/VoIP/KNX 谱
+  > hellasdigital.gr;MT 全谱+100G QSFP28 高端谱;卫星/VoIP/KNX 谱
+  > 来源：https://www.hellasdigital.gr/
+- **【业务定位】**在线店全谱(高端光模块到入门板)
+  > 在线店全谱(高端光模块到入门板)
+  > 来源：https://www.hellasdigital.gr/mikrotik/?page=25
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：希 Glyfada 装维杂货老店
-- **产品线与在售品牌**：TP-Link Omada/Mimosa/电子件
-- **目标行业与场景**：装维/集成/ISP/转售
-- **团队与规模**：（官网推）
-- **决策链与对接人**：info@hellasdigital.gr 口
-- **技术与认证**：—
-- **采购与供应链信号**：—
-- **近期动态与线索**：—
-- **与我方契合点**：收录对照行（监控伴随；低密）
-- **风险与注意**：—
+- **业务定位**：Hellas Digital(希腊;**MikroTik Master(名录信号);hellasdigital.gr 在线店:卫星上网/VoIP/光纤/Wi-Fi/KNX 楼控谱;MT 全谱+100G QSFP28/400G 高端光模块谱**;Teltonika/Peplink/Cudy/ZTE/TP-Link 牌谱;具名决策人谱面未锁→守档准由)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：希腊在线店+KNX 楼控谱
+- **团队与规模**：小中店谱
+- **决策链与对接人**：**守档准由;R66 第 24 波点名(谱面无实名)**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 24 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -148,10 +151,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对口
-- **W**：谱浅
-- **O**：收录
-- **T**：大牌
+- **S**：Master 名录+高端光模块谱=深窗
+- **W**：具名缺
+- **O**：KNX 楼控差异化谱
+- **T**：MikroTik 官方链
 
 ## 触达与风险红线
 
@@ -179,7 +182,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 首发量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -191,16 +195,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Hellas Digital team,
+Dear Hellas Digital Team,
 
-TV, satellite, CCTV alarms and networking from one Glyfada storefront - the classic installer's supplier. Every camera roll-out you sell still ends at a PoE switch, and that row has room for an honest value unit
-
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
-
-One question: in your networking and CCTV categories, is there room for a documented value PoE row?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

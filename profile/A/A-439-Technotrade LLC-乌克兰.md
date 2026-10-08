@@ -47,9 +47,9 @@ updated: 2026-10-04
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Technotrade LLC（乌克兰）：Technotrade(UA):**WiFi 专卖网店：Ubiquiti/MikroTik/TP-Link 三牌**;**Каталог 类目明列：PoE 交换机（MikroTik/TP-Link/Ubiquiti)+管理型/非管理型**；服务/送达/保修栏目齐
-- 【推断】PoE 交换机类目已开+三牌=第四档 value 行顺理成章；店小而类目齐
-- 【假设】PoE 类目旁的价值对照行正口（民用限定）
+- 【事实】Technotrade LLC:Technotrade LLC(乌克兰 Kyiv,**EDRPOU 32251835,2002 创 24 年;MikroTik Reseller(名录信号)+Ubiquiti 官方分销官网自宣;youcontrol 登记件:Authorised person+真实受益人(UBO)=Доберчак Сергій Валерійович=登记具名 O 级金谱**;**战区民用商业限定句必压(民用商业限定前句)**)
+- 【推断】R66 第 24 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,65 +76,72 @@ updated: 2026-10-04
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：+380 57 764 02 54 / molya@technotrade.com.ua【已停用:2026-10-04 退信 not-found 发不过去】
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Доберчак Сергій Валерійович**(授权代表人+真实受益人(youcontrol EDRPOU 32251835 登记件))— youcontrol 登记件 〔已有(公司官方公开件/登记册自曝);源:https://youcontrol.com.ua/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Доберчак Сергій Валерійович | 授权代表人+真实受益人(youcontrol EDRPOU 32251835 登记件) | youcontrol 登记件 | official-self-published·谱/leads-only(直发需 opt-in) | https://youcontrol.com.ua/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 对照行
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：PoE 类目第四档（民用限定）
-- **要问的问题**：第四档收吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
-
-### 第 3 次跟进 · 留档
-
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第44批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第24波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://www.technotrade.com.ua|PoE switches 类目明列（三牌）
-- **②芯片/型号**：——
-- **③KP 深挖**：店多年
-- **④Saga 对标**：STC-424 对照行正口（$180 锚点一致）
-- **⑤在乎与偏好**：三牌务实
+- **①背景再核**：Technotrade LLC(乌克兰 Kyiv,**EDRPOU 32251835,2002 创 24 年;MikroTik Reseller(名录信号)+Ubiquiti 官方分销官网自宣;youcontrol 登记件:Authorised person+真实受益人(UBO)=Доберчак Сергій Валерійович=登记具名 O 级金谱**;**战区民用商业限定句必压(民用商业限定前句)**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Доберчак Сергій Валерійович(授权代表人+真实受益人(youcontrol EDRPOU 32251835 登记件),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：UBO 登记具名=直达业主谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【产品线】**Комутатори: PoE (MikroTik/TP-Link/Ubiquiti) + Керовані/Некеровані 类目明列
-  > Комутатори: PoE (MikroTik/TP-Link/Ubiquiti) + Керовані/Некеровані 类目明列
-  > 来源：https://www.technotrade.com.ua
+- **【决策链与对接人】**youcontrol EDRPOU 32251835:Authorised person+UBO=Доберчак Сергій Валерійович(登记件具名)
+  > youcontrol EDRPOU 32251835:Authorised person+UBO=Доберчак Сергій Валерійович(登记件具名)
+  > 来源：https://youcontrol.com.ua/
+- **【联系方式与基础画像】**2002 创;Kyiv;technotrade.com.ua;MT+Ubiquiti 官方分销官网自宣
+  > 2002 创;Kyiv;technotrade.com.ua;MT+Ubiquiti 官方分销官网自宣
+  > 来源：https://technotrade.com.ua/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：乌 WiFi 三牌专卖店
-- **产品线与在售品牌**：Ubiquiti/MikroTik/TP-Link
-- **目标行业与场景**：WISP/装维零售
-- **团队与规模**：小型
-- **决策链与对接人**：molya@ 具名
-- **技术与认证**：—
-- **采购与供应链信号**：—
-- **近期动态与线索**：—
-- **与我方契合点**：PoE 类目旁 value 对照行正口（民用限定）
-- **风险与注意**：体量小——低密
+- **业务定位**：Technotrade LLC(乌克兰 Kyiv,**EDRPOU 32251835,2002 创 24 年;MikroTik Reseller(名录信号)+Ubiquiti 官方分销官网自宣;youcontrol 登记件:Authorised person+真实受益人(UBO)=Доберчак Сергій Валерійович=登记具名 O 级金谱**;**战区民用商业限定句必压(民用商业限定前句)**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：乌克兰 ISP/企业 24 年老分销;**战区民用商业限定句必压(民用商业限定前句)**
+- **团队与规模**：分销中户谱
+- **决策链与对接人**：**Доберчак Сергій Валерійович(授权代表人+真实受益人(youcontrol EDRPOU 32251835 登记件),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 24 波谱名牌(youcontrol UBO 具名谱)
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：**战区民用商业限定句必压(民用商业限定前句)**；登记名直发需 opt-in
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -149,10 +156,10 @@ updated: 2026-10-04
 
 ## SWOT
 
-- **S**：类目已开
-- **W**：体量小
-- **O**：对照行
-- **T**：两大牌
+- **S**：UBO 登记具名=直达业主谱
+- **W**：登记件需 opt-in 照转
+- **O**：24 年分销老户
+- **T**：MikroTik 官方链
 
 ## 触达与风险红线
 
@@ -171,7 +178,7 @@ updated: 2026-10-04
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -180,8 +187,8 @@ updated: 2026-10-04
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 收录意愿
-  - [ ] 首发量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -193,16 +200,12 @@ updated: 2026-10-04
 **主题**：PoE switching for your projects
 
 ```text
-Hi Technotrade team,
+Доброго дня, пане Доберчак,
 
-Your catalogue already has a PoE switch section with three brands - the honest question is whether it deserves a fourth row: a documented 24-port Gigabit PoE switch at $180 USD EXW (2026-09-29) for budget-driven installs. One honest framing note first: our offer is strictly for civilian commercial networking - nothing dual-use, nothing for state or military buyers. 
-
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
-
-One question: would your PoE switch section carry a documented value row?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

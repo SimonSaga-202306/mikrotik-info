@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】ALL4NET DOOEL（北马其顿）：ALL4NET DOOEL:**北马'One place stop'装备店（all4net.mk；迁前 toten.com.mk 注）**:Active(MikroTik/Ubiquiti/Planet/Cisco/Hikvision/Synology/Grandstream/Teltonika/Cambium)+Passive(线材/机柜/工具）+Services(布纤/机柜/网络配置）；电话 Skopje
-- 【推断】被动+主动双层+服务配置=中型装备商；谱全无忠类；Services 线=项目随单缝
-- 【假设】店收录+服务随单双角（一站式心态）
+- 【事实】ALL4NET DOOEL:ALL4NET DOOEL(北马其顿 Skopje(Aerodrom 区,Ulica Mite Bogoevski 83a;contactout 另载 Blagoja Stefkovski 30=双址差旗注);**MikroTik Master+VAD(名录信号);LI 自宣「Official distributor of Mikrotik and Ubiquiti for Macedonia」=官方金句;contact@overnet.com.mk/info@all4net.mk;**toten.com.mk(roster 挂域)+all4net.mk+overnet.com.mk=三域谱差旗注**;contactout 具名梯队:Manager Marjan Davcevski+Head of Marketing Jovan Gjorgjiev+Sales Naum Stojchevski+Telecom Technician Jan Korosec;Grandstream/Synology/APC/Draka 牌谱**;1-50 人(规模差旗注);+389 2 321 7799;**与 A-466 3NET(塞尔维亚)培训合作互注:Saša Blagojević 与 3Net+All4Net 合办 MTCNA 课程谱**)
+- 【推断】R66 第 24 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,65 +75,76 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：+389 2 321 77 99 / dejan.dudeski@overnet.com.mk
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Marjan Davcevski**(Manager(contactout/LI 具名谱))— contactout.com 件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://contactout.com/company/All4Net-68616〕
+  - **Jovan Gjorgjiev**(Head of Marketing(contactout/LI 具名谱))— contactout.com 件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://contactout.com/company/All4Net-68616〕
+  - **Naum Stojchevski**(Sales Department(contactout/LI 具名谱))— contactout.com 件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://contactout.com/company/All4Net-68616〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Marjan Davcevski | Manager(contactout/LI 具名谱) | contactout.com 件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://contactout.com/company/All4Net-68616 |
+| Jovan Gjorgjiev | Head of Marketing(contactout/LI 具名谱) | contactout.com 件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://contactout.com/company/All4Net-68616 |
+| Naum Stojchevski | Sales Department(contactout/LI 具名谱) | contactout.com 件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://contactout.com/company/All4Net-68616 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 双角
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：店收录+服务随单双角
-- **要问的问题**：双角任一缝吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
-
-### 第 3 次跟进 · 留档
-
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第46批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第24波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://all4net.mk|'One place stop' Active+Passive+Services 三层
-- **②芯片/型号**：——
-- **③KP 深挖**：店多年
-- **④Saga 对标**：STC-424 双角（$180 锚点一致）
-- **⑤在乎与偏好**：一站式进货心态
+- **①背景再核**：ALL4NET DOOEL(北马其顿 Skopje(Aerodrom 区,Ulica Mite Bogoevski 83a;contactout 另载 Blagoja Stefkovski 30=双址差旗注);**MikroTik Master+VAD(名录信号);LI 自宣「Official distributor of Mikrotik and Ubiquiti for Macedonia」=官方金句;contact@overnet.com.mk/info@all4net.mk;**toten.com.mk(roster 挂域)+all4net.mk+overnet.com.mk=三域谱差旗注**;contactout 具名梯队:Manager Marjan Davcevski+Head of Marketing Jovan Gjorgjiev+Sales Naum Stojchevski+Telecom Technician Jan Korosec;Grandstream/Synology/APC/Draka 牌谱**;1-50 人(规模差旗注);+389 2 321 7799;**与 A-466 3NET(塞尔维亚)培训合作互注:Saša Blagojević 与 3Net+All4Net 合办 MTCNA 课程谱**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Marjan Davcevski(Manager(contactout/LI 具名谱),leads-only·待 opt-in(LinkedIn/谱面带核));Jovan Gjorgjiev(Head of Marketing(contactout/LI 具名谱),leads-only·待 opt-in(LinkedIn/谱面带核));Naum Stojchevski(Sales Department(contactout/LI 具名谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：Master+VAD+LI 官方金句=金档链窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**ALL4NET: Active(MikroTik/Ubiquiti/Grandstream...)+Passive(cable/racks)+Services(network configuration) 三层
-  > ALL4NET: Active(MikroTik/Ubiquiti/Grandstream...)+Passive(cable/racks)+Services(network configuration) 三层
-  > 来源：https://all4net.mk
+- **【决策链与对接人】**contactout 具名梯队:Davcevski Manager/Gjorgjiev Head of Marketing/Stojchevski Sales/Korosec Technician
+  > contactout 具名梯队:Davcevski Manager/Gjorgjiev Head of Marketing/Stojchevski Sales/Korosec Technician
+  > 来源：https://contactout.com/company/All4Net-68616
+- **【联系方式与基础画像】**LI 自宣 Official distributor of Mikrotik and Ubiquiti for Macedonia;Master+VAD 名录信号;+389 2 321 7799;三域谱(toten/all4net/overnet)
+  > LI 自宣 Official distributor of Mikrotik and Ubiquiti for Macedonia;Master+VAD 名录信号;+389 2 321 7799;三域谱(toten/all4net/overnet)
+  > 来源：https://mk.linkedin.com/company/all4net
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：北马一站式网络装备商
-- **产品线与在售品牌**：MikroTik/Ubiquiti/Grandstream/Hikvision 等
-- **目标行业与场景**：装维/集成/ISP
-- **团队与规模**：中型
-- **决策链与对接人**：dejan.dudeski@ 具名（overnet 域注）
-- **技术与认证**：—
-- **采购与供应链信号**：—
-- **近期动态与线索**：Services 线在营
-- **与我方契合点**：店收录+服务随单双角
-- **风险与注意**：—
+- **业务定位**：ALL4NET DOOEL(北马其顿 Skopje(Aerodrom 区,Ulica Mite Bogoevski 83a;contactout 另载 Blagoja Stefkovski 30=双址差旗注);**MikroTik Master+VAD(名录信号);LI 自宣「Official distributor of Mikrotik and Ubiquiti for Macedonia」=官方金句;contact@overnet.com.mk/info@all4net.mk;**toten.com.mk(roster 挂域)+all4net.mk+overnet.com.mk=三域谱差旗注**;contactout 具名梯队:Manager Marjan Davcevski+Head of Marketing Jovan Gjorgjiev+Sales Naum Stojchevski+Telecom Technician Jan Korosec;Grandstream/Synology/APC/Draka 牌谱**;1-50 人(规模差旗注);+389 2 321 7799;**与 A-466 3NET(塞尔维亚)培训合作互注:Saša Blagojević 与 3Net+All4Net 合办 MTCNA 课程谱**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：北马其顿 ISP/企业全国分销谱
+- **团队与规模**：10-50 人(差旗注)
+- **决策链与对接人**：**Marjan Davcevski(Manager(contactout/LI 具名谱),leads-only·待 opt-in(LinkedIn/谱面带核));Jovan Gjorgjiev(Head of Marketing(contactout/LI 具名谱),leads-only·待 opt-in(LinkedIn/谱面带核));Naum Stojchevski(Sales Department(contactout/LI 具名谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 24 波谱名牌(Master+VAD 金档+三域谱)
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：**三域差旗注(toten.com.mk↔all4net.mk↔overnet.com.mk)+双址注**；A-466 培训合作互注；具名为营销/销售线(波次二挖采购)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -148,10 +159,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：三层
-- **W**：—
-- **O**：收录+随单
-- **T**：大牌
+- **S**：Master+VAD+LI 官方金句=金档链窗
+- **W**：三域+双址差旗
+- **O**：营销经理具名谱
+- **T**：MikroTik 官方链
 
 ## 触达与风险红线
 
@@ -170,7 +181,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -179,8 +190,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 收录意愿
-  - [ ] 首发量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -192,16 +203,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi ALL4NET team,
+Почитуван г-дин Davcevski,
 
-One place stop for networking - active gear, passive material and installation services under one roof. The access PoE shelf and the job-site parts list both have room for a documented value row: a 24-port Gigabit PoE switch (280W, watchdog) at $180 USD EXW (2026-09-29).
-
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
-
-One question: for your shop shelves or your services quotes - is there room for a documented value PoE row?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

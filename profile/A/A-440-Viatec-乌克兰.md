@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Viatec（乌克兰）：VIATEC: **乌监控/安防/网络大分销**（监控/报警/门禁/对讲/能源/网络）;Hikvision/Dahua/Ruijie/Dyness/U-PROX 谱；Viatec Academy 活动实时（2026-09-28 新闻/09-29 课程当天）;BizFinance 财务方案
-- 【推断】Ruijie 谱引入期=牌谱开放心态；监控大厦=PoE 本体类目；大分销规格化流程
-- 【假设】大分销监控/PoE 类目 value 对照正口（民用限定）
+- 【事实】Viatec:Viatec(乌克兰 Kyiv;**EDRPOU 36413740;MikroTik Master+VAD(名录信号);官网自宣 2018 起 MikroTik Master-дистрибьютор(大师分销 8 年);Hikvision/Dahua/Ruijie 官方分销=安防大户谱**;ua-region 登记件:Head=Bilous Oleksandr Anatolijovych(登记表级);smart-city/机场/加油站客户场景谱=关键基建邻谱→民用商业限定前句加厚(只谈民用园区/商用场景,不涉军防/执法用途);**战区民用商业限定句必压(民用商业限定前句)**)
+- 【推断】R66 第 24 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,65 +76,72 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：+380 44 364 77 20 / viatec@viatec.ua
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Bilous Oleksandr Anatolijovych**(Head(ua-region EDRPOU 36413740 登记表))— ua-region 登记件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.ua-region.com.ua/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Bilous Oleksandr Anatolijovych | Head(ua-region EDRPOU 36413740 登记表) | ua-region 登记件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.ua-region.com.ua/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 对照行
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：监控/PoE 类目 value 对照（民用限定）
-- **要问的问题**：类目收对照行吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 渠道
+### 第 2 次跟进 · 一页目录卡
 
 - **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：Academy/活动渠道收录角
-- **要问的问题**：渠道收录吗？
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
 - **随附/动作**：卡
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第44批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第24波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://viatec.ua|新闻实时 2026-09-28+Ruijie 谱+Viatec Academy 三核
-- **②芯片/型号**：Ruijie/两大牌
-- **③KP 深挖**：大分销多年
-- **④Saga 对标**：STC-424 对照行（$180 锚点一致）
-- **⑤在乎与偏好**：体系活动型
+- **①背景再核**：Viatec(乌克兰 Kyiv;**EDRPOU 36413740;MikroTik Master+VAD(名录信号);官网自宣 2018 起 MikroTik Master-дистрибьютор(大师分销 8 年);Hikvision/Dahua/Ruijie 官方分销=安防大户谱**;ua-region 登记件:Head=Bilous Oleksandr Anatolijovych(登记表级);smart-city/机场/加油站客户场景谱=关键基建邻谱→民用商业限定前句加厚(只谈民用园区/商用场景,不涉军防/执法用途);**战区民用商业限定句必压(民用商业限定前句)**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Bilous Oleksandr Anatolijovych(Head(ua-region EDRPOU 36413740 登记表),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：Master 8 年+安防三巨头牌谱=大户
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【产品线】**Catalog: Мережеве обладнання + Відеонагляд; 事件： Ruijie Network 认证培训 2026-10 基辅
-  > Catalog: Мережеве обладнання + Відеонагляд; 事件： Ruijie Network 认证培训 2026-10 基辅
-  > 来源：https://viatec.ua
+- **【决策链与对接人】**ua-region EDRPOU 36413740:Head: Bilous Oleksandr Anatolijovych(登记表级,弱于官网件)
+  > ua-region EDRPOU 36413740:Head: Bilous Oleksandr Anatolijovych(登记表级,弱于官网件)
+  > 来源：https://www.ua-region.com.ua/
+- **【联系方式与基础画像】**官网自宣 2018 起 MT Master-дистрибьютор;Hikvision/Dahua/Ruijie 官方分销;smart-city/机场/加油站场景
+  > 官网自宣 2018 起 MT Master-дистрибьютор;Hikvision/Dahua/Ruijie 官方分销;smart-city/机场/加油站场景
+  > 来源：https://viatec.ua/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：乌安防/网络大分销
-- **产品线与在售品牌**：Hikvision/Dahua/Ruijie/U-PROX/Dyness
-- **目标行业与场景**：集成商/装维 B2B
-- **团队与规模**：大型
-- **决策链与对接人**：viatec@ 口
-- **技术与认证**：Academy 体系
-- **采购与供应链信号**：多级分销
-- **近期动态与线索**：2026-09 活动实时
-- **与我方契合点**：监控/PoE 类目 value 对照正口（民用限定）
-- **风险与注意**：Ruijie 强势——价值档竞争激烈
+- **业务定位**：Viatec(乌克兰 Kyiv;**EDRPOU 36413740;MikroTik Master+VAD(名录信号);官网自宣 2018 起 MikroTik Master-дистрибьютор(大师分销 8 年);Hikvision/Dahua/Ruijie 官方分销=安防大户谱**;ua-region 登记件:Head=Bilous Oleksandr Anatolijovych(登记表级);smart-city/机场/加油站客户场景谱=关键基建邻谱→民用商业限定前句加厚(只谈民用园区/商用场景,不涉军防/执法用途);**战区民用商业限定句必压(民用商业限定前句)**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：乌克兰安防+智能城市分销;**战区民用商业限定句必压(民用商业限定前句)**；关键基建场景只谈民用商用侧
+- **团队与规模**：分销大户谱
+- **决策链与对接人**：**Bilous Oleksandr Anatolijovych(Head(ua-region EDRPOU 36413740 登记表),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 24 波谱名牌(Master 8 年+安防大户)
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：**战区民用商业限定句必压(民用商业限定前句)**；**安防/关键基建商用限定注(民用商用侧,不涉军防执法)**；登记名直发需 opt-in
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -149,10 +156,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：体量对口
-- **W**：牌墙深
-- **O**：类目空档
-- **T**：Ruijie
+- **S**：Master 8 年+安防三巨头牌谱=大户
+- **W**：安防大户=军警邻谱风险
+- **O**：smart-city 扩大谱
+- **T**：MikroTik 官方链+安防链
 
 ## 触达与风险红线
 
@@ -175,7 +182,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -184,8 +191,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 类胃口
-  - [ ] 首发量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -197,16 +204,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi VIATEC team,
+Доброго дня, пане Bilous,
 
-Cameras, intercoms, energy and a growing Ruijie shelf - you know access PoE is where installer margins hide. One honest framing note first: our offer is strictly for civilian commercial networking - nothing dual-use, nothing for state or military buyers. Beside the brands you carry, here is a documented 24-port Gigabit PoE switch (280W, watchdog) at $180 USD EXW (2026-09-29) for the volume tier.
-
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
-
-One question: would your networking category carry a documented value PoE row?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

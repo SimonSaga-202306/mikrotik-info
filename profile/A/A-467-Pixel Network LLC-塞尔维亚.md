@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Pixel Network（塞尔维亚）：Pixel Network（塞）:**监控+报警+对讲+MT CRS 全谱店**(CRS320-8P/CRS354-48P PoE/CRS304 上架；pixelshop.rs 姊妹）;Ubiquiti PoE injector 在价
-- 【推断】**CRS354-48P（大 PoE 交换）在卖**=谱上 PoE 交换档已开；监控主业=每单带 PoE
-- 【假设】CRS PoE 谱旁 value 对照正口（监控伴随角）
+- 【事实】Pixel Network LLC:PIXEL NETWORK DOO NOVI SAD(塞尔维亚 Novi Sad,Partizanska 64A(法定)/Šajkaška 10(店谱)=双址差旗注;**MikroTik Reseller(名录信号);Matični 21608297;PIB 112105227;2020-08-21 创;20-50 人;营收 50-100m RSD 谱;注册局件 Zastupnik/Vlasnik(代表/业主)=Ivan B.(缩写名谱)**;pixelnetwork.rs;+381 21 271 85 04/+381 69 554 8052;office@pixelnetwork.rs;MT 85 SKU+视频监控/门禁/对讲安防谱)
+- 【推断】R66 第 24 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,65 +76,72 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：+381 21 271 85 04 / office@pixelnetwork.rs
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Ivan B.(缩写)**(Zastupnik/Vlasnik 代表/业主(注册局件缩写名谱))— pkspartner.rs 注册件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://pretraga.pkspartner.rs/sr/kompanija/dc3b380935bee491/pixel-network-doo-novi-sad〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Ivan B.(缩写) | Zastupnik/Vlasnik 代表/业主(注册局件缩写名谱) | pkspartner.rs 注册件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://pretraga.pkspartner.rs/sr/kompanija/dc3b380935bee491/pixel-network-doo-novi-sad |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 对照行
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：CRS 旁 value 对照
-- **要问的问题**：收 value 档吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
-
-### 第 3 次跟进 · 留档
-
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第47批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第24波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://pixelnetwork.rs|CRS354-48P-4S+2Q PoE 上架+PoE injector
-- **②芯片/型号**：MikroTik/Ubiquiti
-- **③KP 深挖**：店多年
-- **④Saga 对标**：STC-424 对照正口（$180 锚点一致）
-- **⑤在乎与偏好**：PoE 谱已开
+- **①背景再核**：PIXEL NETWORK DOO NOVI SAD(塞尔维亚 Novi Sad,Partizanska 64A(法定)/Šajkaška 10(店谱)=双址差旗注;**MikroTik Reseller(名录信号);Matični 21608297;PIB 112105227;2020-08-21 创;20-50 人;营收 50-100m RSD 谱;注册局件 Zastupnik/Vlasnik(代表/业主)=Ivan B.(缩写名谱)**;pixelnetwork.rs;+381 21 271 85 04/+381 69 554 8052;office@pixelnetwork.rs;MT 85 SKU+视频监控/门禁/对讲安防谱)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Ivan B.(缩写)(Zastupnik/Vlasnik 代表/业主(注册局件缩写名谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：注册件业主缩写名谱+电商 85 SKU=窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【产品线】**Top ponuda: MikroTik CRS320-8P/CRS354-48P-4S+2Q 48口 PoE + U-POE-AT injector
-  > Top ponuda: MikroTik CRS320-8P/CRS354-48P-4S+2Q 48口 PoE + U-POE-AT injector
-  > 来源：https://pixelnetwork.rs
+- **【决策链与对接人】**注册局件:Zastupnici/Vlasnici Ivan B.(缩写);Matični 21608297;PIB 112105227;20-50 人;50-100m RSD
+  > 注册局件:Zastupnici/Vlasnici Ivan B.(缩写);Matični 21608297;PIB 112105227;20-50 人;50-100m RSD
+  > 来源：https://pretraga.pkspartner.rs/sr/kompanija/dc3b380935bee491/pixel-network-doo-novi-sad
+- **【联系方式与基础画像】**pixelnetwork.rs;Novi Sad;+381 21 271 85 04;MT 85 SKU;监控/门禁安防谱
+  > pixelnetwork.rs;Novi Sad;+381 21 271 85 04;MT 85 SKU;监控/门禁安防谱
+  > 来源：https://pixelnetwork.rs/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：塞监控主业店（MT CRS PoE 谱）
-- **产品线与在售品牌**：MikroTik CRS/Ubiquiti/Dahua
-- **目标行业与场景**：装维/集成/ISP/转售
-- **团队与规模**：（官网推）
-- **决策链与对接人**：office@pixelnetwork.rs 口
-- **技术与认证**：—
-- **采购与供应链信号**：—
-- **近期动态与线索**：—
-- **与我方契合点**：CRS 谱旁 value 对照正口（监控伴随）
-- **风险与注意**：MT 谱深——价格战需硬文档
+- **业务定位**：PIXEL NETWORK DOO NOVI SAD(塞尔维亚 Novi Sad,Partizanska 64A(法定)/Šajkaška 10(店谱)=双址差旗注;**MikroTik Reseller(名录信号);Matični 21608297;PIB 112105227;2020-08-21 创;20-50 人;营收 50-100m RSD 谱;注册局件 Zastupnik/Vlasnik(代表/业主)=Ivan B.(缩写名谱)**;pixelnetwork.rs;+381 21 271 85 04/+381 69 554 8052;office@pixelnetwork.rs;MT 85 SKU+视频监控/门禁/对讲安防谱)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：塞尔维亚安防系统+电商谱
+- **团队与规模**：20-50 人
+- **决策链与对接人**：**Ivan B.(缩写)(Zastupnik/Vlasnik 代表/业主(注册局件缩写名谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 24 波谱名牌(注册件具名缩写谱)
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：**双址差旗注(Partizanska 64A↔Šajkaška 10)**；缩写名谱(波次二补全名)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -149,10 +156,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：类目已开
-- **W**：谱深
-- **O**：value 档
-- **T**：MikroTik
+- **S**：注册件业主缩写名谱+电商 85 SKU=窗
+- **W**：缩写名谱(波次二补全名)
+- **O**：安防系统主业谱
+- **T**：MikroTik 官方链
 
 ## 触达与风险红线
 
@@ -175,7 +182,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -184,7 +191,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 首发量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -196,16 +204,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Pixel team,
+Poštovani,
 
-A surveillance-first shop where the bestseller list is stacked with MikroTik CRS - CRS320, CRS354-48P, CRS304 - means your buyers already spec switches with cameras. The gap under a 142k-dinar CRS354 is exactly where a value row lives
-
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
-
-One question: beside your CRS PoE lines, would you carry a documented value 24-port PoE switch?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

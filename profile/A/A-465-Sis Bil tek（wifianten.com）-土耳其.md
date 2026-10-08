@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】wifianten.com（土耳其）：wifianten.com（土）:**MikroTik Master Distributor（自称）+UBNT 经销+RF-Elements**;CCR2216/CRS326/hAP be lite 上架在价；项目专线报价口
-- 【推断】官方谱（贵价段）+项目报价文化=value 档替补诚实缝
-- 【假设】官方谱旁对照低密窄针
+- 【事实】Sis Bil tek（wifianten.com）:Sis Bil Tek İç ve Dış Ticaret Ltd. Şti.(土耳其 Tekirdağ Çorlu(Muhittin Mah. Adnan Kahveci Cad. No:25/a);**MikroTik Master+VAD(名录信号);ekşi sözlük 件:MikroTik 土官方分销 2011 起;KNOT/LoRa/IoT 专谱**;0850 277 59 59/0282 654 30 30;info@wifianten.com;四银行 IBAN 谱;Interline/LigoWave/RF Elements/Grandstream 牌谱;blog.wifianten.com 技博谱;具名决策人谱面未锁→守档准由)
+- 【推断】R66 第 24 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -87,56 +87,59 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 对照行
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：对照低密窄针
-- **要问的问题**：对照行收吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
-
-### 第 3 次跟进 · 留档
-
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第47批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第24波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://wifianten.com|'Mikrotik Master Distributor' 横幅+CCR2216 在价
-- **②芯片/型号**：MikroTik 官方
-- **③KP 深挖**：店多年
-- **④Saga 对标**：STC-424 低密窄针（$180 锚点一致）
-- **⑤在乎与偏好**：项目报价心态
+- **①背景再核**：Sis Bil Tek İç ve Dış Ticaret Ltd. Şti.(土耳其 Tekirdağ Çorlu(Muhittin Mah. Adnan Kahveci Cad. No:25/a);**MikroTik Master+VAD(名录信号);ekşi sözlük 件:MikroTik 土官方分销 2011 起;KNOT/LoRa/IoT 专谱**;0850 277 59 59/0282 654 30 30;info@wifianten.com;四银行 IBAN 谱;Interline/LigoWave/RF Elements/Grandstream 牌谱;blog.wifianten.com 技博谱;具名决策人谱面未锁→守档准由)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 第 24 波点名(谱面无实名)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：Master+VAD+IoT 专谱=对口窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**'Türkiye Mikrotik Master Distributor & Yetkili Satıcı' 横幅 + CRS326/CCR2216 在价
-  > 'Türkiye Mikrotik Master Distributor & Yetkili Satıcı' 横幅 + CRS326/CCR2216 在价
-  > 来源：https://wifianten.com
+- **【联系方式与基础画像】**wifianten.com;Çorlu;0850 277 59 59;2011 年 MT 官方分销谱(ekşi 件+官网)
+  > wifianten.com;Çorlu;0850 277 59 59;2011 年 MT 官方分销谱(ekşi 件+官网)
+  > 来源：https://www.wifianten.com/wifianten-mikrotik
+- **【业务定位】**KNOT/LoRa/IoT 专谱;四银行 IBAN;技博谱
+  > KNOT/LoRa/IoT 专谱;四银行 IBAN;技博谱
+  > 来源：https://www.wifianten.com/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：土 MT MasterD+UBNT 店（在价）
-- **产品线与在售品牌**：MikroTik/UBNT/RF-Elements
-- **目标行业与场景**：装维/集成/ISP/转售
-- **团队与规模**：（官网推）
-- **决策链与对接人**：bilgi@wifianten.com 口
-- **技术与认证**：—
-- **采购与供应链信号**：—
-- **近期动态与线索**：—
-- **与我方契合点**：对照低密窄针（walk-in 预算角）
-- **风险与注意**：官方档优先
+- **业务定位**：Sis Bil Tek İç ve Dış Ticaret Ltd. Şti.(土耳其 Tekirdağ Çorlu(Muhittin Mah. Adnan Kahveci Cad. No:25/a);**MikroTik Master+VAD(名录信号);ekşi sözlük 件:MikroTik 土官方分销 2011 起;KNOT/LoRa/IoT 专谱**;0850 277 59 59/0282 654 30 30;info@wifianten.com;四银行 IBAN 谱;Interline/LigoWave/RF Elements/Grandstream 牌谱;blog.wifianten.com 技博谱;具名决策人谱面未锁→守档准由)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：土耳其 IoT/无线专铺谱
+- **团队与规模**：小中分销铺
+- **决策链与对接人**：**守档准由;R66 第 24 波点名(谱面无实名)**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 24 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -151,10 +154,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：谱深
-- **W**：官方锁
-- **O**：walk-in 缝
-- **T**：官方谱
+- **S**：Master+VAD+IoT 专谱=对口窗
+- **W**：具名缺
+- **O**：LoRa/IoT 前段谱
+- **T**：MikroTik 官方链
 
 ## 触达与风险红线
 
@@ -182,7 +185,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 首发量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -194,16 +198,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi wifianten team,
+Dear Sis Bil Tek Team,
 
-Another MikroTik Master Distributor badge - plus Ubnt and RF-Elements on the same roof, with CCR2216s and CRS326s live in stock. The premium end is yours; this is only about the walk-ins whose budget votes no
-
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
-
-One question: for budget-limited walk-ins, would a documented value PoE row be worth shelf space?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

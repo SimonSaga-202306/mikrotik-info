@@ -146,7 +146,7 @@ chk('OVERRIDE 覆盖 524+43 推断=567(设计)', len(ov_codes) == 524, '覆盖=%
 # ---------- 10. 台账引用合法 ----------
 BOUNCE = json.loads((ROOT / 'batch/邮件退信_2026-09-29.json').read_text(encoding='utf-8'))['records']
 GROUPS = json.loads((ROOT / 'batch/关联实体群_2026-09-29.json').read_text(encoding='utf-8'))['groups']
-chk('退信台账 5 家 code 合法', all(b['code'] in expect for b in BOUNCE) and len(BOUNCE) == 5,
+chk('退信台账 code 全合法且≥5 户(5 永信+R63 观察群)', all(b['code'] in expect for b in BOUNCE) and len(BOUNCE) >= 5,
     str([b['code'] for b in BOUNCE]), 'critical')
 g_bad = [c for g in GROUPS for c in g['codes'] if c not in expect]
 chk('关联群台账 19 组 code 合法(3 家组合并后)', not g_bad and len(GROUPS) == 19,

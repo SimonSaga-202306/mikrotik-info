@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】NODENET GLOBAL（土耳其）：NODENET GLOBAL(İstanbul Maslak/Fethiye):10+ 年企业 IT 方案（网管/安全/云/数据库）+**2026-04 官宣 MikroTik Türkiye Distribütörü 分销资格**+shop.nodenetglobal.com 店
-- 【推断】**刚刚官宣 MT 分销商=牌谱扩张蜜月期（还会收别家？)；企业服务+店双业态**：MSP 随单+店收录双角
-- 【假设】新分销商蜜月期双角（随单+店收录）
+- 【事实】NODENET GLOBAL:NODENET GLOBAL(土耳其 Istanbul;**MikroTik Master+VAD(名录信号);mikrotik.com/buy 官方名录 Master Distributor 金证;官网新闻自宣「MikroTik Türkiye Distribütörü Oldu!」=2026 新任分销窗(新签蜜月期!)**;+90 533 391 22 32;shop.nodenetglobal.com 电商;ISP/DC/企业项目+云/数字转型谱;具名决策人谱面未锁→守档准由)
+- 【推断】R66 第 24 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -84,56 +84,59 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 双角
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：新分销商蜜月期：店收录+MSP 随单双角
-- **要问的问题**：双角任一缝吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
-
-### 第 3 次跟进 · 留档
-
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第46批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第24波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://nodenetglobal.com|'Nodenet Global, MikroTik Türkiye Distribütörü Oldu!' 2026-04 官宣
-- **②芯片/型号**：MikroTik 谱
-- **③KP 深挖**：企业 IT 10 年
-- **④Saga 对标**：STC-424 双角（$180 锚点一致）
-- **⑤在乎与偏好**：现代企业服务文化
+- **①背景再核**：NODENET GLOBAL(土耳其 Istanbul;**MikroTik Master+VAD(名录信号);mikrotik.com/buy 官方名录 Master Distributor 金证;官网新闻自宣「MikroTik Türkiye Distribütörü Oldu!」=2026 新任分销窗(新签蜜月期!)**;+90 533 391 22 32;shop.nodenetglobal.com 电商;ISP/DC/企业项目+云/数字转型谱;具名决策人谱面未锁→守档准由)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 第 24 波点名(谱面无实名)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：米官方名录金证+2026 新任=当季蜜月窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【近期动态】**'Nodenet Global, MikroTik Türkiye Distribütörü Oldu!' - 2026 新闻 + 10 yılı aşkın tecrübe 企业 IT
-  > 'Nodenet Global, MikroTik Türkiye Distribütörü Oldu!' - 2026 新闻 + 10 yılı aşkın tecrübe 企业 IT
-  > 来源：https://nodenetglobal.com
+- **【近期动态与线索】**官网新闻:MikroTik Türkiye Distribütörü Oldu!(2026 新任=新签窗)
+  > 官网新闻:MikroTik Türkiye Distribütörü Oldu!(2026 新任=新签窗)
+  > 来源：https://nodenetglobal.com/
+- **【联系方式与基础画像】**mikrotik.com/buy 官方名录 Master Distributor;Istanbul;+90 533 391 22 32;ISP/DC 项目谱
+  > mikrotik.com/buy 官方名录 Master Distributor;Istanbul;+90 533 391 22 32;ISP/DC 项目谱
+  > 来源：https://mikrotik.com/buy/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：土企业 IT 方案+MT 新分销商
-- **产品线与在售品牌**：企业服务+MikroTik 分销
-- **目标行业与场景**：企业/KOBİ
-- **团队与规模**：中型
-- **决策链与对接人**：sales@nodenetglobal.com 口
-- **技术与认证**：**2026-04 MT 分销商官宣**
-- **采购与供应链信号**：shop 子站
-- **近期动态与线索**：分销新闻 2026-04
-- **与我方契合点**：蜜月期双角：随单+店收录
-- **风险与注意**：新分销商=谱忠诚期——对照行需诚实
+- **业务定位**：NODENET GLOBAL(土耳其 Istanbul;**MikroTik Master+VAD(名录信号);mikrotik.com/buy 官方名录 Master Distributor 金证;官网新闻自宣「MikroTik Türkiye Distribütörü Oldu!」=2026 新任分销窗(新签蜜月期!)**;+90 533 391 22 32;shop.nodenetglobal.com 电商;ISP/DC/企业项目+云/数字转型谱;具名决策人谱面未锁→守档准由)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：土耳其 ISP/DC/企业项目谱
+- **团队与规模**：分销中户谱
+- **决策链与对接人**：**守档准由;R66 第 24 波点名(谱面无实名)**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 24 波谱名牌(官方名录金证+2026 新任窗)
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -148,10 +151,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：蜜月窗
-- **W**：谱新
-- **O**：双角
-- **T**：MikroTik
+- **S**：米官方名录金证+2026 新任=当季蜜月窗
+- **W**：新体谱薄
+- **O**：shop 电商即时谱
+- **T**：MikroTik 官方链
 
 ## 触达与风险红线
 
@@ -179,8 +182,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 收录意愿
-  - [ ] 首发量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -192,16 +195,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi NODENET team,
+Dear NODENET Team,
 
-Congratulations on the MikroTik Turkey distributorship - the official lines and the service arm make a strong bundle. For the deals where a client's budget votes otherwise, one honest backup row: a documented 24-port Gigabit PoE switch (280W, watchdog) at $180 USD EXW (2026-09-29), for your shop or your managed rollouts.
-
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
-
-One question: in your shop or managed projects, is there room for a documented value PoE row?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

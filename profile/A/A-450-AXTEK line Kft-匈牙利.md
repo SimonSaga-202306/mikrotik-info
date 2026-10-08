@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】AXTEK line Kft. (IETEK)（匈牙利）：AXTEK line Kft（布达佩斯；官网 axtek.hu→ietek.hu 品牌更名注）:**IETEK:=25+ 年工业自动化 IT——自有认证工业 PC/面板+工业以太网/M2M/安全件（Taicenn/Axiomtek 类）**;Orosi Levente CEO 具名
-- 【推断】工业网络类目存在（ipari ethernet/M2M/switch）但交换件谱浅=8 口 DIN 轨工业 PoE 正口；25 年工业关系网=转化需时
-- 【假设】工业类目 8 口 DIN 轨 PoE 正口（工业件主腿）
+- 【事实】AXTEK line Kft.:AXTEK line Kft.(匈牙利 Pécel;**分销(Antaira 授权,工业以太网);hunspace 航天产业页载 Space industry contact person: Levente Orosi(具名航天联络谱 G);ceginformacio 同税号登记法体名作 IETEK LINE Kft.(名差旗注)**;只接 B2B;**p1=STI-288GP 供位谱**)
+- 【推断】R66 第 24 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,65 +75,72 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：+36 1 700 42 70 / info@axtek.hu
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Levente Orosi**(Space industry contact person(hunspace 产业页载))— hunspace.hu 件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://hunspace.hu/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Levente Orosi | Space industry contact person(hunspace 产业页载) | hunspace.hu 件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://hunspace.hu/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 工业件
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：工业类目 DIN 轨 PoE 档
-- **要问的问题**：DIN 轨件评估吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 商业件
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：商业接入件备选行
-- **要问的问题**：商业线也要吗？
-- **随附/动作**：规格页
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第45批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第24波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://ietek.hu|25+ év 工业自动化+ipari ethernet/M2M 类目+minősített 工业 PC
-- **②芯片/型号**：——
-- **③KP 深挖**：工业 25 年
-- **④Saga 对标**：**STI-288GP 工业件主腿（宽温/DIN 轨锚点）**
-- **⑤在乎与偏好**：认证/工业可靠性嗜好
+- **①背景再核**：AXTEK line Kft.(匈牙利 Pécel;**分销(Antaira 授权,工业以太网);hunspace 航天产业页载 Space industry contact person: Levente Orosi(具名航天联络谱 G);ceginformacio 同税号登记法体名作 IETEK LINE Kft.(名差旗注)**;只接 B2B;**p1=STI-288GP 供位谱**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Levente Orosi(Space industry contact person(hunspace 产业页载),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：Antaira 授权=工业链窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**IETEK line Kft: 'Több mint 25 éve ipari automatizálás' + Ipari ethernet, M2M eszközök - switch/router/gateway 类目
-  > IETEK line Kft: 'Több mint 25 éve ipari automatizálás' + Ipari ethernet, M2M eszközök - switch/router/gateway 类目
-  > 来源：https://ietek.hu
+- **【决策链与对接人】**hunspace 页:Space industry contact person Levente Orosi(产业页载具名)
+  > hunspace 页:Space industry contact person Levente Orosi(产业页载具名)
+  > 来源：https://hunspace.hu/
+- **【联系方式与基础画像】**axtek.hu;Antaira 授权工业分销;ceginformacio 同税号法体名差旗:IETEK LINE Kft.;B2B only
+  > axtek.hu;Antaira 授权工业分销;ceginformacio 同税号法体名差旗:IETEK LINE Kft.;B2B only
+  > 来源：https://axtek.hu/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：匈 25 年工业自动化 IT 分销
-- **产品线与在售品牌**：工业 PC/面板/**工业以太网 M2M**
-- **目标行业与场景**：制造/自动化
-- **团队与规模**：中型
-- **决策链与对接人**：info@ 口
-- **技术与认证**：自有认证体系
-- **采购与供应链信号**：B2B 分销
-- **近期动态与线索**：ietek.hu 更名 2026
-- **与我方契合点**：**STI-288GP 工业 DIN 轨 PoE 档**（工业类目旁）
-- **风险与注意**：关系深——认证路径长
+- **业务定位**：AXTEK line Kft.(匈牙利 Pécel;**分销(Antaira 授权,工业以太网);hunspace 航天产业页载 Space industry contact person: Levente Orosi(具名航天联络谱 G);ceginformacio 同税号登记法体名作 IETEK LINE Kft.(名差旗注)**;只接 B2B;**p1=STI-288GP 供位谱**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：匈牙利工业自动化/航天产业网建谱;**航天联络=民用航天商用限定句(只做民用商用网建,不涉军防航天)**
+- **团队与规模**：小中分销谱
+- **决策链与对接人**：**Levente Orosi(Space industry contact person(hunspace 产业页载),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 24 波谱名牌(p1=STI-288GP 供位)
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：**名差旗注(AXTEK↔IETEK LINE Kft.)**；航天场景民用商用限定注；具名为航天联络非采购线
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -148,10 +155,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：工业对口
-- **W**：谱浅
-- **O**：类目扩
-- **T**：大牌工业件
+- **S**：Antaira 授权=工业链窗
+- **W**：法体名差旗
+- **O**：hunspace 页具名谱
+- **T**：工业以太网链
 
 ## 触达与风险红线
 
@@ -170,7 +177,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -179,8 +186,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 类目开放
-  - [ ] 首发量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -192,14 +199,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi AXTEK team,
+Kedves Orosi úr,
 
-Twenty-five years in industrial automation, certified industrial PCs, and an industrial Ethernet category that keeps growing - and the DIN-rail PoE slot in that line is often sourced long-distance. We build an 8-port Gigabit industrial PoE switch (DIN-rail, wide-temperature, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - price-locked for pioneer quotes.
-
-One question: would your industrial Ethernet category evaluate a documented DIN-rail PoE unit?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

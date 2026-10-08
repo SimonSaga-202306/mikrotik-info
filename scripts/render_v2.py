@@ -284,10 +284,13 @@ def render(e, ctx):
                  '临时投递失败,观察中',
                  _bc.get('detail', '').split('（')[0], '；'.join(_bc.get('alternates', [])) or '具名 KP/官网表单'))
         else:
+            _blbl = ('服务器拒收' if _btype == 'blocked'
+                     else '地址不存在' if _btype == 'not-found'
+                     else '观察期满转永久')
             w('- **退信实测（%s）**：`%s` %s（%s）→ 停用该地址；替代通道：%s'
               % (_bc.get('date', '2026-09-29'), _bc['bounced'],
-                 '服务器拒收' if _btype == 'blocked' else '地址不存在',
-                 _bc.get('detail', '').split('（')[0], '；'.join(_bc.get('alternates', []))))
+                 _blbl, _bc.get('detail', '').split('（')[0],
+                 '；'.join(_bc.get('alternates', []))))
         w('  > 处置：%s' % _bc.get('action', ''))
 
     w('## 关键人（KP）与触达通道')

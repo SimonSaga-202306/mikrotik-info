@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Poyraz Network（土耳其）：Poyraz Network（土 B2B 分销大盘）:**MikroTik Master Distributor**+Ubiquiti Authorized+Mimosa/Tachyon/Cudy/V-Sol/Cambium/RF element/Ruijie/Ignitenet;10+ 年 5000+ SKU;15 点当天发
-- 【推断】**官方 Master Distributor=替补接受度最低档**；诚实低密窄针（预算场景替补）+其 B2B 大盘=对照行逻辑自洽
-- 【假设】官方谱旁对照低密窄针（诚实角）
+- 【事实】Poyraz Network:Poyraz Network(Poyraz Ağ Ekipmanları Ltd. Şti.;土耳其 Gölcük, Kocaeli(Dumlupınar Mah. Atatürk Bulvarı No:203/A-B);**MikroTik Master+VAD(名录信号);官网自宣「MikroTik Türkiye Master Distribütörü(2015 起)」;MTCNA/MTCRE/MTCIPV6E/MTCUME/MTCINE 教育课程 SKU=官方培训谱;309 SKU 深度谱**;0850 346 93 63/0850 303 7969/0544 722 5969;Ubiquiti/Mimosa/Cudy/RF Elements/Deltalink/Wow Grup GPON 牌谱;具名决策人谱面未锁→守档准由(培训讲师具名波次二挖)
+- 【推断】R66 第 24 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -86,56 +86,59 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 对照行
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：对照低密窄针
-- **要问的问题**：对照行值得列吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
-
-### 第 3 次跟进 · 留档
-
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第47批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第24波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://poyraznetwork.com|'Master Distributor Mikrotik'+'Authorized Distributor Ubiquiti' 徽标
-- **②芯片/型号**：两大牌官方
-- **③KP 深挖**：B2B 10+ 年
-- **④Saga 对标**：STC-424 低密窄针（$180 锚点一致）
-- **⑤在乎与偏好**：分销纪律（当天发）
+- **①背景再核**：Poyraz Network(Poyraz Ağ Ekipmanları Ltd. Şti.;土耳其 Gölcük, Kocaeli(Dumlupınar Mah. Atatürk Bulvarı No:203/A-B);**MikroTik Master+VAD(名录信号);官网自宣「MikroTik Türkiye Master Distribütörü(2015 起)」;MTCNA/MTCRE/MTCIPV6E/MTCUME/MTCINE 教育课程 SKU=官方培训谱;309 SKU 深度谱**;0850 346 93 63/0850 303 7969/0544 722 5969;Ubiquiti/Mimosa/Cudy/RF Elements/Deltalink/Wow Grup GPON 牌谱;具名决策人谱面未锁→守档准由(培训讲师具名波次二挖)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 第 24 波点名(谱面无实名)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：Master+教育课 SKU 双谱=深链窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**'Mikrotik - Master Distributor' + 'Ubiquiti - Authorized Distributor' + 5000+ product varieties
-  > 'Mikrotik - Master Distributor' + 'Ubiquiti - Authorized Distributor' + 5000+ product varieties
-  > 来源：https://poyraznetwork.com
+- **【联系方式与基础画像】**poyraznetwork.com;Gölcük;0850 346 93 63;「Türkiye Master Distribütör 2015 起」自宣
+  > poyraznetwork.com;Gölcük;0850 346 93 63;「Türkiye Master Distribütör 2015 起」自宣
+  > 来源：https://www.poyraznetwork.com/tr/partners/mikrotik
+- **【业务定位】**MT 教育课程 SKU(MTCIPV6E/MTCUME/MTCINE)在售=培训谱;309 SKU 深度
+  > MT 教育课程 SKU(MTCIPV6E/MTCUME/MTCINE)在售=培训谱;309 SKU 深度
+  > 来源：https://www.poyraznetwork.com/en/mikrotik-products
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：土 B2B 大盘（MT Master Distributor）
-- **产品线与在售品牌**：MikroTik/Ubiquiti/Mimosa/Cudy/V-Sol 等
-- **目标行业与场景**：装维/集成/ISP/转售
-- **团队与规模**：（官网推）
-- **决策链与对接人**：sales@poyraznetwork.com 口
-- **技术与认证**：—
-- **采购与供应链信号**：—
-- **近期动态与线索**：—
-- **与我方契合点**：对照低密窄针（官方谱旁诚实角）
-- **风险与注意**：官方档优先——接受度最低档
+- **业务定位**：Poyraz Network(Poyraz Ağ Ekipmanları Ltd. Şti.;土耳其 Gölcük, Kocaeli(Dumlupınar Mah. Atatürk Bulvarı No:203/A-B);**MikroTik Master+VAD(名录信号);官网自宣「MikroTik Türkiye Master Distribütörü(2015 起)」;MTCNA/MTCRE/MTCIPV6E/MTCUME/MTCINE 教育课程 SKU=官方培训谱;309 SKU 深度谱**;0850 346 93 63/0850 303 7969/0544 722 5969;Ubiquiti/Mimosa/Cudy/RF Elements/Deltalink/Wow Grup GPON 牌谱;具名决策人谱面未锁→守档准由(培训讲师具名波次二挖)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：土耳其 ISP 分销+培训谱
+- **团队与规模**：分销中户谱
+- **决策链与对接人**：**守档准由;R66 第 24 波点名(谱面无实名)**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 24 波谱名牌(Master+教育双谱)
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：具名缺(守档准由,波次二讲师具名挖)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -150,10 +153,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：体量大
-- **W**：官方锁
-- **O**：对照行
-- **T**：官方谱
+- **S**：Master+教育课 SKU 双谱=深链窗
+- **W**：具名缺
+- **O**：309 SKU 全谱
+- **T**：MikroTik 官方链+培训链
 
 ## 触达与风险红线
 
@@ -185,7 +188,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 首发量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -197,16 +201,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Poyraz team,
+Dear Poyraz Network Team,
 
-A MikroTik Master Distributor wall plus Ubiquiti Authorized - your premium end is complete by definition. And your own dealer dashboard proves you already think in value rows for resellers who quote hard
-
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
-
-One question: honest corner only: for your budget-driven dealers, would a documented value PoE row earn a listing?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

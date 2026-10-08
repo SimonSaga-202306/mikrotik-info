@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Dipole Wireless Communication（以色列）：Dipole(IL):**Ubiquiti/MikroTik/Compex/Wouxun/L-com 官方进口商**（老练无线分销，希伯来语站；5G ATL/辐射计架）;销售箱 dipole-ltd.com
-- 【推断】官方进口渠道=已有两大牌的主档；替补档只留窄位（价值档与其授权位互补）
-- 【假设】授权档旁 value 档窄位（诚实互补角）
+- 【事实】Dipole Wireless Communication:Dipole Wireless Communication(以色列;**MikroTik Reseller(名录信号);dipole.co.il+dipole-ltd.com 双域自宣「authorized distributor of MikroTik in ISRAEL」;Ubiquiti/Compex/Wouxun/L-com 官方进口牌谱**;+972 3-5732221;info@dipole.co.il;**R63 退信注:dipole-ltd.com 生平条 46h 观察期 2026-10-08 届满→转永久退信处置(不删档内邮箱、标「发不过去」,主触替代口=dipole.co.il 域在册)**;具名决策人谱面未锁→守档准由)
+- 【推断】R66 第 24 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -78,8 +78,8 @@ updated: 2026-09-28
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
 
-- **退信实测（2026-10-08）**：`sales@dipole-ltd.com` 临时投递失败,观察中（Gmail 临时投递失败(sales@dipole-ltd.com),系统重试至多 22 小时;2026-10-08 用户转发回执;若终败改走具名 KP/官网表单另径）→ 观察期暂不停用；备选通道已备: 具名 KP/官网表单
-  > 处置：观察期(≤22h);终败则备选通道启动
+- **退信实测（2026-10-08）**：`sales@dipole-ltd.com` 观察期满转永久（Gmail 临时投递失败(sales@dipole-ltd.com)，系统重试至多 22 小时；2026-10-08 观察期届满未恢复→转永久(R62/R63 规则：不删邮箱、只标「发不过去」+替代)）→ 停用该地址；替代通道：dipole.co.il 官网表单与 info@dipole.co.il（主域在册，R66 波24谱面确认）；+972 3-5732221（官网联系）
+  > 处置：观察期满(2026-10-08)→转永久；主触替代口=dipole.co.il 域（双域注：退信域 dipole-ltd.com≠主域）
 ## 关键人（KP）与触达通道
 
 - 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
@@ -88,56 +88,59 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 窄位
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：授权档旁 value 窄位（诚实互补角）
-- **要问的问题**：value 档收吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
-
-### 第 3 次跟进 · 留档
-
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第45批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第24波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://www.dipole.co.il|官方进口商自述（Ubiquiti/MikroTik/Compex)
-- **②芯片/型号**：——
-- **③KP 深挖**：进口商多年
-- **④Saga 对标**：STC-424 窄位（$180 锚点一致）
-- **⑤在乎与偏好**：合规官方心态
+- **①背景再核**：Dipole Wireless Communication(以色列;**MikroTik Reseller(名录信号);dipole.co.il+dipole-ltd.com 双域自宣「authorized distributor of MikroTik in ISRAEL」;Ubiquiti/Compex/Wouxun/L-com 官方进口牌谱**;+972 3-5732221;info@dipole.co.il;**R63 退信注:dipole-ltd.com 生平条 46h 观察期 2026-10-08 届满→转永久退信处置(不删档内邮箱、标「发不过去」,主触替代口=dipole.co.il 域在册)**;具名决策人谱面未锁→守档准由)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 第 24 波点名(谱面无实名)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：以色列官方授权自宣=唯一链窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**'יבואנית רשמית UbiquiTi Networks, MikroTik, Compex, Wouxun, L-com' 官方进口商自述
-  > 'יבואנית רשמית UbiquiTi Networks, MikroTik, Compex, Wouxun, L-com' 官方进口商自述
-  > 来源：https://www.dipole.co.il
+- **【联系方式与基础画像】**dipole.co.il+dipole-ltd.com 双域;自宣 authorized distributor of MikroTik in ISRAEL;+972 3-5732221
+  > dipole.co.il+dipole-ltd.com 双域;自宣 authorized distributor of MikroTik in ISRAEL;+972 3-5732221
+  > 来源：https://www.dipole.co.il/
+- **【近期动态与线索】**R63 退信注:dipole-ltd.com 生平条 46h 观察 2026-10-08 届满→转永久(替代口 dipole.co.il)
+  > R63 退信注:dipole-ltd.com 生平条 46h 观察 2026-10-08 届满→转永久(替代口 dipole.co.il)
+  > 来源：https://www.dipole.co.il/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：以 Ubiquiti/MikroTik 官方进口商
-- **产品线与在售品牌**：Ubiquiti/MikroTik/Compex/L-com
-- **目标行业与场景**：无线装维/ISP
-- **团队与规模**：中型
-- **决策链与对接人**：sales@dipole-ltd.com 口
-- **技术与认证**：官方进口权
-- **采购与供应链信号**：—
-- **近期动态与线索**：5G ATL 架
-- **与我方契合点**：授权档旁 value 档窄位
-- **风险与注意**：官方档优先——窄位
+- **业务定位**：Dipole Wireless Communication(以色列;**MikroTik Reseller(名录信号);dipole.co.il+dipole-ltd.com 双域自宣「authorized distributor of MikroTik in ISRAEL」;Ubiquiti/Compex/Wouxun/L-com 官方进口牌谱**;+972 3-5732221;info@dipole.co.il;**R63 退信注:dipole-ltd.com 生平条 46h 观察期 2026-10-08 届满→转永久退信处置(不删档内邮箱、标「发不过去」,主触替代口=dipole.co.il 域在册)**;具名决策人谱面未锁→守档准由)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：以色列 WISP/企业谱
+- **团队与规模**：分销中户谱
+- **决策链与对接人**：**守档准由;R66 第 24 波点名(谱面无实名)**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 24 波谱名牌(R63 退信期满注)
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：**R63 退信期满转永久注(dipole-ltd.com;替代口 dipole.co.il)**；具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -152,10 +155,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对口
-- **W**：官方锁
-- **O**：value 档
-- **T**：两大牌
+- **S**：以色列官方授权自宣=唯一链窗
+- **W**：退信域降档
+- **O**：双域牌谱多牌进口
+- **T**：MikroTik 官方链
 
 ## 触达与风险红线
 
@@ -183,8 +186,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 收录意愿
-  - [ ] 首发量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -196,16 +199,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Dipole team,
+Dear Dipole Team,
 
-As the official Ubiquiti and MikroTik importer you hold the premium end - which means budget-driven installers still walk out empty. A documented 24-port Gigabit PoE switch at $180 USD EXW (2026-09-29) could be the honest value row that keeps them in your shop instead.
-
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
-
-One question: would you carry a documented value PoE row beside the authorized lines?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

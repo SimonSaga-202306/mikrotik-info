@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】4Networks GmbH（德国）：4Networks GmbH（德 Bremen):**VAD 分销**：牌墙 MikroTik/UniFi/Teltonika/Patchbox/Cambium/Zyxel/Clavister/Hikvision/Ruckus/Ekahau;CEO Thilko Cullmann+4 销售具名
-- 【推断】VAD=增值分销心态；牌墙全=value 档替补逻辑通
-- 【假设】VAD 组合 value 对照行正口
+- 【事实】4Networks IT-Distribution（OMG.de）:4Networks IT-Distribution(emsnet GmbH 品牌;德国 Aurich(Ostfriesland),Kornkamp 40;**MikroTik Master+VAD(名录信号);官网自宣 authorized MikroTik distributor(德授权分销);HRB 100364;UID DE194342953;ISP/WISP/酒店/培训/工业客谱;400G/数据心高端谱**;0421 244 019 0;info@4networks.de;**CEO Thilko Cullmann(官网团队版自署 O)+Head of Sales Bernd Eisenhauer+Sales Engineer Jamal Mehdi+Sales Manager Andreas Galke 全梯队具名谱**)
+- 【推断】R66 第 24 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,65 +75,74 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：+49 421 2440190 / info@4networks.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Thilko Cullmann**(CEO(官网团队版自署+Impressum 双源))— 4networks.de 官网 〔已有(公司官方公开件/登记册自曝);源:https://www.4networks.de/〕
+  - **Bernd Eisenhauer**(Head of Sales(LI 谱;销售头=直对口))— linkedin.com 件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/in/bernd-eisenhauer-a446b719b/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Thilko Cullmann | CEO(官网团队版自署+Impressum 双源) | 4networks.de 官网 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.4networks.de/ |
+| Bernd Eisenhauer | Head of Sales(LI 谱;销售头=直对口) | linkedin.com 件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.linkedin.com/in/bernd-eisenhauer-a446b719b/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 对照行
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：VAD 组合对照行
-- **要问的问题**：收对照行吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
-
-### 第 3 次跟进 · 留档
-
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第48批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第24波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://www.4networks.de|'Value Add Distributor' 自述+10 牌墙+销售团队核
-- **②芯片/型号**：多牌
-- **③KP 深挖**：分销多年
-- **④Saga 对标**：STC-424 对照行（$180 锚点一致）
-- **⑤在乎与偏好**：增值分销文化
+- **①背景再核**：4Networks IT-Distribution(emsnet GmbH 品牌;德国 Aurich(Ostfriesland),Kornkamp 40;**MikroTik Master+VAD(名录信号);官网自宣 authorized MikroTik distributor(德授权分销);HRB 100364;UID DE194342953;ISP/WISP/酒店/培训/工业客谱;400G/数据心高端谱**;0421 244 019 0;info@4networks.de;**CEO Thilko Cullmann(官网团队版自署 O)+Head of Sales Bernd Eisenhauer+Sales Engineer Jamal Mehdi+Sales Manager Andreas Galke 全梯队具名谱**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Thilko Cullmann(CEO(官网团队版自署+Impressum 双源),official-self-published·谱/leads-only(直发需 opt-in));Bernd Eisenhauer(Head of Sales(LI 谱;销售头=直对口),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：德授权分销自宣+CEO 具名=金档链窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**'Wir sind ein führender Value Add Distributor' + 牌墙 MikroTik/UniFi/Teltonika/Cambium/Zyxel
-  > 'Wir sind ein führender Value Add Distributor' + 牌墙 MikroTik/UniFi/Teltonika/Cambium/Zyxel
-  > 来源：https://www.4networks.de
+- **【决策链与对接人】**官网团队版:CEO Thilko Cullmann+Head of Sales Bernd Eisenhauer+Jamal Mehdi+Andreas Galke 全梯队具名
+  > 官网团队版:CEO Thilko Cullmann+Head of Sales Bernd Eisenhauer+Jamal Mehdi+Andreas Galke 全梯队具名
+  > 来源：https://www.4networks.de/
+- **【联系方式与基础画像】**omg.de/4networks.de;Aurich;0421 244 019 0;HRB 100364;德授权分销自宣
+  > omg.de/4networks.de;Aurich;0421 244 019 0;HRB 100364;德授权分销自宣
+  > 来源：https://www.4networks.de/en/mikrotik
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：德 Bremen VAD 分销（4 销售具名）
-- **产品线与在售品牌**：MikroTik/UniFi/Teltonika/Cambium/Zyxel
-- **目标行业与场景**：装维/集成/ISP/转售
-- **团队与规模**：（官网推）
-- **决策链与对接人**：info@4networks.de 口
-- **技术与认证**：—
-- **采购与供应链信号**：—
-- **近期动态与线索**：—
-- **与我方契合点**：VAD 组合价值对照正口
-- **风险与注意**：牌墙深——需差异化
+- **业务定位**：4Networks IT-Distribution(emsnet GmbH 品牌;德国 Aurich(Ostfriesland),Kornkamp 40;**MikroTik Master+VAD(名录信号);官网自宣 authorized MikroTik distributor(德授权分销);HRB 100364;UID DE194342953;ISP/WISP/酒店/培训/工业客谱;400G/数据心高端谱**;0421 244 019 0;info@4networks.de;**CEO Thilko Cullmann(官网团队版自署 O)+Head of Sales Bernd Eisenhauer+Sales Engineer Jamal Mehdi+Sales Manager Andreas Galke 全梯队具名谱**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国 ISP/WISP/酒店/教育/工业全国分销谱
+- **团队与规模**：分销中户谱
+- **决策链与对接人**：**Thilko Cullmann(CEO(官网团队版自署+Impressum 双源),official-self-published·谱/leads-only(直发需 opt-in));Bernd Eisenhauer(Head of Sales(LI 谱;销售头=直对口),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 24 波谱名牌(CEO 具名金谱)
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：具名直发需 opt-in；emsnet GmbH 法体名注(品牌↔法体)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -148,10 +157,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：牌墙对口
-- **W**：深
-- **O**：value 档
-- **T**：大牌
+- **S**：德授权分销自宣+CEO 具名=金档链窗
+- **W**：Aurich 远北谱(物流时效)
+- **O**：MSP/40G-400G 高端谱
+- **T**：MikroTik 官方链
 
 ## 触达与风险红线
 
@@ -170,7 +179,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -179,7 +188,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 首发量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -191,16 +201,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi 4Networks team,
+Sehr geehrter Herr Cullmann,
 
-A Value Add Distributor whose wall runs MikroTik, UniFi, Teltonika, Cambium, Zyxel, Clavister and Hikvision - with a named sales team of four. Access PoE is the one row where VAD economics get decided on spec sheets alone
-
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
-
-One question: for your reseller portfolio, is there room for a documented value PoE row?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

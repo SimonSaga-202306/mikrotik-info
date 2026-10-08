@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Setevuha（乌克兰）：Setevuha(UA):**机房全屋装备店**（交换机/服务器机柜/铜缆/光缆/PON/监控/门禁/智能家居/电源）;mikrotik@setevuha.ua 专用别名=MT 询单通道
-- 【推断】机房集成件店=交换类目主力段；mikrotik@ 别名=品牌询单体系化=谈判桌已开
-- 【假设】机柜/弱电集成店收录对照行（民用限定；MT 专线别名）
+- 【事实】Setevuha:Setevuha(乌克兰 Kyiv;**MikroTik Reseller(名录信号);自宣 MikroTik 乌克兰官方分销谱;双域 setevuha.ua/setevuha.com.ua(域差旗注)**;具名决策人谱面未锁→守档准由;**战区民用商业限定句必压(民用商业限定前句)**)
+- 【推断】R66 第 24 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -83,56 +83,59 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 收录
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：机柜/弱电集成店对照行（民用限定）
-- **要问的问题**：交换类目收行吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
-
-### 第 3 次跟进 · 留档
-
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第44批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第24波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://setevuha.com.ua|机房类目全（交换机+机柜+线材）+mikrotik@ 别名
-- **②芯片/型号**：——
-- **③KP 深挖**：店多年
-- **④Saga 对标**：STC-424 收录（$180 锚点一致）
-- **⑤在乎与偏好**：体系化店
+- **①背景再核**：Setevuha(乌克兰 Kyiv;**MikroTik Reseller(名录信号);自宣 MikroTik 乌克兰官方分销谱;双域 setevuha.ua/setevuha.com.ua(域差旗注)**;具名决策人谱面未锁→守档准由;**战区民用商业限定句必压(民用商业限定前句)**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 第 24 波点名(谱面无实名)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：官方分销自宣+双域谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Setevuha: Мережеве обладнання та системи безпеки; Популярні категорії: комутатори/серверні шафи/кабель/PON
-  > Setevuha: Мережеве обладнання та системи безпеки; Популярні категорії: комутатори/серверні шафи/кабель/PON
-  > 来源：https://setevuha.com.ua
+- **【联系方式与基础画像】**setevuha.com.ua 主站;setevuha.ua 双域谱(域差旗注);Kyiv
+  > setevuha.com.ua 主站;setevuha.ua 双域谱(域差旗注);Kyiv
+  > 来源：https://setevuha.com.ua/
+- **【业务定位】**MT 乌克兰官方分销自宣谱
+  > MT 乌克兰官方分销自宣谱
+  > 来源：https://setevuha.com.ua/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：乌机房全屋装备店
-- **产品线与在售品牌**：交换机/机柜/线材/光缆/PON/安防
-- **目标行业与场景**：装维/集成/企业
-- **团队与规模**：中型
-- **决策链与对接人**：mikrotik@ 专用别名
-- **技术与认证**：—
-- **采购与供应链信号**：—
-- **近期动态与线索**：—
-- **与我方契合点**：收录对照行（民用限定；MT 专线注）
-- **风险与注意**：—
+- **业务定位**：Setevuha(乌克兰 Kyiv;**MikroTik Reseller(名录信号);自宣 MikroTik 乌克兰官方分销谱;双域 setevuha.ua/setevuha.com.ua(域差旗注)**;具名决策人谱面未锁→守档准由;**战区民用商业限定句必压(民用商业限定前句)**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：乌克兰 ISP/企业;**战区民用商业限定句必压(民用商业限定前句)**
+- **团队与规模**：小中铺谱
+- **决策链与对接人**：**守档准由;R66 第 24 波点名(谱面无实名)**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 24 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：**战区民用商业限定句必压(民用商业限定前句)**；双域差旗注；具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -147,10 +150,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：类目齐
-- **W**：—
-- **O**：收录
-- **T**：两大牌
+- **S**：官方分销自宣+双域谱
+- **W**：域差旗
+- **O**：双域同牌谱
+- **T**：MikroTik 官方链
 
 ## 触达与风险红线
 
@@ -178,8 +181,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 收录意愿
-  - [ ] 首发量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -191,16 +194,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Setevuha team,
+Dear Setevuha Team,
 
-Cabinet, cable, switch, camera - you already sell the whole comms room except one honest value row. One honest framing note first: our offer is strictly for civilian commercial networking - nothing dual-use, nothing for state or military buyers. Here is a documented 24-port Gigabit PoE switch (280W, watchdog) at $180 USD EXW (2026-09-29) for your rack bundles.
-
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
-
-One question: would your switch category carry a documented value PoE row?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

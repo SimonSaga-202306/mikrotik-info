@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Controsys Control Engineering（匈牙利）：Controsys Kft.:**匈工业自动化分销/咨询——AVEVA 官方分销+Softing Industrial+Red Lion/N-Tron（工业 L3 交换谱明列）+codebeamer ALM+MB Connect Line 远接**;'irányítástechnika automatizálás' 专长
-- 【推断】Red Lion/N-Tron 工业交换谱在售=工业 PoE 类目存在；谱为高端（Red Lion 贵）=中档替补逻辑；工程师文化=文档/认证正中
-- 【假设】工业 PoE 类目替补档（Red Lion/N-Tron 谱旁 value 档）
+- 【事实】Controsys Control Engineering Ltd.:Controsys Control Engineering Ltd.(匈牙利 Budapest,Felső Határ út 20,H-1112;**分销(AVEVA/Red Lion/N-Tron/Sixnet/Softing 工业渠道);HMS 官方经销商名录档(Anybus/Ewon/N-Tron 谱);Red Lion 页面载「甚至军用级实时以太网交换机」字样=军防邻谱守界注**;+36 1 248-1416;具名决策人谱面未锁→守档准由;**p1=STI-288GP 供位谱;与波 24 A-478 ATEG(德国,HMS/Red Lion 同谱链)关联互注**)
+- 【推断】R66 第 24 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -85,56 +85,59 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 工业件
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：Red Lion/N-Tron 谱旁 value 工业 PoE 档
-- **要问的问题**：评估 value 档吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 样机
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：样机条款（统一口径=P1 系列，不外溢）
-- **切入点**：工程验证路径
-- **要问的问题**：要样测吗？
-- **随附/动作**：条款页
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第46批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第24波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://controsys.hu|Red Lion/N-Tron 工业交换谱+'akár IP67 menedzselt repes' PoE 段
-- **②芯片/型号**：N-Tron/Red Lion
-- **③KP 深挖**：自动化多年
-- **④Saga 对标**：**STI-288GP 工业件主腿**
-- **⑤在乎与偏好**：工程认证嗜好
+- **①背景再核**：Controsys Control Engineering Ltd.(匈牙利 Budapest,Felső Határ út 20,H-1112;**分销(AVEVA/Red Lion/N-Tron/Sixnet/Softing 工业渠道);HMS 官方经销商名录档(Anybus/Ewon/N-Tron 谱);Red Lion 页面载「甚至军用级实时以太网交换机」字样=军防邻谱守界注**;+36 1 248-1416;具名决策人谱面未锁→守档准由;**p1=STI-288GP 供位谱;与波 24 A-478 ATEG(德国,HMS/Red Lion 同谱链)关联互注**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 第 24 波点名(谱面无实名)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：HMS/AVEVA 双授权金档=工业链窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Controsys: AVEVA disztribútor + 'Red Lion, N-Tron ipari switchek Layer 3 ... PoE megoldások' 谱明列
-  > Controsys: AVEVA disztribútor + 'Red Lion, N-Tron ipari switchek Layer 3 ... PoE megoldások' 谱明列
-  > 来源：https://controsys.hu
+- **【联系方式与基础画像】**controsys.hu;Budapest;AVEVA/Red Lion/N-Tron/Sixnet/Softing 工业分销;+36 1 248-1416
+  > controsys.hu;Budapest;AVEVA/Red Lion/N-Tron/Sixnet/Softing 工业分销;+36 1 248-1416
+  > 来源：https://controsys.hu/
+- **【业务定位】**HMS 官方经销商名录档载 Anybus/Ewon/N-Tron 谱;Red Lion 军用级字样=守界注
+  > HMS 官方经销商名录档载 Anybus/Ewon/N-Tron 谱;Red Lion 军用级字样=守界注
+  > 来源：https://controsys.hu/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：匈工业自动化分销（AVEVA 官分）
-- **产品线与在售品牌**：AVEVA/Softing/**Red Lion-N-Tron 工业交换**/MB Connect Line
-- **目标行业与场景**：制造/过程工业
-- **团队与规模**：中型
-- **决策链与对接人**：controsys@ 口
-- **技术与认证**：AVEVA 官分
-- **采购与供应链信号**：B2B 分销
-- **近期动态与线索**：2026-07 牌墙更新
-- **与我方契合点**：**STI-288GP 工业 DIN 轨 PoE 替补档**（谱旁 value 档）
-- **风险与注意**：高端谱忠诚——替补需规格战
+- **业务定位**：Controsys Control Engineering Ltd.(匈牙利 Budapest,Felső Határ út 20,H-1112;**分销(AVEVA/Red Lion/N-Tron/Sixnet/Softing 工业渠道);HMS 官方经销商名录档(Anybus/Ewon/N-Tron 谱);Red Lion 页面载「甚至军用级实时以太网交换机」字样=军防邻谱守界注**;+36 1 248-1416;具名决策人谱面未锁→守档准由;**p1=STI-288GP 供位谱;与波 24 A-478 ATEG(德国,HMS/Red Lion 同谱链)关联互注**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：匈牙利 SCADA/工业控制分销谱;**军用级器件谱民用商用限定注(只做民用商用工业网建)**
+- **团队与规模**：分销中户谱
+- **决策链与对接人**：**守档准由;R66 第 24 波点名(谱面无实名)**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 24 波谱名牌(p1=STI-288GP 供位)
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：**军用级字眼守界注(民用商用工业限定)**；A-478 同谱链互注；具名缺(守档准由)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -149,10 +152,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：工业对口
-- **W**：高端谱
-- **O**：value 档
-- **T**：Red Lion
+- **S**：HMS/AVEVA 双授权金档=工业链窗
+- **W**：军用级字样邻谱
+- **O**：工业以太网对口
+- **T**：工业链
 
 ## 触达与风险红线
 
@@ -180,8 +183,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 类目开放
-  - [ ] 首发量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -193,14 +196,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Controsys team,
+Kedves Controsys Csapat,
 
-Your Red Lion and N-Tron lines cover the premium end of industrial switching - and your engineers know the mid-tier gap: affordable DIN-rail PoE that still means business. We build an 8-port Gigabit industrial PoE switch (DIN-rail, wide-temperature, fanless) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - price-locked for pioneer quotes.
-
-One question: beside the Red Lion/N-Tron lines, would you evaluate a documented value industrial PoE unit?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
