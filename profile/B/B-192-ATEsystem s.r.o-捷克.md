@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 29·B-192:捷克谱: **守档准由·原 R65/R57 谱基增厚**:ATEsystem s.r.o.(Ostrava Technologická 378/9(+Jablonec 分部);2013 创,11-5…
+- **是谁**：2013 创 13 年;Ostrava+Jablonec 双点;2025-12 管理层大变更(Šelong 入 Bilík 退 Žídek 退股)…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 机器视觉集成商 turnkey BOM 的 GigE 相机 PoE 供电 DIN 轨位(Antaira 旁二源或 OEM 变体)；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 29·B-192:捷克谱: **守档准由·原 R65/R57 谱基增厚**:ATEsystem s.r.o.(Ostrava Technologická 378/9(+Jablonec 分部);2013 创,11-50 人;**判型翻转=机器视觉(machine vision)专精集成商+组件分销**:Basler/JAI/Automation Tech | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 2013 创 13 年;Ostrava+Jablonec 双点;2025-12 管理层大变更(Šelong 入 Bilík 退 Žídek 退股) | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | 机器视觉+工业相机/组件+VISIONX 自牌+ITS;PoE 24 口=相机供电天然口 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 29·B-192:捷克谱: **守档准由·原 R65/R57 谱基增厚**:ATEsystem s.r.o.(Ostrava Technologická 378/9(+Jablonec 分部);2013 创,11-50 人;**判型翻转=机器视觉(machine vision)专精集成商+组件分销**:Basler/JAI/Automation Technology/Computar/Kowa/SCHNEIDER/CCS/Effilux 相机组件官分(捷克+斯洛伐克);**自有机器视觉 turnkey 系统开发**;NI Silver Alliance Partner;EU 基金研发;具名团队(Filip Volný 销售主管/Petr Bílovský 系统集成/Christian Kremser 工业相机);CSV 标 Antaira 授权为其工业网络件出处 | R65 深挖:Ostrawa 自动测试机检谱；Harhaj 13 年 Jednatel;R66 第 29 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第10波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 29 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】波 R67/TUB8·B-192:捷谱: **ATEsystem s.r.o. 深挖(rejstrik-firem/podnikatel/chytryrejstrik/atesystem.cz 官网 contact/customers/zivefirmy/info-ostrava 七源互证)**:**IČO 01392042,DIČ CZ01392042,Krajský soud v Ostravě C 55698/KSOS,2013-02-08 创(13 年);Základní kapitál 200,000 Kč;Datová schránka jxtq5qi;DUNS 361279689;Technologická 378/9,Pustkovec,708 00 Ostrava(总部;发票旧档 Studentská 6202/17);**分点 ATEsystem Jablonec s.r.o.(Palackého 3145/41,Jablonec nad Nisou)**;+420 595 172 720(系统集成)/595 170 472(相机组件部);atesystem@atesystem.cz;kamery@atesystem.cz(相机部直邮);eshop.atesystem.cz 在线店;FB/LI 双社交谱(3067958)**;**业务=机器视觉(strojové vidění/machine vision)系统设计实施+工业相机与组件销售(工业应用+智能交通系统 ITS)+生产测试系统(基于机器视觉);**VISIONX = 自有注册商标**;可行性研究/专业培训/技术支持服务;客户=汽车工业/电子/食品跨行业谱(官网 customers 页)**;**营收 100-200 mil. Kč(ČSÚ 2024 档);资产 54.609M Kč(-5% 档);利润 3.639M Kč(-31% 档);员工 25-49 区间( ČSÚ 档);CZ-NACE 主业=工业机器设备安装**;**KP 金谱:**Michal Harhaj**(Executive Director/Managing Director=执行总经理+创始 Jednatel 2013-02-08 起 13 年+**52% 大股东**,Ostrava Starobělská 1179/3,**+420 603 298 509,michal.harhaj@atesystem.cz 直邮直证**=P0)+**Ing. Dušan Šelong**(2025-12-08 新任 Jednatel,Hrabyně 264,Opava 区=10 个月前最新入谱!)+**Petr Bílovský**(16% 股东+系统集成/机电项目经理 Project Manager,+420 731 216 767,petr.bilovsky@atesystem.cz)+**Leoš Maršálek**(16% 股东,Přerov 区)+**Petr Bilík**(前 Jednatel 2025-12-08 退)+**Jan Žídek**(前股东+「výkonný ředitel」2025-12-08 退股=离任谱)+Miloslav Holba(机电,+420 733 129 907)+Jan Durčák(机电)+Dominik Pieter/Michal Kebo/Josef Havlíček/Josef Havlíček(联系人谱)=8+ 人谱**;**2025-12-08 管理层大变更:Bilík 退 Jednatel+Žídek 退股+Šelong 入 Jednatel;同日治理规则之变=「每位 Jednatel 单独代表」新制(原超 2M Kč 需双签旧制解除)**;**谱位=机器视觉 13 年专业户+工业相机分销(PoE 相机供电天然谱位!)+VISIONX 自牌+智能交通 ITS 谱=我方 24 口 PoE 对口(相机 PoE 供电+工业网络)=批 8 技术对口钩**。
+- 【推断】R67/TUB 推土机深挖 批8 B 类金谱批2
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+机器视觉+工业相机/组件+VISIONX 自牌+ITS;PoE 24 口=相机供电天然口
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -69,7 +69,7 @@ STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 波 29·B-192:捷克谱: **守档准由·原 R65/R57 谱基增厚**:ATEsystem s.r.o.(Ostrava Technologická 378/9(+Jablonec 分部);2013 创,11-50 人;**判型翻转=机器视觉(machine vision)专精集成商+组件分销**:Basler/JAI/Automation Technology/Computar/Kowa/SCHNEIDER/CCS/Effilux 相机组件官分(捷克+斯洛伐克);**自有机器视觉 turnkey 系统开发**;NI Silver Alliance Partner;EU 基金研发;具名团队(Filip Volný 销售主管/Petr Bílovský 系统集成/Christian Kremser 工业相机);CSV 标 Antaira 授权为其工业网络件出处 | R65 深挖:Ostrawa 自动测试机检谱；Harhaj 13 年 Jednatel;R66 第 29 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第10波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -93,47 +93,53 @@ STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · Harhaj 52% 大股东 P0
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：守档铺位 → 价锚卡
-- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
-- **随附/动作**：规格页
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
+- **切入点**：执行总经理+52% 大股东 13 年 → 24 口 PoE(相机 PoE 供电+机器视觉项目)
+- **要问的问题**：贵司机器视觉项目的 24 口 PoE 交换机集购由哪位主责?
+- **随附/动作**：rejstrik/官网 4 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · Bílovský PM 16% 股东
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：项目经理+股东双谱=项目线 P0
+- **要问的问题**：贵司系统集成项目的网络件集购口?
+- **随附/动作**：官网谱
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · Šelong 2025-12 新 Jednatel
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：新任 Jednatel 10 个月谱=新谱口
+- **要问的问题**：贵司 VISIONX 自牌线的样件送样口?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批8.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 29·B-192:捷克谱: **守档准由·原 R65/R57 谱基增厚**:ATEsystem s.r.o.(Ostrava Technologická 378/9(+Jablonec 分部);2013 创,11-50 人;**判型翻转=机器视觉(machine vision)专精集成商+组件分销**:Basler/JAI/Automation Technology/Computar/Kowa/SCHNEIDER/CCS/Effilux 相机组件官分(捷克+斯洛伐克);**自有机器视觉 turnkey 系统开发**;NI Silver Alliance Partner;EU 基金研发;具名团队(Filip Volný 销售主管/Petr Bílovský 系统集成/Christian Kremser 工业相机);CSV 标 Antaira 授权为其工业网络件出处 | R65 深挖:Ostrawa 自动测试机检谱；Harhaj 13 年 Jednatel;R66 第 29 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第10波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
-- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
-- **关注点与资质**：捷克 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
-- **Saga产品适配**：STI-288GP vs PLANET/当批价差窗
+- **背景深描**：2013 创 13 年;Ostrava+Jablonec 双点;2025-12 管理层大变更(Šelong 入 Bilík 退 Žídek 退股)
+- **芯片与在用型号**：机器视觉+工业相机/组件+VISIONX 自牌+ITS;PoE 24 口=相机供电天然口
+- **关键人KP**：Harhaj(52% 大股东+执行 GM 13 年,直邮直证)+Šelong(2025-12 新)+Bílovský(16%+PM,直邮)+Maršálek(16%)+Holba(机电,直邮)=5 人谱
+- **关注点与资质**：工业相机/机器视觉 → 24 口 PoE 相机供电(天然对口=批 8 技术钩)
+- **优缺点SWOT**：S=PoE 相机供电天然对口+52% 大股东直决·W=营收/利润双降档注;交接期双线·O=机器视觉项目+ITS 户外 PoE+VISIONX 自牌通道·T=中东欧机器视觉竞合谱
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):VISIONX 自牌谱=白标开发通道;ITS 户外谱位;汽车工业客户谱;eshop 在线店
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**ATEsystem s.r.o.(Ostrava Technologická 378/9(+Jablonec 分部);2013 创,11-50 人;**判型翻转=机器视觉(machine vision)专精集成商+组件分销**:Basler/JAI/Automation Technology/Computar/Kowa
-  > ATEsystem s.r.o.(Ostrava Technologická 378/9(+Jablonec 分部);2013 创,11-50 人;**判型翻转=机器视觉(machine vision)专精集成商+组件分销**:Basler/JAI/Automation Technology/Computar/Kowa
-  > 来源：https://atesystem.cz/
-- **【联系方式与基础画像】**CSV 入口:+420 595 172 720 / atesystem@atesystem.cz
-  > CSV 入口:+420 595 172 720 / atesystem@atesystem.cz
-  > 来源：https://atesystem.cz/
+- **【法体登册】**ATEsystem s.r.o.;IČO 01392042;DIČ CZ01392042;C 55698/KSOS Krajský soud v Ostravě;vznik 8.2.2013;Základní kapitál 200 000 Kč;Technologická 378/9, Ostrava-Pustkovec;Jednatelé Michal Harhaj(8.2.2013-)+Ing. Dušan Šelong(8.12.2025-);Společníci Harhaj 52%/Maršálek 16%/Bílovský 16%;Obrat 100-200 mil. Kč(ČSÚ 2024)
+  > ATEsystem s.r.o.;IČO 01392042;DIČ CZ01392042;C 55698/KSOS Krajský soud v Ostravě;vznik 8.2.2013;Základní kapitál 200 000 Kč;Technologická 378/9, Ostrava-Pustkovec;Jednatelé Michal Harhaj(8.2.2013-)+Ing. Dušan Šelong(8.12.2025-);Společníci Harhaj 52%/Maršálek 16%/Bílovský 16%;Obrat 100-200 mil. Kč(ČSÚ 2024)
+  > 来源：https://rejstrik-firem.kurzy.cz/01392042/atesystem-sro/
+- **【管理变更谱】**8.12.2025: Zapsán jednatel Ing. DUŠAN ŠELONG;Vymazán jednatel Petr Bilík;Vymazán společník Jan Žídek;Způsob jednání: každý jednatel jedná samostatně(原超 2M Kč 双签制解除)
+  > 8.12.2025: Zapsán jednatel Ing. DUŠAN ŠELONG;Vymazán jednatel Petr Bilík;Vymazán společník Jan Žídek;Způsob jednání: každý jednatel jedná samostatně(原超 2M Kč 双签制解除)
+  > 来源：https://www.podnikatel.cz/rejstrik/atesystem-s-r-o-01392042/
+- **【KP/产品谱】**Company Management: Michal Harhaj Executive Director/Managing Director(+420 603 298 509, michal.harhaj@atesystem.cz);Petr Bílovský Project Manager(+420 731 216 767, petr.bilovsky@);Miloslav Holba Mechatronics(+420 733 129 907);machine vision systems, cameras and components for industrial applications and intelligent traffic systems
+  > Company Management: Michal Harhaj Executive Director/Managing Director(+420 603 298 509, michal.harhaj@atesystem.cz);Petr Bílovský Project Manager(+420 731 216 767, petr.bilovsky@);Miloslav Holba Mechatronics(+420 733 129 907);machine vision systems, cameras and components for industrial applications and intelligent traffic systems
+  > 来源：https://www.atesystem.cz/en/company-address
+- **【财务谱】**Obrat 100-200 mil. Kč(čsú, 2024);Aktiva 54 609 000 Kč(-5%);Zisk 3 639 000 Kč(-31%);Počet zaměstnanců 25-49;CZ-NACE instalace průmyslových strojů a zařízení
+  > Obrat 100-200 mil. Kč(čsú, 2024);Aktiva 54 609 000 Kč(-5%);Zisk 3 639 000 Kč(-31%);Počet zaměstnanců 25-49;CZ-NACE instalace průmyslových strojů a zařízení
+  > 来源：https://www.chytryrejstrik.cz/ico-01392042/atesystem-s-r-o
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -146,7 +152,7 @@ STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
+S=PoE 相机供电天然对口+52% 大股东直决·W=营收/利润双降档注;交接期双线·O=机器视觉项目+ITS 户外 PoE+VISIONX 自牌通道·T=中东欧机器视觉竞合谱
 
 ## 触达与风险红线
 
@@ -174,8 +180,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节�
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] MikroTik/现售网络件谱位需官网/eshop 核
+  - [ ] Harhaj/Bílovský 直邮已有(直证)
+  - [ ] 2025-12 交接后股权终态(余 16% 归属)
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -187,9 +194,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节�
 **主题**：PoE switching for your line
 
 ```text
-Dear ATEsystem s.r.o. Team,
+Dear Michal and Petr,
 
-We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — EXW open for machine vision and industrial camera deployments. Reference: $165 USD EXW (2026-10-08, 15 days valid). A value unit for PoE camera power and ITS outdoor projects. Datasheet + CE pack on request.
 
 Best regards
 Saga / SmartByte ODM

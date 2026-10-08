@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 30·B-307:立陶宛谱: **守档准由·原 R65/R57 谱基增厚**:ACC Distribution UAB(Kaunas Raudondvario pl. 131B;1998 注册;**ACME Grup…
+- **是谁**：1998 创 28 年;Kaunas;波罗的海三国网(LT 总部+LV Mārupe+EE Tallinn);ACME 集团域谱…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 波罗的海巨头集团架的 value stocking PoE SKU；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 30·B-307:立陶宛谱: **守档准由·原 R65/R57 谱基增厚**:ACC Distribution UAB(Kaunas Raudondvario pl. 131B;1998 注册;**ACME Grupė 系波罗的海分销巨头:2025 营收 €394.49M/净利 €5.75M,300+ 供应商/20,000+ SKU,7 家公司横跨 LT | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 1998 创 28 年;Kaunas;波罗的海三国网(LT 总部+LV Mārupe+EE Tallinn);ACME 集团域谱 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | 电脑/外围/软件批发;「技术之门」区域进入分销;PoE 24 口=分销谱位新品引入线 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 30·B-307:立陶宛谱: **守档准由·原 R65/R57 谱基增厚**:ACC Distribution UAB(Kaunas Raudondvario pl. 131B;1998 注册;**ACME Grupė 系波罗的海分销巨头:2025 营收 €394.49M/净利 €5.75M,300+ 供应商/20,000+ SKU,7 家公司横跨 LT/LV/EE,200+ 员工**;CONTEXT ChannelWatch 2022 四奖:波罗的海年度分销/最佳网络安全伙伴/最佳客服/最佳物流;Dell/Lenovo/Xiaomi/Asus/Acer/Microsoft/LG/Samsung 等在位;info@accdistribution.lt) | R64 并入:Žymantas Baušys = Direktorius(2017-07-05 至今,前财务总监 2015-);Reg;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第12波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 30 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】波 R67/TUB8·B-307:立陶宛谱: **ACC Distribution UAB 深挖(okredo/rekvizitai 官网/about-us/contact-us/D&B/info.lt/tax.lt/LI 八源互证)**:**Įmonės kodas 135150085,PVM LT351500811,1998-04-17 创(28 年老谱!);Įstatinis kapitalas 691,856.20 EUR;Raudondvario pl. 131B,LT-47191 Kaunas(总部)+Vilnius 办公室 A. Goštauto g. 40C+Karmėlava 仓库物流 Terminalo g. 8+**拉脱维亚 Mārupe(Malduguņu 2, LV-2167)+爱沙尼亚 Talinn(ACC Distribution OÜ)=波罗的海 三国全铺集团网**;+370 37 333933;info@accdistribution.lt;support@accdistribution.lt;Swedbank HABALT22 谱**;**2024 营收 365,384,000 EUR(okredo 官方财报直引)/370 mln €(tax.lt 窗)双窗注;净利 5,496,000 EUR(okredo)/6.49 mln €(tax.lt)双窗注;员工 218(SODRA 2025-08-27)/215(info.lt)210(tax.lt Sodra 2025-09)/100-999(D&B 窗)多窗;平均薪资 €4,050.94(2026-04)/€3,621 双窗;24 辆车;股东=3(2 立陶宛个人+1 立陶宛法人)**;**业务=电脑/外围设备/软件批发(EVRK 46.51.00);自白「Mes esame vartai į technologijas 我们是技术之门」:全球厂商战略×本地执行=区域进入+新品新品牌引入分销;集团谱=@acme.lt 域(ACME 集团关联);集团旗下 Servisa ICT+MTTC 两司(LI 引 Delfi 报道)**;**KP 董事会金谱(官网 About-us 七人全具名):Regimantas Buožius(Valdybos pirmininkas 董事会主席)+Žymantas Baušys(Direktorius/CEO=总经理 2017-07-05 任至今 9 年,rekvizitai+D&B Key Principal 双直证)+Marijus Miceika(Komercijos departamento direktorius 商业部总监,LI 自白 20 年司龄谱)+Julius Vaitkaitis(Finansų direktorius 财务总监)+Dalia Jančiukienė(Baltijos šalių pardavimų departamento vadovė 波罗的海销售部主管)+Skirmantas Baitis(Operacijų ir logistikos direktorius 运营与物流总监)+Aušra Puodžiūnė(Verslo procesų ir technologijų departamento vadovė 业务流程与技术部主管)=7 人董事会谱;+Andrius Čekanavičius(Head of Baltic Sales,LI)/Egidijus Sabaitis(Brand Manager,LI/Delfi 引)/Agnė Jankauskė(媒体联络 agne.jankauske@acme.lt)/Sergej Artemiuk(D&B Board Member 谱)=11 人全谱**;**谱位=波罗的海地区最大 IT 分销商梯队(€365M 营收=立陶宛大盘)=我方 ODM EXW 区域进入天然对口=批 8 最大钩**;法院谱=2024-2025 数起债权人催收案(European payment order 申请=正常商事催收谱注)。
+- 【推断】R67/TUB 推土机深挖 批8 B 类金谱批2
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+电脑/外围/软件批发;「技术之门」区域进入分销;PoE 24 口=分销谱位新品引入线
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -67,7 +67,7 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 波 30·B-307:立陶宛谱: **守档准由·原 R65/R57 谱基增厚**:ACC Distribution UAB(Kaunas Raudondvario pl. 131B;1998 注册;**ACME Grupė 系波罗的海分销巨头:2025 营收 €394.49M/净利 €5.75M,300+ 供应商/20,000+ SKU,7 家公司横跨 LT/LV/EE,200+ 员工**;CONTEXT ChannelWatch 2022 四奖:波罗的海年度分销/最佳网络安全伙伴/最佳客服/最佳物流;Dell/Lenovo/Xiaomi/Asus/Acer/Microsoft/LG/Samsung 等在位;info@accdistribution.lt) | R64 并入:Žymantas Baušys = Direktorius(2017-07-05 至今,前财务总监 2015-);Reg;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第12波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -91,47 +91,53 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · Baušys CEO+Miceika 商业总监双轨
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：守档铺位 → 价锚卡
-- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
-- **随附/动作**：规格页
+- **切入点**：CEO 2017+商业总监 20 年 → 24 口 PoE(波罗的海三国分销谱;技术之门区域进入)
+- **要问的问题**：贵司波罗的海三国分销线的 24 口 PoE 交换机集购由哪位同事主责?
+- **随附/动作**：官网/okredo 6 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · Jančiukienė 波罗的海销售主管
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：波罗的海销售部主管=渠道线 P0;三国网谱
+- **要问的问题**：贵司三国渠道线的 PoE 谱口?
+- **随附/动作**：官网谱
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · Baitis 运营/物流总监
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：运营与物流总监=仓储/送样口;Karmėlava 仓谱
+- **要问的问题**：贵司仓储物流线的网络件送样口?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批8.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 30·B-307:立陶宛谱: **守档准由·原 R65/R57 谱基增厚**:ACC Distribution UAB(Kaunas Raudondvario pl. 131B;1998 注册;**ACME Grupė 系波罗的海分销巨头:2025 营收 €394.49M/净利 €5.75M,300+ 供应商/20,000+ SKU,7 家公司横跨 LT/LV/EE,200+ 员工**;CONTEXT ChannelWatch 2022 四奖:波罗的海年度分销/最佳网络安全伙伴/最佳客服/最佳物流;Dell/Lenovo/Xiaomi/Asus/Acer/Microsoft/LG/Samsung 等在位;info@accdistribution.lt) | R64 并入:Žymantas Baušys = Direktorius(2017-07-05 至今,前财务总监 2015-);Reg;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第12波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
-- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
-- **关注点与资质**：立陶宛 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
-- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **背景深描**：1998 创 28 年;Kaunas;波罗的海三国网(LT 总部+LV Mārupe+EE Tallinn);ACME 集团域谱
+- **芯片与在用型号**：电脑/外围/软件批发;「技术之门」区域进入分销;PoE 24 口=分销谱位新品引入线
+- **关键人KP**：Buožius 董事会主席+Baušys CEO(2017)+Miceika 商业(20 年)+Vaitkaitis 财务+Jančiukienė 销售+Baitis 运营/物流+Puodžiūnė 流程/技术=7 人官网直证+Čekanavičius/Sabaitis/Jankauskė/Artemiuk 4 轨=11 人全谱
+- **关注点与资质**：波罗的海大谱分销 → 24 口 PoE 三国谱位(EXW 区域进入天然口)
+- **优缺点SWOT**：S=€365M 波罗的海大谱+三国网+28 年老谱·W=大盘决策链长;ACME 集团层级注·O=区域进入「技术之门」自白=新品引入对口·T=波罗的海三国单盘谱
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):€365M 大盘稳;三国一次进入;新品新品牌引入服务谱;立陶宛本土谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**ACC Distribution UAB(Kaunas Raudondvario pl. 131B;1998 注册;**ACME Grupė 系波罗的海分销巨头:2025 营收 €394.49M/净利 €5.75M,300+ 供应商/20,000+ SKU,7 家公司横跨 LT/LV/EE,200+ 员工**;CONT
-  > ACC Distribution UAB(Kaunas Raudondvario pl. 131B;1998 注册;**ACME Grupė 系波罗的海分销巨头:2025 营收 €394.49M/净利 €5.75M,300+ 供应商/20,000+ SKU,7 家公司横跨 LT/LV/EE,200+ 员工**;CONT
-  > 来源：https://accdistribution.eu/
-- **【联系方式与基础画像】**CSV 入口:+370 37 33 39 33 / info@accdistribution.lt
-  > CSV 入口:+370 37 33 39 33 / info@accdistribution.lt
-  > 来源：https://accdistribution.eu/
+- **【法体登册】**UAB ACC Distribution;Įmonės kodas 135150085;PVM kodas LT351500811;Registracijos data 1998-04-17;Įstatinis kapitalas 691 856,20 EUR;2024 m. pardavimo pajamos 365 384 000 EUR;grynasis pelnas 5 496 000 EUR;218 darbuotojų(SODRA 2025-08-27);Kaunas, Raudondvario pl. 131B;3 akcininkai
+  > UAB ACC Distribution;Įmonės kodas 135150085;PVM kodas LT351500811;Registracijos data 1998-04-17;Įstatinis kapitalas 691 856,20 EUR;2024 m. pardavimo pajamos 365 384 000 EUR;grynasis pelnas 5 496 000 EUR;218 darbuotojų(SODRA 2025-08-27);Kaunas, Raudondvario pl. 131B;3 akcininkai
+  > 来源：https://okredo.com/lt-lt/imone/uab-acc-distribution-135150085
+- **【KP 矩阵】**Žymantas Baušys Direktorius 2017-07-05;Regimantas Buožius Valdybos pirmininkas;Marijus Miceika Komercijos departamento direktorius;Julius Vaitkaitis Finansų direktorius;Dalia Jančiukienė Baltijos pardavimų vadovė;Skirmantas Baitis Operacijų ir logistikos direktorius;Aušra Puodžiūnė Verslo procesų vadovė
+  > Žymantas Baušys Direktorius 2017-07-05;Regimantas Buožius Valdybos pirmininkas;Marijus Miceika Komercijos departamento direktorius;Julius Vaitkaitis Finansų direktorius;Dalia Jančiukienė Baltijos pardavimų vadovė;Skirmantas Baitis Operacijų ir logistikos direktorius;Aušra Puodžiūnė Verslo procesų vadovė
+  > 来源：https://accdistribution.eu/lt/about-us/
+- **【集团谱】**Raudondvario pl. 131B, Kaunas(总部)+A. Goštauto g. 40C Vilnius+Terminalo g. 8 Karmėlava(仓库)+Malduguņu 2, Mārupe, Latvia+ACC Distribution OÜ Tallinn, Estonia;Agnė Jankauskė agne.jankauske@acme.lt;info@accdistribution.lt;+370 37 333933
+  > Raudondvario pl. 131B, Kaunas(总部)+A. Goštauto g. 40C Vilnius+Terminalo g. 8 Karmėlava(仓库)+Malduguņu 2, Mārupe, Latvia+ACC Distribution OÜ Tallinn, Estonia;Agnė Jankauskė agne.jankauske@acme.lt;info@accdistribution.lt;+370 37 333933
+  > 来源：https://accdistribution.eu/lt/contact-us/
+- **【薪资/规模】**215 darbuotojų(apdraustųjų);Vidutinis atlyginimas 4 050,94 €(2026 balandis);Direktorius Regimantas Buožius(注:info.lt 旧档,Buožius 现为董事会主席)
+  > 215 darbuotojų(apdraustųjų);Vidutinis atlyginimas 4 050,94 €(2026 balandis);Direktorius Regimantas Buožius(注:info.lt 旧档,Buožius 现为董事会主席)
+  > 来源：https://www.info.lt/imones/ACC-Distribution-UAB/2138617
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -144,7 +150,7 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+S=€365M 波罗的海大谱+三国网+28 年老谱·W=大盘决策链长;ACME 集团层级注·O=区域进入「技术之门」自白=新品引入对口·T=波罗的海三国单盘谱
 
 ## 触达与风险红线
 
@@ -172,8 +178,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] MikroTik 谱位(拉脱维亚 MikroTik 为波罗的海本土品牌=竞合谱位需核)
+  - [ ] Baušys/Miceika 直邮推档
+  - [ ] 集团股东 3 位明细
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -185,9 +192,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 **主题**：PoE switching for your line
 
 ```text
-Dear ACC Distribution UAB Team,
+Dear Žymantas and Marijus Team,
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — EXW open for Baltic distribution across Lithuania, Latvia and Estonia. Reference: $165 USD EXW (2026-10-08, 15 days valid). A value unit for your 'gateway to technologies' portfolio. Datasheet + CE pack on request.
 
 Best regards
 Saga / SmartByte ODM

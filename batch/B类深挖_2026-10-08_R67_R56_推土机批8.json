@@ -1,0 +1,724 @@
+{
+ "records": [
+  {
+   "customer": "B-307",
+   "code": "B-307",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB8·B-307:立陶宛谱: **ACC Distribution UAB 深挖(okredo/rekvizitai 官网/about-us/contact-us/D&B/info.lt/tax.lt/LI 八源互证)**:**Įmonės kodas 135150085,PVM LT351500811,1998-04-17 创(28 年老谱!);Įstatinis kapitalas 691,856.20 EUR;Raudondvario pl. 131B,LT-47191 Kaunas(总部)+Vilnius 办公室 A. Goštauto g. 40C+Karmėlava 仓库物流 Terminalo g. 8+**拉脱维亚 Mārupe(Malduguņu 2, LV-2167)+爱沙尼亚 Talinn(ACC Distribution OÜ)=波罗的海 三国全铺集团网**;+370 37 333933;info@accdistribution.lt;support@accdistribution.lt;Swedbank HABALT22 谱**;**2024 营收 365,384,000 EUR(okredo 官方财报直引)/370 mln €(tax.lt 窗)双窗注;净利 5,496,000 EUR(okredo)/6.49 mln €(tax.lt)双窗注;员工 218(SODRA 2025-08-27)/215(info.lt)210(tax.lt Sodra 2025-09)/100-999(D&B 窗)多窗;平均薪资 €4,050.94(2026-04)/€3,621 双窗;24 辆车;股东=3(2 立陶宛个人+1 立陶宛法人)**;**业务=电脑/外围设备/软件批发(EVRK 46.51.00);自白「Mes esame vartai į technologijas 我们是技术之门」:全球厂商战略×本地执行=区域进入+新品新品牌引入分销;集团谱=@acme.lt 域(ACME 集团关联);集团旗下 Servisa ICT+MTTC 两司(LI 引 Delfi 报道)**;**KP 董事会金谱(官网 About-us 七人全具名):Regimantas Buožius(Valdybos pirmininkas 董事会主席)+Žymantas Baušys(Direktorius/CEO=总经理 2017-07-05 任至今 9 年,rekvizitai+D&B Key Principal 双直证)+Marijus Miceika(Komercijos departamento direktorius 商业部总监,LI 自白 20 年司龄谱)+Julius Vaitkaitis(Finansų direktorius 财务总监)+Dalia Jančiukienė(Baltijos šalių pardavimų departamento vadovė 波罗的海销售部主管)+Skirmantas Baitis(Operacijų ir logistikos direktorius 运营与物流总监)+Aušra Puodžiūnė(Verslo procesų ir technologijų departamento vadovė 业务流程与技术部主管)=7 人董事会谱;+Andrius Čekanavičius(Head of Baltic Sales,LI)/Egidijus Sabaitis(Brand Manager,LI/Delfi 引)/Agnė Jankauskė(媒体联络 agne.jankauske@acme.lt)/Sergej Artemiuk(D&B Board Member 谱)=11 人全谱**;**谱位=波罗的海地区最大 IT 分销商梯队(€365M 营收=立陶宛大盘)=我方 ODM EXW 区域进入天然对口=批 8 最大钩**;法院谱=2024-2025 数起债权人催收案(European payment order 申请=正常商事催收谱注)。",
+   "inference": "R67/TUB 推土机深挖 批8 B 类金谱批2",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://okredo.com/lt-lt/imone/uab-acc-distribution-135150085",
+   "tech": "电脑/外围/软件批发+区域进入分销;波罗的海三国全铺;ACME 集团谱",
+   "hr": "218(SODRA 2025-08)/215/210 三窗;28 年;Kaunas 总部+三国网;€365M 营收",
+   "contact_found": "**Regimantas Buožius(董事会主席)+Žymantas Baušys(CEO 2017 任 P0)+Marijus Miceika(商业总监 20 年)+Julius Vaitkaitis(财务总监)+Dalia Jančiukienė(波罗的海销售主管)+Skirmantas Baitis(运营/物流总监)+Aušra Puodžiūnė(流程/技术主管)+Andrius Čekanavičius(波罗的海销售 Head)**",
+   "contact_pending": "具名直邮需领英;info@accdistribution.lt CSV 既有;董事会全谱官网 About-us 直证",
+   "dims": {
+    "业务定位": "ACC Distribution UAB(Kaunas,1998 创 28 年):波罗的海 IT/消费电子批发分销商 €365M 大盘,LT+LV+EE 三国网",
+    "产品线与在售品牌": "电脑/外围/软件批发(46.51.00)+区域进入分销(新品新品牌引入);Servisa ICT+MTTC 集团两司;ACME 集团域谱",
+    "目标行业与场景": "波罗的海三国零售/VAR/企业渠道;「技术之门」区域进入服务",
+    "团队与规模": "218/215/210 三窗;28 年;€365M 营收 2024;Swedbank 谱",
+    "决策链与对接人": "Buožius(董事会主席)+Baušys(CEO 2017)+Miceika(商业 20 年)+Vaitkaitis(财务)+Jančiukienė(销售)+Baitis(运营/物流)+Puodžiūnė(流程/技术)+Čekanavičius(波罗的海销售 Head)",
+    "技术与认证": "€365,384,000 官方财报(okredo 直引);净利 €5.5M;24 车;3 股东(2 个人+1 法人)",
+    "采购与供应链信号": "**波罗的海区域进入分销=我方 ODM EXW 天然对口(「技术之门」谱自白);三国网=一次进入三国**",
+    "近期动态与线索": "LI 3,782 粉;Delfi 媒体谱;Servisa ICT/MTTC 集团旗下司谱;2024-2025 债权催收案谱注",
+    "与我方契合点": "Baušys CEO+Miceika 商业总监+Jančiukienė 销售主管三轨 → 24 口 PoE(波罗的海分销谱位)",
+    "风险与注意": "**€365M 大盘=高层决策链长;ACME 集团谱注;催收案谱注(谱位判断中性)**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "UAB ACC Distribution;Įmonės kodas 135150085;PVM kodas LT351500811;Registracijos data 1998-04-17;Įstatinis kapitalas 691 856,20 EUR;2024 m. pardavimo pajamos 365 384 000 EUR;grynasis pelnas 5 496 000 EUR;218 darbuotojų(SODRA 2025-08-27);Kaunas, Raudondvario pl. 131B;3 akcininkai",
+     "source": "https://okredo.com/lt-lt/imone/uab-acc-distribution-135150085"
+    },
+    {
+     "dim": "KP 矩阵",
+     "quote": "Žymantas Baušys Direktorius 2017-07-05;Regimantas Buožius Valdybos pirmininkas;Marijus Miceika Komercijos departamento direktorius;Julius Vaitkaitis Finansų direktorius;Dalia Jančiukienė Baltijos pardavimų vadovė;Skirmantas Baitis Operacijų ir logistikos direktorius;Aušra Puodžiūnė Verslo procesų vadovė",
+     "source": "https://accdistribution.eu/lt/about-us/"
+    },
+    {
+     "dim": "集团谱",
+     "quote": "Raudondvario pl. 131B, Kaunas(总部)+A. Goštauto g. 40C Vilnius+Terminalo g. 8 Karmėlava(仓库)+Malduguņu 2, Mārupe, Latvia+ACC Distribution OÜ Tallinn, Estonia;Agnė Jankauskė agne.jankauske@acme.lt;info@accdistribution.lt;+370 37 333933",
+     "source": "https://accdistribution.eu/lt/contact-us/"
+    },
+    {
+     "dim": "薪资/规模",
+     "quote": "215 darbuotojų(apdraustųjų);Vidutinis atlyginimas 4 050,94 €(2026 balandis);Direktorius Regimantas Buožius(注:info.lt 旧档,Buožius 现为董事会主席)",
+     "source": "https://www.info.lt/imones/ACC-Distribution-UAB/2138617"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Baušys CEO+Miceika 商业总监双轨",
+     "push": "STC-424XGGPM-280W",
+     "angle": "CEO 2017+商业总监 20 年 → 24 口 PoE(波罗的海三国分销谱;技术之门区域进入)",
+     "question": "贵司波罗的海三国分销线的 24 口 PoE 交换机集购由哪位同事主责?",
+     "proof": "官网/okredo 6 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Jančiukienė 波罗的海销售主管",
+     "push": "STI-288GPM/424",
+     "angle": "波罗的海销售部主管=渠道线 P0;三国网谱",
+     "question": "贵司三国渠道线的 PoE 谱口?",
+     "proof": "官网谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Baitis 运营/物流总监",
+     "push": "STC-28DGGPM",
+     "angle": "运营与物流总监=仓储/送样口;Karmėlava 仓谱",
+     "question": "贵司仓储物流线的网络件送样口?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1998 创 28 年;Kaunas;波罗的海三国网(LT 总部+LV Mārupe+EE Tallinn);ACME 集团域谱",
+     "②芯片/型号": "电脑/外围/软件批发;「技术之门」区域进入分销;PoE 24 口=分销谱位新品引入线",
+     "③KP 深挖": "Buožius 董事会主席+Baušys CEO(2017)+Miceika 商业(20 年)+Vaitkaitis 财务+Jančiukienė 销售+Baitis 运营/物流+Puodžiūnė 流程/技术=7 人官网直证+Čekanavičius/Sabaitis/Jankauskė/Artemiuk 4 轨=11 人全谱",
+     "④Saga 对标": "波罗的海大谱分销 → 24 口 PoE 三国谱位(EXW 区域进入天然口)",
+     "⑤在乎与偏好": "€365M 大盘稳;三国一次进入;新品新品牌引入服务谱;立陶宛本土谱",
+     "⑥SWOT": "S=€365M 波罗的海大谱+三国网+28 年老谱/W=大盘决策链长;ACME 集团层级注/O=区域进入「技术之门」自白=新品引入对口/T=波罗的海三国单盘谱"
+    },
+    "care": "- **S**:€365M 波罗的海大谱+三国网+28 年老谱\n- **W**:大盘决策链长;ACME 集团层级注\n- **O**:区域进入「技术之门」自白=新品引入对口\n- **T**:波罗的海三国单盘谱",
+    "swot": {
+     "S": "€365M 波罗的海大谱+三国网+28 年老谱",
+     "W": "大盘决策链长;ACME 集团层级注",
+     "O": "区域进入「技术之门」自白=新品引入对口",
+     "T": "波罗的海三国单盘谱"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批8 B 类金谱批2",
+    "gap_proof": "https://okredo.com/lt-lt/imone/uab-acc-distribution-135150085"
+   },
+   "unknowns": [
+    "MikroTik 谱位(拉脱维亚 MikroTik 为波罗的海本土品牌=竞合谱位需核)",
+    "Baušys/Miceika 直邮推档",
+    "集团股东 3 位明细"
+   ],
+   "unknowns56": [
+    "MikroTik 谱位(拉脱维亚 MikroTik 为波罗的海本土品牌=竞合谱位需核)",
+    "Baušys/Miceika 直邮推档",
+    "集团股东 3 位明细"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批8 B 类",
+   "email": "Dear Žymantas and Marijus Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — EXW open for Baltic distribution across Lithuania, Latvia and Estonia. Reference: $165 USD EXW (2026-10-08, 15 days valid). A value unit for your 'gateway to technologies' portfolio. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**Žymantas Baušys(CEO P0)+Marijus Miceika(商业部总监,20 年司龄)+Dalia Jančiukienė(波罗的海销售部主管)**; info@accdistribution.lt(CSV 既有); +370 37 333933",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "1998 创 28 年;Kaunas;波罗的海三国网(LT 总部+LV Mārupe+EE Tallinn);ACME 集团域谱",
+    "芯片与在用型号": "电脑/外围/软件批发;「技术之门」区域进入分销;PoE 24 口=分销谱位新品引入线",
+    "关键人KP": "Buožius 董事会主席+Baušys CEO(2017)+Miceika 商业(20 年)+Vaitkaitis 财务+Jančiukienė 销售+Baitis 运营/物流+Puodžiūnė 流程/技术=7 人官网直证+Čekanavičius/Sabaitis/Jankauskė/Artemiuk 4 轨=11 人全谱",
+    "关注点与资质": "波罗的海大谱分销 → 24 口 PoE 三国谱位(EXW 区域进入天然口)",
+    "优缺点SWOT": "S=€365M 波罗的海大谱+三国网+28 年老谱·W=大盘决策链长;ACME 集团层级注·O=区域进入「技术之门」自白=新品引入对口·T=波罗的海三国单盘谱",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):€365M 大盘稳;三国一次进入;新品新品牌引入服务谱;立陶宛本土谱"
+   },
+   "swot_text": "- **S**:€365M 波罗的海大谱+三国网+28 年老谱\n- **W**:大盘决策链长;ACME 集团层级注\n- **O**:区域进入「技术之门」自白=新品引入对口\n- **T**:波罗的海三国单盘谱",
+   "facts": [
+    {
+     "dim": "法体登册",
+     "text": "UAB ACC Distribution;Įmonės kodas 135150085;PVM kodas LT351500811;Registracijos data 1998-04-17;Įstatinis kapitalas 691 856,20 EUR;2024 m. pardavimo pajamos 365 384 000 EUR;grynasis pelnas 5 496 000 EUR;218 darbuotojų(SODRA 2025-08-27);Kaunas, Raudondvario pl. 131B;3 akcininkai",
+     "quote": "UAB ACC Distribution;Įmonės kodas 135150085;PVM kodas LT351500811;Registracijos data 1998-04-17;Įstatinis kapitalas 691 856,20 EUR;2024 m. pardavimo pajamos 365 384 000 EUR;grynasis pelnas 5 496 000 EUR;218 darbuotojų(SODRA 2025-08-27);Kaunas, Raudondvario pl. 131B;3 akcininkai",
+     "url": "https://okredo.com/lt-lt/imone/uab-acc-distribution-135150085"
+    },
+    {
+     "dim": "KP 矩阵",
+     "text": "Žymantas Baušys Direktorius 2017-07-05;Regimantas Buožius Valdybos pirmininkas;Marijus Miceika Komercijos departamento direktorius;Julius Vaitkaitis Finansų direktorius;Dalia Jančiukienė Baltijos pardavimų vadovė;Skirmantas Baitis Operacijų ir logistikos direktorius;Aušra Puodžiūnė Verslo procesų vadovė",
+     "quote": "Žymantas Baušys Direktorius 2017-07-05;Regimantas Buožius Valdybos pirmininkas;Marijus Miceika Komercijos departamento direktorius;Julius Vaitkaitis Finansų direktorius;Dalia Jančiukienė Baltijos pardavimų vadovė;Skirmantas Baitis Operacijų ir logistikos direktorius;Aušra Puodžiūnė Verslo procesų vadovė",
+     "url": "https://accdistribution.eu/lt/about-us/"
+    },
+    {
+     "dim": "集团谱",
+     "text": "Raudondvario pl. 131B, Kaunas(总部)+A. Goštauto g. 40C Vilnius+Terminalo g. 8 Karmėlava(仓库)+Malduguņu 2, Mārupe, Latvia+ACC Distribution OÜ Tallinn, Estonia;Agnė Jankauskė agne.jankauske@acme.lt;info@accdistribution.lt;+370 37 333933",
+     "quote": "Raudondvario pl. 131B, Kaunas(总部)+A. Goštauto g. 40C Vilnius+Terminalo g. 8 Karmėlava(仓库)+Malduguņu 2, Mārupe, Latvia+ACC Distribution OÜ Tallinn, Estonia;Agnė Jankauskė agne.jankauske@acme.lt;info@accdistribution.lt;+370 37 333933",
+     "url": "https://accdistribution.eu/lt/contact-us/"
+    },
+    {
+     "dim": "薪资/规模",
+     "text": "215 darbuotojų(apdraustųjų);Vidutinis atlyginimas 4 050,94 €(2026 balandis);Direktorius Regimantas Buožius(注:info.lt 旧档,Buožius 现为董事会主席)",
+     "quote": "215 darbuotojų(apdraustųjų);Vidutinis atlyginimas 4 050,94 €(2026 balandis);Direktorius Regimantas Buožius(注:info.lt 旧档,Buožius 现为董事会主席)",
+     "url": "https://www.info.lt/imones/ACC-Distribution-UAB/2138617"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB8·B-307:立陶宛谱: **ACC Distribution UAB 深挖(okredo/rekvizitai 官网/about-us/contact-us/D&B/info.lt/tax.lt/LI 八源互证)**:**Įmonės kodas 135150085,PVM LT351500811,1998-04-17 创(28 年老谱!);Įstatinis kapitalas 691,856.20 EUR;Raudondvario pl. 131B,LT-47191 Kaunas(总部)+Vilnius 办公室 A. Goštauto g. 40C+Karmėlava 仓库物流 Terminalo g. 8+**拉脱维亚 Mārupe(Malduguņu 2, LV-2167)+爱沙尼亚 Talinn(ACC Distribution OÜ)=波罗的海 三国全铺集团网**;+370 37 333933;info@accdistribution.lt;support@accdistribution.lt;Swedbank HABALT22 谱**;**2024 营收 365,384,000 EUR(okredo 官方财报直引)/370 mln €(tax.lt 窗)双窗注;净利 5,496,000 EUR(okredo)/6.49 mln €(tax.lt)双窗注;员工 218(SODRA 2025-08-27)/215(info.lt)210(tax.lt Sodra 2025-09)/100-999(D&B 窗)多窗;平均薪资 €4,050.94(2026-04)/€3,621 双窗;24 辆车;股东=3(2 立陶宛个人+1 立陶宛法人)**;**业务=电脑/外围设备/软件批发(EVRK 46.51.00);自白「Mes esame vartai į technologijas 我们是技术之门」:全球厂商战略×本地执行=区域进入+新品新品牌引入分销;集团谱=@acme.lt 域(ACME 集团关联);集团旗下 Servisa ICT+MTTC 两司(LI 引 Delfi 报道)**;**KP 董事会金谱(官网 About-us 七人全具名):Regimantas Buožius(Valdybos pirmininkas 董事会主席)+Žymantas Baušys(Direktorius/CEO=总经理 2017-07-05 任至今 9 年,rekvizitai+D&B Key Principal 双直证)+Marijus Miceika(Komercijos departamento direktorius 商业部总监,LI 自白 20 年司龄谱)+Julius Vaitkaitis(Finansų direktorius 财务总监)+Dalia Jančiukienė(Baltijos šalių pardavimų departamento vadovė 波罗的海销售部主管)+Skirmantas Baitis(Operacijų ir logistikos direktorius 运营与物流总监)+Aušra Puodžiūnė(Verslo procesų ir technologijų departamento vadovė 业务流程与技术部主管)=7 人董事会谱;+Andrius Čekanavičius(Head of Baltic Sales,LI)/Egidijus Sabaitis(Brand Manager,LI/Delfi 引)/Agnė Jankauskė(媒体联络 agne.jankauske@acme.lt)/Sergej Artemiuk(D&B Board Member 谱)=11 人全谱**;**谱位=波罗的海地区最大 IT 分销商梯队(€365M 营收=立陶宛大盘)=我方 ODM EXW 区域进入天然对口=批 8 最大钩**;法院谱=2024-2025 数起债权人催收案(European payment order 申请=正常商事催收谱注)。",
+    "inference": "R67/TUB 推土机深挖 批8 B 类金谱批2",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-462",
+   "code": "B-462",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB8·B-462:西谱: **DMI COMPUTER SA 深挖(channelpartner guía/einforma/axesor/empresia/iberinform/datoscif/dmi.es 官网 七源互证)**:**CIF A-79522702,Constitución 19/09/1990(36 年老谱;channelpartner guía 记 1989 创立=双记注;前名 DMI COMPUTER SL→SA);Sociedad Anónima,Capital Social 1,565,114.40 €;Registro Mercantil de Madrid Tomo 15401 Folio 29 Hoja M-7885**;**Avenida Sistema Solar 34 esq. Calle Marte,Polígono Industrial San Fernando,28830 San Fernando de Henares(Madrid);2016-12-09 BORME 迁址(原 Rivas-Vaciamadrid Calle Fundición 61-67);Corredor de Henares 物流带,17,000 m² 总面积(2,000 m² 办公+10,000 m² 仓库=channelpartner 直证);Tel 916 702 848/915 937 090;contactoweb@dmi.es/marketing@dmi.es/info@dmicomputer.es;www.dmi.es**;**2025 营收 164 millones €(channelpartner guía 直证大谱!);员工 95(channelpartner guía)/105(axesor 档)/120(einforma 2026-08 档)三窗注;5 管理员+einforma 全国 Top 3,000/马德里 Top 850/CNAE 4650 行业 Top 50 三榜**;**业务=IT 产品批发分销商(30+ 年):客户谱=Distribuidores/VARs/Retailers/E-tailers/Canal IT/Canal electro/Canal telefonía/resellers 全渠道;4 delegaciones(Barcelona/La Coruña/Madrid/Málaga)+CNAE 4650/4651 IT 批发**;**KP 金谱:Mauro Emilio Sánchez Clemente(Administrador Único=唯一行政总监 2011-02-14 任至今 15 年;BORME Reelección 2026-02-17 最新连任=channelpartner guía 以「Emilio Sánchez-Clemente CEO」记=同一人简称谱 P0)+María Concepción López Brea Martínez(Apoderado Solidario 2017-02-03=连带代理人)+Eusebio Sánchez Clemente Martínez(Apoderado Solidario 2017-02-03=连带代理人,家族谱)+Antonio Manuel Gordo Ortiz(前 Apoderado Solidario 史,2017-02-03 卸任)=4 人谱;审计 ECOAUDIT SLP(2011-12-02 任至今)**;**谱位=西班牙 IT 批发分销大谱(€164M 营收+10,000 m² 仓+4 delegaciones+全渠道)=我方 ODM EXW 西班牙入口对口=批 8 最大钩之一**;**注:guía 记「CEO Emilio Sánchez-Clemente」与注册「Adm. Único Mauro Emilio Sánchez Clemente」=同一自然人的商业简称,谱位记两全。**",
+   "inference": "R67/TUB 推土机深挖 批8 B 类金谱批2",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://guiacanaltic.channelpartner.es/dmi-computer/",
+   "tech": "IT 产品批发分销(全渠道:VAR/零售/电商/IT/电子/电话渠道);36 年;€164M 大盘",
+   "hr": "95(guía)/105(axesor)/120(einforma)三窗;36 年;Madrid Henares 物流带 17,000 m²;4 delegaciones",
+   "contact_found": "**Mauro Emilio Sánchez Clemente(Adm. Único 15 年 P0)+M.C. López Brea(Apoderado Solidario)+Eusebio Sánchez Clemente(Apoderado Solidario,家族)**",
+   "contact_pending": "具名直邮需推档;contactoweb@dmi.es/marketing@dmi.es CSV 既有台口",
+   "dims": {
+    "业务定位": "DMI COMPUTER SA(San Fernando de Henares/Madrid,1990 创 36 年):西班牙 IT 批发分销大谱 €164M,全渠道 10,000 m² 仓",
+    "产品线与在售品牌": "IT 批发分销(电脑/外围/电子);CNAE 4650/4651;4 delegaciones(Barcelona/La Coruña/Madrid/Málaga)",
+    "目标行业与场景": "Distribuidores/VARs/Retailers/E-tailers/Canal IT/Canal electro/Canal telefonía 全渠道 B2B",
+    "团队与规模": "95/105/120 三窗;36 年;€164M 营收 2025;全国 Top 3,000/行业 Top 50",
+    "决策链与对接人": "Mauro Emilio Sánchez Clemente(Adm. Único 2011 至今 15 年=Emilio Sánchez-Clemente CEO 简称)+López Brea+Sánchez Clemente(双 Apoderado Solidario 2017)",
+    "技术与认证": "SA 资本 €1.565M;ECOAUDIT SLP 审计;BORME 2026-02-17 连任档",
+    "采购与供应链信号": "**西班牙 IT 批发大谱=EXW 对口天然;10,000 m² 仓+全渠道=一次进入全谱**",
+    "近期动态与线索": "2016 迁址 Henares 物流带;guía 2026-07 档 95 员;BORME 连任谱 2026-02",
+    "与我方契合点": "Sánchez Clemente Adm. Único+Apoderado 双轨 → 24 口 PoE(西班牙批发分销谱位)",
+    "风险与注意": "**大谱决策链(唯一行政总监集中);营收 €164M vs empresia 记 €2.5M 档差(窗注,以 guía 2025 档为准);4 delegaciones 谱注**"
+   },
+   "evidence": [
+    {
+     "dim": "Guía 档",
+     "quote": "DMI Computer;Responsable Emilio Sánchez-Clemente,CEO;Año de creación 1989;CIF A-79522702;Facturación anual 164 millones de euros en 2025;Plantilla en España 95 empleados;Avenida Sistema Solar 34;17,000 m2(2,000 oficinas+10,000 almacén);Tel 916 702 848;contactoweb@dmi.es;2016 迁入 San Fernando de Henares",
+     "source": "https://guiacanaltic.channelpartner.es/dmi-computer/"
+    },
+    {
+     "dim": "法体登册",
+     "quote": "DMI COMPUTER SA;NIF A79522702;Fecha constitución 19/09/1990;Sociedad anónima;Capital social 1.565.114,40 €;CNAE 4650;Administrador Único Sanchez Clemente Mauro Emilio(nombramiento 14/02/2011);Auditor ECOAUDIT SLP;Registro Mercantil de Madrid",
+     "source": "https://www.einforma.com/informacion-empresa/dmi-computer"
+    },
+    {
+     "dim": "KP 矩阵",
+     "quote": "Sanchez Clemente Mauro Emilio Administrador Unico 14/02/2011;Lopez Brea Martinez Maria Concepcion Apoderado Solidario 03/02/2017;Sanchez Clemente Martinez Eusebio Apoderado Solidario 03/02/2017;ECOAUDIT SLP Auditor 02/12/2011;BORME Reelecciones 17/02/2026(最新连任)",
+     "source": "https://www.datoscif.es/empresa/dmi-computer-sa"
+    },
+    {
+     "dim": "规模榜",
+     "quote": "Ranking Nacional entre las 3.000 primeras empresas de España;Ranking Provincial entre las 850 de Madrid;Ranking Sectorial entre las 50 del CNAE 4650;Número empleados 120(año 2026);5 administradores",
+     "source": "https://www.iberinform.es/empresa/327215/dmi-computer"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Sánchez Clemente Adm. Único P0",
+     "push": "STC-424XGGPM-280W",
+     "angle": "Administrador Único 15 年+CEO 简称谱 → 24 口 PoE(西班牙批发谱位;全渠道)",
+     "question": "贵司批发分销谱的 24 口 PoE 交换机集购由哪位同事主责?",
+     "proof": "guía/einforma 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Apoderado Solidario 双轨",
+     "push": "STI-288GPM/424",
+     "angle": "López Brea+Sánchez Clemente 连带代理人双轨=第二口",
+     "question": "贵司 Canal IT/Canal electro 线的 PoE 谱口?",
+     "proof": "datoscif 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · 4 delegaciones 分点线",
+     "push": "STC-28DGGPM",
+     "angle": "Barcelona/La Coruña/Málaga 分点谱;10,000 m² 仓送样口",
+     "question": "贵司分点/仓储线的网络件送样口?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1990/1989 双记 36 年;Madrid Henares 物流带 17,000 m²;SA 资本 €1.565M;4 delegaciones",
+     "②芯片/型号": "IT 批发分销全渠道;CNAE 4650/4651;PoE 24 口=批发谱位新品线",
+     "③KP 深挖": "Mauro Emilio Sánchez Clemente(Adm. Único 2011 至今 15 年 P0=guía 记 CEO 简称)+López Brea+Eusebio Sánchez Clemente(双 Apoderado Solidario 2017,家族谱)+Gordo Ortiz 前史=4 人谱+ECOAUDIT 审计",
+     "④Saga 对标": "西班牙 IT 批发大谱 €164M → 24 口 PoE 全渠道分销(EXW 对口天然)",
+     "⑤在乎与偏好": "€164M 大盘;10,000 m² 仓;全渠道客户谱;Henares 物流带;36 年老谱",
+     "⑥SWOT": "S=€164M 大盘+36 年+全渠道+大仓/W=唯一行政总监集中决策;营收双档差注/O=西班牙 IT 批发 EXW 对口+4 分点/T=CNAE 4650 行业 Top 50 内竞合谱"
+    },
+    "care": "- **S**:€164M 大盘+36 年+全渠道+大仓\n- **W**:唯一行政总监集中决策;营收双档差注\n- **O**:西班牙 IT 批发 EXW 对口+4 分点\n- **T**:CNAE 4650 行业 Top 50 内竞合谱",
+    "swot": {
+     "S": "€164M 大盘+36 年+全渠道+大仓",
+     "W": "唯一行政总监集中决策;营收双档差注",
+     "O": "西班牙 IT 批发 EXW 对口+4 分点",
+     "T": "CNAE 4650 行业 Top 50 内竞合谱"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批8 B 类金谱批2",
+    "gap_proof": "https://guiacanaltic.channelpartner.es/dmi-computer/"
+   },
+   "unknowns": [
+    "MikroTik 谱位在售线需核(dmi.es 品牌页)",
+    "Sánchez Clemente 直邮推档",
+    "López Brea/Sánchez Clemente 分工明细"
+   ],
+   "unknowns56": [
+    "MikroTik 谱位在售线需核(dmi.es 品牌页)",
+    "Sánchez Clemente 直邮推档",
+    "López Brea/Sánchez Clemente 分工明细"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批8 B 类",
+   "email": "Dear Emilio and DMI Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — EXW open for Spanish IT wholesale distribution. Reference: $165 USD EXW (2026-10-08, 15 days valid). A value unit for your distribution, VAR and retail channel lines. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**Mauro Emilio Sánchez Clemente(Administrador Único 15 年=「Emilio Sánchez-Clemente CEO」简称 P0)+María Concepción López Brea(Apoderado Solidario)+Eusebio Sánchez Clemente Martínez(Apoderado Solidario)**; contactoweb@dmi.es/marketing@dmi.es(CSV 既有); +34 916 702 848",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "1990/1989 双记 36 年;Madrid Henares 物流带 17,000 m²;SA 资本 €1.565M;4 delegaciones",
+    "芯片与在用型号": "IT 批发分销全渠道;CNAE 4650/4651;PoE 24 口=批发谱位新品线",
+    "关键人KP": "Mauro Emilio Sánchez Clemente(Adm. Único 2011 至今 15 年 P0=guía 记 CEO 简称)+López Brea+Eusebio Sánchez Clemente(双 Apoderado Solidario 2017,家族谱)+Gordo Ortiz 前史=4 人谱+ECOAUDIT 审计",
+    "关注点与资质": "西班牙 IT 批发大谱 €164M → 24 口 PoE 全渠道分销(EXW 对口天然)",
+    "优缺点SWOT": "S=€164M 大盘+36 年+全渠道+大仓·W=唯一行政总监集中决策;营收双档差注·O=西班牙 IT 批发 EXW 对口+4 分点·T=CNAE 4650 行业 Top 50 内竞合谱",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):€164M 大盘;10,000 m² 仓;全渠道客户谱;Henares 物流带;36 年老谱"
+   },
+   "swot_text": "- **S**:€164M 大盘+36 年+全渠道+大仓\n- **W**:唯一行政总监集中决策;营收双档差注\n- **O**:西班牙 IT 批发 EXW 对口+4 分点\n- **T**:CNAE 4650 行业 Top 50 内竞合谱",
+   "facts": [
+    {
+     "dim": "Guía 档",
+     "text": "DMI Computer;Responsable Emilio Sánchez-Clemente,CEO;Año de creación 1989;CIF A-79522702;Facturación anual 164 millones de euros en 2025;Plantilla en España 95 empleados;Avenida Sistema Solar 34;17,000 m2(2,000 oficinas+10,000 almacén);Tel 916 702 848;contactoweb@dmi.es;2016 迁入 San Fernando de Henares",
+     "quote": "DMI Computer;Responsable Emilio Sánchez-Clemente,CEO;Año de creación 1989;CIF A-79522702;Facturación anual 164 millones de euros en 2025;Plantilla en España 95 empleados;Avenida Sistema Solar 34;17,000 m2(2,000 oficinas+10,000 almacén);Tel 916 702 848;contactoweb@dmi.es;2016 迁入 San Fernando de Henares",
+     "url": "https://guiacanaltic.channelpartner.es/dmi-computer/"
+    },
+    {
+     "dim": "法体登册",
+     "text": "DMI COMPUTER SA;NIF A79522702;Fecha constitución 19/09/1990;Sociedad anónima;Capital social 1.565.114,40 €;CNAE 4650;Administrador Único Sanchez Clemente Mauro Emilio(nombramiento 14/02/2011);Auditor ECOAUDIT SLP;Registro Mercantil de Madrid",
+     "quote": "DMI COMPUTER SA;NIF A79522702;Fecha constitución 19/09/1990;Sociedad anónima;Capital social 1.565.114,40 €;CNAE 4650;Administrador Único Sanchez Clemente Mauro Emilio(nombramiento 14/02/2011);Auditor ECOAUDIT SLP;Registro Mercantil de Madrid",
+     "url": "https://www.einforma.com/informacion-empresa/dmi-computer"
+    },
+    {
+     "dim": "KP 矩阵",
+     "text": "Sanchez Clemente Mauro Emilio Administrador Unico 14/02/2011;Lopez Brea Martinez Maria Concepcion Apoderado Solidario 03/02/2017;Sanchez Clemente Martinez Eusebio Apoderado Solidario 03/02/2017;ECOAUDIT SLP Auditor 02/12/2011;BORME Reelecciones 17/02/2026(最新连任)",
+     "quote": "Sanchez Clemente Mauro Emilio Administrador Unico 14/02/2011;Lopez Brea Martinez Maria Concepcion Apoderado Solidario 03/02/2017;Sanchez Clemente Martinez Eusebio Apoderado Solidario 03/02/2017;ECOAUDIT SLP Auditor 02/12/2011;BORME Reelecciones 17/02/2026(最新连任)",
+     "url": "https://www.datoscif.es/empresa/dmi-computer-sa"
+    },
+    {
+     "dim": "规模榜",
+     "text": "Ranking Nacional entre las 3.000 primeras empresas de España;Ranking Provincial entre las 850 de Madrid;Ranking Sectorial entre las 50 del CNAE 4650;Número empleados 120(año 2026);5 administradores",
+     "quote": "Ranking Nacional entre las 3.000 primeras empresas de España;Ranking Provincial entre las 850 de Madrid;Ranking Sectorial entre las 50 del CNAE 4650;Número empleados 120(año 2026);5 administradores",
+     "url": "https://www.iberinform.es/empresa/327215/dmi-computer"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB8·B-462:西谱: **DMI COMPUTER SA 深挖(channelpartner guía/einforma/axesor/empresia/iberinform/datoscif/dmi.es 官网 七源互证)**:**CIF A-79522702,Constitución 19/09/1990(36 年老谱;channelpartner guía 记 1989 创立=双记注;前名 DMI COMPUTER SL→SA);Sociedad Anónima,Capital Social 1,565,114.40 €;Registro Mercantil de Madrid Tomo 15401 Folio 29 Hoja M-7885**;**Avenida Sistema Solar 34 esq. Calle Marte,Polígono Industrial San Fernando,28830 San Fernando de Henares(Madrid);2016-12-09 BORME 迁址(原 Rivas-Vaciamadrid Calle Fundición 61-67);Corredor de Henares 物流带,17,000 m² 总面积(2,000 m² 办公+10,000 m² 仓库=channelpartner 直证);Tel 916 702 848/915 937 090;contactoweb@dmi.es/marketing@dmi.es/info@dmicomputer.es;www.dmi.es**;**2025 营收 164 millones €(channelpartner guía 直证大谱!);员工 95(channelpartner guía)/105(axesor 档)/120(einforma 2026-08 档)三窗注;5 管理员+einforma 全国 Top 3,000/马德里 Top 850/CNAE 4650 行业 Top 50 三榜**;**业务=IT 产品批发分销商(30+ 年):客户谱=Distribuidores/VARs/Retailers/E-tailers/Canal IT/Canal electro/Canal telefonía/resellers 全渠道;4 delegaciones(Barcelona/La Coruña/Madrid/Málaga)+CNAE 4650/4651 IT 批发**;**KP 金谱:Mauro Emilio Sánchez Clemente(Administrador Único=唯一行政总监 2011-02-14 任至今 15 年;BORME Reelección 2026-02-17 最新连任=channelpartner guía 以「Emilio Sánchez-Clemente CEO」记=同一人简称谱 P0)+María Concepción López Brea Martínez(Apoderado Solidario 2017-02-03=连带代理人)+Eusebio Sánchez Clemente Martínez(Apoderado Solidario 2017-02-03=连带代理人,家族谱)+Antonio Manuel Gordo Ortiz(前 Apoderado Solidario 史,2017-02-03 卸任)=4 人谱;审计 ECOAUDIT SLP(2011-12-02 任至今)**;**谱位=西班牙 IT 批发分销大谱(€164M 营收+10,000 m² 仓+4 delegaciones+全渠道)=我方 ODM EXW 西班牙入口对口=批 8 最大钩之一**;**注:guía 记「CEO Emilio Sánchez-Clemente」与注册「Adm. Único Mauro Emilio Sánchez Clemente」=同一自然人的商业简称,谱位记两全。**",
+    "inference": "R67/TUB 推土机深挖 批8 B 类金谱批2",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-532",
+   "code": "B-532",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB8·B-532:英谱: **MAC Solutions (UK) Ltd 深挖(Companies House/companycheck/checkcompany/globaldatabase/rocketreach/LI/industrialtechnology/cylex 八源互证)**:**Company No 03762835,1999-04-29 注册(27 年;LI 自述 1996 创立=30 年经营谱双记);SIC 62090;VAT 738 7825 83;注册址 Unit 1 Oakfield Road,Cheadle Royal Business Park,Cheadle SK8 3GX;营业谱=Redditch(Unit 6-7 Kingfisher Business Park,Arthur Street B98 8LG 主部;原 Unit 5 Oak Tree Park Moons Moat 旧档)+Chesterfield(Tapton Park Innovation Centre 第二入)+Serris 法国(1 Avenue Christian Doppler 77700=欧洲分部谱)**;**+44 1527 529774;sales@mac-solutions.co.uk;www.mac-solutions.co.uk/.net**;**2020-09-30 大变更:Pantek Limited(Cheadle)成为 PSC(75-100% 持股)=被 Pantek 集团收购;原董事团 Ricketts/Thorogood/Swallow/Pritchard/Till 全体 2020-09-30 退任;现任董事=John Edward Bailey(f1953-07,73 岁)+Ian Bailey(f1980-05,46 岁)=Bailey 父子双董事(2020-09-30 同任);公司秘书 OAKWOOD CORPORATE SECRETARY LTD(2020-12-10);2 shareholders;confirmation statement 2024-08-31 档**;**业务=「Connect·Secure·Analyse」:Industrial IT/OT 产品供应商(工业数据通信 IDC+自动化控制系统):industrial Ethernet switches(管理/非管理,Korenix 品牌谱=加固型交通/监控/自动化市场)+Ethernet 基础设施(Switches/Media Converters/**PoE**/Wireless AP)+Jetcon 谱+Version control software+HMI 可视化+报警管理+OPC server+工业显示器/PC+远程访问;LI 1,309 粉**;**员工 41(globaldatabase)/44(rocketreach)/36(RR 档)/11-50(LI)四窗注;营收 $2M(rocketreach 2025 估单源注)**;**KP 金谱:John Edward Bailey(Chairman 级董事 73 岁,父)+Ian Bailey(Director 46 岁,子,rocketreach 记「Ian Bailey is the Director」)=治理双轨;运营谱=Peter Jefferson(General Manager,rocketreach 直证 P0 级)+Dave Hammond(Product Management/Product Strategy and Technical Sales=产品线 P0)+Junaid Ahmed(Technical Manager,原 MARKETING 谱)+Mike Beddall(SALES)+Christine Crowley(ACCOUNTING)+Audrius Asadauskas(CUSTOMER SERVICE)+Tony Olagbaiye(软件开发)=8 人谱**;**谱位=英国工业以太网/PoE 交换机专业分销商=Pantek 集团旗下=我方 24 口 PoE 白牌 ODM 对口(他们本行就是 PoE 分销!)=批 8 最对口钩**。",
+   "inference": "R67/TUB 推土机深挖 批8 B 类金谱批2",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://find-and-update.company-information.service.gov.uk/company/03762835/officers",
+   "tech": "工业以太网交换机/PoE/媒体转换器/无线 AP 分销(Korenix/Jetcon 谱)+工业 IT/OT 软件;Pantek 集团",
+   "hr": "41(gd)/44(RR)/36(RR)/11-50(LI)四窗;27/30 年双记;Redditch+Chesterfield+Serris 三点",
+   "contact_found": "**John Edward Bailey(董事,73 岁 父)+Ian Bailey(董事,46 岁 子)+Peter Jefferson(GM P0 级)+Dave Hammond(产品线 P0)+Junaid Ahmed(Technical Mgr)+Mike Beddall(销售)**",
+   "contact_pending": "具名直邮需推档;sales@mac-solutions.co.uk CSV 既有台口",
+   "dims": {
+    "业务定位": "MAC Solutions (UK) Ltd(Redditch,1996/1999 双记 27-30 年,Pantek 集团):英国工业以太网/PoE 分销专业户",
+    "产品线与在售品牌": "Korenix 加固工业交换机(管理/非管理)+PoE/媒体转换器/无线 AP+Jetcon+工业 IT/OT 软件(HMI/报警/OPC)",
+    "目标行业与场景": "交通/监控/基础设施/自动化行业的 OEM/集成商/终端用户",
+    "团队与规模": "41/44/36/11-50 四窗;Pantek 集团;Bailey 父子治理",
+    "决策链与对接人": "J.E. Bailey(父 73)+Ian Bailey(子 46)双董事+Jefferson(GM)+Hammond(产品线)+Ahmed(Technical)+Beddall(SALES)+Crowley(财)+Asadauskas(客服)",
+    "技术与认证": "SIC 62090;Pantek Ltd PSC 75-100%;OAKWOOD 秘书谱",
+    "采购与供应链信号": "**工业 PoE/以太网交换机本行分销=我方 ODM 白牌直对口(批 8 最对口);Korenix/Jetcon 谱=白牌补位谱位**",
+    "近期动态与线索": "2020-09-30 Pantek 收购谱(原董事团全退);Serris 法国分部;LI 1,309 粉",
+    "与我方契合点": "Jefferson GM+Hammond 产品线双轨 → 24 口 PoE(白牌补位 Korenix 谱)",
+    "风险与注意": "**$2M 营收估(RR 单源)与大盘不匹配=Pantek 集团内部规模化注;本行竞合=既是客户也是潜在竞位,切白牌补位非替代**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "M.A.C. SOLUTIONS (UK) LIMITED;Company No. 03762835;Incorporated 29/04/1999;SIC 62090;Unit 1 Oakfield Road, Cheadle Royal Business Park, Cheadle SK8 3GX;Private limited with Share Capital;Directors John Edward Bailey(b. Jul 1953)+Ian Bailey(b. May 1980) both appointed 30/09/2020",
+     "source": "http://companycheck.co.uk/company/03762835/MAC-SOLUTIONS-UK-LIMITED"
+    },
+    {
+     "dim": "PSC/收购谱",
+     "quote": "Persons with Significant Control: Pantek Limited(Cheadle), ownership 75-100%, active from 2020-09-30;原 PSC Timothy John Ricketts 25-50% 至 2020-09-30;原董事 Ricketts/Thorogood/Swallow/Pritchard/Till 全体 resigned 30/09/2020",
+     "source": "https://www.checkcompany.co.uk/company/03762835/M.A.C.-SOLUTIONS-(UK)-LIMITED"
+    },
+    {
+     "dim": "产品谱",
+     "quote": "Korenix branded ruggedized Ethernet switches both managed and unmanaged for transportation, surveillance and automation markets;Ethernet Network Infrastructure: Switches, Media Converters, Power Over Ethernet (POE) and Wireless Access Points;Jetcon;Contact Persons: Mike Beddall SALES, Junaid Ahmed MARKETING, Christine Crowley ACCOUNTING, Audrius Asadauskas CUSTOMER SERVICE",
+     "source": "https://redditch.cylex-uk.co.uk/company/mac-solutions--uk--ltd-16925718.html"
+    },
+    {
+     "dim": "运营谱",
+     "quote": "Peter Jefferson General Manager;Ian Bailey Director;Junaid Ahmed Technical Manager;Dave Hammond Product Management, Product Strategy And Technical Sales;Founded 1996;11-50 employees;Redditch HQ+Chesterfield+Serris France locations;Revenue $2M(2025,rocketreach 估计)",
+     "source": "https://rocketreach.co/mac-solutions-uk-ltd-profile_b5ee9f6af42e761c"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Jefferson GM+Hammond 产品线双轨",
+     "push": "STC-424XGGPM-280W",
+     "angle": "GM+产品线策略 → 24 口 PoE(Korenix 谱白牌补位)",
+     "question": "贵司工业 PoE 交换机线的 24 口 280W 白牌补位谱口?",
+     "proof": "CH/RR 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Ian Bailey 董事",
+     "push": "STI-288GPM/424",
+     "angle": "Bailey 父子治理+Pantek 集团谱位",
+     "question": "贵司 Pantek 集团内 PoE 产品线整合由哪位主责?",
+     "proof": "CH 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Ahmed Technical+Beddall SALES",
+     "push": "STC-28DGGPM",
+     "angle": "Technical Manager+SALES 双轨;Serris 法国分部谱",
+     "question": "贵司 Serris 法国分部的送样口?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1996/1999 双记;Redditch 总部;Pantek Limited 2020-09-30 收购(75-100%);Bailey 父子治理",
+     "②芯片/型号": "Korenix 加固交换机+PoE+Jetcon 谱=工业以太网本行;24 口 PoE 白牌补位",
+     "③KP 深挖": "J.E. Bailey(父 73)+Ian Bailey(子 46)双董事+Jefferson(GM)+Hammond(产品线)+Ahmed/Beddall/Crowley/Asadauskas+Olagbaiye=9 人谱",
+     "④Saga 对标": "工业 PoE 分销本行 → 24 口 PoE 白牌 ODM 补位(批 8 最对口)",
+     "⑤在乎与偏好": "Pantek 集团谱;交通/监控/自动化行业线;Korenix 品牌谱;法国分部",
+     "⑥SWOT": "S=工业 PoE 本行+Pantek 集团+27-30 年谱/W=本行竞合敏感(切补位非替代);营收估差大/O=Korenix 谱白牌补位+Serris 法国口/T=Pantek 集团内采购层级"
+    },
+    "care": "- **S**:工业 PoE 本行+Pantek 集团+27-30 年谱\n- **W**:本行竞合敏感(切补位非替代);营收估差大\n- **O**:Korenix 谱白牌补位+Serris 法国口\n- **T**:Pantek 集团内采购层级",
+    "swot": {
+     "S": "工业 PoE 本行+Pantek 集团+27-30 年谱",
+     "W": "本行竞合敏感(切补位非替代);营收估差大",
+     "O": "Korenix 谱白牌补位+Serris 法国口",
+     "T": "Pantek 集团内采购层级"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批8 B 类金谱批2",
+    "gap_proof": "http://companycheck.co.uk/company/03762835/MAC-SOLUTIONS-UK-LIMITED"
+   },
+   "unknowns": [
+    "Korenix/MikroTik 在售谱位需官网品牌页核",
+    "Jefferson/Hammond 直邮推档(mac-solutions.co.uk 格式)",
+    "Pantek 集团采购链层级"
+   ],
+   "unknowns56": [
+    "Korenix/MikroTik 在售谱位需官网品牌页核",
+    "Jefferson/Hammond 直邮推档(mac-solutions.co.uk 格式)",
+    "Pantek 集团采购链层级"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批8 B 类",
+   "email": "Dear Peter and Dave,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — EXW open as a white-label complement for your industrial Ethernet portfolio. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**Peter Jefferson(GM)+Dave Hammond(产品线/技术销售 P0)+Ian Bailey(董事)**; sales@mac-solutions.co.uk(CSV 既有); +44 1527 529774",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "1996/1999 双记;Redditch 总部;Pantek Limited 2020-09-30 收购(75-100%);Bailey 父子治理",
+    "芯片与在用型号": "Korenix 加固交换机+PoE+Jetcon 谱=工业以太网本行;24 口 PoE 白牌补位",
+    "关键人KP": "J.E. Bailey(父 73)+Ian Bailey(子 46)双董事+Jefferson(GM)+Hammond(产品线)+Ahmed/Beddall/Crowley/Asadauskas+Olagbaiye=9 人谱",
+    "关注点与资质": "工业 PoE 分销本行 → 24 口 PoE 白牌 ODM 补位(批 8 最对口)",
+    "优缺点SWOT": "S=工业 PoE 本行+Pantek 集团+27-30 年谱·W=本行竞合敏感(切补位非替代);营收估差大·O=Korenix 谱白牌补位+Serris 法国口·T=Pantek 集团内采购层级",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):Pantek 集团谱;交通/监控/自动化行业线;Korenix 品牌谱;法国分部"
+   },
+   "swot_text": "- **S**:工业 PoE 本行+Pantek 集团+27-30 年谱\n- **W**:本行竞合敏感(切补位非替代);营收估差大\n- **O**:Korenix 谱白牌补位+Serris 法国口\n- **T**:Pantek 集团内采购层级",
+   "facts": [
+    {
+     "dim": "法体登册",
+     "text": "M.A.C. SOLUTIONS (UK) LIMITED;Company No. 03762835;Incorporated 29/04/1999;SIC 62090;Unit 1 Oakfield Road, Cheadle Royal Business Park, Cheadle SK8 3GX;Private limited with Share Capital;Directors John Edward Bailey(b. Jul 1953)+Ian Bailey(b. May 1980) both appointed 30/09/2020",
+     "quote": "M.A.C. SOLUTIONS (UK) LIMITED;Company No. 03762835;Incorporated 29/04/1999;SIC 62090;Unit 1 Oakfield Road, Cheadle Royal Business Park, Cheadle SK8 3GX;Private limited with Share Capital;Directors John Edward Bailey(b. Jul 1953)+Ian Bailey(b. May 1980) both appointed 30/09/2020",
+     "url": "http://companycheck.co.uk/company/03762835/MAC-SOLUTIONS-UK-LIMITED"
+    },
+    {
+     "dim": "PSC/收购谱",
+     "text": "Persons with Significant Control: Pantek Limited(Cheadle), ownership 75-100%, active from 2020-09-30;原 PSC Timothy John Ricketts 25-50% 至 2020-09-30;原董事 Ricketts/Thorogood/Swallow/Pritchard/Till 全体 resigned 30/09/2020",
+     "quote": "Persons with Significant Control: Pantek Limited(Cheadle), ownership 75-100%, active from 2020-09-30;原 PSC Timothy John Ricketts 25-50% 至 2020-09-30;原董事 Ricketts/Thorogood/Swallow/Pritchard/Till 全体 resigned 30/09/2020",
+     "url": "https://www.checkcompany.co.uk/company/03762835/M.A.C.-SOLUTIONS-(UK)-LIMITED"
+    },
+    {
+     "dim": "产品谱",
+     "text": "Korenix branded ruggedized Ethernet switches both managed and unmanaged for transportation, surveillance and automation markets;Ethernet Network Infrastructure: Switches, Media Converters, Power Over Ethernet (POE) and Wireless Access Points;Jetcon;Contact Persons: Mike Beddall SALES, Junaid Ahmed MARKETING, Christine Crowley ACCOUNTING, Audrius Asadauskas CUSTOMER SERVICE",
+     "quote": "Korenix branded ruggedized Ethernet switches both managed and unmanaged for transportation, surveillance and automation markets;Ethernet Network Infrastructure: Switches, Media Converters, Power Over Ethernet (POE) and Wireless Access Points;Jetcon;Contact Persons: Mike Beddall SALES, Junaid Ahmed MARKETING, Christine Crowley ACCOUNTING, Audrius Asadauskas CUSTOMER SERVICE",
+     "url": "https://redditch.cylex-uk.co.uk/company/mac-solutions--uk--ltd-16925718.html"
+    },
+    {
+     "dim": "运营谱",
+     "text": "Peter Jefferson General Manager;Ian Bailey Director;Junaid Ahmed Technical Manager;Dave Hammond Product Management, Product Strategy And Technical Sales;Founded 1996;11-50 employees;Redditch HQ+Chesterfield+Serris France locations;Revenue $2M(2025,rocketreach 估计)",
+     "quote": "Peter Jefferson General Manager;Ian Bailey Director;Junaid Ahmed Technical Manager;Dave Hammond Product Management, Product Strategy And Technical Sales;Founded 1996;11-50 employees;Redditch HQ+Chesterfield+Serris France locations;Revenue $2M(2025,rocketreach 估计)",
+     "url": "https://rocketreach.co/mac-solutions-uk-ltd-profile_b5ee9f6af42e761c"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB8·B-532:英谱: **MAC Solutions (UK) Ltd 深挖(Companies House/companycheck/checkcompany/globaldatabase/rocketreach/LI/industrialtechnology/cylex 八源互证)**:**Company No 03762835,1999-04-29 注册(27 年;LI 自述 1996 创立=30 年经营谱双记);SIC 62090;VAT 738 7825 83;注册址 Unit 1 Oakfield Road,Cheadle Royal Business Park,Cheadle SK8 3GX;营业谱=Redditch(Unit 6-7 Kingfisher Business Park,Arthur Street B98 8LG 主部;原 Unit 5 Oak Tree Park Moons Moat 旧档)+Chesterfield(Tapton Park Innovation Centre 第二入)+Serris 法国(1 Avenue Christian Doppler 77700=欧洲分部谱)**;**+44 1527 529774;sales@mac-solutions.co.uk;www.mac-solutions.co.uk/.net**;**2020-09-30 大变更:Pantek Limited(Cheadle)成为 PSC(75-100% 持股)=被 Pantek 集团收购;原董事团 Ricketts/Thorogood/Swallow/Pritchard/Till 全体 2020-09-30 退任;现任董事=John Edward Bailey(f1953-07,73 岁)+Ian Bailey(f1980-05,46 岁)=Bailey 父子双董事(2020-09-30 同任);公司秘书 OAKWOOD CORPORATE SECRETARY LTD(2020-12-10);2 shareholders;confirmation statement 2024-08-31 档**;**业务=「Connect·Secure·Analyse」:Industrial IT/OT 产品供应商(工业数据通信 IDC+自动化控制系统):industrial Ethernet switches(管理/非管理,Korenix 品牌谱=加固型交通/监控/自动化市场)+Ethernet 基础设施(Switches/Media Converters/**PoE**/Wireless AP)+Jetcon 谱+Version control software+HMI 可视化+报警管理+OPC server+工业显示器/PC+远程访问;LI 1,309 粉**;**员工 41(globaldatabase)/44(rocketreach)/36(RR 档)/11-50(LI)四窗注;营收 $2M(rocketreach 2025 估单源注)**;**KP 金谱:John Edward Bailey(Chairman 级董事 73 岁,父)+Ian Bailey(Director 46 岁,子,rocketreach 记「Ian Bailey is the Director」)=治理双轨;运营谱=Peter Jefferson(General Manager,rocketreach 直证 P0 级)+Dave Hammond(Product Management/Product Strategy and Technical Sales=产品线 P0)+Junaid Ahmed(Technical Manager,原 MARKETING 谱)+Mike Beddall(SALES)+Christine Crowley(ACCOUNTING)+Audrius Asadauskas(CUSTOMER SERVICE)+Tony Olagbaiye(软件开发)=8 人谱**;**谱位=英国工业以太网/PoE 交换机专业分销商=Pantek 集团旗下=我方 24 口 PoE 白牌 ODM 对口(他们本行就是 PoE 分销!)=批 8 最对口钩**。",
+    "inference": "R67/TUB 推土机深挖 批8 B 类金谱批2",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-201",
+   "code": "B-201",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB8·B-201:捷谱: **PCV Computers, s.r.o. 深挖(rejstrik.penize/detail.cz/hlidacstatu/firmy.cz/zoznam.sk/ARES 六源互证)**:**IČO 26084121,DIČ CZ26084121,2005-01-04 创(21 年);Městský soud v Praze 注册法院;Datová schránka jumsm2k;注册址 Rybná 682/14,Staré Město,110 00 Praha(布拉格老城=法定址);实际运营=České Budějovice 双点(Za Otýlií 2874/6 主仓+Pražská tř. 1247/24 门店)+Uherské Hradiště 分支(Nad Žlebem 459)=摩拉维亚双城网**;**+420 380 420 700;obchod@pcvcomp.cz;fakturace@pcvcomp.cz;pechacek@pcvcomp.cz(UH 分点联系人 Pecháček 谱);www.pcvcomp.cz**;**detail.cz 评估「Společnost je velmi úspěšná,dosahuje vysokých obratů,patří do horních 10 procent firem v ČR a zaměstnává desítky zaměstnanců」=**捷克全国营收前 10% 公司,数十名员工**(2024 评级档;近两年营收持平档注);**Hlídač státu=15 项公共采购中标供应商**;南捷克工商会(Jihočeská hospodářská komora)成员谱**;**业务=电脑+消费电子销售(主板/显卡/TV tuner/笔记本/打印机/内存/处理器/软件/投影仪/监控系统/平板/**rozvaděče 机柜**等全品)+企业 IT 全管外包(服务器+计算机网络管理/技术支持/监控外包/咨询)=零售+服务双轨谱**;**KP 家族金谱:Bc. Jan Duda(Jednatel 总经理+2024-02-06 Hlídač státu 档唯一实际受益人 skutečný majitel,47 岁,2005-01-04 创任至今 21 年=P0 唯一决策人)+Ing. Adolf Duda(前 Jednatel 2005-2008 退=父辈创始谱)+Alena Dudová(前 Jednatelka 2008-2020 退=母辈二代谱)=Duda 家族三代传承谱(2020 起 Jan Duda 独任 Jednatel+独资实益拥有)**;**谱位=南捷克+摩拉维亚 21 年零售+服务双轨 IT 商=全国前 10% 营收+公共采购供应商=中小企业谱位对口**。",
+   "inference": "R67/TUB 推土机深挖 批8 B 类金谱批2",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://rejstrik.penize.cz/26084121-pcv-computers-s-r-o",
+   "tech": "电脑/消费电子零售+企业 IT 全管外包(服务器/网络管理/监控/咨询);捷克前 10% 营收",
+   "hr": "数十名员工(detail.cz 档);21 年;Praha 法定址+České Budějovice 主运营+Uherské Hradiště 分支",
+   "contact_found": "**Bc. Jan Duda(Jednatel+唯一实益拥有人 47 岁 21 年 P0)+Adolf Duda(父,前)+Alena Dudová(母,前)=家族三代谱**",
+   "contact_pending": "具名邮箱 obchod@/fakturace@/pechacek@ 三口径 CSV 既有;+420 380 420 700 台口",
+   "dims": {
+    "业务定位": "PCV Computers s.r.o.(České Budějovice 主运营,2005 创 21 年,Duda 家族独资):南捷克零售+服务双轨 IT 商",
+    "产品线与在售品牌": "电脑/消费电子全品(主板/显卡/笔记本/打印机/监控/投影仪/机柜等)+企业 IT 全管外包服务",
+    "目标行业与场景": "南捷克+摩拉维亚中小企业+零售客+公共采购(15 项中标)",
+    "团队与规模": "数十员工;21 年;捷克全国营收前 10%(detail.cz 档);南捷克工商会成员",
+    "决策链与对接人": "Bc. Jan Duda(Jednatel+实益拥有人 100%,2020 独任)+父 Adolf+母 Alena 前双谱",
+    "技术与认证": "IČO/DIČ/数据箱全;Hlídač státu 15 公共采购;Městský soud v Praze",
+    "采购与供应链信号": "**公共采购供应商谱=招投标项目谱(IT 网络件需求链);监控系统+rozvaděče 机柜在售=PoE 对口**",
+    "近期动态与线索": "2024-02 实益拥有人再登记(Jan Duda 独);近两年营收持平档(partner 评分档注)",
+    "与我方契合点": "Jan Duda 独任独股单轨 → 24 口 PoE(监控/机柜零售线+外包项目谱)",
+    "风险与注意": "**单人家族企业=决策快但谱位小中盘;布拉格法定址 vs CB 运营址双记注**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "PCV Computers, s.r.o.;IČO 26084121;DIČ CZ26084121;Datum vzniku 4.1.2005;Sídlo Rybná 682/14, Staré Město, 110 00 Praha;Městský soud v Praze;Datová schránka jumsm2k;Skutečný majitel Jan Duda(zapsán 6.2.2024);Jednatel Bc. Jan Duda(4.1.2005-);Tel 380 420 700;obchod@pcvcomp.cz",
+     "source": "https://rejstrik.penize.cz/26084121-pcv-computers-s-r-o"
+    },
+    {
+     "dim": "公共采购谱",
+     "quote": "Skutečný majitel JAN DUDA(05.02.2024);Veřejné zakázky: PCV Computers se vyskytuje v 15 veřejných zakázkách jako dodavatel;Založeno 04.01.2005",
+     "source": "https://www.hlidacstatu.cz/subjekt/26084121"
+    },
+    {
+     "dim": "评估谱",
+     "quote": "Založena před 21 lety v Praze;Společnost je velmi úspěšná. Dosahuje vysokých obratů, patří do horních 10 % firem v ČR a zaměstnává desítky zaměstnanců;Vedení vystřídali 3 lidé;aktuálně vlastní Jan Duda(47)",
+     "source": "https://detail.cz/firma/26084121-pcv-computers-s-r-o-klimentska-1216-46-praha-1"
+    },
+    {
+     "dim": "业务谱",
+     "quote": "Prodej výpočetní techniky a spotřební elektroniky(základní desky, grafické karty, notebooky, tiskárny, paměťové karty, procesory, software, projektory, kamerové systémy, tablety, rozvaděče);kompletní správa IT ve společnostech, správa serverů a počítačových sítí, technickou podporu, monitoring outsourcing, poradenství;Uherské Hradiště pobočka pechacek@pcvcomp.cz",
+     "source": "https://www.firmy.cz/detail/12705139-pcv-computers-uherske-hradiste-sady.html"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Jan Duda 独任 P0",
+     "push": "STC-424XGGPM-280W",
+     "angle": "Jednatel+独资 47 岁 → 24 口 PoE(监控/机柜零售线+外包项目)",
+     "question": "贵司监控系统/机柜线的 24 口 PoE 交换机集购由您直管?",
+     "proof": "rejstrik 4 源"
+    },
+    {
+     "stage": "第 2 次跟进 · 公共采购/外包服务线",
+     "push": "STI-288GPM/424",
+     "angle": "15 项公共采购中标谱+IT 全管外包谱",
+     "question": "贵司公共采购项目的网络件集购口?",
+     "proof": "hlidacstatu 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · UH 分支 Pecháček 谱",
+     "push": "STC-28DGGPM",
+     "angle": "pechacek@ UH 分点联系人谱",
+     "question": "分点/摩拉维亚线的送样口?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2005 创 21 年;Duda 家族三代(父 Adolf→母 Alena→Jan 2020 独任);CB 主运营+UH 分支;布拉格法定址",
+     "②芯片/型号": "电脑/消费电子全品零售+监控/机柜+IT 外包服务;PoE 24 口=监控/机柜线互补",
+     "③KP 深挖": "Jan Duda(Jednatel+独股+实益拥有 47 岁 21 年)+Adolf/Alena 前双谱;Pecháček UH 分支谱",
+     "④Saga 对标": "零售+外包双轨 → 24 口 PoE 监控/机柜零售+外包项目谱",
+     "⑤在乎与偏好": "家族独资决策快;公共采购供应商谱;南捷克地区谱",
+     "⑥SWOT": "S=家族独资 21 年+前 10% 营收+15 公共采购/W=单盘中小谱;营收持平档注/O=监控/机柜线 PoE 对口+公共采购项目谱/T=南捷克地区谱"
+    },
+    "care": "- **S**:家族独资 21 年+前 10% 营收+15 公共采购\n- **W**:单盘中小谱;营收持平档注\n- **O**:监控/机柜线 PoE 对口+公共采购项目谱\n- **T**:南捷克地区谱",
+    "swot": {
+     "S": "家族独资 21 年+前 10% 营收+15 公共采购",
+     "W": "单盘中小谱;营收持平档注",
+     "O": "监控/机柜线 PoE 对口+公共采购项目谱",
+     "T": "南捷克地区谱"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批8 B 类金谱批2",
+    "gap_proof": "https://rejstrik.penize.cz/26084121-pcv-computers-s-r-o"
+   },
+   "unknowns": [
+    "MikroTik 谱位在售线需官网品牌页核(pcvcomp.cz)",
+    "Jan Duda 直邮推档(领英/XING)",
+    "公共采购项目品类明细"
+   ],
+   "unknowns56": [
+    "MikroTik 谱位在售线需官网品牌页核(pcvcomp.cz)",
+    "Jan Duda 直邮推档(领英/XING)",
+    "公共采购项目品类明细"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批8 B 类",
+   "email": "Dear Mr. Duda,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — EXW open for Czech retail and IT outsourcing lines. Reference: $165 USD EXW (2026-10-08, 15 days valid). A value unit for your surveillance and cabinet product lines. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**Bc. Jan Duda(Jednatel 总经理+唯一实益拥有人 P0)**; obchod@pcvcomp.cz/fakturace@pcvcomp.cz(CSV 既有); +420 380 420 700",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "2005 创 21 年;Duda 家族三代(父 Adolf→母 Alena→Jan 2020 独任);CB 主运营+UH 分支;布拉格法定址",
+    "芯片与在用型号": "电脑/消费电子全品零售+监控/机柜+IT 外包服务;PoE 24 口=监控/机柜线互补",
+    "关键人KP": "Jan Duda(Jednatel+独股+实益拥有 47 岁 21 年)+Adolf/Alena 前双谱;Pecháček UH 分支谱",
+    "关注点与资质": "零售+外包双轨 → 24 口 PoE 监控/机柜零售+外包项目谱",
+    "优缺点SWOT": "S=家族独资 21 年+前 10% 营收+15 公共采购·W=单盘中小谱;营收持平档注·O=监控/机柜线 PoE 对口+公共采购项目谱·T=南捷克地区谱",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):家族独资决策快;公共采购供应商谱;南捷克地区谱"
+   },
+   "swot_text": "- **S**:家族独资 21 年+前 10% 营收+15 公共采购\n- **W**:单盘中小谱;营收持平档注\n- **O**:监控/机柜线 PoE 对口+公共采购项目谱\n- **T**:南捷克地区谱",
+   "facts": [
+    {
+     "dim": "法体登册",
+     "text": "PCV Computers, s.r.o.;IČO 26084121;DIČ CZ26084121;Datum vzniku 4.1.2005;Sídlo Rybná 682/14, Staré Město, 110 00 Praha;Městský soud v Praze;Datová schránka jumsm2k;Skutečný majitel Jan Duda(zapsán 6.2.2024);Jednatel Bc. Jan Duda(4.1.2005-);Tel 380 420 700;obchod@pcvcomp.cz",
+     "quote": "PCV Computers, s.r.o.;IČO 26084121;DIČ CZ26084121;Datum vzniku 4.1.2005;Sídlo Rybná 682/14, Staré Město, 110 00 Praha;Městský soud v Praze;Datová schránka jumsm2k;Skutečný majitel Jan Duda(zapsán 6.2.2024);Jednatel Bc. Jan Duda(4.1.2005-);Tel 380 420 700;obchod@pcvcomp.cz",
+     "url": "https://rejstrik.penize.cz/26084121-pcv-computers-s-r-o"
+    },
+    {
+     "dim": "公共采购谱",
+     "text": "Skutečný majitel JAN DUDA(05.02.2024);Veřejné zakázky: PCV Computers se vyskytuje v 15 veřejných zakázkách jako dodavatel;Založeno 04.01.2005",
+     "quote": "Skutečný majitel JAN DUDA(05.02.2024);Veřejné zakázky: PCV Computers se vyskytuje v 15 veřejných zakázkách jako dodavatel;Založeno 04.01.2005",
+     "url": "https://www.hlidacstatu.cz/subjekt/26084121"
+    },
+    {
+     "dim": "评估谱",
+     "text": "Založena před 21 lety v Praze;Společnost je velmi úspěšná. Dosahuje vysokých obratů, patří do horních 10 % firem v ČR a zaměstnává desítky zaměstnanců;Vedení vystřídali 3 lidé;aktuálně vlastní Jan Duda(47)",
+     "quote": "Založena před 21 lety v Praze;Společnost je velmi úspěšná. Dosahuje vysokých obratů, patří do horních 10 % firem v ČR a zaměstnává desítky zaměstnanců;Vedení vystřídali 3 lidé;aktuálně vlastní Jan Duda(47)",
+     "url": "https://detail.cz/firma/26084121-pcv-computers-s-r-o-klimentska-1216-46-praha-1"
+    },
+    {
+     "dim": "业务谱",
+     "text": "Prodej výpočetní techniky a spotřební elektroniky(základní desky, grafické karty, notebooky, tiskárny, paměťové karty, procesory, software, projektory, kamerové systémy, tablety, rozvaděče);kompletní správa IT ve společnostech, správa serverů a počítačových sítí, technickou podporu, monitoring outsourcing, poradenství;Uherské Hradiště pobočka pechacek@pcvcomp.cz",
+     "quote": "Prodej výpočetní techniky a spotřební elektroniky(základní desky, grafické karty, notebooky, tiskárny, paměťové karty, procesory, software, projektory, kamerové systémy, tablety, rozvaděče);kompletní správa IT ve společnostech, správa serverů a počítačových sítí, technickou podporu, monitoring outsourcing, poradenství;Uherské Hradiště pobočka pechacek@pcvcomp.cz",
+     "url": "https://www.firmy.cz/detail/12705139-pcv-computers-uherske-hradiste-sady.html"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB8·B-201:捷谱: **PCV Computers, s.r.o. 深挖(rejstrik.penize/detail.cz/hlidacstatu/firmy.cz/zoznam.sk/ARES 六源互证)**:**IČO 26084121,DIČ CZ26084121,2005-01-04 创(21 年);Městský soud v Praze 注册法院;Datová schránka jumsm2k;注册址 Rybná 682/14,Staré Město,110 00 Praha(布拉格老城=法定址);实际运营=České Budějovice 双点(Za Otýlií 2874/6 主仓+Pražská tř. 1247/24 门店)+Uherské Hradiště 分支(Nad Žlebem 459)=摩拉维亚双城网**;**+420 380 420 700;obchod@pcvcomp.cz;fakturace@pcvcomp.cz;pechacek@pcvcomp.cz(UH 分点联系人 Pecháček 谱);www.pcvcomp.cz**;**detail.cz 评估「Společnost je velmi úspěšná,dosahuje vysokých obratů,patří do horních 10 procent firem v ČR a zaměstnává desítky zaměstnanců」=**捷克全国营收前 10% 公司,数十名员工**(2024 评级档;近两年营收持平档注);**Hlídač státu=15 项公共采购中标供应商**;南捷克工商会(Jihočeská hospodářská komora)成员谱**;**业务=电脑+消费电子销售(主板/显卡/TV tuner/笔记本/打印机/内存/处理器/软件/投影仪/监控系统/平板/**rozvaděče 机柜**等全品)+企业 IT 全管外包(服务器+计算机网络管理/技术支持/监控外包/咨询)=零售+服务双轨谱**;**KP 家族金谱:Bc. Jan Duda(Jednatel 总经理+2024-02-06 Hlídač státu 档唯一实际受益人 skutečný majitel,47 岁,2005-01-04 创任至今 21 年=P0 唯一决策人)+Ing. Adolf Duda(前 Jednatel 2005-2008 退=父辈创始谱)+Alena Dudová(前 Jednatelka 2008-2020 退=母辈二代谱)=Duda 家族三代传承谱(2020 起 Jan Duda 独任 Jednatel+独资实益拥有)**;**谱位=南捷克+摩拉维亚 21 年零售+服务双轨 IT 商=全国前 10% 营收+公共采购供应商=中小企业谱位对口**。",
+    "inference": "R67/TUB 推土机深挖 批8 B 类金谱批2",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-192",
+   "code": "B-192",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB8·B-192:捷谱: **ATEsystem s.r.o. 深挖(rejstrik-firem/podnikatel/chytryrejstrik/atesystem.cz 官网 contact/customers/zivefirmy/info-ostrava 七源互证)**:**IČO 01392042,DIČ CZ01392042,Krajský soud v Ostravě C 55698/KSOS,2013-02-08 创(13 年);Základní kapitál 200,000 Kč;Datová schránka jxtq5qi;DUNS 361279689;Technologická 378/9,Pustkovec,708 00 Ostrava(总部;发票旧档 Studentská 6202/17);**分点 ATEsystem Jablonec s.r.o.(Palackého 3145/41,Jablonec nad Nisou)**;+420 595 172 720(系统集成)/595 170 472(相机组件部);atesystem@atesystem.cz;kamery@atesystem.cz(相机部直邮);eshop.atesystem.cz 在线店;FB/LI 双社交谱(3067958)**;**业务=机器视觉(strojové vidění/machine vision)系统设计实施+工业相机与组件销售(工业应用+智能交通系统 ITS)+生产测试系统(基于机器视觉);**VISIONX = 自有注册商标**;可行性研究/专业培训/技术支持服务;客户=汽车工业/电子/食品跨行业谱(官网 customers 页)**;**营收 100-200 mil. Kč(ČSÚ 2024 档);资产 54.609M Kč(-5% 档);利润 3.639M Kč(-31% 档);员工 25-49 区间( ČSÚ 档);CZ-NACE 主业=工业机器设备安装**;**KP 金谱:**Michal Harhaj**(Executive Director/Managing Director=执行总经理+创始 Jednatel 2013-02-08 起 13 年+**52% 大股东**,Ostrava Starobělská 1179/3,**+420 603 298 509,michal.harhaj@atesystem.cz 直邮直证**=P0)+**Ing. Dušan Šelong**(2025-12-08 新任 Jednatel,Hrabyně 264,Opava 区=10 个月前最新入谱!)+**Petr Bílovský**(16% 股东+系统集成/机电项目经理 Project Manager,+420 731 216 767,petr.bilovsky@atesystem.cz)+**Leoš Maršálek**(16% 股东,Přerov 区)+**Petr Bilík**(前 Jednatel 2025-12-08 退)+**Jan Žídek**(前股东+「výkonný ředitel」2025-12-08 退股=离任谱)+Miloslav Holba(机电,+420 733 129 907)+Jan Durčák(机电)+Dominik Pieter/Michal Kebo/Josef Havlíček/Josef Havlíček(联系人谱)=8+ 人谱**;**2025-12-08 管理层大变更:Bilík 退 Jednatel+Žídek 退股+Šelong 入 Jednatel;同日治理规则之变=「每位 Jednatel 单独代表」新制(原超 2M Kč 需双签旧制解除)**;**谱位=机器视觉 13 年专业户+工业相机分销(PoE 相机供电天然谱位!)+VISIONX 自牌+智能交通 ITS 谱=我方 24 口 PoE 对口(相机 PoE 供电+工业网络)=批 8 技术对口钩**。",
+   "inference": "R67/TUB 推土机深挖 批8 B 类金谱批2",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://rejstrik-firem.kurzy.cz/01392042/atesystem-sro/",
+   "tech": "机器视觉系统+工业相机/组件分销+VISIONX 自牌+ITS 智能交通;PoE 相机供电天然谱位",
+   "hr": "25-49 员工;13 年;100-200 mil. Kč 营收;Ostrava+Jablonec 双点",
+   "contact_found": "**Michal Harhaj(执行总经理 52% 大股东 P0,michal.harhaj@ 直邮)+Ing. Dušan Šelong(2025-12 新 Jednatel)+Petr Bílovský(16% 股东+项目经理)+Leoš Maršálek(16% 股东)+Miloslav Holba(机电)**",
+   "contact_pending": "具名直邮 michal.harhaj@/petr.bilovsky@/miloslav.holba@ 三口径直证;atesystem@/kamery@ CSV 既有",
+   "dims": {
+    "业务定位": "ATEsystem s.r.o.(Ostrava,2013 创 13 年):机器视觉/工业相机专业商,VISIONX 自牌,PoE 相机供电天然谱位",
+    "产品线与在售品牌": "机器视觉系统设计实施+工业相机/组件分销+VISIONX 自牌+ITS 智能交通+生产测试系统+eshop",
+    "目标行业与场景": "汽车工业/电子/食品跨行业;ITS 交通系统谱",
+    "团队与规模": "25-49 员工;13 年;100-200 mil. Kč 营收;Ostrava+Jablonec 双点",
+    "决策链与对接人": "Michal Harhaj(52% 大股东+执行 GM 13 年)+Ing. Dušan Šelong(2025-12 新 Jednatel)+Petr Bílovský(16%+PM)+Leoš Maršálek(16%)",
+    "技术与认证": "VISIONX 注册商标;DUNS 361279689;数据箱 jxtq5qi",
+    "采购与供应链信号": "**工业相机分销=PoE 相机供电天然谱位=24 口 PoE 对口(批 8 技术对口钩);ITS 智能交通=户外 PoE 谱位**",
+    "近期动态与线索": "2025-12-08 管理大变更(Šelong 入/Bilík 退/Žídek 退股=交接谱 10 个月前);eshop 在线店谱",
+    "与我方契合点": "Harhaj 52% 大股东+Bílovský PM 双轨 → 24 口 PoE(相机 PoE 供电+机器视觉项目谱)",
+    "风险与注意": "**营收利润双降档(资产 -5%/利润 -31% 注=谱位判断中性);2025-12 交接谱=双线期注**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "ATEsystem s.r.o.;IČO 01392042;DIČ CZ01392042;C 55698/KSOS Krajský soud v Ostravě;vznik 8.2.2013;Základní kapitál 200 000 Kč;Technologická 378/9, Ostrava-Pustkovec;Jednatelé Michal Harhaj(8.2.2013-)+Ing. Dušan Šelong(8.12.2025-);Společníci Harhaj 52%/Maršálek 16%/Bílovský 16%;Obrat 100-200 mil. Kč(ČSÚ 2024)",
+     "source": "https://rejstrik-firem.kurzy.cz/01392042/atesystem-sro/"
+    },
+    {
+     "dim": "管理变更谱",
+     "quote": "8.12.2025: Zapsán jednatel Ing. DUŠAN ŠELONG;Vymazán jednatel Petr Bilík;Vymazán společník Jan Žídek;Způsob jednání: každý jednatel jedná samostatně(原超 2M Kč 双签制解除)",
+     "source": "https://www.podnikatel.cz/rejstrik/atesystem-s-r-o-01392042/"
+    },
+    {
+     "dim": "KP/产品谱",
+     "quote": "Company Management: Michal Harhaj Executive Director/Managing Director(+420 603 298 509, michal.harhaj@atesystem.cz);Petr Bílovský Project Manager(+420 731 216 767, petr.bilovsky@);Miloslav Holba Mechatronics(+420 733 129 907);machine vision systems, cameras and components for industrial applications and intelligent traffic systems",
+     "source": "https://www.atesystem.cz/en/company-address"
+    },
+    {
+     "dim": "财务谱",
+     "quote": "Obrat 100-200 mil. Kč(čsú, 2024);Aktiva 54 609 000 Kč(-5%);Zisk 3 639 000 Kč(-31%);Počet zaměstnanců 25-49;CZ-NACE instalace průmyslových strojů a zařízení",
+     "source": "https://www.chytryrejstrik.cz/ico-01392042/atesystem-s-r-o"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Harhaj 52% 大股东 P0",
+     "push": "STC-424XGGPM-280W",
+     "angle": "执行总经理+52% 大股东 13 年 → 24 口 PoE(相机 PoE 供电+机器视觉项目)",
+     "question": "贵司机器视觉项目的 24 口 PoE 交换机集购由哪位主责?",
+     "proof": "rejstrik/官网 4 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Bílovský PM 16% 股东",
+     "push": "STI-288GPM/424",
+     "angle": "项目经理+股东双谱=项目线 P0",
+     "question": "贵司系统集成项目的网络件集购口?",
+     "proof": "官网谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Šelong 2025-12 新 Jednatel",
+     "push": "STC-28DGGPM",
+     "angle": "新任 Jednatel 10 个月谱=新谱口",
+     "question": "贵司 VISIONX 自牌线的样件送样口?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2013 创 13 年;Ostrava+Jablonec 双点;2025-12 管理层大变更(Šelong 入 Bilík 退 Žídek 退股)",
+     "②芯片/型号": "机器视觉+工业相机/组件+VISIONX 自牌+ITS;PoE 24 口=相机供电天然口",
+     "③KP 深挖": "Harhaj(52% 大股东+执行 GM 13 年,直邮直证)+Šelong(2025-12 新)+Bílovský(16%+PM,直邮)+Maršálek(16%)+Holba(机电,直邮)=5 人谱",
+     "④Saga 对标": "工业相机/机器视觉 → 24 口 PoE 相机供电(天然对口=批 8 技术钩)",
+     "⑤在乎与偏好": "VISIONX 自牌谱=白标开发通道;ITS 户外谱位;汽车工业客户谱;eshop 在线店",
+     "⑥SWOT": "S=PoE 相机供电天然对口+52% 大股东直决/W=营收/利润双降档注;交接期双线/O=机器视觉项目+ITS 户外 PoE+VISIONX 自牌通道/T=中东欧机器视觉竞合谱"
+    },
+    "care": "- **S**:PoE 相机供电天然对口+52% 大股东直决\n- **W**:营收/利润双降档注;交接期双线\n- **O**:机器视觉项目+ITS 户外 PoE+VISIONX 自牌通道\n- **T**:中东欧机器视觉竞合谱",
+    "swot": {
+     "S": "PoE 相机供电天然对口+52% 大股东直决",
+     "W": "营收/利润双降档注;交接期双线",
+     "O": "机器视觉项目+ITS 户外 PoE+VISIONX 自牌通道",
+     "T": "中东欧机器视觉竞合谱"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批8 B 类金谱批2",
+    "gap_proof": "https://rejstrik-firem.kurzy.cz/01392042/atesystem-sro/"
+   },
+   "unknowns": [
+    "MikroTik/现售网络件谱位需官网/eshop 核",
+    "Harhaj/Bílovský 直邮已有(直证)",
+    "2025-12 交接后股权终态(余 16% 归属)"
+   ],
+   "unknowns56": [
+    "MikroTik/现售网络件谱位需官网/eshop 核",
+    "Harhaj/Bílovský 直邮已有(直证)",
+    "2025-12 交接后股权终态(余 16% 归属)"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批8 B 类",
+   "email": "Dear Michal and Petr,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — EXW open for machine vision and industrial camera deployments. Reference: $165 USD EXW (2026-10-08, 15 days valid). A value unit for PoE camera power and ITS outdoor projects. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**Michal Harhaj(执行总经理+52% 大股东 P0)** michal.harhaj@atesystem.cz/**+420 603 298 509**; **Petr Bílovský(项目经理+16% 股东)** petr.bilovsky@atesystem.cz/**+420 731 216 767**; kamery@atesystem.cz(CSV 既有)",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "2013 创 13 年;Ostrava+Jablonec 双点;2025-12 管理层大变更(Šelong 入 Bilík 退 Žídek 退股)",
+    "芯片与在用型号": "机器视觉+工业相机/组件+VISIONX 自牌+ITS;PoE 24 口=相机供电天然口",
+    "关键人KP": "Harhaj(52% 大股东+执行 GM 13 年,直邮直证)+Šelong(2025-12 新)+Bílovský(16%+PM,直邮)+Maršálek(16%)+Holba(机电,直邮)=5 人谱",
+    "关注点与资质": "工业相机/机器视觉 → 24 口 PoE 相机供电(天然对口=批 8 技术钩)",
+    "优缺点SWOT": "S=PoE 相机供电天然对口+52% 大股东直决·W=营收/利润双降档注;交接期双线·O=机器视觉项目+ITS 户外 PoE+VISIONX 自牌通道·T=中东欧机器视觉竞合谱",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):VISIONX 自牌谱=白标开发通道;ITS 户外谱位;汽车工业客户谱;eshop 在线店"
+   },
+   "swot_text": "- **S**:PoE 相机供电天然对口+52% 大股东直决\n- **W**:营收/利润双降档注;交接期双线\n- **O**:机器视觉项目+ITS 户外 PoE+VISIONX 自牌通道\n- **T**:中东欧机器视觉竞合谱",
+   "facts": [
+    {
+     "dim": "法体登册",
+     "text": "ATEsystem s.r.o.;IČO 01392042;DIČ CZ01392042;C 55698/KSOS Krajský soud v Ostravě;vznik 8.2.2013;Základní kapitál 200 000 Kč;Technologická 378/9, Ostrava-Pustkovec;Jednatelé Michal Harhaj(8.2.2013-)+Ing. Dušan Šelong(8.12.2025-);Společníci Harhaj 52%/Maršálek 16%/Bílovský 16%;Obrat 100-200 mil. Kč(ČSÚ 2024)",
+     "quote": "ATEsystem s.r.o.;IČO 01392042;DIČ CZ01392042;C 55698/KSOS Krajský soud v Ostravě;vznik 8.2.2013;Základní kapitál 200 000 Kč;Technologická 378/9, Ostrava-Pustkovec;Jednatelé Michal Harhaj(8.2.2013-)+Ing. Dušan Šelong(8.12.2025-);Společníci Harhaj 52%/Maršálek 16%/Bílovský 16%;Obrat 100-200 mil. Kč(ČSÚ 2024)",
+     "url": "https://rejstrik-firem.kurzy.cz/01392042/atesystem-sro/"
+    },
+    {
+     "dim": "管理变更谱",
+     "text": "8.12.2025: Zapsán jednatel Ing. DUŠAN ŠELONG;Vymazán jednatel Petr Bilík;Vymazán společník Jan Žídek;Způsob jednání: každý jednatel jedná samostatně(原超 2M Kč 双签制解除)",
+     "quote": "8.12.2025: Zapsán jednatel Ing. DUŠAN ŠELONG;Vymazán jednatel Petr Bilík;Vymazán společník Jan Žídek;Způsob jednání: každý jednatel jedná samostatně(原超 2M Kč 双签制解除)",
+     "url": "https://www.podnikatel.cz/rejstrik/atesystem-s-r-o-01392042/"
+    },
+    {
+     "dim": "KP/产品谱",
+     "text": "Company Management: Michal Harhaj Executive Director/Managing Director(+420 603 298 509, michal.harhaj@atesystem.cz);Petr Bílovský Project Manager(+420 731 216 767, petr.bilovsky@);Miloslav Holba Mechatronics(+420 733 129 907);machine vision systems, cameras and components for industrial applications and intelligent traffic systems",
+     "quote": "Company Management: Michal Harhaj Executive Director/Managing Director(+420 603 298 509, michal.harhaj@atesystem.cz);Petr Bílovský Project Manager(+420 731 216 767, petr.bilovsky@);Miloslav Holba Mechatronics(+420 733 129 907);machine vision systems, cameras and components for industrial applications and intelligent traffic systems",
+     "url": "https://www.atesystem.cz/en/company-address"
+    },
+    {
+     "dim": "财务谱",
+     "text": "Obrat 100-200 mil. Kč(čsú, 2024);Aktiva 54 609 000 Kč(-5%);Zisk 3 639 000 Kč(-31%);Počet zaměstnanců 25-49;CZ-NACE instalace průmyslových strojů a zařízení",
+     "quote": "Obrat 100-200 mil. Kč(čsú, 2024);Aktiva 54 609 000 Kč(-5%);Zisk 3 639 000 Kč(-31%);Počet zaměstnanců 25-49;CZ-NACE instalace průmyslových strojů a zařízení",
+     "url": "https://www.chytryrejstrik.cz/ico-01392042/atesystem-s-r-o"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB8·B-192:捷谱: **ATEsystem s.r.o. 深挖(rejstrik-firem/podnikatel/chytryrejstrik/atesystem.cz 官网 contact/customers/zivefirmy/info-ostrava 七源互证)**:**IČO 01392042,DIČ CZ01392042,Krajský soud v Ostravě C 55698/KSOS,2013-02-08 创(13 年);Základní kapitál 200,000 Kč;Datová schránka jxtq5qi;DUNS 361279689;Technologická 378/9,Pustkovec,708 00 Ostrava(总部;发票旧档 Studentská 6202/17);**分点 ATEsystem Jablonec s.r.o.(Palackého 3145/41,Jablonec nad Nisou)**;+420 595 172 720(系统集成)/595 170 472(相机组件部);atesystem@atesystem.cz;kamery@atesystem.cz(相机部直邮);eshop.atesystem.cz 在线店;FB/LI 双社交谱(3067958)**;**业务=机器视觉(strojové vidění/machine vision)系统设计实施+工业相机与组件销售(工业应用+智能交通系统 ITS)+生产测试系统(基于机器视觉);**VISIONX = 自有注册商标**;可行性研究/专业培训/技术支持服务;客户=汽车工业/电子/食品跨行业谱(官网 customers 页)**;**营收 100-200 mil. Kč(ČSÚ 2024 档);资产 54.609M Kč(-5% 档);利润 3.639M Kč(-31% 档);员工 25-49 区间( ČSÚ 档);CZ-NACE 主业=工业机器设备安装**;**KP 金谱:**Michal Harhaj**(Executive Director/Managing Director=执行总经理+创始 Jednatel 2013-02-08 起 13 年+**52% 大股东**,Ostrava Starobělská 1179/3,**+420 603 298 509,michal.harhaj@atesystem.cz 直邮直证**=P0)+**Ing. Dušan Šelong**(2025-12-08 新任 Jednatel,Hrabyně 264,Opava 区=10 个月前最新入谱!)+**Petr Bílovský**(16% 股东+系统集成/机电项目经理 Project Manager,+420 731 216 767,petr.bilovsky@atesystem.cz)+**Leoš Maršálek**(16% 股东,Přerov 区)+**Petr Bilík**(前 Jednatel 2025-12-08 退)+**Jan Žídek**(前股东+「výkonný ředitel」2025-12-08 退股=离任谱)+Miloslav Holba(机电,+420 733 129 907)+Jan Durčák(机电)+Dominik Pieter/Michal Kebo/Josef Havlíček/Josef Havlíček(联系人谱)=8+ 人谱**;**2025-12-08 管理层大变更:Bilík 退 Jednatel+Žídek 退股+Šelong 入 Jednatel;同日治理规则之变=「每位 Jednatel 单独代表」新制(原超 2M Kč 需双签旧制解除)**;**谱位=机器视觉 13 年专业户+工业相机分销(PoE 相机供电天然谱位!)+VISIONX 自牌+智能交通 ITS 谱=我方 24 口 PoE 对口(相机 PoE 供电+工业网络)=批 8 技术对口钩**。",
+    "inference": "R67/TUB 推土机深挖 批8 B 类金谱批2",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  }
+ ],
+ "_meta": {
+  "batch": "R67/TUB 推土机深挖 批8 B 类金谱批2",
+  "date": "2026-10-08",
+  "n": 5
+ }
+}

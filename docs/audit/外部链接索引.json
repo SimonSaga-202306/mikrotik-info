@@ -118,6 +118,28 @@
     ]
   },
   {
+    "url": "http://companycheck.co.uk/company/03762835/MAC-SOLUTIONS-UK-LIMITED",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L317"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L375"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L405"
+      },
+      {
+        "path": "profile/B/B-532-MAC Solutions UK Ltd-英国.md",
+        "locator": "L136"
+      }
+    ]
+  },
+  {
     "url": "http://farpoint.eu/?page_id=131",
     "http_checked": false,
     "occurrences": [
@@ -2458,14 +2480,42 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json",
         "locator": "L2015"
+      }
+    ]
+  },
+  {
+    "url": "https://accdistribution.eu/lt/about-us/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L36"
       },
       {
-        "path": "profile/B/B-307-ACC Distribution UAB-立陶宛.md",
-        "locator": "L131"
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L125"
       },
       {
         "path": "profile/B/B-307-ACC Distribution UAB-立陶宛.md",
         "locator": "L134"
+      }
+    ]
+  },
+  {
+    "url": "https://accdistribution.eu/lt/contact-us/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L41"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L131"
+      },
+      {
+        "path": "profile/B/B-307-ACC Distribution UAB-立陶宛.md",
+        "locator": "L137"
       }
     ]
   },
@@ -5074,14 +5124,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json",
         "locator": "L7013"
-      },
-      {
-        "path": "profile/B/B-192-ATEsystem s.r.o-捷克.md",
-        "locator": "L133"
-      },
-      {
-        "path": "profile/B/B-192-ATEsystem s.r.o-捷克.md",
-        "locator": "L136"
       }
     ]
   },
@@ -11750,10 +11792,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
         "locator": "L424"
-      },
-      {
-        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
-        "locator": "L144"
       }
     ]
   },
@@ -13112,6 +13150,24 @@
     ]
   },
   {
+    "url": "https://detail.cz/firma/26084121-pcv-computers-s-r-o-klimentska-1216-46-praha-1",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L470"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L560"
+      },
+      {
+        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
+        "locator": "L151"
+      }
+    ]
+  },
+  {
     "url": "https://digicomm.com",
     "http_checked": false,
     "occurrences": [
@@ -13658,14 +13714,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json",
         "locator": "L5823"
-      },
-      {
-        "path": "profile/B/B-462-DMI COMPUTER-西班牙.md",
-        "locator": "L135"
-      },
-      {
-        "path": "profile/B/B-462-DMI COMPUTER-西班牙.md",
-        "locator": "L138"
       }
     ]
   },
@@ -17400,6 +17448,10 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第12批.json",
         "locator": "L141"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L296"
       },
       {
         "path": "profile/B/B-532-MAC Solutions UK Ltd-英国.md",
@@ -21562,6 +21614,26 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第16批.json",
         "locator": "L278"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L153"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L174"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L232"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L262"
+      },
+      {
+        "path": "profile/B/B-462-DMI COMPUTER-西班牙.md",
+        "locator": "L135"
       }
     ]
   },
@@ -28888,14 +28960,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json",
         "locator": "L8798"
-      },
-      {
-        "path": "profile/B/B-532-MAC Solutions UK Ltd-英国.md",
-        "locator": "L136"
-      },
-      {
-        "path": "profile/B/B-532-MAC Solutions UK Ltd-英国.md",
-        "locator": "L139"
       }
     ]
   },
@@ -41812,12 +41876,32 @@
         "locator": "L243"
       },
       {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L10"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L31"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L89"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L119"
+      },
+      {
         "path": "batch/KP猎捕_B_R64_第1批.json",
         "locator": "L225"
       },
       {
         "path": "profile/B/B-307-ACC Distribution UAB-立陶宛.md",
         "locator": "L87"
+      },
+      {
+        "path": "profile/B/B-307-ACC Distribution UAB-立陶宛.md",
+        "locator": "L131"
       }
     ]
   },
@@ -45170,6 +45254,24 @@
     ]
   },
   {
+    "url": "https://redditch.cylex-uk.co.uk/company/mac-solutions--uk--ltd-16925718.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L327"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L417"
+      },
+      {
+        "path": "profile/B/B-532-MAC Solutions UK Ltd-英国.md",
+        "locator": "L142"
+      }
+    ]
+  },
+  {
     "url": "https://redvi.se/",
     "http_checked": false,
     "occurrences": [
@@ -45532,6 +45634,32 @@
     ]
   },
   {
+    "url": "https://rejstrik-firem.kurzy.cz/01392042/atesystem-sro/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L582"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L603"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L661"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L691"
+      },
+      {
+        "path": "profile/B/B-192-ATEsystem s.r.o-捷克.md",
+        "locator": "L133"
+      }
+    ]
+  },
+  {
     "url": "https://rejstrik-firem.kurzy.cz/04241959/hanacke-net-sro/",
     "http_checked": false,
     "occurrences": [
@@ -45624,6 +45752,32 @@
       {
         "path": "profile/B/B-192-ATEsystem s.r.o-捷克.md",
         "locator": "L82"
+      }
+    ]
+  },
+  {
+    "url": "https://rejstrik.penize.cz/26084121-pcv-computers-s-r-o",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L439"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L460"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L518"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L548"
+      },
+      {
+        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
+        "locator": "L145"
       }
     ]
   },
@@ -47804,6 +47958,24 @@
     ]
   },
   {
+    "url": "https://rocketreach.co/mac-solutions-uk-ltd-profile_b5ee9f6af42e761c",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L332"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L423"
+      },
+      {
+        "path": "profile/B/B-532-MAC Solutions UK Ltd-英国.md",
+        "locator": "L145"
+      }
+    ]
+  },
+  {
     "url": "https://rocketreach.co/marco-presti-email_229046824",
     "http_checked": false,
     "occurrences": [
@@ -48387,31 +48559,27 @@
       },
       {
         "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
-        "locator": "L90"
+        "locator": "L97"
       },
       {
         "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
-        "locator": "L91"
+        "locator": "L98"
       },
       {
         "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
-        "locator": "L92"
+        "locator": "L99"
       },
       {
         "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
-        "locator": "L93"
+        "locator": "L100"
       },
       {
         "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
-        "locator": "L94"
+        "locator": "L101"
       },
       {
         "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
-        "locator": "L95"
-      },
-      {
-        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
-        "locator": "L147"
+        "locator": "L102"
       }
     ]
   },
@@ -48455,27 +48623,27 @@
     "occurrences": [
       {
         "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
-        "locator": "L77"
+        "locator": "L84"
       },
       {
         "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
-        "locator": "L78"
+        "locator": "L85"
       },
       {
         "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
-        "locator": "L79"
+        "locator": "L86"
       },
       {
         "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
-        "locator": "L80"
+        "locator": "L87"
       },
       {
         "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
-        "locator": "L81"
+        "locator": "L88"
       },
       {
         "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
-        "locator": "L82"
+        "locator": "L89"
       }
     ]
   },
@@ -65456,6 +65624,24 @@
     ]
   },
   {
+    "url": "https://www.atesystem.cz/en/company-address",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L613"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L703"
+      },
+      {
+        "path": "profile/B/B-192-ATEsystem s.r.o-捷克.md",
+        "locator": "L139"
+      }
+    ]
+  },
+  {
     "url": "https://www.atlantikelektronik.com",
     "http_checked": false,
     "occurrences": [
@@ -68954,6 +69140,42 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第13批.json",
         "locator": "L503"
+      }
+    ]
+  },
+  {
+    "url": "https://www.checkcompany.co.uk/company/03762835/M.A.C.-SOLUTIONS-(UK)-LIMITED",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L322"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L411"
+      },
+      {
+        "path": "profile/B/B-532-MAC Solutions UK Ltd-英国.md",
+        "locator": "L139"
+      }
+    ]
+  },
+  {
+    "url": "https://www.chytryrejstrik.cz/ico-01392042/atesystem-s-r-o",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L618"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L709"
+      },
+      {
+        "path": "profile/B/B-192-ATEsystem s.r.o-捷克.md",
+        "locator": "L142"
       }
     ]
   },
@@ -74230,6 +74452,24 @@
     ]
   },
   {
+    "url": "https://www.datoscif.es/empresa/dmi-computer-sa",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L184"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L274"
+      },
+      {
+        "path": "profile/B/B-462-DMI COMPUTER-西班牙.md",
+        "locator": "L141"
+      }
+    ]
+  },
+  {
     "url": "https://www.datoscif.es/empresa/lineas-y-cables-sa",
     "http_checked": false,
     "occurrences": [
@@ -77760,6 +78000,24 @@
     ]
   },
   {
+    "url": "https://www.einforma.com/informacion-empresa/dmi-computer",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L179"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L268"
+      },
+      {
+        "path": "profile/B/B-462-DMI COMPUTER-西班牙.md",
+        "locator": "L138"
+      }
+    ]
+  },
+  {
     "url": "https://www.einforma.com/informacion-empresa/grupo-berdin",
     "http_checked": false,
     "occurrences": [
@@ -81088,6 +81346,24 @@
     ]
   },
   {
+    "url": "https://www.firmy.cz/detail/12705139-pcv-computers-uherske-hradiste-sady.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L475"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L566"
+      },
+      {
+        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
+        "locator": "L154"
+      }
+    ]
+  },
+  {
     "url": "https://www.firmy.cz/detail/12764049-martin-pina-olomouc-nova-ulice.html",
     "http_checked": false,
     "occurrences": [
@@ -83758,6 +84034,24 @@
     ]
   },
   {
+    "url": "https://www.hlidacstatu.cz/subjekt/26084121",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L465"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L554"
+      },
+      {
+        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
+        "locator": "L148"
+      }
+    ]
+  },
+  {
     "url": "https://www.hm-electronics.de/agb/index.html",
     "http_checked": false,
     "occurrences": [
@@ -84532,6 +84826,24 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第50批.json",
         "locator": "L773"
+      }
+    ]
+  },
+  {
+    "url": "https://www.iberinform.es/empresa/327215/dmi-computer",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L189"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L280"
+      },
+      {
+        "path": "profile/B/B-462-DMI COMPUTER-西班牙.md",
+        "locator": "L144"
       }
     ]
   },
@@ -85338,6 +85650,24 @@
       {
         "path": "profile/B/B-200-OEM Automatic spol. s r.o-捷克.md",
         "locator": "L81"
+      }
+    ]
+  },
+  {
+    "url": "https://www.info.lt/imones/ACC-Distribution-UAB/2138617",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L46"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L137"
+      },
+      {
+        "path": "profile/B/B-307-ACC Distribution UAB-立陶宛.md",
+        "locator": "L140"
       }
     ]
   },
@@ -108686,6 +109016,24 @@
     ]
   },
   {
+    "url": "https://www.podnikatel.cz/rejstrik/atesystem-s-r-o-01392042/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L608"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+        "locator": "L697"
+      },
+      {
+        "path": "profile/B/B-192-ATEsystem s.r.o-捷克.md",
+        "locator": "L136"
+      }
+    ]
+  },
+  {
     "url": "https://www.podnikatel.cz/rejstrik/axilogi-s-r-o-10964703/",
     "http_checked": false,
     "occurrences": [
@@ -118361,11 +118709,7 @@
       },
       {
         "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
-        "locator": "L88"
-      },
-      {
-        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
-        "locator": "L141"
+        "locator": "L95"
       }
     ]
   },
@@ -118389,7 +118733,7 @@
     "occurrences": [
       {
         "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
-        "locator": "L75"
+        "locator": "L82"
       }
     ]
   },
@@ -122655,11 +122999,7 @@
       },
       {
         "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
-        "locator": "L89"
-      },
-      {
-        "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
-        "locator": "L138"
+        "locator": "L96"
       }
     ]
   },
@@ -122683,7 +123023,7 @@
     "occurrences": [
       {
         "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
-        "locator": "L76"
+        "locator": "L83"
       }
     ]
   },

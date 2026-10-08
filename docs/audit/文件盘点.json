@@ -1697,7 +1697,7 @@
       "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
       "sha256": "fc0c84c4ee058dc8454b65b51900b3a3a9ab9a4abfcb11d87c734e8c133fcf5c",
       "bytes": 53732,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 741,
       "unique_url_count": 26,
       "inspection": {},
@@ -2414,6 +2414,16 @@
       "errors": []
     },
     {
+      "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批8.json",
+      "sha256": "533c3d50e6c46e052ea2be67be1762bbd0b5e74e81078abfbcc54f5d43465931",
+      "bytes": 78480,
+      "tracked_at_scan": false,
+      "units_scanned": 724,
+      "unique_url_count": 21,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "batch/KP猎捕_A_R64_第1波.json",
       "sha256": "87d95bc7ba8868fe4de41f414939e12f56fe27b760e1e081465eafbe1b1c6706",
       "bytes": 15275,
@@ -3105,10 +3115,10 @@
     },
     {
       "path": "docs/requirements/用户要求总账.md",
-      "sha256": "962c9d3ddff009ba073622418e8594743096245164f6d14923586abfb0eed6ac",
-      "bytes": 240764,
+      "sha256": "ebfe752892eb6e542894882d5ab456c775a16f794317ecb4e637e180110de2f4",
+      "bytes": 248372,
       "tracked_at_scan": true,
-      "units_scanned": 1560,
+      "units_scanned": 1573,
       "unique_url_count": 3,
       "inspection": {},
       "errors": []
@@ -9615,11 +9625,11 @@
     },
     {
       "path": "profile/B/B-192-ATEsystem s.r.o-捷克.md",
-      "sha256": "b550783cf0e035d627ddf5171eceeeee3a418dd07df4d5476e29e17c77f4b7f9",
-      "bytes": 13568,
+      "sha256": "432077ecb6d12efb26c8aaa56d894b1b58382bc843e98312a25de25c3be6cbea",
+      "bytes": 16035,
       "tracked_at_scan": true,
-      "units_scanned": 215,
-      "unique_url_count": 3,
+      "units_scanned": 222,
+      "unique_url_count": 6,
       "inspection": {},
       "errors": []
     },
@@ -9645,11 +9655,11 @@
     },
     {
       "path": "profile/B/B-201-PCV Computers, s.r.o-捷克.md",
-      "sha256": "81e9d916952e0fa4c456cc4e99a88daeb4962386535e312dd235b683e72a28cd",
-      "bytes": 16436,
+      "sha256": "2a0bb92b10770b78f70595eea5a2c9f2602e8f9ab9942396bda340f540fd0c7c",
+      "bytes": 18360,
       "tracked_at_scan": true,
-      "units_scanned": 226,
-      "unique_url_count": 7,
+      "units_scanned": 234,
+      "unique_url_count": 10,
       "inspection": {},
       "errors": []
     },
@@ -9995,11 +10005,11 @@
     },
     {
       "path": "profile/B/B-307-ACC Distribution UAB-立陶宛.md",
-      "sha256": "e8f27a802ee5224074c59e7c08c046491834fda745d6d3550c7207ecc6f44015",
-      "bytes": 13591,
+      "sha256": "9b0dcc177c576d7f48ed8320c75d9683d59efb0901c43aa06e10cdd422a6a8ba",
+      "bytes": 16310,
       "tracked_at_scan": true,
-      "units_scanned": 213,
-      "unique_url_count": 5,
+      "units_scanned": 220,
+      "unique_url_count": 7,
       "inspection": {},
       "errors": []
     },
@@ -10355,11 +10365,11 @@
     },
     {
       "path": "profile/B/B-462-DMI COMPUTER-西班牙.md",
-      "sha256": "5335a752693614bcc4f1c63c63967eaf4bfdce617fa4b57f56d71ab8e4f01d76",
-      "bytes": 13617,
+      "sha256": "5828bcb8ac76d8d66cde40db230e1442006a7b17405005d514172a479508fc0c",
+      "bytes": 16182,
       "tracked_at_scan": true,
-      "units_scanned": 217,
-      "unique_url_count": 3,
+      "units_scanned": 224,
+      "unique_url_count": 6,
       "inspection": {},
       "errors": []
     },
@@ -10615,11 +10625,11 @@
     },
     {
       "path": "profile/B/B-532-MAC Solutions UK Ltd-英国.md",
-      "sha256": "2ee7e5b073b7f44be44c7d0ac39f7bb558bf2e231af08b81d1178ea40e6ea518",
-      "bytes": 13720,
+      "sha256": "a4a4d8397d11cddbef22c0e16e50335a0a47800dfa575e7b55bf41e0ab85d975",
+      "bytes": 16979,
       "tracked_at_scan": true,
-      "units_scanned": 218,
-      "unique_url_count": 5,
+      "units_scanned": 225,
+      "unique_url_count": 8,
       "inspection": {},
       "errors": []
     },
@@ -14275,10 +14285,10 @@
     },
     {
       "path": "scripts/make_profiles.py",
-      "sha256": "52eacbefa4ca4bc7a6469f723871ec6b81f5641936fc0e429e968423ee24b7f3",
-      "bytes": 40151,
+      "sha256": "ceea6dca8488059695ce7647342a696bf6de20d7c47343e7ac394d973f101881",
+      "bytes": 40213,
       "tracked_at_scan": true,
-      "units_scanned": 825,
+      "units_scanned": 826,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []
