@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Axilogi s.r.o.(捷克 Plzeň,Daimlerova 1161/6, 301 00;**IČO 10964703**(C 123877 Krajský soud v Brně;资本 2,000,000 K…
+- **是谁**：2021 创 5 年;Plzeň;DC Europe system 集团;法人双 Jednatel;kapital 2M Kč…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 光伏+弱电双驱分销的安装商随单 24 口 280W 管理型 PoE 位(配电柜类目 STI 二线注记)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,13 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Axilogi s.r.o.(捷克 Plzeň,Daimlerova 1161/6, 301 00;**IČO 10964703**(C 123877 Krajský soud v Brně;资本 2,000,000 Kč;**2021-06-23 注册(5 年)**);6 员工;谱型=网络技术件+光伏/太阳能批发分销(安全摄像头/智能家居/电源件;axil | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | (待谱面二补) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 2021 创 5 年;Plzeň;DC Europe system 集团;法人双 Jednatel;kapital 2M Kč | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | 电商/物流仓网;PoE 24 口=仓 AP/监控/CCTV 供电基建件 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】波 R67/TUB·批9·B-194:捷谱: **AxiLogi s.r.o. 深挖(finmag 主档/变更档/rejstrik-firem.kurzy/axilogi.com 四源互证)**:**IČO 10964703(DIČ CZ10964703),2021-06-23 创(5 年新谱);základní kapitál 2,000,000 Kč;法定址 Daimlerova 1161/6,301 00 Plzeň-Skvrňany;运作谱=axilogi.com 电商+物流+buffer 仓:发票址 Holzova 716/2 Brno+送货点 Hřbitovní 1479/25 Plzeň 双址;Způsob jednání=Jednatel jedná samostatně(单独代表)**;**集团架构金锚:**Jednatel=法人双体(罕谱!)=Kolibřík klub invest a.s.(IČO 06532802,同址 Daimlerova 121=唯一 společník 股东)+DC Europe system a.s.(同 IČO 06532802 同址=同集团别体,finmag 档记)=法人双 Jednatel 谱;DC Europe system=Logistics/fulfillment 集团母谱**;**职能代理变更谱(变更档全录):Ing. Zdeněk Pokorný(2021-06-23 任→2025-06-02 除)+Ing. Milan Harmáček(2025-06-02 任→2026-01-19 除)+2025-12-30 prokurista JUDr. 任+**Mgr. Martin Svoboda(2026-04-23 档新任职能代理谱)**+2026-03-10 最新变更=**3 年 4 轮换交接谱**;**政务谱:10 项公共采购合同约 2M Kč(hlidacstatu 档)+2025 年 5 份 660,332 Kč(同比 +63%)=公共履约谱**;**谱位=DC Europe 集团电商/物流件子司=我方 24 口 PoE 对仓网/电商 IT 基建谱口=批 9 集团架构钩;KP=Mgr. Martin Svoboda(新任职能代理 P0 级)+Ing. Milan Harmáček(新鲜卸前任)+Ing. Zdeněk Pokorný(创始职能谱)+prokurista JUDr.(名待核)+法人层 Kolibřík klub invest a.s. 董事会(名待核)=5 轨谱**;排噪:IČO 06532802 两司同号 finmag 记=同集团体注。
+- 【推断】R67/TUB 推土机深挖 批9 B 类既定十户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-(待谱面二补)
+电商/物流仓网;PoE 24 口=仓 AP/监控/CCTV 供电基建件
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -62,7 +69,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- Axilogi s.r.o.(捷克 Plzeň,Daimlerova 1161/6, 301 00;**IČO 10964703**(C 123877 Krajský soud v Brně;资本 2,000,000 Kč;**2021-06-23 注册(5 年)**);6 员工;谱型=网络技术件+光伏/太阳能批发分销(安全摄像头/智能家居/电源件;axilogi.com);**股东:DC Europe system a.s.(Plzeň 集团)+Ing. Milan Harmáček(akcionář)**;živnost 电气电子电信设备制造安装维修(řemeslná)
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -88,50 +95,53 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 具名 kp 引路口
+### 第 1 次跟进 · Svoboda 新任职能代理
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
-- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
-- **随附/动作**：规格页
+- **切入点**：2026-04 新任=新吏新政谱口 → 24 口 PoE(仓网/电商基建)
+- **要问的问题**：贵集团仓网/电商线的 24 口 PoE 交换机集购由哪位同事主责?
+- **随附/动作**：finmag 4 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · 集团层 Kolibřík klub/DC Europe 采购口
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：价值层 PoE 谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：法人集团层=集采链
+- **要问的问题**：DC Europe 集团的仓网件送样口?
+- **随附/动作**：finmag 谱
 
-### 第 3 次跟进 · 留档+LinkedIn 谱
+### 第 3 次跟进 · JUDr. prokurista+政务线
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：谱链明智途径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：政务 10 合同 2M Kč+2025 +63%
+- **要问的问题**：贵司政务履约线的网络件谱?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08(R66-B 波 1)**；原始记录：`batch/B类深挖_2026-10-08_R66_BKP波4.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批9.json`；价格均为 EXW 快照。
 
-- **背景深描**：Axilogi s.r.o.(捷克 Plzeň,Daimlerova 1161/6, 301 00;**IČO 10964703**(C 123877 Krajský soud v Brně;资本 2,000,000 Kč;**2021-06-23 注册(5 年)**);6 员工;谱型=网络技术件+光伏/太阳能批发分销(安全摄像头/智能家居/电源件;axilogi.com);**股东:DC Europe system a.s.(Plzeň 集团)+Ing. Milan Harmáček(akcionář)**;živnost 电气电子电信设备制造安装维修(řemeslná)
-- **芯片与在用型号**：(待谱面二补)
-- **关键人KP**：**Ing. Milan Harmáček(CEO(2023 起)+Akcionář/člen správní rady(股东+监事会;前 DISCOMP s.r.o. CEO 1999-2024 25 年谱),official-self-published·谱/leads-only(直发需 opt-in));Patrik Kříž(Key Principal(主负责人),leads-only·待 opt-in(LinkedIn/谱面带核));Tomáš Bubeník(Obsahový specialista(内容专员;前 pilsfree.net 谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **关注点与资质**：Harmáček 25 年分销谱(Discomp→Axilogi)
-- **优缺点SWOT**：S Harmáček 25 年分销谱(Discomp→Axilogi) / W 小实体(6 人) / O CEO 股东直达位 / T 大牌件链竞谱
-- **Saga产品适配**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效)):捷克 Plzeň 网络件+光伏批发分销;Harmáček CEO/股东+Kříž 负责人(opt-in 律)
+- **背景深描**：2021 创 5 年;Plzeň;DC Europe system 集团;法人双 Jednatel;kapital 2M Kč
+- **芯片与在用型号**：电商/物流仓网;PoE 24 口=仓 AP/监控/CCTV 供电基建件
+- **关键人KP**：Mgr. Martin Svoboda(2026-04 职能代理 P0)+Ing. Milan Harmáček(2025-2026 交接)+Ing. Zdeněk Pokorný(创始职能)+prokurista JUDr.+法人双体=5 轨谱
+- **关注点与资质**：集团物流/电商 → 24 口 PoE(仓网基建项目件)
+- **优缺点SWOT**：S=DC Europe 集团仓网+政务 2M Kč 谱+5 年新谱增长曲线·W=交接频繁;法人架构决策在集团·O=仓网数字化/电商基建升级=PoE 对口·T=集团内供谱;新吏人脉未建
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):捷克语谱;集团集采;政务履约谱;交接期新吏新政
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**Kapitál: DC Europe system a.s. + Ing. Milan Harmáček Akcionář, Člen správní rady(podnikatel.cz 捷克商事登记谱);základní kapitál 2 000 000 Kč
-  > Kapitál: DC Europe system a.s. + Ing. Milan Harmáček Akcionář, Člen správní rady(podnikatel.cz 捷克商事登记谱);základní kapitál 2 000 000 Kč
-  > 来源：https://www.podnikatel.cz/rejstrik/axilogi-s-r-o-10964703/
-- **【决策链与对接人】**Key Principal: Patrik Kříž(DNB 件);CEO Milan Harmacek(2023-now;1999-2024 CEO @ DISCOMP s.r.o.;ZČU Plzeň Ing. 2000)
-  > Key Principal: Patrik Kříž(DNB 件);CEO Milan Harmacek(2023-now;1999-2024 CEO @ DISCOMP s.r.o.;ZČU Plzeň Ing. 2000)
-  > 来源：https://rocketreach.co/milan-harmacek-email_99105918
-- **【团队与规模】**Top employees: Milan Harmacek CEO;Tomáš Bubeník Obsahový specialista;6 employees;Network Technologies/Photovoltaic/Security Cameras/Smart Home(RR 谱)
-  > Top employees: Milan Harmacek CEO;Tomáš Bubeník Obsahový specialista;6 employees;Network Technologies/Photovoltaic/Security Cameras/Smart Home(RR 谱)
-  > 来源：https://rocketreach.co/axilogi-s-r-o-profile_b6cf87abc782c61f
+- **【法体登册】**Axilogi s.r.o., IČO: 10964703, sídlo: Daimlerova 1161/6, Plzeň - Skvrňany;Jednatel: Kolibřík klub invest a. s.(06532802)+DC Europe system a.s.(06532802,Plzeň - Skvrňany);Způsob jednání: Jednatel jedná za společnost ve všech věcech samostatně;zápis 23. 6. 2021
+  > Axilogi s.r.o., IČO: 10964703, sídlo: Daimlerova 1161/6, Plzeň - Skvrňany;Jednatel: Kolibřík klub invest a. s.(06532802)+DC Europe system a.s.(06532802,Plzeň - Skvrňany);Způsob jednání: Jednatel jedná za společnost ve všech věcech samostatně;zápis 23. 6. 2021
+  > 来源：https://www.finmag.cz/obchodni-rejstrik/10964703-axilogi-s-r-o
+- **【变更/职能谱】**23.6.2021 základní kapitál 2 000 000 Kč;3.4.2022 Zápís člena statutárního orgánu DC Europe system a.s.;2.6.2025 Zápís Ing. Milan Harmáček jako při výkonu funkce zastupuje+Vymazán Ing. Zdeněk Pokorný;30.12.2025 Zápís prokurista JUDr.;19.1.2026 Vymazán Ing. Milan Harmáček;10.3.2026 变更
+  > 23.6.2021 základní kapitál 2 000 000 Kč;3.4.2022 Zápís člena statutárního orgánu DC Europe system a.s.;2.6.2025 Zápís Ing. Milan Harmáček jako při výkonu funkce zastupuje+Vymazán Ing. Zdeněk Pokorný;30.12.2025 Zápís prokurista JUDr.;19.1.2026 Vymazán Ing. Milan Harmáček;10.3.2026 变更
+  > 来源：https://www.finmag.cz/obchodni-rejstrik/10964703-axilogi-s-r-o/zmeny
+- **【谱档】**10.3.2026 最新;2.10.2024 Nabídky práce: Axilogi s.r.o. inzeruje jednu aktivní pracovní pozici(招聘活信号)
+  > 10.3.2026 最新;2.10.2024 Nabídky práce: Axilogi s.r.o. inzeruje jednu aktivní pracovní pozici(招聘活信号)
+  > 来源：https://rejstrik-firem.kurzy.cz/10964703/axilogi-sro/zmeny/
+- **【运作谱】**axilogi.com 条款:发票址 Holzova 716/2 Brno;送货点 Hřbitovní 1479/25 Plzeň;eshop 电商+物流双谱(hlidacstatu 档记:10 公共合同 2M Kč;2025 年 5 份 660,332 Kč,+63%)
+  > axilogi.com 条款:发票址 Holzova 716/2 Brno;送货点 Hřbitovní 1479/25 Plzeň;eshop 电商+物流双谱(hlidacstatu 档记:10 公共合同 2M Kč;2025 年 5 份 660,332 Kč,+63%)
+  > 来源：https://www.axilogi.com/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -144,7 +154,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S Harmáček 25 年分销谱(Discomp→Axilogi) / W 小实体(6 人) / O CEO 股东直达位 / T 大牌件链竞谱
+S=DC Europe 集团仓网+政务 2M Kč 谱+5 年新谱增长曲线·W=交接频繁;法人架构决策在集团·O=仓网数字化/电商基建升级=PoE 对口·T=集团内供谱;新吏人脉未建
 
 ## 触达与风险红线
 
@@ -172,8 +182,9 @@ S Harmáček 25 年分销谱(Discomp→Axilogi) / W 小实体(6 人) / O CEO 股
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 硬件采购线在职者(波次二)
-  - [ ] MikroTik 谱面份额
+  - [ ] 法人双 Jednatel 同 IČO 06532802 谱注(finmag 档记)
+  - [ ] prokurista JUDr. 全名待核
+  - [ ] Mgr. Martin Svoboda 直邮推 axilogi.com 域档
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -185,12 +196,7 @@ S Harmáček 25 年分销谱(Discomp→Axilogi) / W 小实体(6 人) / O CEO 股
 **主题**：PoE switching for your line
 
 ```text
-Dobrý den pane Harmáčku,
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
-
-Best regards,
-Saga Networks Export Desk
+Dear Martin,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — solid infrastructure for warehouse, e-commerce and public-contract network deployments. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

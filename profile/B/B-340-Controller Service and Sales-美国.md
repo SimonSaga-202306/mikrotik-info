@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 30·B-340:美国谱: **守档准由·原 R65/R57 谱基增厚**:Controller Service and Sales（马萨诸塞 Avon）：电气/自动化老牌分销=Moxa 授权官方分销商（Moxa 手…
+- **是谁**：1926 创 100 年;Boston/Avon MA;O'Dea→O'Day 家族三代;service 起家→分销…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：有信号（交换专长、工业/楼宇）但需先验证需求或联系人不具体
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — Moxa 授权老分销+在架千美元档：value DIN 轨 8 口（$74.8）入子位置最对口；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 30·B-340:美国谱: **守档准由·原 R65/R57 谱基增厚**:Controller Service and Sales（马萨诸塞 Avon）：电气/自动化老牌分销=Moxa 授权官方分销商（Moxa 手册页印出"Your Authorized Distributor")；在架 ABB/Eaton Cutler-Hammer/IDEC/Mox | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 1926 创 100 年;Boston/Avon MA;O'Dea→O'Day 家族三代;service 起家→分销 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | 电控/自动化/安全分销 90+ 线+turnkey 系统;PoE 24 口=控制柜/项目基建件 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 30·B-340:美国谱: **守档准由·原 R65/R57 谱基增厚**:Controller Service and Sales（马萨诸塞 Avon）：电气/自动化老牌分销=Moxa 授权官方分销商（Moxa 手册页印出"Your Authorized Distributor")；在架 ABB/Eaton Cutler-Hammer/IDEC/Moxa/Hammond/Puls/Datalogic/Honeywell/Ferraz；Moxa EDS-G512E-4GSFP $1,399、EDS-G516E-4GSFP $1,749 直接印刷价在页 | R64/R65 补:Mark O'Day President + Scott O'Day VP S&M + Jim Long Corporate Controller;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第1波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 30 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】波 R67/TUB·批9·B-340:美谱: **Controller Service & Sales Company, Inc. 深挖(controllerservice.com/aboutus+tedmag 百年通稿+leadiq 三源互证)**:**1926 创=整整 100 年(2026 百年庆,tedmag 通稿);创始 Matthew O'Dea(1899 生于 Stoughton MA,孤儿起奋;Wentworth Institute of Technology 1916 毕业→Cutler-Hammer 任职→1926 Boston Oliver Street 创);O'Day 家族 mid-1980s 接力=**第三代家族企业**;「Service Before Sales Since 1926」**;**业务=**新英格兰电气控制+工业自动化+安全产品首要分销商**:**电机控制/电路线保护/安全产品 90+ 产品线;授权分销=Cutler-Hammer/ABB/Idec 首批;最小组件→完整 turnkey 控制系统(设计/制造/工程/调试);根源=service 起家转分销;NAICS 3339;**11-50 员(37 员档记);+1-800-584-**** 谱口;Boston/Avon MA 谱**;**KP 金谱:Michael Murphy(President,zoominfo 档 P0)+Vance Smith(VP)+Joseph Lavallee(Senior Engineer)+Louis Guerra/John Trubiano(Account Mgr)+Gregg Jackman(Sales)+Cristina Cataldo(Service&Sales Controller)+Adrian Crooker(AP)+**Robert O'Day(tedmag 家族二代代表谱)**=8-9 人谱;$8.9M 营收估(zoominfo 单窗注)**;**谱位=百年三代家族电控/安全产品分销(90+ 线+turnkey 系统)=24 口 PoE 对控制盘柜/turnkey 系统基建谱口=批 9 美系金矿**。
+- 【推断】R67/TUB 推土机深挖 批9 B 类既定十户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+电控/自动化/安全分销 90+ 线+turnkey 系统;PoE 24 口=控制柜/项目基建件
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -95,47 +95,50 @@ STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · Murphy President+Smith VP 双轨
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：守档铺位 → 价锚卡
-- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
-- **随附/动作**：规格页
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
+- **切入点**：President+VP → 24 口 PoE(turnkey 系统/控制柜基建)
+- **要问的问题**：贵司 turnkey 系统线的 24 口 PoE 交换机集购由哪位同事主责?
+- **随附/动作**：aboutus/tedmag 3 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · Lavallee Sr Engineer
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：Senior Engineer=技术评估口
+- **要问的问题**：贵司控制盘柜线的网络件谱口?
+- **随附/动作**：leadiq 谱
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · O'Day 家族+Guerra/Trubiano
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：家族三代+客户线谱
+- **要问的问题**：贵司 90+ 产品线的供应商审核周期?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批9.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 30·B-340:美国谱: **守档准由·原 R65/R57 谱基增厚**:Controller Service and Sales（马萨诸塞 Avon）：电气/自动化老牌分销=Moxa 授权官方分销商（Moxa 手册页印出"Your Authorized Distributor")；在架 ABB/Eaton Cutler-Hammer/IDEC/Moxa/Hammond/Puls/Datalogic/Honeywell/Ferraz；Moxa EDS-G512E-4GSFP $1,399、EDS-G516E-4GSFP $1,749 直接印刷价在页 | R64/R65 补:Mark O'Day President + Scott O'Day VP S&M + Jim Long Corporate Controller;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第1波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
-- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
-- **关注点与资质**：美国 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
-- **Saga产品适配**：STI-288GP vs PLANET/当批价差窗
+- **背景深描**：1926 创 100 年;Boston/Avon MA;O'Dea→O'Day 家族三代;service 起家→分销
+- **芯片与在用型号**：电控/自动化/安全分销 90+ 线+turnkey 系统;PoE 24 口=控制柜/项目基建件
+- **关键人KP**：Michael Murphy(President)+Vance Smith(VP)+Joseph Lavallee(Sr Eng)+Guerra/Trubiano/Jackman/Cataldo/Crooker+Robert O'Day=9 人谱
+- **关注点与资质**：美系百年分销 → 24 口 PoE(turnkey 系统基建+白牌辅位)
+- **优缺点SWOT**：S=100 年三代+90+ 授权线+turnkey 系统能力·W=$8.9M 单窗估;家族决策人际谱·O=turnkey/控制柜 PoE 基建+新英制造业潮·T=ABB/Cutler-Hammer 授权轨道谱;关系型销售周期长
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):英谱;百年关系型信用;授权分销轨道;turnkey 项目节奏
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**Controller Service and Sales（马萨诸塞 Avon）：电气/自动化老牌分销=Moxa 授权官方分销商（Moxa 手册页印出"Your Authorized Distributor")；在架 ABB/Eaton Cutler-Hammer/IDEC/Moxa/Hammond/Puls/Datal
-  > Controller Service and Sales（马萨诸塞 Avon）：电气/自动化老牌分销=Moxa 授权官方分销商（Moxa 手册页印出"Your Authorized Distributor")；在架 ABB/Eaton Cutler-Hammer/IDEC/Moxa/Hammond/Puls/Datal
-  > 来源：https://controllerservice.com/
-- **【联系方式与基础画像】**CSV 入口:官网联系页
-  > CSV 入口:官网联系页
-  > 来源：https://controllerservice.com/
+- **【创史/产品官方档】**A 100 year old family-owned company and leading distributor of electrical control, industrial automation, and safety products;Since its founding in 1926;New England's premiere resource;Matthew O'Dea born 1899 Stoughton, orphan, Wentworth 1916→Cutler-Hammer→founded Controller Service & Sales in Boston in 1926;third generation business soon approaching our hundredth year;Service Before Sales Since 1926
+  > A 100 year old family-owned company and leading distributor of electrical control, industrial automation, and safety products;Since its founding in 1926;New England's premiere resource;Matthew O'Dea born 1899 Stoughton, orphan, Wentworth 1916→Cutler-Hammer→founded Controller Service & Sales in Boston in 1926;third generation business soon approaching our hundredth year;Service Before Sales Since 1926
+  > 来源：https://www.controllerservice.com/aboutus
+- **【百年庆/二代档】**Controller Service & Sales Company, Inc., a third-generation distributor, is celebrating its 100th anniversary in 2026;Matthew O'Dea founded the company in 1926 in Boston on Oliver Street;founded as a service company→Cutler-Hammer first supplier→sales/distribution;in the mid-1980s, the O'Day family formally carried that legacy forward into its next generation;Robert O'Day
+  > Controller Service & Sales Company, Inc., a third-generation distributor, is celebrating its 100th anniversary in 2026;Matthew O'Dea founded the company in 1926 in Boston on Oliver Street;founded as a service company→Cutler-Hammer first supplier→sales/distribution;in the mid-1980s, the O'Day family formally carried that legacy forward into its next generation;Robert O'Day
+  > 来源：https://tedmag.com/controller-service-sales-celebrates-100-years/
+- **【产品/规模档】**authorized distributor for Cutler-Hammer, ABB, and Idec;more than 90 product lines;component level to fully integrated turn-key control systems;Founded 1926;employees 11-50(37);NAICS 3339;Avon, Massachusetts;engineering and start-up service;can design and fabricate complete control systems;+1-800-584
+  > authorized distributor for Cutler-Hammer, ABB, and Idec;more than 90 product lines;component level to fully integrated turn-key control systems;Founded 1926;employees 11-50(37);NAICS 3339;Avon, Massachusetts;engineering and start-up service;can design and fabricate complete control systems;+1-800-584
+  > 来源：https://leadiq.com/c/controller-service--sales-inc/5a1d9d692300005c008d41c1
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -148,7 +151,7 @@ STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
+S=100 年三代+90+ 授权线+turnkey 系统能力·W=$8.9M 单窗估;家族决策人际谱·O=turnkey/控制柜 PoE 基建+新英制造业潮·T=ABB/Cutler-Hammer 授权轨道谱;关系型销售周期长
 
 ## 触达与风险红线
 
@@ -176,8 +179,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节�
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] MikroTik 谱位 controllerservice.com 在售线核
+  - [ ] Murphy/Smith 直邮推档
+  - [ ] $8.9M 营收 vs 37 员=人效注核验
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -189,12 +193,7 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节�
 **主题**：PoE switching for your line
 
 ```text
-Dear Controller Service and Sal Team,
-
-We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
-
-Best regards
-Saga / SmartByte ODM
+Dear Michael,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a sturdy supply for control panels and turnkey control-system deployments across New England industry. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

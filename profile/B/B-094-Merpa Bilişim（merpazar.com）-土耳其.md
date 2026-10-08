@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 29·B-094:土耳其谱: **守档准由·原 R65/R57 谱基增厚**:Merpa Bilgi İşlem Ltd.Şti.(Bayrampaşa İstanbul;1996 自新加坡向土耳其做贸易起家,200…
+- **是谁**：2000 创 26 年;伊斯坦布尔 Bayrampaşa;ETBİS 注册进口商自白;merpazar.com 电商…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 工业计算电商+项目谱的 value PoE 配套档；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 29·B-094:土耳其谱: **守档准由·原 R65/R57 谱基增厚**:Merpa Bilgi İşlem Ltd.Şti.(Bayrampaşa İstanbul;1996 自新加坡向土耳其做贸易起家,2002 注册;**工业计算进口分销:Panel PC/工业 PC/触摸产品为主,代理 6 国 10 品牌**,merpazar.com 官方电商 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 2000 创 26 年;伊斯坦布尔 Bayrampaşa;ETBİS 注册进口商自白;merpazar.com 电商 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | 工业信息产品进口+自研双轨;PoE 24 口=进口新品线对口 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 29·B-094:土耳其谱: **守档准由·原 R65/R57 谱基增厚**:Merpa Bilgi İşlem Ltd.Şti.(Bayrampaşa İstanbul;1996 自新加坡向土耳其做贸易起家,2002 注册;**工业计算进口分销:Panel PC/工业 PC/触摸产品为主,代理 6 国 10 品牌**,merpazar.com 官方电商;兄弟牌 Ninova 做公交行业+智能家居项目;**总经理 Ali Nail Koçyiğit 具名,CSV 邮箱直通**;16 员工/$6.7M) | R65 深挖:工业 IT 35 年+ MikroTik 政府项目分销=当前谱年谱音最能录;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第11波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 29 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】波 R67/TUB·批9·B-094:土谱: **MERPA BİLGİ İŞLEM LİMİTED ŞİRKETİ 深挖(eticaret.gov.tr ETBİS 官档+merpazar.com LI 官档+官网 三源互证)**:**MERSIS No 0618022686200012;Vergi No 6180******(档脱敏);ETBİS Kayıt 2018-01-02;İşletme Türü LİMİTED ŞTİ;Kep merpabilgiislem@hs01.kep.tr;网店=**merpazar.com**;Hakkında 自白=**「Endüstriyel Bilişim Ürünleri İthalat ve Satıcısı」=工业信息产品进口销售商官方事实直证**;Altıntepsi Mah. Öztekin Cd. No:26 Bayrampaşa İstanbul;Tel 0212 213 3873;营收 $6.7M 估/9-16 员(rocketreach 单窗注)**;**LI 官谱:「MERPA BİLGİ İŞLEM LTD. STİ.,1990 Yılından bu yana gelen Sektör tecrübesi ile 2000 yılında İSTANBUL da kurulmuştur(1990 行业经验+2000 İstanbul 创 26 年);Yurtdışından ithalat ile yurtiçi gereksinim Endüstriyel Ve Yeni Teknoloji ürünleri getirerek pazara sunmak+kendi ARGE si ile yeni ürünler=**进口+自研双轨**;**Ali Nail Koçyiğit**=LI 员工档」**;**KP 金谱:Ali Nail Koçyiğit(Genel Müdür 总经理,2002-01 起 23 年司龄 P0;**1996 新加坡→土耳其出口史=亚洲供应链对口经验谱**;LI 员工档)+Taha Uzun(Merpa Bilişim LI 档)+İsmail Çiftci(Administrative Assistant LI 档)+Mustafa Süzer(Manager,rocketreach 档)+Erhan Işık(数字营销,rocketreach 档)=5 人谱**;**谱位=土耳其工业信息产品进口商(官方 ETBİS 自白)+Koçyiğit 亚洲供应链经验(1996 新加坡出口史)+进口自研双轨=我方 24 口 PoE 亚洲 EXW 对口最天然=批 9 最大钩;LI 161 粉**;排噪:Merpa İletişim Sistemleri Ltd(Levent Şenel)=同名别司。
+- 【推断】R67/TUB 推土机深挖 批9 B 类既定十户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+工业信息产品进口+自研双轨;PoE 24 口=进口新品线对口
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -68,7 +68,7 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 波 29·B-094:土耳其谱: **守档准由·原 R65/R57 谱基增厚**:Merpa Bilgi İşlem Ltd.Şti.(Bayrampaşa İstanbul;1996 自新加坡向土耳其做贸易起家,2002 注册;**工业计算进口分销:Panel PC/工业 PC/触摸产品为主,代理 6 国 10 品牌**,merpazar.com 官方电商;兄弟牌 Ninova 做公交行业+智能家居项目;**总经理 Ali Nail Koçyiğit 具名,CSV 邮箱直通**;16 员工/$6.7M) | R65 深挖:工业 IT 35 年+ MikroTik 政府项目分销=当前谱年谱音最能录;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第11波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -92,47 +92,50 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · Koçyiğit GM 23 年+亚洲链
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：守档铺位 → 价锚卡
-- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
-- **随附/动作**：规格页
+- **切入点**：GM+1996 新加坡出口史 → 24 口 PoE(进口线上新轴)
+- **要问的问题**：贵司工业信息产品线的 24 口 PoE 交换机进口由哪位同事主责?
+- **随附/动作**：ETBİS/LI 3 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · 自研双轨
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：ARGE 自研线=白牌贴牌辅位谱
+- **要问的问题**：贵司自研线的网络件供应谱口?
+- **随附/动作**：LI 谱
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · Uzun/Çiftci 行政线
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：LI 员工档谱口
+- **要问的问题**：贵司采购线的报文迟程谱?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批9.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 29·B-094:土耳其谱: **守档准由·原 R65/R57 谱基增厚**:Merpa Bilgi İşlem Ltd.Şti.(Bayrampaşa İstanbul;1996 自新加坡向土耳其做贸易起家,2002 注册;**工业计算进口分销:Panel PC/工业 PC/触摸产品为主,代理 6 国 10 品牌**,merpazar.com 官方电商;兄弟牌 Ninova 做公交行业+智能家居项目;**总经理 Ali Nail Koçyiğit 具名,CSV 邮箱直通**;16 员工/$6.7M) | R65 深挖:工业 IT 35 年+ MikroTik 政府项目分销=当前谱年谱音最能录;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第11波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
-- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
-- **关注点与资质**：土耳其 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
-- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **背景深描**：2000 创 26 年;伊斯坦布尔 Bayrampaşa;ETBİS 注册进口商自白;merpazar.com 电商
+- **芯片与在用型号**：工业信息产品进口+自研双轨;PoE 24 口=进口新品线对口
+- **关键人KP**：Ali Nail Koçyiğit(GM 23 年 P0,1996 新加坡出口史)+Taha Uzun+İsmail Çiftci+Mustafa Süzer+Erhan Işık=5 人谱
+- **关注点与资质**：土耳其工业信息产品进口商 → 24 口 PoE(亚洲 EXW 直对口)
+- **优缺点SWOT**：S=ETBİS 官方进口商自白+26 年+亚洲供应链熟+自研双轨·W=尽汇波动;LI 粉微谱;品类跨度注·O=土耳其制造数字化潮=工业信息/网络件需求·T=大分销商竞争;进口合规谱
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):土耳其语谱;亚洲供应链熟;进口+自研双轨;尽汇波动注
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**Merpa Bilgi İşlem Ltd.Şti.(Bayrampaşa İstanbul;1996 自新加坡向土耳其做贸易起家,2002 注册;**工业计算进口分销:Panel PC/工业 PC/触摸产品为主,代理 6 国 10 品牌**,merpazar.com 官方电商;兄弟牌 Ninova 做公交行业+智能家
-  > Merpa Bilgi İşlem Ltd.Şti.(Bayrampaşa İstanbul;1996 自新加坡向土耳其做贸易起家,2002 注册;**工业计算进口分销:Panel PC/工业 PC/触摸产品为主,代理 6 国 10 品牌**,merpazar.com 官方电商;兄弟牌 Ninova 做公交行业+智能家
-  > 来源：https://merpazar.com/
-- **【联系方式与基础画像】**CSV 入口:+90 212 213 3873 / alinail@merpazar.com
-  > CSV 入口:+90 212 213 3873 / alinail@merpazar.com
-  > 来源：https://merpazar.com/
+- **【ETBİS 官档】**Mersis No 0618022686200012;İşletme Adı: MERPA BİLGİ İŞLEM LİMİTED ŞİRKETİ;ETBİS e Kayıt Tarihi 02.01.2018;İşletme Türü LİMİTED ŞİRKET;Kep Adresleri: merpabilgiislem@hs01.kep.tr;Hakkında: Endüstriyel Bilişim Ürünleri İthalat ve Satıcısı;网站 merpazar.com
+  > Mersis No 0618022686200012;İşletme Adı: MERPA BİLGİ İŞLEM LİMİTED ŞİRKETİ;ETBİS e Kayıt Tarihi 02.01.2018;İşletme Türü LİMİTED ŞİRKET;Kep Adresleri: merpabilgiislem@hs01.kep.tr;Hakkında: Endüstriyel Bilişim Ürünleri İthalat ve Satıcısı;网站 merpazar.com
+  > 来源：https://www.eticaret.gov.tr/siteprofil/143CB0ECB38A4C528CC2FDE2A34D80D2/wwwmerpazarcom
+- **【LI 官/KP 档】**MERPA BİLGİ İŞLEM LTD. STİ.,1990 Yılından bu yana gelen Sektör tecrübesi ile 2000 yılında İSTANBUL da kurulmuştur;Yurtdışından ithalatlarla yurtiçinin Endüstriyel Ve Yeni Teknoloji ürünleri+kendi ARGE si ile yeni ürünler;Ali Nail Kocyigit/Taha Uzun/İsmail Çiftci 员工档;161 takipçi
+  > MERPA BİLGİ İŞLEM LTD. STİ.,1990 Yılından bu yana gelen Sektör tecrübesi ile 2000 yılında İSTANBUL da kurulmuştur;Yurtdışından ithalatlarla yurtiçinin Endüstriyel Ve Yeni Teknoloji ürünleri+kendi ARGE si ile yeni ürünler;Ali Nail Kocyigit/Taha Uzun/İsmail Çiftci 员工档;161 takipçi
+  > 来源：https://tr.linkedin.com/company/merpazarcom
+- **【官网谱】**merpazar.com:Endüstriyel Çözümlerde Yenilikçi Fikirler;进口+自研双轨谱(ETBİS 双证)
+  > merpazar.com:Endüstriyel Çözümlerde Yenilikçi Fikirler;进口+自研双轨谱(ETBİS 双证)
+  > 来源：https://www.merpazar.com/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -145,7 +148,7 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+S=ETBİS 官方进口商自白+26 年+亚洲供应链熟+自研双轨·W=尽汇波动;LI 粉微谱;品类跨度注·O=土耳其制造数字化潮=工业信息/网络件需求·T=大分销商竞争;进口合规谱
 
 ## 触达与风险红线
 
@@ -173,8 +176,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] MikroTik 谱位(土耳其多 MT 分销=竞合核 merpazar.com)
+  - [ ] Koçyiğit 直邮推 merpazar.com 域档
+  - [ ] 营收绝对数未公开($6.7M 单窗注)
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -186,12 +190,7 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 **主题**：PoE switching for your line
 
 ```text
-Dear Merpa Bilişim（merpazar.com Team,
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
-
-Best regards
-Saga / SmartByte ODM
+Dear Ali Nail,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a value import for your industrial ICT product lines in Türkiye. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request. We know your long Asia supply-chain experience.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

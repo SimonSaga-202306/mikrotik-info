@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 29·B-233:美国谱: **守档准由·原 R65/R57 谱基增厚**:Tech Atlantix（techatlantix.com）美国伊利诺伊州 Downers Grove；10+ 年翻新 IT 硬件谱商自述…
+- **是谁**：Sugar Land TX(现档;Fremont CA 起史谱);online marketplace;扩队谱…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：【2026-09-29 R58】翻新为主渠道谱不纯（自述 specialize in refurbished items）、但 MikroTik 谱在架+公开邮箱+美区市场=谱级口存；B 存疑有意向，翻新/折扣谱先例 A-275/A-480 已入 A 粮，本棒先 B 目保【2026-09-29 R59 改号】原 B-536 → B-233。
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 翻新谱旁全新对照行（Marvell 谱在架）：STC-424XGGPM-280W 24口 PoE+4×10G，$180 USD EXW（2026-09-28 快照，15 天有效）；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 29·B-233:美国谱: **守档准由·原 R65/R57 谱基增厚**:Tech Atlantix（techatlantix.com）美国伊利诺伊州 Downers Grove；10+ 年翻新 IT 硬件谱商自述"We specialize in selling refurbished items"；10,000+ SKU（存储/网络/数据中心设备） | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Sugar Land TX(现档;Fremont CA 起史谱);online marketplace;扩队谱 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | CPU/显卡/主板/networking 电商;PoE 24 口=networking 线新品上新轴 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 29·B-233:美国谱: **守档准由·原 R65/R57 谱基增厚**:Tech Atlantix（techatlantix.com）美国伊利诺伊州 Downers Grove；10+ 年翻新 IT 硬件谱商自述"We specialize in selling refurbished items"；10,000+ SKU（存储/网络/数据中心设备）；US 主体+UK/UAE 线上站；址 Unit # OFC 004, 5200 Thatcher Rd, Downers Grove, Illinois 60515（官网另页 5200 Katrine Avenue 变体）；在售 MikroTik CRS510-8XS-2XQ-IN（Marvell 谱 8×10G SFP+ 管理交换机） | R65 深挖:Sugar Land 电商新谱；2025 年扩大专长位谱口利;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第4波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 29 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】波 R67/TUB·批9·B-233:美谱: **Tech Atlantix 深挖(zoominfo C/pic+owler+官网 四源互证)**:**总部=**15500 Voss Rd Ste 13,Sugar Land,Texas**(Greater Houston;**更正:非 Fremont CA**=zoominfo 最新档);11-50 员;Texas-based online marketplace:**CPU/显卡/主板/networking** IT 硬件在线市场(owler 档);Fremont CA 起史谱→Sugar Land 今谱(zoominfo 现档)**;**KP 金锚:**Mike Ross(Chief Executive Officer P0,LI 自称 Sales President,Santa Clara Univ)+Ethan Klein(Executive Vice President,**2025-12-01 入职新高管**;zoominfo 档;NETGEAR 合作官宣谱)+Jake West(Director,Operations,**2025-11-25 入职**)+Jorge Hernandez(Operations & Procurement Executive,**2025-09-09 入职**)+Kevin Foster(2025-08-08)+Reginald Burns(Account Manager)=**6 人谱,4 人 2025 年新聘=**扩队谱(公司扩张直证)**;**Edward Walker(Sugar Land TX,34+ 年 SCIT)=**Lam Research 2021-12~2022-12 三星 SSD 供应项目谱**(LI 单源谱注)**;**营收 $14M 估(zoominfo 单窗注);**谱位=IT 硬件在线市场+新聘 4 高管扩队=24 口 PoE 对 networking 商品线上新轴谱口=批 9 美系电商谱;排噪:B-536/B-526 同名录谱非本户(库注)。
+- 【推断】R67/TUB 推土机深挖 批9 B 类既定十户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+CPU/显卡/主板/networking 电商;PoE 24 口=networking 线新品上新轴
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -93,47 +93,50 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · Ross CEO+Hernandez Procurement 双轨
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：守档铺位 → 价锚卡
-- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
-- **随附/动作**：规格页
+- **切入点**：CEO+Ops&Procurement Executive → 24 口 PoE(networking 商品线)
+- **要问的问题**：贵司 networking 商品线的 24 口 PoE 交换机集购由哪位同事主责?
+- **随附/动作**：zoominfo/owler 3 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · Klein EVP+West Ops
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：新聘高管双轨=人脉建设窗口
+- **要问的问题**：贵司上架线的 PoE 谱口?
+- **随附/动作**：zoominfo 谱
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · Walker SCIT 谱
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：Lam Research 谱=大企业项目背书
+- **要问的问题**：贵司大企业项目的供应商准入谱?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批9.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 29·B-233:美国谱: **守档准由·原 R65/R57 谱基增厚**:Tech Atlantix（techatlantix.com）美国伊利诺伊州 Downers Grove；10+ 年翻新 IT 硬件谱商自述"We specialize in selling refurbished items"；10,000+ SKU（存储/网络/数据中心设备）；US 主体+UK/UAE 线上站；址 Unit # OFC 004, 5200 Thatcher Rd, Downers Grove, Illinois 60515（官网另页 5200 Katrine Avenue 变体）；在售 MikroTik CRS510-8XS-2XQ-IN（Marvell 谱 8×10G SFP+ 管理交换机） | R65 深挖:Sugar Land 电商新谱；2025 年扩大专长位谱口利;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第4波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
-- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
-- **关注点与资质**：美国 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
-- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **背景深描**：Sugar Land TX(现档;Fremont CA 起史谱);online marketplace;扩队谱
+- **芯片与在用型号**：CPU/显卡/主板/networking 电商;PoE 24 口=networking 线新品上新轴
+- **关键人KP**：Mike Ross(CEO)+Ethan Klein(EVP 2025-12)+Jake West(Ops 2025-11)+Jorge Hernandez(Procurement 2025-09)+Kevin Foster+Reginald Burns+Edward Walker(34 年 SCIT,Lam Research 谱)=7 人谱
+- **关注点与资质**：美国 IT 硬件市场扩队 → 24 口 PoE(networking 商品线上新轴)
+- **优缺点SWOT**：S=扩队 4 高管+networking 线上新轴+Procurement 直口·W=单窗估;价敏;人脉建设期·O=美国 SMB 电商潮=PoE 网络件上新轴·T=达索/Newegg 电商竞争;高管新聘融合谱
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):英谱;电商节奏;新聘人脉建设窗口;NETGEAR/大牌背谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**Tech Atlantix（techatlantix.com）美国伊利诺伊州 Downers Grove；10+ 年翻新 IT 硬件谱商自述"We specialize in selling refurbished items"；10,000+ SKU（存储/网络/数据中心设备）；US 主体+UK/UAE 线上站；址 
-  > Tech Atlantix（techatlantix.com）美国伊利诺伊州 Downers Grove；10+ 年翻新 IT 硬件谱商自述"We specialize in selling refurbished items"；10,000+ SKU（存储/网络/数据中心设备）；US 主体+UK/UAE 线上站；址 
-  > 来源：https://techatlantix.com/
-- **【联系方式与基础画像】**CSV 入口:sales@techatlantix.com / +1 (855) 490-5117
-  > CSV 入口:sales@techatlantix.com / +1 (855) 490-5117
-  > 来源：https://techatlantix.com/
+- **【谱锚档】**Tech Atlantix CEO: Mike Ross Chief Executive Officer;Ethan Klein Executive Vice President;Reginald Burns Account Manager;11-50 employees;Operations & Procurement Executive;United States, Texas, Sugar Land;email/direct 谱口
+  > Tech Atlantix CEO: Mike Ross Chief Executive Officer;Ethan Klein Executive Vice President;Reginald Burns Account Manager;11-50 employees;Operations & Procurement Executive;United States, Texas, Sugar Land;email/direct 谱口
+  > 来源：https://www.zoominfo.com/pic/tech-atlantix/1340571212
+- **【HQ/新聘档】**Headquarters: 15500 Voss Rd Ste 13, Sugar Land, Texas;Tech Atlantix is expanding and recently hired new employees: Ethan Klein Executive Vice President Joined Dec 1, 2025;Jake West Director, Operations Joined Nov 25, 2025;Jorge Hernandez Operations & Procurement Executive Joined Sep 9, 2025;Kevin Foster Joined Aug 8, 2025
+  > Headquarters: 15500 Voss Rd Ste 13, Sugar Land, Texas;Tech Atlantix is expanding and recently hired new employees: Ethan Klein Executive Vice President Joined Dec 1, 2025;Jake West Director, Operations Joined Nov 25, 2025;Jorge Hernandez Operations & Procurement Executive Joined Sep 9, 2025;Kevin Foster Joined Aug 8, 2025
+  > 来源：https://www.zoominfo.com/c/tech-atlantix/1340571212
+- **【谱性档】**Texas-based online marketplace that sells products such as CPU processors, video cards, motherboards, and networking for individuals;Sugar Land Texas Greater Houston;Private;Technology Hardware & Equipment;Computers & Peripherals
+  > Texas-based online marketplace that sells products such as CPU processors, video cards, motherboards, and networking for individuals;Sugar Land Texas Greater Houston;Private;Technology Hardware & Equipment;Computers & Peripherals
+  > 来源：https://www.owler.com/company/techatlantix
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -146,7 +149,7 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+S=扩队 4 高管+networking 线上新轴+Procurement 直口·W=单窗估;价敏;人脉建设期·O=美国 SMB 电商潮=PoE 网络件上新轴·T=达索/Newegg 电商竞争;高管新聘融合谱
 
 ## 触达与风险红线
 
@@ -174,8 +177,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] MikroTik 谱位 techatlantix.com 在售线核
+  - [ ] Ross/Hernandez 直邮推档
+  - [ ] Walker(Lam Research 谱)项目背书细节(LI 单源注)
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -187,12 +191,7 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 **主题**：PoE switching for your line
 
 ```text
-Dear Tech Atlantix Team,
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
-
-Best regards
-Saga / SmartByte ODM
+Dear Mike,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a value unit for your networking marketplace line. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request. Congrats on the recent team expansion.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -140,6 +140,32 @@
     ]
   },
   {
+    "url": "http://companycheck.co.uk/company/04501248/MILLBECK-COMMUNICATIONS-LIMITED",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L1121"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L1142"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L1200"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L1230"
+      },
+      {
+        "path": "profile/B/B-533-Millbeck-英国.md",
+        "locator": "L134"
+      }
+    ]
+  },
+  {
     "url": "http://farpoint.eu/?page_id=131",
     "http_checked": false,
     "occurrences": [
@@ -832,6 +858,24 @@
       {
         "path": "scripts/R66_R56_KP第23波_50户落盘.py",
         "locator": "L102"
+      }
+    ]
+  },
+  {
+    "url": "http://www.engineer.gr/materials/company.php?company_id=7454",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L602"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L692"
+      },
+      {
+        "path": "profile/B/B-514-Alpha Motion S.A-希腊.md",
+        "locator": "L139"
       }
     ]
   },
@@ -3308,8 +3352,20 @@
         "locator": "L272"
       },
       {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L872"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L961"
+      },
+      {
         "path": "profile/B/B-274-eltrox.pl-波兰.md",
         "locator": "L87"
+      },
+      {
+        "path": "profile/B/B-274-eltrox.pl-波兰.md",
+        "locator": "L134"
       }
     ]
   },
@@ -3648,6 +3704,44 @@
     ]
   },
   {
+    "url": "https://allabolag.se/5566487335/eg-electronics-ab",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L153"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L174"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L179"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L232"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L262"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L268"
+      },
+      {
+        "path": "profile/B/B-527-EG Electronics AB-瑞典.md",
+        "locator": "L134"
+      },
+      {
+        "path": "profile/B/B-527-EG Electronics AB-瑞典.md",
+        "locator": "L137"
+      }
+    ]
+  },
+  {
     "url": "https://allabolag.se/foretag/oem-automatic-aktiebolag/tran%C3%A5s/elektronik-och-telekommunikationsutrustning/2JZE750I63IFR",
     "http_checked": false,
     "occurrences": [
@@ -3876,14 +3970,6 @@
       {
         "path": "docs/audit/2026-09-28_R49邮箱补录与B-C复筛第2批.md",
         "locator": "L39"
-      },
-      {
-        "path": "profile/B/B-514-Alpha Motion S.A-希腊.md",
-        "locator": "L133"
-      },
-      {
-        "path": "profile/B/B-514-Alpha Motion S.A-希腊.md",
-        "locator": "L136"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -10442,14 +10528,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json",
         "locator": "L2967"
-      },
-      {
-        "path": "profile/B/B-340-Controller Service and Sales-美国.md",
-        "locator": "L135"
-      },
-      {
-        "path": "profile/B/B-340-Controller Service and Sales-美国.md",
-        "locator": "L138"
       }
     ]
   },
@@ -13430,6 +13508,32 @@
     ]
   },
   {
+    "url": "https://directory.acci.gr/companies/details/201802",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L571"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L592"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L650"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L680"
+      },
+      {
+        "path": "profile/B/B-514-Alpha Motion S.A-希腊.md",
+        "locator": "L133"
+      }
+    ]
+  },
+  {
     "url": "https://directory.acci.gr/companies/details/259103",
     "http_checked": false,
     "occurrences": [
@@ -14778,14 +14882,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json",
         "locator": "L8441"
-      },
-      {
-        "path": "profile/B/B-527-EG Electronics AB-瑞典.md",
-        "locator": "L134"
-      },
-      {
-        "path": "profile/B/B-527-EG Electronics AB-瑞典.md",
-        "locator": "L137"
       }
     ]
   },
@@ -15160,12 +15256,16 @@
         "locator": "L825"
       },
       {
-        "path": "profile/B/B-274-eltrox.pl-波兰.md",
-        "locator": "L131"
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L882"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L973"
       },
       {
         "path": "profile/B/B-274-eltrox.pl-波兰.md",
-        "locator": "L134"
+        "locator": "L140"
       }
     ]
   },
@@ -15346,6 +15446,24 @@
       {
         "path": "profile/B/B-452-Camacho - Engenheiros-葡萄牙.md",
         "locator": "L130"
+      }
+    ]
+  },
+  {
+    "url": "https://eniro.se/eg+electronics+ab+sp%C3%A5nga/15028390/firma",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L189"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L280"
+      },
+      {
+        "path": "profile/B/B-527-EG Electronics AB-瑞典.md",
+        "locator": "L143"
       }
     ]
   },
@@ -16426,6 +16544,24 @@
       {
         "path": "profile/A/A-388-Vadym Klymenko - Explorer-乌克兰.md",
         "locator": "L80"
+      }
+    ]
+  },
+  {
+    "url": "https://exporters.acci.gr/companies/details/201802",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L597"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L686"
+      },
+      {
+        "path": "profile/B/B-514-Alpha Motion S.A-希腊.md",
+        "locator": "L136"
       }
     ]
   },
@@ -17990,6 +18126,28 @@
       {
         "path": "profile/A/A-100-Networkology Ltd-英国.md",
         "locator": "L83"
+      }
+    ]
+  },
+  {
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09293772",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L449"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L507"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L537"
+      },
+      {
+        "path": "profile/B/B-421-Pymatek Automation-英国.md",
+        "locator": "L135"
       }
     ]
   },
@@ -20374,6 +20532,28 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-963/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://gen-ai-for-all.events.co.il/people/237-%D7%A0%D7%99%D7%A6%D7%9F-%D7%92%D7%95%D7%98%D7%9E%D7%9F",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L1285"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L1343"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L1373"
+      },
+      {
+        "path": "profile/B/B-039-Voicenter LTD-以色列.md",
+        "locator": "L134"
       }
     ]
   },
@@ -27550,6 +27730,32 @@
     ]
   },
   {
+    "url": "https://krs-pobierz.pl/eltrox-spolka-z-ograniczona-odpowiedzialnoscia-i0000175807",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L846"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L867"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L925"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L955"
+      },
+      {
+        "path": "profile/B/B-274-eltrox.pl-波兰.md",
+        "locator": "L131"
+      }
+    ]
+  },
+  {
     "url": "https://kustantajavayla.kirjavalitys.fi/",
     "http_checked": false,
     "occurrences": [
@@ -28378,6 +28584,24 @@
       {
         "path": "profile/A/A-566-Leadernet Sistemas Telec-西班牙.md",
         "locator": "L127"
+      }
+    ]
+  },
+  {
+    "url": "https://leadiq.com/c/controller-service--sales-inc/5a1d9d692300005c008d41c1",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L745"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L830"
+      },
+      {
+        "path": "profile/B/B-340-Controller Service and Sales-美国.md",
+        "locator": "L141"
       }
     ]
   },
@@ -30640,14 +30864,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json",
         "locator": "L4038"
-      },
-      {
-        "path": "profile/B/B-094-Merpa Bilişim（merpazar.com）-土耳其.md",
-        "locator": "L132"
-      },
-      {
-        "path": "profile/B/B-094-Merpa Bilişim（merpazar.com）-土耳其.md",
-        "locator": "L135"
       }
     ]
   },
@@ -37468,14 +37684,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json",
         "locator": "L8917"
-      },
-      {
-        "path": "profile/B/B-533-Millbeck-英国.md",
-        "locator": "L134"
-      },
-      {
-        "path": "profile/B/B-533-Millbeck-英国.md",
-        "locator": "L137"
       }
     ]
   },
@@ -42364,6 +42572,24 @@
     ]
   },
   {
+    "url": "https://open.endole.co.uk/insight/company/04501248-millbeck-communications-limited",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L1147"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L1236"
+      },
+      {
+        "path": "profile/B/B-533-Millbeck-英国.md",
+        "locator": "L137"
+      }
+    ]
+  },
+  {
     "url": "https://open.endole.co.uk/insight/company/05361794-purdicom-limited",
     "http_checked": false,
     "occurrences": [
@@ -42398,6 +42624,36 @@
       {
         "path": "scripts/R66_R56_KP第5_6波落盘.py",
         "locator": "L95"
+      }
+    ]
+  },
+  {
+    "url": "https://open.endole.co.uk/insight/company/09293772-pymatek-automation-ltd",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L454"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L464"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L543"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L555"
+      },
+      {
+        "path": "profile/B/B-421-Pymatek Automation-英国.md",
+        "locator": "L138"
+      },
+      {
+        "path": "profile/B/B-421-Pymatek Automation-英国.md",
+        "locator": "L144"
       }
     ]
   },
@@ -45072,14 +45328,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json",
         "locator": "L4276"
-      },
-      {
-        "path": "profile/B/B-421-Pymatek Automation-英国.md",
-        "locator": "L135"
-      },
-      {
-        "path": "profile/B/B-421-Pymatek Automation-英国.md",
-        "locator": "L138"
       }
     ]
   },
@@ -45884,6 +46132,24 @@
       {
         "path": "profile/A/A-043-Martin Pina-捷克.md",
         "locator": "L135"
+      }
+    ]
+  },
+  {
+    "url": "https://rejstrik-firem.kurzy.cz/10964703/axilogi-sro/zmeny/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L41"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L131"
+      },
+      {
+        "path": "profile/B/B-194-AxiLogi-捷克.md",
+        "locator": "L141"
       }
     ]
   },
@@ -46701,11 +46967,7 @@
       },
       {
         "path": "profile/B/B-194-AxiLogi-捷克.md",
-        "locator": "L85"
-      },
-      {
-        "path": "profile/B/B-194-AxiLogi-捷克.md",
-        "locator": "L134"
+        "locator": "L92"
       }
     ]
   },
@@ -46729,7 +46991,7 @@
     "occurrences": [
       {
         "path": "profile/B/B-194-AxiLogi-捷克.md",
-        "locator": "L77"
+        "locator": "L84"
       }
     ]
   },
@@ -48452,10 +48714,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_BKP波4.json",
         "locator": "L262"
-      },
-      {
-        "path": "profile/B/B-194-AxiLogi-捷克.md",
-        "locator": "L131"
       }
     ]
   },
@@ -55800,14 +56058,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json",
         "locator": "L8560"
-      },
-      {
-        "path": "profile/B/B-233-Tech Atlantix-美国.md",
-        "locator": "L133"
-      },
-      {
-        "path": "profile/B/B-233-Tech Atlantix-美国.md",
-        "locator": "L136"
       }
     ]
   },
@@ -55944,6 +56194,24 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-296/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://tedmag.com/controller-service-sales-celebrates-100-years/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L740"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L824"
+      },
+      {
+        "path": "profile/B/B-340-Controller Service and Sales-美国.md",
+        "locator": "L138"
       }
     ]
   },
@@ -57096,6 +57364,24 @@
     ]
   },
   {
+    "url": "https://tr.linkedin.com/company/merpazarcom",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L322"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L406"
+      },
+      {
+        "path": "profile/B/B-094-Merpa Bilişim（merpazar.com）-土耳其.md",
+        "locator": "L135"
+      }
+    ]
+  },
+  {
     "url": "https://tr.linkedin.com/company/mikrotik?utm_source=chatgpt.com",
     "http_checked": false,
     "occurrences": [
@@ -57586,12 +57872,24 @@
         "locator": "L365"
       },
       {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L459"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L549"
+      },
+      {
         "path": "batch/KP猎捕_B_R64_第1批.json",
         "locator": "L108"
       },
       {
         "path": "profile/B/B-421-Pymatek Automation-英国.md",
         "locator": "L91"
+      },
+      {
+        "path": "profile/B/B-421-Pymatek Automation-英国.md",
+        "locator": "L141"
       }
     ]
   },
@@ -58720,14 +59018,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json",
         "locator": "L2015"
-      },
-      {
-        "path": "profile/B/B-039-Voicenter LTD-以色列.md",
-        "locator": "L134"
-      },
-      {
-        "path": "profile/B/B-039-Voicenter LTD-以色列.md",
-        "locator": "L137"
       }
     ]
   },
@@ -63944,6 +64234,24 @@
     ]
   },
   {
+    "url": "https://www.alpha-motion.gr/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L607"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L698"
+      },
+      {
+        "path": "profile/B/B-514-Alpha Motion S.A-希腊.md",
+        "locator": "L142"
+      }
+    ]
+  },
+  {
     "url": "https://www.alphacron.de",
     "http_checked": false,
     "occurrences": [
@@ -66506,6 +66814,18 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第21批.json",
         "locator": "L171"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L46"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L137"
+      },
+      {
+        "path": "profile/B/B-194-AxiLogi-捷克.md",
+        "locator": "L144"
       }
     ]
   },
@@ -68990,6 +69310,28 @@
     ]
   },
   {
+    "url": "https://www.cbinsights.com/company/voicenter",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L1264"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L1300"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L1391"
+      },
+      {
+        "path": "profile/B/B-039-Voicenter LTD-以色列.md",
+        "locator": "L143"
+      }
+    ]
+  },
+  {
     "url": "https://www.cbxsolutions.com/",
     "http_checked": false,
     "occurrences": [
@@ -71468,6 +71810,32 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-431/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.controllerservice.com/aboutus",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L714"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L735"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L788"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L818"
+      },
+      {
+        "path": "profile/B/B-340-Controller Service and Sales-美国.md",
+        "locator": "L135"
       }
     ]
   },
@@ -76063,7 +76431,7 @@
       },
       {
         "path": "profile/B/B-194-AxiLogi-捷克.md",
-        "locator": "L84"
+        "locator": "L91"
       }
     ]
   },
@@ -76083,7 +76451,7 @@
     "occurrences": [
       {
         "path": "profile/B/B-194-AxiLogi-捷克.md",
-        "locator": "L76"
+        "locator": "L83"
       }
     ]
   },
@@ -77120,6 +77488,24 @@
       {
         "path": "profile/B/B-295-OEM Automatic AB-瑞典.md",
         "locator": "L144"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dnb.com/pl-pl/baza-firm/profile-firm.eltrox_sp_z_o_o.73dff5fc245430eb355305496fe12e72.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L877"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L967"
+      },
+      {
+        "path": "profile/B/B-274-eltrox.pl-波兰.md",
+        "locator": "L137"
       }
     ]
   },
@@ -79508,6 +79894,32 @@
     ]
   },
   {
+    "url": "https://www.eticaret.gov.tr/siteprofil/143CB0ECB38A4C528CC2FDE2A34D80D2/wwwmerpazarcom",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L296"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L317"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L370"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L400"
+      },
+      {
+        "path": "profile/B/B-094-Merpa Bilişim（merpazar.com）-土耳其.md",
+        "locator": "L132"
+      }
+    ]
+  },
+  {
     "url": "https://www.etree.de/en/Kontakt/",
     "http_checked": false,
     "occurrences": [
@@ -81494,6 +81906,50 @@
     ]
   },
   {
+    "url": "https://www.finmag.cz/obchodni-rejstrik/10964703-axilogi-s-r-o",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L10"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L31"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L89"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L119"
+      },
+      {
+        "path": "profile/B/B-194-AxiLogi-捷克.md",
+        "locator": "L135"
+      }
+    ]
+  },
+  {
+    "url": "https://www.finmag.cz/obchodni-rejstrik/10964703-axilogi-s-r-o/zmeny",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L36"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L125"
+      },
+      {
+        "path": "profile/B/B-194-AxiLogi-捷克.md",
+        "locator": "L138"
+      }
+    ]
+  },
+  {
     "url": "https://www.finmag.cz/obchodni-rejstrik/osoba/michal-mensenin",
     "http_checked": false,
     "occurrences": [
@@ -82966,6 +83422,24 @@
       {
         "path": "profile/A/A-199-GECOPRA SRL-意大利.md",
         "locator": "L82"
+      }
+    ]
+  },
+  {
+    "url": "https://www.geektime.co.il/voice-ai-for-it-voicenter/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L1295"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L1385"
+      },
+      {
+        "path": "profile/B/B-039-Voicenter LTD-以色列.md",
+        "locator": "L140"
       }
     ]
   },
@@ -84466,6 +84940,24 @@
       {
         "path": "profile/A/A-054-Direktronik AB-瑞典.md",
         "locator": "L181"
+      }
+    ]
+  },
+  {
+    "url": "https://www.hitta.se/verksamhet/eg-electronics-ab-jprvxaalc",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L184"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L274"
+      },
+      {
+        "path": "profile/B/B-527-EG Electronics AB-瑞典.md",
+        "locator": "L140"
       }
     ]
   },
@@ -101016,6 +101508,18 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第5批.json",
         "locator": "L57"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L327"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L412"
+      },
+      {
+        "path": "profile/B/B-094-Merpa Bilişim（merpazar.com）-土耳其.md",
+        "locator": "L138"
       }
     ]
   },
@@ -106634,6 +107138,16 @@
     ]
   },
   {
+    "url": "https://www.northdata.com/Pymatek+Automation+Ltd.,+Rugeley/Companies+House+09293772",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L428"
+      }
+    ]
+  },
+  {
     "url": "https://www.northdata.com/bod%20networks%20GmbH,%20Chemnitz/HRB%209168",
     "http_checked": false,
     "occurrences": [
@@ -108178,6 +108692,28 @@
     ]
   },
   {
+    "url": "https://www.owler.com/company/techatlantix",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L989"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L1020"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L1105"
+      },
+      {
+        "path": "profile/B/B-233-Tech Atlantix-美国.md",
+        "locator": "L139"
+      }
+    ]
+  },
+  {
     "url": "https://www.pagesjaunes.fr/pros/50512730",
     "http_checked": false,
     "occurrences": [
@@ -109599,11 +110135,7 @@
       },
       {
         "path": "profile/B/B-194-AxiLogi-捷克.md",
-        "locator": "L83"
-      },
-      {
-        "path": "profile/B/B-194-AxiLogi-捷克.md",
-        "locator": "L128"
+        "locator": "L90"
       }
     ]
   },
@@ -109627,7 +110159,7 @@
     "occurrences": [
       {
         "path": "profile/B/B-194-AxiLogi-捷克.md",
-        "locator": "L75"
+        "locator": "L82"
       }
     ]
   },
@@ -112384,6 +112916,24 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-536/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.routerstore.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L1157"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L1248"
+      },
+      {
+        "path": "profile/B/B-533-Millbeck-英国.md",
+        "locator": "L143"
       }
     ]
   },
@@ -119994,6 +120544,24 @@
     ]
   },
   {
+    "url": "https://www.voicenter.co.il/%D7%91%D7%9C%D7%95%D7%92/ORIGAMI-CRM",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L1290"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L1379"
+      },
+      {
+        "path": "profile/B/B-039-Voicenter LTD-以色列.md",
+        "locator": "L137"
+      }
+    ]
+  },
+  {
     "url": "https://www.voip-engineer.co.uk/about/",
     "http_checked": false,
     "occurrences": [
@@ -124222,8 +124790,20 @@
         "locator": "L210"
       },
       {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L1015"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L1099"
+      },
+      {
         "path": "profile/B/B-233-Tech Atlantix-美国.md",
         "locator": "L89"
+      },
+      {
+        "path": "profile/B/B-233-Tech Atlantix-美国.md",
+        "locator": "L136"
       }
     ]
   },
@@ -124914,6 +125494,28 @@
     ]
   },
   {
+    "url": "https://www.zoominfo.com/pic/tech-atlantix/1340571212",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L1010"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L1063"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L1093"
+      },
+      {
+        "path": "profile/B/B-233-Tech Atlantix-美国.md",
+        "locator": "L133"
+      }
+    ]
+  },
+  {
     "url": "https://www.zoominfo.com/pic/titan-security-group/353923263",
     "http_checked": false,
     "occurrences": [
@@ -125572,6 +126174,24 @@
       {
         "path": "scripts/R66_R56_KP第24波_50户落盘.py",
         "locator": "L136"
+      }
+    ]
+  },
+  {
+    "url": "https://youcontrol.com.ua/en/catalog/gb-card/04501248/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L1152"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批9.json",
+        "locator": "L1242"
+      },
+      {
+        "path": "profile/B/B-533-Millbeck-英国.md",
+        "locator": "L140"
       }
     ]
   },

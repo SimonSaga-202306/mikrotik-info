@@ -1,0 +1,1406 @@
+{
+ "records": [
+  {
+   "customer": "B-194",
+   "code": "B-194",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批9·B-194:捷谱: **AxiLogi s.r.o. 深挖(finmag 主档/变更档/rejstrik-firem.kurzy/axilogi.com 四源互证)**:**IČO 10964703(DIČ CZ10964703),2021-06-23 创(5 年新谱);základní kapitál 2,000,000 Kč;法定址 Daimlerova 1161/6,301 00 Plzeň-Skvrňany;运作谱=axilogi.com 电商+物流+buffer 仓:发票址 Holzova 716/2 Brno+送货点 Hřbitovní 1479/25 Plzeň 双址;Způsob jednání=Jednatel jedná samostatně(单独代表)**;**集团架构金锚:**Jednatel=法人双体(罕谱!)=Kolibřík klub invest a.s.(IČO 06532802,同址 Daimlerova 121=唯一 společník 股东)+DC Europe system a.s.(同 IČO 06532802 同址=同集团别体,finmag 档记)=法人双 Jednatel 谱;DC Europe system=Logistics/fulfillment 集团母谱**;**职能代理变更谱(变更档全录):Ing. Zdeněk Pokorný(2021-06-23 任→2025-06-02 除)+Ing. Milan Harmáček(2025-06-02 任→2026-01-19 除)+2025-12-30 prokurista JUDr. 任+**Mgr. Martin Svoboda(2026-04-23 档新任职能代理谱)**+2026-03-10 最新变更=**3 年 4 轮换交接谱**;**政务谱:10 项公共采购合同约 2M Kč(hlidacstatu 档)+2025 年 5 份 660,332 Kč(同比 +63%)=公共履约谱**;**谱位=DC Europe 集团电商/物流件子司=我方 24 口 PoE 对仓网/电商 IT 基建谱口=批 9 集团架构钩;KP=Mgr. Martin Svoboda(新任职能代理 P0 级)+Ing. Milan Harmáček(新鲜卸前任)+Ing. Zdeněk Pokorný(创始职能谱)+prokurista JUDr.(名待核)+法人层 Kolibřík klub invest a.s. 董事会(名待核)=5 轨谱**;排噪:IČO 06532802 两司同号 finmag 记=同集团体注。",
+   "inference": "R67/TUB 推土机深挖 批9 B 类既定十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.finmag.cz/obchodni-rejstrik/10964703-axilogi-s-r-o",
+   "tech": "电商/物流/fulfillment(DC Europe 集团谱);10 政务合同 2M Kč",
+   "hr": "5 年新谱;2M Kč 资本;Plzeň 法址+Brno 发票+Plzeň 送货三点",
+   "contact_found": "**Mgr. Martin Svoboda(2026-04 职能代理 P0)+Ing. Milan Harmáček(前任职能)+Ing. Zdeněk Pokorný(创始职能)+prokurista JUDr.+法人 Jednatel 双体**",
+   "contact_pending": "具名直邮需推 axilogi.com 域档;Plzeň/Brno 台口官网谱口",
+   "dims": {
+    "业务定位": "AxiLogi s.r.o.(Plzeň,2021 创 5 年,DC Europe system 集团):电商/物流件子司,法人双 Jednatel 架构",
+    "产品线与在售品牌": "电商+物流/仓储 fulfillment;送货点/发票点分离谱;政务履约 2M Kč",
+    "目标行业与场景": "捷电商客户物流谱;政务采购 10 合同",
+    "团队与规模": "5 年;集团谱;3 年 4 轮换交接",
+    "决策链与对接人": "Svoboda(新职能)+Harmáček/Pokorný(交接谱)+JUDr. prokurista+法人 Kolibřík klub invest a.s.",
+    "技术与认证": "DS 谱;kapital 2M Kč;způsob jednání 单独代表",
+    "采购与供应链信号": "**集团仓网/电商 IT 基建=24 口 PoE 对仓库 AP/监控谱口;法人集团层=集采链钩**",
+    "近期动态与线索": "2025 政务同比 +63%;2026-03 最新变更;1 招聘广告 2024-10",
+    "与我方契合点": "Svoboda 职能代理+集团采购口双轨 → 24 口 PoE(仓网/电商基建)",
+    "风险与注意": "**5 年新谱+交接频繁谱注;法人 Jednatel 架构=决策层在集团注**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "Axilogi s.r.o., IČO: 10964703, sídlo: Daimlerova 1161/6, Plzeň - Skvrňany;Jednatel: Kolibřík klub invest a. s.(06532802)+DC Europe system a.s.(06532802,Plzeň - Skvrňany);Způsob jednání: Jednatel jedná za společnost ve všech věcech samostatně;zápis 23. 6. 2021",
+     "source": "https://www.finmag.cz/obchodni-rejstrik/10964703-axilogi-s-r-o"
+    },
+    {
+     "dim": "变更/职能谱",
+     "quote": "23.6.2021 základní kapitál 2 000 000 Kč;3.4.2022 Zápís člena statutárního orgánu DC Europe system a.s.;2.6.2025 Zápís Ing. Milan Harmáček jako při výkonu funkce zastupuje+Vymazán Ing. Zdeněk Pokorný;30.12.2025 Zápís prokurista JUDr.;19.1.2026 Vymazán Ing. Milan Harmáček;10.3.2026 变更",
+     "source": "https://www.finmag.cz/obchodni-rejstrik/10964703-axilogi-s-r-o/zmeny"
+    },
+    {
+     "dim": "谱档",
+     "quote": "10.3.2026 最新;2.10.2024 Nabídky práce: Axilogi s.r.o. inzeruje jednu aktivní pracovní pozici(招聘活信号)",
+     "source": "https://rejstrik-firem.kurzy.cz/10964703/axilogi-sro/zmeny/"
+    },
+    {
+     "dim": "运作谱",
+     "quote": "axilogi.com 条款:发票址 Holzova 716/2 Brno;送货点 Hřbitovní 1479/25 Plzeň;eshop 电商+物流双谱(hlidacstatu 档记:10 公共合同 2M Kč;2025 年 5 份 660,332 Kč,+63%)",
+     "source": "https://www.axilogi.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Svoboda 新任职能代理",
+     "push": "STC-424XGGPM-280W",
+     "angle": "2026-04 新任=新吏新政谱口 → 24 口 PoE(仓网/电商基建)",
+     "question": "贵集团仓网/电商线的 24 口 PoE 交换机集购由哪位同事主责?",
+     "proof": "finmag 4 源"
+    },
+    {
+     "stage": "第 2 次跟进 · 集团层 Kolibřík klub/DC Europe 采购口",
+     "push": "STI-288GPM/424",
+     "angle": "法人集团层=集采链",
+     "question": "DC Europe 集团的仓网件送样口?",
+     "proof": "finmag 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · JUDr. prokurista+政务线",
+     "push": "STC-28DGGPM",
+     "angle": "政务 10 合同 2M Kč+2025 +63%",
+     "question": "贵司政务履约线的网络件谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2021 创 5 年;Plzeň;DC Europe system 集团;法人双 Jednatel;kapital 2M Kč",
+     "②芯片/型号": "电商/物流仓网;PoE 24 口=仓 AP/监控/CCTV 供电基建件",
+     "③KP 深挖": "Mgr. Martin Svoboda(2026-04 职能代理 P0)+Ing. Milan Harmáček(2025-2026 交接)+Ing. Zdeněk Pokorný(创始职能)+prokurista JUDr.+法人双体=5 轨谱",
+     "④Saga 对标": "集团物流/电商 → 24 口 PoE(仓网基建项目件)",
+     "⑤在乎与偏好": "捷克语谱;集团集采;政务履约谱;交接期新吏新政",
+     "⑥SWOT": "S=DC Europe 集团仓网+政务 2M Kč 谱+5 年新谱增长曲线/W=交接频繁;法人架构决策在集团/O=仓网数字化/电商基建升级=PoE 对口/T=集团内供谱;新吏人脉未建"
+    },
+    "care": "- **S**:DC Europe 集团仓网+政务 2M Kč 谱+5 年新谱增长曲线\n- **W**:交接频繁;法人架构决策在集团\n- **O**:仓网数字化/电商基建升级=PoE 对口\n- **T**:集团内供谱;新吏人脉未建",
+    "swot": {
+     "S": "DC Europe 集团仓网+政务 2M Kč 谱+5 年新谱增长曲线",
+     "W": "交接频繁;法人架构决策在集团",
+     "O": "仓网数字化/电商基建升级=PoE 对口",
+     "T": "集团内供谱;新吏人脉未建"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批9 B 类既定十户",
+    "gap_proof": "https://www.finmag.cz/obchodni-rejstrik/10964703-axilogi-s-r-o"
+   },
+   "unknowns": [
+    "法人双 Jednatel 同 IČO 06532802 谱注(finmag 档记)",
+    "prokurista JUDr. 全名待核",
+    "Mgr. Martin Svoboda 直邮推 axilogi.com 域档"
+   ],
+   "unknowns56": [
+    "法人双 Jednatel 同 IČO 06532802 谱注(finmag 档记)",
+    "prokurista JUDr. 全名待核",
+    "Mgr. Martin Svoboda 直邮推 axilogi.com 域档"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批9 B 类",
+   "email": "Dear Martin,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — solid infrastructure for warehouse, e-commerce and public-contract network deployments. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Mgr. Martin Svoboda(2026-04 职能代理 P0)+prokurista JUDr.+法人层 Kolibřík klub invest a.s. 采购口**; 电口待补(axilogi.com 域具名推)",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "2021 创 5 年;Plzeň;DC Europe system 集团;法人双 Jednatel;kapital 2M Kč",
+    "芯片与在用型号": "电商/物流仓网;PoE 24 口=仓 AP/监控/CCTV 供电基建件",
+    "关键人KP": "Mgr. Martin Svoboda(2026-04 职能代理 P0)+Ing. Milan Harmáček(2025-2026 交接)+Ing. Zdeněk Pokorný(创始职能)+prokurista JUDr.+法人双体=5 轨谱",
+    "关注点与资质": "集团物流/电商 → 24 口 PoE(仓网基建项目件)",
+    "优缺点SWOT": "S=DC Europe 集团仓网+政务 2M Kč 谱+5 年新谱增长曲线·W=交接频繁;法人架构决策在集团·O=仓网数字化/电商基建升级=PoE 对口·T=集团内供谱;新吏人脉未建",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):捷克语谱;集团集采;政务履约谱;交接期新吏新政"
+   },
+   "swot_text": "- **S**:DC Europe 集团仓网+政务 2M Kč 谱+5 年新谱增长曲线\n- **W**:交接频繁;法人架构决策在集团\n- **O**:仓网数字化/电商基建升级=PoE 对口\n- **T**:集团内供谱;新吏人脉未建",
+   "facts": [
+    {
+     "dim": "法体登册",
+     "text": "Axilogi s.r.o., IČO: 10964703, sídlo: Daimlerova 1161/6, Plzeň - Skvrňany;Jednatel: Kolibřík klub invest a. s.(06532802)+DC Europe system a.s.(06532802,Plzeň - Skvrňany);Způsob jednání: Jednatel jedná za společnost ve všech věcech samostatně;zápis 23. 6. 2021",
+     "quote": "Axilogi s.r.o., IČO: 10964703, sídlo: Daimlerova 1161/6, Plzeň - Skvrňany;Jednatel: Kolibřík klub invest a. s.(06532802)+DC Europe system a.s.(06532802,Plzeň - Skvrňany);Způsob jednání: Jednatel jedná za společnost ve všech věcech samostatně;zápis 23. 6. 2021",
+     "url": "https://www.finmag.cz/obchodni-rejstrik/10964703-axilogi-s-r-o"
+    },
+    {
+     "dim": "变更/职能谱",
+     "text": "23.6.2021 základní kapitál 2 000 000 Kč;3.4.2022 Zápís člena statutárního orgánu DC Europe system a.s.;2.6.2025 Zápís Ing. Milan Harmáček jako při výkonu funkce zastupuje+Vymazán Ing. Zdeněk Pokorný;30.12.2025 Zápís prokurista JUDr.;19.1.2026 Vymazán Ing. Milan Harmáček;10.3.2026 变更",
+     "quote": "23.6.2021 základní kapitál 2 000 000 Kč;3.4.2022 Zápís člena statutárního orgánu DC Europe system a.s.;2.6.2025 Zápís Ing. Milan Harmáček jako při výkonu funkce zastupuje+Vymazán Ing. Zdeněk Pokorný;30.12.2025 Zápís prokurista JUDr.;19.1.2026 Vymazán Ing. Milan Harmáček;10.3.2026 变更",
+     "url": "https://www.finmag.cz/obchodni-rejstrik/10964703-axilogi-s-r-o/zmeny"
+    },
+    {
+     "dim": "谱档",
+     "text": "10.3.2026 最新;2.10.2024 Nabídky práce: Axilogi s.r.o. inzeruje jednu aktivní pracovní pozici(招聘活信号)",
+     "quote": "10.3.2026 最新;2.10.2024 Nabídky práce: Axilogi s.r.o. inzeruje jednu aktivní pracovní pozici(招聘活信号)",
+     "url": "https://rejstrik-firem.kurzy.cz/10964703/axilogi-sro/zmeny/"
+    },
+    {
+     "dim": "运作谱",
+     "text": "axilogi.com 条款:发票址 Holzova 716/2 Brno;送货点 Hřbitovní 1479/25 Plzeň;eshop 电商+物流双谱(hlidacstatu 档记:10 公共合同 2M Kč;2025 年 5 份 660,332 Kč,+63%)",
+     "quote": "axilogi.com 条款:发票址 Holzova 716/2 Brno;送货点 Hřbitovní 1479/25 Plzeň;eshop 电商+物流双谱(hlidacstatu 档记:10 公共合同 2M Kč;2025 年 5 份 660,332 Kč,+63%)",
+     "url": "https://www.axilogi.com/"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批9·B-194:捷谱: **AxiLogi s.r.o. 深挖(finmag 主档/变更档/rejstrik-firem.kurzy/axilogi.com 四源互证)**:**IČO 10964703(DIČ CZ10964703),2021-06-23 创(5 年新谱);základní kapitál 2,000,000 Kč;法定址 Daimlerova 1161/6,301 00 Plzeň-Skvrňany;运作谱=axilogi.com 电商+物流+buffer 仓:发票址 Holzova 716/2 Brno+送货点 Hřbitovní 1479/25 Plzeň 双址;Způsob jednání=Jednatel jedná samostatně(单独代表)**;**集团架构金锚:**Jednatel=法人双体(罕谱!)=Kolibřík klub invest a.s.(IČO 06532802,同址 Daimlerova 121=唯一 společník 股东)+DC Europe system a.s.(同 IČO 06532802 同址=同集团别体,finmag 档记)=法人双 Jednatel 谱;DC Europe system=Logistics/fulfillment 集团母谱**;**职能代理变更谱(变更档全录):Ing. Zdeněk Pokorný(2021-06-23 任→2025-06-02 除)+Ing. Milan Harmáček(2025-06-02 任→2026-01-19 除)+2025-12-30 prokurista JUDr. 任+**Mgr. Martin Svoboda(2026-04-23 档新任职能代理谱)**+2026-03-10 最新变更=**3 年 4 轮换交接谱**;**政务谱:10 项公共采购合同约 2M Kč(hlidacstatu 档)+2025 年 5 份 660,332 Kč(同比 +63%)=公共履约谱**;**谱位=DC Europe 集团电商/物流件子司=我方 24 口 PoE 对仓网/电商 IT 基建谱口=批 9 集团架构钩;KP=Mgr. Martin Svoboda(新任职能代理 P0 级)+Ing. Milan Harmáček(新鲜卸前任)+Ing. Zdeněk Pokorný(创始职能谱)+prokurista JUDr.(名待核)+法人层 Kolibřík klub invest a.s. 董事会(名待核)=5 轨谱**;排噪:IČO 06532802 两司同号 finmag 记=同集团体注。",
+    "inference": "R67/TUB 推土机深挖 批9 B 类既定十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-527",
+   "code": "B-527",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批9·B-527:瑞谱: **EG Electronics AB 深挖(allabolag/hitta/eniro 三源互证+KAMIC 集团谱)**:**Org.nr 556648-7335,2003-09-15 注册(23 年);Aktiebolag;Aktiekapital 100,000 kr;Fagerstagatan 3,163 53 Spånga(+Post Box 8079,163 08 Spånga);Tel 08-759 35 70;SNI 46502(partihandel med elektronikkomponenter=电子元件批发);宗旨「handel med elektronikkomponenter och elektronikprodukter」**;**FY2025(2025-09)财报金谱:**Omsättning 351,393 tkr(351.4 MSEK,räkenskapsår 2025;**同比 +12%:员工 23→31(+8 人)**);Resultat efter finansnetto 16,382 tkr;EBITDA 17,078 tkr;Årets resultat 201 tkr(微正);Summa tillgångar 116,170 tkr;Eget kapital 18,868 tkr;Vinstmarginal 4.8-4.9%**;**集团谱:**Del av Kamic EG AB=KAMIC 集团子(Kamic AB 集团母,52-58 司/328 员/3,114 MSEK 集团谱);品牌谱=Bromanco/Björkgren/HMS 系列(集团别体同源谱)**;**KP 金谱:Karl Olof Johnny Hedlund(Extern VD 外部董事总经理,f 56 岁,extern VD 谱)+Oscar Arvidsson(主席或董事会关键人)=2 人登档谱(hitta/allabolag befattningar 档);集团层=Kamic AB 集团 CEO(名待核)**;**谱位=瑞典电子元件批发大谱(351 MSEK+31 员+KAMIC 集团)=我方 24 口 PoE 对元件分销上新轴=批 9 北欧大谱钩之一**。",
+   "inference": "R67/TUB 推土机深挖 批9 B 类既定十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://allabolag.se/5566487335/eg-electronics-ab",
+   "tech": "电子元件批发分销(SNI 46502);KAMIC 集团子;Bromanco/Björkgren/HMS 品牌谱",
+   "hr": "31 员(2025,+8 vs 2024=23);23 年;Spånga;营收 351.4 MSEK(FY2025)",
+   "contact_found": "**Karl Olof Johnny Hedlund(Extern VD 56 岁 P0)+Oscar Arvidsson(董事会谱)+KAMIC 集团层**",
+   "contact_pending": "具名直邮需推 egelectronics 域档;08-759 35 70 台口 CSV 谱口",
+   "dims": {
+    "业务定位": "EG Electronics AB(Spånga,2003 创 23 年,KAMIC 集团):瑞典电子元件批发 351 MSEK 大谱",
+    "产品线与在售品牌": "电子元件分销(SNI 46502);Bromanco/Björkgren/HMS 品牌谱;宗旨 handel med elektronikkomponenter",
+    "目标行业与场景": "瑞典/北欧 OEM/工业客户;KAMIC 集团内部谱",
+    "团队与规模": "31 员(+8 增长);23 年;351 MSEK;EBITDA 17.1 M",
+    "决策链与对接人": "Hedlund(Extern VD)+Arvidsson(主席/董事会)+Kamic 集团层",
+    "技术与认证": "AB 资本 100Tkr;Eget kapital 18.9 MSEK;Vinstmarginal 4.9%",
+    "采购与供应链信号": "**351 MSEK 元件批发+31 员扩张(+8)=24 口 PoE 上新轴谱口;KAMIC 集团集采链**",
+    "近期动态与线索": "员工 23→31 扩展信号(2024→2025);årsbokslut 2025 档",
+    "与我方契合点": "Hedlund VD+Arvidsson 双轨 → 24 口 PoE(元件分销上新轴)",
+    "风险与注意": "**Årets resultat 201 tkr 微正=净利率薄谱注;KAMIC 集团层决策注;分類同源品牌竞合敏**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "EG Electronics AB;Org.nr 556648-7335;Registreringsdatum 2003-09-15;Aktiebolag;Aktiekapital 100 000;Fagerstagatan 3, 163 53 Spånga;Postadress Box 8079, 163 08 Spånga;Tel 08-759 35 70;Del av Kamic EG AB;Antal anställda 31;SNI-bransch 46502",
+     "source": "https://allabolag.se/5566487335/eg-electronics-ab"
+    },
+    {
+     "dim": "FY2025 财报",
+     "quote": "Omsättning 2025: 351 393 tkr;Resultat efter finansnetto 16 382 tkr;EBITDA 17 078 tkr;Summa tillgångar 116 170 tkr;Eget kapital 18 868 tkr",
+     "source": "https://allabolag.se/5566487335/eg-electronics-ab"
+    },
+    {
+     "dim": "人力/利润谱",
+     "quote": "Omsättning 351 393 000 kr(2025);Antalet anställda har ökat med 8 personer sedan 2024 då det jobbade 23 personer(2025=31);Vinstmarginal 4,8 %;Partihandel med elektronikkomponenter",
+     "source": "https://www.hitta.se/verksamhet/eg-electronics-ab-jprvxaalc"
+    },
+    {
+     "dim": "登册谱",
+     "quote": "Eg Electronics AB;Bolagsform Aktiebolag;Registreringsdatum 2003-09-15;Org.nr 5566487335;Aktiekapital 100 000;omsättningsintervall 100 000 - 499 999(tkr);grundades 2003-09-15;moms+F-skatt registrerad;omsättning senaste året 351 393 tkr",
+     "source": "https://eniro.se/eg+electronics+ab+sp%C3%A5nga/15028390/firma"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Hedlund Extern VD P0",
+     "push": "STC-424XGGPM-280W",
+     "angle": "外部董事总经理 → 24 口 PoE(元件分销上新轴)",
+     "question": "贵司元件分销线的 24 口 PoE 交换机新品引入由哪位主责?",
+     "proof": "allabolag/hitta 4 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Arvidsson+KAMIC 集团层",
+     "push": "STI-288GPM/424",
+     "angle": "主席/董事会+集团集采链",
+     "question": "KAMIC 集团的网络件集采口?",
+     "proof": "集团谱"
+    },
+    {
+     "stage": "第 3 次跟进 · 品牌线谱(Bromanco/HMS)",
+     "push": "STC-28DGGPM",
+     "angle": "品牌线谱=同轴上新口",
+     "question": "贵司品牌线的交换机谱口?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2003 创 23 年;Spånga;KAMIC 集团子;SNI 46502 元件批发",
+     "②芯片/型号": "电子元件分销;PoE 24 口=元件线新品上新轴",
+     "③KP 深挖": "Karl Olof Johnny Hedlund(Extern VD 56 岁 P0)+Oscar Arvidsson(主席/董事会)+Kamic AB 集团层=3 轨谱",
+     "④Saga 对标": "瑞典元件批发大谱 → 24 口 PoE(分销上新轴)",
+     "⑤在乎与偏好": "瑞典语谱;集团集采;净利薄(4.9%)谱注;扩张期(23→31 员)",
+     "⑥SWOT": "S=351 MSEK 大谱+KAMIC 集团+23→31 员扩张/W=净利薄(4.9%)微正注;同源品牌竞合敏/O=北欧元件品类升级=PoE 上新轴/T=集团集采层级;extern VD 兼职谱注"
+    },
+    "care": "- **S**:351 MSEK 大谱+KAMIC 集团+23→31 员扩张\n- **W**:净利薄(4.9%)微正注;同源品牌竞合敏\n- **O**:北欧元件品类升级=PoE 上新轴\n- **T**:集团集采层级;extern VD 兼职谱注",
+    "swot": {
+     "S": "351 MSEK 大谱+KAMIC 集团+23→31 员扩张",
+     "W": "净利薄(4.9%)微正注;同源品牌竞合敏",
+     "O": "北欧元件品类升级=PoE 上新轴",
+     "T": "集团集采层级;extern VD 兼职谱注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批9 B 类既定十户",
+    "gap_proof": "https://allabolag.se/5566487335/eg-electronics-ab"
+   },
+   "unknowns": [
+    "MikroTik 谱位在售线需 egelectronics.se 核",
+    "Hedlund/Arvidsson 直邮推档",
+    "Kamic AB 集团 CEO 具名待核"
+   ],
+   "unknowns56": [
+    "MikroTik 谱位在售线需 egelectronics.se 核",
+    "Hedlund/Arvidsson 直邮推档",
+    "Kamic AB 集团 CEO 具名待核"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批9 B 类",
+   "email": "Dear Johnny and Oscar,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a natural addition for your electronics-component distribution portfolio. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Karl Olof Johnny Hedlund(Extern VD P0)+Oscar Arvidsson(董事会谱)**; 电口待补(egelectronics 域具名推); 08-759 35 70",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "2003 创 23 年;Spånga;KAMIC 集团子;SNI 46502 元件批发",
+    "芯片与在用型号": "电子元件分销;PoE 24 口=元件线新品上新轴",
+    "关键人KP": "Karl Olof Johnny Hedlund(Extern VD 56 岁 P0)+Oscar Arvidsson(主席/董事会)+Kamic AB 集团层=3 轨谱",
+    "关注点与资质": "瑞典元件批发大谱 → 24 口 PoE(分销上新轴)",
+    "优缺点SWOT": "S=351 MSEK 大谱+KAMIC 集团+23→31 员扩张·W=净利薄(4.9%)微正注;同源品牌竞合敏·O=北欧元件品类升级=PoE 上新轴·T=集团集采层级;extern VD 兼职谱注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):瑞典语谱;集团集采;净利薄(4.9%)谱注;扩张期(23→31 员)"
+   },
+   "swot_text": "- **S**:351 MSEK 大谱+KAMIC 集团+23→31 员扩张\n- **W**:净利薄(4.9%)微正注;同源品牌竞合敏\n- **O**:北欧元件品类升级=PoE 上新轴\n- **T**:集团集采层级;extern VD 兼职谱注",
+   "facts": [
+    {
+     "dim": "法体登册",
+     "text": "EG Electronics AB;Org.nr 556648-7335;Registreringsdatum 2003-09-15;Aktiebolag;Aktiekapital 100 000;Fagerstagatan 3, 163 53 Spånga;Postadress Box 8079, 163 08 Spånga;Tel 08-759 35 70;Del av Kamic EG AB;Antal anställda 31;SNI-bransch 46502",
+     "quote": "EG Electronics AB;Org.nr 556648-7335;Registreringsdatum 2003-09-15;Aktiebolag;Aktiekapital 100 000;Fagerstagatan 3, 163 53 Spånga;Postadress Box 8079, 163 08 Spånga;Tel 08-759 35 70;Del av Kamic EG AB;Antal anställda 31;SNI-bransch 46502",
+     "url": "https://allabolag.se/5566487335/eg-electronics-ab"
+    },
+    {
+     "dim": "FY2025 财报",
+     "text": "Omsättning 2025: 351 393 tkr;Resultat efter finansnetto 16 382 tkr;EBITDA 17 078 tkr;Summa tillgångar 116 170 tkr;Eget kapital 18 868 tkr",
+     "quote": "Omsättning 2025: 351 393 tkr;Resultat efter finansnetto 16 382 tkr;EBITDA 17 078 tkr;Summa tillgångar 116 170 tkr;Eget kapital 18 868 tkr",
+     "url": "https://allabolag.se/5566487335/eg-electronics-ab"
+    },
+    {
+     "dim": "人力/利润谱",
+     "text": "Omsättning 351 393 000 kr(2025);Antalet anställda har ökat med 8 personer sedan 2024 då det jobbade 23 personer(2025=31);Vinstmarginal 4,8 %;Partihandel med elektronikkomponenter",
+     "quote": "Omsättning 351 393 000 kr(2025);Antalet anställda har ökat med 8 personer sedan 2024 då det jobbade 23 personer(2025=31);Vinstmarginal 4,8 %;Partihandel med elektronikkomponenter",
+     "url": "https://www.hitta.se/verksamhet/eg-electronics-ab-jprvxaalc"
+    },
+    {
+     "dim": "登册谱",
+     "text": "Eg Electronics AB;Bolagsform Aktiebolag;Registreringsdatum 2003-09-15;Org.nr 5566487335;Aktiekapital 100 000;omsättningsintervall 100 000 - 499 999(tkr);grundades 2003-09-15;moms+F-skatt registrerad;omsättning senaste året 351 393 tkr",
+     "quote": "Eg Electronics AB;Bolagsform Aktiebolag;Registreringsdatum 2003-09-15;Org.nr 5566487335;Aktiekapital 100 000;omsättningsintervall 100 000 - 499 999(tkr);grundades 2003-09-15;moms+F-skatt registrerad;omsättning senaste året 351 393 tkr",
+     "url": "https://eniro.se/eg+electronics+ab+sp%C3%A5nga/15028390/firma"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批9·B-527:瑞谱: **EG Electronics AB 深挖(allabolag/hitta/eniro 三源互证+KAMIC 集团谱)**:**Org.nr 556648-7335,2003-09-15 注册(23 年);Aktiebolag;Aktiekapital 100,000 kr;Fagerstagatan 3,163 53 Spånga(+Post Box 8079,163 08 Spånga);Tel 08-759 35 70;SNI 46502(partihandel med elektronikkomponenter=电子元件批发);宗旨「handel med elektronikkomponenter och elektronikprodukter」**;**FY2025(2025-09)财报金谱:**Omsättning 351,393 tkr(351.4 MSEK,räkenskapsår 2025;**同比 +12%:员工 23→31(+8 人)**);Resultat efter finansnetto 16,382 tkr;EBITDA 17,078 tkr;Årets resultat 201 tkr(微正);Summa tillgångar 116,170 tkr;Eget kapital 18,868 tkr;Vinstmarginal 4.8-4.9%**;**集团谱:**Del av Kamic EG AB=KAMIC 集团子(Kamic AB 集团母,52-58 司/328 员/3,114 MSEK 集团谱);品牌谱=Bromanco/Björkgren/HMS 系列(集团别体同源谱)**;**KP 金谱:Karl Olof Johnny Hedlund(Extern VD 外部董事总经理,f 56 岁,extern VD 谱)+Oscar Arvidsson(主席或董事会关键人)=2 人登档谱(hitta/allabolag befattningar 档);集团层=Kamic AB 集团 CEO(名待核)**;**谱位=瑞典电子元件批发大谱(351 MSEK+31 员+KAMIC 集团)=我方 24 口 PoE 对元件分销上新轴=批 9 北欧大谱钩之一**。",
+    "inference": "R67/TUB 推土机深挖 批9 B 类既定十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-094",
+   "code": "B-094",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批9·B-094:土谱: **MERPA BİLGİ İŞLEM LİMİTED ŞİRKETİ 深挖(eticaret.gov.tr ETBİS 官档+merpazar.com LI 官档+官网 三源互证)**:**MERSIS No 0618022686200012;Vergi No 6180******(档脱敏);ETBİS Kayıt 2018-01-02;İşletme Türü LİMİTED ŞTİ;Kep merpabilgiislem@hs01.kep.tr;网店=**merpazar.com**;Hakkında 自白=**「Endüstriyel Bilişim Ürünleri İthalat ve Satıcısı」=工业信息产品进口销售商官方事实直证**;Altıntepsi Mah. Öztekin Cd. No:26 Bayrampaşa İstanbul;Tel 0212 213 3873;营收 $6.7M 估/9-16 员(rocketreach 单窗注)**;**LI 官谱:「MERPA BİLGİ İŞLEM LTD. STİ.,1990 Yılından bu yana gelen Sektör tecrübesi ile 2000 yılında İSTANBUL da kurulmuştur(1990 行业经验+2000 İstanbul 创 26 年);Yurtdışından ithalat ile yurtiçi gereksinim Endüstriyel Ve Yeni Teknoloji ürünleri getirerek pazara sunmak+kendi ARGE si ile yeni ürünler=**进口+自研双轨**;**Ali Nail Koçyiğit**=LI 员工档」**;**KP 金谱:Ali Nail Koçyiğit(Genel Müdür 总经理,2002-01 起 23 年司龄 P0;**1996 新加坡→土耳其出口史=亚洲供应链对口经验谱**;LI 员工档)+Taha Uzun(Merpa Bilişim LI 档)+İsmail Çiftci(Administrative Assistant LI 档)+Mustafa Süzer(Manager,rocketreach 档)+Erhan Işık(数字营销,rocketreach 档)=5 人谱**;**谱位=土耳其工业信息产品进口商(官方 ETBİS 自白)+Koçyiğit 亚洲供应链经验(1996 新加坡出口史)+进口自研双轨=我方 24 口 PoE 亚洲 EXW 对口最天然=批 9 最大钩;LI 161 粉**;排噪:Merpa İletişim Sistemleri Ltd(Levent Şenel)=同名别司。",
+   "inference": "R67/TUB 推土机深挖 批9 B 类既定十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.eticaret.gov.tr/siteprofil/143CB0ECB38A4C528CC2FDE2A34D80D2/wwwmerpazarcom",
+   "tech": "工业信息产品进口销售商(ETBİS 官自白)+自研双轨;merpazar.com 电商谱",
+   "hr": "9-16 员;26 年(2000 创);$6.7M 估;Bayrampaşa İstanbul",
+   "contact_found": "**Ali Nail Koçyiğit(Genel Müdür 23 年 P0,1996 新加坡→土耳其出口史=亚洲供应链对口)+Taha Uzun+İsmail Çiftci+Mustafa Süzer+Erhan Işık**",
+   "contact_pending": "merpabilgiislem@hs01.kep.tr(Kep 谱口)+merpazar.com 域直邮可推;0212 213 3873",
+   "dims": {
+    "业务定位": "MERPA BİLGİ İŞLEM LTD ŞTİ(Bayrampaşa/İstanbul,2000 创 26 年):土耳其工业信息产品进口商+自研双轨",
+    "产品线与在售品牌": "Endüstriyel Bilişim Ürünleri 进口销售+ARGE 自研;merpazar.com 电商;LI 谱(161 粉)",
+    "目标行业与场景": "土耳其工业/OEM/集成商;电商谱",
+    "团队与规模": "9-16 员;26 年;$6.7M 估(单窗注)",
+    "决策链与对接人": "Koçyiğit(GM 23 年)+Uzun+Çiftci+Süzer+Işık",
+    "技术与认证": "ETBİS 2018 注册;MERSIS 谱;Kep 谱口",
+    "采购与供应链信号": "**ETBİS 自白「工业信息产品进口商」=亚洲 EXW 直对口;Koçyiğit 1996 新加坡出口史=亚洲供应链天然熟**",
+    "近期动态与线索": "LI 档活;merpazar.com 电商谱;ETBİS 档 2018 起合规谱",
+    "与我方契合点": "Koçyiğit GM 23 年+亚洲供应链双轨 → 24 口 PoE(工业信息产品进口线)",
+    "风险与注意": "**尽汇波动注;$6.7M 估单窗;LI 粉 161 微谱;工业信息产品 vs 网络件品类跨度注**"
+   },
+   "evidence": [
+    {
+     "dim": "ETBİS 官档",
+     "quote": "Mersis No 0618022686200012;İşletme Adı: MERPA BİLGİ İŞLEM LİMİTED ŞİRKETİ;ETBİS e Kayıt Tarihi 02.01.2018;İşletme Türü LİMİTED ŞİRKET;Kep Adresleri: merpabilgiislem@hs01.kep.tr;Hakkında: Endüstriyel Bilişim Ürünleri İthalat ve Satıcısı;网站 merpazar.com",
+     "source": "https://www.eticaret.gov.tr/siteprofil/143CB0ECB38A4C528CC2FDE2A34D80D2/wwwmerpazarcom"
+    },
+    {
+     "dim": "LI 官/KP 档",
+     "quote": "MERPA BİLGİ İŞLEM LTD. STİ.,1990 Yılından bu yana gelen Sektör tecrübesi ile 2000 yılında İSTANBUL da kurulmuştur;Yurtdışından ithalatlarla yurtiçinin Endüstriyel Ve Yeni Teknoloji ürünleri+kendi ARGE si ile yeni ürünler;Ali Nail Kocyigit/Taha Uzun/İsmail Çiftci 员工档;161 takipçi",
+     "source": "https://tr.linkedin.com/company/merpazarcom"
+    },
+    {
+     "dim": "官网谱",
+     "quote": "merpazar.com:Endüstriyel Çözümlerde Yenilikçi Fikirler;进口+自研双轨谱(ETBİS 双证)",
+     "source": "https://www.merpazar.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Koçyiğit GM 23 年+亚洲链",
+     "push": "STC-424XGGPM-280W",
+     "angle": "GM+1996 新加坡出口史 → 24 口 PoE(进口线上新轴)",
+     "question": "贵司工业信息产品线的 24 口 PoE 交换机进口由哪位同事主责?",
+     "proof": "ETBİS/LI 3 源"
+    },
+    {
+     "stage": "第 2 次跟进 · 自研双轨",
+     "push": "STI-288GPM/424",
+     "angle": "ARGE 自研线=白牌贴牌辅位谱",
+     "question": "贵司自研线的网络件供应谱口?",
+     "proof": "LI 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Uzun/Çiftci 行政线",
+     "push": "STC-28DGGPM",
+     "angle": "LI 员工档谱口",
+     "question": "贵司采购线的报文迟程谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2000 创 26 年;伊斯坦布尔 Bayrampaşa;ETBİS 注册进口商自白;merpazar.com 电商",
+     "②芯片/型号": "工业信息产品进口+自研双轨;PoE 24 口=进口新品线对口",
+     "③KP 深挖": "Ali Nail Koçyiğit(GM 23 年 P0,1996 新加坡出口史)+Taha Uzun+İsmail Çiftci+Mustafa Süzer+Erhan Işık=5 人谱",
+     "④Saga 对标": "土耳其工业信息产品进口商 → 24 口 PoE(亚洲 EXW 直对口)",
+     "⑤在乎与偏好": "土耳其语谱;亚洲供应链熟;进口+自研双轨;尽汇波动注",
+     "⑥SWOT": "S=ETBİS 官方进口商自白+26 年+亚洲供应链熟+自研双轨/W=尽汇波动;LI 粉微谱;品类跨度注/O=土耳其制造数字化潮=工业信息/网络件需求/T=大分销商竞争;进口合规谱"
+    },
+    "care": "- **S**:ETBİS 官方进口商自白+26 年+亚洲供应链熟+自研双轨\n- **W**:尽汇波动;LI 粉微谱;品类跨度注\n- **O**:土耳其制造数字化潮=工业信息/网络件需求\n- **T**:大分销商竞争;进口合规谱",
+    "swot": {
+     "S": "ETBİS 官方进口商自白+26 年+亚洲供应链熟+自研双轨",
+     "W": "尽汇波动;LI 粉微谱;品类跨度注",
+     "O": "土耳其制造数字化潮=工业信息/网络件需求",
+     "T": "大分销商竞争;进口合规谱"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批9 B 类既定十户",
+    "gap_proof": "https://www.eticaret.gov.tr/siteprofil/143CB0ECB38A4C528CC2FDE2A34D80D2/wwwmerpazarcom"
+   },
+   "unknowns": [
+    "MikroTik 谱位(土耳其多 MT 分销=竞合核 merpazar.com)",
+    "Koçyiğit 直邮推 merpazar.com 域档",
+    "营收绝对数未公开($6.7M 单窗注)"
+   ],
+   "unknowns56": [
+    "MikroTik 谱位(土耳其多 MT 分销=竞合核 merpazar.com)",
+    "Koçyiğit 直邮推 merpazar.com 域档",
+    "营收绝对数未公开($6.7M 单窗注)"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批9 B 类",
+   "email": "Dear Ali Nail,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a value import for your industrial ICT product lines in Türkiye. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request. We know your long Asia supply-chain experience.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Ali Nail Koçyiğit(Genel Müdür 23 年 P0)+Taha Uzun+Mustafa Süzer(Manager)+Erhan Işık(数字营销)**; merpabilgiislem@hs01.kep.tr(Kep)+merpazar.com 具名推; +90 212 213 3873",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "2000 创 26 年;伊斯坦布尔 Bayrampaşa;ETBİS 注册进口商自白;merpazar.com 电商",
+    "芯片与在用型号": "工业信息产品进口+自研双轨;PoE 24 口=进口新品线对口",
+    "关键人KP": "Ali Nail Koçyiğit(GM 23 年 P0,1996 新加坡出口史)+Taha Uzun+İsmail Çiftci+Mustafa Süzer+Erhan Işık=5 人谱",
+    "关注点与资质": "土耳其工业信息产品进口商 → 24 口 PoE(亚洲 EXW 直对口)",
+    "优缺点SWOT": "S=ETBİS 官方进口商自白+26 年+亚洲供应链熟+自研双轨·W=尽汇波动;LI 粉微谱;品类跨度注·O=土耳其制造数字化潮=工业信息/网络件需求·T=大分销商竞争;进口合规谱",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):土耳其语谱;亚洲供应链熟;进口+自研双轨;尽汇波动注"
+   },
+   "swot_text": "- **S**:ETBİS 官方进口商自白+26 年+亚洲供应链熟+自研双轨\n- **W**:尽汇波动;LI 粉微谱;品类跨度注\n- **O**:土耳其制造数字化潮=工业信息/网络件需求\n- **T**:大分销商竞争;进口合规谱",
+   "facts": [
+    {
+     "dim": "ETBİS 官档",
+     "text": "Mersis No 0618022686200012;İşletme Adı: MERPA BİLGİ İŞLEM LİMİTED ŞİRKETİ;ETBİS e Kayıt Tarihi 02.01.2018;İşletme Türü LİMİTED ŞİRKET;Kep Adresleri: merpabilgiislem@hs01.kep.tr;Hakkında: Endüstriyel Bilişim Ürünleri İthalat ve Satıcısı;网站 merpazar.com",
+     "quote": "Mersis No 0618022686200012;İşletme Adı: MERPA BİLGİ İŞLEM LİMİTED ŞİRKETİ;ETBİS e Kayıt Tarihi 02.01.2018;İşletme Türü LİMİTED ŞİRKET;Kep Adresleri: merpabilgiislem@hs01.kep.tr;Hakkında: Endüstriyel Bilişim Ürünleri İthalat ve Satıcısı;网站 merpazar.com",
+     "url": "https://www.eticaret.gov.tr/siteprofil/143CB0ECB38A4C528CC2FDE2A34D80D2/wwwmerpazarcom"
+    },
+    {
+     "dim": "LI 官/KP 档",
+     "text": "MERPA BİLGİ İŞLEM LTD. STİ.,1990 Yılından bu yana gelen Sektör tecrübesi ile 2000 yılında İSTANBUL da kurulmuştur;Yurtdışından ithalatlarla yurtiçinin Endüstriyel Ve Yeni Teknoloji ürünleri+kendi ARGE si ile yeni ürünler;Ali Nail Kocyigit/Taha Uzun/İsmail Çiftci 员工档;161 takipçi",
+     "quote": "MERPA BİLGİ İŞLEM LTD. STİ.,1990 Yılından bu yana gelen Sektör tecrübesi ile 2000 yılında İSTANBUL da kurulmuştur;Yurtdışından ithalatlarla yurtiçinin Endüstriyel Ve Yeni Teknoloji ürünleri+kendi ARGE si ile yeni ürünler;Ali Nail Kocyigit/Taha Uzun/İsmail Çiftci 员工档;161 takipçi",
+     "url": "https://tr.linkedin.com/company/merpazarcom"
+    },
+    {
+     "dim": "官网谱",
+     "text": "merpazar.com:Endüstriyel Çözümlerde Yenilikçi Fikirler;进口+自研双轨谱(ETBİS 双证)",
+     "quote": "merpazar.com:Endüstriyel Çözümlerde Yenilikçi Fikirler;进口+自研双轨谱(ETBİS 双证)",
+     "url": "https://www.merpazar.com/"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批9·B-094:土谱: **MERPA BİLGİ İŞLEM LİMİTED ŞİRKETİ 深挖(eticaret.gov.tr ETBİS 官档+merpazar.com LI 官档+官网 三源互证)**:**MERSIS No 0618022686200012;Vergi No 6180******(档脱敏);ETBİS Kayıt 2018-01-02;İşletme Türü LİMİTED ŞTİ;Kep merpabilgiislem@hs01.kep.tr;网店=**merpazar.com**;Hakkında 自白=**「Endüstriyel Bilişim Ürünleri İthalat ve Satıcısı」=工业信息产品进口销售商官方事实直证**;Altıntepsi Mah. Öztekin Cd. No:26 Bayrampaşa İstanbul;Tel 0212 213 3873;营收 $6.7M 估/9-16 员(rocketreach 单窗注)**;**LI 官谱:「MERPA BİLGİ İŞLEM LTD. STİ.,1990 Yılından bu yana gelen Sektör tecrübesi ile 2000 yılında İSTANBUL da kurulmuştur(1990 行业经验+2000 İstanbul 创 26 年);Yurtdışından ithalat ile yurtiçi gereksinim Endüstriyel Ve Yeni Teknoloji ürünleri getirerek pazara sunmak+kendi ARGE si ile yeni ürünler=**进口+自研双轨**;**Ali Nail Koçyiğit**=LI 员工档」**;**KP 金谱:Ali Nail Koçyiğit(Genel Müdür 总经理,2002-01 起 23 年司龄 P0;**1996 新加坡→土耳其出口史=亚洲供应链对口经验谱**;LI 员工档)+Taha Uzun(Merpa Bilişim LI 档)+İsmail Çiftci(Administrative Assistant LI 档)+Mustafa Süzer(Manager,rocketreach 档)+Erhan Işık(数字营销,rocketreach 档)=5 人谱**;**谱位=土耳其工业信息产品进口商(官方 ETBİS 自白)+Koçyiğit 亚洲供应链经验(1996 新加坡出口史)+进口自研双轨=我方 24 口 PoE 亚洲 EXW 对口最天然=批 9 最大钩;LI 161 粉**;排噪:Merpa İletişim Sistemleri Ltd(Levent Şenel)=同名别司。",
+    "inference": "R67/TUB 推土机深挖 批9 B 类既定十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-421",
+   "code": "B-421",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批9·B-421:英谱: **Pymatek Automation Ltd 深挖(Companies House/northdata/endole/globaldatabase 四源互证)**:**Company No 09293772,2014-11-04 注册(11 年);Private limited company;SIC 71129(Other engineering activities);注册资本 £1(1 ORDINARY share);Venture Point Wheelhouse Road,Rugeley,Staffordshire WS15 1UZ(同址 7 年谱);C/O Bradley Accountancy Practice Ltd 84-90 Market Street Hednesford Cannock 会计所档**;**规模=Micro:Turnover <£1M+Balance sheet <£500,000+Under 10 员工(3 人档记);net assets 3 年下降档注**;**业务=工业自动化元件分销:PLC/驱动/HMI/伺服/编码器/线缆/温度控制器(endole 档谱);pymatek.co.uk 网站**;**KP 单人金锚:**Ybet Haydée Sánchez Vargas De Pattison**(f1975-06,51 岁;Founder+唯一 Director+唯一 PSC/UBO(1 股 100%)2014-11-04 创任至今 11 年=**一人完整权谱 P0**;西班牙语系背景谱;Confirmation statement 2025-12-01 最新档;2026-06-08 董事信息最新档变更)+**西班牙语团队谱(globaldatabase 档):Franco Sanchez(Jefe de Ventas 销售经理)+Martin Pattison(Sales Mgr)+Kimberly Pinillos(Gerente General 总经理)+Lucero Vaenzuela(Asistente 行政)**=以 Ybet 核心+拉美裔团队谱**;**谱位=英国自动化元件分销微型司(11 年+独资单人)=决策快谱,自动化分销对口=微型谱位对口档;规模薄谱注(n/e 3 年下降)**;排噪:pymatek international 同名谱注。",
+   "inference": "R67/TUB 推土机深挖 批9 B 类既定十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.northdata.com/Pymatek+Automation+Ltd.,+Rugeley/Companies+House+09293772",
+   "tech": "工业自动化元件分销(PLC/驱动/HMI/伺服/编码器/线缆/温控);en英微企",
+   "hr": "3 员;11 年;Turnover <£1M;n/e 3 年下降注",
+   "contact_found": "**Ybet Haydée Sánchez Vargas De Pattison(Founder+唯一 Director+唯一 PSC 100% P0)+西语团队:Franco Sánchez/Martin Pattison/Kimberly Pinillos/Lucero Vaenzuela**",
+   "contact_pending": "具名直邮需推 pymatek.co.uk 域档;Rugeley 会计所档谱口",
+   "dims": {
+    "业务定位": "Pymatek Automation Ltd(Rugeley,2014 创 11 年):英国自动化元件分销微型司,单人全资谱",
+    "产品线与在售品牌": "PLC/驱动/HMI/伺服/编码器/线缆/温度控制器;SIC 71129;pymatek.co.uk",
+    "目标行业与场景": "英国自动化客户;微型司服务谱",
+    "团队与规模": "3 员微谱;11 年;<£1M 营收;n/e 下降注",
+    "决策链与对接人": "Ybet Sánchez(Founder+Dir+PSC 100%)+西语团队 4 人",
+    "技术与认证": "Micro 档;C/O Bradley 会计所谱;CS 2025-12-01 最新",
+    "采购与供应链信号": "**自动化分销对口=24 口 PoE 白牌上新轴;单人决策快谱**",
+    "近期动态与线索": "2026-06 董事信息变更档;annual CS 档;7 年同址稳谱",
+    "与我方契合点": "Ybet 一人直邮 → 24 口 PoE(自动化分销新品)",
+    "风险与注意": "**Micro 微谱+3 员=n/量级小;n/e 3 年下降=资金敏感;决策在 Ybet 一人**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "PYMATEK AUTOMATION LTD;Company No 09293772;incorporated 4 November 2014;Private limited company;SIC 71129 Other engineering activities;Capital £1(1 ORDINARY);Venture Point Wheelhouse Road, Rugeley WS15 1UZ;Active",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/09293772"
+    },
+    {
+     "dim": "KP/PSC 档",
+     "quote": "Pymatek Automation Ltd;Director's details Ybet Haydée Sánchez Vargas De Pattison found 11 years(2014-11-04);Founder appointed Nov 2014;currently 51 years old;active since incorporation;member: Shareholder;1 officers/1 Shareholders/1 Controllers(PSC)/1 Management",
+     "source": "https://open.endole.co.uk/insight/company/09293772-pymatek-automation-ltd"
+    },
+    {
+     "dim": "UBO/规模",
+     "quote": "YBET HAYDEE SANCHEZ VARGAS DE PATTISON owns 1 ORDINARY shares total value 1 GBP(PSC/major shareholder);Incorporated 2014-11-04;Venture Point Wheelhouse Road;employs 3 people;trading since 4 November 2014;Active",
+     "source": "https://uk.globaldatabase.com/company/pymatek-automation-ltd"
+    },
+    {
+     "dim": "财务谱",
+     "quote": "Micro;Turnover is under £1M;Balance sheet is under £500,000;Under 10 employees;Same address for the past 7 years;net assets 3 年下降档注;pymatek.co.uk",
+     "source": "https://open.endole.co.uk/insight/company/09293772-pymatek-automation-ltd"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Ybet Sánchez 单人 100% P0",
+     "push": "STC-424XGGPM-280W",
+     "angle": "Founder+Dir+PSC 一人权 → 24 口 PoE(自动化分销新品)",
+     "question": "贵司 PLC/驱动线的 24 口 PoE 交换机新品引入由哪位主责?",
+     "proof": "CH/endole 4 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Franco Sánchez 销售+M. Pattison",
+     "push": "STI-288GPM/424",
+     "angle": "西语团队销售谱",
+     "question": "贵司销售线的 PoE 谱口?",
+     "proof": "gd 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Kimberly Pinillos GM",
+     "push": "STC-28DGGPM",
+     "angle": "Gerente General 运营口",
+     "question": "贵司白牌上新轴的送样口?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2014 创 11 年;Rugeley Staffordshire;Micro 微谱;单人全资",
+     "②芯片/型号": "自动化元件(PLC/驱动/HMI/伺服)分销;PoE 24 口=新品上新轴",
+     "③KP 深挖": "Ybet Haydée Sánchez Vargas De Pattison(Founder+唯一 Director+唯一 PSC/UBO 100% P0)+西语团队 4 人谱",
+     "④Saga 对标": "自动化分销微司 → 24 口 PoE(新品上新轴+单人决策快)",
+     "⑤在乎与偏好": "英/西双语谱;单人决策快;微型司价格敏;n/e 下降注",
+     "⑥SWOT": "S=11 年谱+单人 100% 全资+自动化分销对口/W=Micro/3 员量级小;n/e 3 年年下降注/O=英国自动化补件线=PoE 新品口/T=大分销商竞争;单主谱"
+    },
+    "care": "- **S**:11 年谱+单人 100% 全资+自动化分销对口\n- **W**:Micro/3 员量级小;n/e 3 年年下降注\n- **O**:英国自动化补件线=PoE 新品口\n- **T**:大分销商竞争;单主谱",
+    "swot": {
+     "S": "11 年谱+单人 100% 全资+自动化分销对口",
+     "W": "Micro/3 员量级小;n/e 3 年年下降注",
+     "O": "英国自动化补件线=PoE 新品口",
+     "T": "大分销商竞争;单主谱"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批9 B 类既定十户",
+    "gap_proof": "https://find-and-update.company-information.service.gov.uk/company/09293772"
+   },
+   "unknowns": [
+    "MikroTik 谱位 pymatek.co.uk 在售线核",
+    "Ybet 直邮推 pymatek.co.uk 域档",
+    "net assets 3 年下降谱原因(付费档核)"
+   ],
+   "unknowns56": [
+    "MikroTik 谱位 pymatek.co.uk 在售线核",
+    "Ybet 直邮推 pymatek.co.uk 域档",
+    "net assets 3 年下降谱原因(付费档核)"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批9 B 类",
+   "email": "Dear Ybet,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a value addition for your automation distribution lines (PLC, drives, HMI, encoders). Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Ybet Haydée Sánchez Vargas De Pattison(Founder+Dir+PSC 100% P0)+Franco Sánchez(销售)+Kimberly Pinillos(GM)**; 电口待补(pymatek.co.uk 域具名推)",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "2014 创 11 年;Rugeley Staffordshire;Micro 微谱;单人全资",
+    "芯片与在用型号": "自动化元件(PLC/驱动/HMI/伺服)分销;PoE 24 口=新品上新轴",
+    "关键人KP": "Ybet Haydée Sánchez Vargas De Pattison(Founder+唯一 Director+唯一 PSC/UBO 100% P0)+西语团队 4 人谱",
+    "关注点与资质": "自动化分销微司 → 24 口 PoE(新品上新轴+单人决策快)",
+    "优缺点SWOT": "S=11 年谱+单人 100% 全资+自动化分销对口·W=Micro/3 员量级小;n/e 3 年年下降注·O=英国自动化补件线=PoE 新品口·T=大分销商竞争;单主谱",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):英/西双语谱;单人决策快;微型司价格敏;n/e 下降注"
+   },
+   "swot_text": "- **S**:11 年谱+单人 100% 全资+自动化分销对口\n- **W**:Micro/3 员量级小;n/e 3 年年下降注\n- **O**:英国自动化补件线=PoE 新品口\n- **T**:大分销商竞争;单主谱",
+   "facts": [
+    {
+     "dim": "法体登册",
+     "text": "PYMATEK AUTOMATION LTD;Company No 09293772;incorporated 4 November 2014;Private limited company;SIC 71129 Other engineering activities;Capital £1(1 ORDINARY);Venture Point Wheelhouse Road, Rugeley WS15 1UZ;Active",
+     "quote": "PYMATEK AUTOMATION LTD;Company No 09293772;incorporated 4 November 2014;Private limited company;SIC 71129 Other engineering activities;Capital £1(1 ORDINARY);Venture Point Wheelhouse Road, Rugeley WS15 1UZ;Active",
+     "url": "https://find-and-update.company-information.service.gov.uk/company/09293772"
+    },
+    {
+     "dim": "KP/PSC 档",
+     "text": "Pymatek Automation Ltd;Director's details Ybet Haydée Sánchez Vargas De Pattison found 11 years(2014-11-04);Founder appointed Nov 2014;currently 51 years old;active since incorporation;member: Shareholder;1 officers/1 Shareholders/1 Controllers(PSC)/1 Management",
+     "quote": "Pymatek Automation Ltd;Director's details Ybet Haydée Sánchez Vargas De Pattison found 11 years(2014-11-04);Founder appointed Nov 2014;currently 51 years old;active since incorporation;member: Shareholder;1 officers/1 Shareholders/1 Controllers(PSC)/1 Management",
+     "url": "https://open.endole.co.uk/insight/company/09293772-pymatek-automation-ltd"
+    },
+    {
+     "dim": "UBO/规模",
+     "text": "YBET HAYDEE SANCHEZ VARGAS DE PATTISON owns 1 ORDINARY shares total value 1 GBP(PSC/major shareholder);Incorporated 2014-11-04;Venture Point Wheelhouse Road;employs 3 people;trading since 4 November 2014;Active",
+     "quote": "YBET HAYDEE SANCHEZ VARGAS DE PATTISON owns 1 ORDINARY shares total value 1 GBP(PSC/major shareholder);Incorporated 2014-11-04;Venture Point Wheelhouse Road;employs 3 people;trading since 4 November 2014;Active",
+     "url": "https://uk.globaldatabase.com/company/pymatek-automation-ltd"
+    },
+    {
+     "dim": "财务谱",
+     "text": "Micro;Turnover is under £1M;Balance sheet is under £500,000;Under 10 employees;Same address for the past 7 years;net assets 3 年下降档注;pymatek.co.uk",
+     "quote": "Micro;Turnover is under £1M;Balance sheet is under £500,000;Under 10 employees;Same address for the past 7 years;net assets 3 年下降档注;pymatek.co.uk",
+     "url": "https://open.endole.co.uk/insight/company/09293772-pymatek-automation-ltd"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批9·B-421:英谱: **Pymatek Automation Ltd 深挖(Companies House/northdata/endole/globaldatabase 四源互证)**:**Company No 09293772,2014-11-04 注册(11 年);Private limited company;SIC 71129(Other engineering activities);注册资本 £1(1 ORDINARY share);Venture Point Wheelhouse Road,Rugeley,Staffordshire WS15 1UZ(同址 7 年谱);C/O Bradley Accountancy Practice Ltd 84-90 Market Street Hednesford Cannock 会计所档**;**规模=Micro:Turnover <£1M+Balance sheet <£500,000+Under 10 员工(3 人档记);net assets 3 年下降档注**;**业务=工业自动化元件分销:PLC/驱动/HMI/伺服/编码器/线缆/温度控制器(endole 档谱);pymatek.co.uk 网站**;**KP 单人金锚:**Ybet Haydée Sánchez Vargas De Pattison**(f1975-06,51 岁;Founder+唯一 Director+唯一 PSC/UBO(1 股 100%)2014-11-04 创任至今 11 年=**一人完整权谱 P0**;西班牙语系背景谱;Confirmation statement 2025-12-01 最新档;2026-06-08 董事信息最新档变更)+**西班牙语团队谱(globaldatabase 档):Franco Sanchez(Jefe de Ventas 销售经理)+Martin Pattison(Sales Mgr)+Kimberly Pinillos(Gerente General 总经理)+Lucero Vaenzuela(Asistente 行政)**=以 Ybet 核心+拉美裔团队谱**;**谱位=英国自动化元件分销微型司(11 年+独资单人)=决策快谱,自动化分销对口=微型谱位对口档;规模薄谱注(n/e 3 年下降)**;排噪:pymatek international 同名谱注。",
+    "inference": "R67/TUB 推土机深挖 批9 B 类既定十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-514",
+   "code": "B-514",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批9·B-514:希谱: **ALPHA MOTION ΑΕ 深挖(EBEA 商会名录/acci exports/engineer.gr/alpha-motion.gr 四源互证)**:**全名=**ALPHA MOTION ANONYMI ETAIREIA SYSTIMATON AUTOMATISMOU YPSILIS TECHNOLOGIAS ROMPOTIKIS KAI PLIROFORIKIS**(希腊语全谱:ALPHA MOTION ΑΕ ΣΥΣΤΗΜΑΤΩΝ ΑΥΤΟΜΑΤΙΣΜΟΥ ΥΨΗΛΗΣ ΤΕΧΝΟΛΟΓΙΑΣ ΡΟΜΠΟΤΙΚΗΣ ΚΑΙ ΠΛΗΡΟΦΟΡΙΚΗΣ=高科技自动化系统·机器人·信息学 股份公司);ΑΦΜ 999641450;Γ.Ε.ΜΗ 5101501000;E.B.E.A. 2003-02-18 注册(活跃的 ACTIVE;32+ 年谱:kompass 记创 1993=33 年谱双窗);ΛΕΩΦΟΡΟΣ ΜΑΡΑΘΩΝΟΣ 72,ΡΑΦΗΝΑ 19009(前址 Αλκαμένους 5-7 Αθήνα 10439 老档);210 8227470/8227472(+fax 210-8253787);info@alpha-motion.gr;www.alpha-motion.gr**;**业务=工业自动化独家进口批发商(AE;NAC08 4669;Li/crunchbase 记创 1993-1994,11-50 员):自动化系统/机器人/SCADA/HMI/**PLC**/伺服步进/变频/编码器/无线电 modem/工业软件+电梯驱动研发;**ISO 9001:2015 认证;品牌谱=Yaskawa/Parker 级(日本安川全球机器人+美国 Parker 运动控制)独家谱**;**KP 金谱:**Argyrios Saninos(Σανίνος Αργύριος=Διευθύνων=董事总经理,engineer.gr 档!)+ΓΕΜΗ 联络谱(commitissioner=联络员谱待核)**;**谱位=希腊 33 年工业自动化独家批发商(机器人/SCADA/PLC)+ISO 9001=工业 PoE 谱位对口=批 9 希谱金矿**。",
+   "inference": "R67/TUB 推土机深挖 批9 B 类既定十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://directory.acci.gr/companies/details/201802",
+   "tech": "工业自动化独家进口批发商;机器人/SCADA/PLC/伺服;ISO 9001:2015;Yaskawa/Parker 谱",
+   "hr": "11-50 员;33 年(1993 创);Rafina;AE 股份公司",
+   "contact_found": "**Argyrios Saninos(Διευθύνων=董事总经理 P0)+ΓΕΜΗ 联络谱**",
+   "contact_pending": "具名直邮需推 alpha-motion.gr 域档;info@alpha-motion.gr CSV 谱口",
+   "dims": {
+    "业务定位": "ALPHA MOTION ΑΕ(Rafina/Attica,1993 创 33 年):希腊工业自动化系统·机器人独家进口批发商",
+    "产品线与在售品牌": "自动化系统/机器人/SCADA/HMI/PLC/伺服步进/变频/编码器/无线电 modem;Yaskawa/Parker 谱;电梯驱动研发",
+    "目标行业与场景": "希腊工业机械/OEM/工厂自动化+电梯线",
+    "团队与规模": "11-50 员;33 年;AE;ISO 9001:2015",
+    "决策链与对接人": "Saninos(Διευθύνων 董事总经理)+ΓΕΜΗ 联络谱",
+    "技术与认证": "ISO 9001:2015;Γ.Ε.ΜΗ 5101501000;ACTIVE 档",
+    "采购与供应链信号": "**工业自动化独家批发=工业 PoE 谱正对口(SCADA/机器人网络供电);Yaskawa/Parker 合作谱=大牌背谱**",
+    "近期动态与线索": "E.B.E.A. 2003-02-18 档创(名义 1993 创=33 年双窗);老址 Athene 档谱;ACTIVE 档",
+    "与我方契合点": "Saninos 董事总经理 → 24 口工业 PoE(SCADA/机器人网络供电)",
+    "风险与注意": "**希语谱+英文交流谱注;11-50 员=决策在 Saninos 谱;独家代理轨道=白牌补位谱位注**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "ALPHA MOTION ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ ΣΥΣΤΗΜΑΤΩΝ ΑΥΤΟΜΑΤΙΣΜΟΥ ΥΨΗΛΗΣ ΤΕΧΝΟΛΟΓΙΑΣ ΡΟΜΠΟΤΙΚΗΣ ΚΑΙ ΠΛΗΡΟΦΟΡΙΚΗΣ;Α.Φ.Μ 999641450;Νομική Μορφή Α.Ε.;ΛΕΩΦΟΡΟΣ ΜΑΡΑΘΩΝΟΣ 72, ΡΑΦΗΝΑ 19009;2108227470,8227472;info@alpha-motion.gr;www.alpha-motion.gr",
+     "source": "https://directory.acci.gr/companies/details/201802"
+    },
+    {
+     "dim": "谱级档",
+     "quote": "GEMI 5101501000;Tax Number 999641450;company_status ACTIVE;RAFINA;LEOFOROS MARATHONOS 72",
+     "source": "https://exporters.acci.gr/companies/details/201802"
+    },
+    {
+     "dim": "KP/旧谱",
+     "quote": "ALPHA MOTION AE - ΑΥΤΟΜΑΤΙΣΜΟΙ ΒΙΟΜΗΧΑΝΙΚΟΙ(工业自动化谱);Διευθύνων: Σανίνος Αργύριος(Director: Saninos Argyrios);Αλκαμένους 5-7, Αθήνα 10439(旧址档);210-8227470-2, 8227677;Fax 210-8253787",
+     "source": "http://www.engineer.gr/materials/company.php?company_id=7454"
+    },
+    {
+     "dim": "官网谱",
+     "quote": "alpha-motion.gr:自动化系统/机器人/SCADA/HMI/PLC/伺服步进/变频/编码器/无线电 modem/工业软件+电梯驱动研发;ISO 9001:2015;Yaskawa/Parker 品牌谱(kompass/LI 档)",
+     "source": "https://www.alpha-motion.gr/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Saninos 董事总经理 P0",
+     "push": "STC-424XGGPM-280W",
+     "angle": "Διευθύνων → 24 口工业 PoE(SCADA/机器人网络供电)",
+     "question": "贵司自动化/机器人线的 24 口工业 PoE 交换机进口由哪位主责?",
+     "proof": "EBEA/四源"
+    },
+    {
+     "stage": "第 2 次跟进 · Yaskawa/Parker 品牌线",
+     "push": "STI-288GPM/424",
+     "angle": "大牌合作谱=销售渠道谱",
+     "question": "贵司 Yaskawa 线的网络件谱口?",
+     "proof": "官网谱"
+    },
+    {
+     "stage": "第 3 次跟进 · 电梯驱动研发线",
+     "push": "STC-28DGGPM",
+     "angle": "电梯驱动研发=边缘谱",
+     "question": "贵司电梯线条的件谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1993 创 33 年(E.B.E.A. 2003 档 23 年双窗);Rafina;AE;ISO 9001:2015",
+     "②芯片/型号": "自动化/机器人独家批发(SCADA/PLC/伺服);PoE=SCADA/机器人网络供电正对口",
+     "③KP 深挖": "Argyrios Saninos(Διευθύνων 董事总经理 P0)+ΓΕΜΗ 联络谱",
+     "④Saga 对标": "希腊工业自动化独家批发 → 工业 PoE 谱正对口",
+     "⑤在乎与偏好": "希语谱;大牌渠道轨道;ISO 9001 资质敏;Yaskawa/Parker 合作谱",
+     "⑥SWOT": "S=33 年+ISO 9001+Yaskawa/Parker 独家谱/W=希语谱门;独家代理轨道=切入角度谱/O=希腊制造自动化升级潮=工业 PoE 谱位/T=ABB/Schneider 大分销竞争;经济敏注"
+    },
+    "care": "- **S**:33 年+ISO 9001+Yaskawa/Parker 独家谱\n- **W**:希语谱门;独家代理轨道=切入角度谱\n- **O**:希腊制造自动化升级潮=工业 PoE 谱位\n- **T**:ABB/Schneider 大分销竞争;经济敏注",
+    "swot": {
+     "S": "33 年+ISO 9001+Yaskawa/Parker 独家谱",
+     "W": "希语谱门;独家代理轨道=切入角度谱",
+     "O": "希腊制造自动化升级潮=工业 PoE 谱位",
+     "T": "ABB/Schneider 大分销竞争;经济敏注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批9 B 类既定十户",
+    "gap_proof": "https://directory.acci.gr/companies/details/201802"
+   },
+   "unknowns": [
+    "MikroTik 谱位 alpha-motion.gr 在售线核",
+    "Saninos 直邮推 alpha-motion.gr 域档",
+    "E.B.E.A. 2003 档与创年 1993 双窗注"
+   ],
+   "unknowns56": [
+    "MikroTik 谱位 alpha-motion.gr 在售线核",
+    "Saninos 直邮推 alpha-motion.gr 域档",
+    "E.B.E.A. 2003 档与创年 1993 双窗注"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批9 B 类",
+   "email": "Dear Argyrios,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a sturdy supply for SCADA, robotics and PLC network deployments across Greek industrial automation. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Argyrios Saninos(Διευθύνων 董事总经理 P0)**; info@alpha-motion.gr(CSV 谱口); +30 210 822 7470",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "1993 创 33 年(E.B.E.A. 2003 档 23 年双窗);Rafina;AE;ISO 9001:2015",
+    "芯片与在用型号": "自动化/机器人独家批发(SCADA/PLC/伺服);PoE=SCADA/机器人网络供电正对口",
+    "关键人KP": "Argyrios Saninos(Διευθύνων 董事总经理 P0)+ΓΕΜΗ 联络谱",
+    "关注点与资质": "希腊工业自动化独家批发 → 工业 PoE 谱正对口",
+    "优缺点SWOT": "S=33 年+ISO 9001+Yaskawa/Parker 独家谱·W=希语谱门;独家代理轨道=切入角度谱·O=希腊制造自动化升级潮=工业 PoE 谱位·T=ABB/Schneider 大分销竞争;经济敏注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):希语谱;大牌渠道轨道;ISO 9001 资质敏;Yaskawa/Parker 合作谱"
+   },
+   "swot_text": "- **S**:33 年+ISO 9001+Yaskawa/Parker 独家谱\n- **W**:希语谱门;独家代理轨道=切入角度谱\n- **O**:希腊制造自动化升级潮=工业 PoE 谱位\n- **T**:ABB/Schneider 大分销竞争;经济敏注",
+   "facts": [
+    {
+     "dim": "法体登册",
+     "text": "ALPHA MOTION ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ ΣΥΣΤΗΜΑΤΩΝ ΑΥΤΟΜΑΤΙΣΜΟΥ ΥΨΗΛΗΣ ΤΕΧΝΟΛΟΓΙΑΣ ΡΟΜΠΟΤΙΚΗΣ ΚΑΙ ΠΛΗΡΟΦΟΡΙΚΗΣ;Α.Φ.Μ 999641450;Νομική Μορφή Α.Ε.;ΛΕΩΦΟΡΟΣ ΜΑΡΑΘΩΝΟΣ 72, ΡΑΦΗΝΑ 19009;2108227470,8227472;info@alpha-motion.gr;www.alpha-motion.gr",
+     "quote": "ALPHA MOTION ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ ΣΥΣΤΗΜΑΤΩΝ ΑΥΤΟΜΑΤΙΣΜΟΥ ΥΨΗΛΗΣ ΤΕΧΝΟΛΟΓΙΑΣ ΡΟΜΠΟΤΙΚΗΣ ΚΑΙ ΠΛΗΡΟΦΟΡΙΚΗΣ;Α.Φ.Μ 999641450;Νομική Μορφή Α.Ε.;ΛΕΩΦΟΡΟΣ ΜΑΡΑΘΩΝΟΣ 72, ΡΑΦΗΝΑ 19009;2108227470,8227472;info@alpha-motion.gr;www.alpha-motion.gr",
+     "url": "https://directory.acci.gr/companies/details/201802"
+    },
+    {
+     "dim": "谱级档",
+     "text": "GEMI 5101501000;Tax Number 999641450;company_status ACTIVE;RAFINA;LEOFOROS MARATHONOS 72",
+     "quote": "GEMI 5101501000;Tax Number 999641450;company_status ACTIVE;RAFINA;LEOFOROS MARATHONOS 72",
+     "url": "https://exporters.acci.gr/companies/details/201802"
+    },
+    {
+     "dim": "KP/旧谱",
+     "text": "ALPHA MOTION AE - ΑΥΤΟΜΑΤΙΣΜΟΙ ΒΙΟΜΗΧΑΝΙΚΟΙ(工业自动化谱);Διευθύνων: Σανίνος Αργύριος(Director: Saninos Argyrios);Αλκαμένους 5-7, Αθήνα 10439(旧址档);210-8227470-2, 8227677;Fax 210-8253787",
+     "quote": "ALPHA MOTION AE - ΑΥΤΟΜΑΤΙΣΜΟΙ ΒΙΟΜΗΧΑΝΙΚΟΙ(工业自动化谱);Διευθύνων: Σανίνος Αργύριος(Director: Saninos Argyrios);Αλκαμένους 5-7, Αθήνα 10439(旧址档);210-8227470-2, 8227677;Fax 210-8253787",
+     "url": "http://www.engineer.gr/materials/company.php?company_id=7454"
+    },
+    {
+     "dim": "官网谱",
+     "text": "alpha-motion.gr:自动化系统/机器人/SCADA/HMI/PLC/伺服步进/变频/编码器/无线电 modem/工业软件+电梯驱动研发;ISO 9001:2015;Yaskawa/Parker 品牌谱(kompass/LI 档)",
+     "quote": "alpha-motion.gr:自动化系统/机器人/SCADA/HMI/PLC/伺服步进/变频/编码器/无线电 modem/工业软件+电梯驱动研发;ISO 9001:2015;Yaskawa/Parker 品牌谱(kompass/LI 档)",
+     "url": "https://www.alpha-motion.gr/"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批9·B-514:希谱: **ALPHA MOTION ΑΕ 深挖(EBEA 商会名录/acci exports/engineer.gr/alpha-motion.gr 四源互证)**:**全名=**ALPHA MOTION ANONYMI ETAIREIA SYSTIMATON AUTOMATISMOU YPSILIS TECHNOLOGIAS ROMPOTIKIS KAI PLIROFORIKIS**(希腊语全谱:ALPHA MOTION ΑΕ ΣΥΣΤΗΜΑΤΩΝ ΑΥΤΟΜΑΤΙΣΜΟΥ ΥΨΗΛΗΣ ΤΕΧΝΟΛΟΓΙΑΣ ΡΟΜΠΟΤΙΚΗΣ ΚΑΙ ΠΛΗΡΟΦΟΡΙΚΗΣ=高科技自动化系统·机器人·信息学 股份公司);ΑΦΜ 999641450;Γ.Ε.ΜΗ 5101501000;E.B.E.A. 2003-02-18 注册(活跃的 ACTIVE;32+ 年谱:kompass 记创 1993=33 年谱双窗);ΛΕΩΦΟΡΟΣ ΜΑΡΑΘΩΝΟΣ 72,ΡΑΦΗΝΑ 19009(前址 Αλκαμένους 5-7 Αθήνα 10439 老档);210 8227470/8227472(+fax 210-8253787);info@alpha-motion.gr;www.alpha-motion.gr**;**业务=工业自动化独家进口批发商(AE;NAC08 4669;Li/crunchbase 记创 1993-1994,11-50 员):自动化系统/机器人/SCADA/HMI/**PLC**/伺服步进/变频/编码器/无线电 modem/工业软件+电梯驱动研发;**ISO 9001:2015 认证;品牌谱=Yaskawa/Parker 级(日本安川全球机器人+美国 Parker 运动控制)独家谱**;**KP 金谱:**Argyrios Saninos(Σανίνος Αργύριος=Διευθύνων=董事总经理,engineer.gr 档!)+ΓΕΜΗ 联络谱(commitissioner=联络员谱待核)**;**谱位=希腊 33 年工业自动化独家批发商(机器人/SCADA/PLC)+ISO 9001=工业 PoE 谱位对口=批 9 希谱金矿**。",
+    "inference": "R67/TUB 推土机深挖 批9 B 类既定十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-340",
+   "code": "B-340",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批9·B-340:美谱: **Controller Service & Sales Company, Inc. 深挖(controllerservice.com/aboutus+tedmag 百年通稿+leadiq 三源互证)**:**1926 创=整整 100 年(2026 百年庆,tedmag 通稿);创始 Matthew O'Dea(1899 生于 Stoughton MA,孤儿起奋;Wentworth Institute of Technology 1916 毕业→Cutler-Hammer 任职→1926 Boston Oliver Street 创);O'Day 家族 mid-1980s 接力=**第三代家族企业**;「Service Before Sales Since 1926」**;**业务=**新英格兰电气控制+工业自动化+安全产品首要分销商**:**电机控制/电路线保护/安全产品 90+ 产品线;授权分销=Cutler-Hammer/ABB/Idec 首批;最小组件→完整 turnkey 控制系统(设计/制造/工程/调试);根源=service 起家转分销;NAICS 3339;**11-50 员(37 员档记);+1-800-584-**** 谱口;Boston/Avon MA 谱**;**KP 金谱:Michael Murphy(President,zoominfo 档 P0)+Vance Smith(VP)+Joseph Lavallee(Senior Engineer)+Louis Guerra/John Trubiano(Account Mgr)+Gregg Jackman(Sales)+Cristina Cataldo(Service&Sales Controller)+Adrian Crooker(AP)+**Robert O'Day(tedmag 家族二代代表谱)**=8-9 人谱;$8.9M 营收估(zoominfo 单窗注)**;**谱位=百年三代家族电控/安全产品分销(90+ 线+turnkey 系统)=24 口 PoE 对控制盘柜/turnkey 系统基建谱口=批 9 美系金矿**。",
+   "inference": "R67/TUB 推土机深挖 批9 B 类既定十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.controllerservice.com/aboutus",
+   "tech": "电气控制+工业自动化+安全产品分销 90+ 线(Cutler-Hammer/ABB/Idec)+turnkey 控制系统(根源 service)",
+   "hr": "37-50 员;100 年(2026 百年庆);Boston/Avon MA;$8.9M 估(单窗)",
+   "contact_found": "**Michael Murphy(President P0)+Vance Smith(VP)+Joseph Lavallee(Sr Engineer)+Guerra/Trubiano/Jackman/Cataldo/Crooker+Robert O'Day(家族二代)**",
+   "contact_pending": "具名直邮需推 controllerservice.com 域档;+1-800-584 台口谱口",
+   "dims": {
+    "业务定位": "Controller Service & Sales(New England,1926 创 100 年三代家族):美国电控+自动化+安全产品首要分销 90+ 线",
+    "产品线与在售品牌": "电机控制/电路保护/安全产品;Cutler-Hammer/ABB/Idec 授权;组件→turnkey 控制系统+工程启动",
+    "目标行业与场景": "新英格兰制造业/设施/承包商;turnkey 系统客户",
+    "团队与规模": "37-50 员;100 年;$8.9M 估;O'Day 家族三代",
+    "决策链与对接人": "Murphy(President)+Smith(VP)+Lavallee(Sr Eng)+Guerra/Trubiano/Jackman/Cataldo/Crooker+O'Day 家族",
+    "技术与认证": "「Service Before Sales Since 1926」;90+ 授权线;销售持续培训谱",
+    "采购与供应链信号": "**turnkey 控制系统/控制盘柜=24 口 PoE 基建对口;90+ 分销线=白牌辅位谱;百年信用=合作稳谱**",
+    "近期动态与线索": "2026 百年庆(tedmag 通稿);O'Day 家族 mid-1980s 二代接力谱",
+    "与我方契合点": "Murphy President+Smith VP 双轨 → 24 口 PoE(turnkey 系统/控制柜基建)",
+    "风险与注意": "**NAICS 3339 machinery=价值链谱口;$8.9M 单窗估;家族三代决策谱**"
+   },
+   "evidence": [
+    {
+     "dim": "创史/产品官方档",
+     "quote": "A 100 year old family-owned company and leading distributor of electrical control, industrial automation, and safety products;Since its founding in 1926;New England's premiere resource;Matthew O'Dea born 1899 Stoughton, orphan, Wentworth 1916→Cutler-Hammer→founded Controller Service & Sales in Boston in 1926;third generation business soon approaching our hundredth year;Service Before Sales Since 1926",
+     "source": "https://www.controllerservice.com/aboutus"
+    },
+    {
+     "dim": "百年庆/二代档",
+     "quote": "Controller Service & Sales Company, Inc., a third-generation distributor, is celebrating its 100th anniversary in 2026;Matthew O'Dea founded the company in 1926 in Boston on Oliver Street;founded as a service company→Cutler-Hammer first supplier→sales/distribution;in the mid-1980s, the O'Day family formally carried that legacy forward into its next generation;Robert O'Day",
+     "source": "https://tedmag.com/controller-service-sales-celebrates-100-years/"
+    },
+    {
+     "dim": "产品/规模档",
+     "quote": "authorized distributor for Cutler-Hammer, ABB, and Idec;more than 90 product lines;component level to fully integrated turn-key control systems;Founded 1926;employees 11-50(37);NAICS 3339;Avon, Massachusetts;engineering and start-up service;can design and fabricate complete control systems;+1-800-584",
+     "source": "https://leadiq.com/c/controller-service--sales-inc/5a1d9d692300005c008d41c1"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Murphy President+Smith VP 双轨",
+     "push": "STC-424XGGPM-280W",
+     "angle": "President+VP → 24 口 PoE(turnkey 系统/控制柜基建)",
+     "question": "贵司 turnkey 系统线的 24 口 PoE 交换机集购由哪位同事主责?",
+     "proof": "aboutus/tedmag 3 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Lavallee Sr Engineer",
+     "push": "STI-288GPM/424",
+     "angle": "Senior Engineer=技术评估口",
+     "question": "贵司控制盘柜线的网络件谱口?",
+     "proof": "leadiq 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · O'Day 家族+Guerra/Trubiano",
+     "push": "STC-28DGGPM",
+     "angle": "家族三代+客户线谱",
+     "question": "贵司 90+ 产品线的供应商审核周期?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1926 创 100 年;Boston/Avon MA;O'Dea→O'Day 家族三代;service 起家→分销",
+     "②芯片/型号": "电控/自动化/安全分销 90+ 线+turnkey 系统;PoE 24 口=控制柜/项目基建件",
+     "③KP 深挖": "Michael Murphy(President)+Vance Smith(VP)+Joseph Lavallee(Sr Eng)+Guerra/Trubiano/Jackman/Cataldo/Crooker+Robert O'Day=9 人谱",
+     "④Saga 对标": "美系百年分销 → 24 口 PoE(turnkey 系统基建+白牌辅位)",
+     "⑤在乎与偏好": "英谱;百年关系型信用;授权分销轨道;turnkey 项目节奏",
+     "⑥SWOT": "S=100 年三代+90+ 授权线+turnkey 系统能力/W=$8.9M 单窗估;家族决策人际谱/O=turnkey/控制柜 PoE 基建+新英制造业潮/T=ABB/Cutler-Hammer 授权轨道谱;关系型销售周期长"
+    },
+    "care": "- **S**:100 年三代+90+ 授权线+turnkey 系统能力\n- **W**:$8.9M 单窗估;家族决策人际谱\n- **O**:turnkey/控制柜 PoE 基建+新英制造业潮\n- **T**:ABB/Cutler-Hammer 授权轨道谱;关系型销售周期长",
+    "swot": {
+     "S": "100 年三代+90+ 授权线+turnkey 系统能力",
+     "W": "$8.9M 单窗估;家族决策人际谱",
+     "O": "turnkey/控制柜 PoE 基建+新英制造业潮",
+     "T": "ABB/Cutler-Hammer 授权轨道谱;关系型销售周期长"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批9 B 类既定十户",
+    "gap_proof": "https://www.controllerservice.com/aboutus"
+   },
+   "unknowns": [
+    "MikroTik 谱位 controllerservice.com 在售线核",
+    "Murphy/Smith 直邮推档",
+    "$8.9M 营收 vs 37 员=人效注核验"
+   ],
+   "unknowns56": [
+    "MikroTik 谱位 controllerservice.com 在售线核",
+    "Murphy/Smith 直邮推档",
+    "$8.9M 营收 vs 37 员=人效注核验"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批9 B 类",
+   "email": "Dear Michael,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a sturdy supply for control panels and turnkey control-system deployments across New England industry. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Michael Murphy(President P0)+Vance Smith(VP)+Joseph Lavallee(Sr Engineer)+Robert O'Day(家族二代)**; 电口待补(controllerservice.com 域具名推); +1-800-584-",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "1926 创 100 年;Boston/Avon MA;O'Dea→O'Day 家族三代;service 起家→分销",
+    "芯片与在用型号": "电控/自动化/安全分销 90+ 线+turnkey 系统;PoE 24 口=控制柜/项目基建件",
+    "关键人KP": "Michael Murphy(President)+Vance Smith(VP)+Joseph Lavallee(Sr Eng)+Guerra/Trubiano/Jackman/Cataldo/Crooker+Robert O'Day=9 人谱",
+    "关注点与资质": "美系百年分销 → 24 口 PoE(turnkey 系统基建+白牌辅位)",
+    "优缺点SWOT": "S=100 年三代+90+ 授权线+turnkey 系统能力·W=$8.9M 单窗估;家族决策人际谱·O=turnkey/控制柜 PoE 基建+新英制造业潮·T=ABB/Cutler-Hammer 授权轨道谱;关系型销售周期长",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):英谱;百年关系型信用;授权分销轨道;turnkey 项目节奏"
+   },
+   "swot_text": "- **S**:100 年三代+90+ 授权线+turnkey 系统能力\n- **W**:$8.9M 单窗估;家族决策人际谱\n- **O**:turnkey/控制柜 PoE 基建+新英制造业潮\n- **T**:ABB/Cutler-Hammer 授权轨道谱;关系型销售周期长",
+   "facts": [
+    {
+     "dim": "创史/产品官方档",
+     "text": "A 100 year old family-owned company and leading distributor of electrical control, industrial automation, and safety products;Since its founding in 1926;New England's premiere resource;Matthew O'Dea born 1899 Stoughton, orphan, Wentworth 1916→Cutler-Hammer→founded Controller Service & Sales in Boston in 1926;third generation business soon approaching our hundredth year;Service Before Sales Since 1926",
+     "quote": "A 100 year old family-owned company and leading distributor of electrical control, industrial automation, and safety products;Since its founding in 1926;New England's premiere resource;Matthew O'Dea born 1899 Stoughton, orphan, Wentworth 1916→Cutler-Hammer→founded Controller Service & Sales in Boston in 1926;third generation business soon approaching our hundredth year;Service Before Sales Since 1926",
+     "url": "https://www.controllerservice.com/aboutus"
+    },
+    {
+     "dim": "百年庆/二代档",
+     "text": "Controller Service & Sales Company, Inc., a third-generation distributor, is celebrating its 100th anniversary in 2026;Matthew O'Dea founded the company in 1926 in Boston on Oliver Street;founded as a service company→Cutler-Hammer first supplier→sales/distribution;in the mid-1980s, the O'Day family formally carried that legacy forward into its next generation;Robert O'Day",
+     "quote": "Controller Service & Sales Company, Inc., a third-generation distributor, is celebrating its 100th anniversary in 2026;Matthew O'Dea founded the company in 1926 in Boston on Oliver Street;founded as a service company→Cutler-Hammer first supplier→sales/distribution;in the mid-1980s, the O'Day family formally carried that legacy forward into its next generation;Robert O'Day",
+     "url": "https://tedmag.com/controller-service-sales-celebrates-100-years/"
+    },
+    {
+     "dim": "产品/规模档",
+     "text": "authorized distributor for Cutler-Hammer, ABB, and Idec;more than 90 product lines;component level to fully integrated turn-key control systems;Founded 1926;employees 11-50(37);NAICS 3339;Avon, Massachusetts;engineering and start-up service;can design and fabricate complete control systems;+1-800-584",
+     "quote": "authorized distributor for Cutler-Hammer, ABB, and Idec;more than 90 product lines;component level to fully integrated turn-key control systems;Founded 1926;employees 11-50(37);NAICS 3339;Avon, Massachusetts;engineering and start-up service;can design and fabricate complete control systems;+1-800-584",
+     "url": "https://leadiq.com/c/controller-service--sales-inc/5a1d9d692300005c008d41c1"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批9·B-340:美谱: **Controller Service & Sales Company, Inc. 深挖(controllerservice.com/aboutus+tedmag 百年通稿+leadiq 三源互证)**:**1926 创=整整 100 年(2026 百年庆,tedmag 通稿);创始 Matthew O'Dea(1899 生于 Stoughton MA,孤儿起奋;Wentworth Institute of Technology 1916 毕业→Cutler-Hammer 任职→1926 Boston Oliver Street 创);O'Day 家族 mid-1980s 接力=**第三代家族企业**;「Service Before Sales Since 1926」**;**业务=**新英格兰电气控制+工业自动化+安全产品首要分销商**:**电机控制/电路线保护/安全产品 90+ 产品线;授权分销=Cutler-Hammer/ABB/Idec 首批;最小组件→完整 turnkey 控制系统(设计/制造/工程/调试);根源=service 起家转分销;NAICS 3339;**11-50 员(37 员档记);+1-800-584-**** 谱口;Boston/Avon MA 谱**;**KP 金谱:Michael Murphy(President,zoominfo 档 P0)+Vance Smith(VP)+Joseph Lavallee(Senior Engineer)+Louis Guerra/John Trubiano(Account Mgr)+Gregg Jackman(Sales)+Cristina Cataldo(Service&Sales Controller)+Adrian Crooker(AP)+**Robert O'Day(tedmag 家族二代代表谱)**=8-9 人谱;$8.9M 营收估(zoominfo 单窗注)**;**谱位=百年三代家族电控/安全产品分销(90+ 线+turnkey 系统)=24 口 PoE 对控制盘柜/turnkey 系统基建谱口=批 9 美系金矿**。",
+    "inference": "R67/TUB 推土机深挖 批9 B 类既定十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-274",
+   "code": "B-274",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批9·B-274:波谱: **ELTROX SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ 深挖(krs-pobierz/aleo/D&B/eltrox.pl 四源互证)**:**KRS 0000175807;NIP 6462490527;REGON 276916481;Kapitał zakładowy 560,000 zł;2003-12-01 注册(23 年);ul. Warszawska 74,42-202 Częstochowa;Forma prawna=Spółka z O.O.;Status aktywna;Główna działalność=**sprzedaż hurtowa sprzętu elektronicznego i telekomunikacyjnego oraz części do niego=电子与电信设备批发(登档法言)**;D&B 别类=Courier/Trading 谱注**;**官网电商谱(eltrox.pl):**监控+报警系统+家居自动化+门驱动+能源电源+电脑配件+消费电子**=安防电商谱;ceneo s2306 店;sklep@eltrox.pl/finanse@eltrox.pl;+48 34 387 29 92**;**KP 金锚(krs 档全谱):**Zbigniew Dąbrowski(zarząd=董事会/Dyrektor naczelny=CEO 谱,D&B 记「President of the Board of Directors」full=Zbigniew Feliks Dąbrowski P0)+Wiktor Dąbrowski(wspólnik=股东参与人+Barbara Otolińska(wspólnik 股东)+Przemysław Piotrowski(prokura=授权代理人)**=Dąbrowski 家族全谱+代理谱**;**谱位=琴斯托霍瓦 23 年安防电商+电子电信批发(登档)=24 口 PoE 对监控/报警供电正行=批 9 波谱对口金矿**;排噪:krs-online 同厅档「Eltrox.pl Dąbrowski Z.」Białystok BHP/PPOŻ 劳保消防谱(同 NIP/KRS 号但描述 2000 创+劳保业)=同 NIP 错挂数,以 krs-pobierz/D&B 琴斯托霍瓦电子批发谱为准**。",
+   "inference": "R67/TUB 推土机深挖 批9 B 类既定十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://krs-pobierz.pl/eltrox-spolka-z-ograniczona-odpowiedzialnoscia-i0000175807",
+   "tech": "电子与电信设备批发(登档法言)+安防电商(监控/报警/家居自动化/门驱动)",
+   "hr": "23 年;Częstochowa;资本 560k zł;电商+ceneo 谱",
+   "contact_found": "**Zbigniew Feliks Dąbrowski(zarząd+CEO=President of the Board P0)+Wiktor Dąbrowski(股东)+Barbara Otolińska(股东)+Przemysław Piotrowski(prokura 代理)**",
+   "contact_pending": "sklep@eltrox.pl CSV 谱口;+48 34 387 29 92 台口",
+   "dims": {
+    "业务定位": "ELTROX sp. z o.o.(Częstochowa,2003 创 23 年):波兰安防电商+电子电信批发,登档+电商双谱",
+    "产品线与在售品牌": "监控/报警系统/家居自动化/门驱动/能源电源/电脑配件;电子电信设备批发登档",
+    "目标行业与场景": "波兰消费者+企业安防客户;ceneo 电商谱口",
+    "团队与规模": "23 年;资本 560k zł;单点;Dąbrowski 家族",
+    "决策链与对接人": "Zbigniew Dąbrowski(zarząd/CEO)+Wiktor Dąbrowski(股东)+Otolińska(股东)+Piotrowski(prokura)",
+    "技术与认证": "KRS 档全谱;prokura 授权+CEO 双轨;ceneo s2306 店",
+    "采购与供应链信号": "**监控/报警电商=24 口 PoE 摄像头供电正行直对口;sprzedaż hurtowa 批发登档谱口**",
+    "近期动态与线索": "ceneo 104 年评谱(2025 档);ecommerce 谱活;登档法言=批发业",
+    "与我方契合点": "Zbigniew CEO+Piotrowski prokura 双轨 → 24 口 PoE(监控供电正行)",
+    "风险与注意": "**电商谱微;单点 Częstochowa;krs-online 同名错挂排噪谱**"
+   },
+   "evidence": [
+    {
+     "dim": "KRS 登档",
+     "quote": "NIP 6462490527 | KRS 0000175807 | REGON 276916481 | ul. WARSZAWSKA 74, CZĘSTOCHOWA;Kapitał zakładowy 560 000,00 ZŁ;Status aktywna;Główna działalność: Sprzedaż hurtowa sprzętu elektronicznego i telekomunikacyjnego oraz części do niego;Osoby powiązane: BARBARA OTOLIŃSKA(wspolnik)+WIKTOR DĄBROWSKI(wspolnik)+ZBIGNIEW DĄBROWSKI(zarzad)+PRZEMYSŁAW PIOTROWSKI(prokura)",
+     "source": "https://krs-pobierz.pl/eltrox-spolka-z-ograniczona-odpowiedzialnoscia-i0000175807"
+    },
+    {
+     "dim": "登档谱",
+     "quote": "ELTROX SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ;WARSZAWSKA 74, 42-202 CZĘSTOCHOWA;TAX ID 6462490527;KRS 0000175807;REGON 276916481;Legal form: limited liability company",
+     "source": "https://aleo.com/int/company/eltrox-pl"
+    },
+    {
+     "dim": "KP/CEO 档",
+     "quote": "ELTROX SP Z O O;Dyrektor naczelny: Dąbrowski Zbigniew Feliks(President of the Board of Directors);NIP 6462490527;KRS 0000175807;Częstochowa, śląskie;Other Electronic Parts and Equipment Merchant Wholesalers;www.eltrox.pl",
+     "source": "https://www.dnb.com/pl-pl/baza-firm/profile-firm.eltrox_sp_z_o_o.73dff5fc245430eb355305496fe12e72.html"
+    },
+    {
+     "dim": "电商品类谱",
+     "quote": "eltrox.pl:监控+报警系统+家居自动化+门驱动+能源电源+电脑配件+消费电子;sklep@eltrox.pl;finanse@eltrox.pl;+48 34 387 29 92;ceneo 店谱",
+     "source": "https://eltrox.pl/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Dąbrowski CEO+Piotrowski prokura",
+     "push": "STC-424XGGPM-280W",
+     "angle": "CEO+代理双轨 → 24 口 PoE(监控供电正行)",
+     "question": "贵司监控品线的 24 口 PoE 交换机供货由哪位同事主责?",
+     "proof": "krs/D&B 4 源"
+    },
+    {
+     "stage": "第 2 次跟进 · sklep 电商采购线",
+     "push": "STI-288GPM/424",
+     "angle": "sklep@+ceneo 谱类",
+     "question": "贵司电商上架线的 PoE 谱口?",
+     "proof": "eltrox.pl 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Wiktor Dąbrowski+Otolińska 股东层",
+     "push": "STC-28DGGPM",
+     "angle": "股东层=资本谱",
+     "question": "贵司供应商审核周期的 Docs 谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2003 创 23 年;Częstochowa;资本 560k zł;KRS全谱(股东+CEO+prokura)",
+     "②芯片/型号": "监控/报警电商+电子电信批发;PoE 24 口=监控供电正行对口",
+     "③KP 深挖": "Zbigniew Feliks Dąbrowski(CEO=President of the Board)+Wiktor Dąbrowski(股东)+Barbara Otolińska(股东)+Przemysław Piotrowski(prokura)=4 人登档谱",
+     "④Saga 对标": "波兰安防电商 → 24 口 PoE 监控供电(正行直对口)",
+     "⑤在乎与偏好": "波语谱;电商节奏;ceneo 平台价敏;登档名=批发业",
+     "⑥SWOT": "S=23 年+KRS 登档全谱+监控正行对口+电商谱/W=微商谱量级小;krs-online 同名错挂排噪注/O=波兰安防电商潮=PoE 监控供电上新轴/T=BAT/pol 电商竞争;价敏谱"
+    },
+    "care": "- **S**:23 年+KRS 登档全谱+监控正行对口+电商谱\n- **W**:微商谱量级小;krs-online 同名错挂排噪注\n- **O**:波兰安防电商潮=PoE 监控供电上新轴\n- **T**:BAT/pol 电商竞争;价敏谱",
+    "swot": {
+     "S": "23 年+KRS 登档全谱+监控正行对口+电商谱",
+     "W": "微商谱量级小;krs-online 同名错挂排噪注",
+     "O": "波兰安防电商潮=PoE 监控供电上新轴",
+     "T": "BAT/pol 电商竞争;价敏谱"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批9 B 类既定十户",
+    "gap_proof": "https://krs-pobierz.pl/eltrox-spolka-z-ograniczona-odpowiedzialnoscia-i0000175807"
+   },
+   "unknowns": [
+    "MikroTik 谱位 eltrox.pl 在售线核",
+    "Zbigniew 直邮推 eltrox.pl 域(sklep@/finanse@)",
+    "ceneo 店评价谱节奏"
+   ],
+   "unknowns56": [
+    "MikroTik 谱位 eltrox.pl 在售线核",
+    "Zbigniew 直邮推 eltrox.pl 域(sklep@/finanse@)",
+    "ceneo 店评价谱节奏"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批9 B 类",
+   "email": "Dear Zbigniew,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a natural fit for powering CCTV cameras and alarm systems in your portfolio. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Zbigniew Feliks Dąbrowski(CEO=President P0)+Przemysław Piotrowski(prokura 代理)**; sklep@eltrox.pl/finanse@eltrox.pl(CSV 谱口); +48 34 387 29 92",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "2003 创 23 年;Częstochowa;资本 560k zł;KRS全谱(股东+CEO+prokura)",
+    "芯片与在用型号": "监控/报警电商+电子电信批发;PoE 24 口=监控供电正行对口",
+    "关键人KP": "Zbigniew Feliks Dąbrowski(CEO=President of the Board)+Wiktor Dąbrowski(股东)+Barbara Otolińska(股东)+Przemysław Piotrowski(prokura)=4 人登档谱",
+    "关注点与资质": "波兰安防电商 → 24 口 PoE 监控供电(正行直对口)",
+    "优缺点SWOT": "S=23 年+KRS 登档全谱+监控正行对口+电商谱·W=微商谱量级小;krs-online 同名错挂排噪注·O=波兰安防电商潮=PoE 监控供电上新轴·T=BAT/pol 电商竞争;价敏谱",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):波语谱;电商节奏;ceneo 平台价敏;登档名=批发业"
+   },
+   "swot_text": "- **S**:23 年+KRS 登档全谱+监控正行对口+电商谱\n- **W**:微商谱量级小;krs-online 同名错挂排噪注\n- **O**:波兰安防电商潮=PoE 监控供电上新轴\n- **T**:BAT/pol 电商竞争;价敏谱",
+   "facts": [
+    {
+     "dim": "KRS 登档",
+     "text": "NIP 6462490527 | KRS 0000175807 | REGON 276916481 | ul. WARSZAWSKA 74, CZĘSTOCHOWA;Kapitał zakładowy 560 000,00 ZŁ;Status aktywna;Główna działalność: Sprzedaż hurtowa sprzętu elektronicznego i telekomunikacyjnego oraz części do niego;Osoby powiązane: BARBARA OTOLIŃSKA(wspolnik)+WIKTOR DĄBROWSKI(wspolnik)+ZBIGNIEW DĄBROWSKI(zarzad)+PRZEMYSŁAW PIOTROWSKI(prokura)",
+     "quote": "NIP 6462490527 | KRS 0000175807 | REGON 276916481 | ul. WARSZAWSKA 74, CZĘSTOCHOWA;Kapitał zakładowy 560 000,00 ZŁ;Status aktywna;Główna działalność: Sprzedaż hurtowa sprzętu elektronicznego i telekomunikacyjnego oraz części do niego;Osoby powiązane: BARBARA OTOLIŃSKA(wspolnik)+WIKTOR DĄBROWSKI(wspolnik)+ZBIGNIEW DĄBROWSKI(zarzad)+PRZEMYSŁAW PIOTROWSKI(prokura)",
+     "url": "https://krs-pobierz.pl/eltrox-spolka-z-ograniczona-odpowiedzialnoscia-i0000175807"
+    },
+    {
+     "dim": "登档谱",
+     "text": "ELTROX SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ;WARSZAWSKA 74, 42-202 CZĘSTOCHOWA;TAX ID 6462490527;KRS 0000175807;REGON 276916481;Legal form: limited liability company",
+     "quote": "ELTROX SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ;WARSZAWSKA 74, 42-202 CZĘSTOCHOWA;TAX ID 6462490527;KRS 0000175807;REGON 276916481;Legal form: limited liability company",
+     "url": "https://aleo.com/int/company/eltrox-pl"
+    },
+    {
+     "dim": "KP/CEO 档",
+     "text": "ELTROX SP Z O O;Dyrektor naczelny: Dąbrowski Zbigniew Feliks(President of the Board of Directors);NIP 6462490527;KRS 0000175807;Częstochowa, śląskie;Other Electronic Parts and Equipment Merchant Wholesalers;www.eltrox.pl",
+     "quote": "ELTROX SP Z O O;Dyrektor naczelny: Dąbrowski Zbigniew Feliks(President of the Board of Directors);NIP 6462490527;KRS 0000175807;Częstochowa, śląskie;Other Electronic Parts and Equipment Merchant Wholesalers;www.eltrox.pl",
+     "url": "https://www.dnb.com/pl-pl/baza-firm/profile-firm.eltrox_sp_z_o_o.73dff5fc245430eb355305496fe12e72.html"
+    },
+    {
+     "dim": "电商品类谱",
+     "text": "eltrox.pl:监控+报警系统+家居自动化+门驱动+能源电源+电脑配件+消费电子;sklep@eltrox.pl;finanse@eltrox.pl;+48 34 387 29 92;ceneo 店谱",
+     "quote": "eltrox.pl:监控+报警系统+家居自动化+门驱动+能源电源+电脑配件+消费电子;sklep@eltrox.pl;finanse@eltrox.pl;+48 34 387 29 92;ceneo 店谱",
+     "url": "https://eltrox.pl/"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批9·B-274:波谱: **ELTROX SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ 深挖(krs-pobierz/aleo/D&B/eltrox.pl 四源互证)**:**KRS 0000175807;NIP 6462490527;REGON 276916481;Kapitał zakładowy 560,000 zł;2003-12-01 注册(23 年);ul. Warszawska 74,42-202 Częstochowa;Forma prawna=Spółka z O.O.;Status aktywna;Główna działalność=**sprzedaż hurtowa sprzętu elektronicznego i telekomunikacyjnego oraz części do niego=电子与电信设备批发(登档法言)**;D&B 别类=Courier/Trading 谱注**;**官网电商谱(eltrox.pl):**监控+报警系统+家居自动化+门驱动+能源电源+电脑配件+消费电子**=安防电商谱;ceneo s2306 店;sklep@eltrox.pl/finanse@eltrox.pl;+48 34 387 29 92**;**KP 金锚(krs 档全谱):**Zbigniew Dąbrowski(zarząd=董事会/Dyrektor naczelny=CEO 谱,D&B 记「President of the Board of Directors」full=Zbigniew Feliks Dąbrowski P0)+Wiktor Dąbrowski(wspólnik=股东参与人+Barbara Otolińska(wspólnik 股东)+Przemysław Piotrowski(prokura=授权代理人)**=Dąbrowski 家族全谱+代理谱**;**谱位=琴斯托霍瓦 23 年安防电商+电子电信批发(登档)=24 口 PoE 对监控/报警供电正行=批 9 波谱对口金矿**;排噪:krs-online 同厅档「Eltrox.pl Dąbrowski Z.」Białystok BHP/PPOŻ 劳保消防谱(同 NIP/KRS 号但描述 2000 创+劳保业)=同 NIP 错挂数,以 krs-pobierz/D&B 琴斯托霍瓦电子批发谱为准**。",
+    "inference": "R67/TUB 推土机深挖 批9 B 类既定十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-233",
+   "code": "B-233",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批9·B-233:美谱: **Tech Atlantix 深挖(zoominfo C/pic+owler+官网 四源互证)**:**总部=**15500 Voss Rd Ste 13,Sugar Land,Texas**(Greater Houston;**更正:非 Fremont CA**=zoominfo 最新档);11-50 员;Texas-based online marketplace:**CPU/显卡/主板/networking** IT 硬件在线市场(owler 档);Fremont CA 起史谱→Sugar Land 今谱(zoominfo 现档)**;**KP 金锚:**Mike Ross(Chief Executive Officer P0,LI 自称 Sales President,Santa Clara Univ)+Ethan Klein(Executive Vice President,**2025-12-01 入职新高管**;zoominfo 档;NETGEAR 合作官宣谱)+Jake West(Director,Operations,**2025-11-25 入职**)+Jorge Hernandez(Operations & Procurement Executive,**2025-09-09 入职**)+Kevin Foster(2025-08-08)+Reginald Burns(Account Manager)=**6 人谱,4 人 2025 年新聘=**扩队谱(公司扩张直证)**;**Edward Walker(Sugar Land TX,34+ 年 SCIT)=**Lam Research 2021-12~2022-12 三星 SSD 供应项目谱**(LI 单源谱注)**;**营收 $14M 估(zoominfo 单窗注);**谱位=IT 硬件在线市场+新聘 4 高管扩队=24 口 PoE 对 networking 商品线上新轴谱口=批 9 美系电商谱;排噪:B-536/B-526 同名录谱非本户(库注)。",
+   "inference": "R67/TUB 推土机深挖 批9 B 类既定十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.owler.com/company/techatlantix",
+   "tech": "IT 硬件在线市场(CPU/显卡/主板/networking);Sugar Land TX;扩队谱",
+   "hr": "11-50 员;$14M 估(单窗);4 高管 2025 新聘=扩张信号",
+   "contact_found": "**Mike Ross(CEO P0)+Ethan Klein(EVP 2025-12 新聘)+Jake West(Dir Ops 2025-11)+Jorge Hernandez(Ops&Procurement 2025-09)+Kevin Foster(2025-08)+Reginald Burns(AM)+Edward Walker(34 年,Lam Research 三星 SSD 谱)**",
+   "contact_pending": "具名直邮需推 techatlantix.com 域档;Sugar Land 台口谱口",
+   "dims": {
+    "业务定位": "Tech Atlantix(Sugar Land TX,IT 硬件在线市场):CPU/显卡/主板/networking 电商扩队谱",
+    "产品线与在售品牌": "online marketplace:CPU/GPU/motherboards/networking;11-50 员;Greater Houston",
+    "目标行业与场景": "美国中小企业/个体/集成商电商客户",
+    "团队与规模": "$14M 估;4 高管 2025 新聘=扩张;Sugar Land 总部",
+    "决策链与对接人": "Ross(CEO)+Klein(EVP 新)+West(Ops)+Hernandez(Procurement)+Foster+Burns+Walker(SCIT Lam 谱)",
+    "技术与认证": "NETGEAR 合作官宣谱(Klein);marketspace 节奏",
+    "采购与供应链信号": "**networking 商品线=24 口 PoE 上新轴;Procurement Executive 新聘谱=直口;Lam Research 谱=大企业项目经验谱**",
+    "近期动态与线索": "Klein 2025-12+West 2025-11+Hernandez 2025-09+Foster 2025-08 四连聘=扩队活信号",
+    "与我方契合点": "Ross CEO+Hernandez Procurement 双轨 → 24 口 PoE(networking 商品线上新轴)",
+    "风险与注意": "**单窗估;电商价敏;高管新聘=人脉建设期谱注;Li 单源谱(Walker)注**"
+   },
+   "evidence": [
+    {
+     "dim": "谱锚档",
+     "quote": "Tech Atlantix CEO: Mike Ross Chief Executive Officer;Ethan Klein Executive Vice President;Reginald Burns Account Manager;11-50 employees;Operations & Procurement Executive;United States, Texas, Sugar Land;email/direct 谱口",
+     "source": "https://www.zoominfo.com/pic/tech-atlantix/1340571212"
+    },
+    {
+     "dim": "HQ/新聘档",
+     "quote": "Headquarters: 15500 Voss Rd Ste 13, Sugar Land, Texas;Tech Atlantix is expanding and recently hired new employees: Ethan Klein Executive Vice President Joined Dec 1, 2025;Jake West Director, Operations Joined Nov 25, 2025;Jorge Hernandez Operations & Procurement Executive Joined Sep 9, 2025;Kevin Foster Joined Aug 8, 2025",
+     "source": "https://www.zoominfo.com/c/tech-atlantix/1340571212"
+    },
+    {
+     "dim": "谱性档",
+     "quote": "Texas-based online marketplace that sells products such as CPU processors, video cards, motherboards, and networking for individuals;Sugar Land Texas Greater Houston;Private;Technology Hardware & Equipment;Computers & Peripherals",
+     "source": "https://www.owler.com/company/techatlantix"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Ross CEO+Hernandez Procurement 双轨",
+     "push": "STC-424XGGPM-280W",
+     "angle": "CEO+Ops&Procurement Executive → 24 口 PoE(networking 商品线)",
+     "question": "贵司 networking 商品线的 24 口 PoE 交换机集购由哪位同事主责?",
+     "proof": "zoominfo/owler 3 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Klein EVP+West Ops",
+     "push": "STI-288GPM/424",
+     "angle": "新聘高管双轨=人脉建设窗口",
+     "question": "贵司上架线的 PoE 谱口?",
+     "proof": "zoominfo 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Walker SCIT 谱",
+     "push": "STC-28DGGPM",
+     "angle": "Lam Research 谱=大企业项目背书",
+     "question": "贵司大企业项目的供应商准入谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Sugar Land TX(现档;Fremont CA 起史谱);online marketplace;扩队谱",
+     "②芯片/型号": "CPU/显卡/主板/networking 电商;PoE 24 口=networking 线新品上新轴",
+     "③KP 深挖": "Mike Ross(CEO)+Ethan Klein(EVP 2025-12)+Jake West(Ops 2025-11)+Jorge Hernandez(Procurement 2025-09)+Kevin Foster+Reginald Burns+Edward Walker(34 年 SCIT,Lam Research 谱)=7 人谱",
+     "④Saga 对标": "美国 IT 硬件市场扩队 → 24 口 PoE(networking 商品线上新轴)",
+     "⑤在乎与偏好": "英谱;电商节奏;新聘人脉建设窗口;NETGEAR/大牌背谱",
+     "⑥SWOT": "S=扩队 4 高管+networking 线上新轴+Procurement 直口/W=单窗估;价敏;人脉建设期/O=美国 SMB 电商潮=PoE 网络件上新轴/T=达索/Newegg 电商竞争;高管新聘融合谱"
+    },
+    "care": "- **S**:扩队 4 高管+networking 线上新轴+Procurement 直口\n- **W**:单窗估;价敏;人脉建设期\n- **O**:美国 SMB 电商潮=PoE 网络件上新轴\n- **T**:达索/Newegg 电商竞争;高管新聘融合谱",
+    "swot": {
+     "S": "扩队 4 高管+networking 线上新轴+Procurement 直口",
+     "W": "单窗估;价敏;人脉建设期",
+     "O": "美国 SMB 电商潮=PoE 网络件上新轴",
+     "T": "达索/Newegg 电商竞争;高管新聘融合谱"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批9 B 类既定十户",
+    "gap_proof": "https://www.zoominfo.com/pic/tech-atlantix/1340571212"
+   },
+   "unknowns": [
+    "MikroTik 谱位 techatlantix.com 在售线核",
+    "Ross/Hernandez 直邮推档",
+    "Walker(Lam Research 谱)项目背书细节(LI 单源注)"
+   ],
+   "unknowns56": [
+    "MikroTik 谱位 techatlantix.com 在售线核",
+    "Ross/Hernandez 直邮推档",
+    "Walker(Lam Research 谱)项目背书细节(LI 单源注)"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批9 B 类",
+   "email": "Dear Mike,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a value unit for your networking marketplace line. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request. Congrats on the recent team expansion.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Mike Ross(CEO P0)+Jorge Hernandez(Ops&Procurement 2025-09 直口)+Ethan Klein(EVP 2025-12)+Jake West(Dir Ops)**; 电口待补(techatlantix.com 域具名推)",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "Sugar Land TX(现档;Fremont CA 起史谱);online marketplace;扩队谱",
+    "芯片与在用型号": "CPU/显卡/主板/networking 电商;PoE 24 口=networking 线新品上新轴",
+    "关键人KP": "Mike Ross(CEO)+Ethan Klein(EVP 2025-12)+Jake West(Ops 2025-11)+Jorge Hernandez(Procurement 2025-09)+Kevin Foster+Reginald Burns+Edward Walker(34 年 SCIT,Lam Research 谱)=7 人谱",
+    "关注点与资质": "美国 IT 硬件市场扩队 → 24 口 PoE(networking 商品线上新轴)",
+    "优缺点SWOT": "S=扩队 4 高管+networking 线上新轴+Procurement 直口·W=单窗估;价敏;人脉建设期·O=美国 SMB 电商潮=PoE 网络件上新轴·T=达索/Newegg 电商竞争;高管新聘融合谱",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):英谱;电商节奏;新聘人脉建设窗口;NETGEAR/大牌背谱"
+   },
+   "swot_text": "- **S**:扩队 4 高管+networking 线上新轴+Procurement 直口\n- **W**:单窗估;价敏;人脉建设期\n- **O**:美国 SMB 电商潮=PoE 网络件上新轴\n- **T**:达索/Newegg 电商竞争;高管新聘融合谱",
+   "facts": [
+    {
+     "dim": "谱锚档",
+     "text": "Tech Atlantix CEO: Mike Ross Chief Executive Officer;Ethan Klein Executive Vice President;Reginald Burns Account Manager;11-50 employees;Operations & Procurement Executive;United States, Texas, Sugar Land;email/direct 谱口",
+     "quote": "Tech Atlantix CEO: Mike Ross Chief Executive Officer;Ethan Klein Executive Vice President;Reginald Burns Account Manager;11-50 employees;Operations & Procurement Executive;United States, Texas, Sugar Land;email/direct 谱口",
+     "url": "https://www.zoominfo.com/pic/tech-atlantix/1340571212"
+    },
+    {
+     "dim": "HQ/新聘档",
+     "text": "Headquarters: 15500 Voss Rd Ste 13, Sugar Land, Texas;Tech Atlantix is expanding and recently hired new employees: Ethan Klein Executive Vice President Joined Dec 1, 2025;Jake West Director, Operations Joined Nov 25, 2025;Jorge Hernandez Operations & Procurement Executive Joined Sep 9, 2025;Kevin Foster Joined Aug 8, 2025",
+     "quote": "Headquarters: 15500 Voss Rd Ste 13, Sugar Land, Texas;Tech Atlantix is expanding and recently hired new employees: Ethan Klein Executive Vice President Joined Dec 1, 2025;Jake West Director, Operations Joined Nov 25, 2025;Jorge Hernandez Operations & Procurement Executive Joined Sep 9, 2025;Kevin Foster Joined Aug 8, 2025",
+     "url": "https://www.zoominfo.com/c/tech-atlantix/1340571212"
+    },
+    {
+     "dim": "谱性档",
+     "text": "Texas-based online marketplace that sells products such as CPU processors, video cards, motherboards, and networking for individuals;Sugar Land Texas Greater Houston;Private;Technology Hardware & Equipment;Computers & Peripherals",
+     "quote": "Texas-based online marketplace that sells products such as CPU processors, video cards, motherboards, and networking for individuals;Sugar Land Texas Greater Houston;Private;Technology Hardware & Equipment;Computers & Peripherals",
+     "url": "https://www.owler.com/company/techatlantix"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批9·B-233:美谱: **Tech Atlantix 深挖(zoominfo C/pic+owler+官网 四源互证)**:**总部=**15500 Voss Rd Ste 13,Sugar Land,Texas**(Greater Houston;**更正:非 Fremont CA**=zoominfo 最新档);11-50 员;Texas-based online marketplace:**CPU/显卡/主板/networking** IT 硬件在线市场(owler 档);Fremont CA 起史谱→Sugar Land 今谱(zoominfo 现档)**;**KP 金锚:**Mike Ross(Chief Executive Officer P0,LI 自称 Sales President,Santa Clara Univ)+Ethan Klein(Executive Vice President,**2025-12-01 入职新高管**;zoominfo 档;NETGEAR 合作官宣谱)+Jake West(Director,Operations,**2025-11-25 入职**)+Jorge Hernandez(Operations & Procurement Executive,**2025-09-09 入职**)+Kevin Foster(2025-08-08)+Reginald Burns(Account Manager)=**6 人谱,4 人 2025 年新聘=**扩队谱(公司扩张直证)**;**Edward Walker(Sugar Land TX,34+ 年 SCIT)=**Lam Research 2021-12~2022-12 三星 SSD 供应项目谱**(LI 单源谱注)**;**营收 $14M 估(zoominfo 单窗注);**谱位=IT 硬件在线市场+新聘 4 高管扩队=24 口 PoE 对 networking 商品线上新轴谱口=批 9 美系电商谱;排噪:B-536/B-526 同名录谱非本户(库注)。",
+    "inference": "R67/TUB 推土机深挖 批9 B 类既定十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-533",
+   "code": "B-533",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批9·B-533:英谱: **MILLBECK COMMUNICATIONS LIMITED 深挖(companycheck CH 档/endole PSC 档/youcontrol+routerstore.com 渠道档 五源互证)**:**Company No 04501248,2002-08-01 注册(24 年);Private limited with Share Capital;SIC 61900(Other telecommunications activities);6 Arena Park Tarn Lane,Leeds LS17 9BF(注册办;correspondence Archway House 30 High Street Wetherby LS22 6LT 档);Active-Accounts Filed(至 2025-05-29);3 directors/4 shareholders/1 PSC**;**业务=**The Router Store 渠道:Official Teltonika Networks UK **Diamond Distributor 2026 连任**(=Teltonika 英国最高伙伴层级谱!)+蜂窝 IoT/M2M 廿年(2002 创，蜂窝通信/IOT 分销;millbeckcomms.co.uk;2002 Paul Finder 创 tracxn 档)**;**KP 家族全谱:**Paul Graham Finder**(b. Aug 1960;**2002-08-01 创任 24 年=创始人**;PSC=**75-100% 持股唯一人**( notified 2016-04-06;2024-10-29 档变更**Millbeck Group Limited 接任 PSC+个人三 PSC 停任**=集团化重组谱 P0)+**Daniel Finder**(b. May 1991;**2024-11-07 新任 Director**=二代;routerstore 记 Managing Director MD P0 级)+**Benjamin Finder**(b. Feb 1994;**2024-11-07 新任 Director**=二代)+**Michelle Alana Finder**(Secretary 2002-2012,66 Millbeck Green Collingham Wetherby 谱=家族史)**=Finder 父子兄弟三人谱+集团化重组**;**谱位=**Teltonika 英国 Diamond 最高级分销**=蜂窝 IoT/M2M/路由分销商=我方 24 口 PoE 白牌/网状谱位对口=批 9 最大对口钩(Teltonika 与 MikroTik 皆拉脱维亚=波罗的海谱带;Diamond 级谱注)**;排噪:Millbeck Developments(03750454)/Millbeck Innovations(08956445)=同名别司。",
+   "inference": "R67/TUB 推土机深挖 批9 B 类既定十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "http://companycheck.co.uk/company/04501248/MILLBECK-COMMUNICATIONS-LIMITED",
+   "tech": "Teltonika UK Diamond Distributor(2026 连任=最高级);蜂窝 IoT/M2M/路由分销 24 年;The Router Store 渠道",
+   "hr": "24 年;Leeds;SIC 61900;3 董事+4 股东+1 PSC 谱",
+   "contact_found": "**Paul Graham Finder(创始 Director 24 年+PSC 75-100% P0)+Daniel Finder(Director 2024-11 任=二代,外部谱 MD)+Benjamin Finder(Director 2024-11 任=二代)**",
+   "contact_pending": "具名直邮需推 millbeckcomms.co.uk/routerstore.com 域档;Wetherby 台口谱口",
+   "dims": {
+    "业务定位": "Millbeck Communications Ltd(Leeds,2002 创 24 年,Finder 家族):Teltonika 英国 Diamond 最高级蜂窝 IoT 分销",
+    "产品线与在售品牌": "Teltonika UK Diamond Distributor 2026 连任;蜂窝 IoT/M2M/路由/网络分销;The Router Store 渠道",
+    "目标行业与场景": "英国 IoT/M2M 集成商/VAR;工地/农业/蜂窝部署谱",
+    "团队与规模": "24 年;3 董事+4 股东;Finder 父子辈",
+    "决策链与对接人": "Paul Finder(创始 24 年+PSC 75-100%)+Daniel Finder(Dir 2024-11=MD 外部谱)+Benjamin Finder(Dir 2024-11)+Michelle A. Finder(家族史)",
+    "技术与认证": "2024-10-29 Millbeck Group Ltd 接任 PSC 集团化重组谱;CH active-accounts 档",
+    "采购与供应链信号": "**Teltonika Diamond 最高级=与 MikroTik 同波罗的海钉带=白牌辅位谱位(PoE 无关敌对线);蜂窝 IoT 谱对 24 口 PoE 部署供电对口**",
+    "近期动态与线索": "Diamond 2026 连任;2024-11 父子二代双双新董事;集团化 PSC 重组 2024-10",
+    "与我方契合点": "Paul Finder 创始+Daniel Finder MD 父子双轨 → 24 口 PoE(IoT/蜂窝部署供电)",
+    "风险与注意": "**Diamond 级谱=渠道层级钉带注(切辅位非竞争);集团重组期谱注;millbeckcomms.co.uk vs routerstore.com 双域谱注**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "MILLBECK COMMUNICATIONS LIMITED;Company No 04501248;Incorporated 01 August 2002;6 Arena Park Tarn Lane, Leeds, LS17 9BF;SIC 61900 Other telecommunications activities;Active - Accounts Filed;3 Directors;Private limited with Share Capital;accounts available to 29 May 2025",
+     "source": "http://companycheck.co.uk/company/04501248/MILLBECK-COMMUNICATIONS-LIMITED"
+    },
+    {
+     "dim": "董事/PSC 档",
+     "quote": "Paul Graham Finder(b. Aug 1960, appointed 01 Aug 2002)+Daniel Finder(b. May 1991, appointed 07 Nov 2024)+Benjamin Finder(b. Feb 1994, appointed 07 Nov 2024)=3 现任董事;前 Michelle Alana Finder(secretary 2002-2012);PSC: Millbeck Group Limited(2024-10-29 接任)+Paul Finder 75-100%(2024-10-29 change;Daniel/Benjamin/Paul 个人 PSC 停任 2024-10-29)",
+     "source": "https://open.endole.co.uk/insight/company/04501248-millbeck-communications-limited"
+    },
+    {
+     "dim": "PSC/办公档",
+     "quote": "Archway House 30 High Street, Wetherby LS22 6LT(correspondence);Paul Finder PSC 75 To 100 Percent notified 06/04/2016;ownership of shares",
+     "source": "https://youcontrol.com.ua/en/catalog/gb-card/04501248/"
+    },
+    {
+     "dim": "渠道谱",
+     "quote": "The Router Store: Official Teltonika Networks UK Diamond Distributor 2026(连任=最高伙伴层级);Daniel Finder=Managing Director;蜂窝 IoT/M2M 廿年(2002 创);millbeckcomms.co.uk",
+     "source": "https://www.routerstore.com/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Paul Finder 创始+Daniel MD 双轨",
+     "push": "STC-424XGGPM-280W",
+     "angle": "创始+MD → 24 口 PoE(IoT/蜂窝部署供电,Teltonika 谱带)",
+     "question": "贵司蜂窝 IoT/M2M 部署线的 24 口 PoE 交换机新品引入由哪位同事主责?",
+     "proof": "CH/routerstore 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Benjamin Finder 董事",
+     "push": "STI-288GPM/424",
+     "angle": "二代谱=新血线",
+     "question": "贵司 The Router Store 上架线的 PoE 谱口?",
+     "proof": "CH 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Millbeck Group 集团层",
+     "push": "STC-28DGGPM",
+     "angle": "2024 重组集团层=集采链",
+     "question": "贵司集团内 ITS/安防线的件谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2002 创 24 年;Leeds;SIC 61900;Finder 家族创始+二代",
+     "②芯片/型号": "蜂窝 IoT/M2M/路由分销(Teltonika Diamond);PoE 24 口=IoT/蜂窝部署供电件",
+     "③KP 深挖": "Paul Graham Finder(创始 24 年+PSC 75-100% P0)+Daniel Finder(Dir 2024-11,MD 外部谱)+Benjamin Finder(Dir 2024-11)+Michelle A.(史)=家族全谱",
+     "④Saga 对标": "Teltonika 最高级分销 → 24 口 PoE 白牌辅位(IoT/蜂窝部署供电,谱带同一拉脱维亚钉)",
+     "⑤在乎与偏好": "英谱;Diamond 渠道层级;Teltonika/MikroTik 谱带既有性;集团重组期",
+     "⑥SWOT": "S=Teltonika UK Diamond 2026 连任+24 年+Finder 家族+波罗的海谱带/W=渠道层级钉带注(切辅位);重组期决策谱注/O=蜂窝 IoT/农村连接潮=PoE 供电正对口/T=Teltonika 内部谱注;Diamond 谱位责任律"
+    },
+    "care": "- **S**:Teltonika UK Diamond 2026 连任+24 年+Finder 家族+波罗的海谱带\n- **W**:渠道层级钉带注(切辅位);重组期决策谱注\n- **O**:蜂窝 IoT/农村连接潮=PoE 供电正对口\n- **T**:Teltonika 内部谱注;Diamond 谱位责任律",
+    "swot": {
+     "S": "Teltonika UK Diamond 2026 连任+24 年+Finder 家族+波罗的海谱带",
+     "W": "渠道层级钉带注(切辅位);重组期决策谱注",
+     "O": "蜂窝 IoT/农村连接潮=PoE 供电正对口",
+     "T": "Teltonika 内部谱注;Diamond 谱位责任律"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批9 B 类既定十户",
+    "gap_proof": "http://companycheck.co.uk/company/04501248/MILLBECK-COMMUNICATIONS-LIMITED"
+   },
+   "unknowns": [
+    "MikroTik 谱位(谱带同波罗的海=竞合敏)需 routerstore.com 在售线核",
+    "Paul/Daniel 直邮推 millbeckcomms.co.uk/routerstore.com 域档",
+    "Millbeck Group Ltd PSC 重组后决策链(2024 档)"
+   ],
+   "unknowns56": [
+    "MikroTik 谱位(谱带同波罗的海=竞合敏)需 routerstore.com 在售线核",
+    "Paul/Daniel 直邮推 millbeckcomms.co.uk/routerstore.com 域档",
+    "Millbeck Group Ltd PSC 重组后决策链(2024 档)"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批9 B 类",
+   "email": "Dear Paul and Daniel,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a complement for your cellular IoT/M2M deployments and The Router Store line. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Paul Graham Finder(创始 Director+PSC 75-100% P0)+Daniel Finder(Director=MD 外部谱)+Benjamin Finder(Director)**; 电口待补(millbeckcomms.co.uk/routerstore.com 域具名推)",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "2002 创 24 年;Leeds;SIC 61900;Finder 家族创始+二代",
+    "芯片与在用型号": "蜂窝 IoT/M2M/路由分销(Teltonika Diamond);PoE 24 口=IoT/蜂窝部署供电件",
+    "关键人KP": "Paul Graham Finder(创始 24 年+PSC 75-100% P0)+Daniel Finder(Dir 2024-11,MD 外部谱)+Benjamin Finder(Dir 2024-11)+Michelle A.(史)=家族全谱",
+    "关注点与资质": "Teltonika 最高级分销 → 24 口 PoE 白牌辅位(IoT/蜂窝部署供电,谱带同一拉脱维亚钉)",
+    "优缺点SWOT": "S=Teltonika UK Diamond 2026 连任+24 年+Finder 家族+波罗的海谱带·W=渠道层级钉带注(切辅位);重组期决策谱注·O=蜂窝 IoT/农村连接潮=PoE 供电正对口·T=Teltonika 内部谱注;Diamond 谱位责任律",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):英谱;Diamond 渠道层级;Teltonika/MikroTik 谱带既有性;集团重组期"
+   },
+   "swot_text": "- **S**:Teltonika UK Diamond 2026 连任+24 年+Finder 家族+波罗的海谱带\n- **W**:渠道层级钉带注(切辅位);重组期决策谱注\n- **O**:蜂窝 IoT/农村连接潮=PoE 供电正对口\n- **T**:Teltonika 内部谱注;Diamond 谱位责任律",
+   "facts": [
+    {
+     "dim": "法体登册",
+     "text": "MILLBECK COMMUNICATIONS LIMITED;Company No 04501248;Incorporated 01 August 2002;6 Arena Park Tarn Lane, Leeds, LS17 9BF;SIC 61900 Other telecommunications activities;Active - Accounts Filed;3 Directors;Private limited with Share Capital;accounts available to 29 May 2025",
+     "quote": "MILLBECK COMMUNICATIONS LIMITED;Company No 04501248;Incorporated 01 August 2002;6 Arena Park Tarn Lane, Leeds, LS17 9BF;SIC 61900 Other telecommunications activities;Active - Accounts Filed;3 Directors;Private limited with Share Capital;accounts available to 29 May 2025",
+     "url": "http://companycheck.co.uk/company/04501248/MILLBECK-COMMUNICATIONS-LIMITED"
+    },
+    {
+     "dim": "董事/PSC 档",
+     "text": "Paul Graham Finder(b. Aug 1960, appointed 01 Aug 2002)+Daniel Finder(b. May 1991, appointed 07 Nov 2024)+Benjamin Finder(b. Feb 1994, appointed 07 Nov 2024)=3 现任董事;前 Michelle Alana Finder(secretary 2002-2012);PSC: Millbeck Group Limited(2024-10-29 接任)+Paul Finder 75-100%(2024-10-29 change;Daniel/Benjamin/Paul 个人 PSC 停任 2024-10-29)",
+     "quote": "Paul Graham Finder(b. Aug 1960, appointed 01 Aug 2002)+Daniel Finder(b. May 1991, appointed 07 Nov 2024)+Benjamin Finder(b. Feb 1994, appointed 07 Nov 2024)=3 现任董事;前 Michelle Alana Finder(secretary 2002-2012);PSC: Millbeck Group Limited(2024-10-29 接任)+Paul Finder 75-100%(2024-10-29 change;Daniel/Benjamin/Paul 个人 PSC 停任 2024-10-29)",
+     "url": "https://open.endole.co.uk/insight/company/04501248-millbeck-communications-limited"
+    },
+    {
+     "dim": "PSC/办公档",
+     "text": "Archway House 30 High Street, Wetherby LS22 6LT(correspondence);Paul Finder PSC 75 To 100 Percent notified 06/04/2016;ownership of shares",
+     "quote": "Archway House 30 High Street, Wetherby LS22 6LT(correspondence);Paul Finder PSC 75 To 100 Percent notified 06/04/2016;ownership of shares",
+     "url": "https://youcontrol.com.ua/en/catalog/gb-card/04501248/"
+    },
+    {
+     "dim": "渠道谱",
+     "text": "The Router Store: Official Teltonika Networks UK Diamond Distributor 2026(连任=最高伙伴层级);Daniel Finder=Managing Director;蜂窝 IoT/M2M 廿年(2002 创);millbeckcomms.co.uk",
+     "quote": "The Router Store: Official Teltonika Networks UK Diamond Distributor 2026(连任=最高伙伴层级);Daniel Finder=Managing Director;蜂窝 IoT/M2M 廿年(2002 创);millbeckcomms.co.uk",
+     "url": "https://www.routerstore.com/"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批9·B-533:英谱: **MILLBECK COMMUNICATIONS LIMITED 深挖(companycheck CH 档/endole PSC 档/youcontrol+routerstore.com 渠道档 五源互证)**:**Company No 04501248,2002-08-01 注册(24 年);Private limited with Share Capital;SIC 61900(Other telecommunications activities);6 Arena Park Tarn Lane,Leeds LS17 9BF(注册办;correspondence Archway House 30 High Street Wetherby LS22 6LT 档);Active-Accounts Filed(至 2025-05-29);3 directors/4 shareholders/1 PSC**;**业务=**The Router Store 渠道:Official Teltonika Networks UK **Diamond Distributor 2026 连任**(=Teltonika 英国最高伙伴层级谱!)+蜂窝 IoT/M2M 廿年(2002 创，蜂窝通信/IOT 分销;millbeckcomms.co.uk;2002 Paul Finder 创 tracxn 档)**;**KP 家族全谱:**Paul Graham Finder**(b. Aug 1960;**2002-08-01 创任 24 年=创始人**;PSC=**75-100% 持股唯一人**( notified 2016-04-06;2024-10-29 档变更**Millbeck Group Limited 接任 PSC+个人三 PSC 停任**=集团化重组谱 P0)+**Daniel Finder**(b. May 1991;**2024-11-07 新任 Director**=二代;routerstore 记 Managing Director MD P0 级)+**Benjamin Finder**(b. Feb 1994;**2024-11-07 新任 Director**=二代)+**Michelle Alana Finder**(Secretary 2002-2012,66 Millbeck Green Collingham Wetherby 谱=家族史)**=Finder 父子兄弟三人谱+集团化重组**;**谱位=**Teltonika 英国 Diamond 最高级分销**=蜂窝 IoT/M2M/路由分销商=我方 24 口 PoE 白牌/网状谱位对口=批 9 最大对口钩(Teltonika 与 MikroTik 皆拉脱维亚=波罗的海谱带;Diamond 级谱注)**;排噪:Millbeck Developments(03750454)/Millbeck Innovations(08956445)=同名别司。",
+    "inference": "R67/TUB 推土机深挖 批9 B 类既定十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-039",
+   "code": "B-039",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批9·B-039:以谱: **Voicenter LTD 深挖(voicenter.co.il 博客署名档+geektime 专访+gen-ai-for-all 人事档+cbinsights 档 四源互证)**:**2007 创(19 年);5 Hahilazon St,Ramat Gan,Israel;云 VoIP/PBX/呼叫中心平台+CRM/ERP 集成;**GreekVoice/VoipWall 自研双轨谱**;持谱=**以色列通信部三张牌照:מפ\"א 通用运营商+MVNO 虚拟移动运营商+国际许可证=**新虚拟运营商谱**;2019 乌克兰 50 人研发中心谱;营销+自研双轨**. **KP 双祖家族金锚:**Nitzan Gutman(ניצן גוטמן=**מייסד ומנכ״ל=Founder+CEO** 2007 起 19 年 P0;voicenter.co.il 博客署名「חלוץ בתחום התקשורת והטלפוניה בענן בישראל - אוביזר ב-AI, טלפוניית VoIP ואוטומציה」=以色列云通信先锋+AI Voice+VoIP+自动化;ORIGAMI CRM 博客由其署名;geektime 2025-12-23 Voice AI 专访 P0)+**Shlomi Gutman(שלומי גוטמן=共同创始人+CTO**=兄弟双创始谱)+**Eran Amergi(ערן אמרג'י=营销销售 VP**;HGC 集团 Gil Haim 谱)+**Golan Ashtan(גולן אשטן=前 CEO 任内史谱)**=4-5 人谱**;**谱位=以色列云 PBX/呼叫中心+AI Voice 领航+三张运营商牌照=ST 谱对口:云 PBX/CDR 集成 PoE 接入口;乌克兰研发中心=研谱口=批 9 以谱金矿**;排噪:Voipenter LTD(C-503 不同级)=同司别档谱注(库注)。",
+   "inference": "R67/TUB 推土机深挖 批9 B 类既定十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.cbinsights.com/company/voicenter",
+   "tech": "云 VoIP/PBX/呼叫中心+CRM/ERP 集成+Voice AI;通信部三牌照(מפ\"א+MVNO+国际)",
+   "hr": "19 年(2007 创);50+ 员工(乌克兰研发 50 谱);Ramat Gan",
+   "contact_found": "**Nitzan Gutman(Founder+CEO 19 年 P0)+Shlomi Gutman(共同创始人+CTO)+Eran Amergi(营销销售 VP)+Golan Ashtan(前 CEO 史)**",
+   "contact_pending": "具名直邮需推 voicenter.co.il/voicenter.com 域档;Hebrew+English 双语谱",
+   "dims": {
+    "业务定位": "Voicenter LTD(Ramat Gan,2007 创 19 年):以色列云 PBX/呼叫中心+Voice AI 领航,三牌照新虚拟运营商",
+    "产品线与在售品牌": "云 VoIP/PBX/呼叫中心平台;ORIGAMI CRM 集成;Voice AI 谱;ICT 集成;乌克兰研谱",
+    "目标行业与场景": "以色列企业呼叫中心/UC;MVNO 运营谱",
+    "团队与规模": "50+ 员工;19 年;双轨营销+自研",
+    "决策链与对接人": "Nitzan Gutman(Founder+CEO)+Shlomi Gutman(co-founder CTO)+Eran Amergi(VP Sales&Marketing)+Golan Ashtan(史)",
+    "技术与认证": "通信部三牌照(מפ\"א+MVNO+国际);geektime Voice AI 领导者谱;cbinsights",
+    "采购与供应链信号": "**云 PBX+呼叫中心=24 口 PoE 对电话 AP/门市/呼叫中心布设谱口;MVNO 运营=边缘基建谱**",
+    "近期动态与线索": "geektime 2025-12-23 Voice AI 专访;ORIGAMI CRM 谱署名;gen-ai-for-all 基金会演讲谱",
+    "与我方契合点": "Nitzan CEO+Amergi VP 双轨 → 24 口 PoE(呼叫中心/VoIP 布设)",
+    "风险与注意": "**以语谱;三张牌照谱=律规敏;双创始治理谱注**"
+   },
+   "evidence": [
+    {
+     "dim": "谱锚档",
+     "quote": "ניצן גוטמן(Nitzan Gutman), מייסד ומנכ״ל Voicenter=Founder+CEO;gen-ai-for-all 会议演讲人选谱",
+     "source": "https://gen-ai-for-all.events.co.il/people/237-%D7%A0%D7%99%D7%A6%D7%9F-%D7%92%D7%95%D7%98%D7%9E%D7%9F"
+    },
+    {
+     "dim": "创史/姓名档",
+     "quote": "ניצן גוטמן | מנכ״ל מייסד-שותף;חלוץ בתחום התקשורת והטלפוניה בענן בישראל;מאז 2007 מוביל את החברה(2007 起领导=19 年);AI, טלפוניית VoIP ואוטומציה;פרויקטים עטורי פרסים(得奖项目谱);ORIGAMI CRM 谱",
+     "source": "https://www.voicenter.co.il/%D7%91%D7%9C%D7%95%D7%92/ORIGAMI-CRM"
+    },
+    {
+     "dim": "Voice AI 档",
+     "quote": "לא רק שירות לקוחות: מה אנשי IT צריכים לדעת על Voice AI?;דיברנו עם ניצן גוטמן, מנכ״ל Voicenter, שמספקת פתרונות תקשורת מבוססי AI=提供 AI 通信方案;הטכנולוגיה פורחת בשנה האחרונה(Voice AI 旗舰年 2025-12-23)",
+     "source": "https://www.geektime.co.il/voice-ai-for-it-voicenter/"
+    },
+    {
+     "dim": "谱性档",
+     "quote": "Voicenter: 2007 创(19 年);Ramat Gan Hahilazon 5;云 VoIP/PBX/呼叫中心;CRM/ERP 集成(HGC 集团 Gil Haim 谱;牌照:מפ\"א+MVNO+国际;2019 乌克兰 50 人研发中心=谱注单源)",
+     "source": "https://www.cbinsights.com/company/voicenter"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Nitzan CEO+Amergi VP 双轨",
+     "push": "STC-424XGGPM-280W",
+     "angle": "CEO+VP 销售 → 24 口 PoE(呼叫中心/VoIP 布设)",
+     "question": "贵司呼叫中心/VoIP 部署线的 24 口 PoE 交换机集购由哪位同事主责?",
+     "proof": "cbinsights/geektime 4 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Shlomi Gutman CTO",
+     "push": "STI-288GPM/424",
+     "angle": "共同创始人+CTO=技术谱",
+     "question": "贵司 Voice AI/云平台的网络件谱口?",
+     "proof": "谱"
+    },
+    {
+     "stage": "第 3 次跟进 · 乌克兰研发中心谱",
+     "push": "STC-28DGGPM",
+     "angle": "研发谱口=互部谱",
+     "question": "贵司研发线的件谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2007 创 19 年;Ramat Gan;云 PBX/呼叫中心+Voice AI 领航;三牌照",
+     "②芯片/型号": "云 VoIP/PBX+CRM 集成+Voice AI;PoE 24 口=呼叫中心/门市/VoIP 布设件",
+     "③KP 深挖": "Nitzan Gutman(Founder+CEO 19 年 P0)+Shlomi Gutman(co-founder+CTO)+Eran Amergi(VP Sales&Marketing)+Golan Ashtan(史)=4-5 人谱",
+     "④Saga 对标": "以云 PBX/呼叫中心 → 24 口 PoE(布设/边缘基建)",
+     "⑤在乎与偏好": "Hebrew+English 谱;三牌照律规敏;双创始;乌克兰研发谱",
+     "⑥SWOT": "S=19 年+三牌照+Voice AI 领跑+双创始/W=以语谱门;三牌照=律规敏;谱源部分单源注/O=云呼叫中心/AI Voice 潮=PoE 布设谱口/T=大型 UC 商竞争;机动车信谱注"
+    },
+    "care": "- **S**:19 年+三牌照+Voice AI 领跑+双创始\n- **W**:以语谱门;三牌照=律规敏;谱源部分单源注\n- **O**:云呼叫中心/AI Voice 潮=PoE 布设谱口\n- **T**:大型 UC 商竞争;机动车信谱注",
+    "swot": {
+     "S": "19 年+三牌照+Voice AI 领跑+双创始",
+     "W": "以语谱门;三牌照=律规敏;谱源部分单源注",
+     "O": "云呼叫中心/AI Voice 潮=PoE 布设谱口",
+     "T": "大型 UC 商竞争;机动车信谱注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批9 B 类既定十户",
+    "gap_proof": "https://gen-ai-for-all.events.co.il/people/237-%D7%A0%D7%99%D7%A6%D7%9F-%D7%92%D7%95%D7%98%D7%9E%D7%9F"
+   },
+   "unknowns": [
+    "MikroTik 谱位 voicenter.co.il 谱核",
+    "Nitzan/Amergi 直邮推档(voicenter.com/.co.il 双域)",
+    "三牌照适用线(国际 VoIP 谱注)"
+   ],
+   "unknowns56": [
+    "MikroTik 谱位 voicenter.co.il 谱核",
+    "Nitzan/Amergi 直邮推档(voicenter.com/.co.il 双域)",
+    "三牌照适用线(国际 VoIP 谱注)"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批9 B 类",
+   "email": "Dear Nitzan,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — sturdy infrastructure for VoIP, call-center and edge-network deployments. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Nitzan Gutman(Founder+CEO 19 年 P0)+Eran Amergi(VP Sales&Marketing)+Shlomi Gutman(共同创始人+CTO)**; 电口待补(voicenter.com/.co.il 域具名推)",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "2007 创 19 年;Ramat Gan;云 PBX/呼叫中心+Voice AI 领航;三牌照",
+    "芯片与在用型号": "云 VoIP/PBX+CRM 集成+Voice AI;PoE 24 口=呼叫中心/门市/VoIP 布设件",
+    "关键人KP": "Nitzan Gutman(Founder+CEO 19 年 P0)+Shlomi Gutman(co-founder+CTO)+Eran Amergi(VP Sales&Marketing)+Golan Ashtan(史)=4-5 人谱",
+    "关注点与资质": "以云 PBX/呼叫中心 → 24 口 PoE(布设/边缘基建)",
+    "优缺点SWOT": "S=19 年+三牌照+Voice AI 领跑+双创始·W=以语谱门;三牌照=律规敏;谱源部分单源注·O=云呼叫中心/AI Voice 潮=PoE 布设谱口·T=大型 UC 商竞争;机动车信谱注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):Hebrew+English 谱;三牌照律规敏;双创始;乌克兰研发谱"
+   },
+   "swot_text": "- **S**:19 年+三牌照+Voice AI 领跑+双创始\n- **W**:以语谱门;三牌照=律规敏;谱源部分单源注\n- **O**:云呼叫中心/AI Voice 潮=PoE 布设谱口\n- **T**:大型 UC 商竞争;机动车信谱注",
+   "facts": [
+    {
+     "dim": "谱锚档",
+     "text": "ניצן גוטמן(Nitzan Gutman), מייסד ומנכ״ל Voicenter=Founder+CEO;gen-ai-for-all 会议演讲人选谱",
+     "quote": "ניצן גוטמן(Nitzan Gutman), מייסד ומנכ״ל Voicenter=Founder+CEO;gen-ai-for-all 会议演讲人选谱",
+     "url": "https://gen-ai-for-all.events.co.il/people/237-%D7%A0%D7%99%D7%A6%D7%9F-%D7%92%D7%95%D7%98%D7%9E%D7%9F"
+    },
+    {
+     "dim": "创史/姓名档",
+     "text": "ניצן גוטמן | מנכ״ל מייסד-שותף;חלוץ בתחום התקשורת והטלפוניה בענן בישראל;מאז 2007 מוביל את החברה(2007 起领导=19 年);AI, טלפוניית VoIP ואוטומציה;פרויקטים עטורי פרסים(得奖项目谱);ORIGAMI CRM 谱",
+     "quote": "ניצן גוטמן | מנכ״ל מייסד-שותף;חלוץ בתחום התקשורת והטלפוניה בענן בישראל;מאז 2007 מוביל את החברה(2007 起领导=19 年);AI, טלפוניית VoIP ואוטומציה;פרויקטים עטורי פרסים(得奖项目谱);ORIGAMI CRM 谱",
+     "url": "https://www.voicenter.co.il/%D7%91%D7%9C%D7%95%D7%92/ORIGAMI-CRM"
+    },
+    {
+     "dim": "Voice AI 档",
+     "text": "לא רק שירות לקוחות: מה אנשי IT צריכים לדעת על Voice AI?;דיברנו עם ניצן גוטמן, מנכ״ל Voicenter, שמספקת פתרונות תקשורת מבוססי AI=提供 AI 通信方案;הטכנולוגיה פורחת בשנה האחרונה(Voice AI 旗舰年 2025-12-23)",
+     "quote": "לא רק שירות לקוחות: מה אנשי IT צריכים לדעת על Voice AI?;דיברנו עם ניצן גוטמן, מנכ״ל Voicenter, שמספקת פתרונות תקשורת מבוססי AI=提供 AI 通信方案;הטכנולוגיה פורחת בשנה האחרונה(Voice AI 旗舰年 2025-12-23)",
+     "url": "https://www.geektime.co.il/voice-ai-for-it-voicenter/"
+    },
+    {
+     "dim": "谱性档",
+     "text": "Voicenter: 2007 创(19 年);Ramat Gan Hahilazon 5;云 VoIP/PBX/呼叫中心;CRM/ERP 集成(HGC 集团 Gil Haim 谱;牌照:מפ\"א+MVNO+国际;2019 乌克兰 50 人研发中心=谱注单源)",
+     "quote": "Voicenter: 2007 创(19 年);Ramat Gan Hahilazon 5;云 VoIP/PBX/呼叫中心;CRM/ERP 集成(HGC 集团 Gil Haim 谱;牌照:מפ\"א+MVNO+国际;2019 乌克兰 50 人研发中心=谱注单源)",
+     "url": "https://www.cbinsights.com/company/voicenter"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批9·B-039:以谱: **Voicenter LTD 深挖(voicenter.co.il 博客署名档+geektime 专访+gen-ai-for-all 人事档+cbinsights 档 四源互证)**:**2007 创(19 年);5 Hahilazon St,Ramat Gan,Israel;云 VoIP/PBX/呼叫中心平台+CRM/ERP 集成;**GreekVoice/VoipWall 自研双轨谱**;持谱=**以色列通信部三张牌照:מפ\"א 通用运营商+MVNO 虚拟移动运营商+国际许可证=**新虚拟运营商谱**;2019 乌克兰 50 人研发中心谱;营销+自研双轨**. **KP 双祖家族金锚:**Nitzan Gutman(ניצן גוטמן=**מייסד ומנכ״ל=Founder+CEO** 2007 起 19 年 P0;voicenter.co.il 博客署名「חלוץ בתחום התקשורת והטלפוניה בענן בישראל - אוביזר ב-AI, טלפוניית VoIP ואוטומציה」=以色列云通信先锋+AI Voice+VoIP+自动化;ORIGAMI CRM 博客由其署名;geektime 2025-12-23 Voice AI 专访 P0)+**Shlomi Gutman(שלומי גוטמן=共同创始人+CTO**=兄弟双创始谱)+**Eran Amergi(ערן אמרג'י=营销销售 VP**;HGC 集团 Gil Haim 谱)+**Golan Ashtan(גולן אשטן=前 CEO 任内史谱)**=4-5 人谱**;**谱位=以色列云 PBX/呼叫中心+AI Voice 领航+三张运营商牌照=ST 谱对口:云 PBX/CDR 集成 PoE 接入口;乌克兰研发中心=研谱口=批 9 以谱金矿**;排噪:Voipenter LTD(C-503 不同级)=同司别档谱注(库注)。",
+    "inference": "R67/TUB 推土机深挖 批9 B 类既定十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  }
+ ],
+ "_meta": {
+  "batch": "R67/TUB 推土机深挖 批9 B 类既定十户",
+  "date": "2026-10-08",
+  "n": 10
+ }
+}

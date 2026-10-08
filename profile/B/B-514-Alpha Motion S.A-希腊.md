@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 30·B-514:希腊谱: **守档准由·原 R65/R57 谱基增厚**:Alpha Motion S.A.(希腊 Pikermi Attica 72 Marathonos Ave):1994 创,motion c…
+- **是谁**：1993 创 33 年(E.B.E.A. 2003 档 23 年双窗);Rafina;AE;ISO 9001:2015…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：【2026-09-28 复核回升 C-173→B-514】官网全站页脚可见；邮箱补到后原「无邮箱（群发触达不到）」下放原因消除 → 恢复 B（群发可触达）。原判：三星依据仅渠道等级（分销（HMS/N-Tron·Red Lion 渠道））与「N-Tron + Red Lion」，需求未核。
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 希腊工业自动化 S.A. 的 DIN 轨 PoE 档(与 Red Lion/N-Tron 谱同向)——电梯/产线现场支线对口,具名开口；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 30·B-514:希腊谱: **守档准由·原 R65/R57 谱基增厚**:Alpha Motion S.A.(希腊 Pikermi Attica 72 Marathonos Ave):1994 创,motion control/工业自动化 S.A.;伺服/步进/逆变器+电梯驾控解决方案商血统;自述希腊量产行业自动化装备最大安装占比;Argiris Sa | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 1993 创 33 年(E.B.E.A. 2003 档 23 年双窗);Rafina;AE;ISO 9001:2015 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | 自动化/机器人独家批发(SCADA/PLC/伺服);PoE=SCADA/机器人网络供电正对口 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 30·B-514:希腊谱: **守档准由·原 R65/R57 谱基增厚**:Alpha Motion S.A.(希腊 Pikermi Attica 72 Marathonos Ave):1994 创,motion control/工业自动化 S.A.;伺服/步进/逆变器+电梯驾控解决方案商血统;自述希腊量产行业自动化装备最大安装占比;Argiris Saninos=Owner/Chairman/Managing Director 具名,Dimitris Psichoulas=Technical Director 具名;Jason Karagiorgas=Application Engineer | R65 深挖:HMS/N-Tron/Red Lion 同集团工业自动谱系,AEGEE +30 693 242…;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第3波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 30 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】波 R67/TUB·批9·B-514:希谱: **ALPHA MOTION ΑΕ 深挖(EBEA 商会名录/acci exports/engineer.gr/alpha-motion.gr 四源互证)**:**全名=**ALPHA MOTION ANONYMI ETAIREIA SYSTIMATON AUTOMATISMOU YPSILIS TECHNOLOGIAS ROMPOTIKIS KAI PLIROFORIKIS**(希腊语全谱:ALPHA MOTION ΑΕ ΣΥΣΤΗΜΑΤΩΝ ΑΥΤΟΜΑΤΙΣΜΟΥ ΥΨΗΛΗΣ ΤΕΧΝΟΛΟΓΙΑΣ ΡΟΜΠΟΤΙΚΗΣ ΚΑΙ ΠΛΗΡΟΦΟΡΙΚΗΣ=高科技自动化系统·机器人·信息学 股份公司);ΑΦΜ 999641450;Γ.Ε.ΜΗ 5101501000;E.B.E.A. 2003-02-18 注册(活跃的 ACTIVE;32+ 年谱:kompass 记创 1993=33 年谱双窗);ΛΕΩΦΟΡΟΣ ΜΑΡΑΘΩΝΟΣ 72,ΡΑΦΗΝΑ 19009(前址 Αλκαμένους 5-7 Αθήνα 10439 老档);210 8227470/8227472(+fax 210-8253787);info@alpha-motion.gr;www.alpha-motion.gr**;**业务=工业自动化独家进口批发商(AE;NAC08 4669;Li/crunchbase 记创 1993-1994,11-50 员):自动化系统/机器人/SCADA/HMI/**PLC**/伺服步进/变频/编码器/无线电 modem/工业软件+电梯驱动研发;**ISO 9001:2015 认证;品牌谱=Yaskawa/Parker 级(日本安川全球机器人+美国 Parker 运动控制)独家谱**;**KP 金谱:**Argyrios Saninos(Σανίνος Αργύριος=Διευθύνων=董事总经理,engineer.gr 档!)+ΓΕΜΗ 联络谱(commitissioner=联络员谱待核)**;**谱位=希腊 33 年工业自动化独家批发商(机器人/SCADA/PLC)+ISO 9001=工业 PoE 谱位对口=批 9 希谱金矿**。
+- 【推断】R67/TUB 推土机深挖 批9 B 类既定十户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+自动化/机器人独家批发(SCADA/PLC/伺服);PoE=SCADA/机器人网络供电正对口
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -93,47 +93,53 @@ STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · Saninos 董事总经理 P0
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：守档铺位 → 价锚卡
-- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
-- **随附/动作**：规格页
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
+- **切入点**：Διευθύνων → 24 口工业 PoE(SCADA/机器人网络供电)
+- **要问的问题**：贵司自动化/机器人线的 24 口工业 PoE 交换机进口由哪位主责?
+- **随附/动作**：EBEA/四源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · Yaskawa/Parker 品牌线
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：大牌合作谱=销售渠道谱
+- **要问的问题**：贵司 Yaskawa 线的网络件谱口?
+- **随附/动作**：官网谱
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · 电梯驱动研发线
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：电梯驱动研发=边缘谱
+- **要问的问题**：贵司电梯线条的件谱?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批9.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 30·B-514:希腊谱: **守档准由·原 R65/R57 谱基增厚**:Alpha Motion S.A.(希腊 Pikermi Attica 72 Marathonos Ave):1994 创,motion control/工业自动化 S.A.;伺服/步进/逆变器+电梯驾控解决方案商血统;自述希腊量产行业自动化装备最大安装占比;Argiris Saninos=Owner/Chairman/Managing Director 具名,Dimitris Psichoulas=Technical Director 具名;Jason Karagiorgas=Application Engineer | R65 深挖:HMS/N-Tron/Red Lion 同集团工业自动谱系,AEGEE +30 693 242…;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第3波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
-- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
-- **关注点与资质**：希腊 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
-- **Saga产品适配**：STI-288GP vs PLANET/当批价差窗
+- **背景深描**：1993 创 33 年(E.B.E.A. 2003 档 23 年双窗);Rafina;AE;ISO 9001:2015
+- **芯片与在用型号**：自动化/机器人独家批发(SCADA/PLC/伺服);PoE=SCADA/机器人网络供电正对口
+- **关键人KP**：Argyrios Saninos(Διευθύνων 董事总经理 P0)+ΓΕΜΗ 联络谱
+- **关注点与资质**：希腊工业自动化独家批发 → 工业 PoE 谱正对口
+- **优缺点SWOT**：S=33 年+ISO 9001+Yaskawa/Parker 独家谱·W=希语谱门;独家代理轨道=切入角度谱·O=希腊制造自动化升级潮=工业 PoE 谱位·T=ABB/Schneider 大分销竞争;经济敏注
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):希语谱;大牌渠道轨道;ISO 9001 资质敏;Yaskawa/Parker 合作谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**Alpha Motion S.A.(希腊 Pikermi Attica 72 Marathonos Ave):1994 创,motion control/工业自动化 S.A.;伺服/步进/逆变器+电梯驾控解决方案商血统;自述希腊量产行业自动化装备最大安装占比;Argiris Saninos=Owner/Chairman
-  > Alpha Motion S.A.(希腊 Pikermi Attica 72 Marathonos Ave):1994 创,motion control/工业自动化 S.A.;伺服/步进/逆变器+电梯驾控解决方案商血统;自述希腊量产行业自动化装备最大安装占比;Argiris Saninos=Owner/Chairman
-  > 来源：https://alpha-motion.gr/
-- **【联系方式与基础画像】**CSV 入口:info@alpha-motion.gr；+30 210 82 27 470（官网页脚）
-  > CSV 入口:info@alpha-motion.gr；+30 210 82 27 470（官网页脚）
-  > 来源：https://alpha-motion.gr/
+- **【法体登册】**ALPHA MOTION ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ ΣΥΣΤΗΜΑΤΩΝ ΑΥΤΟΜΑΤΙΣΜΟΥ ΥΨΗΛΗΣ ΤΕΧΝΟΛΟΓΙΑΣ ΡΟΜΠΟΤΙΚΗΣ ΚΑΙ ΠΛΗΡΟΦΟΡΙΚΗΣ;Α.Φ.Μ 999641450;Νομική Μορφή Α.Ε.;ΛΕΩΦΟΡΟΣ ΜΑΡΑΘΩΝΟΣ 72, ΡΑΦΗΝΑ 19009;2108227470,8227472;info@alpha-motion.gr;www.alpha-motion.gr
+  > ALPHA MOTION ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ ΣΥΣΤΗΜΑΤΩΝ ΑΥΤΟΜΑΤΙΣΜΟΥ ΥΨΗΛΗΣ ΤΕΧΝΟΛΟΓΙΑΣ ΡΟΜΠΟΤΙΚΗΣ ΚΑΙ ΠΛΗΡΟΦΟΡΙΚΗΣ;Α.Φ.Μ 999641450;Νομική Μορφή Α.Ε.;ΛΕΩΦΟΡΟΣ ΜΑΡΑΘΩΝΟΣ 72, ΡΑΦΗΝΑ 19009;2108227470,8227472;info@alpha-motion.gr;www.alpha-motion.gr
+  > 来源：https://directory.acci.gr/companies/details/201802
+- **【谱级档】**GEMI 5101501000;Tax Number 999641450;company_status ACTIVE;RAFINA;LEOFOROS MARATHONOS 72
+  > GEMI 5101501000;Tax Number 999641450;company_status ACTIVE;RAFINA;LEOFOROS MARATHONOS 72
+  > 来源：https://exporters.acci.gr/companies/details/201802
+- **【KP/旧谱】**ALPHA MOTION AE - ΑΥΤΟΜΑΤΙΣΜΟΙ ΒΙΟΜΗΧΑΝΙΚΟΙ(工业自动化谱);Διευθύνων: Σανίνος Αργύριος(Director: Saninos Argyrios);Αλκαμένους 5-7, Αθήνα 10439(旧址档);210-8227470-2, 8227677;Fax 210-8253787
+  > ALPHA MOTION AE - ΑΥΤΟΜΑΤΙΣΜΟΙ ΒΙΟΜΗΧΑΝΙΚΟΙ(工业自动化谱);Διευθύνων: Σανίνος Αργύριος(Director: Saninos Argyrios);Αλκαμένους 5-7, Αθήνα 10439(旧址档);210-8227470-2, 8227677;Fax 210-8253787
+  > 来源：http://www.engineer.gr/materials/company.php?company_id=7454
+- **【官网谱】**alpha-motion.gr:自动化系统/机器人/SCADA/HMI/PLC/伺服步进/变频/编码器/无线电 modem/工业软件+电梯驱动研发;ISO 9001:2015;Yaskawa/Parker 品牌谱(kompass/LI 档)
+  > alpha-motion.gr:自动化系统/机器人/SCADA/HMI/PLC/伺服步进/变频/编码器/无线电 modem/工业软件+电梯驱动研发;ISO 9001:2015;Yaskawa/Parker 品牌谱(kompass/LI 档)
+  > 来源：https://www.alpha-motion.gr/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -146,7 +152,7 @@ STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
+S=33 年+ISO 9001+Yaskawa/Parker 独家谱·W=希语谱门;独家代理轨道=切入角度谱·O=希腊制造自动化升级潮=工业 PoE 谱位·T=ABB/Schneider 大分销竞争;经济敏注
 
 ## 触达与风险红线
 
@@ -174,8 +180,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节�
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] MikroTik 谱位 alpha-motion.gr 在售线核
+  - [ ] Saninos 直邮推 alpha-motion.gr 域档
+  - [ ] E.B.E.A. 2003 档与创年 1993 双窗注
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -187,12 +194,7 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节�
 **主题**：PoE switching for your line
 
 ```text
-Dear Alpha Motion S.A. Team,
-
-We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
-
-Best regards
-Saga / SmartByte ODM
+Dear Argyrios,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a sturdy supply for SCADA, robotics and PLC network deployments across Greek industrial automation. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 30·B-274:波兰谱: **守档准由·原 R65/R57 谱基增厚**:Eltrox Sp. z o.o.(Częstochowa ul. Warszawska 74,KRS 0000175807,股本 560 …
+- **是谁**：2003 创 23 年;Częstochowa;资本 560k zł;KRS全谱(股东+CEO+prokura)…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 波兰安防巨头的监控/报警安装商随单 24 口 280W PoE 走量位(40 门店架)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 30·B-274:波兰谱: **守档准由·原 R65/R57 谱基增厚**:Eltrox Sp. z o.o.(Częstochowa ul. Warszawska 74,KRS 0000175807,股本 560 万 zł;2000 创,**501-1000 员工**):**波兰最大的安防设备分销商**——『największy w kraju dys | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 2003 创 23 年;Częstochowa;资本 560k zł;KRS全谱(股东+CEO+prokura) | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | 监控/报警电商+电子电信批发;PoE 24 口=监控供电正行对口 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 30·B-274:波兰谱: **守档准由·原 R65/R57 谱基增厚**:Eltrox Sp. z o.o.(Częstochowa ul. Warszawska 74,KRS 0000175807,股本 560 万 zł;2000 创,**501-1000 员工**):**波兰最大的安防设备分销商**——『największy w kraju dystrybutor sprzętu zapewniającego bezpieczeństwo』,**全国近 40 家门店**(Bydgoszcz/Gdańsk/Gdynia/Gliwice/Kraków…);零售+电商+加盟+批发多渠道;谱=监控/报警系统/智能家居/光伏可再生/计算机网络/IT/TV;MikroTik Master 挂证;批发支持 dropshipping(hurton)+安装商项目合作 | R65 深挖:Częstochowa 大国谱；Otolińska 家族结构 90% 股主;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第8波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 30 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】波 R67/TUB·批9·B-274:波谱: **ELTROX SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ 深挖(krs-pobierz/aleo/D&B/eltrox.pl 四源互证)**:**KRS 0000175807;NIP 6462490527;REGON 276916481;Kapitał zakładowy 560,000 zł;2003-12-01 注册(23 年);ul. Warszawska 74,42-202 Częstochowa;Forma prawna=Spółka z O.O.;Status aktywna;Główna działalność=**sprzedaż hurtowa sprzętu elektronicznego i telekomunikacyjnego oraz części do niego=电子与电信设备批发(登档法言)**;D&B 别类=Courier/Trading 谱注**;**官网电商谱(eltrox.pl):**监控+报警系统+家居自动化+门驱动+能源电源+电脑配件+消费电子**=安防电商谱;ceneo s2306 店;sklep@eltrox.pl/finanse@eltrox.pl;+48 34 387 29 92**;**KP 金锚(krs 档全谱):**Zbigniew Dąbrowski(zarząd=董事会/Dyrektor naczelny=CEO 谱,D&B 记「President of the Board of Directors」full=Zbigniew Feliks Dąbrowski P0)+Wiktor Dąbrowski(wspólnik=股东参与人+Barbara Otolińska(wspólnik 股东)+Przemysław Piotrowski(prokura=授权代理人)**=Dąbrowski 家族全谱+代理谱**;**谱位=琴斯托霍瓦 23 年安防电商+电子电信批发(登档)=24 口 PoE 对监控/报警供电正行=批 9 波谱对口金矿**;排噪:krs-online 同厅档「Eltrox.pl Dąbrowski Z.」Białystok BHP/PPOŻ 劳保消防谱(同 NIP/KRS 号但描述 2000 创+劳保业)=同 NIP 错挂数,以 krs-pobierz/D&B 琴斯托霍瓦电子批发谱为准**。
+- 【推断】R67/TUB 推土机深挖 批9 B 类既定十户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+监控/报警电商+电子电信批发;PoE 24 口=监控供电正行对口
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -67,7 +67,7 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 波 30·B-274:波兰谱: **守档准由·原 R65/R57 谱基增厚**:Eltrox Sp. z o.o.(Częstochowa ul. Warszawska 74,KRS 0000175807,股本 560 万 zł;2000 创,**501-1000 员工**):**波兰最大的安防设备分销商**——『największy w kraju dystrybutor sprzętu zapewniającego bezpieczeństwo』,**全国近 40 家门店**(Bydgoszcz/Gdańsk/Gdynia/Gliwice/Kraków…);零售+电商+加盟+批发多渠道;谱=监控/报警系统/智能家居/光伏可再生/计算机网络/IT/TV;MikroTik Master 挂证;批发支持 dropshipping(hurton)+安装商项目合作 | R65 深挖:Częstochowa 大国谱；Otolińska 家族结构 90% 股主;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第8波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -91,46 +91,52 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · Dąbrowski CEO+Piotrowski prokura
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：守档铺位 → 价锚卡
-- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
-- **随附/动作**：规格页
+- **切入点**：CEO+代理双轨 → 24 口 PoE(监控供电正行)
+- **要问的问题**：贵司监控品线的 24 口 PoE 交换机供货由哪位同事主责?
+- **随附/动作**：krs/D&B 4 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · sklep 电商采购线
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：sklep@+ceneo 谱类
+- **要问的问题**：贵司电商上架线的 PoE 谱口?
+- **随附/动作**：eltrox.pl 谱
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · Wiktor Dąbrowski+Otolińska 股东层
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：股东层=资本谱
+- **要问的问题**：贵司供应商审核周期的 Docs 谱?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批9.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 30·B-274:波兰谱: **守档准由·原 R65/R57 谱基增厚**:Eltrox Sp. z o.o.(Częstochowa ul. Warszawska 74,KRS 0000175807,股本 560 万 zł;2000 创,**501-1000 员工**):**波兰最大的安防设备分销商**——『największy w kraju dystrybutor sprzętu zapewniającego bezpieczeństwo』,**全国近 40 家门店**(Bydgoszcz/Gdańsk/Gdynia/Gliwice/Kraków…);零售+电商+加盟+批发多渠道;谱=监控/报警系统/智能家居/光伏可再生/计算机网络/IT/TV;MikroTik Master 挂证;批发支持 dropshipping(hurton)+安装商项目合作 | R65 深挖:Częstochowa 大国谱；Otolińska 家族结构 90% 股主;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第8波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
-- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
-- **关注点与资质**：波兰 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
-- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **背景深描**：2003 创 23 年;Częstochowa;资本 560k zł;KRS全谱(股东+CEO+prokura)
+- **芯片与在用型号**：监控/报警电商+电子电信批发;PoE 24 口=监控供电正行对口
+- **关键人KP**：Zbigniew Feliks Dąbrowski(CEO=President of the Board)+Wiktor Dąbrowski(股东)+Barbara Otolińska(股东)+Przemysław Piotrowski(prokura)=4 人登档谱
+- **关注点与资质**：波兰安防电商 → 24 口 PoE 监控供电(正行直对口)
+- **优缺点SWOT**：S=23 年+KRS 登档全谱+监控正行对口+电商谱·W=微商谱量级小;krs-online 同名错挂排噪注·O=波兰安防电商潮=PoE 监控供电上新轴·T=BAT/pol 电商竞争;价敏谱
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):波语谱;电商节奏;ceneo 平台价敏;登档名=批发业
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**Eltrox Sp. z o.o.(Częstochowa ul. Warszawska 74,KRS 0000175807,股本 560 万 zł;2000 创,**501-1000 员工**):**波兰最大的安防设备分销商**——『największy w kraju dystrybutor sprzętu zap
-  > Eltrox Sp. z o.o.(Częstochowa ul. Warszawska 74,KRS 0000175807,股本 560 万 zł;2000 创,**501-1000 员工**):**波兰最大的安防设备分销商**——『największy w kraju dystrybutor sprzętu zap
-  > 来源：https://eltrox.pl/
-- **【联系方式与基础画像】**CSV 入口:34 333 57 04 / sklep@eltrox.pl
-  > CSV 入口:34 333 57 04 / sklep@eltrox.pl
+- **【KRS 登档】**NIP 6462490527 | KRS 0000175807 | REGON 276916481 | ul. WARSZAWSKA 74, CZĘSTOCHOWA;Kapitał zakładowy 560 000,00 ZŁ;Status aktywna;Główna działalność: Sprzedaż hurtowa sprzętu elektronicznego i telekomunikacyjnego oraz części do niego;Osoby powiązane: BARBARA OTOLIŃSKA(wspolnik)+WIKTOR DĄBROWSKI(wspolnik)+ZBIGNIEW DĄBROWSKI(zarzad)+PRZEMYSŁAW PIOTROWSKI(prokura)
+  > NIP 6462490527 | KRS 0000175807 | REGON 276916481 | ul. WARSZAWSKA 74, CZĘSTOCHOWA;Kapitał zakładowy 560 000,00 ZŁ;Status aktywna;Główna działalność: Sprzedaż hurtowa sprzętu elektronicznego i telekomunikacyjnego oraz części do niego;Osoby powiązane: BARBARA OTOLIŃSKA(wspolnik)+WIKTOR DĄBROWSKI(wspolnik)+ZBIGNIEW DĄBROWSKI(zarzad)+PRZEMYSŁAW PIOTROWSKI(prokura)
+  > 来源：https://krs-pobierz.pl/eltrox-spolka-z-ograniczona-odpowiedzialnoscia-i0000175807
+- **【登档谱】**ELTROX SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ;WARSZAWSKA 74, 42-202 CZĘSTOCHOWA;TAX ID 6462490527;KRS 0000175807;REGON 276916481;Legal form: limited liability company
+  > ELTROX SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ;WARSZAWSKA 74, 42-202 CZĘSTOCHOWA;TAX ID 6462490527;KRS 0000175807;REGON 276916481;Legal form: limited liability company
+  > 来源：https://aleo.com/int/company/eltrox-pl
+- **【KP/CEO 档】**ELTROX SP Z O O;Dyrektor naczelny: Dąbrowski Zbigniew Feliks(President of the Board of Directors);NIP 6462490527;KRS 0000175807;Częstochowa, śląskie;Other Electronic Parts and Equipment Merchant Wholesalers;www.eltrox.pl
+  > ELTROX SP Z O O;Dyrektor naczelny: Dąbrowski Zbigniew Feliks(President of the Board of Directors);NIP 6462490527;KRS 0000175807;Częstochowa, śląskie;Other Electronic Parts and Equipment Merchant Wholesalers;www.eltrox.pl
+  > 来源：https://www.dnb.com/pl-pl/baza-firm/profile-firm.eltrox_sp_z_o_o.73dff5fc245430eb355305496fe12e72.html
+- **【电商品类谱】**eltrox.pl:监控+报警系统+家居自动化+门驱动+能源电源+电脑配件+消费电子;sklep@eltrox.pl;finanse@eltrox.pl;+48 34 387 29 92;ceneo 店谱
+  > eltrox.pl:监控+报警系统+家居自动化+门驱动+能源电源+电脑配件+消费电子;sklep@eltrox.pl;finanse@eltrox.pl;+48 34 387 29 92;ceneo 店谱
   > 来源：https://eltrox.pl/
 
 ## 产品决策（Saga · 单一决策口径）
@@ -144,7 +150,7 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+S=23 年+KRS 登档全谱+监控正行对口+电商谱·W=微商谱量级小;krs-online 同名错挂排噪注·O=波兰安防电商潮=PoE 监控供电上新轴·T=BAT/pol 电商竞争;价敏谱
 
 ## 触达与风险红线
 
@@ -172,8 +178,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] MikroTik 谱位 eltrox.pl 在售线核
+  - [ ] Zbigniew 直邮推 eltrox.pl 域(sklep@/finanse@)
+  - [ ] ceneo 店评价谱节奏
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -185,12 +192,7 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 **主题**：PoE switching for your line
 
 ```text
-Dear eltrox.pl Team,
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
-
-Best regards
-Saga / SmartByte ODM
+Dear Zbigniew,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a natural fit for powering CCTV cameras and alarm systems in your portfolio. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

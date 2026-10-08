@@ -5,6 +5,7 @@
 
 | Commit | 提交时间（原始时区） | 说明 |
 |---|---|---|
+| `3a3a9f21728f` | 2026-10-08T12:08:42+00:00 | R67 推土机深挖批2:B 类深挖续批 10 户(捷 OEM Automatic/意 Fastnet/西 Strato Networks/法 FGET/Osmozis 上市/HD Technology/希 Allnet.Greece/丹 Nextron/爱 Irish Wireless/罗 TELESYSTEM 守界)全谱深挖;KP 32 谱人次;facts 39 全 URL;ENRICH_B_FILES 注册;渲染 A:580/B:167/C:290;audit errors:0(1417 文件);tests 29 OK;总账批2章(第107章) |
 | `1666d3393b83` | 2026-10-08T11:21:46+00:00 | R67 推土机批8:B类金谱批2五户(ACC立陶宛€365M三国/DMI西€164M/MAC英工业PoE本行Pantek/PCV捷前10%/ATEsystem机器视觉)KP22人谱全URL;.venv锚定依赖;git重置恢复 |
 | `457a2b228be8` | 2026-10-08T10:08:44+00:00 | R67 推土机批7:A类余户清零6户(Direktronik Lagercrantz 133MSEK/RoadTech物流TMS/AMRO/Acteos法上市/ACP €935M集团/5G IT五创始)KP18条全URL;三审全绿 |
 | `ecba5d21e9d1` | 2026-10-08T09:40:30+00:00 | R67 推土机深挖批6:B类金谱首批5户(Infortisa/Ivory Egg/OEM Automatic/ATC/TRUENET)KP18条全URL+B骨架rec()封装+lint制度化 |

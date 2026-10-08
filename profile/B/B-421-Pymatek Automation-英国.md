@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 30·B-421:英国谱: **守档准由·原 R65/R57 谱基增厚**:Pymatek Automation(Staffordshire 01543 区;VAT GB 2060 155 3431;pymatek.…
+- **是谁**：2014 创 11 年;Rugeley Staffordshire;Micro 微谱;单人全资…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：有信号（工业/楼宇）但需先验证需求或联系人不具体
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — EtherWAN/Hirschmann 双高价谱旁的 DIN 轨 value 第三源(英国+拉美 11 国复用)；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 30·B-421:英国谱: **守档准由·原 R65/R57 谱基增厚**:Pymatek Automation(Staffordshire 01543 区;VAT GB 2060 155 3431;pymatek.us 美国站):**工业自动化零组件大目录分销商**(PLC/驱动/HMI/电机/编码器;ABB/Siemens/Schneider/Mit | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 2014 创 11 年;Rugeley Staffordshire;Micro 微谱;单人全资 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | 自动化元件(PLC/驱动/HMI/伺服)分销;PoE 24 口=新品上新轴 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 30·B-421:英国谱: **守档准由·原 R65/R57 谱基增厚**:Pymatek Automation(Staffordshire 01543 区;VAT GB 2060 155 3431;pymatek.us 美国站):**工业自动化零组件大目录分销商**(PLC/驱动/HMI/电机/编码器;ABB/Siemens/Schneider/Mitsubishi/Omron/Bosch Rexroth 全谱);**同时分销两大工业交换牌:EtherWAN(凤凰触点旗下台厂)+Hirschmann(Belden)**,另带 eWON;**分销区域=英国+美国+西语拉美 11 国**(墨西哥/秘鲁/西班牙/玻利维亚/智利/哥伦比亚/厄瓜多尔/阿根廷/乌拉圭/巴拉圭) | R64/R65 补:Ybet 唯一董事 CH 实名 + pymatek.com 主域(非 .co.uk);R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第7波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 30 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】波 R67/TUB·批9·B-421:英谱: **Pymatek Automation Ltd 深挖(Companies House/northdata/endole/globaldatabase 四源互证)**:**Company No 09293772,2014-11-04 注册(11 年);Private limited company;SIC 71129(Other engineering activities);注册资本 £1(1 ORDINARY share);Venture Point Wheelhouse Road,Rugeley,Staffordshire WS15 1UZ(同址 7 年谱);C/O Bradley Accountancy Practice Ltd 84-90 Market Street Hednesford Cannock 会计所档**;**规模=Micro:Turnover <£1M+Balance sheet <£500,000+Under 10 员工(3 人档记);net assets 3 年下降档注**;**业务=工业自动化元件分销:PLC/驱动/HMI/伺服/编码器/线缆/温度控制器(endole 档谱);pymatek.co.uk 网站**;**KP 单人金锚:**Ybet Haydée Sánchez Vargas De Pattison**(f1975-06,51 岁;Founder+唯一 Director+唯一 PSC/UBO(1 股 100%)2014-11-04 创任至今 11 年=**一人完整权谱 P0**;西班牙语系背景谱;Confirmation statement 2025-12-01 最新档;2026-06-08 董事信息最新档变更)+**西班牙语团队谱(globaldatabase 档):Franco Sanchez(Jefe de Ventas 销售经理)+Martin Pattison(Sales Mgr)+Kimberly Pinillos(Gerente General 总经理)+Lucero Vaenzuela(Asistente 行政)**=以 Ybet 核心+拉美裔团队谱**;**谱位=英国自动化元件分销微型司(11 年+独资单人)=决策快谱,自动化分销对口=微型谱位对口档;规模薄谱注(n/e 3 年下降)**;排噪:pymatek international 同名谱注。
+- 【推断】R67/TUB 推土机深挖 批9 B 类既定十户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+自动化元件(PLC/驱动/HMI/伺服)分销;PoE 24 口=新品上新轴
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -95,47 +95,53 @@ STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · Ybet Sánchez 单人 100% P0
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：守档铺位 → 价锚卡
-- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
-- **随附/动作**：规格页
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
+- **切入点**：Founder+Dir+PSC 一人权 → 24 口 PoE(自动化分销新品)
+- **要问的问题**：贵司 PLC/驱动线的 24 口 PoE 交换机新品引入由哪位主责?
+- **随附/动作**：CH/endole 4 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · Franco Sánchez 销售+M. Pattison
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：西语团队销售谱
+- **要问的问题**：贵司销售线的 PoE 谱口?
+- **随附/动作**：gd 谱
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · Kimberly Pinillos GM
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：Gerente General 运营口
+- **要问的问题**：贵司白牌上新轴的送样口?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批9.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 30·B-421:英国谱: **守档准由·原 R65/R57 谱基增厚**:Pymatek Automation(Staffordshire 01543 区;VAT GB 2060 155 3431;pymatek.us 美国站):**工业自动化零组件大目录分销商**(PLC/驱动/HMI/电机/编码器;ABB/Siemens/Schneider/Mitsubishi/Omron/Bosch Rexroth 全谱);**同时分销两大工业交换牌:EtherWAN(凤凰触点旗下台厂)+Hirschmann(Belden)**,另带 eWON;**分销区域=英国+美国+西语拉美 11 国**(墨西哥/秘鲁/西班牙/玻利维亚/智利/哥伦比亚/厄瓜多尔/阿根廷/乌拉圭/巴拉圭) | R64/R65 补:Ybet 唯一董事 CH 实名 + pymatek.com 主域(非 .co.uk);R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第7波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
-- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
-- **关注点与资质**：英国 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
-- **Saga产品适配**：STI-288GP vs PLANET/当批价差窗
+- **背景深描**：2014 创 11 年;Rugeley Staffordshire;Micro 微谱;单人全资
+- **芯片与在用型号**：自动化元件(PLC/驱动/HMI/伺服)分销;PoE 24 口=新品上新轴
+- **关键人KP**：Ybet Haydée Sánchez Vargas De Pattison(Founder+唯一 Director+唯一 PSC/UBO 100% P0)+西语团队 4 人谱
+- **关注点与资质**：自动化分销微司 → 24 口 PoE(新品上新轴+单人决策快)
+- **优缺点SWOT**：S=11 年谱+单人 100% 全资+自动化分销对口·W=Micro/3 员量级小;n/e 3 年年下降注·O=英国自动化补件线=PoE 新品口·T=大分销商竞争;单主谱
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):英/西双语谱;单人决策快;微型司价格敏;n/e 下降注
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**Pymatek Automation(Staffordshire 01543 区;VAT GB 2060 155 3431;pymatek.us 美国站):**工业自动化零组件大目录分销商**(PLC/驱动/HMI/电机/编码器;ABB/Siemens/Schneider/Mitsubishi/Omron/Bosch 
-  > Pymatek Automation(Staffordshire 01543 区;VAT GB 2060 155 3431;pymatek.us 美国站):**工业自动化零组件大目录分销商**(PLC/驱动/HMI/电机/编码器;ABB/Siemens/Schneider/Mitsubishi/Omron/Bosch 
-  > 来源：https://pymatek.co.uk/
-- **【联系方式与基础画像】**CSV 入口:官网联系页
-  > CSV 入口:官网联系页
-  > 来源：https://pymatek.co.uk/
+- **【法体登册】**PYMATEK AUTOMATION LTD;Company No 09293772;incorporated 4 November 2014;Private limited company;SIC 71129 Other engineering activities;Capital £1(1 ORDINARY);Venture Point Wheelhouse Road, Rugeley WS15 1UZ;Active
+  > PYMATEK AUTOMATION LTD;Company No 09293772;incorporated 4 November 2014;Private limited company;SIC 71129 Other engineering activities;Capital £1(1 ORDINARY);Venture Point Wheelhouse Road, Rugeley WS15 1UZ;Active
+  > 来源：https://find-and-update.company-information.service.gov.uk/company/09293772
+- **【KP/PSC 档】**Pymatek Automation Ltd;Director's details Ybet Haydée Sánchez Vargas De Pattison found 11 years(2014-11-04);Founder appointed Nov 2014;currently 51 years old;active since incorporation;member: Shareholder;1 officers/1 Shareholders/1 Controllers(PSC)/1 Management
+  > Pymatek Automation Ltd;Director's details Ybet Haydée Sánchez Vargas De Pattison found 11 years(2014-11-04);Founder appointed Nov 2014;currently 51 years old;active since incorporation;member: Shareholder;1 officers/1 Shareholders/1 Controllers(PSC)/1 Management
+  > 来源：https://open.endole.co.uk/insight/company/09293772-pymatek-automation-ltd
+- **【UBO/规模】**YBET HAYDEE SANCHEZ VARGAS DE PATTISON owns 1 ORDINARY shares total value 1 GBP(PSC/major shareholder);Incorporated 2014-11-04;Venture Point Wheelhouse Road;employs 3 people;trading since 4 November 2014;Active
+  > YBET HAYDEE SANCHEZ VARGAS DE PATTISON owns 1 ORDINARY shares total value 1 GBP(PSC/major shareholder);Incorporated 2014-11-04;Venture Point Wheelhouse Road;employs 3 people;trading since 4 November 2014;Active
+  > 来源：https://uk.globaldatabase.com/company/pymatek-automation-ltd
+- **【财务谱】**Micro;Turnover is under £1M;Balance sheet is under £500,000;Under 10 employees;Same address for the past 7 years;net assets 3 年下降档注;pymatek.co.uk
+  > Micro;Turnover is under £1M;Balance sheet is under £500,000;Under 10 employees;Same address for the past 7 years;net assets 3 年下降档注;pymatek.co.uk
+  > 来源：https://open.endole.co.uk/insight/company/09293772-pymatek-automation-ltd
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -148,7 +154,7 @@ STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
+S=11 年谱+单人 100% 全资+自动化分销对口·W=Micro/3 员量级小;n/e 3 年年下降注·O=英国自动化补件线=PoE 新品口·T=大分销商竞争;单主谱
 
 ## 触达与风险红线
 
@@ -176,8 +182,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节�
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] MikroTik 谱位 pymatek.co.uk 在售线核
+  - [ ] Ybet 直邮推 pymatek.co.uk 域档
+  - [ ] net assets 3 年下降谱原因(付费档核)
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -189,12 +196,7 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节�
 **主题**：PoE switching for your line
 
 ```text
-Dear Pymatek Automation Team,
-
-We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
-
-Best regards
-Saga / SmartByte ODM
+Dear Ybet,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a value addition for your automation distribution lines (PLC, drives, HMI, encoders). Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
