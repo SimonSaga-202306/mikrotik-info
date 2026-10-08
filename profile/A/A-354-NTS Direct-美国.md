@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】NTS Direct Inc.(Bolton, MA,41 Main St;1990 创立;11-50 名员工(LinkedIn 31 人);VoIP/UC/视频会议/物理安全/网络硬件软件解决方案的顶级 VAD;母公司=Paragon Communications 全资子;服务 MSP/VAR/ISP/ITSP/集成商/VAD;三星 WLAN AP 全系分授权(2018-10 扩);30 万平方英尺仓+全值 provisioning lab;官网 $8.8M 营收(ZoomInfo);1,619 LinkedIn followers
-- 【推断】Paragon 全子 + 三星 WLAN 全谱 VAD → 谱面已偏企业 UC/WLAN 高线;MikroTik 未列谱 = 库内信号谱锁定
-- 【假设】VAD 谱的「同档多谱」集成 → 24 口 value PoE 的高谱谱链窗口;Michael Prefontaine 谱位=成本谱替换件的强击位
+- 【事实】NTS Direct:NTS Direct, Inc.(美国 Bolton, MA 01740,41 Main St;**1990 创 36 年;25-31 人;$8.8M;通信转售/硬件分销(NAICS 517911);$150k funding 谱;**Teltonika 授权档**;paragonnt.com 关联谱**;**Michael P. Prefontaine: Chief Executive Officer and President(D&B Key Principal+zoominfo+buzzfile 三源)**;**Ammar Rezek: President(RR/contactout/zoominfo 双头谱差旗注)**;Chris Turcotte 决策人谱
+- 【推断】R66 第 22 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -78,7 +78,8 @@ updated: 2026-09-28
 - **原始联系字段**：sales@ntsdirect.com（官网Contact Us/About PDF）；877.483.5393；NTS Direct，41 Main Street, Bolton, MA 01740
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
-  - **Ammar Rezek**(President)— NTS Direct 官方新闻稿署名下三星扩谱 〔已有(公司官方公开件/登记册自曝);源:https://ntsdirect.com/nts-direct-expands-continued-partnership-samsung/〕
+  - **Michael P. Prefontaine**(CEO & President(D&B Key Principal 三源))— dnb.com 件 〔已有(公司官方公开件/登记册自曝);源:https://www.dnb.com/business-directory/company-profiles.nts_direct_inc.cf28835b4c01f9c9c299defe093a9cc4.html〕
+  - **Ammar Rezek**(President(双头谱差旗注))— contactout/rocketreach 件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://contactout.com/company/NTSDirect-7160〕
   - **Michael Prefontaine**(CEO)— CBInsights/ZoomInfo 双源 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.cbinsights.com/company/nts-direct/people〕
   - **Christopher Turcotte**(Vice President)— ZoomInfo 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.datanyze.com/companies/nts-direct/347616523〕
   - **Timothy Dinwoodie**(Director, Channel Sales)— ZoomInfo 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.datanyze.com/companies/nts-direct/347616523〕
@@ -88,7 +89,8 @@ updated: 2026-09-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ammar Rezek | President | NTS Direct 官方新闻稿署名下三星扩谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://ntsdirect.com/nts-direct-expands-continued-partnership-samsung/ |
+| Michael P. Prefontaine | CEO & President(D&B Key Principal 三源) | dnb.com 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.dnb.com/business-directory/company-profiles.nts_direct_inc.cf28835b4c01f9c9c299defe093a9cc4.html |
+| Ammar Rezek | President(双头谱差旗注) | contactout/rocketreach 件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://contactout.com/company/NTSDirect-7160 |
 | Michael Prefontaine | CEO | CBInsights/ZoomInfo 双源 | leads-only·待 opt-in(LinkedIn 公开面) | https://www.cbinsights.com/company/nts-direct/people |
 | Christopher Turcotte | Vice President | ZoomInfo | leads-only·待 opt-in(LinkedIn 公开面) | https://www.datanyze.com/companies/nts-direct/347616523 |
 | Timothy Dinwoodie | Director, Channel Sales | ZoomInfo | leads-only·待 opt-in(LinkedIn 公开面) | https://www.datanyze.com/companies/nts-direct/347616523 |
@@ -98,10 +100,10 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 具名 KPI 引路口
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：具名 KP 引路 → 采购/技术硬件分载线
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
 - **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
@@ -115,50 +117,42 @@ updated: 2026-09-28
 ### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：谱链明智途径(LinkedIn 公开面)
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第2波.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第22波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：美国 Bolton, MA VoIP/UC/WLAN VAD;Paragon 全资子;三星 WLAN 全系分授权
-- **②芯片/型号**：(待问或官网未硬谱分录档；MikroTik 从库内信号)
-- **③KP 深挖**：**Ammar Rezek(President,官方署名谱);Michael Prefontaine(CEO);Christopher Turcotte(VP);Timothy Dinwoodie(渠道销售总监);Erica Ferretti(营销传播经理);Denise Pineo/Joshua Bergevin(NAM)**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))→ 成本谱替换件/随行件
-- **⑤在乎与偏好**：MSP/VAR/ISP/ITSP/集成商/VAD 链;SMB-Enterprise 谱
+- **①背景再核**：NTS Direct, Inc.(美国 Bolton, MA 01740,41 Main St;**1990 创 36 年;25-31 人;$8.8M;通信转售/硬件分销(NAICS 517911);$150k funding 谱;**Teltonika 授权档**;paragonnt.com 关联谱**;**Michael P. Prefontaine: Chief Executive Officer and President(D&B Key Principal+zoominfo+buzzfile 三源)**;**Ammar Rezek: President(RR/contactout/zoominfo 双头谱差旗注)**;Chris Turcotte 决策人谱
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Michael P. Prefontaine(CEO & President(D&B Key Principal 三源),official-self-published·谱/leads-only(直发需 opt-in));Ammar Rezek(President(双头谱差旗注),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：CEO+President 双具名
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**NTS Direct has 2 executives. NTS Direct's current Chief Executive Officer is Mike Prefontaine
-  > NTS Direct has 2 executives. NTS Direct's current Chief Executive Officer is Mike Prefontaine
-  > 来源：https://www.cbinsights.com/company/nts-direct/people
-- **【决策链与对接人】**Michael Prefontaine CEO · Ammar Rezek President · Christopher Turcotte Vice President · Timothy Dinwoodie Director, Channel Sales · Erica Ferretti Manager, Marketing & Communications · Denise Pineo/Joshua Bergevin National Account Manager (and 13 more account executives)
-  > Michael Prefontaine CEO · Ammar Rezek President · Christopher Turcotte Vice President · Timothy Dinwoodie Director, Channel Sales · Erica Ferretti Manager, Marketing & Communications · Denise Pineo/Joshua Bergevin National Account Manager (and 13 more account executives)
-  > 来源：https://www.datanyze.com/companies/nts-direct/347616523
-- **【产品线与在售品牌】**NTS Direct expands their continued partnership with Samsung by adding their Wireless LAN products ... "We see Samsung's WLAN product set to be integral" said NTS Direct President Ammar Rezek; A wholly owned subsidiary of Paragon Communications; 300,000 sq ft of warehoused product
-  > NTS Direct expands their continued partnership with Samsung by adding their Wireless LAN products ... "We see Samsung's WLAN product set to be integral" said NTS Direct President Ammar Rezek; A wholly owned subsidiary of Paragon Communications; 300,000 sq ft of warehoused product
-  > 来源：https://ntsdirect.com/nts-direct-expands-continued-partnership-samsung/
-- **【业务定位】**Bolton, MA 1,619 followers · Distribution with Benefits · 20+ years of experience in innovative distribution and fulfillment services
-  > Bolton, MA 1,619 followers · Distribution with Benefits · 20+ years of experience in innovative distribution and fulfillment services
-  > 来源：https://www.linkedin.com/company/nts-direct
+- **【决策链与对接人】**Key Principal: Michael P Prefontaine, Chief Executive Officer and President(D&B);**Ammar Rezek President(RR/contactout)=双头谱差旗注**;decision makers: Chris Turcotte 等
+  > Key Principal: Michael P Prefontaine, Chief Executive Officer and President(D&B);**Ammar Rezek President(RR/contactout)=双头谱差旗注**;decision makers: Chris Turcotte 等
+  > 来源：https://www.zoominfo.com/c/nts-direct/347616523
+- **【联系方式与基础画像】**41 Main St, Bolton, MA 01740;(508) 656-1070/(877) 483-5393;shop.ntsdirect.com;founded 1990;25-31 employees;$8.8M revenue;Telecommunications 转售/分销;Teltonika 授权档(dnb/buzzfile/RR 件)
+  > 41 Main St, Bolton, MA 01740;(508) 656-1070/(877) 483-5393;shop.ntsdirect.com;founded 1990;25-31 employees;$8.8M revenue;Telecommunications 转售/分销;Teltonika 授权档(dnb/buzzfile/RR 件)
+  > 来源：https://www.buzzfile.com/business/NTS-Direct,-Inc.-508-656-1070
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：美国 Bolton, MA VoIP/UC/WLAN VAD;Paragon 全资子;三星 WLAN 全系分授权
-- **产品线与在售品牌**：VoIP PBX/IP 电话/视频会议/物理安全/统一通信/协作/网络硬件;Samsung WLAN 全系
-- **目标行业与场景**：MSP/VAR/ISP/ITSP/集成商/VAD 链;SMB-Enterprise 谱
-- **团队与规模**：11-50 人(31 人 LinkedIn);1990 创立(36 年);30 万平方英尺仓+provisioning lab
-- **决策链与对接人**：**Ammar Rezek(President,官方署名谱);Michael Prefontaine(CEO);Christopher Turcotte(VP);Timothy Dinwoodie(渠道销售总监);Erica Ferretti(营销传播经理);Denise Pineo/Joshua Bergevin(NAM)**
-- **技术与认证**：VoIP/UC/WLAN/物理安全/网络硬件集成分销;Proposuring Lab + Samsung 全系
-- **采购与供应链信号**：30 万平方英尺仓 + provisioning lab 展品大量流动;谱线名 30 年
-- **近期动态与线索**：2018-10 三星 WLAN 扩谱官方新闻(Ammar Rezek 署名);LinkedIn 1,619 followers
-- **与我方契合点**：VAD 谱面的「同档多谱」成本谱替换件=Prefontaine 谱位
-- **风险与注意**：MikroTik 未列谱(库内信号);top decision maker 的谱链 LinkedIn 谱
-- **_swotstrt**：S Paragon 全景/三星全谱30万平方英尺仓 / W MikroTik 未列谱 / O 同档多谱成本替换件 / T 大牌集成
-- **_sw**：['Paragon 全景/三星全谱大仓', 'MikroTik的心中漏谱', '同档多谱的价值替换件', '大牌集成']
+- **业务定位**：NTS Direct, Inc.(美国 Bolton, MA 01740,41 Main St;**1990 创 36 年;25-31 人;$8.8M;通信转售/硬件分销(NAICS 517911);$150k funding 谱;**Teltonika 授权档**;paragonnt.com 关联谱**;**Michael P. Prefontaine: Chief Executive Officer and President(D&B Key Principal+zoominfo+buzzfile 三源)**;**Ammar Rezek: President(RR/contactout/zoominfo 双头谱差旗注)**;Chris Turcotte 决策人谱
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：美麻省 36 年通信硬分销商
+- **团队与规模**：25-31 人;1990 创
+- **决策链与对接人**：**Michael P. Prefontaine(CEO & President(D&B Key Principal 三源),official-self-published·谱/leads-only(直发需 opt-in));Ammar Rezek(President(双头谱差旗注),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 22 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Prefontaine CEO 位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -173,10 +167,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：Paragon 全景/三星全谱大仓
-- **W**：MikroTik的心中漏谱
-- **O**：同档多谱的价值替换件
-- **T**：大牌集成
+- **S**：CEO+President 双具名
+- **W**：双头差旗注
+- **O**：Prefontaine CEO 直达位
+- **T**：一线链竞谱
 
 ## 触达与风险红线
 
@@ -208,9 +202,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] MikroTik 谱份额
-  - [ ] 当前 24 口 PoE 执行品牌
-  - [ ] 具名 KP 直连邮箱
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -222,13 +215,9 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Ammar,
+Dear Mr. Prefontaine,
 
-NTS Direct posts a serious footprint — 300,000 square feet of Bolton warehouse, a provisioning lab, and the full Samsung WLAN line behind 6,500+ resellers. That is exactly the profile where one more value-layer switch SKU pays for itself in the first pickup order.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each reseller deployment you provision.
-
-As President of NTS Direct, would you be the right desk to route this to — or shall I send the one-page spec to your channel team first?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
 Saga Networks Export Desk

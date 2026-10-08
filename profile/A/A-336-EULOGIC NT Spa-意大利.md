@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】EULOGIC NT SpA（意大利 Bari/Roma/Milano）：Cybersecurity/Digital Forensics & IR/Digital Transformation/Consulting——**60+ 认证专家、H24 Operation Center**；伙伴墙极长（**UBIQUITI + Allied Telesis**+Engenius/3CX/Cisco/Fortinet、Lenovo/HP、Pearson Vue、Sangfor 等）;CSV 注：自述脉络 1995 年 SIM NT→2020s 沿革——**与库内 A-215（SIM NT 巴里 1995）疑同族**，错峰双行注
-- 【推断】Bari 系 SOC 大屋：其客户基础有接入件需求——Ubiquiti/AT 双在墙需要前句框定；同类主体注必落
-- 【假设】其 customer-project/bundle 里的 value 二轨窄位
+- 【事实】EULOGIC NT Spa:Eulogic(**NT SpA 运营体**;意大利 Bari,Via Giovanni Amendola 191/S(旧体 SRL 址);**2010 创;11-50 人;IT 安全/网络+MePA 2024 供应商(通信设备+ICT 咨询=公采守界注)**;**Corp IT Distretto Puglia 委员 2025:Claudio Tinelli(Co-Founder)接任 Salvatore Latronico 项;RR 谱:Antonello Giordano Amministratore+Luigi Uva Sales Manager+Vincenzo Servedio PDM**;**差旗注:旧体 Eulogic S.R.L.(P.IVA 07006180728)Stato Cessata 已注销→NT SpA 新体承接;Vito Virgilio Managing Partner(LI 旧体谱)**
+- 【推断】R66 第 22 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,18 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@eulogic.it（官网团队/页脚；自社Facebook同）；+39 080 564 0511；Eulogic NT SpA，Bari/Milano
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Antonello Giordano**(Amministratore(RR 谱面条))— rocketreach 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/luigi-uva-email_170774091〕
+  - **Claudio Tinelli**(Co-Founder+Distretto Informatica 委员(LI/Distretto 件))— linkedin.com/company/eulogic-srl 件 〔已有(公司官方公开件/登记册自曝);源:https://it.linkedin.com/company/eulogic-srl〕
+  - **Luigi Uva**(Sales Manager(销售口 KPI))— rocketreach 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/luigi-uva-email_170774091〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Antonello Giordano | Amministratore(RR 谱面条) | rocketreach 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/luigi-uva-email_170774091 |
+| Claudio Tinelli | Co-Founder+Distretto Informatica 委员(LI/Distretto 件) | linkedin.com/company/eulogic-srl 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://it.linkedin.com/company/eulogic-srl |
+| Luigi Uva | Sales Manager(销售口 KPI) | rocketreach 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/luigi-uva-email_170774091 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -135,32 +143,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第34批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第22波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：IT Bari SOC 大屋（官网一手核）
-- **②芯片/型号**：Ubiquiti/AT 线
-- **③KP 深挖**：info@
-- **④Saga 对标**：二轨窄位（$180 锚点一致）
-- **⑤在乎与偏好**：SOC 口碑/合规
+- **①背景再核**：Eulogic(**NT SpA 运营体**;意大利 Bari,Via Giovanni Amendola 191/S(旧体 SRL 址);**2010 创;11-50 人;IT 安全/网络+MePA 2024 供应商(通信设备+ICT 咨询=公采守界注)**;**Corp IT Distretto Puglia 委员 2025:Claudio Tinelli(Co-Founder)接任 Salvatore Latronico 项;RR 谱:Antonello Giordano Amministratore+Luigi Uva Sales Manager+Vincenzo Servedio PDM**;**差旗注:旧体 Eulogic S.R.L.(P.IVA 07006180728)Stato Cessata 已注销→NT SpA 新体承接;Vito Virgilio Managing Partner(LI 旧体谱)**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Antonello Giordano(Amministratore(RR 谱面条),leads-only·待 opt-in(LinkedIn/谱面带核));Claudio Tinelli(Co-Founder+Distretto Informatica 委员(LI/Distretto 件),official-self-published·谱/leads-only(直发需 opt-in));Luigi Uva(Sales Manager(销售口 KPI),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：Distretto 委员 Co-Founder 谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Cybersecurity • Digital Forensics & IR • Digital Transformation——60+ specialisti certificati, Operation Center H24；伙伴墙 Ubiquiti/Allied Telesis 在列
-  > Cybersecurity • Digital Forensics & IR • Digital Transformation——60+ specialisti certificati, Operation Center H24；伙伴墙 Ubiquiti/Allied Telesis 在列
-  > 来源：https://eulogic.it
+- **【决策链与对接人】**RR: Antonello Giordano(Amministratore)+Luigi Uva(Sales manager at Eulogic NT SpA)+Vincenzo Servedio(PDM);LI: Claudio Tinelli(Co-Founder;Distretto Informatica Puglia Comitato Direttivo 2025 接任)+Vito Virgilio(MP,旧体谱)
+  > RR: Antonello Giordano(Amministratore)+Luigi Uva(Sales manager at Eulogic NT SpA)+Vincenzo Servedio(PDM);LI: Claudio Tinelli(Co-Founder;Distretto Informatica Puglia Comitato Direttivo 2025 接任)+Vito Virgilio(MP,旧体谱)
+  > 来源：https://rocketreach.co/luigi-uva-email_170774091
+- **【联系方式与基础画像】**Bari;2010 founded;11-50;network/cyber security;MePA 2024 供应商(Beni 通信设备+Servizi ICT 咨询);**旧体 SRL Cessata→NT SpA 承接谱**(amministrazionicomunali/registroaziende/linkedin 件)
+  > Bari;2010 founded;11-50;network/cyber security;MePA 2024 供应商(Beni 通信设备+Servizi ICT 咨询);**旧体 SRL Cessata→NT SpA 承接谱**(amministrazionicomunali/registroaziende/linkedin 件)
+  > 来源：https://www.amministrazionicomunali.it/puglia/bari/eulogic
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：意大利 Bari SOC/咨询大屋
-- **产品线与在售品牌**：Ubiquiti/Allied/Engenius/Cisco 等
-- **目标行业与场景**：中大型企业
-- **团队与规模**：60+ 专家
-- **决策链与对接人**：info@ 口
-- **技术与认证**：H24 SOC
-- **采购与供应链信号**：项目随单+bundle
-- **近期动态与线索**：Pearson Vue/Smau 伙伴
-- **与我方契合点**：value 二轨窄位（Ubiquiti/AT 旁前句）
-- **风险与注意**：**A-215 同族疑——错峰注**
+- **业务定位**：Eulogic(**NT SpA 运营体**;意大利 Bari,Via Giovanni Amendola 191/S(旧体 SRL 址);**2010 创;11-50 人;IT 安全/网络+MePA 2024 供应商(通信设备+ICT 咨询=公采守界注)**;**Corp IT Distretto Puglia 委员 2025:Claudio Tinelli(Co-Founder)接任 Salvatore Latronico 项;RR 谱:Antonello Giordano Amministratore+Luigi Uva Sales Manager+Vincenzo Servedio PDM**;**差旗注:旧体 Eulogic S.R.L.(P.IVA 07006180728)Stato Cessata 已注销→NT SpA 新体承接;Vito Virgilio Managing Partner(LI 旧体谱)**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：意巴里 15 年 IT 安全屋(新旧体承接谱)
+- **团队与规模**：11-50 人;2010 创
+- **决策链与对接人**：**Antonello Giordano(Amministratore(RR 谱面条),leads-only·待 opt-in(LinkedIn/谱面带核));Claudio Tinelli(Co-Founder+Distretto Informatica 委员(LI/Distretto 件),official-self-published·谱/leads-only(直发需 opt-in));Luigi Uva(Sales Manager(销售口 KPI),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 22 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Antonello Giordano+Luigi Uva 位(opt-in 律;公采守界)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -175,10 +186,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：体量
-- **W**：在墙
-- **O**：窄位
-- **T**：大厂
+- **S**：Distretto 委员 Co-Founder 谱
+- **W**：体承接差旗注+公采守界
+- **O**：Giordano AD+Uva 销售直达位
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -197,7 +208,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -206,8 +217,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 替补机制
-  - [ ] 占比
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,16 +230,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Ciao EULOGIC team,
+Gentile Sig. Giordano,
 
-Cybersecurity with a 24-hour operation center and sixty-plus certified specialists - and a partner wall where Ubiquiti and Allied Telesis both stand. One sentence up front: those lines keep their place.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value tier for customer projects and bundles where budgets decide.
-
-One question: in your project bundles, is there a value PoE slot beside the flagship networking lines?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

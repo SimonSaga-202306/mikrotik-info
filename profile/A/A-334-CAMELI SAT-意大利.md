@@ -48,9 +48,9 @@ updated: 2026-10-07
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】CAMELI SAT（意大利 Donoratico LI）:Allied Telesis 官方伙伴定位器名录主体；本波 camelisat.it **HTTP 500**（2026-09-29 核验，同 Young B.T.S. 型站挂）;CSV=工商电话 +39 0565 774391、无可核证邮箱
-- 【推断】名录身份在档但接触口缺——照 R30 手动 A 先建档供位；站挂需用户人工补邮箱后复测
-- 【假设】用户补邮箱后启用候选位
+- 【事实】CAMELI SAT:Cameli Sat di Burgalassi Agnese(意大利 Donoratico(Castagneto Carducci, LI),Via V. Veneto 24;**IMPRESA INDIVIDUALE 个体户**;**收银机/商铺设备/安防器材小店(0565 774391)**;**业主: Agnese Burgalassi(商号即业主名;informazione-aziende/CRIBIS 件)**;档谱 Allied 代理注;无公开站点
+- 【推断】R66 第 22 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,10 +76,14 @@ updated: 2026-10-07
 - 来源等级：leads-only（R41–R48 联系方式台账口径）
 - **原始联系字段**：+39 0565 774391（工商/商录电话，Donoratico）；官网camelisat.it本轮未见联系信息；未见可核证邮箱与网站；本轮保留人工补信息标注
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Agnese Burgalassi**(Titolare(个体户业主;商号具名))— informazione-aziende.it/CRIBIS 件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.informazione-aziende.it/Azienda_CAMELI-SAT-DI-BURGALASSI-AGNESE〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Agnese Burgalassi | Titolare(个体户业主;商号具名) | informazione-aziende.it/CRIBIS 件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.informazione-aziende.it/Azienda_CAMELI-SAT-DI-BURGALASSI-AGNESE |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -133,32 +137,35 @@ updated: 2026-10-07
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第34批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第22波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://camelisat.it|HTTP500 注|CSV 9-23 存 AT 名录+工商电话双证
-- **②芯片/型号**：—
-- **③KP 深挖**：—
-- **④Saga 对标**：候选供位（$180 锚点一致）
-- **⑤在乎与偏好**：—
+- **①背景再核**：Cameli Sat di Burgalassi Agnese(意大利 Donoratico(Castagneto Carducci, LI),Via V. Veneto 24;**IMPRESA INDIVIDUALE 个体户**;**收银机/商铺设备/安防器材小店(0565 774391)**;**业主: Agnese Burgalassi(商号即业主名;informazione-aziende/CRIBIS 件)**;档谱 Allied 代理注;无公开站点
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Agnese Burgalassi(Titolare(个体户业主;商号具名),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：业主名谱=直达
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**CAMELI SAT（意大利 Donoratico LI）:Allied Telesis 官方伙伴定位器名录主体；本波 camelisat.it **HTTP 500**（2026-09-29 核验，同 Young B.T.S. 型站挂）;CSV=工商电话 +39 0565 774391、无可核证邮箱
-  > CAMELI SAT（意大利 Donoratico LI）:Allied Telesis 官方伙伴定位器名录主体；本波 camelisat.it **HTTP 500**（2026-09-29 核验，同 Young B.T.S. 型站挂）;CSV=工商电话 +39 0565 774391、无可核证邮箱
-  > 来源：https://camelisat.it|HTTP500 注|CSV 9-23 存 AT 名录+工商电话双证
+- **【联系方式与基础画像】**Cameli Sat di Burgalassi Agnese;Via V. Veneto 24, 57022 Donoratico (LI);0565 774391;IMPRESA INDIVIDUALE;Registratori di cassa/forniture e attrezzature per negozi(informazione-aziende/paginegialle 件)
+  > Cameli Sat di Burgalassi Agnese;Via V. Veneto 24, 57022 Donoratico (LI);0565 774391;IMPRESA INDIVIDUALE;Registratori di cassa/forniture e attrezzature per negozi(informazione-aziende/paginegialle 件)
+  > 来源：https://www.informazione-aziende.it/Azienda_CAMELI-SAT-DI-BURGALASSI-AGNESE
+- **【近期动态与线索】**档录类型: 集成商/代理(Allied Telesis 谱);无公开站点;R66 22 波谱面核验:主业收银/商铺器材,网络件链谱待二批(2026-10-08 留痕)
+  > 档录类型: 集成商/代理(Allied Telesis 谱);无公开站点;R66 22 波谱面核验:主业收银/商铺器材,网络件链谱待二批(2026-10-08 留痕)
+  > 来源：https://www.paginegialle.it/donoratico-li/registratori-di-cassa/burgalassi-agnese_3
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：CAMELI SAT
-- **产品线与在售品牌**：—
-- **目标行业与场景**：—
-- **团队与规模**：—
-- **决策链与对接人**：—
-- **技术与认证**：—
-- **采购与供应链信号**：—
-- **近期动态与线索**：—
-- **与我方契合点**：候选供位（待邮箱）
-- **风险与注意**：无接触点
+- **业务定位**：Cameli Sat di Burgalassi Agnese(意大利 Donoratico(Castagneto Carducci, LI),Via V. Veneto 24;**IMPRESA INDIVIDUALE 个体户**;**收银机/商铺设备/安防器材小店(0565 774391)**;**业主: Agnese Burgalassi(商号即业主名;informazione-aziende/CRIBIS 件)**;档谱 Allied 代理注;无公开站点
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：意托斯卡纳个体商铺器材铺
+- **团队与规模**：个体铺谱
+- **决策链与对接人**：**Agnese Burgalassi(Titolare(个体户业主;商号具名),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 22 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Agnese Burgalassi 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -173,10 +180,10 @@ updated: 2026-10-07
 
 ## SWOT
 
-- **S**：候选位
-- **W**：无点
-- **O**：补邮箱
-- **T**：—
+- **S**：业主名谱=直达
+- **W**：微实体谱;主业偏
+- **O**：Burgalassi 唯一直达位
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -199,7 +206,7 @@ updated: 2026-10-07
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ❓ 缺邮箱 |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -208,8 +215,8 @@ updated: 2026-10-07
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 邮箱
-  - [ ] 在营状态
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -221,7 +228,12 @@ updated: 2026-10-07
 **主题**：PoE switching for your projects
 
 ```text
-【建档不出信（参照 A-205/A-212 先例）】无可确认邮箱；触发条件=用户补邮箱→启用 STC-424XGGPM-280W 候选供位。
+Gentile Sig.ra Burgalassi,
+
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+
+Best regards,
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Digital Sima S.A.(希腊;R66 基线补足档·公司面全貌待补;函数口职能口 sales@digitalsima.gr（Zyxel官方分销名录；官网联系页仅表单）；+30 210 9010401；Digital Sima S.A.，Ilia Iliou 54, 11743 N. Kosmos, Athens(digitalsima.gr（Zyxel官方分销名录；官网联系页仅表单）；+30 210 9010401；Digital Sima S.A.，Ilia Iliou 54, 11743 N. Kosmos, Athens)跟团不动;司实谱位点名指R66 后续波次/KPI 核心补件)
-- 【推断】R66 基线补足档(个体谱=实名同体谱;公司谱=函数口面谱)，公司面全谱/司实谱位待 R66 波次补件
-- 【假设】函数口职能口digitalsima.gr（Zyxel官方分销名录；官网联系页仅表单）；+30 210 9010401；Digital Sima S.A.，Ilia Iliou 54, 11743 N. Kosmos, Athens 为谱链入口；具名 kp 直发需 opt-in；后续波次以登记册+LinkedIn+R64 RocketReach 谱补撬件
+- 【事实】Digital Sima S.A:DIGITAL SIMA S.A.(=ΝΤΙΤΖΙΤΑΛ ΣΙΜΑ;希腊 Athens(Neos Kosmos),Ilia Iliou 54, 11744;**1988 创 38 年;16-37 人;$1-5M;计算机/网络安全设备贸易(SA)**;**Chairperson/CEO: Dimitrios Konstantinos Stefanopoulos(D&B+contactout 双源 O-ish;dstef@digitalsima.gr)**;**ACCI 商会联络 jnikor@digitalsima.gr**;梯队 Dimitris Kandil Senior Network Engineer+Sotiris Sarantos Sales Engineer+John Daskalopoulos Security Solutions Supervisor+Charalampos Tassis Cloud;**WatchGuard NDR/FireCloud 技术会谱(LI)=网安专营**
+- 【推断】R66 第 22 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,18 @@ updated: 2026-09-28
 - 来源等级：partner-directory（R41–R48 联系方式台账口径）
 - **原始联系字段**：sales@digitalsima.gr（Zyxel官方分销名录；官网联系页仅表单）；+30 210 9010401；Digital Sima S.A.，Ilia Iliou 54, 11743 N. Kosmos, Athens
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Dimitrios Konstantinos Stefanopoulos**(Chairperson/CEO(D&B+contactout 双源))— dnb.com 件 〔已有(公司官方公开件/登记册自曝);源:https://www.dnb.com/business-directory/company-profiles/digital-sima-sa.f916400d99c26f10e9a584fdf29a08b7〕
+  - **Dimitris Kandil**(Senior Network Engineer(高级网络工程师谱))— rocketreach 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/digital-sima-sa-profile_b443ea94fddad9fd〕
+  - **Sotiris Sarantos**(Sales Engineer(售前/销售工程))— linkedin.com/in/sotirissarantos 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/in/sotirissarantos/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Dimitrios Konstantinos Stefanopoulos | Chairperson/CEO(D&B+contactout 双源) | dnb.com 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.dnb.com/business-directory/company-profiles/digital-sima-sa.f916400d99c26f10e9a584fdf29a08b7 |
+| Dimitris Kandil | Senior Network Engineer(高级网络工程师谱) | rocketreach 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/digital-sima-sa-profile_b443ea94fddad9fd |
+| Sotiris Sarantos | Sales Engineer(售前/销售工程) | linkedin.com/in/sotirissarantos | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.linkedin.com/in/sotirissarantos/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -101,45 +109,42 @@ updated: 2026-09-28
 ### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：谱链明智途径(LinkedIn 公开面)
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_341_376基线.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第22波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：R66 基线补足档(公司谱面全谱待补kp);司面全谱待 R66 波次补;函数口 sales@digitalsima.gr（Zyxel官方分销名录；官网联系页仅表单）；+30 210 9010401；Digital Sima S.A.，Ilia Iliou 54, 11743 N. Kosmos, Athens(digitalsima.gr（Zyxel官方分销名录；官网联系页仅表单）；+30 210 9010401；Digital Sima S.A.，Ilia Iliou 54, 11743 N. Kosmos, Athens)跟团不动
-- **②芯片/型号**：(待问;digitalsima.gr（Zyxel官方分销名录；官网联系页仅表单）；+30 210 9010401；Digital Sima S.A.，Ilia Iliou 54, 11743 N. Kosmos, Athens 域名面谱=公司面谱)
-- **③KP 深挖**：**函数口职能口 sales@digitalsima.gr（Zyxel官方分销名录；官网联系页仅表单）；+30 210 9010401；Digital Sima S.A.，Ilia Iliou 54, 11743 N. Kosmos, Athens(digitalsima.gr（Zyxel官方分销名录；官网联系页仅表单）；+30 210 9010401；Digital Sima S.A.，Ilia Iliou 54, 11743 N. Kosmos, Athens)已实位;R66 波次点名(KPI 核心):具体 KP 待补撬件(Urzeówne Rejstery+LinkedIn+official-self-published 渠道+R64 RocketReach 谱)&#10;具体实名谱位待 R66 波次补(司实谱位点名=R66 KPI 核心补件)**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))→ 成本谱替换件/随行件
-- **⑤在乎与偏好**：函数口职能口已实位
+- **①背景再核**：DIGITAL SIMA S.A.(=ΝΤΙΤΖΙΤΑΛ ΣΙΜΑ;希腊 Athens(Neos Kosmos),Ilia Iliou 54, 11744;**1988 创 38 年;16-37 人;$1-5M;计算机/网络安全设备贸易(SA)**;**Chairperson/CEO: Dimitrios Konstantinos Stefanopoulos(D&B+contactout 双源 O-ish;dstef@digitalsima.gr)**;**ACCI 商会联络 jnikor@digitalsima.gr**;梯队 Dimitris Kandil Senior Network Engineer+Sotiris Sarantos Sales Engineer+John Daskalopoulos Security Solutions Supervisor+Charalampos Tassis Cloud;**WatchGuard NDR/FireCloud 技术会谱(LI)=网安专营**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Dimitrios Konstantinos Stefanopoulos(Chairperson/CEO(D&B+contactout 双源),official-self-published·谱/leads-only(直发需 opt-in));Dimitris Kandil(Senior Network Engineer(高级网络工程师谱),leads-only·待 opt-in(LinkedIn/谱面带核));Sotiris Sarantos(Sales Engineer(售前/销售工程),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：D&B Chairperson 具名+商会箱=双直达
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**Digital Sima S.A. — sales@digitalsima.gr（Zyxel官方分销名录；官网联系页仅表单）；+30 210 9010401；Digital Sima S.A.，Ilia Iliou 54, 11743 N. Kosmos, Athens (CSV/STRUCT 落穗件;公司谱面全谱待补kp)
-  > Digital Sima S.A. — sales@digitalsima.gr（Zyxel官方分销名录；官网联系页仅表单）；+30 210 9010401；Digital Sima S.A.，Ilia Iliou 54, 11743 N. Kosmos, Athens (CSV/STRUCT 落穗件;公司谱面全谱待补kp)
-  > 来源：https://www.digitalsima.gr
-- **【业务定位】**R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;公司谱面全谱待补kp
-  > R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;公司谱面全谱待补kp
-  > 来源：https://www.digitalsima.gr
-- **【近期动态与线索】**2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
-  > 2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
-  > 来源：https://www.digitalsima.gr
+- **【决策链与对接人】**Key Principal/Chairperson: Dimitrios Konstantinos Stefanopoulos(D&B);CEO email dstef@digitalsima.gr(contactout);员工谱: Kandil(Sr Network Engineer)+Sarantos(Sales Engineer;WatchGuard NDR 会)
+  > Key Principal/Chairperson: Dimitrios Konstantinos Stefanopoulos(D&B);CEO email dstef@digitalsima.gr(contactout);员工谱: Kandil(Sr Network Engineer)+Sarantos(Sales Engineer;WatchGuard NDR 会)
+  > 来源：https://www.dnb.com/business-directory/company-profiles/digital-sima-sa.f916400d99c26f10e9a584fdf29a08b7
+- **【联系方式与基础画像】**Ilia Iliou 54, 11744 Athens;+30 2109010401;ACCI 联络 jnikor@digitalsima.gr;founded 1988;16-37 employees;Computer and Network Security 贸易;WatchGuard NDR/FireCloud 组合谱(dnb/acci/RR/LI 件)
+  > Ilia Iliou 54, 11744 Athens;+30 2109010401;ACCI 联络 jnikor@digitalsima.gr;founded 1988;16-37 employees;Computer and Network Security 贸易;WatchGuard NDR/FireCloud 组合谱(dnb/acci/RR/LI 件)
+  > 来源：https://directory.acci.gr/companies/details/259103
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：R66 基线补足档(公司谱面全谱待补kp);司面全谱待 R66 波次补;函数口 sales@digitalsima.gr（Zyxel官方分销名录；官网联系页仅表单）；+30 210 9010401；Digital Sima S.A.，Ilia Iliou 54, 11743 N. Kosmos, Athens(digitalsima.gr（Zyxel官方分销名录；官网联系页仅表单）；+30 210 9010401；Digital Sima S.A.，Ilia Iliou 54, 11743 N. Kosmos, Athens)跟团不动
-- **产品线与在售品牌**：(待问;digitalsima.gr（Zyxel官方分销名录；官网联系页仅表单）；+30 210 9010401；Digital Sima S.A.，Ilia Iliou 54, 11743 N. Kosmos, Athens 域名面谱=公司面谱)
-- **目标行业与场景**：(R66 后续波次补)
-- **团队与规模**：(R66 后续波次补)
-- **决策链与对接人**：**函数口职能口 sales@digitalsima.gr（Zyxel官方分销名录；官网联系页仅表单）；+30 210 9010401；Digital Sima S.A.，Ilia Iliou 54, 11743 N. Kosmos, Athens(digitalsima.gr（Zyxel官方分销名录；官网联系页仅表单）；+30 210 9010401；Digital Sima S.A.，Ilia Iliou 54, 11743 N. Kosmos, Athens)已实位;R66 波次点名(KPI 核心):具体 KP 待补撬件(Urzeówne Rejstery+LinkedIn+official-self-published 渠道+R64 RocketReach 谱)&#10;具体实名谱位待 R66 波次补(司实谱位点名=R66 KPI 核心补件)**
-- **技术与认证**：(R66 后续波次补)
-- **采购与供应链信号**：(R66 后续波次补)
-- **近期动态与线索**：2026-10-07 R66 波次点名(基线补足)
-- **与我方契合点**：函数口职能口digitalsima.gr（Zyxel官方分销名录；官网联系页仅表单）；+30 210 9010401；Digital Sima S.A.，Ilia Iliou 54, 11743 N. Kosmos, Athens 面心谱链档
-- **风险与注意**：具名 kp 未勘出/波次点名；不要直发或未 opt-in
+- **业务定位**：DIGITAL SIMA S.A.(=ΝΤΙΤΖΙΤΑΛ ΣΙΜΑ;希腊 Athens(Neos Kosmos),Ilia Iliou 54, 11744;**1988 创 38 年;16-37 人;$1-5M;计算机/网络安全设备贸易(SA)**;**Chairperson/CEO: Dimitrios Konstantinos Stefanopoulos(D&B+contactout 双源 O-ish;dstef@digitalsima.gr)**;**ACCI 商会联络 jnikor@digitalsima.gr**;梯队 Dimitris Kandil Senior Network Engineer+Sotiris Sarantos Sales Engineer+John Daskalopoulos Security Solutions Supervisor+Charalampos Tassis Cloud;**WatchGuard NDR/FireCloud 技术会谱(LI)=网安专营**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：希雅典 38 年网安件贸易屋
+- **团队与规模**：16-37 人;1988 创
+- **决策链与对接人**：**Dimitrios Konstantinos Stefanopoulos(Chairperson/CEO(D&B+contactout 双源),official-self-published·谱/leads-only(直发需 opt-in));Dimitris Kandil(Senior Network Engineer(高级网络工程师谱),leads-only·待 opt-in(LinkedIn/谱面带核));Sotiris Sarantos(Sales Engineer(售前/销售工程),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 22 波谱名牌(希腊首拓)
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Stefanopoulos CEO 位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -154,10 +159,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：函数口职能口已实位
-- **W**：具名 kp 未勘出(波次点名)
-- **O**：函数口面心谱链档的特制效应
-- **T**：函数口档直发不直接
+- **S**：D&B Chairperson 具名+商会箱=双直达
+- **W**：网安专营谱
+- **O**：Stefanopoulos CEO 直达位
+- **T**：一线链竞谱
 
 ## 触达与风险红线
 
@@ -176,7 +181,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -185,9 +190,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 司实谱位点名(波次点名)
-  - [ ] 公司面全谱
-  - [ ] 具名 kp 直发邮箱
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -199,13 +203,9 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi team,
+Dear Mr. Stefanopoulos,
 
-I came across Digital Sima S.A. while mapping 希腊 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.
-
-Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
 Saga Networks Export Desk

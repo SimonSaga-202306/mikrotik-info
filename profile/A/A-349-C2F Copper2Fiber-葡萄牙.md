@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】C2F Copper2Fiber(葡萄牙;R66 基线补足档·公司面全貌待补;函数口职能口 geral@c2f.pt（官网联系页）；214 373 217；Copper2Fiber – Soluções de Conectividade, Lda.，Barcarena(c2f.pt（官网联系页）；214 373 217；Copper2Fiber – Soluções de Conectividade, Lda.，Barcarena)跟团不动;司实谱位点名指R66 后续波次/KPI 核心补件)
-- 【推断】R66 基线补足档(个体谱=实名同体谱;公司谱=函数口面谱)，公司面全谱/司实谱位待 R66 波次补件
-- 【假设】函数口职能口c2f.pt（官网联系页）；214 373 217；Copper2Fiber – Soluções de Conectividade, Lda.，Barcarena 为谱链入口；具名 kp 直发需 opt-in；后续波次以登记册+LinkedIn+R64 RocketReach 谱补撬件
+- 【事实】C2F Copper2Fiber:Copper2Fiber – Soluções de Conectividade, Lda(葡萄牙 Barcarena(里斯本),R. Comendador Álvaro Vilela 19, Tercena, 2730-051;**2013-10 创 13 年;3 人 $6.9M;电信分销 B2B 专营(end-to-end 方案)**;**Bruno Formiga: Dep. Logístico/Comercial(2014-01 起 11 年=物流/商务件链口 KPI,LI 自署)**;官网无决策人具名
+- 【推断】R66 第 22 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,14 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：geral@c2f.pt（官网联系页）；214 373 217；Copper2Fiber – Soluções de Conectividade, Lda.，Barcarena
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Bruno Formiga**(Dep. Logístico/Comercial(物流商务口 KPI;LI 自署))— linkedin.com/in/bruno-formiga 件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/in/bruno-formiga-0b18261aa/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Bruno Formiga | Dep. Logístico/Comercial(物流商务口 KPI;LI 自署) | linkedin.com/in/bruno-formiga 件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.linkedin.com/in/bruno-formiga-0b18261aa/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -100,45 +104,42 @@ updated: 2026-09-28
 ### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：谱链明智途径(LinkedIn 公开面)
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_341_376基线.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第22波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：R66 基线补足档(公司谱面全谱待补kp);司面全谱待 R66 波次补;函数口 geral@c2f.pt（官网联系页）；214 373 217；Copper2Fiber – Soluções de Conectividade, Lda.，Barcarena(c2f.pt（官网联系页）；214 373 217；Copper2Fiber – Soluções de Conectividade, Lda.，Barcarena)跟团不动
-- **②芯片/型号**：(待问;c2f.pt（官网联系页）；214 373 217；Copper2Fiber – Soluções de Conectividade, Lda.，Barcarena 域名面谱=公司面谱)
-- **③KP 深挖**：**函数口职能口 geral@c2f.pt（官网联系页）；214 373 217；Copper2Fiber – Soluções de Conectividade, Lda.，Barcarena(c2f.pt（官网联系页）；214 373 217；Copper2Fiber – Soluções de Conectividade, Lda.，Barcarena)已实位;R66 波次点名(KPI 核心):具体 KP 待补撬件(Urzeówne Rejstery+LinkedIn+official-self-published 渠道+R64 RocketReach 谱)&#10;具体实名谱位待 R66 波次补(司实谱位点名=R66 KPI 核心补件)**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))→ 成本谱替换件/随行件
-- **⑤在乎与偏好**：函数口职能口已实位
+- **①背景再核**：Copper2Fiber – Soluções de Conectividade, Lda(葡萄牙 Barcarena(里斯本),R. Comendador Álvaro Vilela 19, Tercena, 2730-051;**2013-10 创 13 年;3 人 $6.9M;电信分销 B2B 专营(end-to-end 方案)**;**Bruno Formiga: Dep. Logístico/Comercial(2014-01 起 11 年=物流/商务件链口 KPI,LI 自署)**;官网无决策人具名
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Bruno Formiga(Dep. Logístico/Comercial(物流商务口 KPI;LI 自署),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：物流/商务口 11 年老员=件链 KPI
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**C2F Copper2Fiber — geral@c2f.pt（官网联系页）；214 373 217；Copper2Fiber – Soluções de Conectividade, Lda.，Barcarena (CSV/STRUCT 落穗件;公司谱面全谱待补kp)
-  > C2F Copper2Fiber — geral@c2f.pt（官网联系页）；214 373 217；Copper2Fiber – Soluções de Conectividade, Lda.，Barcarena (CSV/STRUCT 落穗件;公司谱面全谱待补kp)
-  > 来源：https://www.c2f.pt
-- **【业务定位】**R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;公司谱面全谱待补kp
-  > R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;公司谱面全谱待补kp
-  > 来源：https://www.c2f.pt
-- **【近期动态与线索】**2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
-  > 2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
-  > 来源：https://www.c2f.pt
+- **【决策链与对接人】**LI: Bruno Formiga — Dep. Logistico/Comercial na COPPER2FIBER(jan 2014 - present, 11 anos)(LI 自署);决策人谱面未具名=守界注
+  > LI: Bruno Formiga — Dep. Logistico/Comercial na COPPER2FIBER(jan 2014 - present, 11 anos)(LI 自署);决策人谱面未具名=守界注
+  > 来源：https://www.linkedin.com/in/bruno-formiga-0b18261aa/
+- **【联系方式与基础画像】**R. Comendador Álvaro Vilela 19, Tercena, 2730-051 Barcarena;criada Outubro 2013;distribuição soluções telecomunicações mercado profissional;3 employees;$6.9M(官网/RR 件)
+  > R. Comendador Álvaro Vilela 19, Tercena, 2730-051 Barcarena;criada Outubro 2013;distribuição soluções telecomunicações mercado profissional;3 employees;$6.9M(官网/RR 件)
+  > 来源：https://www.c2f.pt/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：R66 基线补足档(公司谱面全谱待补kp);司面全谱待 R66 波次补;函数口 geral@c2f.pt（官网联系页）；214 373 217；Copper2Fiber – Soluções de Conectividade, Lda.，Barcarena(c2f.pt（官网联系页）；214 373 217；Copper2Fiber – Soluções de Conectividade, Lda.，Barcarena)跟团不动
-- **产品线与在售品牌**：(待问;c2f.pt（官网联系页）；214 373 217；Copper2Fiber – Soluções de Conectividade, Lda.，Barcarena 域名面谱=公司面谱)
-- **目标行业与场景**：(R66 后续波次补)
-- **团队与规模**：(R66 后续波次补)
-- **决策链与对接人**：**函数口职能口 geral@c2f.pt（官网联系页）；214 373 217；Copper2Fiber – Soluções de Conectividade, Lda.，Barcarena(c2f.pt（官网联系页）；214 373 217；Copper2Fiber – Soluções de Conectividade, Lda.，Barcarena)已实位;R66 波次点名(KPI 核心):具体 KP 待补撬件(Urzeówne Rejstery+LinkedIn+official-self-published 渠道+R64 RocketReach 谱)&#10;具体实名谱位待 R66 波次补(司实谱位点名=R66 KPI 核心补件)**
-- **技术与认证**：(R66 后续波次补)
-- **采购与供应链信号**：(R66 后续波次补)
-- **近期动态与线索**：2026-10-07 R66 波次点名(基线补足)
-- **与我方契合点**：函数口职能口c2f.pt（官网联系页）；214 373 217；Copper2Fiber – Soluções de Conectividade, Lda.，Barcarena 面心谱链档
-- **风险与注意**：具名 kp 未勘出/波次点名；不要直发或未 opt-in
+- **业务定位**：Copper2Fiber – Soluções de Conectividade, Lda(葡萄牙 Barcarena(里斯本),R. Comendador Álvaro Vilela 19, Tercena, 2730-051;**2013-10 创 13 年;3 人 $6.9M;电信分销 B2B 专营(end-to-end 方案)**;**Bruno Formiga: Dep. Logístico/Comercial(2014-01 起 11 年=物流/商务件链口 KPI,LI 自署)**;官网无决策人具名
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：葡里斯本 13 年电信分销微铺
+- **团队与规模**：3 人;2013 创
+- **决策链与对接人**：**Bruno Formiga(Dep. Logístico/Comercial(物流商务口 KPI;LI 自署),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 22 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Bruno Formiga 位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -153,10 +154,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：函数口职能口已实位
-- **W**：具名 kp 未勘出(波次点名)
-- **O**：函数口面心谱链档的特制效应
-- **T**：函数口档直发不直接
+- **S**：物流/商务口 11 年老员=件链 KPI
+- **W**：微实体谱;决策人缺
+- **O**：Formiga 口(G 谱)
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -175,7 +176,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -184,9 +185,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 司实谱位点名(波次点名)
-  - [ ] 公司面全谱
-  - [ ] 具名 kp 直发邮箱
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -198,13 +198,9 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi team,
+Estimado Sr. Formiga,
 
-I came across C2F Copper2Fiber while mapping 葡萄牙 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.
-
-Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
 Saga Networks Export Desk

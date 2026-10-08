@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Robertas Stauskas / Magit(立陶宛;**个体户/人名司名档=实名谱位实名:Robertas Stauskas(CSV 公司名字段即本人谱位,official-self-published 级谱位公开件)**;+370 674 47188 / robertas@magit.lt；info@magit.lt；pagalba@magit.lt（官网） 签名/公司函数口已记 STRUCT
-- 【推断】R66 基线补足档(个体谱=实名同体谱;公司谱=函数口面谱)，公司面全谱/司实谱位待 R66 波次补件
-- 【假设】函数口职能口magit.lt（官网） 为谱链入口；具名 kp 直发需 opt-in；后续波次以登记册+LinkedIn+R64 RocketReach 谱补撬件
+- 【事实】Robertas Stauskas - Magit:Robertas Stauskas - Magit(立陶宛／Vilnius;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://magit.lt;magit.lt=维尔纽斯 IT 铺谱)
+- 【推断】R66 第 22 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -78,12 +78,14 @@ updated: 2026-09-28
 - **原始联系字段**：+370 674 47188 / robertas@magit.lt；info@magit.lt；pagalba@magit.lt（官网）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Robertas Stauskas - Magit**(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人))— 档谱+档站自署 〔已有(公司官方公开件/登记册自曝);源:https://magit.lt〕
   - **Robertas Stauskas**(个体谱主/本人(公司名字段即本人谱位))— robertas@magit.lt 〔已有(公司官方公开件/登记册自曝);源:CSV 公司名字段+R66 基线(2026-10-07)〕
 
 ## 关键人（KP）与触达通道
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Robertas Stauskas - Magit | MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人) | 档谱+档站自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://magit.lt |
 | Robertas Stauskas | 个体谱主/本人(公司名字段即本人谱位) | robertas@magit.lt | official-self-published·谱/人名司名同体(leads-only,直发需 opt-in) | CSV 公司名字段+R66 基线(2026-10-07) |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
@@ -107,45 +109,45 @@ updated: 2026-09-28
 ### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：谱链明智途径(LinkedIn 公开面)
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_341_376基线.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第22波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：R66 基线补足档(个体户谱:Robertas Stauskas);司面全谱待 R66 波次补;函数口 +370 674 47188 / robertas@magit.lt；info@magit.lt；pagalba@magit.lt（官网）(magit.lt（官网）)跟团不动
-- **②芯片/型号**：(待问;magit.lt（官网） 域名面谱=公司面谱)
-- **③KP 深挖**：**Robertas Stauskas(CSV 公司名字段即本人谱位)—— official-self-published 级金谱;+370 674 47188 / robertas@magit.lt；info@magit.lt；pagalba@magit.lt（官网） 口(magit.lt（官网）)跟团不动;登记册查询指向该自然人的法人公开件**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))→ 成本谱替换件/随行件
-- **⑤在乎与偏好**：个人实名档谱简洁直接
+- **①背景再核**：Robertas Stauskas - Magit(立陶宛／Vilnius;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://magit.lt;magit.lt=维尔纽斯 IT 铺谱)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Robertas Stauskas - Magit(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：MTCSWE/交换认证谱=对口窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**Robertas Stauskas / Magit — +370 674 47188 / robertas@magit.lt；info@magit.lt；pagalba@magit.lt（官网） (CSV/STRUCT 落穗件;个体户谱:Robertas Stauskas)
-  > Robertas Stauskas / Magit — +370 674 47188 / robertas@magit.lt；info@magit.lt；pagalba@magit.lt（官网） (CSV/STRUCT 落穗件;个体户谱:Robertas Stauskas)
-  > 来源：magit.lt
-- **【业务定位】**R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;个体户谱:Robertas Stauskas
-  > R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;个体户谱:Robertas Stauskas
-  > 来源：magit.lt
-- **【近期动态与线索】**2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
-  > 2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
-  > 来源：magit.lt
+- **【联系方式与基础画像】**国家/城市: %s;网站: %s;类型: 集成商/顾问(MikroTik 认证)(档案基础画像行=事实)
+  > 国家/城市: %s;网站: %s;类型: 集成商/顾问(MikroTik 认证)(档案基础画像行=事实)
+  > 来源：https://magit.lt
+- **【近期动态与线索】**档定首触角: 托管现场随单窄位($180 锚点一致)
+  > 档定首触角: 托管现场随单窄位($180 锚点一致)
+  > 来源：https://magit.lt
+- **【目标行业与场景】**档定值得跟: 有明确交换/供电需求(交换专长 MTCSWE),且有具体人直联
+  > 档定值得跟: 有明确交换/供电需求(交换专长 MTCSWE),且有具体人直联
+  > 来源：https://magit.lt
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：R66 基线补足档(个体户谱:Robertas Stauskas);司面全谱待 R66 波次补;函数口 +370 674 47188 / robertas@magit.lt；info@magit.lt；pagalba@magit.lt（官网）(magit.lt（官网）)跟团不动
-- **产品线与在售品牌**：(待问;magit.lt（官网） 域名面谱=公司面谱)
-- **目标行业与场景**：(R66 后续波次补)
-- **团队与规模**：(R66 后续波次补)
-- **决策链与对接人**：**Robertas Stauskas(CSV 公司名字段即本人谱位)—— official-self-published 级金谱;+370 674 47188 / robertas@magit.lt；info@magit.lt；pagalba@magit.lt（官网） 口(magit.lt（官网）)跟团不动;登记册查询指向该自然人的法人公开件**
-- **技术与认证**：(R66 后续波次补)
-- **采购与供应链信号**：(R66 后续波次补)
-- **近期动态与线索**：2026-10-07 R66 波次点名(基线补足)
-- **与我方契合点**：函数口职能口magit.lt（官网） 面心谱链档
-- **风险与注意**：具名 kp 未勘出/波次点名；不要直发或未 opt-in
+- **业务定位**：Robertas Stauskas - Magit(立陶宛／Vilnius;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://magit.lt;magit.lt=维尔纽斯 IT 铺谱)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：培训交付谱(MTCSWE 谱链)
+- **团队与规模**：单铺/工作室谱
+- **决策链与对接人**：**Robertas Stauskas - Magit(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 22 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Gerb. p. Stauskai,(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -160,10 +162,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：个人实名档谱简洁直接
-- **W**：该档个体不表征司面大小(个体谱)
-- **O**：个体档的成本谱替换件直达位
-- **T**：个体档档期能力低交换
+- **S**：MTCSWE/交换认证谱=对口窗
+- **W**：单铺谱
+- **O**：Robertas Stauskas - Magit 本人直达位
+- **T**：MikroTik 官方课链
 
 ## 触达与风险红线
 
@@ -195,9 +197,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 司实谱位点名(波次点名)
-  - [ ] 公司面全谱
-  - [ ] 具名 kp 直发邮箱
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -209,13 +210,9 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Robertas,
+Gerb. p. Stauskai,
 
-I came across Robertas Stauskas / Magit while mapping 立陶宛 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.
-
-Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
 Saga Networks Export Desk

@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Nlogic AS(挪威 Oslo Skøyen,Karenslyst allé 20;Org.nr 821 678 102;2007 创立,2018-11-07 重新注册;49 名员工(2026-09-21 1881.no 报),Omsetning ≈501,875 kNOK,Fortjenestemargin 25.8%;Nlogic Group AS 持 68%;谱型=网络/安全/数据中心咨询&经销商,MikroTik 15 年以上沉淀
-- 【推断】挪威网络咨询中堅,Nlogic Group 结构强化属集团化(68% 母公司);在咨询 + 硬售 + 培训三谱,价值链任一单位可行
-- 【假设】15 年挪威网络基础设施⇒ 交换机等硬品长期定点,24 口 value PoE 对工程数量敞口
+- 【事实】nLogic:NLOGIC AS(挪威 Oslo(Skøyen),Karenslyst allé 20, 0278;**Org.nr 821 678 102;2018-09-25 创体(史谱 2007:挪威头部 IT 司资深人创办;NSN(网络/安全/数据中心)增值集成+咨询);46-49 人; aksjekapital 800k**;**Daglig leder: Erlend Bonesvoll(1968 生,兼 Styremedlem;1881/proff/gulesider 三源 O)**;**Styrets leder: Arne Giæver(1970 生)**;Styremedlem Marcus Erik Wahlberg;**股东:Nlogic Group AS(68%)+Nlogic Invest AS(32%;Group 832305332=2023-10 集团化谱)**;Nlogic Group 同 Bonesvoll 任 DL
+- 【推断】R66 第 22 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,9 +76,9 @@ updated: 2026-09-28
 - **原始联系字段**：post@nlogic.no（官网联系页；销售salg@nlogic.no）；+47 40 61 88 88；nLogic AS，Karenslyst Allé 20, 0278 Oslo
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
-  - **Erlend Bonesvoll**(Daglig leder(总经理))— erlend@nlogic.no / +47 40 61 44 44 〔已有(公司官方公开件/登记册自曝);源:https://www.mynewsdesk.com/no/nlogic-as/pressreleases/nlogic-har-tre-nye-ansatte-1213779〕
-  - **Arne Giæver**(Styrets leder(董事长))— nlogic.no 谱面 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.1881.no/konsulenter-dataprogramvare-og-utvikling/konsulenter-dataprogramvare-og-utvikling-oslo/konsulenter-dataprogramvare-og-utvikling-skoeyen/nlogic-as_106343012S1/〕
-  - **Marcus Erik Wahlberg**(董事)— nlogic.no 谱面 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.1881.no/konsulenter-dataprogramvare-og-utvikling/konsulenter-dataprogramvare-og-utvikling-oslo/konsulenter-dataprogramvare-og-utvikling-skoeyen/nlogic-as_106343012S1/〕
+  - **Erlend Bonesvoll**(Daglig leder(CEO;三源登记+1881 谱))— proff.no 登记件 〔已有(公司官方公开件/登记册自曝);源:https://www.proff.no/selskap/nlogic-as/oslo/it-konsulenter-og-r%C3%A5dgivning/IDL7EVQ03DC〕
+  - **Arne Giæver**(Styrets leder(董事长))— 1881.no/proff.no 件 〔已有(公司官方公开件/登记册自曝);源:https://www.1881.no/konsulenter-system-og-programvare/konsulenter-system-og-programvare-oslo/konsulenter-system-og-programvare-skoeyen/nlogic-as_106343012S1/〕
+  - **Marcus Erik Wahlberg**(Styremedlem(董事))— 1881.no 件 〔已有(公司官方公开件/登记册自曝);源:https://www.1881.no/konsulenter-system-og-programvare/konsulenter-system-og-programvare-oslo/konsulenter-system-og-programvare-skoeyen/nlogic-as_106343012S1/〕
   - **Robert R. Olsen**(kundeansvarlig(客户经理))— nLogic 新闻稿谱面 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.mynewsdesk.com/no/nlogic-as/pressreleases/nlogic-har-tre-nye-ansatte-1213779〕
   - **Jonas Lindstad**(Nettverkskonsulent)— nLogic 新闻稿谱面 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.mynewsdesk.com/no/nlogic-as/pressreleases/nlogic-har-tre-nye-ansatte-1213779〕
 
@@ -86,9 +86,9 @@ updated: 2026-09-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Erlend Bonesvoll | Daglig leder(总经理) | erlend@nlogic.no / +47 40 61 44 44 | official-self-published·谱/leads-only(直发需 opt-in)·公司新闻稿自曝邮箱 | https://www.mynewsdesk.com/no/nlogic-as/pressreleases/nlogic-har-tre-nye-ansatte-1213779 |
-| Arne Giæver | Styrets leder(董事长) | nlogic.no 谱面 | leads-only·待 opt-in(LinkedIn 公开面) | https://www.1881.no/konsulenter-dataprogramvare-og-utvikling/konsulenter-dataprogramvare-og-utvikling-oslo/konsulenter-dataprogramvare-og-utvikling-skoeyen/nlogic-as_106343012S1/ |
-| Marcus Erik Wahlberg | 董事 | nlogic.no 谱面 | leads-only·待 opt-in(LinkedIn 公开面) | https://www.1881.no/konsulenter-dataprogramvare-og-utvikling/konsulenter-dataprogramvare-og-utvikling-oslo/konsulenter-dataprogramvare-og-utvikling-skoeyen/nlogic-as_106343012S1/ |
+| Erlend Bonesvoll | Daglig leder(CEO;三源登记+1881 谱) | proff.no 登记件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.proff.no/selskap/nlogic-as/oslo/it-konsulenter-og-r%C3%A5dgivning/IDL7EVQ03DC |
+| Arne Giæver | Styrets leder(董事长) | 1881.no/proff.no 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.1881.no/konsulenter-system-og-programvare/konsulenter-system-og-programvare-oslo/konsulenter-system-og-programvare-skoeyen/nlogic-as_106343012S1/ |
+| Marcus Erik Wahlberg | Styremedlem(董事) | 1881.no 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.1881.no/konsulenter-system-og-programvare/konsulenter-system-og-programvare-oslo/konsulenter-system-og-programvare-skoeyen/nlogic-as_106343012S1/ |
 | Robert R. Olsen | kundeansvarlig(客户经理) | nLogic 新闻稿谱面 | leads-only·待 opt-in(LinkedIn 公开面) | https://www.mynewsdesk.com/no/nlogic-as/pressreleases/nlogic-har-tre-nye-ansatte-1213779 |
 | Jonas Lindstad | Nettverkskonsulent | nLogic 新闻稿谱面 | leads-only·待 opt-in(LinkedIn 公开面) | https://www.mynewsdesk.com/no/nlogic-as/pressreleases/nlogic-har-tre-nye-ansatte-1213779 |
 
@@ -96,62 +96,59 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 挪威网络咨询的随单位价值 PoE
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：挪威网络咨询的随单位价值 PoE
-- **要问的问题**：15 年 Node 底座,談案の现场交换机现供品牌与缺口?
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · MikroTik 同档 value PoE 品牌面(或其它谱)
+### 第 2 次跟进 · 一页目录卡
 
 - **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：MikroTik 同档 value PoE 品牌面(或其它谱)
-- **要问的问题**：RCT-suites like NETGEAR/Ubiquiti/SFP-line:现供件?
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
 - **随附/动作**：卡
 
-### 第 3 次跟进 · erlend@ 邮件模式跟进(官方自曝金谱)
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：erlend@ 邮件模式跟进(官方自曝金谱)
-- **要问的问题**：「坚实·安稳」里我们价值 PoE 谱 Q4
+- **切入点**：谱链明智途径
+- **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第1波.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第22波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：Gulesider+1881.no 双登记册一手核,49 员工、68% Group AS 持、25.8% margin
-- **②芯片/型号**：(未列硬牌)=网络/安全/datacenter 咨询;MikroTik 15 年沉淀
-- **③KP 深挖**：**Erlend Bonesvoll(Daglig leder/官方自曝邮 erlend@nlogic.no) + Arne Giæver(董事长) + Marcus Erik Wahlberg(董事) + Robert R. Olsen(kundeansvarlig) + Jonas Lindstad(Nettverkskonsulent)**
-- **④Saga 对标**：咨询+硬售+培训三谱的价值 PoE($180 USD EXW (2026-10-07, 15天有效))
-- **⑤在乎与偏好**：网络坚实基础 + 25.8% margin 稳如
+- **①背景再核**：NLOGIC AS(挪威 Oslo(Skøyen),Karenslyst allé 20, 0278;**Org.nr 821 678 102;2018-09-25 创体(史谱 2007:挪威头部 IT 司资深人创办;NSN(网络/安全/数据中心)增值集成+咨询);46-49 人; aksjekapital 800k**;**Daglig leder: Erlend Bonesvoll(1968 生,兼 Styremedlem;1881/proff/gulesider 三源 O)**;**Styrets leder: Arne Giæver(1970 生)**;Styremedlem Marcus Erik Wahlberg;**股东:Nlogic Group AS(68%)+Nlogic Invest AS(32%;Group 832305332=2023-10 集团化谱)**;Nlogic Group 同 Bonesvoll 任 DL
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Erlend Bonesvoll(Daglig leder(CEO;三源登记+1881 谱),official-self-published·谱/leads-only(直发需 opt-in));Arne Giæver(Styrets leder(董事长),official-self-published·谱/leads-only(直发需 opt-in));Marcus Erik Wahlberg(Styremedlem(董事),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：DL+董事长双 O 登记谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**Daglig leder Erlend Bonesvoll · Styrets leder Arne Giæver · Styremedlem Erlend Bonesvoll, Marcus Erik Wahlberg · Antall ansatte: 49
-  > Daglig leder Erlend Bonesvoll · Styrets leder Arne Giæver · Styremedlem Erlend Bonesvoll, Marcus Erik Wahlberg · Antall ansatte: 49
-  > 来源：https://www.1881.no/konsulenter-dataprogramvare-og-utvikling/konsulenter-dataprogramvare-og-utvikling-oslo/konsulenter-dataprogramvare-og-utvikling-skoeyen/nlogic-as_106343012S1/
-- **【决策链与对接人】**Kontakter: Erlend Bonesvoll Daglig leder erlend@nlogic.no +47 40 61 44 44 · Ola hadde noe kjennskap fra Robert R. Olsen kundeansvarlig Powertech
-  > Kontakter: Erlend Bonesvoll Daglig leder erlend@nlogic.no +47 40 61 44 44 · Ola hadde noe kjennskap fra Robert R. Olsen kundeansvarlig Powertech
-  > 来源：https://www.mynewsdesk.com/no/nlogic-as/pressreleases/nlogic-har-tre-nye-ansatte-1213779
-- **【业务定位】**Org.nr 821 678 102 · Omsetning 501 875 tkr · Fortjenestemargin 25.8% · Aksjonærer: Nlogic Group AS (68%)
-  > Org.nr 821 678 102 · Omsetning 501 875 tkr · Fortjenestemargin 25.8% · Aksjonærer: Nlogic Group AS (68%)
-  > 来源：https://www.gulesider.no/nlogic+as+oslo/147338258/bedrift
+- **【决策链与对接人】**Daglig leder: Erlend Bonesvoll(f 1968);Styrets leder: Arne Giæver(f 1970);Styremedlem: Bonesvoll+Marcus Erik Wahlberg;Aksjonærer: Nlogic Group AS(68%)+Nlogic Invest AS(32%)(1881/proff 件)
+  > Daglig leder: Erlend Bonesvoll(f 1968);Styrets leder: Arne Giæver(f 1970);Styremedlem: Bonesvoll+Marcus Erik Wahlberg;Aksjonærer: Nlogic Group AS(68%)+Nlogic Invest AS(32%)(1881/proff 件)
+  > 来源：https://www.1881.no/konsulenter-system-og-programvare/konsulenter-system-og-programvare-oslo/konsulenter-system-og-programvare-skoeyen/nlogic-as_106343012S1/
+- **【联系方式与基础画像】**Org.nr 821 678 102;Karenslyst allé 20, 0278 Oslo;406 18 888;stiftet 25.09.2018;46-49 ansatte;**15+ 年网络/安全/数据中心谱(「vi har i mer enn 15 år vært med på å bygge nettverksinfrastruktur i Norge」)**(1881/proff 件)
+  > Org.nr 821 678 102;Karenslyst allé 20, 0278 Oslo;406 18 888;stiftet 25.09.2018;46-49 ansatte;**15+ 年网络/安全/数据中心谱(「vi har i mer enn 15 år vært med på å bygge nettverksinfrastruktur i Norge」)**(1881/proff 件)
+  > 来源：https://www.proff.no/selskap/nlogic-as/oslo/it-konsulenter-og-r%C3%A5dgivning/IDL7EVQ03DC
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：挪威网安/数据中心咨询谱,15 年 Node 底座
-- **产品线与在售品牌**：(官方未列牌谱)=网络+安全+IT-drift+datasikkerhet;MikroTik 库内信号
-- **目标行业与场景**：Oslo 通行/So-huskient(网络基础设施谱)
-- **团队与规模**：49 名员工(1881.no 2026);Nlogic Group AS 68%
-- **决策链与对接人**：**Erlend Bonesvoll(Daglig leder/总经理,官方自曝 erlend@nlogic.no);Arne Giæver(董事长);Marcus Erik Wahlberg(董事);Robert R. Olsen(kundeansvarlig);Jonas Lindstad(Nettverkskonsulent)**
-- **技术与认证**：网络/安全/数据中心咨询,MikroTik 谱(库内信号)
-- **采购与供应链信号**：15 年 Node 底座,网络件的供应铺放定期流动
-- **近期动态与线索**：2018 新注;25.8% fortjenestemargin;Plugtech 等谱(nLogic press 有谱)
-- **与我方契合点**：咨询+硬售+培训三谱,value PoE 各场景
-- **风险与注意**：ePOST (erlend@nlogic.no) 虽自曝,但直发要 opt-in/谱链明智
+- **业务定位**：NLOGIC AS(挪威 Oslo(Skøyen),Karenslyst allé 20, 0278;**Org.nr 821 678 102;2018-09-25 创体(史谱 2007:挪威头部 IT 司资深人创办;NSN(网络/安全/数据中心)增值集成+咨询);46-49 人; aksjekapital 800k**;**Daglig leder: Erlend Bonesvoll(1968 生,兼 Styremedlem;1881/proff/gulesider 三源 O)**;**Styrets leder: Arne Giæver(1970 生)**;Styremedlem Marcus Erik Wahlberg;**股东:Nlogic Group AS(68%)+Nlogic Invest AS(32%;Group 832305332=2023-10 集团化谱)**;Nlogic Group 同 Bonesvoll 任 DL
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：挪奥斯陆 15+ 年网安/DC 集成屋
+- **团队与规模**：46-49 人;2018 创体
+- **决策链与对接人**：**Erlend Bonesvoll(Daglig leder(CEO;三源登记+1881 谱),official-self-published·谱/leads-only(直发需 opt-in));Arne Giæver(Styrets leder(董事长),official-self-published·谱/leads-only(直发需 opt-in));Marcus Erik Wahlberg(Styremedlem(董事),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 22 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Erlend Bonesvoll+Arne Giæver 位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -166,10 +163,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：自曝金谱
-- **W**：小谱增援
-- **O**：规模敞口
-- **T**：大牌
+- **S**：DL+董事长双 O 登记谱
+- **W**：集团化 2023 窗
+- **O**：Bonesvoll 直达位
+- **T**：一线链竞谱
 
 ## 触达与风险红线
 
@@ -197,8 +194,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 当前现场交换机品牌/服务谱
-  - [ ] MikroTik 谱份额
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -210,13 +207,9 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Erlend,
+Dear Mr. Bonesvoll,
 
-I came across nLogic while mapping MikroTik-related distributors in Norway — 49 engineers on Skøyen and a name that keeps showing up on the serious Norwegian infrastructure projects. Impressive longevity: since 2007 on the same beat.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) - a value unit for the on-site deployments your team designs.
-
-Could you point me to whoever carries the switching line in your projects, so we can get the right spec to the right desk?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
 Saga Networks Export Desk

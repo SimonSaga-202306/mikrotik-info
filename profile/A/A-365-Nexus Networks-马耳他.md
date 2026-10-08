@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Nexus Networks(马耳他;R66 基线补足档·公司面全貌待补;函数口职能口 +356 7946 1720 / hello@nexus.com.mt；johann@nexus.com.mt（官方顾问名录条目）；support@nexus.com.mt（公司站）(nexus.com.mt（公司站）)跟团不动;司实谱位点名指R66 后续波次/KPI 核心补件)
-- 【推断】R66 基线补足档(个体谱=实名同体谱;公司谱=函数口面谱)，公司面全谱/司实谱位待 R66 波次补件
-- 【假设】函数口职能口nexus.com.mt（公司站） 为谱链入口；具名 kp 直发需 opt-in；后续波次以登记册+LinkedIn+R64 RocketReach 谱补撬件
+- 【事实】Nexus Networks:Nexus Networks(马耳他 Zebbiegh,199 Triq Sir Temi Zammit;**1-10 人;nexus.com.mt;+356 27220337**;**档谱:MikroTik 官方分销(马耳他)=MT 自家链唯一档!**;谱面检索未锁具名决策人(美/印/英同名异体已分层)→**守档准由:MikroTik 官方马耳他谱在档,具名待专批(nexus.com.mt Whois/站点页)**
+- 【推断】R66 第 22 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -89,7 +89,7 @@ updated: 2026-09-28
 
 ### 第 1 次跟进 · 具名 kp 引路口
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
+- **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
 - **切入点**：具名 kp 引路 → 采购/技术硬件分载线
 - **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
@@ -104,45 +104,42 @@ updated: 2026-09-28
 ### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：谱链明智途径(LinkedIn 公开面)
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_341_376基线.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第22波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：R66 基线补足档(公司谱面全谱待补kp);司面全谱待 R66 波次补;函数口 +356 7946 1720 / hello@nexus.com.mt；johann@nexus.com.mt（官方顾问名录条目）；support@nexus.com.mt（公司站）(nexus.com.mt（公司站）)跟团不动
-- **②芯片/型号**：(待问;nexus.com.mt（公司站） 域名面谱=公司面谱)
-- **③KP 深挖**：**函数口职能口 +356 7946 1720 / hello@nexus.com.mt；johann@nexus.com.mt（官方顾问名录条目）；support@nexus.com.mt（公司站）(nexus.com.mt（公司站）)已实位;R66 波次点名(KPI 核心):具体 KP 待补撬件(Urzeówne Rejstery+LinkedIn+official-self-published 渠道+R64 RocketReach 谱)&#10;具体实名谱位待 R66 波次补(司实谱位点名=R66 KPI 核心补件)**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))→ 成本谱替换件/随行件
-- **⑤在乎与偏好**：函数口职能口已实位
+- **①背景再核**：Nexus Networks(马耳他 Zebbiegh,199 Triq Sir Temi Zammit;**1-10 人;nexus.com.mt;+356 27220337**;**档谱:MikroTik 官方分销(马耳他)=MT 自家链唯一档!**;谱面检索未锁具名决策人(美/印/英同名异体已分层)→**守档准由:MikroTik 官方马耳他谱在档,具名待专批(nexus.com.mt Whois/站点页)**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 第 22 波点名(谱面无实名)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：MT 官方马耳他唯一点=链窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**Nexus Networks — +356 7946 1720 / hello@nexus.com.mt；johann@nexus.com.mt（官方顾问名录条目）；support@nexus.com.mt（公司站） (CSV/STRUCT 落穗件;公司谱面全谱待补kp)
-  > Nexus Networks — +356 7946 1720 / hello@nexus.com.mt；johann@nexus.com.mt（官方顾问名录条目）；support@nexus.com.mt（公司站） (CSV/STRUCT 落穗件;公司谱面全谱待补kp)
-  > 来源：nexus.com.mt
-- **【业务定位】**R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;公司谱面全谱待补kp
-  > R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;公司谱面全谱待补kp
-  > 来源：nexus.com.mt
-- **【近期动态与线索】**2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
-  > 2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
-  > 来源：nexus.com.mt
+- **【决策链与对接人】**公开谱面未锁具名决策人=守档准由;Nexus Networks Malta(zoominfo 件;1-10 人);**档谱 MikroTik 官方分销**(2026-10-08 R66 22 波留痕)
+  > 公开谱面未锁具名决策人=守档准由;Nexus Networks Malta(zoominfo 件;1-10 人);**档谱 MikroTik 官方分销**(2026-10-08 R66 22 波留痕)
+  > 来源：https://www.zoominfo.com/c/nexus-networks/467685148
+- **【联系方式与基础画像】**199 Triq Sir Temi Zammit, Zebbiegh, Malta;+356 27220337;nexus.com.mt;**MikroTik 官方马耳他谱(自家链 KPI)**
+  > 199 Triq Sir Temi Zammit, Zebbiegh, Malta;+356 27220337;nexus.com.mt;**MikroTik 官方马耳他谱(自家链 KPI)**
+  > 来源：https://www.nexus.com.mt
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：R66 基线补足档(公司谱面全谱待补kp);司面全谱待 R66 波次补;函数口 +356 7946 1720 / hello@nexus.com.mt；johann@nexus.com.mt（官方顾问名录条目）；support@nexus.com.mt（公司站）(nexus.com.mt（公司站）)跟团不动
-- **产品线与在售品牌**：(待问;nexus.com.mt（公司站） 域名面谱=公司面谱)
-- **目标行业与场景**：(R66 后续波次补)
-- **团队与规模**：(R66 后续波次补)
-- **决策链与对接人**：**函数口职能口 +356 7946 1720 / hello@nexus.com.mt；johann@nexus.com.mt（官方顾问名录条目）；support@nexus.com.mt（公司站）(nexus.com.mt（公司站）)已实位;R66 波次点名(KPI 核心):具体 KP 待补撬件(Urzeówne Rejstery+LinkedIn+official-self-published 渠道+R64 RocketReach 谱)&#10;具体实名谱位待 R66 波次补(司实谱位点名=R66 KPI 核心补件)**
-- **技术与认证**：(R66 后续波次补)
-- **采购与供应链信号**：(R66 后续波次补)
-- **近期动态与线索**：2026-10-07 R66 波次点名(基线补足)
-- **与我方契合点**：函数口职能口nexus.com.mt（公司站） 面心谱链档
-- **风险与注意**：具名 kp 未勘出/波次点名；不要直发或未 opt-in
+- **业务定位**：Nexus Networks(马耳他 Zebbiegh,199 Triq Sir Temi Zammit;**1-10 人;nexus.com.mt;+356 27220337**;**档谱:MikroTik 官方分销(马耳他)=MT 自家链唯一档!**;谱面检索未锁具名决策人(美/印/英同名异体已分层)→**守档准由:MikroTik 官方马耳他谱在档,具名待专批(nexus.com.mt Whois/站点页)**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：马耳他 MikroTik 官方谱(具名缺)
+- **团队与规模**：1-10 人
+- **决策链与对接人**：**守档准由;R66 第 22 波点名(谱面无实名)**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 22 波谱名牌(MT 官方谱)
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：守档:MT 官方谱在档,具名待专批
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -157,10 +154,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：函数口职能口已实位
-- **W**：具名 kp 未勘出(波次点名)
-- **O**：函数口面心谱链档的特制效应
-- **T**：函数口档直发不直接
+- **S**：MT 官方马耳他唯一点=链窗
+- **W**：具名缺守档
+- **O**：无守档
+- **T**：—
 
 ## 触达与风险红线
 
@@ -188,9 +185,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 司实谱位点名(波次点名)
-  - [ ] 公司面全谱
-  - [ ] 具名 kp 直发邮箱
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -202,13 +198,9 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi team,
+Dear Sir or Madam,
 
-I came across Nexus Networks while mapping 马耳他 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.
-
-Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
 Saga Networks Export Desk

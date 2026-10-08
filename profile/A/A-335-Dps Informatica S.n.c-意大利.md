@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】DPS Informatica s.n.c.（意大利 Fagagna UD，1986 起 PC/服务器店）：面向 PMI/**enti pubblici（MEPA 注册，官网明示）**/专业事务所与私人客户；CSV=Allied Telesis Resell
-- 【推断】北部 40 年实体小店：MEPA 段守界句、PMI/私营事务所段为窄口
-- 【假设】PMI/事务所段的 value 件窄位（MEPA 守界）
+- 【事实】Dps Informatica S.n.c:DPS INFORMATICA S.N.C. DI PRESELLO GIANNI & C.(意大利 Fagagna(UD),Piazza Marconi 11, 33034;**P.IVA 01486330309;CCIAA UD 176440;SNC 合伙谱**;**业主名谱: Gianni Presello(全称 di Presello Gianni & C.;摩德纳省府采购件 O-ish)**;**Riello UPS 官方伙伴页 O;dps@dpsinformatica.it;INPS 用工谱**
+- 【推断】R66 第 22 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,14 @@ updated: 2026-09-28
 - 来源等级：official-obfuscated（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@dpsinformatica.it（官网联系页以可逆(at)写法公布，规范书写；另有commerciale@/sistemi@/tecnici@）；+39 0432 801790；DPS Informatica s.n.c. Fagagna
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Gianni Presello**(Socio 名谱(SNC 全称具名))— provincia.modena 公采件 〔已有(公司官方公开件/登记册自曝);源:http://visualizzatoreatti.provincia.modena.it/AttiVisualizzatore/download/determina/2065375?fId=2067106〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Gianni Presello | Socio 名谱(SNC 全称具名) | provincia.modena 公采件 | official-self-published·谱/leads-only(直发需 opt-in) | http://visualizzatoreatti.provincia.modena.it/AttiVisualizzatore/download/determina/2065375?fId=2067106 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +138,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第34批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第22波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：IT Friuli 本地店（官网一手核）
-- **②芯片/型号**：多牌
-- **③KP 深挖**：info@
-- **④Saga 对标**：窄位（$180 锚点一致，低密）
-- **⑤在乎与偏好**：本地信任
+- **①背景再核**：DPS INFORMATICA S.N.C. DI PRESELLO GIANNI & C.(意大利 Fagagna(UD),Piazza Marconi 11, 33034;**P.IVA 01486330309;CCIAA UD 176440;SNC 合伙谱**;**业主名谱: Gianni Presello(全称 di Presello Gianni & C.;摩德纳省府采购件 O-ish)**;**Riello UPS 官方伙伴页 O;dps@dpsinformatica.it;INPS 用工谱**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Gianni Presello(Socio 名谱(SNC 全称具名),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：全称业主+Riello 伙伴=直达
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**negozio di informatica…iscritto al MEPA；attività prevalentemente rivolta alle PMI, enti pubblici, studi professionali
-  > negozio di informatica…iscritto al MEPA；attività prevalentemente rivolta alle PMI, enti pubblici, studi professionali
-  > 来源：https://www.dpsinformatica.it
+- **【决策链与对接人】**Ragione sociale: DPS INFORMATICA S.N.C. DI PRESELLO GIANNI & C.;C.F./P.IVA 01486330309;PEC DPSINFORMATICA@LEGALMAIL.IT(省府采购决定件)
+  > Ragione sociale: DPS INFORMATICA S.N.C. DI PRESELLO GIANNI & C.;C.F./P.IVA 01486330309;PEC DPSINFORMATICA@LEGALMAIL.IT(省府采购决定件)
+  > 来源：http://visualizzatoreatti.provincia.modena.it/AttiVisualizzatore/download/determina/2065375?fId=2067106
+- **【联系方式与基础画像】**Piazza Marconi 11, 33034 Fagagna (UD);+39 0432 801790;dps@dpsinformatica.it;**Riello UPS 官方伙伴**(riello-ups.it 伙伴页 O);MePA/省府直销谱(bergamo/modena 件)
+  > Piazza Marconi 11, 33034 Fagagna (UD);+39 0432 801790;dps@dpsinformatica.it;**Riello UPS 官方伙伴**(riello-ups.it 伙伴页 O);MePA/省府直销谱(bergamo/modena 件)
+  > 来源：https://www.riello-ups.it/partners/91-dps-informatica-snc
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：意大利 Friuli 本地 IT 店（1986）
-- **产品线与在售品牌**：多牌（AT CSV）
-- **目标行业与场景**：PMI/事务所/私人（MEPA=守界注）
-- **团队与规模**：本地店
-- **决策链与对接人**：info@ 口（commerciale@ 备）
-- **技术与认证**：MEPA 注册
-- **采购与供应链信号**：门店随件
-- **近期动态与线索**：—
-- **与我方契合点**：PMI/事务所段窄位（MEPA 守界句）
-- **风险与注意**：公共段采购规范敏感
+- **业务定位**：DPS INFORMATICA S.N.C. DI PRESELLO GIANNI & C.(意大利 Fagagna(UD),Piazza Marconi 11, 33034;**P.IVA 01486330309;CCIAA UD 176440;SNC 合伙谱**;**业主名谱: Gianni Presello(全称 di Presello Gianni & C.;摩德纳省府采购件 O-ish)**;**Riello UPS 官方伙伴页 O;dps@dpsinformatica.it;INPS 用工谱**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：意弗留利 SNC 电脑小铺(Riello 伙伴)
+- **团队与规模**：小铺谱
+- **决策链与对接人**：**Gianni Presello(Socio 名谱(SNC 全称具名),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 22 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Gianni Presello 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +181,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对口
-- **W**：小
-- **O**：私营
-- **T**：大牌
+- **S**：全称业主+Riello 伙伴=直达
+- **W**：小微谱
+- **O**：Presello 直达位
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +203,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,8 +212,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 现供
-  - [ ] 占比
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -218,16 +225,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Ciao DPS Informatica team,
+Gentile Sig. Presello,
 
-A Fagagna institution since 1986 - MEPA-registered for public buyers and still serving PMI, professional studios and private clients. One boundary sentence: your MEPA public path stays untouched; this concerns the private side only.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value unit for PMI and studio clients.
-
-One question: on the private side, where do client network switches come from today?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

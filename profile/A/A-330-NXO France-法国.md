@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】NXO（法国，总部 2026-03 迁 Puteaux）：大盘'集成商+运营商'——Infrastructures digitales（LAN/WiFi/SD-WAN/DC)+UCaaS/通信+Cybersécurité（含 SOC aaS)+Cloud&Opérateur（Linkernet/Linkerconnect 电信运营）+Academy；客户案例含 Ville de Villefranche（公共）;CSV=**Allied Telesis Integrate Elite+Resell**
-- 【推断】法国超大一体集成/运营：value 只在其商业客户长尾的私段窄口；公共案例=守界句；大盘低密窄针
-- 【假设】商业客户长尾的 value 二轨窄针
+- 【事实】NXO France:NXO FRANCE SAS(法国 Rueil-Malmaison,133 Boulevard National, 92500;**SIREN 811934363;cap €12.5M;**CA €293.6M(2023)/€303.9M(2024)**;=FAYAT 集团 477 实体谱(建筑巨头系)**;**换代金谱:Président du directoire Nathalie Magand(1976 生;2023-11-01 接替 Jean-Maurice Fritsch;BODACC O)**;Président du conseil de surveillance Jean-Claude Fayat(2024-08 起)+VP Laurent Fayat;**Statut SIREN Radié 2026-03-30 vs RCS/RNE Active=INSEE 滞后差旗注**;NXO EXPERTS 关联(Magand DG 双职)
+- 【推断】R66 第 22 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,18 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：contact@nxo.eu（官网联系/法律页）；0 821 201 201；总部2026-03-30迁Puteaux（法律页仍Rueil-Malmaison）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Nathalie Magand**(Président du directoire(2023-11 换代接棒;BODACC O))— pappers.fr/BODACC 件 〔已有(公司官方公开件/登记册自曝);源:https://www.pappers.fr/entreprise/nxo-france-811934363〕
+  - **Jean-Claude Fayat**(Président du conseil de surveillance(FAYAT 集团主))— verif.com 件 〔已有(公司官方公开件/登记册自曝);源:https://www.verif.com/societe/NXTO-FRANCE-811934363/〕
+  - **Laurent Fayat**(Vice-président(FAYAT 族))— verif/manageo 件 〔已有(公司官方公开件/登记册自曝);源:https://www.manageo.fr/entreprises/811934363.html〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Nathalie Magand | Président du directoire(2023-11 换代接棒;BODACC O) | pappers.fr/BODACC 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.pappers.fr/entreprise/nxo-france-811934363 |
+| Jean-Claude Fayat | Président du conseil de surveillance(FAYAT 集团主) | verif.com 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.verif.com/societe/NXTO-FRANCE-811934363/ |
+| Laurent Fayat | Vice-président(FAYAT 族) | verif/manageo 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.manageo.fr/entreprises/811934363.html |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +142,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第33批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第22波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：FR 超大集成/运营（官网+CSV 双核）
-- **②芯片/型号**：AT Elite
-- **③KP 深挖**：contact@
-- **④Saga 对标**：窄针低密（$180 锚点一致）
-- **⑤在乎与偏好**：大盘框架/合规
+- **①背景再核**：NXO FRANCE SAS(法国 Rueil-Malmaison,133 Boulevard National, 92500;**SIREN 811934363;cap €12.5M;**CA €293.6M(2023)/€303.9M(2024)**;=FAYAT 集团 477 实体谱(建筑巨头系)**;**换代金谱:Président du directoire Nathalie Magand(1976 生;2023-11-01 接替 Jean-Maurice Fritsch;BODACC O)**;Président du conseil de surveillance Jean-Claude Fayat(2024-08 起)+VP Laurent Fayat;**Statut SIREN Radié 2026-03-30 vs RCS/RNE Active=INSEE 滞后差旗注**;NXO EXPERTS 关联(Magand DG 双职)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Nathalie Magand(Président du directoire(2023-11 换代接棒;BODACC O),official-self-published·谱/leads-only(直发需 opt-in));Jean-Claude Fayat(Président du conseil de surveillance(FAYAT 集团主),official-self-published·谱/leads-only(直发需 opt-in));Laurent Fayat(Vice-président(FAYAT 族),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：€294M 巨头+换代谱=FAYAT 链大户
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【近期动态】**NXO installe son siège social à La Défense（Puteaux 2026-03）;案例: La Ville de Villefranche（公共标注）；CSV: AT Integrate Elite
-  > NXO installe son siège social à La Défense（Puteaux 2026-03）;案例: La Ville de Villefranche（公共标注）；CSV: AT Integrate Elite
-  > 来源：https://www.nxo.eu
+- **【决策链与对接人】**BODACC: Mme Nathalie MAGAND nommée Président de la société et Président du Directoire(à compter 01/11/2023)en remplacement de M. Jean-Maurice FRITSCH;Conseil de surveillance: Jean-Claude FAYAT(Président)+Laurent FAYAT(VP)(pappers/manageo/verif 件)
+  > BODACC: Mme Nathalie MAGAND nommée Président de la société et Président du Directoire(à compter 01/11/2023)en remplacement de M. Jean-Maurice FRITSCH;Conseil de surveillance: Jean-Claude FAYAT(Président)+Laurent FAYAT(VP)(pappers/manageo/verif 件)
+  > 来源：https://www.pappers.fr/entreprise/nxo-france-811934363
+- **【联系方式与基础画像】**SIREN 811 934 363;133 Bd National, 92500 Rueil-Malmaison;SAS €12.5M;1000-1999 salariés;**CA €293.591M(2023)**;groupe FAYAT 477 entités;7112B Ingénierie;**SIREN Radié(30/03/2026)vs RCS Active=差旗注**(manageo/infonet/verif 件)
+  > SIREN 811 934 363;133 Bd National, 92500 Rueil-Malmaison;SAS €12.5M;1000-1999 salariés;**CA €293.591M(2023)**;groupe FAYAT 477 entités;7112B Ingénierie;**SIREN Radié(30/03/2026)vs RCS Active=差旗注**(manageo/infonet/verif 件)
+  > 来源：https://www.manageo.fr/entreprises/811934363.html
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：法国超大集成/运营商
-- **产品线与在售品牌**：AT Integrate Elite（CSV）
-- **目标行业与场景**：大型商业/公共（守界注）
-- **团队与规模**：千人级组织
-- **决策链与对接人**：contact@ 口
-- **技术与认证**：—
-- **采购与供应链信号**：框架+项目随单
-- **近期动态与线索**：总部迁 Puteaux 2026-03
-- **与我方契合点**：商业长尾窄针（公共守界句）
-- **风险与注意**：大盘集中——低密窄位
+- **业务定位**：NXO FRANCE SAS(法国 Rueil-Malmaison,133 Boulevard National, 92500;**SIREN 811934363;cap €12.5M;**CA €293.6M(2023)/€303.9M(2024)**;=FAYAT 集团 477 实体谱(建筑巨头系)**;**换代金谱:Président du directoire Nathalie Magand(1976 生;2023-11-01 接替 Jean-Maurice Fritsch;BODACC O)**;Président du conseil de surveillance Jean-Claude Fayat(2024-08 起)+VP Laurent Fayat;**Statut SIREN Radié 2026-03-30 vs RCS/RNE Active=INSEE 滞后差旗注**;NXO EXPERTS 关联(Magand DG 双职)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：法国吕埃 €294M ICT 工程巨头(FAYAT 系)
+- **团队与规模**：1000-1999 人;€12.5M 资
+- **决策链与对接人**：**Nathalie Magand(Président du directoire(2023-11 换代接棒;BODACC O),official-self-published·谱/leads-only(直发需 opt-in));Jean-Claude Fayat(Président du conseil de surveillance(FAYAT 集团主),official-self-published·谱/leads-only(直发需 opt-in));Laurent Fayat(Vice-président(FAYAT 族),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 22 波谱名牌(换代+SIREN 差旗注)
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Nathalie Magand 新班位(opt-in 律;集团集采谱)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +185,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：体量
-- **W**：集中
-- **O**：窄
-- **T**：大牌
+- **S**：€294M 巨头+换代谱=FAYAT 链大户
+- **W**：集团审批链
+- **O**：Magand 新班直达位
+- **T**：巨头集采竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +207,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,8 +216,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 替补机制
-  - [ ] 责权
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -218,16 +229,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Bonjour NXO team,
+Madame Magand,
 
-Integrator and operator at national scale - digital infrastructures, communications, cybersecurity, operator services. One boundary sentence: your public-sector engagements stay on their established paths; this is a commercial-side question.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value tier for commercial projects in the long tail where budgets close deals.
-
-One question: on the commercial side, does a documented value PoE tier exist - and who owns the networking catalogue?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

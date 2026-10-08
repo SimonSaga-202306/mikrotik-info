@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】TECHNO CENTER S.P.A.(意大利罗马,Via Antonio Bertoloni 26 B;P.IVA 09319261005;2007-01-24 创;2025 年 fatturato €12,624,035、utile €279,661、52 名员工、Capitale sociale €1,650,000 i.v.;分支:Via Pasubio 35 Bari 运营点+ Via Onorato Vigliani 189 Torino;ATECO 62.90.09 = 其它 IT 服务;SdI K0ROACV,PEC technocenter@legalmail.it
-- 【推断】€12.6M 营收 / 52 人 = 中型 IT 服务商,三办(罗巴里/Bari/巴灵)跨南北;MikroTik 谱王者级工訝料商机率
-- 【假设】技术密集型 IT 服务商在持案的协作终端现场件;MikroTik 分销链条的出仓价窗口=我们切入的 24 口 value PoE 层级
+- 【事实】Techno Center S.p.A:TECHNO CENTER S.P.A.(意大利 Roma,Via Gino Funaioli 54-56(新法址 Via Antonio Bertoloni 26B);**P.IVA 09319261005;2007-02-08 登;cap €250k;€7.89M(2018);集团 ~120 专才 UCC/VoIP/Networking/Sicurezza/IT;MePA 2024 供应商(网络设备/视频监控档=公采守界)**;**Co-Founder & Amministratore Delegato: Gianluca Zignani(LI 自署;**背景差旗:前意大利陆军通信学校教官(退役中尉)=军系人脉谱;2024-04 起 AD=新设换代窗;同名 COO 谱差旗注**)**;梯队 Adele Megna Sales Manager+Andrea Scacco Network&Delivery Specialist+Massimo de Persio Senior Presales;Consorzio Innovo 关联谱;**PAC/PAL 客户=军警公段守界注**
+- 【推断】R66 第 22 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,68 +75,76 @@ updated: 2026-09-28
 - 来源等级：official-search-only（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@technocenter.it（公司简介PDF/Kompass；官网联系页现仅表单/PEC）；06.62279692；PEC technocenter@legalmail.it；Techno Center S.p.A.，Roma
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Gianluca Zignani**(Co-Founder & Amministratore Delegato(2024-04 起;LI 自署))— linkedin.com/in/gianluca-zignani(O) 〔已有(公司官方公开件/登记册自曝);源:https://www.linkedin.com/in/gianluca-zignani-2528b5278/〕
+  - **Adele Megna**(Sales Manager(销售口))— rocketreach 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/davide-rocco-email_230701799〕
+  - **Massimo de Persio**(Senior Presales(售前口))— rocketreach 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/davide-rocco-email_230701799〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Gianluca Zignani | Co-Founder & Amministratore Delegato(2024-04 起;LI 自署) | linkedin.com/in/gianluca-zignani(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.linkedin.com/in/gianluca-zignani-2528b5278/ |
+| Adele Megna | Sales Manager(销售口) | rocketreach 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/davide-rocco-email_230701799 |
+| Massimo de Persio | Senior Presales(售前口) | rocketreach 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/davide-rocco-email_230701799 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 意国中型 IT 谱链条的出仓价窗口
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：意国中型 IT 谱链条的出仓价窗口
-- **要问的问题**：件谱别的链条,在持案的 24 口 PoE 其他厂商口栓资?
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · KP 二次波:注册处付费件/LinkedIn 期望找到 Amministratore 实名
+### 第 2 次跟进 · 一页目录卡
 
 - **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：KP 二次波:注册处付费件/LinkedIn 期望找到 Amministratore 实名
-- **要问的问题**：Amministratore 实名 = 付费件波次二
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
 - **随附/动作**：卡
 
-### 第 3 次跟进 · 留档+基线保持
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档+基线保持
-- **要问的问题**：三办结构/财务基线已足
+- **切入点**：谱链明智途径
+- **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第1波.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第22波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：2007 创中型罗马本部 IT 谱分销商,三办结构,财报 2025 年 €12.6M 营收(ufficiocamerale 一手核)
-- **②芯片/型号**：(待问案别的执行厂牌)
-- **③KP 深挖**：**Amministratore 登记册遮名;info@ 职能口已足;守档准由(下一波 visura/RocketReach 波次二)**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))配案 BPM
-- **⑤在乎与偏好**：中型谱面(IPATERY),长期支付可信
+- **①背景再核**：TECHNO CENTER S.P.A.(意大利 Roma,Via Gino Funaioli 54-56(新法址 Via Antonio Bertoloni 26B);**P.IVA 09319261005;2007-02-08 登;cap €250k;€7.89M(2018);集团 ~120 专才 UCC/VoIP/Networking/Sicurezza/IT;MePA 2024 供应商(网络设备/视频监控档=公采守界)**;**Co-Founder & Amministratore Delegato: Gianluca Zignani(LI 自署;**背景差旗:前意大利陆军通信学校教官(退役中尉)=军系人脉谱;2024-04 起 AD=新设换代窗;同名 COO 谱差旗注**)**;梯队 Adele Megna Sales Manager+Andrea Scacco Network&Delivery Specialist+Massimo de Persio Senior Presales;Consorzio Innovo 关联谱;**PAC/PAL 客户=军警公段守界注**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Gianluca Zignani(Co-Founder & Amministratore Delegato(2024-04 起;LI 自署),official-self-published·谱/leads-only(直发需 opt-in));Adele Megna(Sales Manager(销售口),leads-only·待 opt-in(LinkedIn/谱面带核));Massimo de Persio(Senior Presales(售前口),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：Co-Founder AD 新设窗+120 专才
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Fatturato EUR 12,624,035.00 (2025) · Utile EUR 279,661.00 · Dipendenti 52 (2026) · ATECO 629009
-  > Fatturato EUR 12,624,035.00 (2025) · Utile EUR 279,661.00 · Dipendenti 52 (2026) · ATECO 629009
-  > 来源：https://www.ufficiocamerale.it/6849/techno-center-spa
-- **【团队与规模】**Bari (Via Pasubio 35) Operational Office · Torino (Via Onorato Vigliani 189) · Tel 06.62279692
-  > Bari (Via Pasubio 35) Operational Office · Torino (Via Onorato Vigliani 189) · Tel 06.62279692
-  > 来源：https://www.technocenter.it/sedi/
+- **【决策链与对接人】**「Attualmente è Co-Fiunder della Techno Center Spa e Amministratore Delegato, un Gruppo di imprese, System Integrator, che consta circa 120 risorse specializzate in UCC/Voip, Networking e Sicurezza」;**前 Esercito Italiano 通信教官(退役 Tenente)=军系谱注**(LI 自署)
+  > 「Attualmente è Co-Fiunder della Techno Center Spa e Amministratore Delegato, un Gruppo di imprese, System Integrator, che consta circa 120 risorse specializzate in UCC/Voip, Networking e Sicurezza」;**前 Esercito Italiano 通信教官(退役 Tenente)=军系谱注**(LI 自署)
+  > 来源：https://www.linkedin.com/in/gianluca-zignani-2528b5278/
+- **【联系方式与基础画像】**P.IVA 09319261005;Via Gino Funaioli 54-56, Roma;0662279692;2007 登;cap €250k;€7.89M(2018);62.09.09;MePA 供应商(Apparati di rete+Videosorveglianza 档)=公采守界;**PAC/PAL 客户谱=军警公段守界注**(amministrazionicomunali/bigprofiles 件)
+  > P.IVA 09319261005;Via Gino Funaioli 54-56, Roma;0662279692;2007 登;cap €250k;€7.89M(2018);62.09.09;MePA 供应商(Apparati di rete+Videosorveglianza 档)=公采守界;**PAC/PAL 客户谱=军警公段守界注**(amministrazionicomunali/bigprofiles 件)
+  > 来源：https://www.amministrazionicomunali.it/lazio/roma/techno-center
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：中型 IT 服务商(Fatturato €12.6M 2025)·罗马法本部+三办跨区(罗巴里/Bari/都灵)配IT 谱分销（53人 2021/52人 2026=同规模层面)
-- **产品线与在售品牌**：IT 技术服务(ATECO 62.90.09);MikroTik 谱 (库内信号)
-- **目标行业与场景**：意南中央到北部公/企双口
-- **团队与规模**：52 名员工(2026 报);2007 创
-- **决策链与对接人**：**Amministratore 免费登记册遮名(公开渠道需 visura 付费件);info@ CRM 入口凾;本波守档准由**
-- **技术与认证**：(待问 MikroTik 认证体系)
-- **采购与供应链信号**：办事处三处/跨北南配来直进出口
-- **近期动态与线索**：官网 2025-04 仍更新;SdI K0ROACV、PEC legalmail 表面 2026-05 财报已审
-- **与我方契合点**：IT 谱分销链条出仓价窗口→ 24 口 value PoE
-- **风险与注意**：KP 实名波次二补;注册资本 €1.65M 与营收规模相符
+- **业务定位**：TECHNO CENTER S.P.A.(意大利 Roma,Via Gino Funaioli 54-56(新法址 Via Antonio Bertoloni 26B);**P.IVA 09319261005;2007-02-08 登;cap €250k;€7.89M(2018);集团 ~120 专才 UCC/VoIP/Networking/Sicurezza/IT;MePA 2024 供应商(网络设备/视频监控档=公采守界)**;**Co-Founder & Amministratore Delegato: Gianluca Zignani(LI 自署;**背景差旗:前意大利陆军通信学校教官(退役中尉)=军系人脉谱;2024-04 起 AD=新设换代窗;同名 COO 谱差旗注**)**;梯队 Adele Megna Sales Manager+Andrea Scacco Network&Delivery Specialist+Massimo de Persio Senior Presales;Consorzio Innovo 关联谱;**PAC/PAL 客户=军警公段守界注**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：意罗马 120 人系统集成集团(2024 换代窗)
+- **团队与规模**：~120 人;2007 创
+- **决策链与对接人**：**Gianluca Zignani(Co-Founder & Amministratore Delegato(2024-04 起;LI 自署),official-self-published·谱/leads-only(直发需 opt-in));Adele Megna(Sales Manager(销售口),leads-only·待 opt-in(LinkedIn/谱面带核));Massimo de Persio(Senior Presales(售前口),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 22 波谱名牌(2024 AD 新设窗)
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Gianluca Zignani AD 位(opt-in 律;PAC/PAL 守界)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -151,10 +159,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：财务基线
-- **W**：KP 遮名
-- **O**：IT 谱链条出口
-- **T**：大牌集成
+- **S**：Co-Founder AD 新设窗+120 专才
+- **W**：**军警公段守界注**
+- **O**：Zignani AD 直达位
+- **T**：一线链竞谱
 
 ## 触达与风险红线
 
@@ -173,7 +181,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -182,9 +190,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] Amministratore 实名(visura)
-  - [ ] MikroTik 谱份额
-  - [ ] 当前硬谱执行厂牌
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -196,13 +203,9 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Techno Center team,
+Gentile Sig. Zignani,
 
-Roma HQ plus operational offices in Bari and Torino — a genuine three-site IT services operation, with a EUR 12.6M 2025 revenue line to back it. That kind of footprint typically means a growing park of on-site switching that has to stay cheap, PoE-healthy, and documented.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) - a value unit for the field-projects your three offices run.
-
-Could you point us to the colleague who owns the purchasing line for on-site network hardware, so we route the right spec to the right desk?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
 Saga Networks Export Desk

@@ -49,9 +49,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】MHz Shop(法国;R66 基线补足档·公司面全貌待补;函数口职能口 info@mhzshop.com（官网CGV/客服务句；自社FB同）；+33 4 86 68 83 30；Megahertz Wireless Eurl，66320 Marquixanes(mhzshop.com（官网CGV/客服务句；自社FB同）；+33 4 86 68 83 30；Megahertz Wireless Eurl，66320 Marquixanes)跟团不动;司实谱位点名指R66 后续波次/KPI 核心补件)
-- 【推断】R66 基线补足档(个体谱=实名同体谱;公司谱=函数口面谱)，公司面全谱/司实谱位待 R66 波次补件
-- 【假设】函数口职能口mhzshop.com（官网CGV/客服务句；自社FB同）；+33 4 86 68 83 30；Megahertz Wireless Eurl，66320 Marquixanes 为谱链入口；具名 kp 直发需 opt-in；后续波次以登记册+LinkedIn+R64 RocketReach 谱补撬件
+- 【事实】MHz Shop:MHz Shop(=**Megahertz Wireless Group EURL**;法国 Marquixanes(东比利牛斯 66),5 Avenue Roger Roquefort, 66320;**SIRET 484713052;cap €118,000;2005 创 21 年;WiFi/WiMAX/UMTS/GSM 无线电件网店专营**;**Gérant/创始人: Daniel Doguet(业余无线电 F4AKQ;Active+ Software 创主谱;官网 Qui sommes-nous 自署+mentions légales 印谱双 O!)**;Printemps du WiFi 乡区活动谱
+- 【推断】R66 第 22 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -80,10 +80,14 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@mhzshop.com（官网CGV/客服务句；自社FB同）；+33 4 86 68 83 30；Megahertz Wireless Eurl，66320 Marquixanes
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Daniel Doguet**(Gérant/创始人(官网自署+印谱+kompass 三源))— mhzshop.com 官网(O) 〔已有(公司官方公开件/登记册自曝);源:https://www.mhzshop.com/Qui-sommes-nous/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Daniel Doguet | Gérant/创始人(官网自署+印谱+kompass 三源) | mhzshop.com 官网(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.mhzshop.com/Qui-sommes-nous/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -106,45 +110,42 @@ updated: 2026-09-28
 ### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：谱链明智途径(LinkedIn 公开面)
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_341_376基线.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第22波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：R66 基线补足档(公司谱面全谱待补kp);司面全谱待 R66 波次补;函数口 info@mhzshop.com（官网CGV/客服务句；自社FB同）；+33 4 86 68 83 30；Megahertz Wireless Eurl，66320 Marquixanes(mhzshop.com（官网CGV/客服务句；自社FB同）；+33 4 86 68 83 30；Megahertz Wireless Eurl，66320 Marquixanes)跟团不动
-- **②芯片/型号**：(待问;mhzshop.com（官网CGV/客服务句；自社FB同）；+33 4 86 68 83 30；Megahertz Wireless Eurl，66320 Marquixanes 域名面谱=公司面谱)
-- **③KP 深挖**：**函数口职能口 info@mhzshop.com（官网CGV/客服务句；自社FB同）；+33 4 86 68 83 30；Megahertz Wireless Eurl，66320 Marquixanes(mhzshop.com（官网CGV/客服务句；自社FB同）；+33 4 86 68 83 30；Megahertz Wireless Eurl，66320 Marquixanes)已实位;R66 波次点名(KPI 核心):具体 KP 待补撬件(Urzeówne Rejstery+LinkedIn+official-self-published 渠道+R64 RocketReach 谱)&#10;具体实名谱位待 R66 波次补(司实谱位点名=R66 KPI 核心补件)**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))→ 成本谱替换件/随行件
-- **⑤在乎与偏好**：函数口职能口已实位
+- **①背景再核**：MHz Shop(=**Megahertz Wireless Group EURL**;法国 Marquixanes(东比利牛斯 66),5 Avenue Roger Roquefort, 66320;**SIRET 484713052;cap €118,000;2005 创 21 年;WiFi/WiMAX/UMTS/GSM 无线电件网店专营**;**Gérant/创始人: Daniel Doguet(业余无线电 F4AKQ;Active+ Software 创主谱;官网 Qui sommes-nous 自署+mentions légales 印谱双 O!)**;Printemps du WiFi 乡区活动谱
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Daniel Doguet(Gérant/创始人(官网自署+印谱+kompass 三源),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：印谱创主直达+业余电谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**MHz Shop — info@mhzshop.com（官网CGV/客服务句；自社FB同）；+33 4 86 68 83 30；Megahertz Wireless Eurl，66320 Marquixanes (CSV/STRUCT 落穗件;公司谱面全谱待补kp)
-  > MHz Shop — info@mhzshop.com（官网CGV/客服务句；自社FB同）；+33 4 86 68 83 30；Megahertz Wireless Eurl，66320 Marquixanes (CSV/STRUCT 落穗件;公司谱面全谱待补kp)
-  > 来源：https://www.mhzshop.com
-- **【业务定位】**R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;公司谱面全谱待补kp
-  > R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;公司谱面全谱待补kp
-  > 来源：https://www.mhzshop.com
-- **【近期动态与线索】**2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
-  > 2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
-  > 来源：https://www.mhzshop.com
+- **【决策链与对接人】**「Megahertz Wireless est le fruit de la réflexion d'un jeune créateur d'entreprise, **Daniel Doguet**…radioamateur licencié (F4AKQ)…fondateur d'Active+ Software」;Mentions légales: Directeur de la publication: Daniel Doguet(官网自署)
+  > 「Megahertz Wireless est le fruit de la réflexion d'un jeune créateur d'entreprise, **Daniel Doguet**…radioamateur licencié (F4AKQ)…fondateur d'Active+ Software」;Mentions légales: Directeur de la publication: Daniel Doguet(官网自署)
+  > 来源：https://www.mhzshop.com/Qui-sommes-nous/
+- **【联系方式与基础画像】**Megahertz Wireless Group EURL;capital €118.000;484.713.052 RCS Perpignan;5 avenue Roger Roquefort, 66320 Marquixanes;depuis 2005;WiFi antennas 2.4/5GHz/radio 专营网店(mhzshop.com 印谱/kompass 件)
+  > Megahertz Wireless Group EURL;capital €118.000;484.713.052 RCS Perpignan;5 avenue Roger Roquefort, 66320 Marquixanes;depuis 2005;WiFi antennas 2.4/5GHz/radio 专营网店(mhzshop.com 印谱/kompass 件)
+  > 来源：https://www.mhzshop.com/Mentions-legales/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：R66 基线补足档(公司谱面全谱待补kp);司面全谱待 R66 波次补;函数口 info@mhzshop.com（官网CGV/客服务句；自社FB同）；+33 4 86 68 83 30；Megahertz Wireless Eurl，66320 Marquixanes(mhzshop.com（官网CGV/客服务句；自社FB同）；+33 4 86 68 83 30；Megahertz Wireless Eurl，66320 Marquixanes)跟团不动
-- **产品线与在售品牌**：(待问;mhzshop.com（官网CGV/客服务句；自社FB同）；+33 4 86 68 83 30；Megahertz Wireless Eurl，66320 Marquixanes 域名面谱=公司面谱)
-- **目标行业与场景**：(R66 后续波次补)
-- **团队与规模**：(R66 后续波次补)
-- **决策链与对接人**：**函数口职能口 info@mhzshop.com（官网CGV/客服务句；自社FB同）；+33 4 86 68 83 30；Megahertz Wireless Eurl，66320 Marquixanes(mhzshop.com（官网CGV/客服务句；自社FB同）；+33 4 86 68 83 30；Megahertz Wireless Eurl，66320 Marquixanes)已实位;R66 波次点名(KPI 核心):具体 KP 待补撬件(Urzeówne Rejstery+LinkedIn+official-self-published 渠道+R64 RocketReach 谱)&#10;具体实名谱位待 R66 波次补(司实谱位点名=R66 KPI 核心补件)**
-- **技术与认证**：(R66 后续波次补)
-- **采购与供应链信号**：(R66 后续波次补)
-- **近期动态与线索**：2026-10-07 R66 波次点名(基线补足)
-- **与我方契合点**：函数口职能口mhzshop.com（官网CGV/客服务句；自社FB同）；+33 4 86 68 83 30；Megahertz Wireless Eurl，66320 Marquixanes 面心谱链档
-- **风险与注意**：具名 kp 未勘出/波次点名；不要直发或未 opt-in
+- **业务定位**：MHz Shop(=**Megahertz Wireless Group EURL**;法国 Marquixanes(东比利牛斯 66),5 Avenue Roger Roquefort, 66320;**SIRET 484713052;cap €118,000;2005 创 21 年;WiFi/WiMAX/UMTS/GSM 无线电件网店专营**;**Gérant/创始人: Daniel Doguet(业余无线电 F4AKQ;Active+ Software 创主谱;官网 Qui sommes-nous 自署+mentions légales 印谱双 O!)**;Printemps du WiFi 乡区活动谱
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：法国南乡 21 年无线电件网店(创主谱)
+- **团队与规模**：小微谱;2005 创
+- **决策链与对接人**：**Daniel Doguet(Gérant/创始人(官网自署+印谱+kompass 三源),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 22 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Daniel Doguet 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -159,10 +160,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：函数口职能口已实位
-- **W**：具名 kp 未勘出(波次点名)
-- **O**：函数口面心谱链档的特制效应
-- **T**：函数口档直发不直接
+- **S**：印谱创主直达+业余电谱
+- **W**：微实体谱
+- **O**：Doguet 直达位
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -181,7 +182,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -190,9 +191,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 司实谱位点名(波次点名)
-  - [ ] 公司面全谱
-  - [ ] 具名 kp 直发邮箱
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -204,13 +204,9 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi team,
+Monsieur Doguet,
 
-I came across MHz Shop while mapping 法国 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.
-
-Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
 Saga Networks Export Desk

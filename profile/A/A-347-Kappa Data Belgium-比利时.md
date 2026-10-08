@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Kappa Data Belgium(Kappa Data Group 原生总部,比利时 De Pinte,1998 创,2023 年 25 周年;分支:比利时/卢森堡/法国/荷兰/波兰;2025-07-03 Channel News:InvestLink 私募强化后,**Patrick Casteels = 唯一 CEO(创始人,股比 22%→35%)**;Chris Willems = 前 Co-CEO,转任 M&A 主责;Koert Martens = 技术总监(2011 前管理组合);Michel Grunspan = 收购的法国 Exer CEO(集团管理增补);Erwan Le Guen = 法国国别总监;2,900+ LinkedIn followers;目标 2030 前营收翻倍 · 只在 midsize/enterprise 转经商(reseller)谱;Kappa Data Belgium = Kappa Data Group 原生总部 De Pinte(1998 创,2023 年已满 25 周年);原生 HQ 在 De Pinte,2023 年自有报导 25 周年 +InvestLink 结构加固
-- 【推断】Patrick Casteels 经 co-CEO 共享后转唯一 CEO;InvestLink 私募深化持股;Casteels 股比 22%→35%;VAD 谱 LinkedIn 2,900+ followers;2030 翻倍目标下扩欧
-- 【假设】对转经商的「同档多谱」集成时,汇报层同厂转额的锚点件,卖「MikroTik 同档的成本 value PoE」能打三波
+- 【事实】Kappa Data Belgium:Kappa Data Belgium(=**Kappa Data Group 原生总部**;比利时 De Pinte,Grote Steenweg 18, 9840;+32 9 243 42 10;sales@/info@kappadata.be;**1997 创 29 年;40-50 人;Benelux VAD 原生谱;pitchbook: PE-Backed**);**CEO Group: Patrick Casteels(官网团队页 O)**;**Chris Willems: Managing Partner(2021 扩法稿引语;M&A 主责谱)**;Koert Martens 技术总监谱(波 18 档);Michel Grunspan(Exer CEO,集团管理增补谱)
+- 【推断】R66 第 22 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,8 +76,8 @@ updated: 2026-09-28
 - **原始联系字段**：info@kappadata.be（集团页/NIS2页）；+32 9 243 42 10；Kappa Data Holding/BVBA，Grote Steenweg 18, 9840 De Pinte
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
-  - **Patrick Casteels**(Kappa Data Group 唯一 CEO/创始人(35% 股))— LinkedIn 公司号/Channel News 自曝 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://channelnews.be/nl/kappa-data-wil-tegen-2030-verdubbelen-nieuwe-ceo-versterkte-aandeelhouders-en-expansie-in-europa/〕
-  - **Chris Willems**(M&A 主责)— Channel News 自曝 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://channelnews.be/nl/kappa-data-wil-tegen-2030-verdubbelen-nieuwe-ceo-versterkte-aandeelhouders-en-expansie-in-europa/〕
+  - **Patrick Casteels**(CEO Kappa Data Group(官网团队页自署))— kappadata.be 团队页(O) 〔已有(公司官方公开件/登记册自曝);源:https://www.kappadata.be/ons-bedrijf/ons-team/〕
+  - **Chris Willems**(Managing Partner(扩法新闻稿引语))— kappadata.be 新闻稿 PDF(O) 〔已有(公司官方公开件/登记册自曝);源:https://www.kappadata.be/wp-content/uploads/2021/11/Persbericht-NL-Kappa-Data-breidt-uit-naar-Frankrijk.pdf〕
   - **Koert Martens**(技术总监(集团))— kappadata.be 自曝 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.kappadata.be/25-jaar-kappa-data-laten-we-het-samen-vieren/〕
   - **Michel Grunspan**(法国 Exer CEO(集团管理))— kappadata.be 自曝 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.kappadata.be/25-jaar-kappa-data-laten-we-het-samen-vieren/〕
   - **Erwan Le Guen**(法国国别总监)— dutchitleaders 自曝 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.dutchitleaders.nl/news/660744/kappa-data-wil-groeien-in-nederland〕
@@ -86,8 +86,8 @@ updated: 2026-09-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Patrick Casteels | Kappa Data Group 唯一 CEO/创始人(35% 股) | LinkedIn 公司号/Channel News 自曝 | leads-only·待 opt-in(LinkedIn 公开面) | https://channelnews.be/nl/kappa-data-wil-tegen-2030-verdubbelen-nieuwe-ceo-versterkte-aandeelhouders-en-expansie-in-europa/ |
-| Chris Willems | M&A 主责 | Channel News 自曝 | leads-only·待 opt-in(LinkedIn 公开面) | https://channelnews.be/nl/kappa-data-wil-tegen-2030-verdubbelen-nieuwe-ceo-versterkte-aandeelhouders-en-expansie-in-europa/ |
+| Patrick Casteels | CEO Kappa Data Group(官网团队页自署) | kappadata.be 团队页(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.kappadata.be/ons-bedrijf/ons-team/ |
+| Chris Willems | Managing Partner(扩法新闻稿引语) | kappadata.be 新闻稿 PDF(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.kappadata.be/wp-content/uploads/2021/11/Persbericht-NL-Kappa-Data-breidt-uit-naar-Frankrijk.pdf |
 | Koert Martens | 技术总监(集团) | kappadata.be 自曝 | leads-only·待 opt-in(LinkedIn 公开面) | https://www.kappadata.be/25-jaar-kappa-data-laten-we-het-samen-vieren/ |
 | Michel Grunspan | 法国 Exer CEO(集团管理) | kappadata.be 自曝 | leads-only·待 opt-in(LinkedIn 公开面) | https://www.kappadata.be/25-jaar-kappa-data-laten-we-het-samen-vieren/ |
 | Erwan Le Guen | 法国国别总监 | dutchitleaders 自曝 | leads-only·待 opt-in(LinkedIn 公开面) | https://www.dutchitleaders.nl/news/660744/kappa-data-wil-groeien-in-nederland |
@@ -96,61 +96,59 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 同档多谱 VAD 的 value PoE 替换件
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：同档多谱 VAD 的 value PoE 替换件
-- **要问的问题**：Kappa NL/BE 详措『同档多谱』转商上游, MikroTik 成本谱对象的替换件有必要?
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · M&A 期的转商搭件谱(+Chip 谱)
+### 第 2 次跟进 · 一页目录卡
 
 - **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：M&A 期的转商搭件谱(+Chip 谱)
-- **要问的问题**：InvestLink 结构化扩能期,转商谱的价值层是新样?
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
 - **随附/动作**：卡
 
-### 第 3 次跟进 · 留档+LinkedIn 谱,在渠道处理时只谱 NL/BE 谱
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档+LinkedIn 谱,在渠道处理时只谱 NL/BE 谱
-- **要问的问题**：谱接 CEO/CTO 谱位的公开 LinkedIn 谱
+- **切入点**：谱链明智途径
+- **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第1波.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第22波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：De Pinte 1998 创的欧盟 VAD 谱,比利时/FR/NL/PL 四办,2025-07 PE 重组,Channel News 一手核
-- **②芯片/型号**：Extreme/Aruba/Juniper 同档(官网);MikroTik 从库内信号——同档多谱集成
-- **③KP 深挖**：**Patrick Casteels(CEO 金谱)+Chris Willems+Koert Martens+Michel Grunspan+Erwan Le Guen+InvestLink**
-- **④Saga 对标**：MikroTik 成本谱对象的 value PoE($180 USD EXW (2026-10-07, 15天有效))配天平
-- **⑤在乎与偏好**：VAD 谱、reseller-only、安全/IoT/IoP 集成
+- **①背景再核**：Kappa Data Belgium(=**Kappa Data Group 原生总部**;比利时 De Pinte,Grote Steenweg 18, 9840;+32 9 243 42 10;sales@/info@kappadata.be;**1997 创 29 年;40-50 人;Benelux VAD 原生谱;pitchbook: PE-Backed**);**CEO Group: Patrick Casteels(官网团队页 O)**;**Chris Willems: Managing Partner(2021 扩法稿引语;M&A 主责谱)**;Koert Martens 技术总监谱(波 18 档);Michel Grunspan(Exer CEO,集团管理增补谱)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Patrick Casteels(CEO Kappa Data Group(官网团队页自署),official-self-published·谱/leads-only(直发需 opt-in));Chris Willems(Managing Partner(扩法新闻稿引语),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：原生总部+VAD 培训谱=件链窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**Patrick Casteels ... enige CEO ... Chris Willems ... M&A-luik
-  > Patrick Casteels ... enige CEO ... Chris Willems ... M&A-luik
-  > 来源：https://channelnews.be/nl/kappa-data-wil-tegen-2030-verdubbelen-nieuwe-ceo-versterkte-aandeelhouders-en-expansie-in-europa/
-- **【业务定位】**25 jaar: Patrick Casteels managing director, Koert Martens technisch directeur;2013 NL/2015 PL/2019 InvestLink/2021 Exer
-  > 25 jaar: Patrick Casteels managing director, Koert Martens technisch directeur;2013 NL/2015 PL/2019 InvestLink/2021 Exer
-  > 来源：https://www.kappadata.be/25-jaar-kappa-data-laten-we-het-samen-vieren/
-- **【近期动态与线索】**Kappa Data, value added distributor, heeft naast het hoofdkantoor in België, kantoren in Frankrijk, Nederland en Polen ... 27 jaar
-  > Kappa Data, value added distributor, heeft naast het hoofdkantoor in België, kantoren in Frankrijk, Nederland en Polen ... 27 jaar
-  > 来源：https://www.dutchitleaders.nl/news/660744/kappa-data-wil-groeien-in-nederland
+- **【决策链与对接人】**官网团队页: Patrick Casteels CEO Kappa Data Group;新闻稿: Chris Willems Managing Partner(「sterke positie op de Franse markt…€100 miljoen」)
+  > 官网团队页: Patrick Casteels CEO Kappa Data Group;新闻稿: Chris Willems Managing Partner(「sterke positie op de Franse markt…€100 miljoen」)
+  > 来源：https://www.kappadata.be/ons-bedrijf/ons-team/
+- **【联系方式与基础画像】**HQ: Grote Steenweg 18, 9840 De Pinte;+32 (0)9 243 42 10;info@kappadata.be;founded 1997;40 total employees(pitchbook);Unattributed VC/PE-Backed 谱;IT infra/security/IoT 分销+培训/活动谱(cbinsights/pitchbook/runzero 件)
+  > HQ: Grote Steenweg 18, 9840 De Pinte;+32 (0)9 243 42 10;info@kappadata.be;founded 1997;40 total employees(pitchbook);Unattributed VC/PE-Backed 谱;IT infra/security/IoT 分销+培训/活动谱(cbinsights/pitchbook/runzero 件)
+  > 来源：https://pitchbook.com/profiles/company/484207-66
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：value-add distributor(VAD)的 edge 安全/IoT/network 集成分销谱;只接 reseller 谱、不接 enduser
-- **产品线与在售品牌**：Extreme Networks/Aruba HPE/Juniper/HPE Networking;MikroTik 从库内信号
-- **目标行业与场景**：比/卢 reseller 谱的 Cyber/IoT/IoP 价值增值分销(VAD)中枢
-- **决策链与对接人**：**Patrick Casteels(CEO/创始人 35% 股);Chris Willems(M&A 实责);Koert Martens(CTD 技术总监);Michel Grunspan(收购 Exer CEO);Erwan Le Guen(FR 国别);InvestLink 私募层——official-self-published 级金谱**
-- **技术与认证**：25+年 IT infra/security 分销;技术实力同格 Waveline
-- **采购与供应链信号**：转经商谱的多牌集成、分销组线;对搭配的 value PoE 件链窗口
-- **近期动态与线索**：2025-07 Channel News 报鹏芽双层(PE+CEO 重组+欧国扩)
-- **与我方契合点**：「同档多谱」谱里 value PoE 替换件的转经价值
-- **风险与注意**：只接 reseller 不接受直触达;雪要派谱链接送转经商上端
+- **业务定位**：Kappa Data Belgium(=**Kappa Data Group 原生总部**;比利时 De Pinte,Grote Steenweg 18, 9840;+32 9 243 42 10;sales@/info@kappadata.be;**1997 创 29 年;40-50 人;Benelux VAD 原生谱;pitchbook: PE-Backed**);**CEO Group: Patrick Casteels(官网团队页 O)**;**Chris Willems: Managing Partner(2021 扩法稿引语;M&A 主责谱)**;Koert Martens 技术总监谱(波 18 档);Michel Grunspan(Exer CEO,集团管理增补谱)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：比 De Pinte Kappa 原生总部(PE 谱)
+- **团队与规模**：40-50 人;1997 创
+- **决策链与对接人**：**Patrick Casteels(CEO Kappa Data Group(官网团队页自署),official-self-published·谱/leads-only(直发需 opt-in));Chris Willems(Managing Partner(扩法新闻稿引语),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 22 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Patrick Casteels 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -165,10 +163,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：VAD 谱/PE 加持
-- **W**：直触 reseller 谱上端
-- **O**：value PoE 替换件
-- **T**：大牌集成
+- **S**：原生总部+VAD 培训谱=件链窗
+- **W**：PE 资本谱
+- **O**：Casteels/Willems 直达位
+- **T**：一线链竞谱
 
 ## 触达与风险红线
 
@@ -196,9 +194,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] MikroTik 成本谱谱链
-  - [ ] 当前 24 口 PoE 执行品牌/搭配线
-  - [ ] reseller 谱的谱链搭
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -210,7 +207,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Kappa Data team, the Belgian value-add distributor at the heart of the Kappa data Group— a name that shows up everywhere smart city and IoT projects in the BeNeLux do their buying.
+Geachte heer Casteels,
+
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+
+Best regards,
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

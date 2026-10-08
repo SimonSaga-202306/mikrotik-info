@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】LEXIS Πληροφορική Α.Ε.(Athens Gerakas,401 Kleisthenous str., 15344 Gerakas + 32 Mavromichali str., 54248 Thessaloniki;1986 创(40 年！);11-50 名员工;谱型=Cyber Security/VPN/有线无线电信网络/VoIP/UPS 系统/AI 视频守护的全谱解决方案经销+服务;ISO 9001:2008 认证;40 年「Uninterruptible Power, Uninterruptible Business」定位;LinkedIn 1,029 followers;TRIPPLITE 谱强
-- 【推断】四十年的电信谱+网络安全谱+UPS 谱=希腊谱的大经典分销商;MikroTik 谱与 UPS 谱双主定位;40 年谱稳但硬件谱未官列
-- 【假设】40 年谱的「Uninterruptible」可靠定位⇒ 备用层 Proxy PoE 件的谱链窗口(交换机+监控谱),长谱谱链强
+- 【事实】LEXIS S.A:LEXIS ΠΛΗΡΟΦΟΡΙΚΗ Α.Ε.(希腊 Gerakas(阿提卡),Κλεισθένους 401, 15344(法定 Καρπάθου 2-4 & Εθν. Αντιστάσεως)+Thessaloniki 分社(Μαυρομιχάλη 32);**电信网研究+集成老牌(vres:「 από τις πιο πεπειραμένες」);Cyber Security/VPN/有无线电信网/VoIP/UPS 专营;Fortinet FortiGate 谱**;**Υπεύθυνος/Γενικός Διευθυντής(总经理): Theodoros Filopoulos(ΦΙΛΟΠΟΥΛΟΣ ΘΕΟΔΩΡΟΣ;vres.gr 名录件)**;+30 210 6777007;lexis@lexis.gr
+- 【推断】R66 第 22 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,6 +76,7 @@ updated: 2026-09-28
 - **原始联系字段**：lexis@lexis.gr（官网Contact Us/产品页；分公司thes@lexis.gr）；+30 210 6777007；LEXIS S.A.，401 Kleisthenous str., 15344 Gerakas
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Theodoros Filopoulos(Θεόδωρος Φιλόπουλος)**(Γενικός Διευθυντής(总经理;希腊名录件))— vres.gr 名录件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.vres.gr/lexis-pliroforiki-ae〕
   - **Lilly Filopoulou**(Business Development Manager)— ContactOut 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://contactout.com/company/LEXIS-SA-95442〕
   - **Miltos Drikos**(technical manager)— ContactOut 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://contactout.com/company/LEXIS-SA-95442〕
   - **Pavlos Filopoulos**(Sales Engineer & Technical Support)— ContactOut 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://contactout.com/company/LEXIS-SA-95442〕
@@ -85,6 +86,7 @@ updated: 2026-09-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Theodoros Filopoulos(Θεόδωρος Φιλόπουλος) | Γενικός Διευθυντής(总经理;希腊名录件) | vres.gr 名录件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.vres.gr/lexis-pliroforiki-ae |
 | Lilly Filopoulou | Business Development Manager | ContactOut 谱 | leads-only·待 opt-in(LinkedIn 公开面) | https://contactout.com/company/LEXIS-SA-95442 |
 | Miltos Drikos | technical manager | ContactOut 谱 | leads-only·待 opt-in(LinkedIn 公开面) | https://contactout.com/company/LEXIS-SA-95442 |
 | Pavlos Filopoulos | Sales Engineer & Technical Support | ContactOut 谱 | leads-only·待 opt-in(LinkedIn 公开面) | https://contactout.com/company/LEXIS-SA-95442 |
@@ -94,10 +96,10 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 具名 KPI 引路口
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：具名 KP 引路 → 采购/技术硬件分载线
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
 - **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
@@ -111,47 +113,42 @@ updated: 2026-09-28
 ### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：谱链明智途径(LinkedIn 公开面)
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第2波.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第22波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：希腊雅典 40 年电信谱+网络安全+UPS+AI 守护的四大谱谱分销商,ISO 9001:2008 认证
-- **②芯片/型号**：(待问或官网未硬谱分录档；MikroTik 从库内信号)
-- **③KP 深挖**：**Lilly Filopoulou(Business Development Manager);Miltos Drikos(technical manager);Pavlos Filopoulos(Sales Engineer & Tech Support);Grigoris Chatzikakis(Store Manager)——contactout 谱/实名金谱及格**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))→ 成本谱替换件/随行件
-- **⑤在乎与偏好**：企业/公营/数据的信线谱,mikroTik 谱分销
+- **①背景再核**：LEXIS ΠΛΗΡΟΦΟΡΙΚΗ Α.Ε.(希腊 Gerakas(阿提卡),Κλεισθένους 401, 15344(法定 Καρπάθου 2-4 & Εθν. Αντιστάσεως)+Thessaloniki 分社(Μαυρομιχάλη 32);**电信网研究+集成老牌(vres:「 από τις πιο πεπειραμένες」);Cyber Security/VPN/有无线电信网/VoIP/UPS 专营;Fortinet FortiGate 谱**;**Υπεύθυνος/Γενικός Διευθυντής(总经理): Theodoros Filopoulos(ΦΙΛΟΠΟΥΛΟΣ ΘΕΟΔΩΡΟΣ;vres.gr 名录件)**;+30 210 6777007;lexis@lexis.gr
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Theodoros Filopoulos(Θεόδωρος Φιλόπουλος)(Γενικός Διευθυντής(总经理;希腊名录件),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：总经理名录具名=直达
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**Lilly Filopoulou Business Development Manager · Miltos Drikos technical manager · Grigoris Chatzikakis Store Manager · Pavlos Filopoulos Sales Engineer & Technical Support
-  > Lilly Filopoulou Business Development Manager · Miltos Drikos technical manager · Grigoris Chatzikakis Store Manager · Pavlos Filopoulos Sales Engineer & Technical Support
-  > 来源：https://contactout.com/company/LEXIS-SA-95442
-- **【业务定位】**40 years of reliability & innovation · Since 1986 LEXIS distributes state-of-the-art Integrated Telecommunication Networks & Power Systems · ISO 9001:2008 certified
-  > 40 years of reliability & innovation · Since 1986 LEXIS distributes state-of-the-art Integrated Telecommunication Networks & Power Systems · ISO 9001:2008 certified
-  > 来源：https://gr.linkedin.com/company/lexis-sa
-- **【技术与认证】**Cyber Security/VPN/有线无线电信网络/VoIP/UPS 系统/AI Surveillance;TRIPPLITE;Head Office: 401 Kleisthenous str., 15344 Gerakas;Branch: 32 Mavromichali str., 54248 Thessaloniki
-  > Cyber Security/VPN/有线无线电信网络/VoIP/UPS 系统/AI Surveillance;TRIPPLITE;Head Office: 401 Kleisthenous str., 15344 Gerakas;Branch: 32 Mavromichali str., 54248 Thessaloniki
-  > 来源：https://www.lexis.gr/en/
+- **【决策链与对接人】**Υπεύθυνος: ΓΕΝΙΚΟΣ ΔΙΕΥΘΥΝΤΗΣ **ΦΙΛΟΠΟΥΛΟΣ ΘΕΟΔΩΡΟΣ**(vres.gr 希腊工商名录件)
+  > Υπεύθυνος: ΓΕΝΙΚΟΣ ΔΙΕΥΘΥΝΤΗΣ **ΦΙΛΟΠΟΥΛΟΣ ΘΕΟΔΩΡΟΣ**(vres.gr 希腊工商名录件)
+  > 来源：https://www.vres.gr/lexis-pliroforiki-ae
+- **【联系方式与基础画像】**Head Office: Κλεισθένους 401, 15344 Γέρακας;+30 210 6777007;lexis@lexis.gr;分社 Θεσσαλονίκη;lexis.gr: Cyber Security/VPN/wired&wireless telecom networks/VoIP/UPS;Fortinet FortiGate 系列谱(lexis.gr 官网 GDPR/contactus 件)
+  > Head Office: Κλεισθένους 401, 15344 Γέρακας;+30 210 6777007;lexis@lexis.gr;分社 Θεσσαλονίκη;lexis.gr: Cyber Security/VPN/wired&wireless telecom networks/VoIP/UPS;Fortinet FortiGate 系列谱(lexis.gr 官网 GDPR/contactus 件)
+  > 来源：https://www.lexis.gr/en/gdpr
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：希腊雅典 40 年电信谱+网络安全+UPS+AI 守护的四大谱谱分销商,ISO 9001:2008 认证
-- **产品线与在售品牌**：Cyber Security/VPN/Networking/VoIP/UPS/AI surveillance;TRIPPLITE 谱强
-- **目标行业与场景**：企业/公营/数据的信线谱,mikroTik 谱分销
-- **团队与规模**：11-50 人;1986 创(40 年);两办
-- **决策链与对接人**：**Lilly Filopoulou(Business Development Manager);Miltos Drikos(technical manager);Pavlos Filopoulos(Sales Engineer & Tech Support);Grigoris Chatzikakis(Store Manager)——contactout 谱/实名金谱及格**
-- **技术与认证**：ISO 9001:2008;TRIPPLITE 谱强;MikroTik 谱
-- **采购与供应链信号**：40 年谱的谱面长谱链(谱面名作谱)》谱面供应链结构补谱
-- **近期动态与线索**：ISO 9001:2008 认证盒;「Uninterruptible Power, Uninterruptible Business」口号 2024-11 仍谱
-- **与我方契合点**：「Uninterruptible」可靠定位的谱链窗口→ 24 口 value PoE(监控谱)
-- **风险与注意**：谱面已补 TRIPPLITE/UPS 谱;Pavlos/Lilly 直发谱链链明智面
-- **_swotstrt**：S 40 年谱基/ISO 9001 认证 / W 谱面大牌谱(TRIPPLITE)/ O 备用层成本谱替换件 / T 大牌集成
-- **_sw**：['40 年谱基/ISO 9001 认证', '谱面大牌谱(TRIPPLITE)', '备用层成本谱替换件', '大牌集成']
+- **业务定位**：LEXIS ΠΛΗΡΟΦΟΡΙΚΗ Α.Ε.(希腊 Gerakas(阿提卡),Κλεισθένους 401, 15344(法定 Καρπάθου 2-4 & Εθν. Αντιστάσεως)+Thessaloniki 分社(Μαυρομιχάλη 32);**电信网研究+集成老牌(vres:「 από τις πιο πεπειραμένες」);Cyber Security/VPN/有无线电信网/VoIP/UPS 专营;Fortinet FortiGate 谱**;**Υπεύθυνος/Γενικός Διευθυντής(总经理): Theodoros Filopoulos(ΦΙΛΟΠΟΥΛΟΣ ΘΕΟΔΩΡΟΣ;vres.gr 名录件)**;+30 210 6777007;lexis@lexis.gr
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：希雅典近郊电信网集成老牌屋
+- **团队与规模**：中小谱
+- **决策链与对接人**：**Theodoros Filopoulos(Θεόδωρος Φιλόπουλος)(Γενικός Διευθυντής(总经理;希腊名录件),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 22 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Theodoros Filopoulos 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -166,10 +163,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：40 年谱基/ISO 9001 认证
-- **W**：谱面大牌谱(TRIPPLITE)
-- **O**：备用层成本谱替换件
-- **T**：大牌集成
+- **S**：总经理名录具名=直达
+- **W**：牌链专谱
+- **O**：Filopoulos 直达位
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -197,9 +194,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] MikroTik 谱份额
-  - [ ] 当前 24 口 PoE 执行品牌
-  - [ ] 具名 KP 直连邮箱
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -211,13 +207,9 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Lilly,
+Dear Mr. Filopoulos,
 
-Forty years of "Uninterruptible Power, Uninterruptible Business" at LEXIS — Athens, Thessaloniki, ISO 9001, and the Tripplite UPS line walking hand-in-hand with your networking portfolio. That combination screams one thing: every site you design needs a bulletproof switching layer that stays happily in stock.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit for the surveillance/cyber-security deployments your team designs.
-
-As Business Development Manager at LEXIS, would you be the right person to carry a one-page spec to your technical desk?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
 Saga Networks Export Desk

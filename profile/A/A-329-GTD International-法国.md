@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】GTD International（法国 GTD 集团子司，2013 起 ICT 方案商）：'**Créateur de solutions IT…dans le secteur de la défence - du spatial - des transports - des services publics**'——防务/航天/交通/公共服务四大赛道居自宣之首；ISO 27001/9001;RATP 人群实验项目（BPI 支持）
-- 【推断】防务/航天双赛道的集成主体——出口管制+密级供应链环境（参照批15国防红线先例），外资网络件无现实通道
-- 【假设】纪律建档不出信（红线段核心身份，参照 A-145 dainox/A-139 ARCHE 族先例）
+- 【事实】GTD International:GTD INTERNATIONAL SAS(法国 Lavelanet(Ariège),Hôtel d'Entreprise de la Coume;**SIREN 794778977;TVA FR22794778977;2013-08-07 创;SAS cap €1,525,000;20-49 人(23);CA €5.96M(2024);RCS 旧名 Celeres France;GTD 集团 6 实体头(西班牙 GTD 工程集团系)**;**Président: Angel Ramirez Navarro(1959 生,2016-08-31 起;pappers/manageo/verif/infonet 四源 O)**;PELICAN 敏感设施安防关联谱(Hugues Moizan 实控)=敏感段守界注;**p1=STI-288GP 供位谱**
+- 【推断】R66 第 22 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,16 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：contact@gtd-international.com（官网法律声明；同页电话05 32 09 11 80）；法国子公司，集团gtd.eu
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Angel Ramirez Navarro**(Président(2016 起;四源一致))— pappers.fr 件 〔已有(公司官方公开件/登记册自曝);源:https://www.pappers.fr/entreprise/gtd-international-794778977〕
+  - **Ali Merabet Chater**(Directeur Général(bfmtv 谱面条;HMC IMMO 同址;差旗待核))— dirigeants.bfmtv.com 件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://dirigeants.bfmtv.com/Ali-MERABET-CHATER-3936103/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Angel Ramirez Navarro | Président(2016 起;四源一致) | pappers.fr 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.pappers.fr/entreprise/gtd-international-794778977 |
+| Ali Merabet Chater | Directeur Général(bfmtv 谱面条;HMC IMMO 同址;差旗待核) | dirigeants.bfmtv.com 件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://dirigeants.bfmtv.com/Ali-MERABET-CHATER-3936103/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -135,32 +141,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第33批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第22波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：官网首屏自宣四大赛道 défence/spatial/transports/services publics（2026-09-29 取证）；CSV 9-23 AT 名录身份在档
-- **②芯片/型号**：—
-- **③KP 深挖**：—
-- **④Saga 对标**：红线判例对照
-- **⑤在乎与偏好**：—
+- **①背景再核**：GTD INTERNATIONAL SAS(法国 Lavelanet(Ariège),Hôtel d'Entreprise de la Coume;**SIREN 794778977;TVA FR22794778977;2013-08-07 创;SAS cap €1,525,000;20-49 人(23);CA €5.96M(2024);RCS 旧名 Celeres France;GTD 集团 6 实体头(西班牙 GTD 工程集团系)**;**Président: Angel Ramirez Navarro(1959 生,2016-08-31 起;pappers/manageo/verif/infonet 四源 O)**;PELICAN 敏感设施安防关联谱(Hugues Moizan 实控)=敏感段守界注;**p1=STI-288GP 供位谱**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Angel Ramirez Navarro(Président(2016 起;四源一致),official-self-published·谱/leads-only(直发需 opt-in));Ali Merabet Chater(Directeur Général(bfmtv 谱面条;HMC IMMO 同址;差旗待核),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：集团头+敏感设施安防邻谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**GTD International（法国 GTD 集团子司，2013 起 ICT 方案商）：'**Créateur de solutions IT…dans le secteur de la défence - du spatial - des transports - des services publics**'——防务/航天/交通/公共服务四大赛道居自宣之首；ISO 27001/9001;RATP 人群实验项目（BPI 支持）
-  > GTD International（法国 GTD 集团子司，2013 起 ICT 方案商）：'**Créateur de solutions IT…dans le secteur de la défence - du spatial - des transports - des services publics**'——防务/航天/交通/公共服务四大赛道居自宣之首；ISO 27001/9001;RATP 人群实验项目（BPI 支持）
-  > 来源：https://gtd-international.fr
+- **【决策链与对接人】**Dirigeant: RAMIREZ Angel, Président(depuis 31/08/2016;né 1959);dirige 2 entreprises dont GTD INTERNATIONAL(pappers/infonet 件);bfmtv 谱: Ali MERABET CHATER Directeur général(差旗注)
+  > Dirigeant: RAMIREZ Angel, Président(depuis 31/08/2016;né 1959);dirige 2 entreprises dont GTD INTERNATIONAL(pappers/infonet 件);bfmtv 谱: Ali MERABET CHATER Directeur général(差旗注)
+  > 来源：https://www.pappers.fr/entreprise/gtd-international-794778977
+- **【联系方式与基础画像】**SIREN 794 778 977;1 Chemin de la Coume, 09300 Lavelanet;SAS €1.525M;CA €5.964.000(2024);resultat net €733.543;groupe 6 entités;旧名 Celeres France;Toulouse/Rueil-Malmaison 2 支局(verif/manageo 件)
+  > SIREN 794 778 977;1 Chemin de la Coume, 09300 Lavelanet;SAS €1.525M;CA €5.964.000(2024);resultat net €733.543;groupe 6 entités;旧名 Celeres France;Toulouse/Rueil-Malmaison 2 支局(verif/manageo 件)
+  > 来源：https://www.verif.com/societe/GTD-INTERNATIONAL-794778977/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：红线段技术集成（不涉），仅建档
-- **产品线与在售品牌**：—
-- **目标行业与场景**：—
-- **团队与规模**：—
-- **决策链与对接人**：—
-- **技术与认证**：—
-- **采购与供应链信号**：—
-- **近期动态与线索**：—
-- **与我方契合点**：红线：不接触
-- **风险与注意**：国防/关键基建安全环境
+- **业务定位**：GTD INTERNATIONAL SAS(法国 Lavelanet(Ariège),Hôtel d'Entreprise de la Coume;**SIREN 794778977;TVA FR22794778977;2013-08-07 创;SAS cap €1,525,000;20-49 人(23);CA €5.96M(2024);RCS 旧名 Celeres France;GTD 集团 6 实体头(西班牙 GTD 工程集团系)**;**Président: Angel Ramirez Navarro(1959 生,2016-08-31 起;pappers/manageo/verif/infonet 四源 O)**;PELICAN 敏感设施安防关联谱(Hugues Moizan 实控)=敏感段守界注;**p1=STI-288GP 供位谱**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：法国阿列日 €6M 编程/工程谱(GTD 系)
+- **团队与规模**：23 人;2013 创
+- **决策链与对接人**：**Angel Ramirez Navarro(Président(2016 起;四源一致),official-self-published·谱/leads-only(直发需 opt-in));Ali Merabet Chater(Directeur Général(bfmtv 谱面条;HMC IMMO 同址;差旗待核),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 22 波谱名牌(p1=STI-288GP 供位)
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Angel Ramirez 直达(opt-in 律;敏感设施守界)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -175,10 +184,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：—
-- **W**：红线
-- **O**：0
-- **T**：—
+- **S**：集团头+敏感设施安防邻谱
+- **W**：敏感段守界注
+- **O**：Ramirez 直达位
+- **T**：集团链竞谱
 
 ## 触达与风险红线
 
@@ -197,7 +206,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -206,7 +215,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] —
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -218,7 +228,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-（不出信——红线段身份核心。动作：仅建档与 DNS/证据核验。判定依据：官网首屏自宣四大赛道 défence/spatial/transports/services publics（2026-09-29 取证）；CSV 9-23 AT 名录身份在档。）
+Monsieur Ramirez,
+
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+
+Best regards,
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

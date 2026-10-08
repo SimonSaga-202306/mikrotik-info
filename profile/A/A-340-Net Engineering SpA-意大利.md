@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Net Engineering Srl（意大利 Reggio Emilia/Milano/Roma；**31 年**）：'GLOBAL NETWORK SERVICE'——Networking/无线互联/VoIP/IP Phone/**视频 over IP/视频监控**/视频会议/流媒体/VPN/安全+结构化布线/CED 机房/楼自动化；**5000 客户/50 staff/300 城市/2500 realizzazioni/年 2100 ticket**；品牌墙 Meraki/HP/Avaya/Cisco/Alcatel/Vertix/Rainbow;CSV：实体名 Srl（roster 记 'SpA' 订正注）
-- 【推断】意三区网络工程中型集团：监控/VoIP/视频工程全谱全消耗 PoE——随单正口；中档多牌环境利于 value 位
-- 【假设】其监控/VoIP/网络工程的 value PoE 随单正口
+- 【事实】Net Engineering SpA:Net Engineering Srl(档头 SpA 注;意大利 Milano/Sesto San Giovanni;**1991 创 35 年;51-200 人;电信/网络/布线/VoIP 集成**;**三异体分层注:net-e.it NET Engineering S.r.l.(Padova,1971,130 人 €15M,土木/水利工程,Furlan 父女)/Engineering SpA(Pandozy,意 IT 巨头)=各已排离;档对位=米兰电信体(netengineering.it)**;**LI 员工谱:Massimo Dell'Avvocato(Responsabile Voice Department=语音部主管)+Emiliano Savorani(Wireless Network Engineer=无线工程师谱!)+Massimo Lodola(account manager)**
+- 【推断】R66 第 22 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,16 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：mail@netengineering.it（官网联系页；AT伙伴页列Net Engineering SpA @ Sesto S.Giovanni、+39 02 2412541）；PEC netengineering@legalmail.it；+39 0522 380038；主体写作Net engineering Srl（P.IVA IT10286420152）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Massimo Dell'Avvocato**(Responsabile Voice Department(语音部主管;LI 谱))— linkedin.com/company/net-engineering-srl 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://it.linkedin.com/company/net-engineering-srl〕
+  - **Emiliano Savorani**(Wireless Network Engineer(无线工程谱))— linkedin.com/company/net-engineering-srl 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://it.linkedin.com/company/net-engineering-srl〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Massimo Dell'Avvocato | Responsabile Voice Department(语音部主管;LI 谱) | linkedin.com/company/net-engineering-srl | leads-only·待 opt-in(LinkedIn/谱面带核) | https://it.linkedin.com/company/net-engineering-srl |
+| Emiliano Savorani | Wireless Network Engineer(无线工程谱) | linkedin.com/company/net-engineering-srl | leads-only·待 opt-in(LinkedIn/谱面带核) | https://it.linkedin.com/company/net-engineering-srl |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +140,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第34批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第22波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：IT 工程集团（官网一手核）
-- **②芯片/型号**：多牌中档
-- **③KP 深挖**：mail@
-- **④Saga 对标**：随单正口（$180 锚点一致）
-- **⑤在乎与偏好**：规模交付/31 年信任
+- **①背景再核**：Net Engineering Srl(档头 SpA 注;意大利 Milano/Sesto San Giovanni;**1991 创 35 年;51-200 人;电信/网络/布线/VoIP 集成**;**三异体分层注:net-e.it NET Engineering S.r.l.(Padova,1971,130 人 €15M,土木/水利工程,Furlan 父女)/Engineering SpA(Pandozy,意 IT 巨头)=各已排离;档对位=米兰电信体(netengineering.it)**;**LI 员工谱:Massimo Dell'Avvocato(Responsabile Voice Department=语音部主管)+Emiliano Savorani(Wireless Network Engineer=无线工程师谱!)+Massimo Lodola(account manager)**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Massimo Dell'Avvocato(Responsabile Voice Department(语音部主管;LI 谱),leads-only·待 opt-in(LinkedIn/谱面带核));Emiliano Savorani(Wireless Network Engineer(无线工程谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：电信/无线工程员工谱在
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**GLOBAL NETWORK SERVICE——31 Anni, 5000 Clienti, 50 staff, 300 città……Services: Networking/VoIP/Video sorveglianza/Video conferenza
-  > GLOBAL NETWORK SERVICE——31 Anni, 5000 Clienti, 50 staff, 300 città……Services: Networking/VoIP/Video sorveglianza/Video conferenza
-  > 来源：https://netengineering.it
+- **【决策链与对接人】**LI 员工谱: Massimo Dell'Avvocato(Responsabile Voice Department)+Emiliano Savorani(Wireless Network Engineer)+Massimo Lodola(account manager)+Nazario Trovalusci;**Padova 工程体/Engineering SpA 巨头=异体已分层**
+  > LI 员工谱: Massimo Dell'Avvocato(Responsabile Voice Department)+Emiliano Savorani(Wireless Network Engineer)+Massimo Lodola(account manager)+Nazario Trovalusci;**Padova 工程体/Engineering SpA 巨头=异体已分层**
+  > 来源：https://it.linkedin.com/company/net-engineering-srl
+- **【联系方式与基础画像】**Milano;founded 1991;51-200 dipendenti;Telecomunicazioni/Networking/Cabling/VoIP(netengineering.it;LI 件)
+  > Milano;founded 1991;51-200 dipendenti;Telecomunicazioni/Networking/Cabling/VoIP(netengineering.it;LI 件)
+  > 来源：https://it.linkedin.com/company/net-engineering-srl
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：意大利三区网络工程集团（31 年）
-- **产品线与在售品牌**：Meraki/HP/Avaya/Cisco/Alcatel
-- **目标行业与场景**：企业楼宇/机构私营为主
-- **团队与规模**：50 人/5000 客户
-- **决策链与对接人**：mail@ 口
-- **技术与认证**：—
-- **采购与供应链信号**：项目随单
-- **近期动态与线索**：—
-- **与我方契合点**：监控/VoIP/视频工程 value PoE 随单正口（强口）
-- **风险与注意**：多牌墙——现供待问清
+- **业务定位**：Net Engineering Srl(档头 SpA 注;意大利 Milano/Sesto San Giovanni;**1991 创 35 年;51-200 人;电信/网络/布线/VoIP 集成**;**三异体分层注:net-e.it NET Engineering S.r.l.(Padova,1971,130 人 €15M,土木/水利工程,Furlan 父女)/Engineering SpA(Pandozy,意 IT 巨头)=各已排离;档对位=米兰电信体(netengineering.it)**;**LI 员工谱:Massimo Dell'Avvocato(Responsabile Voice Department=语音部主管)+Emiliano Savorani(Wireless Network Engineer=无线工程师谱!)+Massimo Lodola(account manager)**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：意米兰 35 年电信布线集成屋
+- **团队与规模**：51-200 人;1991 创
+- **决策链与对接人**：**Massimo Dell'Avvocato(Responsabile Voice Department(语音部主管;LI 谱),leads-only·待 opt-in(LinkedIn/谱面带核));Emiliano Savorani(Wireless Network Engineer(无线工程谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 22 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Massimo Dell'Avvocato 位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +183,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：体量
-- **W**：多牌
-- **O**：随单
-- **T**：大牌
+- **S**：电信/无线工程员工谱在
+- **W**：GF 具名未锁+异体噪
+- **O**：Dell'Avvocato 语音部直达位
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +205,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,8 +214,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 现供
-  - [ ] 负责人
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -218,16 +227,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Gentili Net Engineering,
+Gentile Sig. Dell'Avvocato,
 
-Thirty-one years, 5,000 clients, 300 cities served - networking, VoIP, video surveillance and multimedia rooms at real scale. Every one of those disciplines ends in PoE switching.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value unit for your surveillance, VoIP and network projects.
-
-One question: where do the PoE switches behind your projects come from today - and would a documented value unit earn a test?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

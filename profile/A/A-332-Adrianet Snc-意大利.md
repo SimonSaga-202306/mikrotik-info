@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Adrianet SRL（意大利 Valenzano Bari；2025 年由 snc 转 SRL）：Communication & Security 装维店——铜缆/光纤布线（CAT5E-7 认证）、videosorveglianza（Hikvision/Dahua/Samsung）、antintrusione、烟雾检测；官网 Dati 栏明写 **'Switch (Layer 2, Layer 3), Mediaconverter, Routers, Access point…Zyxel, ATI (Allied Telesis), Cisco, 3Com, Netgear, D Link'**——多牌交换明存
-- 【推断】布线/监控安装商把多品牌交换写在 Dati 栏——其项目（监控/局域网）PoE 消耗明确真实，随单正口；玩家多为中档牌=value 层天然有空
-- 【假设】布线/监控项目 value PoE 随单正口
+- 【事实】Adrianet Snc:ADRIANET S.R.L.(旧体 SNC DI ABBINANTE MUZIO & C.)(意大利 Valenzano(BA),Via dell'Indipendenza 10;**P.IVA 06075650728;REA 460897;2004-01-19 登;2 人(2025);cap €30k;通信设备安装维护(951029)**;**客户全公共谱:Politecnico di Bari/Arpa Puglia/Comune di Bari/Regione Puglia/Tecnopolis/Aeroporto Bari-Palese e Brindisi/Porto di Bari/scuole=公段守界加厚**;MePA 2024 供应商(机电/软件档=公采守界);**Muzio Abbinante(旧体全称业主谱)+Michele Perrino(官网页脚署名)**
+- 【推断】R66 第 22 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,16 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@adrianetsrl.it（官网；PEC adrianetsrl@pec.it）；080 467 2023；2025年由snc转为Adrianet SRL
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Muzio Abbinante**(业主名谱(旧体 SNC 全称: di Abbinante Muzio & C.))— MePA/amministrazionicomunali 件 〔已有(公司官方公开件/登记册自曝);源:https://www.amministrazionicomunali.it/puglia/valenzano/adrianet-snc-di-abbinante-muzio-e-c〕
+  - **Michele Perrino**(网站实现者(官网页脚署名「Realizzato da」))— adrianetsrl.it 页脚 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.adrianetsrl.it/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Muzio Abbinante | 业主名谱(旧体 SNC 全称: di Abbinante Muzio & C.) | MePA/amministrazionicomunali 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.amministrazionicomunali.it/puglia/valenzano/adrianet-snc-di-abbinante-muzio-e-c |
+| Michele Perrino | 网站实现者(官网页脚署名「Realizzato da」) | adrianetsrl.it 页脚 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.adrianetsrl.it/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -135,32 +141,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第34批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第22波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：IT Bari 装维店（官网一手核）
-- **②芯片/型号**：多牌中档
-- **③KP 深挖**：info@
-- **④Saga 对标**：随单正口（$180 锚点一致）
-- **⑤在乎与偏好**：价格/交付/文档完整
+- **①背景再核**：ADRIANET S.R.L.(旧体 SNC DI ABBINANTE MUZIO & C.)(意大利 Valenzano(BA),Via dell'Indipendenza 10;**P.IVA 06075650728;REA 460897;2004-01-19 登;2 人(2025);cap €30k;通信设备安装维护(951029)**;**客户全公共谱:Politecnico di Bari/Arpa Puglia/Comune di Bari/Regione Puglia/Tecnopolis/Aeroporto Bari-Palese e Brindisi/Porto di Bari/scuole=公段守界加厚**;MePA 2024 供应商(机电/软件档=公采守界);**Muzio Abbinante(旧体全称业主谱)+Michele Perrino(官网页脚署名)**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Muzio Abbinante(业主名谱(旧体 SNC 全称: di Abbinante Muzio & C.),official-self-published·谱/leads-only(直发需 opt-in));Michele Perrino(网站实现者(官网页脚署名「Realizzato da」),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：MePA 公采谱+旧体业主名
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【产品线】**Switch (Layer 2, Layer 3), Mediaconverter, Routers, Access point…Zyxel, ATI (Allied Telesis), Cisco, 3Com, Netgear, D Link（Dati 栏原句）
-  > Switch (Layer 2, Layer 3), Mediaconverter, Routers, Access point…Zyxel, ATI (Allied Telesis), Cisco, 3Com, Netgear, D Link（Dati 栏原句）
-  > 来源：https://www.adrianetsrl.it
+- **【联系方式与基础画像】**ADRIANET SRL;P.IVA 06075650728;Via dell'Indipendenza 10, 70010 Valenzano (BA);080 467 2023;info@adrianetsrl.it;PEC adrianetsrl@pec.it;2 dipendenti(ufficiocamerale/官网件)
+  > ADRIANET SRL;P.IVA 06075650728;Via dell'Indipendenza 10, 70010 Valenzano (BA);080 467 2023;info@adrianetsrl.it;PEC adrianetsrl@pec.it;2 dipendenti(ufficiocamerale/官网件)
+  > 来源：https://www.ufficiocamerale.it/2267/adrianet-snc-di-abbinante-muzio-c
+- **【目标行业与场景】**客户谱(官网自署): Politecnico di Bari/Arpa Puglia/Comune di Bari/Regione Puglia/Aeroporto Bari-Palese/Porto di Bari/scuole=**公共段全覆盖=守界加厚**;MePA 供应商档
+  > 客户谱(官网自署): Politecnico di Bari/Arpa Puglia/Comune di Bari/Regione Puglia/Aeroporto Bari-Palese/Porto di Bari/scuole=**公共段全覆盖=守界加厚**;MePA 供应商档
+  > 来源：https://www.adrianetsrl.it/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：意大利 Bari 布线监控装维店
-- **产品线与在售品牌**：Zyxel/ATI/Cisco/Netgear/DLink
-- **目标行业与场景**：公私楼宇（私营传统）
-- **团队与规模**：区域装维店
-- **决策链与对接人**：info@ 口
-- **技术与认证**：—
-- **采购与供应链信号**：项目随单
-- **近期动态与线索**：2025 转 SRL（扩张信号）
-- **与我方契合点**：监控/局域网项目 PoE 随单正口
-- **风险与注意**：多牌散——比价决策快
+- **业务定位**：ADRIANET S.R.L.(旧体 SNC DI ABBINANTE MUZIO & C.)(意大利 Valenzano(BA),Via dell'Indipendenza 10;**P.IVA 06075650728;REA 460897;2004-01-19 登;2 人(2025);cap €30k;通信设备安装维护(951029)**;**客户全公共谱:Politecnico di Bari/Arpa Puglia/Comune di Bari/Regione Puglia/Tecnopolis/Aeroporto Bari-Palese e Brindisi/Porto di Bari/scuole=公段守界加厚**;MePA 2024 供应商(机电/软件档=公采守界);**Muzio Abbinante(旧体全称业主谱)+Michele Perrino(官网页脚署名)**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：意巴里 2 人通信安装铺(全公客户守界)
+- **团队与规模**：2 人;2004 登
+- **决策链与对接人**：**Muzio Abbinante(业主名谱(旧体 SNC 全称: di Abbinante Muzio & C.),official-self-published·谱/leads-only(直发需 opt-in));Michele Perrino(网站实现者(官网页脚署名「Realizzato da」),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 22 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Muzio Abbinante 位(opt-in 律;**公段守界**)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -175,10 +184,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对口
-- **W**：散
-- **O**：随单
-- **T**：大牌
+- **S**：MePA 公采谱+旧体业主名
+- **W**：**公共段守界加厚**
+- **O**：Abbinante 位(旧体谱)
+- **T**：公采链竞谱
 
 ## 触达与风险红线
 
@@ -197,7 +206,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -206,8 +215,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 现供
-  - [ ] 项量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,16 +228,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Ciao Adrianet team,
+Gentile Sig. Abbinante,
 
-Structured cabling, camera systems, LAN builds - and your Dati page already lists switching from several mid-tier brands. In that shelf there is room for a documented value unit.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - for camera clusters and LAN installs where price and documentation decide.
-
-One question: where do the switches behind your camera and LAN jobs come from today?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

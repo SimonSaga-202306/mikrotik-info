@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Landatel Comunicaciones S.L.(马德里 Getafe/Las Rozas,Calle Aquisgrán 2, Las Rozas de Madrid 28232;2001 创立;11-50 名员工(LinkedIn 口径);品牌谱:Panasonic/ZTE/Ubiquiti/MikroTik/TP-Link/Radwin/Airgiga/Comtrend/Galgus/Poynting/PC Engines/ATCom/ARC/MTI/Huawei/Ruckus;独立品牌 Airgiga;电商面 landashop.com;70+ 国服务;值加分销(VAD)谱,LinkedIn 1,262 followers;西班牙无线/数据谱 Prometec
-- 【推断】True 值加分销商(VAD)谱正统=安全/IoT/Networking 集成,自有 Airgiga 品牌;MikroTik 同档谱明
-- 【假设】VAD 谱的 MikroTik 成本谱替换件/随行件:24 口 value PoE 在值加分销链条的谱链窗口
+- 【事实】Landatel:LANDATEL COMUNICACIONES S.L.(西班牙 Madrid(Alcorcón/旧 Getafe Río Odiel 14);**2001/2002 创 25 年;37 人;€25.5M;70+ 国电商谱(landashop/landamex);Landatel de México 2012=拉美门谱;**Ubiquiti/MikroTik 欧洲销冠+Cambium/TP-Link/Radwin 官方**;Netonix 谱档**;**Founder&CEO&BD Manager: Manuel Arroyo(Cepyme500 专访+PRNewswire 引语+contactout manuel@landatel.com 多源 O)**;**差旗注:RocketReach 条「Empresa cerrada en 2026 tras 25 años」=关铺孤证差旗,官网/工商活档为准待核**
+- 【推断】R66 第 22 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -78,6 +78,7 @@ updated: 2026-09-28
 - **原始联系字段**：info@landatel.com（官网条款/客服页；B2B商业comercial@landatel.com）；+34 911 461 700；Landatel Comunicaciones S.L.，Las Rozas (Madrid)，CIF B-83170944；公司状态显示清算（见备注）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Manuel Arroyo**(Founder/CEO/Business Development Manager(专访+引语多源 O))— cepyme500 专访+contactout 件 〔已有(公司官方公开件/登记册自曝);源:https://www.cepyme500.com/entrevista/manuel-arroyo〕
   - **Marcos Díaz Nicolás**(物流与采购总监(硬件采购线))— LinkedIn 公司页员工自曝 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://mx.linkedin.com/company/landatel-comunicaciones〕
   - **Roberto Avila**(技术支持经理)— LinkedIn 公司页员工自曝 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://mx.linkedin.com/company/landatel-comunicaciones〕
   - **Juana Suarez Lois**(财务/会计)— LinkedIn 公司页员工自曝 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://mx.linkedin.com/company/landatel-comunicaciones〕
@@ -86,6 +87,7 @@ updated: 2026-09-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Manuel Arroyo | Founder/CEO/Business Development Manager(专访+引语多源 O) | cepyme500 专访+contactout 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.cepyme500.com/entrevista/manuel-arroyo |
 | Marcos Díaz Nicolás | 物流与采购总监(硬件采购线) | LinkedIn 公司页员工自曝 | leads-only·待 opt-in(LinkedIn 公开面) | https://mx.linkedin.com/company/landatel-comunicaciones |
 | Roberto Avila | 技术支持经理 | LinkedIn 公司页员工自曝 | leads-only·待 opt-in(LinkedIn 公开面) | https://mx.linkedin.com/company/landatel-comunicaciones |
 | Juana Suarez Lois | 财务/会计 | LinkedIn 公司页员工自曝 | leads-only·待 opt-in(LinkedIn 公开面) | https://mx.linkedin.com/company/landatel-comunicaciones |
@@ -94,10 +96,10 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 具名 KPI 引路口
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：具名 KP 引路 → 采购/技术硬件分载线
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
 - **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
@@ -111,47 +113,45 @@ updated: 2026-09-28
 ### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：谱链明智途径(LinkedIn 公开面)
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第2波.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第22波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：西班牙 VAD 谱·无线/网络/电信方案分销+自有 Airgiga 品牌+70 国电商(landashop.com)
-- **②芯片/型号**：(待问或官网未硬谱分录档；MikroTik 从库内信号)
-- **③KP 深挖**：**Marcos Díaz Nicolás(物流与采购总监=硬件 KPI 天位,LinkedIn 官方谱)+ Roberto Avila(技术支持经理)+ Juana Suarez Lois(财务/会计)+ fco Jose Cano Perez(外部顾问)+ Vicente Frutos(项目开发)**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))→ 成本谱替换件/随行件
-- **⑤在乎与偏好**：Service providers 与 IT 公司的无线/Networking/IP 摄像头/天线/VoIP/热点/光纤/培训谱
+- **①背景再核**：LANDATEL COMUNICACIONES S.L.(西班牙 Madrid(Alcorcón/旧 Getafe Río Odiel 14);**2001/2002 创 25 年;37 人;€25.5M;70+ 国电商谱(landashop/landamex);Landatel de México 2012=拉美门谱;**Ubiquiti/MikroTik 欧洲销冠+Cambium/TP-Link/Radwin 官方**;Netonix 谱档**;**Founder&CEO&BD Manager: Manuel Arroyo(Cepyme500 专访+PRNewswire 引语+contactout manuel@landatel.com 多源 O)**;**差旗注:RocketReach 条「Empresa cerrada en 2026 tras 25 años」=关铺孤证差旗,官网/工商活档为准待核**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Manuel Arroyo(Founder/CEO/Business Development Manager(专访+引语多源 O),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：€25.5M+70 国电商=件链大户
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**Roberto Avila Gerente de Soporte Técnico en Landatel | Wireless & Networking · Marcos Díaz Nicolás Director de Logística y Compras en Landatel · Juana Suarez Lois Departamento Financiero - Contabilidad · fco Jose Cano Perez consultor externo
-  > Roberto Avila Gerente de Soporte Técnico en Landatel | Wireless & Networking · Marcos Díaz Nicolás Director de Logística y Compras en Landatel · Juana Suarez Lois Departamento Financiero - Contabilidad · fco Jose Cano Perez consultor externo
-  > 来源：https://mx.linkedin.com/company/landatel-comunicaciones
-- **【业务定位】**Landatel represents leading brands such as Panasonic, ZTE, Ubiquiti Networks, MikroTik and TP-Link and develops its own product line "Airgiga" · 11 to 50 employees · 2001 · Getafe, Madrid
-  > Landatel represents leading brands such as Panasonic, ZTE, Ubiquiti Networks, MikroTik and TP-Link and develops its own product line "Airgiga" · 11 to 50 employees · 2001 · Getafe, Madrid
-  > 来源：https://es.linkedin.com/company/landatel-comunicaciones
-- **【产品线与在售品牌】**Nuestras marcas: Huawei, Ruckus Wireless, Ubiquiti Networks, Mikrotik, TP-LINK, ARC, MTI, PCEngines, ATCom y Poynting, entre otras · Calle Aquisgrán 2, Las Rozas de Madrid 28232
-  > Nuestras marcas: Huawei, Ruckus Wireless, Ubiquiti Networks, Mikrotik, TP-LINK, ARC, MTI, PCEngines, ATCom y Poynting, entre otras · Calle Aquisgrán 2, Las Rozas de Madrid 28232
-  > 来源：https://es.nextdoor.com/pages/landatel-comunicaciones/
+- **【决策链与对接人】**「Manuel Arroyo is the Founder, Chief Executive Officer and Business Development Manager」(rocketreach/contactout:「email manuel@landatel.com」);Cepyme500 专访+PRNewswire 2015 件引语「comenta Manuel Arroyo, CEO de Landatel」
+  > 「Manuel Arroyo is the Founder, Chief Executive Officer and Business Development Manager」(rocketreach/contactout:「email manuel@landatel.com」);Cepyme500 专访+PRNewswire 2015 件引语「comenta Manuel Arroyo, CEO de Landatel」
+  > 来源：https://contactout.com/company/Landatel-Comunicaciones-36551
+- **【联系方式与基础画像】**Calle Cenicientos 15, 28925 Alcorcón (Madrid);911 461 700;info@/marketing@landatel.com;70+ países e-commerce 谱;37 empleados;€25.535.036;founded 2001/2002;Landatel de México SA de CV(2012)(cepyme500/guiacanaltic/prnewswire 件)
+  > Calle Cenicientos 15, 28925 Alcorcón (Madrid);911 461 700;info@/marketing@landatel.com;70+ países e-commerce 谱;37 empleados;€25.535.036;founded 2001/2002;Landatel de México SA de CV(2012)(cepyme500/guiacanaltic/prnewswire 件)
+  > 来源：https://guiacanaltic.channelpartner.es/landatel-comunicaciones/
+- **【近期动态与线索】****RR 差旗:「Empresa cerrada en 2026 tras 25 años de actividad」=关铺孤证,官网活档,差旗待核**;MikroTik/Ubiquiti 欧销冠;Teltonika/Netonix 牌谱(rocketreach 件)
+  > **RR 差旗:「Empresa cerrada en 2026 tras 25 años de actividad」=关铺孤证,官网活档,差旗待核**;MikroTik/Ubiquiti 欧销冠;Teltonika/Netonix 牌谱(rocketreach 件)
+  > 来源：https://rocketreach.co/landatel-comunicaciones-profile_b5e0f8a3f42e69b4
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：西班牙 VAD 谱·无线/网络/电信方案分销+自有 Airgiga 品牌+70 国电商(landashop.com)
-- **产品线与在售品牌**：Panasonic/ZTE/Ubiquiti/MikroTik/TP-Link/Radwin/Huawei/Ruckus/PC Engines/ATCom/Poynting/Comtrend/Galgus/ARC/MTI;Airgiga(自有)
-- **目标行业与场景**：Service providers 与 IT 公司的无线/Networking/IP 摄像头/天线/VoIP/热点/光纤/培训谱
-- **团队与规模**：11-50 人(LinkedIn);2001 创立 Getafe/Las Rozas
-- **决策链与对接人**：**Marcos Díaz Nicolás(物流与采购总监=硬件 KPI 天位,LinkedIn 官方谱)+ Roberto Avila(技术支持经理)+ Juana Suarez Lois(财务/会计)+ fco Jose Cano Perez(外部顾问)+ Vicente Frutos(项目开发)**
-- **技术与认证**：MikroTik/Ubiquiti/TP-Link/ZTE/Radwin/Huawei/Ruckus 全谱经销
-- **采购与供应链信号**：70+ 国电商面(landashop.com)/自有 Airgiga/同档多谱 VAD 分销
-- **近期动态与线索**：自有品牌 Airgiga + landashop.com 固面;2026-10 LinkedIn 1,262 followers
-- **与我方契合点**：同档 VAD 谱的 MikroTik 成本谱替换件→采购总监(Díaz Nicolás)谱位
-- **风险与注意**：MikroTik/TP-Link 同档锁谱已是谱面;直发 Marcos Díaz Nicolás 谱 LinkedIn 舒明链
-- **_swotstrt**：S 世界 VAD 谱+自有 Airgiga / W MikroTik 同档锁谱 / O 同档成本谱替换件(采购总监谱位) / T 大牌集成
-- **_sw**：['VAD 谱强/自有 Airgiga/70 国', 'MikroTik 同档锁谱', '成本谱替换件采购总监谱位', '大牌集成']
+- **业务定位**：LANDATEL COMUNICACIONES S.L.(西班牙 Madrid(Alcorcón/旧 Getafe Río Odiel 14);**2001/2002 创 25 年;37 人;€25.5M;70+ 国电商谱(landashop/landamex);Landatel de México 2012=拉美门谱;**Ubiquiti/MikroTik 欧洲销冠+Cambium/TP-Link/Radwin 官方**;Netonix 谱档**;**Founder&CEO&BD Manager: Manuel Arroyo(Cepyme500 专访+PRNewswire 引语+contactout manuel@landatel.com 多源 O)**;**差旗注:RocketReach 条「Empresa cerrada en 2026 tras 25 años」=关铺孤证差旗,官网/工商活档为准待核**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：西马德里 25 年无线件分销大户(70 国)
+- **团队与规模**：37 人;€25.5M
+- **决策链与对接人**：**Manuel Arroyo(Founder/CEO/Business Development Manager(专访+引语多源 O),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 22 波谱名牌(关铺差旗注)
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Manuel Arroyo 直邮直达(opt-in 律;关铺差旗待核)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -166,10 +166,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：VAD 谱强/自有 Airgiga/70 国
-- **W**：MikroTik 同档锁谱
-- **O**：成本谱替换件采购总监谱位
-- **T**：大牌集成
+- **S**：€25.5M+70 国电商=件链大户
+- **W**：关铺差旗注(孤证)
+- **O**：Arroyo CEO 直邮直达位
+- **T**：一线链竞谱
 
 ## 触达与风险红线
 
@@ -197,9 +197,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] MikroTik 谱份额
-  - [ ] 当前 24 口 PoE 执行品牌
-  - [ ] 具名 KP 直连邮箱
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -211,13 +210,9 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Marcos,
+Estimado Sr. Arroyo,
 
-Landatel's portfolio reads like a who-is-who of professional wireless — Ubiquiti, MikroTik, TP-Link, Radwin, plus your own Airgiga line — and 70 countries through landashop. Behind every WISP rollout your resellers quote sits a small switching layer that nobody leads with, but every customer reboots.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each of your resellers' deployments.
-
-As Director of Logistics & Purchasing at Landatel, would you be the right desk to route a unit like this to? Happy to send the one-page spec wherever you point.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
 Saga Networks Export Desk

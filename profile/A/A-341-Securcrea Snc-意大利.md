@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Securcrea Snc(意大利;R66 基线补足档·公司面全貌待补;函数口职能口 info@securcrea.com（官网联系/支持页）；+39 0586 1713210（Toscana）/ +39 0171 1723180（Piemonte）；Securcrea di Cianchi Michele & C. s.a.s.，Via Bicocchi 12, 58022 Follonica (GR)(securcrea.com（官网联系/支持页）；+39 0586 1713210（Toscana）/ +39 0171 1723180（Piemonte）；Securcrea di Cianchi Michele & C. s.a.s.，Via Bicocchi 12, 58022 Follonica (GR))跟团不动;司实谱位点名指R66 后续波次/KPI 核心补件)
-- 【推断】R66 基线补足档(个体谱=实名同体谱;公司谱=函数口面谱)，公司面全谱/司实谱位待 R66 波次补件
-- 【假设】函数口职能口securcrea.com（官网联系/支持页）；+39 0586 1713210（Toscana）/ +39 0171 1723180（Piemonte）；Securcrea di Cianchi Michele & C. s.a.s.，Via Bicocchi 12, 58022 Follonica (GR) 为谱链入口；具名 kp 直发需 opt-in；后续波次以登记册+LinkedIn+R64 RocketReach 谱补撬件
+- 【事实】Securcrea Snc:Securcrea(**现全称 Securcrea di Cianchi Michele & C. s.a.s.**;GDPR 页示 s.n.c. di Cianchi & Burgassi;意大利 Follonica(GR),Via Bicocchi 12, 58022;**P.IVA 01564970539;网安/IT 咨询(Kerio 10+ 年伙伴;20+ 年安全经验)**;**业主名谱: Michele Cianchi(全称具名=O 级)+Burgassi(合伙人姓谱;Editor Claudia Viale 页脚)**;服务:防火墙/邮件服务/man down/服务器供装/基础设施监控预障
+- 【推断】R66 第 22 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,16 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@securcrea.com（官网联系/支持页）；+39 0586 1713210（Toscana）/ +39 0171 1723180（Piemonte）；Securcrea di Cianchi Michele & C. s.a.s.，Via Bicocchi 12, 58022 Follonica (GR)
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Michele Cianchi**(Socio 业主(全称具名 di Cianchi Michele & C.))— securcrea.com 页脚+GDPR 页(O) 〔已有(公司官方公开件/登记册自曝);源:http://www.securcrea.com/〕
+  - **Burgassi(合伙姓谱)**(Socio(s.n.c. di Cianchi & Burgassi GDPR 页))— securcrea.com GDPR 页 〔已有(公司官方公开件/登记册自曝);源:http://www.securcrea.com/informativa-sul-trattamento-dei-dati-personali-gdpr.html〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Michele Cianchi | Socio 业主(全称具名 di Cianchi Michele & C.) | securcrea.com 页脚+GDPR 页(O) | official-self-published·谱/leads-only(直发需 opt-in) | http://www.securcrea.com/ |
+| Burgassi(合伙姓谱) | Socio(s.n.c. di Cianchi & Burgassi GDPR 页) | securcrea.com GDPR 页 | official-self-published·谱/leads-only(直发需 opt-in) | http://www.securcrea.com/informativa-sul-trattamento-dei-dati-personali-gdpr.html |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -101,45 +107,42 @@ updated: 2026-09-28
 ### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：谱链明智途径(LinkedIn 公开面)
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_341_376基线.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第22波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：R66 基线补足档(公司谱面全谱待补kp);司面全谱待 R66 波次补;函数口 info@securcrea.com（官网联系/支持页）；+39 0586 1713210（Toscana）/ +39 0171 1723180（Piemonte）；Securcrea di Cianchi Michele & C. s.a.s.，Via Bicocchi 12, 58022 Follonica (GR)(securcrea.com（官网联系/支持页）；+39 0586 1713210（Toscana）/ +39 0171 1723180（Piemonte）；Securcrea di Cianchi Michele & C. s.a.s.，Via Bicocchi 12, 58022 Follonica (GR))跟团不动
-- **②芯片/型号**：(待问;securcrea.com（官网联系/支持页）；+39 0586 1713210（Toscana）/ +39 0171 1723180（Piemonte）；Securcrea di Cianchi Michele & C. s.a.s.，Via Bicocchi 12, 58022 Follonica (GR) 域名面谱=公司面谱)
-- **③KP 深挖**：**函数口职能口 info@securcrea.com（官网联系/支持页）；+39 0586 1713210（Toscana）/ +39 0171 1723180（Piemonte）；Securcrea di Cianchi Michele & C. s.a.s.，Via Bicocchi 12, 58022 Follonica (GR)(securcrea.com（官网联系/支持页）；+39 0586 1713210（Toscana）/ +39 0171 1723180（Piemonte）；Securcrea di Cianchi Michele & C. s.a.s.，Via Bicocchi 12, 58022 Follonica (GR))已实位;R66 波次点名(KPI 核心):具体 KP 待补撬件(Urzeówne Rejstery+LinkedIn+official-self-published 渠道+R64 RocketReach 谱)&#10;具体实名谱位待 R66 波次补(司实谱位点名=R66 KPI 核心补件)**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))→ 成本谱替换件/随行件
-- **⑤在乎与偏好**：函数口职能口已实位
+- **①背景再核**：Securcrea(**现全称 Securcrea di Cianchi Michele & C. s.a.s.**;GDPR 页示 s.n.c. di Cianchi & Burgassi;意大利 Follonica(GR),Via Bicocchi 12, 58022;**P.IVA 01564970539;网安/IT 咨询(Kerio 10+ 年伙伴;20+ 年安全经验)**;**业主名谱: Michele Cianchi(全称具名=O 级)+Burgassi(合伙人姓谱;Editor Claudia Viale 页脚)**;服务:防火墙/邮件服务/man down/服务器供装/基础设施监控预障
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Michele Cianchi(Socio 业主(全称具名 di Cianchi Michele & C.),official-self-published·谱/leads-only(直发需 opt-in));Burgassi(合伙姓谱)(Socio(s.n.c. di Cianchi & Burgassi GDPR 页),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：全称业主 O+Kerio 老伙伴谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**Securcrea Snc — info@securcrea.com（官网联系/支持页）；+39 0586 1713210（Toscana）/ +39 0171 1723180（Piemonte）；Securcrea di Cianchi Michele & C. s.a.s.，Via Bicocchi 12, 58022 Follonica (GR) (CSV/STRUCT 落穗件;公司谱面全谱待补kp)
-  > Securcrea Snc — info@securcrea.com（官网联系/支持页）；+39 0586 1713210（Toscana）/ +39 0171 1723180（Piemonte）；Securcrea di Cianchi Michele & C. s.a.s.，Via Bicocchi 12, 58022 Follonica (GR) (CSV/STRUCT 落穗件;公司谱面全谱待补kp)
-  > 来源：https://www.securcrea.com
-- **【业务定位】**R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;公司谱面全谱待补kp
-  > R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;公司谱面全谱待补kp
-  > 来源：https://www.securcrea.com
-- **【近期动态与线索】**2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
-  > 2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
-  > 来源：https://www.securcrea.com
+- **【决策链与对接人】**©2022 Securcrea di **Cianchi Michele** & C. s.a.s.;GDPR 页: Titolare = Securcrea s.n.c. di Cianchi & Burgassi;Editor: Claudia Viale(官网页脚/隐私页)
+  > ©2022 Securcrea di **Cianchi Michele** & C. s.a.s.;GDPR 页: Titolare = Securcrea s.n.c. di Cianchi & Burgassi;Editor: Claudia Viale(官网页脚/隐私页)
+  > 来源：http://www.securcrea.com/
+- **【联系方式与基础画像】**Via Bicocchi 12, 58022 Follonica (GR);+39.0586.1713210;info@securcrea.com;P.IVA 01564970539;Kerio partner 10+ anni;sicurezza informatica 20+ anni;firewall/mail/man down server 谱(官网/atoka 件)
+  > Via Bicocchi 12, 58022 Follonica (GR);+39.0586.1713210;info@securcrea.com;P.IVA 01564970539;Kerio partner 10+ anni;sicurezza informatica 20+ anni;firewall/mail/man down server 谱(官网/atoka 件)
+  > 来源：https://atoka.io/public/it/azienda/securcrea-di-cianchi-michele-c-sas/36820c2890d6
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：R66 基线补足档(公司谱面全谱待补kp);司面全谱待 R66 波次补;函数口 info@securcrea.com（官网联系/支持页）；+39 0586 1713210（Toscana）/ +39 0171 1723180（Piemonte）；Securcrea di Cianchi Michele & C. s.a.s.，Via Bicocchi 12, 58022 Follonica (GR)(securcrea.com（官网联系/支持页）；+39 0586 1713210（Toscana）/ +39 0171 1723180（Piemonte）；Securcrea di Cianchi Michele & C. s.a.s.，Via Bicocchi 12, 58022 Follonica (GR))跟团不动
-- **产品线与在售品牌**：(待问;securcrea.com（官网联系/支持页）；+39 0586 1713210（Toscana）/ +39 0171 1723180（Piemonte）；Securcrea di Cianchi Michele & C. s.a.s.，Via Bicocchi 12, 58022 Follonica (GR) 域名面谱=公司面谱)
-- **目标行业与场景**：(R66 后续波次补)
-- **团队与规模**：(R66 后续波次补)
-- **决策链与对接人**：**函数口职能口 info@securcrea.com（官网联系/支持页）；+39 0586 1713210（Toscana）/ +39 0171 1723180（Piemonte）；Securcrea di Cianchi Michele & C. s.a.s.，Via Bicocchi 12, 58022 Follonica (GR)(securcrea.com（官网联系/支持页）；+39 0586 1713210（Toscana）/ +39 0171 1723180（Piemonte）；Securcrea di Cianchi Michele & C. s.a.s.，Via Bicocchi 12, 58022 Follonica (GR))已实位;R66 波次点名(KPI 核心):具体 KP 待补撬件(Urzeówne Rejstery+LinkedIn+official-self-published 渠道+R64 RocketReach 谱)&#10;具体实名谱位待 R66 波次补(司实谱位点名=R66 KPI 核心补件)**
-- **技术与认证**：(R66 后续波次补)
-- **采购与供应链信号**：(R66 后续波次补)
-- **近期动态与线索**：2026-10-07 R66 波次点名(基线补足)
-- **与我方契合点**：函数口职能口securcrea.com（官网联系/支持页）；+39 0586 1713210（Toscana）/ +39 0171 1723180（Piemonte）；Securcrea di Cianchi Michele & C. s.a.s.，Via Bicocchi 12, 58022 Follonica (GR) 面心谱链档
-- **风险与注意**：具名 kp 未勘出/波次点名；不要直发或未 opt-in
+- **业务定位**：Securcrea(**现全称 Securcrea di Cianchi Michele & C. s.a.s.**;GDPR 页示 s.n.c. di Cianchi & Burgassi;意大利 Follonica(GR),Via Bicocchi 12, 58022;**P.IVA 01564970539;网安/IT 咨询(Kerio 10+ 年伙伴;20+ 年安全经验)**;**业主名谱: Michele Cianchi(全称具名=O 级)+Burgassi(合伙人姓谱;Editor Claudia Viale 页脚)**;服务:防火墙/邮件服务/man down/服务器供装/基础设施监控预障
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：意格罗塞托 20+ 年网安小铺
+- **团队与规模**：小铺谱
+- **决策链与对接人**：**Michele Cianchi(Socio 业主(全称具名 di Cianchi Michele & C.),official-self-published·谱/leads-only(直发需 opt-in));Burgassi(合伙姓谱)(Socio(s.n.c. di Cianchi & Burgassi GDPR 页),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 22 波谱名牌(波 18 旧嵌升级)
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Michele Cianchi 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -154,10 +157,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：函数口职能口已实位
-- **W**：具名 kp 未勘出(波次点名)
-- **O**：函数口面心谱链档的特制效应
-- **T**：函数口档直发不直接
+- **S**：全称业主 O+Kerio 老伙伴谱
+- **W**：小微谱
+- **O**：Cianchi 直达位
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -176,7 +179,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -185,9 +188,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 司实谱位点名(波次点名)
-  - [ ] 公司面全谱
-  - [ ] 具名 kp 直发邮箱
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -199,13 +201,9 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi team,
+Gentile Sig. Cianchi,
 
-I came across Securcrea Snc while mapping 意大利 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.
-
-Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
 Saga Networks Export Desk

@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】SOS electronic s.r.o.(Košice-Juh,Pri prachárni 3005/16, 040 11, Slovakia;1995 创;68 名员工(DnB 谱)/50-99(Kompass);$22.12M 年营收(USD, DnB 2019-2024 值);**Konrad Group 成员**(2026-06-03 Procurement Pro 30 周年报);谱型=电子元件/电气/家电批发分销;注册号 31703186 (Sro 5791/V);VAT SK2020484158;股本 €29,875
-- 【推断】Konrad Group 全景 + 30 周年谱基(2025);元件分销 → 培养硬谱谱位的链谱能力强
-- 【假设】Konrad Group 成员谱=欧系精品谱链;元件到整机分销谱谱线谱=24 口 value PoE 谱位=谱面的谱链窗口
+- 【事实】SOS electronic:SOS electronic s.r.o.(斯洛伐克 Košice,Pri prachárni 16, 040 11;**IČO 31703186;IČ DPH SK2020484158;1991/1995 创 30+ 年;68-88 人;$22.12M;工业电子元件分销(Lantronix/Traco Power/Wago/Euroclamp/TechNexion 等嵌件牌谱)**;**CEO|Konateľ: Ing. Ján Seszták(官网 Kontakty 页自署 j.sesztak@sos.sk=O 金谱)**;**官网梯队全谱:Ján Michalko 国际商务经理(件链 KPI)+Branislav Kňazovický 营销+Ladislav Rybár IT+Mária Sesztáková HR(族谱)+Ladislav Horvat 技商(东斯区)**;D&B: Renáta Tančaková FD;**2020「最佳分销商」奖+Conrad Electronic M&A 谱**;Hirschmann 授权档
+- 【推断】R66 第 22 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,8 +76,11 @@ updated: 2026-09-28
 - **原始联系字段**：sales@soselectronic.com（官网Contact us销售部）；+421 55 786 04 39；SOS electronic s.r.o. 总部 Košice；原入口：见 soselectronic.com/en-us/hirschmann
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Ing. Ján Seszták**(CEO/Konateľ(官网联络页自署邮箱))— soselectronic.com Kontakty(O) 〔已有(公司官方公开件/登记册自曝);源:https://www.soselectronic.com/sk-sk/kontakty〕
+  - **Ing. Ján Michalko**(Medzinárodný obchodný manažér(国际商务经理=件链 KPI))— soselectronic.com Kontakty(O) 〔已有(公司官方公开件/登记册自曝);源:https://www.soselectronic.com/sk-sk/kontakty〕
+  - **Branislav Kňazovický**(Manažér marketingového oddelenia(营销经理))— soselectronic.com Kontakty(O) 〔已有(公司官方公开件/登记册自曝);源:https://www.soselectronic.com/sk-sk/kontakty〕
+  - **Renáta Tančaková**(Financial Director(D&B 谱))— dnb.com 件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.dnb.com/business-directory/company-profiles.sos_electronic_sro.2bbfecf5afc6341343f4aac3b94d9fcd.html〕
   - **Ján Seszták**(Konateľ/CEO(三源一致))— Kompass/DnB/clodura 公开件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://gb.kompass.com/c/sos-electronic-s-r-o/sk007749/〕
-  - **Renáta Tančaková**(财务董事)— DnB 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.dnb.com/business-directory/company-profiles.sos_electronic_sro.2bbfecf5afc6341343f4aac3b94d9fcd.html〕
   - **Ján Michalko**(商务董事)— DnB 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.dnb.com/business-directory/company-profiles.sos_electronic_sro.2bbfecf5afc6341343f4aac3b94d9fcd.html〕
   - **Rastislav Taliarovič**(市场董事)— DnB 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.dnb.com/business-directory/company-profiles.sos_electronic_sro.2bbfecf5afc6341343f4aac3b94d9fcd.html〕
   - **Jozef Jarábek**(采购)— LinkedIn 自曝 500+ 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/in/jozefjarabek/〕
@@ -86,8 +89,11 @@ updated: 2026-09-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Ing. Ján Seszták | CEO/Konateľ(官网联络页自署邮箱) | soselectronic.com Kontakty(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.soselectronic.com/sk-sk/kontakty |
+| Ing. Ján Michalko | Medzinárodný obchodný manažér(国际商务经理=件链 KPI) | soselectronic.com Kontakty(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.soselectronic.com/sk-sk/kontakty |
+| Branislav Kňazovický | Manažér marketingového oddelenia(营销经理) | soselectronic.com Kontakty(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.soselectronic.com/sk-sk/kontakty |
+| Renáta Tančaková | Financial Director(D&B 谱) | dnb.com 件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.dnb.com/business-directory/company-profiles.sos_electronic_sro.2bbfecf5afc6341343f4aac3b94d9fcd.html |
 | Ján Seszták | Konateľ/CEO(三源一致) | Kompass/DnB/clodura 公开件 | leads-only·待 opt-in(LinkedIn 公开面) | https://gb.kompass.com/c/sos-electronic-s-r-o/sk007749/ |
-| Renáta Tančaková | 财务董事 | DnB 谱 | leads-only·待 opt-in(LinkedIn 公开面) | https://www.dnb.com/business-directory/company-profiles.sos_electronic_sro.2bbfecf5afc6341343f4aac3b94d9fcd.html |
 | Ján Michalko | 商务董事 | DnB 谱 | leads-only·待 opt-in(LinkedIn 公开面) | https://www.dnb.com/business-directory/company-profiles.sos_electronic_sro.2bbfecf5afc6341343f4aac3b94d9fcd.html |
 | Rastislav Taliarovič | 市场董事 | DnB 谱 | leads-only·待 opt-in(LinkedIn 公开面) | https://www.dnb.com/business-directory/company-profiles.sos_electronic_sro.2bbfecf5afc6341343f4aac3b94d9fcd.html |
 | Jozef Jarábek | 采购 | LinkedIn 自曝 500+ | leads-only·待 opt-in(LinkedIn 公开面) | https://www.linkedin.com/in/jozefjarabek/ |
@@ -96,10 +102,10 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 具名 KPI 引路口
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：具名 KP 引路 → 采购/技术硬件分载线
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
 - **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
@@ -113,50 +119,45 @@ updated: 2026-09-28
 ### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：谱链明智途径(LinkedIn 公开面)
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第2波.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第22波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：斯洛伐克 Košice 电子元件分销大王(Konrad Group 成员谱/€29,875 股 / $22M 营收);30 周年位
-- **②芯片/型号**：(待问或官网未硬谱分录档；MikroTik 从库内信号)
-- **③KP 深挖**：**Ing. Ján Seszták(Konateľ/CEO 三源一致谱);Renáta Tančaková(财务董事);Ján Michalko(商务董事);Rastislav Taliarovič(市场董事);Jozef Jarábek(LinkedIn 采购谱)——金谱达格**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))→ 成本谱替换件/随行件
-- **⑤在乎与偏好**：欧系精品谱链/电子制造服务/零售分销
+- **①背景再核**：SOS electronic s.r.o.(斯洛伐克 Košice,Pri prachárni 16, 040 11;**IČO 31703186;IČ DPH SK2020484158;1991/1995 创 30+ 年;68-88 人;$22.12M;工业电子元件分销(Lantronix/Traco Power/Wago/Euroclamp/TechNexion 等嵌件牌谱)**;**CEO|Konateľ: Ing. Ján Seszták(官网 Kontakty 页自署 j.sesztak@sos.sk=O 金谱)**;**官网梯队全谱:Ján Michalko 国际商务经理(件链 KPI)+Branislav Kňazovický 营销+Ladislav Rybár IT+Mária Sesztáková HR(族谱)+Ladislav Horvat 技商(东斯区)**;D&B: Renáta Tančaková FD;**2020「最佳分销商」奖+Conrad Electronic M&A 谱**;Hirschmann 授权档
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Ing. Ján Seszták(CEO/Konateľ(官网联络页自署邮箱),official-self-published·谱/leads-only(直发需 opt-in));Ing. Ján Michalko(Medzinárodný obchodný manažér(国际商务经理=件链 KPI),official-self-published·谱/leads-only(直发需 opt-in));Branislav Kňazovický(Manažér marketingového oddelenia(营销经理),official-self-published·谱/leads-only(直发需 opt-in));Renáta Tančaková(Financial Director(D&B 谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：CEO 官网自署+梯队全谱=O 金谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**Key Principal: Ján Seszták; 68 employees; Revenue $22.12M — Ján Seszták Member of the Board of Directors; Renáta Tančaková Financial Director; Ján Michalko Commercial Director; Rastislav Taliarovič Marketing Director
-  > Key Principal: Ján Seszták; 68 employees; Revenue $22.12M — Ján Seszták Member of the Board of Directors; Renáta Tančaková Financial Director; Ján Michalko Commercial Director; Rastislav Taliarovič Marketing Director
+- **【决策链与对接人】**官网 Kontakty: **CEO | Konateľ Ing. Ján Seszták j.sesztak@sos.sk**+Ing. Ján Michalko(Medzinárodný obchodný manažér)+Mária Sesztáková(HR)+Branislav Kňazovický(marketing)+Ladislav Rybár(IT)+Ladislav Horvat(tech-obch 东斯)
+  > 官网 Kontakty: **CEO | Konateľ Ing. Ján Seszták j.sesztak@sos.sk**+Ing. Ján Michalko(Medzinárodný obchodný manažér)+Mária Sesztáková(HR)+Branislav Kňazovický(marketing)+Ladislav Rybár(IT)+Ladislav Horvat(tech-obch 东斯)
+  > 来源：https://www.soselectronic.com/sk-sk/kontakty
+- **【联系方式与基础画像】**IČO 31703186;Pri prachárni 16, 040 11 Košice;+421-557860416;68 employees;$22.12M(dnb);founded 1991/1995;electronic components distributor(industrial/embedded/IoT)(dnb/官网件)
+  > IČO 31703186;Pri prachárni 16, 040 11 Košice;+421-557860416;68 employees;$22.12M(dnb);founded 1991/1995;electronic components distributor(industrial/embedded/IoT)(dnb/官网件)
   > 来源：https://www.dnb.com/business-directory/company-profiles.sos_electronic_sro.2bbfecf5afc6341343f4aac3b94d9fcd.html
-- **【业务定位】**SOS electronic is a member of the Conrad Group; Founded in Košice, Slovakia; 30th anniversary in 2025; electronics component distribution; Conrad Group is one of the largest distribution platforms in Europe
-  > SOS electronic is a member of the Conrad Group; Founded in Košice, Slovakia; 30th anniversary in 2025; electronics component distribution; Conrad Group is one of the largest distribution platforms in Europe
-  > 来源：https://procurementpro.com/sos-electronic-30-years-of-reliability-and-innovation-in-the-world-of-electronics/
-- **【决策链与对接人】**Ing. Ján Seszták Konateľ (executive); Košice 040 01; Registration No. 31703186 (Sro 5791/V); VAT SK2020484158; Established 1995
-  > Ing. Ján Seszták Konateľ (executive); Košice 040 01; Registration No. 31703186 (Sro 5791/V); VAT SK2020484158; Established 1995
-  > 来源：https://gb.kompass.com/c/sos-electronic-s-r-o/sk007749/
-- **【技术与认证】**Jozef Jarábek · SOS electronic (components) · 500+ connections · Technická univerzita v Košiciach
-  > Jozef Jarábek · SOS electronic (components) · 500+ connections · Technická univerzita v Košiciach
-  > 来源：https://www.linkedin.com/in/jozefjarabek/
+- **【近期动态与线索】**2020「Najlepší distribútor」奖(Electronic Assembly 件);**Conrad Electronic International M&A 谱(pitchbook Acquired)**;TechNexion:「kľúčový distribútor pre embedded systémy vo východnej Európe」
+  > 2020「Najlepší distribútor」奖(Electronic Assembly 件);**Conrad Electronic International M&A 谱(pitchbook Acquired)**;TechNexion:「kľúčový distribútor pre embedded systémy vo východnej Európe」
+  > 来源：https://sos.sk/referencie-o-nas
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：斯洛伐克 Košice 电子元件分销大王(Konrad Group 成员谱/€29,875 股 / $22M 营收);30 周年位
-- **产品线与在售品牌**：电子元件/电子器件/电气设备/家电批发
-- **目标行业与场景**：欧系精品谱链/电子制造服务/零售分销
-- **团队与规模**：68 名;1995 创(30 年);Konrad Group 成员(Conrad Group biggest?)
-- **决策链与对接人**：**Ing. Ján Seszták(Konateľ/CEO 三源一致谱);Renáta Tančaková(财务董事);Ján Michalko(商务董事);Rastislav Taliarovič(市场董事);Jozef Jarábek(LinkedIn 采购谱)——金谱达格**
-- **技术与认证**：30 年分销;Konrad Group 谱基稳;数字化制谱基谱
-- **采购与供应链信号**：欧系精品谱;稳定供应链 30 周年谱;谱面上 8 国 谱
-- **近期动态与线索**：2025-06 Procurement Pro 30 周年庆典报;Konrad Group 成员谱谱面强
-- **与我方契合点**：Konrad 系谱的元件到整机谱线谱窗口 → 24 口 value PoE 谱位
-- **风险与注意**：元件分销≠整机;谱面谱链先送咨询位
-- **_swotstrt**：S Konrad Group/30 周年谱基 / W 元件分销非谱面 / O 谱链窗口(Ján Seszták 谱位) / T 大牌集成
-- **_sw**：['Konrad 系谱基稳/30 周年', '元件分销非谱面', '谱链窗口(Ján Seszták 谱位)', '大牌集成']
+- **业务定位**：SOS electronic s.r.o.(斯洛伐克 Košice,Pri prachárni 16, 040 11;**IČO 31703186;IČ DPH SK2020484158;1991/1995 创 30+ 年;68-88 人;$22.12M;工业电子元件分销(Lantronix/Traco Power/Wago/Euroclamp/TechNexion 等嵌件牌谱)**;**CEO|Konateľ: Ing. Ján Seszták(官网 Kontakty 页自署 j.sesztak@sos.sk=O 金谱)**;**官网梯队全谱:Ján Michalko 国际商务经理(件链 KPI)+Branislav Kňazovický 营销+Ladislav Rybár IT+Mária Sesztáková HR(族谱)+Ladislav Horvat 技商(东斯区)**;D&B: Renáta Tančaková FD;**2020「最佳分销商」奖+Conrad Electronic M&A 谱**;Hirschmann 授权档
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：斯洛伐克科希策 30+ 年电子元件分销
+- **团队与规模**：68-88 人;$22M
+- **决策链与对接人**：**Ing. Ján Seszták(CEO/Konateľ(官网联络页自署邮箱),official-self-published·谱/leads-only(直发需 opt-in));Ing. Ján Michalko(Medzinárodný obchodný manažér(国际商务经理=件链 KPI),official-self-published·谱/leads-only(直发需 opt-in));Branislav Kňazovický(Manažér marketingového oddelenia(营销经理),official-self-published·谱/leads-only(直发需 opt-in));Renáta Tančaková(Financial Director(D&B 谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 22 波谱名牌(斯洛伐克首拓)
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Ján Seszták+Ján Michalko 位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -171,10 +172,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：Konrad 系谱基稳/30 周年
-- **W**：元件分销非谱面
-- **O**：谱链窗口(Ján Seszták 谱位)
-- **T**：大牌集成
+- **S**：CEO 官网自署+梯队全谱=O 金谱
+- **W**：Conrad 并购谱注
+- **O**：Seszták+Michalko 国际线直达位
+- **T**：一线链竞谱
 
 ## 触达与风险红线
 
@@ -202,9 +203,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] MikroTik 谱份额
-  - [ ] 当前 24 口 PoE 执行品牌
-  - [ ] 具名 KP 直连邮箱
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -216,13 +216,9 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Ján,
+Vážený pán Seszták,
 
-Thirty years of electronic-components distribution out of Košice, now inside the Conrad Group — one of Europe's largest distribution platforms — and still the same friendly, engineering-first outfit. Congratulations on the anniversary tally.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each industrial/IT deployment your distribution network quotes.
-
-As Managing Director of SOS electronic, would you be the right desk to route this to — or shall I send the one-page spec to your sourcing team first?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
 Saga Networks Export Desk

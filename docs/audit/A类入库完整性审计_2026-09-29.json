@@ -46,15 +46,15 @@
   },
   {
    "check": "JSON→MD 三层互证(fact/swot/email 全量)",
-   "ok": false,
+   "ok": true,
    "severity": "critical",
-   "detail": "[('A-341', 'fact'), ('A-341', 'swot'), ('A-341', 'email'), ('A-344', 'swot'), ('A-344', 'email'), ('A-345', 'fact'), ('A-345', 'swot'), ('A-345', 'email')] 共74"
+   "detail": "全过"
   },
   {
    "check": "question 同文入 MD 率(早期批问题句独立措辞属设计差异)",
    "ok": true,
    "severity": "info",
-   "detail": "同文入档 387/547;独立措辞 160(信息项)"
+   "detail": "同文入档 426/547;独立措辞 121(信息项)"
   },
   {
    "check": "OVERRIDE 指向真实存在的 A 档",
@@ -119,13 +119,12 @@
  ],
  "summary": {
   "checks_total": 19,
-  "failed": 6,
+  "failed": 5,
   "failed_names": [
    "四大源数量一致(CSV/STRUCT/MD/R56+R55批)",
    "编号 A-001..567 连续无缺无多",
    "价锚一致(p1↔email 锚点)",
    "供位 push≡p1(去矛盾)",
-   "JSON→MD 三层互证(fact/swot/email 全量)",
    "退信台账 5 家 code 合法"
   ]
  }

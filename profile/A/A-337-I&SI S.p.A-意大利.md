@@ -47,9 +47,9 @@ updated: 2026-10-04
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】I&SI SpA（意大利 Roma 法定/Aprilia 运营，1984 起）：'COMPLEX TECHNOLOGY SYSTEMS' 工程/工业软件集成商；SA8000/ISO27001、GHG 报告、反腐政策齐备；官网为幻灯薄站（联系表单+地图）;CSV: info@ingesw.com 由 European Job Days 档案+名录+Crunchbase 三源核得（域内邮箱实锤）
-- 【推断】40+ 年的复杂系统工程主体：薄站低信号——其价值在其 istituzionale 工程项目名单；窄针低密
-- 【假设】工程项目的 value 件低密窄针
+- 【事实】I&SI S.p.A:I.&S.I. S.p.A.(Ingegneria & Software Industriale)(意大利 Roma(法址 Via della Scrofa 57, 00186)+Aprilia(LT)运营址 Via della Meccanica 2b, 04011;**1984 创 42 年;工业软件/电气工程(SGSI 安全管理体系谱)**;**Direzione Aziendale: Paolo Graziosi(2024-12-02 公司政策文件签署=官网 O)**;ingesw.com first@ 88% 邮箱式
+- 【推断】R66 第 22 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,14 @@ updated: 2026-10-04
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@ingesw.com（公司自设European Job Days档案+名录+Crunchbase，域内邮箱；官网联系页本轮仅表单/地图）；06/928651；I&SI SpA，法定Roma、运营Aprilia
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Paolo Graziosi**(Direzione Aziendale(公司政策文件签署))— ingesw.com 政策页(O) 〔已有(公司官方公开件/登记册自曝);源:http://www.ingesw.com/ingesw/politica-aziendale/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Paolo Graziosi | Direzione Aziendale(公司政策文件签署) | ingesw.com 政策页(O) | official-self-published·谱/leads-only(直发需 opt-in) | http://www.ingesw.com/ingesw/politica-aziendale/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -135,32 +139,35 @@ updated: 2026-10-04
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第34批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第22波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：IT 工程主体（薄站+三源域内邮箱核）
-- **②芯片/型号**：—
-- **③KP 深挖**：info@
-- **④Saga 对标**：低密窄针（$180 锚点一致）
-- **⑤在乎与偏好**：istituzionale 工程
+- **①背景再核**：I.&S.I. S.p.A.(Ingegneria & Software Industriale)(意大利 Roma(法址 Via della Scrofa 57, 00186)+Aprilia(LT)运营址 Via della Meccanica 2b, 04011;**1984 创 42 年;工业软件/电气工程(SGSI 安全管理体系谱)**;**Direzione Aziendale: Paolo Graziosi(2024-12-02 公司政策文件签署=官网 O)**;ingesw.com first@ 88% 邮箱式
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Paolo Graziosi(Direzione Aziendale(公司政策文件签署),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：42 年老牌+SGSI 体系
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【背景再核】**COMPLEX TECHNOLOGY SYSTEMS——Instagram 手柄 isi_spa1984 佐证 1984 年；SA8000/ISO27001/GHG 报告在页
-  > COMPLEX TECHNOLOGY SYSTEMS——Instagram 手柄 isi_spa1984 佐证 1984 年；SA8000/ISO27001/GHG 报告在页
-  > 来源：https://www.ingesw.com
+- **【决策链与对接人】**Politica aziendale 签署: 「Aprilia, 02.12.2024 — **Paolo Graziosi (Direzione Aziendale)**」(ingesw.com 官网件)
+  > Politica aziendale 签署: 「Aprilia, 02.12.2024 — **Paolo Graziosi (Direzione Aziendale)**」(ingesw.com 官网件)
+  > 来源：http://www.ingesw.com/ingesw/politica-aziendale/
+- **【联系方式与基础画像】**Sede legale: Via della Scrofa 57, 00186 Roma;Sede operativa: Via della Meccanica 2b, 04011 Aprilia (LT);+39-06 928651;founded 1984;SGSI 体系谱(Ingegneria&Software Industriale)(ingesw/salary.com 件)
+  > Sede legale: Via della Scrofa 57, 00186 Roma;Sede operativa: Via della Meccanica 2b, 04011 Aprilia (LT);+39-06 928651;founded 1984;SGSI 体系谱(Ingegneria&Software Industriale)(ingesw/salary.com 件)
+  > 来源：https://www.salary.com/research/company/i-si-spa-overview
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：意大利 complex-systems 工程商（1984）
-- **产品线与在售品牌**：—
-- **目标行业与场景**：工业/楼宇工程
-- **团队与规模**：工程主体
-- **决策链与对接人**：info@ 口
-- **技术与认证**：SA8000/ISO27001
-- **采购与供应链信号**：框架工程采购
-- **近期动态与线索**：廉洁政策/环境声明更新
-- **与我方契合点**：低密窄针
-- **风险与注意**：官网薄站证据偏薄已标注
+- **业务定位**：I.&S.I. S.p.A.(Ingegneria & Software Industriale)(意大利 Roma(法址 Via della Scrofa 57, 00186)+Aprilia(LT)运营址 Via della Meccanica 2b, 04011;**1984 创 42 年;工业软件/电气工程(SGSI 安全管理体系谱)**;**Direzione Aziendale: Paolo Graziosi(2024-12-02 公司政策文件签署=官网 O)**;ingesw.com first@ 88% 邮箱式
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：意罗马-阿普里利亚 42 年工业软件屋
+- **团队与规模**：中型谱;1984 创
+- **决策链与对接人**：**Paolo Graziosi(Direzione Aziendale(公司政策文件签署),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 22 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Paolo Graziosi 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -175,10 +182,10 @@ updated: 2026-10-04
 
 ## SWOT
 
-- **S**：年份
-- **W**：薄
-- **O**：微
-- **T**：—
+- **S**：42 年老牌+SGSI 体系
+- **W**：谱面薄
+- **O**：Graziosi 位(O 件)
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -197,7 +204,7 @@ updated: 2026-10-04
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -206,8 +213,8 @@ updated: 2026-10-04
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 项目类型
-  - [ ] 采购口
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,16 +226,12 @@ updated: 2026-10-04
 **主题**：PoE switching for your projects
 
 ```text
-Gentili I&SI,
+Gentile Sig. Graziosi,
 
-Complex technology systems since 1984, with the governance documents to prove institutional maturity - but your website keeps quiet about how you buy network infrastructure.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29).
-
-One question: in your engineering projects, how is network switching specified and sourced - by brand standard, or by documented best-value?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

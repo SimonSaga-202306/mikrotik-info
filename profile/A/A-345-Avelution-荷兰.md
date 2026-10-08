@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Avelution(荷兰;R66 基线补足档·公司面全貌待补;函数口职能口 info@avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel）(avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel）)跟团不动;司实谱位点名指R66 后续波次/KPI 核心补件)
-- 【推断】R66 基线补足档(个体谱=实名同体谱;公司谱=函数口面谱)，公司面全谱/司实谱位待 R66 波次补件
-- 【假设】函数口职能口avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel） 为谱链入口；具名 kp 直发需 opt-in；后续波次以登记册+LinkedIn+R64 RocketReach 谱补撬件
+- 【事实】Avelution:Avelution(荷兰 Schijndel/Veghel(北布拉班特);**2020 创;2-10 人;智能楼宇 OT 网络全包(OT-netwerk 设计/配置/交档/运维;sustainable+healthy+smart 数据驱动楼宇)**;**姊妹/母谱:RJ Networks & Security — Directeur & Eigenaar Roel Jansen(LI/RR 双源;avelution.nl 邮域同)**;+Bram Schats(Avelution Insights IoT 楼宇)+Jesper Pennings(Sales Manager RJ)+Dorinda Spierings;**楼宇 OT 网=守界注;p1=CONSULT-OEM 谱**
+- 【推断】R66 第 22 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,18 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Roel Jansen**(Directeur & Eigenaar RJ Networks & Security/Avelution 双牌(LI 自署))— linkedin.com/company/avelution 〔已有(公司官方公开件/登记册自曝);源:https://nl.linkedin.com/company/avelution〕
+  - **Bram Schats**(Avelution Insights/IoT 楼宇( Gebouwinzicht 谱))— linkedin.com/company/avelution 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://nl.linkedin.com/company/avelution〕
+  - **Jesper Pennings**(Sales Manager(RJ 谱))— rocketreach 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/rj-networks-security-profile_b454c98bfc93304f〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Roel Jansen | Directeur & Eigenaar RJ Networks & Security/Avelution 双牌(LI 自署) | linkedin.com/company/avelution | official-self-published·谱/leads-only(直发需 opt-in) | https://nl.linkedin.com/company/avelution |
+| Bram Schats | Avelution Insights/IoT 楼宇( Gebouwinzicht 谱) | linkedin.com/company/avelution | leads-only·待 opt-in(LinkedIn/谱面带核) | https://nl.linkedin.com/company/avelution |
+| Jesper Pennings | Sales Manager(RJ 谱) | rocketreach 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/rj-networks-security-profile_b454c98bfc93304f |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -85,7 +93,7 @@ updated: 2026-09-28
 
 ### 第 1 次跟进 · 具名 kp 引路口
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
+- **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
 - **切入点**：具名 kp 引路 → 采购/技术硬件分载线
 - **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
@@ -100,45 +108,42 @@ updated: 2026-09-28
 ### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：谱链明智途径(LinkedIn 公开面)
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_341_376基线.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第22波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：R66 基线补足档(公司谱面全谱待补kp);司面全谱待 R66 波次补;函数口 info@avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel）(avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel）)跟团不动
-- **②芯片/型号**：(待问;avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel） 域名面谱=公司面谱)
-- **③KP 深挖**：**函数口职能口 info@avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel）(avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel）)已实位;R66 波次点名(KPI 核心):具体 KP 待补撬件(Urzeówne Rejstery+LinkedIn+official-self-published 渠道+R64 RocketReach 谱)&#10;具体实名谱位待 R66 波次补(司实谱位点名=R66 KPI 核心补件)**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))→ 成本谱替换件/随行件
-- **⑤在乎与偏好**：函数口职能口已实位
+- **①背景再核**：Avelution(荷兰 Schijndel/Veghel(北布拉班特);**2020 创;2-10 人;智能楼宇 OT 网络全包(OT-netwerk 设计/配置/交档/运维;sustainable+healthy+smart 数据驱动楼宇)**;**姊妹/母谱:RJ Networks & Security — Directeur & Eigenaar Roel Jansen(LI/RR 双源;avelution.nl 邮域同)**;+Bram Schats(Avelution Insights IoT 楼宇)+Jesper Pennings(Sales Manager RJ)+Dorinda Spierings;**楼宇 OT 网=守界注;p1=CONSULT-OEM 谱**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Roel Jansen(Directeur & Eigenaar RJ Networks & Security/Avelution 双牌(LI 自署),official-self-published·谱/leads-only(直发需 opt-in));Bram Schats(Avelution Insights/IoT 楼宇( Gebouwinzicht 谱),leads-only·待 opt-in(LinkedIn/谱面带核));Jesper Pennings(Sales Manager(RJ 谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：楼宇 OT-backbone 专营=强契
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**Avelution — info@avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel） (CSV/STRUCT 落穗件;公司谱面全谱待补kp)
-  > Avelution — info@avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel） (CSV/STRUCT 落穗件;公司谱面全谱待补kp)
-  > 来源：https://avelution.nl
-- **【业务定位】**R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;公司谱面全谱待补kp
-  > R66 基线补足档(2026-10-07 沙箱精核):函数口职能口实位;公司谱面全谱待补kp
-  > 来源：https://avelution.nl
-- **【近期动态与线索】**2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
-  > 2026-10-07 R66 波次点名(A-341~A-376 基线补足;司实谱位点名=R66 KPI 核心补件;公司面全谱待 R66 波次补撬件)
-  > 来源：https://avelution.nl
+- **【决策链与对接人】**「Roel Jansen Directeur RJ Networks & Security Everything Connected」(LI Avelution 员工谱);RR: Roel Jansen Directeur and Eigenaar+Bram Schats(Avelution)+Jesper Pennings Sales Manager
+  > 「Roel Jansen Directeur RJ Networks & Security Everything Connected」(LI Avelution 员工谱);RR: Roel Jansen Directeur and Eigenaar+Bram Schats(Avelution)+Jesper Pennings Sales Manager
+  > 来源：https://nl.linkedin.com/company/avelution
+- **【联系方式与基础画像】**Schijndel;opgericht 2020;2-10 medewerkers;**Avelution neemt het OT-netwerk volledig uit handen: ontwerp/configuratie/opleverdossier/beheer**;smart building ready(avelution.nl/LI 件)
+  > Schijndel;opgericht 2020;2-10 medewerkers;**Avelution neemt het OT-netwerk volledig uit handen: ontwerp/configuratie/opleverdossier/beheer**;smart building ready(avelution.nl/LI 件)
+  > 来源：https://avelution.nl/netwerkarchitectuur-en-connectiviteit/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：R66 基线补足档(公司谱面全谱待补kp);司面全谱待 R66 波次补;函数口 info@avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel）(avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel）)跟团不动
-- **产品线与在售品牌**：(待问;avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel） 域名面谱=公司面谱)
-- **目标行业与场景**：(R66 后续波次补)
-- **团队与规模**：(R66 后续波次补)
-- **决策链与对接人**：**函数口职能口 info@avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel）(avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel）)已实位;R66 波次点名(KPI 核心):具体 KP 待补撬件(Urzeówne Rejstery+LinkedIn+official-self-published 渠道+R64 RocketReach 谱)&#10;具体实名谱位待 R66 波次补(司实谱位点名=R66 KPI 核心补件)**
-- **技术与认证**：(R66 后续波次补)
-- **采购与供应链信号**：(R66 后续波次补)
-- **近期动态与线索**：2026-10-07 R66 波次点名(基线补足)
-- **与我方契合点**：函数口职能口avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel） 面心谱链档
-- **风险与注意**：具名 kp 未勘出/波次点名；不要直发或未 opt-in
+- **业务定位**：Avelution(荷兰 Schijndel/Veghel(北布拉班特);**2020 创;2-10 人;智能楼宇 OT 网络全包(OT-netwerk 设计/配置/交档/运维;sustainable+healthy+smart 数据驱动楼宇)**;**姊妹/母谱:RJ Networks & Security — Directeur & Eigenaar Roel Jansen(LI/RR 双源;avelution.nl 邮域同)**;+Bram Schats(Avelution Insights IoT 楼宇)+Jesper Pennings(Sales Manager RJ)+Dorinda Spierings;**楼宇 OT 网=守界注;p1=CONSULT-OEM 谱**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：荷布拉班特 2020 创楼宇 OT 网全包铺
+- **团队与规模**：2-10 人;2020 创
+- **决策链与对接人**：**Roel Jansen(Directeur & Eigenaar RJ Networks & Security/Avelution 双牌(LI 自署),official-self-published·谱/leads-only(直发需 opt-in));Bram Schats(Avelution Insights/IoT 楼宇( Gebouwinzicht 谱),leads-only·待 opt-in(LinkedIn/谱面带核));Jesper Pennings(Sales Manager(RJ 谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 22 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Roel Jansen 直达(opt-in 律;OT 守界)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -153,10 +158,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：函数口职能口已实位
-- **W**：具名 kp 未勘出(波次点名)
-- **O**：函数口面心谱链档的特制效应
-- **T**：函数口档直发不直接
+- **S**：楼宇 OT-backbone 专营=强契
+- **W**：**楼宇 OT 守界注**
+- **O**：Jansen 双牌直达位
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -175,7 +180,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -184,9 +189,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 司实谱位点名(波次点名)
-  - [ ] 公司面全谱
-  - [ ] 具名 kp 直发邮箱
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -198,13 +202,9 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi team,
+Geachte heer Jansen,
 
-I came across Avelution while mapping 荷兰 network/IT suppliers — your name showed up on the serious side of the market. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效) — a value unit that rides along with each deployment.
-
-Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
 Saga Networks Export Desk

@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】SYNEXIE（法国 Toulon/La Ciotat/Paris）：网络安全专商——VSBs/SMEs/大企业/公共机构四客群页；**300+ 信任客户墙含 Naval Group（军）+Ministère Agriculture/Culture（部委）+Airbus+RTM+Helisim+ArcelorMittal**;服务含 Hardware & licensing（IT 设备分销）；伙伴墙 **Stormshield Gold/Allied-Telesis Partner 徽标**等一众
-- 【推断】安全主业+明设硬件分销服务一缝：VSB/SME 私营段硬件线=唯一现实窄口；Naval/部委在墙=守界句必压
-- 【假设】VSB/SME 段 Hardware&licensing 线的 value 窄位
+- 【事实】SYNEXIE:SYNEXIE(法国 Toulon(档标 La Valette du Var→Toulon 31 rue Chevalier Paul 迁址谱);**SIREN 449807460;网安专家(ExpertCyber 标;OT/工业控制系统安全谱)**;**换代+并购双窗:Serge Nicod(2014-2022 Gérant)→Matthieu Nicod(1989 生,2021-09)→2022-12-31 退→SAS OLBIA KAPITAL 接任 Président(法人并购接棒;BODACC/lefigaro 件)→谱面现任自然人具名缺→守档准由(OT 安全谱在档)**
+- 【推断】R66 第 22 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -135,32 +135,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第34批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第22波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：FR 安全屋（官网一手核）
-- **②芯片/型号**：Stormshield/AT 等
-- **③KP 深挖**：contact@
-- **④Saga 对标**：VSB 段窄位（$180 锚点一致）
-- **⑤在乎与偏好**：ANSSI 法系合规/信任墙
+- **①背景再核**：SYNEXIE(法国 Toulon(档标 La Valette du Var→Toulon 31 rue Chevalier Paul 迁址谱);**SIREN 449807460;网安专家(ExpertCyber 标;OT/工业控制系统安全谱)**;**换代+并购双窗:Serge Nicod(2014-2022 Gérant)→Matthieu Nicod(1989 生,2021-09)→2022-12-31 退→SAS OLBIA KAPITAL 接任 Président(法人并购接棒;BODACC/lefigaro 件)→谱面现任自然人具名缺→守档准由(OT 安全谱在档)**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 第 22 波点名(谱面无实名)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：OT 安全专营=壁垒谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【目标行业】**VSBs/SMEs/Large Businesses/Public Institutions 四档；信任墙: Naval Group/Ministère Agriculture/Airbus/RTM
-  > VSBs/SMEs/Large Businesses/Public Institutions 四档；信任墙: Naval Group/Ministère Agriculture/Airbus/RTM
-  > 来源：https://www.synexie.fr
+- **【决策链与对接人】**BODACC/lefigaro 件: démission Serge NICOD(31/12/2022)+Matthieu NICOD cessé;nomination **SAS OLBIA KAPITAL(Président)**;谱面现任自然人具名缺=守档准由(2026-10-08 R66 22 波留痕)
+  > BODACC/lefigaro 件: démission Serge NICOD(31/12/2022)+Matthieu NICOD cessé;nomination **SAS OLBIA KAPITAL(Président)**;谱面现任自然人具名缺=守档准由(2026-10-08 R66 22 波留痕)
+  > 来源：https://entreprises.lefigaro.fr/synexie-83/entreprise-449807460
+- **【联系方式与基础画像】**31 rue Chevalier Paul, 83000 Toulon;ExpertCyber 标;cybersécurité:systèmes/réseaux sécurisés+**systèmes de contrôle industriels(OT 安全)=守界注**;+33 498080280(solutions-numeriques/zoominfo 件)
+  > 31 rue Chevalier Paul, 83000 Toulon;ExpertCyber 标;cybersécurité:systèmes/réseaux sécurisés+**systèmes de contrôle industriels(OT 安全)=守界注**;+33 498080280(solutions-numeriques/zoominfo 件)
+  > 来源：https://www.solutions-numeriques.com/fiche/synexie/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：法国 Toulon 网络安全+硬件分销屋
-- **产品线与在售品牌**：Stormshield/Allied/Aruba/Cisco 等
-- **目标行业与场景**：**VSB/SME 私营**（公共/军工=守界注）
-- **团队与规模**：中型
-- **决策链与对接人**：contact@ 口
-- **技术与认证**：—
-- **采购与供应链信号**：硬件分销服务在营
-- **近期动态与线索**：—
-- **与我方契合点**：VSB/SME 硬件段窄位（军工/部委守界句）
-- **风险与注意**：Naval Group/部委在墙——守界句必压
+- **业务定位**：SYNEXIE(法国 Toulon(档标 La Valette du Var→Toulon 31 rue Chevalier Paul 迁址谱);**SIREN 449807460;网安专家(ExpertCyber 标;OT/工业控制系统安全谱)**;**换代+并购双窗:Serge Nicod(2014-2022 Gérant)→Matthieu Nicod(1989 生,2021-09)→2022-12-31 退→SAS OLBIA KAPITAL 接任 Président(法人并购接棒;BODACC/lefigaro 件)→谱面现任自然人具名缺→守档准由(OT 安全谱在档)**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：法土伦网安谱(法人接棒换代,具名缺)
+- **团队与规模**：中小谱;OT 安全守界
+- **决策链与对接人**：**守档准由;R66 第 22 波点名(谱面无实名)**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 22 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：守档:OLBIA KAPITAL 接棒,具名待专批
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -175,10 +178,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对口
-- **W**：军工
-- **O**：VSB 段
-- **T**：大牌
+- **S**：OT 安全专营=壁垒谱
+- **W**：具名缺守档
+- **O**：无守档
+- **T**：—
 
 ## 触达与风险红线
 
@@ -206,8 +209,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 替补机制
-  - [ ] 占比
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,16 +222,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Bonjour Synexie team,
+Madame, Monsieur,
 
-Cybersecurity for everyone from VSBs to public institutions - with a Hardware and licensing service on the shelf. Two honest boundary sentences: your Naval Group and ministry-side work stays on its certified paths, and the Stormshield-first architecture keeps its place. This concerns only your VSB/SME hardware supply.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value tier for small-business budgets.
-
-One question: in your VSB/SME hardware line, is there room for a documented value PoE unit?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
