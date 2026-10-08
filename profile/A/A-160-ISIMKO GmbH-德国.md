@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】ISIMKO GmbH（德国科特布斯）：家族中型 120+ 人（科特布斯/柏林/德累斯顿/Schwarze Pumpe 四点）——**IT/安防/媒体/通信技术全谱，工业高质量铜缆与光纤网络专精**；行业：教育/医疗/金融/行政/研究/工业/艺术文化/交通；ISO 9001+SGU 管理+工会企业；EU 资助 KI/楼宇自动化/流程数字化项目
-- 【推断】120 人全谱工程商+工业布线专精=随单接入件大口径；行政/医疗客群段按德国公共采购规范守界，私营工业/金融/文化段是落点
-- 【假设】“sorgfältig ausgewählten Anbietern（严选供应商）”自述=准入文档门；工会企业=长期主义供应关系文化
+- 【事实】ISIMKO GmbH:ISIMKO GmbH(德国 Cottbus(Brande),Guhrower Str. 5;**HRB 472 CB AG Cottbus(老号);€200k;1990-09-28 创 36 年;120+ 人(Cottbus/Berlin/Dresden/Spremberg 四店)**;**原名 G. Fleischhauer Ingenieur-Büro Cottbus GmbH(2017-01 更名)**;谱型=手艺 IT/安全/媒体/通信技术房(铜/光纤工业网;公家+医院+中端;移动/固定+Telematik;YellowFox 伙伴谱)
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,20 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@isimko.de [Publicly listed; delivery not tested]; https://www.isimko.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Ralph Hannemann**(Geschäftsführer(舗系;Hannemann 家族(G. Fleischhauer 期的 Peter Hannemann 前谱)))— 官网 Impressum+goyellow+webvalid 三源 〔已有(公司官方公开件/登记册自曝);源:https://www.isimko.de/impressum/〕
+  - **Diego Noack**(Geschäftsführer(2018-01 由 Prokurist 晋 GF,Drebkau))— 官网 Impressum+online-handelsregister 登记公告 〔已有(公司官方公开件/登记册自曝);源:https://www.isimko.de/impressum/〕
+  - **Falk Noack**(Einzelprokura(2018-01 在册,Berlin))— webvalid/online-handelsregister 登记公告 〔已有(公司官方公开件/登记册自曝);源:https://www.online-handelsregister.de/handelsregisterauszug/br/Cottbus/HRB/472CB/ISIMKO-GmbH〕
+  - **Markus Menzel**(伙伴联络人(YellowFox 合作线))— yellowfox.de 伙伴页 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.yellowfox.de/partneruebersicht/isimko-gmbh/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Ralph Hannemann | Geschäftsführer(舗系;Hannemann 家族(G. Fleischhauer 期的 Peter Hannemann 前谱)) | 官网 Impressum+goyellow+webvalid 三源 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.isimko.de/impressum/ |
+| Diego Noack | Geschäftsführer(2018-01 由 Prokurist 晋 GF,Drebkau) | 官网 Impressum+online-handelsregister 登记公告 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.isimko.de/impressum/ |
+| Falk Noack | Einzelprokura(2018-01 在册,Berlin) | webvalid/online-handelsregister 登记公告 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.online-handelsregister.de/handelsregisterauszug/br/Cottbus/HRB/472CB/ISIMKO-GmbH |
+| Markus Menzel | 伙伴联络人(YellowFox 合作线) | yellowfox.de 伙伴页 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.yellowfox.de/partneruebersicht/isimko-gmbh/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -137,32 +147,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第16批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：120 人家族全谱（工业布线专精）；公共段守界
-- **②芯片/型号**：严选供应商池（CSV 载 Allied 信号）
-- **③KP 深挖**：info@
-- **④Saga 对标**：私营工业段接入层 value 件
-- **⑤在乎与偏好**：准入文档+长期主义
+- **①背景再核**：ISIMKO GmbH(德国 Cottbus(Brande),Guhrower Str. 5;**HRB 472 CB AG Cottbus(老号);€200k;1990-09-28 创 36 年;120+ 人(Cottbus/Berlin/Dresden/Spremberg 四店)**;**原名 G. Fleischhauer Ingenieur-Büro Cottbus GmbH(2017-01 更名)**;谱型=手艺 IT/安全/媒体/通信技术房(铜/光纤工业网;公家+医院+中端;移动/固定+Telematik;YellowFox 伙伴谱)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Ralph Hannemann(Geschäftsführer(舗系;Hannemann 家族(G. Fleischhauer 期的 Peter Hannemann 前谱)),official-self-published·谱/leads-only(直发需 opt-in));Diego Noack(Geschäftsführer(2018-01 由 Prokurist 晋 GF,Drebkau),official-self-published·谱/leads-only(直发需 opt-in));Falk Noack(Einzelprokura(2018-01 在册,Berlin),official-self-published·谱/leads-only(直发需 opt-in));Markus Menzel(伙伴联络人(YellowFox 合作线),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：36 年谱+医院/公家面=守界分
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“familiengeführtes, mittelständisches Unternehmen mit mehr als 120 Beschäftigten…spezialisiert für hochwertige Kupfer- und Glasfasernetze in der Industrie”
-  > “familiengeführtes, mittelständisches Unternehmen mit mehr als 120 Beschäftigten…spezialisiert für hochwertige Kupfer- und Glasfasernetze in der Industrie”
-  > 来源：https://www.isimko.de/
+- **【决策链与对接人】**Vertreten durch: Ralph Hannemann, Diego Noack (beide Geschäftsführer);HRB 472 Cottbus;Guhrower Str. 5, 03044 Cottbus(官网 Impressum)
+  > Vertreten durch: Ralph Hannemann, Diego Noack (beide Geschäftsführer);HRB 472 Cottbus;Guhrower Str. 5, 03044 Cottbus(官网 Impressum)
+  > 来源：https://www.isimko.de/impressum/
+- **【联系方式与基础画像】**gegründet 28.09.1990;€200.000;120+ Mitarbeiter;Standorte Cottbus/Berlin/Dresden/Spremberg;Ehemals G. Fleischhauer Ingenieur-Büro GmbH(2017 更名);Einzelprokura Falk Noack(登记公告件)
+  > gegründet 28.09.1990;€200.000;120+ Mitarbeiter;Standorte Cottbus/Berlin/Dresden/Spremberg;Ehemals G. Fleischhauer Ingenieur-Büro GmbH(2017 更名);Einzelprokura Falk Noack(登记公告件)
+  > 来源：https://www.online-handelsregister.de/handelsregisterauszug/br/Cottbus/HRB/472CB/ISIMKO-GmbH
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：勃兰登堡 120 人全谱工程商（工业布线专精）
-- **产品线与在售品牌**：严选供应商池
-- **目标行业与场景**：教育/医疗/金融/行政（守界）+工业/文化（主打）
-- **团队与规模**：120+ 四点
-- **决策链与对接人**：info@ 口
-- **技术与认证**：ISO 9001+SGU
-- **采购与供应链信号**：项目随单
-- **近期动态与线索**：EU 资助项目
-- **与我方契合点**：私营工业段接入层 value 位
-- **风险与注意**：公共段守界
+- **业务定位**：ISIMKO GmbH(德国 Cottbus(Brande),Guhrower Str. 5;**HRB 472 CB AG Cottbus(老号);€200k;1990-09-28 创 36 年;120+ 人(Cottbus/Berlin/Dresden/Spremberg 四店)**;**原名 G. Fleischhauer Ingenieur-Büro Cottbus GmbH(2017-01 更名)**;谱型=手艺 IT/安全/媒体/通信技术房(铜/光纤工业网;公家+医院+中端;移动/固定+Telematik;YellowFox 伙伴谱)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国 Brandenburg 36 年手艺 IT 房
+- **团队与规模**：120+ 人;1990 创
+- **决策链与对接人**：**Ralph Hannemann(Geschäftsführer(舗系;Hannemann 家族(G. Fleischhauer 期的 Peter Hannemann 前谱)),official-self-published·谱/leads-only(直发需 opt-in));Diego Noack(Geschäftsführer(2018-01 由 Prokurist 晋 GF,Drebkau),official-self-published·谱/leads-only(直发需 opt-in));Falk Noack(Einzelprokura(2018-01 在册,Berlin),official-self-published·谱/leads-only(直发需 opt-in));Markus Menzel(伙伴联络人(YellowFox 合作线),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：双 GF+Menzel 伙伴线(opt-in 律;公家/医院段守界)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -177,10 +190,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：全谱
-- **W**：门槛
-- **O**：工业
-- **T**：大牌
+- **S**：36 年谱+医院/公家面=守界分
+- **W**：中实体谱
+- **O**：Hannemann/Noack 双 GF 直达位
+- **T**：大牌件链竞谱
 
 ## 触达与风险红线
 
@@ -199,7 +212,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -208,9 +221,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 准入路径
-  - [ ] 随单率
-  - [ ] 年项目量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -222,18 +234,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi ISIMKO team,
+Guten Tag Herr Hannemann,
 
-A family Mittelstand company with 120+ people across four locations, specializing in high-quality copper and fibre networks for industry - you build the layer we manufacture for.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full test documentation. Reference: $180 USD EXW - a value line for the access layer inside your industrial network projects. (For clarity: this note concerns your private industrial and financial-sector work only.)
-
-One question: in your industrial cabling and security-technology projects, which switch brand holds the PoE access layer today?
-
-If useful, I can send one unit with the complete test pack for your supplier evaluation. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

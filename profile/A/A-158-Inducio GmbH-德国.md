@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Inducio GmbH（德国特劳恩施泰因，2010 年创）：NOC/基础设施监控/NAC/漏洞扫描专家（25 人）；**客户谱系从 KRITIS 运营商到机械制造与中型企业**；COD 平台（extocode）厂家中立监控；**伙伴墙实版含 Allied Telesis**+Cisco/HPE/Fortinet/Huawei/Greenbone/Nakivo+Ingram/TD Synnex 渠道
-- 【推断】Allied Telesis 实版+KRITIS 客群：第二供位窄位在私营机械工程/mittelstand 段（KRITIS 客户段守界明示）
-- 【假设】NOC 监控70+ 项目滚动的接入件 refresh 是窄位切角
+- 【事实】Inducio GmbH:inducio GmbH(德国 Traunstein,Kotzinger Str. 21;**HRB 20442 AG Traunstein;2010-09-24 创 16 年**;谱型=**IT 网管软件屋(自家 COD 平台=关键基础设施网管(医疗/能源)=KRITIS 谱,守界注记)**;Odoo 集成谱(odoo.inducio-services.net)
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,16 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@inducio.de [Publicly listed; delivery not tested]; https://www.inducio-services.net
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Siegmund Volker Gromotka**(Gründer & Geschäftsführer(2010 起;COD 引语自署))— handelsregister.ai 登记谱+it-management.today 专文+经济协会成员页 〔已有(公司官方公开件/登记册自曝);源:https://handelsregister.ai/de/organizations/traunstein/erbringung-von-beratungsleistungen-auf-dem-gebiet-der-informationstechnologie/inducio-gmbh-2cdd290d0d88e09113f6d982bcc9caa5〕
+  - **Lukas Parzinger**(Head of Information Technology(2024-09 起;兼 extocode GmbH CTO))— contactout 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://contactout.com/lukas-parzinger-12956〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Siegmund Volker Gromotka | Gründer & Geschäftsführer(2010 起;COD 引语自署) | handelsregister.ai 登记谱+it-management.today 专文+经济协会成员页 | official-self-published·谱/leads-only(直发需 opt-in) | https://handelsregister.ai/de/organizations/traunstein/erbringung-von-beratungsleistungen-auf-dem-gebiet-der-informationstechnologie/inducio-gmbh-2cdd290d0d88e09113f6d982bcc9caa5 |
+| Lukas Parzinger | Head of Information Technology(2024-09 起;兼 extocode GmbH CTO) | contactout 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://contactout.com/lukas-parzinger-12956 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -137,32 +143,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第16批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：NOC 专家（KRITIS+私营双谱）；Allied 实版
-- **②芯片/型号**：Allied 实版（官网）
-- **③KP 深挖**：info@
-- **④Saga 对标**：私营段 value 位（KRITIS 不涉）
-- **⑤在乎与偏好**：SNMP 文档
+- **①背景再核**：inducio GmbH(德国 Traunstein,Kotzinger Str. 21;**HRB 20442 AG Traunstein;2010-09-24 创 16 年**;谱型=**IT 网管软件屋(自家 COD 平台=关键基础设施网管(医疗/能源)=KRITIS 谱,守界注记)**;Odoo 集成谱(odoo.inducio-services.net)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Siegmund Volker Gromotka(Gründer & Geschäftsführer(2010 起;COD 引语自署),official-self-published·谱/leads-only(直发需 opt-in));Lukas Parzinger(Head of Information Technology(2024-09 起;兼 extocode GmbH CTO),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：COD 自家谱 KRITIS 守界
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“we serve customers ranging from KRITIS operators to mechanical engineering companies…[Allied Telesis]…more than 30 technology and solution partners”
-  > “we serve customers ranging from KRITIS operators to mechanical engineering companies…[Allied Telesis]…more than 30 technology and solution partners”
-  > 来源：https://inducio-services.net/en
+- **【决策链与对接人】**Siegmund Volker Gromotka seit 2010 Geschäftsführer;HRB 20442 Traunstein;Kotzinger Str. 21, 83278 Traunstein;2010-09-24 Eintragung(handelsregister.ai 件)
+  > Siegmund Volker Gromotka seit 2010 Geschäftsführer;HRB 20442 Traunstein;Kotzinger Str. 21, 83278 Traunstein;2010-09-24 Eintragung(handelsregister.ai 件)
+  > 来源：https://handelsregister.ai/de/organizations/traunstein/erbringung-von-beratungsleistungen-auf-dem-gebiet-der-informationstechnologie/inducio-gmbh-2cdd290d0d88e09113f6d982bcc9caa5
+- **【团队与规模】**COD 平台: KRITIS-sector 医疗+能源网管;Gromotka「Gründer der inducio GmbH」引语(it-management.today 件);Lukas Parzinger Head of IT(contactout 件)
+  > COD 平台: KRITIS-sector 医疗+能源网管;Gromotka「Gründer der inducio GmbH」引语(it-management.today 件);Lukas Parzinger Head of IT(contactout 件)
+  > 来源：https://www.it-management.today/inducio-gmbh-revolutioniert-die-netzwerkverwaltung-mit-cod-die-zukunftssichere-it-loesung-fuer-kritische-infrastrukturen/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：巴伐利亚 NOC/监控专家（KRITIS+私营双谱）
-- **产品线与在售品牌**：**Allied Telesis 实版**/Cisco/HPE/Fortinet
-- **目标行业与场景**：KRITIS（守界）+机械工程/中小（窄位）
-- **团队与规模**：25 人专精
-- **决策链与对接人**：info@ 口
-- **技术与认证**：COD 平台
-- **采购与供应链信号**：渠道+随单
-- **近期动态与线索**：COD 平台扩
-- **与我方契合点**：私营段监控项目接入件 value 位
-- **风险与注意**：KRITIS 守界
+- **业务定位**：inducio GmbH(德国 Traunstein,Kotzinger Str. 21;**HRB 20442 AG Traunstein;2010-09-24 创 16 年**;谱型=**IT 网管软件屋(自家 COD 平台=关键基础设施网管(医疗/能源)=KRITIS 谱,守界注记)**;Odoo 集成谱(odoo.inducio-services.net)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国 Chiemgau 16 年 KRITIS 网管软件屋
+- **团队与规模**：小实体谱;2010 创
+- **决策链与对接人**：**Siegmund Volker Gromotka(Gründer & Geschäftsführer(2010 起;COD 引语自署),official-self-published·谱/leads-only(直发需 opt-in));Lukas Parzinger(Head of Information Technology(2024-09 起;兼 extocode GmbH CTO),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Gromotka 创始(KRITIS 守界;opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -177,10 +186,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：专业
-- **W**：界
-- **O**：私营
-- **T**：同盟
+- **S**：COD 自家谱 KRITIS 守界
+- **W**：KRITIS 段守界
+- **O**：Gromotka 创始直达位
+- **T**：大牌管软链竞谱
 
 ## 触达与风险红线
 
@@ -199,7 +208,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -208,9 +217,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 私营段占比
-  - [ ] COD 兼容
-  - [ ] 二线空间
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -222,18 +230,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi inducio team,
+Guten Tag Herr Gromotka,
 
-A NOC practice serving everything from KRITIS operators to mechanical engineering firms - this note concerns only your private mid-market and mechanical-engineering engagements; your critical-infrastructure clients stay fully out of scope, to be explicit.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, clean SNMP for your COD dashboards, watchdog) with full documentation. Reference: $180 USD EXW.
-
-One question: in your private-sector monitoring projects, which switch brand holds the access layer today - and would a documented value alternative earn a bench test?
-
-If useful, I can send one unit with the complete SNMP and test documentation. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

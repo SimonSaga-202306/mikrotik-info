@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Insight Technology Solutions GmbH（Insight Enterprises 德国分部）：**全球超大目录型 VAR**（纳斯达克上市，全球 ~$8B+ 级）——德国门户 insightportal.de；info.de@insight.com 公开
-- 【推断】全球目录型 VAR 采购走全球厂商框架（direct from tier-1 OEMs），第三方 value 件无供应商准入缝隙——同 Bechtle 族“规模排除”纪律判别
-- 【假设】建档不出信（超大目录型 VAR：无现实合作缝隙，主动判别如实标注）
+- 【事实】Insight Technology Solutions GmbH:Insight Technology Solutions GmbH(德国 Raunheim,Am Prime-Parc 9(旧 Garching Parkring 35);**HRB 103112 AG Darmstadt;DE812242281;1988 创(原名 Corporate Software GmbH)**;**137 人/€122M;Insight Enterprises Inc.(NASDAQ:NSIT)全资=美资全球整合商;16×Microsoft Gold 谱(安全含)**
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,18 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info.de@insight.com [Publicly listed; delivery not tested]; https://insightportal.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Thomas Kühlewein**(Geschäftsführer(2020-10 起德国区))— 官网 Impressum+de.insight.com 法人公告 〔已有(公司官方公开件/登记册自曝);源:https://insightportal.de/impressum〕
+  - **Glynis Ann Bryan**(Geschäftsführer(现任谱))— insightportal.de Impressum 〔已有(公司官方公开件/登记册自曝);源:https://insightportal.de/impressum〕
+  - **James Morgado**(Geschäftsführer(谱面留痕))— de.insight.com Impressum 件(留痕) 〔已有(公司官方公开件/登记册自曝);源:https://de.insight.com/de_DE/knowledge-base/impressum.html〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Thomas Kühlewein | Geschäftsführer(2020-10 起德国区) | 官网 Impressum+de.insight.com 法人公告 | official-self-published·谱/leads-only(直发需 opt-in) | https://insightportal.de/impressum |
+| Glynis Ann Bryan | Geschäftsführer(现任谱) | insightportal.de Impressum | official-self-published·谱/leads-only(直发需 opt-in) | https://insightportal.de/impressum |
+| James Morgado | Geschäftsführer(谱面留痕) | de.insight.com Impressum 件(留痕) | official-self-published·谱/leads-only(直发需 opt-in) | https://de.insight.com/de_DE/knowledge-base/impressum.html |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +142,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第16批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：全球超大目录型 VAR 德国分部
-- **②芯片/型号**：全牌目录
-- **③KP 深挖**：建档不出信
-- **④Saga 对标**：不适用（规模排除族）
-- **⑤在乎与偏好**：—
+- **①背景再核**：Insight Technology Solutions GmbH(德国 Raunheim,Am Prime-Parc 9(旧 Garching Parkring 35);**HRB 103112 AG Darmstadt;DE812242281;1988 创(原名 Corporate Software GmbH)**;**137 人/€122M;Insight Enterprises Inc.(NASDAQ:NSIT)全资=美资全球整合商;16×Microsoft Gold 谱(安全含)**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Thomas Kühlewein(Geschäftsführer(2020-10 起德国区),official-self-published·谱/leads-only(直发需 opt-in));Glynis Ann Bryan(Geschäftsführer(现任谱),official-self-published·谱/leads-only(直发需 opt-in));James Morgado(Geschäftsführer(谱面留痕),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：上市母台 38 年谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Insight Technology Solutions GmbH（Insight Enterprises 德国分部）：全球目录型 VAR”
-  > “Insight Technology Solutions GmbH（Insight Enterprises 德国分部）：全球目录型 VAR”
-  > 来源：https://insightportal.de/
+- **【决策链与对接人】**Geschäftsführer: Thomas Kühlewein, Glynis Ann Bryan;HRB 103112 AG Darmstadt;DE812242281;Am Prime-Parc 9, 65479 Raunheim(insightportal.de Impressum)
+  > Geschäftsführer: Thomas Kühlewein, Glynis Ann Bryan;HRB 103112 AG Darmstadt;DE812242281;Am Prime-Parc 9, 65479 Raunheim(insightportal.de Impressum)
+  > 来源：https://insightportal.de/impressum
+- **【联系方式与基础画像】**THOMAS KÜHLEWEIN ÜBERNIMMT DIE GESCHÄFTSFÜHRUNG… Oktober 2020 法人公告;Insight Enterprises (NASDAQ: NSIT);16 Microsoft Gold Competencies;137 Mitarbeiter/€122M(de.insight.com 新闻室+DDW 件)
+  > THOMAS KÜHLEWEIN ÜBERNIMMT DIE GESCHÄFTSFÜHRUNG… Oktober 2020 法人公告;Insight Enterprises (NASDAQ: NSIT);16 Microsoft Gold Competencies;137 Mitarbeiter/€122M(de.insight.com 新闻室+DDW 件)
+  > 来源：https://de.insight.com/de_DE/about/newsroom/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：全球超大目录型 VAR 德国分部
-- **产品线与在售品牌**：全牌目录（全球框架）
-- **目标行业与场景**：全谱企业
-- **团队与规模**：全球巨型
-- **决策链与对接人**：—
-- **技术与认证**：全谱
-- **采购与供应链信号**：全球厂商框架
-- **近期动态与线索**：—
-- **与我方契合点**：无现实缝隙（纪律判别）
-- **风险与注意**：规模排除族
+- **业务定位**：Insight Technology Solutions GmbH(德国 Raunheim,Am Prime-Parc 9(旧 Garching Parkring 35);**HRB 103112 AG Darmstadt;DE812242281;1988 创(原名 Corporate Software GmbH)**;**137 人/€122M;Insight Enterprises Inc.(NASDAQ:NSIT)全资=美资全球整合商;16×Microsoft Gold 谱(安全含)**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国 Raunheim 38 年美资全球 IT 整合商
+- **团队与规模**：137 人;€122M;1988 创
+- **决策链与对接人**：**Thomas Kühlewein(Geschäftsführer(2020-10 起德国区),official-self-published·谱/leads-only(直发需 opt-in));Glynis Ann Bryan(Geschäftsführer(现任谱),official-self-published·谱/leads-only(直发需 opt-in));James Morgado(Geschäftsführer(谱面留痕),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Kühlewein 德区 GF(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +185,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：目录
-- **W**：无缝隙
-- **O**：无
-- **T**：不评
+- **S**：上市母台 38 年谱
+- **W**：大实体谱
+- **O**：Kühlewein 德区 GF 直达位
+- **T**：自家链栈=不占
 
 ## 触达与风险红线
 
@@ -196,7 +207,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,7 +216,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] —
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -217,7 +229,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-（不出信——超大目录型 VAR 纪律建档。动作：仅建档与 MX 核验。判定依据：Insight Enterprises 全球目录型模式=厂商框架直采，无第三方 value 件准入缝隙；与 Bechtle「规模排除」族同纪律。）
+Guten Tag Herr Kühlewein,
+
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+
+Best regards,
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

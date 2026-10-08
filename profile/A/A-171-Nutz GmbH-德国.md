@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Nutz Elektrotechnik GmbH & Co. KG（德国 Ampfing,1978 年创，40+ 年）：**楼宇技术一体商**——电气工程/数据技术（Datentechnik)/安全技术/媒体技术/楼宇自动化/规划设计文档/维保，全国+欧洲项目；2026-06-01 起原 Nutz GmbH 分立为 GmbH & Co. KG；参考客户 **Goldman Sachs/Bender/GSK-Altezza/Sparkasse Erding/GfK Nürnberg/adesso München**=集团高安全标准级+酒店+私宅
-- 【推断】“schnittstellenfreie Gebäudetechnik（无接口楼宇技术）”自述=其数据技术线直接做弱电网络层；Konzern 参考=规范文档级准入
-- 【假设】作为总包级楼宇技术商，随单接入件口径大；value 件在其私营酒店/商业项目段有实位
+- 【事实】Nutz GmbH:Nutz GmbH(德国 Ampfing(上巴伐利亚),Adlerstraße 1, 84539;**HRB 1966 AG Traunstein;USt DE 129 264 383;1978 创(车库)48 年;333+ 人/~€34-63M**;**异体排噪:Nutz GmbH & Co. KG(Villingen,电批发 1921)=不同实体已分层**;谱型=**建筑自动化/电气数据安全技术总包商**(安防/数据/电气/楼宇管理;Global 谱;Professional Services 对外;DC+Pharma 线;医院守界分)
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,22 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：epost@nutz.com [Publicly listed; delivery not tested]; https://nutz.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Christian Gruber**(CEO(1984 学徒→1994 入管→2018 全权接棒=接班谱))— nutz.com about-us+Impressum+LinkedIn 三源 〔已有(公司官方公开件/登记册自曝);源:https://nutz.com/en/company/about-us〕
+  - **Patrick Nutz**(Geschäftsführung(业主二代))— nutz.com Impressum 自署 〔已有(公司官方公开件/登记册自曝);源:https://nutz.com/en/das-impressum-der-nutz-gmbh〕
+  - **Thomas Wimmer**(CFO(伙伴 CFO))— nutz.com Impressum+RR 双源 〔已有(公司官方公开件/登记册自曝);源:https://nutz.com/en/das-impressum-der-nutz-gmbh〕
+  - **Andreas Bauer**(COO Sicherheitstechnik(安全技术 COO=落位最合))— RocketReach 员工谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/nutz-gmbh-profile_b5d872c9f42e53fd〕
+  - **Alexander Thimm**(Head of Sales(销售主管 KPI 位))— RocketReach 员工谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/nutz-gmbh-profile_b5d872c9f42e53fd〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Christian Gruber | CEO(1984 学徒→1994 入管→2018 全权接棒=接班谱) | nutz.com about-us+Impressum+LinkedIn 三源 | official-self-published·谱/leads-only(直发需 opt-in) | https://nutz.com/en/company/about-us |
+| Patrick Nutz | Geschäftsführung(业主二代) | nutz.com Impressum 自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://nutz.com/en/das-impressum-der-nutz-gmbh |
+| Thomas Wimmer | CFO(伙伴 CFO) | nutz.com Impressum+RR 双源 | official-self-published·谱/leads-only(直发需 opt-in) | https://nutz.com/en/das-impressum-der-nutz-gmbh |
+| Andreas Bauer | COO Sicherheitstechnik(安全技术 COO=落位最合) | RocketReach 员工谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/nutz-gmbh-profile_b5d872c9f42e53fd |
+| Alexander Thimm | Head of Sales(销售主管 KPI 位) | RocketReach 员工谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/nutz-gmbh-profile_b5d872c9f42e53fd |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -137,32 +149,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第18批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：1978 楼宇技术一体商（数据技术线直通+Konzern 参考）
-- **②芯片/型号**：未明（规范级）
-- **③KP 深挖**：epost@
-- **④Saga 对标**：数据技术线弱电随单value 位
-- **⑤在乎与偏好**：规范文档
+- **①背景再核**：Nutz GmbH(德国 Ampfing(上巴伐利亚),Adlerstraße 1, 84539;**HRB 1966 AG Traunstein;USt DE 129 264 383;1978 创(车库)48 年;333+ 人/~€34-63M**;**异体排噪:Nutz GmbH & Co. KG(Villingen,电批发 1921)=不同实体已分层**;谱型=**建筑自动化/电气数据安全技术总包商**(安防/数据/电气/楼宇管理;Global 谱;Professional Services 对外;DC+Pharma 线;医院守界分)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Christian Gruber(CEO(1984 学徒→1994 入管→2018 全权接棒=接班谱),official-self-published·谱/leads-only(直发需 opt-in));Patrick Nutz(Geschäftsführung(业主二代),official-self-published·谱/leads-only(直发需 opt-in));Thomas Wimmer(CFO(伙伴 CFO),official-self-published·谱/leads-only(直发需 opt-in));Andreas Bauer(COO Sicherheitstechnik(安全技术 COO=落位最合),leads-only·待 opt-in(LinkedIn/谱面带核));Alexander Thimm(Head of Sales(销售主管 KPI 位),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：三代并购谱+COO 线
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Ihr Partner für schnittstellenfreie Gebäudetechnik…Elektrotechnik, Datentechnik, Sicherheitstechnik, Gebäudeautomation…seit 1978…Konzerne mit höchsten Sicherheitsstandards”
-  > “Ihr Partner für schnittstellenfreie Gebäudetechnik…Elektrotechnik, Datentechnik, Sicherheitstechnik, Gebäudeautomation…seit 1978…Konzerne mit höchsten Sicherheitsstandards”
-  > 来源：https://nutz.com/
+- **【决策链与对接人】**Impressum: Geschäftsführung Christian Gruber, Patrick Nutz, Thomas Wimmer;Nutz GmbH, Adlerstraße 1, 84539 Ampfing;HRB 1966 Traunstein;DE 129 264 383(nutz.com Impressum)
+  > Impressum: Geschäftsführung Christian Gruber, Patrick Nutz, Thomas Wimmer;Nutz GmbH, Adlerstraße 1, 84539 Ampfing;HRB 1966 Traunstein;DE 129 264 383(nutz.com Impressum)
+  > 来源：https://nutz.com/en/das-impressum-der-nutz-gmbh
+- **【决策链与对接人】**Manfred Nutz starts 1978 in garage;Christian Gruber 学徒 1984 → 1994 Management → 2018 übernimmt als CEO;Thomas Wimmer CFO + Christian Eder mit密切 GF;333 Mitarbeiter/€34M(nutz.com about-us)
+  > Manfred Nutz starts 1978 in garage;Christian Gruber 学徒 1984 → 1994 Management → 2018 übernimmt als CEO;Thomas Wimmer CFO + Christian Eder mit密切 GF;333 Mitarbeiter/€34M(nutz.com about-us)
+  > 来源：https://nutz.com/en/company/about-us
+- **【团队与规模】**Andreas Bauer COO Sicherheitstechnik;Alexander Thimm Head of Sales;Andreas Huber Head of IT;Dirk Schiller Sales Manager Data Center and Pharma/Healthcare(RocketReach 谱)
+  > Andreas Bauer COO Sicherheitstechnik;Alexander Thimm Head of Sales;Andreas Huber Head of IT;Dirk Schiller Sales Manager Data Center and Pharma/Healthcare(RocketReach 谱)
+  > 来源：https://rocketreach.co/nutz-gmbh-profile_b5d872c9f42e53fd
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：巴伐利亚楼宇技术一体商（数据技术线直通）
-- **产品线与在售品牌**：未明示（规范级）
-- **目标行业与场景**：Konzern/酒店/金融/私宅
-- **团队与规模**：中型全工种
-- **决策链与对接人**：epost@ 口
-- **技术与认证**：规范级
-- **采购与供应链信号**：总包随单
-- **近期动态与线索**：2026-06 GmbH&Co.KG 分立
-- **与我方契合点**：楼宇数据技术线弱电随单件
-- **风险与注意**：Konzern 规范门槛
+- **业务定位**：Nutz GmbH(德国 Ampfing(上巴伐利亚),Adlerstraße 1, 84539;**HRB 1966 AG Traunstein;USt DE 129 264 383;1978 创(车库)48 年;333+ 人/~€34-63M**;**异体排噪:Nutz GmbH & Co. KG(Villingen,电批发 1921)=不同实体已分层**;谱型=**建筑自动化/电气数据安全技术总包商**(安防/数据/电气/楼宇管理;Global 谱;Professional Services 对外;DC+Pharma 线;医院守界分)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国上巴伐利亚 48 年建筑技术总包商
+- **团队与规模**：333+ 人;1978 创
+- **决策链与对接人**：**Christian Gruber(CEO(1984 学徒→1994 入管→2018 全权接棒=接班谱),official-self-published·谱/leads-only(直发需 opt-in));Patrick Nutz(Geschäftsführung(业主二代),official-self-published·谱/leads-only(直发需 opt-in));Thomas Wimmer(CFO(伙伴 CFO),official-self-published·谱/leads-only(直发需 opt-in));Andreas Bauer(COO Sicherheitstechnik(安全技术 COO=落位最合),leads-only·待 opt-in(LinkedIn/谱面带核));Alexander Thimm(Head of Sales(销售主管 KPI 位),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Bauer COO+Thimm 销售(opt-in 律;医院段守界)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -177,10 +195,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：全工种
-- **W**：门槛
-- **O**：随单
-- **T**：大牌
+- **S**：三代并购谱+COO 线
+- **W**：大型屋谱
+- **O**：Bauer 安全 COO+Thimm 销售位
+- **T**：自家链栈=不占
 
 ## 触达与风险红线
 
@@ -199,7 +217,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -208,9 +226,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 现供
-  - [ ] 供应商档案
-  - [ ] 年项目量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -222,18 +239,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Nutz team,
+Guten Tag Herr Bauer,
 
-“Schnittstellenfreie Gebäudetechnik” since 1978, delivered for clients up to the highest security standards - Goldman Sachs infrastructure to hotel fit-outs. The Datentechnik layer behind that promise rides on access switches.
-
-We manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with a complete CE/test dossier, ready for your supplier files. Reference: $180 USD EXW - a value line for the data closets inside your projects.
-
-One question: in your Datentechnik projects, which switch brand holds the PoE access layer today - and would a fully documented value alternative earn a place in your supplier review?
-
-If useful, I can send one unit with the complete dossier. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

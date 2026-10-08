@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】H&G Hansen & Gieraths EDV Vertriebsgesellschaft mbH（德国波恩）：30+ 年跨区域系统屋——Digital Workplace/打印管理 MPS/服务器存储/托管服务；**Aruba ClearPass 主推位（HPE 同盟）**；自有 readIT 杂志+**Kirche und Wohlfahrt（教会与福利事业）细分线**；E-Procurement/会议 IT 服务
-- 【推断】Aruba 同盟=网络接入层有其明确现供；教会/福利细分=德国特色非营利机构段（预算敏感）
-- 【假设】第二供位窄位：教会/福利段的预算线value 件是自然切角（不贬 Aruba 主线）
+- 【事实】H & G Hansen & Gieraths EDV Vertriebs GmbH:H & G Hansen & Gieraths EDV Vertriebsgesellschaft mbH(Bonn,Bornheimer Str. 42-52;**HRB 4027 AG Bonn(EUID DER3201.HRB4027;LEI 529900ZLJD9UWIJ96Y95);USt DE122121252;1985-12-26 创 40 年;175 人(2023)**;**股东=H&G Hansen & Gieraths IT Solutions GmbH 母谱;Hansen 家族三代:Dr. Heinz Hellmuth Hansen 老铺 2024-01 让位**;hug.de
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,20 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@hug.de [Publicly listed; delivery not tested]; https://www.hug.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Holger Hansen**(Geschäftsführer(2024-01-12 任命;Bonn))— creditreform 登记公告+implisense+DNB 〔已有(公司官方公开件/登记册自曝);源:https://firmeneintrag.creditreform.de/53111/5030068909/H_G_HANSEN_GIERATHS_EDV_VERTRIEBSGESELLSCHAFT_MBH〕
+  - **Dr. Heinz Hellmuth Hansen**(原 Geschäftsführer(至 2024-01-12;K/2 Physiker))— creditreform 登记公告(留痕) 〔已有(公司官方公开件/登记册自曝);源:https://firmeneintrag.creditreform.de/53111/5030068909/H_G_HANSEN_GIERATHS_EDV_VERTRIEBSGESELLSCHAFT_MBH〕
+  - **Heinz H. Hansen**(Prokurist(剩谱))— northdata 公报谱 〔已有(公司官方公开件/登记册自曝);源:https://www.northdata.de/H+&+G+Hansen+&+Gieraths+EDV+Vertriebsgesellschaft+mbH,+Bonn/HRB+4027〕
+  - **Svenja Hansen**(Prokurist(族谱))— northdata 公报谱 〔已有(公司官方公开件/登记册自曝);源:https://www.northdata.de/H+&+G+Hansen+&+Gieraths+EDV+Vertriebsgesellschaft+mbH,+Bonn/HRB+4027〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Holger Hansen | Geschäftsführer(2024-01-12 任命;Bonn) | creditreform 登记公告+implisense+DNB | official-self-published·谱/leads-only(直发需 opt-in) | https://firmeneintrag.creditreform.de/53111/5030068909/H_G_HANSEN_GIERATHS_EDV_VERTRIEBSGESELLSCHAFT_MBH |
+| Dr. Heinz Hellmuth Hansen | 原 Geschäftsführer(至 2024-01-12;K/2 Physiker) | creditreform 登记公告(留痕) | official-self-published·谱/leads-only(直发需 opt-in) | https://firmeneintrag.creditreform.de/53111/5030068909/H_G_HANSEN_GIERATHS_EDV_VERTRIEBSGESELLSCHAFT_MBH |
+| Heinz H. Hansen | Prokurist(剩谱) | northdata 公报谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.northdata.de/H+&+G+Hansen+&+Gieraths+EDV+Vertriebsgesellschaft+mbH,+Bonn/HRB+4027 |
+| Svenja Hansen | Prokurist(族谱) | northdata 公报谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.northdata.de/H+&+G+Hansen+&+Gieraths+EDV+Vertriebsgesellschaft+mbH,+Bonn/HRB+4027 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -137,32 +147,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第16批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：30 年系统屋（Aruba 同盟+教会福利细分线）
-- **②芯片/型号**：Aruba/HPE 暗示
-- **③KP 深挖**：info@
-- **④Saga 对标**：教会/福利段 value 二线
-- **⑤在乎与偏好**：杂志级专业内容
+- **①背景再核**：H & G Hansen & Gieraths EDV Vertriebsgesellschaft mbH(Bonn,Bornheimer Str. 42-52;**HRB 4027 AG Bonn(EUID DER3201.HRB4027;LEI 529900ZLJD9UWIJ96Y95);USt DE122121252;1985-12-26 创 40 年;175 人(2023)**;**股东=H&G Hansen & Gieraths IT Solutions GmbH 母谱;Hansen 家族三代:Dr. Heinz Hellmuth Hansen 老铺 2024-01 让位**;hug.de
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Holger Hansen(Geschäftsführer(2024-01-12 任命;Bonn),official-self-published·谱/leads-only(直发需 opt-in));Dr. Heinz Hellmuth Hansen(原 Geschäftsführer(至 2024-01-12;K/2 Physiker),official-self-published·谱/leads-only(直发需 opt-in));Heinz H. Hansen(Prokurist(剩谱),official-self-published·谱/leads-only(直发需 opt-in));Svenja Hansen(Prokurist(族谱),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：40 年谱+三代接棒位
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Als überregionales IT-Systemhaus…seit über 30 Jahren in allen Bereichen der IT zuhause…Kirche und Wohlfahrt”
-  > “Als überregionales IT-Systemhaus…seit über 30 Jahren in allen Bereichen der IT zuhause…Kirche und Wohlfahrt”
-  > 来源：https://www.hug.de/
+- **【决策链与对接人】**12.01.2024: Nicht mehr GF: Dr. Hansen, Heinz Hellmuth, Physiker, Sankt Augustin;Bestellt zum GF: Hansen, Holger, Bonn(creditreform 件);Gesellschafter: H&G Hansen & Gieraths IT Solutions GmbH;Prokura: Heinz H. Hansen, Svenja Hansen(northdata 件)
+  > 12.01.2024: Nicht mehr GF: Dr. Hansen, Heinz Hellmuth, Physiker, Sankt Augustin;Bestellt zum GF: Hansen, Holger, Bonn(creditreform 件);Gesellschafter: H&G Hansen & Gieraths IT Solutions GmbH;Prokura: Heinz H. Hansen, Svenja Hansen(northdata 件)
+  > 来源：https://firmeneintrag.creditreform.de/53111/5030068909/H_G_HANSEN_GIERATHS_EDV_VERTRIEBSGESELLSCHAFT_MBH
+- **【联系方式与基础画像】**HRB 4027 Bonn;gegründet 26.12.1985;175 Mitarbeiter (2023);DE122121252;dd:Vertrieb/Reparatur/Wartung/Herstellung elektronischer Geräte, IT-Security, Managed Services, Netzwerk-,Speicherlösungen, Konferenztechnik(implisense 件)
+  > HRB 4027 Bonn;gegründet 26.12.1985;175 Mitarbeiter (2023);DE122121252;dd:Vertrieb/Reparatur/Wartung/Herstellung elektronischer Geräte, IT-Security, Managed Services, Netzwerk-,Speicherlösungen, Konferenztechnik(implisense 件)
+  > 来源：https://app.implisense.com/en/companies/h-g-hansen-gieraths-edv-vertriebsgesellschaft-mbh-bonn--DEPJ95MWJE86
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：波恩 30 年系统屋（Aruba 同盟+教会福利细分）
-- **产品线与在售品牌**：Aruba/HPE 暗示/M365 生态
-- **目标行业与场景**：企业+教会福利机构
-- **团队与规模**：区域中型
-- **决策链与对接人**：info@ 口
-- **技术与认证**：伙伴体系
-- **采购与供应链信号**：伙伴目录随单
-- **近期动态与线索**：ClearPass 主推
-- **与我方契合点**：教会/福利段 value 二线
-- **风险与注意**：Aruba 同盟
+- **业务定位**：H & G Hansen & Gieraths EDV Vertriebsgesellschaft mbH(Bonn,Bornheimer Str. 42-52;**HRB 4027 AG Bonn(EUID DER3201.HRB4027;LEI 529900ZLJD9UWIJ96Y95);USt DE122121252;1985-12-26 创 40 年;175 人(2023)**;**股东=H&G Hansen & Gieraths IT Solutions GmbH 母谱;Hansen 家族三代:Dr. Heinz Hellmuth Hansen 老铺 2024-01 让位**;hug.de
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国 Bonn 40 年 IT 批发屋(家族三代)
+- **团队与规模**：175 人;1985 创
+- **决策链与对接人**：**Holger Hansen(Geschäftsführer(2024-01-12 任命;Bonn),official-self-published·谱/leads-only(直发需 opt-in));Dr. Heinz Hellmuth Hansen(原 Geschäftsführer(至 2024-01-12;K/2 Physiker),official-self-published·谱/leads-only(直发需 opt-in));Heinz H. Hansen(Prokurist(剩谱),official-self-published·谱/leads-only(直发需 opt-in));Svenja Hansen(Prokurist(族谱),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Holger 接棒+Svenja/Heinz 代庆(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -177,10 +190,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：细分
-- **W**：同盟
-- **O**：预算线
-- **T**：在位
+- **S**：40 年谱+三代接棒位
+- **W**：中型批发屋谱
+- **O**：Holger Hansen 新 GF 庆贺位
+- **T**：大牌件链竞谱
 
 ## 触达与风险红线
 
@@ -199,7 +212,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -208,9 +221,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 接入现供
-  - [ ] 二线空间
-  - [ ] 非营利段结构
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -222,18 +234,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi H&G team,
+Guten Tag Herr Holger Hansen,
 
-Thirty years as a system house, plus a dedicated practice for churches and welfare organizations - institutions where every euro of IT budget is weighed twice.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full documentation. Reference: $180 USD EXW - a value line for exactly those budget-sensitive deployments, alongside, never against, your Aruba main line.
-
-One question: in your church and welfare-sector projects, is there room for a documented value alternative at the access layer?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

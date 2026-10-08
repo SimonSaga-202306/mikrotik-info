@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Dallmeier Electronics（德国雷根斯堡，1984 年创）：**视频监控制造商**——Panomera 多焦传感器专利/Domera 摄像系/SeMSy VMS/Hemisphere；机场/赌场/体育场/关键基建方案；**“Video Technology Made in Germany”**，全球 installer/integrator 渠道
-- 【推断】制造商同业（视频安防厂牌）——是设备厂家不是采购客户；按其渠道结构，其合作伙伴（installer/integrator）才是接入交换的买家
-- 【假设】同业建档不出信（厂家非客户纪律，同 Round15 台湾信号源逻辑）；CSV 以 Allied 信号录入，如实标注同业身份
+- 【事实】Dallmeier Electronics GmbH:Dallmeier electronic GmbH & Co.KG(Regensburg,Bahnhofstr. 16(总部)+Cranachweg 1(产基);**HRA 6827/HRB 9085 AG Regensburg;USt DE813790649;1984 创 42 年;400+ 人现场产**;**全球 CCTV/IP 视频安全一件套商(自家全景厂 made in Germany;银行/赌场/机场/加油站/城市监控)**;**家族名:现年 CEO 与创始人同姓父子谱;评根:带堡垒类客户谱**
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,18 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@dallmeier.com [Publicly listed; delivery not tested]; https://www.dallmeier.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Thomas Dallmeier**(CEO/Geschäftsführer(Impressum 法定自署))— dallmeier.com Impressum + GIT SICHERHEIT 访谈 〔已有(公司官方公开件/登记册自曝);源:https://www.dallmeier.com/de/impressum〕
+  - **Dieter Dallmeier**(Gründer(创始谱;GIT 访谈留痕))— git-sicherheit.de 访谈件(留痕) 〔已有(公司官方公开件/登记册自曝);源:https://www.git-sicherheit.de/firmen/dallmeier-electronic-gmbh-co-kg〕
+  - **Georg Martin M.A.**(Chief Communications Officer(CCO;Impressum 编辑责任自署))— dallmeier.com Impressum+XING about-us 〔已有(公司官方公开件/登记册自曝);源:https://www.dallmeier.com/de/impressum〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Thomas Dallmeier | CEO/Geschäftsführer(Impressum 法定自署) | dallmeier.com Impressum + GIT SICHERHEIT 访谈 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.dallmeier.com/de/impressum |
+| Dieter Dallmeier | Gründer(创始谱;GIT 访谈留痕) | git-sicherheit.de 访谈件(留痕) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.git-sicherheit.de/firmen/dallmeier-electronic-gmbh-co-kg |
+| Georg Martin M.A. | Chief Communications Officer(CCO;Impressum 编辑责任自署) | dallmeier.com Impressum+XING about-us | official-self-published·谱/leads-only(直发需 opt-in) | https://www.dallmeier.com/de/impressum |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -137,32 +145,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第15批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：视频监控制造商（Made in Germany）同业
-- **②芯片/型号**：不适用（同业）
-- **③KP 深挖**：建档不出信
-- **④Saga 对标**：不适用
-- **⑤在乎与偏好**：—
+- **①背景再核**：Dallmeier electronic GmbH & Co.KG(Regensburg,Bahnhofstr. 16(总部)+Cranachweg 1(产基);**HRA 6827/HRB 9085 AG Regensburg;USt DE813790649;1984 创 42 年;400+ 人现场产**;**全球 CCTV/IP 视频安全一件套商(自家全景厂 made in Germany;银行/赌场/机场/加油站/城市监控)**;**家族名:现年 CEO 与创始人同姓父子谱;评根:带堡垒类客户谱**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Thomas Dallmeier(CEO/Geschäftsführer(Impressum 法定自署),official-self-published·谱/leads-only(直发需 opt-in));Dieter Dallmeier(Gründer(创始谱;GIT 访谈留痕),official-self-published·谱/leads-only(直发需 opt-in));Georg Martin M.A.(Chief Communications Officer(CCO;Impressum 编辑责任自署),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：一线厂全件自产
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Video Technology Made in Germany…A large network of installers and integrators use Dallmeier products”
-  > “Video Technology Made in Germany…A large network of installers and integrators use Dallmeier products”
-  > 来源：https://www.dallmeier.com/
+- **【决策链与对接人】**Vertreten durch den Geschäftsführer Thomas Dallmeier CEO;Georg Martin CCO;HRA 6827/HRB 9085 Regensburg;DE813790649;Dallmeier GmbH persönlich haftende Gesellschafterin(官网 Impressum)
+  > Vertreten durch den Geschäftsführer Thomas Dallmeier CEO;Georg Martin CCO;HRA 6827/HRB 9085 Regensburg;DE813790649;Dallmeier GmbH persönlich haftende Gesellschafterin(官网 Impressum)
+  > 来源：https://www.dallmeier.com/de/impressum
+- **【团队与规模】**1984 创;400 Employees (site);einer der weltweit führenden Anbieter von netzwerkbasierter Videosicherheitstechnik;cassette/Banken/Casinos/Airports/Tankstellen/Stadtüberwachung(keytobavaria 件)
+  > 1984 创;400 Employees (site);einer der weltweit führenden Anbieter von netzwerkbasierter Videosicherheitstechnik;cassette/Banken/Casinos/Airports/Tankstellen/Stadtüberwachung(keytobavaria 件)
+  > 来源：https://www.keytobavaria.com/company-details/dallmeier-electronic-gmbh-cokg-17051
+- **【决策链与对接人】**Top Player Videosicherheit – Thomas Dallmeier, CEO Dallmeier electronic(GIT SICHERHEIT Interview);Dieter Dallmeier, Gründer und CEO(旧访留痕)
+  > Top Player Videosicherheit – Thomas Dallmeier, CEO Dallmeier electronic(GIT SICHERHEIT Interview);Dieter Dallmeier, Gründer und CEO(旧访留痕)
+  > 来源：https://www.git-sicherheit.de/firmen/dallmeier-electronic-gmbh-co-kg
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：德国视频监控制造商（同业）
-- **产品线与在售品牌**：Panomera/Domera/SeMSy
-- **目标行业与场景**：机场/赌场/体育场/KRITIS
-- **团队与规模**：中型制造商
-- **决策链与对接人**：—
-- **技术与认证**：Made in Germany
-- **采购与供应链信号**：—（厂家）
-- **近期动态与线索**：St. Louis 机场案例
-- **与我方契合点**：无直接（同业）；其 installer 渠道为后续独立触点池
-- **风险与注意**：同业身份
+- **业务定位**：Dallmeier electronic GmbH & Co.KG(Regensburg,Bahnhofstr. 16(总部)+Cranachweg 1(产基);**HRA 6827/HRB 9085 AG Regensburg;USt DE813790649;1984 创 42 年;400+ 人现场产**;**全球 CCTV/IP 视频安全一件套商(自家全景厂 made in Germany;银行/赌场/机场/加油站/城市监控)**;**家族名:现年 CEO 与创始人同姓父子谱;评根:带堡垒类客户谱**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国 42 年全球视频安全一件套商(Regensburg)
+- **团队与规模**：400+ 人;1984 创
+- **决策链与对接人**：**Thomas Dallmeier(CEO/Geschäftsführer(Impressum 法定自署),official-self-published·谱/leads-only(直发需 opt-in));Dieter Dallmeier(Gründer(创始谱;GIT 访谈留痕),official-self-published·谱/leads-only(直发需 opt-in));Georg Martin M.A.(Chief Communications Officer(CCO;Impressum 编辑责任自署),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Thomas Dallmeier CEO 谱位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -177,10 +191,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：厂牌
-- **W**：非客户
-- **O**：生态
-- **T**：不评
+- **S**：一线厂全件自产
+- **W**：大型屋谱
+- **O**：Dallmeier 家族直达位
+- **T**：自家链栈=不占
 
 ## 触达与风险红线
 
@@ -199,7 +213,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -208,7 +222,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] —
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -220,7 +235,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-（不出信——制造商同业建档。动作：仅建档与 MX 核验。判定依据：官网自述视频技术制造商身份（Panomera/SeMSy）；厂家不是采购客户，其 installer/integrator 网络为公开生态线索。）
+Guten Tag Herr Dallmeier,
+
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+
+Best regards,
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

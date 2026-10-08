@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】CompData Computer GmbH（德国，**1976 年创**——业界最老之一）：系统屋（IT 基建/安全/托管）+软件屋（ERP Diamant/4/Sage HR/ATOSS 工时/PROXESS DMS/QlikSense BI）一体；行业深耕：**烘焙/纺织服装/牙科供应链**/中小企业；GF Reiner Veit 具名；数百客户德语区
-- 【推断】“系统+软件一体”=硬件随其软件项目滚动；烘焙连锁等行业客户=多站点接入件滚动结构
-- 【假设】1976 老牌咨询文化=认稳定与文档；行业多站点 rollout 是接入件循环场景
+- 【事实】CompData Computer GmbH:CompData Computer GmbH(德国 Albstadt,Eschachstr. 9;**HRB 400221 AG Stuttgart;USt DE144848633;1976 创 50 年;80+ 人/€15M(2022,+10%)**;工业中型客谱:Ai;烘焙行业 ERP 专谱(BACKHAUS MAHL 等背书);TOP100 2021 创新谱)
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,18 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：vertrieb@compdata.de [Publicly listed; delivery not tested]; https://www.compdata.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Reiner Veit**(geschäftsführender Gesellschafter(高管合伙人;TOP100/back.intern 官方引语))— compdata.de Impressum+TOP100+back.intern 三源 〔已有(公司官方公开件/登记册自曝);源:https://www.compdata.de/impressum〕
+  - **Stefan Baumann**(「Make IT simple」技术谱)— 公司 LinkedIn 员工谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://de.linkedin.com/company/compdata-computer-gmbh〕
+  - **Alexandra Krebs**(Personalwesen(人事))— 公司 LinkedIn 员工谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://de.linkedin.com/company/compdata-computer-gmbh〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Reiner Veit | geschäftsführender Gesellschafter(高管合伙人;TOP100/back.intern 官方引语) | compdata.de Impressum+TOP100+back.intern 三源 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.compdata.de/impressum |
+| Stefan Baumann | 「Make IT simple」技术谱 | 公司 LinkedIn 员工谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://de.linkedin.com/company/compdata-computer-gmbh |
+| Alexandra Krebs | Personalwesen(人事) | 公司 LinkedIn 员工谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://de.linkedin.com/company/compdata-computer-gmbh |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -137,32 +145,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第15批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：1976 系统+软件一体；行业深耕（烘焙/纺织/牙科）
-- **②芯片/型号**：CSV 载 Allied 信号
-- **③KP 深挖**：vertrieb@/GF Veit
-- **④Saga 对标**：多站点 rollout 接入层
-- **⑤在乎与偏好**：稳定+文档
+- **①背景再核**：CompData Computer GmbH(德国 Albstadt,Eschachstr. 9;**HRB 400221 AG Stuttgart;USt DE144848633;1976 创 50 年;80+ 人/€15M(2022,+10%)**;工业中型客谱:Ai;烘焙行业 ERP 专谱(BACKHAUS MAHL 等背书);TOP100 2021 创新谱)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Reiner Veit(geschäftsführender Gesellschafter(高管合伙人;TOP100/back.intern 官方引语),official-self-published·谱/leads-only(直发需 opt-in));Stefan Baumann(「Make IT simple」技术谱,leads-only·待 opt-in(LinkedIn/谱面带核));Alexandra Krebs(Personalwesen(人事),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：50 年谱+行业纵深(烘焙)
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Seit 1976 betreut das System- und Softwarehaus mehrere Hundert Unternehmen im deutschsprachigen Raum”
-  > “Seit 1976 betreut das System- und Softwarehaus mehrere Hundert Unternehmen im deutschsprachigen Raum”
-  > 来源：https://www.compdata.de/
+- **【决策链与对接人】**Geschäftsführender Gesellschafter: Reiner Veit;HRB 400221 Stuttgart;Eschachstr. 9, 72459 Albstadt;+49 7431 950-0(官网 Impressum)
+  > Geschäftsführender Gesellschafter: Reiner Veit;HRB 400221 Stuttgart;Eschachstr. 9, 72459 Albstadt;+49 7431 950-0(官网 Impressum)
+  > 来源：https://www.compdata.de/impressum
+- **【团队与规模】**Compda 2022 Umsatz 15 Mio. Euro(+10%);über 80 Mitarbeiter;gegründet 1976;Reiner Veit 引语(back.intern/top100 件)
+  > Compda 2022 Umsatz 15 Mio. Euro(+10%);über 80 Mitarbeiter;gegründet 1976;Reiner Veit 引语(back.intern/top100 件)
+  > 来源：https://www.back-intern.de/2023/02/02/compdata-bleibt-auf-wachstumskurs/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：德语区 1976 老牌系统+软件屋
-- **产品线与在售品牌**：全谱基建（CSV 载 Allied 信号）
-- **目标行业与场景**：烘焙/纺织/牙科/mittelstand
-- **团队与规模**：中型双线
-- **决策链与对接人**：vertrieb@+GF Veit 具名
-- **技术与认证**：行业软件认证
-- **采购与供应链信号**：软件项目随单+多站点滚动
-- **近期动态与线索**：2026 IT Security Day
-- **与我方契合点**：行业 rollout 接入层 value 位
-- **风险与注意**：
+- **业务定位**：CompData Computer GmbH(德国 Albstadt,Eschachstr. 9;**HRB 400221 AG Stuttgart;USt DE144848633;1976 创 50 年;80+ 人/€15M(2022,+10%)**;工业中型客谱:Ai;烘焙行业 ERP 专谱(BACKHAUS MAHL 等背书);TOP100 2021 创新谱)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国巴符 50 年 IT 系统+烘焙 ERP 屋
+- **团队与规模**：80+ 人;€15M;1976 创
+- **决策链与对接人**：**Reiner Veit(geschäftsführender Gesellschafter(高管合伙人;TOP100/back.intern 官方引语),official-self-published·谱/leads-only(直发需 opt-in));Stefan Baumann(「Make IT simple」技术谱,leads-only·待 opt-in(LinkedIn/谱面带核));Alexandra Krebs(Personalwesen(人事),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Veit 合伙人+50 年谱问候(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -177,10 +188,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：深耕
-- **W**：体量
-- **O**：滚动
-- **T**：大牌
+- **S**：50 年谱+行业纵深(烘焙)
+- **W**：中型屋谱
+- **O**：Veit 合伙人直达位
+- **T**：大牌件链竞谱
 
 ## 触达与风险红线
 
@@ -199,7 +210,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -208,9 +219,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 多站点接入现供
-  - [ ] 随单率
-  - [ ] 评测窗
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -222,18 +232,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi CompData team,
+Guten Tag Herr Veit,
 
-Serving several hundred German-speaking companies since 1976 - that is not a business, that is an institution. And industry specializations like bakeries, textiles and dental depots mean one thing: multi-site rollouts, again and again.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full documentation. Reference: $180 USD EXW - made for exactly those multi-site access closets.
-
-One question: in your industry rollouts, which switch brand holds the PoE access layer today?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

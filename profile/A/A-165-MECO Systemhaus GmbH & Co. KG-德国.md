@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】MECO Systemhaus GmbH & Co. KG（德国 Boppard）：区域系统屋——**ISO 27001 认证**；桌面管理/德语区云备份（数据主权落点）/防火墙管理/邮件归档 100% revisionssicher；Trust Center 页面
-- 【推断】ISO 27001+“Server auf deutschem Boden”云备份=文档主权文化敏感；合规级供货文件是准入硬条
-- 【假设】托管随单接入件价值位（数据主权叙事下补位条文重）
+- 【事实】MECO Systemhaus GmbH & Co. KG:MECO Systemhaus GmbH & Co. KG(德国 Boppard(莱茵),Unten in der Aab 16, 56154;**1990 创 36 年**;5 人谱;谱型=Boppard SMB MSP(管理服+Print/Desktop/Mail 服务;it-service.network 网盟谱)
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,16 @@ updated: 2026-09-28
 - 来源等级：directory（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@meco.de [Third-party listing; not independently confirmed]; https://www.meco.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Peter Kaiser**(Geschäftsführender Gesellschafter(高盛合伙人))— it-service.network+XING 双源谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://it-service.network/boppard-bad-salzig〕
+  - **Dirk J. Simonis**(Geschäftsführender Gesellschafter(CEO technisch;Uni Koblenz))— XING+LinkedIn 双源谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.xing.com/pages/mecosystemhausgmbh-co-kg〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Peter Kaiser | Geschäftsführender Gesellschafter(高盛合伙人) | it-service.network+XING 双源谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://it-service.network/boppard-bad-salzig |
+| Dirk J. Simonis | Geschäftsführender Gesellschafter(CEO technisch;Uni Koblenz) | XING+LinkedIn 双源谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.xing.com/pages/mecosystemhausgmbh-co-kg |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +140,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第17批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：Boppard ISO27001 系统屋（合规/备份主权）
-- **②芯片/型号**：未明示
-- **③KP 深挖**：info@
-- **④Saga 对标**：合规随单 value 件
-- **⑤在乎与偏好**：审查级文档
+- **①背景再核**：MECO Systemhaus GmbH & Co. KG(德国 Boppard(莱茵),Unten in der Aab 16, 56154;**1990 创 36 年**;5 人谱;谱型=Boppard SMB MSP(管理服+Print/Desktop/Mail 服务;it-service.network 网盟谱)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Peter Kaiser(Geschäftsführender Gesellschafter(高盛合伙人),leads-only·待 opt-in(LinkedIn/谱面带核));Dirk J. Simonis(Geschäftsführender Gesellschafter(CEO technisch;Uni Koblenz),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：36 年谱+网盟位
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“ISO 27001 zertifiziert…Der Datenschutz wird durch Server auf deutschem Boden gewährleistet”
-  > “ISO 27001 zertifiziert…Der Datenschutz wird durch Server auf deutschem Boden gewährleistet”
-  > 来源：https://www.meco.de/
+- **【决策链与对接人】**Ansprechpartner: Peter Kaiser, MECO Systemhaus GmbH;gegründet 1990;Managed Services Spezialist(it-service.network 件)
+  > Ansprechpartner: Peter Kaiser, MECO Systemhaus GmbH;gegründet 1990;Managed Services Spezialist(it-service.network 件)
+  > 来源：https://it-service.network/boppard-bad-salzig
+- **【团队与规模】**Peter Kaiser+Dirk J. Simonis geschäftsführende Gesellschafter;Simonis「CEO im technischen Bereich」;5 Mitarbeiter(XING/LinkedIn 件)
+  > Peter Kaiser+Dirk J. Simonis geschäftsführende Gesellschafter;Simonis「CEO im technischen Bereich」;5 Mitarbeiter(XING/LinkedIn 件)
+  > 来源：https://www.xing.com/pages/mecosystemhausgmbh-co-kg
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：Boppard 合规系统屋（ISO 27001）
-- **产品线与在售品牌**：未明示
-- **目标行业与场景**：区域企业
-- **团队与规模**：区域中型
-- **决策链与对接人**：info@ 口
-- **技术与认证**：ISO 27001
-- **采购与供应链信号**：随单
-- **近期动态与线索**：ISO 认证新闻
-- **与我方契合点**：合规随单 value 件
-- **风险与注意**：
+- **业务定位**：MECO Systemhaus GmbH & Co. KG(德国 Boppard(莱茵),Unten in der Aab 16, 56154;**1990 创 36 年**;5 人谱;谱型=Boppard SMB MSP(管理服+Print/Desktop/Mail 服务;it-service.network 网盟谱)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国莱茵 36 年 SMB MSP 屋
+- **团队与规模**：5 人;1990 创
+- **决策链与对接人**：**Peter Kaiser(Geschäftsführender Gesellschafter(高盛合伙人),leads-only·待 opt-in(LinkedIn/谱面带核));Dirk J. Simonis(Geschäftsführender Gesellschafter(CEO technisch;Uni Koblenz),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Kaiser 谱位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +183,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：合规
-- **W**：审查
-- **O**：随单
-- **T**：在位
+- **S**：36 年谱+网盟位
+- **W**：微实体谱
+- **O**：Kaiser/Simonis 双直达位
+- **T**：大牌件链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +205,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,9 +214,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 随单现供
-  - [ ] 审查流程
-  - [ ] 量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,18 +227,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi MECO team,
+Guten Tag Herr Kaiser,
 
-ISO 27001 certification and backups on German soil - your house runs on documented, auditable trust. Any component you add to a client project has to survive the same scrutiny.
-
-We manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with a complete CE and test dossier, ready for supplier review. Reference: $180 USD EXW - a documented value line for the access layer inside your managed projects.
-
-One question: in your managed projects, which switch brand occupies the access layer today - and would a fully documented value alternative pass your supplier review?
-
-If useful, I can send one unit plus the complete documentation pack for assessment. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

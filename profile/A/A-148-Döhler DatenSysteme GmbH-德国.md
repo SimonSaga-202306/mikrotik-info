@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Döhler DatenSysteme GmbH（德国科隆 Lindenthal，30+ 年）：PC/服务器定制+企业 IT 长期维保系统屋；**品牌墙实版含 Allied Telesis**（Eizo/Dell/Asus/HP/Lenovo/NEC/Microsoft 等同墙）；具名领导 Dipl.-Ing. Klaus Döhler+Manfred Eßer；客户：保险/法律/教育+中小企业
-- 【推断】**Allied Telesis 品牌墙实版**=交换接入有其明现供——第二供位对话成立（承认在位不自贬）
-- 【假设】“ehrbar gearbeitet（诚信经营）”口碑文化+定制基因=文档齐全的 value 件有评测门
+- 【事实】Döhler DatenSysteme GmbH:Döhler DatenSysteme GmbH(德国 Köln-Lindenthal,Wittgensteinstr. 23;**HRB 20554 AG Köln;€11,111.11;30+ 年谱;10-19 人**;「DDS」;谱型=Köln 型 IT 房(PC/服务器订配+维修+长期 IT 维护;客户群=保险/法治/教育/中产企业);dds-computer.de
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,16 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：kontakt@dds-computer.de [Publicly listed; delivery not tested]; https://dds-computer.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Dipl.-Ing. Klaus Döhler**(Geschäftsführer(业主姓;Nachrichtentechnik))— 官网 dds-computer.de+Kompass+LinkedIn 三源 〔已有(公司官方公开件/登记册自曝);源:https://dds-computer.de/〕
+  - **Manfred Eßer**(Mitgeschäftsführer(联席执行长))— 官网 dds-computer.de 自署 〔已有(公司官方公开件/登记册自曝);源:https://dds-computer.de/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Dipl.-Ing. Klaus Döhler | Geschäftsführer(业主姓;Nachrichtentechnik) | 官网 dds-computer.de+Kompass+LinkedIn 三源 | official-self-published·谱/leads-only(直发需 opt-in) | https://dds-computer.de/ |
+| Manfred Eßer | Mitgeschäftsführer(联席执行长) | 官网 dds-computer.de 自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://dds-computer.de/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -137,32 +143,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第15批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：科隆 30 年系统屋；Allied 品牌墙实版印证
-- **②芯片/型号**：Allied Telesis（官网实版）
-- **③KP 深挖**：Döhler/Eßer 具名
-- **④Saga 对标**：第二供位 value 线
-- **⑤在乎与偏好**：诚信口碑
+- **①背景再核**：Döhler DatenSysteme GmbH(德国 Köln-Lindenthal,Wittgensteinstr. 23;**HRB 20554 AG Köln;€11,111.11;30+ 年谱;10-19 人**;「DDS」;谱型=Köln 型 IT 房(PC/服务器订配+维修+长期 IT 维护;客户群=保险/法治/教育/中产企业);dds-computer.de
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Dipl.-Ing. Klaus Döhler(Geschäftsführer(业主姓;Nachrichtentechnik),official-self-published·谱/leads-only(直发需 opt-in));Manfred Eßer(Mitgeschäftsführer(联席执行长),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：双业主 30 年谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Seit mehr als 30 Jahren in Köln-Lindenthal…[Allied Telesis][Dell][Asus]…langfristige Betreuung von Firmenkunden”
-  > “Seit mehr als 30 Jahren in Köln-Lindenthal…[Allied Telesis][Dell][Asus]…langfristige Betreuung von Firmenkunden”
+- **【决策链与对接人】**Geführt von Dipl.-Ing. Klaus Döhler und Mitgeschäftsführer Manfred Eßer;Seit mehr als 30 Jahren in Köln-Lindenthal;Kunden: Versicherungen, Rechtswesen, Bildung(dds-computer.de 官网)
+  > Geführt von Dipl.-Ing. Klaus Döhler und Mitgeschäftsführer Manfred Eßer;Seit mehr als 30 Jahren in Köln-Lindenthal;Kunden: Versicherungen, Rechtswesen, Bildung(dds-computer.de 官网)
   > 来源：https://dds-computer.de/
+- **【联系方式与基础画像】**HRB 20554 Köln;€11.111,11;Wittgensteinstr. 23, 50931 Köln;10-19 Mitarbeiter;Geschäftsführung: Klaus Döhler(implisense/kompass 件)
+  > HRB 20554 Köln;€11.111,11;Wittgensteinstr. 23, 50931 Köln;10-19 Mitarbeiter;Geschäftsführung: Klaus Döhler(implisense/kompass 件)
+  > 来源：https://de.kompass.com/c/dohler-datensysteme-gmbh/de889958/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：科隆 30 年系统屋（Allied 实版在墙）
-- **产品线与在售品牌**：**Allied Telesis**/Dell/Asus/HP/NEC 等
-- **目标行业与场景**：保险/法律/教育/中小企业
-- **团队与规模**：区域中型
-- **决策链与对接人**：kontakt@+Döhler/Eßer
-- **技术与认证**：定制级
-- **采购与供应链信号**：品牌墙随单
-- **近期动态与线索**：—
-- **与我方契合点**：Allied 在位下第二供位 value 线
-- **风险与注意**：
+- **业务定位**：Döhler DatenSysteme GmbH(德国 Köln-Lindenthal,Wittgensteinstr. 23;**HRB 20554 AG Köln;€11,111.11;30+ 年谱;10-19 人**;「DDS」;谱型=Köln 型 IT 房(PC/服务器订配+维修+长期 IT 维护;客户群=保险/法治/教育/中产企业);dds-computer.de
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国 Koeln 30 年 IT 维护房
+- **团队与规模**：10-19 人;30+ 年
+- **决策链与对接人**：**Dipl.-Ing. Klaus Döhler(Geschäftsführer(业主姓;Nachrichtentechnik),official-self-published·谱/leads-only(直发需 opt-in));Manfred Eßer(Mitgeschäftsführer(联席执行长),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Döhler+Eßer 双 GF(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -177,10 +186,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：印证
-- **W**：绑定
-- **O**：二线
-- **T**：同盟
+- **S**：双业主 30 年谱
+- **W**：小实体谱
+- **O**：Döhler/Eßer 双直达位
+- **T**：大牌件链竞谱
 
 ## 触达与风险红线
 
@@ -199,7 +208,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -208,9 +217,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 二线空间
-  - [ ] refresh 结构
-  - [ ] 评测窗
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -222,18 +230,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi DDS team,
+Guten Tag Herr Döhler,
 
-Thirty-plus years in Köln-Lindenthal, and a brand wall that includes Allied Telesis - you already take switching seriously. We write with respect for that wall, not against it.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full test documentation. Reference: $180 USD EXW - a value second line for projects where the wall brands overshoot a customer's budget.
-
-One question: when a mid-sized customer cannot carry the usual brands, is there room for a documented value alternative on your bench?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

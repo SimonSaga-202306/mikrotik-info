@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】my-ITService Wolfgang Deibel（德国，2000 年创）：宽松体制系统屋+贸易商双性——IT 基础设施对焦+**通信技术线含视频监控/报警/门禁/楼宇对讲/考勤**；**贸易品类宽**（服务器/PC/通讯产品/办公家电）；24/7 支持热线；**老板 Wolfgang Deibel 具名**（CSV 记 Deibe 拼写差异如实核）
-- 【推断】视频监控/门禁/楼宇对讲随单=PoE 柜惯件；宽带贸易+个体业主制=快决策 value 件自然
-- 【假设】“Preis-Leistung（性价比）”官方自述=价值件言语直达
+- 【事实】my ITService Wolfgang Deibe:my ITservice Wolfgang Deibel e.K.(德国 Wiehl(Bergisches Land),Im Weierhof 4, 51674;**HRA 38706 AG Köln(Eintragung 2026-03-23;USt DE-214354489);档名『Deibe』=登记名 Deibel 一字异文留痕**;谱型=Wiehl 单铺 IT 房(IT 咨询+服务+软硬零售;SIEMENS/Fujitsu/AGFEO 伙伴谱;**为多家公司任外部 Datenschutzbeauftragter(多处 DSB 聘任谱:Campus Martinsried/Holzem & Hartmann 等）=B2B 安全谱**)
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,14 @@ updated: 2026-09-28
 - 来源等级：directory（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@my-itservice.com [Third-party listing; not independently confirmed]; https://www.my-itservice.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Wolfgang Deibel**(Inhaber(单人业主=唯一直达))— cylex+salmar-agentur+DSB 聘任页 三源 〔已有(公司官方公开件/登记册自曝);源:https://web2.cylex.de/firma-home/my-itservice--inhaber-wolfgang-deibel-4975578.html〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Wolfgang Deibel | Inhaber(单人业主=唯一直达) | cylex+salmar-agentur+DSB 聘任页 三源 | official-self-published·谱/leads-only(直发需 opt-in) | https://web2.cylex.de/firma-home/my-itservice--inhaber-wolfgang-deibel-4975578.html |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -138,32 +142,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第17批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：IT+KT 宽带店（监控/门禁随单），业主具名，性价比文化
-- **②芯片/型号**：未明示
-- **③KP 深挖**：info@+Wolfgang 具名
-- **④Saga 对标**：随单柜 value 件
-- **⑤在乎与偏好**：性价比
+- **①背景再核**：my ITservice Wolfgang Deibel e.K.(德国 Wiehl(Bergisches Land),Im Weierhof 4, 51674;**HRA 38706 AG Köln(Eintragung 2026-03-23;USt DE-214354489);档名『Deibe』=登记名 Deibel 一字异文留痕**;谱型=Wiehl 单铺 IT 房(IT 咨询+服务+软硬零售;SIEMENS/Fujitsu/AGFEO 伙伴谱;**为多家公司任外部 Datenschutzbeauftragter(多处 DSB 聘任谱:Campus Martinsried/Holzem & Hartmann 等）=B2B 安全谱**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Wolfgang Deibel(Inhaber(单人业主=唯一直达),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：DSB 多家谱=B2B 谱节
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Kommunikationstechnik: Zutrittskontrollsysteme, Videoüberwachungssysteme, Alarmanlagen…ohne auf Zuverlässigkeit und ein optimales Preis-Leistungs-Verhältnis verzichten zu müssen”
-  > “Kommunikationstechnik: Zutrittskontrollsysteme, Videoüberwachungssysteme, Alarmanlagen…ohne auf Zuverlässigkeit und ein optimales Preis-Leistungs-Verhältnis verzichten zu müssen”
-  > 来源：https://www.my-itservice.com/
+- **【决策链与对接人】**Geschäftsleitung: Wolfgang Deibel, 02262/717738;Im Weierhof 4, 51674 Wiehl;info@my-itservice.com;SIEMENS/Fujitsu/AGFEO(cylex 件)
+  > Geschäftsleitung: Wolfgang Deibel, 02262/717738;Im Weierhof 4, 51674 Wiehl;info@my-itservice.com;SIEMENS/Fujitsu/AGFEO(cylex 件)
+  > 来源：https://web2.cylex.de/firma-home/my-itservice--inhaber-wolfgang-deibel-4975578.html
+- **【团队与规模】**externer DSB für mehrere Unternehmen: Campus Martinsried + Ingenieurbüro Holzem & Hartmann(Wolfgang Deibel 为 dsb@my-itservice.com 联络位);Planegg/Martinsried 触点
+  > externer DSB für mehrere Unternehmen: Campus Martinsried + Ingenieurbüro Holzem & Hartmann(Wolfgang Deibel 为 dsb@my-itservice.com 联络位);Planegg/Martinsried 触点
+  > 来源：https://campusmartinsried.de/datenschutz/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：德国 IT+KT 宽度店（监控/门禁随单）
-- **产品线与在售品牌**：未明示
-- **目标行业与场景**：大小企业
-- **团队与规模**：一人领衔团队
-- **决策链与对接人**：Wolfgang Deibel 具名
-- **技术与认证**：—
-- **采购与供应链信号**：随单
-- **近期动态与线索**：24/7 支持
-- **与我方契合点**：监控/门禁随单柜 value 件
-- **风险与注意**：
+- **业务定位**：my ITservice Wolfgang Deibel e.K.(德国 Wiehl(Bergisches Land),Im Weierhof 4, 51674;**HRA 38706 AG Köln(Eintragung 2026-03-23;USt DE-214354489);档名『Deibe』=登记名 Deibel 一字异文留痕**;谱型=Wiehl 单铺 IT 房(IT 咨询+服务+软硬零售;SIEMENS/Fujitsu/AGFEO 伙伴谱;**为多家公司任外部 Datenschutzbeauftragter(多处 DSB 聘任谱:Campus Martinsried/Holzem & Hartmann 等）=B2B 安全谱**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国 Berg 单铺 IT 房+外部 DSB 服务
+- **团队与规模**：单人谱;2026 e.K. 重记
+- **决策链与对接人**：**Wolfgang Deibel(Inhaber(单人业主=唯一直达),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Deibel 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -178,10 +185,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：决断
-- **W**：体量
-- **O**：随单
-- **T**：在位
+- **S**：DSB 多家谱=B2B 谱节
+- **W**：微实体谱
+- **O**：Deibel 唯一直达位
+- **T**：荷我=多厂牌件链竞谱
 
 ## 触达与风险红线
 
@@ -200,7 +207,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -209,9 +216,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 随单现牌
-  - [ ] 监控比
-  - [ ] 维修窗
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -223,18 +229,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Wolfgang,
+Guten Tag Herr Deibel,
 
-Your communications technology list reads like ours: access control, video surveillance, alarms - all of it powered by PoE, all of it judged by price-performance. Your own website promises exactly that.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, hardware watchdog for frozen cameras) with full documentation. Reference: $180 USD EXW - the value line your "Preis-Leistung" promise was written for.
-
-One question: in your surveillance and access-control projects, which switch brand powers the PoE endpoints today - and would a stronger value alternative earn a bench test?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

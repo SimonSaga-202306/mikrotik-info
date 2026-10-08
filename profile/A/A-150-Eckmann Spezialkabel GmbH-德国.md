@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Eckmann Spezialkabel GmbH（德国 Quickborn，2000 年创家族企业，Eckmann 集团含 datacom）：**电缆分销专家**——网络技术（铜/光纤线缆/插座/**机柜机架**/配线架/**aktive Komponenten（实版类目：有源组件）**）/演播技术（视频/摄像/麦克线缆）/**船舶海工特种电缆（民用船用）**/定制接头与按米裁剪；Quickborn 大仓+法兰克福/萨尔布吕肯点；11-50 人；GF Kai Eckmann 具名
-- 【推断】“aktive Komponenten”类目实版=架上已有有源位——value PoE 交换补位与 RWL 型被动旁 active 同型；海工电缆是民用商用常规段
-- 【假设】“按客户规格定制+快速物流”分销文化=上架看交付与文档；Kai Eckmann 具名可直触
+- 【事实】Eckmann Spezialkabel GmbH:Eckmann Spezialkabel GmbH(德国 Quickborn,Friedrich-List-Str. 7;**2000 创 26 年;Eckmann Unternehmensgruppe(甲 Eckmann datacom 姊妹谱)**;5-50 人;$2.8M;谱型=**家族电缆/数据/广播/多媒体专批商**(Marine & Offshore/Petrochemie/工业特缆;Data Center+Netzwerk 全谱;旧谱 Frankfurt Oehleckerring+Saarbrücken 曾两店=史谱)
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,22 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：spezialkabel@eckmann.de [Publicly listed; delivery not tested]; https://www.eckmann-spezialkabel.co
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Kai Eckmann**(Geschäftsführer(业主姓;kai.eckmann@))— 官网 Team 页+XING+RR 三源 〔已有(公司官方公开件/登记册自曝);源:https://www.eckmann-spezialkabel.co/unser-team〕
+  - **Michael Kramer**(Technischer Vertrieb Multimedia/Netzwerk/Verkabelung(技术销售=KPI 相关位))— 官网 Team 页 〔已有(公司官方公开件/登记册自曝);源:https://www.eckmann-spezialkabel.co/unser-team〕
+  - **Olaf Weigel**(Technischer Vertrieb 同上)— 官网 Team 页 〔已有(公司官方公开件/登记册自曝);源:https://www.eckmann-spezialkabel.co/unser-team〕
+  - **Stefanie Hönkhaus**(Technischer Vertrieb Kabel/Leitungen(电缆线销售))— 官网 Team 页 〔已有(公司官方公开件/登记册自曝);源:https://www.eckmann-spezialkabel.co/unser-team〕
+  - **Sarah Schenk**(Vertriebsinnendienst(销售内勤))— 官网 Team 页 〔已有(公司官方公开件/登记册自曝);源:https://www.eckmann-spezialkabel.co/unser-team〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Kai Eckmann | Geschäftsführer(业主姓;kai.eckmann@) | 官网 Team 页+XING+RR 三源 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.eckmann-spezialkabel.co/unser-team |
+| Michael Kramer | Technischer Vertrieb Multimedia/Netzwerk/Verkabelung(技术销售=KPI 相关位) | 官网 Team 页 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.eckmann-spezialkabel.co/unser-team |
+| Olaf Weigel | Technischer Vertrieb 同上 | 官网 Team 页 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.eckmann-spezialkabel.co/unser-team |
+| Stefanie Hönkhaus | Technischer Vertrieb Kabel/Leitungen(电缆线销售) | 官网 Team 页 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.eckmann-spezialkabel.co/unser-team |
+| Sarah Schenk | Vertriebsinnendienst(销售内勤) | 官网 Team 页 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.eckmann-spezialkabel.co/unser-team |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -138,32 +150,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第15批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：电缆分销专家（aktive 件类目+船用民用线）
-- **②芯片/型号**：aktive 类目（厂牌未核）
-- **③KP 深挖**：Kai Eckmann 具名
-- **④Saga 对标**：aktive 类目 PoE 补位
-- **⑤在乎与偏好**：交付+文档
+- **①背景再核**：Eckmann Spezialkabel GmbH(德国 Quickborn,Friedrich-List-Str. 7;**2000 创 26 年;Eckmann Unternehmensgruppe(甲 Eckmann datacom 姊妹谱)**;5-50 人;$2.8M;谱型=**家族电缆/数据/广播/多媒体专批商**(Marine & Offshore/Petrochemie/工业特缆;Data Center+Netzwerk 全谱;旧谱 Frankfurt Oehleckerring+Saarbrücken 曾两店=史谱)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Kai Eckmann(Geschäftsführer(业主姓;kai.eckmann@),official-self-published·谱/leads-only(直发需 opt-in));Michael Kramer(Technischer Vertrieb Multimedia/Netzwerk/Verkabelung(技术销售=KPI 相关位),official-self-published·谱/leads-only(直发需 opt-in));Olaf Weigel(Technischer Vertrieb 同上,official-self-published·谱/leads-only(直发需 opt-in));Stefanie Hönkhaus(Technischer Vertrieb Kabel/Leitungen(电缆线销售),official-self-published·谱/leads-only(直发需 opt-in));Sarah Schenk(Vertriebsinnendienst(销售内勤),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：家族 26 年谱+海洋件
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Netzwerktechnik (z.B. Kupfer- und Glasfaserleitungen…Schränke/Racks, Patchpanels…aktive Komponenten)”
-  > “Netzwerktechnik (z.B. Kupfer- und Glasfaserleitungen…Schränke/Racks, Patchpanels…aktive Komponenten)”
-  > 来源：https://de.itsbetter.com/search/show/432092-eckmann-spezialkabel-gmbh.html
+- **【决策链与对接人】**Kai Eckmann Geschäftsführer (kai.eckmann@eckmann.de);Michael Kramer/Olaf Weigel/Stefanie Hönkhaus Technischer Vertrieb;Sarah Schenk Vertriebsinnendienst(+49 4106 12120-0;官网 Unser Team 全谱)
+  > Kai Eckmann Geschäftsführer (kai.eckmann@eckmann.de);Michael Kramer/Olaf Weigel/Stefanie Hönkhaus Technischer Vertrieb;Sarah Schenk Vertriebsinnendienst(+49 4106 12120-0;官网 Unser Team 全谱)
+  > 来源：https://www.eckmann-spezialkabel.co/unser-team
+- **【联系方式与基础画像】**Friedrich-List-Str. 7, 25451 Quickborn;gegründet 2000;Eckmann Unternehmensgruppe 中程 datacom 姊妹;Marine & Offshore/Studiotechnik/Industrie & Raffinerie/Netzwerktechnik(lieferanten/RR/XING 件)
+  > Friedrich-List-Str. 7, 25451 Quickborn;gegründet 2000;Eckmann Unternehmensgruppe 中程 datacom 姊妹;Marine & Offshore/Studiotechnik/Industrie & Raffinerie/Netzwerktechnik(lieferanten/RR/XING 件)
+  > 来源：https://www.lieferanten.de/lieferant-25601-eckmann-spezialkabel-gmbh.html
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：德国电缆分销专家（aktive 件类目实版）
-- **产品线与在售品牌**：电缆/机柜/aktive Komponenten
-- **目标行业与场景**：网络工程/演播/船用（民用）
-- **团队与规模**：11-50 家族集团
-- **决策链与对接人**：Kai Eckmann GF/spezialkabel@
-- **技术与认证**：品牌质控
-- **采购与供应链信号**：分销上架
-- **近期动态与线索**：海事线缆扩线
-- **与我方契合点**：aktive 类目 PoE 交换补位
-- **风险与注意**：
+- **业务定位**：Eckmann Spezialkabel GmbH(德国 Quickborn,Friedrich-List-Str. 7;**2000 创 26 年;Eckmann Unternehmensgruppe(甲 Eckmann datacom 姊妹谱)**;5-50 人;$2.8M;谱型=**家族电缆/数据/广播/多媒体专批商**(Marine & Offshore/Petrochemie/工业特缆;Data Center+Netzwerk 全谱;旧谱 Frankfurt Oehleckerring+Saarbrücken 曾两店=史谱)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国 Quickborn 26 年特缆专批商(家族)
+- **团队与规模**：5-50 人;€2.8M;2000 创
+- **决策链与对接人**：**Kai Eckmann(Geschäftsführer(业主姓;kai.eckmann@),official-self-published·谱/leads-only(直发需 opt-in));Michael Kramer(Technischer Vertrieb Multimedia/Netzwerk/Verkabelung(技术销售=KPI 相关位),official-self-published·谱/leads-only(直发需 opt-in));Olaf Weigel(Technischer Vertrieb 同上,official-self-published·谱/leads-only(直发需 opt-in));Stefanie Hönkhaus(Technischer Vertrieb Kabel/Leitungen(电缆线销售),official-self-published·谱/leads-only(直发需 opt-in));Sarah Schenk(Vertriebsinnendienst(销售内勤),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Kramer/Weigel 技术销售+Schenk 内勤(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -178,10 +193,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：契合
-- **W**：体量
-- **O**：补位
-- **T**：大牌
+- **S**：家族 26 年谱+海洋件
+- **W**：小实体谱
+- **O**：Kramer 技术销售 KPI 直达
+- **T**：大牌线缆链竞谱
 
 ## 触达与风险红线
 
@@ -200,7 +215,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -209,9 +224,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] aktive 类目结构
-  - [ ] 上架门槛
-  - [ ] 多点结构
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -223,18 +237,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Kai / Eckmann team,
+Guten Tag Herr Kramer,
 
-A cable specialist whose range already runs from copper and fibre to racks, patch panels and active components - the natural shelf for a PoE access switch is yours.
-
-We build one thing: a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full CE documentation. Reference: $180 USD EXW - a value line for the active-components shelf that gives your project customers a healthier margin.
-
-One question: in your active-components range today, is there an open slot for a documented value PoE switch?
-
-If useful, I can send one unit with the full documentation pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

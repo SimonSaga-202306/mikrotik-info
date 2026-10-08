@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】buerodata AG（德国 Stadtlohn，1988 年创）：IT 咨询与系统集成商，10-49 人；**Ricoh（日本）集团所有**（wer-zu-wem 名录级）；官网 www.buerodata.de 抓取 403（bot 拦截如实标注）；info@ 公开
-- 【推断】Ricoh 集团从属=采购结构大概率与集团目录联动；区域 SMB 段自有弹性仍存
-- 【假设】集团子公司走窄二线试探：承认集团结构，问站点级 value 件空间
+- 【事实】buerodata AG:buerodata AG(德国 Stadtlohn,Vredener Str. 119;**HRB 3051 AG Coesfeld;1988 创 38 年;日本 Ricoh 集团全资谱**;10-49 人;IT 咨询+云/DC+ERP;领域洞察「专人固定联络人」运营模)
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,16 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@buerodata.de [Publicly listed; delivery not tested]; https://www.buerodata.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Reinhold Laurich**(Vorstand/CEO(1986 起 40 年在任;兼 condata GmbH & Co. KG GF))— wer-zu-wem/DNB/XING/implisense 四源谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.wer-zu-wem.de/firma/buerodata.html〕
+  - **Christian Rothering**(IT 咨询固定联络人(官网业务页具名 crothering@buerodata.de))— buerodata.de 官网业务页 〔已有(公司官方公开件/登记册自曝);源:https://www.buerodata.de/Mobile/Layout/ContentPages/frmITSupportOutsourcing.aspx〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Reinhold Laurich | Vorstand/CEO(1986 起 40 年在任;兼 condata GmbH & Co. KG GF) | wer-zu-wem/DNB/XING/implisense 四源谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.wer-zu-wem.de/firma/buerodata.html |
+| Christian Rothering | IT 咨询固定联络人(官网业务页具名 crothering@buerodata.de) | buerodata.de 官网业务页 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.buerodata.de/Mobile/Layout/ContentPages/frmITSupportOutsourcing.aspx |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +140,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第15批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：1988 区域集成；Ricoh 集团所有（403 抓取受限如实）
-- **②芯片/型号**：集团目录未核
-- **③KP 深挖**：info@
-- **④Saga 对标**：区域 value 二线窄位
-- **⑤在乎与偏好**：—
+- **①背景再核**：buerodata AG(德国 Stadtlohn,Vredener Str. 119;**HRB 3051 AG Coesfeld;1988 创 38 年;日本 Ricoh 集团全资谱**;10-49 人;IT 咨询+云/DC+ERP;领域洞察「专人固定联络人」运营模)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Reinhold Laurich(Vorstand/CEO(1986 起 40 年在任;兼 condata GmbH & Co. KG GF),leads-only·待 opt-in(LinkedIn/谱面带核));Christian Rothering(IT 咨询固定联络人(官网业务页具名 crothering@buerodata.de),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：日资母台 38 年谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“buerodata AG…Gegründet: 1988…Eigentümer: Ricoh (Japan)…IT-Beratung & Systemintegration”
-  > “buerodata AG…Gegründet: 1988…Eigentümer: Ricoh (Japan)…IT-Beratung & Systemintegration”
+- **【决策链与对接人】**Geschäftsführung: Reinhold Laurich;Eigentümer: Ricoh (Japan);HRB 3051 Coesfeld;gegründet 1988;10-49 Mitarbeiter;Bis 10 Mio. Umsatz
+  > Geschäftsführung: Reinhold Laurich;Eigentümer: Ricoh (Japan);HRB 3051 Coesfeld;gegründet 1988;10-49 Mitarbeiter;Bis 10 Mio. Umsatz
   > 来源：https://www.wer-zu-wem.de/firma/buerodata.html
+- **【团队与规模】**Ihr Ansprechpartner: Christian Rothering +49 2563 9305 400 crothering@buerodata.de(官网 IT Outsourcing 页具名)
+  > Ihr Ansprechpartner: Christian Rothering +49 2563 9305 400 crothering@buerodata.de(官网 IT Outsourcing 页具名)
+  > 来源：https://www.buerodata.de/Mobile/Layout/ContentPages/frmITSupportOutsourcing.aspx
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：明斯特兰区域系统集成（Ricoh 子公司）
-- **产品线与在售品牌**：集团目录（未核）
-- **目标行业与场景**：区域 SMB
-- **团队与规模**：10-49 人
-- **决策链与对接人**：info@ 口
-- **技术与认证**：Ricoh 体系
-- **采购与供应链信号**：集团联动待核
-- **近期动态与线索**：—
-- **与我方契合点**：区域 value 二线窄位
-- **风险与注意**：集团集权
+- **业务定位**：buerodata AG(德国 Stadtlohn,Vredener Str. 119;**HRB 3051 AG Coesfeld;1988 创 38 年;日本 Ricoh 集团全资谱**;10-49 人;IT 咨询+云/DC+ERP;领域洞察「专人固定联络人」运营模)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国西法伦 38 年 IT 咨询屋(Ricoh 全资)
+- **团队与规模**：10-49 人;1988 创
+- **决策链与对接人**：**Reinhold Laurich(Vorstand/CEO(1986 起 40 年在任;兼 condata GmbH & Co. KG GF),leads-only·待 opt-in(LinkedIn/谱面带核));Christian Rothering(IT 咨询固定联络人(官网业务页具名 crothering@buerodata.de),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Laurich Vorstand+Rothering 联络人(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +183,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：背书
-- **W**：集权
-- **O**：弹性
-- **T**：大牌
+- **S**：日资母台 38 年谱
+- **W**：小实体谱
+- **O**：Laurich 老铺直达位
+- **T**：大牌件链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +205,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,9 +214,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 采购层级
-  - [ ] 区域弹性
-  - [ ] 接入现供
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,18 +227,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi buerodata team,
+Guten Tag Herr Laurich,
 
-A system house serving the Münsterland region since 1988, now inside the Ricoh family - congratulations on that stability.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full CE documentation. Reference: $180 USD EXW - a value line for regional SMB projects where group catalogue prices overshoot the budget.
-
-One question: for your regional projects, does switch purchasing happen at site level, and is there room for a documented value alternative?
-
-If useful, I can send one unit with full documentation. If the group handles it centrally, one line and I close the loop politely.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】M IT-Systemhaus GmbH（德国 Mühldorf，东南巴伐利亚）：MSP——Managed Client/Server/M365/Security/Backup/Phone 五条托管线；客户谱系自述 **KMU、Schule、Behörde**，覆盖 13 个东南巴伐利亚县区；“避免故障先于排除”预防文化
-- 【推断】学校/Behörde 客群段=公共采购守界（明示不碰）；KMU 段是价值件落点
-- 【假设】“个人对接人+短路径”结构=一人拍板快，窄线测试周期短
+- 【事实】M IT-Systemhaus GmbH:M IT-Systemhaus GmbH(德国 Mühldorf a. Inn(Bahnhofstr. 25/Leisederstr. 4);**HRB 27859 AG Traunstein;2019-04-24 创 7 年**;**「Master's IT-Systemhaus」组合谱(团谱面 30,000 客/260,000 品/200 项目=自夸谱再校）;KMU+学校线(双沙oc区线：KMU 管服+学校谱面);谱管理人 2020-12 谱变=Stellmach 退→双掌柜**
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,18 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@m-itsysteme.de [Publicly listed; delivery not tested]; https://m-itsysteme.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Claus Franz Josef Uretschläger**(Geschäftsführer / Vertrieb(2019-04-24 起 alleinvertretungsberechtigt;兼 CU Beratung UG+ITSicherheit24))— m-itsysteme.de Ansprechpartner+companyhouse+LinkedIn 三源 〔已有(公司官方公开件/登记册自曝);源:https://m-itsysteme.de/ansprechpartner〕
+  - **Christian Dufek**(Geschäftsführer / Technik(2022-07-06 起;前 Prokurist))— m-itsysteme.de Ansprechpartner+companyhouse 登记系谱 〔已有(公司官方公开件/登记册自曝);源:https://m-itsysteme.de/ansprechpartner〕
+  - **Bernd Grimm**(Leiter MSP(管服主管=落位最合))— m-itsysteme.de Ansprechpartner 页 〔已有(公司官方公开件/登记册自曝);源:https://m-itsysteme.de/ansprechpartner〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Claus Franz Josef Uretschläger | Geschäftsführer / Vertrieb(2019-04-24 起 alleinvertretungsberechtigt;兼 CU Beratung UG+ITSicherheit24) | m-itsysteme.de Ansprechpartner+companyhouse+LinkedIn 三源 | official-self-published·谱/leads-only(直发需 opt-in) | https://m-itsysteme.de/ansprechpartner |
+| Christian Dufek | Geschäftsführer / Technik(2022-07-06 起;前 Prokurist) | m-itsysteme.de Ansprechpartner+companyhouse 登记系谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://m-itsysteme.de/ansprechpartner |
+| Bernd Grimm | Leiter MSP(管服主管=落位最合) | m-itsysteme.de Ansprechpartner 页 | official-self-published·谱/leads-only(直发需 opt-in) | https://m-itsysteme.de/ansprechpartner |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +142,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第17批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：东南巴伐利亚 MSP（KMU+校务段；公开段守界）
-- **②芯片/型号**：未明示
-- **③KP 深挖**：info@
-- **④Saga 对标**：KMU 段 value 位（公共守界）
-- **⑤在乎与偏好**：预防文化→看门狗
+- **①背景再核**：M IT-Systemhaus GmbH(德国 Mühldorf a. Inn(Bahnhofstr. 25/Leisederstr. 4);**HRB 27859 AG Traunstein;2019-04-24 创 7 年**;**「Master's IT-Systemhaus」组合谱(团谱面 30,000 客/260,000 品/200 项目=自夸谱再校）;KMU+学校线(双沙oc区线：KMU 管服+学校谱面);谱管理人 2020-12 谱变=Stellmach 退→双掌柜**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Claus Franz Josef Uretschläger(Geschäftsführer / Vertrieb(2019-04-24 起 alleinvertretungsberechtigt;兼 CU Beratung UG+ITSicherheit24),official-self-published·谱/leads-only(直发需 opt-in));Christian Dufek(Geschäftsführer / Technik(2022-07-06 起;前 Prokurist),official-self-published·谱/leads-only(直发需 opt-in));Bernd Grimm(Leiter MSP(管服主管=落位最合),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：MSP 专职谱(Grimm)
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Ob KMU, Schule oder Behörde…Betreuen Kunden in den Regionen Altötting, Rottal-Inn, Traunstein, Rosenheim…”
-  > “Ob KMU, Schule oder Behörde…Betreuen Kunden in den Regionen Altötting, Rottal-Inn, Traunstein, Rosenheim…”
-  > 来源：https://m-itsysteme.de/
+- **【决策链与对接人】**Geschäftsführer/Vertrieb: Claus Uretschläger (claus.uretschlaeger@m-itsysteme.de);GF/Technik: Christian Dufek;Leiter MSP: Bernd Grimm(m-itsysteme.de Ansprechpartner 全谱)
+  > Geschäftsführer/Vertrieb: Claus Uretschläger (claus.uretschlaeger@m-itsysteme.de);GF/Technik: Christian Dufek;Leiter MSP: Bernd Grimm(m-itsysteme.de Ansprechpartner 全谱)
+  > 来源：https://m-itsysteme.de/ansprechpartner
+- **【联系方式与基础画像】**HRB 27859 Traunstein;gegründet 2019;Uretschläger seit 24.04.2019 alleinvertretungsberechtigt;Dufek GF seit 06.07.2022(vorher Prokurist);Heinz Stellmach 史谱(Gilgenberg am Weilhart/Österreich)(companyhouse 件)
+  > HRB 27859 Traunstein;gegründet 2019;Uretschläger seit 24.04.2019 alleinvertretungsberechtigt;Dufek GF seit 06.07.2022(vorher Prokurist);Heinz Stellmach 史谱(Gilgenberg am Weilhart/Österreich)(companyhouse 件)
+  > 来源：https://www.companyhouse.de/M-IT-Systemhaus-GmbH-Muehldorf-a-Inn
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：东南巴伐利亚 MSP（KMU 私段+公共守界）
-- **产品线与在售品牌**：未明示
-- **目标行业与场景**：KMU（主打）+学校/Behörde（守界）
-- **团队与规模**：区域中型
-- **决策链与对接人**：info@ 口
-- **技术与认证**：伙伴体系
-- **采购与供应链信号**：随单
-- **近期动态与线索**：五条托管产品线化
-- **与我方契合点**：KMU 段接入层 value 位
-- **风险与注意**：公共段守界
+- **业务定位**：M IT-Systemhaus GmbH(德国 Mühldorf a. Inn(Bahnhofstr. 25/Leisederstr. 4);**HRB 27859 AG Traunstein;2019-04-24 创 7 年**;**「Master's IT-Systemhaus」组合谱(团谱面 30,000 客/260,000 品/200 项目=自夸谱再校）;KMU+学校线(双沙oc区线：KMU 管服+学校谱面);谱管理人 2020-12 谱变=Stellmach 退→双掌柜**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国下巴伐利亚 7 年 MSP 屋(KMU+学校)
+- **团队与规模**：中实体谱;2019 创
+- **决策链与对接人**：**Claus Franz Josef Uretschläger(Geschäftsführer / Vertrieb(2019-04-24 起 alleinvertretungsberechtigt;兼 CU Beratung UG+ITSicherheit24),official-self-published·谱/leads-only(直发需 opt-in));Christian Dufek(Geschäftsführer / Technik(2022-07-06 起;前 Prokurist),official-self-published·谱/leads-only(直发需 opt-in));Bernd Grimm(Leiter MSP(管服主管=落位最合),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Grimm MSP 主管+Uretschläger 谱位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +185,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：区域
-- **W**：墙
-- **O**：随单
-- **T**：在位
+- **S**：MSP 专职谱(Grimm)
+- **W**：小实体谱
+- **O**：Uretschläger/Dufek 双直达位
+- **T**：大牌件链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +207,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,9 +216,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 现供
-  - [ ] 托管网络随单率
-  - [ ] 评窗
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,18 +229,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi M IT-Systemhaus team,
+Guten Tag Herr Grimm,
 
-Fifteen counties of Südostbayern covered from Mühldorf, with managed services across client, server, M365, security, backup and phone - and a philosophy of preventing outages before they happen. (This note concerns your KMU engagements only; school and Behörde segments stay fully out of scope.)
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, hardware watchdog that restarts frozen endpoints automatically - prevention by design). Reference: $180 USD EXW.
-
-One question: in your KMU networks, which switch brand holds the access layer today - and would a self-healing, documented value alternative earn a bench test?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

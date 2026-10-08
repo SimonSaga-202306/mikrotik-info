@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Netz16 GmbH（德国 Bayerisch-Schwaben 区，2009 年创）：MSP——Cyber Security/Managed Services/Modern Infrastructure/AI Solutions/Odoo 数字化；**2025 年起隶属 accompio Gruppe（700+ 员工/17 站/€100M+ 集团营收）**，同 digisoolut/PARIT/Fundwerk 一并并入；伙伴 ncp/Odoo/SonicWall/seppmail
-- 【推断】**集团并购新态**（同批13 STARFACE/ESCAD 族）：采购规则转向集团 vendor onboarding——netz16 团队预算内随单仍有窗口，但集团框架可能收回
-- 【假设】“本地中型 MSP → 集团一部分”过渡期=本地化随单价值件窗口
+- 【事实】Netz16 GmbH:Netz16 GmbH(德国 Augsburg(Sheridanpark 新址谱);**2009 创 17 年;~200 人集团谱(四店:Augsburg/München/Herbrechtingen/Nordenham;集团 2022 营收 €20M+)**;**Netz16 集团:Netz16/Digisoolut/PARIT/Fundwerk/alphasystems 并购谱**;**FC Augsburg FCA-Supplier 主赞;kununu 4×Top Company 谱**;谱型=南德中端 MSP/安全+BI 并购扩张谱
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,20 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@netz16.de [Publicly listed; delivery not tested]; https://www.netz16.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Dr. Andreas Herch**(Geschäftsführer(创始双 GF;FCA/并购引语多源))— netz16.de 官网 über-uns+FCA 件+并购件三源 〔已有(公司官方公开件/登记册自曝);源:https://www.netz16.de/ueber-uns/〕
+  - **Christian Popp**(Geschäftsführer(创始双 GF;technischer GF))— netz16.de 官网 über-uns+alphasystems 并购件 〔已有(公司官方公开件/登记册自曝);源:https://www.netz16.de/ueber-uns/〕
+  - **Henning Krebel**(PARIT GF(2023 并购留任;集团会员谱))— netz16.de 并购件 〔已有(公司官方公开件/登记册自曝);源:https://www.netz16.de/netz16-waechst-weiter-uebernahme-der-parit-gmbh/〕
+  - **Jörn Steinhauer**(alphasystems GF(并购留任谱))— alphasystems.com 并购件 〔已有(公司官方公开件/登记册自曝);源:https://www.alphasystems.com/alphasystems-und-netz16-gehen-gemeinsame-wege/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Dr. Andreas Herch | Geschäftsführer(创始双 GF;FCA/并购引语多源) | netz16.de 官网 über-uns+FCA 件+并购件三源 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.netz16.de/ueber-uns/ |
+| Christian Popp | Geschäftsführer(创始双 GF;technischer GF) | netz16.de 官网 über-uns+alphasystems 并购件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.netz16.de/ueber-uns/ |
+| Henning Krebel | PARIT GF(2023 并购留任;集团会员谱) | netz16.de 并购件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.netz16.de/netz16-waechst-weiter-uebernahme-der-parit-gmbh/ |
+| Jörn Steinhauer | alphasystems GF(并购留任谱) | alphasystems.com 并购件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.alphasystems.com/alphasystems-und-netz16-gehen-gemeinsame-wege/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +144,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第17批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：MSP（accompio 2025 并入，700人集团期）
-- **②芯片/型号**：SonicWall/ncp 门
-- **③KP 深挖**：info@
-- **④Saga 对标**：过渡期团队随单+集团准入双路
-- **⑤在乎与偏好**：集团文档
+- **①背景再核**：Netz16 GmbH(德国 Augsburg(Sheridanpark 新址谱);**2009 创 17 年;~200 人集团谱(四店:Augsburg/München/Herbrechtingen/Nordenham;集团 2022 营收 €20M+)**;**Netz16 集团:Netz16/Digisoolut/PARIT/Fundwerk/alphasystems 并购谱**;**FC Augsburg FCA-Supplier 主赞;kununu 4×Top Company 谱**;谱型=南德中端 MSP/安全+BI 并购扩张谱
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Dr. Andreas Herch(Geschäftsführer(创始双 GF;FCA/并购引语多源),official-self-published·谱/leads-only(直发需 opt-in));Christian Popp(Geschäftsführer(创始双 GF;technischer GF),official-self-published·谱/leads-only(直发需 opt-in));Henning Krebel(PARIT GF(2023 并购留任;集团会员谱),official-self-published·谱/leads-only(直发需 opt-in));Jörn Steinhauer(alphasystems GF(并购留任谱),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：并购扩张谱 FCA 赞助
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Gemeinsam mit unseren Tochterunternehmen digisoolut, PARIT und Fundwerk sind wir ab 2025 offiziell Teil der accompio Gruppe…über 700 Mitarbeitende an 17 Standorten”
-  > “Gemeinsam mit unseren Tochterunternehmen digisoolut, PARIT und Fundwerk sind wir ab 2025 offiziell Teil der accompio Gruppe…über 700 Mitarbeitende an 17 Standorten”
-  > 来源：https://www.netz16.de/
+- **【决策链与对接人】**Die Netz16 Gruppe: Netz16, Digisoolut, Parit und Fundwerk;Führung: Katja Wörner / Dr. Andreas Herch / Christian Popp / Jörn Steinhauer / Henning Krebel;gegründet 2009;~200 Mitarbeiter(netz16.de über-uns 件)
+  > Die Netz16 Gruppe: Netz16, Digisoolut, Parit und Fundwerk;Führung: Katja Wörner / Dr. Andreas Herch / Christian Popp / Jörn Steinhauer / Henning Krebel;gegründet 2009;~200 Mitarbeiter(netz16.de über-uns 件)
+  > 来源：https://www.netz16.de/ueber-uns/
+- **【团队与规模】**zum 01.01.2023 übernimmt Netz16 Mehrheit an PARIT GmbH(Henning Krebel 留任 GF);Gruppenumsatz 2022 erstmals über 20 Mio. Euro;FC Augsburg Supplier;Kununu Top Company 4×(并购/FCA/kununu 件)
+  > zum 01.01.2023 übernimmt Netz16 Mehrheit an PARIT GmbH(Henning Krebel 留任 GF);Gruppenumsatz 2022 erstmals über 20 Mio. Euro;FC Augsburg Supplier;Kununu Top Company 4×(并购/FCA/kununu 件)
+  > 来源：https://www.netz16.de/netz16-waechst-weiter-uebernahme-der-parit-gmbh/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：巴伐利亚-士瓦本 MSP（accompio 集团 2025 并入）
-- **产品线与在售品牌**：ncp/Odoo/SonicWall/seppmail
-- **目标行业与场景**：区域 KMU
-- **团队与规模**：区域→集团700人
-- **决策链与对接人**：info@+集团采购可能
-- **技术与认证**：伙伴体系
-- **采购与供应链信号**：集团框架+团队随单
-- **近期动态与线索**：accompio 并表
-- **与我方契合点**：现代基建线+过渡期团队随单窄位
-- **风险与注意**：集团采购收回风险
+- **业务定位**：Netz16 GmbH(德国 Augsburg(Sheridanpark 新址谱);**2009 创 17 年;~200 人集团谱(四店:Augsburg/München/Herbrechtingen/Nordenham;集团 2022 营收 €20M+)**;**Netz16 集团:Netz16/Digisoolut/PARIT/Fundwerk/alphasystems 并购谱**;**FC Augsburg FCA-Supplier 主赞;kununu 4×Top Company 谱**;谱型=南德中端 MSP/安全+BI 并购扩张谱
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国奥格斯堡 17 年并购型 MSP 集团
+- **团队与规模**：~200 人;€20M+;2009 创
+- **决策链与对接人**：**Dr. Andreas Herch(Geschäftsführer(创始双 GF;FCA/并购引语多源),official-self-published·谱/leads-only(直发需 opt-in));Christian Popp(Geschäftsführer(创始双 GF;technischer GF),official-self-published·谱/leads-only(直发需 opt-in));Henning Krebel(PARIT GF(2023 并购留任;集团会员谱),official-self-published·谱/leads-only(直发需 opt-in));Jörn Steinhauer(alphasystems GF(并购留任谱),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Herch/Popp 直接(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +187,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：背书
-- **W**：收权
-- **O**：过渡
-- **T**：大牌
+- **S**：并购扩张谱 FCA 赞助
+- **W**：中实体谱
+- **O**：Herch/Popp 双龙直达位
+- **T**：一线链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +209,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,9 +218,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 定价权归属
-  - [ ] 集团框架路径
-  - [ ] 留存量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,18 +231,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Netz16 team,
+Guten Tag Herr Dr. Herch,
 
-Congratulations on joining the accompio Group this year - 700 people, 17 locations. Transitions like that usually open one practical question: who now decides which components go into local projects?
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW - a value line for the behind-client-projects access layer.
-
-One question: for Netz16's own local projects in Bayerisch-Schwaben, which switch brand holds the access layer today - or has sourcing moved entirely to the Group framework?
-
-If useful, I can send one unit with the complete test pack - local team or Group procurement, whichever fits. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】OAS AG（德国）：**称重技术先驱发家的工业流程方案商**——工厂建设（Anlagenbau)/生产控制（pronto MES)/剂量称重技术/车辆地磅/**Yard Management 场站管理**/散装与回收行业软件 emaxx；客户 **LEAG（能源巨头）/Model Group 纸业（欧洲前五产线 62.5 万吨）/SCHWENK 水泥/DAW SE/JSC/VPL Coatings**；IT-Lösungen 线并行
-- 【推断】**工业现场层对口**：其 YMS 自助终端/MES 产线连接/场站网络的厂房边缘=加固场景；能源+水泥+造纸客户=环境苛刻
-- 【假设】国际 rollout 结构（Model 15 站/SCHWENK 国际）=项目随单网络件成规模
+- 【事实】OAS AG:OAS AG(德国 Bremen,Caroline-Herschel-Str. 1, 28359;**1982 创 44 年;~260 人(4 店)/€40M+**;谱型=**工厂自动化/称重/堆场管理/IT 解决方案全球厂商**(Hidden Champions 定制客户;OAS Automation GmbH 子谱;**2024-03 女性二代继承:父亡 → Kerstin Schwimmbeck(2013 起 Vorstand IT&Organisation)升 Vorstandsvorsitzende=变革窗！**;监事会 Dr. Patrick Wendisch)
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,20 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@oas.de [Publicly listed; delivery not tested]; https://www.oas.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Kerstin Schwimmbeck**(Vorstandsvorsitzende(**2024-03 新任主席;Dipl.-Kff.;2013 起 Vorstand IT&Org**))— schuettgut 行业报+LinkedIn 公司页官方升级双源 〔已有(公司官方公开件/登记册自曝);源:https://www.schuettgut.vogel.de/neue-vorstandsvorsitzende-der-oas-ag-a-897c103c7191615f47c03902000f3a52/〕
+  - **Dr. Patrick Wendisch**(Aufsichtsratsvorsitzender(监事会主席;换代公告称道))— schuettgut 行业报 〔已有(公司官方公开件/登记册自曝);源:https://www.schuettgut.vogel.de/neue-vorstandsvorsitzende-der-oas-ag-a-897c103c7191615f47c03902000f3a52/〕
+  - **Detlef Kremer**(Geschäftsführer OAS Automation GmbH(子公司 10 年谱))— oas.de 40 周年页 〔已有(公司官方公开件/登记册自曝);源:https://www.oas.de/loesungen/40-jahre-oas-die-taetigkeitsfelder-der-oas-ag-automation〕
+  - **Otto A. Schwimmbeck**(Firmengründer(创始谱;2023 亡=接棒记))— schuettgut 行业报(留痕) 〔已有(公司官方公开件/登记册自曝);源:https://www.schuettgut.vogel.de/neue-vorstandsvorsitzende-der-oas-ag-a-897c103c7191615f47c03902000f3a52/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Kerstin Schwimmbeck | Vorstandsvorsitzende(**2024-03 新任主席;Dipl.-Kff.;2013 起 Vorstand IT&Org**) | schuettgut 行业报+LinkedIn 公司页官方升级双源 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.schuettgut.vogel.de/neue-vorstandsvorsitzende-der-oas-ag-a-897c103c7191615f47c03902000f3a52/ |
+| Dr. Patrick Wendisch | Aufsichtsratsvorsitzender(监事会主席;换代公告称道) | schuettgut 行业报 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.schuettgut.vogel.de/neue-vorstandsvorsitzende-der-oas-ag-a-897c103c7191615f47c03902000f3a52/ |
+| Detlef Kremer | Geschäftsführer OAS Automation GmbH(子公司 10 年谱) | oas.de 40 周年页 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.oas.de/loesungen/40-jahre-oas-die-taetigkeitsfelder-der-oas-ag-automation |
+| Otto A. Schwimmbeck | Firmengründer(创始谱;2023 亡=接棒记) | schuettgut 行业报(留痕) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.schuettgut.vogel.de/neue-vorstandsvorsitzende-der-oas-ag-a-897c103c7191615f47c03902000f3a52/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +144,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第18批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：工业流程商（MES/YMS/地磅）；能源水泥纸客墙
-- **②芯片/型号**：自研软硬件
-- **③KP 深挖**：info@
-- **④Saga 对标**：场站/产线厂房边缘加固件
-- **⑤在乎与偏好**：加固文档
+- **①背景再核**：OAS AG(德国 Bremen,Caroline-Herschel-Str. 1, 28359;**1982 创 44 年;~260 人(4 店)/€40M+**;谱型=**工厂自动化/称重/堆场管理/IT 解决方案全球厂商**(Hidden Champions 定制客户;OAS Automation GmbH 子谱;**2024-03 女性二代继承:父亡 → Kerstin Schwimmbeck(2013 起 Vorstand IT&Organisation)升 Vorstandsvorsitzende=变革窗！**;监事会 Dr. Patrick Wendisch)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Kerstin Schwimmbeck(Vorstandsvorsitzende(**2024-03 新任主席;Dipl.-Kff.;2013 起 Vorstand IT&Org**),official-self-published·谱/leads-only(直发需 opt-in));Dr. Patrick Wendisch(Aufsichtsratsvorsitzender(监事会主席;换代公告称道),official-self-published·谱/leads-only(直发需 opt-in));Detlef Kremer(Geschäftsführer OAS Automation GmbH(子公司 10 年谱),official-self-published·谱/leads-only(直发需 opt-in));Otto A. Schwimmbeck(Firmengründer(创始谱;2023 亡=接棒记),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：**二代继承窗 2024=变服窗**
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Partner für Anlagenbau, Produktionssteuerung, IT-Lösungen, Wägetechnik und Yard Management…Model Group…625.000 Tonnen/Jahr…Top 5 in Europa”
-  > “Partner für Anlagenbau, Produktionssteuerung, IT-Lösungen, Wägetechnik und Yard Management…Model Group…625.000 Tonnen/Jahr…Top 5 in Europa”
-  > 来源：https://www.oas.de/
+- **【决策链与对接人】**Neue Vorstandsvorsitzende: Kerstin Schwimmbeck,Diplom-Kauffrau, folgt auf Firmengründer Otto A. Schwimmbeck(verstorben 2023);seit 2013 Vorstand Ressorts IT und Organisation;Aufsichtsratschef Dr. Patrick Wendisch(schuettgut 件)
+  > Neue Vorstandsvorsitzende: Kerstin Schwimmbeck,Diplom-Kauffrau, folgt auf Firmengründer Otto A. Schwimmbeck(verstorben 2023);seit 2013 Vorstand Ressorts IT und Organisation;Aufsichtsratschef Dr. Patrick Wendisch(schuettgut 件)
+  > 来源：https://www.schuettgut.vogel.de/neue-vorstandsvorsitzende-der-oas-ag-a-897c103c7191615f47c03902000f3a52/
+- **【联系方式与基础画像】**gegründet 1982;~260 Mitarbeiter 4 Standorte;Umsatz über 40 Millionen Euro (2022/23);Anlagentechnik/Produktionssteuerung/Wägetechnik/Yard Management/IT;Detlef Kremer GF OAS Automation(schuettgut/oas.de 件)
+  > gegründet 1982;~260 Mitarbeiter 4 Standorte;Umsatz über 40 Millionen Euro (2022/23);Anlagentechnik/Produktionssteuerung/Wägetechnik/Yard Management/IT;Detlef Kremer GF OAS Automation(schuettgut/oas.de 件)
+  > 来源：https://www.oas.de/loesungen/40-jahre-oas-die-taetigkeitsfelder-der-oas-ag-automation
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：德国工业流程方案商（MES+场站管理）
-- **产品线与在售品牌**：pronto/emaxx 自研软件+硬件
-- **目标行业与场景**：能源/水泥/纸/漆/散装
-- **团队与规模**：AG 中型
-- **决策链与对接人**：info@ 口
-- **技术与认证**：工业级
-- **采购与供应链信号**：项目随单
-- **近期动态与线索**：国际 rollout 常态
-- **与我方契合点**：场站/产线厂房边缘加固
-- **风险与注意**：工业规范门槛
+- **业务定位**：OAS AG(德国 Bremen,Caroline-Herschel-Str. 1, 28359;**1982 创 44 年;~260 人(4 店)/€40M+**;谱型=**工厂自动化/称重/堆场管理/IT 解决方案全球厂商**(Hidden Champions 定制客户;OAS Automation GmbH 子谱;**2024-03 女性二代继承:父亡 → Kerstin Schwimmbeck(2013 起 Vorstand IT&Organisation)升 Vorstandsvorsitzende=变革窗！**;监事会 Dr. Patrick Wendisch)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国 Bremen 44 年工厂自动化方案商
+- **团队与规模**：~260 人;€40M;1982 创
+- **决策链与对接人**：**Kerstin Schwimmbeck(Vorstandsvorsitzende(**2024-03 新任主席;Dipl.-Kff.;2013 起 Vorstand IT&Org**),official-self-published·谱/leads-only(直发需 opt-in));Dr. Patrick Wendisch(Aufsichtsratsvorsitzender(监事会主席;换代公告称道),official-self-published·谱/leads-only(直发需 opt-in));Detlef Kremer(Geschäftsführer OAS Automation GmbH(子公司 10 年谱),official-self-published·谱/leads-only(直发需 opt-in));Otto A. Schwimmbeck(Firmengründer(创始谱;2023 亡=接棒记),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Schwimmbeck 履新贺+IT 谱位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +187,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：工业
-- **W**：严
-- **O**：rollout
-- **T**：大牌
+- **S**：**二代继承窗 2024=变服窗**
+- **W**：大型屋谱
+- **O**：Schwimmbeck 新主席庆贺位
+- **T**：自家链栈=不占
 
 ## 触达与风险红线
 
@@ -196,7 +209,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,9 +218,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 网络件现供
-  - [ ] rollout 模式
-  - [ ] 评测窗
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,18 +231,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi OAS team,
+Sehr geehrte Frau Schwimmbeck,
 
-From LEAG logistics yards to the Model Group's 625,000-tonne paper machine - your systems run where the environment is unforgiving, and the network behind every self-service terminal and MES line has to match.
-
-We build a compact industrial fanless PoE+ switch (240W total, 6 kV surge, EFT/ESD hardened, -40 to +75°C) with full documentation for harsh sites. Reference: $74.8 USD EXW (2026-09-29).
-
-One question: in your yard-management and plant-rollout projects, which industrial switch brand carries the edge layer today - and would a documented alternative earn a bench test?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

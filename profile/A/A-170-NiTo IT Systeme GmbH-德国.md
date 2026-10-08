@@ -47,9 +47,9 @@ updated: 2026-10-04
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】NiTo IT Systeme GmbH（德国）：Webshop 服务商——**电子商务实版销售 Allied Telesis 全线（防火墙/路由/交换机/WLAN AP，含安装服务）**+KMU 订单管理软件；工单票务系统运营；**einkauf@（采购部）公开直口**
-- 【推断】**CSV Allied 信号实锤（电商页面直售）**——Allied 是唯一网络牌在其 Webshop=窄竞争，但电商上架门槛低=value 线补位逻辑直连
-- 【假设】einkauf@ 采购口+Webshop 模式=B2B 零售商行为：上架新 line 决策快
+- 【事实】NiTo IT Systeme GmbH:NiTo IT Systeme GmbH →【**2026-06-22 更名:IPTGA Projekt Konzept GmbH**】(柏林,Storkower Str. 115A, 10407;**HRB 216686 B AG Charlottenburg;DE329092725;2020-04-14 创**;谱型=柏林小微 IT 咨询屋(安全/可扩展方案/软件编程/接口;媒体/IT 管理;Videokonferenz/视频软件线)**档名 NiTo 已过时实体,谱带应台账对位现名 IPTGA**;**GF 换位谱全接:Oldenburg(2020)→Silvia Müller(2023)→Torsten Uwe Müller(2025-12)→Joel Can Müller(2026-06)**
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,20 @@ updated: 2026-10-04
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：einkauf@nitoit.de【已停用:2026-10-04 退信 not-found 发不过去】 [Publicly listed; delivery not tested]; https://nitoit.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Torsten Uwe Müller**(Geschäftsführer(**2025-12-02 起在职**;*1963,Berlin))— webvalid/creditreform 2025-12-02 登记公告 〔已有(公司官方公开件/登记册自曝);源:https://firmeneintrag.creditreform.de/10407/2012948573/NITO_IT_SYSTEME_GMBH〕
+  - **Joel Can Müller**(Geschäftsführer(2026-06 更名时谱=IPTGA 名下;族谱 Jr 代))— webvalid 2026-06-22 登记公告谱 〔已有(公司官方公开件/登记册自曝);源:https://www.webvalid.de/company/NiTo+IT+Systeme+GmbH,+Berlin/HRB+216686〕
+  - **Silvia Müller**(原 Geschäftsführer(2023-01~2025-12;Impressum 遗留自署=滞后谱))— nitoit.de Impressum(留痕)+登记公告 〔已有(公司官方公开件/登记册自曝);源:https://nitoit.de/impressum/〕
+  - **Nils Christian Oldenburg**(原 Geschäftsführer(2020 创铺至 2023-01))— 登记公告+it-in-germany 件(留痕) 〔已有(公司官方公开件/登记册自曝);源:https://www.it-in-germany.de/firma/NiTo+IT+Systeme+GmbH/6041748/64641/deu〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Torsten Uwe Müller | Geschäftsführer(**2025-12-02 起在职**;*1963,Berlin) | webvalid/creditreform 2025-12-02 登记公告 | official-self-published·谱/leads-only(直发需 opt-in) | https://firmeneintrag.creditreform.de/10407/2012948573/NITO_IT_SYSTEME_GMBH |
+| Joel Can Müller | Geschäftsführer(2026-06 更名时谱=IPTGA 名下;族谱 Jr 代) | webvalid 2026-06-22 登记公告谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.webvalid.de/company/NiTo+IT+Systeme+GmbH,+Berlin/HRB+216686 |
+| Silvia Müller | 原 Geschäftsführer(2023-01~2025-12;Impressum 遗留自署=滞后谱) | nitoit.de Impressum(留痕)+登记公告 | official-self-published·谱/leads-only(直发需 opt-in) | https://nitoit.de/impressum/ |
+| Nils Christian Oldenburg | 原 Geschäftsführer(2020 创铺至 2023-01) | 登记公告+it-in-germany 件(留痕) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.it-in-germany.de/firma/NiTo+IT+Systeme+GmbH/6041748/64641/deu |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +144,35 @@ updated: 2026-10-04
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第17批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：电商 IT 商（Allied 独牌实版，电上架模式，einkauf@ 采购口）
-- **②芯片/型号**：Allied 全线（实版）
-- **③KP 深挖**：einkauf@ 采购口
-- **④Saga 对标**：Allied 旁 value 线上架
-- **⑤在乎与偏好**：上架文档
+- **①背景再核**：NiTo IT Systeme GmbH →【**2026-06-22 更名:IPTGA Projekt Konzept GmbH**】(柏林,Storkower Str. 115A, 10407;**HRB 216686 B AG Charlottenburg;DE329092725;2020-04-14 创**;谱型=柏林小微 IT 咨询屋(安全/可扩展方案/软件编程/接口;媒体/IT 管理;Videokonferenz/视频软件线)**档名 NiTo 已过时实体,谱带应台账对位现名 IPTGA**;**GF 换位谱全接:Oldenburg(2020)→Silvia Müller(2023)→Torsten Uwe Müller(2025-12)→Joel Can Müller(2026-06)**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Torsten Uwe Müller(Geschäftsführer(**2025-12-02 起在职**;*1963,Berlin),official-self-published·谱/leads-only(直发需 opt-in));Joel Can Müller(Geschäftsführer(2026-06 更名时谱=IPTGA 名下;族谱 Jr 代),official-self-published·谱/leads-only(直发需 opt-in));Silvia Müller(原 Geschäftsführer(2023-01~2025-12;Impressum 遗留自署=滞后谱),official-self-published·谱/leads-only(直发需 opt-in));Nils Christian Oldenburg(原 Geschäftsführer(2020 创铺至 2023-01),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：更名锚+GF 年换谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Von Firewall und Router über Mediacontroller und Switche bis hin zum WLAN-Accesspoint bieten wir Qualitätsprodukte aus dem Hause Allied Telesis einschließlich eines gewünschten Installationsservices”
-  > “Von Firewall und Router über Mediacontroller und Switche bis hin zum WLAN-Accesspoint bieten wir Qualitätsprodukte aus dem Hause Allied Telesis einschließlich eines gewünschten Installationsservices”
-  > 来源：https://nitoit.de/
+- **【决策链与对接人】**02.12.2025: Nicht mehr GF: Silvia Müller;GF: Torsten Uwe Müller, *15.06.1963, Berlin;22.06.2026: Firma geändert alt NiTo IT Systeme GmbH → neu IPTGA Projekt Konzept GmbH;GF: Joel Can Müller(webvalid/creditreform 登记公告件)
+  > 02.12.2025: Nicht mehr GF: Silvia Müller;GF: Torsten Uwe Müller, *15.06.1963, Berlin;22.06.2026: Firma geändert alt NiTo IT Systeme GmbH → neu IPTGA Projekt Konzept GmbH;GF: Joel Can Müller(webvalid/creditreform 登记公告件)
+  > 来源：https://www.webvalid.de/company/NiTo+IT+Systeme+GmbH,+Berlin/HRB+216686
+- **【联系方式与基础画像】**Storkower Str. 115A, 10407 Berlin;HRB 216686 B Berlin-Charlottenburg;DE329092725;gegründet 14.04.2020(nitoit.de Impressum=Silvia Müller 遗留滞后谱)
+  > Storkower Str. 115A, 10407 Berlin;HRB 216686 B Berlin-Charlottenburg;DE329092725;gegründet 14.04.2020(nitoit.de Impressum=Silvia Müller 遗留滞后谱)
+  > 来源：https://nitoit.de/impressum/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：德国电子商务 IT 商（Allied 实版独牌）
-- **产品线与在售品牌**：**Allied Telesis 全线（实版）**
-- **目标行业与场景**：电商+安装服务
-- **团队与规模**：小型
-- **决策链与对接人**：einkauf@ 采购口
-- **技术与认证**：—
-- **采购与供应链信号**：电上架模式（快）
-- **近期动态与线索**：订单管理软件线
-- **与我方契合点**：第三线上架（Allied 旁 value 位）
-- **风险与注意**：Allied 独牌窄竞
+- **业务定位**：NiTo IT Systeme GmbH →【**2026-06-22 更名:IPTGA Projekt Konzept GmbH**】(柏林,Storkower Str. 115A, 10407;**HRB 216686 B AG Charlottenburg;DE329092725;2020-04-14 创**;谱型=柏林小微 IT 咨询屋(安全/可扩展方案/软件编程/接口;媒体/IT 管理;Videokonferenz/视频软件线)**档名 NiTo 已过时实体,谱带应台账对位现名 IPTGA**;**GF 换位谱全接:Oldenburg(2020)→Silvia Müller(2023)→Torsten Uwe Müller(2025-12)→Joel Can Müller(2026-06)**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：柏林 6 年微 IT 咨询(已更名 IPTGA)
+- **团队与规模**：微实体谱;2020 创
+- **决策链与对接人**：**Torsten Uwe Müller(Geschäftsführer(**2025-12-02 起在职**;*1963,Berlin),official-self-published·谱/leads-only(直发需 opt-in));Joel Can Müller(Geschäftsführer(2026-06 更名时谱=IPTGA 名下;族谱 Jr 代),official-self-published·谱/leads-only(直发需 opt-in));Silvia Müller(原 Geschäftsführer(2023-01~2025-12;Impressum 遗留自署=滞后谱),official-self-published·谱/leads-only(直发需 opt-in));Nils Christian Oldenburg(原 Geschäftsführer(2020 创铺至 2023-01),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Torsten Müller 现任(现名 IPTGA 谱;opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +187,10 @@ updated: 2026-10-04
 
 ## SWOT
 
-- **S**：决断
-- **W**：窄竞
-- **O**：上架
-- **T**：独占
+- **S**：更名锚+GF 年换谱
+- **W**：微实体谱
+- **O**：Müller 族谱直达位
+- **T**：大牌件链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +209,7 @@ updated: 2026-10-04
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,9 +218,8 @@ updated: 2026-10-04
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 上架空间
-  - [ ] 上架间隔
-  - [ ] 季量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,18 +231,12 @@ updated: 2026-10-04
 **主题**：PoE switching for your projects
 
 ```text
-Hi NiTo purchasing team,
+Guten Tag Herr Müller,
 
-Your Webshop offers Allied Telesis firewalls, routers, switches and WLAN - a single network brand, which tells me you are deliberate about assortment.
-
-We manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW - a value line that sits beside Allied without touching its installs: same shelf, lower price tier.
-
-One question: is there room in your Webshop for a documented second switch line that expands your margin story instead of competing your Allied main line?
-
-If useful, I can send one unit plus listing documentation for evaluation. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

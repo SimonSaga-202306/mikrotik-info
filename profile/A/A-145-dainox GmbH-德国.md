@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】dainox GmbH（德国）：**国防通信专家**——“Experte für Kommunikationslösungen im **Defence-Umfeld**”；DWT-Marineworkshop 2026（海军装备）参展、**AFCEA Bonn（军口展会）**、**CWIX 2026（北约互操作演习）FMN/PCN 架构 COMMS 核心角色**、LBO 作战网络文章；2026 新建生产厂房
-- 【推断】德国联邦军/北约 FMN 供应链成员——出口管制+密级审查环境，外资网络件无任何现实通道
-- 【假设】纪律建档不出信（军技红线，同 A-139 ARCHE 族）
+- 【事实】dainox GmbH:dainox GmbH(德国 Bad Wörishofen,Hans-Böckler-Str. 5;**HRB 20193 AG Memmingen;2013-04 Neueintragung;€25k;31 员工**;**2025 CWIX 军演=FMN Comms/FMN Core Services 联络,BAAINBw+NATO ACT 直客谱!军谱守界加厚**;网络/电信工程+软件开发;安全顾问谱)
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,22 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@dainox.net [Publicly listed; delivery not tested]; https://www.dainox.net
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Alfred Brodt**(Geschäftsführer + Network Architect(einzelvertretungsberechtigt;Impressum 四 GF 首谱))— dainox.net Impressum+creditreform 登记谱 〔已有(公司官方公开件/登记册自曝);源:https://www.dainox.net/impressum/〕
+  - **Andreas Dempfle**(Geschäftsführer(四 GF 编))— dainox.net Impressum 〔已有(公司官方公开件/登记册自曝);源:https://www.dainox.net/impressum/〕
+  - **Stefan Haselhoff**(Geschäftsführer)— dainox.net Impressum 〔已有(公司官方公开件/登记册自曝);源:https://www.dainox.net/impressum/〕
+  - **Dr. Artavazd Tarhanjan**(Geschäftsführer)— dainox.net Impressum 〔已有(公司官方公开件/登记册自曝);源:https://www.dainox.net/impressum/〕
+  - **Bernd Kohler**(Security Consultant)— XING 员工谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.xing.com/pages/dainoxgmbh/employees〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Alfred Brodt | Geschäftsführer + Network Architect(einzelvertretungsberechtigt;Impressum 四 GF 首谱) | dainox.net Impressum+creditreform 登记谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.dainox.net/impressum/ |
+| Andreas Dempfle | Geschäftsführer(四 GF 编) | dainox.net Impressum | official-self-published·谱/leads-only(直发需 opt-in) | https://www.dainox.net/impressum/ |
+| Stefan Haselhoff | Geschäftsführer | dainox.net Impressum | official-self-published·谱/leads-only(直发需 opt-in) | https://www.dainox.net/impressum/ |
+| Dr. Artavazd Tarhanjan | Geschäftsführer | dainox.net Impressum | official-self-published·谱/leads-only(直发需 opt-in) | https://www.dainox.net/impressum/ |
+| Bernd Kohler | Security Consultant | XING 员工谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.xing.com/pages/dainoxgmbh/employees |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -137,32 +149,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第15批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：国防通信（Defence-Umfeld 自述+CWIX/FMN 核心）
-- **②芯片/型号**：不适用（红线）
-- **③KP 深挖**：建档不出信
-- **④Saga 对标**：不适用
-- **⑤在乎与偏好**：—
+- **①背景再核**：dainox GmbH(德国 Bad Wörishofen,Hans-Böckler-Str. 5;**HRB 20193 AG Memmingen;2013-04 Neueintragung;€25k;31 员工**;**2025 CWIX 军演=FMN Comms/FMN Core Services 联络,BAAINBw+NATO ACT 直客谱!军谱守界加厚**;网络/电信工程+软件开发;安全顾问谱)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Alfred Brodt(Geschäftsführer + Network Architect(einzelvertretungsberechtigt;Impressum 四 GF 首谱),official-self-published·谱/leads-only(直发需 opt-in));Andreas Dempfle(Geschäftsführer(四 GF 编),official-self-published·谱/leads-only(直发需 opt-in));Stefan Haselhoff(Geschäftsführer,official-self-published·谱/leads-only(直发需 opt-in));Dr. Artavazd Tarhanjan(Geschäftsführer,official-self-published·谱/leads-only(直发需 opt-in));Bernd Kohler(Security Consultant,leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：军谱核心=最高守界
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Experte für Kommunikationslösungen im Defence-Umfeld…CWIX 2026…Federated Mission Networking…AFCEA Fachausstellung”
-  > “Experte für Kommunikationslösungen im Defence-Umfeld…CWIX 2026…Federated Mission Networking…AFCEA Fachausstellung”
-  > 来源：https://www.dainox.net/
+- **【决策链与对接人】**Vertretungsberechtigte Geschäftsführer: Alfred Brodt, Andreas Dempfle, Stefan Haselhoff, Dr. Artavazd Tarhanjan(dainox.net Impressum 法定自署)
+  > Vertretungsberechtigte Geschäftsführer: Alfred Brodt, Andreas Dempfle, Stefan Haselhoff, Dr. Artavazd Tarhanjan(dainox.net Impressum 法定自署)
+  > 来源：https://www.dainox.net/impressum/
+- **【团队与规模】**Juni 2025: Experten-Team im Auftrag von BAAINBw und NATO ACT bei CWIX in FMN Comms (PCN) und FMN Core (Audio/Video Collaboration) federführend(XING 公司页);31 Mitarbeiter
+  > Juni 2025: Experten-Team im Auftrag von BAAINBw und NATO ACT bei CWIX in FMN Comms (PCN) und FMN Core (Audio/Video Collaboration) federführend(XING 公司页);31 Mitarbeiter
+  > 来源：https://www.xing.com/pages/dainoxgmbh
+- **【联系方式与基础画像】**HRB 20193 Memmingen;Neueintragung 25.10.2022(Brodt, Alfred einzelvertretungsberechtigt);Erbringung von IT-Dienstleistungen Netzwerk/Telekom(creditreform 件)
+  > HRB 20193 Memmingen;Neueintragung 25.10.2022(Brodt, Alfred einzelvertretungsberechtigt);Erbringung von IT-Dienstleistungen Netzwerk/Telekom(creditreform 件)
+  > 来源：https://firmeneintrag.creditreform.de/86825/8270305508/DAINOX_GMBH
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：德国国防通信专家（FMN/AFCEA/CWIX）
-- **产品线与在售品牌**：国防通信方案（红线）
-- **目标行业与场景**：联邦军/北约（红线）
-- **团队与规模**：专精中型（扩产中）
-- **决策链与对接人**：—
-- **技术与认证**：军规
-- **采购与供应链信号**：军工采购
-- **近期动态与线索**：CWIX 2026 核心角色
-- **与我方契合点**：无（红线建档）
-- **风险与注意**：出口管制+密级
+- **业务定位**：dainox GmbH(德国 Bad Wörishofen,Hans-Böckler-Str. 5;**HRB 20193 AG Memmingen;2013-04 Neueintragung;€25k;31 员工**;**2025 CWIX 军演=FMN Comms/FMN Core Services 联络,BAAINBw+NATO ACT 直客谱!军谱守界加厚**;网络/电信工程+软件开发;安全顾问谱)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国下巴伐利亚 31 人军谱网络工程屋(BAAINBw/NATO 守界)
+- **团队与规模**：31 人;2013 创
+- **决策链与对接人**：**Alfred Brodt(Geschäftsführer + Network Architect(einzelvertretungsberechtigt;Impressum 四 GF 首谱),official-self-published·谱/leads-only(直发需 opt-in));Andreas Dempfle(Geschäftsführer(四 GF 编),official-self-published·谱/leads-only(直发需 opt-in));Stefan Haselhoff(Geschäftsführer,official-self-published·谱/leads-only(直发需 opt-in));Dr. Artavazd Tarhanjan(Geschäftsführer,official-self-published·谱/leads-only(直发需 opt-in));Bernd Kohler(Security Consultant,leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：军谱守界:仅民窄段试探(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -177,10 +195,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：专精
-- **W**：红线
-- **O**：无
-- **T**：不评
+- **S**：军谱核心=最高守界
+- **W**：军线守界段
+- **O**：四 GF 谱全位
+- **T**：大牌军件链竞谱
 
 ## 触达与风险红线
 
@@ -199,7 +217,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -208,7 +226,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] —
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -220,7 +239,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-（不出信——国防通信红线。动作：仅建档与 MX 核验。判定依据：官网自述 Defence-Umfeld+CWIX/AFCEA/FMN 供应链身份。）
+Guten Tag Herr Brodt,
+
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+
+Best regards,
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

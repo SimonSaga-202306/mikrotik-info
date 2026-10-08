@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】N+P Informationssysteme GmbH（德国萨克森，1990 年创，**200+ 员工/2,000+ 客户/100% 家族企业二代**）：**工业与建筑行业数字化专家**——Digitale Fabrik（工厂数字化）/IT-Service 基础设施/**Digitales Gebäude（楼宇数字化）**；PLM/PRO.FILE；客户 BREMER AG/G. KRAFT Maschinenbau/Goldbeck/KWD Kupplungswerk；2025 萨克森年度企业家 finalist；**Jens/Paul/Till Hertwig 三兄弟掌门具名**
-- 【推断】工业+建筑双线=工厂网络与楼宇网络两大场景；200 人规模+PLM 伴侣=专业体量大
-- 【假设】其 IT-Service 基建线“Beratung, Implementierung, Betrieb und Support aus einer Hand – inklusive der IT-Infrastruktur”=接入层随单口径明确
+- 【事实】N+P Informationssysteme GmbH:N+P Informationssysteme GmbH(德国 Meerane(萨克森),An der Hohen Straße 1, 08393;**HRB 1746 AG Chemnitz(老号);USt DE 141 380 688;1990 创 36 年二代家族**;120-130 人/€6.2-18M;支谱 Berlin/Dresden/Kassel/Magdeburg/Nürnberg/Stuttgart;谱型=**工业+建筑数字化 ERP 屋**(CAD/CAM/ERP/MES/PDM/PLM 全链;2,000+ 客/年;INDUSTRIEVEREIN SACHSEN 1828 成员)
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,20 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：nupis@nupis.de [Publicly listed; delivery not tested]; https://www.nupis.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Jens Hertwig**(Geschäftsführender Gesellschafter(业主二代;V.i.S.d.P.))— 官网 unternehmen+Impressum+industrieverein 三源 〔已有(公司官方公开件/登记册自曝);源:https://www.nupis.de/unternehmen〕
+  - **Paul Hertwig**(Geschäftsführender Gesellschafter(业主二代))— 官网 unternehmen+Impressum 双源 〔已有(公司官方公开件/登记册自曝);源:https://www.nupis.de/unternehmen〕
+  - **Andreas Thieme**(Geschäftsführer(三位 GF))— 官网 unternehmen+Impressum 双源 〔已有(公司官方公开件/登记册自曝);源:https://www.nupis.de/unternehmen〕
+  - **Björn Schuster**(Authorized signatory / VP Business Development(总代+业务发展 BD KPI 位))— RocketReach 员工谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/np-informationssysteme-gmbh-profile_b5fcaabbf9b773f3〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Jens Hertwig | Geschäftsführender Gesellschafter(业主二代;V.i.S.d.P.) | 官网 unternehmen+Impressum+industrieverein 三源 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.nupis.de/unternehmen |
+| Paul Hertwig | Geschäftsführender Gesellschafter(业主二代) | 官网 unternehmen+Impressum 双源 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.nupis.de/unternehmen |
+| Andreas Thieme | Geschäftsführer(三位 GF) | 官网 unternehmen+Impressum 双源 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.nupis.de/unternehmen |
+| Björn Schuster | Authorized signatory / VP Business Development(总代+业务发展 BD KPI 位) | RocketReach 员工谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/np-informationssysteme-gmbh-profile_b5fcaabbf9b773f3 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -137,32 +147,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第17批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：萨克森 200 人工/建数字化（三线+全托管）
-- **②芯片/型号**：未明（PLM 生态）
-- **③KP 深挖**：Hertwig 三兄弟具名
-- **④Saga 对标**：工厂/楼宇接入层 value 位
-- **⑤在乎与偏好**：全托管文档
+- **①背景再核**：N+P Informationssysteme GmbH(德国 Meerane(萨克森),An der Hohen Straße 1, 08393;**HRB 1746 AG Chemnitz(老号);USt DE 141 380 688;1990 创 36 年二代家族**;120-130 人/€6.2-18M;支谱 Berlin/Dresden/Kassel/Magdeburg/Nürnberg/Stuttgart;谱型=**工业+建筑数字化 ERP 屋**(CAD/CAM/ERP/MES/PDM/PLM 全链;2,000+ 客/年;INDUSTRIEVEREIN SACHSEN 1828 成员)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Jens Hertwig(Geschäftsführender Gesellschafter(业主二代;V.i.S.d.P.),official-self-published·谱/leads-only(直发需 opt-in));Paul Hertwig(Geschäftsführender Gesellschafter(业主二代),official-self-published·谱/leads-only(直发需 opt-in));Andreas Thieme(Geschäftsführer(三位 GF),official-self-published·谱/leads-only(直发需 opt-in));Björn Schuster(Authorized signatory / VP Business Development(总代+业务发展 BD KPI 位),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：二代家族+ERP 全链谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Wir sind Digitalisierungsexperten für Prozesse in Industrie und Bauwesen…inklusive der IT-Infrastruktur…über 200 Team-Mitglieder…über 2.000 Kunden”
-  > “Wir sind Digitalisierungsexperten für Prozesse in Industrie und Bauwesen…inklusive der IT-Infrastruktur…über 200 Team-Mitglieder…über 2.000 Kunden”
-  > 来源：https://www.nupis.de/
+- **【决策链与对接人】**Unsere Geschäftsführung: Jens Hertwig / Paul Hertwig geschäftsführende Gesellschafter;Till Hertwig Gesellschafter;Andreas Thieme Geschäftsführer(nupis.de 官网 unternehmen 件);Impressum: GF Jens Hertwig, Paul Hertwig, Andreas Thieme;HRB 1746 Chemnitz
+  > Unsere Geschäftsführung: Jens Hertwig / Paul Hertwig geschäftsführende Gesellschafter;Till Hertwig Gesellschafter;Andreas Thieme Geschäftsführer(nupis.de 官网 unternehmen 件);Impressum: GF Jens Hertwig, Paul Hertwig, Andreas Thieme;HRB 1746 Chemnitz
+  > 来源：https://www.nupis.de/unternehmen
+- **【联系方式与基础画像】**gegründet 1990;100% Familienunternehmen 二代;120-130 Mitarbeiter;Digitalisation Industrie+Bauwesen;2.000 Kunden/Jahr;CAD/CAM/ERP/MES/PDM/PLM(industrieverein 1828 成员件)
+  > gegründet 1990;100% Familienunternehmen 二代;120-130 Mitarbeiter;Digitalisation Industrie+Bauwesen;2.000 Kunden/Jahr;CAD/CAM/ERP/MES/PDM/PLM(industrieverein 1828 成员件)
+  > 来源：https://www.industrieverein.org/index.php/firmendetails/np-informationssysteme-gmbh.html
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：萨克森工业/建筑数字化（三线：工厂/IT 基建/楼宇）
-- **产品线与在售品牌**：PLM/PRO.FILE+未明示
-- **目标行业与场景**：工业/建筑（BREMER/Goldbeck 级）
-- **团队与规模**：200+ 人
-- **决策链与对接人**：Hertwig 三兄弟具名
-- **技术与认证**：PLM 级
-- **采购与供应链信号**：项目随单+全托管
-- **近期动态与线索**：Sachsen finalist
-- **与我方契合点**：工厂/楼宇接入层 value 位
-- **风险与注意**：
+- **业务定位**：N+P Informationssysteme GmbH(德国 Meerane(萨克森),An der Hohen Straße 1, 08393;**HRB 1746 AG Chemnitz(老号);USt DE 141 380 688;1990 创 36 年二代家族**;120-130 人/€6.2-18M;支谱 Berlin/Dresden/Kassel/Magdeburg/Nürnberg/Stuttgart;谱型=**工业+建筑数字化 ERP 屋**(CAD/CAM/ERP/MES/PDM/PLM 全链;2,000+ 客/年;INDUSTRIEVEREIN SACHSEN 1828 成员)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国萨克森 36 年二代工业数字化 ERP 屋
+- **团队与规模**：120-130 人;1990 创
+- **决策链与对接人**：**Jens Hertwig(Geschäftsführender Gesellschafter(业主二代;V.i.S.d.P.),official-self-published·谱/leads-only(直发需 opt-in));Paul Hertwig(Geschäftsführender Gesellschafter(业主二代),official-self-published·谱/leads-only(直发需 opt-in));Andreas Thieme(Geschäftsführer(三位 GF),official-self-published·谱/leads-only(直发需 opt-in));Björn Schuster(Authorized signatory / VP Business Development(总代+业务发展 BD KPI 位),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Schuster BD 总代+Hertwig 双谱(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -177,10 +190,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：体量
-- **W**：重
-- **O**：基建
-- **T**：大牌
+- **S**：二代家族+ERP 全链谱
+- **W**：中实体谱
+- **O**：Schuster 总代 BD 位占场
+- **T**：大牌 ERP 链竞谱
 
 ## 触达与风险红线
 
@@ -199,7 +212,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -208,9 +221,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 现供
-  - [ ] 滚动态
-  - [ ] 评窗
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -222,18 +234,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Jens, Paul and Till Hertwig,
+Guten Tag Herr Schuster,
 
-Thirty-five years, 200 people, 2,000 customers - and a hand-off-free offer that explicitly includes the IT infrastructure itself. Factories and buildings alike: that infrastructure rides on an access layer.
-
-We manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with a complete test dossier. Reference: $180 USD EXW - a value line for the factory and building networks behind your all-in-one-promise.
-
-One question: in your IT-infrastructure line, which switch brand holds the access layer today - and would a documented value alternative earn a bench test in your Dresden lab?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

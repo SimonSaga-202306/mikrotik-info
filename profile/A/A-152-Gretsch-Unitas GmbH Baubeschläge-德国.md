@@ -49,9 +49,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】未检索到 A-152 的独立 CSV 条目——其结构化档案同域指向 g-u.com（与 A-153 Gretsch-Unitas 同源）。按 dup-suspect 纪律：如实标注疑似重复，不阻塞、不删号，待遇判别与 A-153 同
-- 【推断】同 A-153：GU 集团门禁/楼宇 IP 化配套窄位+大集团准入门槛
-- 【假设】若在册信息更新后确认独立实体（如某区域子公司），即刻独立评估
+- 【事实】Gretsch-Unitas GmbH Baubeschläge:Gretsch-Unitas GmbH Baubeschläge(Ditzingen;**HRB 202061 AG Stuttgart;资本 €8,000,000(2008 增资);GmbH 2006-03-08 创(GU 牌 1907 源)**;**GU 集团门类:窗门五金/门禁/自动开闭/楼宇管理+烟排 RWA;三代家族 of Resch 族谱(2023-11 老铺故 → 其弟继位)**;集团下 GU Automatic/BKS GmbH/Ferco S.A.S.
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,10 +76,20 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@g-u.de [Publicly listed; delivery not tested]; https://www.g-u.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Dr.-Ing. Jörg Teunissen**(Geschäftsführer(**2025-04-01 新任**;Elektrotechnik 博士;Bielefeld))— glaswelt/baulinks 行业报+online-handelsregister 登记公告 〔已有(公司官方公开件/登记册自曝);源:https://www.glaswelt.de/fenster/neue-fuehrungsspitze-dr-teunissen-jetzt-gf-der-unit-baubeschlaege-bei-gretsch-unitas〕
+  - **Michael Helmut Edler von Resch**(Geschäftsführer(2023-12-06 起;GU 集团三代业主+CEO))— online-handelsregister 登记公告+glaswelt 专文 〔已有(公司官方公开件/登记册自曝);源:https://www.online-handelsregister.de/handelsregisterauszug/bw/Stuttgart/HRB/202061/Gretsch-Unitas-GmbH-Baubeschlaege〕
+  - **Manfred Künzel**(Geschäftsführer(companyhouse 谱位))— companyhouse 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.companyhouse.de/Gretsch-Unitas-GmbH-Baubeschlaege-Ditzingen〕
+  - **Christian Choffat**(Gesamtprokurist(2025-04-10 总代理))— online-handelsregister 登记公告 〔已有(公司官方公开件/登记册自曝);源:https://www.online-handelsregister.de/handelsregisterauszug/bw/Stuttgart/HRB/202061/Gretsch-Unitas-GmbH-Baubeschlaege〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Dr.-Ing. Jörg Teunissen | Geschäftsführer(**2025-04-01 新任**;Elektrotechnik 博士;Bielefeld) | glaswelt/baulinks 行业报+online-handelsregister 登记公告 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.glaswelt.de/fenster/neue-fuehrungsspitze-dr-teunissen-jetzt-gf-der-unit-baubeschlaege-bei-gretsch-unitas |
+| Michael Helmut Edler von Resch | Geschäftsführer(2023-12-06 起;GU 集团三代业主+CEO) | online-handelsregister 登记公告+glaswelt 专文 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.online-handelsregister.de/handelsregisterauszug/bw/Stuttgart/HRB/202061/Gretsch-Unitas-GmbH-Baubeschlaege |
+| Manfred Künzel | Geschäftsführer(companyhouse 谱位) | companyhouse 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.companyhouse.de/Gretsch-Unitas-GmbH-Baubeschlaege-Ditzingen |
+| Christian Choffat | Gesamtprokurist(2025-04-10 总代理) | online-handelsregister 登记公告 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.online-handelsregister.de/handelsregisterauszug/bw/Stuttgart/HRB/202061/Gretsch-Unitas-GmbH-Baubeschlaege |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -136,32 +146,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第16批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：dup-suspect：同 A-153 集团
-- **②芯片/型号**：同 A-153
-- **③KP 深挖**：同 A-153
-- **④Saga 对标**：同 A-153
-- **⑤在乎与偏好**：—
+- **①背景再核**：Gretsch-Unitas GmbH Baubeschläge(Ditzingen;**HRB 202061 AG Stuttgart;资本 €8,000,000(2008 增资);GmbH 2006-03-08 创(GU 牌 1907 源)**;**GU 集团门类:窗门五金/门禁/自动开闭/楼宇管理+烟排 RWA;三代家族 of Resch 族谱(2023-11 老铺故 → 其弟继位)**;集团下 GU Automatic/BKS GmbH/Ferco S.A.S.
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Dr.-Ing. Jörg Teunissen(Geschäftsführer(**2025-04-01 新任**;Elektrotechnik 博士;Bielefeld),official-self-published·谱/leads-only(直发需 opt-in));Michael Helmut Edler von Resch(Geschäftsführer(2023-12-06 起;GU 集团三代业主+CEO),official-self-published·谱/leads-only(直发需 opt-in));Manfred Künzel(Geschäftsführer(companyhouse 谱位),leads-only·待 opt-in(LinkedIn/谱面带核));Christian Choffat(Gesamtprokurist(2025-04-10 总代理),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：三代家族+新 GF 谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**dup-suspect：A-152 与 A-153 同域（g-u.com）同源，按纪律并列建档不删号
-  > dup-suspect：A-152 与 A-153 同域（g-u.com）同源，按纪律并列建档不删号
-  > 来源：仓内结构化档案
+- **【决策链与对接人】**Zum 1. April 2025: Dr.-Ing. Jörg Teunissen neuer GF, gemeinsam mit Michael von Resch;Julius von Resch †23.11.2023 → Bruder Michael übernimmt;GU-Gruppe drifdritt Generation Familie von Resch(glaswelt 件)
+  > Zum 1. April 2025: Dr.-Ing. Jörg Teunissen neuer GF, gemeinsam mit Michael von Resch;Julius von Resch †23.11.2023 → Bruder Michael übernimmt;GU-Gruppe drifdritt Generation Familie von Resch(glaswelt 件)
+  > 来源：https://www.glaswelt.de/fenster/neue-fuehrungsspitze-dr-teunissen-jetzt-gf-der-unit-baubeschlaege-bei-gretsch-unitas
+- **【联系方式与基础画像】**HRB 202061 Stuttgart;Stammkapital €8.000.000;Gründung 08.03.2006;Prokura: Choffat (Gesamtprokura 10.04.2025)/Faller(17.04.2025)(online-handelsregister 件)
+  > HRB 202061 Stuttgart;Stammkapital €8.000.000;Gründung 08.03.2006;Prokura: Choffat (Gesamtprokura 10.04.2025)/Faller(17.04.2025)(online-handelsregister 件)
+  > 来源：https://www.online-handelsregister.de/handelsregisterauszug/bw/Stuttgart/HRB/202061/Gretsch-Unitas-GmbH-Baubeschlaege
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：同 A-153（GU 集团，dup-suspect 标注）
-- **产品线与在售品牌**：同 A-153
-- **目标行业与场景**：同 A-153
-- **团队与规模**：同 A-153
-- **决策链与对接人**：同 A-153
-- **技术与认证**：同 A-153
-- **采购与供应链信号**：同 A-153
-- **近期动态与线索**：同 A-153
-- **与我方契合点**：同 A-153
-- **风险与注意**：疑似重复
+- **业务定位**：Gretsch-Unitas GmbH Baubeschläge(Ditzingen;**HRB 202061 AG Stuttgart;资本 €8,000,000(2008 增资);GmbH 2006-03-08 创(GU 牌 1907 源)**;**GU 集团门类:窗门五金/门禁/自动开闭/楼宇管理+烟排 RWA;三代家族 of Resch 族谱(2023-11 老铺故 → 其弟继位)**;集团下 GU Automatic/BKS GmbH/Ferco S.A.S.
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国 GU 集团五金门牌商(三代家族)
+- **团队与规模**：集团大谱;2006 创(牌 1907)
+- **决策链与对接人**：**Dr.-Ing. Jörg Teunissen(Geschäftsführer(**2025-04-01 新任**;Elektrotechnik 博士;Bielefeld),official-self-published·谱/leads-only(直发需 opt-in));Michael Helmut Edler von Resch(Geschäftsführer(2023-12-06 起;GU 集团三代业主+CEO),official-self-published·谱/leads-only(直发需 opt-in));Manfred Künzel(Geschäftsführer(companyhouse 谱位),leads-only·待 opt-in(LinkedIn/谱面带核));Christian Choffat(Gesamtprokurist(2025-04-10 总代理),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Teunissen 履新贺卡+von Resch 集团位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -176,10 +189,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：—
-- **W**：dup
-- **O**：—
-- **T**：—
+- **S**：三代家族+新 GF 谱
+- **W**：集团层谱
+- **O**：Teunissen 新 GF 庆贺位
+- **T**：自家链栈=合作段
 
 ## 触达与风险红线
 
@@ -198,7 +211,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -207,7 +220,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 独立实体性
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,7 +233,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-（随 A-153 判别处理——dup-suspect 不独立发出。动作：如用户确认 A-152 为独立实体（区域子公司/独立法人），即刻补独立邮件。）
+Guten Tag Herr Dr. Teunissen,
+
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+
+Best regards,
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

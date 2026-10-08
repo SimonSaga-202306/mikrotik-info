@@ -3054,6 +3054,104 @@
     ]
   },
   {
+    "url": "https://app.implisense.com/en/companies/daten-und-telekommunikations-gmbh-dessau-dessau-rosslau--DEJ5ILDOVM07",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L472"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L493"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L555"
+      },
+      {
+        "path": "profile/A/A-147-Daten- und Telekommunikations-GmbH Dessau-德国.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-147-Daten- und Telekommunikations-GmbH Dessau-德国.md",
+        "locator": "L161"
+      }
+    ]
+  },
+  {
+    "url": "https://app.implisense.com/en/companies/daten-und-telekommunikations-gmbh-dessau-dessau-rosslau--DEJ5ILDOVM07'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L92"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L95"
+      }
+    ]
+  },
+  {
+    "url": "https://app.implisense.com/en/companies/daten-und-telekommunikations-gmbh-dessau-dessau-rosslau--DEJ5ILDOVM07〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-147-Daten- und Telekommunikations-GmbH Dessau-德国.md",
+        "locator": "L79"
+      }
+    ]
+  },
+  {
+    "url": "https://app.implisense.com/en/companies/h-g-hansen-gieraths-edv-vertriebsgesellschaft-mbh-bonn--DEPJ95MWJE86",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1303"
+      },
+      {
+        "path": "profile/A/A-155-H & G Hansen & Gieraths EDV Vertriebs GmbH-德国.md",
+        "locator": "L165"
+      }
+    ]
+  },
+  {
+    "url": "https://app.implisense.com/en/companies/h-g-hansen-gieraths-edv-vertriebsgesellschaft-mbh-bonn--DEPJ95MWJE86'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L178"
+      }
+    ]
+  },
+  {
+    "url": "https://app.implisense.com/en/companies/kws-partner-gmbh-frankenberg-sa--DEQXQKVS0G13",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2073"
+      },
+      {
+        "path": "profile/A/A-162-KWS Partner GmbH-德国.md",
+        "locator": "L155"
+      }
+    ]
+  },
+  {
+    "url": "https://app.implisense.com/en/companies/kws-partner-gmbh-frankenberg-sa--DEQXQKVS0G13'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L252"
+      }
+    ]
+  },
+  {
     "url": "https://archous.tech/",
     "http_checked": false,
     "occurrences": [
@@ -4321,11 +4419,11 @@
       },
       {
         "path": "profile/A/A-157-Human Art Computersysteme GmbH-德国.md",
-        "locator": "L127"
+        "locator": "L135"
       },
       {
         "path": "profile/A/A-157-Human Art Computersysteme GmbH-德国.md",
-        "locator": "L130"
+        "locator": "L138"
       }
     ]
   },
@@ -5246,6 +5344,30 @@
       {
         "path": "profile/A/A-334-CAMELI SAT-意大利.md",
         "locator": "L148"
+      }
+    ]
+  },
+  {
+    "url": "https://campusmartinsried.de/datenschutz/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2593"
+      },
+      {
+        "path": "profile/A/A-167-my ITService Wolfgang Deibe-德国.md",
+        "locator": "L160"
+      }
+    ]
+  },
+  {
+    "url": "https://campusmartinsried.de/datenschutz/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L301"
       }
     ]
   },
@@ -6474,6 +6596,40 @@
     ]
   },
   {
+    "url": "https://contactout.com/lukas-parzinger-12956",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1693"
+      },
+      {
+        "path": "profile/A/A-158-Inducio GmbH-德国.md",
+        "locator": "L86"
+      }
+    ]
+  },
+  {
+    "url": "https://contactout.com/lukas-parzinger-12956'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L206"
+      }
+    ]
+  },
+  {
+    "url": "https://contactout.com/lukas-parzinger-12956〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-158-Inducio GmbH-德国.md",
+        "locator": "L79"
+      }
+    ]
+  },
+  {
     "url": "https://controsys.hu",
     "http_checked": false,
     "occurrences": [
@@ -7656,16 +7812,32 @@
         "locator": "L656"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L583"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L604"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L666"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L673"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L550"
       },
       {
         "path": "profile/A/A-148-Döhler DatenSysteme GmbH-德国.md",
-        "locator": "L127"
+        "locator": "L85"
       },
       {
         "path": "profile/A/A-148-Döhler DatenSysteme GmbH-德国.md",
-        "locator": "L130"
+        "locator": "L86"
       },
       {
         "path": "profile/A/A-148-Döhler DatenSysteme GmbH-德国.md",
@@ -7677,7 +7849,15 @@
       },
       {
         "path": "profile/A/A-148-Döhler DatenSysteme GmbH-德国.md",
-        "locator": "L152"
+        "locator": "L139"
+      },
+      {
+        "path": "profile/A/A-148-Döhler DatenSysteme GmbH-德国.md",
+        "locator": "L142"
+      },
+      {
+        "path": "profile/A/A-148-Döhler DatenSysteme GmbH-德国.md",
+        "locator": "L158"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -7690,16 +7870,102 @@
     ]
   },
   {
+    "url": "https://dds-computer.de/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L103"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L104"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L105"
+      }
+    ]
+  },
+  {
+    "url": "https://dds-computer.de/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-148-Döhler DatenSysteme GmbH-德国.md",
+        "locator": "L78"
+      },
+      {
+        "path": "profile/A/A-148-Döhler DatenSysteme GmbH-德国.md",
+        "locator": "L79"
+      }
+    ]
+  },
+  {
+    "url": "https://de.insight.com/de_DE/about/newsroom/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1733"
+      },
+      {
+        "path": "profile/A/A-159-Insight Technology Solutions GmbH-德国.md",
+        "locator": "L160"
+      }
+    ]
+  },
+  {
+    "url": "https://de.insight.com/de_DE/about/newsroom/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L219"
+      }
+    ]
+  },
+  {
+    "url": "https://de.insight.com/de_DE/knowledge-base/impressum.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1804"
+      },
+      {
+        "path": "profile/A/A-159-Insight Technology Solutions GmbH-德国.md",
+        "locator": "L88"
+      }
+    ]
+  },
+  {
+    "url": "https://de.insight.com/de_DE/knowledge-base/impressum.html'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L217"
+      }
+    ]
+  },
+  {
+    "url": "https://de.insight.com/de_DE/knowledge-base/impressum.html〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-159-Insight Technology Solutions GmbH-德国.md",
+        "locator": "L80"
+      }
+    ]
+  },
+  {
     "url": "https://de.itsbetter.com/search/show/432092-eckmann-spezialkabel-gmbh.html",
     "http_checked": false,
     "occurrences": [
       {
         "path": "batch/A类深挖_2026-09-28_R56_第15批.json",
         "locator": "L836"
-      },
-      {
-        "path": "profile/A/A-150-Eckmann Spezialkabel GmbH-德国.md",
-        "locator": "L153"
       }
     ]
   },
@@ -7774,6 +8040,30 @@
       {
         "path": "profile/A/A-141-BAIEN GmbH-德国.md",
         "locator": "L78"
+      }
+    ]
+  },
+  {
+    "url": "https://de.kompass.com/c/dohler-datensysteme-gmbh/de889958/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L609"
+      },
+      {
+        "path": "profile/A/A-148-Döhler DatenSysteme GmbH-德国.md",
+        "locator": "L161"
+      }
+    ]
+  },
+  {
+    "url": "https://de.kompass.com/c/dohler-datensysteme-gmbh/de889958/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L106"
       }
     ]
   },
@@ -7886,6 +8176,124 @@
       {
         "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
         "locator": "L83"
+      }
+    ]
+  },
+  {
+    "url": "https://de.linkedin.com/company/compdata-computer-gmbh",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L205"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L212"
+      },
+      {
+        "path": "profile/A/A-144-CompData Computer GmbH-德国.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-144-CompData Computer GmbH-德国.md",
+        "locator": "L88"
+      }
+    ]
+  },
+  {
+    "url": "https://de.linkedin.com/company/compdata-computer-gmbh'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L55"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L56"
+      }
+    ]
+  },
+  {
+    "url": "https://de.linkedin.com/company/compdata-computer-gmbh〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-144-CompData Computer GmbH-德国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-144-CompData Computer GmbH-德国.md",
+        "locator": "L80"
+      }
+    ]
+  },
+  {
+    "url": "https://de.linkedin.com/company/dresdner-prosoft-gmbh",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L791"
+      },
+      {
+        "path": "profile/A/A-149-Dresdner ProSoft GmbH-德国.md",
+        "locator": "L90"
+      }
+    ]
+  },
+  {
+    "url": "https://de.linkedin.com/company/dresdner-prosoft-gmbh'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L116"
+      }
+    ]
+  },
+  {
+    "url": "https://de.linkedin.com/company/dresdner-prosoft-gmbh〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-149-Dresdner ProSoft GmbH-德国.md",
+        "locator": "L81"
+      }
+    ]
+  },
+  {
+    "url": "https://de.linkedin.com/company/gbs-tempest-service-gmbh",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1027"
+      },
+      {
+        "path": "profile/A/A-151-GBS TEMPEST & Service GmbH-德国.md",
+        "locator": "L88"
+      }
+    ]
+  },
+  {
+    "url": "https://de.linkedin.com/company/gbs-tempest-service-gmbh'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L140"
+      }
+    ]
+  },
+  {
+    "url": "https://de.linkedin.com/company/gbs-tempest-service-gmbh〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-151-GBS TEMPEST & Service GmbH-德国.md",
+        "locator": "L80"
       }
     ]
   },
@@ -8701,7 +9109,7 @@
       },
       {
         "path": "profile/A/A-157-Human Art Computersysteme GmbH-德国.md",
-        "locator": "L132"
+        "locator": "L140"
       }
     ]
   },
@@ -11870,6 +12278,40 @@
     ]
   },
   {
+    "url": "https://firmeneintrag.creditreform.de/10407/2012948573/NITO_IT_SYSTEME_GMBH",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2983"
+      },
+      {
+        "path": "profile/A/A-170-NiTo IT Systeme GmbH-德国.md",
+        "locator": "L87"
+      }
+    ]
+  },
+  {
+    "url": "https://firmeneintrag.creditreform.de/10407/2012948573/NITO_IT_SYSTEME_GMBH'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L332"
+      }
+    ]
+  },
+  {
+    "url": "https://firmeneintrag.creditreform.de/10407/2012948573/NITO_IT_SYSTEME_GMBH〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-170-NiTo IT Systeme GmbH-德国.md",
+        "locator": "L78"
+      }
+    ]
+  },
+  {
     "url": "https://firmeneintrag.creditreform.de/22113/2390066908/ALARM_UND_SICHERHEITSTECHNIK_B_W_GMBH",
     "http_checked": false,
     "occurrences": [
@@ -11990,6 +12432,120 @@
       {
         "path": "profile/A/A-139-ARCHE Systeme GmbH-德国.md",
         "locator": "L80"
+      }
+    ]
+  },
+  {
+    "url": "https://firmeneintrag.creditreform.de/50931/5190789965/JOTT_CONSULTING_GMBH",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1962"
+      },
+      {
+        "path": "profile/A/A-161-JOTT Consulting GmbH-德国.md",
+        "locator": "L160"
+      }
+    ]
+  },
+  {
+    "url": "https://firmeneintrag.creditreform.de/50931/5190789965/JOTT_CONSULTING_GMBH'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L242"
+      }
+    ]
+  },
+  {
+    "url": "https://firmeneintrag.creditreform.de/53111/5030068909/H_G_HANSEN_GIERATHS_EDV_VERTRIEBSGESELLSCHAFT_MBH",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1277"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1298"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1360"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1367"
+      },
+      {
+        "path": "profile/A/A-155-H & G Hansen & Gieraths EDV Vertriebs GmbH-德国.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-155-H & G Hansen & Gieraths EDV Vertriebs GmbH-德国.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-155-H & G Hansen & Gieraths EDV Vertriebs GmbH-德国.md",
+        "locator": "L162"
+      }
+    ]
+  },
+  {
+    "url": "https://firmeneintrag.creditreform.de/53111/5030068909/H_G_HANSEN_GIERATHS_EDV_VERTRIEBSGESELLSCHAFT_MBH'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L173"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L174"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L177"
+      }
+    ]
+  },
+  {
+    "url": "https://firmeneintrag.creditreform.de/53111/5030068909/H_G_HANSEN_GIERATHS_EDV_VERTRIEBSGESELLSCHAFT_MBH〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-155-H & G Hansen & Gieraths EDV Vertriebs GmbH-德国.md",
+        "locator": "L78"
+      },
+      {
+        "path": "profile/A/A-155-H & G Hansen & Gieraths EDV Vertriebs GmbH-德国.md",
+        "locator": "L79"
+      }
+    ]
+  },
+  {
+    "url": "https://firmeneintrag.creditreform.de/86825/8270305508/DAINOX_GMBH",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L257"
+      },
+      {
+        "path": "profile/A/A-145-dainox GmbH-德国.md",
+        "locator": "L170"
+      }
+    ]
+  },
+  {
+    "url": "https://firmeneintrag.creditreform.de/86825/8270305508/DAINOX_GMBH'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L72"
       }
     ]
   },
@@ -14384,6 +14940,56 @@
     ]
   },
   {
+    "url": "https://handelsregister.ai/de/organizations/traunstein/erbringung-von-beratungsleistungen-auf-dem-gebiet-der-informationstechnologie/inducio-gmbh-2cdd290d0d88e09113f6d982bcc9caa5",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1603"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1624"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1686"
+      },
+      {
+        "path": "profile/A/A-158-Inducio GmbH-德国.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-158-Inducio GmbH-德国.md",
+        "locator": "L158"
+      }
+    ]
+  },
+  {
+    "url": "https://handelsregister.ai/de/organizations/traunstein/erbringung-von-beratungsleistungen-auf-dem-gebiet-der-informationstechnologie/inducio-gmbh-2cdd290d0d88e09113f6d982bcc9caa5'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L205"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L207"
+      }
+    ]
+  },
+  {
+    "url": "https://handelsregister.ai/de/organizations/traunstein/erbringung-von-beratungsleistungen-auf-dem-gebiet-der-informationstechnologie/inducio-gmbh-2cdd290d0d88e09113f6d982bcc9caa5〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-158-Inducio GmbH-德国.md",
+        "locator": "L78"
+      }
+    ]
+  },
+  {
     "url": "https://hctech.it/",
     "http_checked": false,
     "occurrences": [
@@ -14807,7 +15413,7 @@
       },
       {
         "path": "profile/A/A-157-Human Art Computersysteme GmbH-德国.md",
-        "locator": "L132"
+        "locator": "L140"
       }
     ]
   },
@@ -15153,14 +15759,6 @@
       },
       {
         "path": "profile/A/A-158-Inducio GmbH-德国.md",
-        "locator": "L127"
-      },
-      {
-        "path": "profile/A/A-158-Inducio GmbH-德国.md",
-        "locator": "L130"
-      },
-      {
-        "path": "profile/A/A-158-Inducio GmbH-德国.md",
         "locator": "L133"
       },
       {
@@ -15169,7 +15767,11 @@
       },
       {
         "path": "profile/A/A-158-Inducio GmbH-德国.md",
-        "locator": "L152"
+        "locator": "L139"
+      },
+      {
+        "path": "profile/A/A-158-Inducio GmbH-德国.md",
+        "locator": "L142"
       }
     ]
   },
@@ -15603,15 +16205,11 @@
       },
       {
         "path": "profile/A/A-159-Insight Technology Solutions GmbH-德国.md",
-        "locator": "L127"
+        "locator": "L135"
       },
       {
         "path": "profile/A/A-159-Insight Technology Solutions GmbH-德国.md",
-        "locator": "L133"
-      },
-      {
-        "path": "profile/A/A-159-Insight Technology Solutions GmbH-德国.md",
-        "locator": "L149"
+        "locator": "L141"
       }
     ]
   },
@@ -15632,12 +16230,40 @@
         "locator": "L1422"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1707"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1728"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1790"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1797"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L721"
       },
       {
         "path": "profile/A/A-159-Insight Technology Solutions GmbH-德国.md",
-        "locator": "L130"
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-159-Insight Technology Solutions GmbH-德国.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-159-Insight Technology Solutions GmbH-德国.md",
+        "locator": "L138"
+      },
+      {
+        "path": "profile/A/A-159-Insight Technology Solutions GmbH-德国.md",
+        "locator": "L157"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -15646,6 +16272,38 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-910/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://insightportal.de/impressum'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L215"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L216"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L218"
+      }
+    ]
+  },
+  {
+    "url": "https://insightportal.de/impressum〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-159-Insight Technology Solutions GmbH-德国.md",
+        "locator": "L78"
+      },
+      {
+        "path": "profile/A/A-159-Insight Technology Solutions GmbH-德国.md",
+        "locator": "L79"
       }
     ]
   },
@@ -16400,6 +17058,56 @@
       {
         "path": "profile/A/A-003-Andrew Drozd - Iron Sentinel-乌克兰.md",
         "locator": "L150"
+      }
+    ]
+  },
+  {
+    "url": "https://it-service.network/boppard-bad-salzig",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2359"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2380"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2442"
+      },
+      {
+        "path": "profile/A/A-165-MECO Systemhaus GmbH & Co. KG-德国.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-165-MECO Systemhaus GmbH & Co. KG-德国.md",
+        "locator": "L155"
+      }
+    ]
+  },
+  {
+    "url": "https://it-service.network/boppard-bad-salzig'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L279"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L281"
+      }
+    ]
+  },
+  {
+    "url": "https://it-service.network/boppard-bad-salzig〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-165-MECO Systemhaus GmbH & Co. KG-德国.md",
+        "locator": "L78"
       }
     ]
   },
@@ -17691,15 +18399,11 @@
       },
       {
         "path": "profile/A/A-162-KWS Partner GmbH-德国.md",
-        "locator": "L127"
+        "locator": "L133"
       },
       {
         "path": "profile/A/A-162-KWS Partner GmbH-德国.md",
-        "locator": "L130"
-      },
-      {
-        "path": "profile/A/A-162-KWS Partner GmbH-德国.md",
-        "locator": "L146"
+        "locator": "L136"
       }
     ]
   },
@@ -17712,8 +18416,36 @@
         "locator": "反向信号名单!Q913"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2047"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2068"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2130"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2137"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A160-A179.json",
         "locator": "L44"
+      },
+      {
+        "path": "profile/A/A-162-KWS Partner GmbH-德国.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-162-KWS Partner GmbH-德国.md",
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-162-KWS Partner GmbH-德国.md",
+        "locator": "L152"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -17722,6 +18454,38 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-913/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://kws-partner.de/impressum/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L249"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L250"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L251"
+      }
+    ]
+  },
+  {
+    "url": "https://kws-partner.de/impressum/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-162-KWS Partner GmbH-德国.md",
+        "locator": "L78"
+      },
+      {
+        "path": "profile/A/A-162-KWS Partner GmbH-德国.md",
+        "locator": "L79"
       }
     ]
   },
@@ -18427,19 +19191,97 @@
       },
       {
         "path": "profile/A/A-163-M IT-Systemhaus GmbH-德国.md",
-        "locator": "L127"
+        "locator": "L135"
       },
       {
         "path": "profile/A/A-163-M IT-Systemhaus GmbH-德国.md",
-        "locator": "L130"
+        "locator": "L138"
       },
       {
         "path": "profile/A/A-163-M IT-Systemhaus GmbH-德国.md",
-        "locator": "L133"
+        "locator": "L141"
+      }
+    ]
+  },
+  {
+    "url": "https://m-itsysteme.de/ansprechpartner",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2151"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2172"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2234"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2241"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2248"
       },
       {
         "path": "profile/A/A-163-M IT-Systemhaus GmbH-德国.md",
-        "locator": "L149"
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-163-M IT-Systemhaus GmbH-德国.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-163-M IT-Systemhaus GmbH-德国.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-163-M IT-Systemhaus GmbH-德国.md",
+        "locator": "L157"
+      }
+    ]
+  },
+  {
+    "url": "https://m-itsysteme.de/ansprechpartner'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L259"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L260"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L261"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L262"
+      }
+    ]
+  },
+  {
+    "url": "https://m-itsysteme.de/ansprechpartner〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-163-M IT-Systemhaus GmbH-德国.md",
+        "locator": "L78"
+      },
+      {
+        "path": "profile/A/A-163-M IT-Systemhaus GmbH-德国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-163-M IT-Systemhaus GmbH-德国.md",
+        "locator": "L80"
       }
     ]
   },
@@ -28401,19 +29243,61 @@
       },
       {
         "path": "profile/A/A-170-NiTo IT Systeme GmbH-德国.md",
-        "locator": "L127"
+        "locator": "L137"
       },
       {
         "path": "profile/A/A-170-NiTo IT Systeme GmbH-德国.md",
-        "locator": "L130"
+        "locator": "L140"
       },
       {
         "path": "profile/A/A-170-NiTo IT Systeme GmbH-德国.md",
-        "locator": "L133"
+        "locator": "L143"
+      }
+    ]
+  },
+  {
+    "url": "https://nitoit.de/impressum/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2926"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2997"
       },
       {
         "path": "profile/A/A-170-NiTo IT Systeme GmbH-德国.md",
-        "locator": "L149"
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-170-NiTo IT Systeme GmbH-德国.md",
+        "locator": "L162"
+      }
+    ]
+  },
+  {
+    "url": "https://nitoit.de/impressum/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L334"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L337"
+      }
+    ]
+  },
+  {
+    "url": "https://nitoit.de/impressum/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-170-NiTo IT Systeme GmbH-德国.md",
+        "locator": "L80"
       }
     ]
   },
@@ -28883,23 +29767,65 @@
       },
       {
         "path": "profile/A/A-171-Nutz GmbH-德国.md",
-        "locator": "L127"
+        "locator": "L139"
       },
       {
         "path": "profile/A/A-171-Nutz GmbH-德国.md",
-        "locator": "L130"
+        "locator": "L142"
       },
       {
         "path": "profile/A/A-171-Nutz GmbH-德国.md",
-        "locator": "L133"
+        "locator": "L145"
       },
       {
         "path": "profile/A/A-171-Nutz GmbH-德国.md",
-        "locator": "L136"
+        "locator": "L148"
+      }
+    ]
+  },
+  {
+    "url": "https://nutz.com/en/company/about-us",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L3044"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L3106"
       },
       {
         "path": "profile/A/A-171-Nutz GmbH-德国.md",
-        "locator": "L152"
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-171-Nutz GmbH-德国.md",
+        "locator": "L167"
+      }
+    ]
+  },
+  {
+    "url": "https://nutz.com/en/company/about-us'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L344"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L350"
+      }
+    ]
+  },
+  {
+    "url": "https://nutz.com/en/company/about-us〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-171-Nutz GmbH-德国.md",
+        "locator": "L78"
       }
     ]
   },
@@ -28912,8 +29838,36 @@
         "locator": "反向信号名单!Q923"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L3018"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L3039"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L3113"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L3120"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A160-A179.json",
         "locator": "L177"
+      },
+      {
+        "path": "profile/A/A-171-Nutz GmbH-德国.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-171-Nutz GmbH-德国.md",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-171-Nutz GmbH-德国.md",
+        "locator": "L164"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -28922,6 +29876,38 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-923/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://nutz.com/en/das-impressum-der-nutz-gmbh'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L345"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L346"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L349"
+      }
+    ]
+  },
+  {
+    "url": "https://nutz.com/en/das-impressum-der-nutz-gmbh〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-171-Nutz GmbH-德国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-171-Nutz GmbH-德国.md",
+        "locator": "L80"
       }
     ]
   },
@@ -29114,6 +30100,30 @@
     ]
   },
   {
+    "url": "https://openregister.de/company/DE-HRB-K1101-128423",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1421"
+      },
+      {
+        "path": "profile/A/A-156-Hamburger Meldetechnik GmbH & Co.KG-德国.md",
+        "locator": "L156"
+      }
+    ]
+  },
+  {
+    "url": "https://openregister.de/company/DE-HRB-K1101-128423'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L187"
+      }
+    ]
+  },
+  {
     "url": "https://optiteraglobal.ca",
     "http_checked": false,
     "occurrences": [
@@ -29245,7 +30255,7 @@
       },
       {
         "path": "profile/A/A-157-Human Art Computersysteme GmbH-德国.md",
-        "locator": "L132"
+        "locator": "L140"
       }
     ]
   },
@@ -32248,6 +33258,30 @@
     ]
   },
   {
+    "url": "https://rocketreach.co/michael-schmidt-it-gmbh-profile_b43c96a7c1d742fd",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2489"
+      },
+      {
+        "path": "profile/A/A-166-Michael Schmidt IT GmbH-德国.md",
+        "locator": "L158"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/michael-schmidt-it-gmbh-profile_b43c96a7c1d742fd'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L292"
+      }
+    ]
+  },
+  {
     "url": "https://rocketreach.co/milan-harmacek-email_99105918",
     "http_checked": false,
     "occurrences": [
@@ -32332,6 +33366,102 @@
       {
         "path": "profile/B/B-106-MS Electronics LTD-塞浦路斯.md",
         "locator": "L81"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/np-informationssysteme-gmbh-profile_b5fcaabbf9b773f3",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2768"
+      },
+      {
+        "path": "profile/A/A-168-N+P Informationssysteme GmbH-德国.md",
+        "locator": "L90"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/np-informationssysteme-gmbh-profile_b5fcaabbf9b773f3'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L311"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/np-informationssysteme-gmbh-profile_b5fcaabbf9b773f3〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-168-N+P Informationssysteme GmbH-德国.md",
+        "locator": "L81"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/nutz-gmbh-profile_b5d872c9f42e53fd",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L3049"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L3127"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L3134"
+      },
+      {
+        "path": "profile/A/A-171-Nutz GmbH-德国.md",
+        "locator": "L91"
+      },
+      {
+        "path": "profile/A/A-171-Nutz GmbH-德国.md",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/A/A-171-Nutz GmbH-德国.md",
+        "locator": "L170"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/nutz-gmbh-profile_b5d872c9f42e53fd'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L347"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L348"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L351"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/nutz-gmbh-profile_b5d872c9f42e53fd〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-171-Nutz GmbH-德国.md",
+        "locator": "L81"
+      },
+      {
+        "path": "profile/A/A-171-Nutz GmbH-德国.md",
+        "locator": "L82"
       }
     ]
   },
@@ -37751,7 +38881,7 @@
       },
       {
         "path": "profile/A/A-157-Human Art Computersysteme GmbH-德国.md",
-        "locator": "L132"
+        "locator": "L140"
       }
     ]
   },
@@ -39430,12 +40560,32 @@
         "locator": "L478"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2567"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2588"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2650"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A160-A179.json",
         "locator": "L121"
       },
       {
         "path": "profile/A/A-167-my ITService Wolfgang Deibe-德国.md",
-        "locator": "L137"
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-167-my ITService Wolfgang Deibe-德国.md",
+        "locator": "L141"
+      },
+      {
+        "path": "profile/A/A-167-my ITService Wolfgang Deibe-德国.md",
+        "locator": "L157"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -39444,6 +40594,30 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-919/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://web2.cylex.de/firma-home/my-itservice--inhaber-wolfgang-deibel-4975578.html'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L299"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L300"
+      }
+    ]
+  },
+  {
+    "url": "https://web2.cylex.de/firma-home/my-itservice--inhaber-wolfgang-deibel-4975578.html〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-167-my ITService Wolfgang Deibe-德国.md",
+        "locator": "L79"
       }
     ]
   },
@@ -43734,6 +44908,40 @@
     ]
   },
   {
+    "url": "https://www.alphasystems.com/alphasystems-und-netz16-gehen-gemeinsame-wege/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2886"
+      },
+      {
+        "path": "profile/A/A-169-Netz16 GmbH-德国.md",
+        "locator": "L90"
+      }
+    ]
+  },
+  {
+    "url": "https://www.alphasystems.com/alphasystems-und-netz16-gehen-gemeinsame-wege/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L323"
+      }
+    ]
+  },
+  {
+    "url": "https://www.alphasystems.com/alphasystems-und-netz16-gehen-gemeinsame-wege/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-169-Netz16 GmbH-德国.md",
+        "locator": "L81"
+      }
+    ]
+  },
+  {
     "url": "https://www.alternetivo.cz/kontakt/",
     "http_checked": false,
     "occurrences": [
@@ -45682,6 +46890,30 @@
     ]
   },
   {
+    "url": "https://www.back-intern.de/2023/02/02/compdata-bleibt-auf-wachstumskurs/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L141"
+      },
+      {
+        "path": "profile/A/A-144-CompData Computer GmbH-德国.md",
+        "locator": "L163"
+      }
+    ]
+  },
+  {
+    "url": "https://www.back-intern.de/2023/02/02/compdata-bleibt-auf-wachstumskurs/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L58"
+      }
+    ]
+  },
+  {
     "url": "https://www.balticnetworks.com",
     "http_checked": false,
     "occurrences": [
@@ -46846,6 +48078,52 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-891/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.buerodata.de/Mobile/Layout/ContentPages/frmITSupportOutsourcing.aspx",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L37"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L101"
+      },
+      {
+        "path": "profile/A/A-143-buerodata AG-德国.md",
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-143-buerodata AG-德国.md",
+        "locator": "L158"
+      }
+    ]
+  },
+  {
+    "url": "https://www.buerodata.de/Mobile/Layout/ContentPages/frmITSupportOutsourcing.aspx'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L45"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L47"
+      }
+    ]
+  },
+  {
+    "url": "https://www.buerodata.de/Mobile/Layout/ContentPages/frmITSupportOutsourcing.aspx〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-143-buerodata AG-德国.md",
+        "locator": "L79"
       }
     ]
   },
@@ -48588,6 +49866,142 @@
     ]
   },
   {
+    "url": "https://www.companyhouse.de/GU-BKS-SERVICE-GmbH-Velbert",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1185"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1249"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1256"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1263"
+      },
+      {
+        "path": "profile/A/A-154-GU BKS SERVICE GmbH-德国.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-154-GU BKS SERVICE GmbH-德国.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-154-GU BKS SERVICE GmbH-德国.md",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-154-GU BKS SERVICE GmbH-德国.md",
+        "locator": "L162"
+      }
+    ]
+  },
+  {
+    "url": "https://www.companyhouse.de/GU-BKS-SERVICE-GmbH-Velbert'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L162"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L163"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L164"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L166"
+      }
+    ]
+  },
+  {
+    "url": "https://www.companyhouse.de/GU-BKS-SERVICE-GmbH-Velbert〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-154-GU BKS SERVICE GmbH-德国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-154-GU BKS SERVICE GmbH-德国.md",
+        "locator": "L80"
+      },
+      {
+        "path": "profile/A/A-154-GU BKS SERVICE GmbH-德国.md",
+        "locator": "L81"
+      }
+    ]
+  },
+  {
+    "url": "https://www.companyhouse.de/Gretsch-Unitas-GmbH-Baubeschlaege-Ditzingen",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1138"
+      },
+      {
+        "path": "profile/A/A-152-Gretsch-Unitas GmbH Baubeschläge-德国.md",
+        "locator": "L91"
+      }
+    ]
+  },
+  {
+    "url": "https://www.companyhouse.de/Gretsch-Unitas-GmbH-Baubeschlaege-Ditzingen'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L151"
+      }
+    ]
+  },
+  {
+    "url": "https://www.companyhouse.de/Gretsch-Unitas-GmbH-Baubeschlaege-Ditzingen〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-152-Gretsch-Unitas GmbH Baubeschläge-德国.md",
+        "locator": "L82"
+      }
+    ]
+  },
+  {
+    "url": "https://www.companyhouse.de/M-IT-Systemhaus-GmbH-Muehldorf-a-Inn",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2177"
+      },
+      {
+        "path": "profile/A/A-163-M IT-Systemhaus GmbH-德国.md",
+        "locator": "L160"
+      }
+    ]
+  },
+  {
+    "url": "https://www.companyhouse.de/M-IT-Systemhaus-GmbH-Muehldorf-a-Inn'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L263"
+      }
+    ]
+  },
+  {
     "url": "https://www.companyhouse.de/en/ARCHE-Systeme-GmbH-Wilhelmshaven",
     "http_checked": false,
     "occurrences": [
@@ -49009,23 +50423,69 @@
       },
       {
         "path": "profile/A/A-144-CompData Computer GmbH-德国.md",
-        "locator": "L127"
+        "locator": "L135"
       },
       {
         "path": "profile/A/A-144-CompData Computer GmbH-德国.md",
-        "locator": "L130"
+        "locator": "L138"
       },
       {
         "path": "profile/A/A-144-CompData Computer GmbH-德国.md",
-        "locator": "L133"
+        "locator": "L141"
       },
       {
         "path": "profile/A/A-144-CompData Computer GmbH-德国.md",
+        "locator": "L144"
+      }
+    ]
+  },
+  {
+    "url": "https://www.compdata.de/impressum",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L115"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
         "locator": "L136"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L198"
+      },
+      {
         "path": "profile/A/A-144-CompData Computer GmbH-德国.md",
-        "locator": "L152"
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-144-CompData Computer GmbH-德国.md",
+        "locator": "L160"
+      }
+    ]
+  },
+  {
+    "url": "https://www.compdata.de/impressum'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L54"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L57"
+      }
+    ]
+  },
+  {
+    "url": "https://www.compdata.de/impressum〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-144-CompData Computer GmbH-德国.md",
+        "locator": "L78"
       }
     ]
   },
@@ -50921,23 +52381,117 @@
       },
       {
         "path": "profile/A/A-145-dainox GmbH-德国.md",
-        "locator": "L127"
+        "locator": "L139"
       },
       {
         "path": "profile/A/A-145-dainox GmbH-德国.md",
-        "locator": "L130"
+        "locator": "L142"
       },
       {
         "path": "profile/A/A-145-dainox GmbH-德国.md",
-        "locator": "L133"
+        "locator": "L145"
       },
       {
         "path": "profile/A/A-145-dainox GmbH-德国.md",
-        "locator": "L136"
+        "locator": "L148"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dainox.net/impressum/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L226"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L247"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L314"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L321"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L328"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L335"
       },
       {
         "path": "profile/A/A-145-dainox GmbH-德国.md",
-        "locator": "L152"
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-145-dainox GmbH-德国.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-145-dainox GmbH-德国.md",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-145-dainox GmbH-德国.md",
+        "locator": "L91"
+      },
+      {
+        "path": "profile/A/A-145-dainox GmbH-德国.md",
+        "locator": "L164"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dainox.net/impressum/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L65"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L66"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L67"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L68"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L70"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dainox.net/impressum/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-145-dainox GmbH-德国.md",
+        "locator": "L78"
+      },
+      {
+        "path": "profile/A/A-145-dainox GmbH-德国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-145-dainox GmbH-德国.md",
+        "locator": "L80"
+      },
+      {
+        "path": "profile/A/A-145-dainox GmbH-德国.md",
+        "locator": "L81"
       }
     ]
   },
@@ -51020,10 +52574,72 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第15批.json",
         "locator": "L480"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dallmeier.com/de/impressum",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L356"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L377"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L444"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L458"
       },
       {
         "path": "profile/A/A-146-Dallmeier Electronics GmbH-德国.md",
-        "locator": "L152"
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-146-Dallmeier Electronics GmbH-德国.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-146-Dallmeier Electronics GmbH-德国.md",
+        "locator": "L160"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dallmeier.com/de/impressum'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L79"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L81"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L82"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dallmeier.com/de/impressum〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-146-Dallmeier Electronics GmbH-德国.md",
+        "locator": "L78"
+      },
+      {
+        "path": "profile/A/A-146-Dallmeier Electronics GmbH-德国.md",
+        "locator": "L80"
       }
     ]
   },
@@ -51061,19 +52677,19 @@
       },
       {
         "path": "profile/A/A-146-Dallmeier Electronics GmbH-德国.md",
-        "locator": "L127"
+        "locator": "L135"
       },
       {
         "path": "profile/A/A-146-Dallmeier Electronics GmbH-德国.md",
-        "locator": "L130"
+        "locator": "L138"
       },
       {
         "path": "profile/A/A-146-Dallmeier Electronics GmbH-德国.md",
-        "locator": "L133"
+        "locator": "L141"
       },
       {
         "path": "profile/A/A-146-Dallmeier Electronics GmbH-德国.md",
-        "locator": "L136"
+        "locator": "L144"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -51895,11 +53511,11 @@
       },
       {
         "path": "profile/A/A-143-buerodata AG-德国.md",
-        "locator": "L127"
+        "locator": "L133"
       },
       {
         "path": "profile/A/A-143-buerodata AG-德国.md",
-        "locator": "L130"
+        "locator": "L136"
       }
     ]
   },
@@ -51960,10 +53576,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第15批.json",
         "locator": "L568"
-      },
-      {
-        "path": "profile/A/A-147-Daten- und Telekommunikations-GmbH Dessau-德国.md",
-        "locator": "L153"
       }
     ]
   },
@@ -52001,19 +53613,19 @@
       },
       {
         "path": "profile/A/A-147-Daten- und Telekommunikations-GmbH Dessau-德国.md",
-        "locator": "L128"
+        "locator": "L136"
       },
       {
         "path": "profile/A/A-147-Daten- und Telekommunikations-GmbH Dessau-德国.md",
-        "locator": "L131"
+        "locator": "L139"
       },
       {
         "path": "profile/A/A-147-Daten- und Telekommunikations-GmbH Dessau-德国.md",
-        "locator": "L134"
+        "locator": "L142"
       },
       {
         "path": "profile/A/A-147-Daten- und Telekommunikations-GmbH Dessau-德国.md",
-        "locator": "L137"
+        "locator": "L145"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -53925,19 +55537,127 @@
       },
       {
         "path": "profile/A/A-149-Dresdner ProSoft GmbH-德国.md",
-        "locator": "L127"
+        "locator": "L137"
       },
       {
         "path": "profile/A/A-149-Dresdner ProSoft GmbH-德国.md",
-        "locator": "L130"
+        "locator": "L140"
       },
       {
         "path": "profile/A/A-149-Dresdner ProSoft GmbH-德国.md",
-        "locator": "L133"
+        "locator": "L143"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dresdner-prosoft.com/datenschutzerklaerung/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L713"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L784"
       },
       {
         "path": "profile/A/A-149-Dresdner ProSoft GmbH-德国.md",
-        "locator": "L149"
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-149-Dresdner ProSoft GmbH-德国.md",
+        "locator": "L162"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dresdner-prosoft.com/datenschutzerklaerung/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L115"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L118"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dresdner-prosoft.com/datenschutzerklaerung/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-149-Dresdner ProSoft GmbH-德国.md",
+        "locator": "L80"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dresdner-prosoft.com/impressum/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L687"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L708"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L770"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L777"
+      },
+      {
+        "path": "profile/A/A-149-Dresdner ProSoft GmbH-德国.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-149-Dresdner ProSoft GmbH-德国.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-149-Dresdner ProSoft GmbH-德国.md",
+        "locator": "L159"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dresdner-prosoft.com/impressum/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L113"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L114"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L117"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dresdner-prosoft.com/impressum/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-149-Dresdner ProSoft GmbH-德国.md",
+        "locator": "L78"
+      },
+      {
+        "path": "profile/A/A-149-Dresdner ProSoft GmbH-德国.md",
+        "locator": "L79"
       }
     ]
   },
@@ -54297,19 +56017,19 @@
       },
       {
         "path": "profile/A/A-150-Eckmann Spezialkabel GmbH-德国.md",
-        "locator": "L128"
+        "locator": "L140"
       },
       {
         "path": "profile/A/A-150-Eckmann Spezialkabel GmbH-德国.md",
-        "locator": "L131"
+        "locator": "L143"
       },
       {
         "path": "profile/A/A-150-Eckmann Spezialkabel GmbH-德国.md",
-        "locator": "L134"
+        "locator": "L146"
       },
       {
         "path": "profile/A/A-150-Eckmann Spezialkabel GmbH-德国.md",
-        "locator": "L137"
+        "locator": "L149"
       }
     ]
   },
@@ -54332,6 +56052,120 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-898/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.eckmann-spezialkabel.co/unser-team",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L805"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L826"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L888"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L895"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L902"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L909"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L916"
+      },
+      {
+        "path": "profile/A/A-150-Eckmann Spezialkabel GmbH-德国.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-150-Eckmann Spezialkabel GmbH-德国.md",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-150-Eckmann Spezialkabel GmbH-德国.md",
+        "locator": "L91"
+      },
+      {
+        "path": "profile/A/A-150-Eckmann Spezialkabel GmbH-德国.md",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/A/A-150-Eckmann Spezialkabel GmbH-德国.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-150-Eckmann Spezialkabel GmbH-德国.md",
+        "locator": "L165"
+      }
+    ]
+  },
+  {
+    "url": "https://www.eckmann-spezialkabel.co/unser-team'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L125"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L126"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L127"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L128"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L129"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L130"
+      }
+    ]
+  },
+  {
+    "url": "https://www.eckmann-spezialkabel.co/unser-team〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-150-Eckmann Spezialkabel GmbH-德国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-150-Eckmann Spezialkabel GmbH-德国.md",
+        "locator": "L80"
+      },
+      {
+        "path": "profile/A/A-150-Eckmann Spezialkabel GmbH-德国.md",
+        "locator": "L81"
+      },
+      {
+        "path": "profile/A/A-150-Eckmann Spezialkabel GmbH-德国.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-150-Eckmann Spezialkabel GmbH-德国.md",
+        "locator": "L83"
       }
     ]
   },
@@ -57905,15 +59739,15 @@
       },
       {
         "path": "profile/A/A-152-Gretsch-Unitas GmbH Baubeschläge-德国.md",
-        "locator": "L129"
+        "locator": "L139"
       },
       {
         "path": "profile/A/A-152-Gretsch-Unitas GmbH Baubeschläge-德国.md",
-        "locator": "L132"
+        "locator": "L142"
       },
       {
         "path": "profile/A/A-152-Gretsch-Unitas GmbH Baubeschläge-德国.md",
-        "locator": "L135"
+        "locator": "L145"
       },
       {
         "path": "profile/A/A-153-Gretsch-Unitas-德国.md",
@@ -58081,19 +59915,65 @@
       },
       {
         "path": "profile/A/A-151-GBS TEMPEST & Service GmbH-德国.md",
-        "locator": "L127"
+        "locator": "L135"
       },
       {
         "path": "profile/A/A-151-GBS TEMPEST & Service GmbH-德国.md",
-        "locator": "L130"
+        "locator": "L138"
       },
       {
         "path": "profile/A/A-151-GBS TEMPEST & Service GmbH-德国.md",
-        "locator": "L133"
+        "locator": "L141"
+      }
+    ]
+  },
+  {
+    "url": "https://www.gbs-tempest.de/en/imprint.php",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L930"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L951"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1013"
       },
       {
         "path": "profile/A/A-151-GBS TEMPEST & Service GmbH-德国.md",
-        "locator": "L149"
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-151-GBS TEMPEST & Service GmbH-德国.md",
+        "locator": "L157"
+      }
+    ]
+  },
+  {
+    "url": "https://www.gbs-tempest.de/en/imprint.php'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L138"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L141"
+      }
+    ]
+  },
+  {
+    "url": "https://www.gbs-tempest.de/en/imprint.php〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-151-GBS TEMPEST & Service GmbH-德国.md",
+        "locator": "L78"
       }
     ]
   },
@@ -58304,6 +60184,102 @@
       {
         "path": "profile/A/A-018-Bernhard Kröll - Giganet-奥地利.md",
         "locator": "L127"
+      }
+    ]
+  },
+  {
+    "url": "https://www.git-sicherheit.de/firmen/dallmeier-electronic-gmbh-co-kg",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L387"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L451"
+      },
+      {
+        "path": "profile/A/A-146-Dallmeier Electronics GmbH-德国.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-146-Dallmeier Electronics GmbH-德国.md",
+        "locator": "L166"
+      }
+    ]
+  },
+  {
+    "url": "https://www.git-sicherheit.de/firmen/dallmeier-electronic-gmbh-co-kg'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L80"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L84"
+      }
+    ]
+  },
+  {
+    "url": "https://www.git-sicherheit.de/firmen/dallmeier-electronic-gmbh-co-kg〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-146-Dallmeier Electronics GmbH-德国.md",
+        "locator": "L79"
+      }
+    ]
+  },
+  {
+    "url": "https://www.glaswelt.de/fenster/neue-fuehrungsspitze-dr-teunissen-jetzt-gf-der-unit-baubeschlaege-bei-gretsch-unitas",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1041"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1062"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1124"
+      },
+      {
+        "path": "profile/A/A-152-Gretsch-Unitas GmbH Baubeschläge-德国.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-152-Gretsch-Unitas GmbH Baubeschläge-德国.md",
+        "locator": "L161"
+      }
+    ]
+  },
+  {
+    "url": "https://www.glaswelt.de/fenster/neue-fuehrungsspitze-dr-teunissen-jetzt-gf-der-unit-baubeschlaege-bei-gretsch-unitas'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L149"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L153"
+      }
+    ]
+  },
+  {
+    "url": "https://www.glaswelt.de/fenster/neue-fuehrungsspitze-dr-teunissen-jetzt-gf-der-unit-baubeschlaege-bei-gretsch-unitas〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-152-Gretsch-Unitas GmbH Baubeschläge-德国.md",
+        "locator": "L80"
       }
     ]
   },
@@ -58744,10 +60720,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第16批.json",
         "locator": "L298"
-      },
-      {
-        "path": "profile/A/A-154-GU BKS SERVICE GmbH-德国.md",
-        "locator": "L149"
       }
     ]
   },
@@ -58773,15 +60745,65 @@
       },
       {
         "path": "profile/A/A-154-GU BKS SERVICE GmbH-德国.md",
-        "locator": "L127"
+        "locator": "L137"
       },
       {
         "path": "profile/A/A-154-GU BKS SERVICE GmbH-德国.md",
-        "locator": "L130"
+        "locator": "L140"
       },
       {
         "path": "profile/A/A-154-GU BKS SERVICE GmbH-德国.md",
-        "locator": "L133"
+        "locator": "L143"
+      }
+    ]
+  },
+  {
+    "url": "https://www.gu-bks.de/de/impressum.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1159"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1180"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1242"
+      },
+      {
+        "path": "profile/A/A-154-GU BKS SERVICE GmbH-德国.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-154-GU BKS SERVICE GmbH-德国.md",
+        "locator": "L159"
+      }
+    ]
+  },
+  {
+    "url": "https://www.gu-bks.de/de/impressum.html'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L161"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L165"
+      }
+    ]
+  },
+  {
+    "url": "https://www.gu-bks.de/de/impressum.html〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-154-GU BKS SERVICE GmbH-德国.md",
+        "locator": "L78"
       }
     ]
   },
@@ -59183,19 +61205,15 @@
       },
       {
         "path": "profile/A/A-156-Hamburger Meldetechnik GmbH & Co.KG-德国.md",
-        "locator": "L127"
+        "locator": "L131"
       },
       {
         "path": "profile/A/A-156-Hamburger Meldetechnik GmbH & Co.KG-德国.md",
-        "locator": "L130"
+        "locator": "L134"
       },
       {
         "path": "profile/A/A-156-Hamburger Meldetechnik GmbH & Co.KG-德国.md",
-        "locator": "L133"
-      },
-      {
-        "path": "profile/A/A-156-Hamburger Meldetechnik GmbH & Co.KG-德国.md",
-        "locator": "L149"
+        "locator": "L137"
       }
     ]
   },
@@ -59218,6 +61236,56 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-906/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.hmt-hamburg.com/ueber-uns/unternehmen",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1395"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1416"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1478"
+      },
+      {
+        "path": "profile/A/A-156-Hamburger Meldetechnik GmbH & Co.KG-德国.md",
+        "locator": "L84"
+      },
+      {
+        "path": "profile/A/A-156-Hamburger Meldetechnik GmbH & Co.KG-德国.md",
+        "locator": "L153"
+      }
+    ]
+  },
+  {
+    "url": "https://www.hmt-hamburg.com/ueber-uns/unternehmen'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L185"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L186"
+      }
+    ]
+  },
+  {
+    "url": "https://www.hmt-hamburg.com/ueber-uns/unternehmen〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-156-Hamburger Meldetechnik GmbH & Co.KG-德国.md",
+        "locator": "L78"
       }
     ]
   },
@@ -59505,23 +61573,19 @@
       },
       {
         "path": "profile/A/A-155-H & G Hansen & Gieraths EDV Vertriebs GmbH-德国.md",
-        "locator": "L127"
+        "locator": "L137"
       },
       {
         "path": "profile/A/A-155-H & G Hansen & Gieraths EDV Vertriebs GmbH-德国.md",
-        "locator": "L130"
+        "locator": "L140"
       },
       {
         "path": "profile/A/A-155-H & G Hansen & Gieraths EDV Vertriebs GmbH-德国.md",
-        "locator": "L133"
+        "locator": "L143"
       },
       {
         "path": "profile/A/A-155-H & G Hansen & Gieraths EDV Vertriebs GmbH-德国.md",
-        "locator": "L136"
-      },
-      {
-        "path": "profile/A/A-155-H & G Hansen & Gieraths EDV Vertriebs GmbH-德国.md",
-        "locator": "L152"
+        "locator": "L146"
       }
     ]
   },
@@ -59557,7 +61621,7 @@
       },
       {
         "path": "profile/A/A-157-Human Art Computersysteme GmbH-德国.md",
-        "locator": "L132"
+        "locator": "L140"
       }
     ]
   },
@@ -59572,10 +61636,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第16批.json",
         "locator": "L566"
-      },
-      {
-        "path": "profile/A/A-157-Human Art Computersysteme GmbH-德国.md",
-        "locator": "L152"
       }
     ]
   },
@@ -59597,11 +61657,61 @@
       },
       {
         "path": "profile/A/A-157-Human Art Computersysteme GmbH-德国.md",
-        "locator": "L133"
+        "locator": "L141"
       },
       {
         "path": "profile/A/A-157-Human Art Computersysteme GmbH-德国.md",
-        "locator": "L136"
+        "locator": "L144"
+      }
+    ]
+  },
+  {
+    "url": "https://www.human-art.de/impressum",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1492"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1513"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1575"
+      },
+      {
+        "path": "profile/A/A-157-Human Art Computersysteme GmbH-德国.md",
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-157-Human Art Computersysteme GmbH-德国.md",
+        "locator": "L160"
+      }
+    ]
+  },
+  {
+    "url": "https://www.human-art.de/impressum'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L194"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L197"
+      }
+    ]
+  },
+  {
+    "url": "https://www.human-art.de/impressum〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-157-Human Art Computersysteme GmbH-德国.md",
+        "locator": "L78"
       }
     ]
   },
@@ -60408,6 +62518,30 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-72/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.industrieverein.org/index.php/firmendetails/np-informationssysteme-gmbh.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2690"
+      },
+      {
+        "path": "profile/A/A-168-N+P Informationssysteme GmbH-德国.md",
+        "locator": "L165"
+      }
+    ]
+  },
+  {
+    "url": "https://www.industrieverein.org/index.php/firmendetails/np-informationssysteme-gmbh.html'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L313"
       }
     ]
   },
@@ -61437,23 +63571,19 @@
       },
       {
         "path": "profile/A/A-160-ISIMKO GmbH-德国.md",
-        "locator": "L127"
+        "locator": "L137"
       },
       {
         "path": "profile/A/A-160-ISIMKO GmbH-德国.md",
-        "locator": "L130"
+        "locator": "L140"
       },
       {
         "path": "profile/A/A-160-ISIMKO GmbH-德国.md",
-        "locator": "L133"
+        "locator": "L143"
       },
       {
         "path": "profile/A/A-160-ISIMKO GmbH-德国.md",
-        "locator": "L136"
-      },
-      {
-        "path": "profile/A/A-160-ISIMKO GmbH-德国.md",
-        "locator": "L152"
+        "locator": "L146"
       }
     ]
   },
@@ -61466,8 +63596,36 @@
         "locator": "反向信号名单!Q911"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1818"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1839"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1901"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1908"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A160-A179.json",
         "locator": "L14"
+      },
+      {
+        "path": "profile/A/A-160-ISIMKO GmbH-德国.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-160-ISIMKO GmbH-德国.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-160-ISIMKO GmbH-德国.md",
+        "locator": "L162"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -61476,6 +63634,38 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-911/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.isimko.de/impressum/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L226"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L227"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L230"
+      }
+    ]
+  },
+  {
+    "url": "https://www.isimko.de/impressum/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-160-ISIMKO GmbH-德国.md",
+        "locator": "L78"
+      },
+      {
+        "path": "profile/A/A-160-ISIMKO GmbH-德国.md",
+        "locator": "L79"
       }
     ]
   },
@@ -61578,6 +63768,64 @@
       {
         "path": "profile/A/A-294-Steve Discher-美国.md",
         "locator": "L136"
+      }
+    ]
+  },
+  {
+    "url": "https://www.it-in-germany.de/firma/NiTo+IT+Systeme+GmbH/6041748/64641/deu",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L3004"
+      },
+      {
+        "path": "profile/A/A-170-NiTo IT Systeme GmbH-德国.md",
+        "locator": "L90"
+      }
+    ]
+  },
+  {
+    "url": "https://www.it-in-germany.de/firma/NiTo+IT+Systeme+GmbH/6041748/64641/deu'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L335"
+      }
+    ]
+  },
+  {
+    "url": "https://www.it-in-germany.de/firma/NiTo+IT+Systeme+GmbH/6041748/64641/deu〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-170-NiTo IT Systeme GmbH-德国.md",
+        "locator": "L81"
+      }
+    ]
+  },
+  {
+    "url": "https://www.it-management.today/inducio-gmbh-revolutioniert-die-netzwerkverwaltung-mit-cod-die-zukunftssichere-it-loesung-fuer-kritische-infrastrukturen/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1629"
+      },
+      {
+        "path": "profile/A/A-158-Inducio GmbH-德国.md",
+        "locator": "L161"
+      }
+    ]
+  },
+  {
+    "url": "https://www.it-management.today/inducio-gmbh-revolutioniert-die-netzwerkverwaltung-mit-cod-die-zukunftssichere-it-loesung-fuer-kritische-infrastrukturen/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L208"
       }
     ]
   },
@@ -62544,20 +64792,74 @@
         "locator": "L32"
       },
       {
-        "path": "profile/A/A-161-JOTT Consulting GmbH-德国.md",
-        "locator": "L127"
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1936"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1957"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2019"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2026"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2033"
       },
       {
         "path": "profile/A/A-161-JOTT Consulting GmbH-德国.md",
-        "locator": "L130"
+        "locator": "L86"
       },
       {
         "path": "profile/A/A-161-JOTT Consulting GmbH-德国.md",
-        "locator": "L133"
+        "locator": "L87"
       },
       {
         "path": "profile/A/A-161-JOTT Consulting GmbH-德国.md",
-        "locator": "L149"
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-161-JOTT Consulting GmbH-德国.md",
+        "locator": "L135"
+      },
+      {
+        "path": "profile/A/A-161-JOTT Consulting GmbH-德国.md",
+        "locator": "L138"
+      },
+      {
+        "path": "profile/A/A-161-JOTT Consulting GmbH-德国.md",
+        "locator": "L141"
+      },
+      {
+        "path": "profile/A/A-161-JOTT Consulting GmbH-德国.md",
+        "locator": "L157"
+      }
+    ]
+  },
+  {
+    "url": "https://www.jott.consulting/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L238"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L239"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L240"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L241"
       }
     ]
   },
@@ -62602,6 +64904,24 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-912/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.jott.consulting/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-161-JOTT Consulting GmbH-德国.md",
+        "locator": "L78"
+      },
+      {
+        "path": "profile/A/A-161-JOTT Consulting GmbH-德国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-161-JOTT Consulting GmbH-德国.md",
+        "locator": "L80"
       }
     ]
   },
@@ -63104,6 +65424,30 @@
       {
         "path": "batch/contact_research_2026-09-28_R53_B复筛升级.json",
         "locator": "L2593"
+      }
+    ]
+  },
+  {
+    "url": "https://www.keytobavaria.com/company-details/dallmeier-electronic-gmbh-cokg-17051",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L382"
+      },
+      {
+        "path": "profile/A/A-146-Dallmeier Electronics GmbH-德国.md",
+        "locator": "L163"
+      }
+    ]
+  },
+  {
+    "url": "https://www.keytobavaria.com/company-details/dallmeier-electronic-gmbh-cokg-17051'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L83"
       }
     ]
   },
@@ -64098,6 +66442,30 @@
       {
         "path": "scripts/R64_KP猎捕.py",
         "locator": "L60"
+      }
+    ]
+  },
+  {
+    "url": "https://www.lieferanten.de/lieferant-25601-eckmann-spezialkabel-gmbh.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L831"
+      },
+      {
+        "path": "profile/A/A-150-Eckmann Spezialkabel GmbH-德国.md",
+        "locator": "L168"
+      }
+    ]
+  },
+  {
+    "url": "https://www.lieferanten.de/lieferant-25601-eckmann-spezialkabel-gmbh.html'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L131"
       }
     ]
   },
@@ -72209,15 +74577,11 @@
       },
       {
         "path": "profile/A/A-164-m² IT Solutions e. K-德国.md",
-        "locator": "L127"
+        "locator": "L131"
       },
       {
         "path": "profile/A/A-164-m² IT Solutions e. K-德国.md",
-        "locator": "L130"
-      },
-      {
-        "path": "profile/A/A-164-m² IT Solutions e. K-德国.md",
-        "locator": "L146"
+        "locator": "L134"
       }
     ]
   },
@@ -72230,8 +74594,28 @@
         "locator": "反向信号名单!Q915"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2262"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2283"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2345"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A160-A179.json",
         "locator": "L70"
+      },
+      {
+        "path": "profile/A/A-164-m² IT Solutions e. K-德国.md",
+        "locator": "L84"
+      },
+      {
+        "path": "profile/A/A-164-m² IT Solutions e. K-德国.md",
+        "locator": "L150"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -72240,6 +74624,30 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-915/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.m2-it-solutions.de/impressum/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L270"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L271"
+      }
+    ]
+  },
+  {
+    "url": "https://www.m2-it-solutions.de/impressum/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-164-m² IT Solutions e. K-德国.md",
+        "locator": "L78"
       }
     ]
   },
@@ -72849,15 +75257,11 @@
       },
       {
         "path": "profile/A/A-165-MECO Systemhaus GmbH & Co. KG-德国.md",
-        "locator": "L127"
+        "locator": "L133"
       },
       {
         "path": "profile/A/A-165-MECO Systemhaus GmbH & Co. KG-德国.md",
-        "locator": "L130"
-      },
-      {
-        "path": "profile/A/A-165-MECO Systemhaus GmbH & Co. KG-德国.md",
-        "locator": "L149"
+        "locator": "L136"
       }
     ]
   },
@@ -75069,19 +77473,15 @@
       },
       {
         "path": "profile/A/A-166-Michael Schmidt IT GmbH-德国.md",
-        "locator": "L127"
-      },
-      {
-        "path": "profile/A/A-166-Michael Schmidt IT GmbH-德国.md",
-        "locator": "L130"
-      },
-      {
-        "path": "profile/A/A-166-Michael Schmidt IT GmbH-德国.md",
         "locator": "L133"
       },
       {
         "path": "profile/A/A-166-Michael Schmidt IT GmbH-德国.md",
-        "locator": "L149"
+        "locator": "L136"
+      },
+      {
+        "path": "profile/A/A-166-Michael Schmidt IT GmbH-德国.md",
+        "locator": "L139"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -75116,6 +77516,90 @@
     ]
   },
   {
+    "url": "https://www.msit-gmbh.de/it-consulting/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2553"
+      },
+      {
+        "path": "profile/A/A-166-Michael Schmidt IT GmbH-德国.md",
+        "locator": "L86"
+      }
+    ]
+  },
+  {
+    "url": "https://www.msit-gmbh.de/it-consulting/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L290"
+      }
+    ]
+  },
+  {
+    "url": "https://www.msit-gmbh.de/it-consulting/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-166-Michael Schmidt IT GmbH-德国.md",
+        "locator": "L79"
+      }
+    ]
+  },
+  {
+    "url": "https://www.msit-gmbh.de/ueber-michael-schmidt-it-gmbh-ihr-it-systemhaus-fuer-erlangen-und-nuernberg/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2463"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2484"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2546"
+      },
+      {
+        "path": "profile/A/A-166-Michael Schmidt IT GmbH-德国.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-166-Michael Schmidt IT GmbH-德国.md",
+        "locator": "L155"
+      }
+    ]
+  },
+  {
+    "url": "https://www.msit-gmbh.de/ueber-michael-schmidt-it-gmbh-ihr-it-systemhaus-fuer-erlangen-und-nuernberg/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L289"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L291"
+      }
+    ]
+  },
+  {
+    "url": "https://www.msit-gmbh.de/ueber-michael-schmidt-it-gmbh-ihr-it-systemhaus-fuer-erlangen-und-nuernberg/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-166-Michael Schmidt IT GmbH-德国.md",
+        "locator": "L78"
+      }
+    ]
+  },
+  {
     "url": "https://www.mstronics.com/",
     "http_checked": false,
     "occurrences": [
@@ -75139,7 +77623,7 @@
       },
       {
         "path": "profile/A/A-143-buerodata AG-德国.md",
-        "locator": "L133"
+        "locator": "L139"
       }
     ]
   },
@@ -75269,19 +77753,15 @@
       },
       {
         "path": "profile/A/A-167-my ITService Wolfgang Deibe-德国.md",
-        "locator": "L128"
+        "locator": "L132"
       },
       {
         "path": "profile/A/A-167-my ITService Wolfgang Deibe-德国.md",
-        "locator": "L131"
+        "locator": "L135"
       },
       {
         "path": "profile/A/A-167-my ITService Wolfgang Deibe-德国.md",
-        "locator": "L134"
-      },
-      {
-        "path": "profile/A/A-167-my ITService Wolfgang Deibe-德国.md",
-        "locator": "L153"
+        "locator": "L138"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -76525,19 +79005,15 @@
       },
       {
         "path": "profile/A/A-169-Netz16 GmbH-德国.md",
-        "locator": "L127"
+        "locator": "L137"
       },
       {
         "path": "profile/A/A-169-Netz16 GmbH-德国.md",
-        "locator": "L130"
+        "locator": "L140"
       },
       {
         "path": "profile/A/A-169-Netz16 GmbH-德国.md",
-        "locator": "L133"
-      },
-      {
-        "path": "profile/A/A-169-Netz16 GmbH-德国.md",
-        "locator": "L149"
+        "locator": "L143"
       }
     ]
   },
@@ -76560,6 +79036,118 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-921/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.netz16.de/netz16-waechst-weiter-uebernahme-der-parit-gmbh/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2808"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2879"
+      },
+      {
+        "path": "profile/A/A-169-Netz16 GmbH-德国.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-169-Netz16 GmbH-德国.md",
+        "locator": "L162"
+      }
+    ]
+  },
+  {
+    "url": "https://www.netz16.de/netz16-waechst-weiter-uebernahme-der-parit-gmbh/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L322"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L325"
+      }
+    ]
+  },
+  {
+    "url": "https://www.netz16.de/netz16-waechst-weiter-uebernahme-der-parit-gmbh/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-169-Netz16 GmbH-德国.md",
+        "locator": "L80"
+      }
+    ]
+  },
+  {
+    "url": "https://www.netz16.de/ueber-uns/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2782"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2803"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2865"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2872"
+      },
+      {
+        "path": "profile/A/A-169-Netz16 GmbH-德国.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-169-Netz16 GmbH-德国.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-169-Netz16 GmbH-德国.md",
+        "locator": "L159"
+      }
+    ]
+  },
+  {
+    "url": "https://www.netz16.de/ueber-uns/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L320"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L321"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L324"
+      }
+    ]
+  },
+  {
+    "url": "https://www.netz16.de/ueber-uns/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-169-Netz16 GmbH-德国.md",
+        "locator": "L78"
+      },
+      {
+        "path": "profile/A/A-169-Netz16 GmbH-德国.md",
+        "locator": "L79"
       }
     ]
   },
@@ -77456,6 +80044,56 @@
     ]
   },
   {
+    "url": "https://www.northdata.de/H+&+G+Hansen+&+Gieraths+EDV+Vertriebsgesellschaft+mbH,+Bonn/HRB+4027",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1374"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1381"
+      },
+      {
+        "path": "profile/A/A-155-H & G Hansen & Gieraths EDV Vertriebs GmbH-德国.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-155-H & G Hansen & Gieraths EDV Vertriebs GmbH-德国.md",
+        "locator": "L90"
+      }
+    ]
+  },
+  {
+    "url": "https://www.northdata.de/H+&+G+Hansen+&+Gieraths+EDV+Vertriebsgesellschaft+mbH,+Bonn/HRB+4027'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L175"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L176"
+      }
+    ]
+  },
+  {
+    "url": "https://www.northdata.de/H+&+G+Hansen+&+Gieraths+EDV+Vertriebsgesellschaft+mbH,+Bonn/HRB+4027〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-155-H & G Hansen & Gieraths EDV Vertriebs GmbH-德国.md",
+        "locator": "L80"
+      },
+      {
+        "path": "profile/A/A-155-H & G Hansen & Gieraths EDV Vertriebs GmbH-德国.md",
+        "locator": "L81"
+      }
+    ]
+  },
+  {
     "url": "https://www.ntsdirect.com",
     "http_checked": false,
     "occurrences": [
@@ -77571,23 +80209,107 @@
       },
       {
         "path": "profile/A/A-168-N+P Informationssysteme GmbH-德国.md",
-        "locator": "L127"
+        "locator": "L137"
       },
       {
         "path": "profile/A/A-168-N+P Informationssysteme GmbH-德国.md",
-        "locator": "L130"
+        "locator": "L140"
       },
       {
         "path": "profile/A/A-168-N+P Informationssysteme GmbH-德国.md",
-        "locator": "L133"
+        "locator": "L143"
       },
       {
         "path": "profile/A/A-168-N+P Informationssysteme GmbH-德国.md",
-        "locator": "L136"
+        "locator": "L146"
+      }
+    ]
+  },
+  {
+    "url": "https://www.nupis.de/Unternehmen'.replace('Unternehmen','unternehmen')",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L308"
+      }
+    ]
+  },
+  {
+    "url": "https://www.nupis.de/unternehmen",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2664"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2685"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2747"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2754"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2761"
       },
       {
         "path": "profile/A/A-168-N+P Informationssysteme GmbH-德国.md",
-        "locator": "L152"
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-168-N+P Informationssysteme GmbH-德国.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-168-N+P Informationssysteme GmbH-德国.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-168-N+P Informationssysteme GmbH-德国.md",
+        "locator": "L162"
+      }
+    ]
+  },
+  {
+    "url": "https://www.nupis.de/unternehmen'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L309"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L310"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L312"
+      }
+    ]
+  },
+  {
+    "url": "https://www.nupis.de/unternehmen〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-168-N+P Informationssysteme GmbH-德国.md",
+        "locator": "L78"
+      },
+      {
+        "path": "profile/A/A-168-N+P Informationssysteme GmbH-德国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-168-N+P Informationssysteme GmbH-德国.md",
+        "locator": "L80"
       }
     ]
   },
@@ -77829,19 +80551,15 @@
       },
       {
         "path": "profile/A/A-172-OAS AG-德国.md",
-        "locator": "L127"
+        "locator": "L137"
       },
       {
         "path": "profile/A/A-172-OAS AG-德国.md",
-        "locator": "L130"
+        "locator": "L140"
       },
       {
         "path": "profile/A/A-172-OAS AG-德国.md",
-        "locator": "L133"
-      },
-      {
-        "path": "profile/A/A-172-OAS AG-德国.md",
-        "locator": "L149"
+        "locator": "L143"
       }
     ]
   },
@@ -77886,6 +80604,52 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-924/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.oas.de/loesungen/40-jahre-oas-die-taetigkeitsfelder-der-oas-ag-automation",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L3174"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L3245"
+      },
+      {
+        "path": "profile/A/A-172-OAS AG-德国.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-172-OAS AG-德国.md",
+        "locator": "L162"
+      }
+    ]
+  },
+  {
+    "url": "https://www.oas.de/loesungen/40-jahre-oas-die-taetigkeitsfelder-der-oas-ag-automation'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L360"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L363"
+      }
+    ]
+  },
+  {
+    "url": "https://www.oas.de/loesungen/40-jahre-oas-die-taetigkeitsfelder-der-oas-ag-automation〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-172-OAS AG-德国.md",
+        "locator": "L80"
       }
     ]
   },
@@ -78284,6 +81048,114 @@
       {
         "path": "profile/B/B-021-Omnilink-乌克兰.md",
         "locator": "L129"
+      }
+    ]
+  },
+  {
+    "url": "https://www.online-handelsregister.de/handelsregisterauszug/br/Cottbus/HRB/472CB/ISIMKO-GmbH",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1844"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1915"
+      },
+      {
+        "path": "profile/A/A-160-ISIMKO GmbH-德国.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-160-ISIMKO GmbH-德国.md",
+        "locator": "L165"
+      }
+    ]
+  },
+  {
+    "url": "https://www.online-handelsregister.de/handelsregisterauszug/br/Cottbus/HRB/472CB/ISIMKO-GmbH'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L228"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L231"
+      }
+    ]
+  },
+  {
+    "url": "https://www.online-handelsregister.de/handelsregisterauszug/br/Cottbus/HRB/472CB/ISIMKO-GmbH〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-160-ISIMKO GmbH-德国.md",
+        "locator": "L80"
+      }
+    ]
+  },
+  {
+    "url": "https://www.online-handelsregister.de/handelsregisterauszug/bw/Stuttgart/HRB/202061/Gretsch-Unitas-GmbH-Baubeschlaege",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1067"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1131"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1145"
+      },
+      {
+        "path": "profile/A/A-152-Gretsch-Unitas GmbH Baubeschläge-德国.md",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-152-Gretsch-Unitas GmbH Baubeschläge-德国.md",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/A/A-152-Gretsch-Unitas GmbH Baubeschläge-德国.md",
+        "locator": "L164"
+      }
+    ]
+  },
+  {
+    "url": "https://www.online-handelsregister.de/handelsregisterauszug/bw/Stuttgart/HRB/202061/Gretsch-Unitas-GmbH-Baubeschlaege'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L150"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L152"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L154"
+      }
+    ]
+  },
+  {
+    "url": "https://www.online-handelsregister.de/handelsregisterauszug/bw/Stuttgart/HRB/202061/Gretsch-Unitas-GmbH-Baubeschlaege〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-152-Gretsch-Unitas GmbH Baubeschläge-德国.md",
+        "locator": "L81"
+      },
+      {
+        "path": "profile/A/A-152-Gretsch-Unitas GmbH Baubeschläge-德国.md",
+        "locator": "L83"
       }
     ]
   },
@@ -79124,20 +81996,60 @@
         "locator": "L212"
       },
       {
-        "path": "profile/A/A-173-Phoenix IT Solutions-德国.md",
-        "locator": "L127"
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L3266"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L3287"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L3344"
       },
       {
         "path": "profile/A/A-173-Phoenix IT Solutions-德国.md",
-        "locator": "L130"
+        "locator": "L84"
       },
       {
         "path": "profile/A/A-173-Phoenix IT Solutions-德国.md",
-        "locator": "L133"
+        "locator": "L131"
       },
       {
         "path": "profile/A/A-173-Phoenix IT Solutions-德国.md",
-        "locator": "L149"
+        "locator": "L134"
+      },
+      {
+        "path": "profile/A/A-173-Phoenix IT Solutions-德国.md",
+        "locator": "L137"
+      },
+      {
+        "path": "profile/A/A-173-Phoenix IT Solutions-德国.md",
+        "locator": "L153"
+      }
+    ]
+  },
+  {
+    "url": "https://www.phoenix-itsolutions.de/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L370"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L371"
+      }
+    ]
+  },
+  {
+    "url": "https://www.phoenix-itsolutions.de/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-173-Phoenix IT Solutions-德国.md",
+        "locator": "L78"
       }
     ]
   },
@@ -81744,6 +84656,88 @@
       {
         "path": "scripts/R66_R56_KP第17波落盘.py",
         "locator": "L88"
+      }
+    ]
+  },
+  {
+    "url": "https://www.schuettgut.vogel.de/neue-vorstandsvorsitzende-der-oas-ag-a-897c103c7191615f47c03902000f3a52/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L3148"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L3169"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L3231"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L3238"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L3252"
+      },
+      {
+        "path": "profile/A/A-172-OAS AG-德国.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-172-OAS AG-德国.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-172-OAS AG-德国.md",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-172-OAS AG-德国.md",
+        "locator": "L159"
+      }
+    ]
+  },
+  {
+    "url": "https://www.schuettgut.vogel.de/neue-vorstandsvorsitzende-der-oas-ag-a-897c103c7191615f47c03902000f3a52/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L358"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L359"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L361"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L362"
+      }
+    ]
+  },
+  {
+    "url": "https://www.schuettgut.vogel.de/neue-vorstandsvorsitzende-der-oas-ag-a-897c103c7191615f47c03902000f3a52/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-172-OAS AG-德国.md",
+        "locator": "L78"
+      },
+      {
+        "path": "profile/A/A-172-OAS AG-德国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-172-OAS AG-德国.md",
+        "locator": "L81"
       }
     ]
   },
@@ -86637,7 +89631,7 @@
       },
       {
         "path": "profile/A/A-165-MECO Systemhaus GmbH & Co. KG-德国.md",
-        "locator": "L133"
+        "locator": "L139"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -87058,6 +90052,30 @@
       {
         "path": "profile/B/B-225-Foxconcept-比利时.md",
         "locator": "L122"
+      }
+    ]
+  },
+  {
+    "url": "https://www.viaductus.de/firma/DE-W1215-HRB-15048-daten-und-telekommunikations-gmbh-dessau-dessau-rosslau",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L498"
+      },
+      {
+        "path": "profile/A/A-147-Daten- und Telekommunikations-GmbH Dessau-德国.md",
+        "locator": "L164"
+      }
+    ]
+  },
+  {
+    "url": "https://www.viaductus.de/firma/DE-W1215-HRB-15048-daten-und-telekommunikations-gmbh-dessau-dessau-rosslau'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L96"
       }
     ]
   },
@@ -87906,6 +90924,186 @@
     ]
   },
   {
+    "url": "https://www.webvalid.de/company/Daten-+und+Telekommunikations-GmbH+Dessau,+Dessau-Ro%C3%9Flau/HRB+15048",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L562"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L569"
+      },
+      {
+        "path": "profile/A/A-147-Daten- und Telekommunikations-GmbH Dessau-德国.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-147-Daten- und Telekommunikations-GmbH Dessau-德国.md",
+        "locator": "L89"
+      }
+    ]
+  },
+  {
+    "url": "https://www.webvalid.de/company/Daten-+und+Telekommunikations-GmbH+Dessau,+Dessau-Ro%C3%9Flau/HRB+15048'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L93"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L94"
+      }
+    ]
+  },
+  {
+    "url": "https://www.webvalid.de/company/Daten-+und+Telekommunikations-GmbH+Dessau,+Dessau-Ro%C3%9Flau/HRB+15048〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-147-Daten- und Telekommunikations-GmbH Dessau-德国.md",
+        "locator": "L80"
+      },
+      {
+        "path": "profile/A/A-147-Daten- und Telekommunikations-GmbH Dessau-德国.md",
+        "locator": "L81"
+      }
+    ]
+  },
+  {
+    "url": "https://www.webvalid.de/company/GBS+TEMPEST+&+Service+GmbH,+Diepholz/HRB+201609",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1020"
+      },
+      {
+        "path": "profile/A/A-151-GBS TEMPEST & Service GmbH-德国.md",
+        "locator": "L87"
+      }
+    ]
+  },
+  {
+    "url": "https://www.webvalid.de/company/GBS+TEMPEST+&+Service+GmbH,+Diepholz/HRB+201609'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L139"
+      }
+    ]
+  },
+  {
+    "url": "https://www.webvalid.de/company/GBS+TEMPEST+&+Service+GmbH,+Diepholz/HRB+201609〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-151-GBS TEMPEST & Service GmbH-德国.md",
+        "locator": "L79"
+      }
+    ]
+  },
+  {
+    "url": "https://www.webvalid.de/company/Human+Art+Computersysteme+GmbH,+Berlin/HRB+54775+B",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1518"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1582"
+      },
+      {
+        "path": "profile/A/A-157-Human Art Computersysteme GmbH-德国.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-157-Human Art Computersysteme GmbH-德国.md",
+        "locator": "L163"
+      }
+    ]
+  },
+  {
+    "url": "https://www.webvalid.de/company/Human+Art+Computersysteme+GmbH,+Berlin/HRB+54775+B'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L195"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L198"
+      }
+    ]
+  },
+  {
+    "url": "https://www.webvalid.de/company/Human+Art+Computersysteme+GmbH,+Berlin/HRB+54775+B〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-157-Human Art Computersysteme GmbH-德国.md",
+        "locator": "L79"
+      }
+    ]
+  },
+  {
+    "url": "https://www.webvalid.de/company/NiTo+IT+Systeme+GmbH,+Berlin/HRB+216686",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2900"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2921"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2990"
+      },
+      {
+        "path": "profile/A/A-170-NiTo IT Systeme GmbH-德国.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-170-NiTo IT Systeme GmbH-德国.md",
+        "locator": "L159"
+      }
+    ]
+  },
+  {
+    "url": "https://www.webvalid.de/company/NiTo+IT+Systeme+GmbH,+Berlin/HRB+216686'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L333"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L336"
+      }
+    ]
+  },
+  {
+    "url": "https://www.webvalid.de/company/NiTo+IT+Systeme+GmbH,+Berlin/HRB+216686〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-170-NiTo IT Systeme GmbH-德国.md",
+        "locator": "L79"
+      }
+    ]
+  },
+  {
     "url": "https://www.webvalid.de/company/Selos+Informationssysteme+GmbH,+Wilhelmshaven/HRB+130547",
     "http_checked": false,
     "occurrences": [
@@ -87996,8 +91194,48 @@
         "locator": "L212"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L11"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L32"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L94"
+      },
+      {
         "path": "profile/A/A-143-buerodata AG-德国.md",
-        "locator": "L149"
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-143-buerodata AG-德国.md",
+        "locator": "L155"
+      }
+    ]
+  },
+  {
+    "url": "https://www.wer-zu-wem.de/firma/buerodata.html'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L44"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L46"
+      }
+    ]
+  },
+  {
+    "url": "https://www.wer-zu-wem.de/firma/buerodata.html〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-143-buerodata AG-德国.md",
+        "locator": "L78"
       }
     ]
   },
@@ -88768,6 +92006,30 @@
     ]
   },
   {
+    "url": "https://www.wirtschaftsforum.de/gbs-tempest-service-gmbh",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L956"
+      },
+      {
+        "path": "profile/A/A-151-GBS TEMPEST & Service GmbH-德国.md",
+        "locator": "L160"
+      }
+    ]
+  },
+  {
+    "url": "https://www.wirtschaftsforum.de/gbs-tempest-service-gmbh'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L142"
+      }
+    ]
+  },
+  {
     "url": "https://www.wisp.pl",
     "http_checked": false,
     "occurrences": [
@@ -89078,6 +92340,64 @@
     ]
   },
   {
+    "url": "https://www.xing.com/pages/dainoxgmbh",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L252"
+      },
+      {
+        "path": "profile/A/A-145-dainox GmbH-德国.md",
+        "locator": "L167"
+      }
+    ]
+  },
+  {
+    "url": "https://www.xing.com/pages/dainoxgmbh'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L71"
+      }
+    ]
+  },
+  {
+    "url": "https://www.xing.com/pages/dainoxgmbh/employees",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L342"
+      },
+      {
+        "path": "profile/A/A-145-dainox GmbH-德国.md",
+        "locator": "L92"
+      }
+    ]
+  },
+  {
+    "url": "https://www.xing.com/pages/dainoxgmbh/employees'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L69"
+      }
+    ]
+  },
+  {
+    "url": "https://www.xing.com/pages/dainoxgmbh/employees〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-145-dainox GmbH-德国.md",
+        "locator": "L82"
+      }
+    ]
+  },
+  {
     "url": "https://www.xing.com/pages/dresdnerprosoftgmbh",
     "http_checked": false,
     "occurrences": [
@@ -89118,6 +92438,110 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-898/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.xing.com/pages/humanartcomputersystemegmbh",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1589"
+      },
+      {
+        "path": "profile/A/A-157-Human Art Computersysteme GmbH-德国.md",
+        "locator": "L88"
+      }
+    ]
+  },
+  {
+    "url": "https://www.xing.com/pages/humanartcomputersystemegmbh'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L196"
+      }
+    ]
+  },
+  {
+    "url": "https://www.xing.com/pages/humanartcomputersystemegmbh〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-157-Human Art Computersysteme GmbH-德国.md",
+        "locator": "L80"
+      }
+    ]
+  },
+  {
+    "url": "https://www.xing.com/pages/m-itsolutionse-k/about_us",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2288"
+      },
+      {
+        "path": "profile/A/A-164-m² IT Solutions e. K-德国.md",
+        "locator": "L153"
+      }
+    ]
+  },
+  {
+    "url": "https://www.xing.com/pages/m-itsolutionse-k/about_us'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L272"
+      }
+    ]
+  },
+  {
+    "url": "https://www.xing.com/pages/mecosystemhausgmbh-co-kg",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2385"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L2449"
+      },
+      {
+        "path": "profile/A/A-165-MECO Systemhaus GmbH & Co. KG-德国.md",
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-165-MECO Systemhaus GmbH & Co. KG-德国.md",
+        "locator": "L158"
+      }
+    ]
+  },
+  {
+    "url": "https://www.xing.com/pages/mecosystemhausgmbh-co-kg'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L280"
+      },
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L282"
+      }
+    ]
+  },
+  {
+    "url": "https://www.xing.com/pages/mecosystemhausgmbh-co-kg〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-165-MECO Systemhaus GmbH & Co. KG-德国.md",
+        "locator": "L79"
       }
     ]
   },
@@ -89398,6 +92822,40 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第36批.json",
         "locator": "L524"
+      }
+    ]
+  },
+  {
+    "url": "https://www.yellowfox.de/partneruebersicht/isimko-gmbh/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json",
+        "locator": "L1922"
+      },
+      {
+        "path": "profile/A/A-160-ISIMKO GmbH-德国.md",
+        "locator": "L90"
+      }
+    ]
+  },
+  {
+    "url": "https://www.yellowfox.de/partneruebersicht/isimko-gmbh/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
+        "locator": "L229"
+      }
+    ]
+  },
+  {
+    "url": "https://www.yellowfox.de/partneruebersicht/isimko-gmbh/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-160-ISIMKO GmbH-德国.md",
+        "locator": "L81"
       }
     ]
   },

@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】DATEL Daten- und Telekommunikations-GmbH Dessau：**德国 Stadtwerke Dessau 全资子公司**——区域市政 ISP（光纤到户/电话/IPTV/有线电视，1Gbit 消费级套餐 19.95€ 促销）；Google 4.7 分 532 评价；dvv-dessau.de 集团域
-- 【推断】100% 市政公用事业所有=德国公共采购规范（VgV）适用实体；其接入网局端/配线采购走公共框架
-- 【假设】公共事业红线建档不出信（同 Centerprise/Stadtwerke 族：市政全资实体不触）
+- 【事实】Daten- und Telekommunikations-GmbH Dessau:Daten- und Telekommunikations-GmbH Dessau(「DATEL」;Dessau-Roßlau,Albrechtstr. 48;**HRB 15048 Stendal;€50k;1997-12-22 创;USt DE192067013;402 人/€274.6M(集团谱口径)**;**Stadtwerke Dessau 子公司=地方 FTTH/电视/固定网运营商(B2C+市政);谱面对其自营城集团+自家市民服务;距接入链=FTTH 谱**;datel-dessau.de
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,18 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：datel-vertrieb@dvv-dessau.de [Publicly listed; delivery not tested]; https://www.datel-dessau.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Dino Wolfgang Höll**(Geschäftsführer(现任;登记谱 2018+))— implisense/webvalid 登记册谱 〔已有(公司官方公开件/登记册自曝);源:https://app.implisense.com/en/companies/daten-und-telekommunikations-gmbh-dessau-dessau-rosslau--DEJ5ILDOVM07〕
+  - **Torsten Henze**(Einzelprokura(独代理,2022-12-12 在册))— webvalid 登记公告谱 〔已有(公司官方公开件/登记册自曝);源:https://www.webvalid.de/company/Daten-+und+Telekommunikations-GmbH+Dessau,+Dessau-Ro%C3%9Flau/HRB+15048〕
+  - **Fred Kitzing**(Einzelprokura(2022-12-12 在册))— webvalid 登记公告谱 〔已有(公司官方公开件/登记册自曝);源:https://www.webvalid.de/company/Daten-+und+Telekommunikations-GmbH+Dessau,+Dessau-Ro%C3%9Flau/HRB+15048〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Dino Wolfgang Höll | Geschäftsführer(现任;登记谱 2018+) | implisense/webvalid 登记册谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://app.implisense.com/en/companies/daten-und-telekommunikations-gmbh-dessau-dessau-rosslau--DEJ5ILDOVM07 |
+| Torsten Henze | Einzelprokura(独代理,2022-12-12 在册) | webvalid 登记公告谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.webvalid.de/company/Daten-+und+Telekommunikations-GmbH+Dessau,+Dessau-Ro%C3%9Flau/HRB+15048 |
+| Fred Kitzing | Einzelprokura(2022-12-12 在册) | webvalid 登记公告谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.webvalid.de/company/Daten-+und+Telekommunikations-GmbH+Dessau,+Dessau-Ro%C3%9Flau/HRB+15048 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -138,32 +146,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第15批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：Stadtwerke 全资市政 ISP
-- **②芯片/型号**：不适用（红线）
-- **③KP 深挖**：建档不出信
-- **④Saga 对标**：不适用
-- **⑤在乎与偏好**：—
+- **①背景再核**：Daten- und Telekommunikations-GmbH Dessau(「DATEL」;Dessau-Roßlau,Albrechtstr. 48;**HRB 15048 Stendal;€50k;1997-12-22 创;USt DE192067013;402 人/€274.6M(集团谱口径)**;**Stadtwerke Dessau 子公司=地方 FTTH/电视/固定网运营商(B2C+市政);谱面对其自营城集团+自家市民服务;距接入链=FTTH 谱**;datel-dessau.de
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Dino Wolfgang Höll(Geschäftsführer(现任;登记谱 2018+),official-self-published·谱/leads-only(直发需 opt-in));Torsten Henze(Einzelprokura(独代理,2022-12-12 在册),official-self-published·谱/leads-only(直发需 opt-in));Fred Kitzing(Einzelprokura(2022-12-12 在册),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：城网运营谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“ein Tochterunternehmen der Stadtwerke Dessau…Ihr regionaler Partner für modernes Internet”
-  > “ein Tochterunternehmen der Stadtwerke Dessau…Ihr regionaler Partner für modernes Internet”
-  > 来源：https://www.datel-dessau.de/
+- **【决策链与对接人】**Geschäftsführer: Dino Wolfgang Höll(implisense);12.12.2022: Ausgeschieden GF Zänger, Thomas;Einzelprokura: Henze, Torsten + Kitzing, Fred(webvalid 件)
+  > Geschäftsführer: Dino Wolfgang Höll(implisense);12.12.2022: Ausgeschieden GF Zänger, Thomas;Einzelprokura: Henze, Torsten + Kitzing, Fred(webvalid 件)
+  > 来源：https://app.implisense.com/en/companies/daten-und-telekommunikations-gmbh-dessau-dessau-rosslau--DEJ5ILDOVM07
+- **【联系方式与基础画像】**Albrechtstr. 48, 06844 Dessau-Roßlau;HRB 15048 Stendal;gegründet 22.12.1997;€50,000;Stadtwerke Dessau 子公司;FTTH 1.000 Mbit/s + WebTV/BasisTV(viaductus/implisense 件)
+  > Albrechtstr. 48, 06844 Dessau-Roßlau;HRB 15048 Stendal;gegründet 22.12.1997;€50,000;Stadtwerke Dessau 子公司;FTTH 1.000 Mbit/s + WebTV/BasisTV(viaductus/implisense 件)
+  > 来源：https://www.viaductus.de/firma/DE-W1215-HRB-15048-daten-und-telekommunikations-gmbh-dessau-dessau-rosslau
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：市政全资区域 ISP（Stadtwerke Dessau）
-- **产品线与在售品牌**：FTTH/IPTV（消费者向）
-- **目标行业与场景**：住宅/市政（公共）
-- **团队与规模**：市政子公司
-- **决策链与对接人**：—
-- **技术与认证**：—
-- **采购与供应链信号**：公共采购框架
-- **近期动态与线索**：1Gbit 促销
-- **与我方契合点**：无（公共红线建档）
-- **风险与注意**：VgV 公共采购
+- **业务定位**：Daten- und Telekommunikations-GmbH Dessau(「DATEL」;Dessau-Roßlau,Albrechtstr. 48;**HRB 15048 Stendal;€50k;1997-12-22 创;USt DE192067013;402 人/€274.6M(集团谱口径)**;**Stadtwerke Dessau 子公司=地方 FTTH/电视/固定网运营商(B2C+市政);谱面对其自营城集团+自家市民服务;距接入链=FTTH 谱**;datel-dessau.de
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国 SA 市政 FTTH/电视运营商(Stadtwerke 子)
+- **团队与规模**：集团 402 人;1997 创
+- **决策链与对接人**：**Dino Wolfgang Höll(Geschäftsführer(现任;登记谱 2018+),official-self-published·谱/leads-only(直发需 opt-in));Torsten Henze(Einzelprokura(独代理,2022-12-12 在册),official-self-published·谱/leads-only(直发需 opt-in));Fred Kitzing(Einzelprokura(2022-12-12 在册),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Höll GF+Henze/Kitzing Prokurist(opt-in 律;市政守界)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -178,10 +189,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：区域
-- **W**：红线
-- **O**：无
-- **T**：不评
+- **S**：城网运营谱
+- **W**：电网子内治守界
+- **O**：Höll GF 直达位
+- **T**：大牌骨干链竞谱
 
 ## 触达与风险红线
 
@@ -200,7 +211,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -209,7 +220,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] —
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -221,7 +233,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-（不出信——公共事业红线。动作：仅建档与 MX 核验。判定依据：官网自述 Stadtwerke Dessau 全资子公司身份，属德国公共采购规范适用实体。）
+Guten Tag Herr Höll,
+
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+
+Best regards,
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】GU BKS SERVICE GmbH（GU 集团服务子公司）：**安防与楼宇技术服务专家（规划/咨询/安装/维保全程，全国服务网）**——客户含企业/**公共机构/kRITIS 关键基建运营商**；服务围绕集团产品体系（门禁/楼宇管理/消防/逃生）
-- 【推断】集团服务臂角色：设备推荐/指定在集团产品体系内循环，第三方网络件采购近零；KRITIS 客户墙叠加
-- 【假设】纪律建档不出信（集团服务臂采购内循环+KRITIS 客户墙=无现实缝隙）
+- 【事实】GU BKS SERVICE GmbH:GU BKS SERVICE GmbH(Velbert,Heidestraße 71, 42549;**HRB 33137 AG Wuppertal;DE146887533;1980-02-21 创 46 年(选址变 19 次);51-200 人**;**GU 集团 BKS 牌=安全/关门技术服务商**(ts;scan 服;马 Messtechniker 乐队谱;系也商谱:同体 of Resch 业谱)
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,20 @@ updated: 2026-09-28
 - 来源等级：partner-directory（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@gu-bks.de [Publicly listed; delivery not tested]; https://www.gu-bks.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Florian Rabe**(Geschäftsführer(**2024-02-20 履新**;Impressum 法定首谱))— gu-bks.de Impressum+webvalid 登记公告 〔已有(公司官方公开件/登记册自曝);源:https://www.gu-bks.de/de/impressum.html〕
+  - **Josef Haumann**(Geschäftsführer(2023-06 起))— companyhouse 谱+webvalid 历改谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.companyhouse.de/GU-BKS-SERVICE-GmbH-Velbert〕
+  - **Niklas Menke**(Geschäftsführer(companyhouse 现任谱))— companyhouse 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.companyhouse.de/GU-BKS-SERVICE-GmbH-Velbert〕
+  - **Oliver Büchner**(Prokurist(2024-02-20 在册))— companyhouse+webvalid 双源 〔已有(公司官方公开件/登记册自曝);源:https://www.companyhouse.de/GU-BKS-SERVICE-GmbH-Velbert〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Florian Rabe | Geschäftsführer(**2024-02-20 履新**;Impressum 法定首谱) | gu-bks.de Impressum+webvalid 登记公告 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.gu-bks.de/de/impressum.html |
+| Josef Haumann | Geschäftsführer(2023-06 起) | companyhouse 谱+webvalid 历改谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.companyhouse.de/GU-BKS-SERVICE-GmbH-Velbert |
+| Niklas Menke | Geschäftsführer(companyhouse 现任谱) | companyhouse 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.companyhouse.de/GU-BKS-SERVICE-GmbH-Velbert |
+| Oliver Büchner | Prokurist(2024-02-20 在册) | companyhouse+webvalid 双源 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.companyhouse.de/GU-BKS-SERVICE-GmbH-Velbert |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +144,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第16批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第18波30户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：GU 服务臂（KRITIS/公共客户墙）
-- **②芯片/型号**：集团体系
-- **③KP 深挖**：建档不出信
-- **④Saga 对标**：不适用（内循环）
-- **⑤在乎与偏好**：—
+- **①背景再核**：GU BKS SERVICE GmbH(Velbert,Heidestraße 71, 42549;**HRB 33137 AG Wuppertal;DE146887533;1980-02-21 创 46 年(选址变 19 次);51-200 人**;**GU 集团 BKS 牌=安全/关门技术服务商**(ts;scan 服;马 Messtechniker 乐队谱;系也商谱:同体 of Resch 业谱)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Florian Rabe(Geschäftsführer(**2024-02-20 履新**;Impressum 法定首谱),official-self-published·谱/leads-only(直发需 opt-in));Josef Haumann(Geschäftsführer(2023-06 起),leads-only·待 opt-in(LinkedIn/谱面带核));Niklas Menke(Geschäftsführer(companyhouse 现任谱),leads-only·待 opt-in(LinkedIn/谱面带核));Oliver Büchner(Prokurist(2024-02-20 在册),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：集团谱+新 GF 2024 谱面
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“bundesweit tätiger Dienstleistungspartner…Unternehmen, öffentliche Einrichtungen und Betreiber kritischer Infrastrukturen”
-  > “bundesweit tätiger Dienstleistungspartner…Unternehmen, öffentliche Einrichtungen und Betreiber kritischer Infrastrukturen”
-  > 来源：https://www.gu-bks.de/
+- **【决策链与对接人】**Geschäftsführer Florian Rabe(gu-bks.de Impressum);Heidestraße 71, 42549 Velbert;HRB 33137 Wuppertal;DE146887533
+  > Geschäftsführer Florian Rabe(gu-bks.de Impressum);Heidestraße 71, 42549 Velbert;HRB 33137 Wuppertal;DE146887533
+  > 来源：https://www.gu-bks.de/de/impressum.html
+- **【决策链与对接人】**Management: Josef Haumann, Florian Rabe, Niklas Menke;Zeichnungsberechtigte: Oliver Büchner, Jochen Wolfgang Hanselmann, Tino Schmecht, Claudia Stoltenberg;Klaus-Michael Büntig GF since 2007(companyhouse 谱)
+  > Management: Josef Haumann, Florian Rabe, Niklas Menke;Zeichnungsberechtigte: Oliver Büchner, Jochen Wolfgang Hanselmann, Tino Schmecht, Claudia Stoltenberg;Klaus-Michael Büntig GF since 2007(companyhouse 谱)
+  > 来源：https://www.companyhouse.de/GU-BKS-SERVICE-GmbH-Velbert
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：GU 集团安防/楼宇技术服务臂
-- **产品线与在售品牌**：集团产品体系
-- **目标行业与场景**：企业/公共/KRITIS（守界）
-- **团队与规模**：全国服务网
-- **决策链与对接人**：—
-- **技术与认证**：认证技师体系
-- **采购与供应链信号**：集团内循环
-- **近期动态与线索**：—
-- **与我方契合点**：无现实缝隙（内循环）
-- **风险与注意**：KRITIS 客户墙
+- **业务定位**：GU BKS SERVICE GmbH(Velbert,Heidestraße 71, 42549;**HRB 33137 AG Wuppertal;DE146887533;1980-02-21 创 46 年(选址变 19 次);51-200 人**;**GU 集团 BKS 牌=安全/关门技术服务商**(ts;scan 服;马 Messtechniker 乐队谱;系也商谱:同体 of Resch 业谱)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国 NRW GU 集团 46 年安全服务商
+- **团队与规模**：51-200 人;1980 创
+- **决策链与对接人**：**Florian Rabe(Geschäftsführer(**2024-02-20 履新**;Impressum 法定首谱),official-self-published·谱/leads-only(直发需 opt-in));Josef Haumann(Geschäftsführer(2023-06 起),leads-only·待 opt-in(LinkedIn/谱面带核));Niklas Menke(Geschäftsführer(companyhouse 现任谱),leads-only·待 opt-in(LinkedIn/谱面带核));Oliver Büchner(Prokurist(2024-02-20 在册),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Rabe 履新+Haumann 共谱(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +187,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：网络
-- **W**：内循环
-- **O**：无
-- **T**：不评
+- **S**：集团谱+新 GF 2024 谱面
+- **W**：中实体谱
+- **O**：Rabe 新 GF 庆贺位
+- **T**：自家链栈=合作段
 
 ## 触达与风险红线
 
@@ -196,7 +209,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,7 +218,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] —
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -217,7 +231,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-（不出信——集团服务臂内循环建档。动作：仅建档与 MX 核验。判定依据：官网自述 GU 集团服务子公司定位+KRITIS/公共客户墙；第三方网络件采购在集团体系外无现实通道。）
+Guten Tag Herr Rabe,
+
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+
+Best regards,
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
