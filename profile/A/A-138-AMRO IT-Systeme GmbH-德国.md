@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】AMRO IT-Systeme GmbH:AMRO IT-Systeme GmbH(德国 Weißenburg i. Bay(中弗兰肯),Treuchtlinger Straße 1, 91781;**HRB 2516 Amtsgericht Ansbach,€30,000,USt DE241783909;1996-12-04 创(30 年;原名 AMRO Soft- & Hardware Verwaltungs-GmbH)**;09141/9019-0;谱型=微软认证谱系统屋(Microsoft Certified Professionals;定制/标准软件开发+网络软硬件集成运维+电信件贸+电子元件 Konfektionierung+DV 咨询,Micro enterprise);**官网 Team 页全员邮箱直连谱**
-- 【推断】R66 第 14 波具名 KP 金谱
-- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
+- 【事实】波 R67/批7·A-138:德谱: **AMRO IT-Systeme GmbH 深挖(northdata/Impressum 官网/online-handelsregister/creditreform/unternehmensverzeichnis 五源互证)**:**Amtsgericht Ansbach HRB 2516,1996-12-17 注册(29 年);GmbH 资本 €30,000(2011 增史 €25,600→30,000);USt-Id DE241783909(旧 DE185796189 谱);Treuchtlinger Str. 1,91781 Weißenburg in Bayern;Tel 09141/9019-0;info@amro.de**;**前身=AMRO Soft- & Hardware Verwaltungs-GmbH(2013-07-02 更名现谱)**;**官方宗旨「Nichthandwerkliche Konfektionierung von elektronischen/elektrotechnischen/elektromechanischen Bauelementen+Entwicklung von Individual- und Standardsoftware+Netzwerk-, Hard- und Softwarebetreuung+Handel und Vertrieb von Hardware, Software und Telekommunikationsprodukten」=电子元件精密组装+软件研发+网络软硬服务+硬件/软件/电信产品贸易全链谱**;**KP 金谱:Jürgen Reutelhuber(Geschäftsführer 2013-06-18 任至今 13 年,单独代表权,居 Alesheim;前 GF Amler/Rottler 2011/2013 退任史)+Tobias Blobner(Prokurist 2013 任至今 13 年=公司代表权双轨)+Ludwig Amler(前 Prokurist 谱史,2013 退)**;**Creditreform 谱=2 Managers(1×GF+1×Prokurist)+4 股东;主业 Sonstige Softwareentwicklung WZ 62.01.9**;**谱位=巴伐利亚 29 年中型系统屋=巴符/拜仁地区企业 IT 基础+服务器/网络/软件全链=采购线谱口**。
+- 【推断】R67 推土机深挖 批7 A 类余户清零批
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,8 +75,8 @@ updated: 2026-09-28
 - **原始联系字段**：info@amro.de [Publicly listed; delivery not tested]; https://www.amro.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
-  - **Jürgen Reutelhuber**(Geschäftsführer(执行董事;einzelvertretungsberechtigt,Alesheim))— 官网 Team/Datenschutz 自署+webvalid/implisense 登记册谱 〔已有(公司官方公开件/登记册自曝);源:https://www.amro.de/unser-team/〕
-  - **Tobias Blobner**(Prokurist+Technik(登记册 Prokurist 入谱+官网 Team 谱))— webvalid 登记册谱+官网 Team 页 〔已有(公司官方公开件/登记册自曝);源:https://www.amro.de/unser-team/〕
+  - **Jürgen Reutelhuber**(Geschäftsführer(2013-06-18 任至今 13 年,单独代表权,P0))— LinkedIn/XING 谱链;09141/9019-0 台口转 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.amro.de/impressum/〕
+  - **Tobias Blobner**(Prokurist(2013 任至今 13 年,公司代表权=第二口))— 台口转 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.northdata.de/AMRO+IT-Systeme+GmbH,+Wei%C3%9Fenburg+i.+Bay./Amtsgericht+Ansbach+HRB+2516〕
   - **Jörg Kaußler**(Softwareentwicklung/Buchhaltung(软件开发+财务直通线))— 官网 Team 页(9019-24) 〔已有(公司官方公开件/登记册自曝);源:https://www.amro.de/unser-team/〕
   - **Florian Wagner**(Technik(技术线))— 官网 Team 页(9019-34) 〔已有(公司官方公开件/登记册自曝);源:https://www.amro.de/unser-team/〕
   - **Maximilian Kraft**(Technik(技术线))— 官网 Team 页 〔已有(公司官方公开件/登记册自曝);源:https://www.amro.de/unser-team/〕
@@ -86,8 +86,8 @@ updated: 2026-09-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Jürgen Reutelhuber | Geschäftsführer(执行董事;einzelvertretungsberechtigt,Alesheim) | 官网 Team/Datenschutz 自署+webvalid/implisense 登记册谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.amro.de/unser-team/ |
-| Tobias Blobner | Prokurist+Technik(登记册 Prokurist 入谱+官网 Team 谱) | webvalid 登记册谱+官网 Team 页 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.amro.de/unser-team/ |
+| Jürgen Reutelhuber | Geschäftsführer(2013-06-18 任至今 13 年,单独代表权,P0) | LinkedIn/XING 谱链;09141/9019-0 台口转 | HRB+Impressum 双直证 O 级 | https://www.amro.de/impressum/ |
+| Tobias Blobner | Prokurist(2013 任至今 13 年,公司代表权=第二口) | 台口转 | northdata/HRB 直证 O 级 | https://www.northdata.de/AMRO+IT-Systeme+GmbH,+Wei%C3%9Fenburg+i.+Bay./Amtsgericht+Ansbach+HRB+2516 |
 | Jörg Kaußler | Softwareentwicklung/Buchhaltung(软件开发+财务直通线) | 官网 Team 页(9019-24) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.amro.de/unser-team/ |
 | Florian Wagner | Technik(技术线) | 官网 Team 页(9019-34) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.amro.de/unser-team/ |
 | Maximilian Kraft | Technik(技术线) | 官网 Team 页 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.amro.de/unser-team/ |
@@ -151,38 +151,41 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第16波.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R67_R56_推土机批7.json`；价格均为 EXW 快照。
 
-- **①背景再核**：AMRO IT-Systeme GmbH(德国 Weißenburg i. Bay(中弗兰肯),Treuchtlinger Straße 1, 91781;**HRB 2516 Amtsgericht Ansbach,€30,000,USt DE241783909;1996-12-04 创(30 年;原名 AMRO Soft- & Hardware Verwaltungs-GmbH)**;09141/9019-0;谱型=微软认证谱系统屋(Microsoft Certified Professionals;定制/标准软件开发+网络软硬件集成运维+电信件贸+电子元件 Konfektionierung+DV 咨询,Micro enterprise);**官网 Team 页全员邮箱直连谱**
-- **②芯片/型号**：(待谱面二补)
-- **③KP 深挖**：**Jürgen Reutelhuber(Geschäftsführer(执行董事;einzelvertretungsberechtigt,Alesheim),official-self-published·谱/leads-only(直发需 opt-in));Tobias Blobner(Prokurist+Technik(登记册 Prokurist 入谱+官网 Team 谱),official-self-published·谱/leads-only(直发需 opt-in));Jörg Kaußler(Softwareentwicklung/Buchhaltung(软件开发+财务直通线),official-self-published·谱/leads-only(直发需 opt-in));Florian Wagner(Technik(技术线),official-self-published·谱/leads-only(直发需 opt-in));Maximilian Kraft(Technik(技术线),official-self-published·谱/leads-only(直发需 opt-in));Ludwig Amler(原 Geschäftsführer/Prokurist(谱系留痕;2011 变谱),official-self-published·谱/leads-only(直发需 opt-in))**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
-- **⑤在乎与偏好**：30 年谱+微软认证
+- **①背景再核**：1996 创 29 年;Weißenburg Bayern;前身 Verwaltungs-GmbH(2013 更名)
+- **②芯片/型号**：软硬网络服务+电信产品贸易+元件组装全链;PoE=企业项目谱
+- **③KP 深挖**：Reutelhuber GF(13 年 单独代表)+Blobner Prokurist(13 年)=双轨谱
+- **④Saga 对标**：中型系统屋 → 24 口 PoE 项目转售
+- **⑤在乎与偏好**：GF 13 年稳;4 股东治理;巴伐利亚地区谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**Jürgen Reutelhuber Geschäftsführer (09141/9019-0, j.reutelhuber@amro.de);Jörg Kaußler Softwareentwicklung/Buchhaltung (j.kaussler@amro.de);Tobias Blobner Technik (t.blobner@amro.de);Florian Wagner Technik;Maximilian Kraft Technik(amro.de 官网 Team 页)
-  > Jürgen Reutelhuber Geschäftsführer (09141/9019-0, j.reutelhuber@amro.de);Jörg Kaußler Softwareentwicklung/Buchhaltung (j.kaussler@amro.de);Tobias Blobner Technik (t.blobner@amro.de);Florian Wagner Technik;Maximilian Kraft Technik(amro.de 官网 Team 页)
-  > 来源：https://www.amro.de/unser-team/
-- **【决策链与对接人】**Bestellt: GF: Reutelhuber, Jürgen, Alesheim, einzelvertretungsberechtigt;Eintritt Prokurist: Blobner, Tobias;Ausgeschieden: GF Amler/Rottler 谱系(webvalid 件);HRB 2516 AG Ansbach;gegründet 04.12.1996;€30,000(implisense)
-  > Bestellt: GF: Reutelhuber, Jürgen, Alesheim, einzelvertretungsberechtigt;Eintritt Prokurist: Blobner, Tobias;Ausgeschieden: GF Amler/Rottler 谱系(webvalid 件);HRB 2516 AG Ansbach;gegründet 04.12.1996;€30,000(implisense)
-  > 来源：https://www.webvalid.de/company/AMRO+IT-Systeme+GmbH,+Wei%C3%9Fenburg/HRB+2516
-- **【业务定位】**nichthandwerkliche Konfektionierung elektronischer Bauelemente;Entwicklung Individual-/Standardsoftware;Netzwerk-, Hard- und Softwarebetreuung;Handel/Vertrieb Hardware, Software, Telekommunikation;DV 咨询;Microsoft Certified Professionals
-  > nichthandwerkliche Konfektionierung elektronischer Bauelemente;Entwicklung Individual-/Standardsoftware;Netzwerk-, Hard- und Softwarebetreuung;Handel/Vertrieb Hardware, Software, Telekommunikation;DV 咨询;Microsoft Certified Professionals
-  > 来源：https://app.implisense.com/en/companies/amro-it-systeme-gmbh-weissenburg--DES8P3CP3R61
+- **【法体登册】**AMRO IT-Systeme GmbH;Amtsgericht Ansbach HRB 2516;Gründungsdatum 17.12.1996;Kapital 30.000,00 EUR;Treuchtlinger Str. 1,91781 Weißenburg;GF Jürgen Reutelhuber(bestellt 18.06.2013);Prokurist Tobias Blobner;USt DE241783909
+  > AMRO IT-Systeme GmbH;Amtsgericht Ansbach HRB 2516;Gründungsdatum 17.12.1996;Kapital 30.000,00 EUR;Treuchtlinger Str. 1,91781 Weißenburg;GF Jürgen Reutelhuber(bestellt 18.06.2013);Prokurist Tobias Blobner;USt DE241783909
+  > 来源：https://www.online-handelsregister.de/handelsregisterauszug/by/Ansbach/HRB/2516/AMRO-IT-Systeme-GmbH
+- **【官网谱】**AMRO IT-Systeme GmbH Treuchtlinger Strasse 1,91781 Weißenburg;HRB 2516 Amtsgericht Ansbach;Vertreten durch: Jürgen Reutelhuber;Tel. 09141/9019-0;info@amro.de
+  > AMRO IT-Systeme GmbH Treuchtlinger Strasse 1,91781 Weißenburg;HRB 2516 Amtsgericht Ansbach;Vertreten durch: Jürgen Reutelhuber;Tel. 09141/9019-0;info@amro.de
+  > 来源：https://www.amro.de/impressum/
+- **【业务宗旨】**Nichthandwerkliche Konfektionierung elektronischer/elektrotechnischer Bauelemente;Entwicklung Individual-/Standardsoftware;Netzwerk-, Hard- und Softwarebetreuung;Handel und Vertrieb von Hardware, Software und Telekommunikationsprodukten
+  > Nichthandwerkliche Konfektionierung elektronischer/elektrotechnischer Bauelemente;Entwicklung Individual-/Standardsoftware;Netzwerk-, Hard- und Softwarebetreuung;Handel und Vertrieb von Hardware, Software und Telekommunikationsprodukten
+  > 来源：https://www.unternehmensverzeichnis.org/amro-it-systeme-gmbh-weissenburg-2500923353125
+- **【治理谱】**derzeit 2 Manager(1 Geschäftsführer+1 Prokurist);4 Gesellschafter;Branche Sonstige Softwareentwicklung 62.01.9
+  > derzeit 2 Manager(1 Geschäftsführer+1 Prokurist);4 Gesellschafter;Branche Sonstige Softwareentwicklung 62.01.9
+  > 来源：https://firmeneintrag.creditreform.de/91781/8190393763/AMRO_IT_SYSTEME_GMBH
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：AMRO IT-Systeme GmbH(德国 Weißenburg i. Bay(中弗兰肯),Treuchtlinger Straße 1, 91781;**HRB 2516 Amtsgericht Ansbach,€30,000,USt DE241783909;1996-12-04 创(30 年;原名 AMRO Soft- & Hardware Verwaltungs-GmbH)**;09141/9019-0;谱型=微软认证谱系统屋(Microsoft Certified Professionals;定制/标准软件开发+网络软硬件集成运维+电信件贸+电子元件 Konfektionierung+DV 咨询,Micro enterprise);**官网 Team 页全员邮箱直连谱**
-- **产品线与在售品牌**：(波次二补谱面)
-- **目标行业与场景**：德国中弗兰肯微软认证谱 30 年微系统屋
-- **团队与规模**：Micro;1996 创;€30k
-- **决策链与对接人**：**Jürgen Reutelhuber(Geschäftsführer(执行董事;einzelvertretungsberechtigt,Alesheim),official-self-published·谱/leads-only(直发需 opt-in));Tobias Blobner(Prokurist+Technik(登记册 Prokurist 入谱+官网 Team 谱),official-self-published·谱/leads-only(直发需 opt-in));Jörg Kaußler(Softwareentwicklung/Buchhaltung(软件开发+财务直通线),official-self-published·谱/leads-only(直发需 opt-in));Florian Wagner(Technik(技术线),official-self-published·谱/leads-only(直发需 opt-in));Maximilian Kraft(Technik(技术线),official-self-published·谱/leads-only(直发需 opt-in));Ludwig Amler(原 Geschäftsführer/Prokurist(谱系留痕;2011 变谱),official-self-published·谱/leads-only(直发需 opt-in))**
-- **技术与认证**：(波次二补)
-- **采购与供应链信号**：(波次二补)
-- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
-- **与我方契合点**：24 口 value PoE 谱链窗口
-- **风险与注意**：Reutelhuber GF+Blobner Prokurist/Technik(opt-in 律)
+- **业务定位**：AMRO IT-Systeme GmbH(Weißenburg,1996 创 29 年):巴伐利亚中型系统屋,软硬网络+软件开发全链
+- **产品线与在售品牌**：电子元件精密组装+定制/标准软件+网络软硬服务+硬件/软件/电信产品贸易
+- **目标行业与场景**：巴伐利亚地区企业客户(法兰克福-纽伦堡-慕尼黑轴)
+- **团队与规模**：2 经理(GF+Prokurist)+4 股东;29 年;中型规模窗
+- **决策链与对接人**：Jürgen Reutelhuber(GF 单独代表)+Tobias Blobner(Prokurist 公司代表权)
+- **技术与认证**：USt DE241783909;Creditreform 谱;前名 Verwaltungs-GmbH 史
+- **采购与供应链信号**：硬件/软件/电信产品贸易=采购线谱口;电子元件精密组装谱=基础网络件集购链
+- **近期动态与线索**：GF 13 年稳;2013 更名谱;4 股东治理谱
+- **与我方契合点**：Reutelhuber GF+Blobner Prokurist 双轨 → 24 口 PoE(系统屋转售谱+自有项目谱)
+- **风险与注意**：**中型系统屋谱;B2B 精通谱(企业采购窗);规模窗注(小中盘)**
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -197,10 +200,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：30 年谱+微软认证
-- **W**：微实体谱
-- **O**：Reutelhuber GF 直达位
-- **T**：大牌件链竞谱
+- **S**：29 年系统屋+全链谱
+- **W**：中小盘规模窗;具名直邮需推档
+- **O**：电信产品贸易谱=采购线口
+- **T**：巴伐利亚地区谱客户密集
 
 ## 触达与风险红线
 
@@ -228,8 +231,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 硬件采购线在职者(波次二)
-  - [ ] MikroTik 谱面份额
+  - [ ] MikroTik/现售品牌谱位需官网产品页核
+  - [ ] Reutelhuber 直邮推档
+  - [ ] 4 股东谱明细
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -241,12 +245,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Guten Tag Herr Reutelhuber,
+Dear Mr. Reutelhuber and AMRO Team,
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — EXW open for German system house projects and resale lines. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.
 
-Best regards,
-Saga Networks Export Desk
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

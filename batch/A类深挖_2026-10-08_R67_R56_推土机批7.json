@@ -1,0 +1,741 @@
+{
+ "records": [
+  {
+   "customer": "A-054",
+   "fact": "波 R67/批7·A-054:瑞典谱: **Direktronik AB 深挖(rating.se/hitta.se/rocketreach/LinkedIn/zoominfo/瑞典维基 六源互证)**:**Org.nr 556281-9663,1986-09-17 注册(40 年老谱);Konsul Johnsons Väg 15,149 45 Nynäshamn(Stockholm 郡);Box 234 149 23;+46 8 524 007 00;info@direktronik.se;SNI 46502 电子元件批发;F-skatt+VAT SE556281966301 齐**;**创始 Christina Backlund+Anders Backlund 夫妇(1986 家族企业起点=特种线缆起家→打印机/调制解调器分线→网卡/集线器/交换机/布线全谱;瑞典维基词条直证);母司=Lagercrantz Group AB(Org.nr 556282-4556,斯德哥尔摩上市集团,118 家子司群);子司=Lagercrantz Communication AB**;**营收 133,047 kSEK(2025-03 财年)/130,548(2024)/142,088(2023)三档($7.5M rocketreach 单源估窗);净利润 19.4 MSEK(2025)；员工 28(2025 年报)/26/25 档(22 RR/11-50 LI 窗)**;**业务=网络+数据通信产品进口分销(switch/router 到线缆/光纤/无线+流量测试仪表);自白「Sedan dryga 30 år supporterat vi partners från vårt lager i Nynäshamn」=30 年+支持伙伴一贯谱;747 LinkedIn 粉**;**KP 金谱:Henrik Johan Ringstedt(VD 现任,rating.se/hitta.se 2025 档双直证;前 2022 起接棒谱)+Mats Johan Rydén(前 VD→现任 Styrelseordförande 董事会主席=集团交接谱)+Elisabet Lina Ålander(董)+Lars Andreas Heder(董)+Johan Lars Bertil Hulthin(审计师,Deloitte 系统谱)**;**谱位=北欧网络/数据通信 40 年进口分销商+Lagercrantz 集团背景=我方 ODM EXW 北欧入口天然对口**;**注:CSV 谱名录 Allied Telesis 集成/代理口径=与分销主业相容;退信台账 R58-BC 批注(info@ 通道替代另注群)**。",
+   "inference": "R67 推土机深挖 批7 A 类余户清零批",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.rating.se/info1/light/overview/5562819663",
+   "tech": "N-net(ERPS/SNMPv3 在卖谱)+网络/光纤/布线/无线/测试仪表进口分销;北欧 40 年盘",
+   "hr": "28(2025 年报)/26/25 三档;40 年;Lagercrantz 集团 118 司;Nynäshamn 谱",
+   "contact_found": "**Henrik Johan Ringstedt(VD P0)+Mats Johan Rydén(主席,前 VD=谱口双代)+Elisabet Ålander/Lars Heder(董事)**",
+   "contact_pending": "具名直邮需领英/集团链推档;info@ 群邮为 R58-BC 退信处置户(替代通道台账注)",
+   "dims": {
+    "业务定位": "Direktronik AB(Nynäshamn,1986 创 40 年,Lagercrantz 上市集团子司):北欧网络数据通信产品进口分销商",
+    "产品线与在售品牌": "N-net(ERPS/SNMPv3 以太网环网)+交换机/路由+光纤+无线+流量测试仪表进口分销全谱",
+    "目标行业与场景": "北欧系统集成商/ISP/工业客户(经伙伴自主运营支持谱)",
+    "团队与规模": "28 员工(2025);40 年;133 MSEK 营收;Lagercrantz Group 118 司集团",
+    "决策链与对接人": "Henrik Ringstedt(VD)+Mats Rydén(主席/前 VD)+Elisabet Ålander/Lars Heder(董事)+Hulthin(审计)",
+    "技术与认证": "F-skatt+VAT 齐;SNI 46502;Lagercrantz 治理层谱",
+    "采购与供应链信号": "**进口商身份 40 年=我方 ODM EXW 北欧对口**;N-net ERPS/SNMPv3 在卖谱=工业环网谱位注",
+    "近期动态与线索": "VD 交接谱(Rydén→Ringstedt);Lagercrantz 集团收购整编谱;133/130/142 MSEK 三年档",
+    "与我方契合点": "Ringstedt VD+Rydén 主席双代 → 24 口 PoE(北欧分销补位;N-net 环网周边接入层)",
+    "风险与注意": "**已售环网专业谱 N-net=白牌价值段补位谨慎;退信台账户(台账另注);集团采购链层级未明**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "Direktronik AB;Organisationsnummer 556281-9663;Besöksadress Konsul Johnsons Väg 15,149 45 Nynäshamn;Moderbolag Lagercrantz Group AB 556282-4556;Omsättning 2025-03: 133 047 kSEK;Antal anställda 28;VD Henrik Johan Ringstedt;Styrelseordförande Mats Johan Rydén;Registrerat 1986-09-17;SNI 46502",
+     "source": "https://www.rating.se/info1/light/overview/5562819663"
+    },
+    {
+     "dim": "公司谱史",
+     "quote": "Direktronik AB grundades 1986 av Christina Backlund och Anders Backlund;importör och distributör inom nätverk och datakommunikation;uppköpt av Lagercrantz Group;börsnoterad koncern",
+     "source": "https://sv.wikipedia.org/wiki/Direktronik"
+    },
+    {
+     "dim": "KP 矩阵",
+     "quote": "VD/Koncernchef Henrik Johan Ringstedt;Styrelse: Elisabet Lina Ålander, Lars Andreas Heder, Mats Johan Rydén(ordförande);Revisor Johan Lars Bertil Hulthin",
+     "source": "https://www.hitta.se/f%C3%B6retagsinformation/direktronik+ab/5562819663"
+    },
+    {
+     "dim": "规模双窗",
+     "quote": "Revenue $7.5M(zoominfo);Founded 1986;11-50 employees(LI 747 followers);28 employees annual report;Koncern: Lagercrantz Group 118 bolag",
+     "source": "https://www.zoominfo.com/c/direktronik-ab/15254642"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Ringstedt VD 新谱",
+     "push": "STC-424XGGPM-280W",
+     "angle": "VD 新谱+主席前 VD 双代 → 24 口 PoE(北欧分销白牌补位;N-net 环网周边接入)",
+     "question": "贵司北欧分销谱的 24 口 PoE 白牌补位由哪位主责?样品对接口?",
+     "proof": "rating/hitta 4 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Rydén 主席/集团链",
+     "push": "STI-288GPM/424",
+     "angle": "Lagercrantz 集团 118 司谱链;N-net ERPS 环网在售谱",
+     "question": "集团层面 PoE 产品线整合由哪位主责?",
+     "proof": "Wikipedia/rating"
+    },
+    {
+     "stage": "第 3 次跟进 · 技术系统集成客链",
+     "push": "STC-28DGGPM",
+     "angle": "30 年+伙伴支持自白;流量测试仪表谱位",
+     "question": "贵司北欧伙伴网络的 PoE 接入送样口?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1986 创 40 年;Nynäshamn;Lagercrantz 上市集团子司;创始 Backlund 夫妇",
+     "②芯片/型号": "N-net ERPS/SNMPv3+交换/光纤/无线/测试进口分销;24 口 PoE 价值段补位",
+     "③KP 深挖": "Ringstedt VD(2022 起接)+Rydén 主席(前 VD)+Ålander/Heder 董事=治理+运营双代谱",
+     "④Saga 对标": "进口分销商 EXW 对口 → 24 口 PoE 北欧分销白牌补位",
+     "⑤在乎与偏好": "133 MSEK 大盘稳;30 年+伙伴支持谱;集团背景;具名直邮 KYC 链路",
+     "⑥SWOT": "S=40 年老谱+集团背景+133 MSEK 大营收/W=N-net 专业环网谱=价值白牌补位敏感;退信台账户(台账替代通道注)/O=北欧 EXW 入口+ERPS 环网周边接入口/T=集团采购整编链层级"
+    },
+    "care": "S:40 年老谱+集团背景+133 MSEK 大营收;W:N-net 专业环网谱=价值白牌补位敏感;退信台账户(台账替代通道注);O:北欧 EXW 入口+ERPS 环网周边接入口;T:集团采购整编链层级",
+    "swot": {
+     "S": "40 年老谱+集团背景+133 MSEK 大营收",
+     "W": "N-net 专业环网谱=价值白牌补位敏感;退信台账户(台账替代通道注)",
+     "O": "北欧 EXW 入口+ERPS 环网周边接入口",
+     "T": "集团采购整编链层级"
+    },
+    "uncertain": "R67 推土机深挖 批7(open web 多级直源互证)",
+    "gap_proof": "https://www.rating.se/info1/light/overview/5562819663"
+   },
+   "unknowns": [
+    "N-net/MikroTik 竞合在售谱位需官网品牌页核",
+    "Ringstedt 直邮推档(领英链)",
+    "集团采购链=Lagercrantz 层级未明"
+   ],
+   "relation": "2026-10-08 R67 推土机深挖 批7",
+   "email": "Dear Henrik and Direktronik Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — EXW open for Nordic distribution. Reference: $165 USD EXW (2026-10-08, 15 days valid). A value-tier complement for your N-net ring and access portfolio. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**Henrik Johan Ringstedt(VD P0)+Mats Johan Rydén(主席,前 VD 双代)**; +46 8 524 007 00; info@direktronik.se(退信台账替代通道注)",
+   "kp": [
+    {
+     "name": "Henrik Johan Ringstedt",
+     "role": "VD(首席执行官,P0,40 年盘集团治理下新谱)",
+     "contact": "LinkedIn 谱链;info@ 群邮(R58-BC 退信台账替代通道注)",
+     "status": "rating.se+hitta.se 2025 档双直证 O 级",
+     "source": "https://www.rating.se/info1/light/overview/5562819663"
+    },
+    {
+     "name": "Mats Johan Rydén",
+     "role": "Styrelseordförande 董事会主席(前 VD,交接谱;集团内话语权)",
+     "contact": "台口 +46 8 524 007 00 转",
+     "status": "rating/Wikipedia 双源直证 O 级",
+     "source": "https://sv.wikipedia.org/wiki/Direktronik"
+    },
+    {
+     "name": "Elisabet Lina Ålander",
+     "role": "Styrelseledamot 董事(集团治理谱)",
+     "contact": "集团年报谱",
+     "status": "rating.se 直证 O 级",
+     "source": "https://www.rating.se/info1/light/overview/5562819663"
+    },
+    {
+     "name": "Lars Andreas Heder",
+     "role": "Styrelseledamot 董事(集团治理谱)",
+     "contact": "集团年报谱",
+     "status": "rating.se 直证 O 级",
+     "source": "https://www.rating.se/info1/light/overview/5562819663"
+    }
+   ],
+   "tag": "类型=北欧网络分销 40 年集团子司;KP=Ringstedt VD 新谱+Rydén 主席双代",
+   "question": "触达决策门:Ringstedt(VD,2022 接棒新谱)为引;Rydén(主席前 VD)双代钩",
+   "alt2": "替代:Ålander/Heder 董事集团治理层;Lagercrantz 集团采购链",
+   "alt3": "备用:info@direktronik.se(CSV 既有;退信台账替代通道注)+46 8 524 007 00"
+  },
+  {
+   "customer": "A-108",
+   "fact": "波 R67/批7·A-108:英谱: **Road Tech Computer Systems Ltd 深挖(Companies House/Endole/contactout/growjo/tachomaster 官网/watfordobserver 2001 档 六源互证)**:**Company No 02017435,1986-05-07 注册(40 年老谱!);SIC 58290 Other software publishing;注册办 First Floor Radius House,51 Clarendon Road,Watford WD17 1HP(Hillier Hopkins LLP 会计所代);营业本部 Shenley Hall,Rectory Lane,Shenley,Radlett,Herts WD7 9AN(1995 年 £1.8M 购 14 英亩庄园自有=稳产谱);VAT GB 449358217;+44 1923 461111/01923 469222**;**创始 Derek Beevor(前陆军伞兵+道路运输商,1984 创「Roadrunner」=业界首个运输管理系统)+Roy Gascoigne(共同业主/董事,居 Tring,2006-06-30 退任)**;**业务=物流+运输行业 IT 市场领导者(官网自封):五产品线 Tachomaster(行驶记录仪分析)+Roadrunner(RoadrunnerLive TMS 云)+DOT/Falcon Tracking(车队追踪)+Checkmaster(驾照查验)+PreDrive(日检报告);澳大利亚分点;2001 档 18 程序员+6 安装+5 硬件维护工程师+自营 ISP(Docklands 连接 £50k/年)**;**员工 85(Endole 现档)/69(growjo)/65(Tracxn 2026-07 档)三窗注;营收 $9M(growjo 估)/$31.5M(contactout 估)双窗注**;**集团=Road Tech Holdings Ltd(10021089)+Road Tech Trustees Ltd(11270419)**;**KP 金谱:David Monahan(Director 2024-09-25 最新入+General Manager 2022-07 入职=P0 运营总)+Bernadette Beevor(秘书 1992-04-06 至今+董事 2017-12-07,创始家族二代谱)+Diane Alice Dooling(董事 2017,f1964)+Tony Paul Jeffree(董事 2017,f1982)+Philip David Thornhill(董事 2017,f1982)+Adrian Paul Barrett(董事 2017,f1965)+Shiraz Azizali(IT 管理/Lead Android Developer 2012 起=技术线谱 P0 候选)+HR Manager(2024-09 入职谱)**;**客户=英国公路运输/物流公司全国谱;谱位=物流 TMS 40 年市场领导者=车队/司机端硬件采购链(PoE 需求=机房/总部/澳分点网络基建谱)**。",
+   "inference": "R67 推土机深挖 批7 A 类余户清零批",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://find-and-update.company-information.service.gov.uk/company/02017435/officers",
+   "tech": "运输/物流 TMS 软件五品(Tachomaster/Roadrunner/Tracking/Checkmaster/PreDrive)+车队硬件+SaaS;英国物流市场领导者",
+   "hr": "85(Endole)/69(growjo)/65(Tracxn)三窗;40 年;Shenley Hall 自有庄园;澳大利亚分点",
+   "contact_found": "**David Monahan(GM+Director 2024 新 P0)+Bernadette Beevor(秘书+董事创始家族)+Dooling/Jeffree/Thornhill/Barrett(2017 五董事)+Shiraz Azizali(IT 技术线)**",
+   "contact_pending": "具名直邮需推档;sales@/support@ 群邮台口 01923 461111",
+   "dims": {
+    "业务定位": "Road Tech Computer Systems Ltd(1986 创 40 年,Shenley Hall 自有庄园):英国运输/物流行业 TMS 软件市场领导者",
+    "产品线与在售品牌": "Tachomaster+Roadrunner(live)+DOT/Falcon Tracking+Checkmaster+PreDrive 五产品线;车队硬件+SaaS 云",
+    "目标行业与场景": "英国道路运输/物流公司(M25/M1/A1 轴心);澳大利亚分点",
+    "团队与规模": "85/69/65 员工三窗;40 年;Hillier Hopkins 会计所;集团 Holdings+Trustees 双壳",
+    "决策链与对接人": "David Monahan(GM+董事 2024)+Bernadette Beevor(秘书 32 年+董事 2017 创始家族)+五 2017 董事+Azizali(IT)",
+    "技术与认证": "SaaS 云+自营 ISP 历史谱;VAT GB449358217",
+    "采购与供应链信号": "硬件谱=车队追踪/司机终端采购链;TMS 软件市场领导者=机房网络基建谱",
+    "近期动态与线索": "2024-09 Monahan 新董事入;2024-09 HR Manager 入职;RoadrunnerLive 云化谱",
+    "与我方契合点": "Monahan GM 新谱+Azizali IT 技术线 → 24 口 PoE(总部/澳分点网络+机房基建)",
+    "风险与注意": "**软件商主线=PoE 是大楼网络基建非产品线;A-134 集团壳谱两注;营收双窗注(growjo/contactout 估差大)**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "ROAD TECH COMPUTER SYSTEMS LIMITED Company No. 02017435;incorporated 07/05/1986;SIC 58290;Shenley Hall Rectory Lane Radlett Herts WD7 9AN;Tel 01923 461111;VAT GB 449358217",
+     "source": "https://companycheck.co.uk/company/02017435/ROAD-TECH-COMPUTER-SYSTEMS-LIMITED/companies-house-data"
+    },
+    {
+     "dim": "KP 矩阵",
+     "quote": "Officers: David Monahan(Director 25/09/2024,b.Jun 1971)+Bernadette Beevor(Director+Secretary 06/04/1992,b.Aug 1958)+Diane Dooling/Tony Jeffree/Philip Thornhill/Adrian Barrett(Directors 07/12/2017);Roy Gascoigne resigned 30/06/2006",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/02017435/officers"
+    },
+    {
+     "dim": "产品谱",
+     "quote": "Tachomaster, Roadrunner(RoadrunnerLive), DOT/Falcon Tracking, Checkmaster, PreDrive;market-leaders in IT solutions for haulage and logistics;Head office Shenley Hall+Australia office;Founded 1984 Derek Beevor",
+     "source": "https://www.tachomaster.co.uk/about/"
+    },
+    {
+     "dim": "规模窗",
+     "quote": "85 Employees(Endole);69 Employees+$9M Revenue est(growjo);65 Employees as of Jul 2026(Tracxn);51-200(contactout)+$31.5M est",
+     "source": "https://growjo.com/company/Road_Tech_Computer_Systems"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Monahan GM+董事新谱",
+     "push": "STC-424XGGPM-280W",
+     "angle": "GM 2022 入职+2024-09 董事=运营总新谱 → 24 口 PoE(总部 Shenley Hall+澳分点网络基建)",
+     "question": "贵司 Shenley Hall 总部与澳分点的 PoE 网络基建由哪位主责?",
+     "proof": "CH 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Azizali IT 技术线",
+     "push": "STI-288GPM/424",
+     "angle": "IT 管理+Lead Android 2012 起;五产品 SaaS 机房谱",
+     "question": "机房/TMS 云基建的 PoE 接入集购口?",
+     "proof": "Endole 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Beevor 创始家族治理层",
+     "push": "STC-28DGGPM",
+     "angle": "Bernadette Beevor 秘书 32 年+董事 2017=创始家族二代谱",
+     "question": "集团层面网络设备集购由哪位主责?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1986 创 40 年;Shenley Hall 自有庄园 £1.8M;Beevor 创始家族+Gascoigne 史;澳大利亚分点",
+     "②芯片/型号": "TMS 软件五品+车队硬件+SaaS;PoE=总部/机房/澳分点基建非产品线",
+     "③KP 深挖": "Monahan(GM+2024 董事 P0)+Beevor(秘书+董事创始家族)+五 2017 董事+Azizali(IT 技术线)",
+     "④Saga 对标": "英国物流 TMS 市场领导者 → 24 口 PoE 大楼/机房基建",
+     "⑤在乎与偏好": "40 年市场领导者谱;自有庄园地产;五产品线成熟;双窗营收注",
+     "⑥SWOT": "S=40 年+市场领导者+自有地产/W=软件商主线=PoE 非核心产品线;双窗营收估差大/O=澳分点+SaaS 云机房网络基建/T=Shenley Hall 大楼网络规模有限"
+    },
+    "care": "S:40 年+市场领导者+自有地产;W:软件商主线=PoE 非核心产品线;双窗营收估差大;O:澳分点+SaaS 云机房网络基建;T:Shenley Hall 大楼网络规模有限",
+    "swot": {
+     "S": "40 年+市场领导者+自有地产",
+     "W": "软件商主线=PoE 非核心产品线;双窗营收估差大",
+     "O": "澳分点+SaaS 云机房网络基建",
+     "T": "Shenley Hall 大楼网络规模有限"
+    },
+    "uncertain": "R67 推土机深挖 批7(open web 多级直源互证)",
+    "gap_proof": "https://companycheck.co.uk/company/02017435/ROAD-TECH-COMPUTER-SYSTEMS-LIMITED/companies-house-data"
+   },
+   "unknowns": [
+    "MikroTik/现网设备谱位未明(官网无)",
+    "Monahan 直邮推档(领英链)",
+    "澳分点网络规未明"
+   ],
+   "relation": "2026-10-08 R67 推土机深挖 批7",
+   "email": "Dear David and Road Tech Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid). A value unit for your Shenley Hall HQ and Australia office network infrastructure. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**David Monahan(GM+Director P0)+Shiraz Azizali(IT 技术线)**; +44 1923 461111",
+   "kp": [
+    {
+     "name": "David Monahan",
+     "role": "General Manager(2022-07 入职,Director 2024-09-25 新任,P0 运营总,55 岁)",
+     "contact": "领英谱链;+44 1923 461111 台口转",
+     "status": "Companies House+Endole 双直证 O 级",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/02017435/officers"
+    },
+    {
+     "name": "Bernadette Beevor",
+     "role": "Director+Company Secretary(1992-04-06 任秘书 32 年+2017-12-07 董事;创始家族治理谱)",
+     "contact": "台口转",
+     "status": "Companies House 直证 O 级",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/02017435/officers"
+    },
+    {
+     "name": "Shiraz Azizali",
+     "role": "IT 管理+Lead Android Developer(2012-02 入职至今=技术线 P0 候选)",
+     "contact": "领英谱链",
+     "status": "Endole 直证 O 级",
+     "source": "https://open.endole.co.uk/insight/brand/33965-road-tech"
+    }
+   ],
+   "tag": "类型=英国物流 TMS 市场领导者 40 年;KP=Monahan GM+董事新谱+Beevor 家族治理",
+   "question": "触达决策门:David Monahan(GM+董事新谱)运营总直门",
+   "alt2": "替代:Azizali IT 技术线;Bernadette Beevor 创始家族治理层",
+   "alt3": "备用:sales@roadtech.co.uk 谱口+01923 461111 台口"
+  },
+  {
+   "customer": "A-138",
+   "fact": "波 R67/批7·A-138:德谱: **AMRO IT-Systeme GmbH 深挖(northdata/Impressum 官网/online-handelsregister/creditreform/unternehmensverzeichnis 五源互证)**:**Amtsgericht Ansbach HRB 2516,1996-12-17 注册(29 年);GmbH 资本 €30,000(2011 增史 €25,600→30,000);USt-Id DE241783909(旧 DE185796189 谱);Treuchtlinger Str. 1,91781 Weißenburg in Bayern;Tel 09141/9019-0;info@amro.de**;**前身=AMRO Soft- & Hardware Verwaltungs-GmbH(2013-07-02 更名现谱)**;**官方宗旨「Nichthandwerkliche Konfektionierung von elektronischen/elektrotechnischen/elektromechanischen Bauelementen+Entwicklung von Individual- und Standardsoftware+Netzwerk-, Hard- und Softwarebetreuung+Handel und Vertrieb von Hardware, Software und Telekommunikationsprodukten」=电子元件精密组装+软件研发+网络软硬服务+硬件/软件/电信产品贸易全链谱**;**KP 金谱:Jürgen Reutelhuber(Geschäftsführer 2013-06-18 任至今 13 年,单独代表权,居 Alesheim;前 GF Amler/Rottler 2011/2013 退任史)+Tobias Blobner(Prokurist 2013 任至今 13 年=公司代表权双轨)+Ludwig Amler(前 Prokurist 谱史,2013 退)**;**Creditreform 谱=2 Managers(1×GF+1×Prokurist)+4 股东;主业 Sonstige Softwareentwicklung WZ 62.01.9**;**谱位=巴伐利亚 29 年中型系统屋=巴符/拜仁地区企业 IT 基础+服务器/网络/软件全链=采购线谱口**。",
+   "inference": "R67 推土机深挖 批7 A 类余户清零批",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.amro.de/impressum/",
+   "tech": "电子元件组装+定制/标准软件开发+网络软硬服务+电信产品贸易;中型巴伐利亚系统屋",
+   "hr": "Creditreform 2 经理+4 股东;29 年;Weißenburg 谱;中型规模窗注",
+   "contact_found": "**Jürgen Reutelhuber(GF 13 年 P0)+Tobias Blobner(Prokurist 13 年)**",
+   "contact_pending": "具名直邮推档;info@amro.de 群邮台口 09141/9019-0",
+   "dims": {
+    "业务定位": "AMRO IT-Systeme GmbH(Weißenburg,1996 创 29 年):巴伐利亚中型系统屋,软硬网络+软件开发全链",
+    "产品线与在售品牌": "电子元件精密组装+定制/标准软件+网络软硬服务+硬件/软件/电信产品贸易",
+    "目标行业与场景": "巴伐利亚地区企业客户(法兰克福-纽伦堡-慕尼黑轴)",
+    "团队与规模": "2 经理(GF+Prokurist)+4 股东;29 年;中型规模窗",
+    "决策链与对接人": "Jürgen Reutelhuber(GF 单独代表)+Tobias Blobner(Prokurist 公司代表权)",
+    "技术与认证": "USt DE241783909;Creditreform 谱;前名 Verwaltungs-GmbH 史",
+    "采购与供应链信号": "硬件/软件/电信产品贸易=采购线谱口;电子元件精密组装谱=基础网络件集购链",
+    "近期动态与线索": "GF 13 年稳;2013 更名谱;4 股东治理谱",
+    "与我方契合点": "Reutelhuber GF+Blobner Prokurist 双轨 → 24 口 PoE(系统屋转售谱+自有项目谱)",
+    "风险与注意": "**中型系统屋谱;B2B 精通谱(企业采购窗);规模窗注(小中盘)**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "AMRO IT-Systeme GmbH;Amtsgericht Ansbach HRB 2516;Gründungsdatum 17.12.1996;Kapital 30.000,00 EUR;Treuchtlinger Str. 1,91781 Weißenburg;GF Jürgen Reutelhuber(bestellt 18.06.2013);Prokurist Tobias Blobner;USt DE241783909",
+     "source": "https://www.online-handelsregister.de/handelsregisterauszug/by/Ansbach/HRB/2516/AMRO-IT-Systeme-GmbH"
+    },
+    {
+     "dim": "官网谱",
+     "quote": "AMRO IT-Systeme GmbH Treuchtlinger Strasse 1,91781 Weißenburg;HRB 2516 Amtsgericht Ansbach;Vertreten durch: Jürgen Reutelhuber;Tel. 09141/9019-0;info@amro.de",
+     "source": "https://www.amro.de/impressum/"
+    },
+    {
+     "dim": "业务宗旨",
+     "quote": "Nichthandwerkliche Konfektionierung elektronischer/elektrotechnischer Bauelemente;Entwicklung Individual-/Standardsoftware;Netzwerk-, Hard- und Softwarebetreuung;Handel und Vertrieb von Hardware, Software und Telekommunikationsprodukten",
+     "source": "https://www.unternehmensverzeichnis.org/amro-it-systeme-gmbh-weissenburg-2500923353125"
+    },
+    {
+     "dim": "治理谱",
+     "quote": "derzeit 2 Manager(1 Geschäftsführer+1 Prokurist);4 Gesellschafter;Branche Sonstige Softwareentwicklung 62.01.9",
+     "source": "https://firmeneintrag.creditreform.de/91781/8190393763/AMRO_IT_SYSTEME_GMBH"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Reutelhuber GF P0",
+     "push": "STC-424XGGPM-280W",
+     "angle": "GF 13 年单独代表=首口 → 24 口 PoE(系统屋项目谱+转售谱)",
+     "question": "贵司企业项目谱的 24 口 PoE 交换机集购由哪位主责?",
+     "proof": "HRB/官网 4 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Blobner Prokurist",
+     "push": "STI-288GPM/424",
+     "angle": "Prokurist 公司代表权双轨=第二口",
+     "question": "贵司电信产品贸易线的 PoE 谱口?",
+     "proof": "HRB 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · 项目/元件组装线",
+     "push": "STC-28DGGPM",
+     "angle": "电子元件精密组装谱=网络件集购链",
+     "question": "自有品牌/组装线的网络件样件送样口?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1996 创 29 年;Weißenburg Bayern;前身 Verwaltungs-GmbH(2013 更名)",
+     "②芯片/型号": "软硬网络服务+电信产品贸易+元件组装全链;PoE=企业项目谱",
+     "③KP 深挖": "Reutelhuber GF(13 年 单独代表)+Blobner Prokurist(13 年)=双轨谱",
+     "④Saga 对标": "中型系统屋 → 24 口 PoE 项目转售",
+     "⑤在乎与偏好": "GF 13 年稳;4 股东治理;巴伐利亚地区谱",
+     "⑥SWOT": "S=29 年系统屋+全链谱/W=中小盘规模窗;具名直邮需推档/O=电信产品贸易谱=采购线口/T=巴伐利亚地区谱客户密集"
+    },
+    "care": "S:29 年系统屋+全链谱;W:中小盘规模窗;具名直邮需推档;O:电信产品贸易谱=采购线口;T:巴伐利亚地区谱客户密集",
+    "swot": {
+     "S": "29 年系统屋+全链谱",
+     "W": "中小盘规模窗;具名直邮需推档",
+     "O": "电信产品贸易谱=采购线口",
+     "T": "巴伐利亚地区谱客户密集"
+    },
+    "uncertain": "R67 推土机深挖 批7(open web 多级直源互证)",
+    "gap_proof": "https://www.online-handelsregister.de/handelsregisterauszug/by/Ansbach/HRB/2516/AMRO-IT-Systeme-GmbH"
+   },
+   "unknowns": [
+    "MikroTik/现售品牌谱位需官网产品页核",
+    "Reutelhuber 直邮推档",
+    "4 股东谱明细"
+   ],
+   "relation": "2026-10-08 R67 推土机深挖 批7",
+   "email": "Dear Mr. Reutelhuber and AMRO Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — EXW open for German system house projects and resale lines. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**Jürgen Reutelhuber(GF P0)+Tobias Blobner(Prokurist)**; info@amro.de; 09141/9019-0",
+   "kp": [
+    {
+     "name": "Jürgen Reutelhuber",
+     "role": "Geschäftsführer(2013-06-18 任至今 13 年,单独代表权,P0)",
+     "contact": "LinkedIn/XING 谱链;09141/9019-0 台口转",
+     "status": "HRB+Impressum 双直证 O 级",
+     "source": "https://www.amro.de/impressum/"
+    },
+    {
+     "name": "Tobias Blobner",
+     "role": "Prokurist(2013 任至今 13 年,公司代表权=第二口)",
+     "contact": "台口转",
+     "status": "northdata/HRB 直证 O 级",
+     "source": "https://www.northdata.de/AMRO+IT-Systeme+GmbH,+Wei%C3%9Fenburg+i.+Bay./Amtsgericht+Ansbach+HRB+2516"
+    }
+   ],
+   "tag": "类型=巴伐利亚 29 年中型系统屋全链;KP=GF Reutelhuber 13 年+Prokurist Blobner 双轨",
+   "question": "触达决策门:Jürgen Reutelhuber(GF 单独代表 13 年)",
+   "alt2": "替代:Tobias Blobner(Prokurist 公司代表权)",
+   "alt3": "备用:info@amro.de 群邮台口 09141/9019-0"
+  },
+  {
+   "customer": "A-135",
+   "fact": "波 R67/批7·A-135:德法谱: **Acteos GmbH & Co. KG 深挖(companyhouse.de/crunchbase/D&B/Impressum 官网/prnewswire/join.com 六源互证)**:**HRA 77960 Amtsgericht München;Römerstr. 40,82205 Gilching(Bayern);+49 8105 3851 0;info@acteos.de;2001 创(24 年,前身 COHSE GmbH Computer Hardware Software Engineering & Co. KG→更名 Acteos 谱)**;**母司=Acteos SA 法国上市公司 100% 子司(crunchbase 直证;德/法/黎巴嫩三点运营谱)**;**业务=Supply Chain Management 软件解决商(WMS 仓储+TMS 运输+Forecasting 预测+RFID-Gate+Field Service+MDM)+咨询/实施/SaaS Hosting+硬件移动数据采集(intermec 品牌谱);SOTI MobiControl EMM=DACH 首个 Elite Gold Partner(2013-06 prnewswire 直证;2008 起分销商+MobiControl 德语界面本土包他们做)**;**员工 11-50(crunchbase)/51-200(join.com)双窗注**;**KP 金谱:Dr. Joseph Felfeli(Geschäftsführer 现任,D&B Key Principal+Impressum 双直证 P0)+Dr. Dieter Neumann(前 GF 2006-05~2014-04+2013 SOTI 新闻稿发言人=推广谱史)+Acteos Beteiligungs-GmbH(无限责任股东架构谱)**;**谱位=SCM/物流软件+硬件数据采集德法谱=SaaS+硬件双轨=网络基建+硬件集购谱口;warehouse/RFID 场景=工业网络需求谱位**。",
+   "inference": "R67 推土机深挖 批7 A 类余户清零批",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.dnb.com/business-directory/company-profiles/acteos-gmbh--co-kg.4a1f3a36390122c91f49586e3938e1e1",
+   "tech": "SCM 软件(WMS/TMS/Forecasting/RFID/Field Service/MDM)+SaaS Hosting+移动数据采集硬件(intermec);法上市公司子司",
+   "hr": "11-50(crunchbase)/51-200(join.com)双窗;24 年;Gilching/法国/黎巴嫩三点",
+   "contact_found": "**Dr. Joseph Felfeli(GF P0 D&B Key Principal+Impressum 双直证)**",
+   "contact_pending": "具名直邮推档;info@acteos.de 台口 +49 8105 3851 0",
+   "dims": {
+    "业务定位": "Acteos GmbH & Co. KG(Gilching,2001 创 24 年,法国上市 Acteos SA 子司):SCM 软件+硬件数据采集德法谱",
+    "产品线与在售品牌": "WMS+TMS+Forecasting+RFID-Gate+Field Service+MDM+SaaS+intermec 硬件+SOTI MobiControl EMM(DACH 首个 Elite Gold)",
+    "目标行业与场景": "物流/仓储/供应链企业客户(德国/法国/黎巴嫩谱)",
+    "团队与规模": "11-50/51-200 员工双窗;24 年;法上市母司背景",
+    "决策链与对接人": "Dr. Joseph Felfeli(GF)+Acteos Beteiligungs-GmbH 股东架构",
+    "技术与认证": "intermec 硬件谱;SOTI MobiControl 2008 分销+2013 Elite Gold;SaaS Hosting 数据中心谱",
+    "采购与供应链信号": "硬件数据采集谱=移动设备+网络基建集购链;RFID-Gate=工业网络需求谱位",
+    "近期动态与线索": "SOTI DACH 首个 Elite Gold(2013 谱);Neumann→Felfeli GF 交接谱",
+    "与我方契合点": "Felfeli GF+硬件数据采集线 → 24 口 PoE(仓库/RFID 场景+SaaS 机房基建)",
+    "风险与注意": "**法上市母司集团谱=决策链跨境;供应链软件主线=PoE 为基础设施非产品线**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "Acteos GmbH & Co. KG;HRA 77960 München;Römerstr. 40,82205 Gilching;Tel +49 8105 3851 0;Geschäftsführer Dr. Joseph Felfeli;前身 COHSE GmbH",
+     "source": "https://www.acteos.de/impressum"
+    },
+    {
+     "dim": "集团谱",
+     "quote": "Acteos GmbH & Co. KG is a 100% subsidiary of the French-based, listed Acteos SA;Standorte Deutschland, Frankreich, Libanon;SCM Software für Supply Chain Planning und Execution",
+     "source": "https://www.crunchbase.com/organization/acteos-133c"
+    },
+    {
+     "dim": "KP 矩阵",
+     "quote": "Key Principal: Joseph Felfeli;Executive Board Member Acteos GmbH & Co. KG;Key Principal 直证",
+     "source": "https://www.dnb.com/business-directory/company-profiles/acteos-gmbh--co-kg.4a1f3a36390122c91f49586e3938e1e1"
+    },
+    {
+     "dim": "产品/伙伴",
+     "quote": "Acteos ist SOTI Elite Gold Partner(erster in der DACH-Region,2013);seit 2008 Distributor für SOTI MobiControl;deutsche Benutzeroberfläche MobiControl im Auftrag von SOTI Kanada;Dr. Dieter Neumann Geschäftsführer(2013 新闻稿)",
+     "source": "https://www.prnewswire.com/news-releases/acteos-ist-soti-elite-gold-partner---enterprise-mobility-management-220535271.html"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Felfeli GF P0",
+     "push": "STC-424XGGPM-280W",
+     "angle": "GF D&B Key Principal → 24 口 PoE(仓库/RFID 场景+SaaS 机房)",
+     "question": "贵司仓库/RFID 场景的 PoE 网络基建由哪位主责?",
+     "proof": "D&B/Impressum 双源"
+    },
+    {
+     "stage": "第 2 次跟进 · 硬件数据采集线",
+     "push": "STI-288GPM/424",
+     "angle": "intermec 硬件+RFID-Gate 工业网络谱位",
+     "question": "硬件/RFID 产品线的 PoE 谱口?",
+     "proof": "crunchbase 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · SaaS Hosting 机房线",
+     "push": "STC-28DGGPM",
+     "angle": "SaaS Hosting 数据中心谱=机房网络基建",
+     "question": "SaaS 机房线的网络件集购口?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2001 创 24 年;Gilching;法国上市 Acteos SA 100% 子司;COHSE 前名史",
+     "②芯片/型号": "SCM 软件+SaaS+intermec 硬件+SOTI EMM;PoE=仓库/RFID/机房基建",
+     "③KP 深挖": "Felfeli GF(D&B Key Principal 直证);Neumann 史=GF 交接谱",
+     "④Saga 对标": "德法谱 SCM 软件+硬件 → 24 口 PoE 仓库/RFID 场景",
+     "⑤在乎与偏好": "SOTI DACH 首个 Elite Gold(2013);intermec 硬件谱;法上市背景",
+     "⑥SWOT": "S=法上市集团+24 年谱+SOTI Elite Gold/W=软件主线=PoE 非产品;集团跨境决策/O=仓库/RFID 工业网络需求谱/T=黎巴嫩分点谱=覆盖杂"
+    },
+    "care": "S:法上市集团+24 年谱+SOTI Elite Gold;W:软件主线=PoE 非产品;集团跨境决策;O:仓库/RFID 工业网络需求谱;T:黎巴嫩分点谱=覆盖杂",
+    "swot": {
+     "S": "法上市集团+24 年谱+SOTI Elite Gold",
+     "W": "软件主线=PoE 非产品;集团跨境决策",
+     "O": "仓库/RFID 工业网络需求谱",
+     "T": "黎巴嫩分点谱=覆盖杂"
+    },
+    "uncertain": "R67 推土机深挖 批7(open web 多级直源互证)",
+    "gap_proof": "https://www.acteos.de/impressum"
+   },
+   "unknowns": [
+    "MikroTik/现售硬件谱需核(intermec 主线)",
+    "Felfeli 直邮推档",
+    "集团采购链法国母司层级"
+   ],
+   "relation": "2026-10-08 R67 推土机深挖 批7",
+   "email": "Dear Dr. Felfeli and Acteos Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — EXW open for warehouse/RFID deployments and SaaS datacenter infrastructure. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**Dr. Joseph Felfeli(GF P0)**; info@acteos.de; +49 8105 3851 0",
+   "kp": [
+    {
+     "name": "Dr. Joseph Felfeli",
+     "role": "Geschäftsführer(现任,D&B Key Principal 直证,P0)",
+     "contact": "LinkedIn/XING 谱链;+49 8105 3851 0 台口转",
+     "status": "D&B+Impressum 双直证 O 级",
+     "source": "https://www.dnb.com/business-directory/company-profiles/acteos-gmbh--co-kg.4a1f3a36390122c91f49586e3938e1e1"
+    }
+   ],
+   "tag": "类型=法上市公司子司 SCM 软件+硬件 24 年;KP=Felfeli GF P0 单轨",
+   "question": "触达决策门:Dr. Joseph Felfeli(GF,D&B Key Principal 直证)",
+   "alt2": "替代:+49 8105 3851 0 台口转销售线;法国 Acteos SA 集团链",
+   "alt3": "备用:info@acteos.de 群邮台口"
+  },
+  {
+   "customer": "A-134",
+   "fact": "波 R67/批7·A-134:德谱: **ACP IT Solutions GmbH 深挖(companyhouse.de/northdata/silicon-saxony/acp-gruppe 官网/creditreform/Impressum 六源互证)**:**Amtsgericht Stendal HRB 201508(原 Halle HRB 1508);1990-01-08 创(35 年+!);Daniel-Vorländer-Str. 6,06120 Halle (Saale);+49 345 23304-0;halle@acp.de;USt DE140098719;LEI 391200ZJ83144PAB9I52**;**更名链=Wichmann Datentechnik Sangerhausen GmbH→WISYS 集团(2020-06-26 股东会更现名+2020-06 IT-SYSTEMHAUS Dresden GmbH(Amtsgericht Dresden HRB 22756)合并入);**ACP Gruppe 集团 FY2023/24:营收 €935M+近 2,500 员工+50+ 点德国/奥地利**(silicon-saxony 直证);本部=ACP MITTELDEUTSCHLAND(Halle/Dresden/Leipzig/Sangerhausen 四点,100+ 员工,30 年+系统屋+20 年 CAS 软件顶级伙伴)**;**业务=360° IT 组合(咨询/集成/Managed Services/Datacenter/IT-Finanzierung);中型企业+公共机构+教育+协会+政府部门全谱;Dresden 有 DIN ISO 27001 数据中心(ACP Cloud Operations GmbH)**;**KP 金谱:Sten Jacobson(Geschäftsführer 2020-06-26 任至今,单独代表权,居 Burkau=P0)+Eric Jens Meier(Einzelprokura 2024-12-11 新任,Radeberg)+Manuela Claus(Einzelprokura 2020-06-26,Dresden)+Annemarie Plaschnik(副销售总监,Halle 站官网谱)+Julia Richter( Sales@/HR 联系人谱 julia.richter@acp.de)+前 GF Jörg Fischer(2020-06 退→Prokurist 史)+Holger Nammert(前 GF 2022-01-31 退)**;**Bilanzsumme €6M(2023,-17.5% 窗注)**;**同名噪=ACP IT Solutions GmbH Würzburg(HRB 16728,2023 新)+Mainz(HRB 48729)≠;谱位=德奥 €935M 集团 Mitteldeutschland 区域系统屋=集团采购链+公共部门项目谱口**。",
+   "inference": "R67 推土机深挖 批7 A 类余户清零批",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.companyhouse.de/en/ACP-IT-Solutions-GmbH-Halle-Saale",
+   "tech": "360° IT 组合(咨询/集成/Managed Services/Datacenter/IT-Finanzierung);€935M 集团 Mitteldeutschland 区域屋",
+   "hr": "100+ 员工(四点);35 年;ACP Gruppe 2,500 员;Halle 主点",
+   "contact_found": "**Sten Jacobson(GF+股东 P0)+Eric Meier/Manuela Claus(Prokuristen 双轨)+Annemarie Plaschnik(副销总)+Julia Richter(HR)**",
+   "contact_pending": "具名直邮推档;halle@acp.de 群邮台口 +49 345 23304-0",
+   "dims": {
+    "业务定位": "ACP IT Solutions GmbH(Halle,1990 创 35 年,ACP Gruppe Mitteldeutschland 区域屋):德奥 €935M 集团系统屋",
+    "产品线与在售品牌": "360° IT 组合(咨询/集成/Managed Services/Datacenter/IT-Finanzierung);CAS Software 20 年顶级伙伴;ISO 27001 Dresden DC",
+    "目标行业与场景": "中型企业+公共机构+教育+协会+政府全谱",
+    "团队与规模": "100+ 员工(四点);集团 2,500 员 50+ 点;€935M 集团营收",
+    "决策链与对接人": "Sten Jacobson(GF 单独代表+股东)+Eric Meier/Manuela Claus(Prokuristen)+Annemarie Plaschnik(副销总)",
+    "技术与认证": "ISO 27001 数据中心;LEI 391200ZJ83144PAB9I52;CAS 20 年伙伴",
+    "采购与供应链信号": "集团采购链=ACP Gruppe 层级;区域项目谱=公共部门+中型企业",
+    "近期动态与线索": "2024-12 Meier 新 Prokurist;2022-06 Nammert GF 退;2020 合并 Dresden+更名双档",
+    "与我方契合点": "Jacobson GF+Plaschnik 副销总双轨 → 24 口 PoE(区域项目谱+集团集采链)",
+    "风险与注意": "**集团层级采购链复杂;同名噪 ACP Würzburg HRB 16728(2023 新)/Mainz HRB 48729 需排;€6M Bilanzsumme 集团内小盘注**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "ACP IT Solutions GmbH;HRB 201508 Amtsgericht Stendal(原 Halle HRB 1508);Gründung 08.01.1990;Daniel-Vorländer-Straße 6,06120 Halle (Saale);GF Sten Jacobson(26.06.2020-,单独代表);LEI 391200ZJ83144PAB9I52",
+     "source": "https://www.companyhouse.de/en/ACP-IT-Solutions-GmbH-Halle-Saale"
+    },
+    {
+     "dim": "集团谱",
+     "quote": "ACP Gruppe FY2023/24:Umsatz 935 Millionen Euro+knapp 2.500 Mitarbeitende+50+ Geschäftsstellen Deutschland und Österreich;Mitteldeutschland:Halle, Dresden, Leipzig, Sangerhausen, 100+ Mitarbeitende;20+ Jahre CAS Software Vertriebspartner",
+     "source": "https://silicon-saxony.de/mitglieder/acp-it-solutions-gmbh/"
+    },
+    {
+     "dim": "KP 矩阵",
+     "quote": "Sten Jacobson Geschäftsführer 26.06.2020;Manuela Claus Prokuristin 26.06.2020(Dresden);Eric Jens Meier Einzelprokura 11.12.2024(Radeberg);前 GF Jörg Fischer+Holger Nammert(31.01.2022 退)",
+     "source": "https://www.northdata.com/ACP%20IT%20Solutions%20GmbH,%20Halle%20(Saale)/Amtsgericht%20Stendal%20HRB%20201508"
+    },
+    {
+     "dim": "联系人谱",
+     "quote": "Ihre Ansprechpartner: Eric Meier;Annemarie Plaschnik stellv. Vertriebsleiterin;Julia Richter(+49 345 23304-16,julia.richter@acp.de);Daniel-Vorländer-Straße 6",
+     "source": "https://www.acp-gruppe.com/standorte/halle"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Jacobson GF+股东 P0",
+     "push": "STC-424XGGPM-280W",
+     "angle": "GF 单独代表 2020 起+股东 → 24 口 PoE(区域项目谱+集团集采)",
+     "question": "贵司公共部门项目的 PoE 交换机集购由哪位主责?",
+     "proof": "HRB/官网 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Plaschnik 副销总",
+     "push": "STI-288GPM/424",
+     "angle": "副销售总监 Halle 站=销售线第二口",
+     "question": "贵司 IT 集采线的 PoE 谱口?",
+     "proof": "官网谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Meier 新 Prokurist 谱",
+     "push": "STC-28DGGPM",
+     "angle": "Prokurist 2024-12 新任=新入谱口",
+     "question": "区域项目谱的网络件送样口?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1990 创 35 年;Halle;ACP Gruppe €935M 集团 Mitteldeutschland;Wichmann 史+2020 合并双档",
+     "②芯片/型号": "360° IT 组合+ISO 27001 Dresden DC;PoE=公共部门项目+Datacenter 基建谱",
+     "③KP 深挖": "Jacobson GF(2020 任+股东)+Meier/Claus Prokuristen+Plaschnik 副销总=多轨谱",
+     "④Saga 对标": "集团 Mitteldeutschland 区域屋 → 24 口 PoE 项目+集团集采",
+     "⑤在乎与偏好": "集团 2,500 员 50+ 点;CAS 20 年顶级伙伴;政府/教育谱",
+     "⑥SWOT": "S=€935M 集团背景+35 年谱+公共部门谱/W=集团采购链层级;同名噪排/O=政府/教育项目谱+集团集采链/T=区域屋盘在集团内小盘"
+    },
+    "care": "S:€935M 集团背景+35 年谱+公共部门谱;W:集团采购链层级;同名噪排;O:政府/教育项目谱+集团集采链;T:区域屋盘在集团内小盘",
+    "swot": {
+     "S": "€935M 集团背景+35 年谱+公共部门谱",
+     "W": "集团采购链层级;同名噪排",
+     "O": "政府/教育项目谱+集团集采链",
+     "T": "区域屋盘在集团内小盘"
+    },
+    "uncertain": "R67 推土机深挖 批7(open web 多级直源互证)",
+    "gap_proof": "https://www.companyhouse.de/en/ACP-IT-Solutions-GmbH-Halle-Saale"
+   },
+   "unknowns": [
+    "MikroTik/现售网络件谱位需官网核",
+    "Jacobson 直邮推档",
+    "集团采购链=ACP Holding 层级未明"
+   ],
+   "relation": "2026-10-08 R67 推土机深挖 批7",
+   "email": "Dear Mr. Jacobson and ACP Mitteldeutschland Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — EXW open for regional projects and group-level procurement lines. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**Sten Jacobson(GF+股东 P0)+Annemarie Plaschnik(副销总)**; halle@acp.de; +49 345 23304-0",
+   "kp": [
+    {
+     "name": "Sten Jacobson",
+     "role": "Geschäftsführer+股东(2020-06-26 任,单独代表权,P0)",
+     "contact": "LinkedIn/XING 谱链;+49 345 23304-0 台口转",
+     "status": "companyhouse/northdata 双直证 O 级",
+     "source": "https://www.companyhouse.de/en/ACP-IT-Solutions-GmbH-Halle-Saale"
+    },
+    {
+     "name": "Annemarie Plaschnik",
+     "role": "stellv. Vertriebsleiterin 副销售总监(Halle 站官网谱,销售线 P0)",
+     "contact": "julia.richter@acp.de HR 谱链;台口转",
+     "status": "官网直证 O 级",
+     "source": "https://www.acp-gruppe.com/standorte/halle"
+    },
+    {
+     "name": "Eric Jens Meier",
+     "role": "Einzelprokura 公司代表(2024-12-11 新任,Radeberg)",
+     "contact": "台口转",
+     "status": "northdata 直证 O 级",
+     "source": "https://www.northdata.com/ACP%20IT%20Solutions%20GmbH,%20Halle%20(Saale)/Amtsgericht%20Stendal%20HRB%20201508"
+    },
+    {
+     "name": "Manuela Claus",
+     "role": "Einzelprokura 公司代表(2020-06-26,Dresden)",
+     "contact": "台口转",
+     "status": "northdata 直证 O 级",
+     "source": "https://www.northdata.com/ACP%20IT%20Solutions%20GmbH,%20Halle%20(Saale)/Amtsgericht%20Stendal%20HRB%20201508"
+    }
+   ],
+   "tag": "类型=€935M 集团 Mitteldeutschland 区域屋 35 年;KP=Jacobson GF+股东+Plaschnik 副销总",
+   "question": "触达决策门:Sten Jacobson(GF+股东 单独代表)",
+   "alt2": "替代:Plaschnik 副销总(Halle 站直销);Meier/Claus Prokuristen",
+   "alt3": "备用:halle@acp.de 群邮台口 +49 345 23304-0;julia.richter@acp.de"
+  },
+  {
+   "customer": "A-133",
+   "fact": "波 R67/批7·A-133:德谱: **5G IT Service GmbH 深挖(openregister/webvalid/regiomanager/online-handelsregister/XING+官网 六源互证)**:**Amtsgericht Coesfeld HRB 18608;章程 2019-12-03,注册 2020-01-09(6 年);GmbH 资本 €25,000**;**2026-02-05 股东决议迁址:现 Industriestr. 13,46342 Velen(原 Carl-Benz-Str. 21,48734 Groß Reken);+49 2863 77995-110;+49 2864 3303110(旧点);info@5G-IT.de**;**「5G」=「fünf Gründer 五创始」(regiomanager 直证:五人从另一 IT 系统屋集体出创业 2020-01-01,疫情前夕;XING 谱证=buerodata AG(Stadtlohn)系+Falk Kappenhagen 前 buerodata AG 内勤/Georg Dreckmann 电信销售史+Michael Paschen 前 buerodata AG IT System Engineer/mediaBEAM 安全官史+Bernward Schepermann buerodata AG 销售总监兼任至今)**;**业务=IT 服务全包(pauschal 全包)+IT Security+网络+Server/Storage+贸易+软件;自有 5G-Cloud;Kreis Borken IT 服务商排行 #8/Münsterland #17(2026 榜)**;**营收 €3.6M+员工 16(regiomanager 2026 榜)/19(regiomanager 专访)/20(XING)三窗注**;**KP 金谱:Falk Kappenhagen(Geschäftsführer 2020-01-09 创任至今,f1990=36 岁,单独代表权 2022-11 变更=P0 创始+GF+股东)+Michael Paschen(共同创始 GF 2020-01-09~2021-12-15 退,Stadtlohn,创伙伴史)+Bernward Schepermann(Einzelprokura 2021-01-25,buerodata AG 销售总监兼任=B2B 借船谱位,宽带网/光纤基础设施专家)+Alexander Hilgenberg(Marketing 负责人,regiomanager 专访发言人)+Markus Gerwing/Christopher Heidemann/Benjamin Eweleit/Amirkhan Dzhabrailov(团队谱 XING)**;**谱位=Velen 新兴 19 人全包 IT 系统屋=中型企业外包谱;自有 5G-Cloud=机房网络基建谱口**。",
+   "inference": "R67 推土机深挖 批7 A 类余户清零批",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://openregister.de/company/DE-HRB-R2707-18608",
+   "tech": "IT 服务全包+Security+网络+Server/Storage+贸易+软件;自有 5G-Cloud;19 人新兴系统屋",
+   "hr": "16(regiomanager 榜)/19(专访)/20(XING)三窗;6 年;€3.6M 营收;Velen 新址",
+   "contact_found": "**Falk Kappenhagen(GF 创始 36 岁 P0)+Bernward Schepermann(Prokurist+buerodata 销总兼任)+Alexander Hilgenberg(Marketing)+Paschen 创伙伴史**",
+   "contact_pending": "具名直邮推档;info@5G-IT.de 台口 +49 2863 77995-110",
+   "dims": {
+    "业务定位": "5G IT Service GmbH(Velen,2020 创 6 年,五创始 buerodata 系):19 人全包 IT 系统屋+自有 5G-Cloud",
+    "产品线与在售品牌": "IT 服务全包(pauschal)+IT Security+网络+Server/Storage+贸易+软件;5G-Cloud 自有机房",
+    "目标行业与场景": "NRW 中型企业外包谱(Kreis Borken/Münsterland 地区)",
+    "团队与规模": "16/19/20 员工三窗;6 年;€3.6M 营收;Velen 新址 2026-02",
+    "决策链与对接人": "Falk Kappenhagen(GF 创始单独代表)+Bernward Schepermann(Prokurist+buerodata 销总)+Hilgenberg(Marketing)",
+    "技术与认证": "自有 5G-Cloud 数据中心谱;buerodata AG 系借船谱位",
+    "采购与供应链信号": "全包 IT 谱=网络件集购链;5G-Cloud=机房基建采购口",
+    "近期动态与线索": "2026-02 迁址 Velen Industriestr.;Kreis Borken 排行 #8(2026 榜)",
+    "与我方契合点": "Kappenhagen GF 创始+Hilgenberg Marketing → 24 口 PoE(全包项目谱+5G-Cloud 机房)",
+    "风险与注意": "**新兴小盘;创始人 36 岁年轻谱;buerodata 兼任谱=决策双线注**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "5G IT Service GmbH;Amtsgericht Coesfeld HRB 18608;Gründungsdatum 09.01.2020;Kapital 25.000 EUR;Industriestr. 13,46342 Velen(2026-02-05 决议迁址,原 Carl-Benz-Str. 21 Reken);GF Falk Kappenhagen(09.01.2020-);Einzelprokura Bernward Schepermann(25.01.2021)",
+     "source": "https://openregister.de/company/DE-HRB-R2707-18608"
+    },
+    {
+     "dim": "创始谱",
+     "quote": "Gegründet zum 01.01.2020;5G steht für fünf Gründer, die aus einem anderen IT-Systemhaus heraus den Schritt in die Selbstständigkeit gewagt haben;heute 19 Mitarbeitende;Falk Kappenhagen Geschäftsführer",
+     "source": "https://www.regiomanager.de/artikel/5g-it-service-it-pauschal-skalierbar/"
+    },
+    {
+     "dim": "规模窗",
+     "quote": "5G IT Service GmbH:Umsatz 3,6 Mio.+Mitarbeiter 16(Kreis Borken IT-Dienstleister 2026 榜 #8);Hauptsitz Velen",
+     "source": "https://www.regiomanager.de/ranking/digital/it-dienstleister/kreis-borken/"
+    },
+    {
+     "dim": "KP 矩阵",
+     "quote": "Falk Kappenhagen Geschäftsführer seit 09.01.2020(buerodata AG Innendienst 2017-2019;Georg Dreckmann Telekommunikation Sales 2016);Michael Paschen GF bis 15.12.2021;Bernward Schepermann Prokurist 25.01.2021+buerodata AG Vertriebsleiter;Alexander Hilgenberg Marketing",
+     "source": "https://www.xing.com/profile/Falk_Kappenhagen"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Kappenhagen GF 创始 P0",
+     "push": "STC-424XGGPM-280W",
+     "angle": "GF 创始+单独代表 → 24 口 PoE(全包项目谱+5G-Cloud 机房)",
+     "question": "贵司全包项目谱与 5G-Cloud 机房的 PoE 集购由哪位主责?",
+     "proof": "HRB/regiomanager 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Hilgenberg Marketing 谱",
+     "push": "STI-288GPM/424",
+     "angle": "Marketing 负责人=第二口;regiomanager 发言人谱",
+     "question": "贵司机房/项目线的网络件集购口?",
+     "proof": "regiomanager 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Schepermann Prokurist+buerodata 兼任",
+     "push": "STC-28DGGPM",
+     "angle": "Prokurist+buerodata 销总兼任=借船谱位",
+     "question": "5G IT+buerodata 双司的送样口?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2020 创 6 年;Velen(原 Reken 2026-02 迁);五创始 buerodata AG 系;€3.6M 营收",
+     "②芯片/型号": "全包 IT+5G-Cloud 自有;PoE=全包项目+机房基建",
+     "③KP 深挖": "Kappenhagen GF 创始(36 岁 单独代表)+Schepermann Prokurist+Hilgenberg Marketing+Paschen 创伙伴史",
+     "④Saga 对标": "NRW 全包系统屋 → 24 口 PoE 全包项目+5G-Cloud 机房",
+     "⑤在乎与偏好": "pauschal 全包谱;5G-Cloud 自有;年轻创始队;Kreis Borken #8",
+     "⑥SWOT": "S=全包谱+自有机房+年轻创始队/W=小盘 16-19 人;决策双线(buerodata 兼任)/O=全包项目变 PoE 接入需求连发/T=Velen 地区中小盘谱"
+    },
+    "care": "S:全包谱+自有机房+年轻创始队;W:小盘 16-19 人;决策双线(buerodata 兼任);O:全包项目变 PoE 接入需求连发;T:Velen 地区中小盘谱",
+    "swot": {
+     "S": "全包谱+自有机房+年轻创始队",
+     "W": "小盘 16-19 人;决策双线(buerodata 兼任)",
+     "O": "全包项目变 PoE 接入需求连发",
+     "T": "Velen 地区中小盘谱"
+    },
+    "uncertain": "R67 推土机深挖 批7(open web 多级直源互证)",
+    "gap_proof": "https://openregister.de/company/DE-HRB-R2707-18608"
+   },
+   "unknowns": [
+    "现售网络件品牌谱位需官网核",
+    "Kappenhagen 直邮推档(XING 谱)",
+    "buerodata 双线决策谱注"
+   ],
+   "relation": "2026-10-08 R67 推土机深挖 批7",
+   "email": "Dear Falk and 5G IT Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — EXW open for managed-service projects and your 5G-Cloud datacenter. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**Falk Kappenhagen(GF 创始 P0)+Alexander Hilgenberg(Marketing)**; info@5G-IT.de; +49 2863 77995-110",
+   "kp": [
+    {
+     "name": "Falk Kappenhagen",
+     "role": "Geschäftsführer+创始股东(2020-01-09 任,单独代表权,f1990=36 岁,P0)",
+     "contact": "XING 谱链;+49 2863 77995-110 台口",
+     "status": "openregister+XING 双直证 O 级",
+     "source": "https://www.xing.com/profile/Falk_Kappenhagen"
+    },
+    {
+     "name": "Bernward Schepermann",
+     "role": "Einzelprokura(2021-01-25 任)+buerodata AG Vertriebsleiter 兼任(B2B 借船谱位)",
+     "contact": "XING 谱链",
+     "status": "openregister+XING 双直证 O 级",
+     "source": "https://openregister.de/company/DE-HRB-R2707-18608"
+    },
+    {
+     "name": "Alexander Hilgenberg",
+     "role": "Marketing 负责人(regiomanager 专访发言人谱)",
+     "contact": "官网谱链",
+     "status": "regiomanager 直证 O 级",
+     "source": "https://www.regiomanager.de/artikel/5g-it-service-it-pauschal-skalierbar/"
+    },
+    {
+     "name": "Michael Paschen",
+     "role": "共同创始 GF(2020-01-09~2021-12-15 退,创伙伴史谱)",
+     "contact": "XING 谱链",
+     "status": "openregister 直证 O 级",
+     "source": "https://openregister.de/company/DE-HRB-R2707-18608"
+    }
+   ],
+   "tag": "类型=Velen 新兴 19 人全包系统屋+5G-Cloud;KP=Kappenhagen 创始 36 岁单独代表 P0",
+   "question": "触达决策门:Falk Kappenhagen(GF 创始单独代表)",
+   "alt2": "替代:Hilgenberg Marketing;Schepermann Prokurist(buerodata 兼任谱)",
+   "alt3": "备用:info@5G-IT.de 群邮台口 +49 2863 77995-110"
+  }
+ ],
+ "_meta": {
+  "batch": "R67 推土机深挖 批7 A 类余户清零批",
+  "date": "2026-10-08",
+  "n": 6
+ }
+}

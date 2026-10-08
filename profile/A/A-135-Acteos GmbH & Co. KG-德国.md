@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Acteos GmbH & Co. KG:Acteos GmbH & Co. KG(德国 Gilching(巴伐利亚),Römerstr. 40, 82205;**1986 创(40 年)**;51-200 人谱(LinkedIn)/11-50 谱;info@acteos.de;+49-810538510;谱型=**Supply Chain Management 软件屋**(WMS 仓储管理/TMS 运输规划/销售规划/库存管理;prozessorientierte 咨询+定制系统解决方案(软件+硬件+通信接入)+服务维护;**法国上市 Acteos SA 100% 子公司=外资谱**)
-- 【推断】R66 第 14 波具名 KP 金谱
-- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
+- 【事实】波 R67/批7·A-135:德法谱: **Acteos GmbH & Co. KG 深挖(companyhouse.de/crunchbase/D&B/Impressum 官网/prnewswire/join.com 六源互证)**:**HRA 77960 Amtsgericht München;Römerstr. 40,82205 Gilching(Bayern);+49 8105 3851 0;info@acteos.de;2001 创(24 年,前身 COHSE GmbH Computer Hardware Software Engineering & Co. KG→更名 Acteos 谱)**;**母司=Acteos SA 法国上市公司 100% 子司(crunchbase 直证;德/法/黎巴嫩三点运营谱)**;**业务=Supply Chain Management 软件解决商(WMS 仓储+TMS 运输+Forecasting 预测+RFID-Gate+Field Service+MDM)+咨询/实施/SaaS Hosting+硬件移动数据采集(intermec 品牌谱);SOTI MobiControl EMM=DACH 首个 Elite Gold Partner(2013-06 prnewswire 直证;2008 起分销商+MobiControl 德语界面本土包他们做)**;**员工 11-50(crunchbase)/51-200(join.com)双窗注**;**KP 金谱:Dr. Joseph Felfeli(Geschäftsführer 现任,D&B Key Principal+Impressum 双直证 P0)+Dr. Dieter Neumann(前 GF 2006-05~2014-04+2013 SOTI 新闻稿发言人=推广谱史)+Acteos Beteiligungs-GmbH(无限责任股东架构谱)**;**谱位=SCM/物流软件+硬件数据采集德法谱=SaaS+硬件双轨=网络基建+硬件集购谱口;warehouse/RFID 场景=工业网络需求谱位**。
+- 【推断】R67 推土机深挖 批7 A 类余户清零批
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,6 +76,7 @@ updated: 2026-09-28
 - **原始联系字段**：info@acteos.de [Publicly listed; delivery not tested]; https://www.acteos.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Dr. Joseph Felfeli**(Geschäftsführer(现任,D&B Key Principal 直证,P0))— LinkedIn/XING 谱链;+49 8105 3851 0 台口转 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.dnb.com/business-directory/company-profiles/acteos-gmbh--co-kg.4a1f3a36390122c91f49586e3938e1e1〕
   - **Nidal al Safadi**(Geschäftsführer(执行董事))— 公司 LinkedIn 员工谱+RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://de.linkedin.com/company/acteos-gmbh-&-co-kg〕
   - **Joseph Felfeli**(Executive Board Member(执行董事会员;Key Principal))— DNB Key Principal 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.dnb.com/business-directory/company-profiles/acteos-gmbh--co-kg.4a1f3a36390122c91f49586e3938e1e1.html〕
   - **Sabine Weißling**(Manager Finance and Accounting(财务主管))— RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/acteos-gmbh-co-kg-management_b41fc8e9ff6bf766〕
@@ -86,6 +87,7 @@ updated: 2026-09-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Dr. Joseph Felfeli | Geschäftsführer(现任,D&B Key Principal 直证,P0) | LinkedIn/XING 谱链;+49 8105 3851 0 台口转 | D&B+Impressum 双直证 O 级 | https://www.dnb.com/business-directory/company-profiles/acteos-gmbh--co-kg.4a1f3a36390122c91f49586e3938e1e1 |
 | Nidal al Safadi | Geschäftsführer(执行董事) | 公司 LinkedIn 员工谱+RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://de.linkedin.com/company/acteos-gmbh-&-co-kg |
 | Joseph Felfeli | Executive Board Member(执行董事会员;Key Principal) | DNB Key Principal 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.dnb.com/business-directory/company-profiles/acteos-gmbh--co-kg.4a1f3a36390122c91f49586e3938e1e1.html |
 | Sabine Weißling | Manager Finance and Accounting(财务主管) | RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/acteos-gmbh-co-kg-management_b41fc8e9ff6bf766 |
@@ -150,38 +152,41 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第16波.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R67_R56_推土机批7.json`；价格均为 EXW 快照。
 
-- **①背景再核**：Acteos GmbH & Co. KG(德国 Gilching(巴伐利亚),Römerstr. 40, 82205;**1986 创(40 年)**;51-200 人谱(LinkedIn)/11-50 谱;info@acteos.de;+49-810538510;谱型=**Supply Chain Management 软件屋**(WMS 仓储管理/TMS 运输规划/销售规划/库存管理;prozessorientierte 咨询+定制系统解决方案(软件+硬件+通信接入)+服务维护;**法国上市 Acteos SA 100% 子公司=外资谱**)
-- **②芯片/型号**：(待谱面二补)
-- **③KP 深挖**：**Nidal al Safadi(Geschäftsführer(执行董事),leads-only·待 opt-in(LinkedIn/谱面带核));Joseph Felfeli(Executive Board Member(执行董事会员;Key Principal),leads-only·待 opt-in(LinkedIn/谱面带核));Sabine Weißling(Manager Finance and Accounting(财务主管),leads-only·待 opt-in(LinkedIn/谱面带核));Michael Witzke(Senior Account Manager(资深客户经理),leads-only·待 opt-in(LinkedIn/谱面带核));Patrick Bagur(Key Account Manager(大客户经理 KPI 相关位),leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
-- **⑤在乎与偏好**：40 年谱+法上市母台
+- **①背景再核**：2001 创 24 年;Gilching;法国上市 Acteos SA 100% 子司;COHSE 前名史
+- **②芯片/型号**：SCM 软件+SaaS+intermec 硬件+SOTI EMM;PoE=仓库/RFID/机房基建
+- **③KP 深挖**：Felfeli GF(D&B Key Principal 直证);Neumann 史=GF 交接谱
+- **④Saga 对标**：德法谱 SCM 软件+硬件 → 24 口 PoE 仓库/RFID 场景
+- **⑤在乎与偏好**：SOTI DACH 首个 Elite Gold(2013);intermec 硬件谱;法上市背景
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Acteos GmbH & Co. KG: innovative Lösungen im Bereich Supply Chain Management sowie mobile Erfassung;Beratung+Entwicklung+Implementierung(Software, Hardware, Kommunikationsanbindung);Gilching, Bayern;gegründet 1986;51–200 Beschäftigte(公司 LinkedIn 页)
-  > Acteos GmbH & Co. KG: innovative Lösungen im Bereich Supply Chain Management sowie mobile Erfassung;Beratung+Entwicklung+Implementierung(Software, Hardware, Kommunikationsanbindung);Gilching, Bayern;gegründet 1986;51–200 Beschäftigte(公司 LinkedIn 页)
-  > 来源：https://de.linkedin.com/company/acteos-gmbh-&-co-kg
-- **【决策链与对接人】**Key Principal: Joseph Felfeli — Executive Board Member(DNB 件);Römerstr. 40, 82205 Gilching;+49-810538510
-  > Key Principal: Joseph Felfeli — Executive Board Member(DNB 件);Römerstr. 40, 82205 Gilching;+49-810538510
-  > 来源：https://www.dnb.com/business-directory/company-profiles/acteos-gmbh--co-kg.4a1f3a36390122c91f49586e3938e1e1.html
-- **【团队与规模】**Nidal al Safadi Geschäftsführer;Sabine Weißling Manager Finance and Accounting;Michael Witzke Senior Account Manager;Patrick Bagur Key Account Manager;100% subsidiary of the French-based, listed Acteos SA(RR+CB 谱)
-  > Nidal al Safadi Geschäftsführer;Sabine Weißling Manager Finance and Accounting;Michael Witzke Senior Account Manager;Patrick Bagur Key Account Manager;100% subsidiary of the French-based, listed Acteos SA(RR+CB 谱)
-  > 来源：https://rocketreach.co/acteos-gmbh-co-kg-management_b41fc8e9ff6bf766
+- **【法体登册】**Acteos GmbH & Co. KG;HRA 77960 München;Römerstr. 40,82205 Gilching;Tel +49 8105 3851 0;Geschäftsführer Dr. Joseph Felfeli;前身 COHSE GmbH
+  > Acteos GmbH & Co. KG;HRA 77960 München;Römerstr. 40,82205 Gilching;Tel +49 8105 3851 0;Geschäftsführer Dr. Joseph Felfeli;前身 COHSE GmbH
+  > 来源：https://www.acteos.de/impressum
+- **【集团谱】**Acteos GmbH & Co. KG is a 100% subsidiary of the French-based, listed Acteos SA;Standorte Deutschland, Frankreich, Libanon;SCM Software für Supply Chain Planning und Execution
+  > Acteos GmbH & Co. KG is a 100% subsidiary of the French-based, listed Acteos SA;Standorte Deutschland, Frankreich, Libanon;SCM Software für Supply Chain Planning und Execution
+  > 来源：https://www.crunchbase.com/organization/acteos-133c
+- **【KP 矩阵】**Key Principal: Joseph Felfeli;Executive Board Member Acteos GmbH & Co. KG;Key Principal 直证
+  > Key Principal: Joseph Felfeli;Executive Board Member Acteos GmbH & Co. KG;Key Principal 直证
+  > 来源：https://www.dnb.com/business-directory/company-profiles/acteos-gmbh--co-kg.4a1f3a36390122c91f49586e3938e1e1
+- **【产品/伙伴】**Acteos ist SOTI Elite Gold Partner(erster in der DACH-Region,2013);seit 2008 Distributor für SOTI MobiControl;deutsche Benutzeroberfläche MobiControl im Auftrag von SOTI Kanada;Dr. Dieter Neumann Geschäftsführer(2013 新闻稿)
+  > Acteos ist SOTI Elite Gold Partner(erster in der DACH-Region,2013);seit 2008 Distributor für SOTI MobiControl;deutsche Benutzeroberfläche MobiControl im Auftrag von SOTI Kanada;Dr. Dieter Neumann Geschäftsführer(2013 新闻稿)
+  > 来源：https://www.prnewswire.com/news-releases/acteos-ist-soti-elite-gold-partner---enterprise-mobility-management-220535271.html
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：Acteos GmbH & Co. KG(德国 Gilching(巴伐利亚),Römerstr. 40, 82205;**1986 创(40 年)**;51-200 人谱(LinkedIn)/11-50 谱;info@acteos.de;+49-810538510;谱型=**Supply Chain Management 软件屋**(WMS 仓储管理/TMS 运输规划/销售规划/库存管理;prozessorientierte 咨询+定制系统解决方案(软件+硬件+通信接入)+服务维护;**法国上市 Acteos SA 100% 子公司=外资谱**)
-- **产品线与在售品牌**：(波次二补谱面)
-- **目标行业与场景**：德国巴伐利亚 SCM/WMS 软件屋(法上市母谱)
-- **团队与规模**：51-200 人;1986 创
-- **决策链与对接人**：**Nidal al Safadi(Geschäftsführer(执行董事),leads-only·待 opt-in(LinkedIn/谱面带核));Joseph Felfeli(Executive Board Member(执行董事会员;Key Principal),leads-only·待 opt-in(LinkedIn/谱面带核));Sabine Weißling(Manager Finance and Accounting(财务主管),leads-only·待 opt-in(LinkedIn/谱面带核));Michael Witzke(Senior Account Manager(资深客户经理),leads-only·待 opt-in(LinkedIn/谱面带核));Patrick Bagur(Key Account Manager(大客户经理 KPI 相关位),leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **技术与认证**：(波次二补)
-- **采购与供应链信号**：(波次二补)
-- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
-- **与我方契合点**：24 口 value PoE 谱链窗口
-- **风险与注意**：Safadi GF+Bagur 大客户位(opt-in 律)
+- **业务定位**：Acteos GmbH & Co. KG(Gilching,2001 创 24 年,法国上市 Acteos SA 子司):SCM 软件+硬件数据采集德法谱
+- **产品线与在售品牌**：WMS+TMS+Forecasting+RFID-Gate+Field Service+MDM+SaaS+intermec 硬件+SOTI MobiControl EMM(DACH 首个 Elite Gold)
+- **目标行业与场景**：物流/仓储/供应链企业客户(德国/法国/黎巴嫩谱)
+- **团队与规模**：11-50/51-200 员工双窗;24 年;法上市母司背景
+- **决策链与对接人**：Dr. Joseph Felfeli(GF)+Acteos Beteiligungs-GmbH 股东架构
+- **技术与认证**：intermec 硬件谱;SOTI MobiControl 2008 分销+2013 Elite Gold;SaaS Hosting 数据中心谱
+- **采购与供应链信号**：硬件数据采集谱=移动设备+网络基建集购链;RFID-Gate=工业网络需求谱位
+- **近期动态与线索**：SOTI DACH 首个 Elite Gold(2013 谱);Neumann→Felfeli GF 交接谱
+- **与我方契合点**：Felfeli GF+硬件数据采集线 → 24 口 PoE(仓库/RFID 场景+SaaS 机房基建)
+- **风险与注意**：**法上市母司集团谱=决策链跨境;供应链软件主线=PoE 为基础设施非产品线**
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -196,10 +201,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：40 年谱+法上市母台
-- **W**：中型软件屋谱
-- **O**：Safadi GF+Felfeli 董事会位
-- **T**：SAP/大牌链竞位
+- **S**：法上市集团+24 年谱+SOTI Elite Gold
+- **W**：软件主线=PoE 非产品;集团跨境决策
+- **O**：仓库/RFID 工业网络需求谱
+- **T**：黎巴嫩分点谱=覆盖杂
 
 ## 触达与风险红线
 
@@ -227,8 +232,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 硬件采购线在职者(波次二)
-  - [ ] MikroTik 谱面份额
+  - [ ] MikroTik/现售硬件谱需核(intermec 主线)
+  - [ ] Felfeli 直邮推档
+  - [ ] 集团采购链法国母司层级
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -240,12 +246,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Guten Tag Herr Safadi,
+Dear Dr. Felfeli and Acteos Team,
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — EXW open for warehouse/RFID deployments and SaaS datacenter infrastructure. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.
 
-Best regards,
-Saga Networks Export Desk
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

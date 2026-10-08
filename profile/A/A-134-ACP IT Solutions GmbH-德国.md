@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】ACP IT Solutions GmbH:ACP IT Solutions GmbH(**德国 Halle(Saale) 中德区**;**HRB 201508 Amtsgericht Stendal,UID DE140098719;Daniel-Vorländer-Straße 6, 06120 Halle**;支谱 Halle/Dresden/Leipzig/Sangerhausen/Bielefeld ~125 人;1990 源 Wichmann,2018 并入 ACP Gruppe(50+ Geschäftsstellen,2,600 人,德奥瑞);档案已谱型谱:360° IT/MS+Veeam BaaS 德国最大 SP 之一/ISO 27001+9001 双证自有 Tier-3 DC(Dresden+Jena)/SIOS 独占欧洲伙伴/NIS2 咨询/**Allied Telesis 集成链(Marvell Prestera 接入层)**;Public Sector+KRITIS 红线分区守界;客户墙 IHK Potsdam/莱比锡会展/Stadtwerke Halle 等
-- 【推断】R66 第 14 波具名 KP 金谱
-- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
+- 【事实】波 R67/批7·A-134:德谱: **ACP IT Solutions GmbH 深挖(companyhouse.de/northdata/silicon-saxony/acp-gruppe 官网/creditreform/Impressum 六源互证)**:**Amtsgericht Stendal HRB 201508(原 Halle HRB 1508);1990-01-08 创(35 年+!);Daniel-Vorländer-Str. 6,06120 Halle (Saale);+49 345 23304-0;halle@acp.de;USt DE140098719;LEI 391200ZJ83144PAB9I52**;**更名链=Wichmann Datentechnik Sangerhausen GmbH→WISYS 集团(2020-06-26 股东会更现名+2020-06 IT-SYSTEMHAUS Dresden GmbH(Amtsgericht Dresden HRB 22756)合并入);**ACP Gruppe 集团 FY2023/24:营收 €935M+近 2,500 员工+50+ 点德国/奥地利**(silicon-saxony 直证);本部=ACP MITTELDEUTSCHLAND(Halle/Dresden/Leipzig/Sangerhausen 四点,100+ 员工,30 年+系统屋+20 年 CAS 软件顶级伙伴)**;**业务=360° IT 组合(咨询/集成/Managed Services/Datacenter/IT-Finanzierung);中型企业+公共机构+教育+协会+政府部门全谱;Dresden 有 DIN ISO 27001 数据中心(ACP Cloud Operations GmbH)**;**KP 金谱:Sten Jacobson(Geschäftsführer 2020-06-26 任至今,单独代表权,居 Burkau=P0)+Eric Jens Meier(Einzelprokura 2024-12-11 新任,Radeberg)+Manuela Claus(Einzelprokura 2020-06-26,Dresden)+Annemarie Plaschnik(副销售总监,Halle 站官网谱)+Julia Richter( Sales@/HR 联系人谱 julia.richter@acp.de)+前 GF Jörg Fischer(2020-06 退→Prokurist 史)+Holger Nammert(前 GF 2022-01-31 退)**;**Bilanzsumme €6M(2023,-17.5% 窗注)**;**同名噪=ACP IT Solutions GmbH Würzburg(HRB 16728,2023 新)+Mainz(HRB 48729)≠;谱位=德奥 €935M 集团 Mitteldeutschland 区域系统屋=集团采购链+公共部门项目谱口**。
+- 【推断】R67 推土机深挖 批7 A 类余户清零批
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,19 +75,23 @@ updated: 2026-09-28
 - **原始联系字段**：halle@acp.de [Publicly listed; delivery not tested]; https://www.acp-gruppe.com/standorte/halle
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
-  - **Sten Jacobson**(Geschäftsführung(执行董事;acp-gruppe.com Dresden 页 Ansprechpartner+vertretungsrechtlich 自署))— acp-gruppe.com 官网 Standort Dresden/Kontaktliste 〔已有(公司官方公开件/登记册自曝);源:https://www.acp-gruppe.com/standorte/dresden〕
+  - **Sten Jacobson**(Geschäftsführer+股东(2020-06-26 任,单独代表权,P0))— LinkedIn/XING 谱链;+49 345 23304-0 台口转 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.companyhouse.de/en/ACP-IT-Solutions-GmbH-Halle-Saale〕
+  - **Annemarie Plaschnik**(stellv. Vertriebsleiterin 副销售总监(Halle 站官网谱,销售线 P0))— julia.richter@acp.de HR 谱链;台口转 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.acp-gruppe.com/standorte/halle〕
+  - **Eric Jens Meier**(Einzelprokura 公司代表(2024-12-11 新任,Radeberg))— 台口转 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.northdata.com/ACP%20IT%20Solutions%20GmbH,%20Halle%20(Saale)/Amtsgericht%20Stendal%20HRB%20201508〕
+  - **Manuela Claus**(Einzelprokura 公司代表(2020-06-26,Dresden))— 台口转 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.northdata.com/ACP%20IT%20Solutions%20GmbH,%20Halle%20(Saale)/Amtsgericht%20Stendal%20HRB%20201508〕
   - **Jörg Fischer**(Prokurist & GF RZ(授权代理+数据中心层谱))— acp-gruppe.com 官网 Standort Dresden 〔已有(公司官方公开件/登记册自曝);源:https://www.acp-gruppe.com/standorte/dresden〕
   - **Eric Meier**(Prokurist(授权代理;档案 R 层深挖已谱))— 档案已落(深挖三层谱) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.acp-gruppe.com/de-at/kontaktliste〕
-  - **Annemarie Plaschnik**(Vertriebsleiterin-a.D.-谱线(销售副总监;档案已谱))— 档案已落(深挖三层谱) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.acp-gruppe.com/de-at/kontaktliste〕
 
 ## 关键人（KP）与触达通道
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Sten Jacobson | Geschäftsführung(执行董事;acp-gruppe.com Dresden 页 Ansprechpartner+vertretungsrechtlich 自署) | acp-gruppe.com 官网 Standort Dresden/Kontaktliste | official-self-published·谱/leads-only(直发需 opt-in) | https://www.acp-gruppe.com/standorte/dresden |
+| Sten Jacobson | Geschäftsführer+股东(2020-06-26 任,单独代表权,P0) | LinkedIn/XING 谱链;+49 345 23304-0 台口转 | companyhouse/northdata 双直证 O 级 | https://www.companyhouse.de/en/ACP-IT-Solutions-GmbH-Halle-Saale |
+| Annemarie Plaschnik | stellv. Vertriebsleiterin 副销售总监(Halle 站官网谱,销售线 P0) | julia.richter@acp.de HR 谱链;台口转 | 官网直证 O 级 | https://www.acp-gruppe.com/standorte/halle |
+| Eric Jens Meier | Einzelprokura 公司代表(2024-12-11 新任,Radeberg) | 台口转 | northdata 直证 O 级 | https://www.northdata.com/ACP%20IT%20Solutions%20GmbH,%20Halle%20(Saale)/Amtsgericht%20Stendal%20HRB%20201508 |
+| Manuela Claus | Einzelprokura 公司代表(2020-06-26,Dresden) | 台口转 | northdata 直证 O 级 | https://www.northdata.com/ACP%20IT%20Solutions%20GmbH,%20Halle%20(Saale)/Amtsgericht%20Stendal%20HRB%20201508 |
 | Jörg Fischer | Prokurist & GF RZ(授权代理+数据中心层谱) | acp-gruppe.com 官网 Standort Dresden | official-self-published·谱/leads-only(直发需 opt-in) | https://www.acp-gruppe.com/standorte/dresden |
 | Eric Meier | Prokurist(授权代理;档案 R 层深挖已谱) | 档案已落(深挖三层谱) | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.acp-gruppe.com/de-at/kontaktliste |
-| Annemarie Plaschnik | Vertriebsleiterin-a.D.-谱线(销售副总监;档案已谱) | 档案已落(深挖三层谱) | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.acp-gruppe.com/de-at/kontaktliste |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -147,35 +151,41 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第15波.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R67_R56_推土机批7.json`；价格均为 EXW 快照。
 
-- **①背景再核**：ACP IT Solutions GmbH(**德国 Halle(Saale) 中德区**;**HRB 201508 Amtsgericht Stendal,UID DE140098719;Daniel-Vorländer-Straße 6, 06120 Halle**;支谱 Halle/Dresden/Leipzig/Sangerhausen/Bielefeld ~125 人;1990 源 Wichmann,2018 并入 ACP Gruppe(50+ Geschäftsstellen,2,600 人,德奥瑞);档案已谱型谱:360° IT/MS+Veeam BaaS 德国最大 SP 之一/ISO 27001+9001 双证自有 Tier-3 DC(Dresden+Jena)/SIOS 独占欧洲伙伴/NIS2 咨询/**Allied Telesis 集成链(Marvell Prestera 接入层)**;Public Sector+KRITIS 红线分区守界;客户墙 IHK Potsdam/莱比锡会展/Stadtwerke Halle 等
-- **②芯片/型号**：(待谱面二补)
-- **③KP 深挖**：**Sten Jacobson(Geschäftsführung(执行董事;acp-gruppe.com Dresden 页 Ansprechpartner+vertretungsrechtlich 自署),official-self-published·谱/leads-only(直发需 opt-in));Jörg Fischer(Prokurist & GF RZ(授权代理+数据中心层谱),official-self-published·谱/leads-only(直发需 opt-in));Eric Meier(Prokurist(授权代理;档案 R 层深挖已谱),leads-only·待 opt-in(LinkedIn/谱面带核));Annemarie Plaschnik(Vertriebsleiterin-a.D.-谱线(销售副总监;档案已谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
-- **⑤在乎与偏好**：集团牌谱+自有 DC 双证
+- **①背景再核**：1990 创 35 年;Halle;ACP Gruppe €935M 集团 Mitteldeutschland;Wichmann 史+2020 合并双档
+- **②芯片/型号**：360° IT 组合+ISO 27001 Dresden DC;PoE=公共部门项目+Datacenter 基建谱
+- **③KP 深挖**：Jacobson GF(2020 任+股东)+Meier/Claus Prokuristen+Plaschnik 副销总=多轨谱
+- **④Saga 对标**：集团 Mitteldeutschland 区域屋 → 24 口 PoE 项目+集团集采
+- **⑤在乎与偏好**：集团 2,500 员 50+ 点;CAS 20 年顶级伙伴;政府/教育谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**ACP Mitteldeutschland Ansprechpartner: Sten Jacobson, Geschäftsführung;Jörg Fischer, Prokurist & GF RZ;Sitz: Daniel-Vorländer-Str. 6, 06120 Halle (Saale);AG Stendal HRB 201508;Ust-ID DE140098719(官网 standorte/dresden Impressum 级)
-  > ACP Mitteldeutschland Ansprechpartner: Sten Jacobson, Geschäftsführung;Jörg Fischer, Prokurist & GF RZ;Sitz: Daniel-Vorländer-Str. 6, 06120 Halle (Saale);AG Stendal HRB 201508;Ust-ID DE140098719(官网 standorte/dresden Impressum 级)
-  > 来源：https://www.acp-gruppe.com/standorte/dresden
-- **【联系方式与基础画像】**Halle: ACP IT Solutions GmbH, Daniel-Vorländer-Straße 6, 06120 Halle (Saale);halle@acp.de;+49 345 233040;HRB: 201508;UID: DE140098719(官网 kontaktliste)
-  > Halle: ACP IT Solutions GmbH, Daniel-Vorländer-Straße 6, 06120 Halle (Saale);halle@acp.de;+49 345 233040;HRB: 201508;UID: DE140098719(官网 kontaktliste)
-  > 来源：https://www.acp-gruppe.com/de-at/kontaktliste
+- **【法体登册】**ACP IT Solutions GmbH;HRB 201508 Amtsgericht Stendal(原 Halle HRB 1508);Gründung 08.01.1990;Daniel-Vorländer-Straße 6,06120 Halle (Saale);GF Sten Jacobson(26.06.2020-,单独代表);LEI 391200ZJ83144PAB9I52
+  > ACP IT Solutions GmbH;HRB 201508 Amtsgericht Stendal(原 Halle HRB 1508);Gründung 08.01.1990;Daniel-Vorländer-Straße 6,06120 Halle (Saale);GF Sten Jacobson(26.06.2020-,单独代表);LEI 391200ZJ83144PAB9I52
+  > 来源：https://www.companyhouse.de/en/ACP-IT-Solutions-GmbH-Halle-Saale
+- **【集团谱】**ACP Gruppe FY2023/24:Umsatz 935 Millionen Euro+knapp 2.500 Mitarbeitende+50+ Geschäftsstellen Deutschland und Österreich;Mitteldeutschland:Halle, Dresden, Leipzig, Sangerhausen, 100+ Mitarbeitende;20+ Jahre CAS Software Vertriebspartner
+  > ACP Gruppe FY2023/24:Umsatz 935 Millionen Euro+knapp 2.500 Mitarbeitende+50+ Geschäftsstellen Deutschland und Österreich;Mitteldeutschland:Halle, Dresden, Leipzig, Sangerhausen, 100+ Mitarbeitende;20+ Jahre CAS Software Vertriebspartner
+  > 来源：https://silicon-saxony.de/mitglieder/acp-it-solutions-gmbh/
+- **【KP 矩阵】**Sten Jacobson Geschäftsführer 26.06.2020;Manuela Claus Prokuristin 26.06.2020(Dresden);Eric Jens Meier Einzelprokura 11.12.2024(Radeberg);前 GF Jörg Fischer+Holger Nammert(31.01.2022 退)
+  > Sten Jacobson Geschäftsführer 26.06.2020;Manuela Claus Prokuristin 26.06.2020(Dresden);Eric Jens Meier Einzelprokura 11.12.2024(Radeberg);前 GF Jörg Fischer+Holger Nammert(31.01.2022 退)
+  > 来源：https://www.northdata.com/ACP%20IT%20Solutions%20GmbH,%20Halle%20(Saale)/Amtsgericht%20Stendal%20HRB%20201508
+- **【联系人谱】**Ihre Ansprechpartner: Eric Meier;Annemarie Plaschnik stellv. Vertriebsleiterin;Julia Richter(+49 345 23304-16,julia.richter@acp.de);Daniel-Vorländer-Straße 6
+  > Ihre Ansprechpartner: Eric Meier;Annemarie Plaschnik stellv. Vertriebsleiterin;Julia Richter(+49 345 23304-16,julia.richter@acp.de);Daniel-Vorländer-Straße 6
+  > 来源：https://www.acp-gruppe.com/standorte/halle
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：ACP IT Solutions GmbH(**德国 Halle(Saale) 中德区**;**HRB 201508 Amtsgericht Stendal,UID DE140098719;Daniel-Vorländer-Straße 6, 06120 Halle**;支谱 Halle/Dresden/Leipzig/Sangerhausen/Bielefeld ~125 人;1990 源 Wichmann,2018 并入 ACP Gruppe(50+ Geschäftsstellen,2,600 人,德奥瑞);档案已谱型谱:360° IT/MS+Veeam BaaS 德国最大 SP 之一/ISO 27001+9001 双证自有 Tier-3 DC(Dresden+Jena)/SIOS 独占欧洲伙伴/NIS2 咨询/**Allied Telesis 集成链(Marvell Prestera 接入层)**;Public Sector+KRITIS 红线分区守界;客户墙 IHK Potsdam/莱比锡会展/Stadtwerke Halle 等
-- **产品线与在售品牌**：(波次二补谱面)
-- **目标行业与场景**：德国 Mitteldeutschland 360° IT 系统屋(ACP 集团)
-- **团队与规模**：~125 人(集团 2,600);1990 源
-- **决策链与对接人**：**Sten Jacobson(Geschäftsführung(执行董事;acp-gruppe.com Dresden 页 Ansprechpartner+vertretungsrechtlich 自署),official-self-published·谱/leads-only(直发需 opt-in));Jörg Fischer(Prokurist & GF RZ(授权代理+数据中心层谱),official-self-published·谱/leads-only(直发需 opt-in));Eric Meier(Prokurist(授权代理;档案 R 层深挖已谱),leads-only·待 opt-in(LinkedIn/谱面带核));Annemarie Plaschnik(Vertriebsleiterin-a.D.-谱线(销售副总监;档案已谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **技术与认证**：(波次二补)
-- **采购与供应链信号**：(波次二补)
-- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
-- **与我方契合点**：24 口 value PoE 谱链窗口
-- **风险与注意**：Jacobson GF+Fischer Prokurist+已谱 Meier/Plaschnik(opt-in 律+红线守界)
+- **业务定位**：ACP IT Solutions GmbH(Halle,1990 创 35 年,ACP Gruppe Mitteldeutschland 区域屋):德奥 €935M 集团系统屋
+- **产品线与在售品牌**：360° IT 组合(咨询/集成/Managed Services/Datacenter/IT-Finanzierung);CAS Software 20 年顶级伙伴;ISO 27001 Dresden DC
+- **目标行业与场景**：中型企业+公共机构+教育+协会+政府全谱
+- **团队与规模**：100+ 员工(四点);集团 2,500 员 50+ 点;€935M 集团营收
+- **决策链与对接人**：Sten Jacobson(GF 单独代表+股东)+Eric Meier/Manuela Claus(Prokuristen)+Annemarie Plaschnik(副销总)
+- **技术与认证**：ISO 27001 数据中心;LEI 391200ZJ83144PAB9I52;CAS 20 年伙伴
+- **采购与供应链信号**：集团采购链=ACP Gruppe 层级;区域项目谱=公共部门+中型企业
+- **近期动态与线索**：2024-12 Meier 新 Prokurist;2022-06 Nammert GF 退;2020 合并 Dresden+更名双档
+- **与我方契合点**：Jacobson GF+Plaschnik 副销总双轨 → 24 口 PoE(区域项目谱+集团集采链)
+- **风险与注意**：**集团层级采购链复杂;同名噪 ACP Würzburg HRB 16728(2023 新)/Mainz HRB 48729 需排;€6M Bilanzsumme 集团内小盘注**
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -190,10 +200,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：集团牌谱+自有 DC 双证
-- **W**：KRITIS/Public 守界段
-- **O**：Jacobson GF 直达位
-- **T**：一线厂商链竞位
+- **S**：€935M 集团背景+35 年谱+公共部门谱
+- **W**：集团采购链层级;同名噪排
+- **O**：政府/教育项目谱+集团集采链
+- **T**：区域屋盘在集团内小盘
 
 ## 触达与风险红线
 
@@ -221,8 +231,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 硬件采购线在职者(波次二)
-  - [ ] MikroTik 谱面份额
+  - [ ] MikroTik/现售网络件谱位需官网核
+  - [ ] Jacobson 直邮推档
+  - [ ] 集团采购链=ACP Holding 层级未明
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -234,12 +245,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Guten Tag Herr Jacobson,
+Dear Mr. Jacobson and ACP Mitteldeutschland Team,
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — EXW open for regional projects and group-level procurement lines. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.
 
-Best regards,
-Saga Networks Export Desk
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

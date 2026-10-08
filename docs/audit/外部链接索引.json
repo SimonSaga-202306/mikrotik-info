@@ -2647,19 +2647,19 @@
       },
       {
         "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
-        "locator": "L140"
+        "locator": "L142"
       },
       {
         "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
-        "locator": "L143"
+        "locator": "L145"
       },
       {
         "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
-        "locator": "L146"
+        "locator": "L148"
       },
       {
         "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
-        "locator": "L149"
+        "locator": "L151"
       }
     ]
   },
@@ -4494,10 +4494,6 @@
       {
         "path": "batch/A类深挖_2026-10-08_R66_R56_KP第16波.json",
         "locator": "L423"
-      },
-      {
-        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
-        "locator": "L172"
       }
     ]
   },
@@ -8893,7 +8889,7 @@
       },
       {
         "path": "profile/A/A-054-Direktronik AB-瑞典.md",
-        "locator": "L101"
+        "locator": "L103"
       }
     ]
   },
@@ -8913,7 +8909,7 @@
     "occurrences": [
       {
         "path": "profile/A/A-054-Direktronik AB-瑞典.md",
-        "locator": "L85"
+        "locator": "L86"
       }
     ]
   },
@@ -9214,6 +9210,24 @@
       {
         "path": "profile/A/A-101-Lloret Control Systems Ltd-英国.md",
         "locator": "L168"
+      }
+    ]
+  },
+  {
+    "url": "https://companycheck.co.uk/company/02017435/ROAD-TECH-COMPUTER-SYSTEMS-LIMITED/companies-house-data",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L158"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L216"
+      },
+      {
+        "path": "profile/A/A-108-Roadtech Computer Systems Ltd-英国.md",
+        "locator": "L170"
       }
     ]
   },
@@ -12361,11 +12375,7 @@
       },
       {
         "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
-        "locator": "L89"
-      },
-      {
-        "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
-        "locator": "L165"
+        "locator": "L91"
       }
     ]
   },
@@ -12389,7 +12399,7 @@
     "occurrences": [
       {
         "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
-        "locator": "L79"
+        "locator": "L80"
       }
     ]
   },
@@ -17034,8 +17044,20 @@
         "locator": "L250"
       },
       {
-        "path": "profile/A/A-108-Roadtech Computer Systems Ltd-英国.md",
-        "locator": "L92"
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L137"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L163"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L232"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L239"
       },
       {
         "path": "profile/A/A-108-Roadtech Computer Systems Ltd-英国.md",
@@ -17047,10 +17069,6 @@
       },
       {
         "path": "profile/A/A-108-Roadtech Computer Systems Ltd-英国.md",
-        "locator": "L95"
-      },
-      {
-        "path": "profile/A/A-108-Roadtech Computer Systems Ltd-英国.md",
         "locator": "L96"
       },
       {
@@ -17059,7 +17077,15 @@
       },
       {
         "path": "profile/A/A-108-Roadtech Computer Systems Ltd-英国.md",
-        "locator": "L168"
+        "locator": "L98"
+      },
+      {
+        "path": "profile/A/A-108-Roadtech Computer Systems Ltd-英国.md",
+        "locator": "L99"
+      },
+      {
+        "path": "profile/A/A-108-Roadtech Computer Systems Ltd-英国.md",
+        "locator": "L173"
       }
     ]
   },
@@ -17111,10 +17137,6 @@
       },
       {
         "path": "profile/A/A-108-Roadtech Computer Systems Ltd-英国.md",
-        "locator": "L81"
-      },
-      {
-        "path": "profile/A/A-108-Roadtech Computer Systems Ltd-英国.md",
         "locator": "L82"
       },
       {
@@ -17124,6 +17146,10 @@
       {
         "path": "profile/A/A-108-Roadtech Computer Systems Ltd-英国.md",
         "locator": "L84"
+      },
+      {
+        "path": "profile/A/A-108-Roadtech Computer Systems Ltd-英国.md",
+        "locator": "L85"
       }
     ]
   },
@@ -18528,6 +18554,20 @@
       {
         "path": "scripts/R66_R56_KP第21波_50户落盘.py",
         "locator": "L312"
+      }
+    ]
+  },
+  {
+    "url": "https://firmeneintrag.creditreform.de/91781/8190393763/AMRO_IT_SYSTEME_GMBH",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L295"
+      },
+      {
+        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
+        "locator": "L175"
       }
     ]
   },
@@ -21242,6 +21282,20 @@
       {
         "path": "profile/A/A-104-Centerprise International Limited-英国.md",
         "locator": "L81"
+      }
+    ]
+  },
+  {
+    "url": "https://growjo.com/company/Road_Tech_Computer_Systems",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L173"
+      },
+      {
+        "path": "profile/A/A-108-Roadtech Computer Systems Ltd-英国.md",
+        "locator": "L179"
       }
     ]
   },
@@ -41896,6 +41950,30 @@
     ]
   },
   {
+    "url": "https://open.endole.co.uk/insight/brand/33965-road-tech",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L246"
+      },
+      {
+        "path": "profile/A/A-108-Roadtech Computer Systems Ltd-英国.md",
+        "locator": "L95"
+      }
+    ]
+  },
+  {
+    "url": "https://open.endole.co.uk/insight/brand/33965-road-tech〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-108-Roadtech Computer Systems Ltd-英国.md",
+        "locator": "L81"
+      }
+    ]
+  },
+  {
     "url": "https://open.endole.co.uk/insight/company/01745436-lloret-control-systems-limited",
     "http_checked": false,
     "occurrences": [
@@ -42056,6 +42134,58 @@
       {
         "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
         "locator": "L187"
+      }
+    ]
+  },
+  {
+    "url": "https://openregister.de/company/DE-HRB-R2707-18608",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L611"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L632"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L690"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L713"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L727"
+      },
+      {
+        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
+        "locator": "L162"
+      }
+    ]
+  },
+  {
+    "url": "https://openregister.de/company/DE-HRB-R2707-18608〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
+        "locator": "L81"
       }
     ]
   },
@@ -45997,19 +46127,15 @@
       },
       {
         "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
-        "locator": "L91"
-      },
-      {
-        "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
-        "locator": "L92"
-      },
-      {
-        "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
         "locator": "L93"
       },
       {
         "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
-        "locator": "L171"
+        "locator": "L94"
+      },
+      {
+        "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
+        "locator": "L95"
       }
     ]
   },
@@ -46041,15 +46167,15 @@
     "occurrences": [
       {
         "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
-        "locator": "L81"
-      },
-      {
-        "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
         "locator": "L82"
       },
       {
         "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
         "locator": "L83"
+      },
+      {
+        "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
+        "locator": "L84"
       }
     ]
   },
@@ -46615,14 +46741,6 @@
       },
       {
         "path": "profile/A/A-054-Direktronik AB-瑞典.md",
-        "locator": "L97"
-      },
-      {
-        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
-        "locator": "L98"
-      },
-      {
-        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
         "locator": "L99"
       },
       {
@@ -46631,7 +46749,11 @@
       },
       {
         "path": "profile/A/A-054-Direktronik AB-瑞典.md",
-        "locator": "L179"
+        "locator": "L101"
+      },
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L102"
       }
     ]
   },
@@ -46667,10 +46789,6 @@
     "occurrences": [
       {
         "path": "profile/A/A-054-Direktronik AB-瑞典.md",
-        "locator": "L81"
-      },
-      {
-        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
         "locator": "L82"
       },
       {
@@ -46680,6 +46798,10 @@
       {
         "path": "profile/A/A-054-Direktronik AB-瑞典.md",
         "locator": "L84"
+      },
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L85"
       }
     ]
   },
@@ -52952,6 +53074,20 @@
     ]
   },
   {
+    "url": "https://silicon-saxony.de/mitglieder/acp-it-solutions-gmbh/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L508"
+      },
+      {
+        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
+        "locator": "L169"
+      }
+    ]
+  },
+  {
     "url": "https://simrex.com/site/?utm_source=chatgpt.com",
     "http_checked": false,
     "occurrences": [
@@ -54404,6 +54540,38 @@
       {
         "path": "profile/A/A-545-Streakwave-美国.md",
         "locator": "L125"
+      }
+    ]
+  },
+  {
+    "url": "https://sv.wikipedia.org/wiki/Direktronik",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L34"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L110"
+      },
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L96"
+      },
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L178"
+      }
+    ]
+  },
+  {
+    "url": "https://sv.wikipedia.org/wiki/Direktronik〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L79"
       }
     ]
   },
@@ -57037,15 +57205,11 @@
       },
       {
         "path": "profile/A/A-108-Roadtech Computer Systems Ltd-英国.md",
-        "locator": "L98"
+        "locator": "L100"
       },
       {
         "path": "profile/A/A-108-Roadtech Computer Systems Ltd-英国.md",
-        "locator": "L99"
-      },
-      {
-        "path": "profile/A/A-108-Roadtech Computer Systems Ltd-英国.md",
-        "locator": "L174"
+        "locator": "L101"
       }
     ]
   },
@@ -57073,11 +57237,11 @@
     "occurrences": [
       {
         "path": "profile/A/A-108-Roadtech Computer Systems Ltd-英国.md",
-        "locator": "L85"
+        "locator": "L86"
       },
       {
         "path": "profile/A/A-108-Roadtech Computer Systems Ltd-英国.md",
-        "locator": "L86"
+        "locator": "L87"
       }
     ]
   },
@@ -61133,15 +61297,7 @@
       },
       {
         "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
-        "locator": "L89"
-      },
-      {
-        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
-        "locator": "L90"
-      },
-      {
-        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
-        "locator": "L165"
+        "locator": "L94"
       }
     ]
   },
@@ -61169,11 +61325,7 @@
     "occurrences": [
       {
         "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
-        "locator": "L80"
-      },
-      {
-        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
-        "locator": "L81"
+        "locator": "L83"
       }
     ]
   },
@@ -61199,15 +61351,7 @@
       },
       {
         "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
-        "locator": "L87"
-      },
-      {
-        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
-        "locator": "L88"
-      },
-      {
-        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
-        "locator": "L162"
+        "locator": "L93"
       }
     ]
   },
@@ -61235,11 +61379,7 @@
     "occurrences": [
       {
         "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
-        "locator": "L78"
-      },
-      {
-        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
-        "locator": "L79"
+        "locator": "L82"
       }
     ]
   },
@@ -61288,6 +61428,14 @@
         "locator": "L302"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L518"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L584"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L350"
       },
@@ -61309,19 +61457,27 @@
       },
       {
         "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
-        "locator": "L137"
+        "locator": "L90"
       },
       {
         "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
-        "locator": "L140"
+        "locator": "L141"
       },
       {
         "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
-        "locator": "L143"
+        "locator": "L144"
       },
       {
         "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
-        "locator": "L146"
+        "locator": "L147"
+      },
+      {
+        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
+        "locator": "L150"
+      },
+      {
+        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
+        "locator": "L175"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -61346,6 +61502,16 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-881/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.acp-gruppe.com/standorte/halle〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
+        "locator": "L79"
       }
     ]
   },
@@ -61392,6 +61558,24 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-882/入口/联系方式"
+      }
+    ]
+  },
+  {
+    "url": "https://www.acteos.de/impressum",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L395"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L453"
+      },
+      {
+        "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
+        "locator": "L167"
       }
     ]
   },
@@ -62524,14 +62708,6 @@
       {
         "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
         "locator": "L325"
-      },
-      {
-        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
-        "locator": "L94"
-      },
-      {
-        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
-        "locator": "L173"
       }
     ]
   },
@@ -62546,16 +62722,6 @@
       {
         "path": "scripts/R66_R56_KP第10波落盘.py",
         "locator": "L76"
-      }
-    ]
-  },
-  {
-    "url": "https://www.allabolag.se/foretag/direktronik-aktiebolag/nyn%C3%A4shamn/elektronik-och-telekommunikationsutrustning-grossist/2JZYJ4FI63IFS〕",
-    "http_checked": false,
-    "occurrences": [
-      {
-        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
-        "locator": "L78"
       }
     ]
   },
@@ -63930,8 +64096,28 @@
         "locator": "反向信号名单!Q886"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L259"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L285"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L354"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L412"
+      },
+      {
+        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
+        "locator": "L169"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -63940,6 +64126,16 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-886/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.amro.de/impressum/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
+        "locator": "L78"
       }
     ]
   },
@@ -63977,14 +64173,6 @@
       },
       {
         "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
-        "locator": "L89"
-      },
-      {
-        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
-        "locator": "L90"
-      },
-      {
-        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
         "locator": "L91"
       },
       {
@@ -63994,10 +64182,6 @@
       {
         "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
         "locator": "L93"
-      },
-      {
-        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
-        "locator": "L166"
       }
     ]
   },
@@ -64035,14 +64219,6 @@
     "url": "https://www.amro.de/unser-team/〕",
     "http_checked": false,
     "occurrences": [
-      {
-        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
-        "locator": "L78"
-      },
-      {
-        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
-        "locator": "L79"
-      },
       {
         "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
         "locator": "L80"
@@ -69538,10 +69714,6 @@
       {
         "path": "batch/A类深挖_2026-10-07_R66_R56_KP第9波.json",
         "locator": "L153"
-      },
-      {
-        "path": "profile/A/A-108-Roadtech Computer Systems Ltd-英国.md",
-        "locator": "L171"
       }
     ]
   },
@@ -69788,6 +69960,46 @@
       {
         "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
         "locator": "L263"
+      }
+    ]
+  },
+  {
+    "url": "https://www.companyhouse.de/en/ACP-IT-Solutions-GmbH-Halle-Saale",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L482"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L503"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L561"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L577"
+      },
+      {
+        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
+        "locator": "L166"
+      }
+    ]
+  },
+  {
+    "url": "https://www.companyhouse.de/en/ACP-IT-Solutions-GmbH-Halle-Saale〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
+        "locator": "L78"
       }
     ]
   },
@@ -71016,6 +71228,20 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第17批补18.json",
         "locator": "L280"
+      }
+    ]
+  },
+  {
+    "url": "https://www.crunchbase.com/organization/acteos-133c",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L400"
+      },
+      {
+        "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
+        "locator": "L170"
       }
     ]
   },
@@ -75037,19 +75263,19 @@
       },
       {
         "path": "profile/A/A-054-Direktronik AB-瑞典.md",
-        "locator": "L148"
+        "locator": "L150"
       },
       {
         "path": "profile/A/A-054-Direktronik AB-瑞典.md",
-        "locator": "L151"
+        "locator": "L153"
       },
       {
         "path": "profile/A/A-054-Direktronik AB-瑞典.md",
-        "locator": "L154"
+        "locator": "L156"
       },
       {
         "path": "profile/A/A-054-Direktronik AB-瑞典.md",
-        "locator": "L157"
+        "locator": "L159"
       }
     ]
   },
@@ -76014,6 +76240,32 @@
     ]
   },
   {
+    "url": "https://www.dnb.com/business-directory/company-profiles/acteos-gmbh--co-kg.4a1f3a36390122c91f49586e3938e1e1",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L374"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L405"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L469"
+      },
+      {
+        "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
+        "locator": "L173"
+      }
+    ]
+  },
+  {
     "url": "https://www.dnb.com/business-directory/company-profiles/acteos-gmbh--co-kg.4a1f3a36390122c91f49586e3938e1e1.html",
     "http_checked": false,
     "occurrences": [
@@ -76027,11 +76279,7 @@
       },
       {
         "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
-        "locator": "L90"
-      },
-      {
-        "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
-        "locator": "L168"
+        "locator": "L92"
       }
     ]
   },
@@ -76055,7 +76303,17 @@
     "occurrences": [
       {
         "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
-        "locator": "L80"
+        "locator": "L81"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dnb.com/business-directory/company-profiles/acteos-gmbh--co-kg.4a1f3a36390122c91f49586e3938e1e1〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
+        "locator": "L79"
       }
     ]
   },
@@ -83486,6 +83744,20 @@
     ]
   },
   {
+    "url": "https://www.hitta.se/f%C3%B6retagsinformation/direktronik+ab/5562819663",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L39"
+      },
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L181"
+      }
+    ]
+  },
+  {
     "url": "https://www.hm-electronics.de/agb/index.html",
     "http_checked": false,
     "occurrences": [
@@ -84650,18 +84922,6 @@
       {
         "path": "batch/A类深挖_2026-10-07_R66_R56_KP第10波.json",
         "locator": "L339"
-      },
-      {
-        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
-        "locator": "L95"
-      },
-      {
-        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
-        "locator": "L96"
-      },
-      {
-        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
-        "locator": "L176"
       }
     ]
   },
@@ -84680,20 +84940,6 @@
       {
         "path": "scripts/R66_R56_KP第10波落盘.py",
         "locator": "L77"
-      }
-    ]
-  },
-  {
-    "url": "https://www.inderes.dk/en/releases/lagercrantz-acquires-aktiebolaget-qvintus〕",
-    "http_checked": false,
-    "occurrences": [
-      {
-        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
-        "locator": "L79"
-      },
-      {
-        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
-        "locator": "L80"
       }
     ]
   },
@@ -105308,6 +105554,50 @@
     ]
   },
   {
+    "url": "https://www.northdata.com/ACP%20IT%20Solutions%20GmbH,%20Halle%20(Saale)/Amtsgericht%20Stendal%20HRB%20201508",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L513"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L591"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L598"
+      },
+      {
+        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
+        "locator": "L91"
+      },
+      {
+        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
+        "locator": "L172"
+      }
+    ]
+  },
+  {
+    "url": "https://www.northdata.com/ACP%20IT%20Solutions%20GmbH,%20Halle%20(Saale)/Amtsgericht%20Stendal%20HRB%20201508〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
+        "locator": "L80"
+      },
+      {
+        "path": "profile/A/A-134-ACP IT Solutions GmbH-德国.md",
+        "locator": "L81"
+      }
+    ]
+  },
+  {
     "url": "https://www.northdata.com/ARCHE%20Systeme%20GmbH,%20Wilhelmshaven/Amtsgericht%20Oldenburg%20HRB%20204011",
     "http_checked": false,
     "occurrences": [
@@ -105647,6 +105937,30 @@
       },
       {
         "path": "profile/A/A-222-quattroSEC Gmbh-奥地利.md",
+        "locator": "L79"
+      }
+    ]
+  },
+  {
+    "url": "https://www.northdata.de/AMRO+IT-Systeme+GmbH,+Wei%C3%9Fenburg+i.+Bay./Amtsgericht+Ansbach+HRB+2516",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L361"
+      },
+      {
+        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
+        "locator": "L90"
+      }
+    ]
+  },
+  {
+    "url": "https://www.northdata.de/AMRO+IT-Systeme+GmbH,+Wei%C3%9Fenburg+i.+Bay./Amtsgericht+Ansbach+HRB+2516〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
         "locator": "L79"
       }
     ]
@@ -106804,6 +107118,24 @@
       {
         "path": "profile/A/A-152-Gretsch-Unitas GmbH Baubeschläge-德国.md",
         "locator": "L83"
+      }
+    ]
+  },
+  {
+    "url": "https://www.online-handelsregister.de/handelsregisterauszug/by/Ansbach/HRB/2516/AMRO-IT-Systeme-GmbH",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L280"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L338"
+      },
+      {
+        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
+        "locator": "L166"
       }
     ]
   },
@@ -109232,6 +109564,20 @@
     ]
   },
   {
+    "url": "https://www.prnewswire.com/news-releases/acteos-ist-soti-elite-gold-partner---enterprise-mobility-management-220535271.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L410"
+      },
+      {
+        "path": "profile/A/A-135-Acteos GmbH & Co. KG-德国.md",
+        "locator": "L176"
+      }
+    ]
+  },
+  {
     "url": "https://www.prnewswire.com/news-releases/titan-security-group-and-marksman-security-corporation-announce-strategic-merger-creating-a-boutique-security-services-provider-with-a-national-footprint-302250097.html",
     "http_checked": false,
     "occurrences": [
@@ -110276,6 +110622,70 @@
     ]
   },
   {
+    "url": "https://www.rating.se/info1/light/overview/5562819663",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L8"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L29"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L87"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L103"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L117"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L124"
+      },
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L95"
+      },
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L97"
+      },
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L98"
+      },
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L175"
+      }
+    ]
+  },
+  {
+    "url": "https://www.rating.se/info1/light/overview/5562819663〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L78"
+      },
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L80"
+      },
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L81"
+      }
+    ]
+  },
+  {
     "url": "https://www.reddit.com/r/wisp/comments/1h6rws8?utm_source=chatgpt.com",
     "http_checked": false,
     "occurrences": [
@@ -110366,8 +110776,16 @@
         "locator": "L120"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L637"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L720"
+      },
+      {
         "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
-        "locator": "L90"
+        "locator": "L89"
       },
       {
         "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
@@ -110395,7 +110813,21 @@
     "occurrences": [
       {
         "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
-        "locator": "L81"
+        "locator": "L80"
+      }
+    ]
+  },
+  {
+    "url": "https://www.regiomanager.de/ranking/digital/it-dienstleister/kreis-borken/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L642"
+      },
+      {
+        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
+        "locator": "L168"
       }
     ]
   },
@@ -110406,10 +110838,6 @@
       {
         "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
         "locator": "L42"
-      },
-      {
-        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
-        "locator": "L168"
       }
     ]
   },
@@ -110783,15 +111211,15 @@
       },
       {
         "path": "profile/A/A-108-Roadtech Computer Systems Ltd-英国.md",
-        "locator": "L146"
+        "locator": "L148"
       },
       {
         "path": "profile/A/A-108-Roadtech Computer Systems Ltd-英国.md",
-        "locator": "L149"
+        "locator": "L151"
       },
       {
         "path": "profile/A/A-108-Roadtech Computer Systems Ltd-英国.md",
-        "locator": "L152"
+        "locator": "L154"
       }
     ]
   },
@@ -114828,6 +115256,20 @@
     ]
   },
   {
+    "url": "https://www.tachomaster.co.uk/about/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L168"
+      },
+      {
+        "path": "profile/A/A-108-Roadtech Computer Systems Ltd-英国.md",
+        "locator": "L176"
+      }
+    ]
+  },
+  {
     "url": "https://www.tangiblebenefit.com/bechtle-acquisition-bechtle-on-track-to-become-one-of-the-top-10-it-solutions-providers-in-the-uk/",
     "http_checked": false,
     "occurrences": [
@@ -117552,6 +117994,20 @@
     ]
   },
   {
+    "url": "https://www.unternehmensverzeichnis.org/amro-it-systeme-gmbh-weissenburg-2500923353125",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L290"
+      },
+      {
+        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
+        "locator": "L172"
+      }
+    ]
+  },
+  {
     "url": "https://www.varia-store.com/",
     "http_checked": false,
     "occurrences": [
@@ -119018,22 +119474,6 @@
       {
         "path": "batch/A类深挖_2026-10-08_R66_R56_KP第15波.json",
         "locator": "L113"
-      },
-      {
-        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
-        "locator": "L87"
-      },
-      {
-        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
-        "locator": "L88"
-      },
-      {
-        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
-        "locator": "L89"
-      },
-      {
-        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
-        "locator": "L162"
       }
     ]
   },
@@ -119060,24 +119500,6 @@
     ]
   },
   {
-    "url": "https://www.webvalid.de/company/5G+IT+Service+GmbH,+Velen/HRB+18608〕",
-    "http_checked": false,
-    "occurrences": [
-      {
-        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
-        "locator": "L78"
-      },
-      {
-        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
-        "locator": "L79"
-      },
-      {
-        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
-        "locator": "L80"
-      }
-    ]
-  },
-  {
     "url": "https://www.webvalid.de/company/AMRO+IT-Systeme+GmbH,+Wei%C3%9Fenburg/HRB+2516",
     "http_checked": false,
     "occurrences": [
@@ -119092,10 +119514,6 @@
       {
         "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
         "locator": "L94"
-      },
-      {
-        "path": "profile/A/A-138-AMRO IT-Systeme GmbH-德国.md",
-        "locator": "L169"
       }
     ]
   },
@@ -121186,6 +121604,38 @@
     ]
   },
   {
+    "url": "https://www.xing.com/profile/Falk_Kappenhagen",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L647"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L706"
+      },
+      {
+        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
+        "locator": "L171"
+      }
+    ]
+  },
+  {
+    "url": "https://www.xing.com/profile/Falk_Kappenhagen〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-133-5G IT Service GmbH-德国.md",
+        "locator": "L78"
+      }
+    ]
+  },
+  {
     "url": "https://www.xing.com/profile/KaiOliver_Detken",
     "http_checked": false,
     "occurrences": [
@@ -122402,6 +122852,20 @@
       {
         "path": "scripts/R66_R56_KP第13波落盘.py",
         "locator": "L53"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/c/direktronik-ab/15254642",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批7.json",
+        "locator": "L44"
+      },
+      {
+        "path": "profile/A/A-054-Direktronik AB-瑞典.md",
+        "locator": "L184"
       }
     ]
   },

@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Direktronik AB:Direktronik Aktiebolag(瑞典 Nynäshamn,Konsul Johnsons väg 15, 149 45;Org.nr 556281-9663;1986-09 注册(40 年谱);28 员工;$7.5M;SNI 46502 电子元件批发;**Lagercrantz Group AB (publ) 子公司**(母链 Control 分部);2025-08 收购 Qvintus AB(温度/压力测量仪表);direktronik.se;+46 8 524 007 00;info@direktronik.se
-- 【推断】R66 第 10 波具名 KP 金谱
-- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
+- 【事实】波 R67/批7·A-054:瑞典谱: **Direktronik AB 深挖(rating.se/hitta.se/rocketreach/LinkedIn/zoominfo/瑞典维基 六源互证)**:**Org.nr 556281-9663,1986-09-17 注册(40 年老谱);Konsul Johnsons Väg 15,149 45 Nynäshamn(Stockholm 郡);Box 234 149 23;+46 8 524 007 00;info@direktronik.se;SNI 46502 电子元件批发;F-skatt+VAT SE556281966301 齐**;**创始 Christina Backlund+Anders Backlund 夫妇(1986 家族企业起点=特种线缆起家→打印机/调制解调器分线→网卡/集线器/交换机/布线全谱;瑞典维基词条直证);母司=Lagercrantz Group AB(Org.nr 556282-4556,斯德哥尔摩上市集团,118 家子司群);子司=Lagercrantz Communication AB**;**营收 133,047 kSEK(2025-03 财年)/130,548(2024)/142,088(2023)三档($7.5M rocketreach 单源估窗);净利润 19.4 MSEK(2025)；员工 28(2025 年报)/26/25 档(22 RR/11-50 LI 窗)**;**业务=网络+数据通信产品进口分销(switch/router 到线缆/光纤/无线+流量测试仪表);自白「Sedan dryga 30 år supporterat vi partners från vårt lager i Nynäshamn」=30 年+支持伙伴一贯谱;747 LinkedIn 粉**;**KP 金谱:Henrik Johan Ringstedt(VD 现任,rating.se/hitta.se 2025 档双直证;前 2022 起接棒谱)+Mats Johan Rydén(前 VD→现任 Styrelseordförande 董事会主席=集团交接谱)+Elisabet Lina Ålander(董)+Lars Andreas Heder(董)+Johan Lars Bertil Hulthin(审计师,Deloitte 系统谱)**;**谱位=北欧网络/数据通信 40 年进口分销商+Lagercrantz 集团背景=我方 ODM EXW 北欧入口天然对口**;**注:CSV 谱名录 Allied Telesis 集成/代理口径=与分销主业相容;退信台账 R58-BC 批注(info@ 通道替代另注群)**。
+- 【推断】R67 推土机深挖 批7 A 类余户清零批
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,9 +75,10 @@ updated: 2026-09-28
 - **原始联系字段**：Fredrik Brunzell - fredrik.brunzell@direktronik.se（Softing 名录公开）【主通道】；总机 +46 8 52 400 700；Stefan Sandstrom - steffo@direktronik.se【已停用：2026-09-29 退信 blocked，由 fredrik.brunzell@ 替代】
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
-  - **Henrik Johan Ringstedt**(Extern verkställande direktör(外部任 CEO,1989 生))— allabolag.se 登记册谱+DNB Key Principal 〔已有(公司官方公开件/登记册自曝);源:https://www.allabolag.se/foretag/direktronik-aktiebolag/nyn%C3%A4shamn/elektronik-och-telekommunikationsutrustning-grossist/2JZYJ4FI63IFS〕
-  - **Mats Johan Rydén**(Ordförande(董事长,1966 生;官方新闻稿 CEO 位))— allabolag.se 登记册谱+Lagercrantz 集团官方新闻稿(2025-08 Qvintus 收购 CEO 署名) 〔已有(公司官方公开件/登记册自曝);源:https://www.inderes.dk/en/releases/lagercrantz-acquires-aktiebolaget-qvintus〕
-  - **Lars Andreas Heder**(Board Member+Head of Division Control(Lagercrantz 集团))— DNB+Lagercrantz 官方新闻稿联系人 〔已有(公司官方公开件/登记册自曝);源:https://www.inderes.dk/en/releases/lagercrantz-acquires-aktiebolaget-qvintus〕
+  - **Henrik Johan Ringstedt**(VD(首席执行官,P0,40 年盘集团治理下新谱))— LinkedIn 谱链;info@ 群邮(R58-BC 退信台账替代通道注) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.rating.se/info1/light/overview/5562819663〕
+  - **Mats Johan Rydén**(Styrelseordförande 董事会主席(前 VD,交接谱;集团内话语权))— 台口 +46 8 524 007 00 转 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://sv.wikipedia.org/wiki/Direktronik〕
+  - **Elisabet Lina Ålander**(Styrelseledamot 董事(集团治理谱))— 集团年报谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.rating.se/info1/light/overview/5562819663〕
+  - **Lars Andreas Heder**(Styrelseledamot 董事(集团治理谱))— 集团年报谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.rating.se/info1/light/overview/5562819663〕
   - **Mats Backlund**(CTO and Business Development Specialist)— RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/direktronik-ab-profile_b5d44236f42e3fbf〕
   - **Susanne Carlsson**(Acting CIO)— RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/direktronik-ab-profile_b5d44236f42e3fbf〕
   - **Jonas Wahlström**(Product Sales Manager)— RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/direktronik-ab-profile_b5d44236f42e3fbf〕
@@ -91,9 +92,10 @@ updated: 2026-09-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Henrik Johan Ringstedt | Extern verkställande direktör(外部任 CEO,1989 生) | allabolag.se 登记册谱+DNB Key Principal | official-self-published·谱/leads-only(直发需 opt-in) | https://www.allabolag.se/foretag/direktronik-aktiebolag/nyn%C3%A4shamn/elektronik-och-telekommunikationsutrustning-grossist/2JZYJ4FI63IFS |
-| Mats Johan Rydén | Ordförande(董事长,1966 生;官方新闻稿 CEO 位) | allabolag.se 登记册谱+Lagercrantz 集团官方新闻稿(2025-08 Qvintus 收购 CEO 署名) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.inderes.dk/en/releases/lagercrantz-acquires-aktiebolaget-qvintus |
-| Lars Andreas Heder | Board Member+Head of Division Control(Lagercrantz 集团) | DNB+Lagercrantz 官方新闻稿联系人 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.inderes.dk/en/releases/lagercrantz-acquires-aktiebolaget-qvintus |
+| Henrik Johan Ringstedt | VD(首席执行官,P0,40 年盘集团治理下新谱) | LinkedIn 谱链;info@ 群邮(R58-BC 退信台账替代通道注) | rating.se+hitta.se 2025 档双直证 O 级 | https://www.rating.se/info1/light/overview/5562819663 |
+| Mats Johan Rydén | Styrelseordförande 董事会主席(前 VD,交接谱;集团内话语权) | 台口 +46 8 524 007 00 转 | rating/Wikipedia 双源直证 O 级 | https://sv.wikipedia.org/wiki/Direktronik |
+| Elisabet Lina Ålander | Styrelseledamot 董事(集团治理谱) | 集团年报谱 | rating.se 直证 O 级 | https://www.rating.se/info1/light/overview/5562819663 |
+| Lars Andreas Heder | Styrelseledamot 董事(集团治理谱) | 集团年报谱 | rating.se 直证 O 级 | https://www.rating.se/info1/light/overview/5562819663 |
 | Mats Backlund | CTO and Business Development Specialist | RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/direktronik-ab-profile_b5d44236f42e3fbf |
 | Susanne Carlsson | Acting CIO | RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/direktronik-ab-profile_b5d44236f42e3fbf |
 | Jonas Wahlström | Product Sales Manager | RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/direktronik-ab-profile_b5d44236f42e3fbf |
@@ -158,38 +160,41 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第10波.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R67_R56_推土机批7.json`；价格均为 EXW 快照。
 
-- **①背景再核**：Direktronik Aktiebolag(瑞典 Nynäshamn,Konsul Johnsons väg 15, 149 45;Org.nr 556281-9663;1986-09 注册(40 年谱);28 员工;$7.5M;SNI 46502 电子元件批发;**Lagercrantz Group AB (publ) 子公司**(母链 Control 分部);2025-08 收购 Qvintus AB(温度/压力测量仪表);direktronik.se;+46 8 524 007 00;info@direktronik.se
-- **②芯片/型号**：(待谱面二补)
-- **③KP 深挖**：**Henrik Johan Ringstedt(Extern verkställande direktör(外部任 CEO,1989 生),official-self-published·谱/leads-only(直发需 opt-in));Mats Johan Rydén(Ordförande(董事长,1966 生;官方新闻稿 CEO 位),official-self-published·谱/leads-only(直发需 opt-in));Lars Andreas Heder(Board Member+Head of Division Control(Lagercrantz 集团),official-self-published·谱/leads-only(直发需 opt-in));Mats Backlund(CTO and Business Development Specialist,leads-only·待 opt-in(LinkedIn/谱面带核));Susanne Carlsson(Acting CIO,leads-only·待 opt-in(LinkedIn/谱面带核));Jonas Wahlström(Product Sales Manager,leads-only·待 opt-in(LinkedIn/谱面带核));Anders Hedin(Sortimentsansvarig(品列负责人),leads-only·待 opt-in(LinkedIn/谱面带核));Marius Hæggernæs(Contact(分销谱名列),leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
-- **⑤在乎与偏好**：40 年分销+集团 Control 分部
+- **①背景再核**：1986 创 40 年;Nynäshamn;Lagercrantz 上市集团子司;创始 Backlund 夫妇
+- **②芯片/型号**：N-net ERPS/SNMPv3+交换/光纤/无线/测试进口分销;24 口 PoE 价值段补位
+- **③KP 深挖**：Ringstedt VD(2022 起接)+Rydén 主席(前 VD)+Ålander/Heder 董事=治理+运营双代谱
+- **④Saga 对标**：进口分销商 EXW 对口 → 24 口 PoE 北欧分销白牌补位
+- **⑤在乎与偏好**：133 MSEK 大盘稳;30 年+伙伴支持谱;集团背景;具名直邮 KYC 链路
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**Extern verkställande direktör Henrik Johan Ringstedt (f 1989);Ordförande Mats Johan Rydén (f 1966);Moderbolaget är Lagercrantz Group Aktiebolag
-  > Extern verkställande direktör Henrik Johan Ringstedt (f 1989);Ordförande Mats Johan Rydén (f 1966);Moderbolaget är Lagercrantz Group Aktiebolag
-  > 来源：https://www.allabolag.se/foretag/direktronik-aktiebolag/nyn%C3%A4shamn/elektronik-och-telekommunikationsutrustning-grossist/2JZYJ4FI63IFS
-- **【近期动态与线索】**Lagercrantz acquires Qvintus: "With Qvintus, Direktronik can develop its business within industrial measurement and control", says Mats Rydén, CEO of Direktronik AB(2025-08-19 官方发布);Andreas Heder Head of Division Control
-  > Lagercrantz acquires Qvintus: "With Qvintus, Direktronik can develop its business within industrial measurement and control", says Mats Rydén, CEO of Direktronik AB(2025-08-19 官方发布);Andreas Heder Head of Division Control
-  > 来源：https://www.inderes.dk/en/releases/lagercrantz-acquires-aktiebolaget-qvintus
-- **【团队与规模】**Top employees: Mats Backlund CTO and Business Development;Susanne Carlsson Acting CIO;Jonas Wahlström Product Sales Manager;Anders Hedin Sortimentsansvarig;28 employees;$7.5M revenue
-  > Top employees: Mats Backlund CTO and Business Development;Susanne Carlsson Acting CIO;Jonas Wahlström Product Sales Manager;Anders Hedin Sortimentsansvarig;28 employees;$7.5M revenue
-  > 来源：https://rocketreach.co/direktronik-ab-profile_b5d44236f42e3fbf
+- **【法体登册】**Direktronik AB;Organisationsnummer 556281-9663;Besöksadress Konsul Johnsons Väg 15,149 45 Nynäshamn;Moderbolag Lagercrantz Group AB 556282-4556;Omsättning 2025-03: 133 047 kSEK;Antal anställda 28;VD Henrik Johan Ringstedt;Styrelseordförande Mats Johan Rydén;Registrerat 1986-09-17;SNI 46502
+  > Direktronik AB;Organisationsnummer 556281-9663;Besöksadress Konsul Johnsons Väg 15,149 45 Nynäshamn;Moderbolag Lagercrantz Group AB 556282-4556;Omsättning 2025-03: 133 047 kSEK;Antal anställda 28;VD Henrik Johan Ringstedt;Styrelseordförande Mats Johan Rydén;Registrerat 1986-09-17;SNI 46502
+  > 来源：https://www.rating.se/info1/light/overview/5562819663
+- **【公司谱史】**Direktronik AB grundades 1986 av Christina Backlund och Anders Backlund;importör och distributör inom nätverk och datakommunikation;uppköpt av Lagercrantz Group;börsnoterad koncern
+  > Direktronik AB grundades 1986 av Christina Backlund och Anders Backlund;importör och distributör inom nätverk och datakommunikation;uppköpt av Lagercrantz Group;börsnoterad koncern
+  > 来源：https://sv.wikipedia.org/wiki/Direktronik
+- **【KP 矩阵】**VD/Koncernchef Henrik Johan Ringstedt;Styrelse: Elisabet Lina Ålander, Lars Andreas Heder, Mats Johan Rydén(ordförande);Revisor Johan Lars Bertil Hulthin
+  > VD/Koncernchef Henrik Johan Ringstedt;Styrelse: Elisabet Lina Ålander, Lars Andreas Heder, Mats Johan Rydén(ordförande);Revisor Johan Lars Bertil Hulthin
+  > 来源：https://www.hitta.se/f%C3%B6retagsinformation/direktronik+ab/5562819663
+- **【规模双窗】**Revenue $7.5M(zoominfo);Founded 1986;11-50 employees(LI 747 followers);28 employees annual report;Koncern: Lagercrantz Group 118 bolag
+  > Revenue $7.5M(zoominfo);Founded 1986;11-50 employees(LI 747 followers);28 employees annual report;Koncern: Lagercrantz Group 118 bolag
+  > 来源：https://www.zoominfo.com/c/direktronik-ab/15254642
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：Direktronik Aktiebolag(瑞典 Nynäshamn,Konsul Johnsons väg 15, 149 45;Org.nr 556281-9663;1986-09 注册(40 年谱);28 员工;$7.5M;SNI 46502 电子元件批发;**Lagercrantz Group AB (publ) 子公司**(母链 Control 分部);2025-08 收购 Qvintus AB(温度/压力测量仪表);direktronik.se;+46 8 524 007 00;info@direktronik.se
-- **产品线与在售品牌**：(波次二补谱面)
-- **目标行业与场景**：瑞典电子件批发分销(Lagercrantz 集团子)
-- **团队与规模**：28 人;$7.5M;1986 创;集团母链
-- **决策链与对接人**：**Henrik Johan Ringstedt(Extern verkställande direktör(外部任 CEO,1989 生),official-self-published·谱/leads-only(直发需 opt-in));Mats Johan Rydén(Ordförande(董事长,1966 生;官方新闻稿 CEO 位),official-self-published·谱/leads-only(直发需 opt-in));Lars Andreas Heder(Board Member+Head of Division Control(Lagercrantz 集团),official-self-published·谱/leads-only(直发需 opt-in));Mats Backlund(CTO and Business Development Specialist,leads-only·待 opt-in(LinkedIn/谱面带核));Susanne Carlsson(Acting CIO,leads-only·待 opt-in(LinkedIn/谱面带核));Jonas Wahlström(Product Sales Manager,leads-only·待 opt-in(LinkedIn/谱面带核));Anders Hedin(Sortimentsansvarig(品列负责人),leads-only·待 opt-in(LinkedIn/谱面带核));Marius Hæggernæs(Contact(分销谱名列),leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **技术与认证**：(波次二补)
-- **采购与供应链信号**：(波次二补)
-- **近期动态与线索**：2026-10-07 R66 10 波谱名牌
-- **与我方契合点**：24 口 value PoE 谱链窗口
-- **风险与注意**：集团母链:采购决策或在 Lagercrantz 层(opt-in 律)
+- **业务定位**：Direktronik AB(Nynäshamn,1986 创 40 年,Lagercrantz 上市集团子司):北欧网络数据通信产品进口分销商
+- **产品线与在售品牌**：N-net(ERPS/SNMPv3 以太网环网)+交换机/路由+光纤+无线+流量测试仪表进口分销全谱
+- **目标行业与场景**：北欧系统集成商/ISP/工业客户(经伙伴自主运营支持谱)
+- **团队与规模**：28 员工(2025);40 年;133 MSEK 营收;Lagercrantz Group 118 司集团
+- **决策链与对接人**：Henrik Ringstedt(VD)+Mats Rydén(主席/前 VD)+Elisabet Ålander/Lars Heder(董事)+Hulthin(审计)
+- **技术与认证**：F-skatt+VAT 齐;SNI 46502;Lagercrantz 治理层谱
+- **采购与供应链信号**：**进口商身份 40 年=我方 ODM EXW 北欧对口**;N-net ERPS/SNMPv3 在卖谱=工业环网谱位注
+- **近期动态与线索**：VD 交接谱(Rydén→Ringstedt);Lagercrantz 集团收购整编谱;133/130/142 MSEK 三年档
+- **与我方契合点**：Ringstedt VD+Rydén 主席双代 → 24 口 PoE(北欧分销补位;N-net 环网周边接入层)
+- **风险与注意**：**已售环网专业谱 N-net=白牌价值段补位谨慎;退信台账户(台账另注);集团采购链层级未明**
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -204,10 +209,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：40 年分销+集团 Control 分部
-- **W**：集团采购链层(谱位在总部)
-- **O**：extern VD+董事长双谱直达
-- **T**：大牌厂商直供链竞谱
+- **S**：40 年老谱+集团背景+133 MSEK 大营收
+- **W**：N-net 专业环网谱=价值白牌补位敏感;退信台账户(台账替代通道注)
+- **O**：北欧 EXW 入口+ERPS 环网周边接入口
+- **T**：集团采购整编链层级
 
 ## 触达与风险红线
 
@@ -235,8 +240,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 硬件采购线在职者(波次二)
-  - [ ] MikroTik 谱面份额
+  - [ ] N-net/MikroTik 竞合在售谱位需官网品牌页核
+  - [ ] Ringstedt 直邮推档(领英链)
+  - [ ] 集团采购链=Lagercrantz 层级未明
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -248,12 +254,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hej Henrik,
+Dear Henrik and Direktronik Team,
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — EXW open for Nordic distribution. Reference: $165 USD EXW (2026-10-08, 15 days valid). A value-tier complement for your N-net ring and access portfolio. Datasheet + CE pack on request.
 
-Best regards,
-Saga Networks Export Desk
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

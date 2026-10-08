@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】5G IT Service GmbH:5G IT Service GmbH(德国 Westmünsterland,2020-01-01 创(六岁;**"5G"=Fünf Gründer 五位创始人从他 IT 系统屋集体跳出**);**HRB 18608 Amtsgericht Coesfeld,资本 €25,000;原址 Reken Carl-Benz-Str. 21 → 2026-02-12 迁址登记 Velen Industriestraße 13**;19 员工;$info@5G-IT.de;谱型=全栈 MSP(denken in Lösungen,咨询/概念/落地/托管+安全 NIS2-化+营销义观察;Kappenhagen 引语「IT 后台可靠运转,老板腾手」=SMB 管服谱)
-- 【推断】R66 第 14 波具名 KP 金谱
-- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
+- 【事实】波 R67/批7·A-133:德谱: **5G IT Service GmbH 深挖(openregister/webvalid/regiomanager/online-handelsregister/XING+官网 六源互证)**:**Amtsgericht Coesfeld HRB 18608;章程 2019-12-03,注册 2020-01-09(6 年);GmbH 资本 €25,000**;**2026-02-05 股东决议迁址:现 Industriestr. 13,46342 Velen(原 Carl-Benz-Str. 21,48734 Groß Reken);+49 2863 77995-110;+49 2864 3303110(旧点);info@5G-IT.de**;**「5G」=「fünf Gründer 五创始」(regiomanager 直证:五人从另一 IT 系统屋集体出创业 2020-01-01,疫情前夕;XING 谱证=buerodata AG(Stadtlohn)系+Falk Kappenhagen 前 buerodata AG 内勤/Georg Dreckmann 电信销售史+Michael Paschen 前 buerodata AG IT System Engineer/mediaBEAM 安全官史+Bernward Schepermann buerodata AG 销售总监兼任至今)**;**业务=IT 服务全包(pauschal 全包)+IT Security+网络+Server/Storage+贸易+软件;自有 5G-Cloud;Kreis Borken IT 服务商排行 #8/Münsterland #17(2026 榜)**;**营收 €3.6M+员工 16(regiomanager 2026 榜)/19(regiomanager 专访)/20(XING)三窗注**;**KP 金谱:Falk Kappenhagen(Geschäftsführer 2020-01-09 创任至今,f1990=36 岁,单独代表权 2022-11 变更=P0 创始+GF+股东)+Michael Paschen(共同创始 GF 2020-01-09~2021-12-15 退,Stadtlohn,创伙伴史)+Bernward Schepermann(Einzelprokura 2021-01-25,buerodata AG 销售总监兼任=B2B 借船谱位,宽带网/光纤基础设施专家)+Alexander Hilgenberg(Marketing 负责人,regiomanager 专访发言人)+Markus Gerwing/Christopher Heidemann/Benjamin Eweleit/Amirkhan Dzhabrailov(团队谱 XING)**;**谱位=Velen 新兴 19 人全包 IT 系统屋=中型企业外包谱;自有 5G-Cloud=机房网络基建谱口**。
+- 【推断】R67 推土机深挖 批7 A 类余户清零批
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,19 +75,19 @@ updated: 2026-09-28
 - **原始联系字段**：info@5g-it.de [Publicly listed; delivery not tested]; https://www.5g-it.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
-  - **Falk Kappenhagen**(Geschäftsführer(执行董事;2022-11-02 起 einzelvertretungsberechtigt;一九九〇年生;regiomanager 公司事引语))— webvalid/registercheck 登记册谱+regiomanager 专文引语 〔已有(公司官方公开件/登记册自曝);源:https://www.webvalid.de/company/5G+IT+Service+GmbH,+Velen/HRB+18608〕
-  - **Bernward Schepermann**(Prokurist(授权代理;2020-01-09 与公司同日登记入职位))— webvalid 登记册谱 〔已有(公司官方公开件/登记册自曝);源:https://www.webvalid.de/company/5G+IT+Service+GmbH,+Velen/HRB+18608〕
-  - **Michael Paschen**(原 Geschäftsführer(2020 联合登记,2021-01-25 Austritt 谱))— webvalid 登记册谱(留痕) 〔已有(公司官方公开件/登记册自曝);源:https://www.webvalid.de/company/5G+IT+Service+GmbH,+Velen/HRB+18608〕
-  - **Alexander Hilgenberg**(Marketing-Verantwortlicher(营销负责人;安全议题公司事引语))— regiomanager.de 专文引语 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.regiomanager.de/artikel/5g-it-service-it-pauschal-skalierbar/〕
+  - **Falk Kappenhagen**(Geschäftsführer+创始股东(2020-01-09 任,单独代表权,f1990=36 岁,P0))— XING 谱链;+49 2863 77995-110 台口 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.xing.com/profile/Falk_Kappenhagen〕
+  - **Bernward Schepermann**(Einzelprokura(2021-01-25 任)+buerodata AG Vertriebsleiter 兼任(B2B 借船谱位))— XING 谱链 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://openregister.de/company/DE-HRB-R2707-18608〕
+  - **Alexander Hilgenberg**(Marketing 负责人(regiomanager 专访发言人谱))— 官网谱链 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.regiomanager.de/artikel/5g-it-service-it-pauschal-skalierbar/〕
+  - **Michael Paschen**(共同创始 GF(2020-01-09~2021-12-15 退,创伙伴史谱))— XING 谱链 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://openregister.de/company/DE-HRB-R2707-18608〕
 
 ## 关键人（KP）与触达通道
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Falk Kappenhagen | Geschäftsführer(执行董事;2022-11-02 起 einzelvertretungsberechtigt;一九九〇年生;regiomanager 公司事引语) | webvalid/registercheck 登记册谱+regiomanager 专文引语 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.webvalid.de/company/5G+IT+Service+GmbH,+Velen/HRB+18608 |
-| Bernward Schepermann | Prokurist(授权代理;2020-01-09 与公司同日登记入职位) | webvalid 登记册谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.webvalid.de/company/5G+IT+Service+GmbH,+Velen/HRB+18608 |
-| Michael Paschen | 原 Geschäftsführer(2020 联合登记,2021-01-25 Austritt 谱) | webvalid 登记册谱(留痕) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.webvalid.de/company/5G+IT+Service+GmbH,+Velen/HRB+18608 |
-| Alexander Hilgenberg | Marketing-Verantwortlicher(营销负责人;安全议题公司事引语) | regiomanager.de 专文引语 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.regiomanager.de/artikel/5g-it-service-it-pauschal-skalierbar/ |
+| Falk Kappenhagen | Geschäftsführer+创始股东(2020-01-09 任,单独代表权,f1990=36 岁,P0) | XING 谱链;+49 2863 77995-110 台口 | openregister+XING 双直证 O 级 | https://www.xing.com/profile/Falk_Kappenhagen |
+| Bernward Schepermann | Einzelprokura(2021-01-25 任)+buerodata AG Vertriebsleiter 兼任(B2B 借船谱位) | XING 谱链 | openregister+XING 双直证 O 级 | https://openregister.de/company/DE-HRB-R2707-18608 |
+| Alexander Hilgenberg | Marketing 负责人(regiomanager 专访发言人谱) | 官网谱链 | regiomanager 直证 O 级 | https://www.regiomanager.de/artikel/5g-it-service-it-pauschal-skalierbar/ |
+| Michael Paschen | 共同创始 GF(2020-01-09~2021-12-15 退,创伙伴史谱) | XING 谱链 | openregister 直证 O 级 | https://openregister.de/company/DE-HRB-R2707-18608 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -147,38 +147,41 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第15波.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R67_R56_推土机批7.json`；价格均为 EXW 快照。
 
-- **①背景再核**：5G IT Service GmbH(德国 Westmünsterland,2020-01-01 创(六岁;**"5G"=Fünf Gründer 五位创始人从他 IT 系统屋集体跳出**);**HRB 18608 Amtsgericht Coesfeld,资本 €25,000;原址 Reken Carl-Benz-Str. 21 → 2026-02-12 迁址登记 Velen Industriestraße 13**;19 员工;$info@5G-IT.de;谱型=全栈 MSP(denken in Lösungen,咨询/概念/落地/托管+安全 NIS2-化+营销义观察;Kappenhagen 引语「IT 后台可靠运转,老板腾手」=SMB 管服谱)
-- **②芯片/型号**：(待谱面二补)
-- **③KP 深挖**：**Falk Kappenhagen(Geschäftsführer(执行董事;2022-11-02 起 einzelvertretungsberechtigt;一九九〇年生;regiomanager 公司事引语),official-self-published·谱/leads-only(直发需 opt-in));Bernward Schepermann(Prokurist(授权代理;2020-01-09 与公司同日登记入职位),official-self-published·谱/leads-only(直发需 opt-in));Michael Paschen(原 Geschäftsführer(2020 联合登记,2021-01-25 Austritt 谱),official-self-published·谱/leads-only(直发需 opt-in));Alexander Hilgenberg(Marketing-Verantwortlicher(营销负责人;安全议题公司事引语),leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
-- **⑤在乎与偏好**：五创始联合跳槽谱=技术硬核
+- **①背景再核**：2020 创 6 年;Velen(原 Reken 2026-02 迁);五创始 buerodata AG 系;€3.6M 营收
+- **②芯片/型号**：全包 IT+5G-Cloud 自有;PoE=全包项目+机房基建
+- **③KP 深挖**：Kappenhagen GF 创始(36 岁 单独代表)+Schepermann Prokurist+Hilgenberg Marketing+Paschen 创伙伴史
+- **④Saga 对标**：NRW 全包系统屋 → 24 口 PoE 全包项目+5G-Cloud 机房
+- **⑤在乎与偏好**：pauschal 全包谱;5G-Cloud 自有;年轻创始队;Kreis Borken #8
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**Geschäftsführer: Kappenhagen, Falk (seit 02.11.2022, einzelvertretungsberechtigt, geb. 1990);Prokurist: Schepermann, Bernward (Eintritt 09.01.2020);Nicht mehr GF: Paschen, Michael (Austritt 25.01.2021)
-  > Geschäftsführer: Kappenhagen, Falk (seit 02.11.2022, einzelvertretungsberechtigt, geb. 1990);Prokurist: Schepermann, Bernward (Eintritt 09.01.2020);Nicht mehr GF: Paschen, Michael (Austritt 25.01.2021)
-  > 来源：https://www.webvalid.de/company/5G+IT+Service+GmbH,+Velen/HRB+18608
-- **【团队与规模】**„Unser Ziel ist, dass der Unternehmer seinen Kopf frei hat…" — GF Falk Kappenhagen;5G=fünf Gründer(1.1.2020, vor Corona);heute 19 Mitarbeitende;Alexander Hilgenberg verantwortet das Marketing(安全议题引语)
-  > „Unser Ziel ist, dass der Unternehmer seinen Kopf frei hat…" — GF Falk Kappenhagen;5G=fünf Gründer(1.1.2020, vor Corona);heute 19 Mitarbeitende;Alexander Hilgenberg verantwortet das Marketing(安全议题引语)
+- **【法体登册】**5G IT Service GmbH;Amtsgericht Coesfeld HRB 18608;Gründungsdatum 09.01.2020;Kapital 25.000 EUR;Industriestr. 13,46342 Velen(2026-02-05 决议迁址,原 Carl-Benz-Str. 21 Reken);GF Falk Kappenhagen(09.01.2020-);Einzelprokura Bernward Schepermann(25.01.2021)
+  > 5G IT Service GmbH;Amtsgericht Coesfeld HRB 18608;Gründungsdatum 09.01.2020;Kapital 25.000 EUR;Industriestr. 13,46342 Velen(2026-02-05 决议迁址,原 Carl-Benz-Str. 21 Reken);GF Falk Kappenhagen(09.01.2020-);Einzelprokura Bernward Schepermann(25.01.2021)
+  > 来源：https://openregister.de/company/DE-HRB-R2707-18608
+- **【创始谱】**Gegründet zum 01.01.2020;5G steht für fünf Gründer, die aus einem anderen IT-Systemhaus heraus den Schritt in die Selbstständigkeit gewagt haben;heute 19 Mitarbeitende;Falk Kappenhagen Geschäftsführer
+  > Gegründet zum 01.01.2020;5G steht für fünf Gründer, die aus einem anderen IT-Systemhaus heraus den Schritt in die Selbstständigkeit gewagt haben;heute 19 Mitarbeitende;Falk Kappenhagen Geschäftsführer
   > 来源：https://www.regiomanager.de/artikel/5g-it-service-it-pauschal-skalierbar/
-- **【联系方式与基础画像】**Sitzverlegung 12.02.2026: Velen, Industriestraße 13, 46342;原 Carl-Benz-Str. 21, 48734 Reken;AG Coesfeld HRB 18608;€25,000;g gegründet 3.12.2019;info@5G-IT.de;+49 2864 3303110
-  > Sitzverlegung 12.02.2026: Velen, Industriestraße 13, 46342;原 Carl-Benz-Str. 21, 48734 Reken;AG Coesfeld HRB 18608;€25,000;g gegründet 3.12.2019;info@5G-IT.de;+49 2864 3303110
-  > 来源：https://www.registercheck.de/companies/5g-it-service-gmbh
+- **【规模窗】**5G IT Service GmbH:Umsatz 3,6 Mio.+Mitarbeiter 16(Kreis Borken IT-Dienstleister 2026 榜 #8);Hauptsitz Velen
+  > 5G IT Service GmbH:Umsatz 3,6 Mio.+Mitarbeiter 16(Kreis Borken IT-Dienstleister 2026 榜 #8);Hauptsitz Velen
+  > 来源：https://www.regiomanager.de/ranking/digital/it-dienstleister/kreis-borken/
+- **【KP 矩阵】**Falk Kappenhagen Geschäftsführer seit 09.01.2020(buerodata AG Innendienst 2017-2019;Georg Dreckmann Telekommunikation Sales 2016);Michael Paschen GF bis 15.12.2021;Bernward Schepermann Prokurist 25.01.2021+buerodata AG Vertriebsleiter;Alexander Hilgenberg Marketing
+  > Falk Kappenhagen Geschäftsführer seit 09.01.2020(buerodata AG Innendienst 2017-2019;Georg Dreckmann Telekommunikation Sales 2016);Michael Paschen GF bis 15.12.2021;Bernward Schepermann Prokurist 25.01.2021+buerodata AG Vertriebsleiter;Alexander Hilgenberg Marketing
+  > 来源：https://www.xing.com/profile/Falk_Kappenhagen
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：5G IT Service GmbH(德国 Westmünsterland,2020-01-01 创(六岁;**"5G"=Fünf Gründer 五位创始人从他 IT 系统屋集体跳出**);**HRB 18608 Amtsgericht Coesfeld,资本 €25,000;原址 Reken Carl-Benz-Str. 21 → 2026-02-12 迁址登记 Velen Industriestraße 13**;19 员工;$info@5G-IT.de;谱型=全栈 MSP(denken in Lösungen,咨询/概念/落地/托管+安全 NIS2-化+营销义观察;Kappenhagen 引语「IT 后台可靠运转,老板腾手」=SMB 管服谱)
-- **产品线与在售品牌**：(波次二补谱面)
-- **目标行业与场景**：德国 Münsterland 五位创始 SMB 全栈 MSP
-- **团队与规模**：19 人;2020 创;€2-5M 谱
-- **决策链与对接人**：**Falk Kappenhagen(Geschäftsführer(执行董事;2022-11-02 起 einzelvertretungsberechtigt;一九九〇年生;regiomanager 公司事引语),official-self-published·谱/leads-only(直发需 opt-in));Bernward Schepermann(Prokurist(授权代理;2020-01-09 与公司同日登记入职位),official-self-published·谱/leads-only(直发需 opt-in));Michael Paschen(原 Geschäftsführer(2020 联合登记,2021-01-25 Austritt 谱),official-self-published·谱/leads-only(直发需 opt-in));Alexander Hilgenberg(Marketing-Verantwortlicher(营销负责人;安全议题公司事引语),leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **技术与认证**：(波次二补)
-- **采购与供应链信号**：(波次二补)
-- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
-- **与我方契合点**：24 口 value PoE 谱链窗口
-- **风险与注意**：Kappenhagen GF+Schepermann Prokurist(opt-in 律)
+- **业务定位**：5G IT Service GmbH(Velen,2020 创 6 年,五创始 buerodata 系):19 人全包 IT 系统屋+自有 5G-Cloud
+- **产品线与在售品牌**：IT 服务全包(pauschal)+IT Security+网络+Server/Storage+贸易+软件;5G-Cloud 自有机房
+- **目标行业与场景**：NRW 中型企业外包谱(Kreis Borken/Münsterland 地区)
+- **团队与规模**：16/19/20 员工三窗;6 年;€3.6M 营收;Velen 新址 2026-02
+- **决策链与对接人**：Falk Kappenhagen(GF 创始单独代表)+Bernward Schepermann(Prokurist+buerodata 销总)+Hilgenberg(Marketing)
+- **技术与认证**：自有 5G-Cloud 数据中心谱;buerodata AG 系借船谱位
+- **采购与供应链信号**：全包 IT 谱=网络件集购链;5G-Cloud=机房基建采购口
+- **近期动态与线索**：2026-02 迁址 Velen Industriestr.;Kreis Borken 排行 #8(2026 榜)
+- **与我方契合点**：Kappenhagen GF 创始+Hilgenberg Marketing → 24 口 PoE(全包项目谱+5G-Cloud 机房)
+- **风险与注意**：**新兴小盘;创始人 36 岁年轻谱;buerodata 兼任谱=决策双线注**
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -193,10 +196,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：五创始联合跳槽谱=技术硬核
-- **W**：小实体(19 人)年轻谱
-- **O**：Kappenhagen 法代直达位
-- **T**：KRITIS/安全谱竞位
+- **S**：全包谱+自有机房+年轻创始队
+- **W**：小盘 16-19 人;决策双线(buerodata 兼任)
+- **O**：全包项目变 PoE 接入需求连发
+- **T**：Velen 地区中小盘谱
 
 ## 触达与风险红线
 
@@ -224,8 +227,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 硬件采购线在职者(波次二)
-  - [ ] MikroTik 谱面份额
+  - [ ] 现售网络件品牌谱位需官网核
+  - [ ] Kappenhagen 直邮推档(XING 谱)
+  - [ ] buerodata 双线决策谱注
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -237,12 +241,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Guten Tag Herr Kappenhagen,
+Dear Falk and 5G IT Team,
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — EXW open for managed-service projects and your 5G-Cloud datacenter. Reference: $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.
 
-Best regards,
-Saga Networks Export Desk
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
