@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】NEWSOFT Technology SRL（意大利 Saluzzo/Cuneo 皮埃蒙特，1998 创）：SI 主+**plotteronline.it（在线 plotter 意大利领导者）+stampaafreddo.green（冷打印姊妹）三体模式**；官宣 Voucher MIMIT（Cloud+Cybersecurity 认证供方）；客户 Salvi Arps（乐器手作）/opificioMiretto/Confartigianato Cuneo；徽墙 **Zebra Reseller Ruby/3CX partner/MSI certificazioni**；Digi-Network 创始伙伴+皮埃蒙特 Polo ICT；团队页人手具名（Carlo/Davide/Riccardo/Mattia/Raffaella/Diego/Anna）
-- 【推断】**“artigiani dell’informatica”手艺人文化+Zebra Ruby+3CX VoIP 同盟**=区域精品 SI；3CX=VoIP 实版（Voice VLAN）
-- 【假设】其区域客户（乐器/家具手作）的仓储+办公复合=PoE 接入件随单
+- 【事实】NEWSOFT Technology SRL:NEWSOFT TECHNOLOGY SRL(意大利 Saluzzo(库内奥),Via del Mattatoio 42;**P.IVA 03999770047;REA CN-329104;1998 创谱→2022-04-01 新体登记;4 人;€1.02M(2023);cap €50k**;**Carlo Geuna Fondatore/owner(LinkedIn+BNI Visol 谱)+Raffaella Bruno Franco Amministrazione;Polo ICT 谱;新铺具花园/健身房/Fucina 培养坊=扩张窗**)
+- 【推断】R66 第 19 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,16 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@newsoft-tech.it [官网正文公开邮箱]; https://www.newsoft-tech.it
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Carlo Geuna**(Fondatore/owner(创主直达;LinkedIn 自署+BNI 谱))— linkedin.com/in/carlogeuna+BNI Visol 件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/in/carlogeuna/〕
+  - **Raffaella Bruno Franco**(Amministrazione(行政口))— LinkedIn 公司页员工谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://it.linkedin.com/company/newsoft-technology-srl〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Carlo Geuna | Fondatore/owner(创主直达;LinkedIn 自署+BNI 谱) | linkedin.com/in/carlogeuna+BNI Visol 件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.linkedin.com/in/carlogeuna/ |
+| Raffaella Bruno Franco | Amministrazione(行政口) | LinkedIn 公司页员工谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://it.linkedin.com/company/newsoft-technology-srl |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +140,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第21批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：皮埃蒙特 SI（Zebra/3CX 同盟；三体；“artigiani”文化）
-- **②芯片/型号**：3CX 实版
-- **③KP 深挖**：info@+具名团队
-- **④Saga 对标**：Voice VLAN 实谱的 VoIP 接入件
-- **⑤在乎与偏好**：文档+伙伴文化
+- **①背景再核**：NEWSOFT TECHNOLOGY SRL(意大利 Saluzzo(库内奥),Via del Mattatoio 42;**P.IVA 03999770047;REA CN-329104;1998 创谱→2022-04-01 新体登记;4 人;€1.02M(2023);cap €50k**;**Carlo Geuna Fondatore/owner(LinkedIn+BNI Visol 谱)+Raffaella Bruno Franco Amministrazione;Polo ICT 谱;新铺具花园/健身房/Fucina 培养坊=扩张窗**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Carlo Geuna(Fondatore/owner(创主直达;LinkedIn 自署+BNI 谱),leads-only·待 opt-in(LinkedIn/谱面带核));Raffaella Bruno Franco(Amministrazione(行政口),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：新铺扩张窗(Fucina 坊)
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“dal 1998 artigiani dell’informatica…[staff:] Carlo, Davide, Riccardo, Mattia…[certs:] Zebra Reseller Ruby, 3CX partner…Voucher MIMIT…Digi-Network”
-  > “dal 1998 artigiani dell’informatica…[staff:] Carlo, Davide, Riccardo, Mattia…[certs:] Zebra Reseller Ruby, 3CX partner…Voucher MIMIT…Digi-Network”
-  > 来源：https://www.newsoft-tech.it/
+- **【决策链与对接人】**Carlo Geuna owner/fondatore(LI 自署:「Fondatore della Newsoft con sede a Saluzzo」);Raffaella Bruno Franco AMMINISTRAZIONE;BNI Visol 成员谱(2025 迎入件)
+  > Carlo Geuna owner/fondatore(LI 自署:「Fondatore della Newsoft con sede a Saluzzo」);Raffaella Bruno Franco AMMINISTRAZIONE;BNI Visol 成员谱(2025 迎入件)
+  > 来源：https://it.linkedin.com/company/newsoft-technology-srl
+- **【联系方式与基础画像】**P.IVA 03999770047;REA CN329104;Via del Mattatoio 42 Saluzzo;iscritta 01/04/2022(25 年传承谱自 1998);4 dipendenti;fatturato €1.022.686(2023);capitale €50k(ufficiocamerale/poloict 件)
+  > P.IVA 03999770047;REA CN329104;Via del Mattatoio 42 Saluzzo;iscritta 01/04/2022(25 年传承谱自 1998);4 dipendenti;fatturato €1.022.686(2023);capitale €50k(ufficiocamerale/poloict 件)
+  > 来源：https://www.ufficiocamerale.it/9872/newsoft-technology-srl
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：皮埃蒙特 SI 精品（Zebra/3CX 同盟；三体模式）
-- **产品线与在售品牌**：Zebra/3CX/MSI
-- **目标行业与场景**：区域手作+办公（乐器/家具）
-- **团队与规模**：小型具名
-- **决策链与对接人**：info@ 口
-- **技术与认证**：MIMIT 认证供方
-- **采购与供应链信号**：随单
-- **近期动态与线索**：Voucher MIMIT 新加
-- **与我方契合点**：3CX/Zebra 生态项目接入件+VoIP 场景
-- **风险与注意**：区域半径
+- **业务定位**：NEWSOFT TECHNOLOGY SRL(意大利 Saluzzo(库内奥),Via del Mattatoio 42;**P.IVA 03999770047;REA CN-329104;1998 创谱→2022-04-01 新体登记;4 人;€1.02M(2023);cap €50k**;**Carlo Geuna Fondatore/owner(LinkedIn+BNI Visol 谱)+Raffaella Bruno Franco Amministrazione;Polo ICT 谱;新铺具花园/健身房/Fucina 培养坊=扩张窗**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：意大利皮埃蒙特 25 年 IT 服务铺(新体 2022)
+- **团队与规模**：4 人;€1.02M
+- **决策链与对接人**：**Carlo Geuna(Fondatore/owner(创主直达;LinkedIn 自署+BNI 谱),leads-only·待 opt-in(LinkedIn/谱面带核));Raffaella Bruno Franco(Amministrazione(行政口),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 19 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Carlo Geuna 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +183,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：同盟
-- **W**：区域
-- **O**：段
-- **T**：大牌
+- **S**：新铺扩张窗(Fucina 坊)
+- **W**：小实体谱
+- **O**：Geuna 创主直达位
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +205,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,8 +214,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 接入现供
-  - [ ] Digi 网络扩展度
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -218,18 +227,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Newsoft team,
+Gentile Sig. Geuna,
 
-“Artigiani dell'informatica since 1998” - and the 3CX badge beside the Zebra Ruby tells us your bench includes both VoIP and the warehouse edge. (Plus plotteronline.it, which needs no introduction in Piedmont.)
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full documentation. Reference: $180 USD EXW - a value unit for the access layer in your 3CX and Zebra projects.
-
-One question: in your voice and magazzino installations, which switch brand holds the access layer today - and would a documented craftsman-grade alternative earn a bench test?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

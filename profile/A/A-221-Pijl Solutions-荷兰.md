@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Pijl Solutions（荷兰 SMB 远距 ICT 服务商）：官网主打远程 IT 托管、安全稳定环境、WiFi 网络管理、Microsoft Copilot——面向中小企的一站式外包口
-- 【推断】SMB 托管场景下交换机=随单件；其'安全稳定环境'叙事后端必含网络柜配套
-- 【假设】托管客户扩容/换柜时的随单位网络件缺口
+- 【事实】Pijl Solutions:Pijl solutions bv(荷兰 Honselersdijk(南荷兰省);**1988 创(Van der Pijl Automatisering 谱→更名);9 人/$3M;区域 ICT 伙伴**;**Arno Duijvestijn directeur/eigenaar(1992 技术员→2006 商务→algemeen directeur=34 年 in-house 升谱;官网专访 O 金谱)+Peter Operationeel Manager(官网团页)+Jeffrey Persoon SW+Arjan van Munsteren Accountmanager ICT**)
+- 【推断】R66 第 19 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,20 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@pijlsolutions.nl（官网正文公开；未验证投递）；原入口：见 alliedtelesis.com 伙伴页
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Arno Duijvestijn**(Directeur & Eigenaar(官网专访自署=O))— pijlsolutions.nl 专访+LI 双源 〔已有(公司官方公开件/登记册自曝);源:https://www.pijlsolutions.nl/nieuws/achter_de_schermen_met_arno〕
+  - **Peter(谱面单名)**(Operationeel Manager(官网团页))— pijlsolutions.nl over 页(O) 〔已有(公司官方公开件/登记册自曝);源:https://www.pijlsolutions.nl/over-pijl-solutions〕
+  - **Jeffrey Persoon**(Software Consultant(队谱))— RocketReach 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/pijl-solutions-bv-profile_b4178ae1ff897f33〕
+  - **Arjan van Munsteren**(Accountmanager ICT(销售位))— RocketReach 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/pijl-solutions-bv-profile_b4178ae1ff897f33〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Arno Duijvestijn | Directeur & Eigenaar(官网专访自署=O) | pijlsolutions.nl 专访+LI 双源 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.pijlsolutions.nl/nieuws/achter_de_schermen_met_arno |
+| Peter(谱面单名) | Operationeel Manager(官网团页) | pijlsolutions.nl over 页(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.pijlsolutions.nl/over-pijl-solutions |
+| Jeffrey Persoon | Software Consultant(队谱) | RocketReach 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/pijl-solutions-bv-profile_b4178ae1ff897f33 |
+| Arjan van Munsteren | Accountmanager ICT(销售位) | RocketReach 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/pijl-solutions-bv-profile_b4178ae1ff897f33 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +144,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第23批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：SMB 远程托管商（官网一手核）
-- **②芯片/型号**：（无硬品牌证据）Microsoft
-- **③KP 深挖**：info@
-- **④Saga 对标**：随单位 value PoE（$180 锚点一致）
-- **⑤在乎与偏好**：稳定/省心/单一接口
+- **①背景再核**：Pijl solutions bv(荷兰 Honselersdijk(南荷兰省);**1988 创(Van der Pijl Automatisering 谱→更名);9 人/$3M;区域 ICT 伙伴**;**Arno Duijvestijn directeur/eigenaar(1992 技术员→2006 商务→algemeen directeur=34 年 in-house 升谱;官网专访 O 金谱)+Peter Operationeel Manager(官网团页)+Jeffrey Persoon SW+Arjan van Munsteren Accountmanager ICT**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Arno Duijvestijn(Directeur & Eigenaar(官网专访自署=O),official-self-published·谱/leads-only(直发需 opt-in));Peter(谱面单名)(Operationeel Manager(官网团页),official-self-published·谱/leads-only(直发需 opt-in));Jeffrey Persoon(Software Consultant(队谱),leads-only·待 opt-in(LinkedIn/谱面带核));Arjan van Munsteren(Accountmanager ICT(销售位),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：业主亲政]+专访 O 谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**远程 ICT 托管/安全稳定环境/WiFi 管理/Copilot——SMB 一站式服务
-  > 远程 ICT 托管/安全稳定环境/WiFi 管理/Copilot——SMB 一站式服务
-  > 来源：https://pijlsolutions.nl
+- **【决策链与对接人】**Arno Duijvestijn directeur en eigenaar;sinds 1992 bij Pijl solutions(technisch medewerker→2006 adviseren/verkopen→algemeen directeur)(官网专访件);Over 页团: Arno(Directeur)+Peter(Operationeel Manager)(官网 O)
+  > Arno Duijvestijn directeur en eigenaar;sinds 1992 bij Pijl solutions(technisch medewerker→2006 adviseren/verkopen→algemeen directeur)(官网专访件);Over 页团: Arno(Directeur)+Peter(Operationeel Manager)(官网 O)
+  > 来源：https://www.pijlsolutions.nl/nieuws/achter_de_schermen_met_arno
+- **【联系方式与基础画像】**Honselersdijk/Naaldwijk ZH;opgericht 1988(als Van der Pijl Automatisering);9 employees;$3M;ICT partner regio(rocketreach/over 页件)
+  > Honselersdijk/Naaldwijk ZH;opgericht 1988(als Van der Pijl Automatisering);9 employees;$3M;ICT partner regio(rocketreach/over 页件)
+  > 来源：https://www.pijlsolutions.nl/over-pijl-solutions
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：荷兰 SMB 远程 ICT 托管商
-- **产品线与在售品牌**：（未明示硬品牌）Microsoft 栈
-- **目标行业与场景**：SMB 办公现场/托管环境
-- **团队与规模**：小型团队
-- **决策链与对接人**：info@ 口
-- **技术与认证**：Microsoft 生态叙事
-- **采购与供应链信号**：随单夹带
-- **近期动态与线索**：—
-- **与我方契合点**：随单位 value PoE 口
-- **风险与注意**：托管毛利率敏感、硬件非主角
+- **业务定位**：Pijl solutions bv(荷兰 Honselersdijk(南荷兰省);**1988 创(Van der Pijl Automatisering 谱→更名);9 人/$3M;区域 ICT 伙伴**;**Arno Duijvestijn directeur/eigenaar(1992 技术员→2006 商务→algemeen directeur=34 年 in-house 升谱;官网专访 O 金谱)+Peter Operationeel Manager(官网团页)+Jeffrey Persoon SW+Arjan van Munsteren Accountmanager ICT**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：荷兰南荷兰 38 年区域 ICT 屋
+- **团队与规模**：9 人;$3M
+- **决策链与对接人**：**Arno Duijvestijn(Directeur & Eigenaar(官网专访自署=O),official-self-published·谱/leads-only(直发需 opt-in));Peter(谱面单名)(Operationeel Manager(官网团页),official-self-published·谱/leads-only(直发需 opt-in));Jeffrey Persoon(Software Consultant(队谱),leads-only·待 opt-in(LinkedIn/谱面带核));Arjan van Munsteren(Accountmanager ICT(销售位),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 19 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Arno Duijvestijn 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +187,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：托管粘性
-- **W**：硬件弱
-- **O**：随单
-- **T**：大牌
+- **S**：业主亲政]+专访 O 谱
+- **W**：微实体谱
+- **O**：Duijvestijn 直达位
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +209,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,8 +218,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 托管体量
-  - [ ] 现供硬件
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -218,18 +231,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Pijl Solutions team,
+Geachte heer Duijvestijn,
 
-Remote-managed IT, a safe and stable environment, WiFi management, and Copilot on top - a tight one-stop offer for Dutch SMBs. Behind every stable environment sits a network closet, and that is our corner.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value unit that rides along when a managed customer site needs switching.
-
-One question: when a customer site needs switches, where do you source them today - and would a documented value PoE line earn a slot on your shelf?
-
-If useful, I can send one unit plus listing documentation. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

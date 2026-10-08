@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Fiore Srl（意大利 Paderno Dugnano MI 总部，1983 年创，40+ 年）：**弱电分销专家**——结构化布线/Networking/**UCC**；**总仓 2,300 mq、SKU 8,500、客户 1,000/年、机柜 19" 年销 10,000 台、数据电缆年销 13,000 km**；三分支 Vicenza/Roma/Bari；**Fiore Rack 自产定制机柜（“Progettiamo e produciamo rack su misura”=自产模式实锤）**；新闻：Omada Fusion Pro/Leviton webinar/Yeastar PBX 新发布/Avaya banking；联系表单按职业分（安装商/数据安装/电话安装/批发/分销/经销商/Carrier…）
-- 【推断】**自产模式=OEM 逻辑实操验证**；10,000 机柜/年=机柜线旁的网络件上架天然；Leviton/Omada 在新闻线
-- 【假设】表单按“Distributore/Grossista”分型=服务多层渠道，其 networking 线对 value 档新线是职业级窗口
+- 【事实】Fiore Srl:Fiore Srl(意大利 Paderno Dugnano(米兰北)+Vicenza+Bari 三站;**1983 创 43 年;布线/网络/IP 电话增值分销**;2300㎡ 仓 5000 SKU(自产 19" 机柜);**Amministratore Unico Mauro Iori(TradeManager 专访=O/G 单谱,创始愿景传递谱);ISO 9001+IQNET;Fluke Networks 六年连冠最佳分销商(2018)**)
+- 【推断】R66 第 19 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,14 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@fioresrl.com [Publicly listed; delivery not tested]; https://www.fioresrl.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Mauro Iori**(Amministratore Unico(独任 AU;专访官方引语))— TradeManager 专访+谱面条 〔已有(公司官方公开件/登记册自曝);源:https://www.trademanager.it/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Mauro Iori | Amministratore Unico(独任 AU;专访官方引语) | TradeManager 专访+谱面条 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.trademanager.it/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +138,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第20批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：弱电分销巨头（自产 rack+多层渠道）诞生逻辑
-- **②芯片/型号**：Leviton/Omada/Yeastar
-- **③KP 深挖**：info@
-- **④Saga 对标**：networking 支线 value 新线+白牌 ODM
-- **⑤在乎与偏好**：分销级文档+阶梯
+- **①背景再核**：Fiore Srl(意大利 Paderno Dugnano(米兰北)+Vicenza+Bari 三站;**1983 创 43 年;布线/网络/IP 电话增值分销**;2300㎡ 仓 5000 SKU(自产 19" 机柜);**Amministratore Unico Mauro Iori(TradeManager 专访=O/G 单谱,创始愿景传递谱);ISO 9001+IQNET;Fluke Networks 六年连冠最佳分销商(2018)**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Mauro Iori(Amministratore Unico(独任 AU;专访官方引语),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：43 年分销谱=件链大户
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Oltre 40 anni di esperienza…2.300 mq…10.000 Rack 19" consegnati per anno…13.000 Km cavo dati venduto per anno…Progettiamo e produciamo rack su misura per te”
-  > “Oltre 40 anni di esperienza…2.300 mq…10.000 Rack 19" consegnati per anno…13.000 Km cavo dati venduto per anno…Progettiamo e produciamo rack su misura per te”
-  > 来源：https://www.fioresrl.com/
+- **【决策链与对接人】**Amministratore Unico: Mauro Iori(TradeManager 专访自署);tre sedi: Paderno Dugnano, Vicenza, Bari;dal 1983
+  > Amministratore Unico: Mauro Iori(TradeManager 专访自署);tre sedi: Paderno Dugnano, Vicenza, Bari;dal 1983
+  > 来源：https://www.trademanager.it/
+- **【技术与认证】**ISO 9001 + IQNET;Fluke Networks Best Distributor 六年连(2018 颁奖件);magazzino 2300㎡/5000 SKU 自产 armadi 19"
+  > ISO 9001 + IQNET;Fluke Networks Best Distributor 六年连(2018 颁奖件);magazzino 2300㎡/5000 SKU 自产 armadi 19"
+  > 来源：https://www.fiorenet.it/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：意大利弱电分销巨头（自产机柜+多分支）
-- **产品线与在售品牌**：Leviton/Omada/Yeastar/Avaya 生态
-- **目标行业与场景**：安装商/分销多层渠道
-- **团队与规模**：34 人分销
-- **决策链与对接人**：info@ 口
-- **技术与认证**：350h 培训
-- **采购与供应链信号**：分销目录+自产
-- **近期动态与线索**：Omada Fusion Pro 发布
-- **与我方契合点**：networking 支线 value 新线+Fiore Rack 式自产商谈
-- **风险与注意**：
+- **业务定位**：Fiore Srl(意大利 Paderno Dugnano(米兰北)+Vicenza+Bari 三站;**1983 创 43 年;布线/网络/IP 电话增值分销**;2300㎡ 仓 5000 SKU(自产 19" 机柜);**Amministratore Unico Mauro Iori(TradeManager 专访=O/G 单谱,创始愿景传递谱);ISO 9001+IQNET;Fluke Networks 六年连冠最佳分销商(2018)**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：意大利米兰 43 年布线分销屋(自产机柜)
+- **团队与规模**：11-50 人;1983 创
+- **决策链与对接人**：**Mauro Iori(Amministratore Unico(独任 AU;专访官方引语),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 19 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Mauro Iori 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +181,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：自产
-- **W**：体量
-- **O**：白牌
-- **T**：大牌
+- **S**：43 年分销谱=件链大户
+- **W**：分销谱
+- **O**：Iori AU 独任直达位
+- **T**：自产线谱
 
 ## 触达与风险红线
 
@@ -196,7 +203,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,9 +212,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] value 档缝
-  - [ ] 白牌兴趣
-  - [ ] 分支结构
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,18 +225,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Fiore team,
+Gentile Sig. Iori,
 
-Forty years, 10,000 racks a year, 13,000 km of data cable annually - and Fiore Rack, your own manufacturing line, proving you already live the OEM logic.
-
-We manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW - a documented value line for your networking BU, open Saga brand or private label like Fiore Rack, two conversations.
-
-One question: in your networking assortment, is there room for a documented value PoE access line - open brand, or built under the Fiore name?
-
-If useful, I can send a sample unit with the complete distribution pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

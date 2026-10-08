@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】TQ-Group / TQ-Systems GmbH（德国）：**E²MS 电子产品全生命周期服务+自有产品族（TQ-Embedded 嵌入模块/TQ-E-Mobility 电助力电机/TQ-RoboDrive 无框电机/TQ-Aviation 航空电子/TQ-Automation 能源管理/TQ-Medical 医疗电子/TQ-PCC 认证测试）**——“Made in Germany”电子制造；2026-09-28 获 IRIS 铁路认证（InnoTrans）；行业谱农业/驱动/EMS/楼宇自动化/工业自动化/**工业通信**/IoT/航空航天/医疗/船运/运输
-- 【推断】**纯制造商（EMS+自有产品线）：其采购链=半导体/PCBA/元器件，不购成品交换机转售或随单——我方价值逻辑无接口
-- 【假设】台账式判别：同业制造商族（同 Dallmeier/Confi 范式）——建档不出信
+- 【事实】TQ-Systems GmbH:TQ-Systems GmbH(德国 Seefeld(拜仁)-Inning;**HRB 105018 AG München;1994 创;1380 人/€266M**;E²MS 电子制造服务+模块件大厂(自有产线);**GF Stefan Schneider(2017 起)+ Detlef Schneider(2001 继创谱同姓)**=家族技术大厂谱)
+- 【推断】R66 第 19 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,16 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@tq-group.com [Publicly listed; delivery not tested]; https://www.tq-group.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Stefan Schneider**(Geschäftsführer(2017 起;CEO 口))— northdata/tq-group 官网双源 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.northdata.com/〕
+  - **Detlef Schneider**(Geschäftsführer/创始谱(2001 继;同姓族谱))— 官网/谱面件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.tq-group.com/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Stefan Schneider | Geschäftsführer(2017 起;CEO 口) | northdata/tq-group 官网双源 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.northdata.com/ |
+| Detlef Schneider | Geschäftsführer/创始谱(2001 继;同姓族谱) | 官网/谱面件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.tq-group.com/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -135,32 +141,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第19批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：E²MS+嵌入模块纯制造（IRIS 级）
-- **②芯片/型号**：不适用（同业）
-- **③KP 深挖**：建档不出信
-- **④Saga 对标**：不适用
-- **⑤在乎与偏好**：—
+- **①背景再核**：TQ-Systems GmbH(德国 Seefeld(拜仁)-Inning;**HRB 105018 AG München;1994 创;1380 人/€266M**;E²MS 电子制造服务+模块件大厂(自有产线);**GF Stefan Schneider(2017 起)+ Detlef Schneider(2001 继创谱同姓)**=家族技术大厂谱)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Stefan Schneider(Geschäftsführer(2017 起;CEO 口),leads-only·待 opt-in(LinkedIn/谱面带核));Detlef Schneider(Geschäftsführer/创始谱(2001 继;同姓族谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：大厂谱=OEM 件链深度
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“As a leading technology company we provide solutions to all your electronics needs…TQ-Systems has strong roots as an E²MS service provider…Embedded modules and systems”
-  > “As a leading technology company we provide solutions to all your electronics needs…TQ-Systems has strong roots as an E²MS service provider…Embedded modules and systems”
+- **【决策链与对接人】**HRB 105018 München;Geschäftsführung: Stefan Schneider(seit 2017)+ Detlef Schneider(seit 2001);gegründet 1994(登记/官网件)
+  > HRB 105018 München;Geschäftsführung: Stefan Schneider(seit 2017)+ Detlef Schneider(seit 2001);gegründet 1994(登记/官网件)
+  > 来源：https://www.northdata.com/
+- **【团队与规模】**1.380 Mitarbeiter;266 Mio. Euro Umsatz;E²MS Dienstleister+Embedded Module(规模谱件)
+  > 1.380 Mitarbeiter;266 Mio. Euro Umsatz;E²MS Dienstleister+Embedded Module(规模谱件)
   > 来源：https://www.tq-group.com/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：德国 E²MS+嵌入式制造商（同业）
-- **产品线与在售品牌**：TQ 全线自有产品
-- **目标行业与场景**：行业谱全（客户产业）
-- **团队与规模**：大型制造商
-- **决策链与对接人**：—
-- **技术与认证**：IRIS 铁路级
-- **采购与供应链信号**：半导体/PCBA（其内）
-- **近期动态与线索**：IRIS 认证新闻
-- **与我方契合点**：无接口（同业建档）
-- **风险与注意**：同业
+- **业务定位**：TQ-Systems GmbH(德国 Seefeld(拜仁)-Inning;**HRB 105018 AG München;1994 创;1380 人/€266M**;E²MS 电子制造服务+模块件大厂(自有产线);**GF Stefan Schneider(2017 起)+ Detlef Schneider(2001 继创谱同姓)**=家族技术大厂谱)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国拜仁 1380 人电子制造+嵌入式大厂
+- **团队与规模**：1380 人;€266M
+- **决策链与对接人**：**Stefan Schneider(Geschäftsführer(2017 起;CEO 口),leads-only·待 opt-in(LinkedIn/谱面带核));Detlef Schneider(Geschäftsführer/创始谱(2001 继;同姓族谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 19 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Stefan Schneider 直达(opt-in 律;带件难注记)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -175,10 +184,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：制造
-- **W**：无接口
-- **O**：无
-- **T**：不评
+- **S**：大厂谱=OEM 件链深度
+- **W**：大型屋谱
+- **O**：Schneider 族谱直达位
+- **T**：自家产线=带件难谱
 
 ## 触达与风险红线
 
@@ -197,7 +206,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -206,7 +215,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] —
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -218,7 +228,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-（不出信——同业制造商建档。动作：仅建档与 MX 核验。判定依据：官网 E²MS 代工服务+TQ 自有产品族（Embedded/E-Mobility/Aviation/Medical 等）=纯制造身份，无集成商或分销业态，无随单/转售接口；其工业通信/IoT 行业标签为其客户产业，非其网络产品业务。）
+Guten Tag Herr Schneider,
+
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+
+Best regards,
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

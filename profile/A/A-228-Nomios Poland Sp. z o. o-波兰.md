@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Nomios（波兰分支，泛欧网络安全 VAR/MSSP）：600+ 专家/40+ 供应商/多 SOC；网络安全高阶捆绑为主，商用接入口随单属窄针
-- 【推断】安全平台型：交换机在其企业捆绑边缘，体量或许大但位窄；放低密窄针
-- 【假设】企业安全交付中的接入层随单窄口
+- 【事实】Nomios Poland Sp. z o. o:NOMIOS POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ(波兰 Warszawa,ul. Puławska 537, 02-844;**KRS 0000406699;NIP 1070021226;REGON 145937645;2011-12-29 登;cap 100,1k zł**;**NOMIOS SAS 全资(2024-12-02 移谱,前 Mielcarek 持);实控谱 Sébastien Kher(法);Prezes Zarządu: Jacek Krzysztof Wojdal(2023-05-12 起;infras 引语件 O/G)+Członek Zarządu Artur Sadownik vel Sadowski(2021-01)+Prokura 连带 Agnieszka Magdalena Kożuchowicz(2024-10);Infradata Polska 合体谱;PWCyber 数字部合作+Rapid7 授权=**网络安全/关键业务网络/云谱**
+- 【推断】R66 第 19 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,20 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@nomios.pl（官网正文公开；未验证投递）；原入口：见 alliedtelesis.com 伙伴页
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Jacek Krzysztof Wojdal**(Prezes Zarządu(2023-05 起;PWCyber 件官方引语))— rejestr.io KRS+LinkedIn PWCyber 件双源 〔已有(公司官方公开件/登记册自曝);源:https://rejestr.io/krs/406699〕
+  - **Artur Sadownik vel Sadowski**(Członek Zarządu(2021-01 起;实控人之一))— rejestr.io KRS 件 〔已有(公司官方公开件/登记册自曝);源:https://rejestr.io/krs/406699〕
+  - **Agnieszka Magdalena Kożuchowicz**(Prokura łączna z członkiem zarządu(2024-10 连带总代理))— rejestr.io KRS 件 〔已有(公司官方公开件/登记册自曝);源:https://rejestr.io/krs/406699〕
+  - **Jarosław Mielcarek**(原 Prezes Zarządu(2012-01~2023-04 老谱;留痕))— vrejestr.pl KRS 件(留痕) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://vrejestr.pl/krs/0000406699/nomios-poland〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Jacek Krzysztof Wojdal | Prezes Zarządu(2023-05 起;PWCyber 件官方引语) | rejestr.io KRS+LinkedIn PWCyber 件双源 | official-self-published·谱/leads-only(直发需 opt-in) | https://rejestr.io/krs/406699 |
+| Artur Sadownik vel Sadowski | Członek Zarządu(2021-01 起;实控人之一) | rejestr.io KRS 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://rejestr.io/krs/406699 |
+| Agnieszka Magdalena Kożuchowicz | Prokura łączna z członkiem zarządu(2024-10 连带总代理) | rejestr.io KRS 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://rejestr.io/krs/406699 |
+| Jarosław Mielcarek | 原 Prezes Zarządu(2012-01~2023-04 老谱;留痕) | vrejestr.pl KRS 件(留痕) | leads-only·待 opt-in(LinkedIn/谱面带核) | https://vrejestr.pl/krs/0000406699/nomios-poland |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -135,32 +145,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第23批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：泛欧安全 VAR（官网一手核）
-- **②芯片/型号**：40+ 供应商
-- **③KP 深挖**：info@
-- **④Saga 对标**：窄针随单（$180 锚点一致）
-- **⑤在乎与偏好**：平台化/大厂背书
+- **①背景再核**：NOMIOS POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ(波兰 Warszawa,ul. Puławska 537, 02-844;**KRS 0000406699;NIP 1070021226;REGON 145937645;2011-12-29 登;cap 100,1k zł**;**NOMIOS SAS 全资(2024-12-02 移谱,前 Mielcarek 持);实控谱 Sébastien Kher(法);Prezes Zarządu: Jacek Krzysztof Wojdal(2023-05-12 起;infras 引语件 O/G)+Członek Zarządu Artur Sadownik vel Sadowski(2021-01)+Prokura 连带 Agnieszka Magdalena Kożuchowicz(2024-10);Infradata Polska 合体谱;PWCyber 数字部合作+Rapid7 授权=**网络安全/关键业务网络/云谱**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Jacek Krzysztof Wojdal(Prezes Zarządu(2023-05 起;PWCyber 件官方引语),official-self-published·谱/leads-only(直发需 opt-in));Artur Sadownik vel Sadowski(Członek Zarządu(2021-01 起;实控人之一),official-self-published·谱/leads-only(直发需 opt-in));Agnieszka Magdalena Kożuchowicz(Prokura łączna z członkiem zarządu(2024-10 连带总代理),official-self-published·谱/leads-only(直发需 opt-in));Jarosław Mielcarek(原 Prezes Zarządu(2012-01~2023-04 老谱;留痕),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：网安/关键网/云=强契谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**600+ experts/40+ partners——SIEM/SOC/GREENmod 泛欧网络安全
-  > 600+ experts/40+ partners——SIEM/SOC/GREENmod 泛欧网络安全
-  > 来源：https://www.nomios.pl
+- **【决策链与对接人】**Prezes Zarządu: Jacek Krzysztof Wojdal(od 12 maja 2023);Członek Zarządu: Artur Sadownik vel Sadowski(od 26 stycznia 2021);Prokura: Agnieszka Magdalena Kożuchowicz(od 24 października 2024);代表: dwóch członków zarządu łącznie(rejestr.io 件)
+  > Prezes Zarządu: Jacek Krzysztof Wojdal(od 12 maja 2023);Członek Zarządu: Artur Sadownik vel Sadowski(od 26 stycznia 2021);Prokura: Agnieszka Magdalena Kożuchowicz(od 24 października 2024);代表: dwóch członków zarządu łącznie(rejestr.io 件)
+  > 来源：https://rejestr.io/krs/406699
+- **【联系方式与基础画像】**KRS 0000406699;NIP 1070021226;REGON 145937645;Puławska 537, 02-844 Warszawa;zarejestrowana 29/12/2011;Wspólnik: NOMIOS SAS 100%(od 2 grudnia 2024);Beneficjenci: Kher(FR)+Wojdal+Sadownik(rejestr/aleo 件)
+  > KRS 0000406699;NIP 1070021226;REGON 145937645;Puławska 537, 02-844 Warszawa;zarejestrowana 29/12/2011;Wspólnik: NOMIOS SAS 100%(od 2 grudnia 2024);Beneficjenci: Kher(FR)+Wojdal+Sadownik(rejestr/aleo 件)
+  > 来源：https://rejestr.io/krs/406699
+- **【近期动态与线索】****Nomios Poland = Infradata Polska 合体谱;Partner PWCyber(Ministerstwo Cyfryzacji;Wojdal 引语件);Rapid7 authorized partner;portfolio Nomios Group**(LinkedIn PWCyber 件)
+  > **Nomios Poland = Infradata Polska 合体谱;Partner PWCyber(Ministerstwo Cyfryzacji;Wojdal 引语件);Rapid7 authorized partner;portfolio Nomios Group**(LinkedIn PWCyber 件)
+  > 来源：https://pl.linkedin.com/pulse/nomios-poland-sp-z-oo-partnerem-programu-wsp%C3%B3%C5%82pracy-w-joanna-dro%C5%BCd%C5%BC-1f
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：泛欧网络安全 VAR/MSSP
-- **产品线与在售品牌**：40+ 供应商品牌墙
-- **目标行业与场景**：大企业/运营商/SOC
-- **团队与规模**：600+ 专家
-- **决策链与对接人**：info@ 口
-- **技术与认证**：SIEM/SOC/GREENmod
-- **采购与供应链信号**：大项目捆绑
-- **近期动态与线索**：泛欧扩张
-- **与我方契合点**：接入层随单窄针
-- **风险与注意**：品牌墙深——窄位低密
+- **业务定位**：NOMIOS POLAND SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ(波兰 Warszawa,ul. Puławska 537, 02-844;**KRS 0000406699;NIP 1070021226;REGON 145937645;2011-12-29 登;cap 100,1k zł**;**NOMIOS SAS 全资(2024-12-02 移谱,前 Mielcarek 持);实控谱 Sébastien Kher(法);Prezes Zarządu: Jacek Krzysztof Wojdal(2023-05-12 起;infras 引语件 O/G)+Członek Zarządu Artur Sadownik vel Sadowski(2021-01)+Prokura 连带 Agnieszka Magdalena Kożuchowicz(2024-10);Infradata Polska 合体谱;PWCyber 数字部合作+Rapid7 授权=**网络安全/关键业务网络/云谱**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：波兰华沙 Nomios 集团网安队(集团子谱)
+- **团队与规模**：集团子谱;2011 登
+- **决策链与对接人**：**Jacek Krzysztof Wojdal(Prezes Zarządu(2023-05 起;PWCyber 件官方引语),official-self-published·谱/leads-only(直发需 opt-in));Artur Sadownik vel Sadowski(Członek Zarządu(2021-01 起;实控人之一),official-self-published·谱/leads-only(直发需 opt-in));Agnieszka Magdalena Kożuchowicz(Prokura łączna z członkiem zarządu(2024-10 连带总代理),official-self-published·谱/leads-only(直发需 opt-in));Jarosław Mielcarek(原 Prezes Zarządu(2012-01~2023-04 老谱;留痕),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 19 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Wojdal 板主位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -175,10 +191,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：背书
-- **W**：窄
-- **O**：随单
-- **T**：品牌墙
+- **S**：网安/关键网/云=强契谱
+- **W**：集团子谱
+- **O**：Wojdal 板主+Sadownik+Kożuchowicz 三位
+- **T**：集团链竞谱
 
 ## 触达与风险红线
 
@@ -197,7 +213,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -206,8 +222,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 接入层权重
-  - [ ] 采购集权
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,16 +235,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Nomios Poland team,
+Szanowny Panie Wojdal,
 
-Nomios is a name that needs no introduction in European cyber security - 600+ experts, 40+ vendors, SIEM/SOC at scale. One honest sentence: we are not a security vendor; this is a narrow infrastructure question at the edge of your projects.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29).
-
-One question: when a project needs access-layer switching beside your security stack, does Nomios keep a value tier - and should I send one unit and a listing pack for your lab?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

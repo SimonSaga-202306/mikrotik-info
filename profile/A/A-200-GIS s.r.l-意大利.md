@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】GIS s.r.l.（意大利，Hu.Tech Group 一部分，GIS+Tecnos 两公司 100 人集团）：**安防系统商**——security integrazita（风险分析/系统设计/安装/维保）；域线：videosorveglianza/antintrusione/controllo accessi/rivelazione incendio-EVAC/domotica e building automation/gestione e monitoraggio；行业四分：**Pubblico/Infrastrutture e trasporti（守界两段）+GDO 大零售/Industria e logistica（私营双段）**；Tecnos 姊妹做电气安装
-- 【推断】100 人集团安防 SI+电气姊妹=随单大口径（同 GESA 族）；公共/基建运输两段守界，零售/工业物流双私段主打
-- 【假设】“intelligenza umana”顾问式自述=方案导向销售，组件选择听工程判断
+- 【事实】GIS s.r.l:GIS s.r.l(**三异体群未锁主谱**——GIS International srl(1993 起;G-MS Industry 4.0 safety/CSA STAR registry=ISO27001 谱) / Gestione Integrata Servizi(Roma,P.IVA IT07030151000) / Global Informatica(MN,P.IVA 01897680201);档案名「GIS s.r.l」无域锚→**守档准由:谱面未见具名决策人,锚异体群留档待点名**)
+- 【推断】R66 第 19 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -134,32 +134,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第20批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：安防 SI 集团 100 人（公共/基建守界，GDO/工业物流私段）
-- **②芯片/型号**：未明
-- **③KP 深挖**：gis@
-- **④Saga 对标**：零售/工业物流安防随单件（公共守界）
-- **⑤在乎与偏好**：集成级文档
+- **①背景再核**：GIS s.r.l(**三异体群未锁主谱**——GIS International srl(1993 起;G-MS Industry 4.0 safety/CSA STAR registry=ISO27001 谱) / Gestione Integrata Servizi(Roma,P.IVA IT07030151000) / Global Informatica(MN,P.IVA 01897680201);档案名「GIS s.r.l」无域锚→**守档准由:谱面未见具名决策人,锚异体群留档待点名**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 第 19 波点名(谱面无实名)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：CSA STAR 谱线索(GIS International)
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Un unico gruppo, due aziende…100 professionisti…[settori:] Pubblico, Infrastrutture e trasporti, GDO, Industria e logistica…videosorveglianza, controllo accessi…”
-  > “Un unico gruppo, due aziende…100 professionisti…[settori:] Pubblico, Infrastrutture e trasporti, GDO, Industria e logistica…videosorveglianza, controllo accessi…”
-  > 来源：https://gisimp.it/
+- **【联系方式与基础画像】**异体群锚: GIS International(1993,safety 平台,CSA STAR) / Gestione Integrata Servizi Roma P.IVA IT07030151000 / Global Informatica MN P.IVA 01897680201(三条登记锚)
+  > 异体群锚: GIS International(1993,safety 平台,CSA STAR) / Gestione Integrata Servizi Roma P.IVA IT07030151000 / Global Informatica MN P.IVA 01897680201(三条登记锚)
+  > 来源：https://www.northdata.com/
+- **【决策链与对接人】**公开谱面未见具名决策人=守档准由;2026-10-08 再核实留痕(R66 第 19 波点名)
+  > 公开谱面未见具名决策人=守档准由;2026-10-08 再核实留痕(R66 第 19 波点名)
+  > 来源：https://www.northdata.com/
+- **【近期动态与线索】**R66 19 波档案点名:三异体群主谱未锁(笔名短==搜索噪声大),守档待专批
+  > R66 19 波档案点名:三异体群主谱未锁(笔名短==搜索噪声大),守档待专批
+  > 来源：https://www.northdata.com/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：意大利安防 SI 集团（GDO/工业物流私段）
-- **产品线与在售品牌**：大牌体系
-- **目标行业与场景**：GDO/工业物流（主）+公共/基建（守界）
-- **团队与规模**：100 人两公司
-- **决策链与对接人**：gis@ 口
-- **技术与认证**：集成级
-- **采购与供应链信号**：项目随单
-- **近期动态与线索**：Hu.Tech Group 结构
-- **与我方契合点**：零售/工业物流 PoE 安防随单 value 位
-- **风险与注意**：公共基建两段
+- **业务定位**：GIS s.r.l(**三异体群未锁主谱**——GIS International srl(1993 起;G-MS Industry 4.0 safety/CSA STAR registry=ISO27001 谱) / Gestione Integrata Servizi(Roma,P.IVA IT07030151000) / Global Informatica(MN,P.IVA 01897680201);档案名「GIS s.r.l」无域锚→**守档准由:谱面未见具名决策人,锚异体群留档待点名**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：意大利 GIS 三异体群(主谱未锁)
+- **团队与规模**：守档案
+- **决策链与对接人**：**守档准由;R66 第 19 波点名(谱面无实名)**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 19 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：守档:谱面无实名(待专批点名)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +180,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：口径
-- **W**：公共
-- **O**：私段
-- **T**：大牌
+- **S**：CSA STAR 谱线索(GIS International)
+- **W**：短名异体群
+- **O**：无守档
+- **T**：—
 
 ## 触达与风险红线
 
@@ -205,9 +211,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 接入现供
-  - [ ] 姊妹配套
-  - [ ] 年项目量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,18 +224,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi GIS team,
+Gentile Direzione,
 
-One hundred professionals under Hu.Tech, designing integrated security for grocery retail and industrial logistics alike - every camera, badge reader and EVAC panel rides upstream on a PoE layer. (For clarity: your Pubblico and Infrastrutture/trasporti engagements stay fully out of scope here; this concerns the GDO and industrial-logistics segments only.)
-
-We manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full integration documentation. Reference: $180 USD EXW - a value unit for the access layer inside your private-sector security projects.
-
-One question: in your GDO and industrial-logistics installations, which switch brand holds the PoE access layer today - and would a documented value alternative earn a bench test?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

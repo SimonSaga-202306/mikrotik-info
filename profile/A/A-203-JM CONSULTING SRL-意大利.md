@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】JM CONSULTING SRL（意大利）：咨询主线——“INNOVATION WIND”数字化/ERP/AI 业务转型咨询；四区 ERP Solution/AI & Digital Transformation/**IT Service**/Printing；行业 food（食品）/logistics（物流）/manufacturing（制造）/retail/fashion/oil&gas；IT Service 区自述“infrastruttura sistemistica adeguata”
-- 【推断】数字化顾问主线：IT Service 支线里的基础设施随单=窄位低优先
-- 【假设】其行业客户（食品/制造/物流/oil&gas 中游）=工业场景潜景，但采购权责边界未明
+- 【事实】JM CONSULTING SRL:JM CONSULTING SRL(意大利 Gossolengo(皮亚琴察),Via Donatori Sangue 3;**P.IVA 01268690334;REA PC-147985;1999 创;~40 专业人士/800+ 客户/80 代理商网**;**Adiuto WMS 流程软件自产谱(2001 起);Innovation Wind 谱=创新资助谱**;公开谱面未见具名决策人→**守档准由(锚全名缺)**)
+- 【推断】R66 第 19 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -134,32 +134,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第21批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：咨询主线（IT Service 支线窄）
-- **②芯片/型号**：未明
-- **③KP 深挖**：info@
-- **④Saga 对标**：IT Service 基础设施随单窄位（低优先）
-- **⑤在乎与偏好**：—
+- **①背景再核**：JM CONSULTING SRL(意大利 Gossolengo(皮亚琴察),Via Donatori Sangue 3;**P.IVA 01268690334;REA PC-147985;1999 创;~40 专业人士/800+ 客户/80 代理商网**;**Adiuto WMS 流程软件自产谱(2001 起);Innovation Wind 谱=创新资助谱**;公开谱面未见具名决策人→**守档准由(锚全名缺)**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 第 19 波点名(谱面无实名)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：Adiuto WMS 自产谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Strategie aziendali per l’innovazione e la competitività…ERP Solution / AI & Digital Transformation / IT Service / Printing…settori: food, logistics, manufacturing…”
-  > “Strategie aziendali per l’innovazione e la competitività…ERP Solution / AI & Digital Transformation / IT Service / Printing…settori: food, logistics, manufacturing…”
-  > 来源：https://jmconsulting.it/
+- **【联系方式与基础画像】**P.IVA 01268690334;REA PC147985;Gossolengo(PC);fondata 1999;40 professionisti;800+ clienti;rete 80 rivenditori;Adiuto dal 2001(登记/官网件)
+  > P.IVA 01268690334;REA PC147985;Gossolengo(PC);fondata 1999;40 professionisti;800+ clienti;rete 80 rivenditori;Adiuto dal 2001(登记/官网件)
+  > 来源：https://www.jmconsulting.it/
+- **【决策链与对接人】**公开谱面未见具名决策人=守档准由;锚全(P.IVA/REA/年创/规模)名缺;2026-10-08 再核实留痕
+  > 公开谱面未见具名决策人=守档准由;锚全(P.IVA/REA/年创/规模)名缺;2026-10-08 再核实留痕
+  > 来源：https://www.jmconsulting.it/
+- **【近期动态与线索】**R66 19 波档案点名:Adiuto WMS 生态谱+80 代理商网=生态件链谱,守档待专批点名
+  > R66 19 波档案点名:Adiuto WMS 生态谱+80 代理商网=生态件链谱,守档待专批点名
+  > 来源：https://www.jmconsulting.it/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：数字化/ERP 咨询（IT Service 支线）
-- **产品线与在售品牌**：ERP/AI
-- **目标行业与场景**：食品/物流/制造/零售/时尚
-- **团队与规模**：中型
-- **决策链与对接人**：info@ 口
-- **技术与认证**：咨询级
-- **采购与供应链信号**：咨询项目随单
-- **近期动态与线索**：AI 线
-- **与我方契合点**：IT Service 基础设施随单窄位（低优先）
-- **风险与注意**：咨询主线
+- **业务定位**：JM CONSULTING SRL(意大利 Gossolengo(皮亚琴察),Via Donatori Sangue 3;**P.IVA 01268690334;REA PC-147985;1999 创;~40 专业人士/800+ 客户/80 代理商网**;**Adiuto WMS 流程软件自产谱(2001 起);Innovation Wind 谱=创新资助谱**;公开谱面未见具名决策人→**守档准由(锚全名缺)**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：意大利皮亚琴察 WMS 流程软件屋(生态 80 代理)
+- **团队与规模**：40 人;800 客
+- **决策链与对接人**：**守档准由;R66 第 19 波点名(谱面无实名)**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 19 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：守档:谱面无实名(锚全;待专批点名)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +180,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：深度
-- **W**：边角
-- **O**：随单
-- **T**：大牌
+- **S**：Adiuto WMS 自产谱
+- **W**：生态谱
+- **O**：无守档
+- **T**：—
 
 ## 触达与风险红线
 
@@ -205,8 +211,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 网络件现供
-  - [ ] 权责边界
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -218,18 +224,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi JM Consulting team,
+Gentile Direzione,
 
-ERP and AI transformations in the lead - and the IT Service line closing every project with the right infrastruttura sistemistica underneath. (One honest note: networking hardware is a supporting discipline for you, so this is a light-touch note.)
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW - a value unit for the networking layer inside your IT Service deliveries, from manufacturing floors to logistics sites.
-
-One question: when an IT Service engagement needs active networking, which switch brand do you reach for today - and would a documented value alternative be worth keeping on the shelf?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

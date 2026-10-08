@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Sittig Technologies GmbH（德国法兰克福，1987 创，40+ 人家族，四点法兰克福/慕尼黑/**芝加哥**/Vrable 斯洛伐克）：**机场/铁路自动广播系统商**——PAXGuide 多语种自动播报（149 语言）+Audio Management Platform+**PAXModular 自研硬件**（IP 寻呼站/智能音频接口）；**法兰克福机场全球首个 Auracast 广播（2026-01 发布）**；**JFK Terminal 6 签约（2026-08 新闻）**；利物浦机场+Bosch Praesideo 集成共计 500+ 项目
-- 【推断】**航空广播 + 自研 IP audio 硬件商=项目随单件+自研集成件客户**；JFK T6 与法兰克福 Auracast=项目滚动活跃窗
-- 【假设】其 IP paging stations 自研硬件线需射频/PoE 集成配套；300 台级机场项目随单接入件
+- 【事实】Sittig Technologies GmbH:Sittig Technologies GmbH(德国 Nürnberg(纽伦堡);**HRB 43590**;**PAXGuide Cloud 机场公共广播(PA)全球谱**——机场播报系统一件套房;GF 双人谱 Johannes+Thomas Sittig;州府(Bayern)官方件引语;Ingrid Sittig 退位留痕)
+- 【推断】R66 第 19 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,20 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@sittig.de [Publicly listed; delivery not tested]; https://www.sittig-tech.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Johannes Sittig**(Geschäftsführer(州府件官方引语=O))— 巴伐利亚州府件+northdata 双源 〔已有(公司官方公开件/登记册自曝);源:https://www.northdata.com/〕
+  - **Thomas Sittig**(Geschäftsführer(双位谱))— 登记谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.northdata.com/〕
+  - **Tischler**(管理层谱(项目/交付线))— 员工/谱面件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/〕
+  - **Ingrid Sittig**(原 Geschäftsführerin(退位留痕))— 登记公告(留痕) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.northdata.com/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Johannes Sittig | Geschäftsführer(州府件官方引语=O) | 巴伐利亚州府件+northdata 双源 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.northdata.com/ |
+| Thomas Sittig | Geschäftsführer(双位谱) | 登记谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.northdata.com/ |
+| Tischler | 管理层谱(项目/交付线) | 员工/谱面件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.linkedin.com/ |
+| Ingrid Sittig | 原 Geschäftsführerin(退位留痕) | 登记公告(留痕) | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.northdata.com/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -137,32 +147,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第18批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：航空广播全球商（自研硬件+500 项目）；JFK T6+Auracast 新签
-- **②芯片/型号**：PAXModular 自研
-- **③KP 深挖**：info@+四点
-- **④Saga 对标**：IP audio 集成接入配套（大项目随单）
-- **⑤在乎与偏好**：机场级可靠文档
+- **①背景再核**：Sittig Technologies GmbH(德国 Nürnberg(纽伦堡);**HRB 43590**;**PAXGuide Cloud 机场公共广播(PA)全球谱**——机场播报系统一件套房;GF 双人谱 Johannes+Thomas Sittig;州府(Bayern)官方件引语;Ingrid Sittig 退位留痕)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Johannes Sittig(Geschäftsführer(州府件官方引语=O),official-self-published·谱/leads-only(直发需 opt-in));Thomas Sittig(Geschäftsführer(双位谱),leads-only·待 opt-in(LinkedIn/谱面带核));Tischler(管理层谱(项目/交付线),leads-only·待 opt-in(LinkedIn/谱面带核));Ingrid Sittig(原 Geschäftsführerin(退位留痕),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：机场谱=关键场所守界分
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“PAXModular offers a range of specialized hardware components…IP-based paging stations to intelligent audio interfaces…JFK’s New Terminal 6 Selects Sittig Technologies’ PAXGuide…Frankfurt Airport Becomes the First Airport Worldwide to Use Auracast”
-  > “PAXModular offers a range of specialized hardware components…IP-based paging stations to intelligent audio interfaces…JFK’s New Terminal 6 Selects Sittig Technologies’ PAXGuide…Frankfurt Airport Becomes the First Airport Worldwide to Use Auracast”
-  > 来源：https://www.sittig-tech.com/
+- **【决策链与对接人】**HRB 43590 Nürnberg;Geschäftsführung: Johannes Sittig + Thomas Sittig;nicht mehr: Ingrid Sittig;州府件 Johannes Sittig 引语(登记+州府件)
+  > HRB 43590 Nürnberg;Geschäftsführung: Johannes Sittig + Thomas Sittig;nicht mehr: Ingrid Sittig;州府件 Johannes Sittig 引语(登记+州府件)
+  > 来源：https://www.northdata.com/
+- **【业务定位】**PAXGuide Cloud: weltweite automatische Durchsagen an Flughäfen(机场 PA 播报云=关键场所谱)
+  > PAXGuide Cloud: weltweite automatische Durchsagen an Flughäfen(机场 PA 播报云=关键场所谱)
+  > 来源：https://www.sittig.de/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：德全球航空广播商（自研 IP audio 硬件）
-- **产品线与在售品牌**：PAXGuide/PAXModular 自研
-- **目标行业与场景**：机场/铁路/展会/工业/应急
-- **团队与规模**：40+，四点跨欧美
-- **决策链与对接人**：info@ 口
-- **技术与认证**：机场级
-- **采购与供应链信号**：项目随单+自研集成
-- **近期动态与线索**：JFK T6 签约+法兰克福 Auracast
-- **与我方契合点**：IP audio 集成的接入层配套+机场项目随单
-- **风险与注意**：机场级规范门槛
+- **业务定位**：Sittig Technologies GmbH(德国 Nürnberg(纽伦堡);**HRB 43590**;**PAXGuide Cloud 机场公共广播(PA)全球谱**——机场播报系统一件套房;GF 双人谱 Johannes+Thomas Sittig;州府(Bayern)官方件引语;Ingrid Sittig 退位留痕)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：纽伦堡机场 PA 播报系统一件套房
+- **团队与规模**：中型谱;PAXGuide 全球
+- **决策链与对接人**：**Johannes Sittig(Geschäftsführer(州府件官方引语=O),official-self-published·谱/leads-only(直发需 opt-in));Thomas Sittig(Geschäftsführer(双位谱),leads-only·待 opt-in(LinkedIn/谱面带核));Tischler(管理层谱(项目/交付线),leads-only·待 opt-in(LinkedIn/谱面带核));Ingrid Sittig(原 Geschäftsführerin(退位留痕),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 19 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Johannes Sittig 直达(opt-in 律;关键场所守界)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -177,10 +190,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：滚动
-- **W**：门槛
-- **O**：事件
-- **T**：大牌
+- **S**：机场谱=关键场所守界分
+- **W**：专精深谱
+- **O**：Johannes Sittig 直达位
+- **T**：自家栈一件套谱
 
 ## 触达与风险红线
 
@@ -199,7 +212,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -208,9 +221,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 接入现供
-  - [ ] JFK 项目量
-  - [ ] 硬件集成模式
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -222,18 +234,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Sittig team,
+Guten Tag Herr Sittig,
 
-Congratulations on the JFK Terminal 6 award and on Frankfurt becoming the world's first Auracast airport - your PAXGuide platform is clearly setting the tempo in public announcements.
-
-Behind every IP paging station and intelligent audio interface lies a dependable PoE access layer. We manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with airport-grade documentation. Reference: $180 USD EXW.
-
-One question: in PAXModular deployments - which switch brand powers the PoE endpoints today - and would a documented value alternative earn a bench test in your Frankfurt lab?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

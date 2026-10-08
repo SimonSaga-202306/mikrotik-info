@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】KNT Technology（波兰华沙/Olsztyn）：全托管 MSP（托管/Microsoft365/网络件板块存在/培训/审计）；30 年老牌，Katarzyna Grabiec 具名；'Dobieramy i dostarczamy sprzęt…bez przepłacania'（帮选硬件不花冤枉钱）=value 供货主动缺口
-- 【推断】MSP 主动采购硬件板块+不花冤枉钱承诺=value 线硬缺口的正面靶位（本批最强 MSP 缺口句之一）
-- 【假设】其托管客户的网络换代：PoE 接入随单+供货价差叙事正中 424 定位
+- 【事实】KNT Technology SP. Z O.O:KNT TECHNOLOGY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ(波兰 Warszawa,ul. Grzybowska 87, 00-844;**KRS 0000755293;NIP 7010890163;REGON 381673442;cap 5k zł;IT 批发+零售+软件+电信综合谱**;**Prezes Zarządu: Katarzyna Elżbieta Grabiec(2025-09-04 起;股东 35/50 份额)+Jan Józef Grabiec(15/50)=族谱控股;前身谱:Katarzyna Koput(2020-02 创铺 Prezes;前 KNT Sp. z o.o. Olsztyn 战略客户总监 2018-2020=同根谱;老 KNT Sp.z o.o. KRS 698034 2024-01 法院强制解散序=守档注记)**
+- 【推断】R66 第 19 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,10 +76,18 @@ updated: 2026-09-28
 - 来源等级：official-identity-pending（R41–R48 联系方式台账口径）
 - **原始联系字段**：biuro@knt.biz.pl（待核：官网候选邮箱，城市身份桥接未完整；未验证投递）；原入口：见 alliedtelesis.com 伙伴页
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Katarzyna Elżbieta Grabiec**(Prezes Zarządu(2025-09-04 起;板主+控股股东))— rejestr.io KRS 件 〔已有(公司官方公开件/登记册自曝);源:https://rejestr.io/krs/755293/knt-technology〕
+  - **Jan Józef Grabiec**(Wspólnik(股东 15/50))— rejestr.io KRS 件 〔已有(公司官方公开件/登记册自曝);源:https://rejestr.io/krs/755293/knt-technology〕
+  - **Katarzyna Koput**(前 Prezes Zarządu KNT Technology(2020-02 创铺谱;LI 活跃谱=留痕待核现位))— linkedin.com/in/katarzynakoput(留痕谱) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/in/katarzynakoput/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Katarzyna Elżbieta Grabiec | Prezes Zarządu(2025-09-04 起;板主+控股股东) | rejestr.io KRS 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://rejestr.io/krs/755293/knt-technology |
+| Jan Józef Grabiec | Wspólnik(股东 15/50) | rejestr.io KRS 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://rejestr.io/krs/755293/knt-technology |
+| Katarzyna Koput | 前 Prezes Zarządu KNT Technology(2020-02 创铺谱;LI 活跃谱=留痕待核现位) | linkedin.com/in/katarzynakoput(留痕谱) | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.linkedin.com/in/katarzynakoput/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -139,32 +147,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第23批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：30年 MSP（官网一手核）
-- **②芯片/型号**：M365 栈+网络件
-- **③KP 深挖**：Katarzyna Grabiec（具名）/biuro@
-- **④Saga 对标**：value 硬缺口（$180 锚点一致）
-- **⑤在乎与偏好**：性价比承诺/老客户信任
+- **①背景再核**：KNT TECHNOLOGY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ(波兰 Warszawa,ul. Grzybowska 87, 00-844;**KRS 0000755293;NIP 7010890163;REGON 381673442;cap 5k zł;IT 批发+零售+软件+电信综合谱**;**Prezes Zarządu: Katarzyna Elżbieta Grabiec(2025-09-04 起;股东 35/50 份额)+Jan Józef Grabiec(15/50)=族谱控股;前身谱:Katarzyna Koput(2020-02 创铺 Prezes;前 KNT Sp. z o.o. Olsztyn 战略客户总监 2018-2020=同根谱;老 KNT Sp.z o.o. KRS 698034 2024-01 法院强制解散序=守档注记)**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Katarzyna Elżbieta Grabiec(Prezes Zarządu(2025-09-04 起;板主+控股股东),official-self-published·谱/leads-only(直发需 opt-in));Jan Józef Grabiec(Wspólnik(股东 15/50),official-self-published·谱/leads-only(直发需 opt-in));Katarzyna Koput(前 Prezes Zarządu KNT Technology(2020-02 创铺谱;LI 活跃谱=留痕待核现位),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：华沙谱+老体解散注=新体窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Dobieramy i dostarczamy sprzęt…bez przepłacania——30 lat, Katarzyna Grabiec
-  > Dobieramy i dostarczamy sprzęt…bez przepłacania——30 lat, Katarzyna Grabiec
-  > 来源：https://knt.biz.pl
+- **【决策链与对接人】**Prezes Zarządu: Katarzyna Elżbieta Grabiec(od 4 września 2025);Wspólnicy: Grabiec 35 udziałów(3.500 zł)+ Jan Józef Grabiec 15(1.500 zł);代表规则: każdy z członków zarządu samodzielnie(rejestr.io KRS 件)
+  > Prezes Zarządu: Katarzyna Elżbieta Grabiec(od 4 września 2025);Wspólnicy: Grabiec 35 udziałów(3.500 zł)+ Jan Józef Grabiec 15(1.500 zł);代表规则: każdy z członków zarządu samodzielnie(rejestr.io KRS 件)
+  > 来源：https://rejestr.io/krs/755293/knt-technology
+- **【联系方式与基础画像】**KRS 0000755293;NIP 7010890163;REGON 381673442;Grzybowska 87, 00-844 Warszawa;PKD: handel hurtowy(46.51.Z)/produkcja komputerów(26.20.Z)/telekomunikacja(61.10.Z)/oprogramowanie(62.01.Z)(aleo.com 件)
+  > KRS 0000755293;NIP 7010890163;REGON 381673442;Grzybowska 87, 00-844 Warszawa;PKD: handel hurtowy(46.51.Z)/produkcja komputerów(26.20.Z)/telekomunikacja(61.10.Z)/oprogramowanie(62.01.Z)(aleo.com 件)
+  > 来源：https://aleo.com/int/company/landsraad-sp-z-oo-warszawa
+- **【近期动态与线索】****老 KNT Sp. z o.o.(Olsztyn,KRS 698034): 18/01/2024 sąd ogłasza wszczęcie postępowania o rozwiązanie i wykreślenie(强制解散序=守档注记);Koput 谱: Prezes KNT Technology luty 2020+(前 KNT 战略客户长 2018-2020)**
+  > **老 KNT Sp. z o.o.(Olsztyn,KRS 698034): 18/01/2024 sąd ogłasza wszczęcie postępowania o rozwiązanie i wykreślenie(强制解散序=守档注记);Koput 谱: Prezes KNT Technology luty 2020+(前 KNT 战略客户长 2018-2020)**
+  > 来源：https://rejestr.io/krs/698034/knt
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：波兰资深 MSP（30年/双城）
-- **产品线与在售品牌**：M365+网络件板块
-- **目标行业与场景**：SMB 托管/审计
-- **团队与规模**：30年团队，Katarzyna Grabiec
-- **决策链与对接人**：biuro@ 口
-- **技术与认证**：—
-- **采购与供应链信号**：主动采购硬件缺口
-- **近期动态与线索**：“不花冤枉钱”供货叙事
-- **与我方契合点**：value PoE 正口
-- **风险与注意**：—
+- **业务定位**：KNT TECHNOLOGY SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ(波兰 Warszawa,ul. Grzybowska 87, 00-844;**KRS 0000755293;NIP 7010890163;REGON 381673442;cap 5k zł;IT 批发+零售+软件+电信综合谱**;**Prezes Zarządu: Katarzyna Elżbieta Grabiec(2025-09-04 起;股东 35/50 份额)+Jan Józef Grabiec(15/50)=族谱控股;前身谱:Katarzyna Koput(2020-02 创铺 Prezes;前 KNT Sp. z o.o. Olsztyn 战略客户总监 2018-2020=同根谱;老 KNT Sp.z o.o. KRS 698034 2024-01 法院强制解散序=守档注记)**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：波兰华沙 IT 批发零售屋(族谱控股)
+- **团队与规模**：小谱;cap 5k zł
+- **决策链与对接人**：**Katarzyna Elżbieta Grabiec(Prezes Zarządu(2025-09-04 起;板主+控股股东),official-self-published·谱/leads-only(直发需 opt-in));Jan Józef Grabiec(Wspólnik(股东 15/50),official-self-published·谱/leads-only(直发需 opt-in));Katarzyna Koput(前 Prezes Zarządu KNT Technology(2020-02 创铺谱;LI 活跃谱=留痕待核现位),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 19 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Grabiec 板主位(opt-in 律;Koput 谱留痕待核)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -179,10 +193,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：缺口句
-- **W**：中小
-- **O**：正口
-- **T**：渠道
+- **S**：华沙谱+老体解散注=新体窗
+- **W**：微实体谱
+- **O**：Grabiec 板主直达位
+- **T**：分销链竞谱
 
 ## 触达与风险红线
 
@@ -205,7 +219,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -214,8 +228,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] Katarzyna 角色
-  - [ ] 现供品牌
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -227,16 +241,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi KNT Technology team,
+Szanowna Pani Grabiec,
 
-Your promise 'we select and supply hardware without overpaying' caught our eye - that is exactly the slot we build for.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29) - a value unit that keeps your no-overpay promise measurable on managed customer sites.
-
-One question: when a managed customer needs switching, which line do you supply today - and would a documented value PoE switch earn a slot in your sourcing shelf?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

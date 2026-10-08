@@ -4,15 +4,15 @@
  "checks": [
   {
    "check": "四大源数量一致(CSV/STRUCT/MD/R56+R55批)",
-   "ok": true,
+   "ok": false,
    "severity": "critical",
-   "detail": "CSV=567 STRUCT=567 MD=567 深挖批=547+20"
+   "detail": "CSV=580 STRUCT=747 MD=580 深挖批=547+20"
   },
   {
    "check": "编号 A-001..567 连续无缺无多",
-   "ok": true,
+   "ok": false,
    "severity": "critical",
-   "detail": "缺=[] 多=[]"
+   "detail": "缺=[] 多=['A-568', 'A-570', 'A-571', 'A-572', 'A-573']"
   },
   {
    "check": "R56 必填字段非空(547 家)",
@@ -34,27 +34,27 @@
   },
   {
    "check": "价锚一致(p1↔email 锚点)",
-   "ok": true,
+   "ok": false,
    "severity": "info",
-   "detail": "全过"
+   "detail": "[('A-092', 'STC-424XGGPM-280W', '$165'), ('A-093', 'STC-424XGGPM-280W', '$165'), ('A-100', 'STC-424XGGPM-280W', '$165'), ('A-101', 'STC-424XGGPM-280W', '$165'), ('A-102', 'STC-424XGGPM-280W', '$165'), ('A-104', 'STC-424XGGPM-280W', '$165'), ('A-106', 'STC-424XGGPM-280W', '$165'), ('A-107', 'STC-424XGGPM-280W', '$165')]"
   },
   {
    "check": "供位 push≡p1(去矛盾)",
-   "ok": true,
+   "ok": false,
    "severity": "critical",
-   "detail": "全过"
+   "detail": "[('A-311', 'CONSULT-OEM', 'STC-424XGGPM-280W')]"
   },
   {
    "check": "JSON→MD 三层互证(fact/swot/email 全量)",
-   "ok": true,
+   "ok": false,
    "severity": "critical",
-   "detail": "全过"
+   "detail": "[('A-092', 'fact'), ('A-092', 'email'), ('A-093', 'fact'), ('A-093', 'swot'), ('A-093', 'email'), ('A-094', 'fact'), ('A-099', 'fact'), ('A-099', 'email')] 共397"
   },
   {
    "check": "question 同文入 MD 率(早期批问题句独立措辞属设计差异)",
    "ok": true,
    "severity": "info",
-   "detail": "同文入档 176/547;独立措辞 371(信息项)"
+   "detail": "同文入档 160/547;独立措辞 387(信息项)"
   },
   {
    "check": "OVERRIDE 指向真实存在的 A 档",
@@ -70,9 +70,9 @@
   },
   {
    "check": "退信台账 5 家 code 合法",
-   "ok": true,
+   "ok": false,
    "severity": "critical",
-   "detail": "['A-054', 'A-096', 'A-101', 'A-103', 'A-105']"
+   "detail": "['A-054', 'A-096', 'A-101', 'A-103', 'A-105', 'A-441']"
   },
   {
    "check": "关联群台账 19 组 code 合法(3 家组合并后)",
@@ -100,9 +100,9 @@
   },
   {
    "check": "随机抽样 30 家深核(evidence/dims10/跟进阶段入 MD)",
-   "ok": true,
+   "ok": false,
    "severity": "info",
-   "detail": "30/30 全过"
+   "detail": "[('A-171', 'evidence未入MD'), ('A-171', 'dims10未入MD'), ('A-156', 'evidence未入MD'), ('A-156', 'dims10未入MD'), ('A-211', 'evidence未入MD'), ('A-211', 'dims10未入MD'), ('A-149', 'evidence未入MD'), ('A-149', 'dims10未入MD')]"
   },
   {
    "check": "R55 老骨架 20 家 MD 小节在",
@@ -119,7 +119,15 @@
  ],
  "summary": {
   "checks_total": 19,
-  "failed": 0,
-  "failed_names": []
+  "failed": 7,
+  "failed_names": [
+   "四大源数量一致(CSV/STRUCT/MD/R56+R55批)",
+   "编号 A-001..567 连续无缺无多",
+   "价锚一致(p1↔email 锚点)",
+   "供位 push≡p1(去矛盾)",
+   "JSON→MD 三层互证(fact/swot/email 全量)",
+   "退信台账 5 家 code 合法",
+   "随机抽样 30 家深核(evidence/dims10/跟进阶段入 MD)"
+  ]
  }
 }

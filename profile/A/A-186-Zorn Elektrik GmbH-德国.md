@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Zorn Elektrik GmbH（德国 Korntal-Münchingen，斯图加特北，1971 年创 Ludwig Zorn 起，50+ 年）：**电工技术商——楼宇电气/控制柜制造（Schaltschrankbau 自做）/照明/送配电**；“Augenhöhe（平视）”合作文化+长在职（25 年在职者公开）；掌门 **Othmar Zorn 具名**；手工业上装证（Elektroniker Energie/Gebäude-技术+IKT 双证）
-- 【推断】电气承包+自做控制柜=项目随单件稳定；IKT 证含信息与通信技术=弱电人脉职能在册
-- 【假设】1971 的“Augenhöhe”老城文化=长期供应商关系取向，窄线评测愿意给窗
+- 【事实】Zorn Elektrik GmbH:Zorn Elektrik GmbH(德国 Korntal-Münchingen(巴符);**HRB 200691 AG Stuttgart;1971 创 55 年**;电气安装家族屋;**GF 换代:Gunzenhauser(2005~2021)→ Othmar Zorn(现职,业主名回归谱)**)
+- 【推断】R66 第 19 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,16 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@zorn-elektrik.de [Publicly listed; delivery not tested]; https://www.zorn-elektrik.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Othmar Zorn**(Geschäftsführer(现职;业主名回归))— 登记/XING 员工谱双源 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.northdata.com/〕
+  - **Gunzenhauser**(原 Geschäftsführer(2005~2021 在职谱;退位留痕))— XING/登记谱(留痕) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.xing.com/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Othmar Zorn | Geschäftsführer(现职;业主名回归) | 登记/XING 员工谱双源 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.northdata.com/ |
+| Gunzenhauser | 原 Geschäftsführer(2005~2021 在职谱;退位留痕) | XING/登记谱(留痕) | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.xing.com/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -131,32 +137,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第19批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：1971 电工承包（控制柜自制+IKT 双证）
-- **②芯片/型号**：未明
-- **③KP 深挖**：info@+Othmar Zorn 具名
-- **④Saga 对标**：楼宇弱电随单 value 件
-- **⑤在乎与偏好**：Augenhöhe 文化
+- **①背景再核**：Zorn Elektrik GmbH(德国 Korntal-Münchingen(巴符);**HRB 200691 AG Stuttgart;1971 创 55 年**;电气安装家族屋;**GF 换代:Gunzenhauser(2005~2021)→ Othmar Zorn(现职,业主名回归谱)**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Othmar Zorn(Geschäftsführer(现职;业主名回归),leads-only·待 opt-in(LinkedIn/谱面带核));Gunzenhauser(原 Geschäftsführer(2005~2021 在职谱;退位留痕),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：55 年谱+业主名回归
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Als kompetentes Dienstleistungsunternehmen im Elektrohandwerk…seit 1971…50 Jahre Zorn Elektrik GmbH…[Schaltschrankbau]+[Gebäude- und Elektrotechnik]”（滑片+官网新闻存档）
-  > “Als kompetentes Dienstleistungsunternehmen im Elektrohandwerk…seit 1971…50 Jahre Zorn Elektrik GmbH…[Schaltschrankbau]+[Gebäude- und Elektrotechnik]”（滑片+官网新闻存档）
-  > 来源：https://www.zorn-elektrik.de/
+- **【决策链与对接人】**HRB 200691 Stuttgart;gegründet 1971;Geschäftsführer: Othmar Zorn(neu);nicht mehr: Gunzenhauser(2005-2021)(登记/XING 件)
+  > HRB 200691 Stuttgart;gegründet 1971;Geschäftsführer: Othmar Zorn(neu);nicht mehr: Gunzenhauser(2005-2021)(登记/XING 件)
+  > 来源：https://www.northdata.com/
+- **【联系方式与基础画像】**Zorn Elektrik GmbH, Korntal;Elektroinstallation 谱(谱面件)
+  > Zorn Elektrik GmbH, Korntal;Elektroinstallation 谱(谱面件)
+  > 来源：https://www.google.com/search?q=%22Zorn+Elektrik+GmbH%22
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：斯图加特北 50 年电工承包（控制柜自制）
-- **产品线与在售品牌**：未明示（白标随单）
-- **目标行业与场景**：楼宇/工商业
-- **团队与规模**：老牌中型
-- **决策链与对接人**：Othmar Zorn 具名
-- **技术与认证**：手工业上装双证
-- **采购与供应链信号**：项目随单
-- **近期动态与线索**：50 周年纪
-- **与我方契合点**：楼宇弱电随单件+控制柜旁网络配套
-- **风险与注意**：证据偏薄（—fatto）
+- **业务定位**：Zorn Elektrik GmbH(德国 Korntal-Münchingen(巴符);**HRB 200691 AG Stuttgart;1971 创 55 年**;电气安装家族屋;**GF 换代:Gunzenhauser(2005~2021)→ Othmar Zorn(现职,业主名回归谱)**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国巴符 55 年电气安装家族屋
+- **团队与规模**：中型谱;1971 创
+- **决策链与对接人**：**Othmar Zorn(Geschäftsführer(现职;业主名回归),leads-only·待 opt-in(LinkedIn/谱面带核));Gunzenhauser(原 Geschäftsführer(2005~2021 在职谱;退位留痕),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 19 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Othmar Zorn 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -171,10 +180,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：老牌
-- **W**：薄证
-- **O**：随单
-- **T**：在位
+- **S**：55 年谱+业主名回归
+- **W**：中实体谱
+- **O**：Zorn 回归直达位
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -193,7 +202,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -202,9 +211,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 网络件现供
-  - [ ] IKT 任务模式
-  - [ ] 量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -216,18 +224,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Mr. Zorn,
+Guten Tag Herr Zorn,
 
-Fifty years of electrical craftsmanship, control cabinets built in-house, and an IKT ticket on the trade register - a company that has seen technology cycles come and go and still works at eye level.
-
-We manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with honest documentation. Reference: $180 USD EXW - a value unit for the network layer inside your building and cabinet projects.
-
-One question: in your building and cabinet projects, which switch brand currently supplies the network side - and would a documented value alternative be worth a bench test for your team?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

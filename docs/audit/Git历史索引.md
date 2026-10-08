@@ -5,6 +5,7 @@
 
 | Commit | 提交时间（原始时区） | 说明 |
 |---|---|---|
+| `7fcc832faebe` | 2026-10-08T03:21:56+00:00 | R66 第 18 波 30 户扩招批:A-143..A-173 德国段全谱:36 家谱名牌+守界注记(dainox 军/TEMPEST 密/DATEL 市政/NiTo→IPTGA 更名锚/GU 三代/OAS 继位窗) |
 | `adf624a2bfcb` | 2026-10-08T03:05:24+00:00 | R66 第 17 波:ARCHE(军谱守界)/Bachert(Ender 采购 KPI)/BAIEN(Ender)/bod(Beyer+HRB 异文留痕)+总账 |
 | `b49e0044ffb2` | 2026-10-07T17:36:03+00:00 | R66 第 16 波:Acteos(Safadi)/Alarm-as(Schwerin 支谱+GF 换届)/ALCO(Alberti 37 年)/AMRO(Reutelhuber+团谱)+总账 |
 | `94cdba1b6bff` | 2026-10-07T17:24:25+00:00 | R66 第 15 波:5G IT(GF 登记谱)/ACP Halle(GF+Prokurist)/Selos(双 GF 学徒-接棒)/Groupe Networks(Cohen 受益人+MC2C)+总账 |

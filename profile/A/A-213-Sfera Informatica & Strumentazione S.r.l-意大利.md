@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Sfera Informatica & Strumentazione Srl（意大利，20+ 年）：全谱 SI——咨询问题求解/售+租/支持外包/**Cloud·Networking·Cybersecurity**/工业自动化/AI 算法；明确“Aziende ed Enti pubblici”双客群
-- 【推断】全谱 SI 的 networking 主线清晰；Enti pubblici=公共段守界
-- 【假设】工业自动化线=OT 场景接入件工况隐含（机械视觉/产线）
+- 【事实】Sfera Informatica & Strumentazione S.r.l:SFERA INFORMATICA & STRUMENTAZIONE S.R.L.(意大利 Modugno(巴里),Trav. Sx Via VV.FF. Caduti in Servizio 6/8;**P.IVA 06036770722;1998 创;11-50(队谱 8);MePA 32 项 abilitazioni**;新铺(四年)实验室+仓+展厅培训;**Gianvito Brandonisio Cofounder/Amministratore Unico&Technical Director(D&B 谱)+Luigi Ruoto Co-Owner&Sales Manager(LI 谱);Francesco Proia 营销+Francesca Calabrese HR+Davide Liberio ICT;Confindustria BAT 成员**)
+- 【推断】R66 第 19 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,10 +76,22 @@ updated: 2026-09-28
 - 来源等级：association（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@sfera-srl.it（协会成员目录公开；官网正文未复核；未验证投递）；原入口：见 alliedtelesis.com 伙伴页
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Gianvito Brandonisio**(Amministratore Unico / Technical Director(D&B 具名谱))— D&B 公司档+LI 谱双源 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.dnb.com/business-directory/company-profiles.sfera_informatica__strumentazione_srl.47c34f656b277e2e72dbe45fc83aceef.html〕
+  - **Luigi Ruoto**(Co-Owner & Sales Manager(销售直达))— LinkedIn 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/company/sfera-informatica-strumentazione-srl〕
+  - **Francesco Proia**(Marketing e Comunicazione(营销口))— RocketReach 队谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/sfera-informatica-strumentazione-srl-management_b79785a7c24e9e8e〕
+  - **Francesca Calabrese**(Responsabile risorse umane(HR))— RocketReach 队谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/sfera-informatica-strumentazione-srl-management_b79785a7c24e9e8e〕
+  - **Davide Liberio**(Tecnico di supporto IT(技术谱))— RocketReach 队谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/sfera-informatica-strumentazione-srl-management_b79785a7c24e9e8e〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Gianvito Brandonisio | Amministratore Unico / Technical Director(D&B 具名谱) | D&B 公司档+LI 谱双源 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.dnb.com/business-directory/company-profiles.sfera_informatica__strumentazione_srl.47c34f656b277e2e72dbe45fc83aceef.html |
+| Luigi Ruoto | Co-Owner & Sales Manager(销售直达) | LinkedIn 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.linkedin.com/company/sfera-informatica-strumentazione-srl |
+| Francesco Proia | Marketing e Comunicazione(营销口) | RocketReach 队谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/sfera-informatica-strumentazione-srl-management_b79785a7c24e9e8e |
+| Francesca Calabrese | Responsabile risorse umane(HR) | RocketReach 队谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/sfera-informatica-strumentazione-srl-management_b79785a7c24e9e8e |
+| Davide Liberio | Tecnico di supporto IT(技术谱) | RocketReach 队谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/sfera-informatica-strumentazione-srl-management_b79785a7c24e9e8e |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -136,32 +148,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第22批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：20 年全谱 SI（自动化+云网安；公共守界）
-- **②芯片/型号**：未明
-- **③KP 深挖**：info@（目录公开）
-- **④Saga 对标**：私营段随单件+边界句
-- **⑤在乎与偏好**：集成文档
+- **①背景再核**：SFERA INFORMATICA & STRUMENTAZIONE S.R.L.(意大利 Modugno(巴里),Trav. Sx Via VV.FF. Caduti in Servizio 6/8;**P.IVA 06036770722;1998 创;11-50(队谱 8);MePA 32 项 abilitazioni**;新铺(四年)实验室+仓+展厅培训;**Gianvito Brandonisio Cofounder/Amministratore Unico&Technical Director(D&B 谱)+Luigi Ruoto Co-Owner&Sales Manager(LI 谱);Francesco Proia 营销+Francesca Calabrese HR+Davide Liberio ICT;Confindustria BAT 成员**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Gianvito Brandonisio(Amministratore Unico / Technical Director(D&B 具名谱),leads-only·待 opt-in(LinkedIn/谱面带核));Luigi Ruoto(Co-Owner & Sales Manager(销售直达),leads-only·待 opt-in(LinkedIn/谱面带核));Francesco Proia(Marketing e Comunicazione(营销口),leads-only·待 opt-in(LinkedIn/谱面带核));Francesca Calabrese(Responsabile risorse umane(HR),leads-only·待 opt-in(LinkedIn/谱面带核));Davide Liberio(Tecnico di supporto IT(技术谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：AU+Co-Owner 双谱直击
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Da oltre 20 anni progettiamo…Ecosistemi di Information Technologies e Automazione…architetture tecnologiche per Aziende ed Enti pubblici…Cloud, Networking & Cybersecurity”
-  > “Da oltre 20 anni progettiamo…Ecosistemi di Information Technologies e Automazione…architetture tecnologiche per Aziende ed Enti pubblici…Cloud, Networking & Cybersecurity”
-  > 来源：https://www.sfera-srl.it/
+- **【决策链与对接人】**Key Principal: GIANVITO BRANDONISIO Sole Administrator(D&B 件);Luigi Ruoto Co-Owner & Sales Manager;队谱 Proia(Mkt)/Calabrese(HR)/Liberio(IT)(D&B+LI+RR 三源)
+  > Key Principal: GIANVITO BRANDONISIO Sole Administrator(D&B 件);Luigi Ruoto Co-Owner & Sales Manager;队谱 Proia(Mkt)/Calabrese(HR)/Liberio(IT)(D&B+LI+RR 三源)
+  > 来源：https://www.dnb.com/business-directory/company-profiles.sfera_informatica__strumentazione_srl.47c34f656b277e2e72dbe45fc83aceef.html
+- **【联系方式与基础画像】**P.IVA 06036770722;Modugno(BA);fondata 1998;MePA 32 abilitazioni;nuova sede(laboratorio+magazzino+showroom/formazione)(Confindustria BAT+amministrazionicomunali 件)
+  > P.IVA 06036770722;Modugno(BA);fondata 1998;MePA 32 abilitazioni;nuova sede(laboratorio+magazzino+showroom/formazione)(Confindustria BAT+amministrazionicomunali 件)
+  > 来源：https://confindustria.babt.it/associato/sfera-informatica-strumentazione-srl/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：全谱 SI（networking 主线；私营+公共双客群）
-- **产品线与在售品牌**：—
-- **目标行业与场景**：企业（主）+公共（守界）
-- **团队与规模**：中型
-- **决策链与对接人**：info@ 口
-- **技术与认证**：—
-- **采购与供应链信号**：随单
-- **近期动态与线索**：AI+自动化业绩
-- **与我方契合点**：云网安+自动化的接入层随单件（私营段）
-- **风险与注意**：公共边界
+- **业务定位**：SFERA INFORMATICA & STRUMENTAZIONE S.R.L.(意大利 Modugno(巴里),Trav. Sx Via VV.FF. Caduti in Servizio 6/8;**P.IVA 06036770722;1998 创;11-50(队谱 8);MePA 32 项 abilitazioni**;新铺(四年)实验室+仓+展厅培训;**Gianvito Brandonisio Cofounder/Amministratore Unico&Technical Director(D&B 谱)+Luigi Ruoto Co-Owner&Sales Manager(LI 谱);Francesco Proia 营销+Francesca Calabrese HR+Davide Liberio ICT;Confindustria BAT 成员**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：意大利巴里 1998 创 IT+仪器屋(MePA 32)
+- **团队与规模**：11-50 人;1998 创
+- **决策链与对接人**：**Gianvito Brandonisio(Amministratore Unico / Technical Director(D&B 具名谱),leads-only·待 opt-in(LinkedIn/谱面带核));Luigi Ruoto(Co-Owner & Sales Manager(销售直达),leads-only·待 opt-in(LinkedIn/谱面带核));Francesco Proia(Marketing e Comunicazione(营销口),leads-only·待 opt-in(LinkedIn/谱面带核));Francesca Calabrese(Responsabile risorse umane(HR),leads-only·待 opt-in(LinkedIn/谱面带核));Davide Liberio(Tecnico di supporto IT(技术谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 19 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Brandonisio AU+Ruoto 销售位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -176,10 +191,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：投送
-- **W**：墙
-- **O**：私营
-- **T**：大牌
+- **S**：AU+Co-Owner 双谱直击
+- **W**：中小实体谱
+- **O**：Ruoto 销售口最合
+- **T**：MePA 谱
 
 ## 触达与风险红线
 
@@ -198,7 +213,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -207,8 +222,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 接入现供
-  - [ ] 自动化 OT 渗透
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -220,18 +235,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Sfera team,
+Gentile Sig. Brandonisio,
 
-Twenty years building IT ecosystems across Italy - cloud, networking, cybersecurity, industrial automation. (For clarity: your Enti Pubblici engagements stay fully out of scope here; this concerns your private business clients only.)
-
-We manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW - a value unit for the access layer inside your private-sector networking and automazione industriale projects.
-
-One question: in your networking and automation projects, which switch brand holds the gigabit access layer today - and would a documented value alternative earn a bench test?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

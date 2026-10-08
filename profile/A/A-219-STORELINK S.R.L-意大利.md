@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】STORELINK SRL（意大利，2009 创，storage+networking 起）：**六域集团化 SI**——BMS（楼宇管理）/**ATM 空管（frequentis/ScioTeq mission-critical 伙伴实锤）**/Cyber Security/Data Science+AI/**Servizi Impiantistica（能源水来通信技术设施）**/ICT Enterprise；ISO 9001/27001/37001/45001/28001/42001 多张+TRAC；**MePA&SDAPA habilitated 自述**；客户墙含 Cisco/HPE/Dell EMC/Fortinet/CyberArk/Commvault/Cloudera 等
-- 【推断】**ATM 空管+frequentis 伙伴=国家关键基础设施专用格**+MePA/SDAPA=**守界硬度高**；私营 BMS/Impiantistica/楼宇工程段才有随单口
-- 【假设】BMS control room 项目的弱电布线=私营楼宇段的真实网络件需求
+- 【事实】STORELINK S.R.L:STORELINK SRL(意大利 Brescia(法址 Via Berardo Maggi 9/A)+Roma(Via E. D'Onofrio 212)**;**P.IVA 03082480983;7 人;集成安全/能源管理+网络/ICT 谱;MePA 16 项**;**Savino Cutrona Amministratore Unico/CEO(D&B 双谱)+Emanuele Cutrona GM/Lead Negotiator(族谱)+Giovanni Difino(AI/BI PoliteMi 谱)+Virginia Castello HR**)
+- 【推断】R66 第 19 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,20 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：sales@storelink.it（官网正文公开；未验证投递）；原入口：见 alliedtelesis.com 伙伴页
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Savino Cutrona**(Amministratore Unico/CEO(D&B 具名谱))— D&B+clodura 双源 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.dnb.com/business-directory/company-profiles.storelink_srl.5dae5cab536e26550d75a354614385fe.html〕
+  - **Emanuele Cutrona**(General Manager/Lead Negotiator & Product Developer(族谱))— clodura 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.clodura.ai/directory/company/storelink-srl〕
+  - **Giovanni Difino**(AI/BI 谱(米理谱;LI 具名))— LinkedIn 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/in/giovannidifino/〕
+  - **Virginia Castello**(HR Manager(行政谱))— clodura 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.clodura.ai/directory/company/storelink-srl〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Savino Cutrona | Amministratore Unico/CEO(D&B 具名谱) | D&B+clodura 双源 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.dnb.com/business-directory/company-profiles.storelink_srl.5dae5cab536e26550d75a354614385fe.html |
+| Emanuele Cutrona | General Manager/Lead Negotiator & Product Developer(族谱) | clodura 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.clodura.ai/directory/company/storelink-srl |
+| Giovanni Difino | AI/BI 谱(米理谱;LI 具名) | LinkedIn 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.linkedin.com/in/giovannidifino/ |
+| Virginia Castello | HR Manager(行政谱) | clodura 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.clodura.ai/directory/company/storelink-srl |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -135,32 +145,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第22批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：集团 SI（ATM 关键守界硬；BMS 私营窄）
-- **②芯片/型号**：大牌墙
-- **③KP 深挖**：sales@
-- **④Saga 对标**：BMS 窄位低优先（体距句）
-- **⑤在乎与偏好**：—
+- **①背景再核**：STORELINK SRL(意大利 Brescia(法址 Via Berardo Maggi 9/A)+Roma(Via E. D'Onofrio 212)**;**P.IVA 03082480983;7 人;集成安全/能源管理+网络/ICT 谱;MePA 16 项**;**Savino Cutrona Amministratore Unico/CEO(D&B 双谱)+Emanuele Cutrona GM/Lead Negotiator(族谱)+Giovanni Difino(AI/BI PoliteMi 谱)+Virginia Castello HR**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Savino Cutrona(Amministratore Unico/CEO(D&B 具名谱),leads-only·待 opt-in(LinkedIn/谱面带核));Emanuele Cutrona(General Manager/Lead Negotiator & Product Developer(族谱),leads-only·待 opt-in(LinkedIn/谱面带核));Giovanni Difino(AI/BI 谱(米理谱;LI 具名),leads-only·待 opt-in(LinkedIn/谱面带核));Virginia Castello(HR Manager(行政谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：安防+能源+网络三谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Air Traffic Management: sistemi critici a supporto del controllo del traffico aereo…MePA & SDAPA…[partners:] frequentis, ScioTeq…”
-  > “Air Traffic Management: sistemi critici a supporto del controllo del traffico aereo…MePA & SDAPA…[partners:] frequentis, ScioTeq…”
-  > 来源：https://www.storelink.it/
+- **【决策链与对接人】**Key Principal: SAVINO CUTRONA Sole Administrator(D&B 件);Emanuele Cutrona GM Lead Negotiator Product Developer;Giovanni Difino(AI/BI);队谱 Castello HR/Tirabassi/Ciprini(D&B+clodura+LI 三源)
+  > Key Principal: SAVINO CUTRONA Sole Administrator(D&B 件);Emanuele Cutrona GM Lead Negotiator Product Developer;Giovanni Difino(AI/BI);队谱 Castello HR/Tirabassi/Ciprini(D&B+clodura+LI 三源)
+  > 来源：https://www.dnb.com/business-directory/company-profiles.storelink_srl.5dae5cab536e26550d75a354614385fe.html
+- **【联系方式与基础画像】**P.IVA 03082480983;Brescia Via Berardo Maggi 9/A + Roma Via D'Onofrio 212(+39 06 40800163);7 dipendenti;Security+Energy Management+Networking/ICT;MePA 16 abilitazioni;MIBACT 集成谱(amministrazionicomunali/storelink.it 件)
+  > P.IVA 03082480983;Brescia Via Berardo Maggi 9/A + Roma Via D'Onofrio 212(+39 06 40800163);7 dipendenti;Security+Energy Management+Networking/ICT;MePA 16 abilitazioni;MIBACT 集成谱(amministrazionicomunali/storelink.it 件)
+  > 来源：https://www.storelink.it/it/dove-siamo
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：集团化 SI（ATM 关键=守界硬；BMS 楼宇私营窄位）
-- **产品线与在售品牌**：Cisco/HPE/Dell/Fortinet 等大牌
-- **目标行业与场景**：空管（守界）+私营楼宇（窄）
-- **团队与规模**：集团中型
-- **决策链与对接人**：sales@ 口
-- **技术与认证**：7+ ISO
-- **采购与供应链信号**：项目协议
-- **近期动态与线索**：多 ISO 新拿
-- **与我方契合点**：私营楼宇 BMS 布线随单窄位（低优先，体距句）
-- **风险与注意**：ATM 关键主权+大牌墙
+- **业务定位**：STORELINK SRL(意大利 Brescia(法址 Via Berardo Maggi 9/A)+Roma(Via E. D'Onofrio 212)**;**P.IVA 03082480983;7 人;集成安全/能源管理+网络/ICT 谱;MePA 16 项**;**Savino Cutrona Amministratore Unico/CEO(D&B 双谱)+Emanuele Cutrona GM/Lead Negotiator(族谱)+Giovanni Difino(AI/BI PoliteMi 谱)+Virginia Castello HR**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：意大利布雷西亚双址安防能源集成屋
+- **团队与规模**：7 人;MePA 16
+- **决策链与对接人**：**Savino Cutrona(Amministratore Unico/CEO(D&B 具名谱),leads-only·待 opt-in(LinkedIn/谱面带核));Emanuele Cutrona(General Manager/Lead Negotiator & Product Developer(族谱),leads-only·待 opt-in(LinkedIn/谱面带核));Giovanni Difino(AI/BI 谱(米理谱;LI 具名),leads-only·待 opt-in(LinkedIn/谱面带核));Virginia Castello(HR Manager(行政谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 19 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Savino Cutrona 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -175,10 +188,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：ISO
-- **W**：关键
-- **O**：窄
-- **T**：协议
+- **S**：安防+能源+网络三谱
+- **W**：小实体谱
+- **O**：S.Cutrona AU 直达位
+- **T**：一线链竞谱
 
 ## 触达与风险红线
 
@@ -197,7 +210,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -206,8 +219,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] BMS 段占比
-  - [ ] 网络件结构
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,18 +232,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Storelink team,
+Gentile Sig. Cutrona,
 
-From BMS control rooms to air-traffic-management on one wall - you operate at the critical-infrastructure end of Italian ICT. Two honest boundaries from our side: your ATM and MePA/SDAPA engagements stay fully out of scope here, and our scale suits selective deliveries, not framework contracts.
-
-We manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW - a value unit for the networking layer inside your private-sector BMS and impiantistica projects, where a building's floors need switches more often than a control center does.
-
-One question: in your private building automation projects, which switch brand holds the networking layer today - and is a documented value unit worth a line in your component book?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

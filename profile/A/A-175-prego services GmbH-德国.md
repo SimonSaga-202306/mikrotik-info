@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】prego services GmbH（德国，**能源市场服务商 25+ 年**）：流程咨询/IT 解决方案/**SAP（咨询到运营）/Data&Analytics/BPO（薪资外包/材料物流）**；客户墙几乎全是 **Stadtwerke 群**（Saarbrücken/Heidelberg/Bad Nauheim/Kreuznach/St. Wendel/Am See）+区县/医疗商会；13+ 员工精益专深
-- 【推断】**结构性公共客群（EVU/Stadtwerke=集体市立资本）**：其交付进来的方案件在公共采购规范光照内——纪律只谈 prego 自身企业 IT 与私营侧面，明示不碰其 Stadtwerke 交付线
-- 【假设】13 人精益+SAP 级专业=其自身内部 infra 小量无需大谈，窄位低优先客观
+- 【事实】prego services GmbH:prego services GmbH(德国萨尔州 Saarbrücken;**HRB 11703 AG Saarbrücken;183 人/$23.3M**;IT 服务+人员外派(Arbeitnehmerüberlassung)谱;**2025-03 GF Mayerbacher 独任,Tzschoppe-Kölling 退**;Kapper Einkauf 采购位 KPI)
+- 【推断】R66 第 19 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,22 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@prego-services.de [Publicly listed; delivery not tested]; https://www.prego-services.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Mayerbacher**(Geschäftsführer(2025-03 起独任;登记谱))— 登记公告谱(姓氏谱;待核全名) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.northdata.com/〕
+  - **Kapper**(Einkauf(采购主管=落位 KPI))— 公司 LinkedIn 员工谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/〕
+  - **Jennert**(Business Development(商务开发))— 公司 LinkedIn 员工谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/〕
+  - **Alles**(Chief IT Architect(总架))— 公司 LinkedIn 员工谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/〕
+  - **Tzschoppe-Kölling**(原 Geschäftsführer(退位留痕))— 登记公告(留痕) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.northdata.com/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Mayerbacher | Geschäftsführer(2025-03 起独任;登记谱) | 登记公告谱(姓氏谱;待核全名) | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.northdata.com/ |
+| Kapper | Einkauf(采购主管=落位 KPI) | 公司 LinkedIn 员工谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.linkedin.com/ |
+| Jennert | Business Development(商务开发) | 公司 LinkedIn 员工谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.linkedin.com/ |
+| Alles | Chief IT Architect(总架) | 公司 LinkedIn 员工谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.linkedin.com/ |
+| Tzschoppe-Kölling | 原 Geschäftsführer(退位留痕) | 登记公告(留痕) | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.northdata.com/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +146,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第18批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：能源 BPO 专家（Stadtwerke 客墙全谱）；自身 IT 窄位
-- **②芯片/型号**：SAP 生态
-- **③KP 深挖**：info@；自建双 MX（技术自托）
-- **④Saga 对标**：prego 自身 IT value 件（窄位低优先，公共交付线守界）
-- **⑤在乎与偏好**：SAP 级文档
+- **①背景再核**：prego services GmbH(德国萨尔州 Saarbrücken;**HRB 11703 AG Saarbrücken;183 人/$23.3M**;IT 服务+人员外派(Arbeitnehmerüberlassung)谱;**2025-03 GF Mayerbacher 独任,Tzschoppe-Kölling 退**;Kapper Einkauf 采购位 KPI)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Mayerbacher(Geschäftsführer(2025-03 起独任;登记谱),leads-only·待 opt-in(LinkedIn/谱面带核));Kapper(Einkauf(采购主管=落位 KPI),leads-only·待 opt-in(LinkedIn/谱面带核));Jennert(Business Development(商务开发),leads-only·待 opt-in(LinkedIn/谱面带核));Alles(Chief IT Architect(总架),leads-only·待 opt-in(LinkedIn/谱面带核));Tzschoppe-Kölling(原 Geschäftsführer(退位留痕),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：Kapper 采购位直击
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“der Energiemarktdienstleister für Prozess-, System und Digitalisierungslösungen…[referenz logos:] Stadtwerke Saarbrücken, Stadtwerke Heidelberg…Seit über 25 Jahren Partner der Energiewirtschaft”
-  > “der Energiemarktdienstleister für Prozess-, System und Digitalisierungslösungen…[referenz logos:] Stadtwerke Saarbrücken, Stadtwerke Heidelberg…Seit über 25 Jahren Partner der Energiewirtschaft”
-  > 来源：https://prego-services.de/
+- **【决策链与对接人】**HRB 11703 Saarbrücken;03/2025: Geschäftsführer Mayerbacher(独任);nicht mehr: Tzschoppe-Kölling(登记公告件)
+  > HRB 11703 Saarbrücken;03/2025: Geschäftsführer Mayerbacher(独任);nicht mehr: Tzschoppe-Kölling(登记公告件)
+  > 来源：https://www.northdata.com/
+- **【团队与规模】**183 employees;$23.3M revenue;Kapper Einkauf;Jennert BD;Alles Chief IT Architect;Lieb(员工谱条)
+  > 183 employees;$23.3M revenue;Kapper Einkauf;Jennert BD;Alles Chief IT Architect;Lieb(员工谱条)
+  > 来源：https://www.linkedin.com/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：能源 BPO 专家（Stadtwerke 客墙——公共本性）
-- **产品线与在售品牌**：SAP 体系
-- **目标行业与场景**：EVU/Stadtwerke（守界）
-- **团队与规模**：13+ 精益
-- **决策链与对接人**：info@ 口
-- **技术与认证**：SAP 级
-- **采购与供应链信号**：其自身 IT 小量
-- **近期动态与线索**：能源转型内容线
-- **与我方契合点**：prego 自身 IT 窄位（低优先）
-- **风险与注意**：公共客群结构
+- **业务定位**：prego services GmbH(德国萨尔州 Saarbrücken;**HRB 11703 AG Saarbrücken;183 人/$23.3M**;IT 服务+人员外派(Arbeitnehmerüberlassung)谱;**2025-03 GF Mayerbacher 独任,Tzschoppe-Kölling 退**;Kapper Einkauf 采购位 KPI)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国萨尔州 183 人 IT 服务+外派屋
+- **团队与规模**：183 人;$23.3M
+- **决策链与对接人**：**Mayerbacher(Geschäftsführer(2025-03 起独任;登记谱),leads-only·待 opt-in(LinkedIn/谱面带核));Kapper(Einkauf(采购主管=落位 KPI),leads-only·待 opt-in(LinkedIn/谱面带核));Jennert(Business Development(商务开发),leads-only·待 opt-in(LinkedIn/谱面带核));Alles(Chief IT Architect(总架),leads-only·待 opt-in(LinkedIn/谱面带核));Tzschoppe-Kölling(原 Geschäftsführer(退位留痕),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 19 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Mayerbacher 独任+Kapper 采购(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +189,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：专
-- **W**：小+公共
-- **O**：自身
-- **T**：占据
+- **S**：Kapper 采购位直击
+- **W**：外派型谱
+- **O**：Mayerbacher 独任直达位
+- **T**：大厂链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +211,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,8 +220,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 自身 IT 现状
-  - [ ] 私营侧面
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -218,18 +233,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi prego team,
+Guten Tag Herr Mayerbacher,
 
-Twenty-five years deep in the energy market - Microsoft to SAP, process consulting to payroll BPO, for a customer list of Stadtwerke that speaks for itself. (To be explicit: this note concerns prego's own corporate IT only - your Stadtwerke delivery lines are fully out of scope here.)
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW - a value unit for your own office and lab infrastructure, nothing more ambitious.
-
-One question: what currently powers the access layer of prego's own internal IT - and would a documented value alternative be worth a look for your own rack?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

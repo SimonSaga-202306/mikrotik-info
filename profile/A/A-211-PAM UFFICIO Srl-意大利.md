@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】PAM UFFICIO Srl（意大利西西里墨西拿 Tremestieri 区）：办公用品+家具+IT 一页站——Informatica/Office/Cancelleria/Arredamento 四板块；Allied Telesis 名录入口
-- 【推断】办公用品商的 IT 支线=低信号窄位；Allied 名录身份是唯一网络件证据
-- 【假设】墨西拿本地 SMB 交钥匙配套时夹带网络件
+- 【事实】PAM UFFICIO Srl:PAM UFFICIO SRL(意大利 Messina,C.da Filangeri snc(Pistunina);**P.IVA 01261820839;REA ME-113569;1983-07-29 创 43 年;2-5 人;€626-714k(2024;utile €107k,-24% trend)**;办公设备+IT 铺;**MePA 60 项 abilitazioni 大谱(网络设备段已含)**;Amministratore Unico 位在册(atoka 打码条)→公开谱面未点名=**守档准由**)
+- 【推断】R66 第 19 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -132,32 +132,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第22批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：办公用品商 IT 支线（Allied 名录唯一网络证据）
-- **②芯片/型号**：Allied（名录）
-- **③KP 深挖**：info@
-- **④Saga 对标**：支线窄位（低优先）
-- **⑤在乎与偏好**：—
+- **①背景再核**：PAM UFFICIO SRL(意大利 Messina,C.da Filangeri snc(Pistunina);**P.IVA 01261820839;REA ME-113569;1983-07-29 创 43 年;2-5 人;€626-714k(2024;utile €107k,-24% trend)**;办公设备+IT 铺;**MePA 60 项 abilitazioni 大谱(网络设备段已含)**;Amministratore Unico 位在册(atoka 打码条)→公开谱面未点名=**守档准由**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 第 19 波点名(谱面无实名)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：MePA 60 项含网络段=PA 谱窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“INFORMATICA / OFFICE / CANCELLERIA / ARREDAMENTO…info@pamufficio.it…Zona Tremestieri Messina”
-  > “INFORMATICA / OFFICE / CANCELLERIA / ARREDAMENTO…info@pamufficio.it…Zona Tremestieri Messina”
-  > 来源：http://www.pamufficio.it/
+- **【联系方式与基础画像】**P.IVA 01261820839;REA ME113569;C.da Filangeri snc, Messina;costituita 29/07/1983;2-5 dipendenti;fatturato €714.400(2024);utile €107.067;41+ 年谱(fatturatoitalia/atoka 件)
+  > P.IVA 01261820839;REA ME113569;C.da Filangeri snc, Messina;costituita 29/07/1983;2-5 dipendenti;fatturato €714.400(2024);utile €107.067;41+ 年谱(fatturatoitalia/atoka 件)
+  > 来源：https://www.fatturatoitalia.it/pam_ufficio_s_r_l-01261820839
+- **【近期动态与线索】**MePA scheda: 60 abilitazioni(lotto Apparati di rete 含;amministrazionicomunali.it 件)=西西里 PA 谱大户
+  > MePA scheda: 60 abilitazioni(lotto Apparati di rete 含;amministrazionicomunali.it 件)=西西里 PA 谱大户
+  > 来源：https://www.amministrazionicomunali.it/sicilia/messina/pam-ufficio-srl
+- **【决策链与对接人】**Amministratore Unico 在册(atoka 打码条)——公开谱面未见具名=守档准由;2026-10-08 留痕
+  > Amministratore Unico 在册(atoka 打码条)——公开谱面未见具名=守档准由;2026-10-08 留痕
+  > 来源：https://atoka.io/public/it/azienda/pam-ufficio-s-r-l/02e236615994
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：墨西拿办公用品商（IT 支线，Allied 名录）
-- **产品线与在售品牌**：Allied（名录）
-- **目标行业与场景**：区域 SMB/办公
-- **团队与规模**：小型
-- **决策链与对接人**：info@ 口
-- **技术与认证**：—
-- **采购与供应链信号**：目录随单
-- **近期动态与线索**：—
-- **与我方契合点**：IT 支线窄位（低优先）
-- **风险与注意**：低信号
+- **业务定位**：PAM UFFICIO SRL(意大利 Messina,C.da Filangeri snc(Pistunina);**P.IVA 01261820839;REA ME-113569;1983-07-29 创 43 年;2-5 人;€626-714k(2024;utile €107k,-24% trend)**;办公设备+IT 铺;**MePA 60 项 abilitazioni 大谱(网络设备段已含)**;Amministratore Unico 位在册(atoka 打码条)→公开谱面未点名=**守档准由**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：意大利墨西拿 43 年办公+IT 铺(MePA 60 项)
+- **团队与规模**：2-5 人;1983 创
+- **决策链与对接人**：**守档准由;R66 第 19 波点名(谱面无实名)**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 19 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：守档:AU 在册未具名(满锚;待专批点名)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -172,10 +178,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：名录
-- **W**：低
-- **O**：夹带
-- **T**：大牌
+- **S**：MePA 60 项含网络段=PA 谱窗
+- **W**：小实体谱
+- **O**：无守档
+- **T**：—
 
 ## 触达与风险红线
 
@@ -203,8 +209,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] IT 支线深度
-  - [ ] 网络件现供
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -216,18 +222,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi PAM Ufficio team,
+Gentile Direzione,
 
-Office supplies, furniture, and an Informatica line on top - the local turnkey shop for Messina's businesses. One line of honesty from our side: we spotted your name through the Allied Telesis partner locator, so networking hardware may be a quiet corner of your counter.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW - a value unit that could ride along when a turnkey office project needs a network closet.
-
-One question: when an office install needs switching gear, where do you source it today - and would a documented value PoE line be worth a corner in your warehouse?
-
-If useful, I can send one unit plus listing documentation. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

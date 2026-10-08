@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】SSC – Software Servizi Consulting Srl（意大利 Milano 法座+Padova/Lecce 投送，1970 家族根源，ISO 9001：2015）：**软件开发主线**（分析/DBMS/工业研发项目）+IT 运维辅助（1°/2° 级）+**GIS/地理信息/BIM CAD**+卫生服务（CUP 预约/报表/rendicontazioni=国民卫生体系行政包干）;**“presente nel Mercato elettronico della Pubblica Amministrazione MEPA di CONSIP”自述实锤**
-- 【推断】**MEPA-CONSIP 实锤+卫生体系服务+软件咨询主线=公共深度染合**；网络/硬件不在其能力四域里
-- 【假设】BIM/GIS 业务底=工程算力工作站内部网，非项目对外件——真正触点变得极薄
+- 【事实】SSC – Software Servizi Consulting Srl:SSC – Software Servizi Consulting Srl(意大利;**同名噪声群:Strategia e Sviluppo SSC(智库咨询体,域外)/ System Consulting Mazzoli 体/ SC Software Vigliano(别名体)=均已分层**;档案体谱面未见具名决策人+锚未锁→**守档准由**;R66 波次二点名待对位)
+- 【推断】R66 第 19 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -134,32 +134,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第22批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：软件/卫生行政商（MEPA-CONSIP 实锤；能力四域无网络件）
-- **②芯片/型号**：—
-- **③KP 深挖**：info@
-- **④Saga 对标**：塔口诚实一针
+- **①背景再核**：SSC – Software Servizi Consulting Srl(意大利;**同名噪声群:Strategia e Sviluppo SSC(智库咨询体,域外)/ System Consulting Mazzoli 体/ SC Software Vigliano(别名体)=均已分层**;档案体谱面未见具名决策人+锚未锁→**守档准由**;R66 波次二点名待对位)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 第 19 波点名(谱面无实名)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
 - **⑤在乎与偏好**：—
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“è presente nel Mercato elettronico della Pubblica Amministrazione MEPA di CONSIP…Gestione di Sistemi Territoriali (GIS/BIM)…Servizio di prenotazione CUP”
-  > “è presente nel Mercato elettronico della Pubblica Amministrazione MEPA di CONSIP…Gestione di Sistemi Territoriali (GIS/BIM)…Servizio di prenotazione CUP”
-  > 来源：http://www.ssc.srl/
+- **【决策链与对接人】**公开谱面未见具名决策人=守档准由(SSC 三字母同名群大;档案全名 Software Servizi Consulting 检索未锁锚);2026-10-08 留痕
+  > 公开谱面未见具名决策人=守档准由(SSC 三字母同名群大;档案全名 Software Servizi Consulting 检索未锁锚);2026-10-08 留痕
+  > 来源：https://www.google.com/search?q=%22SSC+Software+Servizi+Consulting%22
+- **【近期动态与线索】**R66 19 波档案点名:SSC 全名谱锚待专批锁定(异体群已分层)
+  > R66 19 波档案点名:SSC 全名谱锚待专批锁定(异体群已分层)
+  > 来源：https://www.google.com/search?q=%22SSC+Software+Servizi+Consulting+Srl%22
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：Milano 软件/卫生行政商（MEPA-CONSIP 实锤）
-- **产品线与在售品牌**：—
-- **目标行业与场景**：PA+卫生（主体，守界）
-- **团队与规模**：中型三地
-- **决策链与对接人**：info@ 口
-- **技术与认证**：ISO9001:2015
-- **采购与供应链信号**：公共招标体系
-- **近期动态与线索**：—
-- **与我方契合点**：几乎无网络件对口——**本批最低触点，信内诚实钉或bitskip**
-- **风险与注意**：公共主权
+- **业务定位**：SSC – Software Servizi Consulting Srl(意大利;**同名噪声群:Strategia e Sviluppo SSC(智库咨询体,域外)/ System Consulting Mazzoli 体/ SC Software Vigliano(别名体)=均已分层**;档案体谱面未见具名决策人+锚未锁→**守档准由**;R66 波次二点名待对位)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：意大利 SSC 谱(锚待锁)
+- **团队与规模**：守档案
+- **决策链与对接人**：**守档准由;R66 第 19 波点名(谱面无实名)**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 19 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：守档:锚谱未锁(专批待)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -175,8 +178,8 @@ updated: 2026-09-28
 ## SWOT
 
 - **S**：—
-- **W**：主权
-- **O**：一角
+- **W**：短名噪声谱
+- **O**：无守档
 - **T**：—
 
 ## 触达与风险红线
@@ -205,7 +208,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 是否有内部网络自选
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -217,18 +221,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi SSC team,
+Gentile Direzione,
 
-A company four-square on software, GIS/BIM, and public-sector services - one honest line from our side before anything else: networking hardware does not appear among your four capability blocks, so this is a one-line-no-more note.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW. Where it could conceivably matter for you: the internal switching behind your three offices' own IT benches - nothing more.
-
-One question: if any internal network gear is ever chosen at your desk, which brand holds it - and is a documented value unit worth a note in the drawer?
-
-If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

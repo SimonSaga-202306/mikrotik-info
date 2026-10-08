@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】IFI Consulting Srl（意大利摩德纳 059）：security/infrastructure/digital-transformation 咨询集成；**伙伴墙 27 牌（Cisco Partner/CheckPoint/PaloAlto/Fortinet/Sophos/Stormshield/Huawei/HPE/DellEMC/AWS/Veeam/Commvault/CyberArk/Wallix/Splunk/Ivanti/Lenovo/Microsoft/Parallels/A10/VMware/…+Yealink 话音）**；**OT Security Suite 专页**=工业 OT 段
-- 【推断】27 牌墙=大牌生态内运营者；其 Infrastructure 支线的接入层=value 缝窄位（大牌之下）；Yealink=VoIP 支线在墙
-- 【假设】OT Security Suite 显示其在工业场景 OT 网段护航——工业段接入件需求工况隐含
+- 【事实】IFI Consulting Srl:IFI Consulting Srl(意大利 Modena(摩德纳),Via F. Lamborghini 79(现)+Via Zucchi 31(旧)双址留痕;**51-200 人/$7.4M**;**Allied Telesis 伙伴页+Arcserve 页伙伴双谱=网络件链谱**;Emanuela Rossi(arcserve 页具名联络=O)+Director 谱(Anghoura,zoominfo 谱面)
+- 【推断】R66 第 19 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,16 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：assistenza@ificonsulting.eu [官网正文公开邮箱]; https://www.ificonsulting.eu
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Emanuela Rossi**(合作伙伴页具名联络(厂商页 O))— arcserve 伙伴页(O) 〔已有(公司官方公开件/登记册自曝);源:https://www.arcserve.com/〕
+  - **Director 谱(Anghoura 姓氏条)**(Director(zoominfo 谱面条;全名待核))— zoominfo 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.zoominfo.com/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Emanuela Rossi | 合作伙伴页具名联络(厂商页 O) | arcserve 伙伴页(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.arcserve.com/ |
+| Director 谱(Anghoura 姓氏条) | Director(zoominfo 谱面条;全名待核) | zoominfo 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.zoominfo.com/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +140,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第21批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：安全/基础架构集成（27 牌墙+Yealink+OT 线）
-- **②芯片/型号**：大牌墙+Yealink
-- **③KP 深挖**：assistenza@
-- **④Saga 对标**：接入层 value 缝（大牌墙之下）
-- **⑤在乎与偏好**：集成级文档
+- **①背景再核**：IFI Consulting Srl(意大利 Modena(摩德纳),Via F. Lamborghini 79(现)+Via Zucchi 31(旧)双址留痕;**51-200 人/$7.4M**;**Allied Telesis 伙伴页+Arcserve 页伙伴双谱=网络件链谱**;Emanuela Rossi(arcserve 页具名联络=O)+Director 谱(Anghoura,zoominfo 谱面)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Emanuela Rossi(合作伙伴页具名联络(厂商页 O),official-self-published·谱/leads-only(直发需 opt-in));Director 谱(Anghoura 姓氏条)(Director(zoominfo 谱面条;全名待核),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：Allied 伙伴=网络件同营谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“security / service & support / infrastructure…OT Security Suite…[伙伴墙 27 牌:] Cisco Partner, PaloAlto, Fortinet…Yealink”
-  > “security / service & support / infrastructure…OT Security Suite…[伙伴墙 27 牌:] Cisco Partner, PaloAlto, Fortinet…Yealink”
-  > 来源：https://www.ificonsulting.eu/
+- **【决策链与对接人】**Emanuela Rossi(arcserve partner locator 具名);Director: Anghoura 姓氏条(zoominfo 谱面)
+  > Emanuela Rossi(arcserve partner locator 具名);Director: Anghoura 姓氏条(zoominfo 谱面)
+  > 来源：https://www.arcserve.com/
+- **【联系方式与基础画像】**Via F. Lamborghini 79 Modena(现址);旧址 Via Carlo Zucchi 31 留痕;51-200 dipendenti;$7.4M;Allied Telesis 伙伴谱(伙伴页/规模件)
+  > Via F. Lamborghini 79 Modena(现址);旧址 Via Carlo Zucchi 31 留痕;51-200 dipendenti;$7.4M;Allied Telesis 伙伴谱(伙伴页/规模件)
+  > 来源：https://www.alliedtelesis.com/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：摩德纳安全/基础架构集成（多 BU）
-- **产品线与在售品牌**：27 大牌+Yealink
-- **目标行业与场景**：企业+OT 工业
-- **团队与规模**：中型多城
-- **决策链与对接人**：assistenza@ 口
-- **技术与认证**：伙伴级
-- **采购与供应链信号**：随单
-- **近期动态与线索**：MyIFI 门户
-- **与我方契合点**：Infrastructure 支线接入层 value 缝
-- **风险与注意**：大牌墙
+- **业务定位**：IFI Consulting Srl(意大利 Modena(摩德纳),Via F. Lamborghini 79(现)+Via Zucchi 31(旧)双址留痕;**51-200 人/$7.4M**;**Allied Telesis 伙伴页+Arcserve 页伙伴双谱=网络件链谱**;Emanuela Rossi(arcserve 页具名联络=O)+Director 谱(Anghoura,zoominfo 谱面)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：意大利摩德纳 IT 集成屋(Allied/Arcserve 双伙伴)
+- **团队与规模**：51-200 人;$7.4M
+- **决策链与对接人**：**Emanuela Rossi(合作伙伴页具名联络(厂商页 O),official-self-published·谱/leads-only(直发需 opt-in));Director 谱(Anghoura 姓氏条)(Director(zoominfo 谱面条;全名待核),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 19 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Emanuela Rossi 位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +183,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：多城
-- **W**：墙
-- **O**：缝
-- **T**：大牌
+- **S**：Allied 伙伴=网络件同营谱
+- **W**：中实体谱
+- **O**：Rossi 联络直达位
+- **T**：Allied 自家链谱
 
 ## 触达与风险红线
 
@@ -196,7 +205,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,9 +214,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] access 层现牌
-  - [ ] OT 接入需求
-  - [ ] 单价敏感
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,18 +227,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi IFI Consulting team,
+Gentile Sig.ra Rossi,
 
-A 27-vendor wall - Cisco, Palo Alto, Fortinet, Yealink - and an OT Security line for industrial sites. When the engagement reaches the wiring closet, the access switch is rarely the headline vendor, which is exactly the layer we service.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW - a documented value unit for the access layer in your infrastructure projects, beside your marquee brands and never against them.
-
-One question: in your infrastructure or OT-security projects, which switch brand holds the gigabit access layer today - and would a documented value alternative earn a bench test?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

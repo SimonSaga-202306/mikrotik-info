@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】SOTECH srl（意大利 Brescia 布雷西亚，团队 20 年 know-how）：**MSP 结构明确**——Servizi Gestiti 24/7 监控/咨询（HW/SW fornitura+file audit+reti nuova installazione）/Business Continuity/Backup on-premise e cloud/**Fornitura hardware（PMI 小站到大厂 IT 部门两侧自述）**；**团队四人全具名：Luca Paganin/Stefano Ferrari/Stefano Rolfi/Andrea Vanelli**；Sotech 自己说“recente ma i suoi professionisti no”
-- 【推断】**“Fornitura hardware PMI 大企两侧”+reti nuova installazione 自述=het 关键随单服务块**；MSP 月费模式=其设备全生命周期运营+鳍网责任→value 件管理成本优势直接挂钩其 SLA 成本
-- 【假设】Brescia 机械谷的 PMI 客户=工位/办公混合场景增支大热
+- 【事实】SOTECH srl:SOTECH SRL(意大利 Brescia;法址 Via Achille Grandi 43/B(BS)+运营址 Via San Felice 15/A Calvisano(BS)**;**IT 管理服务铺(24/7 远程监控+server/workstation 管理+PMI 谱)」;**官网团页全谱:Luca Paganin+Stefano Ferrari+Stefano Rolfi+Andrea Vanelli(20 年 know-how 聚合谱)**)
+- 【推断】R66 第 19 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,20 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@sotech.srl（官网正文公开；未验证投递）；原入口：见 alliedtelesis.com 伙伴页
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Luca Paganin**(团队首谱(官网团页自署))— sotech.srl 官网团页(O) 〔已有(公司官方公开件/登记册自曝);源:https://www.sotech.srl/〕
+  - **Stefano Ferrari**(团队谱(官网团页))— sotech.srl 官网团页(O) 〔已有(公司官方公开件/登记册自曝);源:https://www.sotech.srl/〕
+  - **Stefano Rolfi**(团队谱(官网团页))— sotech.srl 官网团页(O) 〔已有(公司官方公开件/登记册自曝);源:https://www.sotech.srl/〕
+  - **Andrea Vanelli**(团队谱(官网团页))— sotech.srl 官网团页(O) 〔已有(公司官方公开件/登记册自曝);源:https://www.sotech.srl/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Luca Paganin | 团队首谱(官网团页自署) | sotech.srl 官网团页(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.sotech.srl/ |
+| Stefano Ferrari | 团队谱(官网团页) | sotech.srl 官网团页(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.sotech.srl/ |
+| Stefano Rolfi | 团队谱(官网团页) | sotech.srl 官网团页(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.sotech.srl/ |
+| Andrea Vanelli | 团队谱(官网团页) | sotech.srl 官网团页(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.sotech.srl/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -135,32 +145,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第22批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：Brescia MSP（fornitura 主动买货=核心价值缺口）
-- **②芯片/型号**：—
-- **③KP 深挖**：四人具名最大可能 Paganin
-- **④Saga 对标**：MSP fornitura value 件
-- **⑤在乎与偏好**：SLA 成本挂钩文档
+- **①背景再核**：SOTECH SRL(意大利 Brescia;法址 Via Achille Grandi 43/B(BS)+运营址 Via San Felice 15/A Calvisano(BS)**;**IT 管理服务铺(24/7 远程监控+server/workstation 管理+PMI 谱)」;**官网团页全谱:Luca Paganin+Stefano Ferrari+Stefano Rolfi+Andrea Vanelli(20 年 know-how 聚合谱)**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Luca Paganin(团队首谱(官网团页自署),official-self-published·谱/leads-only(直发需 opt-in));Stefano Ferrari(团队谱(官网团页),official-self-published·谱/leads-only(直发需 opt-in));Stefano Rolfi(团队谱(官网团页),official-self-published·谱/leads-only(直发需 opt-in));Andrea Vanelli(团队谱(官网团页),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：团页 O 级全谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Servizi gestiti…monitoraggio 24/7…Fornitura hardware: Gestione server e workstation per PMI con poche postazioni, per grandi aziende con reparto IT interno…nuova installazione reti di computer”
-  > “Servizi gestiti…monitoraggio 24/7…Fornitura hardware: Gestione server e workstation per PMI con poche postazioni, per grandi aziende con reparto IT interno…nuova installazione reti di computer”
+- **【决策链与对接人】**官网「Il nostro team」: Luca Paganin, Stefano Ferrari, Stefano Rolfi, Andrea Vanelli——「Sotech è recente, ma i suoi professionisti no! Vent'anni di know how」(sotech.srl 自署)
+  > 官网「Il nostro team」: Luca Paganin, Stefano Ferrari, Stefano Rolfi, Andrea Vanelli——「Sotech è recente, ma i suoi professionisti no! Vent'anni di know how」(sotech.srl 自署)
+  > 来源：https://www.sotech.srl/
+- **【联系方式与基础画像】**Sede Operativa: Via San Felice 15/A, 25012 Calvisano(BS);Sede Legale: Via Achille Grandi 43/B, 25125 Brescia;info@sotech.srl;+39 030 23 30 226;servizi gestiti 24/7(官网件)
+  > Sede Operativa: Via San Felice 15/A, 25012 Calvisano(BS);Sede Legale: Via Achille Grandi 43/B, 25125 Brescia;info@sotech.srl;+39 030 23 30 226;servizi gestiti 24/7(官网件)
   > 来源：https://www.sotech.srl/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：Brescia MSP（HW fornitura 为菜单核心块）
-- **产品线与在售品牌**：—
-- **目标行业与场景**：Brescia 机械谷 PMI 小站→大企 IT 部两侧
-- **团队与规模**：四人具名
-- **决策链与对接人**：Luca Paganin 具名核心
-- **技术与认证**：—
-- **采购与供应链信号**：**HW fornitura 自述=餐厅主动买货**
-- **近期动态与线索**：24/7 监控上线
-- **与我方契合点**：MSP 的 fornitura 块 value 量件（$180 锚点直接对 PMI 报价结构）
-- **风险与注意**：
+- **业务定位**：SOTECH SRL(意大利 Brescia;法址 Via Achille Grandi 43/B(BS)+运营址 Via San Felice 15/A Calvisano(BS)**;**IT 管理服务铺(24/7 远程监控+server/workstation 管理+PMI 谱)」;**官网团页全谱:Luca Paganin+Stefano Ferrari+Stefano Rolfi+Andrea Vanelli(20 年 know-how 聚合谱)**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：意大利布雷西亚 IT 管理服务铺(4 人团)
+- **团队与规模**：小谱;20 年 know-how
+- **决策链与对接人**：**Luca Paganin(团队首谱(官网团页自署),official-self-published·谱/leads-only(直发需 opt-in));Stefano Ferrari(团队谱(官网团页),official-self-published·谱/leads-only(直发需 opt-in));Stefano Rolfi(团队谱(官网团页),official-self-published·谱/leads-only(直发需 opt-in));Andrea Vanelli(团队谱(官网团页),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 19 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Paganin 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -175,10 +188,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：主动采购
-- **W**：未定
-- **O**：硬缺口
-- **T**：大牌
+- **S**：团页 O 级全谱
+- **W**：微实体谱
+- **O**：Paganin 首谱直达位
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -197,7 +210,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -206,9 +219,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] fornitura 现牌
-  - [ ] 月站量
-  - [ ] 付款结构
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -220,18 +232,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Luca,
+Gentile Sig. Paganin,
 
-Hardware supply for PMI with a handful of seats on one side, corporate IT departments on the other - the fornitura block on your service wall is a real buying line, not a page decoration. And a 24/7 managed bench makes every remote switch reboot a cost line you know personally.
-
-We manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog auto-reboot) with full documentation. Reference: $180 USD EXW - a value unit that prices cleanly into a PMI quotation and reboots itself at night so your on-call desk does not.
-
-One question: which switch brand does your fornitura block hold today - and would a documented value alternative earn a bench test?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Net System Innovazione srl（意大利 Cuneo Vignolo，Via Cuneo 36/a）：SMB IT 服务——在场+远程协助（monitoraggio/manutenzione/interventi/report）+自研 **NSGest**（数字化转型/fatturazione/commesse/magazzino/ticket）+解决方案（sicurezza/digitalizzazione/cloud privato/**networking**/virtualizzazione/backup/telefonia/**videosorveglianza/controllo accessi**）
-- 【推断】自研 NSGest+服务全谱=皮埃蒙特 SMB 管家；networking 在 menu
-- 【假设】自研 ERP 文化=对 OEM 文档天然友善；其 SMB 随单件流
+- 【事实】Net System Innovazione srl:NET SYSTEM INNOVAZIONE SRL(意大利 Vignolo(库内奥),Via Cuneo 36/A;**P.IVA 03886990047;2020 创;0-9 人;€963k(2024,-;utile €71-78k,7.4%);电脑/周边/软件零售铺;MePA 2024 Abilitato(视频监控/门禁/入侵标段)=市政谱**;公开谱面未见具名决策人→**守档准由**)
+- 【推断】R66 第 19 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -134,32 +134,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第21批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：Cuneo SMB IT（自研 NSGest+服务谱随单）
-- **②芯片/型号**：未明
-- **③KP 深挖**：info@/support@
-- **④Saga 对标**：SMB 谱随单 value 件
-- **⑤在乎与偏好**：文档
+- **①背景再核**：NET SYSTEM INNOVAZIONE SRL(意大利 Vignolo(库内奥),Via Cuneo 36/A;**P.IVA 03886990047;2020 创;0-9 人;€963k(2024,-;utile €71-78k,7.4%);电脑/周边/软件零售铺;MePA 2024 Abilitato(视频监控/门禁/入侵标段)=市政谱**;公开谱面未见具名决策人→**守档准由**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 第 19 波点名(谱面无实名)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：MePA 视频监控段=边界谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“ASSISTENZA in azienda e da remoto…NSGest…SOLUZIONI: sicurezza, networking, cloud privato, videosorveglianza…”
-  > “ASSISTENZA in azienda e da remoto…NSGest…SOLUZIONI: sicurezza, networking, cloud privato, videosorveglianza…”
-  > 来源：https://nsi.srl/
+- **【联系方式与基础画像】**P.IVA 03886990047;Via Cuneo 36/A Vignolo(CN);costituita 2020;0-9 dipendenti;fatturato €963k(2024);utile €71.4k(registroaziende/reportaziende 件)
+  > P.IVA 03886990047;Via Cuneo 36/A Vignolo(CN);costituita 2020;0-9 dipendenti;fatturato €963k(2024);utile €71.4k(registroaziende/reportaziende 件)
+  > 来源：https://registroaziende.it/azienda/net-system-innovazione-srl-vignolo
+- **【决策链与对接人】**公开谱面未见具名决策人=守档准由(ReportAziende 治理位打码条,未点名);2026-10-08 留痕
+  > 公开谱面未见具名决策人=守档准由(ReportAziende 治理位打码条,未点名);2026-10-08 留痕
+  > 来源：https://www.reportaziende.it/net_system_innovazione_srl_cn
+- **【近期动态与线索】**MePA 2024: lotto Videosorveglianza/controllo accessi/antintrusione Abilitato(amministrazionicomunali.it 件)
+  > MePA 2024: lotto Videosorveglianza/controllo accessi/antintrusione Abilitato(amministrazionicomunali.it 件)
+  > 来源：https://www.amministrazionicomunali.it/piemonte/vignolo/net-system-innovazione
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：Cuneo SMB IT（自研 NSGest+服务谱）
-- **产品线与在售品牌**：谱件
-- **目标行业与场景**：区域 SMB
-- **团队与规模**：小型
-- **决策链与对接人**：info@/support@
-- **技术与认证**：—
-- **采购与供应链信号**：随单
-- **近期动态与线索**：NSGest 线
-- **与我方契合点**：SMB 谱随单 value 件（OEM 文档友善）
-- **风险与注意**：
+- **业务定位**：NET SYSTEM INNOVAZIONE SRL(意大利 Vignolo(库内奥),Via Cuneo 36/A;**P.IVA 03886990047;2020 创;0-9 人;€963k(2024,-;utile €71-78k,7.4%);电脑/周边/软件零售铺;MePA 2024 Abilitato(视频监控/门禁/入侵标段)=市政谱**;公开谱面未见具名决策人→**守档准由**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：意大利库内奥 0-9 人 IT 零售铺(MePA 谱)
+- **团队与规模**：0-9 人;€963k
+- **决策链与对接人**：**守档准由;R66 第 19 波点名(谱面无实名)**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 19 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：守档:谱面无实名(锚全;待专批点名)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +180,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：自研
-- **W**：体量
-- **O**：随单
-- **T**：大牌
+- **S**：MePA 视频监控段=边界谱
+- **W**：微实体谱
+- **O**：无守档
+- **T**：—
 
 ## 触达与风险红线
 
@@ -205,9 +211,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 接入现供
-  - [ ] OEM 接受度
-  - [ ] 量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,18 +224,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Net System team,
+Gentile Direzione,
 
-An MSP that writes its own management software (NSGest) obviously tables everything - assistenza, private cloud, videosorveglianza, networking. Every SMB site on that list ends with a switch closet decision.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW - a value unit for your SMB networking and security rollouts.
-
-One question: in your assistenza and sicurezza projects, which switch brand holds the access layer today - and would a documented OEM alternative match your build-it-yourself mindset?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】GECOPRA SRL（意大利那坡里总部，1988 年创，5 代工程家传，50+ 人，全国六点 Milano/Torino/Roma/Foggia/Palermo）：**电信工程承包商**——技术设备安装维保+**TLC 光纤与无线电方案**+videosorveglianza+特殊系统+**GPS Train and Locator 专利（铁路车辆定位）**
-- 【推断】**GPS Train 专利=铁路谱系客户（守界段：RFI/Trenitalia 等公营买方）**；TLC/视频工程的商业段主打；光纤+无线工程=随单接入件活跃
-- 【假设】五点全国结构=工程口径大，备件随单是实打实的量
+- 【事实】GECOPRA SRL:GECOPRA SRL(意大利 Napoli(那不勒斯),Via Francesco Provenzale;**1988 创;28 人**;**EL.C.I. Impianti 集团谱:Massimo Caronte Presidente+Simona Caronte CEO+Francesco Palmieri/+Marcello Caronte/Ivan Cimmino 董事会;新加坡 F1 赛道照明维护=国际谱**;分位谱:Davide Cimmino Direttore Generale+Lorenzo Tornatore CTO+Lucia Cimmino Purchasing(采购 KPI!))
+- 【推断】R66 第 19 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,22 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@gecopra.it [Publicly listed; delivery not tested]; https://gecopra.it
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Davide Cimmino**(Direttore Generale Gecopra(分谱 DG=落位最合))— 集团/谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.gecopra.it/〕
+  - **Lorenzo Tornatore**(CTO(技术口))— 集团/谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.gecopra.it/〕
+  - **Lucia Cimmino**(Purchasing Officer(采购 KPI 直达))— 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/〕
+  - **Massimo Caronte**(Presidente(集团层面))— ELCI/谱面件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.gecopra.it/〕
+  - **Simona Caronte**(CEO(集团层面))— ELCI/谱面件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.gecopra.it/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Davide Cimmino | Direttore Generale Gecopra(分谱 DG=落位最合) | 集团/谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.gecopra.it/ |
+| Lorenzo Tornatore | CTO(技术口) | 集团/谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.gecopra.it/ |
+| Lucia Cimmino | Purchasing Officer(采购 KPI 直达) | 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.linkedin.com/ |
+| Massimo Caronte | Presidente(集团层面) | ELCI/谱面件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.gecopra.it/ |
+| Simona Caronte | CEO(集团层面) | ELCI/谱面件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.gecopra.it/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +146,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第20批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：1988 TLC 工程承包（铁路谱系守界；全国六点）
-- **②芯片/型号**：工程级
-- **③KP 深挖**：info@
-- **④Saga 对标**：商业工程随单 value 件（铁路守界）
-- **⑤在乎与偏好**：工程级文档
+- **①背景再核**：GECOPRA SRL(意大利 Napoli(那不勒斯),Via Francesco Provenzale;**1988 创;28 人**;**EL.C.I. Impianti 集团谱:Massimo Caronte Presidente+Simona Caronte CEO+Francesco Palmieri/+Marcello Caronte/Ivan Cimmino 董事会;新加坡 F1 赛道照明维护=国际谱**;分位谱:Davide Cimmino Direttore Generale+Lorenzo Tornatore CTO+Lucia Cimmino Purchasing(采购 KPI!))
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Davide Cimmino(Direttore Generale Gecopra(分谱 DG=落位最合),leads-only·待 opt-in(LinkedIn/谱面带核));Lorenzo Tornatore(CTO(技术口),leads-only·待 opt-in(LinkedIn/谱面带核));Lucia Cimmino(Purchasing Officer(采购 KPI 直达),leads-only·待 opt-in(LinkedIn/谱面带核));Massimo Caronte(Presidente(集团层面),leads-only·待 opt-in(LinkedIn/谱面带核));Simona Caronte(CEO(集团层面),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：Purchasing Officer 具名=采购直达
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“nasce nel 1988, specializzata nella progettazione, realizzazione, manutenzione…soluzioni innovative nelle TLC su FO e radio, Videosorveglianza…brevetto per la realizzazione di un sistema GPS Train e Locator”
-  > “nasce nel 1988, specializzata nella progettazione, realizzazione, manutenzione…soluzioni innovative nelle TLC su FO e radio, Videosorveglianza…brevetto per la realizzazione di un sistema GPS Train e Locator”
-  > 来源：https://gecopra.it/
+- **【决策链与对接人】**Gecopra division: Davide Cimmino DG;Lorenzo Tornatore CTO;Lucia Cimmino Purchasing Officer;集团谱: Massimo Caronte Presidente + Simona Caronte CEO(集团/谱面条)
+  > Gecopra division: Davide Cimmino DG;Lorenzo Tornatore CTO;Lucia Cimmino Purchasing Officer;集团谱: Massimo Caronte Presidente + Simona Caronte CEO(集团/谱面条)
+  > 来源：https://www.gecopra.it/
+- **【联系方式与基础画像】**fondata 1988;28 dipendenti;Napoli;manutenzione illuminazione circuito F1 Singapore(国际谱件)
+  > fondata 1988;28 dipendenti;Napoli;manutenzione illuminazione circuito F1 Singapore(国际谱件)
+  > 来源：https://www.gecopra.it/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：那坡里 TLC 工程承包（铁路谱系守界）
-- **产品线与在售品牌**：工程级
-- **目标行业与场景**：商业（主）+铁路（守界）
-- **团队与规模**：50+ 六点
-- **决策链与对接人**：info@ 口
-- **技术与认证**：专利级
-- **采购与供应链信号**：工程随单
-- **近期动态与线索**：GPS Train 专利
-- **与我方契合点**：TLC/视频工程随单 value 件（商业段）
-- **风险与注意**：铁路公共段
+- **业务定位**：GECOPRA SRL(意大利 Napoli(那不勒斯),Via Francesco Provenzale;**1988 创;28 人**;**EL.C.I. Impianti 集团谱:Massimo Caronte Presidente+Simona Caronte CEO+Francesco Palmieri/+Marcello Caronte/Ivan Cimmino 董事会;新加坡 F1 赛道照明维护=国际谱**;分位谱:Davide Cimmino Direttore Generale+Lorenzo Tornatore CTO+Lucia Cimmino Purchasing(采购 KPI!))
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：意大利那不勒斯 1988 创工程屋(集团谱)
+- **团队与规模**：28 人;1988 创
+- **决策链与对接人**：**Davide Cimmino(Direttore Generale Gecopra(分谱 DG=落位最合),leads-only·待 opt-in(LinkedIn/谱面带核));Lorenzo Tornatore(CTO(技术口),leads-only·待 opt-in(LinkedIn/谱面带核));Lucia Cimmino(Purchasing Officer(采购 KPI 直达),leads-only·待 opt-in(LinkedIn/谱面带核));Massimo Caronte(Presidente(集团层面),leads-only·待 opt-in(LinkedIn/谱面带核));Simona Caronte(CEO(集团层面),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 19 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Cimmino DG 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +189,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：滚动
-- **W**：墙
-- **O**：随单
-- **T**：大牌
+- **S**：Purchasing Officer 具名=采购直达
+- **W**：集团子谱
+- **O**：Cimmino DG+Tornatore CTO 双位
+- **T**：集团链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +211,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,9 +220,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 接入现供
-  - [ ] 六点结构
-  - [ ] 备件通道
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,18 +233,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Gecopra team,
+Gentile Ing. Cimmino,
 
-Five generations of engineering, six offices from Naples to Milan, and a patented GPS Train locator on the shelf - your TLC and videosorveglianza work covers Italy end to end. (For clarity: this note concerns your commercial engagements only; any railway-spectrum projects stay fully out of scope.)
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full engineering documentation. Reference: $180 USD EXW - a value unit for the access layer inside your commercial FO and radio projects.
-
-One question: in your commercial TLC and surveillance projects, which switch brand holds the access layer today - and would a documented value alternative earn a bench test?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

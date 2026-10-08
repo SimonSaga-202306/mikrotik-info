@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】CONNECT ICS S.R.L.（意大利普利亚 Lecce 圈）：SMB IT 全谱——Networking&Telefonia（LAN 结构化布线/WiFi/防火墙）/IT 安全/打印/Web 服务/**办公家具**/视频监控+ScanFACE 门禁考勤三合一；伙伴 **Eset/WatchGuard/Acronis/Imagicle/Yeastar/HPE Business Partner/Dell/Expert**；工单 helpdesk 系统运营
-- 【推断】Yeastar PBX 伙伴=意大利版深 SMB 通信同盟（同 Auerswald）；办公家具线=arredo ufficio chiavi in mano 文化
-- 【假设】其“办公全配套”模式里网络件随单量大；ScanFACE 门禁=PoE 终端直连
+- 【事实】CONNECT ICS S.R.L:CONNECT ICS S.R.L(意大利 Lecce(萨伦托);**P.IVA 04541830750;2013 创;11 人**;**Mancarella Daniele 技术总监(DT)+Spongano 秘书位;Wildix Bronze Partner 2023(UC 谱);MEPA 谱=市政段守界注记**)
+- 【推断】R66 第 19 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,16 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@connect-ics.it [Publicly listed; delivery not tested]; https://www.connect-ics.it
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Daniele Mancarella**(Direttore Tecnico(DT=技术直达位))— 官网/谱面件 〔已有(公司官方公开件/登记册自曝);源:https://www.connectics.it/〕
+  - **Spongano**(Segreteria(秘书口=礼仪信口))— 谱面件(姓氏) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.connectics.it/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Daniele Mancarella | Direttore Tecnico(DT=技术直达位) | 官网/谱面件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.connectics.it/ |
+| Spongano | Segreteria(秘书口=礼仪信口) | 谱面件(姓氏) | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.connectics.it/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -135,32 +141,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第20批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：普利亚 SMB 全谱（Yeastar/视频门禁随单）
-- **②芯片/型号**：Yeastar/HPE 生态
-- **③KP 深挖**：info@
-- **④Saga 对标**：随单 value 件
-- **⑤在乎与偏好**：意大利语文档
+- **①背景再核**：CONNECT ICS S.R.L(意大利 Lecce(萨伦托);**P.IVA 04541830750;2013 创;11 人**;**Mancarella Daniele 技术总监(DT)+Spongano 秘书位;Wildix Bronze Partner 2023(UC 谱);MEPA 谱=市政段守界注记**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Daniele Mancarella(Direttore Tecnico(DT=技术直达位),official-self-published·谱/leads-only(直发需 opt-in));Spongano(Segreteria(秘书口=礼仪信口),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：Wildix 谱=UC 件链窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Networking e Telefonia: Telefonia - Reti LAN - Reti WiFi - Firewall…Sicurezza e Videosorveglianza…[ partners:] Eset, WatchGuard, Yeastar, HPE Business Partner…”
-  > “Networking e Telefonia: Telefonia - Reti LAN - Reti WiFi - Firewall…Sicurezza e Videosorveglianza…[ partners:] Eset, WatchGuard, Yeastar, HPE Business Partner…”
-  > 来源：https://www.connect-ics.it/
+- **【决策链与对接人】**Daniele Mancarella Direttore Tecnico;segreteria Spongano(官网/谱面条)
+  > Daniele Mancarella Direttore Tecnico;segreteria Spongano(官网/谱面条)
+  > 来源：https://www.connectics.it/
+- **【联系方式与基础画像】**P.IVA 04541830750;Lecce;costituita 2013;11 dipendenti;Wildix Partner 2023;MEPA fornitore abilitato(登记/伙伴件)
+  > P.IVA 04541830750;Lecce;costituita 2013;11 dipendenti;Wildix Partner 2023;MEPA fornitore abilitato(登记/伙伴件)
+  > 来源：https://www.connectics.it/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：普利亚 SMB 全谱商（Yeastar 同盟）
-- **产品线与在售品牌**：Yeastar/HPE/Dell/Expert
-- **目标行业与场景**：区域 SMB
-- **团队与规模**：小型中型
-- **决策链与对接人**：info@ 口
-- **技术与认证**：伙伴级
-- **采购与供应链信号**：随单
-- **近期动态与线索**：PO Puglia 项目
-- **与我方契合点**：网络+视频门禁随单 value 件
-- **风险与注意**：
+- **业务定位**：CONNECT ICS S.R.L(意大利 Lecce(萨伦托);**P.IVA 04541830750;2013 创;11 人**;**Mancarella Daniele 技术总监(DT)+Spongano 秘书位;Wildix Bronze Partner 2023(UC 谱);MEPA 谱=市政段守界注记**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：意大利萨伦托 11 人 UC+网络集成屋
+- **团队与规模**：11 人;2013 创
+- **决策链与对接人**：**Daniele Mancarella(Direttore Tecnico(DT=技术直达位),official-self-published·谱/leads-only(直发需 opt-in));Spongano(Segreteria(秘书口=礼仪信口),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 19 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Mancarella DT 直达(opt-in 律;市政段守界)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -175,10 +184,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：覆盖
-- **W**：体量
-- **O**：随单
-- **T**：大牌
+- **S**：Wildix 谱=UC 件链窗
+- **W**：小实体谱
+- **O**：Mancarella DT 直达位
+- **T**：区域链竞谱;MEPA 守界注
 
 ## 触达与风险红线
 
@@ -201,7 +210,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -210,9 +219,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 接入现供
-  - [ ] 门禁占比
-  - [ ] 量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -224,18 +232,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Connect ICS team,
+Gentile Dott. Mancarella,
 
-From LAN cabling to ScanFACE access control to office furniture - your SMB projects are full-office installs, and every camera and badge reader sits on a PoE switch upstream.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW - a value unit for the network closets inside your Puglia installations.
-
-One question: in your networking and videosorveglianza projects, which switch brand powers the PoE endpoints today - and would a documented value alternative earn a bench test?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

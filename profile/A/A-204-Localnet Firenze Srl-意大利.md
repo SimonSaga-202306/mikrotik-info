@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】LocalNet Firenze Srl（托斯卡纳 Firenze+Livorno 双点，2007 年创，Global Net 全国网）：技术设备 SI 三大块电信/IT/安全；Quaser+Accredia 认证；**伙伴徽章墙实版：Allied Telesis Silver Partner+Omada Silver Partner+华为/Cambium Networks/Siemens/Samsung/Selta/YEASTAR/VOISPEED/Grandstream/MSI**；服务跨布线/光纤/**酒店客房监督自动化（alberghiera）**/WiFi/WiMax 传输/SLA 四档（Basic 24h→VIP 7×24 4h）
-- 【推断】**Allied Silver+Omada Silver 双银=其网络双轨实版**（CSV Allied 信号实锤）；酒店自动化线=酒店客房段 PoE 潜景；SLA 四档=服务营运模式
-- 【假设】托斯卡纳酒店住宿业的网络升级=其 alberghiera 自动化线的接入件随单
+- 【事实】Localnet Firenze Srl:LOCALNET FIRENZE SRL(意大利 Firenze,Via V. Dei Benedetto 64;**2008-02 创(Local Net Toscana 谱);2-10 人;电话/安防/结构化布线工程**;**Alessio Angioli AD(兼 Globalnet italia 技术总监=同铺集团谱)+Simone Azzarri Co-Owner+Riccardo Ridolfi 业主谱;Risco Partner Gold 2022(Wise 分销颁奖照件=具名金谱)**)
+- 【推断】R66 第 19 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,20 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info.firenze@localnettoscana.it [官网正文公开邮箱]; https://www.localnettoscana.it
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Alessio Angioli**(Amministratore Delegato(兼 Globalnet Italia 技术总监=集团谱))— LinkedIn 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/〕
+  - **Simone Azzarri**(Co-Owner(同业主谱;Risco 颁奖照件具名))— globalnetitalia.it 2022 颁奖件 〔已有(公司官方公开件/登记册自曝);源:https://www.globalnetitalia.it/2022/09/29/localnet-firenze-nominato-risco-partner-gold-2022/〕
+  - **Riccardo Ridolfi**(Proprietario(业主谱))— contactout 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://contactout.com/〕
+  - **Luca Chelucci**(Tecnico specializzato(技术谱;颁奖照件具名))— globalnetitalia.it 颁奖件 〔已有(公司官方公开件/登记册自曝);源:https://www.globalnetitalia.it/2022/09/29/localnet-firenze-nominato-risco-partner-gold-2022/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Alessio Angioli | Amministratore Delegato(兼 Globalnet Italia 技术总监=集团谱) | LinkedIn 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.linkedin.com/ |
+| Simone Azzarri | Co-Owner(同业主谱;Risco 颁奖照件具名) | globalnetitalia.it 2022 颁奖件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.globalnetitalia.it/2022/09/29/localnet-firenze-nominato-risco-partner-gold-2022/ |
+| Riccardo Ridolfi | Proprietario(业主谱) | contactout 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://contactout.com/ |
+| Luca Chelucci | Tecnico specializzato(技术谱;颁奖照件具名) | globalnetitalia.it 颁奖件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.globalnetitalia.it/2022/09/29/localnet-firenze-nominato-risco-partner-gold-2022/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +144,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第21批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：托斯卡纳 SI（Allied/Omada 双银实版；酒店自动化线）
-- **②芯片/型号**：Allied/Omada/华为 实版
-- **③KP 深挖**：info.firenze@
-- **④Saga 对标**：双银旁 value 第二轨
-- **⑤在乎与偏好**：徽章级文档
+- **①背景再核**：LOCALNET FIRENZE SRL(意大利 Firenze,Via V. Dei Benedetto 64;**2008-02 创(Local Net Toscana 谱);2-10 人;电话/安防/结构化布线工程**;**Alessio Angioli AD(兼 Globalnet italia 技术总监=同铺集团谱)+Simone Azzarri Co-Owner+Riccardo Ridolfi 业主谱;Risco Partner Gold 2022(Wise 分销颁奖照件=具名金谱)**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Alessio Angioli(Amministratore Delegato(兼 Globalnet Italia 技术总监=集团谱),leads-only·待 opt-in(LinkedIn/谱面带核));Simone Azzarri(Co-Owner(同业主谱;Risco 颁奖照件具名),official-self-published·谱/leads-only(直发需 opt-in));Riccardo Ridolfi(Proprietario(业主谱),leads-only·待 opt-in(LinkedIn/谱面带核));Luca Chelucci(Tecnico specializzato(技术谱;颁奖照件具名),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：Risco Gold 2022=安防通道谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“[badges:] Allied Telesis Silver Partner, Omada Silver Partner, HUAWEI, Cambium Networks…[servizi:] Sistemi di automazione alberghiera…Networking, cablaggio strutturato e apparati attivi”
-  > “[badges:] Allied Telesis Silver Partner, Omada Silver Partner, HUAWEI, Cambium Networks…[servizi:] Sistemi di automazione alberghiera…Networking, cablaggio strutturato e apparati attivi”
-  > 来源：https://www.localnettoscana.it/
+- **【决策链与对接人】**Risco Partner Gold 2022 颁奖照件: Simone Azzarri(Co-Owner)+ Luca Chelucci(tecnico)+ Alessandro Bachi(Wise)+ Risco 官员(globalnetitalia.it 件)
+  > Risco Partner Gold 2022 颁奖照件: Simone Azzarri(Co-Owner)+ Luca Chelucci(tecnico)+ Alessandro Bachi(Wise)+ Risco 官员(globalnetitalia.it 件)
+  > 来源：https://www.globalnetitalia.it/2022/09/29/localnet-firenze-nominato-risco-partner-gold-2022/
+- **【联系方式与基础画像】**Via V. Dei Benedetto 64, 50127 Firenze;fondata febbraio 2008;AD Alessio Angioli(兼 Globalnet Italia);2-10 dipendenti;impianti telefonici/TVCC/antintrusione/cablaggio(LinkedIn/reteimprese 件)
+  > Via V. Dei Benedetto 64, 50127 Firenze;fondata febbraio 2008;AD Alessio Angioli(兼 Globalnet Italia);2-10 dipendenti;impianti telefonici/TVCC/antintrusione/cablaggio(LinkedIn/reteimprese 件)
+  > 来源：https://www.linkedin.com/company/localnet-firenze-srl
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：托斯卡纳 SI（Allied/Omada 双银实版+酒店线）
-- **产品线与在售品牌**：Allied/Omada/华为/Yeastar 等
-- **目标行业与场景**：企业+酒店
-- **团队与规模**：中型双{点
-- **决策链与对接人**：info.firenze@ 口
-- **技术与认证**：Quaser/Accredia+徽章墙
-- **采购与供应链信号**：随单
-- **近期动态与线索**：Omada Silver 2025 新加
-- **与我方契合点**：Allied 旁 value 二线（双银现状并叙）
-- **风险与注意**：Allied 同盟
+- **业务定位**：LOCALNET FIRENZE SRL(意大利 Firenze,Via V. Dei Benedetto 64;**2008-02 创(Local Net Toscana 谱);2-10 人;电话/安防/结构化布线工程**;**Alessio Angioli AD(兼 Globalnet italia 技术总监=同铺集团谱)+Simone Azzarri Co-Owner+Riccardo Ridolfi 业主谱;Risco Partner Gold 2022(Wise 分销颁奖照件=具名金谱)**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：意大利佛罗伦萨 2008 创通信+安防工程铺
+- **团队与规模**：2-10 人;2008 创
+- **决策链与对接人**：**Alessio Angioli(Amministratore Delegato(兼 Globalnet Italia 技术总监=集团谱),leads-only·待 opt-in(LinkedIn/谱面带核));Simone Azzarri(Co-Owner(同业主谱;Risco 颁奖照件具名),official-self-published·谱/leads-only(直发需 opt-in));Riccardo Ridolfi(Proprietario(业主谱),leads-only·待 opt-in(LinkedIn/谱面带核));Luca Chelucci(Tecnico specializzato(技术谱;颁奖照件具名),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 19 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Azzarri 共业主位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +187,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：双银
-- **W**：同盟
-- **O**：二线
-- **T**：大牌
+- **S**：Risco Gold 2022=安防通道谱
+- **W**：小实体谱
+- **O**：Azzarri 同业主直达位
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +209,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,8 +218,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] value 档缝
-  - [ ] 酒店线量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -218,18 +231,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi LocalNet team,
+Gentile Sig. Azzarri,
 
-Two silver badges on the same wall - Allied Telesis and Omada - plus the alberghiera automation line serving Tuscany's hotel stock. When the talk turns to the access layer between those brands, a documented third track deserves a look.
-
-We manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW - a value track beside your Allied and Omada silver lines, including at the hotel-room edge.
-
-One question: in your impianti projects - security, hospitality automation, structured cabling - is the access layer always Allied or Omada, or is there room for a documented value third track?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】quattroSEC GmbH（维也纳）：纯网络安全屋——IaaS/蜜罐/DDoS 缓解/CDN/安全培训，主打奥地利云（数据主权章）
-- 【推断】安全主业不打网络件主线；交换机仅在其托管安全环境的随单位窄位
-- 【假设】其 IaaS/CDN 节点与客户安全改造中偶发接入件需求，窄位低密
+- 【事实】quattroSEC Gmbh:quattroSEC GmbH(奥地利 Zipf/Neukirchen a.d. Vöckla(上奥),Zipf 65 Campus Q+Wien 办;**FN 307862p(LG Wels);UID ATU66721826;2008-04-30 创;cap €35k;IT 安全专营(厂商中立;OWASP 谱)**;**Geschäftsführer Ernst Hofmann(100% 全资=唯一谱主;印谱 O)+Hannes Minimair(退任留痕谱)**
+- 【推断】R66 第 19 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,16 @@ updated: 2026-09-28
 - 来源等级：official-obfuscated（R41–R48 联系方式台账口径）
 - **原始联系字段**：office@quattrosec.com（官网明确(at)可逆还原；非猜测；未验证投递）；原入口：见 alliedtelesis.com 伙伴页
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Ernst Hofmann**(Geschäftsführer(全权唯一;100% Gesellschafter))— quattrosec.com Impressum+northdata 双源 〔已有(公司官方公开件/登记册自曝);源:https://www.quattrosec.com/unternehmen/impressum.html〕
+  - **Hannes Minimair**(原 Geschäftsführer(退任留痕谱))— northdata 件(留痕) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.northdata.com/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Ernst Hofmann | Geschäftsführer(全权唯一;100% Gesellschafter) | quattrosec.com Impressum+northdata 双源 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.quattrosec.com/unternehmen/impressum.html |
+| Hannes Minimair | 原 Geschäftsführer(退任留痕谱) | northdata 件(留痕) | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.northdata.com/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +140,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第23批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：维也纳纯安全屋（官网一手核）
-- **②芯片/型号**：—
-- **③KP 深挖**：office@
-- **④Saga 对标**：窄位随单（$180 锚点一致，低密）
-- **⑤在乎与偏好**：主权/合规
+- **①背景再核**：quattroSEC GmbH(奥地利 Zipf/Neukirchen a.d. Vöckla(上奥),Zipf 65 Campus Q+Wien 办;**FN 307862p(LG Wels);UID ATU66721826;2008-04-30 创;cap €35k;IT 安全专营(厂商中立;OWASP 谱)**;**Geschäftsführer Ernst Hofmann(100% 全资=唯一谱主;印谱 O)+Hannes Minimair(退任留痕谱)**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Ernst Hofmann(Geschäftsführer(全权唯一;100% Gesellschafter),official-self-published·谱/leads-only(直发需 opt-in));Hannes Minimair(原 Geschäftsführer(退任留痕谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：Hofman 全资独任=直达
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**SECURITY SOLUTIONS: IaaS/Honeypot/DDoS/CDN/Trainings——奥地利云数据主权
-  > SECURITY SOLUTIONS: IaaS/Honeypot/DDoS/CDN/Trainings——奥地利云数据主权
-  > 来源：https://www.quattrosec.com
+- **【决策链与对接人】**Geschäftsführer: Ernst Hofmann;Firmenbuchnummer FN 307862p;UID: ATU66721826;Handelsgericht Wels;Shareholder Hofmann 100%(€35.000)(Impressum+kompany/northdata 件)
+  > Geschäftsführer: Ernst Hofmann;Firmenbuchnummer FN 307862p;UID: ATU66721826;Handelsgericht Wels;Shareholder Hofmann 100%(€35.000)(Impressum+kompany/northdata 件)
+  > 来源：https://www.quattrosec.com/unternehmen/impressum.html
+- **【联系方式与基础画像】**Zipf 65 - Campus Q, 4871 Zipf/Neukirchen a.d. Vöckla;gegründet 2008;Schwerpunkt IT-Sicherheit;herstellunabhängig;höchste Verschwiegenheit(印谱/WKO 件)
+  > Zipf 65 - Campus Q, 4871 Zipf/Neukirchen a.d. Vöckla;gegründet 2008;Schwerpunkt IT-Sicherheit;herstellunabhängig;höchste Verschwiegenheit(印谱/WKO 件)
+  > 来源：https://firmen.wko.at/quattrosec-gmbh-quattrosec-gmbh-/ober%C3%B6sterreich/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：维也纳网络安全专业屋
-- **产品线与在售品牌**：（软件/服务为主）
-- **目标行业与场景**：企业安全/云主权
-- **团队与规模**：专业级团队
-- **决策链与对接人**：office@ 口
-- **技术与认证**：奥地利云主权章
-- **采购与供应链信号**：窄位随单
-- **近期动态与线索**：—
-- **与我方契合点**：安全环境随单窄口（低密）
-- **风险与注意**：安全主业、硬件低优先
+- **业务定位**：quattroSEC GmbH(奥地利 Zipf/Neukirchen a.d. Vöckla(上奥),Zipf 65 Campus Q+Wien 办;**FN 307862p(LG Wels);UID ATU66721826;2008-04-30 创;cap €35k;IT 安全专营(厂商中立;OWASP 谱)**;**Geschäftsführer Ernst Hofmann(100% 全资=唯一谱主;印谱 O)+Hannes Minimair(退任留痕谱)**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：奥国上奥 IT 安全专营屋
+- **团队与规模**：小微谱;2008 创
+- **决策链与对接人**：**Ernst Hofmann(Geschäftsführer(全权唯一;100% Gesellschafter),official-self-published·谱/leads-only(直发需 opt-in));Hannes Minimair(原 Geschäftsführer(退任留痕谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 19 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Ernst Hofmann 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +183,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：安全专精
-- **W**：硬件离轴
-- **O**：基建随单
-- **T**：生态壁垒
+- **S**：Hofman 全资独任=直达
+- **W**：微实体谱
+- **O**：Hofmann 唯一直达位
+- **T**：安全专营谱
 
 ## 触达与风险红线
 
@@ -196,7 +205,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,8 +214,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 硬件采购存在
-  - [ ] 节点体量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -218,18 +227,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi quattroSEC team,
+Guten Tag Herr Hofmann,
 
-Honeypots, DDoS mitigation, CDN, IaaS and Austrian-sovereign cloud - a focused security house, not a hardware shop. One honest sentence from our side: we know networking gear is not your headline, so this is a narrow offer.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29).
-
-One question: when a security infrastructure project needs switches at the edge of your Austrian cloud or a client environment, where do you source them today?
-
-If there is occasional room for a documented value line, I send one unit and a listing pack. If not a fit, one line closes the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

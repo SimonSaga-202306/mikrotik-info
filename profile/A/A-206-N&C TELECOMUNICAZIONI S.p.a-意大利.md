@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】N&C S.p.A.（意大利，Tech Innovation Company）：**40+ 年、700 人全球、+23% 2025 营收增长、930+ 认证、820 项目/年**；八大 BU（DC/Cabling/Networking/Cybersecurity/Software&AI/IT&Cloud/Digital Workspace/Managed Services）；行业 Automotive/Education/Energy/Finance/GDO/Healthcare/Manufacturing/PA/Telco/Transport/**Luxury**；私客墙 **Stellantis、Azimut-Benetti（贝尼蒂豪华游艇）、Leasys、CNH、TIM**
-- 【推断】700 人级大集成商按协议价运作（非我方规模甜点）；Networking BU 的 value 档测试宽口已给，不过度承诺；公共段守界
-- 【假设】Luxury 游艇段+运输段+GDO 是其 private 名单里的亮点——豪华游艇建设链的 access 件窄位
+- 【事实】N&C TELECOMUNICAZIONI S.p.a:N&C TELECOMUNICAZIONI S.p.A.(意大利 Veglie(莱切),Via Bosco S.N.;**Allied Telesis 伙伴页具名具址=网络件同营谱**;Antonio Nestola(GESTIONALI 口=管理软件位,LinkedIn 谱);S.p.A. 形制=股份公司谱)
+- 【推断】R66 第 19 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,14 @@ updated: 2026-09-28
 - 来源等级：official-search-only（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@nectlc.com [旧官网搜索索引邮箱；页面404，待核]; https://www.nectlc.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Antonio Nestola**(Gestionali 位(管理软件口;LinkedIn 具名谱))— LinkedIn 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/in/antonio-nestola-6740354a/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Antonio Nestola | Gestionali 位(管理软件口;LinkedIn 具名谱) | LinkedIn 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.linkedin.com/in/antonio-nestola-6740354a/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +138,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第21批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：700 人大型 ICT 集成 8 BU（车企/游艇/GDO 私客；公共段守界）
-- **②芯片/型号**：未明
-- **③KP 深挖**：info@（待核）
-- **④Saga 对标**：Networking BU value 测试窄位（低优先）
-- **⑤在乎与偏好**：—
+- **①背景再核**：N&C TELECOMUNICAZIONI S.p.A.(意大利 Veglie(莱切),Via Bosco S.N.;**Allied Telesis 伙伴页具名具址=网络件同营谱**;Antonio Nestola(GESTIONALI 口=管理软件位,LinkedIn 谱);S.p.A. 形制=股份公司谱)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Antonio Nestola(Gestionali 位(管理软件口;LinkedIn 具名谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：Allied 伙伴页=同营件链
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“700 Risorse nel mondo…40+ Anni di innovazione…820+ Progetti ogni anno…8 Business Unit…Automotive…Luxury…Stellantis, Azimut-Benetti…”
-  > “700 Risorse nel mondo…40+ Anni di innovazione…820+ Progetti ogni anno…8 Business Unit…Automotive…Luxury…Stellantis, Azimut-Benetti…”
-  > 来源：https://www.nectlc.com/
+- **【联系方式与基础画像】**N&C TELECOMUNICAZIONI S.p.A., Via Bosco S.N., Veglie LE 73010;+39 0832 970190(Allied Telesis 伙伴页官谱)
+  > N&C TELECOMUNICAZIONI S.p.A., Via Bosco S.N., Veglie LE 73010;+39 0832 970190(Allied Telesis 伙伴页官谱)
+  > 来源：https://www.alliedtelesis.com/us/en/nc-telecomunicazioni-spa
+- **【决策链与对接人】**Antonio Nestola(GESTIONALI,N&C Telecomunicazioni;可引 7 人@N&C S.p.A.——LinkedIn 谱面条)
+  > Antonio Nestola(GESTIONALI,N&C Telecomunicazioni;可引 7 人@N&C S.p.A.——LinkedIn 谱面条)
+  > 来源：https://www.linkedin.com/in/antonio-nestola-6740354a/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：大型 ICT 集成 8 BU（700 人）
-- **产品线与在售品牌**：全谱
-- **目标行业与场景**：汽车/能源/金融/GDO/医疗/制造/PA（守界）/Luxury
-- **团队与规模**：700
-- **决策链与对接人**：info@（CSV 注待核）
-- **技术与认证**：930+
-- **采购与供应链信号**：项目制
-- **近期动态与线索**：+23% 增长
-- **与我方契合点**：Networking BU value 档测试窄位（低优先）
-- **风险与注意**：体量距+公共段
+- **业务定位**：N&C TELECOMUNICAZIONI S.p.A.(意大利 Veglie(莱切),Via Bosco S.N.;**Allied Telesis 伙伴页具名具址=网络件同营谱**;Antonio Nestola(GESTIONALI 口=管理软件位,LinkedIn 谱);S.p.A. 形制=股份公司谱)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：意大利萨伦托 S.p.A. 电信屋(Allied 谱)
+- **团队与规模**：中型谱
+- **决策链与对接人**：**Antonio Nestola(Gestionali 位(管理软件口;LinkedIn 具名谱),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 19 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Nestola 位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +181,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：体量
-- **W**：体距
-- **O**：Luxury
-- **T**：协议价
+- **S**：Allied 伙伴页=同营件链
+- **W**：中实体谱
+- **O**：Nestola 具名位
+- **T**：Allied 链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +203,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,8 +212,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] Networking BU 采购结构
-  - [ ] value 档缝
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -218,18 +225,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi N&C team,
+Gentile Sig. Nestola,
 
-Eight Business Units, 820 projects a year, from Stellantis's factories to Azimut-Benetti's yacht yards - and a Networking BU where the access layer has to earn its place against the usual suspects. (For clarity: your public-administration engagements stay fully out of scope here.)
-
-We manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW - a documented value unit for the access-layer edge when a project needs a second source. (Mooted realistically: our scale suits selective feeds, not framework-mandated volumes.)
-
-One question: does the Networking BU keep a bench slot for a documented value PoE access line - and would our unit earn a place in that test?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

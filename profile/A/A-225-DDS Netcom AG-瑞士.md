@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】DDS Netcom（瑞士 Fehraltorf 8320）：webshop 主售 Hirschmann/Belden（高端工业 L2）+Kyland（Opal 非管理）+Digi 串口；博客主打'旧工控替换/OT 分割'
-- 【推断】工业网络专柜：Hirschmann 之上贵、Kyland Opal 之下缺中档——二线管理型替补在正面并排
-- 【假设】其替换博客叙事的'中端替补'窄口：管理型 STC-424 或 STI-288GP 非管理硬线
+- 【事实】DDS Netcom AG:DDS NETCOM AG(瑞士 Fehraltorf(苏黎世州),Allmendstrasse 8;**CHE-107.420.295;CH-020.3.002.954-1;1992 创 34 年;AG;Kapital CHF 200k;1-10 人(XING 队谱 7)**;**网络专营(全谱 Netzwerk Produkte/Beratung/Lösungen);Webshop 谱(dds.ch);Geschäftsführer Hanspeter Weingartner(印谱+Kompass+D&B 三源 O)+Reinhard Zesiger BD Industrial Networks+Maja Wittwer Office**)
+- 【推断】R66 第 19 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,18 @@ updated: 2026-09-28
 - 来源等级：official-obfuscated（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@dds.ch（官网明确(at)可逆还原；非猜测；未验证投递）；原入口：见 alliedtelesis.com 伙伴页
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Hanspeter Weingartner**(Geschäftsführer(印谱自署=O))— webshop.dds.ch Impressum+Kompass+D&B 三源 〔已有(公司官方公开件/登记册自曝);源:https://webshop.dds.ch/impressum〕
+  - **Reinhard Zesiger**(Business Development Manager Industrial Networks(工网 BD=落位最合))— XING 队谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.xing.com/pages/ddsnetcomag〕
+  - **Maja Wittwer**(Office-Managerin(行政口))— XING 队谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.xing.com/pages/ddsnetcomag〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Hanspeter Weingartner | Geschäftsführer(印谱自署=O) | webshop.dds.ch Impressum+Kompass+D&B 三源 | official-self-published·谱/leads-only(直发需 opt-in) | https://webshop.dds.ch/impressum |
+| Reinhard Zesiger | Business Development Manager Industrial Networks(工网 BD=落位最合) | XING 队谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.xing.com/pages/ddsnetcomag |
+| Maja Wittwer | Office-Managerin(行政口) | XING 队谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.xing.com/pages/ddsnetcomag |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -135,32 +143,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第23批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：CH 工业网络网店（官网一手核）
-- **②芯片/型号**：Hirschmann/Kyland
-- **③KP 深挖**：info@
-- **④Saga 对标**：中端替补（$180 锚点一致）
-- **⑤在乎与偏好**：瑞士品质/文档
+- **①背景再核**：DDS NETCOM AG(瑞士 Fehraltorf(苏黎世州),Allmendstrasse 8;**CHE-107.420.295;CH-020.3.002.954-1;1992 创 34 年;AG;Kapital CHF 200k;1-10 人(XING 队谱 7)**;**网络专营(全谱 Netzwerk Produkte/Beratung/Lösungen);Webshop 谱(dds.ch);Geschäftsführer Hanspeter Weingartner(印谱+Kompass+D&B 三源 O)+Reinhard Zesiger BD Industrial Networks+Maja Wittwer Office**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Hanspeter Weingartner(Geschäftsführer(印谱自署=O),official-self-published·谱/leads-only(直发需 opt-in));Reinhard Zesiger(Business Development Manager Industrial Networks(工网 BD=落位最合),leads-only·待 opt-in(LinkedIn/谱面带核));Maja Wittwer(Office-Managerin(行政口),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：网络专营+Webshop 谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Webshop: Hirschmann/Belden, Kyland Opal, Digi Serial——Blog: 旧工控设备替换/OT 分割
-  > Webshop: Hirschmann/Belden, Kyland Opal, Digi Serial——Blog: 旧工控设备替换/OT 分割
-  > 来源：https://webshop.dds.ch
+- **【决策链与对接人】**Geschäftsführer: Hanspeter Weingartner;HR CH-020.3.002.954-1;MwSt CHE-107.420.295;DDS NETCOM AG Allmendstr. 8, CH-8320 Fehraltorf;+41 43 355 22 11;info@dds.ch(webshop.dds.ch Impressum 官署)
+  > Geschäftsführer: Hanspeter Weingartner;HR CH-020.3.002.954-1;MwSt CHE-107.420.295;DDS NETCOM AG Allmendstr. 8, CH-8320 Fehraltorf;+41 43 355 22 11;info@dds.ch(webshop.dds.ch Impressum 官署)
+  > 来源：https://webshop.dds.ch/impressum
+- **【联系方式与基础画像】**Gründungsjahr 1992;AG;Kapital CHF 200'000;Team: Zesiger(BD Industrial Networks)+Wittwer(Office)+Patterson(store keeper);Netzwerkbereich Produkte/Beratung/Lösungen(Kompass/XING 件)
+  > Gründungsjahr 1992;AG;Kapital CHF 200'000;Team: Zesiger(BD Industrial Networks)+Wittwer(Office)+Patterson(store keeper);Netzwerkbereich Produkte/Beratung/Lösungen(Kompass/XING 件)
+  > 来源：https://ch.kompass.com/c/dds-netcom-ag/ch094172/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：瑞士工业网络 webshop
-- **产品线与在售品牌**：Hirschmann/Kyland/Digi
-- **目标行业与场景**：OT/工控替换
-- **团队与规模**：网店主理团队
-- **决策链与对接人**：info@ 口
-- **技术与认证**：GHMT 类供货规范
-- **采购与供应链信号**：网店分销
-- **近期动态与线索**：旧工控替换叙事
-- **与我方契合点**：中端替补位（与 Kyland 并排）
-- **风险与注意**：Hirschmann 品牌引力强
+- **业务定位**：DDS NETCOM AG(瑞士 Fehraltorf(苏黎世州),Allmendstrasse 8;**CHE-107.420.295;CH-020.3.002.954-1;1992 创 34 年;AG;Kapital CHF 200k;1-10 人(XING 队谱 7)**;**网络专营(全谱 Netzwerk Produkte/Beratung/Lösungen);Webshop 谱(dds.ch);Geschäftsführer Hanspeter Weingartner(印谱+Kompass+D&B 三源 O)+Reinhard Zesiger BD Industrial Networks+Maja Wittwer Office**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：瑞士苏黎世州 34 年网络专营屋
+- **团队与规模**：1-10 人;1992 创
+- **决策链与对接人**：**Hanspeter Weingartner(Geschäftsführer(印谱自署=O),official-self-published·谱/leads-only(直发需 opt-in));Reinhard Zesiger(Business Development Manager Industrial Networks(工网 BD=落位最合),leads-only·待 opt-in(LinkedIn/谱面带核));Maja Wittwer(Office-Managerin(行政口),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 19 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Hanspeter Weingartner 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -175,10 +186,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：专业
-- **W**：引力
-- **O**：替换
-- **T**：大牌
+- **S**：网络专营+Webshop 谱
+- **W**：微实体谱
+- **O**：Weingartner 印谱直达位
+- **T**：自家店链谱
 
 ## 触达与风险红线
 
@@ -197,7 +208,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -206,8 +217,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 替补槽
-  - [ ] Kyland 比价空间
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,16 +230,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi DDS Netcom team,
+Guten Tag Herr Weingartner,
 
-Your webshop covers the serious end - Hirschmann/Belden industrial, Kyland, Digi serial - and your blog tells a story we recognise: replacing ageing industrial networks and separating OT cleanly.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-09-29). It sits exactly where your customers often hesitate: above the unmanaged Kyland Opal tier, far below Hirschmann pricing.
-
-One question: is there a mid-tier substitute slot on your shelf - and would you test-list one unit against your current mid-range offers?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

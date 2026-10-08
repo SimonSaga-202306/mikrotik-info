@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】SIM NT srl（意大利巴里，1995 年创，11-50 人/60+ 认证专家）：网站建设关闭（“closed by administrator”）但**LinkedIn+欧盟证据链齐**：system integration、reti（网络设计施工运维）、DC、GDPR/网安、管理软件 ERP；ISO 9001/27001；**MePA 供应商已 enabled（“Apparati di rete/Storaggio/SAN 品类”2022-04-15 中标资格）+Esperia 联盟 11 家 SI 之一（100% made in Italy 支持 PA 的 SI 网络，全国主权科技叙事）**；分点 Bari/Roma/Milano
-- 【推断】**公共/主权段是其战略主战场（Esperia+MePA 双证）**——守界硬度高；私营网络集成是其 30 年根基业务
-- 【假设】网站建设关闭或=重组/Esperia 品牌线整合期（推断）
+- 【事实】SIM NT srl:SIM NT srl(意大利 Bari,Via Ugo La Malfa 3/5/7;**1995 创 31 年;11-50 人;ISO 9001:2015+ISO/IEC 27001:2017**;**2025-26 Esperia 网架:Roma 亮相 11 家 100% 意制 system integrator 联盟=PA 云迁移国家谱!**;Antonello Giordano CEO+Giovanni Rosato Sales Manager;PNRR 谱(2023 基础建设件))
+- 【推断】R66 第 19 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,10 +76,20 @@ updated: 2026-09-28
 - 来源等级：official-search-only（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@simnt.it（待核：仅官网搜索索引，实际网页失败/关闭；未验证投递）；原入口：见 alliedtelesis.com 伙伴页
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Antonello Giordano**(CEO(LinkedIn 具名谱))— linkedin.com/company/simnt 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://it.linkedin.com/company/simnt〕
+  - **Giovanni Rosato**(Sales Manager(销售直达))— linkedin.com/company/simnt 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://it.linkedin.com/company/simnt〕
+  - **Elisabetta Carulli**(Software Development Specialist(开发谱))— linkedin.com/company/simnt 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://it.linkedin.com/company/simnt〕
+  - **Ivana Ressa**(Inside Sales(内部销售))— linkedin.com/company/simnt 谱面条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://it.linkedin.com/company/simnt〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Antonello Giordano | CEO(LinkedIn 具名谱) | linkedin.com/company/simnt 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://it.linkedin.com/company/simnt |
+| Giovanni Rosato | Sales Manager(销售直达) | linkedin.com/company/simnt 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://it.linkedin.com/company/simnt |
+| Elisabetta Carulli | Software Development Specialist(开发谱) | linkedin.com/company/simnt 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://it.linkedin.com/company/simnt |
+| Ivana Ressa | Inside Sales(内部销售) | linkedin.com/company/simnt 谱面条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://it.linkedin.com/company/simnt |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -136,32 +146,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第22批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：1995 SI（Esperia PA 主权守界；私营网络根基）
-- **②芯片/型号**：未明
-- **③KP 深挖**：info@（待核）
-- **④Saga 对标**：私营随单窄-中位（守界硬）
-- **⑤在乎与偏好**：—
+- **①背景再核**：SIM NT srl(意大利 Bari,Via Ugo La Malfa 3/5/7;**1995 创 31 年;11-50 人;ISO 9001:2015+ISO/IEC 27001:2017**;**2025-26 Esperia 网架:Roma 亮相 11 家 100% 意制 system integrator 联盟=PA 云迁移国家谱!**;Antonello Giordano CEO+Giovanni Rosato Sales Manager;PNRR 谱(2023 基础建设件))
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Antonello Giordano(CEO(LinkedIn 具名谱),leads-only·待 opt-in(LinkedIn/谱面带核));Giovanni Rosato(Sales Manager(销售直达),leads-only·待 opt-in(LinkedIn/谱面带核));Elisabetta Carulli(Software Development Specialist(开发谱),leads-only·待 opt-in(LinkedIn/谱面带核));Ivana Ressa(Inside Sales(内部销售),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：Esperia 联盟=PA 云谱窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“SIM NT dal 1995…Networking: progettazione, realizzazione e conduzione di reti informatiche,”(LinkedIn);"SIM NT tra gli 11 system integrator di Esperia: rete d'imprese 100% made in Italy a supporto della Pubblica Amministrazione"
-  > “SIM NT dal 1995…Networking: progettazione, realizzazione e conduzione di reti informatiche,”(LinkedIn);"SIM NT tra gli 11 system integrator di Esperia: rete d'imprese 100% made in Italy a supporto della Pubblica Amministrazione"
+- **【决策链与对接人】**CEO: Antonello Giordano;SALES MANAGER: Giovanni Rosato;队谱 Carulli(SW Dev)+Ressa(Inside Sales)(LI三元谱面条)
+  > CEO: Antonello Giordano;SALES MANAGER: Giovanni Rosato;队谱 Carulli(SW Dev)+Ressa(Inside Sales)(LI三元谱面条)
+  > 来源：https://it.linkedin.com/company/simnt
+- **【联系方式与基础画像】**Via Ugo La Malfa 3/5/7, 70125 Bari;dal 1995;11-50 dipendenti;ISO 9001:2015 SINCERT+ISO 27001:2017(LI+MAXQDA 伙伴页件)
+  > Via Ugo La Malfa 3/5/7, 70125 Bari;dal 1995;11-50 dipendenti;ISO 9001:2015 SINCERT+ISO 27001:2017(LI+MAXQDA 伙伴页件)
+  > 来源：https://www.maxqda.com/partner/sim-nt-srl
+- **【近期动态与线索】****2026: SIM NT tra gli 11 system integrator di #Esperia(rete d'imprese 100% made in Italy per la PA;Roma 件)**;2023: infrastruttura PNRR fornitura 谱(openprocurements 件)
+  > **2026: SIM NT tra gli 11 system integrator di #Esperia(rete d'imprese 100% made in Italy per la PA;Roma 件)**;2023: infrastruttura PNRR fornitura 谱(openprocurements 件)
   > 来源：https://it.linkedin.com/company/simnt
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：巴里 1995 SI（网络 30 年根基；Esperia/MePA PA 主权段守界）
-- **产品线与在售品牌**：未明
-- **目标行业与场景**：私营（主）+PA 主权（守界）
-- **团队与规模**：60+ 认证，11-50 人
-- **决策链与对接人**：info@ 口（站位待核）
-- **技术与认证**：ISO9001/27001
-- **采购与供应链信号**：MePA enabled（检索证据）
-- **近期动态与线索**：网站建设关闭+Esperia 出席
-- **与我方契合点**：私营网络集成随单件（低-中优先，守界）
-- **风险与注意**：PA 主权叙事+网站关闭
+- **业务定位**：SIM NT srl(意大利 Bari,Via Ugo La Malfa 3/5/7;**1995 创 31 年;11-50 人;ISO 9001:2015+ISO/IEC 27001:2017**;**2025-26 Esperia 网架:Roma 亮相 11 家 100% 意制 system integrator 联盟=PA 云迁移国家谱!**;Antonello Giordano CEO+Giovanni Rosato Sales Manager;PNRR 谱(2023 基础建设件))
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：意大利巴里 31 年IT屋(Esperia 国家谱)
+- **团队与规模**：11-50 人;1995 创
+- **决策链与对接人**：**Antonello Giordano(CEO(LinkedIn 具名谱),leads-only·待 opt-in(LinkedIn/谱面带核));Giovanni Rosato(Sales Manager(销售直达),leads-only·待 opt-in(LinkedIn/谱面带核));Elisabetta Carulli(Software Development Specialist(开发谱),leads-only·待 opt-in(LinkedIn/谱面带核));Ivana Ressa(Inside Sales(内部销售),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 19 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Giordano CEO 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -176,10 +192,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：网络根基
-- **W**：主权
-- **O**：私营
-- **T**：大牌
+- **S**：Esperia 联盟=PA 云谱窗
+- **W**：中小实体谱
+- **O**：Giordano CEO+Rosato 销售位
+- **T**：联盟链竞谱;PA 谱
 
 ## 触达与风险红线
 
@@ -198,7 +214,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -207,8 +223,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 网站现状
-  - [ ] 私营/PA 占比
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -220,18 +236,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi SIM NT team,
+Gentile Dott. Giordano,
 
-Thirty years of network engineering out of Bari - datacenters, GDPR-grade security, ERP. (Two honest notes from our side: first, your Esperia and MePA public engagements stay fully out of scope here; second, your corporate site currently shows as closed by the administrator - we are going by your public footprints.)
-
-We manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW - a value unit for the access layer inside your private-sector network integrations.
-
-One question: in your private reti projects, which switch brand holds the access layer today - and would a documented value alternative earn a bench test?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

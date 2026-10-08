@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Ziegler Systemhaus GmbH（德国斯图加特+Schwieberdingen 双点，2001 创，25+ 年）：**142 人电气+IT 混合系统屋**——电气工程/网络信息技术（“erfolgreich VERNETZEN”）/再生能源/安全技术/**活动与展会供电专线**；500+ 项目；项目新闻：Messehalle 展馆灯光改造+**专业 WLAN 覆盖（Ausleuchtung）项目**；14 培训生在训
-- 【推断】电气+网络双工+展馆活动供电=弱电随单活跃；WLAN Ausleuchtung 项目自述=无线工程在撒单
-- 【假设】“namhafte Kunden”高层客户+快速招人=增长型中型
+- 【事实】Ziegler Systemhaus GmbH:Ziegler Systemhaus GmbH(德国 Stuttgart(斯图加特);**HRB 21932 AG Stuttgart;2001 创;140 人**;系统屋谱;**2020-09 GF Bausch 加入=Wirth+Bausch 双驾**)
+- 【推断】R66 第 19 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,16 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@ziegler-sh.de [Publicly listed; delivery not tested]; https://www.ziegler-systemhaus.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Wirth**(Geschäftsführer(创期谱))— northdata 登记谱(姓氏) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.northdata.com/〕
+  - **Bausch**(Geschäftsführer(2020-09 起))— 登记公告谱(姓氏) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.northdata.com/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Wirth | Geschäftsführer(创期谱) | northdata 登记谱(姓氏) | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.northdata.com/ |
+| Bausch | Geschäftsführer(2020-09 起) | 登记公告谱(姓氏) | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.northdata.com/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +140,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第19批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：142 人电气+IT 混合屋（WLAN 项目+活动供电线）
-- **②芯片/型号**：未明示
-- **③KP 深挖**：info@
-- **④Saga 对标**：网络项目随单 value 件
-- **⑤在乎与偏好**：电工级可靠文档
+- **①背景再核**：Ziegler Systemhaus GmbH(德国 Stuttgart(斯图加特);**HRB 21932 AG Stuttgart;2001 创;140 人**;系统屋谱;**2020-09 GF Bausch 加入=Wirth+Bausch 双驾**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Wirth(Geschäftsführer(创期谱),leads-only·待 opt-in(LinkedIn/谱面带核));Bausch(Geschäftsführer(2020-09 起),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：140 人系统屋谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“142 Mitarbeitende…14 Auszubildende…Namhafte Kunden…Professionelle WLAN-Ausleuchtung – Die Basis für ein stabiles Netzwerk…500+ Erfolgreich abgeschlossene Projekte”
-  > “142 Mitarbeitende…14 Auszubildende…Namhafte Kunden…Professionelle WLAN-Ausleuchtung – Die Basis für ein stabiles Netzwerk…500+ Erfolgreich abgeschlossene Projekte”
-  > 来源：https://www.ziegler-systemhaus.de/
+- **【决策链与对接人】**HRB 21932 Stuttgart;gegründet 2001;Geschäftsführung: Wirth + Bausch(seit 09/2020);140 Mitarbeiter(登记/规模件)
+  > HRB 21932 Stuttgart;gegründet 2001;Geschäftsführung: Wirth + Bausch(seit 09/2020);140 Mitarbeiter(登记/规模件)
+  > 来源：https://www.northdata.com/
+- **【联系方式与基础画像】**Ziegler Systemhaus GmbH, Stuttgart;Systemhaus 谱(谱面件)
+  > Ziegler Systemhaus GmbH, Stuttgart;Systemhaus 谱(谱面件)
+  > 来源：https://www.google.com/search?q=%22Ziegler+Systemhaus%22
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：斯图加特电气+IT 混合系统屋（活动供电特色）
-- **产品线与在售品牌**：未明示
-- **目标行业与场景**：楼宇/活动/企业
-- **团队与规模**：142 人
-- **决策链与对接人**：info@ 口
-- **技术与认证**：电工+IT 双证
-- **采购与供应链信号**：随单
-- **近期动态与线索**：WLAN 覆盖项目+展厅灯改
-- **与我方契合点**：网络技术线接入随单 value 件
-- **风险与注意**：
+- **业务定位**：Ziegler Systemhaus GmbH(德国 Stuttgart(斯图加特);**HRB 21932 AG Stuttgart;2001 创;140 人**;系统屋谱;**2020-09 GF Bausch 加入=Wirth+Bausch 双驾**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国斯图加特 140 人系统屋
+- **团队与规模**：140 人;2001 创
+- **决策链与对接人**：**Wirth(Geschäftsführer(创期谱),leads-only·待 opt-in(LinkedIn/谱面带核));Bausch(Geschäftsführer(2020-09 起),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 19 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Wirth/Bausch 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +183,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：双工
-- **W**：体量
-- **O**：随单
-- **T**：在位
+- **S**：140 人系统屋谱
+- **W**：中实体谱
+- **O**：Wirth/Bausch 双驾直达位
+- **T**：一线链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +205,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,9 +214,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 接入现供
-  - [ ] 活动网络模式
-  - [ ] 年量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,18 +227,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Ziegler team,
+Guten Tag Herr Wirth,
 
-142 people across Stuttgart and Schwieberdingen, 500+ projects - from Messehallen lighting to professional WLAN coverage. Where you lay the wireless basis, an access switch sits at the end of every fibre run.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW - a value unit for the access layer inside your network-technology projects.
-
-One question: in your WLAN and building projects, which switch brand holds the PoE access layer today - and would a documented value alternative earn a bench test?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

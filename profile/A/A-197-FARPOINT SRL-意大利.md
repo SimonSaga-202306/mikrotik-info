@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】FARPOINT SRL（意大利摩德纳，20+ 年）：SMB IT——硬件销售维保/**布线咨询设计（reti cablate）**/硬件防火墙周界/数据保护/Windows Server-Exchange-SharePoint/ERP King Azienda（Datalog-Zucchetti）/远程办公安全/租赁打印；伙伴 logo：**Cisco（横幅）**/WatchGuard/Synology/Intel/Microsoft/Veeam/OKI/Kyocera/Norton
-- 【推断】Cisco logo 在位=其网络选型走 Cisco 生态；摩德纳机械谷 SMB 客户=其价值件对窗
-- 【假设】“assistenza per qualsiasi problema informatico”贴身式 服务=单品随单决策快
+- 【事实】FARPOINT SRL:FARPOINT SRL(意大利 Modena(摩德纳),Via Emilia Est 1058/D;**P.IVA 02650830363;4 人;€704k**;**官网联络页全谱带分机手机=O 金谱:Elisabetta Nascimbeni(amministrazione)+Giorgio Bertoni(reti/antivirus)+Sandro Stradi(stampa)+Walter Pelloni(gestionale)+Manuel Di Bona**)
+- 【推断】R66 第 19 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,22 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@farpoint.it [Publicly listed; delivery not tested]; https://farpoint.eu
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Elisabetta Nascimbeni**(Amministrazione(行政直达;官网手机自署))— farpoint.it 联络页(O) 〔已有(公司官方公开件/登记册自曝);源:https://www.farpoint.it/〕
+  - **Giorgio Bertoni**(Assistenza reti/antivirus(网络口=落位最合))— farpoint.it 联络页(O) 〔已有(公司官方公开件/登记册自曝);源:https://www.farpoint.it/〕
+  - **Sandro Stradi**(打印/外围谱)— farpoint.it 联络页(O) 〔已有(公司官方公开件/登记册自曝);源:https://www.farpoint.it/〕
+  - **Walter Pelloni**(Gestionale(管理软件口))— farpoint.it 联络页(O) 〔已有(公司官方公开件/登记册自曝);源:https://www.farpoint.it/〕
+  - **Manuel Di Bona**(技术谱(官网条))— farpoint.it 联络页(O) 〔已有(公司官方公开件/登记册自曝);源:https://www.farpoint.it/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Elisabetta Nascimbeni | Amministrazione(行政直达;官网手机自署) | farpoint.it 联络页(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.farpoint.it/ |
+| Giorgio Bertoni | Assistenza reti/antivirus(网络口=落位最合) | farpoint.it 联络页(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.farpoint.it/ |
+| Sandro Stradi | 打印/外围谱 | farpoint.it 联络页(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.farpoint.it/ |
+| Walter Pelloni | Gestionale(管理软件口) | farpoint.it 联络页(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.farpoint.it/ |
+| Manuel Di Bona | 技术谱(官网条) | farpoint.it 联络页(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.farpoint.it/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +146,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第20批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：摩德纳 SMB IT（布线+防火墙，Cisco 在位）
-- **②芯片/型号**：Cisco/WatchGuard
-- **③KP 深挖**：info@
-- **④Saga 对标**：布线随单 value 位（Cisco 旁窄位）
-- **⑤在乎与偏好**：意语文档
+- **①背景再核**：FARPOINT SRL(意大利 Modena(摩德纳),Via Emilia Est 1058/D;**P.IVA 02650830363;4 人;€704k**;**官网联络页全谱带分机手机=O 金谱:Elisabetta Nascimbeni(amministrazione)+Giorgio Bertoni(reti/antivirus)+Sandro Stradi(stampa)+Walter Pelloni(gestionale)+Manuel Di Bona**)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Elisabetta Nascimbeni(Amministrazione(行政直达;官网手机自署),official-self-published·谱/leads-only(直发需 opt-in));Giorgio Bertoni(Assistenza reti/antivirus(网络口=落位最合),official-self-published·谱/leads-only(直发需 opt-in));Sandro Stradi(打印/外围谱,official-self-published·谱/leads-only(直发需 opt-in));Walter Pelloni(Gestionale(管理软件口),official-self-published·谱/leads-only(直发需 opt-in));Manuel Di Bona(技术谱(官网条),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：联络页 O 级全谱=罕见
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“operante con successo nel territorio modenese da oltre 20 anni…progettazione di reti cablate…[logos:] Cisco, WatchGuard, Synology…”
-  > “operante con successo nel territorio modenese da oltre 20 anni…progettazione di reti cablate…[logos:] Cisco, WatchGuard, Synology…”
-  > 来源：https://farpoint.eu/
+- **【决策链与对接人】**farpoint.it/contatti: Nascimbeni(amministrazione), Bertoni(reti), Stradi(stampa), Pelloni(gestionale), Di Bona——带手机号自署=O 级全谱
+  > farpoint.it/contatti: Nascimbeni(amministrazione), Bertoni(reti), Stradi(stampa), Pelloni(gestionale), Di Bona——带手机号自署=O 级全谱
+  > 来源：https://www.farpoint.it/
+- **【联系方式与基础画像】**P.IVA 02650830363;Via Emilia Est 1058/D Modena;4 dipendenti;€704k(登记件)
+  > P.IVA 02650830363;Via Emilia Est 1058/D Modena;4 dipendenti;€704k(登记件)
+  > 来源：https://www.farpoint.it/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：摩德纳 SMB IT（Cisco 生态在位）
-- **产品线与在售品牌**：Cisco/WatchGuard/Synology 等
-- **目标行业与场景**：摩德纳机械谷 SMB
-- **团队与规模**：小型
-- **决策链与对接人**：info@ 口
-- **技术与认证**：伙伴级
-- **采购与供应链信号**：随单
-- **近期动态与线索**：King ERP 线
-- **与我方契合点**：布线项目 value 位（Cisco 旁）
-- **风险与注意**：Cisco 同盟
+- **业务定位**：FARPOINT SRL(意大利 Modena(摩德纳),Via Emilia Est 1058/D;**P.IVA 02650830363;4 人;€704k**;**官网联络页全谱带分机手机=O 金谱:Elisabetta Nascimbeni(amministrazione)+Giorgio Bertoni(reti/antivirus)+Sandro Stradi(stampa)+Walter Pelloni(gestionale)+Manuel Di Bona**)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：意大利摩德纳 4 人 IT 服务铺
+- **团队与规模**：4 人;€704k
+- **决策链与对接人**：**Elisabetta Nascimbeni(Amministrazione(行政直达;官网手机自署),official-self-published·谱/leads-only(直发需 opt-in));Giorgio Bertoni(Assistenza reti/antivirus(网络口=落位最合),official-self-published·谱/leads-only(直发需 opt-in));Sandro Stradi(打印/外围谱,official-self-published·谱/leads-only(直发需 opt-in));Walter Pelloni(Gestionale(管理软件口),official-self-published·谱/leads-only(直发需 opt-in));Manuel Di Bona(技术谱(官网条),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 19 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Nascimbeni 行政位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +189,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：贴身
-- **W**：Cisco
-- **O**：随单
-- **T**：Cisco
+- **S**：联络页 O 级全谱=罕见
+- **W**：微实体谱
+- **O**：Nascimbeni 行政+Bertoni 网络位
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +211,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,9 +220,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 接入现牌
-  - [ ] 项目量
-  - [ ] 评测窗
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,18 +233,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi FarPoint team,
+Gentile Sig.ra Nascimbeni,
 
-Twenty years serving Modena's engineering country - cabling design, perimeter firewalls, whatever the client needs. The cabling jobs you design all end at a switch decision.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW - a value unit for the access closets inside your reti cablate projects, beside your Cisco options when the budget calls for it.
-
-One question: in your cabling projects, which switch brand holds the access layer today - and would a documented value alternative earn a bench test?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

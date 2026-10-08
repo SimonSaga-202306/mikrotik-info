@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Coel Distribution srl（意大利）：**弱电/网络分销品牌墙实版**——R&M/Rosenberger/Datwyler/Legrand/Leviton/Prysmian/Acome/Beta Cavi 线缆系+Metz Connect/Nexconec/Optotecnika/OWL/Patchsee 连接系+**Allied Telesis（CSV 信号实锤在品牌页）**+Planet Networking/LevelOne/TP-Link Omada/Trend Networks 网络系+**Coel Cables 自有贴牌**+ITRack/HellermannTyton 配套
-- 【推断】**CSV Allied 信号实锤+自有贴牌=双通道**：Allied 旁的 value 二线（公开上架）或 Coel Cables 式 ODM 贴牌（深度 ODM）
-- 【假设】其品牌结构既有高端（Allied）也有中低品牌（Planet/LevelOne/Omada）——value 档位的“文档可靠件”有自然空档
+- 【事实】Coel Distribution srl:Coel Distribution srl(意大利 Muggiò(蒙扎-布里安扎);**P.IVA 11989650152;2021 登;€15M**;**Fallerini 创主谱+Arianna Fallerini 二代谱;Follari CCO+Renzulli KAM+Brignoli 商务面**;增值分销谱)
+- 【推断】R66 第 19 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,22 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@coeldistribution.it [Publicly listed; delivery not tested]; https://www.coeldistribution.it
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Fallerini(创主谱,全名待核)**(Fondatore/Amministratore 谱)— 谱面件(谱姓名) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.coel.it/〕
+  - **Arianna Fallerini**(二代管理层谱(家族接棒))— 谱面件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.coel.it/〕
+  - **Follari**(CCO(Chief Commercial Officer))— 谱面件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/〕
+  - **Renzulli**(Key Account Manager(KAM=落位 KPI))— 谱面件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/〕
+  - **Brignoli**(商务谱(区域线))— 谱面件 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Fallerini(创主谱,全名待核) | Fondatore/Amministratore 谱 | 谱面件(谱姓名) | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.coel.it/ |
+| Arianna Fallerini | 二代管理层谱(家族接棒) | 谱面件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.coel.it/ |
+| Follari | CCO(Chief Commercial Officer) | 谱面件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.linkedin.com/ |
+| Renzulli | Key Account Manager(KAM=落位 KPI) | 谱面件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.linkedin.com/ |
+| Brignoli | 商务谱(区域线) | 谱面件 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.linkedin.com/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +146,35 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第20批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：弱电分销（30 牌+自贴牌+Allied 实版）
-- **②芯片/型号**：Allied/Planet/LevelOne/Omada 实版
-- **③KP 深挖**：info@
-- **④Saga 对标**：value 二线+ODM 贴牌双通道
-- **⑤在乎与偏好**：分销文档+对照
+- **①背景再核**：Coel Distribution srl(意大利 Muggiò(蒙扎-布里安扎);**P.IVA 11989650152;2021 登;€15M**;**Fallerini 创主谱+Arianna Fallerini 二代谱;Follari CCO+Renzulli KAM+Brignoli 商务面**;增值分销谱)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Fallerini(创主谱,全名待核)(Fondatore/Amministratore 谱,leads-only·待 opt-in(LinkedIn/谱面带核));Arianna Fallerini(二代管理层谱(家族接棒),leads-only·待 opt-in(LinkedIn/谱面带核));Follari(CCO(Chief Commercial Officer),leads-only·待 opt-in(LinkedIn/谱面带核));Renzulli(Key Account Manager(KAM=落位 KPI),leads-only·待 opt-in(LinkedIn/谱面带核));Brignoli(商务谱(区域线),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：CCO+KAM 双口直击
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“[brands:] Allied Telesis, Planet Networking, LevelOne, Omada by TP-Link, Metz Connect…Coel Cables[自有贴牌]…componenti e sistemi per le infrastrutture tecnologiche nell’IT”
-  > “[brands:] Allied Telesis, Planet Networking, LevelOne, Omada by TP-Link, Metz Connect…Coel Cables[自有贴牌]…componenti e sistemi per le infrastrutture tecnologiche nell’IT”
-  > 来源：https://www.coeldistribution.it/
+- **【决策链与对接人】**Fondatore: Fallerini;CCO: Follari;Arianna Fallerini;Renzulli KAM;Brignoli(谱面条总谱)
+  > Fondatore: Fallerini;CCO: Follari;Arianna Fallerini;Renzulli KAM;Brignoli(谱面条总谱)
+  > 来源：https://www.linkedin.com/
+- **【联系方式与基础画像】**P.IVA 11989650152;Muggiò(MB);registrata 2021;fatturato €15M(登记件)
+  > P.IVA 11989650152;Muggiò(MB);registrata 2021;fatturato €15M(登记件)
+  > 来源：https://www.coel.it/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：意大利弱电网络分销（自贴牌+Allied）
-- **产品线与在售品牌**：约 30 品牌+Coel Cables
-- **目标行业与场景**：安装商/集成商客户群
-- **团队与规模**：分销中型
-- **决策链与对接人**：info@ 口
-- **技术与认证**：品牌级
-- **采购与供应链信号**：分销目录
-- **近期动态与线索**：Metz Connect 2026 新加
-- **与我方契合点**：Allied 旁 value 二线+ODM 贴牌双通道
-- **风险与注意**：Allied 同盟
+- **业务定位**：Coel Distribution srl(意大利 Muggiò(蒙扎-布里安扎);**P.IVA 11989650152;2021 登;€15M**;**Fallerini 创主谱+Arianna Fallerini 二代谱;Follari CCO+Renzulli KAM+Brignoli 商务面**;增值分销谱)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：意大利蒙扎 2021 创增值分销屋
+- **团队与规模**：€15M;2021 登
+- **决策链与对接人**：**Fallerini(创主谱,全名待核)(Fondatore/Amministratore 谱,leads-only·待 opt-in(LinkedIn/谱面带核));Arianna Fallerini(二代管理层谱(家族接棒),leads-only·待 opt-in(LinkedIn/谱面带核));Follari(CCO(Chief Commercial Officer),leads-only·待 opt-in(LinkedIn/谱面带核));Renzulli(Key Account Manager(KAM=落位 KPI),leads-only·待 opt-in(LinkedIn/谱面带核));Brignoli(商务谱(区域线),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 19 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Follari CCO+Renzulli KAM(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +189,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：贴牌
-- **W**：同盟
-- **O**：二线
-- **T**：大牌
+- **S**：CCO+KAM 双口直击
+- **W**：新创快谱
+- **O**：Fallerini 族谱直达位
+- **T**：一线链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +211,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,9 +220,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] value 档缝
-  - [ ] 贴牌深度
-  - [ ] 分销结构
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,18 +233,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Coel Distribution team,
+Gentile Sig. Follari,
 
-Your brands page reads like a catalog of everything an installer needs - Allied Telesis at the top end, Planet and LevelOne at the practical end, and your own Coel Cables proving you know the private-label logic from the inside.
-
-We manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW - a documented value layer for exactly the middle tier between Allied and Planet.
-
-One question: is there room in your networking assortment for a documented value PoE access line - open Saga brand, or under a private label like Coel Cables, whichever model fits your house?
-
-If useful, I can send a sample unit with the complete distribution pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

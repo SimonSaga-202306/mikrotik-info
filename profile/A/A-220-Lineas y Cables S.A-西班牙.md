@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Lineas y Cables S.A. / Grupo Líneas y Cables（西班牙马德里，40+ 年）：**集团化工程商**——电信/铁路/能源三大战略行业（自述）;**三页品牌墙 ~30 牌： Dell Platinum、Commscope、Prysmian、NKT、Checkpoint、Samsung、Eaton、Elcon Megarad、Polomarconi（意大利铁路通信天线）、Clavister、Mildef（瑞典军规加固）、Fonestar、Xerox、Bertin、Exavision（加固相机）、Racks & Networking Solutions、Beta Tools、Blancco、SonicWall、Fluke Networks、Grandstream、**Allied Telesis 实版**、StarTech**
-- 【推断】**铁路（RENFE/ADIF 公营）+Mildef 军规+Bertin/Elcon 战略技术=公共/军工/战略三重守界**；私营电信工程段是随单真实面；Allied Telesis 在墙=接入层现牌实版
-- 【假设】铁路/能源的站场工程=虽公共委托却由工程商采购非招标小件——但按政策口沿用守界不碰，信里明钉私营电信工程段
+- 【事实】Lineas y Cables S.A:LINEAS Y CABLES S.A.(西班牙 Pozuelo de Alarcón(马德里),C/ Virgilio 19(影像城);**NIF A-28552149;1978-12-26 创 48 年;90 人(2025);€10-50M;TIC 系统+通信网络设备分销;电子/RF/能源实验室+2000㎡ 仓**;**AESMIDE 国防工业协会员=军防边界守界注记;2022-04 权杖换代:García de las Heras(创始)退→Alfonso Estévez Quintana 登基(家族二代谱);VP Reyes-Carlota Estévez Santiago;最新 BORME 2026-06 Reyes Carlota E. Consejero Delegado 双任**
+- 【推断】R66 第 19 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,22 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：lyc@lineasycables.com（官网正文公开；未验证投递）；原入口：见 alliedtelesis.com 伙伴页
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Alfonso Estévez Quintana**(Presidente(2022-07 起;二代接班谱))— BORME/datoscif/einforma 三源登记件 〔已有(公司官方公开件/登记册自曝);源:https://www.datoscif.es/empresa/lineas-y-cables-sa〕
+  - **Reyes-Carlota Estévez Santiago**(Vicepresidenta + Consejero Delegado 双任(2026-06 BORME 谱))— datoscif/BORME 件 〔已有(公司官方公开件/登记册自曝);源:https://www.datoscif.es/empresa/lineas-y-cables-sa〕
+  - **Norberto Abascal Carmona**(Consejero(理事))— BORME/einforma 件 〔已有(公司官方公开件/登记册自曝);源:https://www.einforma.com/informacion-empresa/lineas-cables〕
+  - **Pedro Piñar de Jesús**(Secretario(秘书处))— BORME/datoscif 件 〔已有(公司官方公开件/登记册自曝);源:https://www.datoscif.es/empresa/lineas-y-cables-sa〕
+  - **Julio Peñas Artero**(AESMIDE 会卡联络(协会谱))— aesmide.es 会卡 〔已有(公司官方公开件/登记册自曝);源:https://aesmide.es/asociado/lineas-y-cables-sa/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Alfonso Estévez Quintana | Presidente(2022-07 起;二代接班谱) | BORME/datoscif/einforma 三源登记件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.datoscif.es/empresa/lineas-y-cables-sa |
+| Reyes-Carlota Estévez Santiago | Vicepresidenta + Consejero Delegado 双任(2026-06 BORME 谱) | datoscif/BORME 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.datoscif.es/empresa/lineas-y-cables-sa |
+| Norberto Abascal Carmona | Consejero(理事) | BORME/einforma 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.einforma.com/informacion-empresa/lineas-cables |
+| Pedro Piñar de Jesús | Secretario(秘书处) | BORME/datoscif 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.datoscif.es/empresa/lineas-y-cables-sa |
+| Julio Peñas Artero | AESMIDE 会卡联络(协会谱) | aesmide.es 会卡 | official-self-published·谱/leads-only(直发需 opt-in) | https://aesmide.es/asociado/lineas-y-cables-sa/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -137,32 +149,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第22批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第19波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：西班牙集团工程（三重守界；Allied 实版同盟）
-- **②芯片/型号**：Allied 等实版
-- **③KP 深挖**：lyc@ 口
-- **④Saga 对标**：私营电信工程随单件（守界+同盟尊重）
-- **⑤在乎与偏好**：工程文档
+- **①背景再核**：LINEAS Y CABLES S.A.(西班牙 Pozuelo de Alarcón(马德里),C/ Virgilio 19(影像城);**NIF A-28552149;1978-12-26 创 48 年;90 人(2025);€10-50M;TIC 系统+通信网络设备分销;电子/RF/能源实验室+2000㎡ 仓**;**AESMIDE 国防工业协会员=军防边界守界注记;2022-04 权杖换代:García de las Heras(创始)退→Alfonso Estévez Quintana 登基(家族二代谱);VP Reyes-Carlota Estévez Santiago;最新 BORME 2026-06 Reyes Carlota E. Consejero Delegado 双任**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Alfonso Estévez Quintana(Presidente(2022-07 起;二代接班谱),official-self-published·谱/leads-only(直发需 opt-in));Reyes-Carlota Estévez Santiago(Vicepresidenta + Consejero Delegado 双任(2026-06 BORME 谱),official-self-published·谱/leads-only(直发需 opt-in));Norberto Abascal Carmona(Consejero(理事),official-self-published·谱/leads-only(直发需 opt-in));Pedro Piñar de Jesús(Secretario(秘书处),official-self-published·谱/leads-only(直发需 opt-in));Julio Peñas Artero(AESMIDE 会卡联络(协会谱),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：90 人 48 年=大户谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“más de 40 años de experiencia…sectores estratégicos…telecomunicaciones, el sector ferroviario o la energía…[partners:] Allied Telesis, Mildef, Polomarconi, Prysmian…”
-  > “más de 40 años de experiencia…sectores estratégicos…telecomunicaciones, el sector ferroviario o la energía…[partners:] Allied Telesis, Mildef, Polomarconi, Prysmian…”
-  > 来源：https://www.grupolineasycables.com/
+- **【决策链与对接人】**BORME 谱: 2022-04 Presidente García de las Heras 退→Estévez Quintana Alfonso 任(2022-07);2026-06 Reyes Carlota E. Consejero Delegado+Consejero 双任;Consejero: Abascal Carmona Norberto;Secretario: Piñar de Jesús Pedro(datoscif/einforma 登记件)
+  > BORME 谱: 2022-04 Presidente García de las Heras 退→Estévez Quintana Alfonso 任(2022-07);2026-06 Reyes Carlota E. Consejero Delegado+Consejero 双任;Consejero: Abascal Carmona Norberto;Secretario: Piñar de Jesús Pedro(datoscif/einforma 登记件)
+  > 来源：https://www.datoscif.es/empresa/lineas-y-cables-sa
+- **【联系方式与基础画像】**NIF A28552149;C/ Virgilio 19, 28223 Pozuelo de Alarcón(Madrid);fundada 26/12/1978;90 empleados(2025);15 administradores;laboratorios electrónica/RF/energía+almacén 2000㎡;Distribución Sistemas TIC y Equipos de Redes de Comunicaciones(infonif/aesmide 件)
+  > NIF A28552149;C/ Virgilio 19, 28223 Pozuelo de Alarcón(Madrid);fundada 26/12/1978;90 empleados(2025);15 administradores;laboratorios electrónica/RF/energía+almacén 2000㎡;Distribución Sistemas TIC y Equipos de Redes de Comunicaciones(infonif/aesmide 件)
+  > 来源：https://infonif.economia3.com/ficha-empresa/lineas-y-cables-sa
+- **【近期动态与线索】****AESMIDE(国防工业协会)会员谱=军防边界守界注记**;最新 BORME 动作 2026-06(新 Consejero Delegado 双任)
+  > **AESMIDE(国防工业协会)会员谱=军防边界守界注记**;最新 BORME 动作 2026-06(新 Consejero Delegado 双任)
+  > 来源：https://aesmide.es/asociado/lineas-y-cables-sa/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：西班牙集团工程商（铁路/能源/军工守界；私营电信工程段）
-- **产品线与在售品牌**：Allied+Commscope/Prysmian/Mildef 实版 30+ 牌
-- **目标行业与场景**：私营电信工程（主）+铁路/能源/军工（守界）
-- **团队与规模**：集团中型
-- **决策链与对接人**：lyc@ 口
-- **技术与认证**：集团级
-- **采购与供应链信号**：工程套装
-- **近期动态与线索**：40+ 年自述
-- **与我方契合点**：私营电信工程随单件（Allied 旁 value 二线+守界句）
-- **风险与注意**：三重守界+Allied 同盟
+- **业务定位**：LINEAS Y CABLES S.A.(西班牙 Pozuelo de Alarcón(马德里),C/ Virgilio 19(影像城);**NIF A-28552149;1978-12-26 创 48 年;90 人(2025);€10-50M;TIC 系统+通信网络设备分销;电子/RF/能源实验室+2000㎡ 仓**;**AESMIDE 国防工业协会员=军防边界守界注记;2022-04 权杖换代:García de las Heras(创始)退→Alfonso Estévez Quintana 登基(家族二代谱);VP Reyes-Carlota Estévez Santiago;最新 BORME 2026-06 Reyes Carlota E. Consejero Delegado 双任**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：西班牙马德里 48 年 TIC 分销大户(军防会员)
+- **团队与规模**：90 人;€10-50M
+- **决策链与对接人**：**Alfonso Estévez Quintana(Presidente(2022-07 起;二代接班谱),official-self-published·谱/leads-only(直发需 opt-in));Reyes-Carlota Estévez Santiago(Vicepresidenta + Consejero Delegado 双任(2026-06 BORME 谱),official-self-published·谱/leads-only(直发需 opt-in));Norberto Abascal Carmona(Consejero(理事),official-self-published·谱/leads-only(直发需 opt-in));Pedro Piñar de Jesús(Secretario(秘书处),official-self-published·谱/leads-only(直发需 opt-in));Julio Peñas Artero(AESMIDE 会卡联络(协会谱),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 19 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Estévez 父子谱换代贺(opt-in 律;军防边界守界)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -177,10 +195,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：渠道
-- **W**：守界
-- **O**：随单
-- **T**：同盟
+- **S**：90 人 48 年=大户谱
+- **W**：大分销谱
+- **O**：Estévez 二代换代窗位
+- **T**：军防界守界注
 
 ## 触达与风险红线
 
@@ -199,7 +217,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -208,9 +226,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 私营占比
-  - [ ] Allied 覆盖度
-  - [ ] 年承装量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -222,18 +239,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hola equipo Líneas y Cables,
+Estimado Sr. Estévez,
 
-Forty years on three strategic fronts - telecom, ferroviario, energía - and a partner wall that reads like the sector's registry, Allied Telesis included. Two honest boundaries before anything: your railway, energy-utility and Mildef-adjacent engagements stay fully out of scope here, and your Allied Telesis line is respected, not challenged.
-
-We manufacture a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW - a documented value unit for the access layer inside your private telecom engineering works, where the budget card has to balance.
-
-One question: in your private telecom installations, is the access layer always the established partner brand - or is there room for a documented value second track when a site's numbers call for it?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
