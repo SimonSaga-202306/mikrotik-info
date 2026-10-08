@@ -9094,6 +9094,60 @@
     ]
   },
   {
+    "url": "https://companycheck.co.uk/company/01738519/CENTERPRISE-INTERNATIONAL-LIMITED",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L32"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L37"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L127"
+      },
+      {
+        "path": "profile/A/A-104-Centerprise International Limited-英国.md",
+        "locator": "L95"
+      },
+      {
+        "path": "profile/A/A-104-Centerprise International Limited-英国.md",
+        "locator": "L171"
+      },
+      {
+        "path": "profile/A/A-104-Centerprise International Limited-英国.md",
+        "locator": "L174"
+      }
+    ]
+  },
+  {
+    "url": "https://companycheck.co.uk/company/01738519/CENTERPRISE-INTERNATIONAL-LIMITED〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-104-Centerprise International Limited-英国.md",
+        "locator": "L82"
+      }
+    ]
+  },
+  {
+    "url": "https://companycheck.co.uk/company/01745436/LLORET-CONTROL-SYSTEMS-LIMITED/companies-house-data",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L405"
+      },
+      {
+        "path": "profile/A/A-101-Lloret Control Systems Ltd-英国.md",
+        "locator": "L168"
+      }
+    ]
+  },
+  {
     "url": "https://companycheck.co.uk/company/04994671/ANDISA-IT-CONSULTANTS-LTD/companies-house-data",
     "http_checked": false,
     "occurrences": [
@@ -10362,8 +10416,12 @@
         "locator": "L247"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L415"
+      },
+      {
         "path": "profile/A/A-101-Lloret Control Systems Ltd-英国.md",
-        "locator": "L171"
+        "locator": "L174"
       }
     ]
   },
@@ -16706,6 +16764,30 @@
         "locator": "L335"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L384"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L410"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L479"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L486"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L493"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L500"
+      },
+      {
         "path": "profile/A/A-101-Lloret Control Systems Ltd-英国.md",
         "locator": "L93"
       },
@@ -16723,7 +16805,7 @@
       },
       {
         "path": "profile/A/A-101-Lloret Control Systems Ltd-英国.md",
-        "locator": "L168"
+        "locator": "L171"
       }
     ]
   },
@@ -17042,6 +17124,20 @@
     ]
   },
   {
+    "url": "https://find-and-update.company-information.service.gov.uk/company/03297031",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L283"
+      },
+      {
+        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
+        "locator": "L172"
+      }
+    ]
+  },
+  {
     "url": "https://find-and-update.company-information.service.gov.uk/company/03297031/officers",
     "http_checked": false,
     "occurrences": [
@@ -17058,8 +17154,20 @@
         "locator": "L141"
       },
       {
-        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
-        "locator": "L92"
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L262"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L288"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L357"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L364"
       },
       {
         "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
@@ -17067,7 +17175,15 @@
       },
       {
         "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
-        "locator": "L98"
+        "locator": "L94"
+      },
+      {
+        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
+        "locator": "L100"
+      },
+      {
+        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
+        "locator": "L175"
       }
     ]
   },
@@ -17103,7 +17219,7 @@
       },
       {
         "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
-        "locator": "L86"
+        "locator": "L87"
       }
     ]
   },
@@ -17774,12 +17890,20 @@
         "locator": "L262"
       },
       {
-        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
-        "locator": "L93"
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L534"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L622"
       },
       {
         "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
         "locator": "L95"
+      },
+      {
+        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
+        "locator": "L97"
       },
       {
         "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
@@ -17811,11 +17935,11 @@
     "occurrences": [
       {
         "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
-        "locator": "L80"
+        "locator": "L82"
       },
       {
         "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
-        "locator": "L82"
+        "locator": "L84"
       }
     ]
   },
@@ -20890,6 +21014,62 @@
       {
         "path": "scripts/R66_R56_KP第15波落盘.py",
         "locator": "L86"
+      }
+    ]
+  },
+  {
+    "url": "https://growjo.com/company/Centerprise_International",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L42"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L106"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L113"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L120"
+      },
+      {
+        "path": "profile/A/A-104-Centerprise International Limited-英国.md",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/A/A-104-Centerprise International Limited-英国.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-104-Centerprise International Limited-英国.md",
+        "locator": "L94"
+      },
+      {
+        "path": "profile/A/A-104-Centerprise International Limited-英国.md",
+        "locator": "L177"
+      }
+    ]
+  },
+  {
+    "url": "https://growjo.com/company/Centerprise_International〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-104-Centerprise International Limited-英国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-104-Centerprise International Limited-英国.md",
+        "locator": "L80"
+      },
+      {
+        "path": "profile/A/A-104-Centerprise International Limited-英国.md",
+        "locator": "L81"
       }
     ]
   },
@@ -41540,6 +41720,20 @@
     ]
   },
   {
+    "url": "https://open.endole.co.uk/insight/company/01745436-lloret-control-systems-limited",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L420"
+      },
+      {
+        "path": "profile/A/A-101-Lloret Control Systems Ltd-英国.md",
+        "locator": "L177"
+      }
+    ]
+  },
+  {
     "url": "https://open.endole.co.uk/insight/company/03297031-dacc-europe-limited",
     "http_checked": false,
     "occurrences": [
@@ -41550,10 +41744,6 @@
       {
         "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
         "locator": "L32"
-      },
-      {
-        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
-        "locator": "L170"
       }
     ]
   },
@@ -43026,10 +43216,6 @@
       {
         "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
         "locator": "L257"
-      },
-      {
-        "path": "profile/A/A-101-Lloret Control Systems Ltd-英国.md",
-        "locator": "L177"
       }
     ]
   },
@@ -43076,8 +43262,20 @@
         "locator": "L394"
       },
       {
-        "path": "profile/A/A-110-Senseco Systems Ltd-英国.md",
-        "locator": "L93"
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L161"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L235"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L242"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L249"
       },
       {
         "path": "profile/A/A-110-Senseco Systems Ltd-英国.md",
@@ -43097,7 +43295,15 @@
       },
       {
         "path": "profile/A/A-110-Senseco Systems Ltd-英国.md",
-        "locator": "L170"
+        "locator": "L98"
+      },
+      {
+        "path": "profile/A/A-110-Senseco Systems Ltd-英国.md",
+        "locator": "L99"
+      },
+      {
+        "path": "profile/A/A-110-Senseco Systems Ltd-英国.md",
+        "locator": "L172"
       }
     ]
   },
@@ -43154,6 +43360,10 @@
       {
         "path": "profile/A/A-110-Senseco Systems Ltd-英国.md",
         "locator": "L83"
+      },
+      {
+        "path": "profile/A/A-110-Senseco Systems Ltd-英国.md",
+        "locator": "L84"
       }
     ]
   },
@@ -48028,8 +48238,16 @@
         "locator": "L297"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L544"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L615"
+      },
+      {
         "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
-        "locator": "L98"
+        "locator": "L94"
       },
       {
         "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
@@ -48038,6 +48256,10 @@
       {
         "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
         "locator": "L100"
+      },
+      {
+        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
+        "locator": "L175"
       }
     ]
   },
@@ -48065,7 +48287,7 @@
     "occurrences": [
       {
         "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
-        "locator": "L85"
+        "locator": "L81"
       },
       {
         "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
@@ -48084,10 +48306,6 @@
       {
         "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
         "locator": "L191"
-      },
-      {
-        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
-        "locator": "L178"
       }
     ]
   },
@@ -48098,6 +48316,20 @@
       {
         "path": "scripts/R66_R56_KP第13波落盘.py",
         "locator": "L71"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/rwl-security-solutions-profile_b44a5ae1fd1192d6",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L549"
+      },
+      {
+        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
+        "locator": "L178"
       }
     ]
   },
@@ -48197,15 +48429,11 @@
       },
       {
         "path": "profile/A/A-110-Senseco Systems Ltd-英国.md",
-        "locator": "L100"
+        "locator": "L102"
       },
       {
         "path": "profile/A/A-110-Senseco Systems Ltd-英国.md",
-        "locator": "L101"
-      },
-      {
-        "path": "profile/A/A-110-Senseco Systems Ltd-英国.md",
-        "locator": "L176"
+        "locator": "L103"
       }
     ]
   },
@@ -48233,11 +48461,11 @@
     "occurrences": [
       {
         "path": "profile/A/A-110-Senseco Systems Ltd-英国.md",
-        "locator": "L86"
+        "locator": "L87"
       },
       {
         "path": "profile/A/A-110-Senseco Systems Ltd-英国.md",
-        "locator": "L87"
+        "locator": "L88"
       }
     ]
   },
@@ -55347,11 +55575,11 @@
       },
       {
         "path": "profile/A/A-110-Senseco Systems Ltd-英国.md",
-        "locator": "L98"
+        "locator": "L100"
       },
       {
         "path": "profile/A/A-110-Senseco Systems Ltd-英国.md",
-        "locator": "L99"
+        "locator": "L101"
       }
     ]
   },
@@ -55375,11 +55603,11 @@
     "occurrences": [
       {
         "path": "profile/A/A-110-Senseco Systems Ltd-英国.md",
-        "locator": "L84"
+        "locator": "L85"
       },
       {
         "path": "profile/A/A-110-Senseco Systems Ltd-英国.md",
-        "locator": "L85"
+        "locator": "L86"
       }
     ]
   },
@@ -56378,16 +56606,44 @@
     ]
   },
   {
+    "url": "https://uk.globaldatabase.com/company/dacc-europe-limited",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L293"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L371"
+      },
+      {
+        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
+        "locator": "L95"
+      },
+      {
+        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
+        "locator": "L178"
+      }
+    ]
+  },
+  {
+    "url": "https://uk.globaldatabase.com/company/dacc-europe-limited〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
+        "locator": "L82"
+      }
+    ]
+  },
+  {
     "url": "https://uk.globaldatabase.com/company/lloret-control-systems-limited",
     "http_checked": false,
     "occurrences": [
       {
         "path": "batch/A类深挖_2026-10-08_R66_R56_KP第12波.json",
         "locator": "L252"
-      },
-      {
-        "path": "profile/A/A-101-Lloret Control Systems Ltd-英国.md",
-        "locator": "L174"
       }
     ]
   },
@@ -56610,10 +56866,6 @@
       {
         "path": "batch/A类深挖_2026-10-07_R66_R56_KP第9波.json",
         "locator": "L304"
-      },
-      {
-        "path": "profile/A/A-110-Senseco Systems Ltd-英国.md",
-        "locator": "L173"
       }
     ]
   },
@@ -56802,8 +57054,28 @@
         "locator": "L255"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L513"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L539"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L608"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L629"
+      },
+      {
         "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
-        "locator": "L94"
+        "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
+        "locator": "L96"
       },
       {
         "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
@@ -56831,7 +57103,11 @@
     "occurrences": [
       {
         "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
-        "locator": "L81"
+        "locator": "L80"
+      },
+      {
+        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
+        "locator": "L83"
       }
     ]
   },
@@ -67761,19 +68037,19 @@
       },
       {
         "path": "profile/A/A-104-Centerprise International Limited-英国.md",
-        "locator": "L140"
-      },
-      {
-        "path": "profile/A/A-104-Centerprise International Limited-英国.md",
-        "locator": "L143"
-      },
-      {
-        "path": "profile/A/A-104-Centerprise International Limited-英国.md",
         "locator": "L146"
       },
       {
         "path": "profile/A/A-104-Centerprise International Limited-英国.md",
         "locator": "L149"
+      },
+      {
+        "path": "profile/A/A-104-Centerprise International Limited-英国.md",
+        "locator": "L152"
+      },
+      {
+        "path": "profile/A/A-104-Centerprise International Limited-英国.md",
+        "locator": "L155"
       }
     ]
   },
@@ -68855,15 +69131,11 @@
       },
       {
         "path": "profile/A/A-104-Centerprise International Limited-英国.md",
-        "locator": "L91"
+        "locator": "L97"
       },
       {
         "path": "profile/A/A-104-Centerprise International Limited-英国.md",
-        "locator": "L92"
-      },
-      {
-        "path": "profile/A/A-104-Centerprise International Limited-英国.md",
-        "locator": "L168"
+        "locator": "L98"
       }
     ]
   },
@@ -68897,11 +69169,11 @@
     "occurrences": [
       {
         "path": "profile/A/A-104-Centerprise International Limited-英国.md",
-        "locator": "L81"
+        "locator": "L84"
       },
       {
         "path": "profile/A/A-104-Centerprise International Limited-英国.md",
-        "locator": "L82"
+        "locator": "L85"
       }
     ]
   },
@@ -70417,23 +70689,11 @@
       },
       {
         "path": "profile/A/A-104-Centerprise International Limited-英国.md",
-        "locator": "L89"
+        "locator": "L96"
       },
       {
         "path": "profile/A/A-104-Centerprise International Limited-英国.md",
-        "locator": "L90"
-      },
-      {
-        "path": "profile/A/A-104-Centerprise International Limited-英国.md",
-        "locator": "L93"
-      },
-      {
-        "path": "profile/A/A-104-Centerprise International Limited-英国.md",
-        "locator": "L165"
-      },
-      {
-        "path": "profile/A/A-104-Centerprise International Limited-英国.md",
-        "locator": "L171"
+        "locator": "L99"
       }
     ]
   },
@@ -70475,15 +70735,11 @@
     "occurrences": [
       {
         "path": "profile/A/A-104-Centerprise International Limited-英国.md",
-        "locator": "L79"
-      },
-      {
-        "path": "profile/A/A-104-Centerprise International Limited-英国.md",
-        "locator": "L80"
-      },
-      {
-        "path": "profile/A/A-104-Centerprise International Limited-英国.md",
         "locator": "L83"
+      },
+      {
+        "path": "profile/A/A-104-Centerprise International Limited-英国.md",
+        "locator": "L86"
       }
     ]
   },
@@ -70586,6 +70842,20 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第6批.json",
         "locator": "L163"
+      }
+    ]
+  },
+  {
+    "url": "https://www.crunchbase.com/organization/dacc-europe",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L298"
+      },
+      {
+        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
+        "locator": "L181"
       }
     ]
   },
@@ -71601,14 +71871,6 @@
       },
       {
         "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
-        "locator": "L94"
-      },
-      {
-        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
-        "locator": "L95"
-      },
-      {
-        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
         "locator": "L96"
       },
       {
@@ -71617,23 +71879,27 @@
       },
       {
         "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
-        "locator": "L145"
+        "locator": "L98"
       },
       {
         "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
-        "locator": "L148"
+        "locator": "L99"
       },
       {
         "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
-        "locator": "L151"
+        "locator": "L147"
       },
       {
         "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
-        "locator": "L154"
+        "locator": "L150"
       },
       {
         "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
-        "locator": "L173"
+        "locator": "L153"
+      },
+      {
+        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
+        "locator": "L156"
       }
     ]
   },
@@ -71669,10 +71935,6 @@
     "occurrences": [
       {
         "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
-        "locator": "L82"
-      },
-      {
-        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
         "locator": "L83"
       },
       {
@@ -71682,6 +71944,10 @@
       {
         "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
         "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
+        "locator": "L86"
       }
     ]
   },
@@ -104426,6 +104692,24 @@
     ]
   },
   {
+    "url": "https://www.northdata.com/Centerprise%20International%20Ltd%C2%B7,%20Basingstoke/Companies%20House%2001738519",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L11"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L47"
+      },
+      {
+        "path": "profile/A/A-104-Centerprise International Limited-英国.md",
+        "locator": "L180"
+      }
+    ]
+  },
+  {
     "url": "https://www.northdata.com/Dssi%20-%20Tecnologias%20de%20Informa%C3%A7%C3%A3o%20Lda%C2%B7,%20Cac%C3%A9m/PT%20509371655",
     "http_checked": false,
     "occurrences": [
@@ -110233,15 +110517,7 @@
       },
       {
         "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
-        "locator": "L96"
-      },
-      {
-        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
-        "locator": "L97"
-      },
-      {
-        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
-        "locator": "L175"
+        "locator": "L98"
       }
     ]
   },
@@ -110269,11 +110545,7 @@
     "occurrences": [
       {
         "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
-        "locator": "L83"
-      },
-      {
-        "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
-        "locator": "L84"
+        "locator": "L85"
       }
     ]
   },
@@ -111561,15 +111833,33 @@
       },
       {
         "path": "profile/A/A-110-Senseco Systems Ltd-英国.md",
-        "locator": "L148"
+        "locator": "L150"
       },
       {
         "path": "profile/A/A-110-Senseco Systems Ltd-英国.md",
-        "locator": "L151"
+        "locator": "L153"
       },
       {
         "path": "profile/A/A-110-Senseco Systems Ltd-英国.md",
-        "locator": "L154"
+        "locator": "L156"
+      }
+    ]
+  },
+  {
+    "url": "https://www.sensecosystems.com/about-us/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L140"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L166"
+      },
+      {
+        "path": "profile/A/A-110-Senseco Systems Ltd-英国.md",
+        "locator": "L175"
       }
     ]
   },
@@ -121442,10 +121732,6 @@
       {
         "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
         "locator": "L42"
-      },
-      {
-        "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
-        "locator": "L176"
       }
     ]
   },
@@ -121792,6 +122078,20 @@
       {
         "path": "profile/A/A-313-Powertech Controls-美国.md",
         "locator": "L80"
+      }
+    ]
+  },
+  {
+    "url": "https://www.zoominfo.com/c/senseco-systems-ltd/351365780",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L176"
+      },
+      {
+        "path": "profile/A/A-110-Senseco Systems Ltd-英国.md",
+        "locator": "L181"
       }
     ]
   },
@@ -122688,6 +122988,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-1015/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://x.com/SensecoSystems",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+        "locator": "L171"
+      },
+      {
+        "path": "profile/A/A-110-Senseco Systems Ltd-英国.md",
+        "locator": "L178"
       }
     ]
   },

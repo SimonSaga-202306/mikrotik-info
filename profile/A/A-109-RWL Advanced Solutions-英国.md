@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】RWL Advanced Solutions:RWL Advanced Solutions Ltd(爱尔兰 Dublin,Park West Industrial Park, Unit 15 Park West Road, Dublin 12;英国分支 RWL ADVANCED SOLUTIONS LIMITED(FC 编号 **FC034521**,2017-08 入册);**32 员工;$5M**;谱型=爱尔兰/英国 IT 品牌代表分销(爱尔兰:Brand-Rex/Excel/Panduit/APC/Fluke Networks/Siemon;**英国=Panduit Data Solutions 独家分销商**;药品/科技/金融/教育/医疗垂直谱);rwlas.com;办室 Dublin/London/Amsterdam
-- 【推断】R66 第 13 波具名 KP 金谱
-- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
+- 【事实】波 R67 批4·A-109:英谱: **RWL Advanced Solutions Ltd 深挖(Companies House/官网/rocketreach/rwlas.com 四源互证)**:**Company Number FC034521(UK FC 分公司号=爱尔兰母体在法国注册趣),2017-08-04 设立=UK Establishment**;EMEA 分销商:infrastructure Technology/Networking/Security sector=「RWL across EMEA is driven to be leading distributor within the infrastructure Technology/Networking sector & preferred partner」自谱;**母体 RWL 2006 创 data products 分销;2011 设 RWL Security Solutions 安防部;都柏林+Cork+London 三点**;**员工 32(rocketreach);KP 金谱矩阵:Robert Walsh(Director/Managing Director f1970-11 岁,Irish,都柏林羊堡谱)+Sean Kirby(SALES DIRECTOR=**销售总监 P0**,UK Team 总)+Kevin Quinn(Financial Director+Secretary)+Scott Smith(Channel Director UK Team=渠道总监 P1)+Joe Reilly(Sales Manager UK Team)+Phil Taylor(Strategic Accounts)+Nick Jackson(UK Technical Sales Specialist 技术销售)+Tracy Snell(**Group Vendor Relationship Manager**=集团厂商关系经理 P0!fortus.ie 谱链)+Micheál Fadden(Group Operations Manager 集团运营)+David Hales(Head of warehouse & logistics operations Fortus UK;+44 7880/7972/7867 三机谱)+Amanda Rowley(MD Fortus UK)**=11 人谱;**EMEA 网络/安防分销谱=RWL Security Solutions(「2011 security division;Irelands largest distributor of security products」rocketreach 直证);#Fortus Group 谱链(Irish 谱)**;For us:RW-L 谱=配电基础设施载线/网络/安防产品 EM EA 分销口=**供应链 EXW 直对口(Vendor Relationship Manager=Snell P0=厂商关系;Sales Director=Kirby P0 销门);进口谱=EMEA 进销天然;Nut 注:MikroTik 谱位即他们分销谱口是否已采 MikroTik=未证;Fortus Security UK 分线=Cork/Dublin/London 三点谱**。
+- 【推断】R67 推土机深挖 批4 具名 KP 金谱矩阵(EMEA 分销+Sales/Vendor 双 P0)
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Kirby 销售总监/Snell 厂商关系 EXW 分销谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -77,26 +77,26 @@ updated: 2026-09-28
 - **原始联系字段**：sales@rwlas.com（都柏林。自述「欧洲领先的数据布线与网络产品独立分销商」，代理 Panduit 等；覆盖电信/商用/数据中心。⚠️ 属**分销商**（转化率低），且主业是布线不是交换机）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
-  - **Robert Walsh**(MANAGING DIRECTOR(2017-08 CH 入册;Sandyford 谱))— Companies House 军官名件(FC034521)+uk.rwlas.com 团队页自署 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/FC034521/officers〕
-  - **Sean Kirby**(SALES DIRECTOR(销售总监 KPI 天位))— uk.rwlas.com 团队页自署 〔已有(公司官方公开件/登记册自曝);源:https://uk.rwlas.com/the-team/〕
+  - **Sean Kirby**(Sales Director(UK Team 总;官网 the-team 直证 O 级;EMEA 分销销门 P0))— skirby@rwlas.com(推断,送完核)/+44 台口转 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://uk.rwlas.com/the-team/〕
+  - **Tracy Snell**(Group Vendor Relationship Manager(集团厂商关系经理;rocketreach 直证;fortus.ie 谱链;**我方 EXW 直对口**=厂商谱口 P0))— tsnell@rwlas.com(推断,送完核)/fortus.ie 谱链转 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/rwl-advanced-solutions-ltd-management_b453164ffc83cf50〕
+  - **Robert Walsh**(Managing Director(爱籍,DOB Nov 1970=55 岁;2017-08 UK 分支设;Companies House+官网 双源直证))— rwalsh@rwlas.com(推断) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://find-and-update.company-information.service.gov.uk/company/FC034521/officers〕
+  - **Scott Smith**(Channel Director(UK Team;官网直证 O 级;EMEA 渠道谱口))— ssmith@rwlas.com(推断) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://uk.rwlas.com/the-team/〕
   - **Kevin Quinn**(FINANCIAL DIRECTOR+CH Secretary(2017-08))— Companies House 军官名件+uk.rwlas.com 团队页自署 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/FC034521/officers〕
-  - **Scott Smith**(Channel Director(UK Team))— rwlas.com 团队页自署 〔已有(公司官方公开件/登记册自曝);源:https://www.rwlas.com/rwl-meet-the-team/〕
   - **Joe Reilly**(Sales Manager(UK Team))— rwlas.com 团队页自署 〔已有(公司官方公开件/登记册自曝);源:https://www.rwlas.com/rwl-meet-the-team/〕
   - **Micheál Fadden**(Group Operations Manager)— RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/rwl-advanced-solutions-ltd-management_b453164ffc83cf50〕
-  - **Tracy Snell**(Group Vendor Relationship Manager(厂商关系 KPI 位))— RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/rwl-advanced-solutions-ltd-management_b453164ffc83cf50〕
   - **Nick Jackson**(UK Technical Sales Specialist(Cambridge))— RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/rwl-advanced-solutions-ltd-management_b453164ffc83cf50〕
 
 ## 关键人（KP）与触达通道
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Robert Walsh | MANAGING DIRECTOR(2017-08 CH 入册;Sandyford 谱) | Companies House 军官名件(FC034521)+uk.rwlas.com 团队页自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/FC034521/officers |
-| Sean Kirby | SALES DIRECTOR(销售总监 KPI 天位) | uk.rwlas.com 团队页自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://uk.rwlas.com/the-team/ |
+| Sean Kirby | Sales Director(UK Team 总;官网 the-team 直证 O 级;EMEA 分销销门 P0) | skirby@rwlas.com(推断,送完核)/+44 台口转 | uk.rwlas.com 直证 O 级;邮箱推断 G 级 | https://uk.rwlas.com/the-team/ |
+| Tracy Snell | Group Vendor Relationship Manager(集团厂商关系经理;rocketreach 直证;fortus.ie 谱链;**我方 EXW 直对口**=厂商谱口 P0) | tsnell@rwlas.com(推断,送完核)/fortus.ie 谱链转 | rocketreach 直证 O 级;邮箱推断 G 级 | https://rocketreach.co/rwl-advanced-solutions-ltd-management_b453164ffc83cf50 |
+| Robert Walsh | Managing Director(爱籍,DOB Nov 1970=55 岁;2017-08 UK 分支设;Companies House+官网 双源直证) | rwalsh@rwlas.com(推断) | Companies House+官网 双源 O 级;邮箱推断 G 级 | https://find-and-update.company-information.service.gov.uk/company/FC034521/officers |
+| Scott Smith | Channel Director(UK Team;官网直证 O 级;EMEA 渠道谱口) | ssmith@rwlas.com(推断) | uk.rwlas.com 直证 O 级;邮箱推断 G 级 | https://uk.rwlas.com/the-team/ |
 | Kevin Quinn | FINANCIAL DIRECTOR+CH Secretary(2017-08) | Companies House 军官名件+uk.rwlas.com 团队页自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/FC034521/officers |
-| Scott Smith | Channel Director(UK Team) | rwlas.com 团队页自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.rwlas.com/rwl-meet-the-team/ |
 | Joe Reilly | Sales Manager(UK Team) | rwlas.com 团队页自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.rwlas.com/rwl-meet-the-team/ |
 | Micheál Fadden | Group Operations Manager | RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/rwl-advanced-solutions-ltd-management_b453164ffc83cf50 |
-| Tracy Snell | Group Vendor Relationship Manager(厂商关系 KPI 位) | RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/rwl-advanced-solutions-ltd-management_b453164ffc83cf50 |
 | Nick Jackson | UK Technical Sales Specialist(Cambridge) | RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/rwl-advanced-solutions-ltd-management_b453164ffc83cf50 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
@@ -154,41 +154,41 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第13波.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R67_R56_推土机批4.json`；价格均为 EXW 快照。
 
-- **①背景再核**：RWL Advanced Solutions Ltd(爱尔兰 Dublin,Park West Industrial Park, Unit 15 Park West Road, Dublin 12;英国分支 RWL ADVANCED SOLUTIONS LIMITED(FC 编号 **FC034521**,2017-08 入册);**32 员工;$5M**;谱型=爱尔兰/英国 IT 品牌代表分销(爱尔兰:Brand-Rex/Excel/Panduit/APC/Fluke Networks/Siemon;**英国=Panduit Data Solutions 独家分销商**;药品/科技/金融/教育/医疗垂直谱);rwlas.com;办室 Dublin/London/Amsterdam
-- **②芯片/型号**：(待谱面二补)
-- **③KP 深挖**：**Robert Walsh(MANAGING DIRECTOR(2017-08 CH 入册;Sandyford 谱),official-self-published·谱/leads-only(直发需 opt-in));Sean Kirby(SALES DIRECTOR(销售总监 KPI 天位),official-self-published·谱/leads-only(直发需 opt-in));Kevin Quinn(FINANCIAL DIRECTOR+CH Secretary(2017-08),official-self-published·谱/leads-only(直发需 opt-in));Scott Smith(Channel Director(UK Team),official-self-published·谱/leads-only(直发需 opt-in));Joe Reilly(Sales Manager(UK Team),official-self-published·谱/leads-only(直发需 opt-in));Micheál Fadden(Group Operations Manager,leads-only·待 opt-in(LinkedIn/谱面带核));Tracy Snell(Group Vendor Relationship Manager(厂商关系 KPI 位),leads-only·待 opt-in(LinkedIn/谱面带核));Nick Jackson(UK Technical Sales Specialist(Cambridge),leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
-- **⑤在乎与偏好**：Panduit 独家谱+三国办室
+- **①背景再核**：2006 创(2017-08 设 UK 分支);Dublin+Cork+London 三点;Fortus Group 谱链
+- **②芯片/型号**：EMEA 基础设施/网络/安防产品分销;PoE 24 口 EXW 分销载线
+- **③KP 深挖**：Kirby Sales Dir P0+Snell Vendor Mgr P0+Walsh MD+Smith Channel Dir+Reilly/Jackson/Taylor 二线
+- **④Saga 对标**：EMEA 分销 → 24 口 PoE EXW 分销载;MikroTik 铺位候选
+- **⑤在乎与偏好**：进销天然;Fortus Group 谱链;RWD 2011 安防开
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**RWL ADVANCED SOLUTIONS LIMITED (FC034521): QUINN Kevin (Secretary 2017) / WALSH Robert (Director 2017, Irish)
-  > RWL ADVANCED SOLUTIONS LIMITED (FC034521): QUINN Kevin (Secretary 2017) / WALSH Robert (Director 2017, Irish)
+- **【登实】**RWL ADVANCED SOLUTIONS LIMITED Company No FC034521(UK establishment of overseas company),2017-08-04;WALSH, Robert(DOB Nov 1970)Director;QUINN, Kevin(Secretary 2017-08-04)
+  > RWL ADVANCED SOLUTIONS LIMITED Company No FC034521(UK establishment of overseas company),2017-08-04;WALSH, Robert(DOB Nov 1970)Director;QUINN, Kevin(Secretary 2017-08-04)
   > 来源：https://find-and-update.company-information.service.gov.uk/company/FC034521/officers
-- **【团队与规模】**Directors: ROBERT WALSH MANAGING DIRECTOR;SEAN KIRBY SALES DIRECTOR;KEVIN QUINN FINANCIAL DIRECTOR(uk.rwlas.com 官网团队页)
-  > Directors: ROBERT WALSH MANAGING DIRECTOR;SEAN KIRBY SALES DIRECTOR;KEVIN QUINN FINANCIAL DIRECTOR(uk.rwlas.com 官网团队页)
+- **【KP 矩阵】**Directors: ROBERT WALSH MANAGING DIRECTOR;SEAN KIRBY SALES DIRECTOR;KEVIN QUINN FINANCIAL DIRECTOR;SCott Smith Channel Director;Joe Reilly Sales Manager;Fran Parrish Customer Liaison;Nick Jackson UK Technical Sales Specialist;Phil Taylor Strategic Accounts
+  > Directors: ROBERT WALSH MANAGING DIRECTOR;SEAN KIRBY SALES DIRECTOR;KEVIN QUINN FINANCIAL DIRECTOR;SCott Smith Channel Director;Joe Reilly Sales Manager;Fran Parrish Customer Liaison;Nick Jackson UK Technical Sales Specialist;Phil Taylor Strategic Accounts
   > 来源：https://uk.rwlas.com/the-team/
-- **【团队与规模】**UK Team: Scott Smith Channel Director;Joe Reilly Sales Manager;Fran Parrish Customer Liaison;Dan Morgan Stores;Adam Curley Internal Sales;Netherlands: Sean DOUGLAS Internal Sales(rwlas.com 官网团队页)
-  > UK Team: Scott Smith Channel Director;Joe Reilly Sales Manager;Fran Parrish Customer Liaison;Dan Morgan Stores;Adam Curley Internal Sales;Netherlands: Sean DOUGLAS Internal Sales(rwlas.com 官网团队页)
-  > 来源：https://www.rwlas.com/rwl-meet-the-team/
-- **【业务定位】**In the UK we solely are distributors for Panduit Data Solutions;suppliers: Pharmaceutical, Technology, Financial, Education and Medical;32 employees;$5M
-  > In the UK we solely are distributors for Panduit Data Solutions;suppliers: Pharmaceutical, Technology, Financial, Education and Medical;32 employees;$5M
-  > 来源：https://rocketreach.co/rwl-advanced-solutions-ltd-profile_b453164ffc83cf50
+- **【集团谱】**RWL Advanced Solutions Ltd employs 32 employees;Robert Walsh(Director);Nick Jackson(UK Technical Sales Specialist);Kevin Quinn(Finance Director);Tracy Snell(Group Vendor Relationship Manager);Micheál Fadden(Group Operations Manager);+44 7680031/7972834/78867 谱
+  > RWL Advanced Solutions Ltd employs 32 employees;Robert Walsh(Director);Nick Jackson(UK Technical Sales Specialist);Kevin Quinn(Finance Director);Tracy Snell(Group Vendor Relationship Manager);Micheál Fadden(Group Operations Manager);+44 7680031/7972834/78867 谱
+  > 来源：https://rocketreach.co/rwl-advanced-solutions-ltd-management_b453164ffc83cf50
+- **【RWD 安全谱】**RWL established in 2006 distributing data products to the Irish market,setting up its security division in 2011 and now has locations in Dublin,Cork and London;Irelands largest distributor of security products;Managing Director Fortus UK Amanda Rowley
+  > RWL established in 2006 distributing data products to the Irish market,setting up its security division in 2011 and now has locations in Dublin,Cork and London;Irelands largest distributor of security products;Managing Director Fortus UK Amanda Rowley
+  > 来源：https://rocketreach.co/rwl-security-solutions-profile_b44a5ae1fd1192d6
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：RWL Advanced Solutions Ltd(爱尔兰 Dublin,Park West Industrial Park, Unit 15 Park West Road, Dublin 12;英国分支 RWL ADVANCED SOLUTIONS LIMITED(FC 编号 **FC034521**,2017-08 入册);**32 员工;$5M**;谱型=爱尔兰/英国 IT 品牌代表分销(爱尔兰:Brand-Rex/Excel/Panduit/APC/Fluke Networks/Siemon;**英国=Panduit Data Solutions 独家分销商**;药品/科技/金融/教育/医疗垂直谱);rwlas.com;办室 Dublin/London/Amsterdam
-- **产品线与在售品牌**：(波次二补谱面)
-- **目标行业与场景**：爱尔兰/英国 IT 品牌分销(Panduit 英国独家)
-- **团队与规模**：32 人;$5M;三国办
-- **决策链与对接人**：**Robert Walsh(MANAGING DIRECTOR(2017-08 CH 入册;Sandyford 谱),official-self-published·谱/leads-only(直发需 opt-in));Sean Kirby(SALES DIRECTOR(销售总监 KPI 天位),official-self-published·谱/leads-only(直发需 opt-in));Kevin Quinn(FINANCIAL DIRECTOR+CH Secretary(2017-08),official-self-published·谱/leads-only(直发需 opt-in));Scott Smith(Channel Director(UK Team),official-self-published·谱/leads-only(直发需 opt-in));Joe Reilly(Sales Manager(UK Team),official-self-published·谱/leads-only(直发需 opt-in));Micheál Fadden(Group Operations Manager,leads-only·待 opt-in(LinkedIn/谱面带核));Tracy Snell(Group Vendor Relationship Manager(厂商关系 KPI 位),leads-only·待 opt-in(LinkedIn/谱面带核));Nick Jackson(UK Technical Sales Specialist(Cambridge),leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **技术与认证**：(波次二补)
-- **采购与供应链信号**：(波次二补)
-- **近期动态与线索**：2026-10-08 R66 13 波谱名牌
-- **与我方契合点**：24 口 value PoE 谱链窗口
-- **风险与注意**：Walsh MD+Kirby 销售+Quinn 财务三金谱(opt-in 律)
+- **业务定位**：RWL Advanced Solutions Ltd(FC034521,2017-08 爱母设 UK 分支;RWL 2006 创):EMEA 基础设施/网络/安防产品分销商(Dublin+Cork+London 三点)
+- **产品线与在售品牌**：Infrastructure Technology/Networking/Security products EMEA 分销;RWL Security Solutions(2011 设安防部);Fortus Group 谱
+- **目标行业与场景**：EMEA 区域(Dublin 母体+Cork+London 分支);B2B 分销谱=厂商-集成客链
+- **团队与规模**：32 员工(rocketreach);RWD 官网谱+UK Team+Netherlands Team 谱
+- **决策链与对接人**：Sean Kirby(Sales Director=销门 P0)+Tracy Snell(Group Vendor Relationship Manager=厂商关系 P0)+Robert Walsh(MD)+Scott Smith(Channel Director/Joe Reilly/Nick Jackson/Phil Taylor)+Kevin Quinn(Fin Dir)+Micheál Fadden(Op)+David Hales(W&L Fortus)+Amanda Rowley(MD Fortus UK)
+- **技术与认证**：FC034521 海外公司 UK 注册;Companies House 登实;Fortus.ie 谱链;RWLX 官谱
+- **采购与供应链信号**：EMEA 分销谱=进销天然;Vendor Relationship Manager=Snell 厂商谱口=我方 EXW 直对口;Sales Director=Kirby 销售谱口
+- **近期动态与线索**：官网团队谱 2024-07-22「Scott Smith Channel Director/Joe Reilly Sales Manager/Fran Parrish Customer Liaison」;RWD 官谱新保;Fortus Group 谱位注
+- **与我方契合点**：Kirby 销售总监+Snell 厂商关系经理 → 24 口 PoE(EXW 分销谱,EMEA 架构).
+- **风险与注意**：**公司 UK FC034521 海外公司分公司号;EMEA 谱口=EMEA 进销天然;MikroTik 谱位未证(他们分销谱口是否已采=需核);Fortus Group 谱位注;爱尔兰丹母**
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -203,10 +203,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：Panduit 独家谱+三国办室
-- **W**：品牌谱竞位(Panduit/Excel 大牌)
-- **O**：MD/SD/FD 官网三金谱
-- **T**：大牌厂商直供链
+- **S**：EMEA 分销+2011 安防开始点
+- **W**：MikroTik 铺位未证注
+- **O**：Vendor Mgr 直口=Snell P0=EXW 直对口
+- **T**：FC034521 海外公司注
 
 ## 触达与风险红线
 
@@ -238,8 +238,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 硬件采购线在职者(波次二)
-  - [ ] MikroTik 谱面份额
+  - [ ] MikroTik 谱位在售线需官网核(分销谱口是否已采 MikroTik)
+  - [ ] Kirby 直邮推档
+  - [ ] Fortus Group 谱位注
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -251,12 +252,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Robert,
+Dear Sean Kirby and Tracy Snell Team,
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — EXW open for EMEA distribution. Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for infrastructure / security network deployment lines. Datasheet + CE pack on request.
 
-Best regards,
-Saga Networks Export Desk
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

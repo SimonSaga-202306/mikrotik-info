@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Centerprise International Limited(英国;CENTERPRISE INTERNATIONAL LIMITED(贝辛斯托克 Hampshire International Business Park, RG24 8GQ;公司号 01738519;42 年谱(1983 谱面);公共部门 specialist+system building;51-100 人(Crunchbase);CI Group 谱面(Jon Atherton CI Group Director))
-- 【推断】R66 5-6 波:英国登记册(Companies House)/官网/LinkedIn 具名 KP 金谱
-- 【假设】24 口 value PoE 谱链窗口=($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
+- 【事实】波 R67 批4·A-104:英谱: **Centerprise International Ltd 深挖(Companies House/northdata/companycheck/growjo/datanyze 五源互证)**:**Company Number 01738519,1983 创(42 年!),SIC 43210 电气安装+IT 服务,注册 Hampshire International Business Park Lime Tree Way,Chineham Basingstoke RG24 8GQ**;**营收数窗:$52.6M(zoominfo/datanyze)/$28.9M(growjo 估 181 员工,~$159,500/人)——双锚钉;员工 216(datanyze)/201-500(zoominfo)/181(growjo)三窗注**;**9 董事 1 秘书(northdata)/12 现役(companycheck);Rafi Arif Abdul Razzak(f1949-03)+Rebecca Razzak(f1949-06)=创始家族双谱(1991-01 同任至今)=家族企业本;执行官谱:Mathew Thomas(CTO)+Sharon Allen(CFO 2012-09 任+秘书 2023-11)+Gaby Moran(Head Solutions and Service Delivery)+Jon Elliott(Director Government=**政府线谱位实职**)+Mohamed Hamakarim(Partner Alliance Director/Procurement Director 双职=**采购+厂商联盟 P0!**)+Duncan Templeton(Director Private Sector)+Amanda Harris(Director Asset Management)+Andrew Finney(Non-Exec Director 2017-03)+新董事:Marc Woosnam(2024-10)+John Collyer(2024-08)+Michael Elliott(2021-10)+Michael Keegan(2018-12)+Jeremy Nash(2016-07)+Samantha Lailey+Sharon Allen(2012-09)**;**守界注:Rear Admiral Philip Lawrence Wilcocks(前皇家海军少将)2017-01-05 曾董事(已去任=历史谱)+Director Government 现职=客户含政府线;任何商机仅用民用商用词,零军事/军供语义**;主营=IT 系统集成+服务(政府/私营两部);42 年谱=Basingstoke 老谱大户。
+- 【推断】R67 推土机深挖 批4 具名 KP 金谱(家族双谱+采购联盟 P0+政府线守界)
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Hamakarim 采购/联盟 P0 引路(民用商用词)
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,7 +76,10 @@ updated: 2026-09-28
 - **原始联系字段**：info@centerprise.co.uk（另有 admin@centerprise.co.uk；具名 Jeremy Nash（Director of Sales）、Rafi Razzak。51–100 人，公共部门/国防/教育）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
-  - **Rafi Arif Abdul Razzak**(Founder & Chairman(1991 在位 35 年))— Companies House+Crunchbase 双源 〔已有(公司官方公开件/登记册自曝);源:https://www.crunchbase.com/organization/centerprise-international〕
+  - **Mohamed Hamakarim**(Partner Alliance Director + Procurement Director(双职 growjo 直证;采购与厂商联盟=P0;政企谱分工均 O 级))— mhamakarim@centerprise.co.uk(推断,送完核)/+44 1256 台口转 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://growjo.com/company/Centerprise_International〕
+  - **Mathew Thomas**(Chief Technical Officer(growjo 直证 O 级;CTO 谱))— mthomas@centerprise.co.uk(推断) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://growjo.com/company/Centerprise_International〕
+  - **Jon Elliott**(Director Government(政府线 spectrum 守界注;growjo 直证 O 级))— jelliott@centerprise.co.uk(推断) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://growjo.com/company/Centerprise_International〕
+  - **Rafi Arif Abdul Razzak**(创始 Director(1991-01-15 任,DOB Mar 1949=76 岁;Razzak 家族企业谱;companycheck 直证))— 公司台口转;谱据 companycheck 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://companycheck.co.uk/company/01738519/CENTERPRISE-INTERNATIONAL-LIMITED〕
   - **Jeremy Shane 'Jez' Nash**(CEO/Director of Sales)— Crunchbase 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.crunchbase.com/organization/centerprise-international〕
   - **Samantha Louise Lailey**(HR & Support Director)— Companies House 军官名单 〔已有(公司官方公开件/登记册自曝);源:https://www.companycheck.co.uk/company/01738519/CENTERPRISE-INTERNATIONAL-LIMITED/companies-house-data〕
   - **Sharon Ann Allen**(Finance Director)— Companies House 军官名单 〔已有(公司官方公开件/登记册自曝);源:https://www.companycheck.co.uk/company/01738519/CENTERPRISE-INTERNATIONAL-LIMITED/companies-house-data〕
@@ -86,7 +89,10 @@ updated: 2026-09-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Rafi Arif Abdul Razzak | Founder & Chairman(1991 在位 35 年) | Companies House+Crunchbase 双源 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.crunchbase.com/organization/centerprise-international |
+| Mohamed Hamakarim | Partner Alliance Director + Procurement Director(双职 growjo 直证;采购与厂商联盟=P0;政企谱分工均 O 级) | mhamakarim@centerprise.co.uk(推断,送完核)/+44 1256 台口转 | growjo 直证 O 级;邮箱推断 G 级 | https://growjo.com/company/Centerprise_International |
+| Mathew Thomas | Chief Technical Officer(growjo 直证 O 级;CTO 谱) | mthomas@centerprise.co.uk(推断) | growjo 直证 O 级;邮箱推断 G 级 | https://growjo.com/company/Centerprise_International |
+| Jon Elliott | Director Government(政府线 spectrum 守界注;growjo 直证 O 级) | jelliott@centerprise.co.uk(推断) | growjo 直证 O 级;邮箱推断 G 级 | https://growjo.com/company/Centerprise_International |
+| Rafi Arif Abdul Razzak | 创始 Director(1991-01-15 任,DOB Mar 1949=76 岁;Razzak 家族企业谱;companycheck 直证) | 公司台口转;谱据 companycheck | companycheck 直证 O 级 | https://companycheck.co.uk/company/01738519/CENTERPRISE-INTERNATIONAL-LIMITED |
 | Jeremy Shane 'Jez' Nash | CEO/Director of Sales | Crunchbase | leads-only·待 opt-in(LinkedIn 公开面) | https://www.crunchbase.com/organization/centerprise-international |
 | Samantha Louise Lailey | HR & Support Director | Companies House 军官名单 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.companycheck.co.uk/company/01738519/CENTERPRISE-INTERNATIONAL-LIMITED/companies-house-data |
 | Sharon Ann Allen | Finance Director | Companies House 军官名单 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.companycheck.co.uk/company/01738519/CENTERPRISE-INTERNATIONAL-LIMITED/companies-house-data |
@@ -150,38 +156,41 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第5_6波.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R67_R56_推土机批4.json`；价格均为 EXW 快照。
 
-- **①背景再核**：CENTERPRISE INTERNATIONAL LIMITED(贝辛斯托克 Hampshire International Business Park, RG24 8GQ;公司号 01738519;42 年谱(1983 谱面);公共部门 specialist+system building;51-100 人(Crunchbase);CI Group 谱面(Jon Atherton CI Group Director)
-- **②芯片/型号**：公共部门 IT 方案+system building;MikroTik 库档信号
-- **③KP 深挖**：**Rafi Arif Abdul Razzak = Founder & Chairman(1991-01 任命 35 年在位,Crunchbase 谱 Founder/Chairman)+ Jez Nash (Jeremy Shane Nash) = CEO/Director of Sales(2016)+ Rebecca Razzak = Director(1991)+ Samantha Louise Lailey = HR & Support Director(2012)+ Sharon Ann Allen = Finance Director(2012,兼 Secretary)+ Peter Fearn/Andrew John Finney/Michael Geoffrey Keegan = Directors(2017-18)+ Michael Jonathan Elliott = Director(2021)+ Marc Allen Woosnam + John Richard Collyer = 2024 新任 Directors + Jon Atherton = CI Group Director(Crunchbase)+ Duncan Templeton = Director — 12 实名董事全谱金谱**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
-- **⑤在乎与偏好**：35 年在位 Founder+12 董事全谱
+- **①背景再核**：1983 创 42 年;Hampshire Basingstoke 总部;9 董事 1 秘书;Razzak 创始 1991
+- **②芯片/型号**：IT 系统集成政企链;PoE 24 口集成载线
+- **③KP 深挖**：Hamakarim 采购/联盟 P0+Thomas CTO+Elliott Government(守界)+Razzak 创始双谱
+- **④Saga 对标**：政企集成链(民用商用词)→ 24 口 PoE 载;Alliance/Procurement 直通
+- **⑤在乎与偏好**：42 年谱;Razzak 家族企业;北部+NHS/地方高专普
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**Rafi Razzak: Founder and Chairman;Jez Nash(Jeremy Nash): CEO/Director of Sales;Sharon Allen: Finance Director;Samantha Lailey: Human Resources & Support Director;Jon Atherton: CI Group Director;Duncan Templeton: Director
-  > Rafi Razzak: Founder and Chairman;Jez Nash(Jeremy Nash): CEO/Director of Sales;Sharon Allen: Finance Director;Samantha Lailey: Human Resources & Support Director;Jon Atherton: CI Group Director;Duncan Templeton: Director
-  > 来源：https://www.crunchbase.com/organization/centerprise-international
-- **【决策链与对接人】**12 current directors incl. Rafi Arif Abdul Razzak(1991)/Rebecca Razzak(1991)/Samantha Louise Lailey(2012)/Sharon Ann Allen(2012)/Jeremy Shane Nash(2016)/Peter Fearn(2017)/Andrew John Finney(2017)/Michael Geoffrey Keegan(2018)/Michael Jonathan Elliott(2021)/Marc Allen Woosnam(2024)/John Richard Collyer(2024)
-  > 12 current directors incl. Rafi Arif Abdul Razzak(1991)/Rebecca Razzak(1991)/Samantha Louise Lailey(2012)/Sharon Ann Allen(2012)/Jeremy Shane Nash(2016)/Peter Fearn(2017)/Andrew John Finney(2017)/Michael Geoffrey Keegan(2018)/Michael Jonathan Elliott(2021)/Marc Allen Woosnam(2024)/John Richard Collyer(2024)
-  > 来源：https://www.companycheck.co.uk/company/01738519/CENTERPRISE-INTERNATIONAL-LIMITED/companies-house-data
-- **【业务定位】**Centerprise International specialises in public sector services and system building, delivering IT solutions;51-100 employees
-  > Centerprise International specialises in public sector services and system building, delivering IT solutions;51-100 employees
-  > 来源：https://www.crunchbase.com/organization/centerprise-international
+- **【法体登册】**CENTERPRISE INTERNATIONAL LIMITED Company No 01738519;Incorporated On 11 August 1983(42 年);SIC 43210;Lime Tree Way Chineham Basingstoke RG24 8GQ;Capital £102,471;9 Director+1 Secretary
+  > CENTERPRISE INTERNATIONAL LIMITED Company No 01738519;Incorporated On 11 August 1983(42 年);SIC 43210;Lime Tree Way Chineham Basingstoke RG24 8GQ;Capital £102,471;9 Director+1 Secretary
+  > 来源：https://companycheck.co.uk/company/01738519/CENTERPRISE-INTERNATIONAL-LIMITED
+- **【创始家族】**Mr Rafi Arif Abdul Razzak(DOB Mar 1949)Director appointed 15 Jan 1991;Mrs Rebecca Razzak(DOB Jun 1949)Director appointed 15 Jan 1991=家族双谱
+  > Mr Rafi Arif Abdul Razzak(DOB Mar 1949)Director appointed 15 Jan 1991;Mrs Rebecca Razzak(DOB Jun 1949)Director appointed 15 Jan 1991=家族双谱
+  > 来源：https://companycheck.co.uk/company/01738519/CENTERPRISE-INTERNATIONAL-LIMITED
+- **【执行官谱】**Mathew Thomas CTO;Sharon Allen CFO;Gaby Moran Head Solutions and Service Delivery;Jon Elliott Director Government;Mohamed Hamakarim Partner Alliance Director/Procurement Director;Duncan Templeton Director Private Sector;Amanda Harris Director Asset Management
+  > Mathew Thomas CTO;Sharon Allen CFO;Gaby Moran Head Solutions and Service Delivery;Jon Elliott Director Government;Mohamed Hamakarim Partner Alliance Director/Procurement Director;Duncan Templeton Director Private Sector;Amanda Harris Director Asset Management
+  > 来源：https://growjo.com/company/Centerprise_International
+- **【守界谱】**Rear Admiral Philip Lawrence Wilcocks 5 Jan 2017 Appointment(已 Termination);Jon Elliott Director Government(现役)
+  > Rear Admiral Philip Lawrence Wilcocks 5 Jan 2017 Appointment(已 Termination);Jon Elliott Director Government(现役)
+  > 来源：https://www.northdata.com/Centerprise%20International%20Ltd%C2%B7,%20Basingstoke/Companies%20House%2001738519
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：CENTERPRISE INTERNATIONAL LIMITED(贝辛斯托克 Hampshire International Business Park, RG24 8GQ;公司号 01738519;42 年谱(1983 谱面);公共部门 specialist+system building;51-100 人(Crunchbase);CI Group 谱面(Jon Atherton CI Group Director)
-- **产品线与在售品牌**：公共部门 IT 方案+system building;MikroTik 库档信号
-- **目标行业与场景**：英国 IT/电信谱面
-- **团队与规模**：51-100 人;1983 谱
-- **决策链与对接人**：**Rafi Arif Abdul Razzak = Founder & Chairman(1991-01 任命 35 年在位,Crunchbase 谱 Founder/Chairman)+ Jez Nash (Jeremy Shane Nash) = CEO/Director of Sales(2016)+ Rebecca Razzak = Director(1991)+ Samantha Louise Lailey = HR & Support Director(2012)+ Sharon Ann Allen = Finance Director(2012,兼 Secretary)+ Peter Fearn/Andrew John Finney/Michael Geoffrey Keegan = Directors(2017-18)+ Michael Jonathan Elliott = Director(2021)+ Marc Allen Woosnam + John Richard Collyer = 2024 新任 Directors + Jon Atherton = CI Group Director(Crunchbase)+ Duncan Templeton = Director — 12 实名董事全谱金谱**
-- **技术与认证**：公共部门 specialist
-- **采购与供应链信号**：公共部门谱面+CI Group 谱
-- **近期动态与线索**：2026-10-07 R66 波次点名
-- **与我方契合点**：24 口 value PoE 谱链窗口
-- **风险与注意**：Rafi Razzak 35 年在位 Founder/Chairman=直达位;公共部门采购节奏菌
+- **业务定位**：Centerprise International Ltd(01738519,1983 创 42 年):Basingstoke IT 系统集成+服务 42 年大谱(政府+私营两部)
+- **产品线与在售品牌**：IT 系统集成/托管/云计算(企业+政府);Partner Alliance/Procurement 双职谱
+- **目标行业与场景**：企业+政府(Director Government 专员)+私营(Director Private Sector);UK 南部谱
+- **团队与规模**：216(datanyze)/181(growjo)/201-500 三窗注;9 董事 1 秘书;Razzak 家族企业
+- **决策链与对接人**：Mohamed Hamakarim(Partner Alliance/Procurement P0)+Mathew Thomas(CTO)+Jon Elliott(Government 守界)+Rafi/Rebecca Razzak(创始)+Gaby Moran(Solutions)
+- **技术与认证**：SIC 43210;Capital £102,471(northdata 历档);SHAB 2024-10/2024-08 两新董事档活
+- **采购与供应链信号**：Partner Alliance/Procurement 双职=渠道-采购直通；42 年谱=家谱延
+- **近期动态与线索**：新董事 2024-10(Woosnam)+2024-08(Collyer);KC Panel 2024-12 年报(northdata);Razzak 家族 1991 延创
+- **与我方契合点**：Hamakarim 采购/联盟 P0 → 24 口 PoE(政企集成链,民用商用词)载线
+- **风险与注意**：**守界注:Rear Admiral Wilcocks 前少将+Director Government 现职=家属政务谱;民用商用词必压,零军事/军供语义;营收双锚$52.6M/$28.9M;员数三窗**
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -196,10 +205,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：35 年在位 Founder+12 董事全谱
-- **W**：公共部门采购节奏菌
-- **O**：Rafi Razzak 直达位
-- **T**：公共部门大牌
+- **S**：42 年谱+Razzak 家族
+- **W**：Rear Admiral Wilcocks 前少将谱+Director Government 现职
+- **O**：Alliance/Procurement 直通+Hamakarim P0
+- **T**：守界+营收双锚
 
 ## 触达与风险红线
 
@@ -231,8 +240,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 公共部门谱面交换机采购线
-  - [ ] MikroTik 谱面实份
+  - [ ] MikroTik 谱位在售线需官网核
+  - [ ] Hamakarim 直邮推档
+  - [ ] Director Government 细分谱核
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -244,16 +254,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Rafi,
+Dear Mohamed Hamakarim Team,
 
-I came across Centerprise International Limited while mapping UK network and IT suppliers. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for commercial IT integration and alliance-distribution deployment lines. Datasheet + CE pack on request.
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效), a value unit that rides along with each deployment.
-
-Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
-
-Best regards,
-Saga Networks Export Desk
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -5,6 +5,7 @@
 
 | Commit | 提交时间（原始时区） | 说明 |
 |---|---|---|
+| `0ee9fed71c1b` | 2026-10-08T08:48:51+00:00 | R67 推土机批3:A类5户(瑞典Profcon SIOX自产烟控/德B.W. 30+年安防三点/A-118 HBS 700人 PE投 27高管/A-116 GSI Ford专线 Newman MBA/A-113 A3 C&B收并 Thomas;KP15条全URL;A-136 异名排噪)全谱入库 |
 | `51b613f3d366` | 2026-10-08T08:26:07+00:00 | R67 推土机批2:A类跨区5户金谱全谱入库(A-187 E866k SAS+A-226 CHE 38年 AG Lyoth CEO/Tschanz+Lory+A-140 Wetzlar Bachert GF/Werner 同名排噪+A-220 S.A. 1978 48年 Estévez(Defensa 守界)+A-112 BRS 201MSEK/2022 Ringbom/Lindberg/Barck/Gozzi;KP16条全URL;r55六键语义批1校准+swot dict 恢复;审计=历史 4 项零新增) |
 | `73a513fa60d9` | 2026-10-08T08:10:59+00:00 | R67 推土机批1:A类6户金谱深挖全谱入库(A-479双体纠旗/A-486双证/A-489三谱P0/A-490 LI直口/A-493 proff母司/A-497 登记Urban 33年;KP12条全URL;审计器B类退信册+R67穿透层;退信台账8条) |
 | `2f7bd0de34f6` | 2026-10-08T07:43:43+00:00 | R66 第29+30波:B类151户两波补全(76+75 强波幅;守档151/CONSULT-OEM×66豁免/UA13限定;B类167/167覆盖;A+B=747全网;累计792) |

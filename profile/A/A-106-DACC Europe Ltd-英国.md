@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】DACC Europe Ltd:DACC EUROPE LIMITED(英国 London Docklands,154 Cannon Workshops, 3 Cannon Drive, E14 4AS;公司号 **03297031**;+44 20 7538 8701;dacceurope.com;老牌综合布线/网络基础设施集成商(**FORS & RISQS 批准铁路分部+数据中心分部**;全司 ISO9001+ISO14001;蓝芯片客户谱;147 人(zoominfo 谱)/19 人(GlobalDatabase 件));姊妹 Dacc Europe Mechanical And Electrical Limited/母体 Hutchison Technologies Limited
-- 【推断】R66 第 13 波具名 KP 金谱
-- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
+- 【事实】波 R67 批4·A-106:英谱: **DACC Europe Ltd 深挖(Companies House/globaldatabase/northdata/companycheck/crunchbase 五源互证)**:Company Number 03297031,1996-12-30 创(**29 年**),SIC 61100 Wired telecommunications activities(有线通信);注册 154 Cannon Workshops 3 Cannon Drive London E14 4AS(**金丝雀码头**)+northdata 注 Eastleigh 旧营业地 Highfield Court Tollgate Chandler's Ford SO53 3TY;**业务=computer cabling systems 供应安装+structured cabling/infrastructure/mechanical & electrical services(Crunchbase);IT spend $3.7M(Aberdeen 估)**;员工 19(globaldatabase)/51-100(crunchbase 窗注);**现金 £652,230 增 71.78%(2023-12 年报);总资 £12M/留资 £1.4M;UK funding £5k(2015)**;**KP 金谱:Jasvinderpal Singh Matharu(f1961-12=64 岁,**二度任**:1999-02 首任→2015-06 退→2019-02 复任至今,Companies House 直证)+Marin Krastev Shkodrov(f1975-09=50 岁,2014-06 任,Director+Company Secretary 双职,金丝雀码头谱)+Simon James(Director)+Andrew Shaw(CXO)+Michael Shaw(CXO)**=5 人谱(globaldatabase);**往变:11 directors(2023-12 confirmation statement);网 dacceurope.com;age 29 年;+44 0207 538 8701**;**谱位=布线与基础设施/机电服务(Telecommunications Services/Tv Broadcast 双 SIC 歧)——布线集成商 LDN 金丝雀码头谱**;**给我方挂念:布线集成的交换机件直采口=Signal=Shkodrov+Matharu 双董事直门**。
+- 【推断】R67 推土机深挖 批4 具名 KP 金谱(Matharu 二度任+金丝雀码头谱)
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Matharu/Shkodrov 双董事布线集成交换器件直采载线引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -77,8 +77,9 @@ updated: 2026-09-28
 - **原始联系字段**：+44 (0) 207 538 8701；⚠️ 无直接邮箱：域名 dacceurope.com｜具名 Chris Yearwood（Director of Operations）、Jon H（Head of Railway Division Comms）。**有铁路通信部门** → 工业/轨交场景强对口，值得人工解锁 @dacceurope.com 姓名邮箱
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
-  - **Marin Krastev Shkodrov**(Director+Secretary+PSC(实控人,2014-06 任命;姊妹公司互通人))— Companies House 军官名件+Endole PSC 件 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/03297031/officers〕
-  - **Jasvinderpal Singh Matharu**(Director+PSC(Accountant 职;1999-02 首任/2015 退/2019-02 复任))— Companies House 军官名件+Endole PSC 件 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/03297031/officers〕
+  - **Jasvinderpal Singh Matharu**(Director( Companies House 直证二度任:1999-02 首任→2015-06 退→2019-02 复任至今;DOB Dec 1961=64 岁;Surrey Weybridge 谱))— jmatharu@dacceuro.com(推断,送完核)/+44 0207 538 8701 台口转 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://find-and-update.company-information.service.gov.uk/company/03297031/officers〕
+  - **Marin Krastev Shkodrov**(Director+Company Secretary(双职 Companies House 直证;2014-06-10 任;DOB Sep 1975=50 岁;金丝雀码头 E14 谱))— mshkodrov@dacceuro.com(推断) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://find-and-update.company-information.service.gov.uk/company/03297031/officers〕
+  - **Andrew Shaw**(CXO(globaldatabase 拍谱;Shaw 家族谱(Marcus/Michael 同谱)=二线谱))— ashaw@dacceuro.com(推断) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://uk.globaldatabase.com/company/dacc-europe-limited〕
   - **Tony Grace**(Commercial & Sales Director)— dacceurope.com Our leadership 官网自署 〔已有(公司官方公开件/登记册自曝);源:https://www.dacceurope.com/〕
   - **David Long**(Technical Director)— dacceurope.com Our leadership 官网自署 〔已有(公司官方公开件/登记册自曝);源:https://www.dacceurope.com/〕
   - **Ricky Akers**(Projects Director)— dacceurope.com Our leadership 官网自署 〔已有(公司官方公开件/登记册自曝);源:https://www.dacceurope.com/〕
@@ -89,8 +90,9 @@ updated: 2026-09-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Marin Krastev Shkodrov | Director+Secretary+PSC(实控人,2014-06 任命;姊妹公司互通人) | Companies House 军官名件+Endole PSC 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/03297031/officers |
-| Jasvinderpal Singh Matharu | Director+PSC(Accountant 职;1999-02 首任/2015 退/2019-02 复任) | Companies House 军官名件+Endole PSC 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/03297031/officers |
+| Jasvinderpal Singh Matharu | Director( Companies House 直证二度任:1999-02 首任→2015-06 退→2019-02 复任至今;DOB Dec 1961=64 岁;Surrey Weybridge 谱) | jmatharu@dacceuro.com(推断,送完核)/+44 0207 538 8701 台口转 | Companies House 直证 O 级;邮箱推断 G 级 | https://find-and-update.company-information.service.gov.uk/company/03297031/officers |
+| Marin Krastev Shkodrov | Director+Company Secretary(双职 Companies House 直证;2014-06-10 任;DOB Sep 1975=50 岁;金丝雀码头 E14 谱) | mshkodrov@dacceuro.com(推断) | Companies House 直证 O 级;邮箱推断 G 级 | https://find-and-update.company-information.service.gov.uk/company/03297031/officers |
+| Andrew Shaw | CXO(globaldatabase 拍谱;Shaw 家族谱(Marcus/Michael 同谱)=二线谱) | ashaw@dacceuro.com(推断) | globaldatabase O/G 级;邮箱推断 G 级 | https://uk.globaldatabase.com/company/dacc-europe-limited |
 | Tony Grace | Commercial & Sales Director | dacceurope.com Our leadership 官网自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.dacceurope.com/ |
 | David Long | Technical Director | dacceurope.com Our leadership 官网自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.dacceurope.com/ |
 | Ricky Akers | Projects Director | dacceurope.com Our leadership 官网自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.dacceurope.com/ |
@@ -155,38 +157,41 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第13波.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R67_R56_推土机批4.json`；价格均为 EXW 快照。
 
-- **①背景再核**：DACC EUROPE LIMITED(英国 London Docklands,154 Cannon Workshops, 3 Cannon Drive, E14 4AS;公司号 **03297031**;+44 20 7538 8701;dacceurope.com;老牌综合布线/网络基础设施集成商(**FORS & RISQS 批准铁路分部+数据中心分部**;全司 ISO9001+ISO14001;蓝芯片客户谱;147 人(zoominfo 谱)/19 人(GlobalDatabase 件));姊妹 Dacc Europe Mechanical And Electrical Limited/母体 Hutchison Technologies Limited
-- **②芯片/型号**：(待谱面二补)
-- **③KP 深挖**：**Marin Krastev Shkodrov(Director+Secretary+PSC(实控人,2014-06 任命;姊妹公司互通人),official-self-published·谱/leads-only(直发需 opt-in));Jasvinderpal Singh Matharu(Director+PSC(Accountant 职;1999-02 首任/2015 退/2019-02 复任),official-self-published·谱/leads-only(直发需 opt-in));Tony Grace(Commercial & Sales Director,official-self-published·谱/leads-only(直发需 opt-in));David Long(Technical Director,official-self-published·谱/leads-only(直发需 opt-in));Ricky Akers(Projects Director,official-self-published·谱/leads-only(直发需 opt-in));Lee Millar(Service Delivery Director,official-self-published·谱/leads-only(直发需 opt-in));Photis Patsalide((原)Director(2022-07~2024-01 已退,留痕),official-self-published·谱/leads-only(直发需 opt-in))**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
-- **⑤在乎与偏好**：FORS/RISQS 铁路谱+DC 分部
+- **①背景再核**：1996 创 29 年;Canary Wharf E14 金丝雀码头+旧 Eastleigh;SHAB 2023-12 档活
+- **②芯片/型号**：布线/基础设施/机电服务;PoE 24 口载线
+- **③KP 深挖**：Matharu 二度任 64+Shkodrov 双职 50+James/Shaw CXO 5 人谱
+- **④Saga 对标**：布线集成链 → 24 口 PoE 直采载;金丝雀码头谱
+- **⑤在乎与偏好**：29 年谱;金丝雀码头 E14 谱;Telecom SIC
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**Officers Active: SHKODROV Marin Krastev (Director 2014) / MATHARU Jasvinderpal Singh (Director 2019);Controllers (PSC): Marin Krastev Shkodrov + Jasvinderpal Singh Matharu(Endole)
-  > Officers Active: SHKODROV Marin Krastev (Director 2014) / MATHARU Jasvinderpal Singh (Director 2019);Controllers (PSC): Marin Krastev Shkodrov + Jasvinderpal Singh Matharu(Endole)
-  > 来源：https://open.endole.co.uk/insight/company/03297031-dacc-europe-limited
-- **【团队与规模】**Our leadership: Tony Grace Commercial & Sales Director;David Long Technical Director;Ricky Akers Projects Director;Lee Millar Service Delivery Director(dacceurope.com 官网)
-  > Our leadership: Tony Grace Commercial & Sales Director;David Long Technical Director;Ricky Akers Projects Director;Lee Millar Service Delivery Director(dacceurope.com 官网)
-  > 来源：https://www.dacceurope.com/
-- **【业务定位】**long-established integrator specialising in structured cabling and associated network infrastructure;FORS & RISQS approved Railway Division;Data Centre Division;ISO9001/ISO14001;147 employees
-  > long-established integrator specialising in structured cabling and associated network infrastructure;FORS & RISQS approved Railway Division;Data Centre Division;ISO9001/ISO14001;147 employees
-  > 来源：https://www.zoominfo.com/c/dacc-europe-ltd/36557947
+- **【法体登册】**DACC Europe Limited Company No 03297031;Incorporated 30 December 1996;SIC 61100 Wired telecommunications activities;154 Cannon Workshops 3 Cannon Drive London E14 4AS;+44 0207 538 8701
+  > DACC Europe Limited Company No 03297031;Incorporated 30 December 1996;SIC 61100 Wired telecommunications activities;154 Cannon Workshops 3 Cannon Drive London E14 4AS;+44 0207 538 8701
+  > 来源：https://find-and-update.company-information.service.gov.uk/company/03297031
+- **【二度任金谱】**MATHARU, Jasvinderpal Singh(DOB Dec 1961)Director appointed 1999-02-10,resigned 2015-06-01,reappointed 2019-02-27=二度任;SHKODROV, Marin Krastev(DOB Sep 1975)Director+Company Secretary 2014-06-10 in role
+  > MATHARU, Jasvinderpal Singh(DOB Dec 1961)Director appointed 1999-02-10,resigned 2015-06-01,reappointed 2019-02-27=二度任;SHKODROV, Marin Krastev(DOB Sep 1975)Director+Company Secretary 2014-06-10 in role
+  > 来源：https://find-and-update.company-information.service.gov.uk/company/03297031/officers
+- **【财务】**Latest financial report submitted 2023-12-31: Cash £652,230 increased 71.78% yoy;Total-Assets £12M;Working-Capital £1M;19 employees(staff increase 0%);11 directors;Age 29
+  > Latest financial report submitted 2023-12-31: Cash £652,230 increased 71.78% yoy;Total-Assets £12M;Working-Capital £1M;19 employees(staff increase 0%);11 directors;Age 29
+  > 来源：https://uk.globaldatabase.com/company/dacc-europe-limited
+- **【公司谱】**DACC Europe specializes in structured cabling, infrastructure, and mechanical, and electrical services;Private London;51-100 employees;Information Technology/Mechanical Engineering/Network Hardware;+44 0207 538 8701;IT spend projected $3.7M
+  > DACC Europe specializes in structured cabling, infrastructure, and mechanical, and electrical services;Private London;51-100 employees;Information Technology/Mechanical Engineering/Network Hardware;+44 0207 538 8701;IT spend projected $3.7M
+  > 来源：https://www.crunchbase.com/organization/dacc-europe
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：DACC EUROPE LIMITED(英国 London Docklands,154 Cannon Workshops, 3 Cannon Drive, E14 4AS;公司号 **03297031**;+44 20 7538 8701;dacceurope.com;老牌综合布线/网络基础设施集成商(**FORS & RISQS 批准铁路分部+数据中心分部**;全司 ISO9001+ISO14001;蓝芯片客户谱;147 人(zoominfo 谱)/19 人(GlobalDatabase 件));姊妹 Dacc Europe Mechanical And Electrical Limited/母体 Hutchison Technologies Limited
-- **产品线与在售品牌**：(波次二补谱面)
-- **目标行业与场景**：英国伦敦码头区布线/DC 集成商(铁路分部)
-- **团队与规模**：147 人;ISO 双证
-- **决策链与对接人**：**Marin Krastev Shkodrov(Director+Secretary+PSC(实控人,2014-06 任命;姊妹公司互通人),official-self-published·谱/leads-only(直发需 opt-in));Jasvinderpal Singh Matharu(Director+PSC(Accountant 职;1999-02 首任/2015 退/2019-02 复任),official-self-published·谱/leads-only(直发需 opt-in));Tony Grace(Commercial & Sales Director,official-self-published·谱/leads-only(直发需 opt-in));David Long(Technical Director,official-self-published·谱/leads-only(直发需 opt-in));Ricky Akers(Projects Director,official-self-published·谱/leads-only(直发需 opt-in));Lee Millar(Service Delivery Director,official-self-published·谱/leads-only(直发需 opt-in));Photis Patsalide((原)Director(2022-07~2024-01 已退,留痕),official-self-published·谱/leads-only(直发需 opt-in))**
-- **技术与认证**：(波次二补)
-- **采购与供应链信号**：(波次二补)
-- **近期动态与线索**：2026-10-08 R66 13 波谱名牌
-- **与我方契合点**：24 口 value PoE 谱链窗口
-- **风险与注意**：PSC 实控+销售/技术/项目/交付四档(opt-in 律)
+- **业务定位**：DACC Europe Ltd(03297031,1996 创 29 年,有线电信 SIC):伦敦 E14 金丝雀码头布线/基础设施/机电服务商
+- **产品线与在售品牌**：Computer cabling systems 供装+structured cabling/infrastructure/mechanical & electrical services;IT spend $3.7M
+- **目标行业与场景**：伦敦金丝雀码头 E14 区域商用办公+数据中心布线/机电;有线通信 SIC
+- **团队与规模**：19(globaldatabase)/51-100(crunchbase)双窗注;5 人董事谱;29 年
+- **决策链与对接人**：Jasvinderpal Singh Matharu(Director 二度任 64 岁)+Marin Krastev Shkodrov(Director+Secretary 双职 50 岁)+Simon James+Andrew Shaw(CXO)+Michael Shaw(CXO)
+- **技术与认证**：SIC 61100/61900 Wired telecom;Companies House 登实;UK funding £5k 2015
+- **采购与供应链信号**：£652,230 现金增 71.78%(2023-12);£12M 总资产/£1.4M 留资;布线集成→交换机件直采谱
+- **近期动态与线索**：董事二度任(Matharu 2019 复任);Eastleigh 旧营业地;现金大幅增 71.78% 新保
+- **与我方契合点**：Matharu/Shkodrov 双董事直门 → 24 口 PoE(布线集成交换器件直采)载线
+- **风险与注意**：**营收 IT spend $3.7M 估单源注;Matharu 二度任=2019 复任谱钉;员数 19/51-100 两窗注;报名墙东、北史注**
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -201,10 +206,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：FORS/RISQS 铁路谱+DC 分部
-- **W**：母体 Hutchison 谱层
-- **O**：PSC 双实控+官网四 Director
-- **T**：大牌布线件链
+- **S**：29 年+金丝雀码头
+- **W**：营收 IT spend $3.7M 单源估注
+- **O**：现金 £652k 增 71.78%=新保
+- **T**：员数 19/51-100 两窗注
 
 ## 触达与风险红线
 
@@ -236,8 +241,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 硬件采购线在职者(波次二)
-  - [ ] MikroTik 谱面份额
+  - [ ] MikroTik 谱位在售线需官网核
+  - [ ] Matharu 直邮推档
+  - [ ] 员数 19 vs 51-100 两窗差精确次年订
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -249,12 +255,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Tony,
+Dear Jasvinderpal Matharu Team,
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for structured cabling and infrastructure deployment lines in commercial properties. Datasheet + CE pack on request.
 
-Best regards,
-Saga Networks Export Desk
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

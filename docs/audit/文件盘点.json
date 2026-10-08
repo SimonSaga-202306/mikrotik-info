@@ -1667,9 +1667,19 @@
       "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
       "sha256": "ffbfa1c621b00462dec48199fdc64867d8b6f325e0ba93a79d4cbe350cad31d3",
       "bytes": 48073,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 617,
       "unique_url_count": 22,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
+      "sha256": "8316e163710f5e5ebba1bc3e379d0a447bd3c093a06ad1feb73bce80a4418d13",
+      "bytes": 50683,
+      "tracked_at_scan": false,
+      "units_scanned": 638,
+      "unique_url_count": 19,
       "inspection": {},
       "errors": []
     },
@@ -3015,7 +3025,7 @@
     },
     {
       "path": "docs/audit/A类入库完整性审计_2026-09-29.json",
-      "sha256": "c9733fc8c7877fb40d02a02fb19db6621eeadba86ed1fef2c0e4dc8a7d6e18f3",
+      "sha256": "ecd417b07cbdf71e84e1faba383a9286bff2f3060e24722b67020736b104bba9",
       "bytes": 3694,
       "tracked_at_scan": true,
       "units_scanned": 130,
@@ -3065,10 +3075,10 @@
     },
     {
       "path": "docs/requirements/用户要求总账.md",
-      "sha256": "a564ba8453f4f7d6d453216e72c49e924318ee690273ed185a3d39dc1fe9d660",
-      "bytes": 214805,
+      "sha256": "756e38edd412f97f37cb6cd3855c70963d0c777d451f9c59364385b62d791a90",
+      "bytes": 219133,
       "tracked_at_scan": true,
-      "units_scanned": 1512,
+      "units_scanned": 1524,
       "unique_url_count": 3,
       "inspection": {},
       "errors": []
@@ -4125,10 +4135,10 @@
     },
     {
       "path": "profile/A/A-101-Lloret Control Systems Ltd-英国.md",
-      "sha256": "8893b6b58dee460ac7f272311b39fd5df7d9d5ff3495af279dcd5c7e77ed556c",
-      "bytes": 21808,
+      "sha256": "44528f795e1449a7b0a12f68f0ea2ca783afe82d1c0863ba89bab08adfc480fb",
+      "bytes": 23511,
       "tracked_at_scan": true,
-      "units_scanned": 278,
+      "units_scanned": 279,
       "unique_url_count": 6,
       "inspection": {},
       "errors": []
@@ -4155,11 +4165,11 @@
     },
     {
       "path": "profile/A/A-104-Centerprise International Limited-英国.md",
-      "sha256": "1702ccad6e70f7b4a29f5c17417722fc6356c8c9af5c234374d2a58f803396f2",
-      "bytes": 20837,
+      "sha256": "5477d04fa433a85220f229d13de561565ee3de5cbfa9a1b3347bac2741e59ac8",
+      "bytes": 23050,
       "tracked_at_scan": true,
-      "units_scanned": 276,
-      "unique_url_count": 5,
+      "units_scanned": 282,
+      "unique_url_count": 10,
       "inspection": {},
       "errors": []
     },
@@ -4175,11 +4185,11 @@
     },
     {
       "path": "profile/A/A-106-DACC Europe Ltd-英国.md",
-      "sha256": "4070c29f5dbd56f25ecd521c8b1d8f8add0d6491b62664b9f8d8896658b61cbf",
-      "bytes": 22272,
+      "sha256": "e27c02968836d5401a8d75923e675458f72fcc907fadfddd5bb6d080ae910826",
+      "bytes": 23322,
       "tracked_at_scan": true,
-      "units_scanned": 277,
-      "unique_url_count": 6,
+      "units_scanned": 283,
+      "unique_url_count": 8,
       "inspection": {},
       "errors": []
     },
@@ -4205,21 +4215,21 @@
     },
     {
       "path": "profile/A/A-109-RWL Advanced Solutions-英国.md",
-      "sha256": "c79ec125a1072e9f8d22c78d98a4ef870ba4a66f3eed17dc8dbd80d08b55d4d6",
-      "bytes": 22048,
+      "sha256": "08708c1468147acb9d35b3e944b7d4647e03948ec8eae1e7bc72d3a316ae83e1",
+      "bytes": 23446,
       "tracked_at_scan": true,
-      "units_scanned": 279,
+      "units_scanned": 280,
       "unique_url_count": 10,
       "inspection": {},
       "errors": []
     },
     {
       "path": "profile/A/A-110-Senseco Systems Ltd-英国.md",
-      "sha256": "dd5734fb7b2c00a5a7969af2a8065c0936d948d0e07d484c19bc9c6f83af0057",
-      "bytes": 21661,
+      "sha256": "d49a64589b2ec56541c60e913a9aaf3f1956299fa829da9924baf9c9e06d6974",
+      "bytes": 23310,
       "tracked_at_scan": true,
-      "units_scanned": 273,
-      "unique_url_count": 9,
+      "units_scanned": 279,
+      "unique_url_count": 11,
       "inspection": {},
       "errors": []
     },
@@ -14235,10 +14245,10 @@
     },
     {
       "path": "scripts/make_profiles.py",
-      "sha256": "1b761e028d52915cae3d336f4ff67b439a37819531a2292b4b8abe1fcfb8beec",
-      "bytes": 39903,
+      "sha256": "d0dba119bbc0fc40d0739eeafa75d26b8ada09e49f52ba31615d7f2d8cbcfdbe",
+      "bytes": 39965,
       "tracked_at_scan": true,
-      "units_scanned": 821,
+      "units_scanned": 822,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []

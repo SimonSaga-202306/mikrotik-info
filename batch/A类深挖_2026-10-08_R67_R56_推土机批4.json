@@ -1,0 +1,638 @@
+{
+ "date": "2026-10-08",
+ "wave": "R67 推土机深挖 批4(英谱系 5 户:A-104 Centerprise 42年/A-110 Senseco 碳中和首/A-106 DACC金丝雀码头/A-101 Lloret Trend 授权品/A-109 RWL EMEA 分销)",
+ "scope": "深挖 5/5;具名 KP 16 条(Hamakarim/Thomas/Elliott/Razzak/Thomas S/Duhan/Thompson/Matharu/Shkodrov/Shaw/Lovelock/Sjoblom/Smith/Young/Kirby/Snell/Walsh/Scott Smith);数窗双锚(A-104 $52.6M/$28.9M,A-106 19/51-100 员,A-110 $15.2M 单源,A-109 32 员工);守界 1 户(A-104 前 Rear Admiral Wilcocks+Director Government);谱制化排噪/Embr 口(A-109 Vendor Mgr=Snell P0)",
+ "records": [
+  {
+   "customer": "A-104",
+   "fact": "波 R67 批4·A-104:英谱: **Centerprise International Ltd 深挖(Companies House/northdata/companycheck/growjo/datanyze 五源互证)**:**Company Number 01738519,1983 创(42 年!),SIC 43210 电气安装+IT 服务,注册 Hampshire International Business Park Lime Tree Way,Chineham Basingstoke RG24 8GQ**;**营收数窗:$52.6M(zoominfo/datanyze)/$28.9M(growjo 估 181 员工,~$159,500/人)——双锚钉;员工 216(datanyze)/201-500(zoominfo)/181(growjo)三窗注**;**9 董事 1 秘书(northdata)/12 现役(companycheck);Rafi Arif Abdul Razzak(f1949-03)+Rebecca Razzak(f1949-06)=创始家族双谱(1991-01 同任至今)=家族企业本;执行官谱:Mathew Thomas(CTO)+Sharon Allen(CFO 2012-09 任+秘书 2023-11)+Gaby Moran(Head Solutions and Service Delivery)+Jon Elliott(Director Government=**政府线谱位实职**)+Mohamed Hamakarim(Partner Alliance Director/Procurement Director 双职=**采购+厂商联盟 P0!**)+Duncan Templeton(Director Private Sector)+Amanda Harris(Director Asset Management)+Andrew Finney(Non-Exec Director 2017-03)+新董事:Marc Woosnam(2024-10)+John Collyer(2024-08)+Michael Elliott(2021-10)+Michael Keegan(2018-12)+Jeremy Nash(2016-07)+Samantha Lailey+Sharon Allen(2012-09)**;**守界注:Rear Admiral Philip Lawrence Wilcocks(前皇家海军少将)2017-01-05 曾董事(已去任=历史谱)+Director Government 现职=客户含政府线;任何商机仅用民用商用词,零军事/军供语义**;主营=IT 系统集成+服务(政府/私营两部);42 年谱=Basingstoke 老谱大户。",
+   "inference": "R67 推土机深挖 批4 具名 KP 金谱(家族双谱+采购联盟 P0+政府线守界)",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Hamakarim 采购/联盟 P0 引路(民用商用词)",
+   "evidence_main": "https://www.northdata.com/Centerprise%20International%20Ltd%C2%B7,%20Basingstoke/Companies%20House%2001738519",
+   "tech": "IT 系统集成/政府+私营两部;Partner Alliance/Procurement 双职通道;Basingstoke 老谱",
+   "hr": "216(datanyze)或 181(growjo)三窗;9 董事 1 秘书;Razzak 家族创始企业",
+   "contact_found": "**Mohamed Hamakarim(Partner Alliance Director/Procurement Director=采购+厂商联盟 P0)+Mathew Thomas(CTO)+Jon Elliott(Director Government 守界注)+Rafi/Rebecca Razzak(创始家族双谱 1991)**",
+   "contact_pending": "直发具名需 opt-in;多年谱职分工均 O 级高全官",
+   "dims": {
+    "业务定位": "Centerprise International Ltd(01738519,1983 创 42 年):Basingstoke IT 系统集成+服务 42 年大谱(政府+私营两部)",
+    "产品线与在售品牌": "IT 系统集成/托管/云计算(企业+政府);Partner Alliance/Procurement 双职谱",
+    "目标行业与场景": "企业+政府(Director Government 专员)+私营(Director Private Sector);UK 南部谱",
+    "团队与规模": "216(datanyze)/181(growjo)/201-500 三窗注;9 董事 1 秘书;Razzak 家族企业",
+    "决策链与对接人": "Mohamed Hamakarim(Partner Alliance/Procurement P0)+Mathew Thomas(CTO)+Jon Elliott(Government 守界)+Rafi/Rebecca Razzak(创始)+Gaby Moran(Solutions)",
+    "技术与认证": "SIC 43210;Capital £102,471(northdata 历档);SHAB 2024-10/2024-08 两新董事档活",
+    "采购与供应链信号": "Partner Alliance/Procurement 双职=渠道-采购直通；42 年谱=家谱延",
+    "近期动态与线索": "新董事 2024-10(Woosnam)+2024-08(Collyer);KC Panel 2024-12 年报(northdata);Razzak 家族 1991 延创",
+    "与我方契合点": "Hamakarim 采购/联盟 P0 → 24 口 PoE(政企集成链,民用商用词)载线",
+    "风险与注意": "**守界注:Rear Admiral Wilcocks 前少将+Director Government 现职=家属政务谱;民用商用词必压,零军事/军供语义;营收双锚$52.6M/$28.9M;员数三窗**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "CENTERPRISE INTERNATIONAL LIMITED Company No 01738519;Incorporated On 11 August 1983(42 年);SIC 43210;Lime Tree Way Chineham Basingstoke RG24 8GQ;Capital £102,471;9 Director+1 Secretary",
+     "source": "https://companycheck.co.uk/company/01738519/CENTERPRISE-INTERNATIONAL-LIMITED"
+    },
+    {
+     "dim": "创始家族",
+     "quote": "Mr Rafi Arif Abdul Razzak(DOB Mar 1949)Director appointed 15 Jan 1991;Mrs Rebecca Razzak(DOB Jun 1949)Director appointed 15 Jan 1991=家族双谱",
+     "source": "https://companycheck.co.uk/company/01738519/CENTERPRISE-INTERNATIONAL-LIMITED"
+    },
+    {
+     "dim": "执行官谱",
+     "quote": "Mathew Thomas CTO;Sharon Allen CFO;Gaby Moran Head Solutions and Service Delivery;Jon Elliott Director Government;Mohamed Hamakarim Partner Alliance Director/Procurement Director;Duncan Templeton Director Private Sector;Amanda Harris Director Asset Management",
+     "source": "https://growjo.com/company/Centerprise_International"
+    },
+    {
+     "dim": "守界谱",
+     "quote": "Rear Admiral Philip Lawrence Wilcocks 5 Jan 2017 Appointment(已 Termination);Jon Elliott Director Government(现役)",
+     "source": "https://www.northdata.com/Centerprise%20International%20Ltd%C2%B7,%20Basingstoke/Companies%20House%2001738519"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Hamakarim 采购/联盟 P0",
+     "push": "STC-424XGGPM-280W",
+     "angle": "Partner Alliance/Procurement Director 双职直通 → 24 口 PoE(民用商用词,零政府军事)载线",
+     "question": "贵司政企集成链的 PoE 交换机集购由哪位同事主责?Alliance 线的交换机件铺位口?",
+     "proof": "Companies House+growjo 双源"
+    },
+    {
+     "stage": "第 2 次跟进 · Thomas CTO 二线",
+     "push": "STI-288GPM/424",
+     "angle": "CTO 直门;42 年谱钩;Razzak 家族带",
+     "question": "贵司 IT 集成线的硬件集购口由哪位同事主责?",
+     "proof": "growjo 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Razzak 家族创始门",
+     "push": "STC-28DGGPM",
+     "angle": "Rafi/Rebecca 创始双谱 1991;新董事 2024-08/10 带",
+     "question": "贵司家族集成线的硬样送样口由哪位主责?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1983 创 42 年;Hampshire Basingstoke 总部;9 董事 1 秘书;Razzak 创始 1991",
+     "②芯片/型号": "IT 系统集成政企链;PoE 24 口集成载线",
+     "③KP 深挖": "Hamakarim 采购/联盟 P0+Thomas CTO+Elliott Government(守界)+Razzak 创始双谱",
+     "④Saga 对标": "政企集成链(民用商用词)→ 24 口 PoE 载;Alliance/Procurement 直通",
+     "⑤在乎与偏好": "42 年谱;Razzak 家族企业;北部+NHS/地方高专普",
+     "⑥SWOT": "S=42 年谱+Razzak 家族/W=Rear Admiral Wilcocks 前少将谱+Director Government 现职/O=Alliance/Procurement 直通+Hamakarim P0/T=守界+营收双锚"
+    },
+    "care": "守界注=前少将+政府线=民用商用词必压;营收 $52.6M/$28.9M 双锚;员数三窗注",
+    "swot": {
+     "S": "42 年谱+Razzak 家族",
+     "W": "Rear Admiral Wilcocks 前少将谱+Director Government 现职",
+     "O": "Alliance/Procurement 直通+Hamakarim P0",
+     "T": "守界+营收双锚"
+    },
+    "uncertain": "MikroTik 谱位在售线需官网核;Hamakarim 直邮推档",
+    "gap_proof": "Companies House/northdata/growjo/datanyze/companycheck 5 源真源"
+   },
+   "unknowns": [
+    "MikroTik 谱位在售线需官网核",
+    "Hamakarim 直邮推档",
+    "Director Government 细分谱核"
+   ],
+   "relation": "2026-10-08 R67 推土机深挖 批4",
+   "email": "Dear Mohamed Hamakarim Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for commercial IT integration and alliance-distribution deployment lines. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**Mohamed Hamakarim(Partner Alliance Director/Procurement Director=采购+联盟 P0)+Mathew Thomas(CTO)+Jon Elliott(Director Government 守界)**;Razzak 创始双谱备",
+   "kp": [
+    {
+     "name": "Mohamed Hamakarim",
+     "role": "Partner Alliance Director + Procurement Director(双职 growjo 直证;采购与厂商联盟=P0;政企谱分工均 O 级)",
+     "contact": "mhamakarim@centerprise.co.uk(推断,送完核)/+44 1256 台口转",
+     "status": "growjo 直证 O 级;邮箱推断 G 级",
+     "source": "https://growjo.com/company/Centerprise_International"
+    },
+    {
+     "name": "Mathew Thomas",
+     "role": "Chief Technical Officer(growjo 直证 O 级;CTO 谱)",
+     "contact": "mthomas@centerprise.co.uk(推断)",
+     "status": "growjo 直证 O 级;邮箱推断 G 级",
+     "source": "https://growjo.com/company/Centerprise_International"
+    },
+    {
+     "name": "Jon Elliott",
+     "role": "Director Government(政府线 spectrum 守界注;growjo 直证 O 级)",
+     "contact": "jelliott@centerprise.co.uk(推断)",
+     "status": "growjo 直证 O 级;邮箱推断 G 级",
+     "source": "https://growjo.com/company/Centerprise_International"
+    },
+    {
+     "name": "Rafi Arif Abdul Razzak",
+     "role": "创始 Director(1991-01-15 任,DOB Mar 1949=76 岁;Razzak 家族企业谱;companycheck 直证)",
+     "contact": "公司台口转;谱据 companycheck",
+     "status": "companycheck 直证 O 级",
+     "source": "https://companycheck.co.uk/company/01738519/CENTERPRISE-INTERNATIONAL-LIMITED"
+    }
+   ],
+   "tag": "类型=Basingstoke 42 年 IT 集成谱;势态=Alliance/Procurement 直通+政府线守界;KP=Hamakarim 采购 P0+Thomas CTO+Razzak 创始家族",
+   "question": "触达决策门:Mohamed Hamakarim(Partner Alliance/Procurement P0)直门;Gaby Moran(Solutions);",
+   "alt2": "替代口:Mathew Thomas(CTO)+Jon Elliott(Government 守界注)+Duncan Templeton(Private Sector);",
+   "alt3": "备用:Sharon Allen(CFO+秘书)+Rafi/Rebecca Razzak(创始 1991)+Basingstoke RG24 8GQ 邮寄样件"
+  },
+  {
+   "customer": "A-110",
+   "fact": "波 R67 批4·A-110:英谱: **Senseco Systems Ltd 深挖(官网/pomanda/zoominfo/x 四源互证)**:**Company Number 06840964,2009-03 创(17 年),SIC 43210 电气安装+80200 安防系统服务,HQ 6 Ambley Green Gillingham Business Park,Gillingham Kent ME8 0NJ(东南)**,全国服务;**营收 $15.2M(zoominfo 单源)**;**KP 金谱矩阵:Steve Thomas(CEO=集团 Chief Executive Officer,f~1971 54 岁,2009-03 任=创始至今)+Michael Duhan(COO=Chief Operations Officer,57 岁,2010-11)+Steve Butler(CFO,49 岁,2023-06)+Lee Thompson(Group Director of Strategic Development,56 岁,2020-11)+Hayley Croughton(HR Director)+Val Atkins(Director of Finance)+George Whittaker(Director 2019-12)+Andrea Kerrison(Head of People)=8 人矩阵**;**X @SensecoSystems 自报「We are the world's first Carbon Neutral Fire and Security Company」=世界首碳中和火/安防公司(绿色谱金)**;**Honeywell 合作谱(2024-12 Innovation & New Technology event+新 Passive Fire 分工 lead);2024-12 National Gallery Nguyen Award 颁奖 recipients Steve**;**业务=design/supply/installation/commissioning/maintenance 全链:fire detection/Passive fire/sprinklers/suppression/voice evacuation/security/monitoring/integrated systems;客户=企业办公室/银行/医疗/遗产地 National Gallery 谱**;**消防/安防保护民用商用楼宇本业;National Gallery/银行/医疗谱=民用商用对象保护语义自然**;Senseco=英国独立火安防行业领头羊谱。",
+   "inference": "R67 推土机深挖 批4 具名 KP 金谱矩阵(碳中和首当首金谱+Honeywell 合作谱)",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Thomas CEO/Poe 对象保护全链总部集成载线引路",
+   "evidence_main": "https://www.sensecosystems.com/about-us/",
+   "tech": "火/安防全链(design→supply→install→commission→maintain)集成;voice evac 谱;Passive Fire 新分工;Honeywell 合作谱",
+   "hr": "2009 创 17 年;8 人矩阵;UK 全国服务 Kent HQ",
+   "contact_found": "**Steve Thomas(CEO 创始 2009)+Michael Duhan(COO 2010)+Steve Butler(CFO 2023)+Lee Thompson(战略发展 2020)+Hayley Croughton(HR)+Val Atkins(Fin Dir)+George Whittaker(2019)+Andrea Kerrison(Head People)8 人矩阵**",
+   "contact_pending": "直发具名需 opt-in;CarbNeutral 谱钩核;X @SensecoSystems 官谱活",
+   "dims": {
+    "业务定位": "Senseco Systems Ltd(06840964,2009 创,世界首碳中和火/安防公司):UK 全国火/安防全链商(Gillingham Kent HQ)",
+    "产品线与在售品牌": "fire detection/Passive fire/sprinklers/suppression/voice evacuation/security/monitoring/integrated systems 全链+Passive Fire 分工",
+    "目标行业与场景": "企业办公室/银行/医疗/遗产地(National Gallery 谱)+住宅/酒店/数据中心/公共设施;UK 全国",
+    "团队与规模": "2009 创 17 年;CEO/COO/CFO/战略发展/HR/财/Dir/Head People 8 人矩阵;Kent HQ",
+    "决策链与对接人": "Steve Thomas(CEO 2009 创始)+Michael Duhan(COO 2010)+Steve Butler(CFO 2023)+Lee Thompson(战略发展 2020)+George Whittaker(2019)+Hayley Croughton(HR)+Val Atkins(Fin)+Andrea Kerrison(People)",
+    "技术与认证": "CarbonNeutral-certified(世界首);SIC 43210+80200;Pomanda/Companies House 登",
+    "采购与供应链信号": "Honeywell 合作谱(2024-12 活动)+National Gallery 遗产地谱;integrated systems PoE 需求载线",
+    "近期动态与线索": "2024-12 Honeywell Innovation & New Technology event+新 Passive Fire 分工+Nguyen Award 颁奖(X 官谱 12-06/12-05);绿色认证新保",
+    "与我方契合点": "Thomas CEO 创始 P0 → 24 口 PoE(Integrated systems/voice evac/monitoring 全链 PoE 载线)",
+    "风险与注意": "**营收 $15.2M 单源注;X 官谱 2024-12 新保;Honeywell 合作谱=大厂谱连渠道顺位注**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "Senseco Systems Limited Company Number 06840964;SIC 43210 Electrical installation+80200 Security systems service activities;March 2009 incorporated;6 Ambley Green Gillingham Business Park Gillingham Kent ME8 0NJ",
+     "source": "https://pomanda.com/company/06840964/senseco-systems-limited"
+    },
+    {
+     "dim": "KP 矩阵",
+     "quote": "Group Directors: Steve Thomas Chief Executive Officer;Michael Duhan Chief Operations Officer;Steve Butler Chief Financial Officer;Lee Thompson Group Director of Strategic Development;Hayley Croughton HR Director;Val Atkins Director of Finance",
+     "source": "https://www.sensecosystems.com/about-us/"
+    },
+    {
+     "dim": "碳中和+Honeywell",
+     "quote": "Senseco Systems @SensecoSystems Dec 5, 2024 Thank you to all guests that attended our Innovation & New Technology event that we ran in partnership with Honeywell in London;Dec 6, 2024 National Gallery Nguyen Award Brad Nolan;world's first Carbon Neutral Fire and Security Company",
+     "source": "https://x.com/SensecoSystems"
+    },
+    {
+     "dim": "公司谱",
+     "quote": "Revenue $15.2 Million;SIC 73,738/NAICS 56,561;UK independent fire and security specialist;expertise: corporate offices, banking, healthcare, and heritage sites",
+     "source": "https://www.zoominfo.com/c/senseco-systems-ltd/351365780"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Thomas CEO 创始门",
+     "push": "STC-424XGGPM-280W",
+     "angle": "CEO 2009 创始 P0 → 24 口 PoE(integrated systems/voice evac/monitoring 全链)载线;碳中和谱钩核",
+     "question": "贵司 Integrated systems 全链线的 PoE 交换机集购由哪位同事主责?24 口 280W 带看门狗有接口意?",
+     "proof": "官网+pomanda 双源"
+    },
+    {
+     "stage": "第 2 次跟进 · Duhan COO 门",
+     "push": "STI-288GPM/424",
+     "angle": "COO 谱;Butler 2023 档;Passive Fire 分工钩",
+     "question": "贵司 Passive Fire 分工线的硬件集购口?",
+     "proof": "Pomanda/官网双源"
+    },
+    {
+     "stage": "第 3 次跟进 · Thompson 战略发展",
+     "push": "STC-28DGGPM",
+     "angle": "Group Director of Strategic Development(2020-11);Honeywell 合作谱口并行顺位",
+     "question": "贵司战略线的硬样送样口?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2009 创 17 年;Kent HQ ME8 0NJ 全国服务;世界首碳中和火/安防公司",
+     "②芯片/型号": "火/安防全链(design→maintain);PoE 24 口 integrated systems 载线",
+     "③KP 深挖": "Thomas CEO 创始 2009+Duhan COO+Butler CFO+Thompson 战略发展 8 人矩阵 O 级",
+     "④Saga 对标": "Integrated systems/voice evac/monitoring 全链 → 24 口 PoE 载;Honeywell 合作谱口",
+     "⑤在乎与偏好": "碳中和首当首;National Gallery/银行/医疗谱;Kent 南部",
+     "⑥SWOT": "S=碳中和首当首+全链/W=Honeywell 合作谱=连渠道顺位注/O=已开 Passive Fire+voice evac PoE 扭/T=营收单源注"
+    },
+    "care": "营收 $15.2M zoominfo 单源注;Honeywell 合作谱=通道顺位注;绿色认证新保",
+    "swot": {
+     "S": "碳中和首当首+全链",
+     "W": "Honeywell 合作谱=连渠道顺位注",
+     "O": "已开 Passive Fire+voice evac PoE 扭",
+     "T": "营收单源注"
+    },
+    "uncertain": "MikroTik 谱位在售线需官网核;Thomas 直邮推档",
+    "gap_proof": "官网 about-us+pomanda+zoominfo+X 4 源真源"
+   },
+   "unknowns": [
+    "MikroTik 谱位在售线需官网核",
+    "Thomas 直邮推档",
+    "营收 $15.2M 单源精确次年订"
+   ],
+   "relation": "2026-10-08 R67 推土机深挖 批4",
+   "email": "Dear Steve Thomas Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for integrated fire, security and voice evacuation system lines in commercial deployments. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**Steve Thomas(CEO 创始 2009,P0)+Michael Duhan(COO 2010)+Steve Butler(CFO 2023)+Lee Thompson(战略发展 2020)+George Whittaker(2019)**",
+   "kp": [
+    {
+     "name": "Steve Thomas",
+     "role": "Chief Executive Officer f~1971=54 岁;pomanda 直证(2009-03 任=创始在职);X 官谱 Ng 颁奖/honeywell 活动 active",
+     "contact": "sthomas@sensecosystems.com(推断,送完核)/+44 台口转",
+     "status": "pomanda+官网 双源 O 级;邮箱推断 G 级",
+     "source": "https://pomanda.com/company/06840964/senseco-systems-limited"
+    },
+    {
+     "name": "Michael Duhan",
+     "role": "Chief Operations Officer(57 岁,2010-11 任;Group Director 谱;COO P0)",
+     "contact": "mduhan@sensecosystems.com(推断)",
+     "status": "pomanda+官网 双源 O 级;邮箱推断 G 级",
+     "source": "https://pomanda.com/company/06840964/senseco-systems-limited"
+    },
+    {
+     "name": "Lee Thompson",
+     "role": "Group Director of Strategic Development(56 岁,2020-11 任;pomanda 直证;Honeywell 合作/产品联盟口)",
+     "contact": "lthompson@sensecosystems.com(推断)",
+     "status": "pomanda+官网 双源 O 级;邮箱推断 G 级",
+     "source": "https://pomanda.com/company/06840964/senseco-systems-limited"
+    }
+   ],
+   "tag": "类型=世界首碳中和火/安防全链商;势态=Honeywell 合作+Passive Fire 新分工;KP=Thomas CEO 创始+Duhan COO 矩阵",
+   "question": "触达决策门:Steve Thomas(CEO 2009 创始)P0;Michael Duhan(COO);",
+   "alt2": "替代口:Steve Butler(CFO 2023)+George Whittaker(2019)+Val Atkins(Fin Dir);",
+   "alt3": "备用:Hayley Croughton(HR)+Andrea Kerrison(People)+Gillingham Kent ME8 0NJ 邮寄样件+X @SensecoSystems 官谱"
+  },
+  {
+   "customer": "A-106",
+   "fact": "波 R67 批4·A-106:英谱: **DACC Europe Ltd 深挖(Companies House/globaldatabase/northdata/companycheck/crunchbase 五源互证)**:Company Number 03297031,1996-12-30 创(**29 年**),SIC 61100 Wired telecommunications activities(有线通信);注册 154 Cannon Workshops 3 Cannon Drive London E14 4AS(**金丝雀码头**)+northdata 注 Eastleigh 旧营业地 Highfield Court Tollgate Chandler's Ford SO53 3TY;**业务=computer cabling systems 供应安装+structured cabling/infrastructure/mechanical & electrical services(Crunchbase);IT spend $3.7M(Aberdeen 估)**;员工 19(globaldatabase)/51-100(crunchbase 窗注);**现金 £652,230 增 71.78%(2023-12 年报);总资 £12M/留资 £1.4M;UK funding £5k(2015)**;**KP 金谱:Jasvinderpal Singh Matharu(f1961-12=64 岁,**二度任**:1999-02 首任→2015-06 退→2019-02 复任至今,Companies House 直证)+Marin Krastev Shkodrov(f1975-09=50 岁,2014-06 任,Director+Company Secretary 双职,金丝雀码头谱)+Simon James(Director)+Andrew Shaw(CXO)+Michael Shaw(CXO)**=5 人谱(globaldatabase);**往变:11 directors(2023-12 confirmation statement);网 dacceurope.com;age 29 年;+44 0207 538 8701**;**谱位=布线与基础设施/机电服务(Telecommunications Services/Tv Broadcast 双 SIC 歧)——布线集成商 LDN 金丝雀码头谱**;**给我方挂念:布线集成的交换机件直采口=Signal=Shkodrov+Matharu 双董事直门**。",
+   "inference": "R67 推土机深挖 批4 具名 KP 金谱(Matharu 二度任+金丝雀码头谱)",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Matharu/Shkodrov 双董事布线集成交换器件直采载线引路",
+   "evidence_main": "https://find-and-update.company-information.service.gov.uk/company/03297031/officers",
+   "tech": "Structured cabling/infrastructure/mechanical & electrical services;Wired telecom 谱;LDN E14 金丝雀码头",
+   "hr": "19 员工(globaldatabase)/51-100(crunchbase);29 年;5 人董事谱",
+   "contact_found": "**Jasvinderpal Singh Matharu(Director 二度任 f1961 64 岁)+Marin Krastev Shkodrov(Director+Secretary 双职 f1975 50 岁)+Simon James(Director)+Andrew Shaw(CXO)+Michael Shaw(CXO)5 人谱**",
+   "contact_pending": "直发具名需 opt-in;dacceuro.com 邮箱域谱",
+   "dims": {
+    "业务定位": "DACC Europe Ltd(03297031,1996 创 29 年,有线电信 SIC):伦敦 E14 金丝雀码头布线/基础设施/机电服务商",
+    "产品线与在售品牌": "Computer cabling systems 供装+structured cabling/infrastructure/mechanical & electrical services;IT spend $3.7M",
+    "目标行业与场景": "伦敦金丝雀码头 E14 区域商用办公+数据中心布线/机电;有线通信 SIC",
+    "团队与规模": "19(globaldatabase)/51-100(crunchbase)双窗注;5 人董事谱;29 年",
+    "决策链与对接人": "Jasvinderpal Singh Matharu(Director 二度任 64 岁)+Marin Krastev Shkodrov(Director+Secretary 双职 50 岁)+Simon James+Andrew Shaw(CXO)+Michael Shaw(CXO)",
+    "技术与认证": "SIC 61100/61900 Wired telecom;Companies House 登实;UK funding £5k 2015",
+    "采购与供应链信号": "£652,230 现金增 71.78%(2023-12);£12M 总资产/£1.4M 留资;布线集成→交换机件直采谱",
+    "近期动态与线索": "董事二度任(Matharu 2019 复任);Eastleigh 旧营业地;现金大幅增 71.78% 新保",
+    "与我方契合点": "Matharu/Shkodrov 双董事直门 → 24 口 PoE(布线集成交换器件直采)载线",
+    "风险与注意": "**营收 IT spend $3.7M 估单源注;Matharu 二度任=2019 复任谱钉;员数 19/51-100 两窗注;报名墙东、北史注**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "DACC Europe Limited Company No 03297031;Incorporated 30 December 1996;SIC 61100 Wired telecommunications activities;154 Cannon Workshops 3 Cannon Drive London E14 4AS;+44 0207 538 8701",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/03297031"
+    },
+    {
+     "dim": "二度任金谱",
+     "quote": "MATHARU, Jasvinderpal Singh(DOB Dec 1961)Director appointed 1999-02-10,resigned 2015-06-01,reappointed 2019-02-27=二度任;SHKODROV, Marin Krastev(DOB Sep 1975)Director+Company Secretary 2014-06-10 in role",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/03297031/officers"
+    },
+    {
+     "dim": "财务",
+     "quote": "Latest financial report submitted 2023-12-31: Cash £652,230 increased 71.78% yoy;Total-Assets £12M;Working-Capital £1M;19 employees(staff increase 0%);11 directors;Age 29",
+     "source": "https://uk.globaldatabase.com/company/dacc-europe-limited"
+    },
+    {
+     "dim": "公司谱",
+     "quote": "DACC Europe specializes in structured cabling, infrastructure, and mechanical, and electrical services;Private London;51-100 employees;Information Technology/Mechanical Engineering/Network Hardware;+44 0207 538 8701;IT spend projected $3.7M",
+     "source": "https://www.crunchbase.com/organization/dacc-europe"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Matharu/Shkodrov 双董事门",
+     "push": "STC-424XGGPM-280W",
+     "angle": "二度任 Matharu+Shkodrov 双职直通 → 24 口 PoE(布线集成交换器件直采)载线;29 年谱钩",
+     "question": "贵司布线集成线的交换机件直采由哪位同事主责?24 口 280W 带看门狗有接口意?",
+     "proof": "Companies House/globaldatabase 五源"
+    },
+    {
+     "stage": "第 2 次跟进 · Shaw CXO 谱",
+     "push": "STI-288GPM/424",
+     "angle": "Andrew/Michael Shaw CXO 双谱;IT spend $3.7M 谱;金丝雀码头谱钉",
+     "question": "贵司基础设施谱的硬件集购口?",
+     "proof": "globaldatabase 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · info 台口",
+     "push": "STC-28DGGPM",
+     "angle": "dacceurope.com 网谱转;29 年谱钉;+44 0207 538 8701 台口转",
+     "question": "贵司布线谱的硬样送样口?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1996 创 29 年;Canary Wharf E14 金丝雀码头+旧 Eastleigh;SHAB 2023-12 档活",
+     "②芯片/型号": "布线/基础设施/机电服务;PoE 24 口载线",
+     "③KP 深挖": "Matharu 二度任 64+Shkodrov 双职 50+James/Shaw CXO 5 人谱",
+     "④Saga 对标": "布线集成链 → 24 口 PoE 直采载;金丝雀码头谱",
+     "⑤在乎与偏好": "29 年谱;金丝雀码头 E14 谱;Telecom SIC",
+     "⑥SWOT": "S=29 年+金丝雀码头/W=营收 IT spend $3.7M 单源估注/O=现金 £652k 增 71.78%=新保/T=员数 19/51-100 两窗注"
+    },
+    "care": "Matharu 二度任=2019 复任谱钉;员数两窗注;IT spend $3.7M 估注",
+    "swot": {
+     "S": "29 年+金丝雀码头",
+     "W": "营收 IT spend $3.7M 单源估注",
+     "O": "现金 £652k 增 71.78%=新保",
+     "T": "员数 19/51-100 两窗注"
+    },
+    "uncertain": "MikroTik 谱位在售线需核;Matharu/Shkodrov 直邮推档",
+    "gap_proof": "Companies House/globaldatabase/northdata/crunchbase/companycheck 5 源真源"
+   },
+   "unknowns": [
+    "MikroTik 谱位在售线需官网核",
+    "Matharu 直邮推档",
+    "员数 19 vs 51-100 两窗差精确次年订"
+   ],
+   "relation": "2026-10-08 R67 推土机深挖 批4",
+   "email": "Dear Jasvinderpal Matharu Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for structured cabling and infrastructure deployment lines in commercial properties. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**Jasvinderpal Singh Matharu(Director 二度任 64 岁)+Marin Krastev Shkodrov(Director+Secretary 双职 50 岁)+Simon James+Andrew Shaw+Michael Shaw**",
+   "kp": [
+    {
+     "name": "Jasvinderpal Singh Matharu",
+     "role": "Director( Companies House 直证二度任:1999-02 首任→2015-06 退→2019-02 复任至今;DOB Dec 1961=64 岁;Surrey Weybridge 谱)",
+     "contact": "jmatharu@dacceuro.com(推断,送完核)/+44 0207 538 8701 台口转",
+     "status": "Companies House 直证 O 级;邮箱推断 G 级",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/03297031/officers"
+    },
+    {
+     "name": "Marin Krastev Shkodrov",
+     "role": "Director+Company Secretary(双职 Companies House 直证;2014-06-10 任;DOB Sep 1975=50 岁;金丝雀码头 E14 谱)",
+     "contact": "mshkodrov@dacceuro.com(推断)",
+     "status": "Companies House 直证 O 级;邮箱推断 G 级",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/03297031/officers"
+    },
+    {
+     "name": "Andrew Shaw",
+     "role": "CXO(globaldatabase 拍谱;Shaw 家族谱(Marcus/Michael 同谱)=二线谱)",
+     "contact": "ashaw@dacceuro.com(推断)",
+     "status": "globaldatabase O/G 级;邮箱推断 G 级",
+     "source": "https://uk.globaldatabase.com/company/dacc-europe-limited"
+    }
+   ],
+   "tag": "类型=DACC 29 年金丝雀码头布线/机电集成;势态=二度任 Matharu+Shkodrov 双职;KP=Matharu+Shkodrov+James/Shaw",
+   "question": "触达决策门:Jasvinderpal Matharu(Director 二度任)直门;Marin Shkodrov(双职);",
+   "alt2": "替代口:Simon James(Director)+Andrew Shaw(CXO)+Michael Shaw(CXO);",
+   "alt3": "备用:+44 0207 538 8701 台口+154 Cannon Workshops E14 邮寄样件+dacceuro.com 网谱转"
+  },
+  {
+   "customer": "A-101",
+   "fact": "波 R67 批4·A-101:英谱: **Lloret Control Systems Ltd 深挖(Companies House/corpsignals/companycheck/endole/pomanda 五源互证)**:Company Number 01745436,**1983-08-11 创(42 年)**,SIC 43210 电气安装;注册 **Lloret House,20 Ullswater Crescent,Coulsdon Surrey CR5 2HR(大伦敦南边)**;**员工 53(corpsignals);£7,976,288 总资产;5 董事 1 股东 1 PSC;5.0 Google 评分 10 review**;**进出口线谱=Regular importer(60 个月连续进口光学/医疗工具器件)+Regular exporter(3 个月电机设备出口)=端法律来源可以供谱口**;**KP 金谱矩阵:Stig Johan Sjoblom(f1956-07=69 岁,**瑞典籍 Chair 主席**,1994-03 任至今 32 年,Endole+Companies House 直证)+Raymond George Smith(f1949-12=76 岁,Group Technical Director,1994-10 任)+Darren Anthony Lovelock(f1969-09=56 岁,**Managing Director**,2014-01 任)+Cara Louise Young(f1987-06=38 岁,**Finance Director+公司秘书 2020-04/10 双职**)=4 人矩阵**;**集团谱:Commtech Control Systems Ltd+Commtech Services Ltd(审计链)+Lloret Holdings Ltd+Llant Lloret Fire Solutions Ltd(Sjoblom/Young mutual companies)**;**业务=Trend Technology Centre(「established as a prominent Trend Technology Centre」)+BEMS(Building Energy Management Systems 建筑能耗管理)+Fire Alarm(Gent product authorized installation+open protocol option=**Gent 火警授权品安装谱**)+Lighting Control 照明控制+BMS 集成**;lloret.co.uk;Trend Controls/Gent 双授权品谱=集成商集成谱;**给我方挂念:Lovelock MD+Sjoblom 主席 4 人矩阵直通;Gent/Trand 授权品谱=同类铺位候选;BEMS PoE 载线强需求**。",
+   "inference": "R67 推土机深挖 批4 具名 KP 金谱矩阵(Trend/Gent 授权品+进出口线+瑞典主席)",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Lovelock MD/Sjoblom 主席 BEMS/Gent 火警 PoE 载线引路",
+   "evidence_main": "https://find-and-update.company-information.service.gov.uk/company/01745436/officers",
+   "tech": "Trend Technology Centre 谱;BEMS+Fire Alarm(Gent/open protocol)+Lighting Control+BMS 集成;PoE 楼宇控制载线",
+   "hr": "53 员工(corpsignals);42 年;5 董事;Lloret Holdings/Commtech 集团谱",
+   "contact_found": "**Stig Johan Sjoblom(Chair 主席 f1956 瑞典籍,1994-03 任 32 年)+Darren Lovelock(MD f1969,2014 任)+Raymond Smith(Group Tech Dir f1949,1994 任)+Cara Louise Young(Finance Dir+秘书 f1987,2020 任)4 人矩阵**",
+   "contact_pending": "直发具名需 opt-in;lloret.co.uk 谱钩",
+   "dims": {
+    "业务定位": "Lloret Control Systems Ltd(01745436,1983 创 42 年):Coulsdon Surrey 南端火/安防/楼宇控制集成商(Trend+Gent 授权品谱)",
+    "产品线与在售品牌": "BEMS+Fire Alarm(Gent authorized+open protocol)+Lighting Control+BMS 集成+Trend Technology Centre 谱",
+    "目标行业与场景": "大伦敦+Surrey 边谱;商用楼宇+火警;进出口线谱口",
+    "团队与规模": "53 员工(corpsignals);42 年;5 董事;£7.98M 总资产;4 人董事矩阵 O 级",
+    "决策链与对接人": "Stig Johan Sjoblom(Chair 主席,瑞典,69 岁,1994-03 任 32 年)+Darren Lovelock(MD,56 岁,2014-01 任)+Raymond Smith(Group Tech Dir,76 岁,1994-10 任)+Cara Louise Young(Fin Dir+秘书,38 岁,2020-10 任)",
+    "技术与认证": "SIC 43210;SHAB 2020-04/10 Young 双职档;Endole/Companies House 登实;Google 5.0 评 10 review",
+    "采购与供应链信号": "Regular importer 60mo 光学/医疗器件+Regular exporter 3mo 电机设备=端口谱口;Trend/Gent 授权品谱=同类铺位位",
+    "近期动态与线索": "SHAB 谱;Google 5.0 评;Lloret Fire Solutions 集团互谱;进出口线端法律来源",
+    "与我方契合点": "Lovelock MD+Sjoblom 主席 → 24 口 PoE(BEMS/Gent 火警楼宇控制 PoE 载线)",
+    "风险与注意": "**员数 53 单源注;进出口线=进口光学/医疗器件+出口电机设备(两端谱口);集团谱子司注;Sjoblom 瑞典籍谱位注**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "LLORET CONTROL SYSTEMS LIMITED Company No 01745436;Incorporated On 11 August 1983;SIC 43210;Lloret House 20 Ullswater Crescent Coulsdon Surrey CR5 2HR;53 employees;£7,976,288 assets;5 directors 1 shareholders 1 PSC;five director changes",
+     "source": "https://companycheck.co.uk/company/01745436/LLORET-CONTROL-SYSTEMS-LIMITED/companies-house-data"
+    },
+    {
+     "dim": "KP 四矩阵",
+     "quote": "SJOBELOM, Stig Johan(DOB Jul 1956,Swedish)Chair Director 1994-03-08;SMITH, Raymond George(DOB Dec 1949)Group Technical Director 1994-10-20;LOVELOCK, Darren Anthony(DOB Sep 1969)Managing Director 2014-01-09;YOUNG, Cara Louise(DOB Jun 1987)Finance Director 2020-10-01+Company Secretary 2020-04-29",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/01745436/officers"
+    },
+    {
+     "dim": "进出口谱",
+     "quote": "Regular importer of optical and medical tools and devices(60 months imported);Regular exporter of electrical machinery and equipment(3 months exported);Holding company;large company;£7,976,288 assets",
+     "source": "https://corpsignals.com/companies/uk/lloret-control-systems-ltd-01745436.html"
+    },
+    {
+     "dim": "Trend/Gent 谱",
+     "quote": "Established as a prominent Trend Technology Centre;Lorem offers Building Energy Management Systems(BEMS),Fire Alarm Systems(Lloret offers Gent product installations and open protocol options),Lighting Control Systems,BMS Integration",
+     "source": "https://open.endole.co.uk/insight/company/01745436-lloret-control-systems-limited"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Lovelock MD+Sjoblom 主席门",
+     "push": "STC-424XGGPM-280W",
+     "angle": "MD+主席双线直通 → 24 口 PoE(BEMS/Gent 火警楼宇控制)载线;42 年 Trend 谱钩",
+     "question": "贵司 BEMS/Gent 授权品线的 PoE 交换机集购由哪位同事主责?24 口 280W 带看门狗有接口意?",
+     "proof": "Companies House+endole/companycheck 多源"
+    },
+    {
+     "stage": "第 2 次跟进 · Young 财董二线",
+     "push": "STI-288GPM/424",
+     "angle": "Finance Director+秘书双职 2020-10 任;Young 谱钩;集团子司带",
+     "question": "贵司财政线的硬集购口由哪位主责?",
+     "proof": "Companies House 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Smith 技术总监",
+     "push": "STC-28DGGPM",
+     "angle": "Group Technical Director(1994-10 任 32 年;76 岁);Trend 谱口并行顺位",
+     "question": "贵司 Trend 谱线的硬样送样口?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1983 创 42 年;Coulsdon Surrey 南边;Lloret House 谱;£7.98M 资产",
+     "②芯片/型号": "BEMS+Gent 火警+照明+BMS 集成;PoE 24 口楼宇控制载线",
+     "③KP 深挖": "Sjoblom 主席 69+Lovelock MD 56+Smith 技总 76+Young 财董 38 四矩阵 O 级",
+     "④Saga 对标": "BEMS/Gent 火警楼宇控制 → 24 口 PoE 载;Trend 谱口",
+     "⑤在乎与偏好": "Trend/Gent 授权品;Carb 谱;Coulsdon 谱",
+     "⑥SWOT": "S=42 年+Trend/Gent 授权品/W=进出口线=光学/医疗进口注/O=BEMS 楼宇控制 PoE 扭/T=员数 53 单源注+集团子司"
+    },
+    "care": "Sjoblom 瑞典籍谱位注;进出口线=光学/医疗进口注;集团子司注",
+    "swot": {
+     "S": "42 年+Trend/Gent 授权品",
+     "W": "进出口线=光学/医疗进口注",
+     "O": "BEMS 楼宇控制 PoE 扭",
+     "T": "员数 53 单源注+集团子司"
+    },
+    "uncertain": "MikroTik 谱位在售线需官网核;Lovelock/Sjoblom 直邮推档",
+    "gap_proof": "Companies House/corpsignals/companycheck/endole/pomanda 5 源真源"
+   },
+   "unknowns": [
+    "MikroTik 谱位在售线需官网核",
+    "Lovelock 直邮推档",
+    "进出口线端源精确次年订"
+   ],
+   "relation": "2026-10-08 R67 推土机深挖 批4",
+   "email": "Darren and Stig Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for BEMS, Gent fire alarm and building control deployment lines. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**Darren Lovelock(MD 56 岁 P0)+Stig Johan Sjoblom(主席 69 岁 32 年任)+Raymond Smith(技总 76 岁)+Cara Louise Young(财董 38 岁)**",
+   "kp": [
+    {
+     "name": "Darren Anthony Lovelock",
+     "role": "Managing Director(2014-01-09 任;DOB Sep 1969=56 岁;Ascot Berkshire 谱;Companies House 直证)",
+     "contact": "dlovelock@lloret.co.uk(推断,送完核)/公司台口转",
+     "status": "Companies House 直证 O 级;邮箱推断 G 级",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/01745436/officers"
+    },
+    {
+     "name": "Stig Johan Sjoblom",
+     "role": "Chair Director(主席,1994-03-08 任=32 年;DOB Jul 1956=69 岁;Swedish 瑞典籍;Coulsdon 谱;Lloret Holdings+Fire Solutions 集团谱互)",
+     "contact": "ssjoblom@lloret.co.uk(推断)",
+     "status": "Companies House+Endole 双源 O 级;邮箱推断 G 级",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/01745436/officers"
+    },
+    {
+     "name": "Raymond George Smith",
+     "role": "Group Technical Director(1994-10-20 任=32 年;DOB Dec 1949=76 岁;Kingswood Surrey 谱)",
+     "contact": "rsmith@lloret.co.uk(推断)",
+     "status": "Companies House+Endole 双源 O 级;邮箱推断 G 级",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/01745436/officers"
+    },
+    {
+     "name": "Cara Louise Young",
+     "role": "Finance Director+Company Secretary(双职 Companies House 直证;Finance Dir 2020-10-01 任+Secretary 2020-04-29 任;DOB Jun 1987=38 岁)",
+     "contact": "cyoung@lloret.co.uk(推断)",
+     "status": "Companies House 直证 O 级;邮箱推断 G 级",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/01745436/officers"
+    }
+   ],
+   "tag": "类型=Lloret 42 年 Trend/Gent 授权品谱+进出口线;势态=Lovelock MD+Sjoblom 主席双线;KP=Lovelock MD+Sjoblom 主席+Smith 技总+Young 财董四矩阵",
+   "question": "触达决策门:Darren Lovelock(MD)+Stig Johan Sjoblom(主席)双线门；",
+   "alt2": "替代口:Raymond George Smith(Group Tech Dir)+Cara Louise Young(财董+秘书双职);",
+   "alt3": "备用:lloret.co.uk 网谱+Lloret House Coulsdon CR5 2HR 邮寄样件+Commtech/Lloret Holdings 集团谱"
+  },
+  {
+   "customer": "A-109",
+   "fact": "波 R67 批4·A-109:英谱: **RWL Advanced Solutions Ltd 深挖(Companies House/官网/rocketreach/rwlas.com 四源互证)**:**Company Number FC034521(UK FC 分公司号=爱尔兰母体在法国注册趣),2017-08-04 设立=UK Establishment**;EMEA 分销商:infrastructure Technology/Networking/Security sector=「RWL across EMEA is driven to be leading distributor within the infrastructure Technology/Networking sector & preferred partner」自谱;**母体 RWL 2006 创 data products 分销;2011 设 RWL Security Solutions 安防部;都柏林+Cork+London 三点**;**员工 32(rocketreach);KP 金谱矩阵:Robert Walsh(Director/Managing Director f1970-11 岁,Irish,都柏林羊堡谱)+Sean Kirby(SALES DIRECTOR=**销售总监 P0**,UK Team 总)+Kevin Quinn(Financial Director+Secretary)+Scott Smith(Channel Director UK Team=渠道总监 P1)+Joe Reilly(Sales Manager UK Team)+Phil Taylor(Strategic Accounts)+Nick Jackson(UK Technical Sales Specialist 技术销售)+Tracy Snell(**Group Vendor Relationship Manager**=集团厂商关系经理 P0!fortus.ie 谱链)+Micheál Fadden(Group Operations Manager 集团运营)+David Hales(Head of warehouse & logistics operations Fortus UK;+44 7880/7972/7867 三机谱)+Amanda Rowley(MD Fortus UK)**=11 人谱;**EMEA 网络/安防分销谱=RWL Security Solutions(「2011 security division;Irelands largest distributor of security products」rocketreach 直证);#Fortus Group 谱链(Irish 谱)**;For us:RW-L 谱=配电基础设施载线/网络/安防产品 EM EA 分销口=**供应链 EXW 直对口(Vendor Relationship Manager=Snell P0=厂商关系;Sales Director=Kirby P0 销门);进口谱=EMEA 进销天然;Nut 注:MikroTik 谱位即他们分销谱口是否已采 MikroTik=未证;Fortus Security UK 分线=Cork/Dublin/London 三点谱**。",
+   "inference": "R67 推土机深挖 批4 具名 KP 金谱矩阵(EMEA 分销+Sales/Vendor 双 P0)",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Kirby 销售总监/Snell 厂商关系 EXW 分销谱引路",
+   "evidence_main": "https://uk.rwlas.com/the-team/",
+   "tech": "EMEA 基础设施/网络/安防产品分销;Fortus Group 谱链;RWL Security 谱;供应链/物流",
+   "hr": "32 员工(rocketreach);Irish 母体+UK 分支;Dublin+Cork+London 三点;2011 安防部开",
+   "contact_found": "**Sean Kirby(Sales Director=销门 P0)+Tracy Snell(Group Vendor Relationship Manager=厂商关系 P0)+Robert Walsh(MD 爱籍)+Scott Smith(Channel Director UK)+Joe Reilly(Sales Manager UK)+Phil Taylor(Strategic Accounts)+Nick Jackson(UK Tech Sales)+Kevin Quinn(Fin Dir+秘书处)**",
+   "contact_pending": "直发具名需 opt-in;rwlas.com 官谱;Fortus.ie 谱链钩",
+   "dims": {
+    "业务定位": "RWL Advanced Solutions Ltd(FC034521,2017-08 爱母设 UK 分支;RWL 2006 创):EMEA 基础设施/网络/安防产品分销商(Dublin+Cork+London 三点)",
+    "产品线与在售品牌": "Infrastructure Technology/Networking/Security products EMEA 分销;RWL Security Solutions(2011 设安防部);Fortus Group 谱",
+    "目标行业与场景": "EMEA 区域(Dublin 母体+Cork+London 分支);B2B 分销谱=厂商-集成客链",
+    "团队与规模": "32 员工(rocketreach);RWD 官网谱+UK Team+Netherlands Team 谱",
+    "决策链与对接人": "Sean Kirby(Sales Director=销门 P0)+Tracy Snell(Group Vendor Relationship Manager=厂商关系 P0)+Robert Walsh(MD)+Scott Smith(Channel Director/Joe Reilly/Nick Jackson/Phil Taylor)+Kevin Quinn(Fin Dir)+Micheál Fadden(Op)+David Hales(W&L Fortus)+Amanda Rowley(MD Fortus UK)",
+    "技术与认证": "FC034521 海外公司 UK 注册;Companies House 登实;Fortus.ie 谱链;RWLX 官谱",
+    "采购与供应链信号": "EMEA 分销谱=进销天然;Vendor Relationship Manager=Snell 厂商谱口=我方 EXW 直对口;Sales Director=Kirby 销售谱口",
+    "近期动态与线索": "官网团队谱 2024-07-22「Scott Smith Channel Director/Joe Reilly Sales Manager/Fran Parrish Customer Liaison」;RWD 官谱新保;Fortus Group 谱位注",
+    "与我方契合点": "Kirby 销售总监+Snell 厂商关系经理 → 24 口 PoE(EXW 分销谱,EMEA 架构).",
+    "风险与注意": "**公司 UK FC034521 海外公司分公司号;EMEA 谱口=EMEA 进销天然;MikroTik 谱位未证(他们分销谱口是否已采=需核);Fortus Group 谱位注;爱尔兰丹母**"
+   },
+   "evidence": [
+    {
+     "dim": "登实",
+     "quote": "RWL ADVANCED SOLUTIONS LIMITED Company No FC034521(UK establishment of overseas company),2017-08-04;WALSH, Robert(DOB Nov 1970)Director;QUINN, Kevin(Secretary 2017-08-04)",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/FC034521/officers"
+    },
+    {
+     "dim": "KP 矩阵",
+     "quote": "Directors: ROBERT WALSH MANAGING DIRECTOR;SEAN KIRBY SALES DIRECTOR;KEVIN QUINN FINANCIAL DIRECTOR;SCott Smith Channel Director;Joe Reilly Sales Manager;Fran Parrish Customer Liaison;Nick Jackson UK Technical Sales Specialist;Phil Taylor Strategic Accounts",
+     "source": "https://uk.rwlas.com/the-team/"
+    },
+    {
+     "dim": "集团谱",
+     "quote": "RWL Advanced Solutions Ltd employs 32 employees;Robert Walsh(Director);Nick Jackson(UK Technical Sales Specialist);Kevin Quinn(Finance Director);Tracy Snell(Group Vendor Relationship Manager);Micheál Fadden(Group Operations Manager);+44 7680031/7972834/78867 谱",
+     "source": "https://rocketreach.co/rwl-advanced-solutions-ltd-management_b453164ffc83cf50"
+    },
+    {
+     "dim": "RWD 安全谱",
+     "quote": "RWL established in 2006 distributing data products to the Irish market,setting up its security division in 2011 and now has locations in Dublin,Cork and London;Irelands largest distributor of security products;Managing Director Fortus UK Amanda Rowley",
+     "source": "https://rocketreach.co/rwl-security-solutions-profile_b44a5ae1fd1192d6"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Kirby 销售总监 P0",
+     "push": "STC-424XGGPM-280W",
+     "angle": "Sales Director P0 → 24 口 PoE(EMEA 分销谱,EXW)载线;potential MikroTik 铺位候选钩核",
+     "question": "贵司 EMEA 分销线是否已采 MikroTik?如采=其铺位口由哪位同事主责?",
+     "proof": "官网/rwlas 双源"
+    },
+    {
+     "stage": "第 2 次跟进 · Snell 厂商关系 P0",
+     "push": "STI-288GPM/424",
+     "angle": "Group Vendor Relationship Manager=厂商关系直口;EXW 分销谱;Fortus Group 谱链钩",
+     "question": "贵司厂商谱线的 EXW 交换机件集购口由哪位同事主责?",
+     "proof": "rocketreach 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Walsh MD 三线",
+     "push": "STC-28DGGPM",
+     "angle": "Managing Director 谱;Smith Channel Director 带;Joe Reilly 销理带",
+     "question": "贵司 EMEA 分销线的硬样送样口由哪位同事主责?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2006 创(2017-08 设 UK 分支);Dublin+Cork+London 三点;Fortus Group 谱链",
+     "②芯片/型号": "EMEA 基础设施/网络/安防产品分销;PoE 24 口 EXW 分销载线",
+     "③KP 深挖": "Kirby Sales Dir P0+Snell Vendor Mgr P0+Walsh MD+Smith Channel Dir+Reilly/Jackson/Taylor 二线",
+     "④Saga 对标": "EMEA 分销 → 24 口 PoE EXW 分销载;MikroTik 铺位候选",
+     "⑤在乎与偏好": "进销天然;Fortus Group 谱链;RWD 2011 安防开",
+     "⑥SWOT": "S=EMEA 分销+2011 安防开始点/W=MikroTik 铺位未证注/O=Vendor Mgr 直口=Snell P0=EXW 直对口/T=FC034521 海外公司注"
+    },
+    "care": "FC034521 海外公司注;MikroTik 铺位未证注;爱尔兰母",
+    "swot": {
+     "S": "EMEA 分销+2011 安防开始点",
+     "W": "MikroTik 铺位未证注",
+     "O": "Vendor Mgr 直口=Snell P0=EXW 直对口",
+     "T": "FC034521 海外公司注"
+    },
+    "uncertain": "MikroTik 谱位在售线需官网核;Kirby 直邮推档",
+    "gap_proof": "Companies House/uk.rwlas.com/rocketreach 4 源真源"
+   },
+   "unknowns": [
+    "MikroTik 谱位在售线需官网核(分销谱口是否已采 MikroTik)",
+    "Kirby 直邮推档",
+    "Fortus Group 谱位注"
+   ],
+   "relation": "2026-10-08 R67 推土机深挖 批4",
+   "email": "Dear Sean Kirby and Tracy Snell Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — EXW open for EMEA distribution. Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for infrastructure / security network deployment lines. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**Sean Kirby(Sales Director=销门 P0)+Tracy Snell(Group Vendor Relationship Manager=厂商关系 P0)+Robert Walsh(MD)+Scott Smith(Channel Director UK)**",
+   "kp": [
+    {
+     "name": "Sean Kirby",
+     "role": "Sales Director(UK Team 总;官网 the-team 直证 O 级;EMEA 分销销门 P0)",
+     "contact": "skirby@rwlas.com(推断,送完核)/+44 台口转",
+     "status": "uk.rwlas.com 直证 O 级;邮箱推断 G 级",
+     "source": "https://uk.rwlas.com/the-team/"
+    },
+    {
+     "name": "Tracy Snell",
+     "role": "Group Vendor Relationship Manager(集团厂商关系经理;rocketreach 直证;fortus.ie 谱链;**我方 EXW 直对口**=厂商谱口 P0)",
+     "contact": "tsnell@rwlas.com(推断,送完核)/fortus.ie 谱链转",
+     "status": "rocketreach 直证 O 级;邮箱推断 G 级",
+     "source": "https://rocketreach.co/rwl-advanced-solutions-ltd-management_b453164ffc83cf50"
+    },
+    {
+     "name": "Robert Walsh",
+     "role": "Managing Director(爱籍,DOB Nov 1970=55 岁;2017-08 UK 分支设;Companies House+官网 双源直证)",
+     "contact": "rwalsh@rwlas.com(推断)",
+     "status": "Companies House+官网 双源 O 级;邮箱推断 G 级",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/FC034521/officers"
+    },
+    {
+     "name": "Scott Smith",
+     "role": "Channel Director(UK Team;官网直证 O 级;EMEA 渠道谱口)",
+     "contact": "ssmith@rwlas.com(推断)",
+     "status": "uk.rwlas.com 直证 O 级;邮箱推断 G 级",
+     "source": "https://uk.rwlas.com/the-team/"
+    }
+   ],
+   "tag": "类型=RWL EMEA 分销谱 2006 创;势态=Kirby 销售总监+Snell 厂商关系经理双 P0;KP=Kirby Sales Dir+Snell Vendor Mgr+Walsh MD+Smith Channel Dir",
+   "question": "触达决策门:Sean Kirby(Sales Director P0)直门+Tracy Snell(Group Vendor Relationship Manager P0)厂商谱口;",
+   "alt2": "替代口:Robert Walsh(MD)+Scott Smith(Channel Director)+Joe Reilly(Sales Manager);",
+   "alt3": "备用:Nick Jackson(UK Tech Sales)+Phil Taylor(Strategic Accounts)+Fortus.ie 谱链转+rwlas.com 官谱链接"
+  }
+ ]
+}

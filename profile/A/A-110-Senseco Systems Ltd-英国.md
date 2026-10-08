@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Senseco Systems Ltd:SENSECO SYSTEMS LIMITED(英国 Gillingham;公司号 06840964;2009-03 创(团队 25 年谱);英国首家碳中和认证 fire&security 公司;Fire and Security Holdings Ltd 母公司子;2024-04 营业额 £13.3M;102 员工;净资产 £5M;谱型=fire detection/gaseous suppression/安防设计供应安装调试维护一体化)
-- 【推断】R66 第 9 波具名 KP 金谱
-- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
+- 【事实】波 R67 批4·A-110:英谱: **Senseco Systems Ltd 深挖(官网/pomanda/zoominfo/x 四源互证)**:**Company Number 06840964,2009-03 创(17 年),SIC 43210 电气安装+80200 安防系统服务,HQ 6 Ambley Green Gillingham Business Park,Gillingham Kent ME8 0NJ(东南)**,全国服务;**营收 $15.2M(zoominfo 单源)**;**KP 金谱矩阵:Steve Thomas(CEO=集团 Chief Executive Officer,f~1971 54 岁,2009-03 任=创始至今)+Michael Duhan(COO=Chief Operations Officer,57 岁,2010-11)+Steve Butler(CFO,49 岁,2023-06)+Lee Thompson(Group Director of Strategic Development,56 岁,2020-11)+Hayley Croughton(HR Director)+Val Atkins(Director of Finance)+George Whittaker(Director 2019-12)+Andrea Kerrison(Head of People)=8 人矩阵**;**X @SensecoSystems 自报「We are the world's first Carbon Neutral Fire and Security Company」=世界首碳中和火/安防公司(绿色谱金)**;**Honeywell 合作谱(2024-12 Innovation & New Technology event+新 Passive Fire 分工 lead);2024-12 National Gallery Nguyen Award 颁奖 recipients Steve**;**业务=design/supply/installation/commissioning/maintenance 全链:fire detection/Passive fire/sprinklers/suppression/voice evacuation/security/monitoring/integrated systems;客户=企业办公室/银行/医疗/遗产地 National Gallery 谱**;**消防/安防保护民用商用楼宇本业;National Gallery/银行/医疗谱=民用商用对象保护语义自然**;Senseco=英国独立火安防行业领头羊谱。
+- 【推断】R67 推土机深挖 批4 具名 KP 金谱矩阵(碳中和首当首金谱+Honeywell 合作谱)
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Thomas CEO/Poe 对象保护全链总部集成载线引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,9 +76,10 @@ updated: 2026-09-28
 - **原始联系字段**：sales@sensecosystems.com [Publicly listed; delivery not tested]; https://www.sensecosystems.com; +44 (0) 845 644 2888
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Steve Thomas**(Chief Executive Officer f~1971=54 岁;pomanda 直证(2009-03 任=创始在职);X 官谱 Ng 颁奖/honeywell 活动 active)— sthomas@sensecosystems.com(推断,送完核)/+44 台口转 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://pomanda.com/company/06840964/senseco-systems-limited〕
+  - **Michael Duhan**(Chief Operations Officer(57 岁,2010-11 任;Group Director 谱;COO P0))— mduhan@sensecosystems.com(推断) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://pomanda.com/company/06840964/senseco-systems-limited〕
+  - **Lee Thompson**(Group Director of Strategic Development(56 岁,2020-11 任;pomanda 直证;Honeywell 合作/产品联盟口))— lthompson@sensecosystems.com(推断) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://pomanda.com/company/06840964/senseco-systems-limited〕
   - **Stephen Thomas**(Director(2009-03 创位)+CEO(Senseco Systems Group/Fire & Security Holdings))— Companies House 军官名件+LinkedIn/集团页 〔已有(公司官方公开件/登记册自曝);源:https://pomanda.com/company/06840964/senseco-systems-limited〕
-  - **Michael Duhan**(Director(2010-11)+COO)— Companies House 军官名件+集团 LinkedIn 谱 〔已有(公司官方公开件/登记册自曝);源:https://pomanda.com/company/06840964/senseco-systems-limited〕
-  - **Lee Thompson**(Director(2020-11)+Chief Revenue Officer/Group Director of Strategic Development)— Companies House 军官名件+集团 LinkedIn 谱 〔已有(公司官方公开件/登记册自曝);源:https://pomanda.com/company/06840964/senseco-systems-limited〕
   - **Steve Butler**(Director(2023-06)+CFO)— Companies House 军官名件+theorg C 谱 〔已有(公司官方公开件/登记册自曝);源:https://pomanda.com/company/06840964/senseco-systems-limited〕
   - **George Whittaker**(Director(2019-12))— Companies House 军官名件 〔已有(公司官方公开件/登记册自曝);源:https://pomanda.com/company/06840964/senseco-systems-limited〕
   - **Lawrence Yeo**(Managing Director)— theorg C 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://theorg.com/org/senseco-systems〕
@@ -90,9 +91,10 @@ updated: 2026-09-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Steve Thomas | Chief Executive Officer f~1971=54 岁;pomanda 直证(2009-03 任=创始在职);X 官谱 Ng 颁奖/honeywell 活动 active | sthomas@sensecosystems.com(推断,送完核)/+44 台口转 | pomanda+官网 双源 O 级;邮箱推断 G 级 | https://pomanda.com/company/06840964/senseco-systems-limited |
+| Michael Duhan | Chief Operations Officer(57 岁,2010-11 任;Group Director 谱;COO P0) | mduhan@sensecosystems.com(推断) | pomanda+官网 双源 O 级;邮箱推断 G 级 | https://pomanda.com/company/06840964/senseco-systems-limited |
+| Lee Thompson | Group Director of Strategic Development(56 岁,2020-11 任;pomanda 直证;Honeywell 合作/产品联盟口) | lthompson@sensecosystems.com(推断) | pomanda+官网 双源 O 级;邮箱推断 G 级 | https://pomanda.com/company/06840964/senseco-systems-limited |
 | Stephen Thomas | Director(2009-03 创位)+CEO(Senseco Systems Group/Fire & Security Holdings) | Companies House 军官名件+LinkedIn/集团页 | official-self-published·谱/leads-only(直发需 opt-in) | https://pomanda.com/company/06840964/senseco-systems-limited |
-| Michael Duhan | Director(2010-11)+COO | Companies House 军官名件+集团 LinkedIn 谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://pomanda.com/company/06840964/senseco-systems-limited |
-| Lee Thompson | Director(2020-11)+Chief Revenue Officer/Group Director of Strategic Development | Companies House 军官名件+集团 LinkedIn 谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://pomanda.com/company/06840964/senseco-systems-limited |
 | Steve Butler | Director(2023-06)+CFO | Companies House 军官名件+theorg C 谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://pomanda.com/company/06840964/senseco-systems-limited |
 | George Whittaker | Director(2019-12) | Companies House 军官名件 | official-self-published·谱/leads-only(直发需 opt-in) | https://pomanda.com/company/06840964/senseco-systems-limited |
 | Lawrence Yeo | Managing Director | theorg C 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://theorg.com/org/senseco-systems |
@@ -155,38 +157,41 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第9波.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R67_R56_推土机批4.json`；价格均为 EXW 快照。
 
-- **①背景再核**：SENSECO SYSTEMS LIMITED(英国 Gillingham;公司号 06840964;2009-03 创(团队 25 年谱);英国首家碳中和认证 fire&security 公司;Fire and Security Holdings Ltd 母公司子;2024-04 营业额 £13.3M;102 员工;净资产 £5M;谱型=fire detection/gaseous suppression/安防设计供应安装调试维护一体化)
-- **②芯片/型号**：(待谱面二补)
-- **③KP 深挖**：**Stephen Thomas(Director(2009-03 创位)+CEO(Senseco Systems Group/Fire & Security Holdings),official-self-published·谱/leads-only(直发需 opt-in));Michael Duhan(Director(2010-11)+COO,official-self-published·谱/leads-only(直发需 opt-in));Lee Thompson(Director(2020-11)+Chief Revenue Officer/Group Director of Strategic Development,official-self-published·谱/leads-only(直发需 opt-in));Steve Butler(Director(2023-06)+CFO,official-self-published·谱/leads-only(直发需 opt-in));George Whittaker(Director(2019-12),official-self-published·谱/leads-only(直发需 opt-in));Lawrence Yeo(Managing Director,leads-only·待 opt-in(LinkedIn/谱面带核));Jamie Anderson(Chief Commercial Officer (CCO),leads-only·待 opt-in(LinkedIn/谱面带核));James Plumb(Head of Security(Snodland),leads-only·待 opt-in(LinkedIn/谱面带核));Georgie Cazaly(Head Of Service(Gillingham),leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
-- **⑤在乎与偏好**：碳中和首创+集团持家
+- **①背景再核**：2009 创 17 年;Kent HQ ME8 0NJ 全国服务;世界首碳中和火/安防公司
+- **②芯片/型号**：火/安防全链(design→maintain);PoE 24 口 integrated systems 载线
+- **③KP 深挖**：Thomas CEO 创始 2009+Duhan COO+Butler CFO+Thompson 战略发展 8 人矩阵 O 级
+- **④Saga 对标**：Integrated systems/voice evac/monitoring 全链 → 24 口 PoE 载;Honeywell 合作谱口
+- **⑤在乎与偏好**：碳中和首当首;National Gallery/银行/医疗谱;Kent 南部
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**Directors: Stephen Thomas (Mar 2009) / Michael Duhan (Nov 2010) / George Whittaker (Dec 2019) / Lee Thompson (Nov 2020) / Steve Butler (Jun 2023);parent Fire & Security Holdings Limited
-  > Directors: Stephen Thomas (Mar 2009) / Michael Duhan (Nov 2010) / George Whittaker (Dec 2019) / Lee Thompson (Nov 2020) / Steve Butler (Jun 2023);parent Fire & Security Holdings Limited
+- **【法体登册】**Senseco Systems Limited Company Number 06840964;SIC 43210 Electrical installation+80200 Security systems service activities;March 2009 incorporated;6 Ambley Green Gillingham Business Park Gillingham Kent ME8 0NJ
+  > Senseco Systems Limited Company Number 06840964;SIC 43210 Electrical installation+80200 Security systems service activities;March 2009 incorporated;6 Ambley Green Gillingham Business Park Gillingham Kent ME8 0NJ
   > 来源：https://pomanda.com/company/06840964/senseco-systems-limited
-- **【决策链与对接人】**Steve Thomas CEO at Senseco Systems Group/Fire and Security Holdings Ltd;Michael Duhan COO;Lee Thompson Group Director of Strategic Development
-  > Steve Thomas CEO at Senseco Systems Group/Fire and Security Holdings Ltd;Michael Duhan COO;Lee Thompson Group Director of Strategic Development
-  > 来源：https://uk.linkedin.com/company/fire-and-security-holdings-limited
-- **【团队与规模】**James Plumb Head of Security · Georgie Cazaly Head Of Service;102 employees · £13.3M turnover (April 2024)
-  > James Plumb Head of Security · Georgie Cazaly Head Of Service;102 employees · £13.3M turnover (April 2024)
-  > 来源：https://rocketreach.co/senseco-systems-limited-profile_b5ee7977f42e75ea
+- **【KP 矩阵】**Group Directors: Steve Thomas Chief Executive Officer;Michael Duhan Chief Operations Officer;Steve Butler Chief Financial Officer;Lee Thompson Group Director of Strategic Development;Hayley Croughton HR Director;Val Atkins Director of Finance
+  > Group Directors: Steve Thomas Chief Executive Officer;Michael Duhan Chief Operations Officer;Steve Butler Chief Financial Officer;Lee Thompson Group Director of Strategic Development;Hayley Croughton HR Director;Val Atkins Director of Finance
+  > 来源：https://www.sensecosystems.com/about-us/
+- **【碳中和+Honeywell】**Senseco Systems @SensecoSystems Dec 5, 2024 Thank you to all guests that attended our Innovation & New Technology event that we ran in partnership with Honeywell in London;Dec 6, 2024 National Gallery Nguyen Award Brad Nolan;world's first Carbon Neutral Fire and Security Company
+  > Senseco Systems @SensecoSystems Dec 5, 2024 Thank you to all guests that attended our Innovation & New Technology event that we ran in partnership with Honeywell in London;Dec 6, 2024 National Gallery Nguyen Award Brad Nolan;world's first Carbon Neutral Fire and Security Company
+  > 来源：https://x.com/SensecoSystems
+- **【公司谱】**Revenue $15.2 Million;SIC 73,738/NAICS 56,561;UK independent fire and security specialist;expertise: corporate offices, banking, healthcare, and heritage sites
+  > Revenue $15.2 Million;SIC 73,738/NAICS 56,561;UK independent fire and security specialist;expertise: corporate offices, banking, healthcare, and heritage sites
+  > 来源：https://www.zoominfo.com/c/senseco-systems-ltd/351365780
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：SENSECO SYSTEMS LIMITED(英国 Gillingham;公司号 06840964;2009-03 创(团队 25 年谱);英国首家碳中和认证 fire&security 公司;Fire and Security Holdings Ltd 母公司子;2024-04 营业额 £13.3M;102 员工;净资产 £5M;谱型=fire detection/gaseous suppression/安防设计供应安装调试维护一体化)
-- **产品线与在售品牌**：(波次二补谱面)
-- **目标行业与场景**：英国首家碳中和 fire&security 一体化商
-- **团队与规模**：102 人;£13.3M(2024);2009 创
-- **决策链与对接人**：**Stephen Thomas(Director(2009-03 创位)+CEO(Senseco Systems Group/Fire & Security Holdings),official-self-published·谱/leads-only(直发需 opt-in));Michael Duhan(Director(2010-11)+COO,official-self-published·谱/leads-only(直发需 opt-in));Lee Thompson(Director(2020-11)+Chief Revenue Officer/Group Director of Strategic Development,official-self-published·谱/leads-only(直发需 opt-in));Steve Butler(Director(2023-06)+CFO,official-self-published·谱/leads-only(直发需 opt-in));George Whittaker(Director(2019-12),official-self-published·谱/leads-only(直发需 opt-in));Lawrence Yeo(Managing Director,leads-only·待 opt-in(LinkedIn/谱面带核));Jamie Anderson(Chief Commercial Officer (CCO),leads-only·待 opt-in(LinkedIn/谱面带核));James Plumb(Head of Security(Snodland),leads-only·待 opt-in(LinkedIn/谱面带核));Georgie Cazaly(Head Of Service(Gillingham),leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **技术与认证**：(波次二补)
-- **采购与供应链信号**：(波次二补)
-- **近期动态与线索**：2026-10-07 R66 9 波谱名牌
-- **与我方契合点**：24 口 value PoE 谱链窗口
-- **风险与注意**：集团 C 谱+并购扩张(opt-in 律)
+- **业务定位**：Senseco Systems Ltd(06840964,2009 创,世界首碳中和火/安防公司):UK 全国火/安防全链商(Gillingham Kent HQ)
+- **产品线与在售品牌**：fire detection/Passive fire/sprinklers/suppression/voice evacuation/security/monitoring/integrated systems 全链+Passive Fire 分工
+- **目标行业与场景**：企业办公室/银行/医疗/遗产地(National Gallery 谱)+住宅/酒店/数据中心/公共设施;UK 全国
+- **团队与规模**：2009 创 17 年;CEO/COO/CFO/战略发展/HR/财/Dir/Head People 8 人矩阵;Kent HQ
+- **决策链与对接人**：Steve Thomas(CEO 2009 创始)+Michael Duhan(COO 2010)+Steve Butler(CFO 2023)+Lee Thompson(战略发展 2020)+George Whittaker(2019)+Hayley Croughton(HR)+Val Atkins(Fin)+Andrea Kerrison(People)
+- **技术与认证**：CarbonNeutral-certified(世界首);SIC 43210+80200;Pomanda/Companies House 登
+- **采购与供应链信号**：Honeywell 合作谱(2024-12 活动)+National Gallery 遗产地谱;integrated systems PoE 需求载线
+- **近期动态与线索**：2024-12 Honeywell Innovation & New Technology event+新 Passive Fire 分工+Nguyen Award 颁奖(X 官谱 12-06/12-05);绿色认证新保
+- **与我方契合点**：Thomas CEO 创始 P0 → 24 口 PoE(Integrated systems/voice evac/monitoring 全链 PoE 载线)
+- **风险与注意**：**营收 $15.2M 单源注;X 官谱 2024-12 新保;Honeywell 合作谱=大厂谱连渠道顺位注**
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -201,10 +206,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：碳中和首创+集团持家
-- **W**：并购整合中(北部收购待定)
-- **O**：CEO/COO/CFO/CRO 四 C 实名
-- **T**：大牌消防件链
+- **S**：碳中和首当首+全链
+- **W**：Honeywell 合作谱=连渠道顺位注
+- **O**：已开 Passive Fire+voice evac PoE 扭
+- **T**：营收单源注
 
 ## 触达与风险红线
 
@@ -232,8 +237,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 硬件采购线在职者(波次二)
-  - [ ] MikroTik 谱面份额
+  - [ ] MikroTik 谱位在售线需官网核
+  - [ ] Thomas 直邮推档
+  - [ ] 营收 $15.2M 单源精确次年订
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -245,12 +251,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Steve,
+Dear Steve Thomas Team,
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for integrated fire, security and voice evacuation system lines in commercial deployments. Datasheet + CE pack on request.
 
-Best regards,
-Saga Networks Export Desk
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
