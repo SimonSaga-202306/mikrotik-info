@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：IVORY EGG (UK) LIMITED(KNX 智建技术型分销商;**Colin Price = founder(KNX 血统,首代把 KNX 推入英国)**;Mark Warburton = Technical …
+- **是谁**：波 30·B-531:英国谱: **守档准由·原 R65/R57 谱基增厚**:IVORY EGG (UK) LIMITED(Nottingham 38 Churchill Park, Colwick NG4 2HF(2…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：【2026-09-28 复核回升 C-282→B-531】官网 /contact-us 正文可见；邮箱补到后原「无邮箱（群发触达不到）」下放原因消除 → 恢复 B（群发可触达）。原判：三星依据仅渠道等级（分销（HMS/N-Tron·Red Lion 渠道））与「N-Tron + Red Lion + Anybus + Ewon」，需求未核。
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — KNX 楼宇分销新仓上架窗口:KNX/IP 融合项目 IP 骨干 PoE 随单位；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | IVORY EGG (UK) LIMITED(KNX 智建技术型分销商;**Colin Price = founder(KNX 血统,首代把 KNX 推入英国)**;Mark Warburton = Technical Director UK(2020 起 director 角色兼电气时报 KNX 课程主讲);Romesh Anandaraja = NZ E | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】CSV 品牌谱有偏:本体是 KNX 智能家居/楼宇分销+认证培训,KNX 安装商是其客户;KNX/IP 融合项目(大平层/酒店/商业楼)里 IP 骨干+PoE 随单是真实场景;新 HQ 自建仓=上架窗口期 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 30·B-531:英国谱: **守档准由·原 R65/R57 谱基增厚**:IVORY EGG (UK) LIMITED(Nottingham 38 Churchill Park, Colwick NG4 2HF(2024-06 新自建仓 HQ);2005 创,11-50 人):**判型校正=KNX 楼宇自动化专精分销+培训**(『specializes | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】IVORY EGG (UK) LIMITED(Nottingham 38 Churchill Park, Colwick NG4 2HF(2024-06 新自建仓 HQ);2005 创,11-50 人):**判型校正=KNX 楼宇自动化专精分销+培训**(『specializes in supplying KNX products, accessories and training for home automation and building control』),**澳新系 Ivory Egg Group 英国站**(董事澳洲/新西兰籍);CSV 载 N-Tron/Red Lion/Anybus/Ewon 谱为其架上工业角;Simon Harvey=National Technical & Training Manager 具名 | R65 深挖:KNX 语族首代分销;Colin Price 所创/README 英国 KNX 推广者
-- 【推断】CSV 品牌谱有偏:本体是 KNX 智能家居/楼宇分销+认证培训,KNX 安装商是其客户;KNX/IP 融合项目(大平层/酒店/商业楼)里 IP 骨干+PoE 随单是真实场景;新 HQ 自建仓=上架窗口期
-- 【假设】开口角度=「KNX over IP 项目谱的 IP 骨干 PoE 随单位」:STC-424 做其 KNX 安装商大客户(酒店/商业楼)的 IP 网络随单 SKU,借其搬新仓上架窗口切入
+- 【事实】波 30·B-531:英国谱: **守档准由·原 R65/R57 谱基增厚**:IVORY EGG (UK) LIMITED(Nottingham 38 Churchill Park, Colwick NG4 2HF(2024-06 新自建仓 HQ);2005 创,11-50 人):**判型校正=KNX 楼宇自动化专精分销+培训**(『specializes in supplying KNX products, accessories and training for home automation and building control』),**澳新系 Ivory Egg Group 英国站**(董事澳洲/新西兰籍);CSV 载 N-Tron/Red Lion/Anybus/Ewon 谱为其架上工业角;Simon Harvey=National Technical & Training Manager 具名 | R65 深挖:KNX 语族首代分销;Colin Price 所创/README 英国 KNX 推广者;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第7波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 30 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】CSV 品牌谱有偏:本体是 KNX 智能家居/楼宇分销+认证培训,KNX 安装商是其客户;KNX/IP 融合项目(大平层/酒店/商业楼)里 IP 骨干+PoE 随单是真实场景;新 HQ 自建仓=上架窗口期
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -98,50 +98,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · KNX/IP 项目 PoE 随单页
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「KNX over IP 项目谱的 IP 骨干 PoE 随单位」:STC-424 做其 KNX 安装商大客户(酒店/商业楼)的 IP 网络随单 SKU,借其搬新仓上架窗口切入
-- **要问的问题**：你们 KNX 酒店/商业楼项目里,IP 骨干与 AP/监控的 PoE 交换现随哪家?新仓上架窗口有网络件招募吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · info@ivoryegg.co.uk 开口
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「KNX over IP 项目谱的 IP 骨干 PoE 随单位」:STC-424 做其 KNX 安装商大客户(酒店/商业楼)的 IP 网络随单 SKU,借其搬新仓上架窗口切入
-- **要问的问题**：你们 KNX 酒店/商业楼项目里,IP 骨干与 AP/监控的 PoE 交换现随哪家?新仓上架窗口有网络件招募吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「KNX over IP 项目谱的 IP 骨干 PoE 随单位」:STC-424 做其 KNX 安装商大客户(酒店/商业楼)的 IP 网络随单 SKU,借其搬新仓上架窗口切入
-- **要问的问题**：你们 KNX 酒店/商业楼项目里,IP 骨干与 AP/监控的 PoE 交换现随哪家?新仓上架窗口有网络件招募吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 12 批精修 = R57 转写 + 本轮 Companies House/KvK 新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第12批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
 
-- **背景深描**：IVORY EGG (UK) LIMITED(KNX 智建技术型分销商;**Colin Price = founder(KNX 血统,首代把 KNX 推入英国)**;Mark Warburton = Technical Director UK(2020 起 director 角色兼电气时报 KNX 课程主讲);Romesh Anandaraja = NZ Exec Director;Craig Chapman = Group CEO;集团英国/澳大利亚/新西兰三国架
-- **芯片与在用型号**：【推断】CSV 品牌谱有偏:本体是 KNX 智能家居/楼宇分销+认证培训,KNX 安装商是其客户;KNX/IP 融合项目(大平层/酒店/商业楼)里 IP 骨干+PoE 随单是真实场景;新 HQ 自建仓=上架窗口期
-- **关键人KP**：Colin Price = Founder(KNX 血统);Mark Warburton = Technical Director/UK Director;Craig Chapman = Group CEO
-- **关注点与资质**：N-Tron + Red Lion + Anybus + Ewon 
-- **优缺点SWOT**：S:KNX 专精+培训+新仓窗口+澳新集团 / W:以太网非其主课 / O:KNX 大项目 IP 骨干 PoE 随单 / T:KNX bus 自足时网络件外采少
-- **Saga产品适配**：KNX 楼宇分销新仓上架窗口:KNX/IP 融合项目 IP 骨干 PoE 随单位
+- **背景深描**：波 30·B-531:英国谱: **守档准由·原 R65/R57 谱基增厚**:IVORY EGG (UK) LIMITED(Nottingham 38 Churchill Park, Colwick NG4 2HF(2024-06 新自建仓 HQ);2005 创,11-50 人):**判型校正=KNX 楼宇自动化专精分销+培训**(『specializes in supplying KNX products, accessories and training for home automation and building control』),**澳新系 Ivory Egg Group 英国站**(董事澳洲/新西兰籍);CSV 载 N-Tron/Red Lion/Anybus/Ewon 谱为其架上工业角;Simon Harvey=National Technical & Training Manager 具名 | R65 深挖:KNX 语族首代分销;Colin Price 所创/README 英国 KNX 推广者;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第7波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
+- **关注点与资质**：英国 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**Ivory Egg specializes in supplying KNX products, accessories, and training for home automation and building control
-  > Ivory Egg specializes in supplying KNX products, accessories, and training for home automation and building control
-  > 来源：https://www.crunchbase.com/organization/ivory-egg
-- **【R57备护深挖证据】**This June, we've moved to a new facility at Churchill Park in Colwick, Nottingham…dedicated collection point
-  > This June, we've moved to a new facility at Churchill Park in Colwick, Nottingham…dedicated collection point
-  > 来源：https://ivoryegg.co.uk/news_items/new-UK-HQ
-- **【R65 谱位】**Ivory Egg KNX 技术型分销;Colin Price founder;Mark Warburton UK Technical Director;英/澳/新三国架
-  > Ivory Egg founder Colin Price adopted KNX as the control platform of choice … Romesh Anandaraja Executive Director [NZ] … Craig Chapman Chief Executive Officer [Group]
-  > 来源：https://ivoryegg.co.uk/about
+- **【联系方式与基础画像】**IVORY EGG (UK) LIMITED(Nottingham 38 Churchill Park, Colwick NG4 2HF(2024-06 新自建仓 HQ);2005 创,11-50 人):**判型校正=KNX 楼宇自动化专精分销+培训**(『specializes in supplying KNX pr
+  > IVORY EGG (UK) LIMITED(Nottingham 38 Churchill Park, Colwick NG4 2HF(2024-06 新自建仓 HQ);2005 创,11-50 人):**判型校正=KNX 楼宇自动化专精分销+培训**(『specializes in supplying KNX pr
+  > 来源：https://ivoryegg.co.uk/
+- **【联系方式与基础画像】**CSV 入口:info@ivoryegg.co.uk（官网联系页）
+  > CSV 入口:info@ivoryegg.co.uk（官网联系页）
+  > 来源：https://ivoryegg.co.uk/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -154,7 +151,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:KNX 专精+培训+新仓窗口+澳新集团 / W:以太网非其主课 / O:KNX 大项目 IP 骨干 PoE 随单 / T:KNX bus 自足时网络件外采少
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -182,8 +179,8 @@ S:KNX 专精+培训+新仓窗口+澳新集团 / W:以太网非其主课 / O:KNX 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] KNX/IP 融合项目里 IP 骨干件现供(随单 or 客户自理)
-  - [ ] 新仓上架窗口的品牌招募节奏
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -192,21 +189,15 @@ S:KNX 专精+培训+新仓窗口+澳新集团 / W:以太网非其主课 / O:KNX 
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Ivory Egg team,
+Dear IVORY EGG (UK) LIMITED Team,
 
-A brand-new warehouse HQ in Colwick, a KNX training roster, and a customer base of installers wiring hotels and commercial buildings - every one of those KNX-over-IP projects needs an IP backbone with PoE muscle behind the panels and gateways.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented PoE tier your KNX installers can pull on the same order, white-label friendly.
-
-One question: inside your hotel and commercial-building KNX projects, which PoE backbone switch rides along today - and is the new warehouse opening a window for a networking line on the shelf?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

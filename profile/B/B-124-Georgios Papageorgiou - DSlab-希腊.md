@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Georgios Papageorgiou / DSlab(dslab.gr;R65 检索多同名画像——KMicro Tech 软件工程师/爱琴海大学 ISLab 数据新闻 PhD/MIT 神经科学；不采信;守档准由)…
+- **是谁**：波 29·B-124:希腊谱: **守档准由·原 R65/R57 谱基增厚**:DSlab.gr(希腊 Chania(克里特))=Alikianos Digital Services Lab;FB 档主:「计算机销售+支…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — 克里特区店 MSP 的小案随单位:8 口副 SKU 坚位(顾问面随)；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -44,20 +44,20 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | Georgios Papageorgiou / DSlab(dslab.gr;R65 检索多同名画像——KMicro Tech 软件工程师/爱琴海大学 ISLab 数据新闻 PhD/MIT 神经科学；不采信;守档准由) | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】「店+区域 MSP」形态而非纯个体——Georgios Papageorgiou 是具名人主档;多证综合他身边 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 29·B-124:希腊谱: **守档准由·原 R65/R57 谱基增厚**:DSlab.gr(希腊 Chania(克里特))=Alikianos Digital Services Lab;FB 档主:「计算机销售+支持、企业备案、手机/平板/Internet & WiFi」——本地案店+技术服务型 MSP 后院店;CSV 信号=MTCNA+MTCWE+M | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】DSlab.gr(希腊 Chania(克里特))=Alikianos Digital Services Lab;FB 档主:「计算机销售+支持、企业备案、手机/平板/Internet & WiFi」——本地案店+技术服务型 MSP 后院店;CSV 信号=MTCNA+MTCWE+MTCIPv6E+MTCSE+M（截断）多证顾问主体 | R65 深挖:同名多问占画，守档准由
-- 【推断】「店+区域 MSP」形态而非纯个体——Georgios Papageorgiou 是具名人主档;多证综合他身边
-- 【假设】开口角度=「克里特区域 MSP 的小案 PoE 主路位」——STC-28DGGPM 8 口 120W 副 SKU 入其小案 LAN/店修件「最小自在子统」的角度比 424 匹配(Chania 多为小店/小主部署)
+- 【事实】波 29·B-124:希腊谱: **守档准由·原 R65/R57 谱基增厚**:DSlab.gr(希腊 Chania(克里特))=Alikianos Digital Services Lab;FB 档主:「计算机销售+支持、企业备案、手机/平板/Internet & WiFi」——本地案店+技术服务型 MSP 后院店;CSV 信号=MTCNA+MTCWE+MTCIPv6E+MTCSE+M（截断）多证顾问主体 | R65 深挖:同名多问占画，守档准由;R66 第 29 波谱:我司 STC-28DGGPM(8-port PoE access box (802.3af/at, watchdog)($99 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第3波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 29 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】「店+区域 MSP」形态而非纯个体——Georgios Papageorgiou 是具名人主档;多证综合他身边
+STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -91,50 +91,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM（8口 PoE 接入盒）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · 小案随单页
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「克里特区域 MSP 的小案 PoE 主路位」——STC-28DGGPM 8 口 120W 副 SKU 入其小案 LAN/店修件「最小自在子统」的角度比 424 匹配(Chania 多为小店/小主部署)
-- **要问的问题**：你 Chania 区域案里 PoE 现走哪家？8 口小案 120W 样本做横评,可以深入聘?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · 样机提议
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「克里特区域 MSP 的小案 PoE 主路位」——STC-28DGGPM 8 口 120W 副 SKU 入其小案 LAN/店修件「最小自在子统」的角度比 424 匹配(Chania 多为小店/小主部署)
-- **要问的问题**：你 Chania 区域案里 PoE 现走哪家？8 口小案 120W 样本做横评,可以深入聘?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「克里特区域 MSP 的小案 PoE 主路位」——STC-28DGGPM 8 口 120W 副 SKU 入其小案 LAN/店修件「最小自在子统」的角度比 424 匹配(Chania 多为小店/小主部署)
-- **要问的问题**：你 Chania 区域案里 PoE 现走哪家？8 口小案 120W 样本做横评,可以深入聘?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 9 批精修 = R57 转写 + 本轮 LinkedIn/登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第9批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
 
-- **背景深描**：Georgios Papageorgiou / DSlab(dslab.gr;R65 检索多同名画像——KMicro Tech 软件工程师/爱琴海大学 ISLab 数据新闻 PhD/MIT 神经科学；不采信;守档准由)
-- **芯片与在用型号**：【推断】「店+区域 MSP」形态而非纯个体——Georgios Papageorgiou 是具名人主档;多证综合他身边
-- **关键人KP**：—(多同名画像但均职业不同=不采信守档准由)
-- **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCWE+MTCIPv6E+MTCSE+MTCEWE | 传承人名开口：见 KP 表
-- **优缺点SWOT**：S:店+顾问综合+多证 / W:店面他小案谱不复合 PoE最决 / O:STC-28DG 入区域店修小案样本 / T:店货流采本给品牌谱变
-- **Saga产品适配**：克里特区店 MSP 的小案随单位:8 口副 SKU 坚位(顾问面随)
+- **背景深描**：波 29·B-124:希腊谱: **守档准由·原 R65/R57 谱基增厚**:DSlab.gr(希腊 Chania(克里特))=Alikianos Digital Services Lab;FB 档主:「计算机销售+支持、企业备案、手机/平板/Internet & WiFi」——本地案店+技术服务型 MSP 后院店;CSV 信号=MTCNA+MTCWE+MTCIPv6E+MTCSE+M（截断）多证顾问主体 | R65 深挖:同名多问占画，守档准由;R66 第 29 波谱:我司 STC-28DGGPM(8-port PoE access box (802.3af/at, watchdog)($99 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第3波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
+- **关注点与资质**：希腊 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-28DGGPM 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-28DGGPM vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**Πωλήσεις και υποστήριξη υπολογιστών & δικτύων, μηχανογράφηση επιχειρήσεων, κινητά-tablets-Συνδέσεις internet & WiFi
-  > Πωλήσεις και υποστήριξη υπολογιστών & δικτύων, μηχανογράφηση επιχειρήσεων, κινητά-tablets-Συνδέσεις internet & WiFi
-  > 来源：https://www.facebook.com/dslab.gr/
-- **【R57备护深挖证据】**CSV:MikroTik 认证顾问 MTCNA+MTCWE+MTCIPv6E+MTCSE…(多证)
-  > CSV:MikroTik 认证顾问 MTCNA+MTCWE+MTCIPv6E+MTCSE…(多证)
-  > 来源：客户名单_反向信号_2026-09.csv
-- **【R65 同名注】**「Georgios Papageorgiou」多重同名者(KMicro/爱琴海/MIT)；与 dslab.gr 无关联；不采信
-  > (LinkedIn 搜索 2026-10-07：三处同名画像，皆与 DSlab 不联)
-  > 来源：(沙箱核验日志)
+- **【联系方式与基础画像】**DSlab.gr(希腊 Chania(克里特))=Alikianos Digital Services Lab;FB 档主:「计算机销售+支持、企业备案、手机/平板/Internet & WiFi」——本地案店+技术服务型 MSP 后院店;CSV 信号=MTCNA+MTCWE+MTCIPv6E+MTCSE+M（截断）多
+  > DSlab.gr(希腊 Chania(克里特))=Alikianos Digital Services Lab;FB 档主:「计算机销售+支持、企业备案、手机/平板/Internet & WiFi」——本地案店+技术服务型 MSP 后院店;CSV 信号=MTCNA+MTCWE+MTCIPv6E+MTCSE+M（截断）多
+  > 来源：https://dslab.gr/
+- **【联系方式与基础画像】**CSV 入口:+30 694 240 0212 / info@dslab.gr
+  > CSV 入口:+30 694 240 0212 / info@dslab.gr
+  > 来源：https://dslab.gr/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -147,7 +144,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:店+顾问综合+多证 / W:店面他小案谱不复合 PoE最决 / O:STC-28DG 入区域店修小案样本 / T:店货流采本给品牌谱变
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-28DGGPM 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -175,8 +172,8 @@ S:店+顾问综合+多证 / W:店面他小案谱不复合 PoE最决 / O:STC-28DG
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 多证续证现状(mikrotik.com 名录)
-  - [ ] 克里特区域案密度与 PoE 部署形
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -185,21 +182,15 @@ S:店+顾问综合+多证 / W:店面他小案谱不复合 PoE最决 / O:STC-28DG
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Georgios,
+Dear Georgios Papageorgiou Team,
 
-DSlab in Chania with a multi-certificate MikroTik credential stack behind it - your small-shop clients across Crete need dependable small deployments more than they need twenty-four ports.
+We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a compact 8-port managed PoE+ switch (120W, L2-lite) with full English documentation. Reference: $99 USD EXW (2026-09-29) - sized for exactly the small-shop LAN point where you locally support your region.
-
-One question: for the small clients you support around Chania, which compact PoE switch lands in your typical deployment today - and would a documented sample unit earn a bench test?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

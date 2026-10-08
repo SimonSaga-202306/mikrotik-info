@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Pymatek Automation Ltd(CH 09293772,2014-11-04 注册,Venture Point Wheelhouse Rd, Rugeley WS15 1UZ, Staffordshire;…
+- **是谁**：波 30·B-421:英国谱: **守档准由·原 R65/R57 谱基增厚**:Pymatek Automation(Staffordshire 01543 区;VAT GB 2060 155 3431;pymatek.…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：有信号（工业/楼宇）但需先验证需求或联系人不具体
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — EtherWAN/Hirschmann 双高价谱旁的 DIN 轨 value 第三源(英国+拉美 11 国复用)；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Pymatek Automation Ltd(CH 09293772,2014-11-04 注册,Venture Point Wheelhouse Rd, Rugeley WS15 1UZ, Staffordshire;SIC 71129 Other engineering activities;3 员工规模;主域=pymatek.com(非 .co.uk) | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】工业交换在其谱里已有 EtherWAN+Hirschmann 两高价牌——value 档缺位;其独特资产=英公司做西语拉美 11 国渠道(Se habla español),DIN 轨工业件跨区流动 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 30·B-421:英国谱: **守档准由·原 R65/R57 谱基增厚**:Pymatek Automation(Staffordshire 01543 区;VAT GB 2060 155 3431;pymatek.us 美国站):**工业自动化零组件大目录分销商**(PLC/驱动/HMI/电机/编码器;ABB/Siemens/Schneider/Mit | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Pymatek Automation(Staffordshire 01543 区;VAT GB 2060 155 3431;pymatek.us 美国站):**工业自动化零组件大目录分销商**(PLC/驱动/HMI/电机/编码器;ABB/Siemens/Schneider/Mitsubishi/Omron/Bosch Rexroth 全谱);**同时分销两大工业交换牌:EtherWAN(凤凰触点旗下台厂)+Hirschmann(Belden)**,另带 eWON;**分销区域=英国+美国+西语拉美 11 国**(墨西哥/秘鲁/西班牙/玻利维亚/智利/哥伦比亚/厄瓜多尔/阿根廷/乌拉圭/巴拉圭) | R64/R65 补:Ybet 唯一董事 CH 实名 + pymatek.com 主域(非 .co.uk)
-- 【推断】工业交换在其谱里已有 EtherWAN+Hirschmann 两高价牌——value 档缺位;其独特资产=英公司做西语拉美 11 国渠道(Se habla español),DIN 轨工业件跨区流动
-- 【假设】开口角度=「EtherWAN/Hirschmann 双高价旁的 DIN 轨 value 第三源」:STI-288GP 以差价位进,兼提其拉美站的 value 需求带(价格敏)+OEM 变体
+- 【事实】波 30·B-421:英国谱: **守档准由·原 R65/R57 谱基增厚**:Pymatek Automation(Staffordshire 01543 区;VAT GB 2060 155 3431;pymatek.us 美国站):**工业自动化零组件大目录分销商**(PLC/驱动/HMI/电机/编码器;ABB/Siemens/Schneider/Mitsubishi/Omron/Bosch Rexroth 全谱);**同时分销两大工业交换牌:EtherWAN(凤凰触点旗下台厂)+Hirschmann(Belden)**,另带 eWON;**分销区域=英国+美国+西语拉美 11 国**(墨西哥/秘鲁/西班牙/玻利维亚/智利/哥伦比亚/厄瓜多尔/阿根廷/乌拉圭/巴拉圭) | R64/R65 补:Ybet 唯一董事 CH 实名 + pymatek.com 主域(非 .co.uk);R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第7波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 30 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】工业交换在其谱里已有 EtherWAN+Hirschmann 两高价牌——value 档缺位;其独特资产=英公司做西语拉美 11 国渠道(Se habla español),DIN 轨工业件跨区流动
+STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -69,7 +69,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- Pymatek Automation Ltd(CH 09293772,2014-11-04 注册,Venture Point Wheelhouse Rd, Rugeley WS15 1UZ, Staffordshire;SIC 71129 Other engineering activities;3 员工规模;主域=pymatek.com(非 .co.uk)MX outlook 存活;Ybet Haydeé Sánchez Vargas de Pattison 唯一登记董事(2014 至今,1975-06 生);Martin Pattison 销市经理/Franco Sanchez 销售主管/Kimberly Pinillos GM,GlobalDatabase 全自曝
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -95,59 +95,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · 双牌对位表+拉美 value 带提案
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「EtherWAN/Hirschmann 双高价旁的 DIN 轨 value 第三源」:STI-288GP 以差价位进,兼提其拉美站的 value 需求带(价格敏)+OEM 变体
-- **要问的问题**：你们 EtherWAN/Hirschmann 客户在预算紧的项目里,value DIN 轨 PoE 现无供?第三源 OEM 变体可谈吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · sales@pymatek.co.uk 开口(西英双版)
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「EtherWAN/Hirschmann 双高价旁的 DIN 轨 value 第三源」:STI-288GP 以差价位进,兼提其拉美站的 value 需求带(价格敏)+OEM 变体
-- **要问的问题**：你们 EtherWAN/Hirschmann 客户在预算紧的项目里,value DIN 轨 PoE 现无供?第三源 OEM 变体可谈吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「EtherWAN/Hirschmann 双高价旁的 DIN 轨 value 第三源」:STI-288GP 以差价位进,兼提其拉美站的 value 需求带(价格敏)+OEM 变体
-- **要问的问题**：你们 EtherWAN/Hirschmann 客户在预算紧的项目里,value DIN 轨 PoE 现无供?第三源 OEM 变体可谈吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 2 批精修 = R57 转写 + R64 KP + CH/GlobalDatabase 补)**；原始记录：`batch/B类深挖_2026-10-07_R65_第2批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
 
-- **背景深描**：Pymatek Automation Ltd(CH 09293772,2014-11-04 注册,Venture Point Wheelhouse Rd, Rugeley WS15 1UZ, Staffordshire;SIC 71129 Other engineering activities;3 员工规模;主域=pymatek.com(非 .co.uk)MX outlook 存活;Ybet Haydeé Sánchez Vargas de Pattison 唯一登记董事(2014 至今,1975-06 生);Martin Pattison 销市经理/Franco Sanchez 销售主管/Kimberly Pinillos GM,GlobalDatabase 全自曝
-- **芯片与在用型号**：【推断】工业交换在其谱里已有 EtherWAN+Hirschmann 两高价牌——value 档缺位;其独特资产=英公司做西语拉美 11 国渠道(Se habla español),DIN 轨工业件跨区流动
-- **关键人KP**：（见 R64 KP 猎捕节/本档 KP 表）
-- **关注点与资质**：EtherWAN 英国分销商（同时在西班牙及拉美多国分销）；站点按品牌建档，主营工业自动化供货 | 传承人名开口：见 KP 表
-- **优缺点SWOT**：S:双工业牌已带+11 国跨区域+大目录 / W:第三家工业交换品牌教育成本 / O:value DIN 轨第三源+拉美价差带 / T:EtherWAN 排他条款
-- **Saga产品适配**：EtherWAN/Hirschmann 双高价谱旁的 DIN 轨 value 第三源(英国+拉美 11 国复用)
+- **背景深描**：波 30·B-421:英国谱: **守档准由·原 R65/R57 谱基增厚**:Pymatek Automation(Staffordshire 01543 区;VAT GB 2060 155 3431;pymatek.us 美国站):**工业自动化零组件大目录分销商**(PLC/驱动/HMI/电机/编码器;ABB/Siemens/Schneider/Mitsubishi/Omron/Bosch Rexroth 全谱);**同时分销两大工业交换牌:EtherWAN(凤凰触点旗下台厂)+Hirschmann(Belden)**,另带 eWON;**分销区域=英国+美国+西语拉美 11 国**(墨西哥/秘鲁/西班牙/玻利维亚/智利/哥伦比亚/厄瓜多尔/阿根廷/乌拉圭/巴拉圭) | R64/R65 补:Ybet 唯一董事 CH 实名 + pymatek.com 主域(非 .co.uk);R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第7波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
+- **关注点与资质**：英国 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
+- **Saga产品适配**：STI-288GP vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**Distributor of Etherwan in UK…Hirschmann industrial connectivity solutions: industrial Ethernet switches, M12 connectors, industrial network
-  > Distributor of Etherwan in UK…Hirschmann industrial connectivity solutions: industrial Ethernet switches, M12 connectors, industrial networking systems
-  > 来源：https://www.pymatek.co.uk/manufacturers/542-etherwan/
-- **【R57备护深挖证据】**Distributor of Etherwan in UK, Perú, Bolivia, España, Colombia, México, Ecuador, Chile, Argentina, Uruguay, Paraguay
-  > Distributor of Etherwan in UK, Perú, Bolivia, España, Colombia, México, Ecuador, Chile, Argentina, Uruguay, Paraguay
-  > 来源：https://www.pymatek.co.uk/manufacturers/542-etherwan/
-- **【R57备护深挖证据】**PLCs, servo motors, variable frequency drives, HMIs, encoders…ABB, Siemens, Schneider Electric, Mitsubishi Electric, Omron
-  > PLCs, servo motors, variable frequency drives, HMIs, encoders…ABB, Siemens, Schneider Electric, Mitsubishi Electric, Omron
-  > 来源：https://www.pymatek.us/
-- **【R64 CH 实名】**PYMATEK AUTOMATION LTD CH 09293772,2014-11-04 注册,Rugeley WS15 1UZ;Ybet SÁNCHEZ VARGAS DE PATTISON 唯一现任董事
-  > PYMATEK AUTOMATION LTD. Company number: 09293772 … Incorporated on 4 November 2014 … Directors: 1 … Mrs. Ybet Haydee Sanchez Vargas De Pattison 04 Nov 2014
-  > 来源：https://www.companiesintheuk.co.uk/ltd/pymatek-automation
-- **【R64 团队层自曝】**pymatek.com 域内:Ybet(Director)/Franco Sanchez(Jefe De Ventas)/Martin Pattison(Sales Manager)/Lucero Vaenzuela(Admin Asst)/Kimberly Pinillos(Gerente General)
-  > Ybet Sanchez Vargas De Pattison Director … Franco Sanchez Jefe De Ventas … Martin Pattison Sales Manager … Kimberly Pinillos Gerente General … @pymatek.com
-  > 来源：https://uk.globaldatabase.com/company/pymatek-automation-ltd
-- **【R64 域名核正】**CSV 网站=pymatek.co.uk(名录口径),实际职能域=pymatek.com(全员邮箱挂 pymatek.com),MX outlook 存活——候选挂 pymatek.com 系
-  > (GlobalDatabase 员工邮箱全挂 ****@pymatek.com)
-  > 来源：https://uk.globaldatabase.com/company/pymatek-automation-ltd
+- **【联系方式与基础画像】**Pymatek Automation(Staffordshire 01543 区;VAT GB 2060 155 3431;pymatek.us 美国站):**工业自动化零组件大目录分销商**(PLC/驱动/HMI/电机/编码器;ABB/Siemens/Schneider/Mitsubishi/Omron/Bosch 
+  > Pymatek Automation(Staffordshire 01543 区;VAT GB 2060 155 3431;pymatek.us 美国站):**工业自动化零组件大目录分销商**(PLC/驱动/HMI/电机/编码器;ABB/Siemens/Schneider/Mitsubishi/Omron/Bosch 
+  > 来源：https://pymatek.co.uk/
+- **【联系方式与基础画像】**CSV 入口:官网联系页
+  > CSV 入口:官网联系页
+  > 来源：https://pymatek.co.uk/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -160,7 +148,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:双工业牌已带+11 国跨区域+大目录 / W:第三家工业交换品牌教育成本 / O:value DIN 轨第三源+拉美价差带 / T:EtherWAN 排他条款
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -188,8 +176,8 @@ S:双工业牌已带+11 国跨区域+大目录 / W:第三家工业交换品牌�
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] EtherWAN/Hirschmann 在谱价位带(其客户价值缺口在哪)
-  - [ ] 拉美 11 国站的 value 件需求真实量级
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -198,21 +186,15 @@ S:双工业牌已带+11 国跨区域+大目录 / W:第三家工业交换品牌�
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Pymatek team,
+Dear Pymatek Automation Team,
 
-EtherWAN and Hirschmann on the same industrial shelf, plus plain-Spanish channels into eleven Latin American markets - you already run two premium industrial Ethernet names, and you know exactly where the budget-constrained projects walk away.
+We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English/Spanish documentation. Reference: $74.8 USD EXW (2026-09-29) - strictly the value-side third source beside your premium pair, fully open to an OEM variant under your terms.
-
-One question: for your EtherWAN/Hirschmann buyers with tight project budgets - especially in Latin America - is there a documented value-side DIN-rail source in your line-up today, or is that slot still open?
-
-If useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

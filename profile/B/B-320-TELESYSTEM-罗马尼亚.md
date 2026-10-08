@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：TELESYSTEM SRL(CUI RO22460883,J2007001650049,2007-09-25 注册,Bacău Spiru Haret nr. 8 showroom;安防+IT&C 全国批发:总部 Ba…
+- **是谁**：波 30·B-320:罗马尼亚谱: **守档准由·原 R65/R57 谱基增厚**:TELESYSTEM(Bacău 总部+**București/Cluj/Iași 仓点(物流网)**;2007 创,51-200 人(…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 安防 VAD 相机谱的工业 PoE 供电轨(STC-424 备位)；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | TELESYSTEM SRL(CUI RO22460883,J2007001650049,2007-09-25 注册,Bacău Spiru Haret nr. 8 showroom;安防+IT&C 全国批发:总部 Bacău + București/Cluj/Iași 仓点;Hikvision/Honeywell/Uniview/MikroTik/TREN | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】罗马尼亚安防 VAD 头牌:相机谱(Hikvision/Uniview)=PoE 供电场景最厚的一张谱;专供安装商客层=复购密度高 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 30·B-320:罗马尼亚谱: **守档准由·原 R65/R57 谱基增厚**:TELESYSTEM(Bacău 总部+**București/Cluj/Iași 仓点(物流网)**;2007 创,51-200 人(29-200 间口径);**安防+IT&C 全国批发:40-70 个世界名牌官方分销——Hikvision/Honeywell/Univie | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】TELESYSTEM(Bacău 总部+**București/Cluj/Iași 仓点(物流网)**;2007 创,51-200 人(29-200 间口径);**安防+IT&C 全国批发:40-70 个世界名牌官方分销——Hikvision/Honeywell/Uniview/MikroTik/TRENDnet/UniPos/Motorline/Optex 等,专供安装商与集成商**;具名 Marian David(Marketing)/Monica Balcu(KAM)/Stefan Cosa(产品经理)/Răzvan Dobocan(BDM Cluj);comenzi@telesystem.ro) | R64 并入:David Marian = Administrator(公安许可台账实名);Marian David(Marketin
-- 【推断】罗马尼亚安防 VAD 头牌:相机谱(Hikvision/Uniview)=PoE 供电场景最厚的一张谱;专供安装商客层=复购密度高
-- 【假设】开口角度=「安防安装商客层的 PoE 供电档」:STI-288GP 主(监控柜/户外位),STC-424 备(机房管理型);具名 Stefan Cosa(产品经理)为正确开口层
+- 【事实】波 30·B-320:罗马尼亚谱: **守档准由·原 R65/R57 谱基增厚**:TELESYSTEM(Bacău 总部+**București/Cluj/Iași 仓点(物流网)**;2007 创,51-200 人(29-200 间口径);**安防+IT&C 全国批发:40-70 个世界名牌官方分销——Hikvision/Honeywell/Uniview/MikroTik/TRENDnet/UniPos/Motorline/Optex 等,专供安装商与集成商**;具名 Marian David(Marketing)/Monica Balcu(KAM)/Stefan Cosa(产品经理)/Răzvan Dobocan(BDM Cluj);comenzi@telesystem.ro) | R64 并入:David Marian = Administrator(公安许可台账实名);Marian David(Marketin;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第12波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 30 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】罗马尼亚安防 VAD 头牌:相机谱(Hikvision/Uniview)=PoE 供电场景最厚的一张谱;专供安装商客层=复购密度高
+STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -92,53 +92,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · 监控柜 DIN PoE 页
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「安防安装商客层的 PoE 供电档」:STI-288GP 主(监控柜/户外位),STC-424 备(机房管理型);具名 Stefan Cosa(产品经理)为正确开口层
-- **要问的问题**：你们给安装商配的监控柜/户外位,DIN 轨工业 PoE 现随哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · comenzi@telesystem.ro 开口(角度具名 Stefan Cosa 产品线)
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「安防安装商客层的 PoE 供电档」:STI-288GP 主(监控柜/户外位),STC-424 备(机房管理型);具名 Stefan Cosa(产品经理)为正确开口层
-- **要问的问题**：你们给安装商配的监控柜/户外位,DIN 轨工业 PoE 现随哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「安防安装商客层的 PoE 供电档」:STI-288GP 主(监控柜/户外位),STC-424 备(机房管理型);具名 Stefan Cosa(产品经理)为正确开口层
-- **要问的问题**：你们给安装商配的监控柜/户外位,DIN 轨工业 PoE 现随哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 3 批精修 = R57 转写 + R64 KP 猎捕战果并入)**；原始记录：`batch/B类深挖_2026-10-07_R65_第3批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
 
-- **背景深描**：TELESYSTEM SRL(CUI RO22460883,J2007001650049,2007-09-25 注册,Bacău Spiru Haret nr. 8 showroom;安防+IT&C 全国批发:总部 Bacău + București/Cluj/Iași 仓点;Hikvision/Honeywell/Uniview/MikroTik/TRENDnet/UniPos 等 40-70 牌官方;三点股东结构(D.I./D.M./N.M.R.),D.M.=David Marian Administrator 公示,0728 105 124;安装商/集成商专供)
-- **芯片与在用型号**：【推断】罗马尼亚安防 VAD 头牌:相机谱(Hikvision/Uniview)=PoE 供电场景最厚的一张谱;专供安装商客层=复购密度高
-- **关键人KP**：David Marian = Administrator(公安许可台账实名);Marian David(Marketing 同姓口径);Monica Balcu KAM;Stefan Cosa 产品经理;Răzvan Dobocan BDM Cluj
-- **关注点与资质**：MikroTik（Master+VAD） | 传承人名开口：见 KP 表
-- **优缺点SWOT**：S:40-70 牌安防 VAD+四点物流 / W:PoE 档可能已被 Hikvision 谱占 / O:安装商客层 PoE 高频复购 / T:谱内大品牌挤压
-- **Saga产品适配**：安防 VAD 相机谱的工业 PoE 供电轨(STC-424 备位)
+- **背景深描**：波 30·B-320:罗马尼亚谱: **守档准由·原 R65/R57 谱基增厚**:TELESYSTEM(Bacău 总部+**București/Cluj/Iași 仓点(物流网)**;2007 创,51-200 人(29-200 间口径);**安防+IT&C 全国批发:40-70 个世界名牌官方分销——Hikvision/Honeywell/Uniview/MikroTik/TRENDnet/UniPos/Motorline/Optex 等,专供安装商与集成商**;具名 Marian David(Marketing)/Monica Balcu(KAM)/Stefan Cosa(产品经理)/Răzvan Dobocan(BDM Cluj);comenzi@telesystem.ro) | R64 并入:David Marian = Administrator(公安许可台账实名);Marian David(Marketin;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第12波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
+- **关注点与资质**：罗马尼亚 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
+- **Saga产品适配**：STI-288GP vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**distribuitor oficial pentru o gamă variată … peste 40 de producători … Hikvision, Honeywell, Uniview, Microtik, TRENDnet, UniPos, Motorline,
-  > distribuitor oficial pentru o gamă variată … peste 40 de producători … Hikvision, Honeywell, Uniview, Microtik, TRENDnet, UniPos, Motorline, Optex … adresate exclusiv instalatorilor și integratorilor de profil
-  > 来源：https://www.linkedin.com/company/telesystem.romania
-- **【R57备护深挖证据】**puncte de prezență și spații logistice în Bacău, București, Cluj și Iași
-  > puncte de prezență și spații logistice în Bacău, București, Cluj și Iași
-  > 来源：https://rocketreach.co/telesystem-profile_b402d648fc0a032a
-- **【R64/Administrator 实名】**Societatea TELESYSTEM S.R.L. administrată de David Marian(公安/许可证台账公开);companywall/termene 对应 D.M. 缩写股东
-  > Societate: Telesystem S.R.L. administrată de David Marian … Contact David Marian 0234/551055 0728 105 124 office@telesystem.ro
-  > 来源：https://www.protectiesipaza.ro/sisteme-de-alarma/telesystem-s-r-l-sisteme-de-alarma/
-- **【R64 商业登记】**CUI RO22460883,2007-09-25,功能正常,三位股东三位董事(缩写台账)
-  > TELESYSTEM SRL CUI 22460883 J2007001650049 Funcţiune … 3 shareholders and 3 directors
-  > 来源：https://termene.ro/en/firma/22460883-TELESYSTEM-SRL
+- **【联系方式与基础画像】**TELESYSTEM(Bacău 总部+**București/Cluj/Iași 仓点(物流网)**;2007 创,51-200 人(29-200 间口径);**安防+IT&C 全国批发:40-70 个世界名牌官方分销——Hikvision/Honeywell/Uniview/MikroTik/TRENDnet/Un
+  > TELESYSTEM(Bacău 总部+**București/Cluj/Iași 仓点(物流网)**;2007 创,51-200 人(29-200 间口径);**安防+IT&C 全国批发:40-70 个世界名牌官方分销——Hikvision/Honeywell/Uniview/MikroTik/TRENDnet/Un
+  > 来源：https://telesystem.ro/
+- **【联系方式与基础画像】**CSV 入口:+40 31 101 99 09 / comenzi@telesystem.ro
+  > CSV 入口:+40 31 101 99 09 / comenzi@telesystem.ro
+  > 来源：https://telesystem.ro/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -151,7 +145,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:40-70 牌安防 VAD+四点物流 / W:PoE 档可能已被 Hikvision 谱占 / O:安装商客层 PoE 高频复购 / T:谱内大品牌挤压
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -179,8 +173,8 @@ S:40-70 牌安防 VAD+四点物流 / W:PoE 档可能已被 Hikvision 谱占 / O:
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 安防谱 PoE 供电现供牌
-  - [ ] 产品经理 Cosa 是否直达采购
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -189,21 +183,15 @@ S:40-70 牌安防 VAD+四点物流 / W:PoE 档可能已被 Hikvision 谱占 / O:
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Stefan,
+Dear TELESYSTEM Team,
 
-Forty-plus manufacturers on the Hikvision/Uniview shelf and a four-city logistics backbone - your installer base deploys cameras every week, and every camera cluster needs a rail PoE switch that holds in the cabinet.
+We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - the documented value-side rail PoE unit for your installer-facing catalog, white-label friendly.
-
-One question: in your surveillance cabinets and outdoor boxes, which DIN-rail industrial PoE switch feeds the cameras today - and is there a value slot beside the current line?
-
-If useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

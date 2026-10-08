@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Neostar S.r.l.(Brescia/Bergamo 双 Cash & Carry 门店;谱=Asustor/FSP/Gigabyte/Legrand/Magnoni/MikroTik/NZXT/Thecus/T…
+- **是谁**：波 29·B-168:意大利谱: **守档准由·原 R65/R57 谱基增厚**:Neostar S.r.l.(Brescia Via Siena 1 + Bergamo Via Oprandi 11 **双 cash …
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — C&C 双仓现货安装商谱的 24 口 280W value 走量位(布线随单天然适配)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Neostar S.r.l.(Brescia/Bergamo 双 Cash & Carry 门店;谱=Asustor/FSP/Gigabyte/Legrand/Magnoni/MikroTik/NZXT/Thecus/TP-Link/Transcend/Ubiquiti 在架;**2017 MUM Europe exhibitor(MikroTik 官方名录 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】C&C 双仓现货模式=安装商当天提货;Legrand 布线+Ubiquiti/TP-Link 架=其安装商客户谱天然带 PoE 随单;C&C 模式对现货可得性与单位价极敏感 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 29·B-168:意大利谱: **守档准由·原 R65/R57 谱基增厚**:Neostar S.r.l.(Brescia Via Siena 1 + Bergamo Via Oprandi 11 **双 cash & carry 仓**;11-50 人;Master+VAD(altostrat 名录双电话确认):**现货走量型批发**——谱=Asust | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Neostar S.r.l.(Brescia Via Siena 1 + Bergamo Via Oprandi 11 **双 cash & carry 仓**;11-50 人;Master+VAD(altostrat 名录双电话确认):**现货走量型批发**——谱=Asustor/FSP/Gigabyte/**Legrand(结构化布线)**/Magnoni/NZXT/Thecus/TP-Link/Transcend/Ubiquiti/MikroTik;题头即『Distributore Informatica Networking **Cablaggio Strutturato**』 | R65 深挖:Brescia Cash&Carry 老谱;2017 MUM 出展座实
-- 【推断】C&C 双仓现货模式=安装商当天提货;Legrand 布线+Ubiquiti/TP-Link 架=其安装商客户谱天然带 PoE 随单;C&C 模式对现货可得性与单位价极敏感
-- 【假设】开口角度=「C&C 现货架的 value 24 口 PoE 走量位」:STC-424 做安装商当天提货档,仓配模式+价格数字适配
+- 【事实】波 29·B-168:意大利谱: **守档准由·原 R65/R57 谱基增厚**:Neostar S.r.l.(Brescia Via Siena 1 + Bergamo Via Oprandi 11 **双 cash & carry 仓**;11-50 人;Master+VAD(altostrat 名录双电话确认):**现货走量型批发**——谱=Asustor/FSP/Gigabyte/**Legrand(结构化布线)**/Magnoni/NZXT/Thecus/TP-Link/Transcend/Ubiquiti/MikroTik;题头即『Distributore Informatica Networking **Cablaggio Strutturato**』 | R65 深挖:Brescia Cash&Carry 老谱;2017 MUM 出展座实;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第5波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 29 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】C&C 双仓现货模式=安装商当天提货;Legrand 布线+Ubiquiti/TP-Link 架=其安装商客户谱天然带 PoE 随单;C&C 模式对现货可得性与单位价极敏感
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -85,50 +85,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · C&C 现货走量提案页
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「C&C 现货架的 value 24 口 PoE 走量位」:STC-424 做安装商当天提货档,仓配模式+价格数字适配
-- **要问的问题**：你们 Brescia/Bergamo 两仓里,安装商当天提的 24 口 PoE 现走哪款?value 档有没有空位?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · info@neostar.it 开口
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「C&C 现货架的 value 24 口 PoE 走量位」:STC-424 做安装商当天提货档,仓配模式+价格数字适配
-- **要问的问题**：你们 Brescia/Bergamo 两仓里,安装商当天提的 24 口 PoE 现走哪款?value 档有没有空位?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「C&C 现货架的 value 24 口 PoE 走量位」:STC-424 做安装商当天提货档,仓配模式+价格数字适配
-- **要问的问题**：你们 Brescia/Bergamo 两仓里,安装商当天提的 24 口 PoE 现走哪款?value 档有没有空位?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 8 批精修 = R57 转写 + 本轮登记/官网新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第7批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
 
-- **背景深描**：Neostar S.r.l.(Brescia/Bergamo 双 Cash & Carry 门店;谱=Asustor/FSP/Gigabyte/Legrand/Magnoni/MikroTik/NZXT/Thecus/TP-Link/Transcend/Ubiquiti 在架;**2017 MUM Europe exhibitor(MikroTik 官方名录)**=老谱位确认
-- **芯片与在用型号**：【推断】C&C 双仓现货模式=安装商当天提货;Legrand 布线+Ubiquiti/TP-Link 架=其安装商客户谱天然带 PoE 随单;C&C 模式对现货可得性与单位价极敏感
-- **关键人KP**：—(S.r.l. 董事 registre des entreprises Brescia tribunale 查询方向)
-- **关注点与资质**：MikroTik（Master+VAD） 
-- **优缺点SWOT**：S:双仓 C&C 现货+Legrand 布线谱+Master / W:走量型,品牌忠诚度低 / O:24 口 value PoE 现货位 / T:TP-Link 低价现货压
-- **Saga产品适配**：C&C 双仓现货安装商谱的 24 口 280W value 走量位(布线随单天然适配)
+- **背景深描**：波 29·B-168:意大利谱: **守档准由·原 R65/R57 谱基增厚**:Neostar S.r.l.(Brescia Via Siena 1 + Bergamo Via Oprandi 11 **双 cash & carry 仓**;11-50 人;Master+VAD(altostrat 名录双电话确认):**现货走量型批发**——谱=Asustor/FSP/Gigabyte/**Legrand(结构化布线)**/Magnoni/NZXT/Thecus/TP-Link/Transcend/Ubiquiti/MikroTik;题头即『Distributore Informatica Networking **Cablaggio Strutturato**』 | R65 深挖:Brescia Cash&Carry 老谱;2017 MUM 出展座实;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第5波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
+- **关注点与资质**：意大利 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**Neostar Master Distributor Value Added Distributor Brescia, Italy info@neostar.it +39 030 349771, +39 030 3544107
-  > Neostar Master Distributor Value Added Distributor Brescia, Italy info@neostar.it +39 030 349771, +39 030 3544107
-  > 来源：https://altostrat.io/buying/hardware/resellers/europe/italy/
-- **【R57备护深挖证据】**Distributore Asustor, FSP, Gigabyte, Legrand, Magnoni, Mikrotik, NZXT, Thecus, TP-Link, Transcend, Ubiquiti - Cash & carry a Brescia e Berga
-  > Distributore Asustor, FSP, Gigabyte, Legrand, Magnoni, Mikrotik, NZXT, Thecus, TP-Link, Transcend, Ubiquiti - Cash & carry a Brescia e Bergamo
-  > 来源：https://neostar.it/?vendor=RB
-- **【R65 谱位】**Neostar S.r.l. Brescia+ Bergamo 双 Cash & Carry;多品牌谱 MikroTik 在架;2017 MUM Europe exhibitor 官方录
-  > Neostar S.r.l. - Distributore Asustor, FSP, Gigabyte, Legrand, Magnoni, Mikrotik, NZXT, Thecus, TP-Link, Transcend, Ubiquiti - Cash & carry a Brescia e Bergamo … Neostar (Italy) [2017 MUM EU exhibitor]
-  > 来源：https://mum.mikrotik.com/2017/EU/exhibitors
+- **【联系方式与基础画像】**Neostar S.r.l.(Brescia Via Siena 1 + Bergamo Via Oprandi 11 **双 cash & carry 仓**;11-50 人;Master+VAD(altostrat 名录双电话确认):**现货走量型批发**——谱=Asustor/FSP/Gigabyte/**Leg
+  > Neostar S.r.l.(Brescia Via Siena 1 + Bergamo Via Oprandi 11 **双 cash & carry 仓**;11-50 人;Master+VAD(altostrat 名录双电话确认):**现货走量型批发**——谱=Asustor/FSP/Gigabyte/**Leg
+  > 来源：https://neostar.it/
+- **【联系方式与基础画像】**CSV 入口:+39 030 349771 / info@neostar.it
+  > CSV 入口:+39 030 349771 / info@neostar.it
+  > 来源：https://neostar.it/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -141,7 +138,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:双仓 C&C 现货+Legrand 布线谱+Master / W:走量型,品牌忠诚度低 / O:24 口 value PoE 现货位 / T:TP-Link 低价现货压
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -169,8 +166,8 @@ S:双仓 C&C 现货+Legrand 布线谱+Master / W:走量型,品牌忠诚度低 / 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] C&C 架上 PoE 交换走量 SKU 与价位
-  - [ ] 新品牌入仓的现货押款条件
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -179,21 +176,15 @@ S:双仓 C&C 现货+Legrand 布线谱+Master / W:走量型,品牌忠诚度低 / 
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Neostar team,
+Dear Neostar Team,
 
-Two cash-and-carry warehouses in Brescia and Bergamo with Legrand structured cabling on the same shelf as MikroTik and Ubiquiti - your installers walk out with a camera run and need the PoE switch on the same trip.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Italian documentation. Reference: $180 USD EXW (2026-09-29) - built for the value stocking tier a C&C shelf lives on, white-label friendly.
-
-One question: on your cash-and-carry shelves, which 24-port managed PoE switch moves with the cabling and camera runs today - and is there a value-tier slot open for a documented unit?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：UAB ELKO Lietuva(Įmonės kodas 110604815, Algirdo g. 32A, Kaunas LT-50153,Kaunas,Europos pr. 32 从行;1994-03-21 创…
+- **是谁**：波 30·B-311:立陶宛谱: **守档准由·原 R65/R57 谱基增厚**:UAB ELKO Lietuva(Kaunas Algirdo g. 32A;1994 注册;**ELKO Grupa 立陶宛站**;法人…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — ELKO 集团架 stocking SKU(与 B-285/WESTech 协同防双头)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | UAB ELKO Lietuva(Įmonės kodas 110604815, Algirdo g. 32A, Kaunas LT-50153,Kaunas,Europos pr. 32 从行;1994-03-21 创（32 年 ELKO 大谱老牌）;**Miglė Rudminė = Vadovas(CEO)**;PVM LT106048113;14 员 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】ELKO 嫡系立陶宛前台:与 B-285 同逻辑——Riga 中央归集,国别站触达 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 30·B-311:立陶宛谱: **守档准由·原 R65/R57 谱基增厚**:UAB ELKO Lietuva(Kaunas Algirdo g. 32A;1994 注册;**ELKO Grupa 立陶宛站**;法人壳:13 人,营收 €850.7K(2024,+12.9% YoY);分类含广告代理代码,实归「Computers and software | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】UAB ELKO Lietuva(Kaunas Algirdo g. 32A;1994 注册;**ELKO Grupa 立陶宛站**;法人壳:13 人,营收 €850.7K(2024,+12.9% YoY);分类含广告代理代码,实归「Computers and software Wholesale」;info@elko.lt) | R65 深挖:ELKO 立陶宛 32 年实体；Rudminė 实名首
-- 【推断】ELKO 嫡系立陶宛前台:与 B-285 同逻辑——Riga 中央归集,国别站触达
-- 【假设】开口角度=「集团架 value stocking PoE SKU」协同 B-285/WESTech:一口集团层级确认,国别站引路
+- 【事实】波 30·B-311:立陶宛谱: **守档准由·原 R65/R57 谱基增厚**:UAB ELKO Lietuva(Kaunas Algirdo g. 32A;1994 注册;**ELKO Grupa 立陶宛站**;法人壳:13 人,营收 €850.7K(2024,+12.9% YoY);分类含广告代理代码,实归「Computers and software Wholesale」;info@elko.lt) | R65 深挖:ELKO 立陶宛 32 年实体；Rudminė 实名首;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第12波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 30 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】ELKO 嫡系立陶宛前台:与 B-285 同逻辑——Riga 中央归集,国别站触达
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -67,7 +67,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- UAB ELKO Lietuva(Įmonės kodas 110604815, Algirdo g. 32A, Kaunas LT-50153,Kaunas,Europos pr. 32 从行;1994-03-21 创（32 年 ELKO 大谱老牌）;**Miglė Rudminė = Vadovas(CEO)**;PVM LT106048113;14 员工；+370 37 302450 / info@elko.lt;谱型=计算机硬件/软件大批发（Kompiuterinė įranga - didmeninė prekyba)
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -89,50 +89,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · 集团架 SKU 页
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「集团架 value stocking PoE SKU」协同 B-285/WESTech:一口集团层级确认,国别站引路
-- **要问的问题**：集团里 24 口 PoE 管理型 value 档谁填?采购归 Riga 还是国别?(我们已接触 WESTech 与 ELKO Eesti)
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · info@elko.lt 开口(点明 B-285/WESTech 协同)
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「集团架 value stocking PoE SKU」协同 B-285/WESTech:一口集团层级确认,国别站引路
-- **要问的问题**：集团里 24 口 PoE 管理型 value 档谁填?采购归 Riga 还是国别?(我们已接触 WESTech 与 ELKO Eesti)
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「集团架 value stocking PoE SKU」协同 B-285/WESTech:一口集团层级确认,国别站引路
-- **要问的问题**：集团里 24 口 PoE 管理型 value 档谁填?采购归 Riga 还是国别?(我们已接触 WESTech 与 ELKO Eesti)
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 17 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第17批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
 
-- **背景深描**：UAB ELKO Lietuva(Įmonės kodas 110604815, Algirdo g. 32A, Kaunas LT-50153,Kaunas,Europos pr. 32 从行;1994-03-21 创（32 年 ELKO 大谱老牌）;**Miglė Rudminė = Vadovas(CEO)**;PVM LT106048113;14 员工；+370 37 302450 / info@elko.lt;谱型=计算机硬件/软件大批发（Kompiuterinė įranga - didmeninė prekyba)
-- **芯片与在用型号**：【推断】ELKO 嫡系立陶宛前台:与 B-285 同逻辑——Riga 中央归集,国别站触达
-- **关键人KP**：Miglė Rudminė = Vadovas（首席）
-- **关注点与资质**：MikroTik（Master+VAD） 
-- **优缺点SWOT**：S:$2B 集团嫡系 / W:国别壳小 / O:集团架放量 / T:决策归于 Riga
-- **Saga产品适配**：ELKO 集团架 stocking SKU(与 B-285/WESTech 协同防双头)
+- **背景深描**：波 30·B-311:立陶宛谱: **守档准由·原 R65/R57 谱基增厚**:UAB ELKO Lietuva(Kaunas Algirdo g. 32A;1994 注册;**ELKO Grupa 立陶宛站**;法人壳:13 人,营收 €850.7K(2024,+12.9% YoY);分类含广告代理代码,实归「Computers and software Wholesale」;info@elko.lt) | R65 深挖:ELKO 立陶宛 32 年实体；Rudminė 实名首;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第12波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
+- **关注点与资质**：立陶宛 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**ELKO Lietuva, UAB … In 2024, the sales revenue … 850 728 Eur … 13 … foreign majority ownership
-  > ELKO Lietuva, UAB … In 2024, the sales revenue … 850 728 Eur … 13 … foreign majority ownership
-  > 来源：https://scoris.lt/en/imone/110604815
-- **【R57备护深挖证据】**ELKO Group … revenue exceeded US$2 billion … sales offices in 13 countries: Latvia, Estonia, Lithuania … Poland
-  > ELKO Group … revenue exceeded US$2 billion … sales offices in 13 countries: Latvia, Estonia, Lithuania … Poland
-  > 来源：https://en.wikipedia.org/wiki/Elko_Grupa
-- **【R65 登记/实名】**UAB ELKO Lietuva 110604815 · Kaunas Algirdo 32A · 1994-03 创 32 年 · Miglė Rudminė vadovas · 14 员工
-  > Vadovas: Miglė Rudminė … Įmonės kodas: 110604815 … Adresas: Algirdo g. 32A, Kaunas … El. paštas: info@elko.lt … Tel.: (+370 37) 302450
-  > 来源：https://imoniubaze.lt/uab-elko-lietuva/
+- **【联系方式与基础画像】**UAB ELKO Lietuva(Kaunas Algirdo g. 32A;1994 注册;**ELKO Grupa 立陶宛站**;法人壳:13 人,营收 €850.7K(2024,+12.9% YoY);分类含广告代理代码,实归「Computers and software Wholesale」;info@elko
+  > UAB ELKO Lietuva(Kaunas Algirdo g. 32A;1994 注册;**ELKO Grupa 立陶宛站**;法人壳:13 人,营收 €850.7K(2024,+12.9% YoY);分类含广告代理代码,实归「Computers and software Wholesale」;info@elko
+  > 来源：https://elko.lt/
+- **【联系方式与基础画像】**CSV 入口:+370 37 302 450 / info@elko.lt
+  > CSV 入口:+370 37 302 450 / info@elko.lt
+  > 来源：https://elko.lt/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -145,7 +142,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:$2B 集团嫡系 / W:国别壳小 / O:集团架放量 / T:决策归于 Riga
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -173,8 +170,8 @@ S:$2B 集团嫡系 / W:国别壳小 / O:集团架放量 / T:决策归于 Riga
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 采购层级(Riga 中央 vs 国别)
-  - [ ] 与 WESTech/B-285 开口的集团内协同
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -183,21 +180,15 @@ S:$2B 集团嫡系 / W:国别壳小 / O:集团架放量 / T:决策归于 Riga
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi ELKO Lietuva team,
+Dear UAB ELKO Lietuva Team,
 
-Your Kaunas desk is the Lithuanian front of the ELKO Group flow - and a documented value PoE SKU is the kind of line a group line card can carry across several sales offices at once.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value stocking unit, white-label friendly.
-
-One question: who fills the 24-port PoE value slot on the group line card today, and does purchasing sit with Riga centrally? (We are also in touch with the WESTech and ELKO Eesti desks - coordinating, not duplicating, is exactly our intent.)
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

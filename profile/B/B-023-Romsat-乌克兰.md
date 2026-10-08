@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：РОМСАТ（基辅 Tankova 8;+38 044 394-54-5）:电信/电视头端设备多形态项目分销商（DVB/CAS/基站/天线馈线/电信机柜）;乌克兰+格鲁吉亚+保加利亚三站覆盖;**官方 MikroTik …
+- **是谁**：波 29·B-023:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:РОМСАТ（基辅 Tankova 8;+38 044 394-54-5）:电信/电视头端设备多形态项目分销商（DVB/CAS/基站/天线…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 电信/多形态项目分销三站的 value PoE 档随单；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | РОМСАТ（基辅 Tankova 8;+38 044 394-54-5）:电信/电视头端设备多形态项目分销商（DVB/CAS/基站/天线馈线/电信机柜）;乌克兰+格鲁吉亚+保加利亚三站覆盖;**官方 MikroTik 分销+VAD**（实际访拉脱维亚 Riga 总部拿 MTCSA 证）;在架 CRS418-8P-8G-2S+5axQ2axQ-RM、KNOT | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】运营商专用项目分销+跨国三站;在架 CRS418+QSFP28 谱=运营商 capex 品类宽到电信级;ADI Global 伙伴关系说明大仓兼容 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 29·B-023:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:РОМСАТ（基辅 Tankova 8;+38 044 394-54-5）:电信/电视头端设备多形态项目分销商（DVB/CAS/基站/天线馈线/电信机柜）;乌克兰+格鲁吉亚+保加利亚三站覆盖;**官方 MikroTik 分销+VAD**（实际访拉脱维亚 Riga 总部拿 MTC | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】РОМСАТ（基辅 Tankova 8;+38 044 394-54-5）:电信/电视头端设备多形态项目分销商（DVB/CAS/基站/天线馈线/电信机柜）;乌克兰+格鲁吉亚+保加利亚三站覆盖;**官方 MikroTik 分销+VAD**（实际访拉脱维亚 Riga 总部拿 MTCSA 证）;在架 CRS418-8P-8G-2S+5axQ2axQ-RM、KNOT、QSFP28 100G/SFP+ 10G
-- 【推断】运营商专用项目分销+跨国三站;在架 CRS418+QSFP28 谱=运营商 capex 品类宽到电信级;ADI Global 伙伴关系说明大仓兼容
-- 【假设】开口角度=「运营商项目谱的 PoE 楼价档随单」或「CRS 谱之外的 value 二楼」——STC-424 以跨三站 value 随单角度入手
+- 【事实】波 29·B-023:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:РОМСАТ（基辅 Tankova 8;+38 044 394-54-5）:电信/电视头端设备多形态项目分销商（DVB/CAS/基站/天线馈线/电信机柜）;乌克兰+格鲁吉亚+保加利亚三站覆盖;**官方 MikroTik 分销+VAD**（实际访拉脱维亚 Riga 总部拿 MTCSA 证）;在架 CRS418-8P-8G-2S+5axQ2axQ-RM、KNOT、QSFP28 100G/SFP+ 10G;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第2波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 29 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】运营商专用项目分销+跨国三站;在架 CRS418+QSFP28 谱=运营商 capex 品类宽到电信级;ADI Global 伙伴关系说明大仓兼容
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -88,47 +88,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · 跨三站随单方案页
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「运营商项目谱的 PoE 楼价档随单」或「CRS 谱之外的 value 二楼」——STC-424 以跨三站 value 随单角度入手
-- **要问的问题**：你们三站（UA/GE/BG）运营商项目谱里,PoE 接层现行随哪单发？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · 样机提议
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「运营商项目谱的 PoE 楼价档随单」或「CRS 谱之外的 value 二楼」——STC-424 以跨三站 value 随单角度入手
-- **要问的问题**：你们三站（UA/GE/BG）运营商项目谱里,PoE 接层现行随哪单发？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「运营商项目谱的 PoE 楼价档随单」或「CRS 谱之外的 value 二楼」——STC-424 以跨三站 value 随单角度入手
-- **要问的问题**：你们三站（UA/GE/BG）运营商项目谱里,PoE 接层现行随哪单发？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
 
-- **背景深描**：РОМСАТ（基辅 Tankova 8;+38 044 394-54-5）:电信/电视头端设备多形态项目分销商（DVB/CAS/基站/天线馈线/电信机柜）;乌克兰+格鲁吉亚+保加利亚三站覆盖;**官方 MikroTik 分销+VAD**（实际访拉脱维亚 Riga 总部拿 MTCSA 证）;在架 CRS418-8P-8G-2S+5axQ2axQ-RM、KNOT、QSFP28 100G/SFP+ 10G
-- **芯片与在用型号**：【推断】运营商专用项目分销+跨国三站;在架 CRS418+QSFP28 谱=运营商 capex 品类宽到电信级;ADI Global 伙伴关系说明大仓兼容
-- **关键人KP**：—
-- **关注点与资质**：MikroTik（Master） 
-- **优缺点SWOT**：S:运营商项目谱+三站+MTCSA 证 / W:谱太宽,单列进难 / O:三站 value 随单 / T:运营商压谱导价惨
-- **Saga产品适配**：电信/多形态项目分销三站的 value PoE 档随单
+- **背景深描**：波 29·B-023:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:РОМСАТ（基辅 Tankova 8;+38 044 394-54-5）:电信/电视头端设备多形态项目分销商（DVB/CAS/基站/天线馈线/电信机柜）;乌克兰+格鲁吉亚+保加利亚三站覆盖;**官方 MikroTik 分销+VAD**（实际访拉脱维亚 Riga 总部拿 MTCSA 证）;在架 CRS418-8P-8G-2S+5axQ2axQ-RM、KNOT、QSFP28 100G/SFP+ 10G;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第2波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
+- **关注点与资质**：乌克兰 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**ROMSAT специализируется в многопрофильной проектной дистрибуции телекоммуникационного и телевизионного оборудования…Украина, а также Грузия 
-  > ROMSAT специализируется в многопрофильной проектной дистрибуции телекоммуникационного и телевизионного оборудования…Украина, а также Грузия и Болгария
-  > 来源：https://www.axxonsoft.com/partners/partner-locator/ukraine/romsat
-- **【R57备护深挖证据】**CRS418-8P-8G-2S+5axQ2axQ-RM…QSFP28 100G…SFP+ 10G
-  > CRS418-8P-8G-2S+5axQ2axQ-RM…QSFP28 100G…SFP+ 10G
-  > 来源：https://romsat.ua/partners/mikrotik/
+- **【联系方式与基础画像】**РОМСАТ（基辅 Tankova 8;+38 044 394-54-5）:电信/电视头端设备多形态项目分销商（DVB/CAS/基站/天线馈线/电信机柜）;乌克兰+格鲁吉亚+保加利亚三站覆盖;**官方 MikroTik 分销+VAD**（实际访拉脱维亚 Riga 总部拿 MTCSA 证）;在架 CRS418-8P-8G
+  > РОМСАТ（基辅 Tankova 8;+38 044 394-54-5）:电信/电视头端设备多形态项目分销商（DVB/CAS/基站/天线馈线/电信机柜）;乌克兰+格鲁吉亚+保加利亚三站覆盖;**官方 MikroTik 分销+VAD**（实际访拉脱维亚 Riga 总部拿 MTCSA 证）;在架 CRS418-8P-8G
+  > 来源：https://romsat.ua/
+- **【联系方式与基础画像】**CSV 入口:+380 44 225 5454 / info@romsat.ua
+  > CSV 入口:+380 44 225 5454 / info@romsat.ua
+  > 来源：https://romsat.ua/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -141,7 +141,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:运营商项目谱+三站+MTCSA 证 / W:谱太宽,单列进难 / O:三站 value 随单 / T:运营商压谱导价惨
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -169,8 +169,8 @@ S:运营商项目谱+三站+MTCSA 证 / W:谱太宽,单列进难 / O:三站 valu
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 电信/多形态三站谱里 PoE 接层现供
-  - [ ] CRS418 在架是否说明高位资费段已锁,我们的 value 层在哪插
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -179,21 +179,15 @@ S:运营商项目谱+三站+MTCSA 证 / W:谱太宽,单列进难 / O:三站 valu
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Romsat team,
+Dear Romsat Team,
 
-Multi-profile project distribution with headend/DVB/CAS gear on one side and your MikroTik value-added credentials (MTCSA, certified in Riga) on the other - your three-country footprint stands out in this region.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - designed as the value PoE line that can ride along your operator project BOMs across Ukraine, Georgia and Bulgaria.
-
-One question: across your three-country operator lines, where does PoE access live in the BOM today - and is there room for a documented second source?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

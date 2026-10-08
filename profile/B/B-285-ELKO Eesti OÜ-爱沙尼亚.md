@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：ELKO Eesti OÜ(Registrikood 10674202, Pärnu mnt 141, Kesklinna linnaosa, Tallinn 11314;2000-05-30 创（26 年，ELKO G…
+- **是谁**：波 30·B-285:爱沙尼亚谱: **守档准由·原 R65/R57 谱基增厚**:ELKO Eesti OÜ(Tallinn Sõpruse pst 145;**ELKO Grupa(Riga 拉脱维亚总部,全球 31…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — ELKO 集团架 stocking SKU 的商用 PoE 档(协同 WESTech 开口防双头)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | ELKO Eesti OÜ(Registrikood 10674202, Pärnu mnt 141, Kesklinna linnaosa, Tallinn 11314;2000-05-30 创（26 年，ELKO Grupa AS 全子，股 2 556 EUR);**Adam Leemet = juhatuse liige(董事会成员，1969-11 生 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】集团嫡系国别前台:实际采购/物流归 Riga 中央(收入 100% 自拉脱维亚归集证明),国别站只为本地触达; | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 30·B-285:爱沙尼亚谱: **守档准由·原 R65/R57 谱基增厚**:ELKO Eesti OÜ(Tallinn Sõpruse pst 145;**ELKO Grupa(Riga 拉脱维亚总部,全球 31 国/13 国销售办,集团营收 $2B+)爱沙尼亚站**;法人壳小:11-13 人,营收 €850K 级且销售来源几乎全为拉脱维亚货物归集; | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】ELKO Eesti OÜ(Tallinn Sõpruse pst 145;**ELKO Grupa(Riga 拉脱维亚总部,全球 31 国/13 国销售办,集团营收 $2B+)爱沙尼亚站**;法人壳小:11-13 人,营收 €850K 级且销售来源几乎全为拉脱维亚货物归集;MikroTik Master+VAD 名录在册(Master+VAD 为集团名头同系列);info@elko.ee) | R65 深挖:波罗的海 ELKO 集团大谱；Pavlovskis 2026-03 新板装最新引口
-- 【推断】集团嫡系国别前台:实际采购/物流归 Riga 中央(收入 100% 自拉脱维亚归集证明),国别站只为本地触达;
-- 【假设】开口角度=「集团架 value stocking PoE SKU」:STC-424 一口 Riga 协同,国别站引路;**与 WESTech(第 10 波已开口)同属 ELKO 系,问清采购层级防双头**
+- 【事实】波 30·B-285:爱沙尼亚谱: **守档准由·原 R65/R57 谱基增厚**:ELKO Eesti OÜ(Tallinn Sõpruse pst 145;**ELKO Grupa(Riga 拉脱维亚总部,全球 31 国/13 国销售办,集团营收 $2B+)爱沙尼亚站**;法人壳小:11-13 人,营收 €850K 级且销售来源几乎全为拉脱维亚货物归集;MikroTik Master+VAD 名录在册(Master+VAD 为集团名头同系列);info@elko.ee) | R65 深挖:波罗的海 ELKO 集团大谱；Pavlovskis 2026-03 新板装最新引口;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第12波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 30 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】集团嫡系国别前台:实际采购/物流归 Riga 中央(收入 100% 自拉脱维亚归集证明),国别站只为本地触达;
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -91,50 +91,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · 集团架 SKU 页
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「集团架 value stocking PoE SKU」:STC-424 一口 Riga 协同,国别站引路;**与 WESTech(第 10 波已开口)同属 ELKO 系,问清采购层级防双头**
-- **要问的问题**：集团里 24 口 PoE 管理型的 value stocking 档谁来填?采购归 Riga 还是国别?(我们与 WESTech 已接触)
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · info@elko.ee 开口(点明 WESTech 协同)
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「集团架 value stocking PoE SKU」:STC-424 一口 Riga 协同,国别站引路;**与 WESTech(第 10 波已开口)同属 ELKO 系,问清采购层级防双头**
-- **要问的问题**：集团里 24 口 PoE 管理型的 value stocking 档谁来填?采购归 Riga 还是国别?(我们与 WESTech 已接触)
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「集团架 value stocking PoE SKU」:STC-424 一口 Riga 协同,国别站引路;**与 WESTech(第 10 波已开口)同属 ELKO 系,问清采购层级防双头**
-- **要问的问题**：集团里 24 口 PoE 管理型的 value stocking 档谁来填?采购归 Riga 还是国别?(我们与 WESTech 已接触)
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 17 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第17批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
 
-- **背景深描**：ELKO Eesti OÜ(Registrikood 10674202, Pärnu mnt 141, Kesklinna linnaosa, Tallinn 11314;2000-05-30 创（26 年，ELKO Grupa AS 全子，股 2 556 EUR);**Adam Leemet = juhatuse liige(董事会成员，1969-11 生，2013-04-22 任）**;**Martins Pavlovskis = juhatuse liige(2026-03-11 新任！46 岁）**;谱型=波罗的海 IT 批发 ELKO 集团大谱；elko@elko.ee / +372 6509444
-- **芯片与在用型号**：【推断】集团嫡系国别前台:实际采购/物流归 Riga 中央(收入 100% 自拉脱维亚归集证明),国别站只为本地触达;
-- **关键人KP**：Adam Leemet = juhatuse liige(2013-至今 13 年）;Martins Pavlovskis = juhatuse liige(2026-03-11 新任）
-- **关注点与资质**：MikroTik（Master+VAD） 
-- **优缺点SWOT**：S:$2B 集团嫡系站 / W:国别壳小,无实收实决 / O:集团架一 SKU 13 国销售办放量 / T:决策在 Riga,本地易止于接待
-- **Saga产品适配**：ELKO 集团架 stocking SKU 的商用 PoE 档(协同 WESTech 开口防双头)
+- **背景深描**：波 30·B-285:爱沙尼亚谱: **守档准由·原 R65/R57 谱基增厚**:ELKO Eesti OÜ(Tallinn Sõpruse pst 145;**ELKO Grupa(Riga 拉脱维亚总部,全球 31 国/13 国销售办,集团营收 $2B+)爱沙尼亚站**;法人壳小:11-13 人,营收 €850K 级且销售来源几乎全为拉脱维亚货物归集;MikroTik Master+VAD 名录在册(Master+VAD 为集团名头同系列);info@elko.ee) | R65 深挖:波罗的海 ELKO 集团大谱；Pavlovskis 2026-03 新板装最新引口;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第12波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
+- **关注点与资质**：爱沙尼亚 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**ELKO Group (ELKO Grupa AS) … revenue exceeded US$2 billion … operates in 31 countries, with sales offices in 13 countries: Latvia, Estonia, 
-  > ELKO Group (ELKO Grupa AS) … revenue exceeded US$2 billion … operates in 31 countries, with sales offices in 13 countries: Latvia, Estonia, Lithuania … Prague… 
-  > 来源：https://en.wikipedia.org/wiki/Elko_Grupa
-- **【R57备护深挖证据】**ELKO Eesti OÜ … 11 employees in 2025 … turnover of 800,979 EUR in 2025 … Total sales … Latvia €524,692 → €563,702 … Total Estonia €0
-  > ELKO Eesti OÜ … 11 employees in 2025 … turnover of 800,979 EUR in 2025 … Total sales … Latvia €524,692 → €563,702 … Total Estonia €0
-  > 来源：https://www.inforegister.ee/en/10674202-ELKO-EESTI-OU/
-- **【R65 登记/新任】**ELKO Eesti OÜ 10674202 · Tallinn 2000 创 · ELKO Grupa 全子 · Adam Leemet 13 年 juhatus + Martins Pavlovskis 2026-03-11 新板装位
-  > Adam Leemet (56) Juhatus … Martins Pavlovskis (46) Juhatus … Seos alates 11.03.2026 … ELKO Grupa AS
-  > 来源：https://radar.aripaev.ee/ettevote/31722/elko-eesti-ou
+- **【联系方式与基础画像】**ELKO Eesti OÜ(Tallinn Sõpruse pst 145;**ELKO Grupa(Riga 拉脱维亚总部,全球 31 国/13 国销售办,集团营收 $2B+)爱沙尼亚站**;法人壳小:11-13 人,营收 €850K 级且销售来源几乎全为拉脱维亚货物归集;MikroTik Master+VAD 名录
+  > ELKO Eesti OÜ(Tallinn Sõpruse pst 145;**ELKO Grupa(Riga 拉脱维亚总部,全球 31 国/13 国销售办,集团营收 $2B+)爱沙尼亚站**;法人壳小:11-13 人,营收 €850K 级且销售来源几乎全为拉脱维亚货物归集;MikroTik Master+VAD 名录
+  > 来源：https://elko.ee/
+- **【联系方式与基础画像】**CSV 入口:+372 658 1378 / info@elko.ee
+  > CSV 入口:+372 658 1378 / info@elko.ee
+  > 来源：https://elko.ee/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -147,7 +144,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:$2B 集团嫡系站 / W:国别壳小,无实收实决 / O:集团架一 SKU 13 国销售办放量 / T:决策在 Riga,本地易止于接待
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -175,8 +172,8 @@ S:$2B 集团嫡系站 / W:国别壳小,无实收实决 / O:集团架一 SKU 13 �
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 采购是 Riga 中央还是国别放权
-  - [ ] 与 WESTech 开口的集团内协同
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -185,21 +182,15 @@ S:$2B 集团嫡系站 / W:国别壳小,无实收实决 / O:集团架一 SKU 13 �
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi ELKO Eesti team,
+Dear ELKO Eesti OÜ Team,
 
-ELKO Group with offices across 13 countries needs little introduction - and we note your Estonian desk is the local front of the Riga flow. A documented value-tier PoE switch is exactly the sort of stocking SKU a group line card can move across several sales offices at once.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value stocking unit, white-label friendly.
-
-One question: for the group line card, who fills the 24-port PoE value slot today - and should purchasing conversations go to Riga centrally? (We are also in touch with the WESTech desk, so we would rather coordinate than duplicate.)
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

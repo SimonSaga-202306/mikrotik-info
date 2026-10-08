@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Irish Wireless / BluePrint Wireless Ltd(2001 年由 **Stephen Hall + Gurmukh Neote 双创立**，Smithstown Industrial Est…
+- **是谁**：波 30·B-279:爱尔兰谱: **守档准由·原 R65/R57 谱基增厚**:Irish Wireless(Co. Clare 爱尔兰西部;irishwireless.net 域龄 22 年(2003 注册),自称『…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 25 年无线配件电商的 PoE 类目升级位(injector 散件→24 口管理型主机)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Irish Wireless / BluePrint Wireless Ltd(2001 年由 **Stephen Hall + Gurmukh Neote 双创立**，Smithstown Industrial Estate, Shannon, County Clare;谱型=25 年爱尔兰无线专业商：天线/室内外设备/电缆全品+培训咨询;Mission「 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】25 年无线配件专精:其客层=爱尔兰乡村 WISP/酒店场地/农场网;PoE 类目现以 injector/splitter 散件为主,**交换型 PoE(24 口管理型)或是其类目空档** | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 30·B-279:爱尔兰谱: **守档准由·原 R65/R57 谱基增厚**:Irish Wireless(Co. Clare 爱尔兰西部;irishwireless.net 域龄 22 年(2003 注册),自称『Delivering excellence in Wireless since 2001』):**无线专精电商**——MikroTik/Te | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Irish Wireless(Co. Clare 爱尔兰西部;irishwireless.net 域龄 22 年(2003 注册),自称『Delivering excellence in Wireless since 2001』):**无线专精电商**——MikroTik/Teltonika/Ubiquiti/TP-Link/MERCUSYS/Cambium/MaxLink 谱;LTE/LoRa 户外件+天线+**专设 Active PoE 类目**(injectors/extenders/power adapters 为主);乡村宽带/WISP 配件客层 | R65 深挖:爱尔兰 25 年老谱 Stephen Hall 本位确认$3M/3人精干
-- 【推断】25 年无线配件专精:其客层=爱尔兰乡村 WISP/酒店场地/农场网;PoE 类目现以 injector/splitter 散件为主,**交换型 PoE(24 口管理型)或是其类目空档**
-- 【假设】开口角度=「无线配件电商的 PoE 交换类目补强」:STC-424 把其 Active PoE 类目从 injector 散件升到 24 口管理型主机档
+- 【事实】波 30·B-279:爱尔兰谱: **守档准由·原 R65/R57 谱基增厚**:Irish Wireless(Co. Clare 爱尔兰西部;irishwireless.net 域龄 22 年(2003 注册),自称『Delivering excellence in Wireless since 2001』):**无线专精电商**——MikroTik/Teltonika/Ubiquiti/TP-Link/MERCUSYS/Cambium/MaxLink 谱;LTE/LoRa 户外件+天线+**专设 Active PoE 类目**(injectors/extenders/power adapters 为主);乡村宽带/WISP 配件客层 | R65 深挖:爱尔兰 25 年老谱 Stephen Hall 本位确认$3M/3人精干;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第9波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 30 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】25 年无线配件专精:其客层=爱尔兰乡村 WISP/酒店场地/农场网;PoE 类目现以 injector/splitter 散件为主,**交换型 PoE(24 口管理型)或是其类目空档**
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -70,7 +70,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- Irish Wireless / BluePrint Wireless Ltd(2001 年由 **Stephen Hall + Gurmukh Neote 双创立**，Smithstown Industrial Estate, Shannon, County Clare;谱型=25 年爱尔兰无线专业商：天线/室内外设备/电缆全品+培训咨询;Mission「Making Wireless EASY」;$3M 收 3 员工精干;RocketReach：Stephen Hall Owner；矿井/学校/酒店/郡大网实绩
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -94,50 +94,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · PoE 类目升级页
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「无线配件电商的 PoE 交换类目补强」:STC-424 把其 Active PoE 类目从 injector 散件升到 24 口管理型主机档
-- **要问的问题**：你们 Active PoE 类目要不要从 injector 散件升到 24 口管理型主机档?文档全 value 件可试卖。
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · sales@irishwireless.net 开口
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「无线配件电商的 PoE 交换类目补强」:STC-424 把其 Active PoE 类目从 injector 散件升到 24 口管理型主机档
-- **要问的问题**：你们 Active PoE 类目要不要从 injector 散件升到 24 口管理型主机档?文档全 value 件可试卖。
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「无线配件电商的 PoE 交换类目补强」:STC-424 把其 Active PoE 类目从 injector 散件升到 24 口管理型主机档
-- **要问的问题**：你们 Active PoE 类目要不要从 injector 散件升到 24 口管理型主机档?文档全 value 件可试卖。
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 13 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第13批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
 
-- **背景深描**：Irish Wireless / BluePrint Wireless Ltd(2001 年由 **Stephen Hall + Gurmukh Neote 双创立**，Smithstown Industrial Estate, Shannon, County Clare;谱型=25 年爱尔兰无线专业商：天线/室内外设备/电缆全品+培训咨询;Mission「Making Wireless EASY」;$3M 收 3 员工精干;RocketReach：Stephen Hall Owner；矿井/学校/酒店/郡大网实绩
-- **芯片与在用型号**：【推断】25 年无线配件专精:其客层=爱尔兰乡村 WISP/酒店场地/农场网;PoE 类目现以 injector/splitter 散件为主,**交换型 PoE(24 口管理型)或是其类目空档**
-- **关键人KP**：Stephen Hall = 合伙人/Owner(2001 创);Gurmukh Neote = 联合创始人
-- **关注点与资质**：MikroTik（Reseller） 
-- **优缺点SWOT**：S:25 年无线专精+老站信誉 / W:散件为主,主机档未入 / O:PoE 类目升到 24 口管理型 / T:类目扩品决策慢
-- **Saga产品适配**：25 年无线配件电商的 PoE 类目升级位(injector 散件→24 口管理型主机)
+- **背景深描**：波 30·B-279:爱尔兰谱: **守档准由·原 R65/R57 谱基增厚**:Irish Wireless(Co. Clare 爱尔兰西部;irishwireless.net 域龄 22 年(2003 注册),自称『Delivering excellence in Wireless since 2001』):**无线专精电商**——MikroTik/Teltonika/Ubiquiti/TP-Link/MERCUSYS/Cambium/MaxLink 谱;LTE/LoRa 户外件+天线+**专设 Active PoE 类目**(injectors/extenders/power adapters 为主);乡村宽带/WISP 配件客层 | R65 深挖:爱尔兰 25 年老谱 Stephen Hall 本位确认$3M/3人精干;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第9波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
+- **关注点与资质**：爱尔兰 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**Delivering excellence in Wireless since 2001…If a standard off-the-shelf device does not fit your needs, we're here to help
-  > Delivering excellence in Wireless since 2001…If a standard off-the-shelf device does not fit your needs, we're here to help
-  > 来源：https://x.com/irishwireless
-- **【R57备护深挖证据】**Active PoE…Featuring top brands like MikroTik, Ubiquiti, Cambium Networks, and MaxLink, we offer PoE injectors, extenders, and more
-  > Active PoE…Featuring top brands like MikroTik, Ubiquiti, Cambium Networks, and MaxLink, we offer PoE injectors, extenders, and more
-  > 来源：https://irishwireless.net/active-poe
-- **【R65 实名】**Irish Wireless(BluePrint Wireless Ltd)2001 = Stephen Hall + Gurmukh Neote 创立;Shannon Clare;无线+培训咨询 25 年
-  > Irish Wireless (BluePrint Wireless Ltd) was established in 2001 by Networking and IT Specialists Stephen Hall and Gurmukh Neote. Based in Smithstown, Shannon, County Clare, Ireland
-  > 来源：https://irishwireless.net/about_us
+- **【联系方式与基础画像】**Irish Wireless(Co. Clare 爱尔兰西部;irishwireless.net 域龄 22 年(2003 注册),自称『Delivering excellence in Wireless since 2001』):**无线专精电商**——MikroTik/Teltonika/Ubiquiti/TP-L
+  > Irish Wireless(Co. Clare 爱尔兰西部;irishwireless.net 域龄 22 年(2003 注册),自称『Delivering excellence in Wireless since 2001』):**无线专精电商**——MikroTik/Teltonika/Ubiquiti/TP-L
+  > 来源：https://irishwireless.net/
+- **【联系方式与基础画像】**CSV 入口:+353 61 514444 / sales@irishwireless.net
+  > CSV 入口:+353 61 514444 / sales@irishwireless.net
+  > 来源：https://irishwireless.net/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -150,7 +147,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:25 年无线专精+老站信誉 / W:散件为主,主机档未入 / O:PoE 类目升到 24 口管理型 / T:类目扩品决策慢
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -178,8 +175,8 @@ S:25 年无线专精+老站信誉 / W:散件为主,主机档未入 / O:PoE 类�
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] PoE 类目升级意愿(散件 到主机档)
-  - [ ] 其 WISP/酒店客户 24 口场景量级
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -188,21 +185,15 @@ S:25 年无线专精+老站信誉 / W:散件为主,主机档未入 / O:PoE 类�
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Irish Wireless team,
+Dear Irish Wireless Team,
 
-Twenty-five years of wireless kit for rural Ireland - and an Active PoE category that today stops at injectors and extenders. Your customers building WISP nodes and hotel networks eventually need the switch itself, not just the injectors.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the natural upgrade of your Active PoE category from adapter-level to switch-level, white-label friendly.
-
-One question: would your Active PoE category carry a documented 24-port managed PoE switch as the category's head unit - and is a sample worth a test listing?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

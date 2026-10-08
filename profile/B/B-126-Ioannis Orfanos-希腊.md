@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Alfa-Tech (2 实体同卵：已并 B-127 档写 Analytis 登记；B-126 偏米科诺斯/爱琴海小壮；R65 均不合格守档准由)…
+- **是谁**：波 29·B-126:希腊谱: **守档准由·原 R65/R57 谱基增厚**:Ioannis Orfanos(希腊 Asini Nafpliou;载 MTCNA+MTCRE+MTCINE 三证)**——MTCINE 是…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — MTCINE 高位三证派==师者予顾问通道(入具名引见中单)；—（合作探询，无量产报价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 未明 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Alfa-Tech (2 实体同卵：已并 B-127 档写 Analytis 登记；B-126 偏米科诺斯/爱琴海小壮；R65 均不合格守档准由) | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】Nafplio 文化旅游港;MTCINE 技术深度大,具名引见价值最高度拉级 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 29·B-126:希腊谱: **守档准由·原 R65/R57 谱基增厚**:Ioannis Orfanos(希腊 Asini Nafpliou;载 MTCNA+MTCRE+MTCINE 三证)**——MTCINE 是 MikroTik 当前难度最高级(需 MTCNA+MTCRE 预证）** | R65 深挖:B-127 联动 Analytis 谱;两站均 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Ioannis Orfanos(希腊 Asini Nafpliou;载 MTCNA+MTCRE+MTCINE 三证)**——MTCINE 是 MikroTik 当前难度最高级(需 MTCNA+MTCRE 预证）** | R65 深挖:B-127 联动 Analytis 谱;两站均守档
-- 【推断】Nafplio 文化旅游港;MTCINE 技术深度大,具名引见价值最高度拉级
-- 【假设】守档后优先序:具名引见最优先(MTCINE 高位拉级)
+- 【事实】波 29·B-126:希腊谱: **守档准由·原 R65/R57 谱基增厚**:Ioannis Orfanos(希腊 Asini Nafpliou;载 MTCNA+MTCRE+MTCINE 三证)**——MTCINE 是 MikroTik 当前难度最高级(需 MTCNA+MTCRE 预证）** | R65 深挖:B-127 联动 Analytis 谱;两站均守档;R66 第 29 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第3波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 29 波守档准由谱
+- 【假设】掌件区非商触(非卖品对照架)
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】Nafplio 文化旅游港;MTCINE 技术深度大,具名引见价值最高度拉级
+CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -86,43 +86,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（OEM/白牌合作探询（无量产型号首推）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+14 · 具名引见(MTCINE 高位拉级)
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
-- **切入点**：守档后优先序:具名引见最优先(MTCINE 高位拉级)
-- **要问的问题**：Nafplio 旅游港 MTCINE 高度型的项目普布局
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：掌件区技术参件
+- **要问的问题**：可否入技术参件对照架名录？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+30 · 放盘
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
-- **切入点**：守档后优先序:具名引见最优先(MTCINE 高位拉级)
-- **要问的问题**：Nafplio 旅游港 MTCINE 高度型的项目普布局
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档
+
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 10 批精修 = R57 转写 + 本轮调研新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第10批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
 
-- **背景深描**：Alfa-Tech (2 实体同卵：已并 B-127 档写 Analytis 登记；B-126 偏米科诺斯/爱琴海小壮；R65 均不合格守档准由)
-- **芯片与在用型号**：【推断】Nafplio 文化旅游港;MTCINE 技术深度大,具名引见价值最高度拉级
-- **关键人KP**：—
-- **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCRE+MTCINE 
-- **优缺点SWOT**：S:三证+MTCINE 高位 / W:零足迹 / O:具名引见后案 / T:失联
-- **Saga产品适配**：MTCINE 高位三证派==师者予顾问通道(入具名引见中单)
+- **背景深描**：波 29·B-126:希腊谱: **守档准由·原 R65/R57 谱基增厚**:Ioannis Orfanos(希腊 Asini Nafpliou;载 MTCNA+MTCRE+MTCINE 三证)**——MTCINE 是 MikroTik 当前难度最高级(需 MTCNA+MTCRE 预证）** | R65 深挖:B-127 联动 Analytis 谱;两站均守档;R66 第 29 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第3波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
+- **关注点与资质**：希腊 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
+- **Saga产品适配**：CONSULT-OEM 掌件区非卖品对照
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCINE(Asini Nafpliou)——MTCINE 高证
-  > CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCINE(Asini Nafpliou)——MTCINE 高证
-  > 来源：客户名单_反向信号_2026-09.csv
-- **【R57备护深挖证据】**MTCINE…only advanced certification…requires both MTCNA and MTCRE as pre-requisite…BGP, MPLS
-  > MTCINE…only advanced certification…requires both MTCNA and MTCRE as pre-requisite…BGP, MPLS
-  > 来源：https://www.mikrotikusers.com/mikrotik-certification-program/
-- **【R65 联动】**B-126/B-127 两 Alfa-Tech 同名系应视为并集；Analytis KP 挂 B-127，均守档
-  > (R65 同域联动口径)
-  > 来源：(沙箱谱位核验日志)
+- **【联系方式与基础画像】**Ioannis Orfanos(希腊 Asini Nafpliou;载 MTCNA+MTCRE+MTCINE 三证)**——MTCINE 是 MikroTik 当前难度最高级(需 MTCNA+MTCRE 预证）** | R65 深挖:B-127 联动 Analytis 谱;两站均守档
+  > Ioannis Orfanos(希腊 Asini Nafpliou;载 MTCNA+MTCRE+MTCINE 三证)**——MTCINE 是 MikroTik 当前难度最高级(需 MTCNA+MTCRE 预证）** | R65 深挖:B-127 联动 Analytis 谱;两站均守档
+  > 来源：仓内:roster
+- **【联系方式与基础画像】**CSV 入口:+30 694 747 4659 / fearasini@gmail.com
+  > CSV 入口:+30 694 747 4659 / fearasini@gmail.com
+  > 来源：仓内:roster
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -135,7 +139,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:三证+MTCINE 高位 / W:零足迹 / O:具名引见后案 / T:失联
+S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -163,8 +167,8 @@ S:三证+MTCINE 高位 / W:零足迹 / O:具名引见后案 / T:失联
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名足迹核查(MTCINE 高位程)
-  - [ ] Nafplio 旅游区案谱密度
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -173,21 +177,10 @@ S:三证+MTCINE 高位 / W:零足迹 / O:具名引见后案 / T:失联
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：Neutral-built PoE switches under your own label
+**主题**：（非卖品掌件区,不出信)
 
 ```text
-Hi Ioannis,
-
-I came across Ioannis Orfanos - 集成商/顾问（MikroTik 认证）.
-
-We manufacture PoE access switches (Marvell-based, L2+) for OEM/white-label programs - neutral packing, your model numbers, ODM options on request.
-
-One question: Nafplio 旅游港 MTCINE 高度型的项目普布局
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+（掌件区非卖品·CONSULT-OEM 对照架,只做技术参件,不出英文首触信）
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

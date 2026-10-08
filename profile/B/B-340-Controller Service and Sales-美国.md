@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Controller Service and Sales Co., Inc.(13 Robbie Rd, Avon MA 02322;1926 年创立三代家族:Mark M O'Day President(2005 至今…
+- **是谁**：波 30·B-340:美国谱: **守档准由·原 R65/R57 谱基增厚**:Controller Service and Sales（马萨诸塞 Avon）：电气/自动化老牌分销=Moxa 授权官方分销商（Moxa 手…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：有信号（交换专长、工业/楼宇）但需先验证需求或联系人不具体
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — Moxa 授权老分销+在架千美元档：value DIN 轨 8 口（$74.8）入子位置最对口；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Controller Service and Sales Co., Inc.(13 Robbie Rd, Avon MA 02322;1926 年创立三代家族:Mark M O'Day President(2005 至今,Brown AB+Chicago MBA),父辈 Bob O'Day 1951-2005;兄弟 Scott O'Day VP Sales& | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】纯工业自动化 VAD 谱（电柜件全家）;Moxa 工业交换线（$1,399 档）下演了价值空档——我们的 STI-288GP $74.8 可入 DIN 轨 value 位 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 30·B-340:美国谱: **守档准由·原 R65/R57 谱基增厚**:Controller Service and Sales（马萨诸塞 Avon）：电气/自动化老牌分销=Moxa 授权官方分销商（Moxa 手册页印出"Your Authorized Distributor")；在架 ABB/Eaton Cutler-Hammer/IDEC/Mox | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Controller Service and Sales（马萨诸塞 Avon）：电气/自动化老牌分销=Moxa 授权官方分销商（Moxa 手册页印出"Your Authorized Distributor")；在架 ABB/Eaton Cutler-Hammer/IDEC/Moxa/Hammond/Puls/Datalogic/Honeywell/Ferraz；Moxa EDS-G512E-4GSFP $1,399、EDS-G516E-4GSFP $1,749 直接印刷价在页 | R64/R65 补:Mark O'Day President + Scott O'Day VP S&M + Jim Long Corporate Controller
-- 【推断】纯工业自动化 VAD 谱（电柜件全家）;Moxa 工业交换线（$1,399 档）下演了价值空档——我们的 STI-288GP $74.8 可入 DIN 轨 value 位
-- 【假设】自动化件的客户工柜里，PoE 网线是次生子系统——从「Moxa 主干环之外那些非核子装口」入手，他宁可用 value 档
+- 【事实】波 30·B-340:美国谱: **守档准由·原 R65/R57 谱基增厚**:Controller Service and Sales（马萨诸塞 Avon）：电气/自动化老牌分销=Moxa 授权官方分销商（Moxa 手册页印出"Your Authorized Distributor")；在架 ABB/Eaton Cutler-Hammer/IDEC/Moxa/Hammond/Puls/Datalogic/Honeywell/Ferraz；Moxa EDS-G512E-4GSFP $1,399、EDS-G516E-4GSFP $1,749 直接印刷价在页 | R64/R65 补:Mark O'Day President + Scott O'Day VP S&M + Jim Long Corporate Controller;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第1波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 30 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】纯工业自动化 VAD 谱（电柜件全家）;Moxa 工业交换线（$1,399 档）下演了价值空档——我们的 STI-288GP $74.8 可入 DIN 轨 value 位
+STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -68,7 +68,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- Controller Service and Sales Co., Inc.(13 Robbie Rd, Avon MA 02322;1926 年创立三代家族:Mark M O'Day President(2005 至今,Brown AB+Chicago MBA),父辈 Bob O'Day 1951-2005;兄弟 Scott O'Day VP Sales&Marketing 共管;38 员工;Moxa 官方授权+ABB/Eaton Cutler-Hammer/IDEC/Hammond/Puls/Datalogic/Honeywell/Ferraz 在架;价锚透明:Moxa EDS-G512E-4GSFP $1,399 / EDS-G516E $1,749 页面印刷价
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -95,56 +95,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · 对比表 STI-288GP vs Moxa SDS-3008（价/温宽/口数）一页
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：自动化件的客户工柜里，PoE 网线是次生子系统——从「Moxa 主干环之外那些非核子装口」入手，他宁可用 value 档
-- **要问的问题**：你们的电柜项目里，那些非主环路的 PoE 点（视频/传感支线）现用什么 value 解决？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+10 · 样机+冷热启动测试包
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：自动化件的客户工柜里，PoE 网线是次生子系统——从「Moxa 主干环之外那些非核子装口」入手，他宁可用 value 档
-- **要问的问题**：你们的电柜项目里，那些非主环路的 PoE 点（视频/传感支线）现用什么 value 解决？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 无果归档观察
+### 第 3 次跟进 · 留档
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：自动化件的客户工柜里，PoE 网线是次生子系统——从「Moxa 主干环之外那些非核子装口」入手，他宁可用 value 档
-- **要问的问题**：你们的电柜项目里，那些非主环路的 PoE 点（视频/传感支线）现用什么 value 解决？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 2 批精修 = R57 转写 + R64 KP + DnB/tED/RocketReach 源)**；原始记录：`batch/B类深挖_2026-10-07_R65_第2批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
 
-- **背景深描**：Controller Service and Sales Co., Inc.(13 Robbie Rd, Avon MA 02322;1926 年创立三代家族:Mark M O'Day President(2005 至今,Brown AB+Chicago MBA),父辈 Bob O'Day 1951-2005;兄弟 Scott O'Day VP Sales&Marketing 共管;38 员工;Moxa 官方授权+ABB/Eaton Cutler-Hammer/IDEC/Hammond/Puls/Datalogic/Honeywell/Ferraz 在架;价锚透明:Moxa EDS-G512E-4GSFP $1,399 / EDS-G516E $1,749 页面印刷价
-- **芯片与在用型号**：【推断】纯工业自动化 VAD 谱（电柜件全家）;Moxa 工业交换线（$1,399 档）下演了价值空档——我们的 STI-288GP $74.8 可入 DIN 轨 value 位
-- **关键人KP**：（见 R64 KP 猎捕节/本档 KP 表）
-- **关注点与资质**：Moxa 授权分销商，Moxa SDS-3008 系列工业智能交换机用户手册扉页标注其为 Authorized Distributor | 传承人名开口：见 KP 表
-- **优缺点SWOT**：S:电气/自动化深谱+价锚透明 / W:Moxa 铁忠+厂牌框架固化 / O:STI-288GP 入非主环路岗位 DIN 轨空档 / T:Moxa 厂方制圈导账期/让利
-- **Saga产品适配**：Moxa 授权老分销+在架千美元档：value DIN 轨 8 口（$74.8）入子位置最对口
+- **背景深描**：波 30·B-340:美国谱: **守档准由·原 R65/R57 谱基增厚**:Controller Service and Sales（马萨诸塞 Avon）：电气/自动化老牌分销=Moxa 授权官方分销商（Moxa 手册页印出"Your Authorized Distributor")；在架 ABB/Eaton Cutler-Hammer/IDEC/Moxa/Hammond/Puls/Datalogic/Honeywell/Ferraz；Moxa EDS-G512E-4GSFP $1,399、EDS-G516E-4GSFP $1,749 直接印刷价在页 | R64/R65 补:Mark O'Day President + Scott O'Day VP S&M + Jim Long Corporate Controller;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第1波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
+- **关注点与资质**：美国 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
+- **Saga产品适配**：STI-288GP vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**Your Authorized Distributor is: Controller Service and Sales…(800)584-5565
-  > Your Authorized Distributor is: Controller Service and Sales…(800)584-5565
-  > 来源：https://www.controllerservice.com/content/downloads/moxa/user_manual/Moxa_Industrial_Smart_Ethernet_UM_e1.0.pdf
-- **【R57备护深挖证据】**MOXA EDS-G512E-4GSFP…$1,399.00ea / EDS-G516E-4GSFP…$1,749.00ea
-  > MOXA EDS-G512E-4GSFP…$1,399.00ea / EDS-G516E-4GSFP…$1,749.00ea
-  > 来源：https://www.controllerservice.com/index.jsp?path=home&pgl=false
-- **【R64 DnB 实名】**Key Principal MARK M O'DAY(President),Avon MA,(800)584-5565
-  > Key Principal: MARK M O'DAY … Controller Service & Sales Co., Inc. is located at 13 Robbie Rd Avon, MA
-  > 来源：https://www.dnb.com/business-directory/company-profiles.controller_service__sales_co_inc.65ac94bbcbb878dab554ba6fd7598a67.html
-- **【R64 三代家族】**Mark 2005 至今;父 Bob O'Day 1951-2005;兄弟 Scott O'Day VP S&M;Michael Sandonato 销市总监;Jim Long Corporate Controller;38 员工
-  > Mark O'Day (President) | Scott O'Day (VP Sales and Marketing) | Jim Long (Corporate Controller) … 38 employees … company president since 2005 … late father Bob O'Day 1951 to 2005
-  > 来源：https://rocketreach.co/controller-service-sales-inc-management_b5fee96bf60669ae
-- **【R64 管理层访谈】**Mark O'Day tED 2014 访谈:收购战略/家族血脉公开口径
-  > Mark and his brother Scott share management responsibilities … family owned … founded by his grandfather in 1926
-  > 来源：https://tedmag.com/instant-message-qa-with-controller-services-mark-oday/
+- **【联系方式与基础画像】**Controller Service and Sales（马萨诸塞 Avon）：电气/自动化老牌分销=Moxa 授权官方分销商（Moxa 手册页印出"Your Authorized Distributor")；在架 ABB/Eaton Cutler-Hammer/IDEC/Moxa/Hammond/Puls/Datal
+  > Controller Service and Sales（马萨诸塞 Avon）：电气/自动化老牌分销=Moxa 授权官方分销商（Moxa 手册页印出"Your Authorized Distributor")；在架 ABB/Eaton Cutler-Hammer/IDEC/Moxa/Hammond/Puls/Datal
+  > 来源：https://controllerservice.com/
+- **【联系方式与基础画像】**CSV 入口:官网联系页
+  > CSV 入口:官网联系页
+  > 来源：https://controllerservice.com/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -157,7 +148,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:电气/自动化深谱+价锚透明 / W:Moxa 铁忠+厂牌框架固化 / O:STI-288GP 入非主环路岗位 DIN 轨空档 / T:Moxa 厂方制圈导账期/让利
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -185,8 +176,8 @@ S:电气/自动化深谱+价锚透明 / W:Moxa 铁忠+厂牌框架固化 / O:STI
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 在架 Moxa SDS-3008(unmanaged value 段）与 EDS 的中空价值区间位置
-  - [ ] 电气柜侧哪些子件（ABB/IDEC/Hammond）的装里 PoE 点最多
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -195,21 +186,15 @@ S:电气/自动化深谱+价锚透明 / W:Moxa 铁忠+厂牌框架固化 / O:STI
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Controller Service team,
+Dear Controller Service and Sal Team,
 
-Authorized ABB/Eaton/IDEC/Moxa on one wall - that's a control cabinet distribution DNA we recognize. Not every PoE endpoint in those cabinets deserves a four-figure switch.
+We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - built exactly for the auxiliary PoE runs next to your Moxa backbone lines.
-
-One question: for the non-ring, auxiliary PoE endpoints in your control cabinet projects, which value-side switch are you standardizing on today?
-
-If useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

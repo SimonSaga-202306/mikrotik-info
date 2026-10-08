@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：BIBAOnline / BIBA LLC(Centerville, Virginia;2009-07 创；谱型=美国 VAR/VoIP/IT 三合一——IP phone/PBX/SSD/HDD/KVM/VoIP 等营销…
+- **是谁**：波 30·B-329:美国谱: **守档准由·原 R65/R57 谱基增厚**:BIBAOnline（弗吉尼亚 Sterling/Centerville）：BIBA LLC 分部电商；主营 VoIP 产品（IP Phon…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — VoIP 主盘店的 PoE 项目补位：楼价档 24 口 280W 正合 VoIP 部署单价锚；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | BIBAOnline / BIBA LLC(Centerville, Virginia;2009-07 创；谱型=美国 VAR/VoIP/IT 三合一——IP phone/PBX/SSD/HDD/KVM/VoIP 等营销+电缆/布线/病毒清/网络工程服务连售；家庭/中小企业 audience | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】这是 VoIP-first reseller 谱，MikroTik Reseller 挂一角；SKU 杂深=店态偏交易型，PoE 接入档补位语境成立（VoIP 部署必消 PoE) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 30·B-329:美国谱: **守档准由·原 R65/R57 谱基增厚**:BIBAOnline（弗吉尼亚 Sterling/Centerville）：BIBA LLC 分部电商；主营 VoIP 产品（IP Phone/PBX/视频话机）+小电子杂货盘+IT 服务（布线/杀病毒）；one-stop-shop 杂货模式证实在 FB 店页 | R65 深挖: | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】BIBAOnline（弗吉尼亚 Sterling/Centerville）：BIBA LLC 分部电商；主营 VoIP 产品（IP Phone/PBX/视频话机）+小电子杂货盘+IT 服务（布线/杀病毒）；one-stop-shop 杂货模式证实在 FB 店页 | R65 深挖:BIBA VAR/VoIP 一条龙谱 2009
-- 【推断】这是 VoIP-first reseller 谱，MikroTik Reseller 挂一角；SKU 杂深=店态偏交易型，PoE 接入档补位语境成立（VoIP 部署必消 PoE)
-- 【假设】VoIP 落单场景=PoE 刚简配通道；以「VoIP 项目 PoE 一页」（对照主线 Ubiquiti 的价格锚）具名销售最好开篇
+- 【事实】波 30·B-329:美国谱: **守档准由·原 R65/R57 谱基增厚**:BIBAOnline（弗吉尼亚 Sterling/Centerville）：BIBA LLC 分部电商；主营 VoIP 产品（IP Phone/PBX/视频话机）+小电子杂货盘+IT 服务（布线/杀病毒）；one-stop-shop 杂货模式证实在 FB 店页 | R65 深挖:BIBA VAR/VoIP 一条龙谱 2009;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第1波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 30 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】这是 VoIP-first reseller 谱，MikroTik Reseller 挂一角；SKU 杂深=店态偏交易型，PoE 接入档补位语境成立（VoIP 部署必消 PoE)
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -86,50 +86,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · 对标 Ubiquiti US-24 PoE 价位页桥（A 类锚档参照）
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：VoIP 落单场景=PoE 刚简配通道；以「VoIP 项目 PoE 一页」（对照主线 Ubiquiti 的价格锚）具名销售最好开篇
-- **要问的问题**：你们 VoIP 项目落地时 PoE 交换接集画什么？现供是美国本地仓还是中国直发？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+10 · 样机提议
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：VoIP 落单场景=PoE 刚简配通道；以「VoIP 项目 PoE 一页」（对照主线 Ubiquiti 的价格锚）具名销售最好开篇
-- **要问的问题**：你们 VoIP 项目落地时 PoE 交换接集画什么？现供是美国本地仓还是中国直发？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 无果转 B 观察位
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：VoIP 落单场景=PoE 刚简配通道；以「VoIP 项目 PoE 一页」（对照主线 Ubiquiti 的价格锚）具名销售最好开篇
-- **要问的问题**：你们 VoIP 项目落地时 PoE 交换接集画什么？现供是美国本地仓还是中国直发？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 15 批精修 = R57 转写 + 本轮调研新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第15批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
 
-- **背景深描**：BIBAOnline / BIBA LLC(Centerville, Virginia;2009-07 创；谱型=美国 VAR/VoIP/IT 三合一——IP phone/PBX/SSD/HDD/KVM/VoIP 等营销+电缆/布线/病毒清/网络工程服务连售；家庭/中小企业 audience
-- **芯片与在用型号**：【推断】这是 VoIP-first reseller 谱，MikroTik Reseller 挂一角；SKU 杂深=店态偏交易型，PoE 接入档补位语境成立（VoIP 部署必消 PoE)
-- **关键人KP**：—(BIBA LLC 业主方未自曝；R65 谱位足档）
-- **关注点与资质**：MikroTik（Reseller） 
-- **优缺点SWOT**：S:VoIP 场景与 PoE 天然绑定+本地服务 / W:杂货铺行 SKU 虚薄、品牌忠度低 / O:STC-424 入主 VoIP PoE 档第二供位 / T:店态会转暴利单品（他们不会守任何品牌）
-- **Saga产品适配**：VoIP 主盘店的 PoE 项目补位：楼价档 24 口 280W 正合 VoIP 部署单价锚
+- **背景深描**：波 30·B-329:美国谱: **守档准由·原 R65/R57 谱基增厚**:BIBAOnline（弗吉尼亚 Sterling/Centerville）：BIBA LLC 分部电商；主营 VoIP 产品（IP Phone/PBX/视频话机）+小电子杂货盘+IT 服务（布线/杀病毒）；one-stop-shop 杂货模式证实在 FB 店页 | R65 深挖:BIBA VAR/VoIP 一条龙谱 2009;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第1波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
+- **关注点与资质**：美国 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**VoIP Products such as IP-Phones…PBX and Services…cabling
-  > VoIP Products such as IP-Phones…PBX and Services…cabling
-  > 来源：https://www.facebook.com/bibaonline1/
-- **【R57备护深挖证据】**415 Harding Ct. Sterling VA 20164 / 1-844-329-2422
-  > 415 Harding Ct. Sterling VA 20164 / 1-844-329-2422
-  > 来源：https://www.bibaonline.com/pages/contact-us
-- **【R65 谱位】**BIBAOnline=BIBA LLC 旗下 VAR/VoIP/IT 在 Centerville VA 2009-07 创；SKU 范吻合
-  > @bibaonline your one stop shop for VAR, VoIP products, tech gadgets and software. A division of BIBA LLC … Centerville, VA bibaonline.com … BIBA Online provides … SSDs, HDDs, USB Flash Drives, KVM switches, VoIP Products … networking
-  > 来源：https://x.com/bibaonline
+- **【联系方式与基础画像】**BIBAOnline（弗吉尼亚 Sterling/Centerville）：BIBA LLC 分部电商；主营 VoIP 产品（IP Phone/PBX/视频话机）+小电子杂货盘+IT 服务（布线/杀病毒）；one-stop-shop 杂货模式证实在 FB 店页 | R65 深挖:BIBA VAR/VoIP 一条龙谱 2
+  > BIBAOnline（弗吉尼亚 Sterling/Centerville）：BIBA LLC 分部电商；主营 VoIP 产品（IP Phone/PBX/视频话机）+小电子杂货盘+IT 服务（布线/杀病毒）；one-stop-shop 杂货模式证实在 FB 店页 | R65 深挖:BIBA VAR/VoIP 一条龙谱 2
+  > 来源：https://bibaonline.com/
+- **【联系方式与基础画像】**CSV 入口:+1 571 249 2422 / info@biballc.com
+  > CSV 入口:+1 571 249 2422 / info@biballc.com
+  > 来源：https://bibaonline.com/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -142,7 +139,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:VoIP 场景与 PoE 天然绑定+本地服务 / W:杂货铺行 SKU 虚薄、品牌忠度低 / O:STC-424 入主 VoIP PoE 档第二供位 / T:店态会转暴利单品（他们不会守任何品牌）
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -170,8 +167,8 @@ S:VoIP 场景与 PoE 天然绑定+本地服务 / W:杂货铺行 SKU 虚薄、品
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] MikroTik 属销售柴线还是技术栈线（主 VoIP 的局）
-  - [ ] VoIP→PoE 谱的 SKU 进深（8 口？24 口？集中化？)
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -180,21 +177,15 @@ S:VoIP 场景与 PoE 天然绑定+本地服务 / W:杂货铺行 SKU 虚薄、品
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi BIBA team,
+Dear BIBAOnline Team,
 
-Your catalog brings together the full VoIP deployment stack (IP phones, PBX, video). Every one of those deployments eats PoE ports behind the scenes.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port PoE+ managed switch (280W, wired for VoIP rollouts) with full English documentation. Reference: $180 USD EXW (2026-09-29) - positioned as the value-side stocking item next to the premium brands you already carry.
-
-One question: for your VoIP projects, where do the PoE access switches in the BOM come from today - and is there room for a documented second source?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

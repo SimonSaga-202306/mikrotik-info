@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Janzen Group(Hamburg 出发的德国全国体:KNX 编程+安防+AV/会议室+布线+MikroTik Support;**官网两页自曝:MikroTik Support 专页=「zertifizierte…
+- **是谁**：波 30·B-510:德国谱: **守档准由·原 R65/R57 谱基增厚**:Janzen Group(Hamburg;MikroTik 官方培训伙伴/顾问名录收录;R49 已复核:服务商口径——Sicherheits…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：有信号（影响力/渠道）但需先验证需求或联系人不具体
 - **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — 培训伙伴/服务商:8 口小机教具样本位(师者红线下最白开口,同 Redvise 逻辑)；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Janzen Group(Hamburg 出发的德国全国体:KNX 编程+安防+AV/会议室+布线+MikroTik Support;**官网两页自曝:MikroTik Support 专页=「zertifizierte MikroTik-Partner / Trainer und Consultants」+ 安防 KNX 双向**;info@janzen- | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】汉堡本地服务商+培训伙伴血统;KNX 楼宇自控+安全技术谱=课桌与项目现场双场景;无货架分销功能 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 30·B-510:德国谱: **守档准由·原 R65/R57 谱基增厚**:Janzen Group(Hamburg;MikroTik 官方培训伙伴/顾问名录收录;R49 已复核:服务商口径——Sicherheitstechnik/Medientechnik/KNX/Netzwerktechnik/Wartungsverträge/MikroTik Su | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Janzen Group(Hamburg;MikroTik 官方培训伙伴/顾问名录收录;R49 已复核:服务商口径——Sicherheitstechnik/Medientechnik/KNX/Netzwerktechnik/Wartungsverträge/MikroTik Support(电话/远程/现场);ISO 9001 自述;Florian Janzen 具名;未见产品线) | R65 深挖:KNX+MikroTik 双线;培训师 Consultant 未名=守档准由待定
-- 【推断】汉堡本地服务商+培训伙伴血统;KNX 楼宇自控+安全技术谱=课桌与项目现场双场景;无货架分销功能
-- 【假设】开口角度=「师者教具样本位」:STC-28DGGPM 8 口小机做其培训/支持场景的对照教具样本(师者红线下最白开口),不谈返点谈「你能多讲什么」
+- 【事实】波 30·B-510:德国谱: **守档准由·原 R65/R57 谱基增厚**:Janzen Group(Hamburg;MikroTik 官方培训伙伴/顾问名录收录;R49 已复核:服务商口径——Sicherheitstechnik/Medientechnik/KNX/Netzwerktechnik/Wartungsverträge/MikroTik Support(电话/远程/现场);ISO 9001 自述;Florian Janzen 具名;未见产品线) | R65 深挖:KNX+MikroTik 双线;培训师 Consultant 未名=守档准由待定;R66 第 30 波谱:我司 STC-28DGGPM(8-port PoE access box (802.3af/at, watchdog)($99 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第5波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 30 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】汉堡本地服务商+培训伙伴血统;KNX 楼宇自控+安全技术谱=课桌与项目现场双场景;无货架分销功能
+STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -87,50 +87,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM（8口 PoE 接入盒）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · 教具样本合作一页(师者红线下)
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「师者教具样本位」:STC-28DGGPM 8 口小机做其培训/支持场景的对照教具样本(师者红线下最白开口),不谈返点谈「你能多讲什么」
-- **要问的问题**：你的 MikroTik 支持/培训场景里,有没有对照厂牌的教具样本?STC-28DGGPM 这样的 8 口小交换当对照样本可评吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · info@janzen-group.com 具名 Florian
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「师者教具样本位」:STC-28DGGPM 8 口小机做其培训/支持场景的对照教具样本(师者红线下最白开口),不谈返点谈「你能多讲什么」
-- **要问的问题**：你的 MikroTik 支持/培训场景里,有没有对照厂牌的教具样本?STC-28DGGPM 这样的 8 口小交换当对照样本可评吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「师者教具样本位」:STC-28DGGPM 8 口小机做其培训/支持场景的对照教具样本(师者红线下最白开口),不谈返点谈「你能多讲什么」
-- **要问的问题**：你的 MikroTik 支持/培训场景里,有没有对照厂牌的教具样本?STC-28DGGPM 这样的 8 口小交换当对照样本可评吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 7 批精修 = R57 转写 + 本轮登记/官网新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第7批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
 
-- **背景深描**：Janzen Group(Hamburg 出发的德国全国体:KNX 编程+安防+AV/会议室+布线+MikroTik Support;**官网两页自曝:MikroTik Support 专页=「zertifizierte MikroTik-Partner / Trainer und Consultants」+ 安防 KNX 双向**;info@janzen-group.com 公开;Janzen Academy 培训子项目在架
-- **芯片与在用型号**：【推断】汉堡本地服务商+培训伙伴血统;KNX 楼宇自控+安全技术谱=课桌与项目现场双场景;无货架分销功能
-- **关键人KP**：—(未自曝业主/KP 实名;守档准由)
-- **关注点与资质**：MikroTik 培训伙伴，开课/持证 MikroTik 认证顾问与讲师（具体科目未列） 
-- **优缺点SWOT**：S:培训伙伴+汉堡本地网络服务 ISO 9001 / W:无分销货架,采购量小 / O:教具样本+KNX 项目随单双线 / T:师者红线
-- **Saga产品适配**：培训伙伴/服务商:8 口小机教具样本位(师者红线下最白开口,同 Redvise 逻辑)
+- **背景深描**：波 30·B-510:德国谱: **守档准由·原 R65/R57 谱基增厚**:Janzen Group(Hamburg;MikroTik 官方培训伙伴/顾问名录收录;R49 已复核:服务商口径——Sicherheitstechnik/Medientechnik/KNX/Netzwerktechnik/Wartungsverträge/MikroTik Support(电话/远程/现场);ISO 9001 自述;Florian Janzen 具名;未见产品线) | R65 深挖:KNX+MikroTik 双线;培训师 Consultant 未名=守档准由待定;R66 第 30 波谱:我司 STC-28DGGPM(8-port PoE access box (802.3af/at, watchdog)($99 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第5波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
+- **关注点与资质**：德国 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-28DGGPM 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-28DGGPM vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**MikroTik 培训伙伴,开课/持证 MikroTik 认证顾问与讲师
-  > MikroTik 培训伙伴,开课/持证 MikroTik 认证顾问与讲师
-  > 来源：客户名单_反向信号_2026-09.csv
-- **【R57备护深挖证据】**Sicherheitstechnik / Medientechnik / KNX Programmierung / Netzwerktechnik / Wartungsverträge / Mikrotik Support;ISO 9001 自述
-  > Sicherheitstechnik / Medientechnik / KNX Programmierung / Netzwerktechnik / Wartungsverträge / Mikrotik Support;ISO 9001 自述
-  > 来源：https://www.janzen-group.com/(R49
-- **【R65 官网自曝】**德国 Hamburger MikroTik Support+KNX+安防+AV 一体化;认证 MikroTik Partner 口径;Janzen Academy 培训线
-  > Die Janzen Group steht Ihnen als kompetenter Partner für MikroTik Support zur Seite. Unsere zertifizierten Trainer und Consultants … info@janzen-group.com
-  > 来源：https://www.janzen-group.com/leistungen/mikrotik-support/
+- **【联系方式与基础画像】**Janzen Group(Hamburg;MikroTik 官方培训伙伴/顾问名录收录;R49 已复核:服务商口径——Sicherheitstechnik/Medientechnik/KNX/Netzwerktechnik/Wartungsverträge/MikroTik Support(电话/远程/现场);ISO 
+  > Janzen Group(Hamburg;MikroTik 官方培训伙伴/顾问名录收录;R49 已复核:服务商口径——Sicherheitstechnik/Medientechnik/KNX/Netzwerktechnik/Wartungsverträge/MikroTik Support(电话/远程/现场);ISO 
+  > 来源：https://janzen-group.com/
+- **【联系方式与基础画像】**CSV 入口:info@janzen-group.com
+  > CSV 入口:info@janzen-group.com
+  > 来源：https://janzen-group.com/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -143,7 +140,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:培训伙伴+汉堡本地网络服务 ISO 9001 / W:无分销货架,采购量小 / O:教具样本+KNX 项目随单双线 / T:师者红线
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-28DGGPM 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -171,8 +168,8 @@ S:培训伙伴+汉堡本地网络服务 ISO 9001 / W:无分销货架,采购量�
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] Trainer 课桌对照教具开放度
-  - [ ] KNX/安全技术项目里 PoE 件随单可能
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -181,21 +178,15 @@ S:培训伙伴+汉堡本地网络服务 ISO 9001 / W:无分销货架,采购量�
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Florian,
+Dear Janzen Group Team,
 
-MikroTik training partner with KNX programming, security technology and on-site support across Hamburg - you sit exactly where the classroom bench meets the customer site.
+We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a compact 8-port managed PoE+ switch (120W, L2-lite) with full English/German documentation. Reference: $99 USD EXW (2026-09-29) - built empty-label friendly so a trainer can place it on the bench as a documented comparison SKU without any brand pressure.
-
-One question: for your training and support work, do you currently use a documented comparison device for the PoE segment - and would a sample unit with a full test pack be something you would evaluate?
-
-If useful, I can send one unit. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

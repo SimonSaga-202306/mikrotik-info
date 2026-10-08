@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：SEWAN(法国电信 ETI 大户;2007 年 Alexis de Goriaïnoff + 3 名联合创始人联合创立——从同一运营商 4 人「全员辞职」创办起家;谱型=Cloud+Télécoms 生态/自创 Saa…
+- **是谁**：波 30·B-252:法国谱: **守档准由·原 R65/R57 谱基增厚**:SEWAN(法国 Paris 2 Cité Paradis 75010):**B2B 运营商（非分销！)**——2007 创 450 人，2…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：有信号（ISP/骨干）但需先验证需求或联系人不具体
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 欧 B2B 运营型:OEM 白标(SEWAN 牌）供给其渠道伙伴部署 SME 接入用；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | SEWAN(法国电信 ETI 大户;2007 年 Alexis de Goriaïnoff + 3 名联合创始人联合创立——从同一运营商 4 人「全员辞职」创办起家;谱型=Cloud+Télécoms 生态/自创 SaaS「Sophia」;300-1000 员工/75M€ 收；总部巴黎+贝尔福/蒙彼利埃；西班牙/德/意/荷国际化);**Alexis de G | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】SEWAN 实为运营型：接入是 dead simple 的构线（间接销售模型），它不卖硬件但它提供客户网点（SME）的接入设备组件列表——价值=渠道伙伴部署时使用的 OEM 白标设备供给链 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 30·B-252:法国谱: **守档准由·原 R65/R57 谱基增厚**:SEWAN(法国 Paris 2 Cité Paradis 75010):**B2B 运营商（非分销！)**——2007 创 450 人，2019-11 Kartesia €75M 投资加持；55k 企业客户/4 国网络（法/西 Vozelia/比 3StarsNet/德 42o | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】SEWAN(法国 Paris 2 Cité Paradis 75010):**B2B 运营商（非分销！)**——2007 创 450 人，2019-11 Kartesia €75M 投资加持；55k 企业客户/4 国网络（法/西 Vozelia/比 3StarsNet/德 42one);间接销售模式（渠道销合作伙伴）;通讯+连接+托管全家（真 RE fixe/mobile/UC/xDSL/云）具直技术面 | R65 深挖:SEWAN 法国 ETI 巨号;同代电信云族 75M€/自建 Sophia
-- 【推断】SEWAN 实为运营型：接入是 dead simple 的构线（间接销售模型），它不卖硬件但它提供客户网点（SME）的接入设备组件列表——价值=渠道伙伴部署时使用的 OEM 白标设备供给链
-- 【假设】开口角度=「你渠道伙伴部署市级 SME 接入时的 OEM 白标 PoE 随单」——STC-424 以 OEM 白标供货 SEWAN 牌，假装 SEWAN 形象部署
+- 【事实】波 30·B-252:法国谱: **守档准由·原 R65/R57 谱基增厚**:SEWAN(法国 Paris 2 Cité Paradis 75010):**B2B 运营商（非分销！)**——2007 创 450 人，2019-11 Kartesia €75M 投资加持；55k 企业客户/4 国网络（法/西 Vozelia/比 3StarsNet/德 42one);间接销售模式（渠道销合作伙伴）;通讯+连接+托管全家（真 RE fixe/mobile/UC/xDSL/云）具直技术面 | R65 深挖:SEWAN 法国 ETI 巨号;同代电信云族 75M€/自建 Sophia;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第4波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 30 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】SEWAN 实为运营型：接入是 dead simple 的构线（间接销售模型），它不卖硬件但它提供客户网点（SME）的接入设备组件列表——价值=渠道伙伴部署时使用的 OEM 白标设备供给链
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -68,7 +68,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- SEWAN(法国电信 ETI 大户;2007 年 Alexis de Goriaïnoff + 3 名联合创始人联合创立——从同一运营商 4 人「全员辞职」创办起家;谱型=Cloud+Télécoms 生态/自创 SaaS「Sophia」;300-1000 员工/75M€ 收；总部巴黎+贝尔福/蒙彼利埃；西班牙/德/意/荷国际化);**Alexis de Goriaïnoff = PDG & 联合创始人**;Philippe Moutinho 同站 PDG 口径(疑子站/分公司)
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -90,50 +90,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · SEWAN 牌 OEM 白标套件页
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「你渠道伙伴部署市级 SME 接入时的 OEM 白标 PoE 随单」——STC-424 以 OEM 白标供货 SEWAN 牌，假装 SEWAN 形象部署
-- **要问的问题**：你们渠道伙伴在 SME 部署里 PoE 接入现供哪家？白标 OEM 新鲜件可谈？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · contact@sewan.com 具名开口
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「你渠道伙伴部署市级 SME 接入时的 OEM 白标 PoE 随单」——STC-424 以 OEM 白标供货 SEWAN 牌，假装 SEWAN 形象部署
-- **要问的问题**：你们渠道伙伴在 SME 部署里 PoE 接入现供哪家？白标 OEM 新鲜件可谈？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「你渠道伙伴部署市级 SME 接入时的 OEM 白标 PoE 随单」——STC-424 以 OEM 白标供货 SEWAN 牌，假装 SEWAN 形象部署
-- **要问的问题**：你们渠道伙伴在 SME 部署里 PoE 接入现供哪家？白标 OEM 新鲜件可谈？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 11 批精修 = R57 转写 + 本轮登记/媒体新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第11批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
 
-- **背景深描**：SEWAN(法国电信 ETI 大户;2007 年 Alexis de Goriaïnoff + 3 名联合创始人联合创立——从同一运营商 4 人「全员辞职」创办起家;谱型=Cloud+Télécoms 生态/自创 SaaS「Sophia」;300-1000 员工/75M€ 收；总部巴黎+贝尔福/蒙彼利埃；西班牙/德/意/荷国际化);**Alexis de Goriaïnoff = PDG & 联合创始人**;Philippe Moutinho 同站 PDG 口径(疑子站/分公司)
-- **芯片与在用型号**：【推断】SEWAN 实为运营型：接入是 dead simple 的构线（间接销售模型），它不卖硬件但它提供客户网点（SME）的接入设备组件列表——价值=渠道伙伴部署时使用的 OEM 白标设备供给链
-- **关键人KP**：Alexis de Goriaïnoff = PDG & Cofondateur(官网 + LesEchos/BFM 双源);Philippe Moutinho 同城站 PDG 位
-- **关注点与资质**：MikroTik（Master） 
-- **优缺点SWOT**：S:€75M 投资+450 人+55k 客户+4国 / W:不直购硬件 / O:OEM 白标(SEWAN 牌）渠道伙伴部署随单位 / T:运营型血易拐谱对我不熟
-- **Saga产品适配**：欧 B2B 运营型:OEM 白标(SEWAN 牌）供给其渠道伙伴部署 SME 接入用
+- **背景深描**：波 30·B-252:法国谱: **守档准由·原 R65/R57 谱基增厚**:SEWAN(法国 Paris 2 Cité Paradis 75010):**B2B 运营商（非分销！)**——2007 创 450 人，2019-11 Kartesia €75M 投资加持；55k 企业客户/4 国网络（法/西 Vozelia/比 3StarsNet/德 42one);间接销售模式（渠道销合作伙伴）;通讯+连接+托管全家（真 RE fixe/mobile/UC/xDSL/云）具直技术面 | R65 深挖:SEWAN 法国 ETI 巨号;同代电信云族 75M€/自建 Sophia;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第4波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
+- **关注点与资质**：法国 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**75 millions d'euros auprès de Kartesia en novembre 2019…450 collaborateurs…55 000 entreprises clientes dans 4 pays européens
-  > 75 millions d'euros auprès de Kartesia en novembre 2019…450 collaborateurs…55 000 entreprises clientes dans 4 pays européens
-  > 来源：https://www.frenchweb.fr/telecoms-75-millions-deuros-pour-loperateur-b2b-sewan/384659
-- **【R57备护深挖证据】**cap sur l'Allemagne…rachat de l'opérateur allemand 42one…vente indirecte
-  > cap sur l'Allemagne…rachat de l'opérateur allemand 42one…vente indirecte
-  > 来源：https://www.frenchweb.fr/telecoms-sewan-continue-de-tisser-sa-toile-en-europe-avec-le-rachat-de-loperateur-allemand-42one/400067
-- **【R65 体量+位】**Sewan 2007 创 · 4 创始人同人离职创办 · 300-1000 员工 · 75M€ 收 · Sophia 生态 · 西班牙已并入 · 德/意/荷在望
-  > Alexis de Goriaïnoff a créé Sewan en 2007 … 75 millions d’euros de chiffre d’affaires et emploie 300 personnes … Sophia … Nourrissant des ambitions européennes
-  > 来源：https://business.lesechos.fr/entrepreneurs/success-stories/sewan-pixopolitan-et-opendatasoft-sur-l-entreprise-bfm-les-chos-316692.php
+- **【联系方式与基础画像】**SEWAN(法国 Paris 2 Cité Paradis 75010):**B2B 运营商（非分销！)**——2007 创 450 人，2019-11 Kartesia €75M 投资加持；55k 企业客户/4 国网络（法/西 Vozelia/比 3StarsNet/德 42one);间接销售模式（渠道销合作伙伴）;
+  > SEWAN(法国 Paris 2 Cité Paradis 75010):**B2B 运营商（非分销！)**——2007 创 450 人，2019-11 Kartesia €75M 投资加持；55k 企业客户/4 国网络（法/西 Vozelia/比 3StarsNet/德 42one);间接销售模式（渠道销合作伙伴）;
+  > 来源：https://sewan.fr/
+- **【联系方式与基础画像】**CSV 入口:+33 1 76 21 00 00 / contact@sewan.fr
+  > CSV 入口:+33 1 76 21 00 00 / contact@sewan.fr
+  > 来源：https://sewan.fr/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -146,7 +143,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:€75M 投资+450 人+55k 客户+4国 / W:不直购硬件 / O:OEM 白标(SEWAN 牌）渠道伙伴部署随单位 / T:运营型血易拐谱对我不熟
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -174,8 +171,8 @@ S:€75M 投资+450 人+55k 客户+4国 / W:不直购硬件 / O:OEM 白标(SEWAN
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] SEWAN 渠道伙伴部署级 SME 接入设备（含 PoE 交换）现供目录
-  - [ ] 白标 OEM 供应链现有没有
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -184,21 +181,15 @@ S:€75M 投资+450 人+55k 客户+4国 / W:不直购硬件 / O:OEM 白标(SEWAN
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi SEWAN team,
+Dear SEWAN Team,
 
-450 people, a €75M war chest from Kartesia, 55k B2B customers and a four-country footprint (France / Spain / Belgium / Germany) - Sewan is the heavyweight operator of the European indirect-sale channel.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/French documentation, fully open to Sewan white-label. Reference: $180 USD EXW (2026-09-29) - designed to become the default PoE access SKU your channel partners deploy under the Sewan brand.
-
-One question: for your channel partners' SME deployments, which PoE access source supplies the installations today - and would a documented white-label unit earn a pilot in your catalog?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

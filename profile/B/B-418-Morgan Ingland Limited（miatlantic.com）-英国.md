@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Morgan Ingland Limited(418 Ladypool Rd, Birmingham B12 8JZ(+London 1710 军侧办）, UK;**谱型=英国 IT 硬件/软件独立大批发乱迈商——100…
+- **是谁**：波 30·B-418:英国谱: **守档准由·原 R65/R57 谱基增厚**:Morgan Ingland Limited(Birmingham 418 Ladypool Road B12 8JZ;**电商型 mult…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 电商型 UK reseller 的 24 口 280W 管理型 PoE value 架位(Match Price 下以数字直给)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Morgan Ingland Limited(418 Ladypool Rd, Birmingham B12 8JZ(+London 1710 军侧办）, UK;**谱型=英国 IT 硬件/软件独立大批发乱迈商——100+ top brands ICT 分销，251-500 员工(crunchbase/zoominfo 双口径）**;10+ 年行业职业专谱； | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】同 etree 画像:电商架走量,无增值深度;Teltonika/Ubiquiti/MikroTik 在架=PoE 随单谱在;Match Price 机制=价格透明搏杀,value 件必须以数字说话 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 30·B-418:英国谱: **守档准由·原 R65/R57 谱基增厚**:Morgan Ingland Limited(Birmingham 418 Ladypool Road B12 8JZ;**电商型 multi-brand IT reseller**,域龄 9 年):100+ 品牌(Fortinet/Poly/HPE/Teltonika/Juni | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Morgan Ingland Limited(Birmingham 418 Ladypool Road B12 8JZ;**电商型 multi-brand IT reseller**,域龄 9 年):100+ 品牌(Fortinet/Poly/HPE/Teltonika/Juniper/MikroTik/Ubiquiti/Extreme…);行业谱=政府/企业/医疗/教育/酒店/零售;Match Price 比价机制;热卖件价位段 £50-350 | R65 深挖:伯明罕 ICT 大批发乱迈商 500 级员谱
-- 【推断】同 etree 画像:电商架走量,无增值深度;Teltonika/Ubiquiti/MikroTik 在架=PoE 随单谱在;Match Price 机制=价格透明搏杀,value 件必须以数字说话
-- 【假设】开口角度=「电商架 24 口 280W 管理型 PoE 的 value 空档补位」:STC-424 以 £/€ 对标数字直给,贴上 Match Price 机制打
+- 【事实】波 30·B-418:英国谱: **守档准由·原 R65/R57 谱基增厚**:Morgan Ingland Limited(Birmingham 418 Ladypool Road B12 8JZ;**电商型 multi-brand IT reseller**,域龄 9 年):100+ 品牌(Fortinet/Poly/HPE/Teltonika/Juniper/MikroTik/Ubiquiti/Extreme…);行业谱=政府/企业/医疗/教育/酒店/零售;Match Price 比价机制;热卖件价位段 £50-350 | R65 深挖:伯明罕 ICT 大批发乱迈商 500 级员谱;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第7波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 30 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】同 etree 画像:电商架走量,无增值深度;Teltonika/Ubiquiti/MikroTik 在架=PoE 随单谱在;Match Price 机制=价格透明搏杀,value 件必须以数字说话
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -69,7 +69,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- Morgan Ingland Limited(418 Ladypool Rd, Birmingham B12 8JZ(+London 1710 军侧办）, UK;**谱型=英国 IT 硬件/软件独立大批发乱迈商——100+ top brands ICT 分销，251-500 员工(crunchbase/zoominfo 双口径）**;10+ 年行业职业专谱；info@miatlantic.com
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -87,50 +87,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · 价位对标页(Teltonika/Ubiquiti 对位)
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「电商架 24 口 280W 管理型 PoE 的 value 空档补位」:STC-424 以 £/€ 对标数字直给,贴上 Match Price 机制打
-- **要问的问题**：你们架上 24 口管理型 PoE+ 现供哪个价带?value 档有没有新品牌试卖位?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · info@miatlantic.com 开口
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「电商架 24 口 280W 管理型 PoE 的 value 空档补位」:STC-424 以 £/€ 对标数字直给,贴上 Match Price 机制打
-- **要问的问题**：你们架上 24 口管理型 PoE+ 现供哪个价带?value 档有没有新品牌试卖位?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「电商架 24 口 280W 管理型 PoE 的 value 空档补位」:STC-424 以 £/€ 对标数字直给,贴上 Match Price 机制打
-- **要问的问题**：你们架上 24 口管理型 PoE+ 现供哪个价带?value 档有没有新品牌试卖位?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)**；原始记录：`batch/B类深挖_2026-10-07_R65_第23批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
 
-- **背景深描**：Morgan Ingland Limited(418 Ladypool Rd, Birmingham B12 8JZ(+London 1710 军侧办）, UK;**谱型=英国 IT 硬件/软件独立大批发乱迈商——100+ top brands ICT 分销，251-500 员工(crunchbase/zoominfo 双口径）**;10+ 年行业职业专谱；info@miatlantic.com
-- **芯片与在用型号**：【推断】同 etree 画像:电商架走量,无增值深度;Teltonika/Ubiquiti/MikroTik 在架=PoE 随单谱在;Match Price 机制=价格透明搏杀,value 件必须以数字说话
-- **关键人KP**：—(Companies House MORGAN INGLAND LIMITED 董事名单 unpaid;R65 谱位+地址件已足，购购 kp 待定）
-- **关注点与资质**：MikroTik（Reseller） 
-- **优缺点SWOT**：S:100 品牌电商架+多行业谱+9 年站 / W:无增值,纯价搏 / O:24 口 280W 管理型 value 空档 / T:TP-Link/Ubiquiti 低价压
-- **Saga产品适配**：电商型 UK reseller 的 24 口 280W 管理型 PoE value 架位(Match Price 下以数字直给)
+- **背景深描**：波 30·B-418:英国谱: **守档准由·原 R65/R57 谱基增厚**:Morgan Ingland Limited(Birmingham 418 Ladypool Road B12 8JZ;**电商型 multi-brand IT reseller**,域龄 9 年):100+ 品牌(Fortinet/Poly/HPE/Teltonika/Juniper/MikroTik/Ubiquiti/Extreme…);行业谱=政府/企业/医疗/教育/酒店/零售;Match Price 比价机制;热卖件价位段 £50-350 | R65 深挖:伯明罕 ICT 大批发乱迈商 500 级员谱;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第7波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
+- **关注点与资质**：英国 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**proud to partner with 100 plus leading brands…serves sectors such as government, enterprise, healthcare, education, real estate, hospitality
-  > proud to partner with 100 plus leading brands…serves sectors such as government, enterprise, healthcare, education, real estate, hospitality, power and utility, and retail
-  > 来源：https://www.cbinsights.com/company/morgan-ingland
-- **【R57备护深挖证据】**Teltonika RUT951 Cellular network router…£284;MikroTik/Ubiquiti-Networks 列名 Featured Brands
-  > Teltonika RUT951 Cellular network router…£284;MikroTik/Ubiquiti-Networks 列名 Featured Brands
+- **【联系方式与基础画像】**Morgan Ingland Limited(Birmingham 418 Ladypool Road B12 8JZ;**电商型 multi-brand IT reseller**,域龄 9 年):100+ 品牌(Fortinet/Poly/HPE/Teltonika/Juniper/MikroTik/Ubiquit
+  > Morgan Ingland Limited(Birmingham 418 Ladypool Road B12 8JZ;**电商型 multi-brand IT reseller**,域龄 9 年):100+ 品牌(Fortinet/Poly/HPE/Teltonika/Juniper/MikroTik/Ubiquit
   > 来源：https://miatlantic.com/
-- **【R65 谱位】**Morgan Ingland Ltd Birmingham/London 100+ 品谱 ICT 批发 251-500 员工；miatlantic.com/us.miatlantic.com 双站营运
-  > Morgan Ingland is an advanced independent reseller of Information Technology related products … Headquarters: 418 Ladypool Rd, Birmingham, West Midlands, B12 8JZ … 251-500 … The company collaborates with over 100 top brands
-  > 来源：https://www.crunchbase.com/organization/morgan-ingland
+- **【联系方式与基础画像】**CSV 入口:0808 189 1246 / info@miatlantic.com
+  > CSV 入口:0808 189 1246 / info@miatlantic.com
+  > 来源：https://miatlantic.com/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -143,7 +140,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:100 品牌电商架+多行业谱+9 年站 / W:无增值,纯价搏 / O:24 口 280W 管理型 value 空档 / T:TP-Link/Ubiquiti 低价压
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -171,8 +168,8 @@ S:100 品牌电商架+多行业谱+9 年站 / W:无增值,纯价搏 / O:24 口 2
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 其架上 24 口管理 PoE 现供价位带
-  - [ ] Match Price 下的 MOQ/账期门槛
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -181,21 +178,15 @@ S:100 品牌电商架+多行业谱+9 年站 / W:无增值,纯价搏 / O:24 口 2
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Morgan Ingland team,
+Dear Morgan Ingland Limited（mia Team,
 
-A hundred brands on one shelf across government, education and hospitality - with a Match Price promise that tells me you respect a hard number more than a brand story.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-Here is the number: a 24-port PoE+ managed switch (280W, L2-lite), full English documentation, $180 USD EXW reference (2026-09-29). White-label friendly, built to hold the value tier between your value brands and Ubiquiti.
-
-One question: on your shelf today, which 24-port managed PoE unit holds that value tier - and would a documented unit at this EXW number earn a listing test?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

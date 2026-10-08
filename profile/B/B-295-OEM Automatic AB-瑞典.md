@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：OEM Automatic AB(Org.nr 556187-1012,Dalagatan 4 / Box 1011, 573 28 Tranås;075-242 41 00;瑞典母集团:Jens Kjellsson V…
+- **是谁**：波 30·B-295:瑞典谱: **守档准由·原 R65/R57 谱基增厚**:OEM Automatic AB(Tranås;Orgnr 556187-1012):**欧洲领先工业自动化零组件分销集团,40+ 年**—…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 北欧工业巨头工业通信板块的 value DIN 轨位,或 Produktförädling 自有谱 OEM 代工位(CSV 已指明,双案并呈)；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | OEM Automatic AB(Org.nr 556187-1012,Dalagatan 4 / Box 1011, 573 28 Tranås;075-242 41 00;瑞典母集团:Jens Kjellsson VD 自曝(MyNews+官网个人页),4 市分部(Malmö/Stockholm/Göteborg/Umeå);产品线对口=电柜组件(Els | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】北欧工业零组件巨头,产品改进/自有开发线存在=自有品牌运营血统;工业通信板块是其六大域之一(N-Tron 高价牌在架) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 30·B-295:瑞典谱: **守档准由·原 R65/R57 谱基增厚**:OEM Automatic AB(Tranås;Orgnr 556187-1012):**欧洲领先工业自动化零组件分销集团,40+ 年**——六大产品域(机柜件/电缆/机器/传感安全/压力流量/机器视觉);Höganloft 物流中心 3 万 SKU 常备、30 万订单行/年;集 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】OEM Automatic AB(Tranås;Orgnr 556187-1012):**欧洲领先工业自动化零组件分销集团,40+ 年**——六大产品域(机柜件/电缆/机器/传感安全/压力流量/机器视觉);Höganloft 物流中心 3 万 SKU 常备、30 万订单行/年;集团姐妹=OEM Motor/Telfa/Batteripoolen(SE/NO/DK 同仓);品牌含 Advantech/Harting/Legrand/igus/Lovato/Partex;『Industriell kommunikation』板块(N-Tron/Red Lion 出处);**官网导航自有 Produktförädling(产品开发)线=CSV 所指『自有品牌→OEM 最优先』**
-- 【推断】北欧工业零组件巨头,产品改进/自有开发线存在=自有品牌运营血统;工业通信板块是其六大域之一(N-Tron 高价牌在架)
-- 【假设】开口角度=「工业通信板块 N-Tron 旁的 value DIN 轨位,或 Produktförädling 自有谱的 OEM 代工位」(CSV 已指明 OEM 最优先):STI-288GP 双案并呈;集团系与 B-200(捷克)同模板联动
+- 【事实】波 30·B-295:瑞典谱: **守档准由·原 R65/R57 谱基增厚**:OEM Automatic AB(Tranås;Orgnr 556187-1012):**欧洲领先工业自动化零组件分销集团,40+ 年**——六大产品域(机柜件/电缆/机器/传感安全/压力流量/机器视觉);Höganloft 物流中心 3 万 SKU 常备、30 万订单行/年;集团姐妹=OEM Motor/Telfa/Batteripoolen(SE/NO/DK 同仓);品牌含 Advantech/Harting/Legrand/igus/Lovato/Partex;『Industriell kommunikation』板块(N-Tron/Red Lion 出处);**官网导航自有 Produktförädling(产品开发)线=CSV 所指『自有品牌→OEM 最优先』**;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第9波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 30 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】北欧工业零组件巨头,产品改进/自有开发线存在=自有品牌运营血统;工业通信板块是其六大域之一(N-Tron 高价牌在架)
+STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -95,56 +95,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · 双案页(value 位 vs OEM 代工)
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「工业通信板块 N-Tron 旁的 value DIN 轨位,或 Produktförädling 自有谱的 OEM 代工位」(CSV 已指明 OEM 最优先):STI-288GP 双案并呈;集团系与 B-200(捷克)同模板联动
-- **要问的问题**：你们 Industriell kommunikation 板块 N-Tron 旁,value DIN 轨 PoE 有位吗?或 Produktförädling 自有谱谈 OEM 代工?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · info@oemautomatic.pl(波兰分公司,CSV 已存联系人)开口
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「工业通信板块 N-Tron 旁的 value DIN 轨位,或 Produktförädling 自有谱的 OEM 代工位」(CSV 已指明 OEM 最优先):STI-288GP 双案并呈;集团系与 B-200(捷克)同模板联动
-- **要问的问题**：你们 Industriell kommunikation 板块 N-Tron 旁,value DIN 轨 PoE 有位吗?或 Produktförädling 自有谱谈 OEM 代工?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「工业通信板块 N-Tron 旁的 value DIN 轨位,或 Produktförädling 自有谱的 OEM 代工位」(CSV 已指明 OEM 最优先):STI-288GP 双案并呈;集团系与 B-200(捷克)同模板联动
-- **要问的问题**：你们 Industriell kommunikation 板块 N-Tron 旁,value DIN 轨 PoE 有位吗?或 Produktförädling 自有谱谈 OEM 代工?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 2 批精修 = R57 转写 + R64 KP + 瑞典官网个人页/MyNews 自曝补)**；原始记录：`batch/B类深挖_2026-10-07_R65_第2批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
 
-- **背景深描**：OEM Automatic AB(Org.nr 556187-1012,Dalagatan 4 / Box 1011, 573 28 Tranås;075-242 41 00;瑞典母集团:Jens Kjellsson VD 自曝(MyNews+官网个人页),4 市分部(Malmö/Stockholm/Göteborg/Umeå);产品线对口=电柜组件(Elskåpskomponenter,Red Lion/工业交换线在同集团旗下 Czech 分);info@oemautomatic.se 函数邮箱公开+MX outlook 存活;技术/产品/市场/采购/仓层分职能目录
-- **芯片与在用型号**：【推断】北欧工业零组件巨头,产品改进/自有开发线存在=自有品牌运营血统;工业通信板块是其六大域之一(N-Tron 高价牌在架)
-- **关键人KP**：Jens Kjellsson(VD,jens.kjellsson@oemautomatic.se,076-527 82 80,自曝);Nils Svensson(电柜组件产品线经理,nils.svensson@oemautomatic.se);集团 Czech 分部 Jan Drlík 借 B-200
-- **关注点与资质**：N-Tron + Red Lion 
-- **优缺点SWOT**：S:40 年巨头+3 万 SKU 仓+六大域+自有开发线 / W:谱大决策层多 / O:value DIN 轨位或自有谱 OEM 代工(CSV 已点) / T:N-Tron/Red Lion 排他
-- **Saga产品适配**：北欧工业巨头工业通信板块的 value DIN 轨位,或 Produktförädling 自有谱 OEM 代工位(CSV 已指明,双案并呈)
+- **背景深描**：波 30·B-295:瑞典谱: **守档准由·原 R65/R57 谱基增厚**:OEM Automatic AB(Tranås;Orgnr 556187-1012):**欧洲领先工业自动化零组件分销集团,40+ 年**——六大产品域(机柜件/电缆/机器/传感安全/压力流量/机器视觉);Höganloft 物流中心 3 万 SKU 常备、30 万订单行/年;集团姐妹=OEM Motor/Telfa/Batteripoolen(SE/NO/DK 同仓);品牌含 Advantech/Harting/Legrand/igus/Lovato/Partex;『Industriell kommunikation』板块(N-Tron/Red Lion 出处);**官网导航自有 Produktförädling(产品开发)线=CSV 所指『自有品牌→OEM 最优先』**;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第9波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
+- **关注点与资质**：瑞典 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
+- **Saga产品适配**：STI-288GP vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**one of the leading suppliers of industrial automation components in Europe…Höganloft logistics center in Tranås…over 30,000 items as standar
-  > one of the leading suppliers of industrial automation components in Europe…Höganloft logistics center in Tranås…over 30,000 items as standard, deliver over 300,000 order lines each year
-  > 来源：https://www.oemautomatic.se/om-oss/in-english
-- **【R57备护深挖证据】**Elskåpskomponenter…Industriell kommunikation…Produktförädling(官网导航)
-  > Elskåpskomponenter…Industriell kommunikation…Produktförädling(官网导航)
-  > 来源：https://www.oemautomatic.se/
-- **【R65 瑞典 VD 自曝】**Jens Kjellsson VD,jens.kjellsson@oemautomatic.se,076-527 82 80——MyNews+官网个人页双源自曝
-  > Jens Kjellsson VD OEM Automatic AB jens.kjellsson@oemautomatic.se 076-527 82 80
-  > 来源：https://www.mynewsdesk.com/se/oemautomatic/contact_people
-- **【R65 瑞典母函数】**info@oemautomatic.se + 075-242 41 00 + Org.nr 556187-1012 + Dalagatan 4 573 42 Tranås 自曝
-  > OEM Automatic Sverige AB Box 1011 573 28 Tranås 075-242 41 00 info@oemautomatic.se Org.nr: 556187-1012
-  > 来源：https://www.oemautomatic.se/kontakt/personal
-- **【R65 产品口对口】**电柜组件(Elskåpskomponenter)线=Red Lion/工业交换同集团对口,Nils Svensson 为产品线经理
-  > Nils Svensson Produktansvarig Elskåpskomponenter nils.svensson@oemautomatic.se 076-527 81 95
-  > 来源：https://www.mynewsdesk.com/se/oemautomatic/contact_people
+- **【联系方式与基础画像】**OEM Automatic AB(Tranås;Orgnr 556187-1012):**欧洲领先工业自动化零组件分销集团,40+ 年**——六大产品域(机柜件/电缆/机器/传感安全/压力流量/机器视觉);Höganloft 物流中心 3 万 SKU 常备、30 万订单行/年;集团姐妹=OEM Motor/Telfa/
+  > OEM Automatic AB(Tranås;Orgnr 556187-1012):**欧洲领先工业自动化零组件分销集团,40+ 年**——六大产品域(机柜件/电缆/机器/传感安全/压力流量/机器视觉);Höganloft 物流中心 3 万 SKU 常备、30 万订单行/年;集团姐妹=OEM Motor/Telfa/
+  > 来源：https://oemautomatic.se/
+- **【联系方式与基础画像】**CSV 入口:官网联系页（HMS 名录只公开地址与网址）
+  > CSV 入口:官网联系页（HMS 名录只公开地址与网址）
+  > 来源：https://oemautomatic.se/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -157,7 +148,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:40 年巨头+3 万 SKU 仓+六大域+自有开发线 / W:谱大决策层多 / O:value DIN 轨位或自有谱 OEM 代工(CSV 已点) / T:N-Tron/Red Lion 排他
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -185,9 +176,8 @@ S:40 年巨头+3 万 SKU 仓+六大域+自有开发线 / W:谱大决策层多 / 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 捷克子(B-200)vs 瑞典母(本户)谱权边界——Drlík 与 Kjellsson 区域/产品线分层
-  - [ ] Produktförädling 线现状与 OEM 代工开放度
-  - [ ] N-Tron 在架价位带
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -196,21 +186,15 @@ S:40 年巨头+3 万 SKU 仓+六大域+自有开发线 / W:谱大决策层多 / 
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi OEM Automatic team,
+Dear OEM Automatic AB Team,
 
-Forty years, six product areas, thirty thousand stocked SKUs at Höganloft - and a Produktförädling line that says you shape products yourselves, not just move boxes.
+We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29). Two placements: as the value-side DIN-rail source beside your industrial-communication shelf, or as an OEM basis under your Produktförädling product line.
-
-One question: beside the N-Tron shelf, is there a documented value DIN-rail slot - and would your own development line evaluate an OEM unit?
-
-If useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

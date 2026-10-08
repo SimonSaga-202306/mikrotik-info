@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：TELASYS LTD(Companies House 09975808,2016-01-28 创,Cardiff Gate Business Park 注册/Bridgend 5 Raven Close 实际办;**L…
+- **是谁**：波 30·B-425:英国谱: **守档准由·原 R65/R57 谱基增厚**:Telasys Ltd(Cardiff Regus House;2016 创,11-50 人):**全球电信设备『新机+翻新』双轨商**——…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 双轨电信设备商的全新 value 新档位(翻新件价带+全新保修生命周期差位)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | TELASYS LTD(Companies House 09975808,2016-01-28 创,Cardiff Gate Business Park 注册/Bridgend 5 Raven Close 实际办;**Lee Gardner Bennett = Director(1987 生,2018-04 在任)+ Craig John Matthews- | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】商业模式吃性价比:翻新 Cisco/Juniper 与二手运营商件是其主架;客户群=预算优先的 ISP/企业——全新文档全 value 件正好站其翻新件旁做『新机选项』 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 30·B-425:英国谱: **守档准由·原 R65/R57 谱基增厚**:Telasys Ltd(Cardiff Regus House;2016 创,11-50 人):**全球电信设备『新机+翻新』双轨商**——new & refurbished equipment,asset recovery(资产回收)/decommissioning(退役拆除) | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Telasys Ltd(Cardiff Regus House;2016 创,11-50 人):**全球电信设备『新机+翻新』双轨商**——new & refurbished equipment,asset recovery(资产回收)/decommissioning(退役拆除)/OEM support contracts;供应链覆盖北美/中南美/欧/非/亚;WooCommerce 电商 | R65 深挖:Cardiff 电信 2016;Bennett+Matthews-Clark 双董事名位
-- 【推断】商业模式吃性价比:翻新 Cisco/Juniper 与二手运营商件是其主架;客户群=预算优先的 ISP/企业——全新文档全 value 件正好站其翻新件旁做『新机选项』
-- 【假设】开口角度=「翻新架旁的全新 value 新档位」:STC-424 以其翻新设备价带+全新保修/文档/生命周期叙事入
+- 【事实】波 30·B-425:英国谱: **守档准由·原 R65/R57 谱基增厚**:Telasys Ltd(Cardiff Regus House;2016 创,11-50 人):**全球电信设备『新机+翻新』双轨商**——new & refurbished equipment,asset recovery(资产回收)/decommissioning(退役拆除)/OEM support contracts;供应链覆盖北美/中南美/欧/非/亚;WooCommerce 电商 | R65 深挖:Cardiff 电信 2016;Bennett+Matthews-Clark 双董事名位;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第7波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 30 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】商业模式吃性价比:翻新 Cisco/Juniper 与二手运营商件是其主架;客户群=预算优先的 ISP/企业——全新文档全 value 件正好站其翻新件旁做『新机选项』
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -92,50 +92,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · [新机 at 翻新价] 对位页
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「翻新架旁的全新 value 新档位」:STC-424 以其翻新设备价带+全新保修/文档/生命周期叙事入
-- **要问的问题**：你们卖翻新件给客户时,有没有客户要『同价带但要全新』的位?文档全的 value 新机可谈吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · info@telasys.com 开口
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「翻新架旁的全新 value 新档位」:STC-424 以其翻新设备价带+全新保修/文档/生命周期叙事入
-- **要问的问题**：你们卖翻新件给客户时,有没有客户要『同价带但要全新』的位?文档全的 value 新机可谈吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「翻新架旁的全新 value 新档位」:STC-424 以其翻新设备价带+全新保修/文档/生命周期叙事入
-- **要问的问题**：你们卖翻新件给客户时,有没有客户要『同价带但要全新』的位?文档全的 value 新机可谈吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 12 批精修 = R57 转写 + 本轮 Companies House/KvK 新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第12批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
 
-- **背景深描**：TELASYS LTD(Companies House 09975808,2016-01-28 创,Cardiff Gate Business Park 注册/Bridgend 5 Raven Close 实际办;**Lee Gardner Bennett = Director(1987 生,2018-04 在任)+ Craig John Matthews-Clark = Director(1988 生,2017-02 在任)**;61900 Other telecommunications activities;Bridgend 出/入口汇汇(295 出/55 入船)
-- **芯片与在用型号**：【推断】商业模式吃性价比:翻新 Cisco/Juniper 与二手运营商件是其主架;客户群=预算优先的 ISP/企业——全新文档全 value 件正好站其翻新件旁做『新机选项』
-- **关键人KP**：Lee Gardner Bennett(1987 生,2018 在任)+ Craig John Matthews-Clark(1988 生,2017 在任)= 双 Director
-- **关注点与资质**：MikroTik（Reseller） 
-- **优缺点SWOT**：S:新机+翻新双轨+五大洲供应链 / W:翻新吃低价叙事 / O:翻新价带的全新 value 位(生命周期叙事) / T:翻新 Cisco 低价惯性
-- **Saga产品适配**：双轨电信设备商的全新 value 新档位(翻新件价带+全新保修生命周期差位)
+- **背景深描**：波 30·B-425:英国谱: **守档准由·原 R65/R57 谱基增厚**:Telasys Ltd(Cardiff Regus House;2016 创,11-50 人):**全球电信设备『新机+翻新』双轨商**——new & refurbished equipment,asset recovery(资产回收)/decommissioning(退役拆除)/OEM support contracts;供应链覆盖北美/中南美/欧/非/亚;WooCommerce 电商 | R65 深挖:Cardiff 电信 2016;Bennett+Matthews-Clark 双董事名位;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第7波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
+- **关注点与资质**：英国 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**global consultant and reseller for telecom equipment…refurbished and new equipment…asset recovery services, field services for decommissioni
-  > global consultant and reseller for telecom equipment…refurbished and new equipment…asset recovery services, field services for decommissioning, network and cabling deployment
-  > 来源：https://www.zoominfo.com/c/telasys-ltd/412222510
-- **【R57备护深挖证据】**Telasys Ltd Reseller Cardiff info@telasys.com
-  > Telasys Ltd Reseller Cardiff info@telasys.com
-  > 来源：https://altostrat.io/buying/hardware/resellers/europe/united-kingdom/
-- **【R65 商业登记】**Telasys Ltd 09975808 · 2016 创 · Cardiff/Bridgend · Lee Bennett+Craig Matthews-Clark 双董事 · 进出口汇 295/55 船
-  > BENNETT, Lee Gardner Role Active: Director Date of birth: July 1987 … MATTHEWS-CLARK, Craig John Role Active: Director
-  > 来源：https://find-and-update.company-information.service.gov.uk/company/09975808/officers
+- **【联系方式与基础画像】**Telasys Ltd(Cardiff Regus House;2016 创,11-50 人):**全球电信设备『新机+翻新』双轨商**——new & refurbished equipment,asset recovery(资产回收)/decommissioning(退役拆除)/OEM support contrac
+  > Telasys Ltd(Cardiff Regus House;2016 创,11-50 人):**全球电信设备『新机+翻新』双轨商**——new & refurbished equipment,asset recovery(资产回收)/decommissioning(退役拆除)/OEM support contrac
+  > 来源：https://telasys.com/
+- **【联系方式与基础画像】**CSV 入口:+44 2920 002722 / info@telasys.com
+  > CSV 入口:+44 2920 002722 / info@telasys.com
+  > 来源：https://telasys.com/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -148,7 +145,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:新机+翻新双轨+五大洲供应链 / W:翻新吃低价叙事 / O:翻新价带的全新 value 位(生命周期叙事) / T:翻新 Cisco 低价惯性
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -176,8 +173,8 @@ S:新机+翻新双轨+五大洲供应链 / W:翻新吃低价叙事 / O:翻新价
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 新机 vs 翻新在其营收占比
-  - [ ] 其 ISP 客户 24 口 PoE 采购场景(接入/机房)
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -186,21 +183,15 @@ S:新机+翻新双轨+五大洲供应链 / W:翻新吃低价叙事 / O:翻新价
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Telasys team,
+Dear Telasys Ltd Team,
 
-New and refurbished telecom hardware across five continents, with asset recovery and decommissioning on top - you know better than anyone what a switch costs at every point of its lifecycle.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build new only: a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation and full lifecycle warranty. Reference: $180 USD EXW (2026-09-29) - priced in your refurbished band, but factory-new, white-label friendly.
-
-One question: do your buyers ever ask for new hardware at refurbished prices - and would a documented new unit in that band earn a listing test beside your second-life shelf?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

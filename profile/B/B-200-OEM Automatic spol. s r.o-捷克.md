@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：OEM Automatic spol. s r.o.(Pražská 239, 250 66 Zdiby;1991 创立=28 年/官网自称 30 年;瑞典 OEM Automatic AB(Tranås)全资捷克分部;…
+- **是谁**：波 29·B-200:捷克谱: **守档准由·原 R65/R57 谱基增厚**:OEM Automatic spol. s r.o.(Zdiby/Praha;oemautomatic.cz;**同集团=B-295 OEM…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 集团系从属档:同 B-295 模板备信,实际开口走 CSV 既定『华沙一口覆盖 SE/PL/CZ』路径,不双头；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | OEM Automatic spol. s r.o.(Pražská 239, 250 66 Zdiby;1991 创立=28 年/官网自称 30 年;瑞典 OEM Automatic AB(Tranås)全资捷克分部;8+ 员工团队页自曝,Red Lion/PULS/HMS Networks/Leadshine/Mersen/Molex/Panasonic | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】集团系正主已由 B-295(瑞典总部)开口;捷克档为区域执行体,双头开口会乱——联动处理 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 29·B-200:捷克谱: **守档准由·原 R65/R57 谱基增厚**:OEM Automatic spol. s r.o.(Zdiby/Praha;oemautomatic.cz;**同集团=B-295 OEM Automatic AB(Tranås 瑞典,第 9 波已深挖)**;CSV 指明从华沙 oemautomatic.pl(Antaira  | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】OEM Automatic spol. s r.o.(Zdiby/Praha;oemautomatic.cz;**同集团=B-295 OEM Automatic AB(Tranås 瑞典,第 9 波已深挖)**;CSV 指明从华沙 oemautomatic.pl(Antaira 授权,+48 22 863 27 22)一口覆盖 SE/PL/CZ;jaune 谱 N-Tron+Red Lion) | R64/R65 补:Jan Drlík 董事自曝(团队页+info-cechy),Jakub Hanousek 产品口对口
-- 【推断】集团系正主已由 B-295(瑞典总部)开口;捷克档为区域执行体,双头开口会乱——联动处理
-- 【假设】开口角度=**(不重复开口)集团联动**:等 B-295/B-PL 开口果,本档按同模板备信;CSV 既定动作『从华沙打进去一次覆盖 SE/PL/CZ』为准
+- 【事实】波 29·B-200:捷克谱: **守档准由·原 R65/R57 谱基增厚**:OEM Automatic spol. s r.o.(Zdiby/Praha;oemautomatic.cz;**同集团=B-295 OEM Automatic AB(Tranås 瑞典,第 9 波已深挖)**;CSV 指明从华沙 oemautomatic.pl(Antaira 授权,+48 22 863 27 22)一口覆盖 SE/PL/CZ;jaune 谱 N-Tron+Red Lion) | R64/R65 补:Jan Drlík 董事自曝(团队页+info-cechy),Jakub Hanousek 产品口对口;R66 第 29 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第10波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 29 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】集团系正主已由 B-295(瑞典总部)开口;捷克档为区域执行体,双头开口会乱——联动处理
+STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -68,7 +68,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- OEM Automatic spol. s r.o.(Pražská 239, 250 66 Zdiby;1991 创立=28 年/官网自称 30 年;瑞典 OEM Automatic AB(Tranås)全资捷克分部;8+ 员工团队页自曝,Red Lion/PULS/HMS Networks/Leadshine/Mersen/Molex/Panasonic 等 30+ 供应商捷克区授权;捷克 Red Lion 工业交换/HMI 线在位=谱内接口真实;OEM Automatic 集团四国(CZ/SE/UK/NA)协同
+- 波 29·B-200:捷克谱: **守档准由·原 R65/R57 谱基增厚**:OEM Automatic spol. s r.o.(Zdiby/Praha;oemautomatic.cz;**同集团=B-295 OEM Automatic AB(Tranås 瑞典,第 9 波已深挖)**;CSV 指明从华沙 oemautomatic.pl(Antaira 授权,+48 22 863 27 22)一口覆盖 SE/PL/CZ;jaune 谱 N-Tron+Red Lion) | R64/R65 补:Jan Drlík 董事自曝(团队页+info-cechy),Jakub Hanousek 产品口对口;R66 第 29 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第10波.json,先报价不回、档案铺位、持续关注新一季,OK。
 
 ## 联系方式（已有/猜测分标）
 
@@ -92,42 +92,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+30 · 果归守档
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=**(不重复开口)集团联动**:等 B-295/B-PL 开口果,本档按同模板备信;CSV 既定动作『从华沙打进去一次覆盖 SE/PL/CZ』为准
-- **要问的问题**：(集团开口后)CZ 站 N-Tron 旁 value DIN 轨位
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
+
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档
+
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 2 批精修 = R57 转写 + R64 KP + 捷克团队页/登记补)**；原始记录：`batch/B类深挖_2026-10-07_R65_第2批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
 
-- **背景深描**：OEM Automatic spol. s r.o.(Pražská 239, 250 66 Zdiby;1991 创立=28 年/官网自称 30 年;瑞典 OEM Automatic AB(Tranås)全资捷克分部;8+ 员工团队页自曝,Red Lion/PULS/HMS Networks/Leadshine/Mersen/Molex/Panasonic 等 30+ 供应商捷克区授权;捷克 Red Lion 工业交换/HMI 线在位=谱内接口真实;OEM Automatic 集团四国(CZ/SE/UK/NA)协同
-- **芯片与在用型号**：【推断】集团系正主已由 B-295(瑞典总部)开口;捷克档为区域执行体,双头开口会乱——联动处理
-- **关键人KP**：（见 R64 KP 猎捕节/本档 KP 表）
-- **关注点与资质**：N-Tron + Red Lion | 传承人名开口：见 KP 表
-- **优缺点SWOT**：S:集团背书(见 B-295) / W:区域执行体,开口权在集团 / O:随集团开口果自动受惠 / T:双头开口自乱
-- **Saga产品适配**：集团系从属档:同 B-295 模板备信,实际开口走 CSV 既定『华沙一口覆盖 SE/PL/CZ』路径,不双头
+- **背景深描**：波 29·B-200:捷克谱: **守档准由·原 R65/R57 谱基增厚**:OEM Automatic spol. s r.o.(Zdiby/Praha;oemautomatic.cz;**同集团=B-295 OEM Automatic AB(Tranås 瑞典,第 9 波已深挖)**;CSV 指明从华沙 oemautomatic.pl(Antaira 授权,+48 22 863 27 22)一口覆盖 SE/PL/CZ;jaune 谱 N-Tron+Red Lion) | R64/R65 补:Jan Drlík 董事自曝(团队页+info-cechy),Jakub Hanousek 产品口对口;R66 第 29 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第10波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
+- **关注点与资质**：捷克 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
+- **Saga产品适配**：STI-288GP vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**波兰分公司已在名单第73行:+48 22 863 27 22 / info@oemautomatic.pl(Antaira 授权)→ 从华沙打进去一次覆盖 SE/PL/CZ
-  > 波兰分公司已在名单第73行:+48 22 863 27 22 / info@oemautomatic.pl(Antaira 授权)→ 从华沙打进去一次覆盖 SE/PL/CZ
-  > 来源：客户名单_反向信号_2026-09.csv
-- **【R57备护深挖证据】**B-295:OEM Automatic AB Tranås,六大产品域,Höganloft 3 万 SKU 仓,Produktförädling 自有开发线
-  > B-295:OEM Automatic AB Tranås,六大产品域,Höganloft 3 万 SKU 仓,Produktförädling 自有开发线
-  > 来源：batch/B类深挖_2026-09-29_R57-BC_第9波.json#B-295
-- **【R64 团队页自曝】**Jan Drlík = Ředitel společnosti(董事)+420 241 484 940;Jakub Hanousek = Product Area Manager Machine/Safety/Electronics/Railway(产品口对口);Ilona Kulhánková 供应商订单/物流;Adam Stoklasa 商技代表
-  > Jan Drlík Ředitel společnosti +420 241 484 940 … Jakub Hanousek Product Area Manager - Machine, Safety, Electronics, Railway … Ilona Kulhánková Správa dodavatelských objednávek
-  > 来源：https://www.oemautomatic.cz/kontakty/nas-tym
-- **【R64 商业登记】**IČO 438 75 416,1991 创立,Zdiby;Jan Drlík 董事实名名录
-  > OEM Automatic, spol. s r.o., Pražská 239, 250 66 Zdiby … IČO: 438 75 416 … Založeno: 1991 … Jan Drlík ředitel společnosti
-  > 来源：https://www.info-cechy.cz/eig-oem-automatic/index.html
-- **【R64 域名核验】**oemautomatic.cz 无 MX(NoAnswer)=无自曝函数邮箱;oemautomatic.se MX outlook 存活,母集团函数邮箱 info@oemautomatic.se 唯一可用直通道
-  > (dnspython 实测 2026-10-07)oemautomatic.cz → FAIL:NoAnswer;oemautomatic.se → outlook MX
-  > 来源：(本地 dnspython 实测记录)
+- **【联系方式与基础画像】**OEM Automatic spol. s r.o.(Zdiby/Praha;oemautomatic.cz;**同集团=B-295 OEM Automatic AB(Tranås 瑞典,第 9 波已深挖)**;CSV 指明从华沙 oemautomatic.pl(Antaira 授权,+48 22 863 27 22)
+  > OEM Automatic spol. s r.o.(Zdiby/Praha;oemautomatic.cz;**同集团=B-295 OEM Automatic AB(Tranås 瑞典,第 9 波已深挖)**;CSV 指明从华沙 oemautomatic.pl(Antaira 授权,+48 22 863 27 22)
+  > 来源：https://oemautomatic.cz/
+- **【联系方式与基础画像】**CSV 入口:官网联系页（HMS 名录只公开地址与网址）
+  > CSV 入口:官网联系页（HMS 名录只公开地址与网址）
+  > 来源：https://oemautomatic.cz/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -140,7 +145,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:集团背书(见 B-295) / W:区域执行体,开口权在集团 / O:随集团开口果自动受惠 / T:双头开口自乱
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -168,8 +173,8 @@ S:集团背书(见 B-295) / W:区域执行体,开口权在集团 / O:随集团�
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 捷克站采购自主度(集团 or 本地)
-  - [ ] CZ 客层与 PL 站的分工
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -178,21 +183,15 @@ S:集团背书(见 B-295) / W:区域执行体,开口权在集团 / O:随集团�
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：Rugged 8-port PoE for outdoor/unheated cabinets
+**主题**：PoE switching for your line
 
 ```text
-Hi OEM,
+Dear OEM Automatic spol. s r.o. Team,
 
-I came across OEM Automatic spol. s r.o. - 分销（HMS/N-Tron·Red Lion 渠道）.
+We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build an unmanaged industrial 8-port PoE switch (af/at) with 250m extended reach, redundant 44–57V DC input with reverse-polarity protection, DIN-rail mount and a 3-year warranty. Reference: $74.8 USD EXW.
-
-One question: (集团开口后)CZ 站 N-Tron 旁 value DIN 轨位
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

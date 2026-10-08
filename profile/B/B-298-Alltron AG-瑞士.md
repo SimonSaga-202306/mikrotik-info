@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Alltron AG(Mägenwil, Switzerland;Competec/Brack.Alltron 集团；**Andrej Golob = Chief Sales Officer of Brack.Alltr…
+- **是谁**：波 30·B-298:瑞士谱: **守档准由·原 R65/R57 谱基增厚**:Alltron AG(Mägenwil Hintermättlistrasse 3;1985 创,**Competec/Brack.Allt…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 瑞士分销巨头的 Hanwha 监控谱随单 value PoE 架位(Installateure 客层)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Alltron AG(Mägenwil, Switzerland;Competec/Brack.Alltron 集团；**Andrej Golob = Chief Sales Officer of Brack.Alltron + Executive Director of Alltron AG(2021-02 前 Alltron CEO)+主席谱位**;St | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】瑞士分销巨物:Hanwha 视频监控谱=PoE 随单天然(监控安装商);培训面授班=教具位影子;Brack.Alltron 电商+批发双引擎 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 30·B-298:瑞士谱: **守档准由·原 R65/R57 谱基增厚**:Alltron AG(Mägenwil Hintermättlistrasse 3;1985 创,**Competec/Brack.Alltron 集团旗下**;~$677M 营收,**20 万+ SKU 自仓**;Fachhandel/Integratoren/Installa | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Alltron AG(Mägenwil Hintermättlistrasse 3;1985 创,**Competec/Brack.Alltron 集团旗下**;~$677M 营收,**20 万+ SKU 自仓**;Fachhandel/Integratoren/Installateure;Alltron Solutions 增值 Competence Center;**开网络面授培训课(Grundkurs/Aufbaukurs)**;Cisco 老牌搭档;**Hanwha Techwin 视频监控分销**;Disti Award 2019 Broadliner) | R65 深挖:瑞士 Competec 大集团谱;280K SKU 批发
-- 【推断】瑞士分销巨物:Hanwha 视频监控谱=PoE 随单天然(监控安装商);培训面授班=教具位影子;Brack.Alltron 电商+批发双引擎
-- 【假设】开口角度=「Hanwha 监控谱随单+网络架 value PoE 档」:STC-424 以其 Installateure 客层的监控项目随单位入架
+- 【事实】波 30·B-298:瑞士谱: **守档准由·原 R65/R57 谱基增厚**:Alltron AG(Mägenwil Hintermättlistrasse 3;1985 创,**Competec/Brack.Alltron 集团旗下**;~$677M 营收,**20 万+ SKU 自仓**;Fachhandel/Integratoren/Installateure;Alltron Solutions 增值 Competence Center;**开网络面授培训课(Grundkurs/Aufbaukurs)**;Cisco 老牌搭档;**Hanwha Techwin 视频监控分销**;Disti Award 2019 Broadliner) | R65 深挖:瑞士 Competec 大集团谱;280K SKU 批发;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第10波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 30 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】瑞士分销巨物:Hanwha 视频监控谱=PoE 随单天然(监控安装商);培训面授班=教具位影子;Brack.Alltron 电商+批发双引擎
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -92,50 +92,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · Hanwha 随单对照页
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「Hanwha 监控谱随单+网络架 value PoE 档」:STC-424 以其 Installateure 客层的监控项目随单位入架
-- **要问的问题**：你们 Hanwha 监控项目随单的 PoE 交换现供哪家?Installateure 客层 value 档有位吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · mail@alltron.ch 开口
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「Hanwha 监控谱随单+网络架 value PoE 档」:STC-424 以其 Installateure 客层的监控项目随单位入架
-- **要问的问题**：你们 Hanwha 监控项目随单的 PoE 交换现供哪家?Installateure 客层 value 档有位吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「Hanwha 监控谱随单+网络架 value PoE 档」:STC-424 以其 Installateure 客层的监控项目随单位入架
-- **要问的问题**：你们 Hanwha 监控项目随单的 PoE 交换现供哪家?Installateure 客层 value 档有位吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 14 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第14批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
 
-- **背景深描**：Alltron AG(Mägenwil, Switzerland;Competec/Brack.Alltron 集团；**Andrej Golob = Chief Sales Officer of Brack.Alltron + Executive Director of Alltron AG(2021-02 前 Alltron CEO)+主席谱位**;Stefan Fraude = CEO Brack.Alltron;Markus Mahler Verwaltungsrat 董事（2008 创；曾 Brack+Alltron CEO)；谱型=瑞士 IT/消费电 280,000+ SKU 批发；Fachhandel/Integrators/Installateurs 航道
-- **芯片与在用型号**：【推断】瑞士分销巨物:Hanwha 视频监控谱=PoE 随单天然(监控安装商);培训面授班=教具位影子;Brack.Alltron 电商+批发双引擎
-- **关键人KP**：Andrej Golob = Chief Sales Officer Brack.Alltron+Executive Director Alltron AG;Stefan Fraude = CEO Brack.Alltron
-- **关注点与资质**：MikroTik（Reseller） 
-- **优缺点SWOT**：S:瑞士巨头+20 万 SKU 仓+Hanwha 监控谱+培训 / W:Cisco/大牌绑定深 / O:监控随单 value PoE 档(+教具影子) / T:Broadliner 谱内挤
-- **Saga产品适配**：瑞士分销巨头的 Hanwha 监控谱随单 value PoE 架位(Installateure 客层)
+- **背景深描**：波 30·B-298:瑞士谱: **守档准由·原 R65/R57 谱基增厚**:Alltron AG(Mägenwil Hintermättlistrasse 3;1985 创,**Competec/Brack.Alltron 集团旗下**;~$677M 营收,**20 万+ SKU 自仓**;Fachhandel/Integratoren/Installateure;Alltron Solutions 增值 Competence Center;**开网络面授培训课(Grundkurs/Aufbaukurs)**;Cisco 老牌搭档;**Hanwha Techwin 视频监控分销**;Disti Award 2019 Broadliner) | R65 深挖:瑞士 Competec 大集团谱;280K SKU 批发;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第10波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
+- **关注点与资质**：瑞士 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**Mehr als 200'000 Produkte ab eigenem Lager…Revenue $677.61M…Alltron wird Distributor für Hanwha Techwin(Videoüberwachungssysteme)
-  > Mehr als 200'000 Produkte ab eigenem Lager…Revenue $677.61M…Alltron wird Distributor für Hanwha Techwin(Videoüberwachungssysteme)
-  > 来源：https://www.ineltec.ch/de/p/alltron-ag.137297
-- **【R57备护深挖证据】**Netzwerk- und Internettechnologie Grundkurs/Aufbaukurs(Präsenzkurs), Alltron AG Mägenwil
-  > Netzwerk- und Internettechnologie Grundkurs/Aufbaukurs(Präsenzkurs), Alltron AG Mägenwil
-  > 来源：https://www.it-markt.ch/news/2020-09-21/
-- **【R65 集团联动】**Alltron AG Mägenwil · Competec Group 属 · 280K SKU 批发 · Golob CSO/Executive Director · Fraude CEO · Mahler 董事
-  > Februar 2021 war ich CEO der Alltron AG … seit September 2024 Chief Sales Officer von Brack.Alltron und Executive Director der Alltron AG … Markus Mahler … seit 2008 Teil von Brack.Alltron
-  > 来源：https://brackalltron.ch/%C3%BCber-uns/organisation
+- **【联系方式与基础画像】**Alltron AG(Mägenwil Hintermättlistrasse 3;1985 创,**Competec/Brack.Alltron 集团旗下**;~$677M 营收,**20 万+ SKU 自仓**;Fachhandel/Integratoren/Installateure;Alltron Soluti
+  > Alltron AG(Mägenwil Hintermättlistrasse 3;1985 创,**Competec/Brack.Alltron 集团旗下**;~$677M 营收,**20 万+ SKU 自仓**;Fachhandel/Integratoren/Installateure;Alltron Soluti
+  > 来源：https://alltron.ch/
+- **【联系方式与基础画像】**CSV 入口:062 889 88 88 / mail@alltron.ch
+  > CSV 入口:062 889 88 88 / mail@alltron.ch
+  > 来源：https://alltron.ch/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -148,7 +145,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:瑞士巨头+20 万 SKU 仓+Hanwha 监控谱+培训 / W:Cisco/大牌绑定深 / O:监控随单 value PoE 档(+教具影子) / T:Broadliner 谱内挤
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -176,8 +173,8 @@ S:瑞士巨头+20 万 SKU 仓+Hanwha 监控谱+培训 / W:Cisco/大牌绑定深 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] Hanwha 随单 PoE 现供品牌与价位
-  - [ ] Brack.Alltron 新品牌入架门槛
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -186,21 +183,15 @@ S:瑞士巨头+20 万 SKU 仓+Hanwha 监控谱+培训 / W:Cisco/大牌绑定深 
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Alltron team,
+Dear Alltron AG Team,
 
-Two hundred thousand SKUs in your own warehouse, Hanwha video surveillance on the line card, and network training courses in Mägenwil - your installers walk out with cameras and need the PoE muscle behind them.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/German documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit your Installateure can pull on the same order as the Hanwha kit, white-label friendly.
-
-One question: inside your surveillance and network assortments, which 24-port managed PoE switch rides along with camera projects today - and is there a value slot for a documented unit?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：SHOP-GSM.NET(乌克兰基辅 Preobrazhenska 23):2007 创 M2M/IoT/LoRaWAN/VoIP/GSM 方案店;MikroTik 官方 reseller + **Teltonika 官…
+- **是谁**：波 29·B-024:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:SHOP-GSM.NET(乌克兰基辅 Preobrazhenska 23):2007 创 M2M/IoT/LoRaWAN/VoIP/GSM…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — M2M/IoT 先锋案的 DIN 轨 PoE 细支位:温宽 8 口最对口蜂窝/传感支线；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | SHOP-GSM.NET(乌克兰基辅 Preobrazhenska 23):2007 创 M2M/IoT/LoRaWAN/VoIP/GSM 方案店;MikroTik 官方 reseller + **Teltonika 官方分销 + Huaptec/Hiboost 独家分销** + OpenVox + Grandstream + Nextivity;10+ 年 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】M2M/IoT/蜂窝谱是先锋盘面（Huaptec 独家、Teltonika 面）,MikroTik 是配送位;蜂窝 M2M/网关/传感器部署接线端=PoE 是加温档 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 29·B-024:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:SHOP-GSM.NET(乌克兰基辅 Preobrazhenska 23):2007 创 M2M/IoT/LoRaWAN/VoIP/GSM 方案店;MikroTik 官方 reseller + **Teltonika 官方分销 + Huaptec/Hiboost 独家分销**  | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】SHOP-GSM.NET(乌克兰基辅 Preobrazhenska 23):2007 创 M2M/IoT/LoRaWAN/VoIP/GSM 方案店;MikroTik 官方 reseller + **Teltonika 官方分销 + Huaptec/Hiboost 独家分销** + OpenVox + Grandstream + Nextivity;10+ 年 M2M IoT 工程团队
-- 【推断】M2M/IoT/蜂窝谱是先锋盘面（Huaptec 独家、Teltonika 面）,MikroTik 是配送位;蜂窝 M2M/网关/传感器部署接线端=PoE 是加温档
-- 【假设】开口角度=「M2M/IoT 项目部署的 PoE（蜂窝+传感器+视频监控的工业 DIN 轨）细支线」——STI-288GP 温宽 DIN 轨比 STC-424 用来服务 M2M/IoT 网更对口
+- 【事实】波 29·B-024:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:SHOP-GSM.NET(乌克兰基辅 Preobrazhenska 23):2007 创 M2M/IoT/LoRaWAN/VoIP/GSM 方案店;MikroTik 官方 reseller + **Teltonika 官方分销 + Huaptec/Hiboost 独家分销** + OpenVox + Grandstream + Nextivity;10+ 年 M2M IoT 工程团队;R66 第 29 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第2波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 29 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】M2M/IoT/蜂窝谱是先锋盘面（Huaptec 独家、Teltonika 面）,MikroTik 是配送位;蜂窝 M2M/网关/传感器部署接线端=PoE 是加温档
+STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -69,7 +69,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- SHOP-GSM.NET(乌克兰基辅 Preobrazhenska 23):2007 创 M2M/IoT/LoRaWAN/VoIP/GSM 方案店;MikroTik 官方 reseller + **Teltonika 官方分销 + Huaptec/Hiboost 独家分销** + OpenVox + Grandstream + Nextivity;10+ 年 M2M IoT 工程团队
+- 波 29·B-024:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:SHOP-GSM.NET(乌克兰基辅 Preobrazhenska 23):2007 创 M2M/IoT/LoRaWAN/VoIP/GSM 方案店;MikroTik 官方 reseller + **Teltonika 官方分销 + Huaptec/Hiboost 独家分销** + OpenVox + Grandstream + Nextivity;10+ 年 M2M IoT 工程团队;R66 第 29 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第2波.json,先报价不回、档案铺位、持续关注新一季,OK。
 
 ## 联系方式（已有/猜测分标）
 
@@ -87,47 +87,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · DIN 轨样张+温宽测试包
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「M2M/IoT 项目部署的 PoE（蜂窝+传感器+视频监控的工业 DIN 轨）细支线」——STI-288GP 温宽 DIN 轨比 STC-424 用来服务 M2M/IoT 网更对口
-- **要问的问题**：你们的 M2M/LoRaWAN 项目现场（汇柜/传感支站）DIN 轨 PoE 现供哪家？Teltonika 内配之外有没有第二源？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · 样机提议
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「M2M/IoT 项目部署的 PoE（蜂窝+传感器+视频监控的工业 DIN 轨）细支线」——STI-288GP 温宽 DIN 轨比 STC-424 用来服务 M2M/IoT 网更对口
-- **要问的问题**：你们的 M2M/LoRaWAN 项目现场（汇柜/传感支站）DIN 轨 PoE 现供哪家？Teltonika 内配之外有没有第二源？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「M2M/IoT 项目部署的 PoE（蜂窝+传感器+视频监控的工业 DIN 轨）细支线」——STI-288GP 温宽 DIN 轨比 STC-424 用来服务 M2M/IoT 网更对口
-- **要问的问题**：你们的 M2M/LoRaWAN 项目现场（汇柜/传感支站）DIN 轨 PoE 现供哪家？Teltonika 内配之外有没有第二源？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
 
-- **背景深描**：SHOP-GSM.NET(乌克兰基辅 Preobrazhenska 23):2007 创 M2M/IoT/LoRaWAN/VoIP/GSM 方案店;MikroTik 官方 reseller + **Teltonika 官方分销 + Huaptec/Hiboost 独家分销** + OpenVox + Grandstream + Nextivity;10+ 年 M2M IoT 工程团队
-- **芯片与在用型号**：【推断】M2M/IoT/蜂窝谱是先锋盘面（Huaptec 独家、Teltonika 面）,MikroTik 是配送位;蜂窝 M2M/网关/传感器部署接线端=PoE 是加温档
-- **关键人KP**：—
-- **关注点与资质**：MikroTik（Reseller） 
-- **优缺点SWOT**：S:M2M/IoT 先锋谱+独家埠径 / W:蜂窝主位非交换支 / O:M2M 项目 DIN 轨 PoE 细支 / T:Teltonika 官谱总有疑似品
-- **Saga产品适配**：M2M/IoT 先锋案的 DIN 轨 PoE 细支位:温宽 8 口最对口蜂窝/传感支线
+- **背景深描**：波 29·B-024:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:SHOP-GSM.NET(乌克兰基辅 Preobrazhenska 23):2007 创 M2M/IoT/LoRaWAN/VoIP/GSM 方案店;MikroTik 官方 reseller + **Teltonika 官方分销 + Huaptec/Hiboost 独家分销** + OpenVox + Grandstream + Nextivity;10+ 年 M2M IoT 工程团队;R66 第 29 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第2波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
+- **关注点与资质**：乌克兰 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
+- **Saga产品适配**：STI-288GP vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**2G, 3G, 4G, Wi-Fi, M2M, IoT, LoRaWAN, VoIP рішення
-  > 2G, 3G, 4G, Wi-Fi, M2M, IoT, LoRaWAN, VoIP рішення
-  > 来源：https://www.facebook.com/shopgsm/
-- **【R57备护深挖证据】**Huaptec (Hiboost) – ексклюзивний дистриб'ютор; Teltonika – офіційний дистриб'ютор…OpenVox…Grandstream…Nextivity
-  > Huaptec (Hiboost) – ексклюзивний дистриб'ютор; Teltonika – офіційний дистриб'ютор…OpenVox…Grandstream…Nextivity
-  > 来源：https://www.youtube.com/c/Shop-gsmNet/videos
+- **【联系方式与基础画像】**SHOP-GSM.NET(乌克兰基辅 Preobrazhenska 23):2007 创 M2M/IoT/LoRaWAN/VoIP/GSM 方案店;MikroTik 官方 reseller + **Teltonika 官方分销 + Huaptec/Hiboost 独家分销** + OpenVox + Grandstre
+  > SHOP-GSM.NET(乌克兰基辅 Preobrazhenska 23):2007 创 M2M/IoT/LoRaWAN/VoIP/GSM 方案店;MikroTik 官方 reseller + **Teltonika 官方分销 + Huaptec/Hiboost 独家分销** + OpenVox + Grandstre
+  > 来源：https://shop-gsm.ua/
+- **【联系方式与基础画像】**CSV 入口:+380 44 361 13 34 / info@shop-gsm.net
+  > CSV 入口:+380 44 361 13 34 / info@shop-gsm.net
+  > 来源：https://shop-gsm.ua/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -140,7 +140,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:M2M/IoT 先锋谱+独家埠径 / W:蜂窝主位非交换支 / O:M2M 项目 DIN 轨 PoE 细支 / T:Teltonika 官谱总有疑似品
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -168,8 +168,8 @@ S:M2M/IoT 先锋谱+独家埠径 / W:蜂窝主位非交换支 / O:M2M 项目 DIN
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] M2M/LoRaWAN 项目的 DIN 轨 PoE 部署谱密度
-  - [ ] Teltonika 官方谱内是否已覆盖 DIN 轨 PoE 这部分
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -178,21 +178,15 @@ S:M2M/IoT 先锋谱+独家埠径 / W:蜂窝主位非交换支 / O:M2M 项目 DIN
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi SHOP-GSM team,
+Dear SHOP-GSM.NET Team,
 
-M2M/IoT pioneers with Huaptec exclusive rights, Teltonika official distribution, and a real LoRaWAN/cellular deployment history - your field cabinets are solving power and connectivity for the messiest edge cases.
+We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - the right size for sensor branches and cellular edge kits.
-
-One question: for your M2M/LoRaWAN field cabinets, which DIN-rail PoE switch are you standardizing on alongside the Teltonika gear - and is there room for a documented second source?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

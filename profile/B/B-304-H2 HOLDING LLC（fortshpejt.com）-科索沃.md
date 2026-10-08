@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：H2 HOLDING LLC / fortshpejt.com（科索沃 Prishtina;R57 已描谱；R65 搜索无果=守档准由）…
+- **是谁**：波 30·B-304:科索沃谱: **守档准由·原 R65/R57 谱基增厚**:H2 HOLDING LLC / FortShpejt(Prishtina Veternik M2 25;fortshpejt.com=自…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — Hitcom 系电商谱的商用 PoE 补位档；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | H2 HOLDING LLC / fortshpejt.com（科索沃 Prishtina;R57 已描谱；R65 搜索无果=守档准由） | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】Hitcom 系科索沃站:分销家族+电商门面双体,科索沃市场上 MikroTik Reseller 名头在架 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 30·B-304:科索沃谱: **守档准由·原 R65/R57 谱基增厚**:H2 HOLDING LLC / FortShpejt(Prishtina Veternik M2 25;fortshpejt.com=自家分销科技品的电商平台,亦开放第三方分销商入驻;**母集团线:北马其顿 Hitcom 谱(hitcom.mk Retail Segment  | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】H2 HOLDING LLC / FortShpejt(Prishtina Veternik M2 25;fortshpejt.com=自家分销科技品的电商平台,亦开放第三方分销商入驻;**母集团线:北马其顿 Hitcom 谱(hitcom.mk Retail Segment 由 H2 HOLDING LLC 运营),巴尔干分销家族成员**;info@fortshpejt.com) | R65 深挖:科索沃谱守档准由
-- 【推断】Hitcom 系科索沃站:分销家族+电商门面双体,科索沃市场上 MikroTik Reseller 名头在架
-- 【假设】开口角度=「巴尔干分销家族电商谱的 PoE 补位」:STC-424 主力,附 Hitcom 集团确认问句
+- 【事实】波 30·B-304:科索沃谱: **守档准由·原 R65/R57 谱基增厚**:H2 HOLDING LLC / FortShpejt(Prishtina Veternik M2 25;fortshpejt.com=自家分销科技品的电商平台,亦开放第三方分销商入驻;**母集团线:北马其顿 Hitcom 谱(hitcom.mk Retail Segment 由 H2 HOLDING LLC 运营),巴尔干分销家族成员**;info@fortshpejt.com) | R65 深挖:科索沃谱守档准由;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第12波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 30 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】Hitcom 系科索沃站:分销家族+电商门面双体,科索沃市场上 MikroTik Reseller 名头在架
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -86,50 +86,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · 电商谱 PoE 页
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「巴尔干分销家族电商谱的 PoE 补位」:STC-424 主力,附 Hitcom 集团确认问句
-- **要问的问题**：你们的电商谱里,24 口 PoE 管理型档现随哪家?(另确认:H2 与 Hitcom 是同一集团吗?)
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · info@fortshpejt.com 开口(附 Hitcom 确认)
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「巴尔干分销家族电商谱的 PoE 补位」:STC-424 主力,附 Hitcom 集团确认问句
-- **要问的问题**：你们的电商谱里,24 口 PoE 管理型档现随哪家?(另确认:H2 与 Hitcom 是同一集团吗?)
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「巴尔干分销家族电商谱的 PoE 补位」:STC-424 主力,附 Hitcom 集团确认问句
-- **要问的问题**：你们的电商谱里,24 口 PoE 管理型档现随哪家?(另确认:H2 与 Hitcom 是同一集团吗?)
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 14 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第14批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
 
-- **背景深描**：H2 HOLDING LLC / fortshpejt.com（科索沃 Prishtina;R57 已描谱；R65 搜索无果=守档准由）
-- **芯片与在用型号**：【推断】Hitcom 系科索沃站:分销家族+电商门面双体,科索沃市场上 MikroTik Reseller 名头在架
-- **关键人KP**：—
-- **关注点与资质**：MikroTik（Reseller） 
-- **优缺点SWOT**：S:Hitcom 系+自营电商 / W:科索沃市场薄 / O:巴尔干分销家族谱放量 / T:关联未证/体量小
-- **Saga产品适配**：Hitcom 系电商谱的商用 PoE 补位档
+- **背景深描**：波 30·B-304:科索沃谱: **守档准由·原 R65/R57 谱基增厚**:H2 HOLDING LLC / FortShpejt(Prishtina Veternik M2 25;fortshpejt.com=自家分销科技品的电商平台,亦开放第三方分销商入驻;**母集团线:北马其顿 Hitcom 谱(hitcom.mk Retail Segment 由 H2 HOLDING LLC 运营),巴尔干分销家族成员**;info@fortshpejt.com) | R65 深挖:科索沃谱守档准由;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第12波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
+- **关注点与资质**：科索沃 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**FortShpejt ësht platformë e shitjes dhe blerjës online (ecommerce), e krijuar nga H2 Holding LLC … Veternik M2 25 Prishtine, Kosove
-  > FortShpejt ësht platformë e shitjes dhe blerjës online (ecommerce), e krijuar nga H2 Holding LLC … Veternik M2 25 Prishtine, Kosove
-  > 来源：https://fortshpejt.com/care
-- **【R57备护深挖证据】**Retail Segment … Operated by: H2 HOLDING LLC With registered adddress: Veternik M2 25 Prishtina, Kosovo https://fortshpejt.com
-  > Retail Segment … Operated by: H2 HOLDING LLC With registered adddress: Veternik M2 25 Prishtina, Kosovo https://fortshpejt.com
-  > 来源：https://hitcom.mk/consumer/
-- **【R65 查询注】**2026-10-07 搜索无果；守档准由
-  > (web_search 无果）
-  > 来源：（沙箱日志）
+- **【联系方式与基础画像】**H2 HOLDING LLC / FortShpejt(Prishtina Veternik M2 25;fortshpejt.com=自家分销科技品的电商平台,亦开放第三方分销商入驻;**母集团线:北马其顿 Hitcom 谱(hitcom.mk Retail Segment 由 H2 HOLDING LLC 运营),
+  > H2 HOLDING LLC / FortShpejt(Prishtina Veternik M2 25;fortshpejt.com=自家分销科技品的电商平台,亦开放第三方分销商入驻;**母集团线:北马其顿 Hitcom 谱(hitcom.mk Retail Segment 由 H2 HOLDING LLC 运营),
+  > 来源：https://fortshpejt.com/
+- **【联系方式与基础画像】**CSV 入口:+383 46 150 051 / info@fortshpejt.com
+  > CSV 入口:+383 46 150 051 / info@fortshpejt.com
+  > 来源：https://fortshpejt.com/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -142,7 +139,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:Hitcom 系+自营电商 / W:科索沃市场薄 / O:巴尔干分销家族谱放量 / T:关联未证/体量小
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -170,8 +167,8 @@ S:Hitcom 系+自营电商 / W:科索沃市场薄 / O:巴尔干分销家族谱放
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] H2 与 Hitcom 股权/集团关系
-  - [ ] 网通谱现存档位
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -180,21 +177,15 @@ S:Hitcom 系+自营电商 / W:科索沃市场薄 / O:巴尔干分销家族谱放
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi FortShpejt team,
+Dear H2 HOLDING LLC（fortshpejt. Team,
 
-H2 Holding running its own e-commerce shelf in Prishtina, with the Hitcom family behind it across the Balkans - a distribution family that knows how a well-documented value SKU moves through a regional network.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit for your tech shelf, white-label friendly.
-
-One question: on your networking shelf, whose 24-port managed PoE switch fills the value slot today? (And a quick one: should we treat H2 and Hitcom as the same group for follow-ups?)
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Grzegorz Śliwiński(R65 搜索/核验：波兰谱；R65 搜索无果；守档准由）…
+- **是谁**：波 30·B-264:波兰谱: **守档准由·原 R65/R57 谱基增厚**:Grzegorz Śliwiński(Szczecin;**dr inż. 博士讲师,ZUT(西波美拉尼亚理工大学)信息学院 MikroTi…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — ZUT 高校 MikroTik Academy 的批量对照教具位(已有 TP-Link 对照先例,我们申请第二对照牌)；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 未明 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Grzegorz Śliwiński(R65 搜索/核验：波兰谱；R65 搜索无果；守档准由） | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】高校 Academy 批量教具画像:实验台按教学班组数配置(64 台 TP-Link 交换证明『非 MikroTik 对照品牌』已在教具体系)——我们是可以进教材的第二对照厂牌,且高 校采购讲文档与合规,批量教具可达数十台 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 30·B-264:波兰谱: **守档准由·原 R65/R57 谱基增厚**:Grzegorz Śliwiński(Szczecin;**dr inż. 博士讲师,ZUT(西波美拉尼亚理工大学)信息学院 MikroTik Academy 签约培训师(2023 起)**;26 年网络经验;**学院实验室证册:4 教室+60 PC+4 RACK 柜+112 台 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Grzegorz Śliwiński(Szczecin;**dr inż. 博士讲师,ZUT(西波美拉尼亚理工大学)信息学院 MikroTik Academy 签约培训师(2023 起)**;26 年网络经验;**学院实验室证册:4 教室+60 PC+4 RACK 柜+112 台 MikroTik 路由+64 台 TP-Link L3/L4 交换机+4 节点 VMware 集群**;双 trainer 制(与 dr inż. Maciej Roszkowski);2026-06 仍在开 MTCNA 考试,带过数千学生) | R65 深挖:波兰谱；R65 搜索无果；R65 守档准由
-- 【推断】高校 Academy 批量教具画像:实验台按教学班组数配置(64 台 TP-Link 交换证明『非 MikroTik 对照品牌』已在教具体系)——我们是可以进教材的第二对照厂牌,且高 校采购讲文档与合规,批量教具可达数十台
-- 【假设】开口角度=「112 台 MikroTik 路由旁的 PoE 交换对照教具位(学院批量)」:STC-28DGGPM 以『文档全、可写进实验指导书、按教学班批量』提案
+- 【事实】波 30·B-264:波兰谱: **守档准由·原 R65/R57 谱基增厚**:Grzegorz Śliwiński(Szczecin;**dr inż. 博士讲师,ZUT(西波美拉尼亚理工大学)信息学院 MikroTik Academy 签约培训师(2023 起)**;26 年网络经验;**学院实验室证册:4 教室+60 PC+4 RACK 柜+112 台 MikroTik 路由+64 台 TP-Link L3/L4 交换机+4 节点 VMware 集群**;双 trainer 制(与 dr inż. Maciej Roszkowski);2026-06 仍在开 MTCNA 考试,带过数千学生) | R65 深挖:波兰谱；R65 搜索无果；R65 守档准由;R66 第 30 波谱:我司 STC-28DGGPM(8-port PoE access box (802.3af/at, watchdog)($99 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第8波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 30 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】高校 Academy 批量教具画像:实验台按教学班组数配置(64 台 TP-Link 交换证明『非 MikroTik 对照品牌』已在教具体系)——我们是可以进教材的第二对照厂牌,且高 校采购讲文档与合规,批量教具可达数十台
+STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -86,50 +86,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM（8口 PoE 接入盒）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · 教具批量+教材合作一页
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「112 台 MikroTik 路由旁的 PoE 交换对照教具位(学院批量)」:STC-28DGGPM 以『文档全、可写进实验指导书、按教学班批量』提案
-- **要问的问题**：您实验室 64 台 TP-Link 做交换对照——PoE 段要不要第二对照厂牌?文档全可写进实验指导书,按教学班批量供。
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · gsliwinski@zut.edu.pl 具名
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「112 台 MikroTik 路由旁的 PoE 交换对照教具位(学院批量)」:STC-28DGGPM 以『文档全、可写进实验指导书、按教学班批量』提案
-- **要问的问题**：您实验室 64 台 TP-Link 做交换对照——PoE 段要不要第二对照厂牌?文档全可写进实验指导书,按教学班批量供。
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「112 台 MikroTik 路由旁的 PoE 交换对照教具位(学院批量)」:STC-28DGGPM 以『文档全、可写进实验指导书、按教学班批量』提案
-- **要问的问题**：您实验室 64 台 TP-Link 做交换对照——PoE 段要不要第二对照厂牌?文档全可写进实验指导书,按教学班批量供。
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 23 批精修收尾 = R57 转写 + 本轮调研/守档)**；原始记录：`batch/B类深挖_2026-10-07_R65_第23批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
 
-- **背景深描**：Grzegorz Śliwiński(R65 搜索/核验：波兰谱；R65 搜索无果；守档准由）
-- **芯片与在用型号**：【推断】高校 Academy 批量教具画像:实验台按教学班组数配置(64 台 TP-Link 交换证明『非 MikroTik 对照品牌』已在教具体系)——我们是可以进教材的第二对照厂牌,且高 校采购讲文档与合规,批量教具可达数十台
-- **关键人KP**：—
-- **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCRE 
-- **优缺点SWOT**：S:博士讲师+官方 Academy+数千学生影响力 / W:高校采购流程慢 / O:批量对照教具(数十台级)+教材入谱 / T:MikroTik Academy 官方排他顾虑
-- **Saga产品适配**：ZUT 高校 MikroTik Academy 的批量对照教具位(已有 TP-Link 对照先例,我们申请第二对照牌)
+- **背景深描**：波 30·B-264:波兰谱: **守档准由·原 R65/R57 谱基增厚**:Grzegorz Śliwiński(Szczecin;**dr inż. 博士讲师,ZUT(西波美拉尼亚理工大学)信息学院 MikroTik Academy 签约培训师(2023 起)**;26 年网络经验;**学院实验室证册:4 教室+60 PC+4 RACK 柜+112 台 MikroTik 路由+64 台 TP-Link L3/L4 交换机+4 节点 VMware 集群**;双 trainer 制(与 dr inż. Maciej Roszkowski);2026-06 仍在开 MTCNA 考试,带过数千学生) | R65 深挖:波兰谱；R65 搜索无果；R65 守档准由;R66 第 30 波谱:我司 STC-28DGGPM(8-port PoE access box (802.3af/at, watchdog)($99 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第8波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
+- **关注点与资质**：波兰 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-28DGGPM 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-28DGGPM vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**Laboratoria Sieci Komputerowych: 4 sale dydaktyczne 60 komputerów 4 szafy RACK z wyposażeniem 112 routerów MikroTik 64 przełączniki TP-Link 
-  > Laboratoria Sieci Komputerowych: 4 sale dydaktyczne 60 komputerów 4 szafy RACK z wyposażeniem 112 routerów MikroTik 64 przełączniki TP-Link L3/L4 4 node klaster VMware
-  > 来源：https://gsliwinski.wi.zut.edu.pl/
-- **【R57备护深挖证据】**W 2023 roku Wydział Informatyki ZUT podpisał porozumienie o szkoleniach w ramach Akademii MikroTik…trenerzy MikroTik: Maciej Roszkowski oraz
-  > W 2023 roku Wydział Informatyki ZUT podpisał porozumienie o szkoleniach w ramach Akademii MikroTik…trenerzy MikroTik: Maciej Roszkowski oraz Grzegorz Śliwiński
-  > 来源：https://gsliwinski.wi.zut.edu.pl/
-- **【R65 查询注】**2026-10-07 搜索/同名核验：波兰谱；R65 搜索无果
-  > (R65 同名实体验证日志）
-  > 来源：(R65 核验日志）
+- **【联系方式与基础画像】**Grzegorz Śliwiński(Szczecin;**dr inż. 博士讲师,ZUT(西波美拉尼亚理工大学)信息学院 MikroTik Academy 签约培训师(2023 起)**;26 年网络经验;**学院实验室证册:4 教室+60 PC+4 RACK 柜+112 台 MikroTik 路由+64 台 TP
+  > Grzegorz Śliwiński(Szczecin;**dr inż. 博士讲师,ZUT(西波美拉尼亚理工大学)信息学院 MikroTik Academy 签约培训师(2023 起)**;26 年网络经验;**学院实验室证册:4 教室+60 PC+4 RACK 柜+112 台 MikroTik 路由+64 台 TP
+  > 来源：仓内:roster
+- **【联系方式与基础画像】**CSV 入口:gsliwinski@zut.edu.pl（西波美拉尼亚理工大学）
+  > CSV 入口:gsliwinski@zut.edu.pl（西波美拉尼亚理工大学）
+  > 来源：仓内:roster
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -142,7 +139,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:博士讲师+官方 Academy+数千学生影响力 / W:高校采购流程慢 / O:批量对照教具(数十台级)+教材入谱 / T:MikroTik Academy 官方排他顾虑
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-28DGGPM 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -170,8 +167,8 @@ S:博士讲师+官方 Academy+数千学生影响力 / W:高校采购流程慢 / 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 学院教具采购预算节奏(学年/项目经费)
-  - [ ] TP-Link 64 台采购渠道(捐赠/采购?可复制其路径)
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -180,21 +177,15 @@ S:博士讲师+官方 Academy+数千学生影响力 / W:高校采购流程慢 / 
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Dear Dr. Śliwiński,
+Dear Grzegorz Śliwiński Team,
 
-A university lab running 112 MikroTik routers and 64 TP-Link switches across four RACK cabinets - you already teach with a documented second brand beside MikroTik, which is exactly the pedagogical slot we build for.
+We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a compact 8-port managed PoE+ switch (120W, L2-lite) with full English/Polish documentation - lab-manual-ready, with a complete test pack your students can follow step by step. Reference: $99 USD EXW (2026-09-29), with batch terms for classroom quantities.
-
-One question: for the PoE segment of your laboratory course, would a documented second comparison brand - supplied in classroom quantities with full teaching materials - earn a place in your lab manual?
-
-If useful, I can send one unit with the complete test pack first. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

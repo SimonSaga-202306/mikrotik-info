@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：FASTNET / Matrix Computers 相关域(Ancona, Marche;**谱型回正=FASTNET S.p.A. 马尔凯 EE 电信体**(Fiberwide S.p.A. 集团):Filippo …
+- **是谁**：波 29·B-163:意大利谱: **守档准由·原 R65/R57 谱基增厚**:Giorgio Marchetti - Fastnet(Monsano/Ancona;fastnet.it=**1995 创的 Servi…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 个人顾问备养;雇主为云/DC 运营商(谱外),NOTE 注记防误判；—（合作探询，无量产报价）
@@ -44,20 +44,20 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | FASTNET / Matrix Computers 相关域(Ancona, Marche;**谱型回正=FASTNET S.p.A. 马尔凯 EE 电信体**(Fiberwide S.p.A. 集团):Filippo Loretoni = Amministratore Delegato(CEO);Giorgio Marchetti = Responsabi | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】公司本体是云/DC 运营商(100G 骨干,非我们谱系采购量级);档案记的是其团队成员 Giorgio 个人(三证工程师) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 29·B-163:意大利谱: **守档准由·原 R65/R57 谱基增厚**:Giorgio Marchetti - Fastnet(Monsano/Ancona;fastnet.it=**1995 创的 Service Farm(云/数据中心服务商),Gruppo Fiberwide 旗下**;自有 Tier IV compliant Data Cen | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Giorgio Marchetti - Fastnet(Monsano/Ancona;fastnet.it=**1995 创的 Service Farm(云/数据中心服务商),Gruppo Fiberwide 旗下**;自有 Tier IV compliant Data Center+ISO 27001+100Gbps 网络+Namex Enable 节点+ACN 认证;面向 PMI/PA 数字化;团队持 juniper+mikrotik 证;Giorgio 持 MTCNA+MTCRE+MTCSE) | R65 深挖:意大利电信马尔支队型;Open Fiber 战略合作 + Fiberwide 集团
-- 【推断】公司本体是云/DC 运营商(100G 骨干,非我们谱系采购量级);档案记的是其团队成员 Giorgio 个人(三证工程师)
-- 【假设】守档备养:Giorgio 个人技术对话通道;公司侧 DC 级不在我们谱(100G 骨干),NOTE 注 Fiberwide 集团云商身份防误判为分销客户
+- 【事实】波 29·B-163:意大利谱: **守档准由·原 R65/R57 谱基增厚**:Giorgio Marchetti - Fastnet(Monsano/Ancona;fastnet.it=**1995 创的 Service Farm(云/数据中心服务商),Gruppo Fiberwide 旗下**;自有 Tier IV compliant Data Center+ISO 27001+100Gbps 网络+Namex Enable 节点+ACN 认证;面向 PMI/PA 数字化;团队持 juniper+mikrotik 证;Giorgio 持 MTCNA+MTCRE+MTCSE) | R65 深挖:意大利电信马尔支队型;Open Fiber 战略合作 + Fiberwide 集团;R66 第 29 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第5波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 29 波守档准由谱
+- 【假设】掌件区非商触(非卖品对照架)
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】公司本体是云/DC 运营商(100G 骨干,非我们谱系采购量级);档案记的是其团队成员 Giorgio 个人(三证工程师)
+CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -70,7 +70,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- 波 29·B-163:意大利谱: **守档准由·原 R65/R57 谱基增厚**:Giorgio Marchetti - Fastnet(Monsano/Ancona;fastnet.it=**1995 创的 Service Farm(云/数据中心服务商),Gruppo Fiberwide 旗下**;自有 Tier IV compliant Data Center+ISO 27001+100Gbps 网络+Namex Enable 节点+ACN 认证;面向 PMI/PA 数字化;团队持 juniper+mikrotik 证;Giorgio 持 MTCNA+MTCRE+MTCSE) | R65 深挖:意大利电信马尔支队型;Open Fiber 战略合作 + Fiberwide 集团;R66 第 29 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第5波.json,先报价不回、档案铺位、持续关注新一季,OK。
 
 ## 联系方式（已有/猜测分标）
 
@@ -94,40 +94,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（OEM/白牌合作探询（无量产型号首推）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+14 · 具名技术短引见
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
-- **切入点**：守档备养:Giorgio 个人技术对话通道;公司侧 DC 级不在我们谱(100G 骨干),NOTE 注 Fiberwide 集团云商身份防误判为分销客户
-- **要问的问题**：(个人通道)你在 Fastnet 的 SME 侧项目里,PoE 接入件现见哪些品牌?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：掌件区技术参件
+- **要问的问题**：可否入技术参件对照架名录？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+30 · 放盘
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
-- **切入点**：守档备养:Giorgio 个人技术对话通道;公司侧 DC 级不在我们谱(100G 骨干),NOTE 注 Fiberwide 集团云商身份防误判为分销客户
-- **要问的问题**：(个人通道)你在 Fastnet 的 SME 侧项目里,PoE 接入件现见哪些品牌?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档
+
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 9 批精修 = R57 转写 + 本轮 LinkedIn/登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第9批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
 
-- **背景深描**：FASTNET / Matrix Computers 相关域(Ancona, Marche;**谱型回正=FASTNET S.p.A. 马尔凯 EE 电信体**(Fiberwide S.p.A. 集团):Filippo Loretoni = Amministratore Delegato(CEO);Giorgio Marchetti = Responsabile Commerciale/Sales Manager;Octavio Melendres = Senior Network Engineer;2026-03 TV Centro Marche 专访 Open Fiber 战略协议;Università Politecnica delle Marche 在校谱)
-- **芯片与在用型号**：【推断】公司本体是云/DC 运营商(100G 骨干,非我们谱系采购量级);档案记的是其团队成员 Giorgio 个人(三证工程师)
-- **关键人KP**：Filippo Loretoni = Amministratore Delegato(CEO);Giorgio Marchetti = Sales Manager;Octavio Melendres = Senior Network Engineer
-- **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCRE+MTCSE | 传承人名开口：见 KP 表
-- **优缺点SWOT**：S:三证工程师+DC 雇主背书 / W:公司 DC 级采购不在我们谱 / O:个人顾问通道+集团内 SME 侧留意 / T:误判其雇主为分销客户(100G 级不沾)
-- **Saga产品适配**：个人顾问备养;雇主为云/DC 运营商(谱外),NOTE 注记防误判
+- **背景深描**：波 29·B-163:意大利谱: **守档准由·原 R65/R57 谱基增厚**:Giorgio Marchetti - Fastnet(Monsano/Ancona;fastnet.it=**1995 创的 Service Farm(云/数据中心服务商),Gruppo Fiberwide 旗下**;自有 Tier IV compliant Data Center+ISO 27001+100Gbps 网络+Namex Enable 节点+ACN 认证;面向 PMI/PA 数字化;团队持 juniper+mikrotik 证;Giorgio 持 MTCNA+MTCRE+MTCSE) | R65 深挖:意大利电信马尔支队型;Open Fiber 战略合作 + Fiberwide 集团;R66 第 29 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第5波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
+- **关注点与资质**：意大利 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
+- **Saga产品适配**：CONSULT-OEM 掌件区非卖品对照
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**Dal 1995, siamo la Service Farm di riferimento…Gruppo Fiberwide…Data Center proprietario Tier IV compliant e certificato ISO 27001…rete a 10
-  > Dal 1995, siamo la Service Farm di riferimento…Gruppo Fiberwide…Data Center proprietario Tier IV compliant e certificato ISO 27001…rete a 100Gbps…punto Enable di Namex
-  > 来源：https://www.fastnet.it/azienda/
-- **【R65 谱型+KP】**FASTNET S.p.A.(Gruppo Fiberwide)· Open Fiber 战略协议 2026-03 · Loretoni CEO · Marchetti Sales · Melendres NE
-  > Filippo Loretoni (Amministratore Delegato di Fastnet), Giorgio Marchetti (Responsabile Commerciale) e Octavio Melendres (Senior Network Engineer)… accordo strategico con Open Fiber
-  > 来源：https://fiberwide.com/fastnet-protagonista-dellinnovazione-online-lo-speciale-tv-sullaccordo-strategico-con-open-fiber/
+- **【联系方式与基础画像】**Giorgio Marchetti - Fastnet(Monsano/Ancona;fastnet.it=**1995 创的 Service Farm(云/数据中心服务商),Gruppo Fiberwide 旗下**;自有 Tier IV compliant Data Center+ISO 27001+100Gbps
+  > Giorgio Marchetti - Fastnet(Monsano/Ancona;fastnet.it=**1995 创的 Service Farm(云/数据中心服务商),Gruppo Fiberwide 旗下**;自有 Tier IV compliant Data Center+ISO 27001+100Gbps
+  > 来源：https://fastnet.it/
+- **【联系方式与基础画像】**CSV 入口:g.marchetti@fastnet.it
+  > CSV 入口:g.marchetti@fastnet.it
+  > 来源：https://fastnet.it/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -140,7 +147,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:三证工程师+DC 雇主背书 / W:公司 DC 级采购不在我们谱 / O:个人顾问通道+集团内 SME 侧留意 / T:误判其雇主为分销客户(100G 级不沾)
+S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -168,8 +175,8 @@ S:三证工程师+DC 雇主背书 / W:公司 DC 级采购不在我们谱 / O:个
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] Giorgio 在 Fastnet 的具体角色与外部顾问活
-  - [ ] Fiberwide 集团谱有无 SME 接入侧子牌
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -178,21 +185,10 @@ S:三证工程师+DC 雇主背书 / W:公司 DC 级采购不在我们谱 / O:个
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：Neutral-built PoE switches under your own label
+**主题**：（非卖品掌件区,不出信)
 
 ```text
-Hi Giorgio,
-
-I came across Fastnet - 集成商/顾问（MikroTik 认证）.
-
-We manufacture PoE access switches (Marvell-based, L2+) for OEM/white-label programs - neutral packing, your model numbers, ODM options on request.
-
-One question: (个人通道)你在 Fastnet 的 SME 侧项目里,PoE 接入件现见哪些品牌?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+（掌件区非卖品·CONSULT-OEM 对照架,只做技术参件,不出英文首触信）
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

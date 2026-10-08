@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：eD system a.s.(=B-208「eD's system Czech」**实体映射核正**;Ostrava 大 IT 分销商；**Petr Slouka = výkonný ředitel(执行长）**;Tom…
+- **是谁**：波 29·B-208:捷克谱: **守档准由·原 R65/R57 谱基增厚**:eD system a.s.(Ostrava Novoveská 1262/95;**CZECH TOP 100 榜常客,捷克最大 IT 分…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — CZ-SK-PL 三国九点区域巨头的 value PoE 架位(放量能力强)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | eD system a.s.(=B-208「eD's system Czech」**实体映射核正**;Ostrava 大 IT 分销商；**Petr Slouka = výkonný ředitel(执行长）**;Tomáš Jungmann = obchodní ředitel(商务总监 2020-01 增，Asbis 高级位) ;Patrik Kajúc | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】中东欧三国九点的区域分销巨头:与 AT Computers 同量级赛道;Krakow 点=波兰谱直接入口 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 29·B-208:捷克谱: **守档准由·原 R65/R57 谱基增厚**:eD system a.s.(Ostrava Novoveská 1262/95;**CZECH TOP 100 榜常客,捷克最大 IT 分销之列**;**9 分部横跨 CZ-SK-PL 三国**(Ostrava/Brno/Pardubice/Praha/Bratislava/Ž | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】eD system a.s.(Ostrava Novoveská 1262/95;**CZECH TOP 100 榜常客,捷克最大 IT 分销之列**;**9 分部横跨 CZ-SK-PL 三国**(Ostrava/Brno/Pardubice/Praha/Bratislava/Žilina/Banská Bystrica/Košice/**Krakow**);Master+VAD 名录在册) | R65 深挖:真正的 eD system=捷克大 IT 分销；Slouka 执行长血统
-- 【推断】中东欧三国九点的区域分销巨头:与 AT Computers 同量级赛道;Krakow 点=波兰谱直接入口
-- 【假设】开口角度=「三国九点大架的 value PoE 集团位」:STC-424 开口,其对区域 reseller 的放量能力强
+- 【事实】波 29·B-208:捷克谱: **守档准由·原 R65/R57 谱基增厚**:eD system a.s.(Ostrava Novoveská 1262/95;**CZECH TOP 100 榜常客,捷克最大 IT 分销之列**;**9 分部横跨 CZ-SK-PL 三国**(Ostrava/Brno/Pardubice/Praha/Bratislava/Žilina/Banská Bystrica/Košice/**Krakow**);Master+VAD 名录在册) | R65 深挖:真正的 eD system=捷克大 IT 分销；Slouka 执行长血统;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第10波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 29 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】中东欧三国九点的区域分销巨头:与 AT Computers 同量级赛道;Krakow 点=波兰谱直接入口
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -91,50 +91,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · 三国架位提案
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「三国九点大架的 value PoE 集团位」:STC-424 开口,其对区域 reseller 的放量能力强
-- **要问的问题**：你们横跨三国的 networking 架上,value 24 口 PoE 档现供哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · info@edsystem.cz 开口
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「三国九点大架的 value PoE 集团位」:STC-424 开口,其对区域 reseller 的放量能力强
-- **要问的问题**：你们横跨三国的 networking 架上,value 24 口 PoE 档现供哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「三国九点大架的 value PoE 集团位」:STC-424 开口,其对区域 reseller 的放量能力强
-- **要问的问题**：你们横跨三国的 networking 架上,value 24 口 PoE 档现供哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 13 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第13批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
 
-- **背景深描**：eD system a.s.(=B-208「eD's system Czech」**实体映射核正**;Ostrava 大 IT 分销商；**Petr Slouka = výkonný ředitel(执行长）**;Tomáš Jungmann = obchodní ředitel(商务总监 2020-01 增，Asbis 高级位) ;Patrik Kajúch SK chem 商务总监（2021-01 任）;谱型=捷克 IT 大国分销；Canon 2019 年度最佳分销商获；多地下块
-- **芯片与在用型号**：【推断】中东欧三国九点的区域分销巨头:与 AT Computers 同量级赛道;Krakow 点=波兰谱直接入口
-- **关键人KP**：Petr Slouka = výkonný ředitel(执行长）;Tomáš Jungmann = obchodní ředitel(商务总监）
-- **关注点与资质**：MikroTik（Master+VAD） 
-- **优缺点SWOT**：S:三国九点+CZECH TOP100 / W:巨物决策层多 / O:区域 value PoE 架位 / T:大牌谱内挤
-- **Saga产品适配**：CZ-SK-PL 三国九点区域巨头的 value PoE 架位(放量能力强)
+- **背景深描**：波 29·B-208:捷克谱: **守档准由·原 R65/R57 谱基增厚**:eD system a.s.(Ostrava Novoveská 1262/95;**CZECH TOP 100 榜常客,捷克最大 IT 分销之列**;**9 分部横跨 CZ-SK-PL 三国**(Ostrava/Brno/Pardubice/Praha/Bratislava/Žilina/Banská Bystrica/Košice/**Krakow**);Master+VAD 名录在册) | R65 深挖:真正的 eD system=捷克大 IT 分销；Slouka 执行长血统;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第10波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
+- **关注点与资质**：捷克 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**patří mezi největší distributory IT…CZECH TOP 100…9 poboček (Ostrava, Brno, Pardubice, Praha, Bratislava, Žilina, Banská Bystrica, Košice, K
-  > patří mezi největší distributory IT…CZECH TOP 100…9 poboček (Ostrava, Brno, Pardubice, Praha, Bratislava, Žilina, Banská Bystrica, Košice, Krakow)
-  > 来源：https://www.channeltrends.cz/katalog/distributor/ed-system-a-s/
-- **【R57备护深挖证据】**eD's system Czech, Master Distributor Value Added Distributor, Ostrava
-  > eD's system Czech, Master Distributor Value Added Distributor, Ostrava
-  > 来源：https://altostrat.io/buying/hardware/resellers/europe/czech-republic/
-- **【R65 实体核正】**B-208「eD's system Czech」即 eD system a.s. Ostrava 大 IT 分销；Petr Slouka 长＋ Tomáš Jungmann 商务总监；Canon 2019 年度采购商
-  > Petr Slouka, výkonný ředitel eD system … Tomáš Jungmann je obchodním ředitelem eD system … Ostrava, 5. 6. 2018 - eD system dnes spustil novou webovou prezentaci společnosti www.edsystem.cz
-  > 来源：https://www.edsystem.cz/2018/06/05/distributor-ed-system-predstavil-nove-firemni-internetove-stranky/
+- **【联系方式与基础画像】**eD system a.s.(Ostrava Novoveská 1262/95;**CZECH TOP 100 榜常客,捷克最大 IT 分销之列**;**9 分部横跨 CZ-SK-PL 三国**(Ostrava/Brno/Pardubice/Praha/Bratislava/Žilina/Banská Bystric
+  > eD system a.s.(Ostrava Novoveská 1262/95;**CZECH TOP 100 榜常客,捷克最大 IT 分销之列**;**9 分部横跨 CZ-SK-PL 三国**(Ostrava/Brno/Pardubice/Praha/Bratislava/Žilina/Banská Bystric
+  > 来源：https://edshop.edsystem.cz/
+- **【联系方式与基础画像】**CSV 入口:+420 597 444 111 / info@edsystem.cz
+  > CSV 入口:+420 597 444 111 / info@edsystem.cz
+  > 来源：https://edshop.edsystem.cz/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -147,7 +144,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:三国九点+CZECH TOP100 / W:巨物决策层多 / O:区域 value PoE 架位 / T:大牌谱内挤
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -175,8 +172,8 @@ S:三国九点+CZECH TOP100 / W:巨物决策层多 / O:区域 value PoE 架位 /
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] networking 品类 value 品牌谱
-  - [ ] 波兰(Krakow)谱与捷克谱的采购关系
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -185,21 +182,15 @@ S:三国九点+CZECH TOP100 / W:巨物决策层多 / O:区域 value PoE 架位 /
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi eD system team,
+Dear eD's system Czech Team,
 
-Nine branches across Czechia, Slovakia and Poland, perennial CZECH TOP 100 member - when a product lands on your shelf, it reaches three countries at once.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Czech/Polish documentation. Reference: $180 USD EXW (2026-09-29) - the value-tier PoE stocking SKU for your regional reseller network, white-label friendly.
-
-One question: across your three-country shelf, which brand holds the value 24-port managed PoE tier today - and what does a new-vendor pilot look like?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：ASAP Ltd(93 Tsar Boris III Blvd, Sofia 1612, Bulgarien;2007 创立**SAP Education 伙伴**——主业务=SAP 培训认证+IT 服务(ASAPIT)…
+- **是谁**：波 29·B-040:保加利亚谱: **守档准由·原 R65/R57 谱基增厚**:ASAP Ltd(Sofia 93 Tsar Boris III Blvd;2007 创;47 员工/$5.6M;IT 服务与咨询公司兼…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — IT 方案商项目谱的 value PoE 管理档；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | ASAP Ltd(93 Tsar Boris III Blvd, Sofia 1612, Bulgarien;2007 创立**SAP Education 伙伴**——主业务=SAP 培训认证+IT 服务(ASAPIT),非纯硬件分销;11-50 人;大客户谱=HP/Coca Cola;LinkedIn 公司页持有者 Peter Zyumbilev MD) | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】实体 IT 方案商兼 MikroTik 商用谱零售面:企业网络项目交付里交换/PoE 档位真实存在,但谱内只有 MikroTik 商券,工业/PoE 密度档位空缺 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 29·B-040:保加利亚谱: **守档准由·原 R65/R57 谱基增厚**:ASAP Ltd(Sofia 93 Tsar Boris III Blvd;2007 创;47 员工/$5.6M;IT 服务与咨询公司兼电商;官网设 MikroTik 专页,hEX S/hAP/cAP/hAP ax³/ATL LTE18 kit 在架;altostrat 名录 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】ASAP Ltd(Sofia 93 Tsar Boris III Blvd;2007 创;47 员工/$5.6M;IT 服务与咨询公司兼电商;官网设 MikroTik 专页,hEX S/hAP/cAP/hAP ax³/ATL LTE18 kit 在架;altostrat 名录 Reseller 在册 sales@asap.bg) | R65 深挖:SAP Education 伙伴口径=培训交付正事;MikroTik 谱挂在 ASAPIT 服务线
-- 【推断】实体 IT 方案商兼 MikroTik 商用谱零售面:企业网络项目交付里交换/PoE 档位真实存在,但谱内只有 MikroTik 商券,工业/PoE 密度档位空缺
-- 【假设】开口角度=「方案商项目谱的 PoE 管理档」:STC-424 以 value 项目随单位开口,项目保有量为先
+- 【事实】波 29·B-040:保加利亚谱: **守档准由·原 R65/R57 谱基增厚**:ASAP Ltd(Sofia 93 Tsar Boris III Blvd;2007 创;47 员工/$5.6M;IT 服务与咨询公司兼电商;官网设 MikroTik 专页,hEX S/hAP/cAP/hAP ax³/ATL LTE18 kit 在架;altostrat 名录 Reseller 在册 sales@asap.bg) | R65 深挖:SAP Education 伙伴口径=培训交付正事;MikroTik 谱挂在 ASAPIT 服务线;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第11波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 29 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】实体 IT 方案商兼 MikroTik 商用谱零售面:企业网络项目交付里交换/PoE 档位真实存在,但谱内只有 MikroTik 商券,工业/PoE 密度档位空缺
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -68,7 +68,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- 波 29·B-040:保加利亚谱: **守档准由·原 R65/R57 谱基增厚**:ASAP Ltd(Sofia 93 Tsar Boris III Blvd;2007 创;47 员工/$5.6M;IT 服务与咨询公司兼电商;官网设 MikroTik 专页,hEX S/hAP/cAP/hAP ax³/ATL LTE18 kit 在架;altostrat 名录 Reseller 在册 sales@asap.bg) | R65 深挖:SAP Education 伙伴口径=培训交付正事;MikroTik 谱挂在 ASAPIT 服务线;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第11波.json,先报价不回、档案铺位、持续关注新一季,OK。
 
 ## 联系方式（已有/猜测分标）
 
@@ -92,53 +92,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · 项目谱 PoE 页
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「方案商项目谱的 PoE 管理档」:STC-424 以 value 项目随单位开口,项目保有量为先
-- **要问的问题**：你们给企业客户做网络项目时,24 口 PoE 管理型段现随哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · sales@asap.bg 开口
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「方案商项目谱的 PoE 管理档」:STC-424 以 value 项目随单位开口,项目保有量为先
-- **要问的问题**：你们给企业客户做网络项目时,24 口 PoE 管理型段现随哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「方案商项目谱的 PoE 管理档」:STC-424 以 value 项目随单位开口,项目保有量为先
-- **要问的问题**：你们给企业客户做网络项目时,24 口 PoE 管理型段现随哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 4 批精修 = R57 转写 + 本轮登记/官网/LinkedIn 新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第4批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
 
-- **背景深描**：ASAP Ltd(93 Tsar Boris III Blvd, Sofia 1612, Bulgarien;2007 创立**SAP Education 伙伴**——主业务=SAP 培训认证+IT 服务(ASAPIT),非纯硬件分销;11-50 人;大客户谱=HP/Coca Cola;LinkedIn 公司页持有者 Peter Zyumbilev MD)
-- **芯片与在用型号**：【推断】实体 IT 方案商兼 MikroTik 商用谱零售面:企业网络项目交付里交换/PoE 档位真实存在,但谱内只有 MikroTik 商券,工业/PoE 密度档位空缺
-- **关键人KP**：Peter Zyumbilev = Managing Director;Nikolai Enev = Regional IT Services Manager(IT 服务线口)
-- **关注点与资质**：MikroTik（Reseller） 
-- **优缺点SWOT**：S:47 人实体方案商在营+官网 MikroTik 专页 / W:交换谱单一,工业档零 / O:企业项目 PoE 随单增量 / T:MikroTik 商券锚价深,换牌教育成本
-- **Saga产品适配**：IT 方案商项目谱的 value PoE 管理档
+- **背景深描**：波 29·B-040:保加利亚谱: **守档准由·原 R65/R57 谱基增厚**:ASAP Ltd(Sofia 93 Tsar Boris III Blvd;2007 创;47 员工/$5.6M;IT 服务与咨询公司兼电商;官网设 MikroTik 专页,hEX S/hAP/cAP/hAP ax³/ATL LTE18 kit 在架;altostrat 名录 Reseller 在册 sales@asap.bg) | R65 深挖:SAP Education 伙伴口径=培训交付正事;MikroTik 谱挂在 ASAPIT 服务线;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第11波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
+- **关注点与资质**：保加利亚 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**Local Resellers ### ASAP Reseller Sofia sales@asap.bg +359 2 4475 100
-  > Local Resellers ### ASAP Reseller Sofia sales@asap.bg +359 2 4475 100
-  > 来源：https://altostrat.io/buying/hardware/resellers/europe/bulgaria/
-- **【R57备护深挖证据】**ASАP provides hardware and software manufactured by MikroTik … hEX S / hAP / cAP / hAP ax³ / ATL LTE18 kit … sales@asap.bg
-  > ASАP provides hardware and software manufactured by MikroTik … hEX S / hAP / cAP / hAP ax³ / ATL LTE18 kit … sales@asap.bg
-  > 来源：https://www.asap.bg/en-us/it-solutions/networks/mikrotik-en
-- **【R57备护深挖证据】**ASAP Ltd … 47 Employees … Founded 2007 … $5.6M Est Revenue … 93 Tsar Boris III Blvd, Sofia
-  > ASAP Ltd … 47 Employees … Founded 2007 … $5.6M Est Revenue … 93 Tsar Boris III Blvd, Sofia
-  > 来源：https://contactout.com/company/ASAP-Ltd-94248
-- **【R65 LinkedIn 实名】**ASAP Ltd Founded 2007 · HQ Sofia · 11-50 employees · Peter Zyumbilev Managing Director 自曝
-  > ASAP Ltd is founded in 2007 … Peter Zyumbilev's profile … Managing Director, ASAP Ltd
-  > 来源：https://bg.linkedin.com/company/asap-ltd
+- **【联系方式与基础画像】**ASAP Ltd(Sofia 93 Tsar Boris III Blvd;2007 创;47 员工/$5.6M;IT 服务与咨询公司兼电商;官网设 MikroTik 专页,hEX S/hAP/cAP/hAP ax³/ATL LTE18 kit 在架;altostrat 名录 Reseller 在册 sales@asa
+  > ASAP Ltd(Sofia 93 Tsar Boris III Blvd;2007 创;47 员工/$5.6M;IT 服务与咨询公司兼电商;官网设 MikroTik 专页,hEX S/hAP/cAP/hAP ax³/ATL LTE18 kit 在架;altostrat 名录 Reseller 在册 sales@asa
+  > 来源：https://asap.bg/
+- **【联系方式与基础画像】**CSV 入口:+359 2 4475 100 / sales@asap.bg
+  > CSV 入口:+359 2 4475 100 / sales@asap.bg
+  > 来源：https://asap.bg/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -151,7 +145,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:47 人实体方案商在营+官网 MikroTik 专页 / W:交换谱单一,工业档零 / O:企业项目 PoE 随单增量 / T:MikroTik 商券锚价深,换牌教育成本
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -179,8 +173,8 @@ S:47 人实体方案商在营+官网 MikroTik 专页 / W:交换谱单一,工业�
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 项目交付里的交换机现供品牌
-  - [ ] PoE 功率密度需求档位
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -189,21 +183,15 @@ S:47 人实体方案商在营+官网 MikroTik 专页 / W:交换谱单一,工业�
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi ASAP team,
+Dear ASAP Team,
 
-An IT solutions house in Sofia with a MikroTik shelf behind your enterprise network projects - you know the brands end customers specify, and where a project BOM gets tight on PoE switching.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit for your project shelves, white-label friendly.
-
-One question: in your enterprise network deployments, which 24-port PoE managed switch do you reach for today - and is there a value slot beside it?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

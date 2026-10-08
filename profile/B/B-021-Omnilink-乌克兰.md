@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Omnilink LLC（基辅 Aviaconstructor Sikorsky 8, BC Flora-Park）:**只服务运营商/ISP 的专业 VAD 谱**——自牌 OmniLite+OmniOptic+Jun…
+- **是谁**：波 29·B-021:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:Omnilink LLC（基辅 Aviaconstructor Sikorsky 8, BC Flora-Park）:**只服务运营商/I…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 自牌血统的服务运营商 VAD:非自牌线的 OEM 辅位或第二供位；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Omnilink LLC（基辅 Aviaconstructor Sikorsky 8, BC Flora-Park）:**只服务运营商/ISP 的专业 VAD 谱**——自牌 OmniLite+OmniOptic+Juniper/Arista/Cisco/Ericsson/Extreme/Grandstream/Huawei/Ixia 等全大牌;官方 Mik | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】面向 service-provider 的 Tier 1 谱;自牌 OmniLite/OmniOptic 存在=OEM 有效经验;CCR 系列（高端路由器）在架=运营商 capex 规模 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 29·B-021:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:Omnilink LLC（基辅 Aviaconstructor Sikorsky 8, BC Flora-Park）:**只服务运营商/ISP 的专业 VAD 谱**——自牌 OmniLite+OmniOptic+Juniper/Arista/Cisco/Ericsson/Ex | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Omnilink LLC（基辅 Aviaconstructor Sikorsky 8, BC Flora-Park）:**只服务运营商/ISP 的专业 VAD 谱**——自牌 OmniLite+OmniOptic+Juniper/Arista/Cisco/Ericsson/Extreme/Grandstream/Huawei/Ixia 等全大牌;官方 MikroTik 分销;CCR1072/CCR1016/CCR1036 运营级在架;对俄乌议题公开姿态
-- 【推断】面向 service-provider 的 Tier 1 谱;自牌 OmniLite/OmniOptic 存在=OEM 有效经验;CCR 系列（高端路由器）在架=运营商 capex 规模
-- 【假设】开口角度=「自牌之外的 OEM 第 3 线」或「Tier 1 谱之外的 value PoE 补充」——STC-424 以 OmniLite 贴牌（looks like 下一代）或独立 OEM 线切入
+- 【事实】波 29·B-021:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:Omnilink LLC（基辅 Aviaconstructor Sikorsky 8, BC Flora-Park）:**只服务运营商/ISP 的专业 VAD 谱**——自牌 OmniLite+OmniOptic+Juniper/Arista/Cisco/Ericsson/Extreme/Grandstream/Huawei/Ixia 等全大牌;官方 MikroTik 分销;CCR1072/CCR1016/CCR1036 运营级在架;对俄乌议题公开姿态;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第2波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 29 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】面向 service-provider 的 Tier 1 谱;自牌 OmniLite/OmniOptic 存在=OEM 有效经验;CCR 系列（高端路由器）在架=运营商 capex 规模
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -86,47 +86,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · OmniLite 贴牌样张
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「自牌之外的 OEM 第 3 线」或「Tier 1 谱之外的 value PoE 补充」——STC-424 以 OmniLite 贴牌（looks like 下一代）或独立 OEM 线切入
-- **要问的问题**：你们 OmniLite 之外,value PoE 接入现在 OEM 哪些厂？OmniOptic 之后下一个自牌类目是 PoE 吗？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · OEM 发远条件单页
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「自牌之外的 OEM 第 3 线」或「Tier 1 谱之外的 value PoE 补充」——STC-424 以 OmniLite 贴牌（looks like 下一代）或独立 OEM 线切入
-- **要问的问题**：你们 OmniLite 之外,value PoE 接入现在 OEM 哪些厂？OmniOptic 之后下一个自牌类目是 PoE 吗？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「自牌之外的 OEM 第 3 线」或「Tier 1 谱之外的 value PoE 补充」——STC-424 以 OmniLite 贴牌（looks like 下一代）或独立 OEM 线切入
-- **要问的问题**：你们 OmniLite 之外,value PoE 接入现在 OEM 哪些厂？OmniOptic 之后下一个自牌类目是 PoE 吗？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
 
-- **背景深描**：Omnilink LLC（基辅 Aviaconstructor Sikorsky 8, BC Flora-Park）:**只服务运营商/ISP 的专业 VAD 谱**——自牌 OmniLite+OmniOptic+Juniper/Arista/Cisco/Ericsson/Extreme/Grandstream/Huawei/Ixia 等全大牌;官方 MikroTik 分销;CCR1072/CCR1016/CCR1036 运营级在架;对俄乌议题公开姿态
-- **芯片与在用型号**：【推断】面向 service-provider 的 Tier 1 谱;自牌 OmniLite/OmniOptic 存在=OEM 有效经验;CCR 系列（高端路由器）在架=运营商 capex 规模
-- **关键人KP**：—
-- **关注点与资质**：MikroTik（Reseller） 
-- **优缺点SWOT**：S:Tier 1 服务运营商谱+自牌血统 / W:自牌线竞争=核心排他 / O:自牌之外的 OEM 辅线 / T:自排牌竞争太强
-- **Saga产品适配**：自牌血统的服务运营商 VAD:非自牌线的 OEM 辅位或第二供位
+- **背景深描**：波 29·B-021:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:Omnilink LLC（基辅 Aviaconstructor Sikorsky 8, BC Flora-Park）:**只服务运营商/ISP 的专业 VAD 谱**——自牌 OmniLite+OmniOptic+Juniper/Arista/Cisco/Ericsson/Extreme/Grandstream/Huawei/Ixia 等全大牌;官方 MikroTik 分销;CCR1072/CCR1016/CCR1036 运营级在架;对俄乌议题公开姿态;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第2波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
+- **关注点与资质**：乌克兰 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**OmniLite | OmniOptic | Alcatel-Lucent | Arista Networks | Cisco Systems | D-Link | Edge-Core | Ericsson | Extreme Networks…MikroTik
-  > OmniLite | OmniOptic | Alcatel-Lucent | Arista Networks | Cisco Systems | D-Link | Edge-Core | Ericsson | Extreme Networks…MikroTik
-  > 来源：https://www.omnilink.com.ua/ukr/vendors
-- **【R57备护深挖证据】**OmniLink — спеціалізований постачальник телекомунікаційного обладнання і високотехнологічних рішень для операторів зв'язку
-  > OmniLink — спеціалізований постачальник телекомунікаційного обладнання і високотехнологічних рішень для операторів зв'язку
-  > 来源：https://www.omnilink.com.ua/ukr/vendors
+- **【联系方式与基础画像】**Omnilink LLC（基辅 Aviaconstructor Sikorsky 8, BC Flora-Park）:**只服务运营商/ISP 的专业 VAD 谱**——自牌 OmniLite+OmniOptic+Juniper/Arista/Cisco/Ericsson/Extreme/Grandstream/Hua
+  > Omnilink LLC（基辅 Aviaconstructor Sikorsky 8, BC Flora-Park）:**只服务运营商/ISP 的专业 VAD 谱**——自牌 OmniLite+OmniOptic+Juniper/Arista/Cisco/Ericsson/Extreme/Grandstream/Hua
+  > 来源：https://omnilink.ua/
+- **【联系方式与基础画像】**CSV 入口:+380 44 359 0770 / sale@omnilink.com.ua
+  > CSV 入口:+380 44 359 0770 / sale@omnilink.com.ua
+  > 来源：https://omnilink.ua/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -139,7 +139,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:Tier 1 服务运营商谱+自牌血统 / W:自牌线竞争=核心排他 / O:自牌之外的 OEM 辅线 / T:自排牌竞争太强
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -167,8 +167,8 @@ S:Tier 1 服务运营商谱+自牌血统 / W:自牌线竞争=核心排他 / O:�
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 自牌 OmniLite 谱的交换机线现状（是否已有 PoE 档）
-  - [ ] 服务运营商客户的 PoE 接层部署形态
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -177,21 +177,15 @@ S:Tier 1 服务运营商谱+自牌血统 / W:自牌线竞争=核心排他 / O:�
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi OmniLink team,
+Dear Omnilink Team,
 
-Service-provider-only DNA, a Juniper/Arista/Extreme shelf, plus your own OmniLite and OmniOptic house brands - you already sit at the Tier 1 layer most PoE vendors can only dream of.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation, fully open to your OmniLite branding. Reference: $180 USD EXW (2026-09-29) - designed as the PoE access SKU that would look at home right behind your house brand.
-
-One question: under the OmniLite roof, is PoE access the next own-brand category on your roadmap - and would a documented OEM unit earn a bench test against your current sourcing?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

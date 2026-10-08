@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：LOST, d.o.o.(Ulica Kreše Golika 7, 10000 Zagreb;1994-12-30 创立=32 年老營抚制造企业(NKD 2620 Proizvodnja računala);OIB 8…
+- **是谁**：波 29·B-053:克罗地亚谱: **守档准由·原 R65/R57 谱基增厚**:LOST d.o.o.(Zagreb;1995 创;**25+ 年克罗地亚 IT 批发分销老牌**,全国伙伴网络;约 31 人;曾把 W…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 老牌 IT 批发的商用 PoE 管理档；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | LOST, d.o.o.(Ulica Kreše Golika 7, 10000 Zagreb;1994-12-30 创立=32 年老營抚制造企业(NKD 2620 Proizvodnja računala);OIB 89984971143;20-49 员工规模;lost@lost.hr,+385 1 369 7640;**Stipe Lozušić + D | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】老牌 IT 批发,谱宽敢上新(PC 硬件→EV 充电桩都接):新品类接收度高,MikroTik 为其网通谱一角 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 29·B-053:克罗地亚谱: **守档准由·原 R65/R57 谱基增厚**:LOST d.o.o.(Zagreb;1995 创;**25+ 年克罗地亚 IT 批发分销老牌**,全国伙伴网络;约 31 人;曾把 Webasto 电动车充电桩谱引入分销;MikroTik VAD 名录在册 lost@lost.hr) | R65 深挖:32 年老牌制造/分 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】LOST d.o.o.(Zagreb;1995 创;**25+ 年克罗地亚 IT 批发分销老牌**,全国伙伴网络;约 31 人;曾把 Webasto 电动车充电桩谱引入分销;MikroTik VAD 名录在册 lost@lost.hr) | R65 深挖:32 年老牌制造/分销;双业主结构
-- 【推断】老牌 IT 批发,谱宽敢上新(PC 硬件→EV 充电桩都接):新品类接收度高,MikroTik 为其网通谱一角
-- 【假设】开口角度=「老牌批发的 PoE 管理档+新品类试水」:STC-424 主力,EV 充电桩配套网络件为侧话
+- 【事实】波 29·B-053:克罗地亚谱: **守档准由·原 R65/R57 谱基增厚**:LOST d.o.o.(Zagreb;1995 创;**25+ 年克罗地亚 IT 批发分销老牌**,全国伙伴网络;约 31 人;曾把 Webasto 电动车充电桩谱引入分销;MikroTik VAD 名录在册 lost@lost.hr) | R65 深挖:32 年老牌制造/分销;双业主结构;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第11波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 29 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】老牌 IT 批发,谱宽敢上新(PC 硬件→EV 充电桩都接):新品类接收度高,MikroTik 为其网通谱一角
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -67,7 +67,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- LOST, d.o.o.(Ulica Kreše Golika 7, 10000 Zagreb;1994-12-30 创立=32 年老營抚制造企业(NKD 2620 Proizvodnja računala);OIB 89984971143;20-49 员工规模;lost@lost.hr,+385 1 369 7640;**Stipe Lozušić + Denis Dizdarević = 双业主双董事**,Fina Info/Kompass 两源实名)
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -91,50 +91,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · 商用 PoE 档页
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「老牌批发的 PoE 管理档+新品类试水」:STC-424 主力,EV 充电桩配套网络件为侧话
-- **要问的问题**：你们的网通/商用谱里,24 口 PoE 管理型段现随哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · lost@lost.hr 开口(可提 EV 桩场点配套)
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「老牌批发的 PoE 管理档+新品类试水」:STC-424 主力,EV 充电桩配套网络件为侧话
-- **要问的问题**：你们的网通/商用谱里,24 口 PoE 管理型段现随哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「老牌批发的 PoE 管理档+新品类试水」:STC-424 主力,EV 充电桩配套网络件为侧话
-- **要问的问题**：你们的网通/商用谱里,24 口 PoE 管理型段现随哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 4 批精修 = R57 转写 + 本轮登记/官网/LinkedIn 新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第4批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
 
-- **背景深描**：LOST, d.o.o.(Ulica Kreše Golika 7, 10000 Zagreb;1994-12-30 创立=32 年老營抚制造企业(NKD 2620 Proizvodnja računala);OIB 89984971143;20-49 员工规模;lost@lost.hr,+385 1 369 7640;**Stipe Lozušić + Denis Dizdarević = 双业主双董事**,Fina Info/Kompass 两源实名)
-- **芯片与在用型号**：【推断】老牌 IT 批发,谱宽敢上新(PC 硬件→EV 充电桩都接):新品类接收度高,MikroTik 为其网通谱一角
-- **关键人KP**：Stipe Lozušić + Denis Dizdarević = 双业主双董事(fininfo.hr/companywall 双源)
-- **关注点与资质**：MikroTik（Master+VAD） 
-- **优缺点SWOT**：S:25 年老牌全国批发网 / W:网通为子谱 / O:新品类敢接,value 档好切 / T:既成谱系换牌惰性
-- **Saga产品适配**：老牌 IT 批发的商用 PoE 管理档
+- **背景深描**：波 29·B-053:克罗地亚谱: **守档准由·原 R65/R57 谱基增厚**:LOST d.o.o.(Zagreb;1995 创;**25+ 年克罗地亚 IT 批发分销老牌**,全国伙伴网络;约 31 人;曾把 Webasto 电动车充电桩谱引入分销;MikroTik VAD 名录在册 lost@lost.hr) | R65 深挖:32 年老牌制造/分销;双业主结构;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第11波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
+- **关注点与资质**：克罗地亚 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**One of the leading IT products and accessories distributor in Croatia. More than 25 years experience … Founded 1995 … 11-50 employees
-  > One of the leading IT products and accessories distributor in Croatia. More than 25 years experience … Founded 1995 … 11-50 employees
-  > 来源：https://hr.linkedin.com/company/lost-d-o-o-
-- **【R57备护深挖证据】**WEBASTO - Punjači za električna vozila … distribuciju punjača za električna vozila
-  > WEBASTO - Punjači za električna vozila … distribuciju punjača za električna vozila
-  > 来源：https://x.com/lostdoo
-- **【R65 商业登记】**OIB 89984971143 · 1994 创立 · Stipe Lozušić+Denis Dizdarević 双业主双董事 · 20-49 员工
-  > LOST, d.o.o. registrirano je na adresi Ulica Kreše Golika 7, 10000, Zagreb … posluje od 30.12.1994 … Stipe Lozušić, Denis Dizdarević
-  > 来源：https://www.companywall.hr/tvrtka/lost-doo/MM13qecC
+- **【联系方式与基础画像】**LOST d.o.o.(Zagreb;1995 创;**25+ 年克罗地亚 IT 批发分销老牌**,全国伙伴网络;约 31 人;曾把 Webasto 电动车充电桩谱引入分销;MikroTik VAD 名录在册 lost@lost.hr) | R65 深挖:32 年老牌制造/分销;双业主结构
+  > LOST d.o.o.(Zagreb;1995 创;**25+ 年克罗地亚 IT 批发分销老牌**,全国伙伴网络;约 31 人;曾把 Webasto 电动车充电桩谱引入分销;MikroTik VAD 名录在册 lost@lost.hr) | R65 深挖:32 年老牌制造/分销;双业主结构
+  > 来源：https://lost.hr/
+- **【联系方式与基础画像】**CSV 入口:+385 1 3027 163 / lost@lost.hr
+  > CSV 入口:+385 1 3027 163 / lost@lost.hr
+  > 来源：https://lost.hr/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -147,7 +144,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:25 年老牌全国批发网 / W:网通为子谱 / O:新品类敢接,value 档好切 / T:既成谱系换牌惰性
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -175,8 +172,8 @@ S:25 年老牌全国批发网 / W:网通为子谱 / O:新品类敢接,value 档�
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 网络谱现存 PoE 档位
-  - [ ] EV 充电桩铺货里的网络件配套
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -185,21 +182,15 @@ S:25 年老牌全国批发网 / W:网通为子谱 / O:新品类敢接,value 档�
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi LOST team,
+Dear LOST d.o.o. Team,
 
-Twenty-five years of IT wholesale across Croatia, and bold enough to add EV charging stations to the line card - you clearly earn margin from categories others ignore. PoE switching is one of those understated, high-rotation lines.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit for your commercial shelf, white-label friendly.
-
-One question: in your networking line-up, which 24-port PoE managed switch holds the value slot today?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

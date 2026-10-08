@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：NETMONT d.o.o.(Jovana Tomaševića br. 30, Bar, Crna Gora;PIB 03157601, Reg 50807339;2017-10-10 创；**Vasilije Miš…
+- **是谁**：波 30·B-491:黑山谱: **守档准由·原 R65/R57 谱基增厚**:Netmont DOO(Bar Jovana Tomaševica br30;**黑山持牌无线 ISP 自营(licencirani pro…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 独家 Master+WISP 自营的双谱 PoE 随单位；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | NETMONT d.o.o.(Jovana Tomaševića br. 30, Bar, Crna Gora;PIB 03157601, Reg 50807339;2017-10-10 创；**Vasilije Mišević = Izvršni direktor(执行董事） & 50% 业主；Slobodan Lalić = 50% 业主 & Ovlaš | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】WISP 自营+全国独家 Master 双身份:自身场点用件+分销谱同壳,地区绝对枢纽 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 30·B-491:黑山谱: **守档准由·原 R65/R57 谱基增厚**:Netmont DOO(Bar Jovana Tomaševica br30;**黑山持牌无线 ISP 自营(licencirani provajder bežičnog pristupa Internetu na teritoriji Crne Gore)+ MikroTik  | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Netmont DOO(Bar Jovana Tomaševica br30;**黑山持牌无线 ISP 自营(licencirani provajder bežičnog pristupa Internetu na teritoriji Crne Gore)+ MikroTik 名录唯一 Master Distributor(altostrat 确认)**;官网 MikroTik 专页(cAP ax 等在页);info@setehnica.com) | R65 深挖:黑山 Bar 无线电信实体双 50% 业主
-- 【推断】WISP 自营+全国独家 Master 双身份:自身场点用件+分销谱同壳,地区绝对枢纽
-- 【假设】开口角度=「WISP 自营+独家 Master 的 PoE 随单/自用双谱」:STC-424 主力,场点自用角度同页
+- 【事实】波 30·B-491:黑山谱: **守档准由·原 R65/R57 谱基增厚**:Netmont DOO(Bar Jovana Tomaševica br30;**黑山持牌无线 ISP 自营(licencirani provajder bežičnog pristupa Internetu na teritoriji Crne Gore)+ MikroTik 名录唯一 Master Distributor(altostrat 确认)**;官网 MikroTik 专页(cAP ax 等在页);info@setehnica.com) | R65 深挖:黑山 Bar 无线电信实体双 50% 业主;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第12波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 30 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】WISP 自营+全国独家 Master 双身份:自身场点用件+分销谱同壳,地区绝对枢纽
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -91,50 +91,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · WISP 场点谱 PoE 页
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「WISP 自营+独家 Master 的 PoE 随单/自用双谱」:STC-424 主力,场点自用角度同页
-- **要问的问题**：你们的场点与分销谱里,24 口 PoE 管理型档现随哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · info@setehnica.com 开口
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「WISP 自营+独家 Master 的 PoE 随单/自用双谱」:STC-424 主力,场点自用角度同页
-- **要问的问题**：你们的场点与分销谱里,24 口 PoE 管理型档现随哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「WISP 自营+独家 Master 的 PoE 随单/自用双谱」:STC-424 主力,场点自用角度同页
-- **要问的问题**：你们的场点与分销谱里,24 口 PoE 管理型档现随哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 18 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第17批补18.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
 
-- **背景深描**：NETMONT d.o.o.(Jovana Tomaševića br. 30, Bar, Crna Gora;PIB 03157601, Reg 50807339;2017-10-10 创；**Vasilije Mišević = Izvršni direktor(执行董事） & 50% 业主；Slobodan Lalić = 50% 业主 & Ovlašćeni zastupnik(授权代表）**;谱型=Kdžičd 6120 Bežične telekomunikacije（黑山无线电信——Montenegro MikroTik 谱波长对应！)
-- **芯片与在用型号**：【推断】WISP 自营+全国独家 Master 双身份:自身场点用件+分销谱同壳,地区绝对枢纽
-- **关键人KP**：Vasilije Mišević = Izvršni direktor(50%);Slobodan Lalić = 业主（50%)& Ovlašćeni zastupnik
-- **关注点与资质**：MikroTik（Master） 
-- **优缺点SWOT**：S:独家 Master+自营 WISP / W:国小网小 / O:自用+分销双谱 PoE 随单 / T:总量天花板低
-- **Saga产品适配**：独家 Master+WISP 自营的双谱 PoE 随单位
+- **背景深描**：波 30·B-491:黑山谱: **守档准由·原 R65/R57 谱基增厚**:Netmont DOO(Bar Jovana Tomaševica br30;**黑山持牌无线 ISP 自营(licencirani provajder bežičnog pristupa Internetu na teritoriji Crne Gore)+ MikroTik 名录唯一 Master Distributor(altostrat 确认)**;官网 MikroTik 专页(cAP ax 等在页);info@setehnica.com) | R65 深挖:黑山 Bar 无线电信实体双 50% 业主;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第12波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
+- **关注点与资质**：黑山 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**Netmont je licencirani provajder bežičnog pristupa Internetu na teritoriji Crne Gore … Netmont DOO je zvanični distributer Mikrotik programa
-  > Netmont je licencirani provajder bežičnog pristupa Internetu na teritoriji Crne Gore … Netmont DOO je zvanični distributer Mikrotik programa
-  > 来源：https://netmont.me/mikrotik.html
-- **【R57备护深挖证据】**Netmont DOO Master Distributors Bar, Montenegro info@setehnica.com +38267244376
-  > Netmont DOO Master Distributors Bar, Montenegro info@setehnica.com +38267244376
-  > 来源：https://altostrat.io/buying/hardware/resellers/europe/montenegro
-- **【R65 凶件/实名】**NETMONT d.o.o. Bar 2017-10-10 创 · PIB 03157601 · Mišević 50% exek + Lalić 50% 代表 · šifra 6120 无线电信
-  > Trenutni direktor tvrtke je VASILIJE MIŠEVIĆ. Vlasnik tvrtke je SLOBODAN LALIĆ(50,00%) … Vlasnik VASILIJE MIŠEVIĆ(50,00%), Osnivač … Osnovna djelatnost registrirana pod šifrom 6120 - Bežične telekomunikacije
-  > 来源：https://www.companywall.me/firma/netmont/MMxsQfYC
+- **【联系方式与基础画像】**Netmont DOO(Bar Jovana Tomaševica br30;**黑山持牌无线 ISP 自营(licencirani provajder bežičnog pristupa Internetu na teritoriji Crne Gore)+ MikroTik 名录唯一 Master Distribu
+  > Netmont DOO(Bar Jovana Tomaševica br30;**黑山持牌无线 ISP 自营(licencirani provajder bežičnog pristupa Internetu na teritoriji Crne Gore)+ MikroTik 名录唯一 Master Distribu
+  > 来源：https://netmont.me/
+- **【联系方式与基础画像】**CSV 入口:+382 67 244 376 / info@setehnica.com
+  > CSV 入口:+382 67 244 376 / info@setehnica.com
+  > 来源：https://netmont.me/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -147,7 +144,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:独家 Master+自营 WISP / W:国小网小 / O:自用+分销双谱 PoE 随单 / T:总量天花板低
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -175,8 +172,8 @@ S:独家 Master+自营 WISP / W:国小网小 / O:自用+分销双谱 PoE 随单 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 场点自建谱 PoE 档位现供
-  - [ ] 分销谱与自用谱占比
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -185,21 +182,15 @@ S:独家 Master+自营 WISP / W:国小网小 / O:自用+分销双谱 PoE 随单 
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Netmont team,
+Dear Netmont DOO Team,
 
-A licensed wireless ISP covering Montenegro and the country's Master MikroTik distributor at the same time - your own sites need PoE behind the radios, and your reseller customers need a documented unit on their shelves too.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit for both your own sites and your distribution shelf, white-label friendly.
-
-One question: for your own PoP sites and your reseller line, which 24-port managed PoE switch do you run today - and is there a value slot for a documented unit?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

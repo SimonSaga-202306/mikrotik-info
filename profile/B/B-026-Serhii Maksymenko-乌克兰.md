@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Serhii Maksymenko(乌克兰 Dnipro;无站、gmail 载 studio4face@gmail——名面偏个人品牌）:CSV 载 MTCNA+MTEWE 双证顾问;公开足迹未查到…
+- **是谁**：波 29·B-026:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:Serhii Maksymenko(乌克兰 Dnipro;无站、gmail 载 studio4face@gmail——名面偏个人品牌）:C…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 乌克兰个体顾问谱统一；—（合作探询，无量产报价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 未明 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Serhii Maksymenko(乌克兰 Dnipro;无站、gmail 载 studio4face@gmail——名面偏个人品牌）:CSV 载 MTCNA+MTEWE 双证顾问;公开足迹未查到 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】Dnipro 是乌军工/航天重点区（产业敏感区+战争近序）;顾问零足迹需具名完备回插再定 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 29·B-026:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:Serhii Maksymenko(乌克兰 Dnipro;无站、gmail 载 studio4face@gmail——名面偏个人品牌）:CSV 载 MTCNA+MTEWE 双证顾问;公开足迹未查到;R66 第 29 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Serhii Maksymenko(乌克兰 Dnipro;无站、gmail 载 studio4face@gmail——名面偏个人品牌）:CSV 载 MTCNA+MTEWE 双证顾问;公开足迹未查到
-- 【推断】Dnipro 是乌军工/航天重点区（产业敏感区+战争近序）;顾问零足迹需具名完备回插再定
-- 【假设】守档不入出信序——个体、零足迹、敏感区牌——回插案成再议
+- 【事实】波 29·B-026:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:Serhii Maksymenko(乌克兰 Dnipro;无站、gmail 载 studio4face@gmail——名面偏个人品牌）:CSV 载 MTCNA+MTEWE 双证顾问;公开足迹未查到;R66 第 29 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第2波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 29 波守档准由谱
+- 【假设】掌件区非商触(非卖品对照架)
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】Dnipro 是乌军工/航天重点区（产业敏感区+战争近序）;顾问零足迹需具名完备回插再定
+CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -86,33 +86,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（OEM/白牌合作探询（无量产型号首推）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+30 · 具名回插
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
-- **切入点**：守档不入出信序——个体、零足迹、敏感区牌——回插案成再议
-- **要问的问题**：（守档不入触点）
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：掌件区技术参件
+- **要问的问题**：可否入技术参件对照架名录？
+- **随附/动作**：规格页
+
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档
+
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
 
-- **背景深描**：Serhii Maksymenko(乌克兰 Dnipro;无站、gmail 载 studio4face@gmail——名面偏个人品牌）:CSV 载 MTCNA+MTEWE 双证顾问;公开足迹未查到
-- **芯片与在用型号**：【推断】Dnipro 是乌军工/航天重点区（产业敏感区+战争近序）;顾问零足迹需具名完备回插再定
-- **关键人KP**：—
-- **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCEWE 
-- **优缺点SWOT**：S:双证 / W:Dnipro 近战区+零足迹 / O:待定 / T:失联面
-- **Saga产品适配**：乌克兰个体顾问谱统一
+- **背景深描**：波 29·B-026:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:Serhii Maksymenko(乌克兰 Dnipro;无站、gmail 载 studio4face@gmail——名面偏个人品牌）:CSV 载 MTCNA+MTEWE 双证顾问;公开足迹未查到;R66 第 29 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第2波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
+- **关注点与资质**：乌克兰 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
+- **Saga产品适配**：CONSULT-OEM 掌件区非卖品对照
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**CSV:MikroTik 认证顾问 MTCNA+MTCEWE
-  > CSV:MikroTik 认证顾问 MTCNA+MTCEWE
-  > 来源：客户名单_反向信号_2026-09.csv
-- **【R57备护深挖证据】**官方顾问需 MTC*E 在续+论坛活跃
-  > 官方顾问需 MTC*E 在续+论坛活跃
-  > 来源：https://mikrotik.com/consultants
+- **【联系方式与基础画像】**Serhii Maksymenko(乌克兰 Dnipro;无站、gmail 载 studio4face@gmail——名面偏个人品牌）:CSV 载 MTCNA+MTEWE 双证顾问;公开足迹未查到
+  > Serhii Maksymenko(乌克兰 Dnipro;无站、gmail 载 studio4face@gmail——名面偏个人品牌）:CSV 载 MTCNA+MTEWE 双证顾问;公开足迹未查到
+  > 来源：仓内:roster
+- **【联系方式与基础画像】**CSV 入口:+380 67 551 7229 / studio4face@gmail.com
+  > CSV 入口:+380 67 551 7229 / studio4face@gmail.com
+  > 来源：仓内:roster
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -125,7 +139,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:双证 / W:Dnipro 近战区+零足迹 / O:待定 / T:失联面
+S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -153,8 +167,8 @@ S:双证 / W:Dnipro 近战区+零足迹 / O:待定 / T:失联面
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 现证+具名 LinkedIn 足迹
-  - [ ] Dnipro 区域产业敏感面评估
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -163,21 +177,10 @@ S:双证 / W:Dnipro 近战区+零足迹 / O:待定 / T:失联面
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：Neutral-built PoE switches under your own label
+**主题**：（非卖品掌件区,不出信)
 
 ```text
-Hi Serhii,
-
-I came across Serhii Maksymenko - 集成商/顾问（MikroTik 认证）.
-
-We manufacture PoE access switches (Marvell-based, L2+) for OEM/white-label programs - neutral packing, your model numbers, ODM options on request.
-
-One question: （守档不入触点）
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+（掌件区非卖品·CONSULT-OEM 对照架,只做技术参件,不出英文首触信）
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

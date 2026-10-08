@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Strato Networks(C/ Pollensa 2 planta 1, 28290 Las Rozas de Madrid;2008-01 创；Ricardo Bernao Gonzalez 实体谱主位（CSV …
+- **是谁**：波 30·B-480:西班牙谱: **守档准由·原 R65/R57 谱基增厚**:Ricardo Bernao Gonzalez - Strato Networks(Madrid Las Rozas C/ Pollens…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — Strato Academy 实验室的 PoE 对照教具样本位(师者红线下最白开口)；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -44,20 +44,20 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | Strato Networks(C/ Pollensa 2 planta 1, 28290 Las Rozas de Madrid;2008-01 创；Ricardo Bernao Gonzalez 实体谱主位（CSV 谱口径）; | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】师者+系统集成+官方数字化代理三重身份;实验室每生一机=教具消耗真实;与 InstantByte 合办课程=其硬件采购走分钁渠道,教具选型有话语权 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 30·B-480:西班牙谱: **守档准由·原 R65/R57 谱基增厚**:Ricardo Bernao Gonzalez - Strato Networks(Madrid Las Rozas C/ Pollensa 4;15+ 年 MikroTik/RouterOS 实施+讲师;**Strato Academy 自培训学院**:RouterOS 入门 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Ricardo Bernao Gonzalez - Strato Networks(Madrid Las Rozas C/ Pollensa 4;15+ 年 MikroTik/RouterOS 实施+讲师;**Strato Academy 自培训学院**:RouterOS 入门课第 5 期(2024-05)与 **InstantByte(欧洲 MikroTik 大分销)**合办、在其 Leganes 设施授课;实验室制=每学员一台真机;95% 员工持证;**agente digitalizador(西班牙政府数字化代理)**) | R65 深挖:Las Rozas 公行防御实体 + MikroTik 培训课联名实体
-- 【推断】师者+系统集成+官方数字化代理三重身份;实验室每生一机=教具消耗真实;与 InstantByte 合办课程=其硬件采购走分钁渠道,教具选型有话语权
-- 【假设】开口角度=「Strato Academy 课桌对照教具样本位」:STC-28DGGPM 8 口小机做其 RouterOS 课 PoE 段对照教具(现有实验台为 MikroTik 单机,对照样本增补);师者红线下最白开口
+- 【事实】波 30·B-480:西班牙谱: **守档准由·原 R65/R57 谱基增厚**:Ricardo Bernao Gonzalez - Strato Networks(Madrid Las Rozas C/ Pollensa 4;15+ 年 MikroTik/RouterOS 实施+讲师;**Strato Academy 自培训学院**:RouterOS 入门课第 5 期(2024-05)与 **InstantByte(欧洲 MikroTik 大分销)**合办、在其 Leganes 设施授课;实验室制=每学员一台真机;95% 员工持证;**agente digitalizador(西班牙政府数字化代理)**) | R65 深挖:Las Rozas 公行防御实体 + MikroTik 培训课联名实体;R66 第 30 波谱:我司 STC-28DGGPM(8-port PoE access box (802.3af/at, watchdog)($99 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第6波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 30 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】师者+系统集成+官方数字化代理三重身份;实验室每生一机=教具消耗真实;与 InstantByte 合办课程=其硬件采购走分钁渠道,教具选型有话语权
+STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -69,7 +69,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- 波 30·B-480:西班牙谱: **守档准由·原 R65/R57 谱基增厚**:Ricardo Bernao Gonzalez - Strato Networks(Madrid Las Rozas C/ Pollensa 4;15+ 年 MikroTik/RouterOS 实施+讲师;**Strato Academy 自培训学院**:RouterOS 入门课第 5 期(2024-05)与 **InstantByte(欧洲 MikroTik 大分销)**合办、在其 Leganes 设施授课;实验室制=每学员一台真机;95% 员工持证;**agente digitalizador(西班牙政府数字化代理)**) | R65 深挖:Las Rozas 公行防御实体 + MikroTik 培训课联名实体;R66 第 30 波谱:我司 STC-28DGGPM(8-port PoE access box (802.3af/at, watchdog)($99 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第6波.json,先报价不回、档案铺位、持续关注新一季,OK。
 
 ## 联系方式（已有/猜测分标）
 
@@ -91,50 +91,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM（8口 PoE 接入盒）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · 教具样本合作一页(师者红线下)
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「Strato Academy 课桌对照教具样本位」:STC-28DGGPM 8 口小机做其 RouterOS 课 PoE 段对照教具(现有实验台为 MikroTik 单机,对照样本增补);师者红线下最白开口
-- **要问的问题**：Strato Academy 课桌上只有 MikroTik 单机吗?PoE 段要不要一台文档全的 8 口对照样本?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · ricardo@stratonetworks.com 具名
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「Strato Academy 课桌对照教具样本位」:STC-28DGGPM 8 口小机做其 RouterOS 课 PoE 段对照教具(现有实验台为 MikroTik 单机,对照样本增补);师者红线下最白开口
-- **要问的问题**：Strato Academy 课桌上只有 MikroTik 单机吗?PoE 段要不要一台文档全的 8 口对照样本?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「Strato Academy 课桌对照教具样本位」:STC-28DGGPM 8 口小机做其 RouterOS 课 PoE 段对照教具(现有实验台为 MikroTik 单机,对照样本增补);师者红线下最白开口
-- **要问的问题**：Strato Academy 课桌上只有 MikroTik 单机吗?PoE 段要不要一台文档全的 8 口对照样本?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 20 批精修 = R57 转写 + 本轮调研新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第20批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
 
-- **背景深描**：Strato Networks(C/ Pollensa 2 planta 1, 28290 Las Rozas de Madrid;2008-01 创；Ricardo Bernao Gonzalez 实体谱主位（CSV 谱口径）;
-- **芯片与在用型号**：【推断】师者+系统集成+官方数字化代理三重身份;实验室每生一机=教具消耗真实;与 InstantByte 合办课程=其硬件采购走分钁渠道,教具选型有话语权
-- **关键人KP**：Ricardo Bernao Gonzalez = 实体谱主位（CSV 口径）
-- **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCWE | 传承人名开口：见 KP 表
-- **优缺点SWOT**：S:15 年师者+学院+官方数字化代理三重 / W:教具量小 / O:教具样本+数字化代理 SME 项目随单双线 / T:师者红线
-- **Saga产品适配**：Strato Academy 实验室的 PoE 对照教具样本位(师者红线下最白开口)
+- **背景深描**：波 30·B-480:西班牙谱: **守档准由·原 R65/R57 谱基增厚**:Ricardo Bernao Gonzalez - Strato Networks(Madrid Las Rozas C/ Pollensa 4;15+ 年 MikroTik/RouterOS 实施+讲师;**Strato Academy 自培训学院**:RouterOS 入门课第 5 期(2024-05)与 **InstantByte(欧洲 MikroTik 大分销)**合办、在其 Leganes 设施授课;实验室制=每学员一台真机;95% 员工持证;**agente digitalizador(西班牙政府数字化代理)**) | R65 深挖:Las Rozas 公行防御实体 + MikroTik 培训课联名实体;R66 第 30 波谱:我司 STC-28DGGPM(8-port PoE access box (802.3af/at, watchdog)($99 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第6波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
+- **关注点与资质**：西班牙 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-28DGGPM 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-28DGGPM vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**Strato Academy…5º edición de nuestro curso de iniciación a los sistemas RouterOS de mikrotik, en colaboración con InstantByte…formato de lab
-  > Strato Academy…5º edición de nuestro curso de iniciación a los sistemas RouterOS de mikrotik, en colaboración con InstantByte…formato de laboratorio práctico, disponiendo cada alumno de un router
-  > 来源：https://www.stratonetworks.com/formacion/formacion.php
-- **【R57备护深挖证据】**agente digitalizador en diversas soluciones…95 % de nuestros profesionales formados y certificados en sistemas
-  > agente digitalizador en diversas soluciones…95 % de nuestros profesionales formados y certificados en sistemas
-  > 来源：http://www.stratonetworks.com/portada/index.php
-- **【R65 谱/自曝】**Strato Networks 2008 创 Las Rozas · 50+ 客户 85% tech staff · 公行(public sector 专放） · Blue team防御 Sophos Silver/SonicWall/MikroTik · MikroTik RouterOS 训练课与 InstantByte 欧洲分销联名(5 届)
-  > En Enero de 2008 fundamos Strato Networks … Strato Networks trabaja con más 50 clientes … 85% de personal técnico … Somos partner Silver de Sophos … Certificaciones Mikrotik … formacion(arroba)stratonetworks(punto)(com)
-  > 来源：https://www.stratonetworks.com/portada/acerca.php
+- **【联系方式与基础画像】**Ricardo Bernao Gonzalez - Strato Networks(Madrid Las Rozas C/ Pollensa 4;15+ 年 MikroTik/RouterOS 实施+讲师;**Strato Academy 自培训学院**:RouterOS 入门课第 5 期(2024-05)与 **In
+  > Ricardo Bernao Gonzalez - Strato Networks(Madrid Las Rozas C/ Pollensa 4;15+ 年 MikroTik/RouterOS 实施+讲师;**Strato Academy 自培训学院**:RouterOS 入门课第 5 期(2024-05)与 **In
+  > 来源：https://stratonetworks.com/
+- **【联系方式与基础画像】**CSV 入口:+34 657 478 596 / ricardo@stratonetworks.com
+  > CSV 入口:+34 657 478 596 / ricardo@stratonetworks.com
+  > 来源：https://stratonetworks.com/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -147,7 +144,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:15 年师者+学院+官方数字化代理三重 / W:教具量小 / O:教具样本+数字化代理 SME 项目随单双线 / T:师者红线
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-28DGGPM 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -175,8 +172,8 @@ S:15 年师者+学院+官方数字化代理三重 / W:教具量小 / O:教具样
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 教具采购走 InstantByte 还是自采
-  - [ ] 数字化代理谱里 SME 布线/监控随单量
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -185,21 +182,15 @@ S:15 年师者+学院+官方数字化代理三重 / W:教具量小 / O:教具样
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Ricardo,
+Dear Ricardo Bernao Gonzalez Team,
 
-Strato Academy running hands-on RouterOS labs where every student gets a real router, alongside InstantByte - and a digitalization-agent practice on top. You sit exactly where the training bench meets SME rollouts.
+We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a compact 8-port managed PoE+ switch (120W, L2-lite) with full English/Spanish documentation. Reference: $99 USD EXW (2026-09-29) - built empty-label friendly so your bench can carry a documented comparison SKU for the PoE segment without any brand pressure.
-
-One question: on the Strato Academy bench, do your students only see MikroTik for the PoE segment - or would a documented comparison unit with a full test pack be worth a slot?
-
-If useful, I can send one unit. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

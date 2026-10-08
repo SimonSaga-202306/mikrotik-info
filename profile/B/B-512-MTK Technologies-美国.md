@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：MTK Technologies, Inc.(Champaign, Illinois;1996 创立本地 IT 咨询公司,51-200 人,$19M+ 年收口径;Microsoft Server/SQL/Exchange…
+- **是谁**：波 30·B-512:美国谱: **守档准由·原 R65/R57 谱基增厚**:MTK Technologies Inc.（伊利诺伊 Savoy, Champaign-Urbana 圈 1 College Park Ct…
 - **商业模式**：工程/项目集成
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — SMB MSP 谱的接入 PoE 标准化 SKU 位；楼价档 24 口随单；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 工程/项目集成 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | MTK Technologies, Inc.(Champaign, Illinois;1996 创立本地 IT 咨询公司,51-200 人,$19M+ 年收口径;Microsoft Server/SQL/Exchange/Untangle/Sonicwall/VMware 支持+270+ LOB 应用;Kailash Chakravarti = Presid | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】典型 SMB MSP 谱（Fortinet/SonicWall/Untangle=墙典型 MSP 三层）;MikroTik+Ubiquiti 都在=无线+路由类，SMB PoE 接入层 SKU 其谱未明显——补位线 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 30·B-512:美国谱: **守档准由·原 R65/R57 谱基增厚**:MTK Technologies Inc.（伊利诺伊 Savoy, Champaign-Urbana 圈 1 College Park Ct):1996 年创；SMB 向企业级 IT 服务（Managed IT/Cybersecurity/Cloud/Help Desk/Netw | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】MTK Technologies Inc.（伊利诺伊 Savoy, Champaign-Urbana 圈 1 College Park Ct):1996 年创；SMB 向企业级 IT 服务（Managed IT/Cybersecurity/Cloud/Help Desk/Network Management/IT Consulting);235+ active clients；牌谱 Fortinet/SonicWall/Untangle/HP/Supermicro/ASUS/Samsung/WD/Google/MikroTik/Ubiquiti/Nakivo;24/7 managed 支持 | R64 并入:Kailash Chakravarti = President;Sayyed Fazal = Business Deve
-- 【推断】典型 SMB MSP 谱（Fortinet/SonicWall/Untangle=墙典型 MSP 三层）;MikroTik+Ubiquiti 都在=无线+路由类，SMB PoE 接入层 SKU 其谱未明显——补位线
-- 【假设】SMB MSP 谱的 PoE 接入 SKU 架上大都走 Ubiquiti/one-off;STC-424 以「MSP 随单标准化 SKU」角度开口（季锚价+RMA 直通）
+- 【事实】波 30·B-512:美国谱: **守档准由·原 R65/R57 谱基增厚**:MTK Technologies Inc.（伊利诺伊 Savoy, Champaign-Urbana 圈 1 College Park Ct):1996 年创；SMB 向企业级 IT 服务（Managed IT/Cybersecurity/Cloud/Help Desk/Network Management/IT Consulting);235+ active clients；牌谱 Fortinet/SonicWall/Untangle/HP/Supermicro/ASUS/Samsung/WD/Google/MikroTik/Ubiquiti/Nakivo;24/7 managed 支持 | R64 并入:Kailash Chakravarti = President;Sayyed Fazal = Business Deve;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第1波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 30 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】典型 SMB MSP 谱（Fortinet/SonicWall/Untangle=墙典型 MSP 三层）;MikroTik+Ubiquiti 都在=无线+路由类，SMB PoE 接入层 SKU 其谱未明显——补位线
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -89,53 +89,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · MSP 标准化 SKU 方案单页
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：SMB MSP 谱的 PoE 接入 SKU 架上大都走 Ubiquiti/one-off;STC-424 以「MSP 随单标准化 SKU」角度开口（季锚价+RMA 直通）
-- **要问的问题**：你们 235 家 managed 客户里的 PoE 接入现在标准化哪个 SKU？RMA 周期要求多少？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · 样机提议
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：SMB MSP 谱的 PoE 接入 SKU 架上大都走 Ubiquiti/one-off;STC-424 以「MSP 随单标准化 SKU」角度开口（季锚价+RMA 直通）
-- **要问的问题**：你们 235 家 managed 客户里的 PoE 接入现在标准化哪个 SKU？RMA 周期要求多少？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 归档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：SMB MSP 谱的 PoE 接入 SKU 架上大都走 Ubiquiti/one-off;STC-424 以「MSP 随单标准化 SKU」角度开口（季锚价+RMA 直通）
-- **要问的问题**：你们 235 家 managed 客户里的 PoE 接入现在标准化哪个 SKU？RMA 周期要求多少？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 3 批精修 = R57 转写 + R64 KP 猎捕战果并入)**；原始记录：`batch/B类深挖_2026-10-07_R65_第3批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
 
-- **背景深描**：MTK Technologies, Inc.(Champaign, Illinois;1996 创立本地 IT 咨询公司,51-200 人,$19M+ 年收口径;Microsoft Server/SQL/Exchange/Untangle/Sonicwall/VMware 支持+270+ LOB 应用;Kailash Chakravarti = President(zoominfo 确认),@mtktechnologies.com 模式(库内 CSV mtk-tech.com 域名需核正)
-- **芯片与在用型号**：【推断】典型 SMB MSP 谱（Fortinet/SonicWall/Untangle=墙典型 MSP 三层）;MikroTik+Ubiquiti 都在=无线+路由类，SMB PoE 接入层 SKU 其谱未明显——补位线
-- **关键人KP**：Kailash Chakravarti = President;Sayyed Fazal = Business Development Manager(Dover DE)
-- **关注点与资质**：MikroTik + Ubiquiti（另用 Cisco/Fortinet/Ruckus 等） | 传承人名开口：见 KP 表
-- **优缺点SWOT**：S:30 年 MSP 深谱+235 客户面 / W:SMB 价格为王、技差别低 / O:STC-424 为 managed 标准接入 SKU / T:RMA 反应度是决因
-- **Saga产品适配**：SMB MSP 谱的接入 PoE 标准化 SKU 位；楼价档 24 口随单
+- **背景深描**：波 30·B-512:美国谱: **守档准由·原 R65/R57 谱基增厚**:MTK Technologies Inc.（伊利诺伊 Savoy, Champaign-Urbana 圈 1 College Park Ct):1996 年创；SMB 向企业级 IT 服务（Managed IT/Cybersecurity/Cloud/Help Desk/Network Management/IT Consulting);235+ active clients；牌谱 Fortinet/SonicWall/Untangle/HP/Supermicro/ASUS/Samsung/WD/Google/MikroTik/Ubiquiti/Nakivo;24/7 managed 支持 | R64 并入:Kailash Chakravarti = President;Sayyed Fazal = Business Deve;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第1波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
+- **关注点与资质**：美国 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**Fortinet, SonicWall, Untangle…MikroTik, Ubiquiti, Nakivo…235+ active clients
-  > Fortinet, SonicWall, Untangle…MikroTik, Ubiquiti, Nakivo…235+ active clients
+- **【联系方式与基础画像】**MTK Technologies Inc.（伊利诺伊 Savoy, Champaign-Urbana 圈 1 College Park Ct):1996 年创；SMB 向企业级 IT 服务（Managed IT/Cybersecurity/Cloud/Help Desk/Network Management/IT Co
+  > MTK Technologies Inc.（伊利诺伊 Savoy, Champaign-Urbana 圈 1 College Park Ct):1996 年创；SMB 向企业级 IT 服务（Managed IT/Cybersecurity/Cloud/Help Desk/Network Management/IT Co
   > 来源：https://mtk-tech.com/
-- **【R57备护深挖证据】**1996 30+ Years of Service…Champaign-Urbana, serving businesses across the Midwest
-  > 1996 30+ Years of Service…Champaign-Urbana, serving businesses across the Midwest
+- **【联系方式与基础画像】**CSV 入口:info@mtk-tech.com；(217) 402-9070
+  > CSV 入口:info@mtk-tech.com；(217) 402-9070
   > 来源：https://mtk-tech.com/
-- **【R64 董事实名】**Kailash Chakravarti President @ MTK Technologies(zoominfo 未锁版; k***@mtktechnologies.com 模式提示=president 域)
-  > Kailash Chakravarti's role at MTK Technologies is President … k***@mtktechnologies.com
-  > 来源：https://www.zoominfo.com/p/Kailash-Chakravarti/1721726706
-- **【R64 域核正】**CSV 网站=mtk-tech.com(简缩);实际职能域疑为 mtktechnologies.com(全员邮箱长域),需核 XML
-  > MTK Technologies, Inc. is a small, locally owned IT consulting firm based in Champaign, Illinois … since 1996 … Microsoft network support
-  > 来源：https://www.zoominfo.com/c/mtk-technologies-inc/346288944
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -148,7 +142,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:30 年 MSP 深谱+235 客户面 / W:SMB 价格为王、技差别低 / O:STC-424 为 managed 标准接入 SKU / T:RMA 反应度是决因
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -176,8 +170,8 @@ S:30 年 MSP 深谱+235 客户面 / W:SMB 价格为王、技差别低 / O:STC-42
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] managed 客户的 PoE 接层 SKU 标准化程度与频次
-  - [ ] MSP 对 supplier 的 RMA 节奏要求（SMB 量多频高）
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -186,21 +180,15 @@ S:30 年 MSP 深谱+235 客户面 / W:SMB 价格为王、技差别低 / O:STC-42
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi MTK team,
+Dear MTK Technologies Team,
 
-Champaign-Urbana MSP core with 30 years behind you and 235+ managed clients - the fleet of access switches inside those sites is already an operations problem you feel every quarter.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation and fast RMA terms. Reference: $180 USD EXW (2026-09-29) - designed as the standardized access SKU for managed fleets.
-
-One question: across your managed base, which PoE access switch is your standard SKU today - and what RMA turnaround would make a second source safe to standardize on?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

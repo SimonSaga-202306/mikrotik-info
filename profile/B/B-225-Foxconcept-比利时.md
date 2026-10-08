@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Foxconcept BV(BE 0872.787.192,Rue Mathias 9, 5140 Sombreffe, Belgium;2005-03-24 创;谱型=ICT 服务/咨询/软件(Nacebel 6220…
+- **是谁**：波 29·B-225:比利时谱: **守档准由·原 R65/R57 谱基增厚**:Foxconcept Sprl.(Tongrinne,Namur 区;1-10 人;**IT 服务商:企业 IT 维护支持(按需/周期合同…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 判型校正:IT 服务商备养,按顾问/集成商模板激活；—（合作探询，无量产报价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Foxconcept BV(BE 0872.787.192,Rue Mathias 9, 5140 Sombreffe, Belgium;2005-03-24 创;谱型=ICT 服务/咨询/软件(Nacebel 62200),komalyse 2076e（毛利 €471,759);foxconcept.be 2001-12 幔幔 24 年域 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】**判型校正:CSV 判「分销」**,实为比利时瓦隆区小企业 IT 服务商(项目/维护主导,MikroTik Reseller 只是项目采购通道),非货架分销 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 29·B-225:比利时谱: **守档准由·原 R65/R57 谱基增厚**:Foxconcept Sprl.(Tongrinne,Namur 区;1-10 人;**IT 服务商:企业 IT 维护支持(按需/周期合同+远程)+网络施工(布线/无线/协议控制)+VoIP+Web 设计**;具名老板 David RENARD(verixi.be 伙伴页);h | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Foxconcept Sprl.(Tongrinne,Namur 区;1-10 人;**IT 服务商:企业 IT 维护支持(按需/周期合同+远程)+网络施工(布线/无线/协议控制)+VoIP+Web 设计**;具名老板 David RENARD(verixi.be 伙伴页);helpdesk@foxconcept.be) | R65 深挖:比利时 ICT 咨询实体 2005;Sombreffe 谱位
-- 【推断】**判型校正:CSV 判「分销」**,实为比利时瓦隆区小企业 IT 服务商(项目/维护主导,MikroTik Reseller 只是项目采购通道),非货架分销
-- 【假设】开口角度=「服务商备养:项目自选件价值档」:先验活跃,激活后按顾问/集成商模板出信(具名 David)
+- 【事实】波 29·B-225:比利时谱: **守档准由·原 R65/R57 谱基增厚**:Foxconcept Sprl.(Tongrinne,Namur 区;1-10 人;**IT 服务商:企业 IT 维护支持(按需/周期合同+远程)+网络施工(布线/无线/协议控制)+VoIP+Web 设计**;具名老板 David RENARD(verixi.be 伙伴页);helpdesk@foxconcept.be) | R65 深挖:比利时 ICT 咨询实体 2005;Sombreffe 谱位;R66 第 29 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第11波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 29 波守档准由谱
+- 【假设】掌件区非商触(非卖品对照架)
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】**判型校正:CSV 判「分销」**,实为比利时瓦隆区小企业 IT 服务商(项目/维护主导,MikroTik Reseller 只是项目采购通道),非货架分销
+CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -86,43 +86,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（OEM/白牌合作探询（无量产型号首推）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+7 · 活跃度快验
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「服务商备养:项目自选件价值档」:先验活跃,激活后按顾问/集成商模板出信(具名 David)
-- **要问的问题**：(先验活跃)你们做维护/网络施工项目时,PoE 交换机现随哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：掌件区技术参件
+- **要问的问题**：可否入技术参件对照架名录？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+30 · 果归守档
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「服务商备养:项目自选件价值档」:先验活跃,激活后按顾问/集成商模板出信(具名 David)
-- **要问的问题**：(先验活跃)你们做维护/网络施工项目时,PoE 交换机现随哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档
+
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 17 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第17批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
 
-- **背景深描**：Foxconcept BV(BE 0872.787.192,Rue Mathias 9, 5140 Sombreffe, Belgium;2005-03-24 创;谱型=ICT 服务/咨询/软件(Nacebel 62200),komalyse 2076e（毛利 €471,759);foxconcept.be 2001-12 幔幔 24 年域
-- **芯片与在用型号**：【推断】**判型校正:CSV 判「分销」**,实为比利时瓦隆区小企业 IT 服务商(项目/维护主导,MikroTik Reseller 只是项目采购通道),非货架分销
-- **关键人KP**：—(BV 实体名行政登记 trendstop 未披露；R65 谱位+财务数据足档）
-- **关注点与资质**：MikroTik（Reseller） 
-- **优缺点SWOT**：S:具名老板直通+维护合约谱 / W:1-10 人极小 / O:维护/施工项目 PoE 自选件 / T:体量不支撑分销合作形态
-- **Saga产品适配**：判型校正:IT 服务商备养,按顾问/集成商模板激活
+- **背景深描**：波 29·B-225:比利时谱: **守档准由·原 R65/R57 谱基增厚**:Foxconcept Sprl.(Tongrinne,Namur 区;1-10 人;**IT 服务商:企业 IT 维护支持(按需/周期合同+远程)+网络施工(布线/无线/协议控制)+VoIP+Web 设计**;具名老板 David RENARD(verixi.be 伙伴页);helpdesk@foxconcept.be) | R65 深挖:比利时 ICT 咨询实体 2005;Sombreffe 谱位;R66 第 29 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第11波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
+- **关注点与资质**：比利时 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
+- **Saga产品适配**：CONSULT-OEM 掌件区非卖品对照
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**Provides IT maintenance and user support through on-demand or periodic contracts … Network Configuration … 1-10 … Tongrinne, Namur
-  > Provides IT maintenance and user support through on-demand or periodic contracts … Network Configuration … 1-10 … Tongrinne, Namur
-  > 来源：https://www.crunchbase.com/organization/foxconcept
-- **【R57备护深挖证据】**FOXconcept SRL Rue Mathias 9, 5140 Tongrinne Contact: David RENARD Tel: +32 2 808 35 35 Email: helpdesk@foxconcept.be
-  > FOXconcept SRL Rue Mathias 9, 5140 Tongrinne Contact: David RENARD Tel: +32 2 808 35 35 Email: helpdesk@foxconcept.be
-  > 来源：https://www.verixi.be/partners/
-- **【R65 登记/财务】**Foxconcept BE 0872.787.192 · Sombreffe Rue Mathias 9 · ICT 服务 62200 · 毛利 €471.7K
-  > Foxconcept BV Besloten vennootschap … BE 0872.787.192 - Rue Mathias 9, 5140 SOMBREFFE … brutomarge van 471.759 euro is Foxconcept 2076e in de sector ICT
-  > 来源：https://trendstop.knack.be/nl/detail/872787192/foxconcept.aspx
+- **【联系方式与基础画像】**Foxconcept Sprl.(Tongrinne,Namur 区;1-10 人;**IT 服务商:企业 IT 维护支持(按需/周期合同+远程)+网络施工(布线/无线/协议控制)+VoIP+Web 设计**;具名老板 David RENARD(verixi.be 伙伴页);helpdesk@foxconcept.be
+  > Foxconcept Sprl.(Tongrinne,Namur 区;1-10 人;**IT 服务商:企业 IT 维护支持(按需/周期合同+远程)+网络施工(布线/无线/协议控制)+VoIP+Web 设计**;具名老板 David RENARD(verixi.be 伙伴页);helpdesk@foxconcept.be
+  > 来源：https://foxconcept.be/
+- **【联系方式与基础画像】**CSV 入口:+32 2 808 35 35 / info@foxconcept.be
+  > CSV 入口:+32 2 808 35 35 / info@foxconcept.be
+  > 来源：https://foxconcept.be/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -135,7 +139,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:具名老板直通+维护合约谱 / W:1-10 人极小 / O:维护/施工项目 PoE 自选件 / T:体量不支撑分销合作形态
+S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -163,8 +167,8 @@ S:具名老板直通+维护合约谱 / W:1-10 人极小 / O:维护/施工项目 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 在手维护合同量
-  - [ ] 项目谱网络件自选权重
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -173,21 +177,10 @@ S:具名老板直通+维护合约谱 / W:1-10 人极小 / O:维护/施工项目 
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：Neutral-built PoE switches under your own label
+**主题**：（非卖品掌件区,不出信)
 
 ```text
-Hi Foxconcept,
-
-I came across Foxconcept - 分销（MikroTik 官方）.
-
-We manufacture PoE access switches (Marvell-based, L2+) for OEM/white-label programs - neutral packing, your model numbers, ODM options on request.
-
-One question: (先验活跃)你们做维护/网络施工项目时,PoE 交换机现随哪家?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+（掌件区非卖品·CONSULT-OEM 对照架,只做技术参件,不出英文首触信）
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

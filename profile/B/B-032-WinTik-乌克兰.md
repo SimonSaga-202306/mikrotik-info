@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：WinTik（乌克兰;2017 创店+集成服务）:MikroTik 官方 reseller(2018 起）;提供 СКД access control/СКС cabling/视频监控综合布线安装服务;面向运营商/企业大…
+- **是谁**：波 29·B-032:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:WinTik（乌克兰;2017 创店+集成服务）:MikroTik 官方 reseller(2018 起）;提供 СКД access c…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 政企项目+集成服务双血统的 PoE 楼价档随单（СКД/监控项目正口）；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | WinTik（乌克兰;2017 创店+集成服务）:MikroTik 官方 reseller(2018 起）;提供 СКД access control/СКС cabling/视频监控综合布线安装服务;面向运营商/企业大盘客户/政府部门;店面架构多元+集成服务血统 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】店+集成低规模血统:贸易限货类店叠率低,集成服务为二级市场营收引擎;向政企客拉货=集销商服务化电商谱 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 29·B-032:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:WinTik（乌克兰;2017 创店+集成服务）:MikroTik 官方 reseller(2018 起）;提供 СКД access control/СКС cabling/视频监控综合布线安装服务;面向运营商/企业大盘客户/政府部门;店面架构多元+集成服务血统;R66 第  | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】WinTik（乌克兰;2017 创店+集成服务）:MikroTik 官方 reseller(2018 起）;提供 СКД access control/СКС cabling/视频监控综合布线安装服务;面向运营商/企业大盘客户/政府部门;店面架构多元+集成服务血统
-- 【推断】店+集成低规模血统:贸易限货类店叠率低,集成服务为二级市场营收引擎;向政企客拉货=集销商服务化电商谱
-- 【假设】开口角度=「政企集成业务的 PoE 接层 value SKU 档随单」——WinTik 政企类目+СКД/视频监控集成谱多=刚需 PoE 接入交换在 BOM 决定性位置
+- 【事实】波 29·B-032:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:WinTik（乌克兰;2017 创店+集成服务）:MikroTik 官方 reseller(2018 起）;提供 СКД access control/СКС cabling/视频监控综合布线安装服务;面向运营商/企业大盘客户/政府部门;店面架构多元+集成服务血统;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第2波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 29 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】店+集成低规模血统:贸易限货类店叠率低,集成服务为二级市场营收引擎;向政企客拉货=集销商服务化电商谱
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -85,47 +85,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · СКД/监控项目 BOM 随单方案页
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「政企集成业务的 PoE 接层 value SKU 档随单」——WinTik 政企类目+СКД/视频监控集成谱多=刚需 PoE 接入交换在 BOM 决定性位置
-- **要问的问题**：你们的 СКД/视频监控政企项目里,PoE 接层现在走哪个 SKU？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · 样机提议
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「政企集成业务的 PoE 接层 value SKU 档随单」——WinTik 政企类目+СКД/视频监控集成谱多=刚需 PoE 接入交换在 BOM 决定性位置
-- **要问的问题**：你们的 СКД/视频监控政企项目里,PoE 接层现在走哪个 SKU？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「政企集成业务的 PoE 接层 value SKU 档随单」——WinTik 政企类目+СКД/视频监控集成谱多=刚需 PoE 接入交换在 BOM 决定性位置
-- **要问的问题**：你们的 СКД/视频监控政企项目里,PoE 接层现在走哪个 SKU？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
 
-- **背景深描**：WinTik（乌克兰;2017 创店+集成服务）:MikroTik 官方 reseller(2018 起）;提供 СКД access control/СКС cabling/视频监控综合布线安装服务;面向运营商/企业大盘客户/政府部门;店面架构多元+集成服务血统
-- **芯片与在用型号**：【推断】店+集成低规模血统:贸易限货类店叠率低,集成服务为二级市场营收引擎;向政企客拉货=集销商服务化电商谱
-- **关键人KP**：—
-- **关注点与资质**：MikroTik（Reseller） 
-- **优缺点SWOT**：S:政企项目+集成服务双血 / W:店谱杂、供应链面浅 / O:政企 BOM 随单 / T:政企项目对品牌谱守度
-- **Saga产品适配**：政企项目+集成服务双血统的 PoE 楼价档随单（СКД/监控项目正口）
+- **背景深描**：波 29·B-032:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:WinTik（乌克兰;2017 创店+集成服务）:MikroTik 官方 reseller(2018 起）;提供 СКД access control/СКС cabling/视频监控综合布线安装服务;面向运营商/企业大盘客户/政府部门;店面架构多元+集成服务血统;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第2波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
+- **关注点与资质**：乌克兰 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**В 2017 году мы стартовали с небольшого интернет-магазина для провайдеров…официальным реселлером Mikrotik
-  > В 2017 году мы стартовали с небольшого интернет-магазина для провайдеров…официальным реселлером Mikrotik
-  > 来源：https://wintik.com.ua/about-us
-- **【R57备护深挖证据】**услуги по монтажу и настройке СКД, СКС, видеонаблюдения
-  > услуги по монтажу и настройке СКД, СКС, видеонаблюдения
-  > 来源：https://wintik.com.ua/about-us
+- **【联系方式与基础画像】**WinTik（乌克兰;2017 创店+集成服务）:MikroTik 官方 reseller(2018 起）;提供 СКД access control/СКС cabling/视频监控综合布线安装服务;面向运营商/企业大盘客户/政府部门;店面架构多元+集成服务血统
+  > WinTik（乌克兰;2017 创店+集成服务）:MikroTik 官方 reseller(2018 起）;提供 СКД access control/СКС cabling/视频监控综合布线安装服务;面向运营商/企业大盘客户/政府部门;店面架构多元+集成服务血统
+  > 来源：https://wintik.com.ua/
+- **【联系方式与基础画像】**CSV 入口:+380 68 810 46 29 / sale@wintik.com.ua
+  > CSV 入口:+380 68 810 46 29 / sale@wintik.com.ua
+  > 来源：https://wintik.com.ua/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -138,7 +138,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:政企项目+集成服务双血 / W:店谱杂、供应链面浅 / O:政企 BOM 随单 / T:政企项目对品牌谱守度
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -166,8 +166,8 @@ S:政企项目+集成服务双血 / W:店谱杂、供应链面浅 / O:政企 BOM
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 政企业务 PoE 接层现行选型
-  - [ ] 店货业务的 value PoE 档存货进深
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -176,21 +176,15 @@ S:政企项目+集成服务双血 / W:店谱杂、供应链面浅 / O:政企 BOM
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi WinTik team,
+Dear WinTik Team,
 
-Access control, structured cabling, video surveillance, and a government/corporate client roster - your integration business makes the PoE access layer one of the most BOM-critical parts of what you deliver.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Ukrainian-friendly documentation. Reference: $180 USD EXW (2026-09-29) - a value PoE baseline designed for access-control/surveillance project BOMs.
-
-One question: for the access-control and surveillance projects you deliver to corporate and government clients, which PoE access switch are you standardizing on today - and is there room for a documented second source?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

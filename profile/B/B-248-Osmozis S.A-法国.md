@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Osmozis S.A.(Montpellier;2005 年 Gérard Tremblay + Yves Boulot 联合创;谱型=露营地/度假村 WiFi & IoT 数字化欧洲头号专家——2600+ sites…
+- **是谁**：波 29·B-248:法国谱: **守档准由·原 R65/R57 谱基增厚**:Osmozis S.A.(法国中南部 Clapiers/Montpellier 34830 7 avenue de l'Europe):**…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 露营 WiFi 自用网络的 PoE 组网接线(bornes backhaul 位+中心接入双样）；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Osmozis S.A.(Montpellier;2005 年 Gérard Tremblay + Yves Boulot 联合创;谱型=露营地/度假村 WiFi & IoT 数字化欧洲头号专家——2600+ sites/108 员工/2023 €12.8M;2017 Euronext 上市(FR0013231180),2024-05 被 Passman 集 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】「自研 outdoor bornes+软件全家」血脉有力:上游自产 AP/IoT 不与我们 PoE 交换正对面;整个 bornes 组网刚需 PoE 接入交换(我们补后特正位) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 29·B-248:法国谱: **守档准由·原 R65/R57 谱基增厚**:Osmozis S.A.(法国中南部 Clapiers/Montpellier 34830 7 avenue de l'Europe):**法国第一的露营地 WiFi/IoT 运营商+自研**——自制 bornes WiFi hotspots(户外 bornes)+软件全家(Os | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Osmozis S.A.(法国中南部 Clapiers/Montpellier 34830 7 avenue de l'Europe):**法国第一的露营地 WiFi/IoT 运营商+自研**——自制 bornes WiFi hotspots(户外 bornes)+软件全家(OsmoGestion/OsmoVentes/OsmoPay/OsmoKey/OsmoPower/OsmoWater);CA €1M+;曾启动 Alternext 上市计划;FB 页主「opérateur majeur de réseaux Wifi et de l'Internet des Objets」 | R65 深挖:露营 WiFi 全欧大户;Passman 收购在架
-- 【推断】「自研 outdoor bornes+软件全家」血脉有力:上游自产 AP/IoT 不与我们 PoE 交换正对面;整个 bornes 组网刚需 PoE 接入交换(我们补后特正位)
-- 【假设】开口角度=「露营地 bornes 组网的回程部署 PoE 位随单/OEM 后特」:STC-424 在 bornes backhaul 里（中心 narc 室）+STI-288GP DIN 轨（每个 bornes 节子服务）。P1 双联呈
+- 【事实】波 29·B-248:法国谱: **守档准由·原 R65/R57 谱基增厚**:Osmozis S.A.(法国中南部 Clapiers/Montpellier 34830 7 avenue de l'Europe):**法国第一的露营地 WiFi/IoT 运营商+自研**——自制 bornes WiFi hotspots(户外 bornes)+软件全家(OsmoGestion/OsmoVentes/OsmoPay/OsmoKey/OsmoPower/OsmoWater);CA €1M+;曾启动 Alternext 上市计划;FB 页主「opérateur majeur de réseaux Wifi et de l'Internet des Objets」 | R65 深挖:露营 WiFi 全欧大户;Passman 收购在架;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第4波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 29 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】「自研 outdoor bornes+软件全家」血脉有力:上游自产 AP/IoT 不与我们 PoE 交换正对面;整个 bornes 组网刚需 PoE 接入交换(我们补后特正位)
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -69,7 +69,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- Osmozis S.A.(Montpellier;2005 年 Gérard Tremblay + Yves Boulot 联合创;谱型=露营地/度假村 WiFi & IoT 数字化欧洲头号专家——2600+ sites/108 员工/2023 €12.8M;2017 Euronext 上市(FR0013231180),2024-05 被 Passman 集团收购 €15/股 OPA;**KP:Gérard Tremblay+Yves Boulot 联合创始人;Pierre-Benoit Labbé 总经理(现任)**
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -95,50 +95,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · bornes PoE 接线部署页(核心+节子双联）
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「露营地 bornes 组网的回程部署 PoE 位随单/OEM 后特」:STC-424 在 bornes backhaul 里（中心 narc 室）+STI-288GP DIN 轨（每个 bornes 节子服务）。P1 双联呈
-- **要问的问题**：你们的 bornes 组网(backhaul + camp LAN)里,PoE 接层现供哪个 OEM？OEM 贴牌？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · 样机 OEM 贴牌提案
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「露营地 bornes 组网的回程部署 PoE 位随单/OEM 后特」:STC-424 在 bornes backhaul 里（中心 narc 室）+STI-288GP DIN 轨（每个 bornes 节子服务）。P1 双联呈
-- **要问的问题**：你们的 bornes 组网(backhaul + camp LAN)里,PoE 接层现供哪个 OEM？OEM 贴牌？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「露营地 bornes 组网的回程部署 PoE 位随单/OEM 后特」:STC-424 在 bornes backhaul 里（中心 narc 室）+STI-288GP DIN 轨（每个 bornes 节子服务）。P1 双联呈
-- **要问的问题**：你们的 bornes 组网(backhaul + camp LAN)里,PoE 接层现供哪个 OEM？OEM 贴牌？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 11 批精修 = R57 转写 + 本轮登记/媒体新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第11批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
 
-- **背景深描**：Osmozis S.A.(Montpellier;2005 年 Gérard Tremblay + Yves Boulot 联合创;谱型=露营地/度假村 WiFi & IoT 数字化欧洲头号专家——2600+ sites/108 员工/2023 €12.8M;2017 Euronext 上市(FR0013231180),2024-05 被 Passman 集团收购 €15/股 OPA;**KP:Gérard Tremblay+Yves Boulot 联合创始人;Pierre-Benoit Labbé 总经理(现任)**
-- **芯片与在用型号**：【推断】「自研 outdoor bornes+软件全家」血脉有力:上游自产 AP/IoT 不与我们 PoE 交换正对面;整个 bornes 组网刚需 PoE 接入交换(我们补后特正位)
-- **关键人KP**：Gérard Tremblay + Yves Boulot = 联合创始人;Pierre-Benoit Labbé = Directeur Général(现任, Passman 收购在架仍原位)
-- **关注点与资质**：MikroTik（Master） 
-- **优缺点SWOT**：S:法国第一露营 WiFi 运营+自牌血统 / W:主路径 WiFi harvest 不是 PoE / O:bornes 组网 backhaul/备触 PoE 刚需随单 / T:其自研 AP 和我 outdoor 在我司面同向
-- **Saga产品适配**：露营 WiFi 自用网络的 PoE 组网接线(bornes backhaul 位+中心接入双样）
+- **背景深描**：波 29·B-248:法国谱: **守档准由·原 R65/R57 谱基增厚**:Osmozis S.A.(法国中南部 Clapiers/Montpellier 34830 7 avenue de l'Europe):**法国第一的露营地 WiFi/IoT 运营商+自研**——自制 bornes WiFi hotspots(户外 bornes)+软件全家(OsmoGestion/OsmoVentes/OsmoPay/OsmoKey/OsmoPower/OsmoWater);CA €1M+;曾启动 Alternext 上市计划;FB 页主「opérateur majeur de réseaux Wifi et de l'Internet des Objets」 | R65 深挖:露营 WiFi 全欧大户;Passman 收购在架;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第4波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
+- **关注点与资质**：法国 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**OSMOZIS S.A. est opérateur majeur de réseaux Wifi et de l'Internet des Objets (IoT) dédiés aux campings
-  > OSMOZIS S.A. est opérateur majeur de réseaux Wifi et de l'Internet des Objets (IoT) dédiés aux campings
-  > 来源：https://www.facebook.com/osmozis.wifi/
-- **【R57备护深挖证据】**Osmozis fabrique et installe des bornes WiFi hotspots adaptées aux terrains de campings…OsmoGestion/OsmoVentes/Wi-Fi Camping/OsmoKey/OsmoPay
-  > Osmozis fabrique et installe des bornes WiFi hotspots adaptées aux terrains de campings…OsmoGestion/OsmoVentes/Wi-Fi Camping/OsmoKey/OsmoPay/OsmoPower
-  > 来源：https://www.gestion-camping.com/fournisseurs-camping/646/osmozis.html
-- **【R65 谱位+收购】**Osmozis 露营度假 WiFi 欧洲一号 2600+ 站 · 108人/12.8M€(2023) · 2017 Euronext 上市 FR0013231180 · 2024-05 Passman 15€/股 收购
-  > Osmozis, spécialiste de la transition digitale des campings … équipe plus de 2 600 sites en Europe … 108 personnes … 12,8 M€ … annonce rejoindre le groupe Passman … Gérard Tremblay et Yves Boulot, cofondateurs d’Osmozis
-  > 来源：https://gazette-du-midi.fr/au-sommaire/entreprises/osmozis-specialiste-de-la-digitalisation-des-campings-accelere-son
+- **【联系方式与基础画像】**Osmozis S.A.(法国中南部 Clapiers/Montpellier 34830 7 avenue de l'Europe):**法国第一的露营地 WiFi/IoT 运营商+自研**——自制 bornes WiFi hotspots(户外 bornes)+软件全家(OsmoGestion/OsmoVentes
+  > Osmozis S.A.(法国中南部 Clapiers/Montpellier 34830 7 avenue de l'Europe):**法国第一的露营地 WiFi/IoT 运营商+自研**——自制 bornes WiFi hotspots(户外 bornes)+软件全家(OsmoGestion/OsmoVentes
+  > 来源：https://osmozis.com/
+- **【联系方式与基础画像】**CSV 入口:+33 4 11 93 27 51 / support@osmozis.com
+  > CSV 入口:+33 4 11 93 27 51 / support@osmozis.com
+  > 来源：https://osmozis.com/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -151,7 +148,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:法国第一露营 WiFi 运营+自牌血统 / W:主路径 WiFi harvest 不是 PoE / O:bornes 组网 backhaul/备触 PoE 刚需随单 / T:其自研 AP 和我 outdoor 在我司面同向
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -179,8 +176,8 @@ S:法国第一露营 WiFi 运营+自牌血统 / W:主路径 WiFi harvest 不是 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 自产 bornes 组网中 PoE 接层/回程现供(每个 bornes/共 camp LAN 中心）
-  - [ ] Alternext 上市计划构成谱压力(公众化后采购单层面）
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -189,21 +186,15 @@ S:法国第一露营 WiFi 运营+自牌血统 / W:主路径 WiFi harvest 不是 
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Osmozis team,
+Dear Osmozis S.A. Team,
 
-France's leading WiFi-and-IoT operator for campgrounds with your own bornes, your own software stack (OsmoGestion / OsmoPay / OsmoPower…), and a network story so good it once had you looking at Alternext - bornes everywhere, and every single one of them is a PoE load.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build PoE switches for exactly that job: a 24-port PoE+ managed switch (280W, L2-lite, $180 USD EXW ref. 2026-09-29) for the camp LAN core, and an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class, $74.8 EXW) for the individual borne cabinets. Full English/French documentation, fully open to Osmozis own branding.
-
-One question: across your bornes and camp LAN installations, which PoE source are your borne boxes and the camp core running on today - and would a documented OEM unit earn a bench test?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

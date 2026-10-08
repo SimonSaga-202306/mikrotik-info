@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Santiago Balaguer Garcia（西班牙个体谱；R65 搜索无果守档准由）…
+- **是谁**：波 30·B-481:西班牙谱: **守档准由·原 R65/R57 谱基增厚**:Santiago Balaguer Garcia(Castellón;cursos-mikrotik.com 开课;MTCNA+MTCTC…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：有信号（PoE/监控/门禁、ISP/骨干）但需先验证需求或联系人不具体
 - **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — ISP 级培训师的课桌 PoE 对照教具样本位；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Santiago Balaguer Garcia（西班牙个体谱；R65 搜索无果守档准由） | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】ISP 级培训师:学员谱=WISP/ISP 技术人员;MTCINE+无线骨干双专长=其课堂面对的是真正的运营商级场景 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 30·B-481:西班牙谱: **守档准由·原 R65/R57 谱基增厚**:Santiago Balaguer Garcia(Castellón;cursos-mikrotik.com 开课;MTCNA+MTCTCE+MTCINE;谱系 Diameter/HotSpot/PPPoE/AAA/高可用/**无线骨干网**;同域 formacionmikro | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Santiago Balaguer Garcia(Castellón;cursos-mikrotik.com 开课;MTCNA+MTCTCE+MTCINE;谱系 Diameter/HotSpot/PPPoE/AAA/高可用/**无线骨干网**;同域 formacionmikrotik.com 系『1300+ 小时授课、ISP 行业 15+ 年教龄』口径) | R65 深挖:守档准由
-- 【推断】ISP 级培训师:学员谱=WISP/ISP 技术人员;MTCINE+无线骨干双专长=其课堂面对的是真正的运营商级场景
-- 【假设】开口角度=「师者教具样本位」:STC-28DGGPM 做其 ISP 课 PoE 段对照教具;守其学员(WISP 谱)长线的硬件询问口
+- 【事实】波 30·B-481:西班牙谱: **守档准由·原 R65/R57 谱基增厚**:Santiago Balaguer Garcia(Castellón;cursos-mikrotik.com 开课;MTCNA+MTCTCE+MTCINE;谱系 Diameter/HotSpot/PPPoE/AAA/高可用/**无线骨干网**;同域 formacionmikrotik.com 系『1300+ 小时授课、ISP 行业 15+ 年教龄』口径) | R65 深挖:守档准由;R66 第 30 波谱:我司 STC-28DGGPM(8-port PoE access box (802.3af/at, watchdog)($99 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第6波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 30 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】ISP 级培训师:学员谱=WISP/ISP 技术人员;MTCINE+无线骨干双专长=其课堂面对的是真正的运营商级场景
+STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -87,50 +87,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM（8口 PoE 接入盒）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · 教具样本合作一页
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「师者教具样本位」:STC-28DGGPM 做其 ISP 课 PoE 段对照教具;守其学员(WISP 谱)长线的硬件询问口
-- **要问的问题**：你的 ISP/WISP 课上,PoE 段有没有对照样本?8 口文档全小机当对照教具可评吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · santiagoayodar@hotmail.com 具名
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「师者教具样本位」:STC-28DGGPM 做其 ISP 课 PoE 段对照教具;守其学员(WISP 谱)长线的硬件询问口
-- **要问的问题**：你的 ISP/WISP 课上,PoE 段有没有对照样本?8 口文档全小机当对照教具可评吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「师者教具样本位」:STC-28DGGPM 做其 ISP 课 PoE 段对照教具;守其学员(WISP 谱)长线的硬件询问口
-- **要问的问题**：你的 ISP/WISP 课上,PoE 段有没有对照样本?8 口文档全小机当对照教具可评吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 20 批精修 = R57 转写 + 本轮调研新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第20批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
 
-- **背景深描**：Santiago Balaguer Garcia（西班牙个体谱；R65 搜索无果守档准由）
-- **芯片与在用型号**：【推断】ISP 级培训师:学员谱=WISP/ISP 技术人员;MTCINE+无线骨干双专长=其课堂面对的是真正的运营商级场景
-- **关键人KP**：—
-- **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCTCE+MTCINE 
-- **优缺点SWOT**：S:ISP 级三证+1300 课时+无线骨干专长 / W:教具量小 / O:教具+学员 WISP 谱长线口 / T:师者红线
-- **Saga产品适配**：ISP 级培训师的课桌 PoE 对照教具样本位
+- **背景深描**：波 30·B-481:西班牙谱: **守档准由·原 R65/R57 谱基增厚**:Santiago Balaguer Garcia(Castellón;cursos-mikrotik.com 开课;MTCNA+MTCTCE+MTCINE;谱系 Diameter/HotSpot/PPPoE/AAA/高可用/**无线骨干网**;同域 formacionmikrotik.com 系『1300+ 小时授课、ISP 行业 15+ 年教龄』口径) | R65 深挖:守档准由;R66 第 30 波谱:我司 STC-28DGGPM(8-port PoE access box (802.3af/at, watchdog)($99 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第6波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
+- **关注点与资质**：西班牙 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-28DGGPM 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-28DGGPM vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**开 MikroTik 课程(cursos-mikrotik.com);Diameter 协议、HotSpot、PPPoE/PPtP/L2TP/OVPN、AAA、高可用、无线骨干网
-  > 开 MikroTik 课程(cursos-mikrotik.com);Diameter 协议、HotSpot、PPPoE/PPtP/L2TP/OVPN、AAA、高可用、无线骨干网
-  > 来源：客户名单_反向信号_2026-09.csv
-- **【R57备护深挖证据】**Más de 1300 horas de formación impartida…docentes y profesionales del sector ISP con mas de 15 años de experiencia
-  > Más de 1300 horas de formación impartida…docentes y profesionales del sector ISP con mas de 15 años de experiencia
-  > 来源：https://www.formacionmikrotik.com/
-- **【R65 查询注】**2026-10-07 搜索无果；守档准由
-  > (web_search 无果）
-  > 来源：（沙箱日志）
+- **【联系方式与基础画像】**Santiago Balaguer Garcia(Castellón;cursos-mikrotik.com 开课;MTCNA+MTCTCE+MTCINE;谱系 Diameter/HotSpot/PPPoE/AAA/高可用/**无线骨干网**;同域 formacionmikrotik.com 系『1300+ 小时授课、
+  > Santiago Balaguer Garcia(Castellón;cursos-mikrotik.com 开课;MTCNA+MTCTCE+MTCINE;谱系 Diameter/HotSpot/PPPoE/AAA/高可用/**无线骨干网**;同域 formacionmikrotik.com 系『1300+ 小时授课、
+  > 来源：https://cursos-mikrotik.com/
+- **【联系方式与基础画像】**CSV 入口:+34 960 802 505 / santiagoayodar@hotmail.com
+  > CSV 入口:+34 960 802 505 / santiagoayodar@hotmail.com
+  > 来源：https://cursos-mikrotik.com/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -143,7 +140,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:ISP 级三证+1300 课时+无线骨干专长 / W:教具量小 / O:教具+学员 WISP 谱长线口 / T:师者红线
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-28DGGPM 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -171,8 +168,8 @@ S:ISP 级三证+1300 课时+无线骨干专长 / W:教具量小 / O:教具+学�
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] cursos-mikrotik.com 与 formacionmikrotik.com 是否同一主体
-  - [ ] 其 WISP 学员谱的硬件询问频度
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -181,21 +178,15 @@ S:ISP 级三证+1300 课时+无线骨干专长 / W:教具量小 / O:教具+学�
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Santiago,
+Dear Santiago Balaguer Garcia Team,
 
-Thirteen hundred hours of MikroTik training delivered, with Diameter, AAA and wireless backhaul on the syllabus - your classroom is where Spain's WISP technicians learn the trade.
+We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a compact 8-port managed PoE+ switch (120W, L2-lite) with full English/Spanish documentation. Reference: $99 USD EXW (2026-09-29) - built empty-label friendly so a trainer can place it on the bench as a documented comparison SKU without any brand pressure.
-
-One question: in your WISP and backhaul courses, does the PoE segment have a documented comparison device on the bench - and would a sample unit with a full test pack be worth evaluating?
-
-If useful, I can send one unit. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

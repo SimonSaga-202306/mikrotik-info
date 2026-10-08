@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：APLUS Systeme Automation SA(SIREN 345398556,1988-05-15 创，SAS €811.8K 本，Saint-Michel-sur-Orge;**Carlos Cabanita…
+- **是谁**：波 30·B-522:法国谱: **守档准由·原 R65/R57 谱基增厚**:APLUS Systeme Automation(法国 Saint Michel sur Orge 91240 Techniparc, 7 …
 - **商业模式**：分销 stocking
 - **为什么值得跟**：【2026-09-28 复核回升 C-205→B-522】官网 /contact/ 正文可见；邮箱补到后原「无邮箱（群发触达不到）」下放原因消除 → 恢复 B（群发可触达）。原判：三星依据仅渠道等级（分销（ORing 授权））与「ORing」，需求未核。
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 军规嵌入式同业设计制造商:守档不入供位；—（合作探询，无量产报价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | APLUS Systeme Automation SA(SIREN 345398556,1988-05-15 创，SAS €811.8K 本，Saint-Michel-sur-Orge;**Carlos Cabanita = Président Directeur Général;béatrice Cabanita 财务总监；Delphine Dassiba | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】「设计制造」+militarized 血统=同业制造侧+军红线双关——其谱 ORing 授权分销只是其下出 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 30·B-522:法国谱: **守档准由·原 R65/R57 谱基增厚**:APLUS Systeme Automation(法国 Saint Michel sur Orge 91240 Techniparc, 7 rue d'Alembert):SAS 345398556 RCS Evry, **1988 创**, 20-49 人(44 人; reve | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】APLUS Systeme Automation(法国 Saint Michel sur Orge 91240 Techniparc, 7 rue d'Alembert):SAS 345398556 RCS Evry, **1988 创**, 20-49 人(44 人; revenue ~$16M); **法国工业/嵌入式/军用加固计算机设计制造商**(ZoomInfo=French designer and manufacturer of industrial, embedded and militarized computer systems);密钥人 Béatrice Cabanita | R65 深挖:工控大屏大三子 15M€;Cabanita 总统
-- 【推断】「设计制造」+militarized 血统=同业制造侧+军红线双关——其谱 ORing 授权分销只是其下出
-- 【假设】不入供位不首销:守档（同业+军规）
+- 【事实】波 30·B-522:法国谱: **守档准由·原 R65/R57 谱基增厚**:APLUS Systeme Automation(法国 Saint Michel sur Orge 91240 Techniparc, 7 rue d'Alembert):SAS 345398556 RCS Evry, **1988 创**, 20-49 人(44 人; revenue ~$16M); **法国工业/嵌入式/军用加固计算机设计制造商**(ZoomInfo=French designer and manufacturer of industrial, embedded and militarized computer systems);密钥人 Béatrice Cabanita | R65 深挖:工控大屏大三子 15M€;Cabanita 总统;R66 第 30 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;**守界注(我司民用商用限定)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第4波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 30 波守档准由谱
+- 【假设】掌件区非商触(非卖品对照架)
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】「设计制造」+militarized 血统=同业制造侧+军红线双关——其谱 ORing 授权分销只是其下出
+CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -68,7 +68,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- APLUS Systeme Automation SA(SIREN 345398556,1988-05-15 创，SAS €811.8K 本，Saint-Michel-sur-Orge;**Carlos Cabanita = Président Directeur Général;béatrice Cabanita 财务总监；Delphine Dassibat 采购总监；Vincent Chevillot DSI;谱型=工业计算机/工控大屏（affichage-digital/aplus-defense 子站） ISO 9001+AQAP 2110 认证；2024 €15.26M 营收；20-49 员工
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -91,36 +91,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（OEM/白牌合作探询（无量产型号首推）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+14 · 低频开口
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
-- **切入点**：军规嵌入式同业设计制造商:守档不入供位
-- **要问的问题**：(守档不入触点）
-- **随附/动作**：随附 1 页特性对照
+- **切入点**：掌件区技术参件
+- **要问的问题**：可否入技术参件对照架名录？
+- **随附/动作**：规格页
+
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档
+
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 11 批精修 = R57 转写 + 本轮登记/媒体新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第11批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
 
-- **背景深描**：APLUS Systeme Automation SA(SIREN 345398556,1988-05-15 创，SAS €811.8K 本，Saint-Michel-sur-Orge;**Carlos Cabanita = Président Directeur Général;béatrice Cabanita 财务总监；Delphine Dassibat 采购总监；Vincent Chevillot DSI;谱型=工业计算机/工控大屏（affichage-digital/aplus-defense 子站） ISO 9001+AQAP 2110 认证；2024 €15.26M 营收；20-49 员工
-- **芯片与在用型号**：【推断】「设计制造」+militarized 血统=同业制造侧+军红线双关——其谱 ORing 授权分销只是其下出
-- **关键人KP**：Carlos Cabanita = PDG(Presdir Directeur Général);Béatrice Cabanita 财务总监
-- **关注点与资质**：ORing 
-- **优缺点SWOT**：S:1988 老法资+44 人军规设计制 / W:同业制造侧+军红线双关 / O:守档 / T:不推出入
-- **Saga产品适配**：军规嵌入式同业设计制造商:守档不入供位
+- **背景深描**：波 30·B-522:法国谱: **守档准由·原 R65/R57 谱基增厚**:APLUS Systeme Automation(法国 Saint Michel sur Orge 91240 Techniparc, 7 rue d'Alembert):SAS 345398556 RCS Evry, **1988 创**, 20-49 人(44 人; revenue ~$16M); **法国工业/嵌入式/军用加固计算机设计制造商**(ZoomInfo=French designer and manufacturer of industrial, embedded and militarized computer systems);密钥人 Béatrice Cabanita | R65 深挖:工控大屏大三子 15M€;Cabanita 总统;R66 第 30 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;**守界注(我司民用商用限定)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第4波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
+- **关注点与资质**：法国 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
+- **Saga产品适配**：CONSULT-OEM 掌件区非卖品对照
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**French designer and manufacturer of industrial, embedded and militarized computer systems…$16.14 million
-  > French designer and manufacturer of industrial, embedded and militarized computer systems…$16.14 million
-  > 来源：https://www.zoominfo.com/c/aplus-systme-automation/351414636
-- **【R57备护深挖证据】**APLUS SYSTEME AUTOMATION…SAS…15 mai 1988…345 398 556 RCS Evry
-  > APLUS SYSTEME AUTOMATION…SAS…15 mai 1988…345 398 556 RCS Evry
-  > 来源：https://www.pagesjaunes.fr/pros/50512730
-- **【R65 谱+体量】**APLUS SA 1988 创 · €15.26M 2024 营收(20-49 员工） · Saint-Michel-sur-Orge · 工控大屏/defense 三站 · ISO 9001/AQAP 2110 · Cabanita 总统
-  > Capital social · 811 800 EURO … Dernier chiffre d'affaires connu · 15 263 854 € (2024) … Cabanita Carlos · Président Directeur Général · AQAP 2110 : Expire le 30/12/2029 · ISO: 9001
-  > 来源：https://www.manageo.fr/entreprises/345398556.html
+- **【联系方式与基础画像】**APLUS Systeme Automation(法国 Saint Michel sur Orge 91240 Techniparc, 7 rue d'Alembert):SAS 345398556 RCS Evry, **1988 创**, 20-49 人(44 人; revenue ~$16M); **法国工业/嵌
+  > APLUS Systeme Automation(法国 Saint Michel sur Orge 91240 Techniparc, 7 rue d'Alembert):SAS 345398556 RCS Evry, **1988 创**, 20-49 人(44 人; revenue ~$16M); **法国工业/嵌
+  > 来源：https://aplus-sa.com/
+- **【联系方式与基础画像】**CSV 入口:sales@aplus-sa.com；+33 1 69884300
+  > CSV 入口:sales@aplus-sa.com；+33 1 69884300
+  > 来源：https://aplus-sa.com/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -133,7 +144,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:1988 老法资+44 人军规设计制 / W:同业制造侧+军红线双关 / O:守档 / T:不推出入
+S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -161,8 +172,8 @@ S:1988 老法资+44 人军规设计制 / W:同业制造侧+军红线双关 / O:�
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] APLUS 谱在 militarized 段阻守位面开态(CSV 挂的 ORing 授权只是销面）
-  - [ ] 军规加固电脑谱路由与我谱正对面排位
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -171,21 +182,10 @@ S:1988 老法资+44 人军规设计制 / W:同业制造侧+军红线双关 / O:�
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：Neutral-built PoE switches under your own label
+**主题**：（非卖品掌件区,不出信)
 
 ```text
-Hi APLUS,
-
-I came across APLUS Systeme Automation - 分销（ORing 授权）.
-
-We manufacture PoE access switches (Marvell-based, L2+) for OEM/white-label programs - neutral packing, your model numbers, ODM options on request.
-
-One question: (守档不入触点）
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+（掌件区非卖品·CONSULT-OEM 对照架,只做技术参件,不出英文首触信）
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

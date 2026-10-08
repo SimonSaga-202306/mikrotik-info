@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：gCnTech Limited / gCn Tech(1a Dwarf Oaks, Church Road, Ballybrack Village, Co Dublin A96 D653;**Greg = 业主（greg…
+- **是谁**：波 30·B-283:爱尔兰谱: **守档准由·原 R65/R57 谱基增厚**:gCnTech Limited(Dublin;gcntech.ie;MikroTik Reseller;greg@gcntech.ie 具…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 都柏林 Reseller value PoE 试探(具名 Greg,活跃验证先行)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | gCnTech Limited / gCn Tech(1a Dwarf Oaks, Church Road, Ballybrack Village, Co Dublin A96 D653;**Greg = 业主（greg@gcntech.ie 官自曝；087 7682964)**;Simon 交付/销售（simon@gcntech.ie,01 2821306 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】都柏林小型 Reseller,具名直达;足迹薄 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 30·B-283:爱尔兰谱: **守档准由·原 R65/R57 谱基增厚**:gCnTech Limited(Dublin;gcntech.ie;MikroTik Reseller;greg@gcntech.ie 具名 Greg) | R65 深挖:都柏林 trade-only 实体；Greg+simon 邮箱自曝;R66 第 30 波谱:我司 STC- | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】gCnTech Limited(Dublin;gcntech.ie;MikroTik Reseller;greg@gcntech.ie 具名 Greg) | R65 深挖:都柏林 trade-only 实体；Greg+simon 邮箱自曝
-- 【推断】都柏林小型 Reseller,具名直达;足迹薄
-- 【假设】开口角度=「都柏林 Reseller value PoE 试探」:STC-424 具名开口,活跃验证同走
+- 【事实】波 30·B-283:爱尔兰谱: **守档准由·原 R65/R57 谱基增厚**:gCnTech Limited(Dublin;gcntech.ie;MikroTik Reseller;greg@gcntech.ie 具名 Greg) | R65 深挖:都柏林 trade-only 实体；Greg+simon 邮箱自曝;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第9波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 30 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】都柏林小型 Reseller,具名直达;足迹薄
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -91,47 +91,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+7 · 活跃度快验
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「都柏林 Reseller value PoE 试探」:STC-424 具名开口,活跃验证同走
-- **要问的问题**：(先验活跃,具名 Greg)你们架上 PoE 接层现供哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · greg@gcntech.ie 具名开口
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「都柏林 Reseller value PoE 试探」:STC-424 具名开口,活跃验证同走
-- **要问的问题**：(先验活跃,具名 Greg)你们架上 PoE 接层现供哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「都柏林 Reseller value PoE 试探」:STC-424 具名开口,活跃验证同走
-- **要问的问题**：(先验活跃,具名 Greg)你们架上 PoE 接层现供哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 17 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第17批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
 
-- **背景深描**：gCnTech Limited / gCn Tech(1a Dwarf Oaks, Church Road, Ballybrack Village, Co Dublin A96 D653;**Greg = 业主（greg@gcntech.ie 官自曝；087 7682964)**;Simon 交付/销售（simon@gcntech.ie,01 2821306,087 4887471);谱型=爱尔兰 trade-only 电脑 IT 分销；openlogic.ie 同址门脸；只卖 resellers，亦收 PayPal
-- **芯片与在用型号**：【推断】都柏林小型 Reseller,具名直达;足迹薄
-- **关键人KP**：Greg = 业主（greg@gcntech.ie);Simon 交付/销售
-- **关注点与资质**：MikroTik（Reseller） 
-- **优缺点SWOT**：S:具名直达+都柏林 / W:足迹薄 / O:value PoE 档 / T:失联
-- **Saga产品适配**：都柏林 Reseller value PoE 试探(具名 Greg,活跃验证先行)
+- **背景深描**：波 30·B-283:爱尔兰谱: **守档准由·原 R65/R57 谱基增厚**:gCnTech Limited(Dublin;gcntech.ie;MikroTik Reseller;greg@gcntech.ie 具名 Greg) | R65 深挖:都柏林 trade-only 实体；Greg+simon 邮箱自曝;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第9波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
+- **关注点与资质**：爱尔兰 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**CSV:MikroTik 官方分销 Reseller;Dublin;greg@gcntech.ie 具名
-  > CSV:MikroTik 官方分销 Reseller;Dublin;greg@gcntech.ie 具名
-  > 来源：客户名单_反向信号_2026-09.csv
-- **【R65 谱/联络】**gCnTech · Ballybrack Dublin · trade-only IT 分销 · greg@/simon@ 自曝信息双谱口
-  > 1a, Dwarf Oaks Church Road Ballybrack Village Co Dublin A96 D653 … Email: greg@gcntech.ie … Greg 087 7682964 … Simon (Delivery/Sales Queries) 01 2821306 simon@gcntech.ie … We are a Trade only supplier
-  > 来源：https://gcntech.ie/contact/
+- **【联系方式与基础画像】**gCnTech Limited(Dublin;gcntech.ie;MikroTik Reseller;greg@gcntech.ie 具名 Greg) | R65 深挖:都柏林 trade-only 实体；Greg+simon 邮箱自曝
+  > gCnTech Limited(Dublin;gcntech.ie;MikroTik Reseller;greg@gcntech.ie 具名 Greg) | R65 深挖:都柏林 trade-only 实体；Greg+simon 邮箱自曝
+  > 来源：https://gcntech.ie/
+- **【联系方式与基础画像】**CSV 入口:+353 1 282 0458 / greg@gcntech.ie
+  > CSV 入口:+353 1 282 0458 / greg@gcntech.ie
+  > 来源：https://gcntech.ie/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -144,7 +144,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:具名直达+都柏林 / W:足迹薄 / O:value PoE 档 / T:失联
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -172,8 +172,8 @@ S:具名直达+都柏林 / W:足迹薄 / O:value PoE 档 / T:失联
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 活跃经营佐证
-  - [ ] 谱与量级
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -182,19 +182,15 @@ S:具名直达+都柏林 / W:足迹薄 / O:value PoE 档 / T:失联
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Greg,
+Dear gCnTech Limited Team,
 
-A MikroTik reseller in Dublin - quick question from a PoE switch manufacturer: on your shelf, which 24-port managed PoE unit holds the value tier today?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - white-label friendly, and I can send one unit with a complete test pack for a bench evaluation.
-
-If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

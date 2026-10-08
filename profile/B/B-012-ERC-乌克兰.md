@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：ERC（基辅 04073, Marka Vovchka 18A;EDRPOU 38204199;2026-04 UA-REGION 仍 ACTIVE）：独立专业分销社;2E 自有品牌独家分销商（覆盖 UA/中欧/东欧/C…
+- **是谁**：波 29·B-012:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:ERC（基辅 04073, Marka Vovchka 18A;EDRPOU 38204199;2026-04 UA-REGION 仍 A…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 工业 KNOT 在架+2E 自牌谱正宗:OEM 血统咬合的角度入 DIN 轨 value PoE 8 口；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | ERC（基辅 04073, Marka Vovchka 18A;EDRPOU 38204199;2026-04 UA-REGION 仍 ACTIVE）：独立专业分销社;2E 自有品牌独家分销商（覆盖 UA/中欧/东欧/CIS）;MikroTik 官方供应明示,在架 CRS328-24P-4S+RM（500W 重型）、SFP、KNOT LTE4 工业 IoT; | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】ERC 是乌克兰老牌独立 VAD(2E 自牌谱在 2e-world.com 发布）;MikroTik 高系（CRS328-500W 重型+KNOT 工业 LTE4）在架=工业段信号在;2E 自牌链=OEM/联合血统经验已存在 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 29·B-012:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:ERC（基辅 04073, Marka Vovchka 18A;EDRPOU 38204199;2026-04 UA-REGION 仍 ACTIVE）：独立专业分销社;2E 自有品牌独家分销商（覆盖 UA/中欧/东欧/CIS）;MikroTik 官方供应明示,在架 CRS328 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】ERC（基辅 04073, Marka Vovchka 18A;EDRPOU 38204199;2026-04 UA-REGION 仍 ACTIVE）：独立专业分销社;2E 自有品牌独家分销商（覆盖 UA/中欧/东欧/CIS）;MikroTik 官方供应明示,在架 CRS328-24P-4S+RM（500W 重型）、SFP、KNOT LTE4 工业 IoT;MikroTik 官方宣传稿《ERC 成 MikroTik 分销商》
-- 【推断】ERC 是乌克兰老牌独立 VAD(2E 自牌谱在 2e-world.com 发布）;MikroTik 高系（CRS328-500W 重型+KNOT 工业 LTE4）在架=工业段信号在;2E 自牌链=OEM/联合血统经验已存在
-- 【假设】ERC 自牌 2E 已跑 OEM/历史组合基——我们 STI-288GP 以其「2E 之外第三贴牌线,或 2E 谱之外的 OEM 双层」角度切入最对口;工厂 DIN 轨正好是 2E 谱空穴（2E 着重电视/办公/电玩类）
+- 【事实】波 29·B-012:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:ERC（基辅 04073, Marka Vovchka 18A;EDRPOU 38204199;2026-04 UA-REGION 仍 ACTIVE）：独立专业分销社;2E 自有品牌独家分销商（覆盖 UA/中欧/东欧/CIS）;MikroTik 官方供应明示,在架 CRS328-24P-4S+RM（500W 重型）、SFP、KNOT LTE4 工业 IoT;MikroTik 官方宣传稿《ERC 成 MikroTik 分销商》;R66 第 29 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第2波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 29 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】ERC 是乌克兰老牌独立 VAD(2E 自牌谱在 2e-world.com 发布）;MikroTik 高系（CRS328-500W 重型+KNOT 工业 LTE4）在架=工业段信号在;2E 自牌链=OEM/联合血统经验已存在
+STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -87,47 +87,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · OEM 三件套样张（2E 混血方案）
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：ERC 自牌 2E 已跑 OEM/历史组合基——我们 STI-288GP 以其「2E 之外第三贴牌线,或 2E 谱之外的 OEM 双层」角度切入最对口;工厂 DIN 轨正好是 2E 谱空穴（2E 着重电视/办公/电玩类）
-- **要问的问题**：你们的 2E 谱之外,工业 DIN 轨 PoE 现货力现走 MikroTik 标准型还是另寻 OEM？OEM 直供货源考虑吗？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · 样机提议
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：ERC 自牌 2E 已跑 OEM/历史组合基——我们 STI-288GP 以其「2E 之外第三贴牌线,或 2E 谱之外的 OEM 双层」角度切入最对口;工厂 DIN 轨正好是 2E 谱空穴（2E 着重电视/办公/电玩类）
-- **要问的问题**：你们的 2E 谱之外,工业 DIN 轨 PoE 现货力现走 MikroTik 标准型还是另寻 OEM？OEM 直供货源考虑吗？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：ERC 自牌 2E 已跑 OEM/历史组合基——我们 STI-288GP 以其「2E 之外第三贴牌线,或 2E 谱之外的 OEM 双层」角度切入最对口;工厂 DIN 轨正好是 2E 谱空穴（2E 着重电视/办公/电玩类）
-- **要问的问题**：你们的 2E 谱之外,工业 DIN 轨 PoE 现货力现走 MikroTik 标准型还是另寻 OEM？OEM 直供货源考虑吗？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
 
-- **背景深描**：ERC（基辅 04073, Marka Vovchka 18A;EDRPOU 38204199;2026-04 UA-REGION 仍 ACTIVE）：独立专业分销社;2E 自有品牌独家分销商（覆盖 UA/中欧/东欧/CIS）;MikroTik 官方供应明示,在架 CRS328-24P-4S+RM（500W 重型）、SFP、KNOT LTE4 工业 IoT;MikroTik 官方宣传稿《ERC 成 MikroTik 分销商》
-- **芯片与在用型号**：【推断】ERC 是乌克兰老牌独立 VAD(2E 自牌谱在 2e-world.com 发布）;MikroTik 高系（CRS328-500W 重型+KNOT 工业 LTE4）在架=工业段信号在;2E 自牌链=OEM/联合血统经验已存在
-- **关键人KP**：—
-- **关注点与资质**：MikroTik（Master+VAD） 
-- **优缺点SWOT**：S:独立 VAD+自牌血统+工业 KNOT 信号 / W:大单高度被 MikroTik 谱点 / O:STI-288GP OEM 位/2E 谱之外第三线 / T:乌价货币/物流起落
-- **Saga产品适配**：工业 KNOT 在架+2E 自牌谱正宗:OEM 血统咬合的角度入 DIN 轨 value PoE 8 口
+- **背景深描**：波 29·B-012:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:ERC（基辅 04073, Marka Vovchka 18A;EDRPOU 38204199;2026-04 UA-REGION 仍 ACTIVE）：独立专业分销社;2E 自有品牌独家分销商（覆盖 UA/中欧/东欧/CIS）;MikroTik 官方供应明示,在架 CRS328-24P-4S+RM（500W 重型）、SFP、KNOT LTE4 工业 IoT;MikroTik 官方宣传稿《ERC 成 MikroTik 分销商》;R66 第 29 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第2波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
+- **关注点与资质**：乌克兰 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
+- **Saga产品适配**：STI-288GP vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**ERC, PROFESSIONAL DISTRIBUTOR Kyiv (EDRPOU 38204199)…current status…2026-04
-  > ERC, PROFESSIONAL DISTRIBUTOR Kyiv (EDRPOU 38204199)…current status…2026-04
-  > 来源：https://www.ua-region.com.ua/en/38204199
-- **【R57备护深挖证据】**CRS328-24P-4S+RM - 24 port Gigabit…500W…MikroTik kit…KNOT Embedded LTE4…designed for industrial automation
-  > CRS328-24P-4S+RM - 24 port Gigabit…500W…MikroTik kit…KNOT Embedded LTE4…designed for industrial automation
-  > 来源：https://erc.ua/en/vendor/mikrotik/list.html
+- **【联系方式与基础画像】**ERC（基辅 04073, Marka Vovchka 18A;EDRPOU 38204199;2026-04 UA-REGION 仍 ACTIVE）：独立专业分销社;2E 自有品牌独家分销商（覆盖 UA/中欧/东欧/CIS）;MikroTik 官方供应明示,在架 CRS328-24P-4S+RM（500W 重型）、S
+  > ERC（基辅 04073, Marka Vovchka 18A;EDRPOU 38204199;2026-04 UA-REGION 仍 ACTIVE）：独立专业分销社;2E 自有品牌独家分销商（覆盖 UA/中欧/东欧/CIS）;MikroTik 官方供应明示,在架 CRS328-24P-4S+RM（500W 重型）、S
+  > 来源：https://erc.ua/
+- **【联系方式与基础画像】**CSV 入口:+380 44 230 3474 / Network_SOHO@erc.ua
+  > CSV 入口:+380 44 230 3474 / Network_SOHO@erc.ua
+  > 来源：https://erc.ua/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -140,7 +140,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:独立 VAD+自牌血统+工业 KNOT 信号 / W:大单高度被 MikroTik 谱点 / O:STI-288GP OEM 位/2E 谱之外第三线 / T:乌价货币/物流起落
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -168,8 +168,8 @@ S:独立 VAD+自牌血统+工业 KNOT 信号 / W:大单高度被 MikroTik 谱点
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 2E 自牌的 OEM 径（台湾代工还是大陆）——决定我们 OEM 混血通道优势
-  - [ ] 下 6 个月内 MikroTik 官功新旧众目录
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -178,21 +178,15 @@ S:独立 VAD+自牌血统+工业 KNOT 信号 / W:大单高度被 MikroTik 谱点
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi ERC team,
+Dear ERC Team,
 
-Professional distributor with the 2E house brand under your belt, a live industrial IoT signal (KNOT LTE4), and a CRS328 heavy shelf - you understand OEM and own-brand DNA at the engineering level.
+We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation, fully open to your 2E branding or third-label OEM. Reference: $74.8 USD EXW (2026-09-29).
-
-One question: outside the 2E brand lines, where do you source DIN-rail industrial PoE today - formal MikroTik SKU or a direct OEM? Would a documented OEM-run earn a bench test?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

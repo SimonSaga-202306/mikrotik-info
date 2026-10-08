@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：ATEsystem s.r.o.(Ostrava,IČO 01392042;2013-02 创；**Michal Harhaj = jednatel 2013-至今(13 年)**;Ing. Dušan Šelong =…
+- **是谁**：波 29·B-192:捷克谱: **守档准由·原 R65/R57 谱基增厚**:ATEsystem s.r.o.(Ostrava Technologická 378/9(+Jablonec 分部);2013 创,11-5…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 机器视觉集成商 turnkey BOM 的 GigE 相机 PoE 供电 DIN 轨位(Antaira 旁二源或 OEM 变体)；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | ATEsystem s.r.o.(Ostrava,IČO 01392042;2013-02 创；**Michal Harhaj = jednatel 2013-至今(13 年)**;Ing. Dušan Šelong = jednatel(2025-12-08 新任）；Petr Bilík 前 jednatel(2013-2025-12-08);谱型=自动测 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】**GigE Vision 工业相机几乎全 PoE 供电**——机器视觉产线的 PoE 交换是其方案里真实伴随件(相机直连 PoE 网口);其 turnkey 项目把相机+光源+工控+网络一起投标,PoE 交换是 BOM 常客 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 29·B-192:捷克谱: **守档准由·原 R65/R57 谱基增厚**:ATEsystem s.r.o.(Ostrava Technologická 378/9(+Jablonec 分部);2013 创,11-50 人;**判型翻转=机器视觉(machine vision)专精集成商+组件分销**:Basler/JAI/Automation Tech | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】ATEsystem s.r.o.(Ostrava Technologická 378/9(+Jablonec 分部);2013 创,11-50 人;**判型翻转=机器视觉(machine vision)专精集成商+组件分销**:Basler/JAI/Automation Technology/Computar/Kowa/SCHNEIDER/CCS/Effilux 相机组件官分(捷克+斯洛伐克);**自有机器视觉 turnkey 系统开发**;NI Silver Alliance Partner;EU 基金研发;具名团队(Filip Volný 销售主管/Petr Bílovský 系统集成/Christian Kremser 工业相机);CSV 标 Antaira 授权为其工业网络件出处 | R65 深挖:Ostrawa 自动测试机检谱；Harhaj 13 年 Jednatel
-- 【推断】**GigE Vision 工业相机几乎全 PoE 供电**——机器视觉产线的 PoE 交换是其方案里真实伴随件(相机直连 PoE 网口);其 turnkey 项目把相机+光源+工控+网络一起投标,PoE 交换是 BOM 常客
-- 【假设】开口角度=「机器视觉产线的相机供电 DIN 轨 PoE 位」:STI-288GP 以其 turnkey 系统 BOM 的 GigE 相机供电伴 随件入(DIN 轨+工业温宽对机器视觉严苛现场)
+- 【事实】波 29·B-192:捷克谱: **守档准由·原 R65/R57 谱基增厚**:ATEsystem s.r.o.(Ostrava Technologická 378/9(+Jablonec 分部);2013 创,11-50 人;**判型翻转=机器视觉(machine vision)专精集成商+组件分销**:Basler/JAI/Automation Technology/Computar/Kowa/SCHNEIDER/CCS/Effilux 相机组件官分(捷克+斯洛伐克);**自有机器视觉 turnkey 系统开发**;NI Silver Alliance Partner;EU 基金研发;具名团队(Filip Volný 销售主管/Petr Bílovský 系统集成/Christian Kremser 工业相机);CSV 标 Antaira 授权为其工业网络件出处 | R65 深挖:Ostrawa 自动测试机检谱；Harhaj 13 年 Jednatel;R66 第 29 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第10波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 29 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】**GigE Vision 工业相机几乎全 PoE 供电**——机器视觉产线的 PoE 交换是其方案里真实伴随件(相机直连 PoE 网口);其 turnkey 项目把相机+光源+工控+网络一起投标,PoE 交换是 BOM 常客
+STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -69,7 +69,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- 波 29·B-192:捷克谱: **守档准由·原 R65/R57 谱基增厚**:ATEsystem s.r.o.(Ostrava Technologická 378/9(+Jablonec 分部);2013 创,11-50 人;**判型翻转=机器视觉(machine vision)专精集成商+组件分销**:Basler/JAI/Automation Technology/Computar/Kowa/SCHNEIDER/CCS/Effilux 相机组件官分(捷克+斯洛伐克);**自有机器视觉 turnkey 系统开发**;NI Silver Alliance Partner;EU 基金研发;具名团队(Filip Volný 销售主管/Petr Bílovský 系统集成/Christian Kremser 工业相机);CSV 标 Antaira 授权为其工业网络件出处 | R65 深挖:Ostrawa 自动测试机检谱；Harhaj 13 年 Jednatel;R66 第 29 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第10波.json,先报价不回、档案铺位、持续关注新一季,OK。
 
 ## 联系方式（已有/猜测分标）
 
@@ -93,50 +93,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · 机器视觉 BOM PoE 对位页
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「机器视觉产线的相机供电 DIN 轨 PoE 位」:STI-288GP 以其 turnkey 系统 BOM 的 GigE 相机供电伴 随件入(DIN 轨+工业温宽对机器视觉严苛现场)
-- **要问的问题**：你们的 turnkey 视觉系统 BOM 里,GigE 相机供电的 DIN 轨 PoE 交换现随哪家?Antaira 旁二源有位吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · atesystem@atesystem.cz 开口
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「机器视觉产线的相机供电 DIN 轨 PoE 位」:STI-288GP 以其 turnkey 系统 BOM 的 GigE 相机供电伴 随件入(DIN 轨+工业温宽对机器视觉严苛现场)
-- **要问的问题**：你们的 turnkey 视觉系统 BOM 里,GigE 相机供电的 DIN 轨 PoE 交换现随哪家?Antaira 旁二源有位吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「机器视觉产线的相机供电 DIN 轨 PoE 位」:STI-288GP 以其 turnkey 系统 BOM 的 GigE 相机供电伴 随件入(DIN 轨+工业温宽对机器视觉严苛现场)
-- **要问的问题**：你们的 turnkey 视觉系统 BOM 里,GigE 相机供电的 DIN 轨 PoE 交换现随哪家?Antaira 旁二源有位吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 13 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第13批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
 
-- **背景深描**：ATEsystem s.r.o.(Ostrava,IČO 01392042;2013-02 创；**Michal Harhaj = jednatel 2013-至今(13 年)**;Ing. Dušan Šelong = jednatel(2025-12-08 新任）；Petr Bilík 前 jednatel(2013-2025-12-08);谱型=自动测试/机检/illumination 系统组件；data schránka jxtq5qi
-- **芯片与在用型号**：【推断】**GigE Vision 工业相机几乎全 PoE 供电**——机器视觉产线的 PoE 交换是其方案里真实伴随件(相机直连 PoE 网口);其 turnkey 项目把相机+光源+工控+网络一起投标,PoE 交换是 BOM 常客
-- **关键人KP**：Michal Harhaj = jednatel(2013-至今，13 年）;Ing. Dušan Šelong = jednatel(2025-12-08 新任）
-- **关注点与资质**：Antaira 
-- **优缺点SWOT**：S:机器视觉专精+自研 turnkey+多国相机牌 / W:Antaira 授权已在位 / O:GigE 相机 PoE 供电 DIN 轨伴随刚需 / T:Antaira 排他
-- **Saga产品适配**：机器视觉集成商 turnkey BOM 的 GigE 相机 PoE 供电 DIN 轨位(Antaira 旁二源或 OEM 变体)
+- **背景深描**：波 29·B-192:捷克谱: **守档准由·原 R65/R57 谱基增厚**:ATEsystem s.r.o.(Ostrava Technologická 378/9(+Jablonec 分部);2013 创,11-50 人;**判型翻转=机器视觉(machine vision)专精集成商+组件分销**:Basler/JAI/Automation Technology/Computar/Kowa/SCHNEIDER/CCS/Effilux 相机组件官分(捷克+斯洛伐克);**自有机器视觉 turnkey 系统开发**;NI Silver Alliance Partner;EU 基金研发;具名团队(Filip Volný 销售主管/Petr Bílovský 系统集成/Christian Kremser 工业相机);CSV 标 Antaira 授权为其工业网络件出处 | R65 深挖:Ostrawa 自动测试机检谱；Harhaj 13 年 Jednatel;R66 第 29 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第10波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
+- **关注点与资质**：捷克 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
+- **Saga产品适配**：STI-288GP vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**comprehensive services in machine vision and visual inspection…official distributor of machine vision components (Basler, JAI, Computar, Kow
-  > comprehensive services in machine vision and visual inspection…official distributor of machine vision components (Basler, JAI, Computar, Kowa, CCS, Effilux…) for the Czech Republic and Slovakia…NI Silver Alliance Partner
-  > 来源：https://cz.linkedin.com/company/atesystem
-- **【R57备护深挖证据】**vlastnímu vývoji strojového vidění na klíč…testy a studie proveditelnosti, zápůjčky kamer
-  > vlastnímu vývoji strojového vidění na klíč…testy a studie proveditelnosti, zápůjčky kamer
-  > 来源：https://cz.linkedin.com/company/atesystem
-- **【R65 商业登记】**ATEsystem s.r.o. Ostrava IČO 01392042 · Harhaj jednatel 2013· Šelong jednatel 2025-12-08 新任；自動测试/机检谱
-  > Jednatel Michal Harhaj Den vzniku funkce: 8. únor 2013 … Ing. Dušan Šelong Hrabyně 264 … jednatel 8. 12. 2025 … Jsme specialisté na automatické testování, kamerové inspekce
-  > 来源：https://rejstrik.penize.cz/01392042-atesystem-s-r-o
+- **【联系方式与基础画像】**ATEsystem s.r.o.(Ostrava Technologická 378/9(+Jablonec 分部);2013 创,11-50 人;**判型翻转=机器视觉(machine vision)专精集成商+组件分销**:Basler/JAI/Automation Technology/Computar/Kowa
+  > ATEsystem s.r.o.(Ostrava Technologická 378/9(+Jablonec 分部);2013 创,11-50 人;**判型翻转=机器视觉(machine vision)专精集成商+组件分销**:Basler/JAI/Automation Technology/Computar/Kowa
+  > 来源：https://atesystem.cz/
+- **【联系方式与基础画像】**CSV 入口:+420 595 172 720 / atesystem@atesystem.cz
+  > CSV 入口:+420 595 172 720 / atesystem@atesystem.cz
+  > 来源：https://atesystem.cz/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -149,7 +146,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:机器视觉专精+自研 turnkey+多国相机牌 / W:Antaira 授权已在位 / O:GigE 相机 PoE 供电 DIN 轨伴随刚需 / T:Antaira 排他
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -177,8 +174,8 @@ S:机器视觉专精+自研 turnkey+多国相机牌 / W:Antaira 授权已在位 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 其 turnkey BOM 里 PoE 交换现供(Antaira?)与价位
-  - [ ] GigE 相机功率谱(PoE vs PoE+ 需求)
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -187,21 +184,15 @@ S:机器视觉专精+自研 turnkey+多国相机牌 / W:Antaira 授权已在位 
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi ATEsystem team,
+Dear ATEsystem s.r.o. Team,
 
-Machine vision turnkey systems with Basler and JAI cameras on the line card - every GigE camera you deploy is a PoE load on a DIN rail in a harsh cabinet. You know exactly what those camera power budgets look like.
+We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English/Czech documentation. Reference: $74.8 USD EXW (2026-09-29) - the value-side second source for your vision-system BOMs, fully open to an OEM variant under your terms.
-
-One question: inside your turnkey vision BOMs, which DIN-rail PoE switch feeds the GigE cameras today - and would a documented second source earn a bench test in your feasibility lab?
-
-If useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：HighTech Nordic AB(Gaddvägen 3, SE-761 48 Norrtälje, Sweden;2017 创 KONECTA/PrimoTech Group 2024-05-13 收购；**Kei…
+- **是谁**：波 30·B-528:瑞典谱: **守档准由·原 R65/R57 谱基增厚**:HighTech Nordic AB(瑞典;hightechnordic.com;ORing 授权(台厂工业交换);R49 复核:官网在营,…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：【2026-09-28 复核回升 C-227→B-528】官网联系页正文可见；邮箱补到后原「无邮箱（群发触达不到）」下放原因消除 → 恢复 B（群发可触达）。原判：三星依据仅渠道等级（分销（ORing 授权））与「ORing」，需求未核。
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — ORing 授权谱的 DIN 轨 value 二源(台厂渠道话术模板)；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | HighTech Nordic AB(Gaddvägen 3, SE-761 48 Norrtälje, Sweden;2017 创 KONECTA/PrimoTech Group 2024-05-13 收购；**Keith Jeminen + Andreas Luther = 联合创始（30+ 年合并经验），Andreas Luther = Co-Foun | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】ORing 授权工业分销,四部邮箱=分工明确的在营组织;ORing 谱含 DIN 轨工业 PoE | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 30·B-528:瑞典谱: **守档准由·原 R65/R57 谱基增厚**:HighTech Nordic AB(瑞典;hightechnordic.com;ORing 授权(台厂工业交换);R49 复核:官网在营,四部邮箱 info@/logistics@/support@/invoice@ 组织化结构) | R65 深挖:PrimoTech 收购 2 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】HighTech Nordic AB(瑞典;hightechnordic.com;ORing 授权(台厂工业交换);R49 复核:官网在营,四部邮箱 info@/logistics@/support@/invoice@ 组织化结构) | R65 深挖:PrimoTech 收购 2024-05;Luther 实首工业 PC 谱
-- 【推断】ORing 授权工业分销,四部邮箱=分工明确的在营组织;ORing 谱含 DIN 轨工业 PoE
-- 【假设】开口角度=「ORing 谱旁的 DIN 轨 value 二源」(台厂渠道话术模板)
+- 【事实】波 30·B-528:瑞典谱: **守档准由·原 R65/R57 谱基增厚**:HighTech Nordic AB(瑞典;hightechnordic.com;ORing 授权(台厂工业交换);R49 复核:官网在营,四部邮箱 info@/logistics@/support@/invoice@ 组织化结构) | R65 深挖:PrimoTech 收购 2024-05;Luther 实首工业 PC 谱;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第9波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 30 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】ORing 授权工业分销,四部邮箱=分工明确的在营组织;ORing 谱含 DIN 轨工业 PoE
+STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -93,50 +93,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · ORing 对位页
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「ORing 谱旁的 DIN 轨 value 二源」(台厂渠道话术模板)
-- **要问的问题**：你们 ORing 谱旁,value DIN 轨 PoE 二源有位吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · info@hightechnordic.com 开口
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「ORing 谱旁的 DIN 轨 value 二源」(台厂渠道话术模板)
-- **要问的问题**：你们 ORing 谱旁,value DIN 轨 PoE 二源有位吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「ORing 谱旁的 DIN 轨 value 二源」(台厂渠道话术模板)
-- **要问的问题**：你们 ORing 谱旁,value DIN 轨 PoE 二源有位吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 16 批精修 = R57 转写 + 本轮调研新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第16批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
 
-- **背景深描**：HighTech Nordic AB(Gaddvägen 3, SE-761 48 Norrtälje, Sweden;2017 创 KONECTA/PrimoTech Group 2024-05-13 收购；**Keith Jeminen + Andreas Luther = 联合创始（30+ 年合并经验），Andreas Luther = Co-Founder & CEO**;谱型=工业 PC/Embedded/数位标牌/医疗电脑/展示备件门——年 3,000+ 定制系，-40°C 北地到沙坚谱在各业（基础/工业/国防/海事/零售/自动化）;info@hightechnordic.com / +46(0)10-177 58 00
-- **芯片与在用型号**：【推断】ORing 授权工业分销,四部邮箱=分工明确的在营组织;ORing 谱含 DIN 轨工业 PoE
-- **关键人KP**：Andreas Luther = Co-Founder & CEO(PrimoTech 收购同位）;Keith Jeminen = Co-Founder
-- **关注点与资质**：ORing 
-- **优缺点SWOT**：S:ORing 授权+组织化在营 / W:足迹薄 / O:value DIN 轨二源 / T:ORing 排他
-- **Saga产品适配**：ORing 授权谱的 DIN 轨 value 二源(台厂渠道话术模板)
+- **背景深描**：波 30·B-528:瑞典谱: **守档准由·原 R65/R57 谱基增厚**:HighTech Nordic AB(瑞典;hightechnordic.com;ORing 授权(台厂工业交换);R49 复核:官网在营,四部邮箱 info@/logistics@/support@/invoice@ 组织化结构) | R65 深挖:PrimoTech 收购 2024-05;Luther 实首工业 PC 谱;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第9波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
+- **关注点与资质**：瑞典 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
+- **Saga产品适配**：STI-288GP vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**R49 复核:官网联系页正文可见 info@/logistics@/support@/invoice@hightechnordic.com
-  > R49 复核:官网联系页正文可见 info@/logistics@/support@/invoice@hightechnordic.com
-  > 来源：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-528
-- **【R57备护深挖证据】**CSV:分销(ORing 授权),瑞典工业分销
-  > CSV:分销(ORing 授权),瑞典工业分销
-  > 来源：客户名单_反向信号_2026-09.csv
-- **【R65 收购/实名】**HighTech Nordic AB · Norrtälje 2017 创 · Luther+Jeminen 30+年谱联创 · 2024-05-13 PrimoTech 收购；工业 PC/Embedded 亿级定制
-  > HighTech Nordic is an acquired company based in Norrtalje (Sweden), founded in 2017 by Keith Jeminen and Andreas Luther … Andreas Luther: Co-Founder & CEO … Acquired by Primotech (May 13, 2024)
-  > 来源：https://tracxn.com/d/companies/hightech-nordic/__h-gXUOxgKfE5SzYDWYemsjeX6xhGPO-AQIwa3ruQCRc
+- **【联系方式与基础画像】**HighTech Nordic AB(瑞典;hightechnordic.com;ORing 授权(台厂工业交换);R49 复核:官网在营,四部邮箱 info@/logistics@/support@/invoice@ 组织化结构) | R65 深挖:PrimoTech 收购 2024-05;Luther 实首工业 P
+  > HighTech Nordic AB(瑞典;hightechnordic.com;ORing 授权(台厂工业交换);R49 复核:官网在营,四部邮箱 info@/logistics@/support@/invoice@ 组织化结构) | R65 深挖:PrimoTech 收购 2024-05;Luther 实首工业 P
+  > 来源：https://hightechnordic.com/
+- **【联系方式与基础画像】**CSV 入口:info@hightechnordic.com（销售；物流/支持/发票另有分邮箱）；+46 10-177 58 00
+  > CSV 入口:info@hightechnordic.com（销售；物流/支持/发票另有分邮箱）；+46 10-177 58 00
+  > 来源：https://hightechnordic.com/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -149,7 +146,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:ORing 授权+组织化在营 / W:足迹薄 / O:value DIN 轨二源 / T:ORing 排他
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -177,8 +174,8 @@ S:ORing 授权+组织化在营 / W:足迹薄 / O:value DIN 轨二源 / T:ORing �
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] ORing 谱深(在架 DIN 轨 PoE 价位)
-  - [ ] 其客层(机械/交通/能源?)
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -187,21 +184,15 @@ S:ORing 授权+组织化在营 / W:足迹薄 / O:value DIN 轨二源 / T:ORing �
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi HighTech Nordic team,
+Dear HighTech Nordic AB Team,
 
-An organized four-mailbox operation carrying ORing industrial switching in Sweden - you know the price points where projects walk away from premium rail-mount switches.
+We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - strictly the value-side second source beside your ORing shelf, fully open to an OEM variant.
-
-One question: beside ORing, is there a documented value DIN-rail PoE source in your line-up today, or is that slot still open?
-
-If useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

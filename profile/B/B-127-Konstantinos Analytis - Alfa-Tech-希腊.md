@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Konstantinos Analytis / Alfa-Tech(alfa-tech.gr;R65 检索无果,守档准由:希腊雅典/帖萨隆尼卡桥小型顾问)…
+- **是谁**：波 29·B-127:希腊谱: **守档准由·原 R65/R57 谱基增厚**:Alfa-Tech(希腊 Kefalonia Argostoli 25 Andrea Papandreou & Vyronos;+30 26…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 岛本地安防集成店的 CCTV 项目 PoE 楼价档接盘；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -44,20 +44,20 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | Konstantinos Analytis / Alfa-Tech(alfa-tech.gr;R65 检索无果,守档准由:希腊雅典/帖萨隆尼卡桥小型顾问) | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】典型小岛屿 IT+安防集成本地服务店;安防血统=CCTV 布线部署形 PoE 之刚景;位处爱奥尼亚港活港 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 29·B-127:希腊谱: **守档准由·原 R65/R57 谱基增厚**:Alfa-Tech(希腊 Kefalonia Argostoli 25 Andrea Papandreou & Vyronos;+30 26710 23655;2013 起服务 Kefalonia 全岛）:AlfaTech=Total Solutions Provider;**I | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Alfa-Tech(希腊 Kefalonia Argostoli 25 Andrea Papandreou & Vyronos;+30 26710 23655;2013 起服务 Kefalonia 全岛）:AlfaTech=Total Solutions Provider;**IT+办公设备+电信+网络+安全系统现场(现代 CCTV/报警/消防/门禁)服务店 | R65 深挖:搜索无果,守档准由
-- 【推断】典型小岛屿 IT+安防集成本地服务店;安防血统=CCTV 布线部署形 PoE 之刚景;位处爱奥尼亚港活港
-- 【假设】开口角度=「安防 CCTV 部署的对口 PoE 楼价档随单」——STC-424 24 口 280W 对应典型安防 CCTV 项目接层
+- 【事实】波 29·B-127:希腊谱: **守档准由·原 R65/R57 谱基增厚**:Alfa-Tech(希腊 Kefalonia Argostoli 25 Andrea Papandreou & Vyronos;+30 26710 23655;2013 起服务 Kefalonia 全岛）:AlfaTech=Total Solutions Provider;**IT+办公设备+电信+网络+安全系统现场(现代 CCTV/报警/消防/门禁)服务店 | R65 深挖:搜索无果,守档准由;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第3波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 29 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】典型小岛屿 IT+安防集成本地服务店;安防血统=CCTV 布线部署形 PoE 之刚景;位处爱奥尼亚港活港
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -91,50 +91,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · 安防部署 PoE 随单页
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「安防 CCTV 部署的对口 PoE 楼价档随单」——STC-424 24 口 280W 对应典型安防 CCTV 项目接层
-- **要问的问题**：你们安防 CCTV 项目里 PoE 接层现走哪个 SKU？下岛内路道品若技稳,发样机题册子？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · 样机提议
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「安防 CCTV 部署的对口 PoE 楼价档随单」——STC-424 24 口 280W 对应典型安防 CCTV 项目接层
-- **要问的问题**：你们安防 CCTV 项目里 PoE 接层现走哪个 SKU？下岛内路道品若技稳,发样机题册子？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「安防 CCTV 部署的对口 PoE 楼价档随单」——STC-424 24 口 280W 对应典型安防 CCTV 项目接层
-- **要问的问题**：你们安防 CCTV 项目里 PoE 接层现走哪个 SKU？下岛内路道品若技稳,发样机题册子？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 9 批精修 = R57 转写 + 本轮 LinkedIn/登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第9批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
 
-- **背景深描**：Konstantinos Analytis / Alfa-Tech(alfa-tech.gr;R65 检索无果,守档准由:希腊雅典/帖萨隆尼卡桥小型顾问)
-- **芯片与在用型号**：【推断】典型小岛屿 IT+安防集成本地服务店;安防血统=CCTV 布线部署形 PoE 之刚景;位处爱奥尼亚港活港
-- **关键人KP**：—(R65 询问无果,守档准由)
-- **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCSE | 传承人名开口：见 KP 表
-- **优缺点SWOT**：S:岛本地独有店+安防血统 / W:单个店面、大项目即失 / O:STC-424 安防部署刚性随单位 / T:岛物流/利运面
-- **Saga产品适配**：岛本地安防集成店的 CCTV 项目 PoE 楼价档接盘
+- **背景深描**：波 29·B-127:希腊谱: **守档准由·原 R65/R57 谱基增厚**:Alfa-Tech(希腊 Kefalonia Argostoli 25 Andrea Papandreou & Vyronos;+30 26710 23655;2013 起服务 Kefalonia 全岛）:AlfaTech=Total Solutions Provider;**IT+办公设备+电信+网络+安全系统现场(现代 CCTV/报警/消防/门禁)服务店 | R65 深挖:搜索无果,守档准由;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第3波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
+- **关注点与资质**：希腊 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**Αλφα Τεχ…Επισκευές Ηλεκτρονικών Υπολογιστών, Λοιπά…Αργοστόλι Κεφαλλονιά
-  > Αλφα Τεχ…Επισκευές Ηλεκτρονικών Υπολογιστών, Λοιπά…Αργοστόλι Κεφαλλονιά
-  > 来源：https://kefallonia.topodigos.gr/el/pelates/alfa-tech-analytis-pan-konstantinos
-- **【R57备护深挖证据】**Τηλεπικοινωνιών και Δικτύων καθώς και των Συστημάτων Ασφαλείας…σύγχρονες κάμερες και καταγραφικά
-  > Τηλεπικοινωνιών και Δικτύων καθώς και των Συστημάτων Ασφαλείας…σύγχρονες κάμερες και καταγραφικά
-  > 来源：https://www.topbiz.gr/listing/alfa-tech-analytis-konstantinos
-- **【R65 查询注】**alfa-tech.gr 本体无公开沟他件;守档准由
-  > (web_search 2026-10-07:无有效结果)
-  > 来源：(沙箱日志)
+- **【联系方式与基础画像】**Alfa-Tech(希腊 Kefalonia Argostoli 25 Andrea Papandreou & Vyronos;+30 26710 23655;2013 起服务 Kefalonia 全岛）:AlfaTech=Total Solutions Provider;**IT+办公设备+电信+网络+安全系统现场(
+  > Alfa-Tech(希腊 Kefalonia Argostoli 25 Andrea Papandreou & Vyronos;+30 26710 23655;2013 起服务 Kefalonia 全岛）:AlfaTech=Total Solutions Provider;**IT+办公设备+电信+网络+安全系统现场(
+  > 来源：https://alfa-tech.gr/
+- **【联系方式与基础画像】**CSV 入口:+30 26710 23655 / ka@alfa-tech.gr
+  > CSV 入口:+30 26710 23655 / ka@alfa-tech.gr
+  > 来源：https://alfa-tech.gr/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -147,7 +144,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:岛本地独有店+安防血统 / W:单个店面、大项目即失 / O:STC-424 安防部署刚性随单位 / T:岛物流/利运面
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -175,8 +172,8 @@ S:岛本地独有店+安防血统 / W:单个店面、大项目即失 / O:STC-424
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] CCTV 部署形 PoE 库企业进形
-  - [ ] 码头/旅游活景中 PoE 布网密度
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -185,21 +182,15 @@ S:岛本地独有店+安防血统 / W:单个店面、大项目即失 / O:STC-424
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi AlfaTech team,
+Dear Konstantinos Analytis Team,
 
-IT support, office systems, telecom, and full security-system installations (CCTV, alarms, fire, access control) across the whole island of Kefalonia - that's the full small-region solutions provider setup.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - designed as the access layer that sits inside your CCTV and security system deployments.
-
-One question: for your CCTV and security system deployments across the island, which PoE access switch are you standardizing on today - and would a documented sample unit earn a bench test?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

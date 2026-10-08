@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：VODENN SAS(SIREN 841882962,60 Impasse du Hameau des Guiols, 83210 La Farlède(Var 普罗旺斯）;2018-08-23 创，SAS €15K 本…
+- **是谁**：波 30·B-254:法国谱: **守档准由·原 R65/R57 谱基增厚**:VODENN SAS(法国 Toulon Siren 841882962;2018-08 创 SAS;PME;NAF 6201Z 编程）:*…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 法国自研市政无线/视频保护商的 bornes 回程 PoE 随单位；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | VODENN SAS(SIREN 841882962,60 Impasse du Hameau des Guiols, 83210 La Farlède(Var 普罗旺斯）;2018-08-23 创，SAS €15K 本，1-2 员工微企；**Dorian Pistolesi = Président（1983-05 生 43 岁）+ Julien Launa | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】「自产自销市政无线/视频保护」商资——自制 borne 需 PoE 回程与能源解决,每个安装场是把 PoE 接位到头 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 30·B-254:法国谱: **守档准由·原 R65/R57 谱基增厚**:VODENN SAS(法国 Toulon Siren 841882962;2018-08 创 SAS;PME;NAF 6201Z 编程）:**法国人自研自造视频保护+无线电解决方案专家**——borne vidéoprotection(WiFi 5GHz clientes bor | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】VODENN SAS(法国 Toulon Siren 841882962;2018-08 创 SAS;PME;NAF 6201Z 编程）:**法国人自研自造视频保护+无线电解决方案专家**——borne vidéoprotection(WiFi 5GHz clientes borne)、Vodennbox、能源自主模块、网络监管服务器；本地,市政/集体编制市县配套品口径 | R65 深挖:Var 建议味 2018 新谱；Pistolesi+Launay 二位
-- 【推断】「自产自销市政无线/视频保护」商资——自制 borne 需 PoE 回程与能源解决,每个安装场是把 PoE 接位到头
-- 【假设】开口角度=「你市政 bornes 装置的回程+电源位 PoE OEM 随单」——STC-424 小型中心+Vodennbox 类 bornes 配套的入接 PoE
+- 【事实】波 30·B-254:法国谱: **守档准由·原 R65/R57 谱基增厚**:VODENN SAS(法国 Toulon Siren 841882962;2018-08 创 SAS;PME;NAF 6201Z 编程）:**法国人自研自造视频保护+无线电解决方案专家**——borne vidéoprotection(WiFi 5GHz clientes borne)、Vodennbox、能源自主模块、网络监管服务器；本地,市政/集体编制市县配套品口径 | R65 深挖:Var 建议味 2018 新谱；Pistolesi+Launay 二位;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第4波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 30 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】「自产自销市政无线/视频保护」商资——自制 borne 需 PoE 回程与能源解决,每个安装场是把 PoE 接位到头
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -68,7 +68,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- VODENN SAS(SIREN 841882962,60 Impasse du Hameau des Guiols, 83210 La Farlède(Var 普罗旺斯）;2018-08-23 创，SAS €15K 本，1-2 员工微企；**Dorian Pistolesi = Président（1983-05 生 43 岁）+ Julien Launay = Directeur Général（1984-02 生，2019-05-02 在任）**;6201 编程/IT 咨询
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -92,50 +92,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · borne 装置回程位样张
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「你市政 bornes 装置的回程+电源位 PoE OEM 随单」——STC-424 小型中心+Vodennbox 类 bornes 配套的入接 PoE
-- **要问的问题**：你们市政 bornes 装置里,PoE 回程现供哪家？OEM 途款随单带样本试评？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · 样机提议
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「你市政 bornes 装置的回程+电源位 PoE OEM 随单」——STC-424 小型中心+Vodennbox 类 bornes 配套的入接 PoE
-- **要问的问题**：你们市政 bornes 装置里,PoE 回程现供哪家？OEM 途款随单带样本试评？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「你市政 bornes 装置的回程+电源位 PoE OEM 随单」——STC-424 小型中心+Vodennbox 类 bornes 配套的入接 PoE
-- **要问的问题**：你们市政 bornes 装置里,PoE 回程现供哪家？OEM 途款随单带样本试评？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 19 批精修 = R57 转写 + 本轮 pappers/verif 新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第19批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
 
-- **背景深描**：VODENN SAS(SIREN 841882962,60 Impasse du Hameau des Guiols, 83210 La Farlède(Var 普罗旺斯）;2018-08-23 创，SAS €15K 本，1-2 员工微企；**Dorian Pistolesi = Président（1983-05 生 43 岁）+ Julien Launay = Directeur Général（1984-02 生，2019-05-02 在任）**;6201 编程/IT 咨询
-- **芯片与在用型号**：【推断】「自产自销市政无线/视频保护」商资——自制 borne 需 PoE 回程与能源解决,每个安装场是把 PoE 接位到头
-- **关键人KP**：Dorian Pistolesi = Président;Julien Launay = DG
-- **关注点与资质**：MikroTik（Master） 
-- **优缺点SWOT**：S:自研自造法国市政专谱+直接标 / W:PME 随组位低,数量小 / O:bornes 装置 PoE 回程随单位 / T:自研 AP 面正对面
-- **Saga产品适配**：法国自研市政无线/视频保护商的 bornes 回程 PoE 随单位
+- **背景深描**：波 30·B-254:法国谱: **守档准由·原 R65/R57 谱基增厚**:VODENN SAS(法国 Toulon Siren 841882962;2018-08 创 SAS;PME;NAF 6201Z 编程）:**法国人自研自造视频保护+无线电解决方案专家**——borne vidéoprotection(WiFi 5GHz clientes borne)、Vodennbox、能源自主模块、网络监管服务器；本地,市政/集体编制市县配套品口径 | R65 深挖:Var 建议味 2018 新谱；Pistolesi+Launay 二位;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第4波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
+- **关注点与资质**：法国 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**Vodenn, expert français en solutions radio et vidéoprotection, conçoit et fabrique des systèmes performants, autonomes et sécurisés
-  > Vodenn, expert français en solutions radio et vidéoprotection, conçoit et fabrique des systèmes performants, autonomes et sécurisés
+- **【联系方式与基础画像】**VODENN SAS(法国 Toulon Siren 841882962;2018-08 创 SAS;PME;NAF 6201Z 编程）:**法国人自研自造视频保护+无线电解决方案专家**——borne vidéoprotection(WiFi 5GHz clientes borne)、Vodennbox、能源自主模块
+  > VODENN SAS(法国 Toulon Siren 841882962;2018-08 创 SAS;PME;NAF 6201Z 编程）:**法国人自研自造视频保护+无线电解决方案专家**——borne vidéoprotection(WiFi 5GHz clientes borne)、Vodennbox、能源自主模块
   > 来源：https://vodenn.fr/
-- **【R57备护深挖证据】**VODENN SAS…23/08/2018…PME…NAF 6201Z programmation informatique…RCS Toulon
-  > VODENN SAS…23/08/2018…PME…NAF 6201Z programmation informatique…RCS Toulon
-  > 来源：https://entreprises.lefigaro.fr/vodenn-83/entreprise-841882962
-- **【R65 登记/实名】**VODENN SIREN 841882962 · La Farlède(Var) 2018 创微企 · Pistolesi 主+ Launay DG
-  > 841882962 Siret … Dorian PISTOLESI Président … Julien LAUNAY Directeur Général … La Farlede … Société par actions simplifiée … Capital 15 000 €
-  > 来源：https://www.verif.com/societe/VODENN-841882962/
+- **【联系方式与基础画像】**CSV 入口:+33 6 37 71 53 66 / contact@vodenn.fr
+  > CSV 入口:+33 6 37 71 53 66 / contact@vodenn.fr
+  > 来源：https://vodenn.fr/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -148,7 +145,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:自研自造法国市政专谱+直接标 / W:PME 随组位低,数量小 / O:bornes 装置 PoE 回程随单位 / T:自研 AP 面正对面
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -176,8 +173,8 @@ S:自研自造法国市政专谱+直接标 / W:PME 随组位低,数量小 / O:bo
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 市政 bornes 部署里 PoE 回程现供 OEM
-  - [ ] 其能源自主+监管服务谱 PoE 接点位
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -186,21 +183,15 @@ S:自研自造法国市政专谱+直接标 / W:PME 随组位低,数量小 / O:bo
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Vodenn team,
+Dear VODENN SAS Team,
 
-French-made radio and video-protection systems for municipalities, with borne boxes that go into the field with their own power and supervision - every single field installation is a PoE assembly.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite, $180 USD EXW ref. 2026-09-29) plus 8-port industrial DIN-rail models, with full English/French documentation and OEM-friendly branding.
-
-One question: inside the borne assemblies you ship to municipalities, which PoE source feeds the links and the cam runs - and would a documented OEM unit earn a bench test?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

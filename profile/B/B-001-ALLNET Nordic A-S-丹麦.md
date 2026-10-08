@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：ALLNET Nordic A/S(CVR 26115744,Borupvang 3 2750 Ballerup,2001-06-01 注册;NACE 631000 IT 基础设施/数据处理;6-8 员工,HS1 Hol…
+- **是谁**：波 29·B-001:丹麦谱: **守档准由·原 R65/R57 谱基增厚**:ALLNET Nordic A/S(Ballerup 哥本哈根圈;shop.allnet.dk;MikroTik Master;**ALLN…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — ALLNET 集团北欧站 value PoE 联动位(第 6 站,同法意希模板)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | ALLNET Nordic A/S(CVR 26115744,Borupvang 3 2750 Ballerup,2001-06-01 注册;NACE 631000 IT 基础设施/数据处理;6-8 员工,HS1 Holding ApS 全资母;shop.allnet.dk = ALLNET 集团北欧第 6 站(MikroTik Master),集团 €5  | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】集团第 6 站:北欧分销站(DK/SE/NO/FI 谱),与法意希站同构=纯分销面,自牌冲突不在此层 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 29·B-001:丹麦谱: **守档准由·原 R65/R57 谱基增厚**:ALLNET Nordic A/S(Ballerup 哥本哈根圈;shop.allnet.dk;MikroTik Master;**ALLNET 集团北欧站**——集团 €5 亿+/160+ 品牌/9+ 国,德总部 B-138(同业守档)+法 B-231+意 B-154+希 B- | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】ALLNET Nordic A/S(Ballerup 哥本哈根圈;shop.allnet.dk;MikroTik Master;**ALLNET 集团北欧站**——集团 €5 亿+/160+ 品牌/9+ 国,德总部 B-138(同业守档)+法 B-231+意 B-154+希 B-115 已在谱)
-- 【推断】集团第 6 站:北欧分销站(DK/SE/NO/FI 谱),与法意希站同构=纯分销面,自牌冲突不在此层
-- 【假设】开口角度=「ALLNET 集团北欧站的 value PoE 集团合合」(同 B-231/B-154 模板):STC-424 做北欧四站统一 value stocking SKU
+- 【事实】波 29·B-001:丹麦谱: **守档准由·原 R65/R57 谱基增厚**:ALLNET Nordic A/S(Ballerup 哥本哈根圈;shop.allnet.dk;MikroTik Master;**ALLNET 集团北欧站**——集团 €5 亿+/160+ 品牌/9+ 国,德总部 B-138(同业守档)+法 B-231+意 B-154+希 B-115 已在谱);R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第9波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 29 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】集团第 6 站:北欧分销站(DK/SE/NO/FI 谱),与法意希站同构=纯分销面,自牌冲突不在此层
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -67,7 +67,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- ALLNET Nordic A/S(CVR 26115744,Borupvang 3 2750 Ballerup,2001-06-01 注册;NACE 631000 IT 基础设施/数据处理;6-8 员工,HS1 Holding ApS 全资母;shop.allnet.dk = ALLNET 集团北欧第 6 站(MikroTik Master),集团 €5 亿+/160+ 品牌谱;关联谱内:德 B-138(守档)+法 B-231+意 B-154+希 B-115)
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -91,50 +91,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · 集团联动页(法意希背书)
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「ALLNET 集团北欧站的 value PoE 集团合合」(同 B-231/B-154 模板):STC-424 做北欧四站统一 value stocking SKU
-- **要问的问题**：ALLNET 集团经法意希各站后,北欧站 value PoE 档现供哪家?统一 stocking SKU 可谈吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · info@allnet.dk 开口
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「ALLNET 集团北欧站的 value PoE 集团合合」(同 B-231/B-154 模板):STC-424 做北欧四站统一 value stocking SKU
-- **要问的问题**：ALLNET 集团经法意希各站后,北欧站 value PoE 档现供哪家?统一 stocking SKU 可谈吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「ALLNET 集团北欧站的 value PoE 集团合合」(同 B-231/B-154 模板):STC-424 做北欧四站统一 value stocking SKU
-- **要问的问题**：ALLNET 集团经法意希各站后,北欧站 value PoE 档现供哪家?统一 stocking SKU 可谈吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 1 批精修 = R57 转写 + 本轮 proff.dk/lasso.dk 商业登记补)**；原始记录：`batch/B类深挖_2026-10-07_R65_第1批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
 
-- **背景深描**：ALLNET Nordic A/S(CVR 26115744,Borupvang 3 2750 Ballerup,2001-06-01 注册;NACE 631000 IT 基础设施/数据处理;6-8 员工,HS1 Holding ApS 全资母;shop.allnet.dk = ALLNET 集团北欧第 6 站(MikroTik Master),集团 €5 亿+/160+ 品牌谱;关联谱内:德 B-138(守档)+法 B-231+意 B-154+希 B-115)
-- **芯片与在用型号**：【推断】集团第 6 站:北欧分销站(DK/SE/NO/FI 谱),与法意希站同构=纯分销面,自牌冲突不在此层
-- **关键人KP**：—
-- **关注点与资质**：MikroTik（Master） 
-- **优缺点SWOT**：S:集团北欧四点+Master / W:决策或上集团 / O:集团 value PoE 第 6 站联动 / T:总部自牌谱边界
-- **Saga产品适配**：ALLNET 集团北欧站 value PoE 联动位(第 6 站,同法意希模板)
+- **背景深描**：波 29·B-001:丹麦谱: **守档准由·原 R65/R57 谱基增厚**:ALLNET Nordic A/S(Ballerup 哥本哈根圈;shop.allnet.dk;MikroTik Master;**ALLNET 集团北欧站**——集团 €5 亿+/160+ 品牌/9+ 国,德总部 B-138(同业守档)+法 B-231+意 B-154+希 B-115 已在谱);R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第9波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
+- **关注点与资质**：丹麦 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**Over EUR 500 million in aggregate turnover, more than 60,000 partners in Europe…direct presence in Germany, Italy, France, Switzerland, Aust
-  > Over EUR 500 million in aggregate turnover, more than 60,000 partners in Europe…direct presence in Germany, Italy, France, Switzerland, Austria, Northern Europe
-  > 来源：https://www.allnet-italia.it/en/allnet-international-network/
-- **【R65 商业登记】**CVR 26115744 · 2001 年注册 · HS1 Holding ApS 100% 持股 · NACE 631000
-  > ALLNET NORDIC A/S CVR-nr 26115744 … Startdato 01.06.2001 … NACE-branche 631000 … Moderselskabet er HS1 Holding ApS
-  > 来源：https://www.proff.dk/firma/allnet-nordic-as/ballerup/it-drift-og-support/GOGAJ0I0ZDG
-- **【R65 董事实名】**Nikolaj Jakobi Nøttrup = 董事(2021 任职)+ Kim Neumann 董事(2006)
-  > Direktør Nikolaj Jakobi Nøttrup … Bestyrelsesmedlem Kim Neumann 26-10-2006 -
-  > 来源：https://find-virksomhed.dk/firma/allnet-nordic-a-s-26115744
+- **【联系方式与基础画像】**ALLNET Nordic A/S(Ballerup 哥本哈根圈;shop.allnet.dk;MikroTik Master;**ALLNET 集团北欧站**——集团 €5 亿+/160+ 品牌/9+ 国,德总部 B-138(同业守档)+法 B-231+意 B-154+希 B-115 已在谱)
+  > ALLNET Nordic A/S(Ballerup 哥本哈根圈;shop.allnet.dk;MikroTik Master;**ALLNET 集团北欧站**——集团 €5 亿+/160+ 品牌/9+ 国,德总部 B-138(同业守档)+法 B-231+意 B-154+希 B-115 已在谱)
+  > 来源：https://shop.allnet.dk/
+- **【联系方式与基础画像】**CSV 入口:+45 69 96 00 00 / info@allnet.dk
+  > CSV 入口:+45 69 96 00 00 / info@allnet.dk
+  > 来源：https://shop.allnet.dk/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -147,7 +144,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:集团北欧四点+Master / W:决策或上集团 / O:集团 value PoE 第 6 站联动 / T:总部自牌谱边界
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -175,8 +172,8 @@ S:集团北欧四点+Master / W:决策或上集团 / O:集团 value PoE 第 6 �
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 北欧站采购集权度(集团统一 or DK 自主)
-  - [ ] 北欧 MikroTik 架 PoE 档空位
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -185,21 +182,15 @@ S:集团北欧四点+Master / W:决策或上集团 / O:集团 value PoE 第 6 �
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi ALLNET Nordic team,
+Dear ALLNET Nordic A Team,
 
-Another ALLNET branch on our map after France, Italy and Greece - the Group shelf deserves one uniform value PoE tier across all countries.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Danish documentation. Reference: $180 USD EXW (2026-09-29) - designed as the value-tier stocking SKU that slots uniformly across the Allnet Group shelf.
-
-One question: for the Nordic branch, which PoE access SKU holds the value tier today - and would a group-level second source earn a pilot here?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

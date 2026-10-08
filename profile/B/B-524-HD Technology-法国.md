@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：HD TECHNOLOGY / HIGH DESIGN TECHNOLOGY(SIREN 390778769;Bron Parc Saint Exupéry 6 rue Maryse Bastié,Lyon 东区；199…
+- **是谁**：波 30·B-524:法国谱: **守档准由·原 R65/R57 谱基增厚**:HD Technology(法国 Bron 69500 里昂 8 rue Pascal / 6 t rue Maryse Bastié Ba…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：【2026-09-28 复核回升 C-210→B-524】官网联系页正文可见；邮箱补到后原「无邮箱（群发触达不到）」下放原因消除 → 恢复 B（群发可触达）。原判：三星依据仅渠道等级（分销（HMS/N-Tron·Red Lion 渠道））与「N-Tron + Red Lion」，需求未核。
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 法兰西 Red Lion 老牌分销商（已开 OEM 版本）的 DIN 轨 value 第 2 源；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | HD TECHNOLOGY / HIGH DESIGN TECHNOLOGY(SIREN 390778769;Bron Parc Saint Exupéry 6 rue Maryse Bastié,Lyon 东区；1993-04-05 创，应用软件开发/IT 服务；**Denis Richard = Directeur Général（2022-08-05  | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】30+ 年老工业分极+Red Lion 谱深+NT 系列已开 OEM 版本=是 Red Lion 王牌渠道自谣,工业 PoE 已开 OEM 血案传 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 30·B-524:法国谱: **守档准由·原 R65/R57 谱基增厚**:HD Technology(法国 Bron 69500 里昂 8 rue Pascal / 6 t rue Maryse Bastié Bat g)**:**1993 创的工业自动化集产商(5-19 人 SAS;RCS Lyon 390778769);总裁 Richard DEN | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】HD Technology(法国 Bron 69500 里昂 8 rue Pascal / 6 t rue Maryse Bastié Bat g)**:**1993 创的工业自动化集产商(5-19 人 SAS;RCS Lyon 390778769);总裁 Richard DENIS 具名;Red Lion/N-Tron 官方高窗分极**。store.hdtechnology.com 在售 Red Lion NT4008/NT5000/Sixnet 工业 PoE 交换（页面明示「managées, non managées, PoE, IP67 et OEM 版本」**) | R65 深挖:Lyon 小老谱；Richard 新掌舵 2022
-- 【推断】30+ 年老工业分极+Red Lion 谱深+NT 系列已开 OEM 版本=是 Red Lion 王牌渠道自谣,工业 PoE 已开 OEM 血案传
-- 【假设】开口角度=「Red Lion NT4008/NT5000 已开 OEM 版本的化学——STI-288GP 以 value DIN 轨第 2 源直至 OEM 模仿（绕过 Red Lion 编针）」——具名 Richard 开口
+- 【事实】波 30·B-524:法国谱: **守档准由·原 R65/R57 谱基增厚**:HD Technology(法国 Bron 69500 里昂 8 rue Pascal / 6 t rue Maryse Bastié Bat g)**:**1993 创的工业自动化集产商(5-19 人 SAS;RCS Lyon 390778769);总裁 Richard DENIS 具名;Red Lion/N-Tron 官方高窗分极**。store.hdtechnology.com 在售 Red Lion NT4008/NT5000/Sixnet 工业 PoE 交换（页面明示「managées, non managées, PoE, IP67 et OEM 版本」**) | R65 深挖:Lyon 小老谱；Richard 新掌舵 2022;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第4波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 30 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】30+ 年老工业分极+Red Lion 谱深+NT 系列已开 OEM 版本=是 Red Lion 王牌渠道自谣,工业 PoE 已开 OEM 血案传
+STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -69,7 +69,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- HD TECHNOLOGY / HIGH DESIGN TECHNOLOGY(SIREN 390778769;Bron Parc Saint Exupéry 6 rue Maryse Bastié,Lyon 东区；1993-04-05 创，应用软件开发/IT 服务；**Denis Richard = Directeur Général（2022-08-05 在任，1964-10 生 61 岁）**;503 BROADWAY(SIREN 539109082)= Président 法人（2022-06-30 在任）;10-19 员工，€1-2M 营收 monreseau-it；小老谱 1993
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -92,50 +92,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · OEM 样张 Red Lion 对位
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「Red Lion NT4008/NT5000 已开 OEM 版本的化学——STI-288GP 以 value DIN 轨第 2 源直至 OEM 模仿（绕过 Red Lion 编针）」——具名 Richard 开口
-- **要问的问题**：Richard，你们 Red Lion 谱望向 NT4008/NT5000 已开 OEM 件——除 Red Lion 之外，有 DIN 轨 PoE 源可以补市的 value 样机吗？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · Richard DENIS 具名联络
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「Red Lion NT4008/NT5000 已开 OEM 版本的化学——STI-288GP 以 value DIN 轨第 2 源直至 OEM 模仿（绕过 Red Lion 编针）」——具名 Richard 开口
-- **要问的问题**：Richard，你们 Red Lion 谱望向 NT4008/NT5000 已开 OEM 件——除 Red Lion 之外，有 DIN 轨 PoE 源可以补市的 value 样机吗？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「Red Lion NT4008/NT5000 已开 OEM 版本的化学——STI-288GP 以 value DIN 轨第 2 源直至 OEM 模仿（绕过 Red Lion 编针）」——具名 Richard 开口
-- **要问的问题**：Richard，你们 Red Lion 谱望向 NT4008/NT5000 已开 OEM 件——除 Red Lion 之外，有 DIN 轨 PoE 源可以补市的 value 样机吗？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 19 批精修 = R57 转写 + 本轮 pappers/verif 新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第19批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
 
-- **背景深描**：HD TECHNOLOGY / HIGH DESIGN TECHNOLOGY(SIREN 390778769;Bron Parc Saint Exupéry 6 rue Maryse Bastié,Lyon 东区；1993-04-05 创，应用软件开发/IT 服务；**Denis Richard = Directeur Général（2022-08-05 在任，1964-10 生 61 岁）**;503 BROADWAY(SIREN 539109082)= Président 法人（2022-06-30 在任）;10-19 员工，€1-2M 营收 monreseau-it；小老谱 1993
-- **芯片与在用型号**：【推断】30+ 年老工业分极+Red Lion 谱深+NT 系列已开 OEM 版本=是 Red Lion 王牌渠道自谣,工业 PoE 已开 OEM 血案传
-- **关键人KP**：Denis Richard = Directeur Général（2022 在任）;503 BROADWAY 法人主席位)
-- **关注点与资质**：N-Tron + Red Lion 
-- **优缺点SWOT**：S:1993 老工业+Red Lion OEM 版本已开 / W:Red Lion 王牌亚位稳 / O:STI-288GP 第 2 源或 STI-288GP OEM 变体系 / T:Red Lion 售供血脉
-- **Saga产品适配**：法兰西 Red Lion 老牌分销商（已开 OEM 版本）的 DIN 轨 value 第 2 源
+- **背景深描**：波 30·B-524:法国谱: **守档准由·原 R65/R57 谱基增厚**:HD Technology(法国 Bron 69500 里昂 8 rue Pascal / 6 t rue Maryse Bastié Bat g)**:**1993 创的工业自动化集产商(5-19 人 SAS;RCS Lyon 390778769);总裁 Richard DENIS 具名;Red Lion/N-Tron 官方高窗分极**。store.hdtechnology.com 在售 Red Lion NT4008/NT5000/Sixnet 工业 PoE 交换（页面明示「managées, non managées, PoE, IP67 et OEM 版本」**) | R65 深挖:Lyon 小老谱；Richard 新掌舵 2022;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第4波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
+- **关注点与资质**：法国 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
+- **Saga产品适配**：STI-288GP vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**Les switchs Ethernet industriels de Red Lion, incluant notamment les séries N-Tron®, Sixnet®, NT4008 et NT5000…disponibles en versions manag
-  > Les switchs Ethernet industriels de Red Lion, incluant notamment les séries N-Tron®, Sixnet®, NT4008 et NT5000…disponibles en versions managées, non managées, PoE, IP67 et OEM
-  > 来源：https://store.hdtechnology.com/red-lion/
-- **【R57备护深挖证据】**HIGH DESIGN TECHNOLOGY - HD TECHNOLOGY…390 778 769 RCS Lyon…Richard DENIS président
-  > HIGH DESIGN TECHNOLOGY - HD TECHNOLOGY…390 778 769 RCS Lyon…Richard DENIS président
-  > 来源：https://www.manageo.fr/entreprises/390778769.html
-- **【R65 登记/实名】**HD TECHNOLOGY Bron(Lyon) 390778769 · 1993 创 · Denis Richard DG 2022 · €1-2M/10-19 谱位
-  > Denis Richard Directeur général 61 ans - 10/1964 Depuis le 05/08/2022 … High Design Technology - Hd Technology : Édition de logiciels applicatifs … Effectif: 10 à 19 salariés, Chiffres d'affaires: 1 à 2 M€
-  > 来源：https://www.monreseau-it.fr/revendeur/hd-technology-390778769.htm
+- **【联系方式与基础画像】**HD Technology(法国 Bron 69500 里昂 8 rue Pascal / 6 t rue Maryse Bastié Bat g)**:**1993 创的工业自动化集产商(5-19 人 SAS;RCS Lyon 390778769);总裁 Richard DENIS 具名;Red Lion/N-Tro
+  > HD Technology(法国 Bron 69500 里昂 8 rue Pascal / 6 t rue Maryse Bastié Bat g)**:**1993 创的工业自动化集产商(5-19 人 SAS;RCS Lyon 390778769);总裁 Richard DENIS 具名;Red Lion/N-Tro
+  > 来源：https://hdtechnology.com/
+- **【联系方式与基础画像】**CSV 入口:contact@hdtechnology.fr（官网联系页）
+  > CSV 入口:contact@hdtechnology.fr（官网联系页）
+  > 来源：https://hdtechnology.com/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -148,7 +145,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:1993 老工业+Red Lion OEM 版本已开 / W:Red Lion 王牌亚位稳 / O:STI-288GP 第 2 源或 STI-288GP OEM 变体系 / T:Red Lion 售供血脉
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -176,8 +173,8 @@ S:1993 老工业+Red Lion OEM 版本已开 / W:Red Lion 王牌亚位稳 / O:STI-
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] NT4008/NT5000 OEM 版本（他们已给 Red Lion 开出 OEM），我们能出 STI 的 OEM 关各项
-  - [ ] Richard DENIS 对 PoE 类别的商务判位
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -186,21 +183,15 @@ S:1993 老工业+Red Lion OEM 版本已开 / W:Red Lion 王牌亚位稳 / O:STI-
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Richard,
+Dear HD Technology Team,
 
-Thirty years in industrial automation with Red Lion on your wall and the NT4008 / NT5000 series in managed / unmanaged / PoE / IP67 / OEM variants - you already know exactly what an OEM-version story looks like.
+We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English/French documentation. Reference: $74.8 USD EXW (2026-09-29) - strictly the value-side second source next to your Red Lion shelf, fully open to an OEM variant under your terms.
-
-One question: alongside the Red Lion shelf, is there a documented value-side DIN-rail second source in your line-up today, or is that slot still open?
-
-If useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

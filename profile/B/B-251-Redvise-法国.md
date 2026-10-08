@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：REDVISE（法国谱主；**同 B-234 Adnan Rihan = 同主位实体谱**：REDVISE LTD(UK 12906418, London Covent Garden WC2H 9JQ, 2020-09-…
+- **是谁**：波 29·B-251:法国谱: **守档准由·原 R65/R57 谱基增厚**:Redvise(法国 Paris 12e 39 rue de la Gare de Reuilly + London WC2H Shelto…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-28DGGPM（8口 PoE 接入盒） — 师者+reseller 双证的教具样本线:8 口小机当课桌对照教具（师者红线下最白开口）；$99 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | REDVISE（法国谱主；**同 B-234 Adnan Rihan = 同主位实体谱**：REDVISE LTD(UK 12906418, London Covent Garden WC2H 9JQ, 2020-09-25 创）= 英侧谱载体） | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】小团高证型:师者+Reseller 双谱+法英双址=较独立的小型高科技 IT Consultancy;双国号线=海外谱外放 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 29·B-251:法国谱: **守档准由·原 R65/R57 谱基增厚**:Redvise(法国 Paris 12e 39 rue de la Gare de Reuilly + London WC2H Shelton 71-75 双址）:**MikroTik Certified Trainer + Authorized Reseller 双证**(官网 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Redvise(法国 Paris 12e 39 rue de la Gare de Reuilly + London WC2H Shelton 71-75 双址）:**MikroTik Certified Trainer + Authorized Reseller 双证**(官网显）;3CX Partner+Reseller;Laravel 开发修养;contact@redvi.se + +33 1 40 27 10 40 / +44 203 44 55 770 双国号线 | R65 深挖:同 B-234 谱联动，一主双实体
-- 【推断】小团高证型:师者+Reseller 双谱+法英双址=较独立的小型高科技 IT Consultancy;双国号线=海外谱外放
-- 【假设】开口角度=「师者教具样本位/微课教材」——STC-28DGGPM 8 口小机做其课桌对照教具+reseller 小批随单同时走
+- 【事实】波 29·B-251:法国谱: **守档准由·原 R65/R57 谱基增厚**:Redvise(法国 Paris 12e 39 rue de la Gare de Reuilly + London WC2H Shelton 71-75 双址）:**MikroTik Certified Trainer + Authorized Reseller 双证**(官网显）;3CX Partner+Reseller;Laravel 开发修养;contact@redvi.se + +33 1 40 27 10 40 / +44 203 44 55 770 双国号线 | R65 深挖:同 B-234 谱联动，一主双实体;R66 第 29 波谱:我司 STC-28DGGPM(8-port PoE access box (802.3af/at, watchdog)($99 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第4波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 29 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】小团高证型:师者+Reseller 双谱+法英双址=较独立的小型高科技 IT Consultancy;双国号线=海外谱外放
+STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -90,50 +90,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM（8口 PoE 接入盒）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · 教具样本合作一页(师者红线下）
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「师者教具样本位/微课教材」——STC-28DGGPM 8 口小机做其课桌对照教具+reseller 小批随单同时走
-- **要问的问题**：你的课上有没有对照厂牌的教具？STC-28DGGPM 这样的 8 口小交换当对照样本开行型价可吗？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · 样机提议
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「师者教具样本位/微课教材」——STC-28DGGPM 8 口小机做其课桌对照教具+reseller 小批随单同时走
-- **要问的问题**：你的课上有没有对照厂牌的教具？STC-28DGGPM 这样的 8 口小交换当对照样本开行型价可吗？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「师者教具样本位/微课教材」——STC-28DGGPM 8 口小机做其课桌对照教具+reseller 小批随单同时走
-- **要问的问题**：你的课上有没有对照厂牌的教具？STC-28DGGPM 这样的 8 口小交换当对照样本开行型价可吗？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 19 批精修 = R57 转写 + 本轮 pappers/verif 新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第19批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
 
-- **背景深描**：REDVISE（法国谱主；**同 B-234 Adnan Rihan = 同主位实体谱**：REDVISE LTD(UK 12906418, London Covent Garden WC2H 9JQ, 2020-09-25 创）= 英侧谱载体）
-- **芯片与在用型号**：【推断】小团高证型:师者+Reseller 双谱+法英双址=较独立的小型高科技 IT Consultancy;双国号线=海外谱外放
-- **关键人KP**：Adnan Rihan（同 B-234 谱口径）)
-- **关注点与资质**：MikroTik（Reseller） 
-- **优缺点SWOT**：S:小微高证+双址双国号 / W:小体量对上架位 / O:教具样本/对照牌教具位 / T:师者红线
-- **Saga产品适配**：师者+reseller 双证的教具样本线:8 口小机当课桌对照教具（师者红线下最白开口）
+- **背景深描**：波 29·B-251:法国谱: **守档准由·原 R65/R57 谱基增厚**:Redvise(法国 Paris 12e 39 rue de la Gare de Reuilly + London WC2H Shelton 71-75 双址）:**MikroTik Certified Trainer + Authorized Reseller 双证**(官网显）;3CX Partner+Reseller;Laravel 开发修养;contact@redvi.se + +33 1 40 27 10 40 / +44 203 44 55 770 双国号线 | R65 深挖:同 B-234 谱联动，一主双实体;R66 第 29 波谱:我司 STC-28DGGPM(8-port PoE access box (802.3af/at, watchdog)($99 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第4波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
+- **关注点与资质**：法国 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-28DGGPM 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-28DGGPM vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**We are MikroTik Certified Trainers, Authorized Resellers and Experts on this platform
-  > We are MikroTik Certified Trainers, Authorized Resellers and Experts on this platform
-  > 来源：https://www.redvi.se/home
-- **【R57备护深挖证据】**PARIS 39 rue de la Gare de Reuilly, 75012 / LONDON 71–75 Shelton Street, WC2H-9JQ
-  > PARIS 39 rue de la Gare de Reuilly, 75012 / LONDON 71–75 Shelton Street, WC2H-9JQ
-  > 来源：https://www.redvi.se/home
-- **【R65 谱联动】**B-251 Redvise 与 B-234 Adnan Rihan 同主双实体：英国 REDVISE LTD 12906418 谱载体
-  > （同 B-234 R65 口径）
-  > 来源：https://b2bhint.com/ru/company/gb/redvise-ltd--12906418
+- **【联系方式与基础画像】**Redvise(法国 Paris 12e 39 rue de la Gare de Reuilly + London WC2H Shelton 71-75 双址）:**MikroTik Certified Trainer + Authorized Reseller 双证**(官网显）;3CX Partner+Resel
+  > Redvise(法国 Paris 12e 39 rue de la Gare de Reuilly + London WC2H Shelton 71-75 双址）:**MikroTik Certified Trainer + Authorized Reseller 双证**(官网显）;3CX Partner+Resel
+  > 来源：https://redvi.se/
+- **【联系方式与基础画像】**CSV 入口:+33 7 66 00 07 63 / shop@redvi.se
+  > CSV 入口:+33 7 66 00 07 63 / shop@redvi.se
+  > 来源：https://redvi.se/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -146,7 +143,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:小微高证+双址双国号 / W:小体量对上架位 / O:教具样本/对照牌教具位 / T:师者红线
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-28DGGPM 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -174,8 +171,8 @@ S:小微高证+双址双国号 / W:小体量对上架位 / O:教具样本/对照
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] Trainer+Reseller 双份对教具 OEM 的开放度
-  - [ ] 课桌对照教具现有没有位
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -184,21 +181,15 @@ S:小微高证+双址双国号 / W:小体量对上架位 / O:教具样本/对照
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Redvise team,
+Dear Redvise Team,
 
-Certified MikroTik Trainer and Reseller on one business card, plus 3CX and Laravel on the other - you sit at that rare spot where the training bench and the reseller shelf meet.
+We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a compact 8-port managed PoE+ switch (120W, L2-lite) with full English/French documentation. Reference: $99 USD EXW (2026-09-29) - built empty-label friendly so a trainer can place it on the bench as a documented comparison SKU without any brand pressure.
-
-One question: on your training bench, do you currently use a documented comparison device for the PoE segment - and would a sample-unit offer with a full test pack be something you would evaluate?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

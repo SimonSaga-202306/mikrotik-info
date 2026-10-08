@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Pace International(1972 年创立,Rochester, Minnesota;**Richard Siegel = Founder & CEO**;Brent Afseth = VP of Chann…
+- **是谁**：波 30·B-366:美国谱: **守档准由·原 R65/R57 谱基增厚**:Pace International（明尼苏达 Rochester, MN 3582 Technology Dr NW):1972 年 Ji…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 卫星/视频/蜂窝大型 VAD 的 install BOM 随单补位：楼价档 24 口；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Pace International(1972 年创立,Rochester, Minnesota;**Richard Siegel = Founder & CEO**;Brent Afseth = VP of Channel Partners;Sam Schell = SVP Business Development;Jeremy Nelson = E-Co | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】体量与渠道极深但主品谱是卫星/视频/内容——交换件是工具位不是主线；MikroTik Master+VAD 挂证只是其大关节的一部分 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 30·B-366:美国谱: **守档准由·原 R65/R57 谱基增厚**:Pace International（明尼苏达 Rochester, MN 3582 Technology Dr NW):1972 年 Jim Deutsch 创（Lew Bonn 老电子分销血脉 1920s 根）;**唯一 Dish Network 全国硬件/内容分销商**;v | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Pace International（明尼苏达 Rochester, MN 3582 Technology Dr NW):1972 年 Jim Deutsch 创（Lew Bonn 老电子分销血脉 1920s 根）;**唯一 Dish Network 全国硬件/内容分销商**;video/data/cellular 大型本位 VAD；全美 B2B/B2C 双轨网 | R65 深挖:美 1972 三代谱；Deutsch 三代 2025 接棒
-- 【推断】体量与渠道极深但主品谱是卫星/视频/内容——交换件是工具位不是主线；MikroTik Master+VAD 挂证只是其大关节的一部分
-- 【假设】从安装商（national installer）需要-tool 的角度看：半发货随单（卫星+网关+接入 PoE）是路线主业——STC-424 入 install 谱随单是最优招
+- 【事实】波 30·B-366:美国谱: **守档准由·原 R65/R57 谱基增厚**:Pace International（明尼苏达 Rochester, MN 3582 Technology Dr NW):1972 年 Jim Deutsch 创（Lew Bonn 老电子分销血脉 1920s 根）;**唯一 Dish Network 全国硬件/内容分销商**;video/data/cellular 大型本位 VAD；全美 B2B/B2C 双轨网 | R65 深挖:美 1972 三代谱；Deutsch 三代 2025 接棒;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第1波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 30 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】体量与渠道极深但主品谱是卫星/视频/内容——交换件是工具位不是主线；MikroTik Master+VAD 挂证只是其大关节的一部分
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -91,49 +91,46 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · install BOM 随单方案单页
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：从安装商（national installer）需要-tool 的角度看：半发货随单（卫星+网关+接入 PoE）是路线主业——STC-424 入 install 谱随单是最优招
-- **要问的问题**：你们的 install 商商用部署（酒店/多住户/体育吧）里，接入 PoE 现随哪单发？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · 样机 CD 级
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：从安装商（national installer）需要-tool 的角度看：半发货随单（卫星+网关+接入 PoE）是路线主业——STC-424 入 install 谱随单是最优招
-- **要问的问题**：你们的 install 商商用部署（酒店/多住户/体育吧）里，接入 PoE 现随哪单发？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 归档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：从安装商（national installer）需要-tool 的角度看：半发货随单（卫星+网关+接入 PoE）是路线主业——STC-424 入 install 谱随单是最优招
-- **要问的问题**：你们的 install 商商用部署（酒店/多住户/体育吧）里，接入 PoE 现随哪单发？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 15 批精修 = R57 转写 + 本轮调研新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第15批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
 
-- **背景深描**：Pace International(1972 年创立,Rochester, Minnesota;**Richard Siegel = Founder & CEO**;Brent Afseth = VP of Channel Partners;Sam Schell = SVP Business Development;Jeremy Nelson = E-Commerce Director;2025-26 Tim + Eric Deutsch 三代接棒列股东；谱型=video/data 解决方案 50+ 年批发名堂；官网「Brands we stock and stand behind:MikroTik」自曝
-- **芯片与在用型号**：【推断】体量与渠道极深但主品谱是卫星/视频/内容——交换件是工具位不是主线；MikroTik Master+VAD 挂证只是其大关节的一部分
-- **关键人KP**：Richard Siegel = Founder & CEO(1972 创）;Brent Afseth VP Channel Partners;Tim/Eric Deutsch 三代股东
-- **关注点与资质**：MikroTik（Master+VAD） 
-- **优缺点SWOT**：S:50 年血脉+Dish 全国独分+ install 网 / W:交换件为工具位非主推线 / O:随单 STC-424 入 install BOM / T:主品谱挤压架空 PoE 品
-- **Saga产品适配**：卫星/视频/蜂窝大型 VAD 的 install BOM 随单补位：楼价档 24 口
+- **背景深描**：波 30·B-366:美国谱: **守档准由·原 R65/R57 谱基增厚**:Pace International（明尼苏达 Rochester, MN 3582 Technology Dr NW):1972 年 Jim Deutsch 创（Lew Bonn 老电子分销血脉 1920s 根）;**唯一 Dish Network 全国硬件/内容分销商**;video/data/cellular 大型本位 VAD；全美 B2B/B2C 双轨网 | R65 深挖:美 1972 三代谱；Deutsch 三代 2025 接棒;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第1波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
+- **关注点与资质**：美国 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**Pace was established in 1972 in Rochester, MN…only national hardware and content distributor for Dish Network
-  > Pace was established in 1972 in Rochester, MN…only national hardware and content distributor for Dish Network
-  > 来源：https://topworkplaces.com/company/pace-international/
-- **【R57备护深挖证据】**Pace International distributes equipment…beyond the video, data and cellular hardware we distribute nationally
-  > Pace International distributes equipment…beyond the video, data and cellular hardware we distribute nationally
-  > 来源：https://futureforward.org/search-directory/pace-international/
-- **【R65 谱/实名】**Pace International 1972 创立 Rochester MN 50+ 年批发名称；Richard Siegel 创始 CEO；MikroTik stocked 自曝
-  > Pace International is a distribution company of video and data solutions … Founded in 1972 … Richard Siegel Founder & CEO … Brands we stock and stand behind: MikroTik
+- **【联系方式与基础画像】**Pace International（明尼苏达 Rochester, MN 3582 Technology Dr NW):1972 年 Jim Deutsch 创（Lew Bonn 老电子分销血脉 1920s 根）;**唯一 Dish Network 全国硬件/内容分销商**;video/data/cellular 大
+  > Pace International（明尼苏达 Rochester, MN 3582 Technology Dr NW):1972 年 Jim Deutsch 创（Lew Bonn 老电子分销血脉 1920s 根）;**唯一 Dish Network 全国硬件/内容分销商**;video/data/cellular 大
+  > 来源：https://paceintl.com/
+- **【联系方式与基础画像】**CSV 入口:+1 800 444 7223 / sales@paceintl.com
+  > CSV 入口:+1 800 444 7223 / sales@paceintl.com
   > 来源：https://paceintl.com/
 
 ## 产品决策（Saga · 单一决策口径）
@@ -147,7 +144,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:50 年血脉+Dish 全国独分+ install 网 / W:交换件为工具位非主推线 / O:随单 STC-424 入 install BOM / T:主品谱挤压架空 PoE 品
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -175,8 +172,8 @@ S:50 年血脉+Dish 全国独分+ install 网 / W:交换件为工具位非主推
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 卫星/蜂窝安装商用工具的混装 BOM 中 PoE 接层现状
-  - [ ] 其 B2B 网大半是 install 群还是直营仓转售
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -185,21 +182,15 @@ S:50 年血脉+Dish 全国独分+ install 网 / W:交换件为工具位非主推
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Pace International team,
+Dear Pace International Team,
 
-The only national hardware-and-content distributor for Dish Network - that means every install kit you stage already solves the RF problem and then hands off the PoE problem downstream.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - built to be the default PoE line inside install BOMs you already ship.
-
-One question: for your national installer base, which PoE access switch rides along in the kit today - and is there room for a documented second source?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

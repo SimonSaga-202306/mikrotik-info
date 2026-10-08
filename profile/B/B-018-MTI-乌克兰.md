@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：MTI LLC（基辅 Gulliver B.C. Tower A）:Hi-tech distribution Tier 1(IBM PartnerPlus 在档）;**2023-06 MikroTik 选定 MTI 覆盖…
+- **是谁**：波 29·B-018:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:MTI LLC（基辅 Gulliver B.C. Tower A）:Hi-tech distribution Tier 1(IBM Par…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — MikroTik 主分销的 OEM 辅助件,不上架主铺、只求 Tier 1 项目第二供位；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | MTI LLC（基辅 Gulliver B.C. Tower A）:Hi-tech distribution Tier 1(IBM PartnerPlus 在档）;**2023-06 MikroTik 选定 MTI 覆盖乌克兰市场——官方发新闻稿《MikroTik Chooses MTI to Cover Ukraine》**;首批 hAP/hEX/CRS/ | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】MTI 是 MikroTik 指定的 UA 主分销（相比 ELKO/ERC 多年体系,MTI 是 2023 新装）;"we work individually on each Partner request" 说明伙伴定制化深;Tier 1+IBM 伙伴位置=企业采购视野广 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 29·B-018:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:MTI LLC（基辅 Gulliver B.C. Tower A）:Hi-tech distribution Tier 1(IBM PartnerPlus 在档）;**2023-06 MikroTik 选定 MTI 覆盖乌克兰市场——官方发新闻稿《MikroTik Choose | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】MTI LLC（基辅 Gulliver B.C. Tower A）:Hi-tech distribution Tier 1(IBM PartnerPlus 在档）;**2023-06 MikroTik 选定 MTI 覆盖乌克兰市场——官方发新闻稿《MikroTik Chooses MTI to Cover Ukraine》**;首批 hAP/hEX/CRS/CSS 入仓;Commercial Director Serhiy Yakovlev 具名;提供选型/售后/保修/配置全栈支持
-- 【推断】MTI 是 MikroTik 指定的 UA 主分销（相比 ELKO/ERC 多年体系,MTI 是 2023 新装）;"we work individually on each Partner request" 说明伙伴定制化深;Tier 1+IBM 伙伴位置=企业采购视野广
-- 【假设】MikroTik 压阵的 VAD,不会主动找第二交换机品牌——开口角度是「MikroTik 谱之外的 value PoE 档 OEM 面,不求上架主铺,随行陆小标目」;或「Tier 1 企业/政府项目陪跑的 PoE 第 2 供位」
+- 【事实】波 29·B-018:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:MTI LLC（基辅 Gulliver B.C. Tower A）:Hi-tech distribution Tier 1(IBM PartnerPlus 在档）;**2023-06 MikroTik 选定 MTI 覆盖乌克兰市场——官方发新闻稿《MikroTik Chooses MTI to Cover Ukraine》**;首批 hAP/hEX/CRS/CSS 入仓;Commercial Director Serhiy Yakovlev 具名;提供选型/售后/保修/配置全栈支持;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第2波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 29 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】MTI 是 MikroTik 指定的 UA 主分销（相比 ELKO/ERC 多年体系,MTI 是 2023 新装）;"we work individually on each Partner request" 说明伙伴定制化深;Tier 1+IBM 伙伴位置=企业采购视野广
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -86,47 +86,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · OEM 侧辅位方案页
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：MikroTik 压阵的 VAD,不会主动找第二交换机品牌——开口角度是「MikroTik 谱之外的 value PoE 档 OEM 面,不求上架主铺,随行陆小标目」;或「Tier 1 企业/政府项目陪跑的 PoE 第 2 供位」
-- **要问的问题**：你们伙伴项目（企业/政府）的 PoE 接入在 MikroTik 谱之外,有没有第二供位需要？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · 具名 Serhiy Yakovlev 引见请求
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：MikroTik 压阵的 VAD,不会主动找第二交换机品牌——开口角度是「MikroTik 谱之外的 value PoE 档 OEM 面,不求上架主铺,随行陆小标目」;或「Tier 1 企业/政府项目陪跑的 PoE 第 2 供位」
-- **要问的问题**：你们伙伴项目（企业/政府）的 PoE 接入在 MikroTik 谱之外,有没有第二供位需要？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：MikroTik 压阵的 VAD,不会主动找第二交换机品牌——开口角度是「MikroTik 谱之外的 value PoE 档 OEM 面,不求上架主铺,随行陆小标目」;或「Tier 1 企业/政府项目陪跑的 PoE 第 2 供位」
-- **要问的问题**：你们伙伴项目（企业/政府）的 PoE 接入在 MikroTik 谱之外,有没有第二供位需要？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
 
-- **背景深描**：MTI LLC（基辅 Gulliver B.C. Tower A）:Hi-tech distribution Tier 1(IBM PartnerPlus 在档）;**2023-06 MikroTik 选定 MTI 覆盖乌克兰市场——官方发新闻稿《MikroTik Chooses MTI to Cover Ukraine》**;首批 hAP/hEX/CRS/CSS 入仓;Commercial Director Serhiy Yakovlev 具名;提供选型/售后/保修/配置全栈支持
-- **芯片与在用型号**：【推断】MTI 是 MikroTik 指定的 UA 主分销（相比 ELKO/ERC 多年体系,MTI 是 2023 新装）;"we work individually on each Partner request" 说明伙伴定制化深;Tier 1+IBM 伙伴位置=企业采购视野广
-- **关键人KP**：—
-- **关注点与资质**：MikroTik（Master+VAD） 
-- **优缺点SWOT**：S:MikroTik 官方主分销+Tier 1 / W:MikroTik 主铺压制后话 / O:PoE 独立档 OEM 辅线 / T:供应商排他边线
-- **Saga产品适配**：MikroTik 主分销的 OEM 辅助件,不上架主铺、只求 Tier 1 项目第二供位
+- **背景深描**：波 29·B-018:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:MTI LLC（基辅 Gulliver B.C. Tower A）:Hi-tech distribution Tier 1(IBM PartnerPlus 在档）;**2023-06 MikroTik 选定 MTI 覆盖乌克兰市场——官方发新闻稿《MikroTik Chooses MTI to Cover Ukraine》**;首批 hAP/hEX/CRS/CSS 入仓;Commercial Director Serhiy Yakovlev 具名;提供选型/售后/保修/配置全栈支持;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第2波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
+- **关注点与资质**：乌克兰 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**Mikrotik Chooses MTI to Cover Ukraine…Broadliner MTI hi-tech distribution has signed a partnership agreement with Mikrotik
-  > Mikrotik Chooses MTI to Cover Ukraine…Broadliner MTI hi-tech distribution has signed a partnership agreement with Mikrotik
-  > 来源：https://www.channel-summit.com/post/mikrotik-chooses-mti-to-cover-ukraine
-- **【R57备护深挖证据】**Distributor Tier 1…MTI hi-tech distribution…+380 44 2074061
-  > Distributor Tier 1…MTI hi-tech distribution…+380 44 2074061
-  > 来源：https://www.ibm.com/partnerplus/directory/company/1645
+- **【联系方式与基础画像】**MTI LLC（基辅 Gulliver B.C. Tower A）:Hi-tech distribution Tier 1(IBM PartnerPlus 在档）;**2023-06 MikroTik 选定 MTI 覆盖乌克兰市场——官方发新闻稿《MikroTik Chooses MTI to Cover Ukrain
+  > MTI LLC（基辅 Gulliver B.C. Tower A）:Hi-tech distribution Tier 1(IBM PartnerPlus 在档）;**2023-06 MikroTik 选定 MTI 覆盖乌克兰市场——官方发新闻稿《MikroTik Chooses MTI to Cover Ukrain
+  > 来源：https://products.mti.ua/
+- **【联系方式与基础画像】**CSV 入口:+380 44 207 40 61 / itdistri@mti.ua
+  > CSV 入口:+380 44 207 40 61 / itdistri@mti.ua
+  > 来源：https://products.mti.ua/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -139,7 +139,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:MikroTik 官方主分销+Tier 1 / W:MikroTik 主铺压制后话 / O:PoE 独立档 OEM 辅线 / T:供应商排他边线
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -167,8 +167,8 @@ S:MikroTik 官方主分销+Tier 1 / W:MikroTik 主铺压制后话 / O:PoE 独立
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] MikroTik 排他性条款实际程度（可否上书其它交换牌）
-  - [ ] Tier 1 企业政采项 PoE 层现行选型
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -177,21 +177,15 @@ S:MikroTik 官方主分销+Tier 1 / W:MikroTik 主铺压制后话 / O:PoE 独立
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi MTI team,
+Dear MTI Team,
 
-MikroTik's chosen partner for covering Ukraine, Tier 1 distribution at the IBM PartnerPlus level - MTI carries the heaviest MikroTik shelf in the market by design.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We are not asking for the MikroTik shelf. We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - offered strictly as an OEM-side second source for partner projects where PoE access is needed alongside the routing muscle.
-
-One question: for your Tier 1 partner projects (enterprise/government tenders), is there a second-source budget line for PoE access outside the main MikroTik catalog, or does everything route through the MikroTik SKU alone?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

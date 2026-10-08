@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：EPCOM(8301 NW 27th St Ste 1, Miami, FL 33122;2011 创；**Joseph Opyrchal = CEO(datanyze)**;Omar Kheir = COO/Chief…
+- **是谁**：波 30·B-346:美国谱: **守档准由·原 R65/R57 谱基增厚**:EPCOM（El Paso Communication Systems，佛罗里达 Doral 拉美仓+德克萨斯 El Paso HQ 163…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 缺工业/PoE++ 空穴（CSV 研判）+拉美通道：温宽 DIN 轨 8 口 OEM 线最对口；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | EPCOM(8301 NW 27th St Ste 1, Miami, FL 33122;2011 创；**Joseph Opyrchal = CEO(datanyze)**;Omar Kheir = COO/Chief Engineer;Freddie Crespo = VP-GM;谱型=security/监控/entry control/fire ala | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】CSV 研判"缺工业/ERPS/PoE++"成立的前提是自牌谱已填商用层；拉美（Doral, FL）是现金通路而工业 PoE 是空穴——STI-288GP 随单入其自牌项目直出拉美 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 30·B-346:美国谱: **守档准由·原 R65/R57 谱基增厚**:EPCOM（El Paso Communication Systems，佛罗里达 Doral 拉美仓+德克萨斯 El Paso HQ 1630 E Paisano Dr/San Antonio 同线 915-533-5119）:EPCOM Syscom 自述"manufactur | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】EPCOM（El Paso Communication Systems，佛罗里达 Doral 拉美仓+德克萨斯 El Paso HQ 1630 E Paisano Dr/San Antonio 同线 915-533-5119）:EPCOM Syscom 自述"manufactures, exports, imports and distributes specialized equipment"——自牌+分销混合大型专业设备商；MikroTik Reseller 挂一角 | R65 深挖:Miami 安全/监控互销 19M$；Opyrchal CEO 实首
-- 【推断】CSV 研判"缺工业/ERPS/PoE++"成立的前提是自牌谱已填商用层；拉美（Doral, FL）是现金通路而工业 PoE 是空穴——STI-288GP 随单入其自牌项目直出拉美
-- 【假设】自牌制造血统对"OEM贴牌对话"比"贴 Origin 上架"更能开口——进 OEM/ODM 面沟通，但判位 STI-288GP（真实品级对应）
+- 【事实】波 30·B-346:美国谱: **守档准由·原 R65/R57 谱基增厚**:EPCOM（El Paso Communication Systems，佛罗里达 Doral 拉美仓+德克萨斯 El Paso HQ 1630 E Paisano Dr/San Antonio 同线 915-533-5119）:EPCOM Syscom 自述"manufactures, exports, imports and distributes specialized equipment"——自牌+分销混合大型专业设备商；MikroTik Reseller 挂一角 | R65 深挖:Miami 安全/监控互销 19M$；Opyrchal CEO 实首;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第1波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 30 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】CSV 研判"缺工业/ERPS/PoE++"成立的前提是自牌谱已填商用层；拉美（Doral, FL）是现金通路而工业 PoE 是空穴——STI-288GP 随单入其自牌项目直出拉美
+STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -70,7 +70,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- EPCOM(8301 NW 27th St Ste 1, Miami, FL 33122;2011 创；**Joseph Opyrchal = CEO(datanyze)**;Omar Kheir = COO/Chief Engineer;Freddie Crespo = VP-GM;谱型=security/监控/entry control/fire alarm/网络设备 51-200 员工 $19.1M 营收 ZoomInfo 口径;OXM 门牌线)
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -94,50 +94,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · OEM 牌面样张+E/S 文档样本一页
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：自牌制造血统对"OEM贴牌对话"比"贴 Origin 上架"更能开口——进 OEM/ODM 面沟通，但判位 STI-288GP（真实品级对应）
-- **要问的问题**：你们拉美的部署项目（监控/无线回程/楼宇）里，工业 DIN 轨 PoE 现供什么？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+10 · 样机提议
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：自牌制造血统对"OEM贴牌对话"比"贴 Origin 上架"更能开口——进 OEM/ODM 面沟通，但判位 STI-288GP（真实品级对应）
-- **要问的问题**：你们拉美的部署项目（监控/无线回程/楼宇）里，工业 DIN 轨 PoE 现供什么？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 无果归档观察
+### 第 3 次跟进 · 留档
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：自牌制造血统对"OEM贴牌对话"比"贴 Origin 上架"更能开口——进 OEM/ODM 面沟通，但判位 STI-288GP（真实品级对应）
-- **要问的问题**：你们拉美的部署项目（监控/无线回程/楼宇）里，工业 DIN 轨 PoE 现供什么？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 14 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第14批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
 
-- **背景深描**：EPCOM(8301 NW 27th St Ste 1, Miami, FL 33122;2011 创；**Joseph Opyrchal = CEO(datanyze)**;Omar Kheir = COO/Chief Engineer;Freddie Crespo = VP-GM;谱型=security/监控/entry control/fire alarm/网络设备 51-200 员工 $19.1M 营收 ZoomInfo 口径;OXM 门牌线)
-- **芯片与在用型号**：【推断】CSV 研判"缺工业/ERPS/PoE++"成立的前提是自牌谱已填商用层；拉美（Doral, FL）是现金通路而工业 PoE 是空穴——STI-288GP 随单入其自牌项目直出拉美
-- **关键人KP**：Joseph Opyrchal = CEO(datanyze);Omar Kheir = COO/Chief Engineer(prospectoo 口 径）;Freddie Crespo VP-GM
-- **关注点与资质**：MikroTik（Reseller） 
-- **优缺点SWOT**：S:自牌+分销血统+拉美现金通道 / W:品牌铁忠度稀释，价驱重 / O:STI-288GP OEM 随单拉美 / T:自牌项目对在架的自主决策封闭
-- **Saga产品适配**：缺工业/PoE++ 空穴（CSV 研判）+拉美通道：温宽 DIN 轨 8 口 OEM 线最对口
+- **背景深描**：波 30·B-346:美国谱: **守档准由·原 R65/R57 谱基增厚**:EPCOM（El Paso Communication Systems，佛罗里达 Doral 拉美仓+德克萨斯 El Paso HQ 1630 E Paisano Dr/San Antonio 同线 915-533-5119）:EPCOM Syscom 自述"manufactures, exports, imports and distributes specialized equipment"——自牌+分销混合大型专业设备商；MikroTik Reseller 挂一角 | R65 深挖:Miami 安全/监控互销 19M$；Opyrchal CEO 实首;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第1波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
+- **关注点与资质**：美国 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
+- **Saga产品适配**：STI-288GP vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**Miami, FL: (305) 889-1127 El Paso, TX: (915) 533-5119 San Antonio, TX
-  > Miami, FL: (305) 889-1127 El Paso, TX: (915) 533-5119 San Antonio, TX
-  > 来源：https://www.epcom.net/principal/listadopormarca/MIKROTIK
-- **【R57备护深挖证据】**EPCOM manufactures, exports, imports and distributes specialized equipment through its extensive network of authorized Professional Dealers
-  > EPCOM manufactures, exports, imports and distributes specialized equipment through its extensive network of authorized Professional Dealers
-  > 来源：https://www.officer.com/command-hq/technology/communications/batteries-accessories/company/10029011/epcom-syscom
-- **【R65 实名】**EPCOM Miami 8301 NW 27th St · Joseph Opyrchal CEO · Omar Kheir COO/Chief Engineer · $19.1M 收 51-200 人 · 2011 创
-  > Joseph Opyrchal ### CEO … Epcom headquarters are located at 8301 NW 27th St Ste 1, Miami, Florida, 33122, United States … Epcom $19.1M 51-200 2011
-  > 来源：https://www.datanyze.com/companies/epcom/17613993
+- **【联系方式与基础画像】**EPCOM（El Paso Communication Systems，佛罗里达 Doral 拉美仓+德克萨斯 El Paso HQ 1630 E Paisano Dr/San Antonio 同线 915-533-5119）:EPCOM Syscom 自述"manufactures, exports, imports
+  > EPCOM（El Paso Communication Systems，佛罗里达 Doral 拉美仓+德克萨斯 El Paso HQ 1630 E Paisano Dr/San Antonio 同线 915-533-5119）:EPCOM Syscom 自述"manufactures, exports, imports
+  > 来源：https://epcom.net/
+- **【联系方式与基础画像】**CSV 入口:+1 915 533 5119 / sales@epcom.net
+  > CSV 入口:+1 915 533 5119 / sales@epcom.net
+  > 来源：https://epcom.net/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -150,7 +147,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:自牌+分销血统+拉美现金通道 / W:品牌铁忠度稀释，价驱重 / O:STI-288GP OEM 随单拉美 / T:自牌项目对在架的自主决策封闭
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -178,8 +175,8 @@ S:自牌+分销血统+拉美现金通道 / W:品牌铁忠度稀释，价驱重 /
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] EPCOM 在架 PoE/交换谱是否含工业 DIN 轨档
-  - [ ] 拉美侧（Doral）进出口关务路径与 OEM 贴牌接受度
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -188,21 +185,15 @@ S:自牌+分销血统+拉美现金通道 / W:品牌铁忠度稀释，价驱重 /
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi EPCOM team,
+Dear EPCOM Team,
 
-From El Paso to Doral your reach is real - a manufacturer-distributor hybrid that actually moves volume through the Latin corridor rather than just listing it.
+We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English/Spanish documentation. Reference: $74.8 USD EXW (2026-09-29) - and we are fully open to your OEM branding for the LatAm line.
-
-One question: for your industrial and outdoor deployments across Latin America, which DIN-rail PoE source are you standardizing on today - and would a documented OEM alternative earn a bench test?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

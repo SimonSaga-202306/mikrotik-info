@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：EXA Solutions(Heraklion Idomeneos 5, 71202 + Athens Dorylaiou 6, 11521 双办;**谱型=希腊 SME 托管 IT/云托管/ERP/WMS 一体化集成商…
+- **是谁**：波 29·B-121:希腊谱: **守档准由·原 R65/R57 谱基增厚**:EXA Solutions(希腊 Heraklion(克里特)Idomeneos 5+雅典 Dorylaiou 6 双址):managed …
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 双址 MSP 的 managed 部署随单 value PoE 档；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -44,20 +44,20 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | EXA Solutions(Heraklion Idomeneos 5, 71202 + Athens Dorylaiou 6, 11521 双办;**谱型=希腊 SME 托管 IT/云托管/ERP/WMS 一体化集成商**:managed IT/cybersecurity/cloud/ERP/WMS integrations;FnA Company / E | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】EXA 是 MSP 公司形态(非个体)——地跨 Heraklion+Athens 双址成熟;客户多为业务公司,带典型集成/托管 IT 客户线 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 29·B-121:希腊谱: **守档准由·原 R65/R57 谱基增厚**:EXA Solutions(希腊 Heraklion(克里特)Idomeneos 5+雅典 Dorylaiou 6 双址):managed IT/cybersecurity/cloud infrastructure/ERP/WMS 集成公司;George Alexander Ko | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】EXA Solutions(希腊 Heraklion(克里特)Idomeneos 5+雅典 Dorylaiou 6 双址):managed IT/cybersecurity/cloud infrastructure/ERP/WMS 集成公司;George Alexander Kontaxakis=主理(MTCNA+MTCRE);FnA Company/ELMEPA(海运学院)客名单注明;主打「You move forward」MSP 口谱 | R65 深挖:希腊 SME 托管 IT 集成商;KP 未按名型沈,同同名噪音已区分证
-- 【推断】EXA 是 MSP 公司形态(非个体)——地跨 Heraklion+Athens 双址成熟;客户多为业务公司,带典型集成/托管 IT 客户线
-- 【假设】开口角度=「managed IT/集成项目的 value PoE 接入 SKU 档随单」——STC-424+样机 test pack 走双址业务 MSP;George 具名开口
+- 【事实】波 29·B-121:希腊谱: **守档准由·原 R65/R57 谱基增厚**:EXA Solutions(希腊 Heraklion(克里特)Idomeneos 5+雅典 Dorylaiou 6 双址):managed IT/cybersecurity/cloud infrastructure/ERP/WMS 集成公司;George Alexander Kontaxakis=主理(MTCNA+MTCRE);FnA Company/ELMEPA(海运学院)客名单注明;主打「You move forward」MSP 口谱 | R65 深挖:希腊 SME 托管 IT 集成商;KP 未按名型沈,同同名噪音已区分证;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第3波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 29 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】EXA 是 MSP 公司形态(非个体)——地跨 Heraklion+Athens 双址成熟;客户多为业务公司,带典型集成/托管 IT 客户线
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -91,53 +91,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · MSP 标准 SKU 方案页
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「managed IT/集成项目的 value PoE 接入 SKU 档随单」——STC-424+样机 test pack 走双址业务 MSP;George 具名开口
-- **要问的问题**：你们客户项目里 PoE 接层现走哪家 SKU？样机免费 test pack 可入？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · 样机提议
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「managed IT/集成项目的 value PoE 接入 SKU 档随单」——STC-424+样机 test pack 走双址业务 MSP;George 具名开口
-- **要问的问题**：你们客户项目里 PoE 接层现走哪家 SKU？样机免费 test pack 可入？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「managed IT/集成项目的 value PoE 接入 SKU 档随单」——STC-424+样机 test pack 走双址业务 MSP;George 具名开口
-- **要问的问题**：你们客户项目里 PoE 接层现走哪家 SKU？样机免费 test pack 可入？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 9 批精修 = R57 转写 + 本轮 LinkedIn/登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第9批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
 
-- **背景深描**：EXA Solutions(Heraklion Idomeneos 5, 71202 + Athens Dorylaiou 6, 11521 双办;**谱型=希腊 SME 托管 IT/云托管/ERP/WMS 一体化集成商**:managed IT/cybersecurity/cloud/ERP/WMS integrations;FnA Company / ELMEPA 等多家 openly 宣传口碑;+30 28130 15000, info@exasolutions.gr
-- **芯片与在用型号**：【推断】EXA 是 MSP 公司形态(非个体)——地跨 Heraklion+Athens 双址成熟;客户多为业务公司,带典型集成/托管 IT 客户线
-- **关键人KP**：George Alexander Kontaxakis(名录口径;R65 搜出同名**医疗图像研究员**/Aegean Airlines 同名——**为污染噪音,不采信**;登记方向=雅典 G.E.MI 台账)
-- **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCRE | 传承人名开口：见 KP 表
-- **优缺点SWOT**：S:MSP 双址+云/ERP/WMS 综合+具名 / W:谱杂主注无专 PoE 位 / O:STC-424 MSP 部署随单 SKU / T:MSP 厂商忠稳态
-- **Saga产品适配**：双址 MSP 的 managed 部署随单 value PoE 档
+- **背景深描**：波 29·B-121:希腊谱: **守档准由·原 R65/R57 谱基增厚**:EXA Solutions(希腊 Heraklion(克里特)Idomeneos 5+雅典 Dorylaiou 6 双址):managed IT/cybersecurity/cloud infrastructure/ERP/WMS 集成公司;George Alexander Kontaxakis=主理(MTCNA+MTCRE);FnA Company/ELMEPA(海运学院)客名单注明;主打「You move forward」MSP 口谱 | R65 深挖:希腊 SME 托管 IT 集成商;KP 未按名型沈,同同名噪音已区分证;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第3波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
+- **关注点与资质**：希腊 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**EXA Solutions delivers managed IT, cybersecurity, cloud infrastructure, ERP and WMS integrations…From Heraklion and Athens
-  > EXA Solutions delivers managed IT, cybersecurity, cloud infrastructure, ERP and WMS integrations…From Heraklion and Athens
-  > 来源：https://exasolutions.gr/en/
-- **【R57备护深挖证据】**Businesses that trust us…FnA Company…ELMEPA
-  > Businesses that trust us…FnA Company…ELMEPA
-  > 来源：https://exasolutions.gr/en/
-- **【R65 谱位/双办】**Heraklion+Athens 双办;managed IT/cyber/云/ERP/WMS 一体化,ELMEPA 等专 case
-  > EXA Solutions delivers managed IT, cybersecurity, cloud infrastructure, ERP and WMS integrations for businesses across Greece … Heraklion Idomeneos 5, 71202 / Athens Dorylaiou 6, 11521 / +30 28130 15000 / info@exasolutions.gr
-  > 来源：https://exasolutions.gr/en/
-- **【R65 同名噪音注】**Georgios Kontaxakis(Aegean Airlines 雇员 / ResearchGate 医疗图像)=同名他人,不采信
-  > (LinkedIn / ResearchGate 2026-10-07 搜出同名画像,与 EXA Solutions 无关)
-  > 来源：(沙箱谱位核验日志)
+- **【联系方式与基础画像】**EXA Solutions(希腊 Heraklion(克里特)Idomeneos 5+雅典 Dorylaiou 6 双址):managed IT/cybersecurity/cloud infrastructure/ERP/WMS 集成公司;George Alexander Kontaxakis=主理(MTCNA+MT
+  > EXA Solutions(希腊 Heraklion(克里特)Idomeneos 5+雅典 Dorylaiou 6 双址):managed IT/cybersecurity/cloud infrastructure/ERP/WMS 集成公司;George Alexander Kontaxakis=主理(MTCNA+MT
+  > 来源：https://exasolutions.gr/
+- **【联系方式与基础画像】**CSV 入口:+30 694 610 4339 / geokodax@exasolutions.gr
+  > CSV 入口:+30 694 610 4339 / geokodax@exasolutions.gr
+  > 来源：https://exasolutions.gr/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -150,7 +144,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:MSP 双址+云/ERP/WMS 综合+具名 / W:谱杂主注无专 PoE 位 / O:STC-424 MSP 部署随单 SKU / T:MSP 厂商忠稳态
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -178,8 +172,8 @@ S:MSP 双址+云/ERP/WMS 综合+具名 / W:谱杂主注无专 PoE 位 / O:STC-42
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] managed 部署下 PoE 接层 SKU 标准(现走哪家)
-  - [ ] George 口其证在续否与接案密度
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -188,21 +182,15 @@ S:MSP 双址+云/ERP/WMS 综合+具名 / W:谱杂主注无专 PoE 位 / O:STC-42
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi George,
+Dear George Alexander Kontaxaki Team,
 
-From Heraklion to Athens with managed IT, cybersecurity and WMS/ERP integrations - EXA is clearly past the single-consultant phase of its operation.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation and fast RMA terms. Reference: $180 USD EXW (2026-09-29) - designed to land as the standardized access SKU across your managed deployments.
-
-One question: for the PoE access layer inside your managed deployments, which SKU are you standardizing on today - and would a free unit with the complete test pack earn a look?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：ELKO Ukraine（基辅,1998 创,51-200 人）=ELKO Group 旗下（400 IT 厂牌/10 国 10000+ 伙伴;拉脱维亚血统）;双主线=项目分销（系统集成支持服务）+批发出货;在架网牌 2…
+- **是谁**：波 29·B-011:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:ELKO Ukraine（基辅,1998 创,51-200 人）=ELKO Group 旗下（400 IT 厂牌/10 国 10000+ …
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 波罗的海 VAD 集团乌克兰站——value PoE 档集团谱补位最对口；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | ELKO Ukraine（基辅,1998 创,51-200 人）=ELKO Group 旗下（400 IT 厂牌/10 国 10000+ 伙伴;拉脱维亚血统）;双主线=项目分销（系统集成支持服务）+批发出货;在架网牌 20+:AAeon/Advantech/Aruba/Axiomtek/GIGA-IPC/IEI/Intel/Keenetic/Lanner/L | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】ELKO Group 是波罗的海 VAD 集团（ELKO Latvia 母体）;UA 站是活跃运营体,MikroTik 每周锚定其目录——MikroTik 新系列上架（RB5009/knot 等）投放密度说明:ELKO UA 的 IT infra 谱里,MikroTik 是核心牢位 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 29·B-011:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:ELKO Ukraine（基辅,1998 创,51-200 人）=ELKO Group 旗下（400 IT 厂牌/10 国 10000+ 伙伴;拉脱维亚血统）;双主线=项目分销（系统集成支持服务）+批发出货;在架网牌 20+:AAeon/Advantech/Aruba/Axio | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】ELKO Ukraine（基辅,1998 创,51-200 人）=ELKO Group 旗下（400 IT 厂牌/10 国 10000+ 伙伴;拉脱维亚血统）;双主线=项目分销（系统集成支持服务）+批发出货;在架网牌 20+:AAeon/Advantech/Aruba/Axiomtek/GIGA-IPC/IEI/Intel/Keenetic/Lanner/LR-Link/Mellanox/MikroTik/Netis/Nexcom/QLogic/QNAP/Supermicro/Synology/TP-Link/Ubiquiti;LinkedIn 每周更新 MikroTik 新品/停产公告（活跃度高）
-- 【推断】ELKO Group 是波罗的海 VAD 集团（ELKO Latvia 母体）;UA 站是活跃运营体,MikroTik 每周锚定其目录——MikroTik 新系列上架（RB5009/knot 等）投放密度说明:ELKO UA 的 IT infra 谱里,MikroTik 是核心牢位
-- 【假设】从「ELKO 谱系里缺 PoE 楼价档」入手:ELKO 在架 TP-Link/Keenetic/Netis 属 value 网谱,但 PoE 接入层（8~24 口）没有专架;STC-424 以「集团谱 value 楼价档补位」+具名 MikroTik 项目经理切入
+- 【事实】波 29·B-011:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:ELKO Ukraine（基辅,1998 创,51-200 人）=ELKO Group 旗下（400 IT 厂牌/10 国 10000+ 伙伴;拉脱维亚血统）;双主线=项目分销（系统集成支持服务）+批发出货;在架网牌 20+:AAeon/Advantech/Aruba/Axiomtek/GIGA-IPC/IEI/Intel/Keenetic/Lanner/LR-Link/Mellanox/MikroTik/Netis/Nexcom/QLogic/QNAP/Supermicro/Synology/TP-Link/Ubiquiti;LinkedIn 每周更新 MikroTik 新品/停产公告（活跃度高）;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第2波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 29 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】ELKO Group 是波罗的海 VAD 集团（ELKO Latvia 母体）;UA 站是活跃运营体,MikroTik 每周锚定其目录——MikroTik 新系列上架（RB5009/knot 等）投放密度说明:ELKO UA 的 IT infra 谱里,MikroTik 是核心牢位
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -85,47 +85,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · ELKO 谱空位对照单页（TP-Link/Keenetic vs STC-424)
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：从「ELKO 谱系里缺 PoE 楼价档」入手:ELKO 在架 TP-Link/Keenetic/Netis 属 value 网谱,但 PoE 接入层（8~24 口）没有专架;STC-424 以「集团谱 value 楼价档补位」+具名 Mik
-- **要问的问题**：ELKO Group 在 value PoE 接入层（非 Aruba 谱）现用的主力 SKU 是哪家？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · 具名 MikroTik 项目经理引见请求
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：从「ELKO 谱系里缺 PoE 楼价档」入手:ELKO 在架 TP-Link/Keenetic/Netis 属 value 网谱,但 PoE 接入层（8~24 口）没有专架;STC-424 以「集团谱 value 楼价档补位」+具名 Mik
-- **要问的问题**：ELKO Group 在 value PoE 接入层（非 Aruba 谱）现用的主力 SKU 是哪家？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：从「ELKO 谱系里缺 PoE 楼价档」入手:ELKO 在架 TP-Link/Keenetic/Netis 属 value 网谱,但 PoE 接入层（8~24 口）没有专架;STC-424 以「集团谱 value 楼价档补位」+具名 Mik
-- **要问的问题**：ELKO Group 在 value PoE 接入层（非 Aruba 谱）现用的主力 SKU 是哪家？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
 
-- **背景深描**：ELKO Ukraine（基辅,1998 创,51-200 人）=ELKO Group 旗下（400 IT 厂牌/10 国 10000+ 伙伴;拉脱维亚血统）;双主线=项目分销（系统集成支持服务）+批发出货;在架网牌 20+:AAeon/Advantech/Aruba/Axiomtek/GIGA-IPC/IEI/Intel/Keenetic/Lanner/LR-Link/Mellanox/MikroTik/Netis/Nexcom/QLogic/QNAP/Supermicro/Synology/TP-Link/Ubiquiti;LinkedIn 每周更新 MikroTik 新品/停产公告（活跃
-- **芯片与在用型号**：【推断】ELKO Group 是波罗的海 VAD 集团（ELKO Latvia 母体）;UA 站是活跃运营体,MikroTik 每周锚定其目录——MikroTik 新系列上架（RB5009/knot 等）投放密度说明:ELKO UA 的 IT infra 谱里,MikroTik 是核心牢位
-- **关键人KP**：—
-- **关注点与资质**：MikroTik（Master+VAD） 
-- **优缺点SWOT**：S:波罗的海集团主权+50-200 人+多谱 / W:谱太宽、SKU 单一进入难,决策多层 / O:STC-424 入 value PoE 档集团谱补位 / T:乌克兰运营+集团远程同位层次
-- **Saga产品适配**：波罗的海 VAD 集团乌克兰站——value PoE 档集团谱补位最对口
+- **背景深描**：波 29·B-011:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:ELKO Ukraine（基辅,1998 创,51-200 人）=ELKO Group 旗下（400 IT 厂牌/10 国 10000+ 伙伴;拉脱维亚血统）;双主线=项目分销（系统集成支持服务）+批发出货;在架网牌 20+:AAeon/Advantech/Aruba/Axiomtek/GIGA-IPC/IEI/Intel/Keenetic/Lanner/LR-Link/Mellanox/MikroTik/Netis/Nexcom/QLogic/QNAP/Supermicro/Synology/TP-Link/Ubiquiti;LinkedIn 每周更新 MikroTik 新品/停产公告（活跃度高）;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第2波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
+- **关注点与资质**：乌克兰 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**ELKO Group – один із найбільших дистрибюторів…400 ІТ-виробників…10 000 партнерів у 10 країнах Європи
-  > ELKO Group – один із найбільших дистрибюторів…400 ІТ-виробників…10 000 партнерів у 10 країнах Європи
-  > 来源：https://www.linkedin.com/company/elko-ukraine
-- **【R57备护深挖证据】**AAeon, Advantech, Aruba, Axiomtek, GIGA-IPC, IEI, Intel, Keenetic, Lanner, LR-Link, Mellanox, Mikrotik, Netis, Nexcom…Ubiquiti
-  > AAeon, Advantech, Aruba, Axiomtek, GIGA-IPC, IEI, Intel, Keenetic, Lanner, LR-Link, Mellanox, Mikrotik, Netis, Nexcom…Ubiquiti
-  > 来源：https://www.elko.ua/ru/produkty/setevoe-oborudovanie-u-oficialnogo-distribyutora-elko-ukraine
+- **【联系方式与基础画像】**ELKO Ukraine（基辅,1998 创,51-200 人）=ELKO Group 旗下（400 IT 厂牌/10 国 10000+ 伙伴;拉脱维亚血统）;双主线=项目分销（系统集成支持服务）+批发出货;在架网牌 20+:AAeon/Advantech/Aruba/Axiomtek/GIGA-IPC/IEI/Int
+  > ELKO Ukraine（基辅,1998 创,51-200 人）=ELKO Group 旗下（400 IT 厂牌/10 国 10000+ 伙伴;拉脱维亚血统）;双主线=项目分销（系统集成支持服务）+批发出货;在架网牌 20+:AAeon/Advantech/Aruba/Axiomtek/GIGA-IPC/IEI/Int
+  > 来源：https://elko.ua/
+- **【联系方式与基础画像】**CSV 入口:+380 44 461 9670 / elko@elko.ua
+  > CSV 入口:+380 44 461 9670 / elko@elko.ua
+  > 来源：https://elko.ua/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -138,7 +138,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:波罗的海集团主权+50-200 人+多谱 / W:谱太宽、SKU 单一进入难,决策多层 / O:STC-424 入 value PoE 档集团谱补位 / T:乌克兰运营+集团远程同位层次
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -166,8 +166,8 @@ S:波罗的海集团主权+50-200 人+多谱 / W:谱太宽、SKU 单一进入难
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] ELKO 谱里 PoE 接入交换现供 SKU 进深（TP-Link/Keenetic 之外的专属）
-  - [ ] 战争下 ELKO Group 对 UA 库存位/采购口决策级（UA 站还是拉脱维亚集团）
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -176,21 +176,15 @@ S:波罗的海集团主权+50-200 人+多谱 / W:谱太宽、SKU 单一进入难
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi ELKO Ukraine team,
+Dear ELKO Ukraine Team,
 
-ELKO Group with 400 vendors and 10k partners across 10 European countries, and a Kyiv operation that still pushes MikroTik news out weekly - your IT-infrastructure catalog is one of the most attentive in the region.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - built for the value PoE access tier that sits below the Aruba/TP-Link heavy lines in your catalog.
-
-One question: below the Aruba-class shelf, which PoE access switch is carrying the value tier in your network-equipment lines today - and is there room for a documented second source?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

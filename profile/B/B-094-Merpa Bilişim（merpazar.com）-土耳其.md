@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Merpa Bilgi Islem Ltd.Sti.(1990 Genel Mudur Ali Nail Kocyigit Ankara 创立;USD6.7M 收 16 员工 Istanbul 主体;工业信息化 endu…
+- **是谁**：波 29·B-094:土耳其谱: **守档准由·原 R65/R57 谱基增厚**:Merpa Bilgi İşlem Ltd.Şti.(Bayrampaşa İstanbul;1996 自新加坡向土耳其做贸易起家,200…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 工业计算电商+项目谱的 value PoE 配套档；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Merpa Bilgi Islem Ltd.Sti.(1990 Genel Mudur Ali Nail Kocyigit Ankara 创立;USD6.7M 收 16 员工 Istanbul 主体;工业信息化 endustriyel bilisim 加 NINOVA 自有品牌 加 MikroTik 土耳其分销 加多个政府项目;merpazar.com 工业 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】工业计算进口商+电商双体:面板 PC/工业 PC 项目谱里 PoE 供电与交换是伴随诉求;Ninova 智能家居侧另开弱电场景 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 29·B-094:土耳其谱: **守档准由·原 R65/R57 谱基增厚**:Merpa Bilgi İşlem Ltd.Şti.(Bayrampaşa İstanbul;1996 自新加坡向土耳其做贸易起家,2002 注册;**工业计算进口分销:Panel PC/工业 PC/触摸产品为主,代理 6 国 10 品牌**,merpazar.com 官方电商 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Merpa Bilgi İşlem Ltd.Şti.(Bayrampaşa İstanbul;1996 自新加坡向土耳其做贸易起家,2002 注册;**工业计算进口分销:Panel PC/工业 PC/触摸产品为主,代理 6 国 10 品牌**,merpazar.com 官方电商;兄弟牌 Ninova 做公交行业+智能家居项目;**总经理 Ali Nail Koçyiğit 具名,CSV 邮箱直通**;16 员工/$6.7M) | R65 深挖:工业 IT 35 年+ MikroTik 政府项目分销=当前谱年谱音最能录
-- 【推断】工业计算进口商+电商双体:面板 PC/工业 PC 项目谱里 PoE 供电与交换是伴随诉求;Ninova 智能家居侧另开弱电场景
-- 【假设】开口角度=「工业计算商的配套 PoE 管理档」:STC-424 随项目装机谱开口,具名直通 GM
+- 【事实】波 29·B-094:土耳其谱: **守档准由·原 R65/R57 谱基增厚**:Merpa Bilgi İşlem Ltd.Şti.(Bayrampaşa İstanbul;1996 自新加坡向土耳其做贸易起家,2002 注册;**工业计算进口分销:Panel PC/工业 PC/触摸产品为主,代理 6 国 10 品牌**,merpazar.com 官方电商;兄弟牌 Ninova 做公交行业+智能家居项目;**总经理 Ali Nail Koçyiğit 具名,CSV 邮箱直通**;16 员工/$6.7M) | R65 深挖:工业 IT 35 年+ MikroTik 政府项目分销=当前谱年谱音最能录;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第11波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 29 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】工业计算进口商+电商双体:面板 PC/工业 PC 项目谱里 PoE 供电与交换是伴随诉求;Ninova 智能家居侧另开弱电场景
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -68,7 +68,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- Merpa Bilgi Islem Ltd.Sti.(1990 Genel Mudur Ali Nail Kocyigit Ankara 创立;USD6.7M 收 16 员工 Istanbul 主体;工业信息化 endustriyel bilisim 加 NINOVA 自有品牌 加 MikroTik 土耳其分销 加多个政府项目;merpazar.com 工业特化 35 年品牌)
+- 波 29·B-094:土耳其谱: **守档准由·原 R65/R57 谱基增厚**:Merpa Bilgi İşlem Ltd.Şti.(Bayrampaşa İstanbul;1996 自新加坡向土耳其做贸易起家,2002 注册;**工业计算进口分销:Panel PC/工业 PC/触摸产品为主,代理 6 国 10 品牌**,merpazar.com 官方电商;兄弟牌 Ninova 做公交行业+智能家居项目;**总经理 Ali Nail Koçyiğit 具名,CSV 邮箱直通**;16 员工/$6.7M) | R65 深挖:工业 IT 35 年+ MikroTik 政府项目分销=当前谱年谱音最能录;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第11波.json,先报价不回、档案铺位、持续关注新一季,OK。
 
 ## 联系方式（已有/猜测分标）
 
@@ -92,50 +92,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · 工业装机谱 PoE 页
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「工业计算商的配套 PoE 管理档」:STC-424 随项目装机谱开口,具名直通 GM
-- **要问的问题**：你们的工业计算/装机项目里,管理型 PoE 交换件现随哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · alinail@merpazar.com 具名开口
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「工业计算商的配套 PoE 管理档」:STC-424 随项目装机谱开口,具名直通 GM
-- **要问的问题**：你们的工业计算/装机项目里,管理型 PoE 交换件现随哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「工业计算商的配套 PoE 管理档」:STC-424 随项目装机谱开口,具名直通 GM
-- **要问的问题**：你们的工业计算/装机项目里,管理型 PoE 交换件现随哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 5 批精修 = R57 转写 + 本轮登记/官网新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第5批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
 
-- **背景深描**：Merpa Bilgi Islem Ltd.Sti.(1990 Genel Mudur Ali Nail Kocyigit Ankara 创立;USD6.7M 收 16 员工 Istanbul 主体;工业信息化 endustriyel bilisim 加 NINOVA 自有品牌 加 MikroTik 土耳其分销 加多个政府项目;merpazar.com 工业特化 35 年品牌)
-- **芯片与在用型号**：【推断】工业计算进口商+电商双体:面板 PC/工业 PC 项目谱里 PoE 供电与交换是伴随诉求;Ninova 智能家居侧另开弱电场景
-- **关键人KP**：Ali Nail Koçyiğit = Genel Müdür(总经理,1990 创始人);Mustafa Süzer = Manager;Erhan Işık = 数字营销
-- **关注点与资质**：MikroTik（Reseller） 
-- **优缺点SWOT**：S:GM 具名直通+工业计算 20+ 年 / W:交换机非主业 / O:工业 PC 装机配套 PoE 随单 / T:土耳其汇率/付款条件
-- **Saga产品适配**：工业计算电商+项目谱的 value PoE 配套档
+- **背景深描**：波 29·B-094:土耳其谱: **守档准由·原 R65/R57 谱基增厚**:Merpa Bilgi İşlem Ltd.Şti.(Bayrampaşa İstanbul;1996 自新加坡向土耳其做贸易起家,2002 注册;**工业计算进口分销:Panel PC/工业 PC/触摸产品为主,代理 6 国 10 品牌**,merpazar.com 官方电商;兄弟牌 Ninova 做公交行业+智能家居项目;**总经理 Ali Nail Koçyiğit 具名,CSV 邮箱直通**;16 员工/$6.7M) | R65 深挖:工业 IT 35 年+ MikroTik 政府项目分销=当前谱年谱音最能录;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第11波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
+- **关注点与资质**：土耳其 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**Panel PC ler, Endüstriyel PC ler, Dokunmatik Ürünler ithalatımızın ana unsurlarıdır. Bu doğrultuda 6 ülkeden 10 markanın distribütörlüğünü y
-  > Panel PC ler, Endüstriyel PC ler, Dokunmatik Ürünler ithalatımızın ana unsurlarıdır. Bu doğrultuda 6 ülkeden 10 markanın distribütörlüğünü yapmaktayız.
-  > 来源：https://rocketreach.co/merpa-bilgi-islem-ltdsti-profile_b405d56afc11f555
-- **【R57备护深挖证据】**Ali Nail Kocyigit - Genel Müdür - Merpa Bilgi İşlem Limited … 2002 yılından beri Endüstriyel Bilişim alanında faaliyet gösteren bir Firmayız
-  > Ali Nail Kocyigit - Genel Müdür - Merpa Bilgi İşlem Limited … 2002 yılından beri Endüstriyel Bilişim alanında faaliyet gösteren bir Firmayız
-  > 来源：https://www.linkedin.com/in/alinailkocyigit/
-- **【R65 官网自曝】**1990 Ankara 创始 Genel Müdür Ali Nail Koçyiğit;工业 35 年品牌;MikroTik 分销+政府项目实录
-  > Şirketimizin temelleri 1990 yılında, Genel Müdürümüz Ali Nail Koçyiğit tarafından … Mikrotik Network ürünlerinin de distribütörlüğünü yapmaktadır
-  > 来源：https://www.merpazar.com/merpazar-com-kimdir
+- **【联系方式与基础画像】**Merpa Bilgi İşlem Ltd.Şti.(Bayrampaşa İstanbul;1996 自新加坡向土耳其做贸易起家,2002 注册;**工业计算进口分销:Panel PC/工业 PC/触摸产品为主,代理 6 国 10 品牌**,merpazar.com 官方电商;兄弟牌 Ninova 做公交行业+智能家
+  > Merpa Bilgi İşlem Ltd.Şti.(Bayrampaşa İstanbul;1996 自新加坡向土耳其做贸易起家,2002 注册;**工业计算进口分销:Panel PC/工业 PC/触摸产品为主,代理 6 国 10 品牌**,merpazar.com 官方电商;兄弟牌 Ninova 做公交行业+智能家
+  > 来源：https://merpazar.com/
+- **【联系方式与基础画像】**CSV 入口:+90 212 213 3873 / alinail@merpazar.com
+  > CSV 入口:+90 212 213 3873 / alinail@merpazar.com
+  > 来源：https://merpazar.com/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -148,7 +145,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:GM 具名直通+工业计算 20+ 年 / W:交换机非主业 / O:工业 PC 装机配套 PoE 随单 / T:土耳其汇率/付款条件
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -176,8 +173,8 @@ S:GM 具名直通+工业计算 20+ 年 / W:交换机非主业 / O:工业 PC 装�
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 项目谱里交换机现供
-  - [ ] 电商货架 PoE 档位
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -186,21 +183,15 @@ S:GM 具名直通+工业计算 20+ 年 / W:交换机非主业 / O:工业 PC 装�
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Nail,
+Dear Merpa Bilişim（merpazar.com Team,
 
-Two decades in industrial computing - Panel PCs, industrial PCs and touch lines from 10 brands across 6 countries, plus merpazar.com moving the catalog online. Where those industrial PCs are commissioned on-site, managed PoE switching is usually bundled into the same project.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English documentation. Reference: $180 USD EXW (2026-09-29) - the documented value-tier PoE unit that rides with your industrial PC projects, white-label friendly.
-
-One question: in your industrial computing projects, which managed PoE switch do you supply today - and would a documented value unit earn a bench test?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：IEI Technology USA Corp.(138 University Parkway, Pomona CA 91768;1997 组,台湾 IEI Integration Corp 美国子;集团墙注纪律维持:R…
+- **是谁**：波 30·B-352:美国谱: **守档准由·原 R65/R57 谱基增厚**:IEI Technology USA Corp.（加州 Pomona）=IEI Integration Corp.(台北汐止）美国分部；自牌…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：有信号（工业/楼宇）但需先验证需求或联系人不具体
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 产业同族制造侧：不入供位；判 OEM/合作谈判面（如走通价值高，但非标准上架）；—（合作探询，无量产报价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | IEI Technology USA Corp.(138 University Parkway, Pomona CA 91768;1997 组,台湾 IEI Integration Corp 美国子;集团墙注纪律维持:R53 判定 hold=Teddy Kuo 创始人/Meiji Chang 董事长/Jordan Jiang GM 集团侧,Subi Zhan | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】产业错位：CSV 层级弄反——IEI 不是"授权分销"而是集团厂；从正确的谱系看，它是工业 rugged/工业网口的同业制造侧 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 30·B-352:美国谱: **守档准由·原 R65/R57 谱基增厚**:IEI Technology USA Corp.（加州 Pomona）=IEI Integration Corp.(台北汐止）美国分部；自牌工业 PC/Panel PC/Embedded/AIoT;IEI ODM 20 年+全产线自有；**ORing Industrial Net | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】IEI Technology USA Corp.（加州 Pomona）=IEI Integration Corp.(台北汐止）美国分部；自牌工业 PC/Panel PC/Embedded/AIoT;IEI ODM 20 年+全产线自有；**ORing Industrial Networking 与其同族**(IEI 集团旗下工业网络品牌——CSV 标"ORing 授权"方向反了，IEI 是上游厂不是分销商） | R64 并入:USA 层:Richard Kao Operation Director;Wendy Wang Office Manag
-- 【推断】产业错位：CSV 层级弄反——IEI 不是"授权分销"而是集团厂；从正确的谱系看，它是工业 rugged/工业网口的同业制造侧
-- 【假设】同业+上游集团不是我们上架通道；走「OEM/联合设计」或「供应链互备」面才是真开口——判位不进供位，B 级守档
+- 【事实】波 30·B-352:美国谱: **守档准由·原 R65/R57 谱基增厚**:IEI Technology USA Corp.（加州 Pomona）=IEI Integration Corp.(台北汐止）美国分部；自牌工业 PC/Panel PC/Embedded/AIoT;IEI ODM 20 年+全产线自有；**ORing Industrial Networking 与其同族**(IEI 集团旗下工业网络品牌——CSV 标"ORing 授权"方向反了，IEI 是上游厂不是分销商） | R64 并入:USA 层:Richard Kao Operation Director;Wendy Wang Office Manag;R66 第 30 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第1波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 30 波守档准由谱
+- 【假设】掌件区非商触(非卖品对照架)
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】产业错位：CSV 层级弄反——IEI 不是"授权分销"而是集团厂；从正确的谱系看，它是工业 rugged/工业网口的同业制造侧
+CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -93,39 +93,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（OEM/白牌合作探询（无量产型号首推）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+14 · 低频开口
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
-- **切入点**：产业同族制造侧：不入供位；判 OEM/合作谈判面（如走通价值高，但非标准上架）
-- **要问的问题**：（联络路：如用户想洽 OEM，走联合设计面）
-- **随附/动作**：随附 1 页特性对照
+- **切入点**：掌件区技术参件
+- **要问的问题**：可否入技术参件对照架名录？
+- **随附/动作**：规格页
+
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档
+
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 3 批精修 = R57 转写 + R64 KP 猎捕战果并入)**；原始记录：`batch/B类深挖_2026-10-07_R65_第3批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
 
-- **背景深描**：IEI Technology USA Corp.(138 University Parkway, Pomona CA 91768;1997 组,台湾 IEI Integration Corp 美国子;集团墙注纪律维持:R53 判定 hold=Teddy Kuo 创始人/Meiji Chang 董事长/Jordan Jiang GM 集团侧,Subi Zhang CISO 复层直管;USA 侧 Richard Kao Operation Director(Pomona)+Wendy Wang Office Manager(2005 至今);美国侧向 AI/边缘计算/安防/医械/国警/交运/通信基站垂直
-- **芯片与在用型号**：【推断】产业错位：CSV 层级弄反——IEI 不是"授权分销"而是集团厂；从正确的谱系看，它是工业 rugged/工业网口的同业制造侧
-- **关键人KP**：USA 层:Richard Kao Operation Director;Wendy Wang Office Manager;集团层(R53 已 hold 纪律,不直谈):Teddy Kuo/Meiji Chang/Jordan Jiang
-- **关注点与资质**：ORing | 传承人名开口：见 KP 表
-- **优缺点SWOT**：S:集团厂资源+自研深 / W:同业制造侧=无我们上架位 / O:OEM 合作/联合设计通道 / T:台厂信号源≠客户（纪律）
-- **Saga产品适配**：产业同族制造侧：不入供位；判 OEM/合作谈判面（如走通价值高，但非标准上架）
+- **背景深描**：波 30·B-352:美国谱: **守档准由·原 R65/R57 谱基增厚**:IEI Technology USA Corp.（加州 Pomona）=IEI Integration Corp.(台北汐止）美国分部；自牌工业 PC/Panel PC/Embedded/AIoT;IEI ODM 20 年+全产线自有；**ORing Industrial Networking 与其同族**(IEI 集团旗下工业网络品牌——CSV 标"ORing 授权"方向反了，IEI 是上游厂不是分销商） | R64 并入:USA 层:Richard Kao Operation Director;Wendy Wang Office Manag;R66 第 30 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第1波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
+- **关注点与资质**：美国 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
+- **Saga产品适配**：CONSULT-OEM 掌件区非卖品对照
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**IEI Integration Corp…Xizhi & Chi-du, Taiwan / IEI Technology USA Pomona, USA
-  > IEI Integration Corp…Xizhi & Chi-du, Taiwan / IEI Technology USA Pomona, USA
-  > 来源：https://www.ieiworld.com/en/support/con_show.php?cid=93
-- **【R57备护深挖证据】**20 years of experience in electronic product design and manufacture…100% own manufacturing facilities
-  > 20 years of experience in electronic product design and manufacture…100% own manufacturing facilities
-  > 来源：https://www.ieiworld.com/en/support/con_show.php?cid=93
-- **【R64 USA 层 KP】**Richard Kao Operation Director(LinkedIn, Pomona)+Wendy Wang Office Manager(2005)
-  > Richard Kao - Operation Director at IEI Technology USA Corp. Pomona … Wendy Wang OFFICE MANAGER Feb 2005 - Present
-  > 来源：https://www.linkedin.com/in/richard-kao-233a5368/
-- **【R64 集团谱】**台湾母 IEI Integration:Teddy Kuo Founder/Meiji Chang Chairman/Jordan Jiang GM(Subi Zhang CISO 懂中国产——集团墙口径维持)
-  > Founder Teddy Kuo and Chairman Meiji Chang … Jordan Jiang serves as the General Manager and Director … Subi Zhang CISO
-  > 来源：https://www.pressreleasepoint.com/user/iei-technology-usa-corp
+- **【联系方式与基础画像】**IEI Technology USA Corp.（加州 Pomona）=IEI Integration Corp.(台北汐止）美国分部；自牌工业 PC/Panel PC/Embedded/AIoT;IEI ODM 20 年+全产线自有；**ORing Industrial Networking 与其同族**(IEI 集
+  > IEI Technology USA Corp.（加州 Pomona）=IEI Integration Corp.(台北汐止）美国分部；自牌工业 PC/Panel PC/Embedded/AIoT;IEI ODM 20 年+全产线自有；**ORing Industrial Networking 与其同族**(IEI 集
+  > 来源：https://ieiworld.com/
+- **【联系方式与基础画像】**CSV 入口:+1 909 595-2819 / sales@usa.ieiworld.com
+  > CSV 入口:+1 909 595-2819 / sales@usa.ieiworld.com
+  > 来源：https://ieiworld.com/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -138,7 +146,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:集团厂资源+自研深 / W:同业制造侧=无我们上架位 / O:OEM 合作/联合设计通道 / T:台厂信号源≠客户（纪律）
+S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -166,8 +174,8 @@ S:集团厂资源+自研深 / W:同业制造侧=无我们上架位 / O:OEM 合�
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] IEI USA 对集团 ORing 谱的销售通道与本地授权分工
-  - [ ] IEI 是否正面销 PoE 交换（自家谱），还是借 ORing 网谱入
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -176,21 +184,10 @@ S:集团厂资源+自研深 / W:同业制造侧=无我们上架位 / O:OEM 合�
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：Neutral-built PoE switches under your own label
+**主题**：（非卖品掌件区,不出信)
 
 ```text
-Hi IEI,
-
-I came across IEI Technology USA Corp. - 分销（ORing 授权）.
-
-We manufacture PoE access switches (Marvell-based, L2+) for OEM/white-label programs - neutral packing, your model numbers, ODM options on request.
-
-One question: （联络路：如用户想洽 OEM，走联合设计面）
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+（掌件区非卖品·CONSULT-OEM 对照架,只做技术参件,不出英文首触信）
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

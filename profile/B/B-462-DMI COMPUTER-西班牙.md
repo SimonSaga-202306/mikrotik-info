@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：DMI Computer(西班牙 IT 大国批发；1989 创，100% 西班牙资本，CIF A-79522702;2025 年营收 €164M/120+ 职业；**Emilio Sánchez-Clemente = C…
+- **是谁**：波 30·B-462:西班牙谱: **守档准由·原 R65/R57 谱基增厚**:DMI Computer S.A.(San Fernando de Henares Madrid + Málaga/La Coruña/V…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 大型批发/DMI PRO 谱的 value 24 口 280W 管理型 PoE 空档补位(低价牌之上、Ubiquiti 之下)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | DMI Computer(西班牙 IT 大国批发；1989 创，100% 西班牙资本，CIF A-79522702;2025 年营收 €164M/120+ 职业；**Emilio Sánchez-Clemente = CEO(esanchez@dmi.es)**;José Antonio Rodríguez = Director de negocio(jar | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】大型综合批发商:谱里 value 网络牌已被 CUDY/LANBERG/MERCUSYS 占位——但均无 24 口管理型 PoE 甜点位;DMI PRO 专业部+MR Micro 门店网是双管道;早期自产电脑血统(现为纯分销) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 30·B-462:西班牙谱: **守档准由·原 R65/R57 谱基增厚**:DMI Computer S.A.(San Fernando de Henares Madrid + Málaga/La Coruña/Valencia 分办 + **葡萄牙办**;1989 Emilio Sánchez Clemente 创;110+ 员工;5000+ 客户全 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】DMI Computer S.A.(San Fernando de Henares Madrid + Málaga/La Coruña/Valencia 分办 + **葡萄牙办**;1989 Emilio Sánchez Clemente 创;110+ 员工;5000+ 客户全半岛+欧洲;6000+ 在架 SKU;**MR Micro 零售网 200+ 门店**;2018 设 DMI PRO 专业事业部;TP-Link Premium Partner;2025-09 签 Zalman 西班牙独家;谱含 MikroTik/Ubiquiti/RUIJIE/ZyXEL/**CUDY/LANBERG**) | R65 深挖:西班牙 IT 批为 €164M 巨号;DMI MikroTik 谱位谱全开
-- 【推断】大型综合批发商:谱里 value 网络牌已被 CUDY/LANBERG/MERCUSYS 占位——但均无 24 口管理型 PoE 甜点位;DMI PRO 专业部+MR Micro 门店网是双管道;早期自产电脑血统(现为纯分销)
-- 【假设】开口角度=「value 牌谱里 24 口 280W 管理型 PoE 空档补位」:CUDY/LANBERG 等低价架之上、Ubiquiti 之下的空档,白牌友好入其 6000 SKU 架+DMI PRO 对口
+- 【事实】波 30·B-462:西班牙谱: **守档准由·原 R65/R57 谱基增厚**:DMI Computer S.A.(San Fernando de Henares Madrid + Málaga/La Coruña/Valencia 分办 + **葡萄牙办**;1989 Emilio Sánchez Clemente 创;110+ 员工;5000+ 客户全半岛+欧洲;6000+ 在架 SKU;**MR Micro 零售网 200+ 门店**;2018 设 DMI PRO 专业事业部;TP-Link Premium Partner;2025-09 签 Zalman 西班牙独家;谱含 MikroTik/Ubiquiti/RUIJIE/ZyXEL/**CUDY/LANBERG**) | R65 深挖:西班牙 IT 批为 €164M 巨号;DMI MikroTik 谱位谱全开;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第6波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 30 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】大型综合批发商:谱里 value 网络牌已被 CUDY/LANBERG/MERCUSYS 占位——但均无 24 口管理型 PoE 甜点位;DMI PRO 专业部+MR Micro 门店网是双管道;早期自产电脑血统(现为纯分销)
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -69,7 +69,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
+- 波 30·B-462:西班牙谱: **守档准由·原 R65/R57 谱基增厚**:DMI Computer S.A.(San Fernando de Henares Madrid + Málaga/La Coruña/Valencia 分办 + **葡萄牙办**;1989 Emilio Sánchez Clemente 创;110+ 员工;5000+ 客户全半岛+欧洲;6000+ 在架 SKU;**MR Micro 零售网 200+ 门店**;2018 设 DMI PRO 专业事业部;TP-Link Premium Partner;2025-09 签 Zalman 西班牙独家;谱含 MikroTik/Ubiquiti/RUIJIE/ZyXEL/**CUDY/LANBERG**) | R65 深挖:西班牙 IT 批为 €164M 巨号;DMI MikroTik 谱位谱全开;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第6波.json,先报价不回、档案铺位、持续关注新一季,OK。
 
 ## 联系方式（已有/猜测分标）
 
@@ -95,53 +95,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · 价位空档对照页(CUDY/LANBERG/Ubiquiti 对位)
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「value 牌谱里 24 口 280W 管理型 PoE 空档补位」:CUDY/LANBERG 等低价架之上、Ubiquiti 之下的空档,白牌友好入其 6000 SKU 架+DMI PRO 对口
-- **要问的问题**：你们架上 CUDY/LANBERG 一档的 24 口管理型 PoE+ 现供哪款?DMI PRO 谱里 value 档有没有空位?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · clientes@dmi.es 开口
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「value 牌谱里 24 口 280W 管理型 PoE 空档补位」:CUDY/LANBERG 等低价架之上、Ubiquiti 之下的空档,白牌友好入其 6000 SKU 架+DMI PRO 对口
-- **要问的问题**：你们架上 CUDY/LANBERG 一档的 24 口管理型 PoE+ 现供哪款?DMI PRO 谱里 value 档有没有空位?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「value 牌谱里 24 口 280W 管理型 PoE 空档补位」:CUDY/LANBERG 等低价架之上、Ubiquiti 之下的空档,白牌友好入其 6000 SKU 架+DMI PRO 对口
-- **要问的问题**：你们架上 CUDY/LANBERG 一档的 24 口管理型 PoE+ 现供哪款?DMI PRO 谱里 value 档有没有空位?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 16 批精修 = R57 转写 + 本轮调研新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第16批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
 
-- **背景深描**：DMI Computer(西班牙 IT 大国批发；1989 创，100% 西班牙资本，CIF A-79522702;2025 年营收 €164M/120+ 职业；**Emilio Sánchez-Clemente = CEO(esanchez@dmi.es)**;José Antonio Rodríguez = Director de negocio(jarodriguez@dmi.es);Javier Martín Martín = Compras Coordinador(jmartin@dmi.es);La Coruña/Málaga/Valencia/Pcolon 4 移办);**谱涵:MikroTik/Ubiquiti/Tp-Link/Netgear/Digitus 等连通谱；DMI PRO 子缋谱=
-- **芯片与在用型号**：【推断】大型综合批发商:谱里 value 网络牌已被 CUDY/LANBERG/MERCUSYS 占位——但均无 24 口管理型 PoE 甜点位;DMI PRO 专业部+MR Micro 门店网是双管道;早期自产电脑血统(现为纯分销)
-- **关键人KP**：Emilio Sánchez-Clemente = CEO;José Antonio Rodríguez = Director de negocio;Javier Martín Martín = Compras Coordinador
-- **关注点与资质**：MikroTik（Master+VAD） 
-- **优缺点SWOT**：S:110 人+5000 客户+200 门店+葡办+PRO 事业部 / W:value 档多牌挤位 / O:24 口 280W 管理型 PoE 价位空档 / T:CUDY/LANBERG 低价惯性
-- **Saga产品适配**：大型批发/DMI PRO 谱的 value 24 口 280W 管理型 PoE 空档补位(低价牌之上、Ubiquiti 之下)
+- **背景深描**：波 30·B-462:西班牙谱: **守档准由·原 R65/R57 谱基增厚**:DMI Computer S.A.(San Fernando de Henares Madrid + Málaga/La Coruña/Valencia 分办 + **葡萄牙办**;1989 Emilio Sánchez Clemente 创;110+ 员工;5000+ 客户全半岛+欧洲;6000+ 在架 SKU;**MR Micro 零售网 200+ 门店**;2018 设 DMI PRO 专业事业部;TP-Link Premium Partner;2025-09 签 Zalman 西班牙独家;谱含 MikroTik/Ubiquiti/RUIJIE/ZyXEL/**CUDY/LANBERG**) | R65 深挖:西班牙 IT 批为 €164M 巨号;DMI MikroTik 谱位谱全开;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第6波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
+- **关注点与资质**：西班牙 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**más de 110 empleados…más de 5.000 clientes distribuidos por toda la Península y Europa…más de 6.000 referencias vivas
-  > más de 110 empleados…más de 5.000 clientes distribuidos por toda la Península y Europa…más de 6.000 referencias vivas
-  > 来源：https://es.linkedin.com/company/dmi-computer-s-a-
-- **【R57备护深挖证据】**DMI Computer es fundador de la red de tiendas MR Micro, en España tiene más de 200 puntos de venta
-  > DMI Computer es fundador de la red de tiendas MR Micro, en España tiene más de 200 puntos de venta
-  > 来源：https://es.linkedin.com/company/dmi-computer-s-a-
-- **【R57备护深挖证据】**Fabricantes…CUDY…LANBERG…Mercusys…Mikrotik…RUIJIE…Ubiquiti Networks…ZyXEL
-  > Fabricantes…CUDY…LANBERG…Mercusys…Mikrotik…RUIJIE…Ubiquiti Networks…ZyXEL
-  > 来源：https://www.dmi.es/fabricantes/
-- **【R65 谱/体量】**DMI Computer 1989 创 165M 2025 营收 120 职业；MikroTik 谱涵+Ubiquiti/Tp-Link/Netgear 等；西班牙纯资 100%
-  > Responsable Emilio Sánchez-Clemente, CEO … Facturación anual: 164 millones de euros de facturación en 2025 … Conectividad: Tp-Link, Ubiquiti, Gembird, Mikrotik, Digitus by Assmann, Aisens, Netgear, Lanberg
-  > 来源：https://guiacanaltic.channelpartner.es/dmi-computer/
+- **【联系方式与基础画像】**DMI Computer S.A.(San Fernando de Henares Madrid + Málaga/La Coruña/Valencia 分办 + **葡萄牙办**;1989 Emilio Sánchez Clemente 创;110+ 员工;5000+ 客户全半岛+欧洲;6000+ 在架 SKU;**
+  > DMI Computer S.A.(San Fernando de Henares Madrid + Málaga/La Coruña/Valencia 分办 + **葡萄牙办**;1989 Emilio Sánchez Clemente 创;110+ 员工;5000+ 客户全半岛+欧洲;6000+ 在架 SKU;**
+  > 来源：https://dmi.es/
+- **【联系方式与基础画像】**CSV 入口:91 670 28 48 / clientes@dmi.es
+  > CSV 入口:91 670 28 48 / clientes@dmi.es
+  > 来源：https://dmi.es/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -154,7 +148,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:110 人+5000 客户+200 门店+葡办+PRO 事业部 / W:value 档多牌挤位 / O:24 口 280W 管理型 PoE 价位空档 / T:CUDY/LANBERG 低价惯性
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -182,8 +176,8 @@ S:110 人+5000 客户+200 门店+葡办+PRO 事业部 / W:value 档多牌挤位 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] CUDY/LANBERG 价位档在架深(有无 24 口管理 PoE)
-  - [ ] DMI PRO 新 vendor 准入与上架费
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -192,21 +186,15 @@ S:110 人+5000 客户+200 门店+葡办+PRO 事业部 / W:value 档多牌挤位 
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi DMI team,
+Dear DMI COMPUTER Team,
 
-Thirty-five years, 110 people, 5,000 resellers, 200 MR Micro stores and a professional division - your shelf already carries every value networking brand from CUDY to LANBERG, but there is one slot none of them fills: a documented 24-port managed PoE+ at a value price.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build exactly that: a 24-port PoE+ managed switch (280W, L2-lite) with full English/Spanish documentation. Reference: $180 USD EXW (2026-09-29) - white-label friendly, built for the DMI PRO shelf.
-
-One question: between the low-cost value brands and Ubiquiti on your shelf, which switch holds the 24-port managed PoE tier today - and would a documented unit earn a listing test?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

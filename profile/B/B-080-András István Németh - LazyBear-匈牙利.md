@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：LazyBear Kft.(7626 Pécs, Felsővámház utca 23;F.Cg 02-09-086615, Adószám 27795613-2-02, 2022-03-21 创立;**核心谱位:Né…
+- **是谁**：波 29·B-080:匈牙利谱: **守档准由·原 R65/R57 谱基增厚**:András István Németh - LazyBear(Pécs 匈牙利;lazybear.hu 公司域;**四证 MTCNA+M…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — Pécs 四证顾问备养(无线专项):具名通道；—（合作探询，无量产报价）
@@ -44,20 +44,20 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | LazyBear Kft.(7626 Pécs, Felsővámház utca 23;F.Cg 02-09-086615, Adószám 27795613-2-02, 2022-03-21 创立;**核心谱位:Németh András István = 三业主之一(与 Pista Izabella Judit ügyvezető(UUID) 并列)* | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】佩奇(Pécs)公司域四证顾问(MTCWE 无线+IPv6 双专项) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 29·B-080:匈牙利谱: **守档准由·原 R65/R57 谱基增厚**:András István Németh - LazyBear(Pécs 匈牙利;lazybear.hu 公司域;**四证 MTCNA+MTCRE+MTCWE+MTCIPv6E**;具名) | R65 深挖:Pécs 小 Kft,5630 餐饮 tevékenység 与 la | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】András István Németh - LazyBear(Pécs 匈牙利;lazybear.hu 公司域;**四证 MTCNA+MTCRE+MTCWE+MTCIPv6E**;具名) | R65 深挖:Pécs 小 Kft,5630 餐饮 tevékenység 与 lazybear.hu 同名联合体(疑多面家);技术扁平位
-- 【推断】佩奇(Pécs)公司域四证顾问(MTCWE 无线+IPv6 双专项)
-- 【假设】守档备养:具名引见(无线专项语言对路)
+- 【事实】波 29·B-080:匈牙利谱: **守档准由·原 R65/R57 谱基增厚**:András István Németh - LazyBear(Pécs 匈牙利;lazybear.hu 公司域;**四证 MTCNA+MTCRE+MTCWE+MTCIPv6E**;具名) | R65 深挖:Pécs 小 Kft,5630 餐饮 tevékenység 与 lazybear.hu 同名联合体(疑多面家);技术扁平位;R66 第 29 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第10波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 29 波守档准由谱
+- 【假设】掌件区非商触(非卖品对照架)
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】佩奇(Pécs)公司域四证顾问(MTCWE 无线+IPv6 双专项)
+CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -93,40 +93,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（OEM/白牌合作探询（无量产型号首推）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+14 · 具名技术短引见
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
-- **切入点**：守档备养:具名引见(无线专项语言对路)
-- **要问的问题**：你在 Pécs 做无线/网络项目时,PoE 件现随哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：掌件区技术参件
+- **要问的问题**：可否入技术参件对照架名录？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+30 · 放盘
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
-- **切入点**：守档备养:具名引见(无线专项语言对路)
-- **要问的问题**：你在 Pécs 做无线/网络项目时,PoE 件现随哪家?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档
+
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 9 批精修 = R57 转写 + 本轮 LinkedIn/登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第9批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
 
-- **背景深描**：LazyBear Kft.(7626 Pécs, Felsővámház utca 23;F.Cg 02-09-086615, Adószám 27795613-2-02, 2022-03-21 创立;**核心谱位:Németh András István = 三业主之一(与 Pista Izabella Judit ügyvezető(UUID) 并列)**;Törő Zsófia Ágnes 第三业主;303337694 总线,lazybearkft@gmail.com 自曝;tevékenység 5630 = 餐饮/宾饮属业务厚(谱型疑主业非纯 IT——MikroTik 谱挂 IT 咨询/技术博客户 lazybear.hu 侧)
-- **芯片与在用型号**：【推断】佩奇(Pécs)公司域四证顾问(MTCWE 无线+IPv6 双专项)
-- **关键人KP**：Németh András István = 业主(名录口径);Pista Izabella Judit = ügyvezető(法定代表人);Törő Zsófia Ágnes 第三业主
-- **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCIPv6E | 传承人名开口：见 KP 表
-- **优缺点SWOT**：S:四证+公司域+具名 / W:小谱 / O:无线/IPv6 项目随单 / T:失联
-- **Saga产品适配**：Pécs 四证顾问备养(无线专项):具名通道
+- **背景深描**：波 29·B-080:匈牙利谱: **守档准由·原 R65/R57 谱基增厚**:András István Németh - LazyBear(Pécs 匈牙利;lazybear.hu 公司域;**四证 MTCNA+MTCRE+MTCWE+MTCIPv6E**;具名) | R65 深挖:Pécs 小 Kft,5630 餐饮 tevékenység 与 lazybear.hu 同名联合体(疑多面家);技术扁平位;R66 第 29 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第10波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
+- **关注点与资质**：匈牙利 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
+- **Saga产品适配**：CONSULT-OEM 掌件区非卖品对照
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCIPv6E;lazybear.hu 公司域
-  > CSV:MikroTik 认证顾问 MTCNA+MTCRE+MTCWE+MTCIPv6E;lazybear.hu 公司域
-  > 来源：客户名单_反向信号_2026-09.csv
-- **【R65 商业登记】**LazyBear Kft · Pécs 2022-03 创 · Cg 02-09-086615 · Pista Izabella Judit ügyvezető + Németh András István+Törő Zsófia Ágnes 三业主
-  > Lazybear Kft. amely a Felsővámház utca 23., 7626, Pécs … 2022. 03. 21. … Ügyvezető: Pista Izabella Judit … Tulajdonos: Németh András István, Törő Zsófia Ágnes
-  > 来源：https://www.companywall.hu/v%C3%A1llalat/lazybear-kft/MMHKiQlR
+- **【联系方式与基础画像】**András István Németh - LazyBear(Pécs 匈牙利;lazybear.hu 公司域;**四证 MTCNA+MTCRE+MTCWE+MTCIPv6E**;具名) | R65 深挖:Pécs 小 Kft,5630 餐饮 tevékenység 与 lazybear.hu 同名联合体(疑多面家)
+  > András István Németh - LazyBear(Pécs 匈牙利;lazybear.hu 公司域;**四证 MTCNA+MTCRE+MTCWE+MTCIPv6E**;具名) | R65 深挖:Pécs 小 Kft,5630 餐饮 tevékenység 与 lazybear.hu 同名联合体(疑多面家)
+  > 来源：https://lazybear.hu/
+- **【联系方式与基础画像】**CSV 入口:+36 70 226 6213 / andras.nemeth@lazybear.hu
+  > CSV 入口:+36 70 226 6213 / andras.nemeth@lazybear.hu
+  > 来源：https://lazybear.hu/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -139,7 +146,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:四证+公司域+具名 / W:小谱 / O:无线/IPv6 项目随单 / T:失联
+S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -167,8 +174,8 @@ S:四证+公司域+具名 / W:小谱 / O:无线/IPv6 项目随单 / T:失联
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] LazyBear 业务面与团队
-  - [ ] Pécs 客户谱
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -177,21 +184,10 @@ S:四证+公司域+具名 / W:小谱 / O:无线/IPv6 项目随单 / T:失联
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：Neutral-built PoE switches under your own label
+**主题**：（非卖品掌件区,不出信)
 
 ```text
-Hi András,
-
-I came across LazyBear - 集成商/顾问（MikroTik 认证）.
-
-We manufacture PoE access switches (Marvell-based, L2+) for OEM/white-label programs - neutral packing, your model numbers, ODM options on request.
-
-One question: 你在 Pécs 做无线/网络项目时,PoE 件现随哪家?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+（掌件区非卖品·CONSULT-OEM 对照架,只做技术参件,不出英文首触信）
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

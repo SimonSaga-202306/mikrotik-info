@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Volodymyr Sydorenko / Coders in UA team(乌克兰 Zhytomyr）:**LinkedIn 实锤:1999 年创 Coders in UA team 软件 CEO/GM 25 年;M…
+- **是谁**：波 29·B-031:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:Volodymyr Sydorenko / Coders in UA team(乌克兰 Zhytomyr）:**LinkedIn 实锤:1…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 软件 CEO 双深谱走顾问关系线,不入上架；—（合作探询，无量产报价）
@@ -44,20 +44,20 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | Volodymyr Sydorenko / Coders in UA team(乌克兰 Zhytomyr）:**LinkedIn 实锤:1999 年创 Coders in UA team 软件 CEO/GM 25 年;MTCNA(2015)+MTCRE+MTCWE(2016）三证在 LinkedIn(cert ID 完整）;ZoomInfo 口径:现为 Ci | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】ZoomInfo 口径其现职 Cinegy 乌办 GM——已从 Coders in UA 软件创始转到 Cinegy;证书 CSV 记 MTCNA+MTCIPv6E 有差——LinkedIn 显示 MTCWE 而非 IPv6E | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 29·B-031:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:Volodymyr Sydorenko / Coders in UA team(乌克兰 Zhytomyr）:**LinkedIn 实锤:1999 年创 Coders in UA team 软件 CEO/GM 25 年;MTCNA(2015)+MTCRE+MTCWE(2016）三 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Volodymyr Sydorenko / Coders in UA team(乌克兰 Zhytomyr）:**LinkedIn 实锤:1999 年创 Coders in UA team 软件 CEO/GM 25 年;MTCNA(2015)+MTCRE+MTCWE(2016）三证在 LinkedIn(cert ID 完整）;ZoomInfo 口径:现为 Cinegy Systems LLC 乌办总经理**——软件+网络双资历老将
-- 【推断】ZoomInfo 口径其现职 Cinegy 乌办 GM——已从 Coders in UA 软件创始转到 Cinegy;证书 CSV 记 MTCNA+MTCIPv6E 有差——LinkedIn 显示 MTCWE 而非 IPv6E
-- 【假设】软件 CEO/GM+多证+乌办 GM 复合者:过往的咨询谱现在更倾向于「软件方案商侧的网络选型岗」;Consult 线开口谱:具名 LinkedIn 引见+「老牌软件方案商」话谱
+- 【事实】波 29·B-031:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:Volodymyr Sydorenko / Coders in UA team(乌克兰 Zhytomyr）:**LinkedIn 实锤:1999 年创 Coders in UA team 软件 CEO/GM 25 年;MTCNA(2015)+MTCRE+MTCWE(2016）三证在 LinkedIn(cert ID 完整）;ZoomInfo 口径:现为 Cinegy Systems LLC 乌办总经理**——软件+网络双资历老将;R66 第 29 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第2波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 29 波守档准由谱
+- 【假设】掌件区非商触(非卖品对照架)
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】ZoomInfo 口径其现职 Cinegy 乌办 GM——已从 Coders in UA 软件创始转到 Cinegy;证书 CSV 记 MTCNA+MTCIPv6E 有差——LinkedIn 显示 MTCWE 而非 IPv6E
+CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -91,40 +91,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（OEM/白牌合作探询（无量产型号首推）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+14 · LinkedIn 具名引见谱
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
-- **切入点**：软件 CEO/GM+多证+乌办 GM 复合者:过往的咨询谱现在更倾向于「软件方案商侧的网络选型岗」;Consult 线开口谱:具名 LinkedIn 引见+「老牌软件方案商」话谱
-- **要问的问题**：你现在主导的方案里,PoE 接层选型现用哪家？「老软+网顾问」运续吗？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：掌件区技术参件
+- **要问的问题**：可否入技术参件对照架名录？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+30 · 果归守档
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
-- **切入点**：软件 CEO/GM+多证+乌办 GM 复合者:过往的咨询谱现在更倾向于「软件方案商侧的网络选型岗」;Consult 线开口谱:具名 LinkedIn 引见+「老牌软件方案商」话谱
-- **要问的问题**：你现在主导的方案里,PoE 接层选型现用哪家？「老软+网顾问」运续吗？
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档
+
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-29(R57 备护深挖转写 2026-10-07)**；原始记录：`batch/B类深挖_2026-10-07_R65_R57转写.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
 
-- **背景深描**：Volodymyr Sydorenko / Coders in UA team(乌克兰 Zhytomyr）:**LinkedIn 实锤:1999 年创 Coders in UA team 软件 CEO/GM 25 年;MTCNA(2015)+MTCRE+MTCWE(2016）三证在 LinkedIn(cert ID 完整）;ZoomInfo 口径:现为 Cinegy Systems LLC 乌办总经理**——软件+网络双资历老将
-- **芯片与在用型号**：【推断】ZoomInfo 口径其现职 Cinegy 乌办 GM——已从 Coders in UA 软件创始转到 Cinegy;证书 CSV 记 MTCNA+MTCIPv6E 有差——LinkedIn 显示 MTCWE 而非 IPv6E
-- **关键人KP**：（见 R64 KP 猎捕节/本档 KP 表）
-- **关注点与资质**：MikroTik 认证顾问 MTCNA+MTCIPv6E | 传承人名开口：见 KP 表
-- **优缺点SWOT**：S:软+网双深功(25 年软 GM+三证） / W:现职变动、接点意向未明 / O:软方案商网络选型角度谱 / T:面谱未实/守界反馈
-- **Saga产品适配**：软件 CEO 双深谱走顾问关系线,不入上架
+- **背景深描**：波 29·B-031:乌克兰谱: **守档准由·原 R65/R57 谱基增厚**:Volodymyr Sydorenko / Coders in UA team(乌克兰 Zhytomyr）:**LinkedIn 实锤:1999 年创 Coders in UA team 软件 CEO/GM 25 年;MTCNA(2015)+MTCRE+MTCWE(2016）三证在 LinkedIn(cert ID 完整）;ZoomInfo 口径:现为 Cinegy Systems LLC 乌办总经理**——软件+网络双资历老将;R66 第 29 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;**战区民用商业限定句必压(民用商业限定前句)**;既有深挖批源:B类深挖_2026-09-29_R57-BC_第2波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
+- **关注点与资质**：乌克兰 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
+- **Saga产品适配**：CONSULT-OEM 掌件区非卖品对照
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**Coders in UA team…1999-…MTCWE Issued Sep 2016…MTCRE Issued Jun 2016…MTCNA Issued May 2015
-  > Coders in UA team…1999-…MTCWE Issued Sep 2016…MTCRE Issued Jun 2016…MTCNA Issued May 2015
-  > 来源：https://www.linkedin.com/in/blackvs/
-- **【R57备护深挖证据】**Volodymyr Sydorenko…General Manager, Ukranian Branch (Cinegy Systems Llc) at Cinegy
-  > Volodymyr Sydorenko…General Manager, Ukranian Branch (Cinegy Systems Llc) at Cinegy
-  > 来源：https://www.zoominfo.com/p/Volodymyr-Sydorenko/11098653389
+- **【联系方式与基础画像】**Volodymyr Sydorenko / Coders in UA team(乌克兰 Zhytomyr）:**LinkedIn 实锤:1999 年创 Coders in UA team 软件 CEO/GM 25 年;MTCNA(2015)+MTCRE+MTCWE(2016）三证在 LinkedIn(cert ID 完
+  > Volodymyr Sydorenko / Coders in UA team(乌克兰 Zhytomyr）:**LinkedIn 实锤:1999 年创 Coders in UA team 软件 CEO/GM 25 年;MTCNA(2015)+MTCRE+MTCWE(2016）三证在 LinkedIn(cert ID 完
+  > 来源：https://coders.in.ua/
+- **【联系方式与基础画像】**CSV 入口:+380 67 760 0368 / vvs@coders.in.ua
+  > CSV 入口:+380 67 760 0368 / vvs@coders.in.ua
+  > 来源：https://coders.in.ua/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -137,7 +144,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:软+网双深功(25 年软 GM+三证） / W:现职变动、接点意向未明 / O:软方案商网络选型角度谱 / T:面谱未实/守界反馈
+S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -165,8 +172,8 @@ S:软+网双深功(25 年软 GM+三证） / W:现职变动、接点意向未明 
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 现从属（Coders in UA vs Cinegy）明确与否
-  - [ ] Cinegy 侧的谱或 Coders 侧现案参考
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -175,21 +182,10 @@ S:软+网双深功(25 年软 GM+三证） / W:现职变动、接点意向未明 
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：Neutral-built PoE switches under your own label
+**主题**：（非卖品掌件区,不出信)
 
 ```text
-Hi Volodymyr,
-
-I came across Coders - 集成商/顾问（MikroTik 认证）.
-
-We manufacture PoE access switches (Marvell-based, L2+) for OEM/white-label programs - neutral packing, your model numbers, ODM options on request.
-
-One question: 你现在主导的方案里,PoE 接层选型现用哪家？「老软+网顾问」运续吗？
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+（掌件区非卖品·CONSULT-OEM 对照架,只做技术参件,不出英文首触信）
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

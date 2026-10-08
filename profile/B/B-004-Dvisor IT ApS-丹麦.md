@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Dvisor IT ApS(CVR 43795937,2021 注册口径;Ladegårdsparken 61, 8410 Rønde 总部+Aarhus Hasle 分部;Sydbank 结算;口号「Hardware …
+- **是谁**：波 29·B-004:丹麦谱: **守档准由·原 R65/R57 谱基增厚**:Dvisor IT ApS(Rønde Ladegårdsparken 61;CVR 43795937;**2023 创 2-10 人,10…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 新创 IT 伙伴的 SME 项目随单+电商架 value PoE 位；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Dvisor IT ApS(CVR 43795937,2021 注册口径;Ladegårdsparken 61, 8410 Rønde 总部+Aarhus Hasle 分部;Sydbank 结算;口号「Hardware / software. Løsninger. Services. Konsulenter.」=硬件+顾问混合型丹麦本地分销商;shop.dv | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】新创小型 IT 伙伴:客户谱=丹麦 SME,电商架+顾问服务双轨;Adobe/微软许可类与硬件混搭谱 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 29·B-004:丹麦谱: **守档准由·原 R65/R57 谱基增厚**:Dvisor IT ApS(Rønde Ladegårdsparken 61;CVR 43795937;**2023 创 2-10 人,100% 丹麦持有**;IT 合作伙伴(硬件/软件/解决方案/顾问服务)+shop.dvisor.dk 电商;Adobe 许可分销;ESG 叙事 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Dvisor IT ApS(Rønde Ladegårdsparken 61;CVR 43795937;**2023 创 2-10 人,100% 丹麦持有**;IT 合作伙伴(硬件/软件/解决方案/顾问服务)+shop.dvisor.dk 电商;Adobe 许可分销;ESG 叙事) | R65 补:CVR 43795937/2021 注册/Henrik Bjerrum Nielsen 董事自曝
-- 【推断】新创小型 IT 伙伴:客户谱=丹麦 SME,电商架+顾问服务双轨;Adobe/微软许可类与硬件混搭谱
-- 【假设】开口角度=「新创 IT 伙伴的电商架 PoE 随单位」:STC-424 以 SME 项目随单+架上 value 档开口
+- 【事实】波 29·B-004:丹麦谱: **守档准由·原 R65/R57 谱基增厚**:Dvisor IT ApS(Rønde Ladegårdsparken 61;CVR 43795937;**2023 创 2-10 人,100% 丹麦持有**;IT 合作伙伴(硬件/软件/解决方案/顾问服务)+shop.dvisor.dk 电商;Adobe 许可分销;ESG 叙事) | R65 补:CVR 43795937/2021 注册/Henrik Bjerrum Nielsen 董事自曝;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第9波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 29 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】新创小型 IT 伙伴:客户谱=丹麦 SME,电商架+顾问服务双轨;Adobe/微软许可类与硬件混搭谱
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -89,56 +89,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · SME 随单页
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「新创 IT 伙伴的电商架 PoE 随单位」:STC-424 以 SME 项目随单+架上 value 档开口
-- **要问的问题**：你们 SME 项目里 PoE 接层现随哪家?24 口 value 档试卖位有吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · info@dvisor.dk 开口
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「新创 IT 伙伴的电商架 PoE 随单位」:STC-424 以 SME 项目随单+架上 value 档开口
-- **要问的问题**：你们 SME 项目里 PoE 接层现随哪家?24 口 value 档试卖位有吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「新创 IT 伙伴的电商架 PoE 随单位」:STC-424 以 SME 项目随单+架上 value 档开口
-- **要问的问题**：你们 SME 项目里 PoE 接层现随哪家?24 口 value 档试卖位有吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 1 批精修 = R57 转写 + 本轮官网/商业登记补)**；原始记录：`batch/B类深挖_2026-10-07_R65_第1批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
 
-- **背景深描**：Dvisor IT ApS(CVR 43795937,2021 注册口径;Ladegårdsparken 61, 8410 Rønde 总部+Aarhus Hasle 分部;Sydbank 结算;口号「Hardware / software. Løsninger. Services. Konsulenter.」=硬件+顾问混合型丹麦本地分销商;shop.dvisor.dk 电商面;salg@/support@/info@ 三邮箱,+45 69 17 07 08)
-- **芯片与在用型号**：【推断】新创小型 IT 伙伴:客户谱=丹麦 SME,电商架+顾问服务双轨;Adobe/微软许可类与硬件混搭谱
-- **关键人KP**：—
-- **关注点与资质**：MikroTik（Reseller） 
-- **优缺点SWOT**：S:丹麦本土+服务贴心位 / W:2023 新创小体量 / O:SME 项目随单 PoE 位 / T:量小
-- **Saga产品适配**：新创 IT 伙伴的 SME 项目随单+电商架 value PoE 位
+- **背景深描**：波 29·B-004:丹麦谱: **守档准由·原 R65/R57 谱基增厚**:Dvisor IT ApS(Rønde Ladegårdsparken 61;CVR 43795937;**2023 创 2-10 人,100% 丹麦持有**;IT 合作伙伴(硬件/软件/解决方案/顾问服务)+shop.dvisor.dk 电商;Adobe 许可分销;ESG 叙事) | R65 补:CVR 43795937/2021 注册/Henrik Bjerrum Nielsen 董事自曝;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第9波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
+- **关注点与资质**：丹麦 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**DVISOR er en 100% danskejet virksomhed…It-ydelser og it-rådgivning, 2-10 medarbejdere, Grundlagt 2023, Rønde
-  > DVISOR er en 100% danskejet virksomhed…It-ydelser og it-rådgivning, 2-10 medarbejdere, Grundlagt 2023, Rønde
-  > 来源：https://dk.linkedin.com/company/dvisor
-- **【R57备护深挖证据】**Hardware / software. Løsninger. Services. Konsulenter…shop.dvisor.dk
-  > Hardware / software. Løsninger. Services. Konsulenter…shop.dvisor.dk
-  > 来源：https://dvisor.dk/om-os/
-- **【R65 官网自曝】**官网 om-os 列 Henrik Bjerrum Nielsen 为 ledelse;三邮箱+电话公开;Aarhus Hasle 有分部
-  > **Ledelse:** Henrik Bjerrum Nielsen **Generelle henvendelser:** info@dvisor.dk … DVISOR IT – Aarhus c/O WORKSPACE Haslegården
-  > 来源：https://dvisor.dk/om-os/
-- **【R65 联系页】**kontakt 页:salg@dvisor.dk 产品咨询/support@dvisor.dk 技术支持,+45 69 17 07 08
-  > Ønsker du rådgivning til valg af produkter … skrive til os via salg@dvisor.dk … CVR: 4379 5937
-  > 来源：https://dvisor.dk/kontakt/
-- **【R65 商业登记】**CVR 43795937 · NACE 465000(ICT 批发)· Rønde 注册
-  > Dvisor IT ApS CVR-nr 43795937 … Ladegårdsparken 61, 8410 Rønde … 465000 Engroshandel med informations- og kommunikationsudstyr … Direktør Henrik Bjerrum Nielsen
-  > 来源：https://www.proff.dk/firma/dvisor-it-aps/r%C3%B8nde/elektronik-og-telekommunikationsudstyr/H0M0DII10MY
+- **【联系方式与基础画像】**Dvisor IT ApS(Rønde Ladegårdsparken 61;CVR 43795937;**2023 创 2-10 人,100% 丹麦持有**;IT 合作伙伴(硬件/软件/解决方案/顾问服务)+shop.dvisor.dk 电商;Adobe 许可分销;ESG 叙事) | R65 补:CVR 437959
+  > Dvisor IT ApS(Rønde Ladegårdsparken 61;CVR 43795937;**2023 创 2-10 人,100% 丹麦持有**;IT 合作伙伴(硬件/软件/解决方案/顾问服务)+shop.dvisor.dk 电商;Adobe 许可分销;ESG 叙事) | R65 补:CVR 437959
+  > 来源：https://shop.dvisor.dk/
+- **【联系方式与基础画像】**CSV 入口:+45 69 17 07 08 / info@dvisor.dk
+  > CSV 入口:+45 69 17 07 08 / info@dvisor.dk
+  > 来源：https://shop.dvisor.dk/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -151,7 +142,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:丹麦本土+服务贴心位 / W:2023 新创小体量 / O:SME 项目随单 PoE 位 / T:量小
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -179,9 +170,8 @@ S:丹麦本土+服务贴心位 / W:2023 新创小体量 / O:SME 项目随单 PoE
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] MikroTik 谱位与 value PoE 档位栈(官网商城未开 PoE 类目透视)
-  - [ ] SME 客户谱行业构成
-  - [ ] 架上网络件现供价位
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -190,21 +180,15 @@ S:丹麦本土+服务贴心位 / W:2023 新创小体量 / O:SME 项目随单 PoE
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Dvisor team,
+Dear Dvisor IT ApS Team,
 
-A young, hundred-percent Danish IT partner selling both Adobe licenses and hardware - you are building the supplier list right now, which is exactly when a good PoE line should apply.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Danish documentation. Reference: $180 USD EXW (2026-09-29) - the value-tier PoE unit for your SME projects and webshop shelf, white-label friendly.
-
-One question: in your SME rollouts, which PoE access switch rides along today - and would a documented unit earn a listing test on shop.dvisor.dk?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

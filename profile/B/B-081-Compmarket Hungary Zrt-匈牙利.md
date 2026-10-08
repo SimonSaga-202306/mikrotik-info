@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：CompMarket Hungary Zrt.(1044 Budapest, Megyeri út 53;Cg. 01-10-046934,Adószám 23126806-2-41;2011-01-20 创立,20M …
+- **是谁**：波 29·B-081:匈牙利谱: **守档准由·原 R65/R57 谱基增厚**:Compmarket Hungary Zrt.(Budapest Megyeri út 53;11-50 人电脑软硬件批发;Master+…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 布达佩斯 Master 的 value PoE 架位(具名 Rákos Zoltán)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | CompMarket Hungary Zrt.(1044 Budapest, Megyeri út 53;Cg. 01-10-046934,Adószám 23126806-2-41;2011-01-20 创立,20M HUF 股本;**2025 财报营收 13.33 亿 HUF ≈ €34M**;ICT 批发大分销;**董事 Szabó Balázs +  | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】布达佩斯中型批发商,Master+VAD 挂牌实;具名联络人在档 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 29·B-081:匈牙利谱: **守档准由·原 R65/R57 谱基增厚**:Compmarket Hungary Zrt.(Budapest Megyeri út 53;11-50 人电脑软硬件批发;Master+VAD 名录;rakos.zoltan@compmarket.hu 具名 Rákos Zoltán) | R65 深挖:€34M 级匈牙利  | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Compmarket Hungary Zrt.(Budapest Megyeri út 53;11-50 人电脑软硬件批发;Master+VAD 名录;rakos.zoltan@compmarket.hu 具名 Rákos Zoltán) | R65 深挖:€34M 级匈牙利 ICT 大分销,两董事实名=B-005 走年谱口
-- 【推断】布达佩斯中型批发商,Master+VAD 挂牌实;具名联络人在档
-- 【假设】开口角度=「匈牙利 Master 的 value PoE 架位」:STC-424 具名开口
+- 【事实】波 29·B-081:匈牙利谱: **守档准由·原 R65/R57 谱基增厚**:Compmarket Hungary Zrt.(Budapest Megyeri út 53;11-50 人电脑软硬件批发;Master+VAD 名录;rakos.zoltan@compmarket.hu 具名 Rákos Zoltán) | R65 深挖:€34M 级匈牙利 ICT 大分销,两董事实名=B-005 走年谱口;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第10波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 29 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】布达佩斯中型批发商,Master+VAD 挂牌实;具名联络人在档
+STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -91,47 +91,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · value 档页
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「匈牙利 Master 的 value PoE 架位」:STC-424 具名开口
-- **要问的问题**：你们架上 24 口管理型 PoE+ 现供哪家?value 档有位吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · rakos.zoltan@compmarket.hu 具名
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「匈牙利 Master 的 value PoE 架位」:STC-424 具名开口
-- **要问的问题**：你们架上 24 口管理型 PoE+ 现供哪家?value 档有位吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「匈牙利 Master 的 value PoE 架位」:STC-424 具名开口
-- **要问的问题**：你们架上 24 口管理型 PoE+ 现供哪家?value 档有位吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 6 批精修 = R57 转写 + 本轮登记新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第6批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
 
-- **背景深描**：CompMarket Hungary Zrt.(1044 Budapest, Megyeri út 53;Cg. 01-10-046934,Adószám 23126806-2-41;2011-01-20 创立,20M HUF 股本;**2025 财报营收 13.33 亿 HUF ≈ €34M**;ICT 批发大分销;**董事 Szabó Balázs + Tóth Zoltán(companywall.hu 实名)**;01/2731055, info@compmarket.hu)
-- **芯片与在用型号**：【推断】布达佩斯中型批发商,Master+VAD 挂牌实;具名联络人在档
-- **关键人KP**：Szabó Balázs + Tóth Zoltán = igazgatósági tag(董事会两成员,companywall.hu 实名)
-- **关注点与资质**：MikroTik（Master+VAD） 
-- **优缺点SWOT**：S:Master+VAD+具名 / W:公开谱薄 / O:value PoE 档 / T:谱重叠
-- **Saga产品适配**：布达佩斯 Master 的 value PoE 架位(具名 Rákos Zoltán)
+- **背景深描**：波 29·B-081:匈牙利谱: **守档准由·原 R65/R57 谱基增厚**:Compmarket Hungary Zrt.(Budapest Megyeri út 53;11-50 人电脑软硬件批发;Master+VAD 名录;rakos.zoltan@compmarket.hu 具名 Rákos Zoltán) | R65 深挖:€34M 级匈牙利 ICT 大分销,两董事实名=B-005 走年谱口;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第10波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
+- **关注点与资质**：匈牙利 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**CompMarket is a hardware and software wholesale company…Budapest, 11-50 employees
-  > CompMarket is a hardware and software wholesale company…Budapest, 11-50 employees
-  > 来源：https://www.crunchbase.com/organization/compmarket-hungary
-- **【R65 商业登记】**Cg 01-10-046934 · 2011 创 · 20M HUF 股本 · 2025 营收 13.33 亿 HUF(≈€34M) · Szabó/Tóth 两董事
-  > Net revenue: 13 332 897 800 … A vállalat jelenlegi igazgatói: Szabó Balázs, Tóth Zoltán
-  > 来源：https://www.ceginformacio.hu/cr9318296185_EN
+- **【联系方式与基础画像】**Compmarket Hungary Zrt.(Budapest Megyeri út 53;11-50 人电脑软硬件批发;Master+VAD 名录;rakos.zoltan@compmarket.hu 具名 Rákos Zoltán) | R65 深挖:€34M 级匈牙利 ICT 大分销,两董事实名=B-005 走
+  > Compmarket Hungary Zrt.(Budapest Megyeri út 53;11-50 人电脑软硬件批发;Master+VAD 名录;rakos.zoltan@compmarket.hu 具名 Rákos Zoltán) | R65 深挖:€34M 级匈牙利 ICT 大分销,两董事实名=B-005 走
+  > 来源：https://compmarket.hu/
+- **【联系方式与基础画像】**CSV 入口:+36 1 222 6403 / rakos.zoltan@compmarket.hu
+  > CSV 入口:+36 1 222 6403 / rakos.zoltan@compmarket.hu
+  > 来源：https://compmarket.hu/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -144,7 +144,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:Master+VAD+具名 / W:公开谱薄 / O:value PoE 档 / T:谱重叠
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -172,8 +172,8 @@ S:Master+VAD+具名 / W:公开谱薄 / O:value PoE 档 / T:谱重叠
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 架上网络谱与 PoE 档
-  - [ ] 客户谱(店商/集成商占比)
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -182,19 +182,15 @@ S:Master+VAD+具名 / W:公开谱薄 / O:value PoE 档 / T:谱重叠
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Zoltán,
+Dear Compmarket Hungary Zrt. Team,
 
-A MikroTik Master VAD on Megyeri út - quick question from a PoE switch manufacturer: which 24-port managed PoE unit holds the value tier on your shelf today?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build a 24-port PoE+ managed switch (280W, L2-lite) with full English/Hungarian documentation. Reference: $180 USD EXW (2026-09-29) - white-label friendly, and I can send one unit with a complete test pack for a bench evaluation.
-
-If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

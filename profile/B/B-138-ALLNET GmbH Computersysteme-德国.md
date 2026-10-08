@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：ALLNET GmbH Computersysteme(Maistr. 2, 82110 Germering(München);**Wolfgang Marcus Bauer = Geschäftsführer & In…
+- **是谁**：波 29·B-138:德国谱: **守档准由·原 R65/R57 谱基增厚**:ALLNET GmbH Computersysteme(Germering 慕尼黑 Maistraße 2;1991 Wolfgang Ma…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 同业制造商(自牌工业 PoE 在产):走代工二源守档,不推出入;与集团各分销站 STC-424 动线互不冲突；—（合作探询，无量产报价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | ALLNET GmbH Computersysteme(Maistr. 2, 82110 Germering(München);**Wolfgang Marcus Bauer = Geschäftsführer & Inhaber(业主,1991 创立)**;wer-zu-wem:99 员工(德国)+国际;30,000+ SKU,7 语言,DropShipp | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】德国总部是 ALLNET brand 的制造母体——自牌工业 PoE 交换机与我厂 STI/STC 谱正对面(同业);谱深、自有工厂(匈牙利)、自有品牌产线=同业采购面而非分销口子 | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 29·B-138:德国谱: **守档准由·原 R65/R57 谱基增厚**:ALLNET GmbH Computersysteme(Germering 慕尼黑 Maistraße 2;1991 Wolfgang Marcus Bauer 创):**Hersteller+Distributor 双血**——1992 起自产 ALLNET brand(匈牙利 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】ALLNET GmbH Computersysteme(Germering 慕尼黑 Maistraße 2;1991 Wolfgang Marcus Bauer 创):**Hersteller+Distributor 双血**——1992 起自产 ALLNET brand(匈牙利自有厂),自牌谱含 **PoE 交换机(工业级 -40~+75°C/90W/冗余电源)+Smart/Full Managed 10G 交换机**、WLAN、IP 摄像头、VoIP、楼宇自控;160+ 分销品牌;802.lab 自有培训学院(150+ 课/年);9+ 国分支;2026-07 起分销华为 eKit DACH | R65 深挖:德国母体 Bauer 1991 创立;R56 守档谱性维持(同业守档)
-- 【推断】德国总部是 ALLNET brand 的制造母体——自牌工业 PoE 交换机与我厂 STI/STC 谱正对面(同业);谱深、自有工厂(匈牙利)、自有品牌产线=同业采购面而非分销口子
-- 【假设】开口角度=「ALLNET brand 产线的 OEM/代工二源」——不自正面推第三方品牌(会与自牌冲突);试探其自牌 PoE 产线当下 OEM 伙伴与第二来源开放度;谱合则谈代工,不合守档
+- 【事实】波 29·B-138:德国谱: **守档准由·原 R65/R57 谱基增厚**:ALLNET GmbH Computersysteme(Germering 慕尼黑 Maistraße 2;1991 Wolfgang Marcus Bauer 创):**Hersteller+Distributor 双血**——1992 起自产 ALLNET brand(匈牙利自有厂),自牌谱含 **PoE 交换机(工业级 -40~+75°C/90W/冗余电源)+Smart/Full Managed 10G 交换机**、WLAN、IP 摄像头、VoIP、楼宇自控;160+ 分销品牌;802.lab 自有培训学院(150+ 课/年);9+ 国分支;2026-07 起分销华为 eKit DACH | R65 深挖:德国母体 Bauer 1991 创立;R56 守档谱性维持(同业守档);R66 第 29 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第5波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 29 波守档准由谱
+- 【假设】掌件区非商触(非卖品对照架)
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】德国总部是 ALLNET brand 的制造母体——自牌工业 PoE 交换机与我厂 STI/STC 谱正对面(同业);谱深、自有工厂(匈牙利)、自有品牌产线=同业采购面而非分销口子
+CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -72,7 +72,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- ALLNET GmbH Computersysteme(Maistr. 2, 82110 Germering(München);**Wolfgang Marcus Bauer = Geschäftsführer & Inhaber(业主,1991 创立)**;wer-zu-wem:99 员工(德国)+国际;30,000+ SKU,7 语言,DropShipping 型全品批发;ALLNET 集团丹 B-001/法/意 B-154/希 B-115 母体;family business & Werner Bauer habitual)
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -94,36 +94,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（OEM/白牌合作探询（无量产型号首推）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+14 · 低频开口
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
-- **切入点**：同业制造商(自牌工业 PoE 在产):走代工二源守档,不推出入;与集团各分销站 STC-424 动线互不冲突
-- **要问的问题**：(守档)ALLNET brand PoE/交换机产线的 OEM 伙伴结构是什么?第二来源有无开放度?
-- **随附/动作**：随附 1 页特性对照
+- **切入点**：掌件区技术参件
+- **要问的问题**：可否入技术参件对照架名录？
+- **随附/动作**：规格页
+
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档
+
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 8 批精修 = R57 转写 + 本轮登记/官网新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第7批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
 
-- **背景深描**：ALLNET GmbH Computersysteme(Maistr. 2, 82110 Germering(München);**Wolfgang Marcus Bauer = Geschäftsführer & Inhaber(业主,1991 创立)**;wer-zu-wem:99 员工(德国)+国际;30,000+ SKU,7 语言,DropShipping 型全品批发;ALLNET 集团丹 B-001/法/意 B-154/希 B-115 母体;family business & Werner Bauer habitual)
-- **芯片与在用型号**：【推断】德国总部是 ALLNET brand 的制造母体——自牌工业 PoE 交换机与我厂 STI/STC 谱正对面(同业);谱深、自有工厂(匈牙利)、自有品牌产线=同业采购面而非分销口子
-- **关键人KP**：Wolfgang Marcus Bauer = Geschäftsführer & Inhaber(业主)+49 89 894222-22(wer-zu-wem/Lieferanten/DnB 三源)
-- **关注点与资质**：MikroTik（Master+VAD） 
-- **优缺点SWOT**：S:1991 老牌+自牌产线+匈牙利厂+802.lab+160 品牌 / W:自牌与我谱正对面(同业红线) / O:其自牌产线的 OEM/代工二源 / T:正面推第三方品牌必被拒,守档
-- **Saga产品适配**：同业制造商(自牌工业 PoE 在产):走代工二源守档,不推出入;与集团各分销站 STC-424 动线互不冲突
+- **背景深描**：波 29·B-138:德国谱: **守档准由·原 R65/R57 谱基增厚**:ALLNET GmbH Computersysteme(Germering 慕尼黑 Maistraße 2;1991 Wolfgang Marcus Bauer 创):**Hersteller+Distributor 双血**——1992 起自产 ALLNET brand(匈牙利自有厂),自牌谱含 **PoE 交换机(工业级 -40~+75°C/90W/冗余电源)+Smart/Full Managed 10G 交换机**、WLAN、IP 摄像头、VoIP、楼宇自控;160+ 分销品牌;802.lab 自有培训学院(150+ 课/年);9+ 国分支;2026-07 起分销华为 eKit DACH | R65 深挖:德国母体 Bauer 1991 创立;R56 守档谱性维持(同业守档);R66 第 29 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第5波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
+- **关注点与资质**：德国 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
+- **Saga产品适配**：CONSULT-OEM 掌件区非卖品对照
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**Der 1991 in Germering gegründete Hersteller und Distributor ALLNET GmbH…unter eigenem Brand auch eine breit gestreute Produktpalette
-  > Der 1991 in Germering gegründete Hersteller und Distributor ALLNET GmbH…unter eigenem Brand auch eine breit gestreute Produktpalette
-  > 来源：https://wir-sind-germering.de/unternehmen/allnet-gmbh-computersysteme/
-- **【R57备护深挖证据】**Own development and production under the ALLNET brand…PoE switches with up to 90 W per port and industrial suitability: -40 °C to +75 °C…pro
-  > Own development and production under the ALLNET brand…PoE switches with up to 90 W per port and industrial suitability: -40 °C to +75 °C…produced at its own facility in Hungary
-  > 来源：https://industry-electronics.com/allnet/products.htm
-- **【R65 集团母实名】**ALLNET GmbH 1991·Bauer 业主·99 员工·30K SKU DropShip·国际语言 7
-  > Gegründet: 1991 … Familienunternehmen Gesellschafter Wolfgang Marcus Bauer … 30.000 Produkte … DropShipping
-  > 来源：https://www.lieferanten.de/lieferant-840-allnet-gmbh-computersysteme.html
+- **【联系方式与基础画像】**ALLNET GmbH Computersysteme(Germering 慕尼黑 Maistraße 2;1991 Wolfgang Marcus Bauer 创):**Hersteller+Distributor 双血**——1992 起自产 ALLNET brand(匈牙利自有厂),自牌谱含 **PoE 交换机(
+  > ALLNET GmbH Computersysteme(Germering 慕尼黑 Maistraße 2;1991 Wolfgang Marcus Bauer 创):**Hersteller+Distributor 双血**——1992 起自产 ALLNET brand(匈牙利自有厂),自牌谱含 **PoE 交换机(
+  > 来源：https://shop.allnet.de/
+- **【联系方式与基础画像】**CSV 入口:+49 89 89422222 / sales@allnet.de
+  > CSV 入口:+49 89 89422222 / sales@allnet.de
+  > 来源：https://shop.allnet.de/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -136,7 +147,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:1991 老牌+自牌产线+匈牙利厂+802.lab+160 品牌 / W:自牌与我谱正对面(同业红线) / O:其自牌产线的 OEM/代工二源 / T:正面推第三方品牌必被拒,守档
+S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -164,8 +175,8 @@ S:1991 老牌+自牌产线+匈牙利厂+802.lab+160 品牌 / W:自牌与我谱�
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] ALLNET brand PoE 产线(匈牙利厂)当下 OEM/ODM 伙伴与外包深度
-  - [ ] 自牌交换机与我厂谱的正对面程度(端口/功率/价位映射)
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -174,21 +185,10 @@ S:1991 老牌+自牌产线+匈牙利厂+802.lab+160 品牌 / W:自牌与我谱�
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：Neutral-built PoE switches under your own label
+**主题**：（非卖品掌件区,不出信)
 
 ```text
-Hi ALLNET,
-
-I came across ALLNET GmbH Computersysteme - 分销（MikroTik 官方）.
-
-We manufacture PoE access switches (Marvell-based, L2+) for OEM/white-label programs - neutral packing, your model numbers, ODM options on request.
-
-One question: (守档)ALLNET brand PoE/交换机产线的 OEM 伙伴结构是什么?第二来源有无开放度?
-
-If it is useful, I can send one unit for a 30-day evaluation - just tell me where to ship it. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM (neutral packing available)
+（掌件区非卖品·CONSULT-OEM 对照架,只做技术参件,不出英文首触信）
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

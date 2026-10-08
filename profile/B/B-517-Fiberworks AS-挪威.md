@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：Fiberworks AS(Org.nr 959 977 046,Eikenga 11, 0579 Oslo;1990-12-27 创(1995-02-20 都注册);**瑞典 Sorb Industri AB 全资**…
+- **是谁**：波 30·B-517:挪威谱: **守档准由·原 R65/R57 谱基增厚**:Fiberworks AS(挪威;fiberworks.no;ORing 授权;R49 复核：官网 /kontakt/ 正文可见 salg@…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：【2026-09-28 复核回升 C-191→B-517】官网 /kontakt/ 正文可见；邮箱补到后原「无邮箱（群发触达不到）」下放原因消除 → 恢复 B（群发可触达）。原判：三星依据仅渠道等级（分销（ORing 授权））与「ORing」，需求未核。
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 挪威光纤专精分销 ORing 谱旁 DIN 轨 value 二源(机柜随单双扣)；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | Fiberworks AS(Org.nr 959 977 046,Eikenga 11, 0579 Oslo;1990-12-27 创(1995-02-20 都注册);**瑞典 Sorb Industri AB 全资**(100%);24 员工;NACE 46.500 ICT 批发;ORing 授权分销(库内信号);Roger Allan Wahlgren( | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | 【推断】挪威光纤/网络专精分销(ORing 工业谱出处);『Fiberworks』本名=光纤基础设施客层(ISP/承包商) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 波 30·B-517:挪威谱: **守档准由·原 R65/R57 谱基增厚**:Fiberworks AS(挪威;fiberworks.no;ORing 授权;R49 复核：官网 /kontakt/ 正文可见 salg@fiberworks.no;挪威光纤/网络分销名义) | R65 深挖:Sorb Industri AB 全资子=ORing 谱中的北欧补位 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at) | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Fiberworks AS(挪威;fiberworks.no;ORing 授权;R49 复核：官网 /kontakt/ 正文可见 salg@fiberworks.no;挪威光纤/网络分销名义) | R65 深挖:Sorb Industri AB 全资子=ORing 谱中的北欧补位
-- 【推断】挪威光纤/网络专精分销(ORing 工业谱出处);『Fiberworks』本名=光纤基础设施客层(ISP/承包商)
-- 【假设】开口角度=「ORing 谱旁 DIN 轨 value 二源+光纤项目机柜随单」双扣
+- 【事实】波 30·B-517:挪威谱: **守档准由·原 R65/R57 谱基增厚**:Fiberworks AS(挪威;fiberworks.no;ORing 授权;R49 复核：官网 /kontakt/ 正文可见 salg@fiberworks.no;挪威光纤/网络分销名义) | R65 深挖:Sorb Industri AB 全资子=ORing 谱中的北欧补位;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第9波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- 【推断】R66 第 30 波守档准由谱
+- 【假设】档案铺位谱,持续关注新一季
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-【推断】挪威光纤/网络专精分销(ORing 工业谱出处);『Fiberworks』本名=光纤基础设施客层(ISP/承包商)
+STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -68,7 +68,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- Fiberworks AS(Org.nr 959 977 046,Eikenga 11, 0579 Oslo;1990-12-27 创(1995-02-20 都注册);**瑞典 Sorb Industri AB 全资**(100%);24 员工;NACE 46.500 ICT 批发;ORing 授权分销(库内信号);Roger Allan Wahlgren(f1973)Daglig leder + Martin Roland Linder(f1972)Styrets leder;+47 23 03 53 30)
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -93,50 +93,47 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 守档 D+3 · 光纤机柜随单页
+### 第 1 次跟进 · 档案铺位
 
 - **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「ORing 谱旁 DIN 轨 value 二源+光纤项目机柜随单」双扣
-- **要问的问题**：你们光纤项目机柜侧,DIN 轨 PoE 现供哪家?ORing 旁 value 二源有位吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **切入点**：守档铺位 → 价锚卡
+- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
+- **随附/动作**：规格页
 
-### 第 2 次跟进 · 守档 D+14 · salg@fiberworks.no 开口
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「ORing 谱旁 DIN 轨 value 二源+光纤项目机柜随单」双扣
-- **要问的问题**：你们光纤项目机柜侧,DIN 轨 PoE 现供哪家?ORing 旁 value 二源有位吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 守档 D+30 · 果归守档
+### 第 3 次跟进 · 留档
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：开口角度=「ORing 谱旁 DIN 轨 value 二源+光纤项目机柜随单」双扣
-- **要问的问题**：你们光纤项目机柜侧,DIN 轨 PoE 现供哪家?ORing 旁 value 二源有位吗?
-- **随附/动作**：随附 1 页特性对照/测试包说明
+- **推什么**：—（统一口径=P1 系列，不外溢）
+- **切入点**：簿联路径
+- **要问的问题**：—
+- **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-07(R65 第 5 批精修 = R57 转写 + 本轮登记/官网新挖)**；原始记录：`batch/B类深挖_2026-10-07_R65_第5批.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
 
-- **背景深描**：Fiberworks AS(Org.nr 959 977 046,Eikenga 11, 0579 Oslo;1990-12-27 创(1995-02-20 都注册);**瑞典 Sorb Industri AB 全资**(100%);24 员工;NACE 46.500 ICT 批发;ORing 授权分销(库内信号);Roger Allan Wahlgren(f1973)Daglig leder + Martin Roland Linder(f1972)Styrets leder;+47 23 03 53 30)
-- **芯片与在用型号**：【推断】挪威光纤/网络专精分销(ORing 工业谱出处);『Fiberworks』本名=光纤基础设施客层(ISP/承包商)
-- **关键人KP**：Roger Allan Wahlgren = Daglig leder(常务 CEO);Martin Roland Linder = Styrets leder(董事长);Sorb Industri AB 全资母(瑞典集团)
-- **关注点与资质**：ORing 
-- **优缺点SWOT**：S:光纤专精+ORing 授权 / W:足迹薄 / O:value DIN 轨二源+机柜随单 / T:ORing 排他
-- **Saga产品适配**：挪威光纤专精分销 ORing 谱旁 DIN 轨 value 二源(机柜随单双扣)
+- **背景深描**：波 30·B-517:挪威谱: **守档准由·原 R65/R57 谱基增厚**:Fiberworks AS(挪威;fiberworks.no;ORing 授权;R49 复核：官网 /kontakt/ 正文可见 salg@fiberworks.no;挪威光纤/网络分销名义) | R65 深挖:Sorb Industri AB 全资子=ORing 谱中的北欧补位;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第9波.json,先报价不回、档案铺位、持续关注新一季,OK。
+- **芯片与在用型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
+- **关注点与资质**：挪威 谱;CE/UKCA;持续关注新一季
+- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
+- **Saga产品适配**：STI-288GP vs PLANET/当批价差窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【R57备护深挖证据】**R49 复核:官网 /kontakt/ 正文可见 salg@fiberworks.no
-  > R49 复核:官网 /kontakt/ 正文可见 salg@fiberworks.no
-  > 来源：batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json#B-517
-- **【R57备护深挖证据】**CSV:分销(ORing 授权),挪威光纤/网络分销
-  > CSV:分销(ORing 授权),挪威光纤/网络分销
-  > 来源：客户名单_反向信号_2026-09.csv
-- **【R65 商业登记】**Org 959977046 · 1990 创 · 24 员工 · Sorb Industri AB(瑞典)100% · Wahlgren=Linder 两实名
-  > Daglig leder Roger Allan Wahlgren … Aksjonærer: Sorb Industri AB (100%) … Stiftelsesdato: 27.12.1990
-  > 来源：https://www.1881.no/telematikk-og-telekommunikasjon/telematikk-og-telekommunikasjon-oslo/telematikk-og-telekommunikasjon-oekern/fiberworks-as_100206951S1/
+- **【联系方式与基础画像】**Fiberworks AS(挪威;fiberworks.no;ORing 授权;R49 复核：官网 /kontakt/ 正文可见 salg@fiberworks.no;挪威光纤/网络分销名义) | R65 深挖:Sorb Industri AB 全资子=ORing 谱中的北欧补位
+  > Fiberworks AS(挪威;fiberworks.no;ORing 授权;R49 复核：官网 /kontakt/ 正文可见 salg@fiberworks.no;挪威光纤/网络分销名义) | R65 深挖:Sorb Industri AB 全资子=ORing 谱中的北欧补位
+  > 来源：https://fiberworks.no/
+- **【联系方式与基础画像】**CSV 入口:salg@fiberworks.no；+47 23 03 53 30
+  > CSV 入口:salg@fiberworks.no；+47 23 03 53 30
+  > 来源：https://fiberworks.no/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -149,7 +146,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S:光纤专精+ORing 授权 / W:足迹薄 / O:value DIN 轨二源+机柜随单 / T:ORing 排他
+S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
 
 ## 触达与风险红线
 
@@ -177,8 +174,8 @@ S:光纤专精+ORing 授权 / W:足迹薄 / O:value DIN 轨二源+机柜随单 /
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 光纤项目机柜侧 PoE 随单谱
-  - [ ] ORing 在架深
+  - [ ] 具名决策人(波次二)
+  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -187,21 +184,15 @@ S:光纤专精+ORing 授权 / W:足迹薄 / O:value DIN 轨二源+机柜随单 /
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：PoE value slot for your line
+**主题**：PoE switching for your line
 
 ```text
-Hi Fiberworks team,
+Dear Fiberworks AS Team,
 
-Fiber infrastructure for Norwegian ISPs and contractors, with ORing on the industrial side - your roadside and node cabinets need powered switching that can take the cold.
+We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
 
-We build an 8-port Gigabit industrial PoE switch (DIN-rail, fanless, -40..75C class) with full English documentation. Reference: $74.8 USD EXW (2026-09-29) - the value-side second source beside your ORing shelf, fully open to an OEM variant.
-
-One question: in your fiber-project cabinets, which DIN-rail PoE switch rides along today - and is there a value second-source slot beside ORing?
-
-If useful, I can send one unit with the complete test pack (surge 6 kV, EFT/ESD data sheet, cold-start log). If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
