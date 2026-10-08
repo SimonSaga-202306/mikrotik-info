@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】bod networks GmbH（德国开姆尼茨）：30+ 年 IT 商——**Networking & Switching 专块自述（Access 到 Core 交换选型/结构化组网/配置）**/铜缆光纤布线（OTDR 测量认证级）/服务器/USV/TK-VoIP/**光伏新线**；SMB 主力+大型布线项目；0371 电话+mail@
-- 【推断】“Networking & Switching”作为独立服务块=交换选型是其核心交付——直接对口；布线 OTDR 认证级=工程严谨
-- 【假设】SMB 价敏+大项目工程双线：value 件在 SMB 线是毛利层，在大项目是第二供位
+- 【事实】bod networks GmbH:bod networks GmbH(德国 Chemnitz(萨克森),Schönherrstraße 8, 09113(Schönherrfabrik 厂区租户谱);**HRB 9168 Amtsgericht Chemnitz(官网 Impressum 记 9186=一字异文留痕);VAT DE159286113;资本 €51,200;原名 Beyer & Otto Datennetze GmbH(2003 创 Taura,2017-04 更名 bod networks)**;0371 431440;mail@bod-networks.de;谱型=化学品工业区谱小网技术屋(IT 基础设施「vom Kabel bis zum Server 从线缆到服务器」全段;0-9 人)
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,16 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：mail@bod-networks.com [Publicly listed; delivery not tested]; https://www.bod-networks.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Udo Beyer**(Geschäftsführer(Ing. für Informatik;创位谱 Beyer & Otto 联合创始))— 官网 Impressum 法代自署+Kompass 高管谱+Schönherrfabrik 租户页三源 〔已有(公司官方公开件/登记册自曝);源:https://www.bod-networks.com/impressum/〕
+  - **Stephan Otto**(原 Geschäftsführer(2017-01-03 Austritt=Beyer & Otto 另一名联合创始))— northdata 登记系谱(留痕) 〔已有(公司官方公开件/登记册自曝);源:https://www.northdata.com/bod%20networks%20GmbH,%20Chemnitz/HRB%209168〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Udo Beyer | Geschäftsführer(Ing. für Informatik;创位谱 Beyer & Otto 联合创始) | 官网 Impressum 法代自署+Kompass 高管谱+Schönherrfabrik 租户页三源 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.bod-networks.com/impressum/ |
+| Stephan Otto | 原 Geschäftsführer(2017-01-03 Austritt=Beyer & Otto 另一名联合创始) | northdata 登记系谱(留痕) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.northdata.com/bod%20networks%20GmbH,%20Chemnitz/HRB%209168 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -137,32 +143,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第15批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第17波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：30 年网络工程（交换选型核心块+OTDR 布线）
-- **②芯片/型号**：CSV 载 Allied 信号
-- **③KP 深挖**：mail@
-- **④Saga 对标**：Access 选型位 value 件
-- **⑤在乎与偏好**：工程文档
+- **①背景再核**：bod networks GmbH(德国 Chemnitz(萨克森),Schönherrstraße 8, 09113(Schönherrfabrik 厂区租户谱);**HRB 9168 Amtsgericht Chemnitz(官网 Impressum 记 9186=一字异文留痕);VAT DE159286113;资本 €51,200;原名 Beyer & Otto Datennetze GmbH(2003 创 Taura,2017-04 更名 bod networks)**;0371 431440;mail@bod-networks.de;谱型=化学品工业区谱小网技术屋(IT 基础设施「vom Kabel bis zum Server 从线缆到服务器」全段;0-9 人)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Udo Beyer(Geschäftsführer(Ing. für Informatik;创位谱 Beyer & Otto 联合创始),official-self-published·谱/leads-only(直发需 opt-in));Stephan Otto(原 Geschäftsführer(2017-01-03 Austritt=Beyer & Otto 另一名联合创始),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：23 年谱+厂区租户节
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Networking & Switching…Egal ob einfache Access- oder komplexe Core-Switche…Wir beraten Sie hinsichtlich der Typenauswahl sowie des strukturierten Netzaufbaus”
-  > “Networking & Switching…Egal ob einfache Access- oder komplexe Core-Switche…Wir beraten Sie hinsichtlich der Typenauswahl sowie des strukturierten Netzaufbaus”
-  > 来源：https://www.bod-networks.com/
+- **【决策链与对接人】**Vertreten durch: Udo Beyer, Ing. für Informatik;bod networks GmbH, Schönherrstr. 8, 09113 Chemnitz;AG Chemnitz HRB(官网为 9186;creditreform/northdata 为 9168=异文留痕)
+  > Vertreten durch: Udo Beyer, Ing. für Informatik;bod networks GmbH, Schönherrstr. 8, 09113 Chemnitz;AG Chemnitz HRB(官网为 9186;creditreform/northdata 为 9168=异文留痕)
+  > 来源：https://www.bod-networks.com/impressum/
+- **【联系方式与基础画像】**Ansprechpartner: Udo Beyer;Telefon: 0371 431440;mail@bod-networks.de;Wir sind eine Netzwerktechnik-Firma aus Chemnitz. Unsere Leistungen: IT-Infrastruktur - vom Kabel bis zum Server!(Schönherrfabrik 租户页)
+  > Ansprechpartner: Udo Beyer;Telefon: 0371 431440;mail@bod-networks.de;Wir sind eine Netzwerktechnik-Firma aus Chemnitz. Unsere Leistungen: IT-Infrastruktur - vom Kabel bis zum Server!(Schönherrfabrik 租户页)
+  > 来源：https://www.schoenherrfabrik.de/de/Unsere-Mieter/Alle-Branchen_1366.html?shf_tenant1677.id=1
+- **【决策链与对接人】**24 Apr 2017: Name bod networks GmbH;Capital €51,200;3 Jan 2017: No longer MD: Stephan Otto;7 Oct 2003 创为 Beyer & Otto Datennetze GmbH(Seat Taura);Udo Beyer CEO Geschäftsführung(Kompass);0-9 Employees;VAT DE159286113
+  > 24 Apr 2017: Name bod networks GmbH;Capital €51,200;3 Jan 2017: No longer MD: Stephan Otto;7 Oct 2003 创为 Beyer & Otto Datennetze GmbH(Seat Taura);Udo Beyer CEO Geschäftsführung(Kompass);0-9 Employees;VAT DE159286113
+  > 来源：https://www.northdata.com/bod%20networks%20GmbH,%20Chemnitz/HRB%209168
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：开姆尼茨 30 年网络工程商（交换选型核心）
-- **产品线与在售品牌**：交换/布线/服务器/USV/TK（CSV 载 Allied 信号）
-- **目标行业与场景**：SMB+大型布线
-- **团队与规模**：区域中型
-- **决策链与对接人**：mail@ 口
-- **技术与认证**：OTDR 认证级
-- **采购与供应链信号**：项目随单
-- **近期动态与线索**：光伏扩线
-- **与我方契合点**：交换选型位 value 件（直接对口）
-- **风险与注意**：
+- **业务定位**：bod networks GmbH(德国 Chemnitz(萨克森),Schönherrstraße 8, 09113(Schönherrfabrik 厂区租户谱);**HRB 9168 Amtsgericht Chemnitz(官网 Impressum 记 9186=一字异文留痕);VAT DE159286113;资本 €51,200;原名 Beyer & Otto Datennetze GmbH(2003 创 Taura,2017-04 更名 bod networks)**;0371 431440;mail@bod-networks.de;谱型=化学品工业区谱小网技术屋(IT 基础设施「vom Kabel bis zum Server 从线缆到服务器」全段;0-9 人)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国萨克森化厂区 23 年谱小网络技术屋
+- **团队与规模**：0-9 人;2003 创;€51.2k
+- **决策链与对接人**：**Udo Beyer(Geschäftsführer(Ing. für Informatik;创位谱 Beyer & Otto 联合创始),official-self-published·谱/leads-only(直发需 opt-in));Stephan Otto(原 Geschäftsführer(2017-01-03 Austritt=Beyer & Otto 另一名联合创始),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Beyer GF 直达(微谱;opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -177,10 +189,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：选型
-- **W**：区域
-- **O**：直通
-- **T**：大牌
+- **S**：23 年谱+厂区租户节
+- **W**：微实体谱
+- **O**：Beyer GF 直达位
+- **T**：大牌件链竞谱
 
 ## 触达与风险红线
 
@@ -199,7 +211,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -208,9 +220,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] Access 选型现供
-  - [ ] 布线随单率
-  - [ ] 滚动量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -222,18 +233,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi bod networks team,
+Guten Tag Herr Beyer,
 
-"From simple access switches to complex core switches with routing and redundancy" - switching is not an afterthought in your portfolio, it is a named discipline. That is exactly where we manufacture.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full test documentation. Reference: $180 USD EXW - a value line for the access layer you specify every week.
-
-One question: in your network designs for SMB customers and larger cabling projects, which switch brand holds the access layer today?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

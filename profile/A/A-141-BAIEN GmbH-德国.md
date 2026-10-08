@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】BAIEN GmbH（德国）：B2B 型 IT 电商分销商——Kundenportal+全谱类目：显示/会议屏/数字标牌/桌面与笔记本/**服务器机柜 PDU（Gemessen/Switched/Verwaltet 分级）**/KVM/**Network 类目**；vertrieb@ 销售口
-- 【推断】电商化分销架结构：“机柜里从 PDU 到 KVM 全铺”——PoE 接入交换机是其 Network 类目天然补位
-- 【假设】类目齐全度越高=value 位毛利层越需要（炮位竞争只看文档与利润）
+- 【事实】BAIEN GmbH:BAIEN GmbH(德国 Böhl-Iggelheim(莱法州莱茵-普法尔茨圈),Eisenbahnstraße 24-26, 67459;**HRB 66432 Amtsgericht Ludwigshafen a.Rhein**;**2000 创(26 年;官网「25 Jahre BAIEN」+VISION 2030)**;11-50 人;baien.de;谱型=IT Reseller→IT Service Provider 升级谱(硬件/软件/网络/服务/咨询;**Digital Transformation Partner;客户面=企业/组织/公共部门三线谱**;「the human company」谱面)
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,14 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：vertrieb@baien.de [Publicly listed; delivery not tested]; https://baien.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Beate Ender**(Geschäftsführung (CEO))— Kompass 法定高管谱(单源,G 位;待强化) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://de.kompass.com/c/baien-gmbh/de891102/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Beate Ender | Geschäftsführung (CEO) | Kompass 法定高管谱(单源,G 位;待强化) | leads-only·待 opt-in(LinkedIn/谱面带核) | https://de.kompass.com/c/baien-gmbh/de891102/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +138,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第15批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第17波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：B2B IT 电商分销（机柜配件全谱）
-- **②芯片/型号**：Network 类目在架（厂牌未核）
-- **③KP 深挖**：vertrieb@
-- **④Saga 对标**：PoE 交换 value 位上架
-- **⑤在乎与偏好**：上架文档
+- **①背景再核**：BAIEN GmbH(德国 Böhl-Iggelheim(莱法州莱茵-普法尔茨圈),Eisenbahnstraße 24-26, 67459;**HRB 66432 Amtsgericht Ludwigshafen a.Rhein**;**2000 创(26 年;官网「25 Jahre BAIEN」+VISION 2030)**;11-50 人;baien.de;谱型=IT Reseller→IT Service Provider 升级谱(硬件/软件/网络/服务/咨询;**Digital Transformation Partner;客户面=企业/组织/公共部门三线谱**;「the human company」谱面)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Beate Ender(Geschäftsführung (CEO),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：26 年谱+VE 公共面
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“PDU Stromverteilungseinheiten…KVM Switches…Network…Kundenportal”
-  > “PDU Stromverteilungseinheiten…KVM Switches…Network…Kundenportal”
+- **【决策链与对接人】**Führungskräfte BAIEN GmbH: Beate Ender Geschäftsführung (CEO);Eisenbahnstrasse 24, 67459 Böhl-Iggelheim(Kompass 件)
+  > Führungskräfte BAIEN GmbH: Beate Ender Geschäftsführung (CEO);Eisenbahnstrasse 24, 67459 Böhl-Iggelheim(Kompass 件)
+  > 来源：https://de.kompass.com/c/baien-gmbh/de891102/
+- **【联系方式与基础画像】**BAIEN GmbH;HR-Nr. HRB 66432;Amtsgericht Ludwigshafen a.Rhein;Eisenbahnstraße 24-26, 67459 Böhl-Iggelheim(cylex 件)
+  > BAIEN GmbH;HR-Nr. HRB 66432;Amtsgericht Ludwigshafen a.Rhein;Eisenbahnstraße 24-26, 67459 Böhl-Iggelheim(cylex 件)
+  > 来源：https://web2.cylex.de/firma-home/baien-gmbh-13747543.html
+- **【团队与规模】**Vom IT Reseller zum IT Service Provider. BAIEN feiert 25 Jahre Firmengeschichte;Als Digital Transformation Partner für Unternehmen, Organisationen und den öffentlichen Sektor;11-50 Beschäftigte;gegründet 2000(官网+LinkedIn 谱)
+  > Vom IT Reseller zum IT Service Provider. BAIEN feiert 25 Jahre Firmengeschichte;Als Digital Transformation Partner für Unternehmen, Organisationen und den öffentlichen Sektor;11-50 Beschäftigte;gegründet 2000(官网+LinkedIn 谱)
   > 来源：https://baien.de/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：德国 B2B IT 电商分销（全谱类目）
-- **产品线与在售品牌**：全谱 IT（Network 类目在）
-- **目标行业与场景**：reseller/集成商渠道
-- **团队与规模**：中型分销
-- **决策链与对接人**：vertrieb@ 口
-- **技术与认证**：B2B 平台
-- **采购与供应链信号**：上架分销
-- **近期动态与线索**：Kundenportal 常态
-- **与我方契合点**：Network 类目 PoE 交换补位
-- **风险与注意**：在架竞争
+- **业务定位**：BAIEN GmbH(德国 Böhl-Iggelheim(莱法州莱茵-普法尔茨圈),Eisenbahnstraße 24-26, 67459;**HRB 66432 Amtsgericht Ludwigshafen a.Rhein**;**2000 创(26 年;官网「25 Jahre BAIEN」+VISION 2030)**;11-50 人;baien.de;谱型=IT Reseller→IT Service Provider 升级谱(硬件/软件/网络/服务/咨询;**Digital Transformation Partner;客户面=企业/组织/公共部门三线谱**;「the human company」谱面)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国莱法 26 年 IT 转服商(公共部门谱)
+- **团队与规模**：11-50 人;2000 创
+- **决策链与对接人**：**Beate Ender(Geschäftsführung (CEO),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Ender GF 单源谱(待强化;opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +184,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：电商
-- **W**：在架
-- **O**：补位
-- **T**：大牌
+- **S**：26 年谱+VE 公共面
+- **W**：小实体谱
+- **O**：Ender GF 谱位
+- **T**：大牌件链竞谱
 
 ## 触达与风险红线
 
@@ -196,7 +206,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,9 +215,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] Network 类目结构
-  - [ ] 上架门槛
-  - [ ] 渠道滚动
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,18 +228,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi BAIEN team,
+Guten Tag Frau Ender,
 
-A B2B catalog that runs from rack PDUs to KVM switches shows one philosophy: everything the rack needs, in stock, documented, shippable.
-
-We build one thing: a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full CE documentation. Reference: $180 USD EXW - a value line for your Network category that gives resellers a healthier margin on routine PoE closets.
-
-One question: in your Network category today, is there an open slot for a documented value PoE access switch?
-
-If useful, I can send one unit with the full documentation pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

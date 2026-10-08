@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Bachert Datentechnik GmbH（德国，25+ 年）：数据技术全栈——**Netzwerktechnik（无线/布线/安全）项目 A-Z**/Kommunikationstechnik（VoIP/视频会议）/IT-Systeme+Rechenzentrum/媒体技术（Panasonic/FilmGEAR/Spectera 项目，Eurovision 2026 新闻）；vertrieb@ 销售口；25+ 年经验团队（技术员/安装工/学徒/商务）
-- 【推断】“Netzwerktechnik A-Z 一手包办”=接入交换随单惯件位；媒体技术大项目（Eurovision）显示其高规格活动网交付能力
-- 【假设】“Neutrale Beratung”自述=中立咨询文化同频 candidate 件
+- 【事实】Bachert Datentechnik GmbH:Bachert Datentechnik GmbH(德国 Wetzlar(黑森,近法兰克福),Schanzenfeldstraße 14, 35578;**HRB 1066 Amtsgericht Wetzlar(老号!)USt DE 112597233;1989 创(37 年;官网「seit über 30 Jahren immer einen Schritt voraus」)**;11-50 人;+49 6441 4478-0;info@/vertrieb@/support@bachert.de;谱型=通信系统屋(布线/有源网络/无线/会议技术/数据中心/监控系统;医疗设备场景谱;**LANCOM Solution Partner 多年+BSI 认证高安网(NSA 议题 Newsletter 件)**=德式数据主权文化)
+- 【推断】R66 第 14 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,26 @@ updated: 2026-09-28
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：vertrieb@bachert.de [Publicly listed; delivery not tested]; https://www.bachert.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Thomas Bachert**(Geschäftsführung(执行董事;业主姓,Bachert=姓氏下档))— 官网 Team 页+XING Impressum 双源 〔已有(公司官方公开件/登记册自曝);源:https://www.bachert.de/ueber-uns/unser-team/〕
+  - **Bruno Werner**(Vertriebsleitung(销售主管 SKU 位;06441-4478-124))— 官网 Team 页 〔已有(公司官方公开件/登记册自曝);源:https://www.bachert.de/ueber-uns/unser-team/〕
+  - **Isabella Ender**(Leitung Einkauf und Auftragsabwicklung(**采购主管 KPI 天位**;4478-141))— 官网 Team 页 〔已有(公司官方公开件/登记册自曝);源:https://www.bachert.de/ueber-uns/unser-team/〕
+  - **Jonas Friedrich**(Sachbearbeitung Einkauf und Auftragsabwicklung(采购组))— 官网 Team 页 Übersicht 〔已有(公司官方公开件/登记册自曝);源:https://www.bachert.de/ueber-uns/unser-team/uebersicht/〕
+  - **Jorge Vieira**(Technischer Leiter / Projektleitung(技术总监))— 官网 Team 页 〔已有(公司官方公开件/登记册自曝);源:https://www.bachert.de/ueber-uns/unser-team/〕
+  - **André Diegel**(Obermonteur(首席安装工))— 官网 Team 页 〔已有(公司官方公开件/登记册自曝);源:https://www.bachert.de/ueber-uns/unser-team/〕
+  - **Christine Zipp**(Personalwesen(人事))— 官网 Team 页 〔已有(公司官方公开件/登记册自曝);源:https://www.bachert.de/ueber-uns/unser-team/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Thomas Bachert | Geschäftsführung(执行董事;业主姓,Bachert=姓氏下档) | 官网 Team 页+XING Impressum 双源 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.bachert.de/ueber-uns/unser-team/ |
+| Bruno Werner | Vertriebsleitung(销售主管 SKU 位;06441-4478-124) | 官网 Team 页 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.bachert.de/ueber-uns/unser-team/ |
+| Isabella Ender | Leitung Einkauf und Auftragsabwicklung(**采购主管 KPI 天位**;4478-141) | 官网 Team 页 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.bachert.de/ueber-uns/unser-team/ |
+| Jonas Friedrich | Sachbearbeitung Einkauf und Auftragsabwicklung(采购组) | 官网 Team 页 Übersicht | official-self-published·谱/leads-only(直发需 opt-in) | https://www.bachert.de/ueber-uns/unser-team/uebersicht/ |
+| Jorge Vieira | Technischer Leiter / Projektleitung(技术总监) | 官网 Team 页 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.bachert.de/ueber-uns/unser-team/ |
+| André Diegel | Obermonteur(首席安装工) | 官网 Team 页 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.bachert.de/ueber-uns/unser-team/ |
+| Christine Zipp | Personalwesen(人事) | 官网 Team 页 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.bachert.de/ueber-uns/unser-team/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,32 +150,38 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第14批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第17波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：25+ 年全栈（网络 A-Z+RZ+媒体）；Eurovision 级活动网
-- **②芯片/型号**：CSV 载 Allied 信号
-- **③KP 深挖**：vertrieb@
-- **④Saga 对标**：随单接入层 value 位
-- **⑤在乎与偏好**：中立咨询
+- **①背景再核**：Bachert Datentechnik GmbH(德国 Wetzlar(黑森,近法兰克福),Schanzenfeldstraße 14, 35578;**HRB 1066 Amtsgericht Wetzlar(老号!)USt DE 112597233;1989 创(37 年;官网「seit über 30 Jahren immer einen Schritt voraus」)**;11-50 人;+49 6441 4478-0;info@/vertrieb@/support@bachert.de;谱型=通信系统屋(布线/有源网络/无线/会议技术/数据中心/监控系统;医疗设备场景谱;**LANCOM Solution Partner 多年+BSI 认证高安网(NSA 议题 Newsletter 件)**=德式数据主权文化)
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Thomas Bachert(Geschäftsführung(执行董事;业主姓,Bachert=姓氏下档),official-self-published·谱/leads-only(直发需 opt-in));Bruno Werner(Vertriebsleitung(销售主管 SKU 位;06441-4478-124),official-self-published·谱/leads-only(直发需 opt-in));Isabella Ender(Leitung Einkauf und Auftragsabwicklung(**采购主管 KPI 天位**;4478-141),official-self-published·谱/leads-only(直发需 opt-in));Jonas Friedrich(Sachbearbeitung Einkauf und Auftragsabwicklung(采购组),official-self-published·谱/leads-only(直发需 opt-in));Jorge Vieira(Technischer Leiter / Projektleitung(技术总监),official-self-published·谱/leads-only(直发需 opt-in));André Diegel(Obermonteur(首席安装工),official-self-published·谱/leads-only(直发需 opt-in));Christine Zipp(Personalwesen(人事),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
+- **⑤在乎与偏好**：37 年谱+LANCOM 高安位
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**“Netzwerktechnik - Projekte von A bis Z aus kompetenter und freundlicher Hand…Mehr als 25 Jahre Branchenerfahrung”
-  > “Netzwerktechnik - Projekte von A bis Z aus kompetenter und freundlicher Hand…Mehr als 25 Jahre Branchenerfahrung”
-  > 来源：https://www.bachert.de/
+- **【决策链与对接人】**Thomas Bachert Geschäftsführung (thomas.bachert@bachert.de);Bruno Werner Vertriebsleitung;Isabella Ender Leitung Einkauf und Auftragsabwicklung;Jorge Vieira Technischer Leiter;bsi-team(bachert.de Team 页全谱邮箱)
+  > Thomas Bachert Geschäftsführung (thomas.bachert@bachert.de);Bruno Werner Vertriebsleitung;Isabella Ender Leitung Einkauf und Auftragsabwicklung;Jorge Vieira Technischer Leiter;bsi-team(bachert.de Team 页全谱邮箱)
+  > 来源：https://www.bachert.de/ueber-uns/unser-team/
+- **【联系方式与基础画像】**Vertretungsberechtigter Geschäftsführer: Thomas Bachert;HRB 1066 AG Wetzlar;Ust DE 112597233;Schanzenfeldstraße 14, 35578 Wetzlar;+49 6441 44780;gegründet 1989(XING Impressum 件)
+  > Vertretungsberechtigter Geschäftsführer: Thomas Bachert;HRB 1066 AG Wetzlar;Ust DE 112597233;Schanzenfeldstraße 14, 35578 Wetzlar;+49 6441 44780;gegründet 1989(XING Impressum 件)
+  > 来源：https://www.xing.com/pages/bachertdatentechnikgmbh/about_us
+- **【业务定位】**Bachert Datentechnik ist langjähriger LANCOM Solution Partner;BSI-zertifizierte Hochsicherheit gegen Abhören für kritische Infrastrukturen(Newsletter 件);Zukunftsweisende Netzwerkverkabelung, Konferenztechnik, Rechenzentren, Überwachungssysteme, Drahtlos
+  > Bachert Datentechnik ist langjähriger LANCOM Solution Partner;BSI-zertifizierte Hochsicherheit gegen Abhören für kritische Infrastrukturen(Newsletter 件);Zukunftsweisende Netzwerkverkabelung, Konferenztechnik, Rechenzentren, Überwachungssysteme, Drahtlos
+  > 来源：https://bachert.de/news/?cHash=324c967fe0ade40341c51374a99fdf40&tx_ttnews%5Btt_news%5D=1170
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：德国 25 年数据技术全栈（网络 A-Z）
-- **产品线与在售品牌**：网络/VoIP/RZ/媒体（CSV 载 Allied 信号）
-- **目标行业与场景**：区域企业/教育/活动
-- **团队与规模**：区域中型
-- **决策链与对接人**：vertrieb@ 口
-- **技术与认证**：25+ 年
-- **采购与供应链信号**：项目随单
-- **近期动态与线索**：Eurovision 2026 Spectera 项目
-- **与我方契合点**：网络项目随单接入层 value 位
-- **风险与注意**：
+- **业务定位**：Bachert Datentechnik GmbH(德国 Wetzlar(黑森,近法兰克福),Schanzenfeldstraße 14, 35578;**HRB 1066 Amtsgericht Wetzlar(老号!)USt DE 112597233;1989 创(37 年;官网「seit über 30 Jahren immer einen Schritt voraus」)**;11-50 人;+49 6441 4478-0;info@/vertrieb@/support@bachert.de;谱型=通信系统屋(布线/有源网络/无线/会议技术/数据中心/监控系统;医疗设备场景谱;**LANCOM Solution Partner 多年+BSI 认证高安网(NSA 议题 Newsletter 件)**=德式数据主权文化)
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：德国 Wetzlar 37 年通信系统屋(LANCOM 高安谱)
+- **团队与规模**：11-50 人;1989 创
+- **决策链与对接人**：**Thomas Bachert(Geschäftsführung(执行董事;业主姓,Bachert=姓氏下档),official-self-published·谱/leads-only(直发需 opt-in));Bruno Werner(Vertriebsleitung(销售主管 SKU 位;06441-4478-124),official-self-published·谱/leads-only(直发需 opt-in));Isabella Ender(Leitung Einkauf und Auftragsabwicklung(**采购主管 KPI 天位**;4478-141),official-self-published·谱/leads-only(直发需 opt-in));Jonas Friedrich(Sachbearbeitung Einkauf und Auftragsabwicklung(采购组),official-self-published·谱/leads-only(直发需 opt-in));Jorge Vieira(Technischer Leiter / Projektleitung(技术总监),official-self-published·谱/leads-only(直发需 opt-in));André Diegel(Obermonteur(首席安装工),official-self-published·谱/leads-only(直发需 opt-in));Christine Zipp(Personalwesen(人事),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Bachert GF+Ender 采购主管+Werner 销售(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -174,10 +196,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：全链
-- **W**：区域
-- **O**：随单
-- **T**：大牌
+- **S**：37 年谱+LANCOM 高安位
+- **W**：小实体谱
+- **O**：Ender 采购主管 KPI 直达
+- **T**：LANCOM/大牌链竞位
 
 ## 触达与风险红线
 
@@ -196,7 +218,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -205,9 +227,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 接入现供
-  - [ ] 活动网结构
-  - [ ] 年项目量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -219,18 +240,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Bachert team,
+Guten Tag Frau Ender,
 
-Network projects from A to Z under one friendly roof - including event-grade deployments like the Eurovision wireless work. That breadth is exactly where dependable, well-documented components pay off.
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, Voice VLAN, watchdog) with full test documentation. Reference: $180 USD EXW - a value line for the access layer inside your A-to-Z network projects.
-
-One question: in your network installations, which switch brand holds the PoE access slots today?
-
-If useful, I can send one unit with the complete test pack. If not a fit, one line and I close the loop.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
