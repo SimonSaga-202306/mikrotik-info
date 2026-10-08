@@ -5,6 +5,7 @@
 
 | Commit | 提交时间（原始时区） | 说明 |
 |---|---|---|
+| `67c927ec1d51` | 2026-10-08T09:17:24+00:00 | R67 推土机批5:A类5户(A-092 Titan PE+Marksman合并/A-102 EAC双创始20年/A-100 Networkology Defence守界 G-Cloud 5董事/A-139 ARCHE军用IT守界 Seeberg对接/A-282 Berdin 22年5子司 Importa EXW 对口;KP19条全URL;守界2户压句断言) |
 | `3e59d38ecf61` | 2026-10-08T09:01:41+00:00 | R67 推土机批4:英谱系5户(A-104 Centerprise 42年 Razzak 家族+Hamakarim Alliance/Procurement P0+前少将 守界/A-110 Senseco 碳中和首+Honeywell/A-106 DACC金丝雀码头 Matharu 二度任/A-101 Lloret Trend+Gent 授权品+进出口/A-109 RWL EMEA 分销 Kirby+Snell 双 P0;KP18条全URL;制法改革=直写 dict 零碎化) |
 | `0ee9fed71c1b` | 2026-10-08T08:48:51+00:00 | R67 推土机批3:A类5户(瑞典Profcon SIOX自产烟控/德B.W. 30+年安防三点/A-118 HBS 700人 PE投 27高管/A-116 GSI Ford专线 Newman MBA/A-113 A3 C&B收并 Thomas;KP15条全URL;A-136 异名排噪)全谱入库 |
 | `51b613f3d366` | 2026-10-08T08:26:07+00:00 | R67 推土机批2:A类跨区5户金谱全谱入库(A-187 E866k SAS+A-226 CHE 38年 AG Lyoth CEO/Tschanz+Lory+A-140 Wetzlar Bachert GF/Werner 同名排噪+A-220 S.A. 1978 48年 Estévez(Defensa 守界)+A-112 BRS 201MSEK/2022 Ringbom/Lindberg/Barck/Gozzi;KP16条全URL;r55六键语义批1校准+swot dict 恢复;审计=历史 4 项零新增) |

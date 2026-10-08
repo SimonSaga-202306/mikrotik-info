@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：INFORTISA SL(西班牙 Alfara del Patriarca(Valencia),Calle del Pozo 1, 46115;NIF **B46466421**;1989-06-07 注册(1986 起…
+- **是谁**：1989 创 37 年;Valencia(B46466421);MARIOLA PATRIMONIAL SL 联合体 2026-07 档…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 批发巨头的 value 24 口 PoE 架位,或 iggual 自牌谱 PoE OEM 延伸(双案并呈)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,13 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | INFORTISA SL(西班牙 Alfara del Patriarca(Valencia),Calle del Pozo 1, 46115;NIF **B46466421**;1989-06-07 注册(1986 起谱,40 年);**84 员工(2025);西班牙全国 3000 强/Valencia 150 强/CNAE 4650 全国 50 强**; | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | (待谱面二补) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 1989 创 37 年;Valencia(B46466421);MARIOLA PATRIMONIAL SL 联合体 2026-07 档 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | IT 批发(8 品类)+iggual 自牌+InfortisaLABS 服务;PoE 24 口网络/电信分销载线 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】波 R67/TUB6·B-469:西谱: **INFORTISA SL 深挖(einforma/rocketreach/empresia/iberinform/channelpartner 五源互证)**:**CIF B46466421,1989-06-07 创(37 年!),CNAE 4650/4651 电脑/外设/程序批发;Alfara del Patriarca 西班牙(C/ Del Pozo, 1 46115);Tel +34 961 30 90 11/96 130 90 06;员工 84 员工(2025 einforma)/44 RR/RocketReach/101-250(iberinform 区间)三窗注**;**自白「8.000+ 客户 全国」+140+ 品牌;Infortisa 图 8:Distribución de informática y tecnologíaComputadores/Periféricos/Almacenamiento/Redes/Software/Videovigilancia/Gaming/Portátiles+iggual = 品牌 compla =「el único distribuidor que cuenta con marcas propias」白标谱口/InfortisaLABS ERP/e-commerce/web 开发**;**Actividades Internacionales: Importa y Exporta**(=**进口+出口双经营**=我方 ODM EXW 对口天然谱);**受益链:MARIOLA PATRIMONIAL SL 联合体(Socio Único 21/07/2026 谱)——新 SOCIEDADES ABSORBIDAS(31/08/2026):INFORTISA SECOM SL+REINVALUE SL 被吸宣**;**KP 金谱市场:**Andrés Pastor Pérez**(Director General=总经理 P0,2020-12-23 Apoderado 公司代表谱)**+**Miguel Ángel Martínez Torres**(Administrador Único=实体总代表 2025-07-04 新任——关键变更:Contell García Juan José 2025-07-04 卸任史 binomials 旧总经理谱>**新区**)+**David Sapena Martínez**(Apoderado 公司代表 2025-07-21 任)+**Grau J.**(**Director/Responsable Comercial + Exportación = 商业+出口负责人双职 P0**)+**Juan G.**(**Director/Responsable de Compras=采购负责人 P0**)+**José Manuel A.**(Director/Responsable de Informática IT)+**Mariam S.**(RRHH 人力资源)+**Isabel Sabariego**/Mónica Formentí(Product Managers 谱)+**Bernat Jaume**(Delegación Baleares=巴利阿里分部 Director)+**Ramiro Bellés Albalat**(BI Manager)+**Juan Alfonso**(Logística 物流总监)**=12 人谱!**;**ventas@infortisa.com CSV 既有台口活**;**谱位=西全国 IT 批发大盘 37 年老谱(Mediterranea Computer Trading SL 2012 吸收谱史)**。
+- 【推断】R67/TUB 推土机深挖 批6 B 类金谱大户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-(待谱面二补)
+IT 批发(8 品类)+iggual 自牌+InfortisaLABS 服务;PoE 24 口网络/电信分销载线
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -63,7 +70,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- INFORTISA SL(西班牙 Alfara del Patriarca(Valencia),Calle del Pozo 1, 46115;NIF **B46466421**;1989-06-07 注册(1986 起谱,40 年);**84 员工(2025);西班牙全国 3000 强/Valencia 150 强/CNAE 4650 全国 50 强**;$14.2M;谱型=西班牙 ICT 分销一线(8,000+ 活跃品/140+ 品牌/进口出口双谱;自有牌 **iggual**;InfortisaLABS 服务臂:电商技术支持/ERP/数字化/定制 Web);infortisa.com;ventas@infortisa.com / 961 309 006
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -103,52 +110,52 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 具名 kp 引路口
+### 第 1 次跟进 · Grau J. 商业+出口 P0
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
-- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
-- **随附/动作**：规格页
+- **切入点**：Director/Responsable Comercial+Exportación(商业+出口)直口 → 24 口 PoE(电信/网络/存储分销 EXW 载线)Importa 对口
+- **要问的问题**：贵司网络/通信分销线的 PoE 交换机集购由哪位同事主责?Importa 谱口是否匹配?
+- **随附/动作**：einforma/empresia 5 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · Juan G. 采购 P0
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：价值层 PoE 谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：Director/Responsable de Compras(采购 P0);iggual 自牌谱位注;Pastor DG Apoderado 谱钩
+- **要问的问题**：贵司 自有品牌/分销谱的 EXW 交换机集购口是哪位主责?
+- **随附/动作**：einforma 谱
 
-### 第 3 次跟进 · 留档+LinkedIn 谱
+### 第 3 次跟进 · Martínez Torres Adm. Único 新谱
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：谱链明智途径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：Administrador Único 2025-07 新谱;iggual 品牌送样钩;iggual 白标谱口并行
+- **要问的问题**：贵司 iggual 自有品牌线的样件送样口?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08(R66-B 波 1)**；原始记录：`batch/B类深挖_2026-10-08_R66_BKP波1.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批6.json`；价格均为 EXW 快照。
 
-- **背景深描**：INFORTISA SL(西班牙 Alfara del Patriarca(Valencia),Calle del Pozo 1, 46115;NIF **B46466421**;1989-06-07 注册(1986 起谱,40 年);**84 员工(2025);西班牙全国 3000 强/Valencia 150 强/CNAE 4650 全国 50 强**;$14.2M;谱型=西班牙 ICT 分销一线(8,000+ 活跃品/140+ 品牌/进口出口双谱;自有牌 **iggual**;InfortisaLABS 服务臂:电商技术支持/ERP/数字化/定制 Web);infortisa.com;ventas@infortisa.com / 961 309 006
-- **芯片与在用型号**：(待谱面二补)
-- **关键人KP**：**Miguel Ángel M…(Administrador Único(唯一管理人,**2025-07-04 新任命**;einforma 登记册件名截断,BORME 全名波次二),leads-only·待 opt-in(LinkedIn/谱面带核));Andrés Pastor(Director General(现任;einforma 登记册现任谱;注:finalscout 谱标 Director Financiero 异文,RocketReach 同 DG),leads-only·待 opt-in(LinkedIn/谱面带核));Juan José Contell Garcia((原)Director General/Propietario(业主;谱面 2021-2026 谱;einforma 2025 谱=非现任;**直邮 juanjo@infortisa.com(channelpartner 名录件)**),leads-only·待 opt-in(LinkedIn/谱面带核));Belén Lasheras Gracia(Departamento de Compras(采购部 KPI 天位),leads-only·待 opt-in(LinkedIn/谱面带核));Juan José Alfonso(Director Logística(物流总监),leads-only·待 opt-in(LinkedIn/谱面带核));Fernando López Bonafont(Director InfortisaLABS(服务臂总监),leads-only·待 opt-in(LinkedIn/谱面带核));Raquel Inglés(Responsable de Marketing(市场负责),leads-only·待 opt-in(LinkedIn/谱面带核));María Amparo Serres Peris(Responsable de Recursos Humanos,leads-only·待 opt-in(LinkedIn/谱面带核));Ramiro Belles Albalat(IT Project Manager,leads-only·待 opt-in(LinkedIn/谱面带核));Monica Benedicto Formenti(Product Manager,leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **关注点与资质**：西班牙一线分销+自有牌 iggual
-- **优缺点SWOT**：S 西班牙一线分销+自有牌 iggual / W 2025-07 管理人换任(谱位复验) / O Belén(Compras)+Alfonso(Logística)双 KPI 天位 / T 大牌厂商直供链竞谱
-- **Saga产品适配**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效)):西班牙 ICT 分销一线(自有牌+服务臂);管理人 2025 换任;BORME 全名波次二点名(opt-in 律)
+- **背景深描**：1989 创 37 年;Valencia(B46466421);MARIOLA PATRIMONIAL SL 联合体 2026-07 档
+- **芯片与在用型号**：IT 批发(8 品类)+iggual 自牌+InfortisaLABS 服务;PoE 24 口网络/电信分销载线
+- **关键人KP**：Pastor DG(2020-12)+Martínez Torres Adm.Único(2025-07 新)+Sapena(2025-07)+Grau J.(商业+出口 P0)+Juan G.(采购 P0)+Isabel/Mónica(PMs)+Bernat Jaume(Baleares)+Juan Alfonso(物流)+Ramiro Bellés(BI )=12 人谱
+- **关注点与资质**：Importa y Exporta=EXW 对口天然 → 24 口 PoE 分销载
+- **优缺点SWOT**：S=37 年老谱+Importa 天然·W=员工三窗+2025-07 Manager 变更钉·O=iggual 自牌谱口+InfortisaLABS ERP·T=品牌谱位, iggual 位度低
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):iggual 自有品牌=白标开发通道谱;140+ 品牌锦;37 年老谱稳;2025-07 Manager 变更谱位钉
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**Órgano de administración: Administrador Único MIGUEL ANGEL M... (04/07/2025);Director General ANDRES P...(现任);Director Financiero DAVID S...;Compras JUAN G...;Comercial/Exportación GRAU J...(einforma 登记册件)
-  > Órgano de administración: Administrador Único MIGUEL ANGEL M... (04/07/2025);Director General ANDRES P...(现任);Director Financiero DAVID S...;Compras JUAN G...;Comercial/Exportación GRAU J...(einforma 登记册件)
+- **【法体登册】**INFORTISA SL CIF B46466421;Fundada 07/06/1989;CNAE 4650 Comercio al por mayor de equipos para las tecnologías de la información;Número de Empleados 84;DUMS 4680;Importa y Exporta
+  > INFORTISA SL CIF B46466421;Fundada 07/06/1989;CNAE 4650 Comercio al por mayor de equipos para las tecnologías de la información;Número de Empleados 84;DUMS 4680;Importa y Exporta
   > 来源：https://www.einforma.com/informacion-empresa/infortisa
-- **【决策链与对接人】**CONTACTO: Juan José Contell | CEO — juanjo@infortisa.com;Raquel Inglés, Responsable de Marketing(channelpartner 官方名录 guía)
-  > CONTACTO: Juan José Contell | CEO — juanjo@infortisa.com;Raquel Inglés, Responsable de Marketing(channelpartner 官方名录 guía)
-  > 来源：https://guiacanaltic.channelpartner.es/infortisa/
-- **【团队与规模】**Juan José Contell Garcia Propietario y Director General;Juan José Alfonso Director Logística;Belén Lasheras Gracia Departamento de Compras;Andrés Pastor Director Financiero;Fernando López Bonafont Director InfortisaLABS;84 empleados (2025)
-  > Juan José Contell Garcia Propietario y Director General;Juan José Alfonso Director Logística;Belén Lasheras Gracia Departamento de Compras;Andrés Pastor Director Financiero;Fernando López Bonafont Director InfortisaLABS;84 empleados (2025)
-  > 来源：https://finalscout.com/company/infortisa
-- **【业务定位】**mayorista con más de 30 años;8.000 referencias activas;140 marcas;marca propia iggual;InfortisaLABS;NIF B46466421
-  > mayorista con más de 30 años;8.000 referencias activas;140 marcas;marca propia iggual;InfortisaLABS;NIF B46466421
+- **【公司谱】**Fundada en 1986, empresa valenciana;8.000+ clientes en toda España;140 marcas;Revenue $14.2M(zoominfo 单源);44 employees;Director General Andrés Pastor;iggual 自牌(único distribuidor con marcas propias)
+  > Fundada en 1986, empresa valenciana;8.000+ clientes en toda España;140 marcas;Revenue $14.2M(zoominfo 单源);44 employees;Director General Andrés Pastor;iggual 自牌(único distribuidor con marcas propias)
+  > 来源：https://rocketreach.co/infortisa-profile_b4453344fa6b8914
+- **【KP 矩阵】**Pastor Perez Andres Apoderado 23/12/2020;Martinez Torres Miguel Angel Administrador Único 04/07/2025(Contell Garcia Juan Jose 卸任);Sapena Martinez David Apoderado 21/07/2025;Directores funcionales: ANDRES P DG, DAVID S Finanzas, MARIAM S RRHH, GRAU J Comercial+Exportación, JUAN G Compras, JOSE MANUEL A Informática
+  > Pastor Perez Andres Apoderado 23/12/2020;Martinez Torres Miguel Angel Administrador Único 04/07/2025(Contell Garcia Juan Jose 卸任);Sapena Martinez David Apoderado 21/07/2025;Directores funcionales: ANDRES P DG, DAVID S Finanzas, MARIAM S RRHH, GRAU J Comercial+Exportación, JUAN G Compras, JOSE MANUEL A Informática
+  > 来源：https://www.empresia.es/empresa/infortisa/
+- **【产品/自牌】**Distribuidor de Computadores/Periféricos/Almacenamiento/Red/Software/Videovigilancia/Gaming/Portátiles;InfortisaLABS(ERP/e-commerce/web);iggual(ordenadores/periféricos/pantallas proyección/dispositivos POS = único distribuidor con marcas propias)
+  > Distribuidor de Computadores/Periféricos/Almacenamiento/Red/Software/Videovigilancia/Gaming/Portátiles;InfortisaLABS(ERP/e-commerce/web);iggual(ordenadores/periféricos/pantallas proyección/dispositivos POS = único distribuidor con marcas propias)
   > 来源：https://www.channelpartner.es/mayoristas/infortisa-mayorista-con-mas-de-30-anos-de-experiencia/
 
 ## 产品决策（Saga · 单一决策口径）
@@ -162,7 +169,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S 西班牙一线分销+自有牌 iggual / W 2025-07 管理人换任(谱位复验) / O Belén(Compras)+Alfonso(Logística)双 KPI 天位 / T 大牌厂商直供链竞谱
+S=37 年老谱+Importa 天然·W=员工三窗+2025-07 Manager 变更钉·O=iggual 自牌谱口+InfortisaLABS ERP·T=品牌谱位, iggual 位度低
 
 ## 触达与风险红线
 
@@ -190,8 +197,9 @@ S 西班牙一线分销+自有牌 iggual / W 2025-07 管理人换任(谱位复�
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 硬件采购线在职者(波次二)
-  - [ ] MikroTik 谱面份额
+  - [ ] MikroTik 谱位在售线(140+ 品牌)需核
+  - [ ] Grau J. 直邮推档
+  - [ ] iggual 自有品牌谱优先级低谱位注
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -203,12 +211,12 @@ S 西班牙一线分销+自有牌 iggual / W 2025-07 管理人换任(谱位复�
 **主题**：PoE switching for your line
 
 ```text
-Hola Belén,
+Dear Andrés Pastor and Grau Team,
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — EXW open for Spain / European distribution (import + export). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for networking, storage and telecom product lines. Datasheet + CE pack on request.
 
-Best regards,
-Saga Networks Export Desk
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

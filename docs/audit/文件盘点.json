@@ -1687,7 +1687,7 @@
       "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
       "sha256": "1013352d98c896e3d6b9973f2806a125a865ad0aa6a7154f284be0e92ad6e57e",
       "bytes": 57932,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 645,
       "unique_url_count": 19,
       "inspection": {},
@@ -2394,6 +2394,16 @@
       "errors": []
     },
     {
+      "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批6.json",
+      "sha256": "12d8157f66082e0a98c342408e67807d388b150448343febfd1e77d66d5d81fb",
+      "bytes": 74601,
+      "tracked_at_scan": false,
+      "units_scanned": 722,
+      "unique_url_count": 19,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "batch/KP猎捕_A_R64_第1波.json",
       "sha256": "87d95bc7ba8868fe4de41f414939e12f56fe27b760e1e081465eafbe1b1c6706",
       "bytes": 15275,
@@ -3085,10 +3095,10 @@
     },
     {
       "path": "docs/requirements/用户要求总账.md",
-      "sha256": "44c4c955c56ddf2160cd2ce1c362349d63dabf67a76b97ee3372fe0efbc6d5f6",
-      "bytes": 225410,
+      "sha256": "b264df159b9df36b1e4a35117e061d39a3205f203489e79e674d167aba57aa08",
+      "bytes": 233307,
       "tracked_at_scan": true,
-      "units_scanned": 1536,
+      "units_scanned": 1548,
       "unique_url_count": 3,
       "inspection": {},
       "errors": []
@@ -9585,11 +9595,11 @@
     },
     {
       "path": "profile/B/B-191-AT Computers a.s-捷克.md",
-      "sha256": "d7867d034775eb164d9c8309804fde5e487f4914963708e43faba164734c3892",
-      "bytes": 15658,
+      "sha256": "33336aebcce25b1491e040c3e7c8db80db7a81b0db42ee8ecc84951334a8651f",
+      "bytes": 17418,
       "tracked_at_scan": true,
-      "units_scanned": 224,
-      "unique_url_count": 8,
+      "units_scanned": 232,
+      "unique_url_count": 10,
       "inspection": {},
       "errors": []
     },
@@ -9925,11 +9935,11 @@
     },
     {
       "path": "profile/B/B-295-OEM Automatic AB-瑞典.md",
-      "sha256": "7920a228fc23a918712321a7657e08a7c534436dabc6edb1366a77dad580cbed",
-      "bytes": 13954,
+      "sha256": "1019b8ac18cd51734bc8569dd34f82f429c6bd8f1694c5ab962e47543ddc2916",
+      "bytes": 16462,
       "tracked_at_scan": true,
-      "units_scanned": 217,
-      "unique_url_count": 3,
+      "units_scanned": 224,
+      "unique_url_count": 5,
       "inspection": {},
       "errors": []
     },
@@ -10305,11 +10315,11 @@
     },
     {
       "path": "profile/B/B-456-TRUENET-葡萄牙.md",
-      "sha256": "aa03bd38cc297a325689a07385d3904ab952a0b0f3e3a94f6a91411f62511596",
-      "bytes": 14678,
+      "sha256": "0d9562a67b1ca2726a5fb932b984868de7e0dc4fe2aeafdb6bcfb986c891c544",
+      "bytes": 16031,
       "tracked_at_scan": true,
-      "units_scanned": 217,
-      "unique_url_count": 5,
+      "units_scanned": 228,
+      "unique_url_count": 8,
       "inspection": {},
       "errors": []
     },
@@ -10365,11 +10375,11 @@
     },
     {
       "path": "profile/B/B-469-Infortisa-西班牙.md",
-      "sha256": "485cb1850503994a72d75af3cc822a26438d272e5349cb382de1c2722ff391da",
-      "bytes": 18152,
+      "sha256": "a4e33221f4e8e91304d70ae831a0738d3034e8721c98213410658247e8ba8a5a",
+      "bytes": 19574,
       "tracked_at_scan": true,
-      "units_scanned": 231,
-      "unique_url_count": 7,
+      "units_scanned": 239,
+      "unique_url_count": 9,
       "inspection": {},
       "errors": []
     },
@@ -10585,11 +10595,11 @@
     },
     {
       "path": "profile/B/B-531-IVORY EGG (UK) LIMITED-英国.md",
-      "sha256": "6fb8f9631b22421603d99848b798c8961b9cfc61896f3ed11c361aae27ebf9f8",
-      "bytes": 13690,
+      "sha256": "f70640a72f462a61854ff8d5a6eca8c153d6b8d8b9a19304065606830c956c31",
+      "bytes": 16486,
       "tracked_at_scan": true,
-      "units_scanned": 220,
-      "unique_url_count": 5,
+      "units_scanned": 227,
+      "unique_url_count": 6,
       "inspection": {},
       "errors": []
     },
@@ -14255,10 +14265,10 @@
     },
     {
       "path": "scripts/make_profiles.py",
-      "sha256": "9a6a9f2f186f1989d2aa2916d2bac55e46d12f58c953f34ab575570d189309b1",
-      "bytes": 40027,
+      "sha256": "4324d873e4d0f06e1237a6a526f9365310032f424c1f1cc4423307d359e2153c",
+      "bytes": 40089,
       "tracked_at_scan": true,
-      "units_scanned": 823,
+      "units_scanned": 824,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []

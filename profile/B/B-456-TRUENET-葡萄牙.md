@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：TRUENET, LDA(葡萄牙 Porto,Rua Mosteiro 89, Leça do Balio 4465-703;**NIF 513514139**;**2015 创(11 年)**;公司资本 €50,000…
+- **是谁**：2005→2015 10 年;Porto Leça do Balio谱；D&B Found Daniela 创始 CFO 双职谱…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 无线专精 VAD 的客层 PoE 随单位；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,13 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | TRUENET, LDA(葡萄牙 Porto,Rua Mosteiro 89, Leça do Balio 4465-703;**NIF 513514139**;**2015 创(11 年)**;公司资本 €50,000;33 员工;+351 22 011 9696;comercial@truenet.pt;谱型=葡萄牙数据通信网服商(WiFi/routin | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | (待谱面二补) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 2005→2015 10 年;Porto Leça do Balio谱；D&B Found Daniela 创始 CFO 双职谱 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | IT Infra/Wi-Fi/Routing/Switching 4 粒度；PoE 24 口 IT 基础设施/网络项目载线 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】波 R67/TUB6·B-456:葡谱: **TRUENET Lda 深挖(D&B/zoominfo/crunchbase/prospeo/lusha 五源互证)**:**TRUENET Lda 于 2015 年创 = **10 年** (Leça do Balio, Porto=Rua do Mosteiro 89 4465-703);Tel +351 220119696;Website truenet.pt;**业务 = Data Communication Networks(WiFi/Routing/Switching/Unified Communication 统一通信)+Network Security 网络安全(Firewall/NAC/Intrusion Detection)+HELPDESK(技术支持/管理/运营/外包 Outsourcing)+Software Development 软件开发(Web/Online Stores/Web & Mobile Apps iOS/Android)**=**IT 基础设施+网络+网络安全+开发 4 粒度服务商**;**员工 11-50(lusha/zoominfo)/21-50(prospeo 窗)双窗注;**Founded 2015**=10 年谱**;营收 $5.3M(zoominfo 单源)/$2,908,870(prospeo 2024 估 + 员工人经济 $86k/人)双窗注;**KP 金谱:Daniela Filipa Costa e Silva**(Founder & CFO=创始+CFO 双职 P0=最高谱位;**D&B Key Principal 直证**+prospeo/Lusha 双直证=「Key Contact」)**+助理/服务梯度谱位注(未具名);**客户侧口 helpdesk 支持/管理运营/外包+技术谱位;**FB+LI 双社交谱 crumb(li/company/truenet-lda + /truenet.lda)**;**Sector=IT 咨询 likely;** Client Grid(GridState 客户谱位注);**comercial@truenet.pt CSV 既有台口活;**注:四粒度(网络基础设施/网安/客服外包/开发)=**PoE 需求=Networking/IT Infra 传感器机载线**;**葡 Porto 小谱 10 年谱=客户端谱钉**。**给我方启示:Daniela Founder 创始+CFO 双职=最高决策谱位=直谈口**。
+- 【推断】R67/TUB 推土机深挖 批6 B 类金谱大户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-(待谱面二补)
+IT Infra/Wi-Fi/Routing/Switching 4 粒度；PoE 24 口 IT 基础设施/网络项目载线
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -60,7 +67,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- TRUENET, LDA(葡萄牙 Porto,Rua Mosteiro 89, Leça do Balio 4465-703;**NIF 513514139**;**2015 创(11 年)**;公司资本 €50,000;33 员工;+351 22 011 9696;comercial@truenet.pt;谱型=葡萄牙数据通信网服商(WiFi/routing/switching/统一通信+helpdesk 管服+NAC 入侵检测+软件开发;认证技师谱 20+ 年;NOS Comunicações Empresarial 合作谱)
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -92,50 +99,53 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 具名 kp 引路口
+### 第 1 次跟进 · Daniela Founder & CFO
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
-- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
-- **随附/动作**：规格页
+- **切入点**：Founder & CFO 双职 P0=最高谱位 → 24 口 PoE(IT 基础设施/网络项目载线);10 年谱钩
+- **要问的问题**：贵司 IT 基础设施线的 PoE 交换机集购由哪位同事主责?24 口 280W 可否提供对接窗口?
+- **随附/动作**：D&B/prospeo 5 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · comercial 台口二线
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：价值层 PoE 谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：comercial@truenet.pt CSV 既有台口;4 粒度集成谱位注
+- **要问的问题**：贵司交换机线的硬集购口?
+- **随附/动作**：CSV 谱
 
-### 第 3 次跟进 · 留档+LinkedIn 谱
+### 第 3 次跟进 · 四粒度集成谱
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：谱链明智途径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：4 粒度(LI 网/网安/客服/开发);LI 公司页谱钩
+- **要问的问题**：贵司 4 粒度线的硬样送样口?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08(R66-B 波 1)**；原始记录：`batch/B类深挖_2026-10-08_R66_BKP波4.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批6.json`；价格均为 EXW 快照。
 
-- **背景深描**：TRUENET, LDA(葡萄牙 Porto,Rua Mosteiro 89, Leça do Balio 4465-703;**NIF 513514139**;**2015 创(11 年)**;公司资本 €50,000;33 员工;+351 22 011 9696;comercial@truenet.pt;谱型=葡萄牙数据通信网服商(WiFi/routing/switching/统一通信+helpdesk 管服+NAC 入侵检测+软件开发;认证技师谱 20+ 年;NOS Comunicações Empresarial 合作谱)
-- **芯片与在用型号**：(待谱面二补)
-- **关键人KP**：**Orlando Carlos Lopes da Silva(Manager(Sócio-Gerente 股东经理),leads-only·待 opt-in(LinkedIn/谱面带核));Daniela Costa e Silva(Founder and CFO(创位+财务总监;家族谱),leads-only·待 opt-in(LinkedIn/谱面带核));Antero Vasconcelos(Chief Technology Officer(技术总监),leads-only·待 opt-in(LinkedIn/谱面带核));Helder Oliveira(Consultor Técnico NOS Comunicações - Empresarial(企业线顾问),leads-only·待 opt-in(LinkedIn/谱面带核));Pedro Rocha(Network System Engineer,leads-only·待 opt-in(LinkedIn/谱面带核));Ricardo Lopes(Project Manager - Corporate Solutions @ NOS,leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **关注点与资质**：股东经理+创始 CFO 家族谱
-- **优缺点SWOT**：S 股东经理+创始 CFO 家族谱 / W 小实体谱 / O Vasconcelos CTO 技术谱直达 / T 大牌件链竞谱
-- **Saga产品适配**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效)):葡萄牙 Porto 数据通信网服商(NOS 合作谱);Orlando 股东经理+Daniela 创始 CFO(opt-in 律)
+- **背景深描**：2005→2015 10 年;Porto Leça do Balio谱；D&B Found Daniela 创始 CFO 双职谱
+- **芯片与在用型号**：IT Infra/Wi-Fi/Routing/Switching 4 粒度；PoE 24 口 IT 基础设施/网络项目载线
+- **关键人KP**：Daniela Filipa Costa e Silva Founder & CFO 双职 P0=最高谱位；4 粒度二线
+- **关注点与资质**：IT 基础设施线 → 24 口 PoE 载（4 粒度谱钩）
+- **优缺点SWOT**：S=10 年谱+4 粒度集成+Founder CFO 双职谱·W=11-50/21-50 双窗注（谱门窄）·O=Daniela 创始+CFO 双职=最高谱位·T=谱门窄注
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):葡 Porto 小 10 年谱；LI/FB 双社交谱；4 粒度集成谱位注
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**Executives: Orlando Carlos Lopes da Silva — Manager (Sócio-Gerente);N. FISCAL 513514139;Rua Mosteiro, 89, 4465-703 LEÇA DO BALIO;Corporate capital 50,000 EUR;established 2015(Kompass 件)
-  > Executives: Orlando Carlos Lopes da Silva — Manager (Sócio-Gerente);N. FISCAL 513514139;Rua Mosteiro, 89, 4465-703 LEÇA DO BALIO;Corporate capital 50,000 EUR;established 2015(Kompass 件)
-  > 来源：https://gb.kompass.com/c/truenet-lda/pt150369/
-- **【团队与规模】**Antero Vasconcelos CTO;Daniela Costa e Silva Founder and CFO;Orlando Silva Gerente;Helder Oliveira Consultor NOS;Sara Ferreira PM;Nuno Caldeira;Manuel Mendes;Ricardo Lopes PM NOS;Pedro Rocha Network System Engineer;33 employees(RR 谱)
-  > Antero Vasconcelos CTO;Daniela Costa e Silva Founder and CFO;Orlando Silva Gerente;Helder Oliveira Consultor NOS;Sara Ferreira PM;Nuno Caldeira;Manuel Mendes;Ricardo Lopes PM NOS;Pedro Rocha Network System Engineer;33 employees(RR 谱)
-  > 来源：https://rocketreach.co/truenet-lda-management_b44becedfcf1cc86
-- **【业务定位】**DATA COMMUNICATION NETWORKS (WIFI, Routing, Switching, Unified Communication);HELPDESK;NETWORK SECURITY (Firewall, NAC, Intrusion Detection);SOFTWARE DEVELOPMENT;certified technicians 20+ years
-  > DATA COMMUNICATION NETWORKS (WIFI, Routing, Switching, Unified Communication);HELPDESK;NETWORK SECURITY (Firewall, NAC, Intrusion Detection);SOFTWARE DEVELOPMENT;certified technicians 20+ years
+- **【法体登谱】**TRUENET, LDA Address Rua do Mosteiro 89 4465-703 Leça do Balio, Porto, PT;Phone +351 220119696;Website truenet.pt;Key Principal: Daniela Filipa Costa e Silva(D&B 直证)
+  > TRUENET, LDA Address Rua do Mosteiro 89 4465-703 Leça do Balio, Porto, PT;Phone +351 220119696;Website truenet.pt;Key Principal: Daniela Filipa Costa e Silva(D&B 直证)
+  > 来源：https://www.dnb.com/business-directory/company-profiles.truenet_lda.f57c52abab51c3bec688763296965b5c.html
+- **【KP 创】**Daniela Costa E Silva — Founder & Cfo;Key Contact;Annual revenue $2,908,870;employee per $86,000;Founded 2015;21-50 employees
+  > Daniela Costa E Silva — Founder & Cfo;Key Contact;Annual revenue $2,908,870;employee per $86,000;Founded 2015;21-50 employees
+  > 来源：https://prospeo.io/c/truenet-lda-revenue
+- **【产品谱】**DATA COMMUNICATION NETWORKS(Wifi, Routing, Switching, Wifi, Unified Communication);HELPDESK(Technical Support,Management and Operations,Outsourcing);NETWORK SECURITY(Firewall,Network Admission Control,Intrusion Detection);SOFTWARE DEVELOPMENT
+  > DATA COMMUNICATION NETWORKS(Wifi, Routing, Switching, Wifi, Unified Communication);HELPDESK(Technical Support,Management and Operations,Outsourcing);NETWORK SECURITY(Firewall,Network Admission Control,Intrusion Detection);SOFTWARE DEVELOPMENT
   > 来源：https://www.lusha.com/business/c90320f3cb3065cd/
+- **【公司谱】**Truenet is a telecommunications company offering IT infrastructure, cybersecurity, software development, and unified communication services;Founded private;11-50;Phone +351 220119696;Location Leca Do Balio, Porto
+  > Truenet is a telecommunications company offering IT infrastructure, cybersecurity, software development, and unified communication services;Founded private;11-50;Phone +351 220119696;Location Leca Do Balio, Porto
+  > 来源：https://www.crunchbase.com/organization/truenet-72c3
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -148,7 +158,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S 股东经理+创始 CFO 家族谱 / W 小实体谱 / O Vasconcelos CTO 技术谱直达 / T 大牌件链竞谱
+S=10 年谱+4 粒度集成+Founder CFO 双职谱·W=11-50/21-50 双窗注（谱门窄）·O=Daniela 创始+CFO 双职=最高谱位·T=谱门窄注
 
 ## 触达与风险红线
 
@@ -176,8 +186,9 @@ S 股东经理+创始 CFO 家族谱 / W 小实体谱 / O Vasconcelos CTO 技术�
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 硬件采购线在职者(波次二)
-  - [ ] MikroTik 谱面份额
+  - [ ] MikroTik 谱位在售线需核
+  - [ ] Daniela 直邮推档
+  - [ ] LI/FB 谱位注
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -189,12 +200,12 @@ S 股东经理+创始 CFO 家族谱 / W 小实体谱 / O Vasconcelos CTO 技术�
 **主题**：PoE switching for your line
 
 ```text
-Boa tarde Orlando,
+Dear Daniela Costa e Silva Team,
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — EXW open, ready for Portugal / European service lines. Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for IT infrastructure and network deployment lines. Datasheet + CE pack on request.
 
-Best regards,
-Saga Networks Export Desk
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

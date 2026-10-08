@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 30·B-295:瑞典谱: **守档准由·原 R65/R57 谱基增厚**:OEM Automatic AB(Tranås;Orgnr 556187-1012):**欧洲领先工业自动化零组件分销集团,40+ 年**—…
+- **是谁**：1974 创 50 年(2024 50 周年专访);Tranås;OEM International 集团子司；商号 Kübler Svenska…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — 北欧工业巨头工业通信板块的 value DIN 轨位,或 Produktförädling 自有谱 OEM 代工位(CSV 已指明,双案并呈)；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 30·B-295:瑞典谱: **守档准由·原 R65/R57 谱基增厚**:OEM Automatic AB(Tranås;Orgnr 556187-1012):**欧洲领先工业自动化零组件分销集团,40+ 年**——六大产品域(机柜件/电缆/机器/传感安全/压力流量/机器视觉);Höganloft 物流中心 3 万 SKU 常备、30 万订单行/年;集 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 1974 创 50 年(2024 50 周年专访);Tranås;OEM International 集团子司；商号 Kübler Svenska | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | 自动化元件批发；6 业务区；PoE 24 口自动化/电缆线配位载 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 30·B-295:瑞典谱: **守档准由·原 R65/R57 谱基增厚**:OEM Automatic AB(Tranås;Orgnr 556187-1012):**欧洲领先工业自动化零组件分销集团,40+ 年**——六大产品域(机柜件/电缆/机器/传感安全/压力流量/机器视觉);Höganloft 物流中心 3 万 SKU 常备、30 万订单行/年;集团姐妹=OEM Motor/Telfa/Batteripoolen(SE/NO/DK 同仓);品牌含 Advantech/Harting/Legrand/igus/Lovato/Partex;『Industriell kommunikation』板块(N-Tron/Red Lion 出处);**官网导航自有 Produktförädling(产品开发)线=CSV 所指『自有品牌→OEM 最优先』**;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第9波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 30 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】波 R67/TUB6·B-295:瑞谱: **OEM Automatic AB 深挖(allabolag/mynewsdesk/D&B/automation.se 五源互证)**:**Org.nr 556187-1012,1974-01-01 创(50 年——2024 50 周年庆探讨!);Tranås Dalagatan 4(Jönköping);Tel 075-242 41 00;**OEM International Aktiebolag 集团子司**;SNI 46502 电子元件批发(电子和通信设备);商号 Kübler Svenska(校准仪直接贸易谱);商号直证:「För den del av verksamheten som avser importera och sälja styr- och reglertekniska komponenter」=**进口+销售控制调节元件**—(Importa y venta)*;190 员工(allabolag)/100-999(D&B 窗)/200(50 周年采访谱)=三窗注;**50 周年采访(2024-10-21)官方档:200 员工+6 业务区+150 制造商+5,500 购买者客户+营收 1,100,000 SEK=1,100 MSEK=**11 亿瑞典克朗=**;KP 金谱:Jens Kjell Patrik Kjellsson**(Verkställande Direktör/CEO f1968=57 岁;D&B Key Principal;50 周年专访被访者)+**Henrik Gunnar Forsberg Schoultz**(Ordförande 主席 f1985 新谱)+**集团 25+ 产品线明白人选 25 人谱**(my news desk 直证):**Patrik Bengtsson**(Produktansvarig Kabel=**电缆产品线经理**,P0)+**Mathias Thorberg**(Säljledare Elskåpskomponenter=电气柜元件销售主管)+**Linus Öberg**(Produktansvarig Elskåpskomponenter)+**Elof Jönsson**(Computer Vision 产品)= 25 人谱;**业务=自动化组件批(自动化设备/过程技术/电力电子/电缆/电力柜元素/视觉系统/传感器/性能监测/传感器/传输/焊接/封装)+控制调节元进出口经营**;**创始双创始人 Hans Franzén+Agne Svenberg 1974 创 50 年谱=创始谱钩;「Engagemang, Omtanke, Kompetens och Enkelhet」四价值观;**给我方启示:Group 集团谱谱口带 .se/.pl 两域名(std DOMAIN oemautomatic.pl 谱口疑:波兰分支,oemautomatic.se=瑞瑞典——**集团跨波兰分支谱位注**);**Kabel 电缆+电气柜元素产品两线=我方 ODM 直对口(Jens Kjellsson VD+Patrik Bengtsson Kabel 产品线销售)**。**50 年=集团 1100MSEK 营收=谱门窄但谱位稳注。**
+- 【推断】R67/TUB 推土机深挖 批6 B 类金谱大户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
+自动化元件批发；6 业务区；PoE 24 口自动化/电缆线配位载
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -95,47 +95,53 @@ STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · Bengtsson Kabel 产品线 P0
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：守档铺位 → 价锚卡
-- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
-- **随附/动作**：规格页
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
+- **切入点**：Produktansvarig Kabel 销售经理直通 → 24 口 PoE(自动化元件/电缆线布线集成载线;Kübler 商号谱钩;Kabel 产品线谱位
+- **要问的问题**：贵司自动化元件线的 PoE 交换机集购由哪位同事主责?24 口 280W 可否提供对接窗口?
+- **随附/动作**：allabolag/mynewsdesk 5 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · Kjellsson VD 门
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：VD(f1968=57 岁)+50 周年谱钩;集团 OEM International 链
+- **要问的问题**：贵司自动化元件线的硬集购口?
+- **随附/动作**：allabolag 谱
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · Thorberg 电气柜销售
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：Säljledare Elskåpskomponenter=销售主管;电气柜元件谱钩;波兰分支谱位注
+- **要问的问题**：贵司电气柜元素线的硬样送样口?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批6.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 30·B-295:瑞典谱: **守档准由·原 R65/R57 谱基增厚**:OEM Automatic AB(Tranås;Orgnr 556187-1012):**欧洲领先工业自动化零组件分销集团,40+ 年**——六大产品域(机柜件/电缆/机器/传感安全/压力流量/机器视觉);Höganloft 物流中心 3 万 SKU 常备、30 万订单行/年;集团姐妹=OEM Motor/Telfa/Batteripoolen(SE/NO/DK 同仓);品牌含 Advantech/Harting/Legrand/igus/Lovato/Partex;『Industriell kommunikation』板块(N-Tron/Red Lion 出处);**官网导航自有 Produktförädling(产品开发)线=CSV 所指『自有品牌→OEM 最优先』**;R66 第 30 波谱:我司 STI-288GP(industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)($74.8 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第9波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
-- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
-- **关注点与资质**：瑞典 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
-- **Saga产品适配**：STI-288GP vs PLANET/当批价差窗
+- **背景深描**：1974 创 50 年(2024 50 周年专访);Tranås;OEM International 集团子司；商号 Kübler Svenska
+- **芯片与在用型号**：自动化元件批发；6 业务区；PoE 24 口自动化/电缆线配位载
+- **关键人KP**：Kjellsson VD 57+Schoultz 主 40(2025)+Bengtsson Kabel 产品线经理+Thorberg/Öberg/Nislson(Jol 25 人管理谱)
+- **关注点与资质**：自动化元件线布线 → 24 口 PoE 载（Kübler 商号谱钩）
+- **优缺点SWOT**：S=50 年谱+集团 1100MSEK 营收·W=员工三窗+集团跨分支谱位钉·O=Kübler 商号+进口销售商号直证·T=波兰分支谱口双域注
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):150 制造商 5500 客户谱；进口销售控制调节元件；波兰分支谱位注
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**OEM Automatic AB(Tranås;Orgnr 556187-1012):**欧洲领先工业自动化零组件分销集团,40+ 年**——六大产品域(机柜件/电缆/机器/传感安全/压力流量/机器视觉);Höganloft 物流中心 3 万 SKU 常备、30 万订单行/年;集团姐妹=OEM Motor/Telfa/
-  > OEM Automatic AB(Tranås;Orgnr 556187-1012):**欧洲领先工业自动化零组件分销集团,40+ 年**——六大产品域(机柜件/电缆/机器/传感安全/压力流量/机器视觉);Höganloft 物流中心 3 万 SKU 常备、30 万订单行/年;集团姐妹=OEM Motor/Telfa/
-  > 来源：https://oemautomatic.se/
-- **【联系方式与基础画像】**CSV 入口:官网联系页（HMS 名录只公开地址与网址）
-  > CSV 入口:官网联系页（HMS 名录只公开地址与网址）
-  > 来源：https://oemautomatic.se/
+- **【法体登册】**OEM Automatic Aktiebolag Org.nr 556187-1012;Registreringsdatum 1974-01-01;Aktiebolag;SNI 46502 Partihandel med elektronikkomponenter;VD: Jens Kjell Patrik Kjellsson(f 1968);Ordförande:Henrik Gunnar Forsberg Schoultz(f 1985);Tranås Dalagatan 4
+  > OEM Automatic Aktiebolag Org.nr 556187-1012;Registreringsdatum 1974-01-01;Aktiebolag;SNI 46502 Partihandel med elektronikkomponenter;VD: Jens Kjell Patrik Kjellsson(f 1968);Ordförande:Henrik Gunnar Forsberg Schoultz(f 1985);Tranås Dalagatan 4
+  > 来源：https://allabolag.se/foretag/oem-automatic-aktiebolag/tran%C3%A5s/elektronik-och-telekommunikationsutrustning/2JZE750I63IFR
+- **【50 周年谱】**50 år jubileum;200 anställa dan más tarde + 6 affärsområden + 150 tillverkare + 5 500 köpande kunder + omsättning 1 100 MSEK;VD intervju Jens Kjellsson;Grundarna Hans Franzén och Agne Svenberg startade OEM Automatic AB år 1974
+  > 50 år jubileum;200 anställa dan más tarde + 6 affärsområden + 150 tillverkare + 5 500 köpande kunder + omsättning 1 100 MSEK;VD intervju Jens Kjellsson;Grundarna Hans Franzén och Agne Svenberg startade OEM Automatic AB år 1974
+  > 来源：https://automation.se/oem-automatic-firar-50-ar-intervju-med-vd/
+- **【KP|产品谱】**Jens Kjellsson VD;Patrik Bengtsson Produktansvarig Kabel patrik.bengtsson@oemautomatic.se;Mathias Thorberg Säljledare Elskåpskomponenter;Linus Öberg Produktansvarig Elskåpskomponenter;Elof Jönsson Computer Vision(076-527 86 64)
+  > Jens Kjellsson VD;Patrik Bengtsson Produktansvarig Kabel patrik.bengtsson@oemautomatic.se;Mathias Thorberg Säljledare Elskåpskomponenter;Linus Öberg Produktansvarig Elskåpskomponenter;Elof Jönsson Computer Vision(076-527 86 64)
+  > 来源：https://www.mynewsdesk.com/se/oemautomatic/contact_people
+- **【集团/商号】**OEM Automatic AB deltar i en koncern med OEM International Aktiebolag som moderbolag;Särskilda företagsnamn Kübler Svenska;Adress Dalagatan 4 573 42 Tranås;Employees 100-999(D&B)
+  > OEM Automatic AB deltar i en koncern med OEM International Aktiebolag som moderbolag;Särskilda företagsnamn Kübler Svenska;Adress Dalagatan 4 573 42 Tranås;Employees 100-999(D&B)
+  > 来源：https://www.dnb.com/business-directory/company-profiles/oem-automatic-ab.8d06cd6e3107aa465b469ed612ad83bb
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -148,7 +154,7 @@ STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节奏
+S=50 年谱+集团 1100MSEK 营收·W=员工三窗+集团跨分支谱位钉·O=Kübler 商号+进口销售商号直证·T=波兰分支谱口双域注
 
 ## 触达与风险红线
 
@@ -176,8 +182,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节�
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] MikroTik 谱位在售线需核
+  - [ ] Bengtsson 直邮推档
+  - [ ] oemautomatic.se/.pl 双域团体分辨注
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -189,9 +196,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STI-288GP 价差窗;T=谱链节�
 **主题**：PoE switching for your line
 
 ```text
-Dear OEM Automatic AB Team,
+Dear Jens Kjellsson and Patrik Bengtsson Team,
 
-We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — EXW open, ready for industrial automation distribution. Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for automation and cable component lines. Datasheet + CE pack on request.
 
 Best regards
 Saga / SmartByte ODM
