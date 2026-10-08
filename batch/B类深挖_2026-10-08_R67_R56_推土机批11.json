@@ -1,0 +1,1505 @@
+{
+ "records": [
+  {
+   "customer": "B-313",
+   "code": "B-313",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批11·B-313:罗谱: **DIPOL CONNECT SRL 深挖(dipolnet.ro/termene/targetare/confidas 四源互证)**:**CUI 26051890;J40/9512/2009;EUID ROONRC.J2009009512406;2009-10-01 创 17 年;capital=200 Lei(谱堂小注);官网双址谱=sediu social **Str. Fabrica de Gheaţă nr. 8 Sector 2 Bucureşti 022503**(dipolnet.ro 档)+termene 新档 **Str. Saltului Nr. 19 Sector 2(Garaj 18mp 登档)**+**punct de lucru Bd. Ghica Tei nr. 81**;Str. Saltului, Nr.19 登档活跃(targetare 2026-07-12 档);CAEN 4650(电脑电子批发)/4652(电子电信件)**;**财税金谱:**2021 营收=4,811,706 RON/利润 801,802 RON(marjă 16.66%)/6 员;**2025 营收=**8,185,582 RON**/利润 301,178 RON(净降谱=利润薄谱注)****;**谱口自白档:**「APROVIZIONĂM PROFESIONIȘTII=我们供专业人士」+**「Suntem distribuitor european de echipamente CCTV, WLAN, TV-SAT şi producători de antene de telecomumicaţii, de televiziune şi radio=我们是欧洲 CCTV/WLAN/TV-SAT 分销+天线生产谱」+**2000+ SKU+技术支持谱****;office@/shop@dipolnet.ro;031.428.10.05(Facebook/Youtube 档);**KP=termene 档「1 asociat unic+1 administrator」=独主双职谱;targetare 档 administrator=Nicolau Corin?(掩码 Ni***u Co***n 谱注待核)**;**谱位=罗布城 CCTV/WLAN 分销+天线生产谱=我方 24 口 PoE 对视频/无线/WLAN 部署谱口直接对口金矿=批 11 罗谱金矿**;排噪:PUNCT DE LUCRU 分实体(CUI 53513066)=分址谱注。",
+   "inference": "R67/TUB 推土机深挖 批11 B 类档序续批十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.dipolnet.ro/dipol_connect_srl_m120.htm",
+   "tech": "欧洲 CCTV/WLAN/TV-SAT 电子件分销+天线生产(2000+ SKU);独主双职谱",
+   "hr": "17 年;6 员(2021);2025 营收 8.18M RON;Bucureşti 双址+分址",
+   "contact_found": "**谱注=独主双职(1 asociat unic+1 administrator;targetare 档执路人名掩码待核)+0314281005 台口**",
+   "contact_pending": "具名直邮 shop@/office@dipolnet.ro 已钉;031.428.10.05 台口 CSV 谱口",
+   "dims": {
+    "业务定位": "Dipol Connect SRL(Bucureşti,2009 创 17 年,CCTV/WLAN/TV-SAT 分销+天线生产)",
+    "产品线与在售品牌": "欧洲 CCTV/WLAN/TV-SAT 件分销+电信/电视/广播天线生产;2000+ SKU+技术支持",
+    "目标行业与场景": "罗布城 CCTV/WLAN 安装商;专业市集(PROFESIONIȘTII)",
+    "团队与规模": "6 员(2021);17 年;200 Lei 资本谱注",
+    "决策链与对接人": "独主双职谱(1 asociat+1 administrator)",
+    "技术与认证": "CAEN 4650/4652;Fără datorii ANAF 无债务谱",
+    "采购与供应链信号": "**CCTV/WLAN 件分销=24 口 PoE 对视频/无线部署直接对口金矿+天线生产谱**",
+    "近期动态与线索": "2025 利润降至 301k RON=利薄谱注(价格谱敏);8.18M RON 营收",
+    "与我方契合点": "独主直口 → 24 口 PoE(CCTV/WLAN 部署)",
+    "风险与注意": "**200 Lei 资堂小档注;2025 利润降谱注;独主敏感谱**"
+   },
+   "evidence": [
+    {
+     "dim": "谱档",
+     "quote": "DIPOL CONNECT SRL;CUI: RO 26051890;Înregistrare: J40/9512/2009;Capital social: 200 Lei;Sediu social: Str. Fabrica de Gheaţă nr. 8 Sector 2, Bucureşti;D Statment: Suntem distribuitor european de echipamente CCTV, WLAN, TV-SAT şi producători de antene de telecomumicaţii;2000+ articles;Punct de lucru: Bd. Ghica Tei nr. 81;shop@dipolnet.ro",
+     "source": "https://www.dipolnet.ro/dipol_connect_srl_m120.htm"
+    },
+    {
+     "dim": "CCV 档",
+     "quote": "DIPOL CONNECT SRL CUI 26051890;An înființare 2009(17 ani);Status: Funcţiune;J2009009512406;Plătitoare TVA;Fără datorii ANAF;CAEN 4650;Data înființării: 01 octombrie 2009;Sediu social: Strada Saltului, Nr. 19, București;1 asociat și 1 administrator",
+     "source": "https://termene.ro/firma/26051890-DIPOL-CONNECT-SRL"
+    },
+    {
+     "dim": "财务档",
+     "quote": "DIPOL CONNECT SRL;cifră de afaceri 2025=8.185.582 RON;profit 2025=301.178 RON;2021=4.811.706 RON/801.802 RON(16.66%);Risc de insolvență scăzut;Adresa: Str Saltului, Nr.19, Garaj In Suprafata De 18mp;Administrator: Ni***u Co***n(掩码待核)",
+     "source": "https://targetare.ro/26051890/dipol-connect-srl"
+    },
+    {
+     "dim": "谱档",
+     "quote": "DIPOL CONNECT SRL;C.U.I. 26051890;Nr. Înreg J40/9512/2009;Bucureşti Sectorul 2, Str FABRICA DE GHEAŢĂ Nr 8;Obiect principal CAEN 4652;2021 angaja 6 persoane",
+     "source": "https://www.confidas.ro/profil/26051890/dipol-connect-srl"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · 独主直口(CCTV/WLAN 分销谱)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "CCTV/WLAN 正对口 → 24 口 PoE(视频部署)",
+     "question": "贵司 CCTV/WLAN 部署线的 24 口 PoE 谱件由哪位同事主责?",
+     "proof": "dipolnet/termene 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · 天线生产谱客户谱",
+     "push": "STI-288GPM/424",
+     "angle": "天线生产谱谱谱位",
+     "question": "天线生产线的交换机享用谱?",
+     "proof": "dipolnet 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · TV-SAT/WLAN 谱口",
+     "push": "STC-28DGGPM",
+     "angle": "TV-SAT+WLAN 谱口",
+     "question": "TV-SAT/WLAN 谱口的 PoE 谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2009 创 17 年;Bucureşti 双址;200 Lei 资堂注;CCTV/WLAN/TV-SAT 分销+天线生产",
+     "②芯片/型号": "CCTV/WLAN/TV-SAT 件+天线生产;2000+ SKU",
+     "③KP 深挖": "独主双职谱(1 asociat+1 administrator;名待核——targetare 档掩码 Ni***u Co***n 谱注)",
+     "④Saga 对标": "CCTV/WLAN 件 → 24 口 PoE(视频/无线部署件)",
+     "⑤在乎与偏好": "罗语谱;独主决策快;CCTV/WLAN 正对口",
+     "⑥SWOT": "S=CCTV/WLAN 直接对口谱+独主决策快+17 年谱+2000+ SKU/W=200 Lei 资堂小档注;2025 净利降至 301k RON;独主敏感/O=WIFI/WLAN/CCTV 部署=PoE 正行谱口/T=价格谱敏注(2025 利薄)=平价盛 $165 上谱"
+    },
+    "care": "- **S**:CCTV/WLAN 直接对口谱+独主决策快+17 年谱+2000+ SKU\n- **W**:200 Lei 资堂小档注;2025 净利降至 301k RON;独主敏感\n- **O**:WIFI/WLAN/CCTV 部署=PoE 正行谱口\n- **T**:价格谱敏注(2025 利薄)=平价盛 $165 上谱",
+    "swot": {
+     "S": "CCTV/WLAN 直接对口谱+独主决策快+17 年谱+2000+ SKU",
+     "W": "200 Lei 资堂小档注;2025 净利降至 301k RON;独主敏感",
+     "O": "WIFI/WLAN/CCTV 部署=PoE 正行谱口",
+     "T": "价格谱敏注(2025 利薄)=平价盛 $165 上谱"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批11 B 类档序续批十户",
+    "gap_proof": "https://www.dipolnet.ro/dipol_connect_srl_m120.htm"
+   },
+   "unknowns": [
+    "独主名 Ni***u Co***n 掩码待核注",
+    "200 Lei 资堂=小谱注(弹股谱谱注)",
+    "PUNCT DE LUCRU 分址 CUI 53513066 谱注"
+   ],
+   "unknowns56": [
+    "独主名 Ni***u Co***n 掩码待核注",
+    "200 Lei 资堂=小谱注(弹股谱谱注)",
+    "PUNCT DE LUCRU 分址 CUI 53513066 谱注"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批11 B 类",
+   "email": "Dear Sir or Madam,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — made for CCTV and WLAN deployments with direct $165 USD EXW reference (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**谱注=独主双职(名待核;targetare 档掩码谱)+shop@/office@dipolnet.ro+031.428.10.05**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "2009 创 17 年;Bucureşti 双址;200 Lei 资堂注;CCTV/WLAN/TV-SAT 分销+天线生产",
+    "芯片与在用型号": "CCTV/WLAN/TV-SAT 件+天线生产;2000+ SKU",
+    "关键人KP": "独主双职谱(1 asociat+1 administrator;名待核——targetare 档掩码 Ni***u Co***n 谱注)",
+    "关注点与资质": "CCTV/WLAN 件 → 24 口 PoE(视频/无线部署件)",
+    "优缺点SWOT": "S=CCTV/WLAN 直接对口谱+独主决策快+17 年谱+2000+ SKU·W=200 Lei 资堂小档注;2025 净利降至 301k RON;独主敏感·O=WIFI/WLAN/CCTV 部署=PoE 正行谱口·T=价格谱敏注(2025 利薄)=平价盛 $165 上谱",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):罗语谱;独主决策快;CCTV/WLAN 正对口"
+   },
+   "swot_text": "- **S**:CCTV/WLAN 直接对口谱+独主决策快+17 年谱+2000+ SKU\n- **W**:200 Lei 资堂小档注;2025 净利降至 301k RON;独主敏感\n- **O**:WIFI/WLAN/CCTV 部署=PoE 正行谱口\n- **T**:价格谱敏注(2025 利薄)=平价盛 $165 上谱",
+   "facts": [
+    {
+     "dim": "谱档",
+     "text": "DIPOL CONNECT SRL;CUI: RO 26051890;Înregistrare: J40/9512/2009;Capital social: 200 Lei;Sediu social: Str. Fabrica de Gheaţă nr. 8 Sector 2, Bucureşti;D Statment: Suntem distribuitor european de echipamente CCTV, WLAN, TV-SAT şi producători de antene de telecomumicaţii;2000+ articles;Punct de lucru: Bd. Ghica Tei nr. 81;shop@dipolnet.ro",
+     "quote": "DIPOL CONNECT SRL;CUI: RO 26051890;Înregistrare: J40/9512/2009;Capital social: 200 Lei;Sediu social: Str. Fabrica de Gheaţă nr. 8 Sector 2, Bucureşti;D Statment: Suntem distribuitor european de echipamente CCTV, WLAN, TV-SAT şi producători de antene de telecomumicaţii;2000+ articles;Punct de lucru: Bd. Ghica Tei nr. 81;shop@dipolnet.ro",
+     "url": "https://www.dipolnet.ro/dipol_connect_srl_m120.htm"
+    },
+    {
+     "dim": "CCV 档",
+     "text": "DIPOL CONNECT SRL CUI 26051890;An înființare 2009(17 ani);Status: Funcţiune;J2009009512406;Plătitoare TVA;Fără datorii ANAF;CAEN 4650;Data înființării: 01 octombrie 2009;Sediu social: Strada Saltului, Nr. 19, București;1 asociat și 1 administrator",
+     "quote": "DIPOL CONNECT SRL CUI 26051890;An înființare 2009(17 ani);Status: Funcţiune;J2009009512406;Plătitoare TVA;Fără datorii ANAF;CAEN 4650;Data înființării: 01 octombrie 2009;Sediu social: Strada Saltului, Nr. 19, București;1 asociat și 1 administrator",
+     "url": "https://termene.ro/firma/26051890-DIPOL-CONNECT-SRL"
+    },
+    {
+     "dim": "财务档",
+     "text": "DIPOL CONNECT SRL;cifră de afaceri 2025=8.185.582 RON;profit 2025=301.178 RON;2021=4.811.706 RON/801.802 RON(16.66%);Risc de insolvență scăzut;Adresa: Str Saltului, Nr.19, Garaj In Suprafata De 18mp;Administrator: Ni***u Co***n(掩码待核)",
+     "quote": "DIPOL CONNECT SRL;cifră de afaceri 2025=8.185.582 RON;profit 2025=301.178 RON;2021=4.811.706 RON/801.802 RON(16.66%);Risc de insolvență scăzut;Adresa: Str Saltului, Nr.19, Garaj In Suprafata De 18mp;Administrator: Ni***u Co***n(掩码待核)",
+     "url": "https://targetare.ro/26051890/dipol-connect-srl"
+    },
+    {
+     "dim": "谱档",
+     "text": "DIPOL CONNECT SRL;C.U.I. 26051890;Nr. Înreg J40/9512/2009;Bucureşti Sectorul 2, Str FABRICA DE GHEAŢĂ Nr 8;Obiect principal CAEN 4652;2021 angaja 6 persoane",
+     "quote": "DIPOL CONNECT SRL;C.U.I. 26051890;Nr. Înreg J40/9512/2009;Bucureşti Sectorul 2, Str FABRICA DE GHEAŢĂ Nr 8;Obiect principal CAEN 4652;2021 angaja 6 persoane",
+     "url": "https://www.confidas.ro/profil/26051890/dipol-connect-srl"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批11·B-313:罗谱: **DIPOL CONNECT SRL 深挖(dipolnet.ro/termene/targetare/confidas 四源互证)**:**CUI 26051890;J40/9512/2009;EUID ROONRC.J2009009512406;2009-10-01 创 17 年;capital=200 Lei(谱堂小注);官网双址谱=sediu social **Str. Fabrica de Gheaţă nr. 8 Sector 2 Bucureşti 022503**(dipolnet.ro 档)+termene 新档 **Str. Saltului Nr. 19 Sector 2(Garaj 18mp 登档)**+**punct de lucru Bd. Ghica Tei nr. 81**;Str. Saltului, Nr.19 登档活跃(targetare 2026-07-12 档);CAEN 4650(电脑电子批发)/4652(电子电信件)**;**财税金谱:**2021 营收=4,811,706 RON/利润 801,802 RON(marjă 16.66%)/6 员;**2025 营收=**8,185,582 RON**/利润 301,178 RON(净降谱=利润薄谱注)****;**谱口自白档:**「APROVIZIONĂM PROFESIONIȘTII=我们供专业人士」+**「Suntem distribuitor european de echipamente CCTV, WLAN, TV-SAT şi producători de antene de telecomumicaţii, de televiziune şi radio=我们是欧洲 CCTV/WLAN/TV-SAT 分销+天线生产谱」+**2000+ SKU+技术支持谱****;office@/shop@dipolnet.ro;031.428.10.05(Facebook/Youtube 档);**KP=termene 档「1 asociat unic+1 administrator」=独主双职谱;targetare 档 administrator=Nicolau Corin?(掩码 Ni***u Co***n 谱注待核)**;**谱位=罗布城 CCTV/WLAN 分销+天线生产谱=我方 24 口 PoE 对视频/无线/WLAN 部署谱口直接对口金矿=批 11 罗谱金矿**;排噪:PUNCT DE LUCRU 分实体(CUI 53513066)=分址谱注。",
+    "inference": "R67/TUB 推土机深挖 批11 B 类档序续批十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-106",
+   "code": "B-106",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批11·B-106:塞谱: **MS ELECTRONICS LTD 深挖(cyprusregistry/rocketreach/D&B/cybo/ergodotisi 五源互证)**:**HE 241052(塞 PTR 档);2008-11-03 注册(HE 谱；rocketreach 谱档「Founded 1996=30 年」=司实体注册/司经营创双窗)****;**谱口(KYPROS 库谱安威):**Leading broadline distribution company in Cyprus since 1996=塞浦路斯头号 wholesale(航仪)分销社;**60+ world-class brands+6,000+ products+800+ trusted partners**(含零售店+行业专业客户);Consumer Electronics/IT/**Networking**/**Security**/Smart Home/Home/Professional Audio 大谱谱口**;注册办=**Kolonakiou 7,4103 Λεμεσός(Limassol;D&B 档 Agios Athanasios 双窗)+谱窗老址 7 Spyrou Kyprianou Ex Kolonakiou Linopetra 谱**;+357 25 580611;Fax +357 25 583742;www.mstronics.com;7-11 员(rocketreach 11 vs D&B 7 双窗);$1.31M-$4M 双窗注**;**KP 金谱:**Managing Director=**Panicos Michael**(ΠΑΝΙΚΟΣ ΜΙΧΑΗΛ;rocketreach 谱；D&B 档 Director+Secretary 双职 P0)+**Stavros Stavrou**(ΣΤΑΥΡΟΣ ΣΤΑΥΡΟΥ;Director PTR 档)+**Theodoros Theodorou**(Product Manager+**Michalis Pavlou**(Sales Director)+**Charalampos Oupli**(**Security Product Manager**)+**Marios Neokleous**(Accountant)=6+ 人谱**;RMA Director 招聘 2025-08 谱(€2,600-3,200/月)=活谱窗**;**谱位=塞浦路斯 30 年头号电子/网络/安防 wholesale 分销=我方 24 口 PoE 对 800 合作零售/行业客户网+Security Product Manager 直口=批 11 塞谱金矿**;排噪:同名多司(Lazaros Lazarou Entertainment 非本司谱注)。",
+   "inference": "R67/TUB 推土机深挖 批11 B 类档序续批十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.dnb.com/business-directory/company-profiles.ms_electronics_ltd.4407b2aed368125deae6826b52805731.html",
+   "tech": "头号 broadline 分销(60+ 品牌/6,000+ SKU/800+ 合作);Security Product Manager 谱口",
+   "hr": "30 年(1996 谱)/HE 2008-11-03 双窗;7-11 员双窗;$1.31M-$4M 双窗",
+   "contact_found": "**Panicos Michael(MD+Director+Secretary P0)+Stavros Stavrou(Director)+Theodoros Theodorou(Product)+Michalis Pavlou(Sales Dir)+Charalampos Oupli(Security PM)+Marios Neokleous(Accountant)**",
+   "contact_pending": "具名直邮需推 mstronics.com 域档;+357 25 580611 台口 CSV 谱口",
+   "dims": {
+    "业务定位": "MS Electronics Ltd(Limassol,1996 谱 30 年,头号 broadline 分销)",
+    "产品线与在售品牌": "Consumer/IT/Networking/Security/Smart Home/Audio 大盘铺;60+ 品牌;800+ 合作",
+    "目标行业与场景": "塞浦路斯零售店+行业专业客户;Larnaka/Nicosia 谱网",
+    "团队与规模": "7-11 员双窗;30 年谱",
+    "决策链与对接人": "Panicos Michael(MD 双职 P0)+Stavros Stavrou(Director)+Pavlou(Sales)+Oupli(Security PM)",
+    "技术与认证": "PTR 档+HE 241052;2025-08 RMA Director 招聘谱",
+    "采购与供应链信号": "**头号 wholesale 分销+800+ 合作网+Security PM 谱口=批 11 塞谱金矿**",
+    "近期动态与线索": "€2,600-3,200 RMA Director 新招聘谱窗;rocketreach 各档双窗谱",
+    "与我方契合点": "Panicos Michael MD+Oupli Security PM 双轨 → 24 口 PoE(网络/安防谱铺设)",
+    "风险与注意": "**$1.31M vs $4M 双窗注;7 vs 11 员双窗注;broadline 谱誉谱(稀土矿矿矿窗注)**"
+   },
+   "evidence": [
+    {
+     "dim": "谱档",
+     "quote": "MS ELECTRONICS LTD;HE 241052;Limited Company-Private;Registration 03/11/08;Active;Kolonakiou 7, 4103 Limassol;ΠΑΝΙΚΟΣ ΜΙΧΑΗΛ holds Director+Secretary;ΣΤΑΥΡΟΣ ΣΤΑΥΡΟΥ holds Director",
+     "source": "https://cyprusregistry.com/companies/HE/241052"
+    },
+    {
+     "dim": "谱档",
+     "quote": "MS Electronics Ltd;mstronics.com;Revenue $4 million;11 Employees;Founded 1996;7 Spyrou Kyprianou Ex Kolonakiou Linopetra, Limassol 4103;+357 25 580611;Panicos Michael=Managing Director;Theodoros Theodorou=Product Manager;Michalis Pavlou=Sales Director;Charalampos Oupli=Security Product Manager;Marios Neokleous=Accountant",
+     "source": "https://rocketreach.co/ms-electronics-ltd-profile_b4479492facba323"
+    },
+    {
+     "dim": "D&B 档",
+     "quote": "MS ELECTRONICS LTD;Agios Athanasios Cyprus;7 Kolonakiou Agios Athanasios 4103;+357-25580611;mstronics.com;7 Employees;$1.31 million revenues;Year Started 2008;Panicos Michael Director and Secretary;Stavros Stavrou Director",
+     "source": "https://www.dnb.com/business-directory/company-profiles.ms_electronics_ltd.4407b2aed368125deae6826b52805731.html"
+    },
+    {
+     "dim": "业务档",
+     "quote": "MS Electronics Ltd, based in Limassol, is the leading broadline distribution company in Cyprus since 1996;60+ world-class brands;6,000+ products;800+ trusted partners(stores+industry professionals);Consumer Electronics, IT, Networking, Security, Smart Home, Home and Professional Audio;RMA Director 招聘(€2,600-3,200;Senior-Level;Full Time)",
+     "source": "https://ergodotisi.com/en-CY/jobs/rma-director-27082500"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Panicos Michael MD 直口(30 年头号谱)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "MD 直口 → 24 口 PoE(网络/安防谱铺)",
+     "question": "MS 谱铺线的 24 口 PoE 谱件由哪位谱口口?",
+     "proof": "rocketreach/D&B 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Oupli Security PM 谱口",
+     "push": "STI-288GPM/424",
+     "angle": "Security 24 口 PoE 铺",
+     "question": "贵司 Security 谱口的 PoE 谱?",
+     "proof": "rocketreach 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Pavlou Sales Director 谱",
+     "push": "STC-28DGGPM",
+     "angle": "Sales Director 谱口",
+     "question": "800+ 合作网的 PoE 谱谱:",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1996 谱/HE 2008 双窗;Limassol;头号 broadline 分销;800+ 合作网",
+     "②芯片/型号": "Consumer/IT/Networking/Security/Smart Home;60+ 品牌/6,000+ SKU",
+     "③KP 深挖": "Panicos Michael(MD 双职)+Stavros Stavrou(Director)+Theodoros+Pavlou+Oupli(Security PM)+Neokleous=6+ 人谱",
+     "④Saga 对标": "大铺+Security PM → 24 口 PoE(网络+安防铺)",
+     "⑤在乎与偏好": "希英双语谱;800+ 合作网;30 年谱稳;上谱谱口安全铺",
+     "⑥SWOT": "S=30 年头号谱+800+ 伙伴+6,000 SKU+60 品牌=谱口大谱谱谱/W=$1.31M vs $4M 双窗注;broadline 谱誉谱注/O=网络/安防部署他箱箱箱 PoE 正行谱口/T=谱脑广谱=小件谱敏注;塞矿岛注"
+    },
+    "care": "- **S**:30 年头号谱+800+ 伙伴+6,000 SKU+60 品牌=谱口大谱谱谱\n- **W**:$1.31M vs $4M 双窗注;broadline 谱誉谱注\n- **O**:网络/安防部署他箱箱箱 PoE 正行谱口\n- **T**:谱脑广谱=小件谱敏注;塞矿岛注",
+    "swot": {
+     "S": "30 年头号谱+800+ 伙伴+6,000 SKU+60 品牌=谱口大谱谱谱",
+     "W": "$1.31M vs $4M 双窗注;broadline 谱誉谱注",
+     "O": "网络/安防部署他箱箱箱 PoE 正行谱口",
+     "T": "谱脑广谱=小件谱敏注;塞矿岛注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批11 B 类档序续批十户",
+    "gap_proof": "https://cyprusregistry.com/companies/HE/241052"
+   },
+   "unknowns": [
+    "创年 1996 vs HE 2008 双窗谱注(实体注册/经营创谱)",
+    "7 vs 11 员双窗注",
+    "$1.31M vs $4M 双窗注"
+   ],
+   "unknowns56": [
+    "创年 1996 vs HE 2008 双窗谱注(实体注册/经营创谱)",
+    "7 vs 11 员双窗注",
+    "$1.31M vs $4M 双窗注"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批11 B 类",
+   "email": "Dear Panicos,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a new-line block for your 800-partner network. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Panicos Michael(MD 双职 P0)+Charalampos Oupli(Security PM)+Michalis Pavlou(Sales Dir)+mstronics.com 域具名+357 25 580611**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "1996 谱/HE 2008 双窗;Limassol;头号 broadline 分销;800+ 合作网",
+    "芯片与在用型号": "Consumer/IT/Networking/Security/Smart Home;60+ 品牌/6,000+ SKU",
+    "关键人KP": "Panicos Michael(MD 双职)+Stavros Stavrou(Director)+Theodoros+Pavlou+Oupli(Security PM)+Neokleous=6+ 人谱",
+    "关注点与资质": "大铺+Security PM → 24 口 PoE(网络+安防铺)",
+    "优缺点SWOT": "S=30 年头号谱+800+ 伙伴+6,000 SKU+60 品牌=谱口大谱谱谱·W=$1.31M vs $4M 双窗注;broadline 谱誉谱注·O=网络/安防部署他箱箱箱 PoE 正行谱口·T=谱脑广谱=小件谱敏注;塞矿岛注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):希英双语谱;800+ 合作网;30 年谱稳;上谱谱口安全铺"
+   },
+   "swot_text": "- **S**:30 年头号谱+800+ 伙伴+6,000 SKU+60 品牌=谱口大谱谱谱\n- **W**:$1.31M vs $4M 双窗注;broadline 谱誉谱注\n- **O**:网络/安防部署他箱箱箱 PoE 正行谱口\n- **T**:谱脑广谱=小件谱敏注;塞矿岛注",
+   "facts": [
+    {
+     "dim": "谱档",
+     "text": "MS ELECTRONICS LTD;HE 241052;Limited Company-Private;Registration 03/11/08;Active;Kolonakiou 7, 4103 Limassol;ΠΑΝΙΚΟΣ ΜΙΧΑΗΛ holds Director+Secretary;ΣΤΑΥΡΟΣ ΣΤΑΥΡΟΥ holds Director",
+     "quote": "MS ELECTRONICS LTD;HE 241052;Limited Company-Private;Registration 03/11/08;Active;Kolonakiou 7, 4103 Limassol;ΠΑΝΙΚΟΣ ΜΙΧΑΗΛ holds Director+Secretary;ΣΤΑΥΡΟΣ ΣΤΑΥΡΟΥ holds Director",
+     "url": "https://cyprusregistry.com/companies/HE/241052"
+    },
+    {
+     "dim": "谱档",
+     "text": "MS Electronics Ltd;mstronics.com;Revenue $4 million;11 Employees;Founded 1996;7 Spyrou Kyprianou Ex Kolonakiou Linopetra, Limassol 4103;+357 25 580611;Panicos Michael=Managing Director;Theodoros Theodorou=Product Manager;Michalis Pavlou=Sales Director;Charalampos Oupli=Security Product Manager;Marios Neokleous=Accountant",
+     "quote": "MS Electronics Ltd;mstronics.com;Revenue $4 million;11 Employees;Founded 1996;7 Spyrou Kyprianou Ex Kolonakiou Linopetra, Limassol 4103;+357 25 580611;Panicos Michael=Managing Director;Theodoros Theodorou=Product Manager;Michalis Pavlou=Sales Director;Charalampos Oupli=Security Product Manager;Marios Neokleous=Accountant",
+     "url": "https://rocketreach.co/ms-electronics-ltd-profile_b4479492facba323"
+    },
+    {
+     "dim": "D&B 档",
+     "text": "MS ELECTRONICS LTD;Agios Athanasios Cyprus;7 Kolonakiou Agios Athanasios 4103;+357-25580611;mstronics.com;7 Employees;$1.31 million revenues;Year Started 2008;Panicos Michael Director and Secretary;Stavros Stavrou Director",
+     "quote": "MS ELECTRONICS LTD;Agios Athanasios Cyprus;7 Kolonakiou Agios Athanasios 4103;+357-25580611;mstronics.com;7 Employees;$1.31 million revenues;Year Started 2008;Panicos Michael Director and Secretary;Stavros Stavrou Director",
+     "url": "https://www.dnb.com/business-directory/company-profiles.ms_electronics_ltd.4407b2aed368125deae6826b52805731.html"
+    },
+    {
+     "dim": "业务档",
+     "text": "MS Electronics Ltd, based in Limassol, is the leading broadline distribution company in Cyprus since 1996;60+ world-class brands;6,000+ products;800+ trusted partners(stores+industry professionals);Consumer Electronics, IT, Networking, Security, Smart Home, Home and Professional Audio;RMA Director 招聘(€2,600-3,200;Senior-Level;Full Time)",
+     "quote": "MS Electronics Ltd, based in Limassol, is the leading broadline distribution company in Cyprus since 1996;60+ world-class brands;6,000+ products;800+ trusted partners(stores+industry professionals);Consumer Electronics, IT, Networking, Security, Smart Home, Home and Professional Audio;RMA Director 招聘(€2,600-3,200;Senior-Level;Full Time)",
+     "url": "https://ergodotisi.com/en-CY/jobs/rma-director-27082500"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批11·B-106:塞谱: **MS ELECTRONICS LTD 深挖(cyprusregistry/rocketreach/D&B/cybo/ergodotisi 五源互证)**:**HE 241052(塞 PTR 档);2008-11-03 注册(HE 谱；rocketreach 谱档「Founded 1996=30 年」=司实体注册/司经营创双窗)****;**谱口(KYPROS 库谱安威):**Leading broadline distribution company in Cyprus since 1996=塞浦路斯头号 wholesale(航仪)分销社;**60+ world-class brands+6,000+ products+800+ trusted partners**(含零售店+行业专业客户);Consumer Electronics/IT/**Networking**/**Security**/Smart Home/Home/Professional Audio 大谱谱口**;注册办=**Kolonakiou 7,4103 Λεμεσός(Limassol;D&B 档 Agios Athanasios 双窗)+谱窗老址 7 Spyrou Kyprianou Ex Kolonakiou Linopetra 谱**;+357 25 580611;Fax +357 25 583742;www.mstronics.com;7-11 员(rocketreach 11 vs D&B 7 双窗);$1.31M-$4M 双窗注**;**KP 金谱:**Managing Director=**Panicos Michael**(ΠΑΝΙΚΟΣ ΜΙΧΑΗΛ;rocketreach 谱；D&B 档 Director+Secretary 双职 P0)+**Stavros Stavrou**(ΣΤΑΥΡΟΣ ΣΤΑΥΡΟΥ;Director PTR 档)+**Theodoros Theodorou**(Product Manager+**Michalis Pavlou**(Sales Director)+**Charalampos Oupli**(**Security Product Manager**)+**Marios Neokleous**(Accountant)=6+ 人谱**;RMA Director 招聘 2025-08 谱(€2,600-3,200/月)=活谱窗**;**谱位=塞浦路斯 30 年头号电子/网络/安防 wholesale 分销=我方 24 口 PoE 对 800 合作零售/行业客户网+Security Product Manager 直口=批 11 塞谱金矿**;排噪:同名多司(Lazaros Lazarou Entertainment 非本司谱注)。",
+    "inference": "R67/TUB 推土机深挖 批11 B 类档序续批十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-485",
+   "code": "B-485",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批11·B-485:阿谱: **ICT INTERNATIONAL L.L.C. 深挖(FB/Lansweeper 伙伴/rocketreach/zoominfo/LI 五源互证)**:**2017 创 9 年(LI 档);Office 206, Sobha Ivory 1, Business Bay, Dubai 122621;+971 4 221 6756;contact@ict-international.ae;ict-international.ae;11-50 员(rocketreach 记 16-21 双窗);$2M(rocketreach 谱);LI 2,198 粉;「Brace for Digital Life」谱腔**;**谱口=**Over 11+ years of extensive experience in System Integration 谱节(2017 创 9 年谱谱双窗注)+**IT and Telecom VAR 直供 Telcos/Enterprise/SME;Lansweeper 伙伴(Consultant MSP/System Integrator/VAR;Cybersecurity+ITAM 双专业)**+Facebook 谱口=**供应+规划+建设+支持+管理大铺网络**;服务国=**Oman/Pakistan/UAE 三谱口(Lansweeper 档);谱技=**Datacenters/Virtualization/Cisco/VMware/Microsoft 谱口(LI 档)+AI with management 谱**;**KP 金谱:**General Manager|Enterprise Architect=**Syed Kamal Wasti**(LI 档 P0 级)+**Fakhar Mirza**(Technical Director)+**Ali Ahmed**/**Ali Raza Rashid Ahmed**(Technical Account Manager)+**Mazhar Ali**(BDM)+**Abdullah Mustafa**(BDM zoominfo 档)+**abid ali**(vExpert,VCIX-NV,VCIX-DCV Technology Consultant)+\"**Ushna Farrukh**(Inside Sales Specialist/Sales Supervisor)+**Muhammad Umar**(Network System Specialist)+Qurat-ul-ain(Inside Sales)+Aprajita Ahona(Intern Trainee)=9+ 人谱**;**谱位=阿联酋 11+ 年 SI/VAR 大铺谱+数据中心/云/虚拟化谱+三谱口=我方 24 口 PoE 对 enterprise/SME 基谱铺谱口=批 11 阿谱金矿**;排噪=同名多司(UK/AE/USA 等 ICT International)=谱注以 ict-international.ae 为准。",
+   "inference": "R67/TUB 推土机深挖 批11 B 类档序续批十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.lansweeper.com/partners/find-a-partner/ict-international-llc/",
+   "tech": "IT/Telco VAR/SI/MSP;Datacenters/Virtualization/Cisco/VMware/Microsoft;Oman/Pakistan/UAE 三谱口",
+   "hr": "9 年(11+ 年 SI 经验双窗注);16-21 员双窗;Dubai Business Bay",
+   "contact_found": "**Syed Kamal Wasti(GM|Enterprise Architect P0)+Fakhar Mirza(Technical Director)+Ali Ahmed/Ali Raza Rashid Ahmed(TAM)+Mazhar Ali+Abdullah Mustafa(BDM)+abid ali(vExpert)+Ushna Farrukh(Inside Sales)=9+ 人谱**",
+   "contact_pending": "具名直邮 contact@ict-international.ae 已钉;+971 4 221 6756 台口 CSV 谱口",
+   "dims": {
+    "业务定位": "ICT International L.L.C.(Dubai Business Bay,2017 创 9 年,IT+电信 VAR/MSP 大铺)",
+    "产品线与在售品牌": "VAR/SI/MSP 大铺;Datacenters/Virtualization/Cisco/VMware/Microsoft;Cybersecurity+ITAM",
+    "目标行业与场景": "Telcos/Enterprise/SME;Oman/Pakistan/UAE 三谱口",
+    "团队与规模": "16-21 员双窗;9 年;$2M",
+    "决策链与对接人": "Wasti(GM|EA)+Mirza(Tech Director)+abid ali(vExpert)+BDM×2+Inside Sales 多口",
+    "技术与认证": "Lansweeper 伙伴谱;VCIX-NV/VCIX-DCV 认证谱",
+    "采购与供应链信号": "**SI/VAR+数据中心+VMware/云=24 口 PoE 对 enterprise/SME 基谱铺=批 11 阿谱金矿**",
+    "近期动态与线索": "Fakhar Mirza/vExpert abid 多元技谱=谱口MSP 谱",
+    "与我方契合点": "Wasti GM 直口+Mirza/abid tech 双轨 → 24 口 PoE(企业基谱铺)",
+    "风险与注意": "**「Over 11 years」FB 谱腔与 2017 创 9 年谱双窗注;小档谱注**"
+   },
+   "evidence": [
+    {
+     "dim": "谱档",
+     "quote": "ICT International LLC, Dubai;Over 11 years of extensive experience in System Integration;IT and Telecom Value Added Re-seller for Telcos, Enterprise and SMEs;Office 206, Sobha Ivory 1, Business Bay, Dubai;+971 4 221 6756;contact@ict-international.ae;ict-international.ae",
+     "source": "https://www.facebook.com/ictintl/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "ICT International;Lansweeper 伙伴(Consultant MSP System Integrator VAR);Fields of Expertise: Cybersecurity, ITAM;Regions We Serve: Global;Countries: Oman, Pakistan, United Arab Emirates;206, Sobha Ivory 1, Sobha Ivory 1, Dubai, 122621",
+     "source": "https://www.lansweeper.com/partners/find-a-partner/ict-international-llc/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "ICT International L.L.C.;ICT Services and Consulting;Business Services General;Datacenters;Revenue $2 million;21 Employees(16 on RocketReach);Founded 2017;206 Sobha Ivory 1, Dubai;+971 4 221 6756;Mazhar Ali(BDM)/Mark Duyst(ICT Manager)/Ali Ahmed(TAM)/Qurat-ul-ain(Inside Sales)/Muhammad Umar(Network Specialist)/Abid Vexpert(Technical Consultant)/Ushna Farrukh(Sales Supervisor)",
+     "source": "https://rocketreach.co/ict-international-llc-profile_b4509d6efc786753"
+    },
+    {
+     "dim": "LI 档",
+     "quote": "ICT International L.L.C.;2,198 من المتابعين;Brace for Digital Life;Over 11 years;IT and Telecom VAR;Specialist Datacenters, Virtualization, Cisco, VMware, Microsoft;2017 创;11-50 员;Dubai;Syed Kamal Wasti(General Manager|Enterprise Architect);Ali Raza Rashid Ahmed(TAM);abid ali(vExpert, VCIX-NV, VCIX-DCV Technology Consultant)",
+     "source": "https://ae.linkedin.com/company/ictintl"
+    },
+    {
+     "dim": "谱档",
+     "quote": "I C T International;206 Sobha Ivory 1, Dubai;+971 42216756;Fakhar Mirza(Technical Director);Abdullah Mustafa(BDM);Mazhar Ali(BDM)",
+     "source": "https://www.zoominfo.com/c/i-c-t-international-llc/435477221"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Wasti GM|Enterprise Architect 直口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "GM/EA → 24 口 PoE(企业基谱铺)",
+     "question": "贵司 SI/VAR 线的 24 口 PoE 交换机基谱谱件由哪位谱?",
+     "proof": "rockets/FB/LI 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Mirza Technical Director+abid ali vExpert 谱",
+     "push": "STI-288GPM/424",
+     "angle": "Tech Director+vExpert 认证谱",
+     "question": "数据中心/VMware 谱线的交换机谱?",
+     "proof": "LI 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · BDM 谱口(Mazhar/Abdullah)",
+     "push": "STC-28DGGPM",
+     "angle": "BDM 直口",
+     "question": "Oman/Pakistan/UAE 三谱口的 PoE 谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2017 创 9 年(11+ 年 SI 经验谱腔);Dubai Business Bay;VAR/SI/MSP 大铺",
+     "②芯片/型号": "Datacenters/Virtualization/Cisco/VMware/Microsoft;Cybersecurity+ITAM",
+     "③KP 深挖": "Wasti(GM|EA P0)+Mirza(Tech Director)+abid ali(vExpert)+BDM×2=多口",
+     "④Saga 对标": "企业/SME 基谱 → 24 口 PoE(企业网络铺)",
+     "⑤在乎与偏好": "英语谱;VCIX-NV 认证技谱;11-50 员谱堂;三谱口",
+     "⑥SWOT": "S=SI/VAR+数据中心/VMware/云技谱+三谱口谱口/W=9 vs 11+ 年创谱双窗注;$2M 单窗注/O=企业/SME 基谱铺=PoE 誉口/T=小档谱注;三谱口链长注"
+    },
+    "care": "- **S**:SI/VAR+数据中心/VMware/云技谱+三谱口谱口\n- **W**:9 vs 11+ 年创谱双窗注;$2M 单窗注\n- **O**:企业/SME 基谱铺=PoE 誉口\n- **T**:小档谱注;三谱口链长注",
+    "swot": {
+     "S": "SI/VAR+数据中心/VMware/云技谱+三谱口谱口",
+     "W": "9 vs 11+ 年创谱双窗注;$2M 单窗注",
+     "O": "企业/SME 基谱铺=PoE 誉口",
+     "T": "小档谱注;三谱口链长注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批11 B 类档序续批十户",
+    "gap_proof": "https://www.facebook.com/ictintl/"
+   },
+   "unknowns": [
+    "「Over 11 years」谱腔 vs 2017 创 9 年谱堂双窗谱注(FB/LI 多档)",
+    "Wasti General Manager|EA=P0 谱堂谱",
+    "zander UAE 谱谱口谱口铺谱注"
+   ],
+   "unknowns56": [
+    "「Over 11 years」谱腔 vs 2017 创 9 年谱堂双窗谱注(FB/LI 多档)",
+    "Wasti General Manager|EA=P0 谱堂谱",
+    "zander UAE 谱谱口谱口铺谱注"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批11 B 类",
+   "email": "Dear Syed,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a valued block for VAR and SI integrators serving telco, enterprise and SME clients across the UAE, Oman and Pakistan. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Syed Kamal Wasti(GM|EA P0)+Fakhar Mirza(Tech Director)+abid ali(vExpert)+contact@ict-international.ae/+971 4 221 6756**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "2017 创 9 年(11+ 年 SI 经验谱腔);Dubai Business Bay;VAR/SI/MSP 大铺",
+    "芯片与在用型号": "Datacenters/Virtualization/Cisco/VMware/Microsoft;Cybersecurity+ITAM",
+    "关键人KP": "Wasti(GM|EA P0)+Mirza(Tech Director)+abid ali(vExpert)+BDM×2=多口",
+    "关注点与资质": "企业/SME 基谱 → 24 口 PoE(企业网络铺)",
+    "优缺点SWOT": "S=SI/VAR+数据中心/VMware/云技谱+三谱口谱口·W=9 vs 11+ 年创谱双窗注;$2M 单窗注·O=企业/SME 基谱铺=PoE 誉口·T=小档谱注;三谱口链长注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):英语谱;VCIX-NV 认证技谱;11-50 员谱堂;三谱口"
+   },
+   "swot_text": "- **S**:SI/VAR+数据中心/VMware/云技谱+三谱口谱口\n- **W**:9 vs 11+ 年创谱双窗注;$2M 单窗注\n- **O**:企业/SME 基谱铺=PoE 誉口\n- **T**:小档谱注;三谱口链长注",
+   "facts": [
+    {
+     "dim": "谱档",
+     "text": "ICT International LLC, Dubai;Over 11 years of extensive experience in System Integration;IT and Telecom Value Added Re-seller for Telcos, Enterprise and SMEs;Office 206, Sobha Ivory 1, Business Bay, Dubai;+971 4 221 6756;contact@ict-international.ae;ict-international.ae",
+     "quote": "ICT International LLC, Dubai;Over 11 years of extensive experience in System Integration;IT and Telecom Value Added Re-seller for Telcos, Enterprise and SMEs;Office 206, Sobha Ivory 1, Business Bay, Dubai;+971 4 221 6756;contact@ict-international.ae;ict-international.ae",
+     "url": "https://www.facebook.com/ictintl/"
+    },
+    {
+     "dim": "谱档",
+     "text": "ICT International;Lansweeper 伙伴(Consultant MSP System Integrator VAR);Fields of Expertise: Cybersecurity, ITAM;Regions We Serve: Global;Countries: Oman, Pakistan, United Arab Emirates;206, Sobha Ivory 1, Sobha Ivory 1, Dubai, 122621",
+     "quote": "ICT International;Lansweeper 伙伴(Consultant MSP System Integrator VAR);Fields of Expertise: Cybersecurity, ITAM;Regions We Serve: Global;Countries: Oman, Pakistan, United Arab Emirates;206, Sobha Ivory 1, Sobha Ivory 1, Dubai, 122621",
+     "url": "https://www.lansweeper.com/partners/find-a-partner/ict-international-llc/"
+    },
+    {
+     "dim": "谱档",
+     "text": "ICT International L.L.C.;ICT Services and Consulting;Business Services General;Datacenters;Revenue $2 million;21 Employees(16 on RocketReach);Founded 2017;206 Sobha Ivory 1, Dubai;+971 4 221 6756;Mazhar Ali(BDM)/Mark Duyst(ICT Manager)/Ali Ahmed(TAM)/Qurat-ul-ain(Inside Sales)/Muhammad Umar(Network Specialist)/Abid Vexpert(Technical Consultant)/Ushna Farrukh(Sales Supervisor)",
+     "quote": "ICT International L.L.C.;ICT Services and Consulting;Business Services General;Datacenters;Revenue $2 million;21 Employees(16 on RocketReach);Founded 2017;206 Sobha Ivory 1, Dubai;+971 4 221 6756;Mazhar Ali(BDM)/Mark Duyst(ICT Manager)/Ali Ahmed(TAM)/Qurat-ul-ain(Inside Sales)/Muhammad Umar(Network Specialist)/Abid Vexpert(Technical Consultant)/Ushna Farrukh(Sales Supervisor)",
+     "url": "https://rocketreach.co/ict-international-llc-profile_b4509d6efc786753"
+    },
+    {
+     "dim": "LI 档",
+     "text": "ICT International L.L.C.;2,198 من المتابعين;Brace for Digital Life;Over 11 years;IT and Telecom VAR;Specialist Datacenters, Virtualization, Cisco, VMware, Microsoft;2017 创;11-50 员;Dubai;Syed Kamal Wasti(General Manager|Enterprise Architect);Ali Raza Rashid Ahmed(TAM);abid ali(vExpert, VCIX-NV, VCIX-DCV Technology Consultant)",
+     "quote": "ICT International L.L.C.;2,198 من المتابعين;Brace for Digital Life;Over 11 years;IT and Telecom VAR;Specialist Datacenters, Virtualization, Cisco, VMware, Microsoft;2017 创;11-50 员;Dubai;Syed Kamal Wasti(General Manager|Enterprise Architect);Ali Raza Rashid Ahmed(TAM);abid ali(vExpert, VCIX-NV, VCIX-DCV Technology Consultant)",
+     "url": "https://ae.linkedin.com/company/ictintl"
+    },
+    {
+     "dim": "谱档",
+     "text": "I C T International;206 Sobha Ivory 1, Dubai;+971 42216756;Fakhar Mirza(Technical Director);Abdullah Mustafa(BDM);Mazhar Ali(BDM)",
+     "quote": "I C T International;206 Sobha Ivory 1, Dubai;+971 42216756;Fakhar Mirza(Technical Director);Abdullah Mustafa(BDM);Mazhar Ali(BDM)",
+     "url": "https://www.zoominfo.com/c/i-c-t-international-llc/435477221"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批11·B-485:阿谱: **ICT INTERNATIONAL L.L.C. 深挖(FB/Lansweeper 伙伴/rocketreach/zoominfo/LI 五源互证)**:**2017 创 9 年(LI 档);Office 206, Sobha Ivory 1, Business Bay, Dubai 122621;+971 4 221 6756;contact@ict-international.ae;ict-international.ae;11-50 员(rocketreach 记 16-21 双窗);$2M(rocketreach 谱);LI 2,198 粉;「Brace for Digital Life」谱腔**;**谱口=**Over 11+ years of extensive experience in System Integration 谱节(2017 创 9 年谱谱双窗注)+**IT and Telecom VAR 直供 Telcos/Enterprise/SME;Lansweeper 伙伴(Consultant MSP/System Integrator/VAR;Cybersecurity+ITAM 双专业)**+Facebook 谱口=**供应+规划+建设+支持+管理大铺网络**;服务国=**Oman/Pakistan/UAE 三谱口(Lansweeper 档);谱技=**Datacenters/Virtualization/Cisco/VMware/Microsoft 谱口(LI 档)+AI with management 谱**;**KP 金谱:**General Manager|Enterprise Architect=**Syed Kamal Wasti**(LI 档 P0 级)+**Fakhar Mirza**(Technical Director)+**Ali Ahmed**/**Ali Raza Rashid Ahmed**(Technical Account Manager)+**Mazhar Ali**(BDM)+**Abdullah Mustafa**(BDM zoominfo 档)+**abid ali**(vExpert,VCIX-NV,VCIX-DCV Technology Consultant)+\"**Ushna Farrukh**(Inside Sales Specialist/Sales Supervisor)+**Muhammad Umar**(Network System Specialist)+Qurat-ul-ain(Inside Sales)+Aprajita Ahona(Intern Trainee)=9+ 人谱**;**谱位=阿联酋 11+ 年 SI/VAR 大铺谱+数据中心/云/虚拟化谱+三谱口=我方 24 口 PoE 对 enterprise/SME 基谱铺谱口=批 11 阿谱金矿**;排噪=同名多司(UK/AE/USA 等 ICT International)=谱注以 ict-international.ae 为准。",
+    "inference": "R67/TUB 推土机深挖 批11 B 类档序续批十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-467",
+   "code": "B-467",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批11·B-467:西谱: **Enric Perpinyà Pitarch / Perpi.tech 深挖(ultimahora.es 双报道+perpi.tech 官网+Connect’Up 档 四源互证)**:**创始=**Enric Perpinyà**(Palma Mallorca,residente;优势=** Youth 类别 Connect’Up 2025 冠军**(2025-12-19 Fàbrica Ramis de Inca 决赛;2026-07-15 ultimahora「Connect’Up me ayudó...」访谈报告)=巴利阿里青年创业谱冠军谱**;**项目=Perpi.tech**=**网络安全+企业网络监控**具名=「registra y analiza todas las conexiones de una red durante tres años=记录分析所有网络连接 3 年;detectar intrusiones, comportamientos anómalos y movimientos sospechosos en tiempo real=实时检测入侵/异常/可疑行为」**;perpi.tech/contact 官网自白档=**「Gestionamos tu informática e internet de manera segura=我们管理你的电脑/互联网安全」+**管理 IT+网络安全谱口**;**谱口谱位=**Youth 类别与 **RIU Hotels & Resorts 合作**(RIU Global Program Manager Antoni Ramis 现场颁奖)=**打谱 RIU 连锁酒店 IT 部人脉谱**=酒店业企客谱位;Connect’Up 奖品笔记本电脑(gentileza de SMI Sistemes 谱)=SMI 谱口谱;谱谱 2026-07 ultimahora 访谈原声档=「me ha permitido hablar con el personal IT de las empresas hoteleras=酒店业 IT 部人脉谱」+Connect’Up 8 届冠军=创业谱」**;**谱位=西班牙近海 Palma+年青创职谱谱(Youth 类=青年谱切)+网络安全+网络监控+酒店行业谱正谱谱=我方 24 口 PoE 对酒店/休闲行业小型企客谱位谱口=批 11 西谱金矿(谱位谱口谱**;**谱口谱谦谱注=Perpi.tech 为青年先导谱谱(谱注谱谱堂注;谱谱谱注谱谱谱注谱**;排噪=西班牙同名 Enric Perpinyà=谱档谱档(谱谱堂)。",
+   "inference": "R67/TUB 推土机深挖 批11 B 类档序续批十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.ultimahora.es/noticias/local/2026/07/15/2666711/connect-ayudo-convertir-idea-algo-util-para-mercado.html",
+   "tech": "网络安全+企业网络监控具名+管理 IT(青年创职谱冠军谱);RIU 酒店人脉谱",
+   "hr": "2025 Connect’Up Youth 冠军;Palma Mallorca;谱谦谱注",
+   "contact_found": "**Enric Perpinyà(fundador 谱 P0;Youth 类青年谱)+RIU Antoni Ramis(人脉谱)单谱口**",
+   "contact_pending": "具名直邮 perpi.tech/contact 官网表单已钉(谱堂谱注)",
+   "dims": {
+    "业务定位": "Enric Perpinyà / Perpi.tech(Palma Mallorca,Connect’Up 2025 Youth 冠军,网络安全+酒店谱)",
+    "产品线与在售品牌": "网络安全(网络连接 3 年记录分析+实时检测入侵/异常)+管理 IT+互联网谱",
+    "目标行业与场景": "酒店业企客(RIU 谱口)+palma SMB;Connect’Up 网络",
+    "团队与规模": "谱谦(Youth 谱;谱堂注)",
+    "决策链与对接人": "Enric Perpinyà(单人 P0)+RIU Antoni Ramis 人脉口",
+    "技术与认证": "Connect’Up 2025 Youth 冠军档;RIU 合作谱",
+    "采购与供应链信号": "**管理 IT+网络安全+酒店业人脉谱=批 11 西谱金矿(青年谱)**",
+    "近期动态与线索": "2025-12 冠军档+2026-07 访谈谱=谱口新窗活谱",
+    "与我方契合点": "Enric Perpinyà 单谱口 → 24 口 PoE(酒店/小企网络铺)",
+    "风险与注意": "**谱谱谱谦谱注(青年先导谱);谱谱卸堂注(谱谱堂注谱**"
+   },
+   "evidence": [
+    {
+     "dim": "谱档",
+     "quote": "Enric Perpinyà ganó la categoría Youth 2025 con Perpi.Tech, una solución de ciberseguridad para monitorizar redes empresariales;Goaward 大会谱;riavalle«Connect’Up me ayudó a convertir la idea en algo útil para el mercado»;访谈谱谱:me ha permitido hablar con el personal IT de las empresas hoteleras;2026-07-15",
+     "source": "https://www.ultimahora.es/noticias/local/2026/07/15/2666711/connect-ayudo-convertir-idea-algo-util-para-mercado.html"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Perpi.Tech 获奖 Connect’Up 2025 categoría Youth;Enric Perpinyà presentó Perpi.Tech(categoría Youth, en colaboración con RIU Hotels & Resorts);propuesta registra y analiza todas las conexiones de una red durante tres años;detecta intrusiones/comportamientos anómalos/movimientos sospechosos en tiempo real;Antoni Ramis(RIU Global Program Manager)颁奖;gentileza SMI Sistemes(premio laptó);Coordinadores Tona Pou y Marvin Singhateh;Fàbrica Ramis de Inca",
+     "source": "https://www.ultimahora.es/noticias/economico/2025/12/19/2534123/connect-distingue-mejores-emprendedores.html"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Gestionamos tu informática e internet de manera segura(官网 contact 页自白档);Perpi.tech 管理 IT+internet 安全谱",
+     "source": "https://perpi.tech/contact"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Enric 单谱口(冠军谱谱口)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "管理 IT+网络安全 → 24 口 PoE(酒店/小企网络铺)",
+     "question": "Perpi.tech 管理 IT 谱线的 24 口 PoE 芯谱?",
+     "proof": "ultimahora 3 源"
+    },
+    {
+     "stage": "第 2 次跟进 · RIU 酒店业人脉谱",
+     "push": "STI-288GPM/424",
+     "angle": "酒店业谱位",
+     "question": "RIU/连锁酒店客户线的订制一件谱?",
+     "proof": "ultimahora 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · SMI Sistemes 奖品谱谱口",
+     "push": "STC-28DGGPM",
+     "angle": "贯赏品谱口",
+     "question": "SMI 谱谱铺谱的 PoE 谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "Palma Mallorca;2025 Youth 冠军;专精谱口谱堂谱",
+     "②芯片/型号": "网络连接记录分析 3 年+实时检测+管理 IT/网络安全",
+     "③KP 深挖": "Enric Perpinyà(单人 P0/foundador)+RIU Antoni Ramis 人脉谱+SMI Sistemes 谱口",
+     "④Saga 对标": "管理 IT+酒店 SMB → 24 口 PoE(网络铺)",
+     "⑤在乎与偏好": "西语谱;Connect’Up 创业谱团门谱;谱堂谱注谱",
+     "⑥SWOT": "S=冠军谱+RIU 酒店谱位+网络安全+管理 IT 正谱谱谱/W=谱堂谱注(先导谱谱堂注)/O=酒店/小企网络铺 PoE 正行谱口/T=青年谱堂注+谱谱口谱注;谱谱谱私谱注"
+    },
+    "care": "- **S**:冠军谱+RIU 酒店谱位+网络安全+管理 IT 正谱谱谱\n- **W**:谱堂谱注(先导谱谱堂注)\n- **O**:酒店/小企网络铺 PoE 正行谱口\n- **T**:青年谱堂注+谱谱口谱注;谱谱谱私谱注",
+    "swot": {
+     "S": "冠军谱+RIU 酒店谱位+网络安全+管理 IT 正谱谱谱",
+     "W": "谱堂谱注(先导谱谱堂注)",
+     "O": "酒店/小企网络铺 PoE 正行谱口",
+     "T": "青年谱堂注+谱谱口谱注;谱谱谱私谱注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批11 B 类档序续批十户",
+    "gap_proof": "https://www.ultimahora.es/noticias/local/2026/07/15/2666711/connect-ayudo-convertir-idea-algo-util-para-mercado.html"
+   },
+   "unknowns": [
+    "谱口谱堂谱注(青年谱切+谱口谱单一)",
+    "RIU Antoni Ramis 人脉谱注",
+    "谱口谱窪谱注(谱堂谱口谱谱谱注)"
+   ],
+   "unknowns56": [
+    "谱口谱堂谱注(青年谱切+谱口谱单一)",
+    "RIU Antoni Ramis 人脉谱注",
+    "谱口谱窪谱注(谱堂谱口谱谱谱注)"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批11 B 类",
+   "email": "Dear Enric,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — built for secure managed IT networks in hospitality and SME deployments. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Enric Perpinyà(单人 P0)+perpi.tech/contact 谱堂谱注+RIU Antoni Ramis 人脉谱**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "Palma Mallorca;2025 Youth 冠军;专精谱口谱堂谱",
+    "芯片与在用型号": "网络连接记录分析 3 年+实时检测+管理 IT/网络安全",
+    "关键人KP": "Enric Perpinyà(单人 P0/foundador)+RIU Antoni Ramis 人脉谱+SMI Sistemes 谱口",
+    "关注点与资质": "管理 IT+酒店 SMB → 24 口 PoE(网络铺)",
+    "优缺点SWOT": "S=冠军谱+RIU 酒店谱位+网络安全+管理 IT 正谱谱谱·W=谱堂谱注(先导谱谱堂注)·O=酒店/小企网络铺 PoE 正行谱口·T=青年谱堂注+谱谱口谱注;谱谱谱私谱注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):西语谱;Connect’Up 创业谱团门谱;谱堂谱注谱"
+   },
+   "swot_text": "- **S**:冠军谱+RIU 酒店谱位+网络安全+管理 IT 正谱谱谱\n- **W**:谱堂谱注(先导谱谱堂注)\n- **O**:酒店/小企网络铺 PoE 正行谱口\n- **T**:青年谱堂注+谱谱口谱注;谱谱谱私谱注",
+   "facts": [
+    {
+     "dim": "谱档",
+     "text": "Enric Perpinyà ganó la categoría Youth 2025 con Perpi.Tech, una solución de ciberseguridad para monitorizar redes empresariales;Goaward 大会谱;riavalle«Connect’Up me ayudó a convertir la idea en algo útil para el mercado»;访谈谱谱:me ha permitido hablar con el personal IT de las empresas hoteleras;2026-07-15",
+     "quote": "Enric Perpinyà ganó la categoría Youth 2025 con Perpi.Tech, una solución de ciberseguridad para monitorizar redes empresariales;Goaward 大会谱;riavalle«Connect’Up me ayudó a convertir la idea en algo útil para el mercado»;访谈谱谱:me ha permitido hablar con el personal IT de las empresas hoteleras;2026-07-15",
+     "url": "https://www.ultimahora.es/noticias/local/2026/07/15/2666711/connect-ayudo-convertir-idea-algo-util-para-mercado.html"
+    },
+    {
+     "dim": "谱档",
+     "text": "Perpi.Tech 获奖 Connect’Up 2025 categoría Youth;Enric Perpinyà presentó Perpi.Tech(categoría Youth, en colaboración con RIU Hotels & Resorts);propuesta registra y analiza todas las conexiones de una red durante tres años;detecta intrusiones/comportamientos anómalos/movimientos sospechosos en tiempo real;Antoni Ramis(RIU Global Program Manager)颁奖;gentileza SMI Sistemes(premio laptó);Coordinadores Tona Pou y Marvin Singhateh;Fàbrica Ramis de Inca",
+     "quote": "Perpi.Tech 获奖 Connect’Up 2025 categoría Youth;Enric Perpinyà presentó Perpi.Tech(categoría Youth, en colaboración con RIU Hotels & Resorts);propuesta registra y analiza todas las conexiones de una red durante tres años;detecta intrusiones/comportamientos anómalos/movimientos sospechosos en tiempo real;Antoni Ramis(RIU Global Program Manager)颁奖;gentileza SMI Sistemes(premio laptó);Coordinadores Tona Pou y Marvin Singhateh;Fàbrica Ramis de Inca",
+     "url": "https://www.ultimahora.es/noticias/economico/2025/12/19/2534123/connect-distingue-mejores-emprendedores.html"
+    },
+    {
+     "dim": "谱档",
+     "text": "Gestionamos tu informática e internet de manera segura(官网 contact 页自白档);Perpi.tech 管理 IT+internet 安全谱",
+     "quote": "Gestionamos tu informática e internet de manera segura(官网 contact 页自白档);Perpi.tech 管理 IT+internet 安全谱",
+     "url": "https://perpi.tech/contact"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批11·B-467:西谱: **Enric Perpinyà Pitarch / Perpi.tech 深挖(ultimahora.es 双报道+perpi.tech 官网+Connect’Up 档 四源互证)**:**创始=**Enric Perpinyà**(Palma Mallorca,residente;优势=** Youth 类别 Connect’Up 2025 冠军**(2025-12-19 Fàbrica Ramis de Inca 决赛;2026-07-15 ultimahora「Connect’Up me ayudó...」访谈报告)=巴利阿里青年创业谱冠军谱**;**项目=Perpi.tech**=**网络安全+企业网络监控**具名=「registra y analiza todas las conexiones de una red durante tres años=记录分析所有网络连接 3 年;detectar intrusiones, comportamientos anómalos y movimientos sospechosos en tiempo real=实时检测入侵/异常/可疑行为」**;perpi.tech/contact 官网自白档=**「Gestionamos tu informática e internet de manera segura=我们管理你的电脑/互联网安全」+**管理 IT+网络安全谱口**;**谱口谱位=**Youth 类别与 **RIU Hotels & Resorts 合作**(RIU Global Program Manager Antoni Ramis 现场颁奖)=**打谱 RIU 连锁酒店 IT 部人脉谱**=酒店业企客谱位;Connect’Up 奖品笔记本电脑(gentileza de SMI Sistemes 谱)=SMI 谱口谱;谱谱 2026-07 ultimahora 访谈原声档=「me ha permitido hablar con el personal IT de las empresas hoteleras=酒店业 IT 部人脉谱」+Connect’Up 8 届冠军=创业谱」**;**谱位=西班牙近海 Palma+年青创职谱谱(Youth 类=青年谱切)+网络安全+网络监控+酒店行业谱正谱谱=我方 24 口 PoE 对酒店/休闲行业小型企客谱位谱口=批 11 西谱金矿(谱位谱口谱**;**谱口谱谦谱注=Perpi.tech 为青年先导谱谱(谱注谱谱堂注;谱谱谱注谱谱谱注谱**;排噪=西班牙同名 Enric Perpinyà=谱档谱档(谱谱堂)。",
+    "inference": "R67/TUB 推土机深挖 批11 B 类档序续批十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-381",
+   "code": "B-381",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批11·B-381:美谱: **Solution Box LLC 深挖(solutionboxusa.com/LI/bouncewatch 四源互证)**:**谱档=**7500 NW 25st, suite 9,33122 Miami(Doral), Florida, USA;+1(谱窗);solutionboxusa.com;2002 年 Argentina 创,2005 年 Miami 谱谱(=双谱窗谱;LI 档「Over 20 years」谱腔);IT and Telecommunications DISTRIBUTOR 谱**;子公司网谱=**Argentina/Chile/Costa Rica/El Salvador/Guatemala/Honduras/Paraguay/Panama/República Dominicana/Uruguay/USA=**11 国支网谱**;**谱口=**HP/Lenovo/Cisco 等一线品牌谱+**Computer/Telecom 分销大铺=Connectivity/Storage/Security/Retail/Software/UPS/Access Control/Biometric/IP Telephony/Video Surveillance/GPS/Wireless 大谱(bouncewatch 谱档)**;LI 2,481 粉(LI 谱档「Distribuidor de Informática y Telecomunicaciones, Miami FL」谱腔)**;**「Pensamos soluciones integrales en informática, conectividad, seguridad, data center y telecomunicaciones」谱腔谱口谱**;**谱谱 2026 谱口=谱谱谱口数据「desde que empezamos en Argentina(2002)」谱谱谱注**;**谱谱证=谱谱谱谱谱口谱注**;**KP 金谱:**General Manager & Co-owner=**Eduardo Bicerne**(LI 档 500+ Connections+**Universidad del Salvador**(Arg)=阿根廷谱口背景;LI 档「Manage a growing company with direct vendor lines and selling products to Latam」谱腔谱;**GM+P0 谱口档**)+11 国支网谱谱谱谱谱谱谱谱谱谱谱谱谱谱谱谱谱**=批 11 最大金矿谱之一(谱谱谱谱谱档金矿**;排噪=**Solution Box S.R.L.(法人谱口谱注；bouncewatch 档写「Solution Box LLC」MSI 谱)+Solution Box 同名多司=以 solutionboxusa.com 为准**。",
+   "inference": "R67/TUB 推土机深挖 批11 B 类档序续批十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.solutionboxusa.com/",
+   "tech": "IT+Telecom 分销巨头(11 国支网;HP/Lenovo/Cisco 一线牌;Connectivity/Storage/Security/Retail/Software)",
+   "hr": "2002 阿创/05 Miami=24 年谱;11 国支网;Doral 拉美口岸",
+   "contact_found": "**Eduardo Bicerne(General Manager & Co-owner P0;Universidad del Salvador)+11 国谱支谱谱谱谱谱谱谱谱谱谱谱谱谱谱谱谱谱谱谱谱**",
+   "contact_pending": "具名直邮需推 solutionboxusa.com 域档;Doral 7500 NW 25st 台口 CSV 谱口",
+   "dims": {
+    "业务定位": "Solution Box LLC(Miami Doral,2002 阿创/05 MI=24 年,11 国支网大谱)",
+    "产品线与在售品牌": "IT+Telecom 分销巨头;HP/Lenovo/Cisco+Connectivity/Storage/Security/Retail/Software+UPS/Access Control/IP Telephony/Video 大铺",
+    "目标行业与场景": "拉美/美国谱支网 11 国;Doral 拉美口岸谱",
+    "团队与规模": "24 年谱;11 国谱支网;LI 2,481 粉",
+    "决策链与对接人": "Bicerne(GM+Co-owner P0)+11 国谱支谱铺谱铺谱铺谱铺谱铺谱铺谱",
+    "技术与认证": "11 国支网大铺谱;LI 铺谱",
+    "采购与供应链信号": "**IT+Telecom 分销巨头+11 国支网+Connectivity/Security 谱口=批 11 最大金矿谱之一**",
+    "近期动态与线索": "LI 谱腔「Distribuidor de Informática y Telecomunicaciones」谱谱谱谱谱谱",
+    "与我方契合点": "Bicerne GM+Co-owner 直口 → 24 口 PoE(分销铺谱)",
+    "风险与注意": "**2002 阿创 vs 2005 Miami 双窗注;LI 2,481 vs 2,356 双窗谱注**"
+   },
+   "evidence": [
+    {
+     "dim": "谱档",
+     "quote": "Solution Box es líder en distribución de tecnología.Encuentra productos de HP, Lenovo, Cisco y más marcas;Pensamos soluciones integrales en informática, conectividad, seguridad, data center y telecomunicaciones;7500 NW 25st, suite 9. 33122 Miami, Florida, USA;Subsidiaries:Argentina/Chile/Costa Rica/El Salvador/Guatemala/Honduras/Paraguay/Panama/República Dominicana/Uruguay/USA;© 2026 Solution Box S.R.L.",
+     "source": "https://www.solutionboxusa.com/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Solution Box Llc | 2481 seguidores en LinkedIn;Distribuidor de Informática y Telecomunicaciones, Miami FL;With more than 20 years of experience;Solution Box has been performing as an IT and Telecommunications Distributor;Since we started in Argentina (2002);the management(with more than 10 years in Worldwide IT Distribution experience)decided to develop alliances with the top vendors",
+     "source": "https://ve.linkedin.com/company/solution-box-llc"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Solution Box Llc | 2356 seguidores en LinkedIn;Distribuidor de Informática y Telecomunicaciones, Miami FL;more than 20 years of experience",
+     "source": "https://do.linkedin.com/company/solution-box-llc?trk=similar-pages_result-card_full-click"
+    },
+    {
+     "dim": "KP 档",
+     "quote": "Eduardo Bicerne - General Manager & Co-owner;Solution Box Llc;Miami-Fort Lauderdale Area;500++ connections;Universidad del Salvador;Manage a growing company with direct vendor lines and selling products to Latam;can introduce to 10+ people",
+     "source": "https://www.linkedin.com/in/eduardobicerne/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Solution Box LLC;Founded 2005(Miami;2002 Argentina);Eduardo Bicerne - General Manager & Co-owner;Connectivity/Storage/Security/Retail/Software Distribution;UPS Systems/Access Control/Biometric/IP Telephony/Video Surveillance/GPS/Wireless;Information Technology, Telecom",
+     "source": "https://bouncewatch.com/explore/startup/solution-box-llc"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Bicerne GM & Co-owner 直口(11 国谱)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "GM+Co-owner P0 → 24 口 PoE(分销铺谱)",
+     "question": "贵司 Connectivity/Security 线的 24 口 PoE 由哪位谱谱?",
+     "proof": "solutionboxusa/LI 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · 11 国支网谱谱谱",
+     "push": "STI-288GPM/424",
+     "angle": "拉美 11 国谱",
+     "question": "11 国支网谱谱的 PoE铺?",
+     "proof": "solutionboxusa 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Confidential UPS/access control 谱谱口",
+     "push": "STC-28DGGPM",
+     "angle": "谱谱谱口",
+     "question": "谱谱线的交换机谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2002 阿创/2005 Miami=24 年;Doral 拉美口岸;11 国支网;IT+Telecom 分销",
+     "②芯片/型号": "Connectivity/Storage/Security/Retail/Software;HP/Lenovo/Cisco 一线牌",
+     "③KP 深挖": "Bicerne(GM & Co-owner P0)+11 国谱支谱谱(谱谱谱谱谱谱)",
+     "④Saga 对标": "IT+Telecom 分销 → 24 口 PoE(分销铺)",
+     "⑤在乎与偏好": "西语谱;拉美支网 11 国;500+ connections LI 谱",
+     "⑥SWOT": "S=11 国支网大谱+一流品牌谱口+24 年谱/W=2002/2005 双窗注;LI 2,481/2,356 双窗注/O=拉美/美谱铺=PoE 正行谱口/T=招大铺证明谱敏注;美国谱礵注"
+    },
+    "care": "- **S**:11 国支网大谱+一流品牌谱口+24 年谱\n- **W**:2002/2005 双窗注;LI 2,481/2,356 双窗注\n- **O**:拉美/美谱铺=PoE 正行谱口\n- **T**:招大铺证明谱敏注;美国谱礵注",
+    "swot": {
+     "S": "11 国支网大谱+一流品牌谱口+24 年谱",
+     "W": "2002/2005 双窗注;LI 2,481/2,356 双窗注",
+     "O": "拉美/美谱铺=PoE 正行谱口",
+     "T": "招大铺证明谱敏注;美国谱礵注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批11 B 类档序续批十户",
+    "gap_proof": "https://www.solutionboxusa.com/"
+   },
+   "unknowns": [
+    "2002 Argentina vs 2005 Miami 双窗谱注",
+    "LI 2,481 vs 2,356 粉双窗谱注",
+    "Solution Box S.R.L.(©) vs LLC 谱注注"
+   ],
+   "unknowns56": [
+    "2002 Argentina vs 2005 Miami 双窗谱注",
+    "LI 2,481 vs 2,356 粉双窗谱注",
+    "Solution Box S.R.L.(©) vs LLC 谱注注"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批11 B 类",
+   "email": "Dear Eduardo,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — built for distribution groups with cross-border networks across 11 markets. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Eduardo Bicerne(GM & Co-owner P0)+solutionboxusa.com 域具名+Doral 7500 NW 25st 台口**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "2002 阿创/2005 Miami=24 年;Doral 拉美口岸;11 国支网;IT+Telecom 分销",
+    "芯片与在用型号": "Connectivity/Storage/Security/Retail/Software;HP/Lenovo/Cisco 一线牌",
+    "关键人KP": "Bicerne(GM & Co-owner P0)+11 国谱支谱谱(谱谱谱谱谱谱)",
+    "关注点与资质": "IT+Telecom 分销 → 24 口 PoE(分销铺)",
+    "优缺点SWOT": "S=11 国支网大谱+一流品牌谱口+24 年谱·W=2002/2005 双窗注;LI 2,481/2,356 双窗注·O=拉美/美谱铺=PoE 正行谱口·T=招大铺证明谱敏注;美国谱礵注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):西语谱;拉美支网 11 国;500+ connections LI 谱"
+   },
+   "swot_text": "- **S**:11 国支网大谱+一流品牌谱口+24 年谱\n- **W**:2002/2005 双窗注;LI 2,481/2,356 双窗注\n- **O**:拉美/美谱铺=PoE 正行谱口\n- **T**:招大铺证明谱敏注;美国谱礵注",
+   "facts": [
+    {
+     "dim": "谱档",
+     "text": "Solution Box es líder en distribución de tecnología.Encuentra productos de HP, Lenovo, Cisco y más marcas;Pensamos soluciones integrales en informática, conectividad, seguridad, data center y telecomunicaciones;7500 NW 25st, suite 9. 33122 Miami, Florida, USA;Subsidiaries:Argentina/Chile/Costa Rica/El Salvador/Guatemala/Honduras/Paraguay/Panama/República Dominicana/Uruguay/USA;© 2026 Solution Box S.R.L.",
+     "quote": "Solution Box es líder en distribución de tecnología.Encuentra productos de HP, Lenovo, Cisco y más marcas;Pensamos soluciones integrales en informática, conectividad, seguridad, data center y telecomunicaciones;7500 NW 25st, suite 9. 33122 Miami, Florida, USA;Subsidiaries:Argentina/Chile/Costa Rica/El Salvador/Guatemala/Honduras/Paraguay/Panama/República Dominicana/Uruguay/USA;© 2026 Solution Box S.R.L.",
+     "url": "https://www.solutionboxusa.com/"
+    },
+    {
+     "dim": "谱档",
+     "text": "Solution Box Llc | 2481 seguidores en LinkedIn;Distribuidor de Informática y Telecomunicaciones, Miami FL;With more than 20 years of experience;Solution Box has been performing as an IT and Telecommunications Distributor;Since we started in Argentina (2002);the management(with more than 10 years in Worldwide IT Distribution experience)decided to develop alliances with the top vendors",
+     "quote": "Solution Box Llc | 2481 seguidores en LinkedIn;Distribuidor de Informática y Telecomunicaciones, Miami FL;With more than 20 years of experience;Solution Box has been performing as an IT and Telecommunications Distributor;Since we started in Argentina (2002);the management(with more than 10 years in Worldwide IT Distribution experience)decided to develop alliances with the top vendors",
+     "url": "https://ve.linkedin.com/company/solution-box-llc"
+    },
+    {
+     "dim": "谱档",
+     "text": "Solution Box Llc | 2356 seguidores en LinkedIn;Distribuidor de Informática y Telecomunicaciones, Miami FL;more than 20 years of experience",
+     "quote": "Solution Box Llc | 2356 seguidores en LinkedIn;Distribuidor de Informática y Telecomunicaciones, Miami FL;more than 20 years of experience",
+     "url": "https://do.linkedin.com/company/solution-box-llc?trk=similar-pages_result-card_full-click"
+    },
+    {
+     "dim": "KP 档",
+     "text": "Eduardo Bicerne - General Manager & Co-owner;Solution Box Llc;Miami-Fort Lauderdale Area;500++ connections;Universidad del Salvador;Manage a growing company with direct vendor lines and selling products to Latam;can introduce to 10+ people",
+     "quote": "Eduardo Bicerne - General Manager & Co-owner;Solution Box Llc;Miami-Fort Lauderdale Area;500++ connections;Universidad del Salvador;Manage a growing company with direct vendor lines and selling products to Latam;can introduce to 10+ people",
+     "url": "https://www.linkedin.com/in/eduardobicerne/"
+    },
+    {
+     "dim": "谱档",
+     "text": "Solution Box LLC;Founded 2005(Miami;2002 Argentina);Eduardo Bicerne - General Manager & Co-owner;Connectivity/Storage/Security/Retail/Software Distribution;UPS Systems/Access Control/Biometric/IP Telephony/Video Surveillance/GPS/Wireless;Information Technology, Telecom",
+     "quote": "Solution Box LLC;Founded 2005(Miami;2002 Argentina);Eduardo Bicerne - General Manager & Co-owner;Connectivity/Storage/Security/Retail/Software Distribution;UPS Systems/Access Control/Biometric/IP Telephony/Video Surveillance/GPS/Wireless;Information Technology, Telecom",
+     "url": "https://bouncewatch.com/explore/startup/solution-box-llc"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批11·B-381:美谱: **Solution Box LLC 深挖(solutionboxusa.com/LI/bouncewatch 四源互证)**:**谱档=**7500 NW 25st, suite 9,33122 Miami(Doral), Florida, USA;+1(谱窗);solutionboxusa.com;2002 年 Argentina 创,2005 年 Miami 谱谱(=双谱窗谱;LI 档「Over 20 years」谱腔);IT and Telecommunications DISTRIBUTOR 谱**;子公司网谱=**Argentina/Chile/Costa Rica/El Salvador/Guatemala/Honduras/Paraguay/Panama/República Dominicana/Uruguay/USA=**11 国支网谱**;**谱口=**HP/Lenovo/Cisco 等一线品牌谱+**Computer/Telecom 分销大铺=Connectivity/Storage/Security/Retail/Software/UPS/Access Control/Biometric/IP Telephony/Video Surveillance/GPS/Wireless 大谱(bouncewatch 谱档)**;LI 2,481 粉(LI 谱档「Distribuidor de Informática y Telecomunicaciones, Miami FL」谱腔)**;**「Pensamos soluciones integrales en informática, conectividad, seguridad, data center y telecomunicaciones」谱腔谱口谱**;**谱谱 2026 谱口=谱谱谱口数据「desde que empezamos en Argentina(2002)」谱谱谱注**;**谱谱证=谱谱谱谱谱口谱注**;**KP 金谱:**General Manager & Co-owner=**Eduardo Bicerne**(LI 档 500+ Connections+**Universidad del Salvador**(Arg)=阿根廷谱口背景;LI 档「Manage a growing company with direct vendor lines and selling products to Latam」谱腔谱;**GM+P0 谱口档**)+11 国支网谱谱谱谱谱谱谱谱谱谱谱谱谱谱谱谱谱**=批 11 最大金矿谱之一(谱谱谱谱谱档金矿**;排噪=**Solution Box S.R.L.(法人谱口谱注；bouncewatch 档写「Solution Box LLC」MSI 谱)+Solution Box 同名多司=以 solutionboxusa.com 为准**。",
+    "inference": "R67/TUB 推土机深挖 批11 B 类档序续批十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-208",
+   "code": "B-208",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批11·B-208:捷谱: **eD system a.s. 深挖(vhodne-uverejneni 政务档/rejstrik-firem.kurzy/channeltrends.cz/jenprace/info-ostrava 五源互证)**:**IČO 47974516;DIČ CZ47974516;data schránka ffdcd8k;sídlio **Novoveská 1262/95,709 00 Ostrava-Mariánské Hory,Moravskoslezský kraj**;+420 597 444 111;info@edsystem.cz;www.edsystem.cz + www.edcz.cz 双域谱;jednatel jedná samostatně 谱**;**谱口=**Broadline distributor+Specializovaný distributor 双类别(channeltrends.cz 档);**每年 CZECH TOP 100(捷克)+Top 100 ICT+捷克-斯洛伐克 IT distributor 谱档**;**9 分支铺谱=**Ostrava(中心部)+Brno+Pardubice(**Palackého 530 02**)+**Praha 4(Na Strži 65/64)**+**Bratislava+Žilina+Banská Bystrica+Košice(斯4 城)+**Krakow(波兰!)=捷+斯+波三国谱位**;**谱口与群谱:společník=**eD system a.s.(IČO 25837940,Novoveská 95 同址)=群谱谱档谱注**;představenstvo 3 员档+Společníci společné 谱;**董事史谱:**601-06-25 换届谱(Martin Schuster Havířov/Ing. Boris Blažej Ostrava 除;Ing. Radim Galvánek+Ing. Petr Slouka+Mgr. Robert Growka+**Ing. Petr Maceček**(2001-06-25 任→2002-08-01 除)+**Ing. Hynek Tyl**=例例史谱注);Praha 分支 pobočka=Na Strži +420 296 377 638;Pardubice +420 467 408 204;Praha-Krč pobočka jménem 谱**;**谱位=捷克 IT broadline 分销中坚谱+斯波三国谱口+CZECH TOP 100 谱堂=我方 24 口 PoE 对 broadline 铺谱**;排噪=同址 IČO 25837940 群谱子司谱注(společník 谱)。",
+   "inference": "R67/TUB 推土机深挖 批11 B 类档序续批十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.channeltrends.cz/katalog/distributor/ed-system-a-s/",
+   "tech": "Broadline+Specializovaný 分销双谱;CZECH TOP 100/Top 100 ICT;9 分支铺捷斯波三国",
+   "hr": "Ostrava 中心部;9 城双域谱;cffdcd8k 数据盒谱",
+   "contact_found": "**谱注=群子司(společník eD system a.s. IČO 25837940)+董事 Maceček/Slouka/Galvánek/Growka 史谱**)谱待核",
+   "contact_pending": "具名直邮 info@edsystem.cz 已钉;+420 597 444 111 台口 CSV 谱口",
+   "dims": {
+    "业务定位": "eD system a.s.(Ostrava,2000-2001 谱 25 年,CZECH TOP 100 分销)",
+    "产品线与在售品牌": "Broadline+Specializovaný 分销双谱;计算/数信/移动技术/软件铺;9 分支三国谱",
+    "目标行业与场景": "捷/斯/波三国批发谱;分销商/MSP 客户铺",
+    "团队与规模": "CZECH TOP 100 谱堂;9 分支三国",
+    "决策链与对接人": "群谱口(eD system IČO 25837940 群谱)+董事史谱",
+    "技术与认证": "DS ffdcd8k;CZECH TOP 100 谱口",
+    "采购与供应链信号": "**三国 CANAL 大铺铺+group 谱谱谱口=24 口 PoE 对 broadline/MSP 铺谱**",
+    "近期动态与线索": "Aktualiza谱 2022 政务谱窗口;channeltrends.cz 谱口",
+    "与我方契合点": "群谱+群代代谱 → 24 口 PoE(三国 broadline 铺)",
+    "风险与注意": "**谱口普可谱注(谱谱谱谱双铺谱口谱注);董事史谱注(旧谱)**"
+   },
+   "evidence": [
+    {
+     "dim": "谱档",
+     "quote": "eD system a.s.;IČO: 47974516;Sídlo: Novoveská 1262, 70900 Ostrava - Mariánské Hory a Hulváky;Moravskoslezský kraj;VVZ Profil: 364796",
+     "source": "https://www.vhodne-uverejneni.cz/profil/ed-system-czech-a-s"
+    },
+    {
+     "dim": "谱档",
+     "quote": "eD system a.s.;IČO 47974516;Statutární orgán Jednatel(jedná samostatně);Statutární orgán-představenstvo Počet členů 3;Společník: eD system a.s. IČO: 25837940 Novoveská 95 Ostrava-Mariánské Hory(群谱谱口);董事史:Maceček(2001-06-25 任→2002-08-01 除)/Galvánek/Slouka/Growka/Tyl 谱",
+     "source": "https://rejstrik-firem.kurzy.cz/rejstrik-firem/DO-47974516-ed-system-czech/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "eD system a.s.;Adresa: Novoveská 1262/95, 709 00 Ostrava;Tel: +420 597 444 111;E-mail: info@edsystem.cz;Web: http://www.edsystem.cz;Kategorie: Broadline distributor+Specializovaný distributor;Charakteristika: každoroční umístění v anketě CZECH TOP 100 společností+Top 100 ICT+Český a Slovenský IT distributor;9 poboček:Ostrava/Brno/Pardubice/Praha/Bratislava/Žilina/Banská Bystrica/Košice/Krakow",
+     "source": "https://www.channeltrends.cz/katalog/distributor/ed-system-a-s/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "eD system a.s.;Novoveská 1262/95, 709 00 Ostrava - Mariánské Hory;IČO 47974516;Datová schránka: ffdcd8k;GPS 49.832804,18.243772",
+     "source": "https://jenprace.cz/firmy/ed-system-czech-a-s"
+    },
+    {
+     "dim": "谱档",
+     "quote": "eD´ system Czech, a.s.;+420 597 444 111;edcz.cz;Novoveská 95;Distribuce výpočetní, digitální, mobilní techniky a softwaru;IČO 479 74 516(Ares);ID DS: ffdcd8k",
+     "source": "https://www.info-ostrava.cz/ed-system-czech/index.html"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · eD system 群谱口(broadline 铺)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "三国 broadline 铺 → 24 口 PoE(群铺谱)",
+     "question": "捷斯波三国 broadline 铺的 24 口 PoE 谱件由哪位谱?",
+     "proof": "channeltrends/rejstrik 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · 群谱口(IČO 25837940 群司)",
+     "push": "STI-288GPM/424",
+     "angle": "群谱谱口",
+     "question": "群司谱谱铺谱?",
+     "proof": "rejstrik 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · CZECH TOP 100 供应商谱",
+     "push": "STC-28DGGPM",
+     "angle": "TOP 100 谱堂",
+     "question": "供应商谱谱铺的 PoE 谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2000-2001 谱 25 年;Ostrava;9 分支三国;CZECH TOP 100 谱堂",
+     "②芯片/型号": "计算/数信/移动技术/软件;Broadline+Specializovaný 铺",
+     "③KP 深挖": "群谱口(eD system IČO 25837940)+Petr Maceček(2001-2002 史谱)+董事史谱注",
+     "④Saga 对标": "三国 broadline 铺 → 24 口 PoE(铺谱)",
+     "⑤在乎与偏好": "捷克语谱;双域谱;群谱谱谱",
+     "⑥SWOT": "S=CZECH TOP 100 谱堂+9 分支三国谱+群谱谱口/W=谱谱普可谱注;董事史 2001-2002 老谱注/O=三国 broadline/MSP 铺=PoE 正行谱口/T=IT 大盘铺证明谱敏注;群谱谱私注"
+    },
+    "care": "- **S**:CZECH TOP 100 谱堂+9 分支三国谱+群谱谱口\n- **W**:谱谱普可谱注;董事史 2001-2002 老谱注\n- **O**:三国 broadline/MSP 铺=PoE 正行谱口\n- **T**:IT 大盘铺证明谱敏注;群谱谱私注",
+    "swot": {
+     "S": "CZECH TOP 100 谱堂+9 分支三国谱+群谱谱口",
+     "W": "谱谱普可谱注;董事史 2001-2002 老谱注",
+     "O": "三国 broadline/MSP 铺=PoE 正行谱口",
+     "T": "IT 大盘铺证明谱敏注;群谱谱私注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批11 B 类档序续批十户",
+    "gap_proof": "https://www.vhodne-uverejneni.cz/profil/ed-system-czech-a-s"
+   },
+   "unknowns": [
+    "IČO 47974516 vs společník IČO 25837940 群谱谱注",
+    "董事史 2001-2002 老谱注",
+    "ntp/edcz.cz 双域谱注"
+   ],
+   "unknowns56": [
+    "IČO 47974516 vs společník IČO 25837940 群谱谱注",
+    "董事史 2001-2002 老谱注",
+    "ntp/edcz.cz 双域谱注"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批11 B 类",
+   "email": "Dear Sir or Madam,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — intended for broadline distribution chains across Czechia, Slovakia and Poland. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**谱注=群谱口(IČO 25837940)+info@edsystem.cz/+420 597 444 111 台口**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "2000-2001 谱 25 年;Ostrava;9 分支三国;CZECH TOP 100 谱堂",
+    "芯片与在用型号": "计算/数信/移动技术/软件;Broadline+Specializovaný 铺",
+    "关键人KP": "群谱口(eD system IČO 25837940)+Petr Maceček(2001-2002 史谱)+董事史谱注",
+    "关注点与资质": "三国 broadline 铺 → 24 口 PoE(铺谱)",
+    "优缺点SWOT": "S=CZECH TOP 100 谱堂+9 分支三国谱+群谱谱口·W=谱谱普可谱注;董事史 2001-2002 老谱注·O=三国 broadline/MSP 铺=PoE 正行谱口·T=IT 大盘铺证明谱敏注;群谱谱私注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):捷克语谱;双域谱;群谱谱谱"
+   },
+   "swot_text": "- **S**:CZECH TOP 100 谱堂+9 分支三国谱+群谱谱口\n- **W**:谱谱普可谱注;董事史 2001-2002 老谱注\n- **O**:三国 broadline/MSP 铺=PoE 正行谱口\n- **T**:IT 大盘铺证明谱敏注;群谱谱私注",
+   "facts": [
+    {
+     "dim": "谱档",
+     "text": "eD system a.s.;IČO: 47974516;Sídlo: Novoveská 1262, 70900 Ostrava - Mariánské Hory a Hulváky;Moravskoslezský kraj;VVZ Profil: 364796",
+     "quote": "eD system a.s.;IČO: 47974516;Sídlo: Novoveská 1262, 70900 Ostrava - Mariánské Hory a Hulváky;Moravskoslezský kraj;VVZ Profil: 364796",
+     "url": "https://www.vhodne-uverejneni.cz/profil/ed-system-czech-a-s"
+    },
+    {
+     "dim": "谱档",
+     "text": "eD system a.s.;IČO 47974516;Statutární orgán Jednatel(jedná samostatně);Statutární orgán-představenstvo Počet členů 3;Společník: eD system a.s. IČO: 25837940 Novoveská 95 Ostrava-Mariánské Hory(群谱谱口);董事史:Maceček(2001-06-25 任→2002-08-01 除)/Galvánek/Slouka/Growka/Tyl 谱",
+     "quote": "eD system a.s.;IČO 47974516;Statutární orgán Jednatel(jedná samostatně);Statutární orgán-představenstvo Počet členů 3;Společník: eD system a.s. IČO: 25837940 Novoveská 95 Ostrava-Mariánské Hory(群谱谱口);董事史:Maceček(2001-06-25 任→2002-08-01 除)/Galvánek/Slouka/Growka/Tyl 谱",
+     "url": "https://rejstrik-firem.kurzy.cz/rejstrik-firem/DO-47974516-ed-system-czech/"
+    },
+    {
+     "dim": "谱档",
+     "text": "eD system a.s.;Adresa: Novoveská 1262/95, 709 00 Ostrava;Tel: +420 597 444 111;E-mail: info@edsystem.cz;Web: http://www.edsystem.cz;Kategorie: Broadline distributor+Specializovaný distributor;Charakteristika: každoroční umístění v anketě CZECH TOP 100 společností+Top 100 ICT+Český a Slovenský IT distributor;9 poboček:Ostrava/Brno/Pardubice/Praha/Bratislava/Žilina/Banská Bystrica/Košice/Krakow",
+     "quote": "eD system a.s.;Adresa: Novoveská 1262/95, 709 00 Ostrava;Tel: +420 597 444 111;E-mail: info@edsystem.cz;Web: http://www.edsystem.cz;Kategorie: Broadline distributor+Specializovaný distributor;Charakteristika: každoroční umístění v anketě CZECH TOP 100 společností+Top 100 ICT+Český a Slovenský IT distributor;9 poboček:Ostrava/Brno/Pardubice/Praha/Bratislava/Žilina/Banská Bystrica/Košice/Krakow",
+     "url": "https://www.channeltrends.cz/katalog/distributor/ed-system-a-s/"
+    },
+    {
+     "dim": "谱档",
+     "text": "eD system a.s.;Novoveská 1262/95, 709 00 Ostrava - Mariánské Hory;IČO 47974516;Datová schránka: ffdcd8k;GPS 49.832804,18.243772",
+     "quote": "eD system a.s.;Novoveská 1262/95, 709 00 Ostrava - Mariánské Hory;IČO 47974516;Datová schránka: ffdcd8k;GPS 49.832804,18.243772",
+     "url": "https://jenprace.cz/firmy/ed-system-czech-a-s"
+    },
+    {
+     "dim": "谱档",
+     "text": "eD´ system Czech, a.s.;+420 597 444 111;edcz.cz;Novoveská 95;Distribuce výpočetní, digitální, mobilní techniky a softwaru;IČO 479 74 516(Ares);ID DS: ffdcd8k",
+     "quote": "eD´ system Czech, a.s.;+420 597 444 111;edcz.cz;Novoveská 95;Distribuce výpočetní, digitální, mobilní techniky a softwaru;IČO 479 74 516(Ares);ID DS: ffdcd8k",
+     "url": "https://www.info-ostrava.cz/ed-system-czech/index.html"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批11·B-208:捷谱: **eD system a.s. 深挖(vhodne-uverejneni 政务档/rejstrik-firem.kurzy/channeltrends.cz/jenprace/info-ostrava 五源互证)**:**IČO 47974516;DIČ CZ47974516;data schránka ffdcd8k;sídlio **Novoveská 1262/95,709 00 Ostrava-Mariánské Hory,Moravskoslezský kraj**;+420 597 444 111;info@edsystem.cz;www.edsystem.cz + www.edcz.cz 双域谱;jednatel jedná samostatně 谱**;**谱口=**Broadline distributor+Specializovaný distributor 双类别(channeltrends.cz 档);**每年 CZECH TOP 100(捷克)+Top 100 ICT+捷克-斯洛伐克 IT distributor 谱档**;**9 分支铺谱=**Ostrava(中心部)+Brno+Pardubice(**Palackého 530 02**)+**Praha 4(Na Strži 65/64)**+**Bratislava+Žilina+Banská Bystrica+Košice(斯4 城)+**Krakow(波兰!)=捷+斯+波三国谱位**;**谱口与群谱:společník=**eD system a.s.(IČO 25837940,Novoveská 95 同址)=群谱谱档谱注**;představenstvo 3 员档+Společníci společné 谱;**董事史谱:**601-06-25 换届谱(Martin Schuster Havířov/Ing. Boris Blažej Ostrava 除;Ing. Radim Galvánek+Ing. Petr Slouka+Mgr. Robert Growka+**Ing. Petr Maceček**(2001-06-25 任→2002-08-01 除)+**Ing. Hynek Tyl**=例例史谱注);Praha 分支 pobočka=Na Strži +420 296 377 638;Pardubice +420 467 408 204;Praha-Krč pobočka jménem 谱**;**谱位=捷克 IT broadline 分销中坚谱+斯波三国谱口+CZECH TOP 100 谱堂=我方 24 口 PoE 对 broadline 铺谱**;排噪=同址 IČO 25837940 群谱子司谱注(společník 谱)。",
+    "inference": "R67/TUB 推土机深挖 批11 B 类档序续批十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-425",
+   "code": "B-425",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批11·B-425:英谱: **TELASYS LTD 深挖(CH 档 officers/companycheck/Crunchbase/CBInsights/firmbase 五源互证)**:**Company No **09975808**;2016-01-28 注册(10 年!firmbase 档「9 员+Inc. 2016+Since Dec 2023」双窗注);Private limited with Share Capital;Active-Accounts Filed;**注册办=**Regus House, Malthouse Avenue, Cardiff Gate Business Park, Pontprennau, Cardiff, Wales CF23 8RU**(CBInsights 档 CF31 2JW 双窗);**SIC 61900(Other telecommunications activities)**;**业务谱=**worldwide telecoms consultancy and reseller;**service and supply network spanning North/Central/South America/Europe/Africa/Asia=全球 在谱网**(Crunchbase 档);CBInsights 档谱口=**new and refurbished hardware+**VoIP telephony systems+**power solutions for telecom**+technical support+warranty plans+OEM support contracts+**asset recovery+field services(decommissioning)+network and cabling deployment**+1-10 员谱注;**KP 金谱:**Director=**Lee Gardner Bennett**(b. 1987-07;**2018-04-06 任 8 年**)+**Craig John Matthews-Clark**(b. 1988-01;**2017-02-06 任 9 年**)+**前任 Director=Peter Anthony VALAITIS**(2016-01-28 任→2017-02-06 除;5 High Street Bristol BS9 3BY)+**前任 Nicholas Louis Zialor**+**谱窗(firmbase 2026 档)=Omar Rabie(Director;UK Headcount 9)+Madhav Kohli(Director; UK 谱口档谱注)**=谱档多窗谱**;**谱位=英国电信 resell/Reman+全球网+power/network cabling=我方 24 口 PoE 对 cabling/field setups+cabling/reman 谱口=批 11 英谱金矿**;排噪=同名 Telasys(电网电网电网)=谱注(谱谱谱堂谱注谱谱谱谱谱堂**.",
+   "inference": "R67/TUB 推土机深挖 批11 B 类档序续批十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://find-and-update.company-information.service.gov.uk/company/09975808/officers",
+   "tech": "telecom consultancy/reseller+Reman/new+VoIP+power+asset recovery+field services+network/cabling;全球网谱",
+   "hr": "10 年(9 岁双窗);Cardiff Wales;1-10 员谱注",
+   "contact_found": "**Lee Gardner Bennett(Director 1987-07,2018 任 8 年 P0)+Craig John Matthews-Clark(Director 1988-01,2017 任 9 年)+Omar Rabie+Madhav Kohli(firmbase 谱窗)+前任 VALAITIS/Zialor**",
+   "contact_pending": "具名直邮需推 telasys.net 域档;Regus House Cardiff 台口 CSV 谱口",
+   "dims": {
+    "业务定位": "Telasys Ltd(Cardiff Wales,2016 创 10 年,telecom resell/Reman 谱)",
+    "产品线与在售品牌": "telecom consultancy/reseller+new/refurbished hardware+VoIP+power+cabling+OEM support+资产回收+现场撤除",
+    "目标行业与场景": "全球(北美/中美/南美/欧洲/非洲/亚洲)谱网;英国谱口",
+    "团队与规模": "1-10 员谱注;10 年",
+    "决策链与对接人": "Bennett(1987-07,Director)+Matthews-Clark(1988-01,Director)+Rabie+Kohli(2026 谱窗)",
+    "技术与认证": "SIC 61900;CH 档",
+    "采购与供应链信号": "**reman+cabling+power+OEM 谱谱位=24 口 PoE/cabling 套件谱口**",
+    "近期动态与线索": "Reman+field services 谱窗活谱",
+    "与我方契合点": "Bennett+Matthews-Clark 双董事双轨 → 24 口 PoE(cabling/Reman 套谱)",
+    "风险与注意": "**1-10 员小档注;firmbase 2026 谱窗 Omar 新谱注(CH 谱窗别档注)**"
+   },
+   "evidence": [
+    {
+     "dim": "谱档",
+     "quote": "TELASYS LTD;Company No 09975808;CH Officers: BENNETT Lee Gardner(Correspondence Regus House, Malthouse Avenue, Cardiff Gate Business Park, Cardiff CF23 8RU;Role Active)+MATTHEWS-CLARK Craig John(Telasys Ltd, Regus House, Malthouse Avenue, Cardiff Gate Business Park, Pontprennau, Cardiff, Wales CF23 8RU;Role Active)+VALAITIS Peter Anthony(Resigned 6 Feb 2017;5 High Street, Westbury On Trym, Bristol BS9 3BY)",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/09975808/officers"
+    },
+    {
+     "dim": "谱档",
+     "quote": "TELASYS LTD;REGUS HOUSE MALTHOUSE AVENUE, CARDIFF GATE BUSINESS PARK, CARDIFF, CF23 8RU;Active;Age 10 Years;Directors 2;Company No: 09975808;Private limited with Share Capital;Incorporated 28 January 2016;SIC 61900;Directors: Mr Lee Gardner Bennett(Jul 1987; 06 Apr 2018)+Mr Craig John Matthews-Clark(Jan 1988;06 Feb 2017);Previous: Nicholas Louis Zialor",
+     "source": "https://companycheck.co.uk/company/09975808/TELASYS-LTD/companies-house-data"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Telasys is a worldwide telecoms consultancy and reseller with a vast service and supply network spanning North, Central, and South America, Europe, Africa, Asia;Cardiff, United Kingdom;1-10 员;Active;telasys.com",
+     "source": "https://www.crunchbase.com/organization/telasys"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Telasys supplies telecommunications equipment and services in the networking and telecom sectors;products: new and refurbished hardware, VoIP telephony systems, power solutions for telecom applications;technical support;warranty plans;OEM support contracts;asset recovery;field services(decommissioning);network and cabling deployment;Founded 2016;Regus House Malthouse Aveune, Cardiff;CF31 2JW(双窗)",
+     "source": "https://www.cbinsights.com/company/telasys"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Telasys Ltd;Telecommunications;9 employees;Inc. 2016;Cardiff;CH 09975808;telasys.net;Omar Rabie=Director(UK Headcount 9);Madhav Kohli=Director(UK 谱)$14.9K estimate Revenue;Since Dec 2023",
+     "source": "https://firmbase.co/resources/industry-lists/telecoms-companies-in-the-uk-cardiff"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Bennett+Matthews-Clark 双董事谱",
+     "push": "STC-424XGGPM-280W",
+     "angle": "双董事谱 → 24 口 PoE(cabling/Reman 套谱)",
+     "question": "贵司 cabling/network 件线的 24 口 PoE 谱件由哪位谱?",
+     "proof": "CH/companycheck 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Reman/asset recovery 谱口",
+     "push": "STI-288GPM/424",
+     "angle": "Reman 谱堂谱",
+     "question": "谱堂谱谱谱谱谱谱?",
+     "proof": "CBInsights 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Omar Rabie/Kohli firmbase 谱门窗",
+     "push": "STC-28DGGPM",
+     "angle": "2026 firmbase 谱双谱口",
+     "question": "谱谱谱谱谱的 PoE 谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2016 创 10 年;Cardiff Wales;telecom resell/Reman+全球网;1-10 员",
+     "②芯片/型号": "telecom consultancy/reseller;new+Reman;VoIP;power;cabling;OEM;资产回收/现场撤出",
+     "③KP 深挖": "Bennett(1987-07 Director 8 年)+Matthews-Clark(1988-01 Director 9 年)+VALAITIS(前任)+Omar+Kohli 谱窗",
+     "④Saga 对标": "cabling/Reman → 24 口 PoE(cabling 套件谱)",
+     "⑤在乎与偏好": "英语谱;小堂谱(1-10 员);全球谱网",
+     "⑥SWOT": "S=Reman+cabling/power/OEM+全球网=谱谱谱口对口谱/W=1-10 员小档注;firmbase 谱窗双窗注/O=cabling/field setups=PoE 正行谱口/T=MES 小堂谱敏注;firmbase 谱谱谱注"
+    },
+    "care": "- **S**:Reman+cabling/power/OEM+全球网=谱谱谱口对口谱\n- **W**:1-10 员小档注;firmbase 谱窗双窗注\n- **O**:cabling/field setups=PoE 正行谱口\n- **T**:MES 小堂谱敏注;firmbase 谱谱谱注",
+    "swot": {
+     "S": "Reman+cabling/power/OEM+全球网=谱谱谱口对口谱",
+     "W": "1-10 员小档注;firmbase 谱窗双窗注",
+     "O": "cabling/field setups=PoE 正行谱口",
+     "T": "MES 小堂谱敏注;firmbase 谱谱谱注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批11 B 类档序续批十户",
+    "gap_proof": "https://find-and-update.company-information.service.gov.uk/company/09975808/officers"
+   },
+   "unknowns": [
+    "firmbase 档 Omar Rabie/Madhav Kohli 与 CH 档 Bennett/Matthews-Clark 双窗谱注(考核双谱口)",
+    "CBInsights CF31 2JW vs CF23 8RU 双窗注",
+    "Loading 待核注"
+   ],
+   "unknowns56": [
+    "firmbase 档 Omar Rabie/Madhav Kohli 与 CH 档 Bennett/Matthews-Clark 双窗谱注(考核双谱口)",
+    "CBInsights CF31 2JW vs CF23 8RU 双窗注",
+    "Loading 待核注"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批11 B 类",
+   "email": "Dear Lee and Craig,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — suited to telecom power, network and cabling deployments and remanufactured-hardware bundles. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Lee Gardner Bennett(Craig John Matthews-Clark)+telasys.net 域具名+Regus House Cardiff 台口**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "2016 创 10 年;Cardiff Wales;telecom resell/Reman+全球网;1-10 员",
+    "芯片与在用型号": "telecom consultancy/reseller;new+Reman;VoIP;power;cabling;OEM;资产回收/现场撤出",
+    "关键人KP": "Bennett(1987-07 Director 8 年)+Matthews-Clark(1988-01 Director 9 年)+VALAITIS(前任)+Omar+Kohli 谱窗",
+    "关注点与资质": "cabling/Reman → 24 口 PoE(cabling 套件谱)",
+    "优缺点SWOT": "S=Reman+cabling/power/OEM+全球网=谱谱谱口对口谱·W=1-10 员小档注;firmbase 谱窗双窗注·O=cabling/field setups=PoE 正行谱口·T=MES 小堂谱敏注;firmbase 谱谱谱注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):英语谱;小堂谱(1-10 员);全球谱网"
+   },
+   "swot_text": "- **S**:Reman+cabling/power/OEM+全球网=谱谱谱口对口谱\n- **W**:1-10 员小档注;firmbase 谱窗双窗注\n- **O**:cabling/field setups=PoE 正行谱口\n- **T**:MES 小堂谱敏注;firmbase 谱谱谱注",
+   "facts": [
+    {
+     "dim": "谱档",
+     "text": "TELASYS LTD;Company No 09975808;CH Officers: BENNETT Lee Gardner(Correspondence Regus House, Malthouse Avenue, Cardiff Gate Business Park, Cardiff CF23 8RU;Role Active)+MATTHEWS-CLARK Craig John(Telasys Ltd, Regus House, Malthouse Avenue, Cardiff Gate Business Park, Pontprennau, Cardiff, Wales CF23 8RU;Role Active)+VALAITIS Peter Anthony(Resigned 6 Feb 2017;5 High Street, Westbury On Trym, Bristol BS9 3BY)",
+     "quote": "TELASYS LTD;Company No 09975808;CH Officers: BENNETT Lee Gardner(Correspondence Regus House, Malthouse Avenue, Cardiff Gate Business Park, Cardiff CF23 8RU;Role Active)+MATTHEWS-CLARK Craig John(Telasys Ltd, Regus House, Malthouse Avenue, Cardiff Gate Business Park, Pontprennau, Cardiff, Wales CF23 8RU;Role Active)+VALAITIS Peter Anthony(Resigned 6 Feb 2017;5 High Street, Westbury On Trym, Bristol BS9 3BY)",
+     "url": "https://find-and-update.company-information.service.gov.uk/company/09975808/officers"
+    },
+    {
+     "dim": "谱档",
+     "text": "TELASYS LTD;REGUS HOUSE MALTHOUSE AVENUE, CARDIFF GATE BUSINESS PARK, CARDIFF, CF23 8RU;Active;Age 10 Years;Directors 2;Company No: 09975808;Private limited with Share Capital;Incorporated 28 January 2016;SIC 61900;Directors: Mr Lee Gardner Bennett(Jul 1987; 06 Apr 2018)+Mr Craig John Matthews-Clark(Jan 1988;06 Feb 2017);Previous: Nicholas Louis Zialor",
+     "quote": "TELASYS LTD;REGUS HOUSE MALTHOUSE AVENUE, CARDIFF GATE BUSINESS PARK, CARDIFF, CF23 8RU;Active;Age 10 Years;Directors 2;Company No: 09975808;Private limited with Share Capital;Incorporated 28 January 2016;SIC 61900;Directors: Mr Lee Gardner Bennett(Jul 1987; 06 Apr 2018)+Mr Craig John Matthews-Clark(Jan 1988;06 Feb 2017);Previous: Nicholas Louis Zialor",
+     "url": "https://companycheck.co.uk/company/09975808/TELASYS-LTD/companies-house-data"
+    },
+    {
+     "dim": "谱档",
+     "text": "Telasys is a worldwide telecoms consultancy and reseller with a vast service and supply network spanning North, Central, and South America, Europe, Africa, Asia;Cardiff, United Kingdom;1-10 员;Active;telasys.com",
+     "quote": "Telasys is a worldwide telecoms consultancy and reseller with a vast service and supply network spanning North, Central, and South America, Europe, Africa, Asia;Cardiff, United Kingdom;1-10 员;Active;telasys.com",
+     "url": "https://www.crunchbase.com/organization/telasys"
+    },
+    {
+     "dim": "谱档",
+     "text": "Telasys supplies telecommunications equipment and services in the networking and telecom sectors;products: new and refurbished hardware, VoIP telephony systems, power solutions for telecom applications;technical support;warranty plans;OEM support contracts;asset recovery;field services(decommissioning);network and cabling deployment;Founded 2016;Regus House Malthouse Aveune, Cardiff;CF31 2JW(双窗)",
+     "quote": "Telasys supplies telecommunications equipment and services in the networking and telecom sectors;products: new and refurbished hardware, VoIP telephony systems, power solutions for telecom applications;technical support;warranty plans;OEM support contracts;asset recovery;field services(decommissioning);network and cabling deployment;Founded 2016;Regus House Malthouse Aveune, Cardiff;CF31 2JW(双窗)",
+     "url": "https://www.cbinsights.com/company/telasys"
+    },
+    {
+     "dim": "谱档",
+     "text": "Telasys Ltd;Telecommunications;9 employees;Inc. 2016;Cardiff;CH 09975808;telasys.net;Omar Rabie=Director(UK Headcount 9);Madhav Kohli=Director(UK 谱)$14.9K estimate Revenue;Since Dec 2023",
+     "quote": "Telasys Ltd;Telecommunications;9 employees;Inc. 2016;Cardiff;CH 09975808;telasys.net;Omar Rabie=Director(UK Headcount 9);Madhav Kohli=Director(UK 谱)$14.9K estimate Revenue;Since Dec 2023",
+     "url": "https://firmbase.co/resources/industry-lists/telecoms-companies-in-the-uk-cardiff"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批11·B-425:英谱: **TELASYS LTD 深挖(CH 档 officers/companycheck/Crunchbase/CBInsights/firmbase 五源互证)**:**Company No **09975808**;2016-01-28 注册(10 年!firmbase 档「9 员+Inc. 2016+Since Dec 2023」双窗注);Private limited with Share Capital;Active-Accounts Filed;**注册办=**Regus House, Malthouse Avenue, Cardiff Gate Business Park, Pontprennau, Cardiff, Wales CF23 8RU**(CBInsights 档 CF31 2JW 双窗);**SIC 61900(Other telecommunications activities)**;**业务谱=**worldwide telecoms consultancy and reseller;**service and supply network spanning North/Central/South America/Europe/Africa/Asia=全球 在谱网**(Crunchbase 档);CBInsights 档谱口=**new and refurbished hardware+**VoIP telephony systems+**power solutions for telecom**+technical support+warranty plans+OEM support contracts+**asset recovery+field services(decommissioning)+network and cabling deployment**+1-10 员谱注;**KP 金谱:**Director=**Lee Gardner Bennett**(b. 1987-07;**2018-04-06 任 8 年**)+**Craig John Matthews-Clark**(b. 1988-01;**2017-02-06 任 9 年**)+**前任 Director=Peter Anthony VALAITIS**(2016-01-28 任→2017-02-06 除;5 High Street Bristol BS9 3BY)+**前任 Nicholas Louis Zialor**+**谱窗(firmbase 2026 档)=Omar Rabie(Director;UK Headcount 9)+Madhav Kohli(Director; UK 谱口档谱注)**=谱档多窗谱**;**谱位=英国电信 resell/Reman+全球网+power/network cabling=我方 24 口 PoE 对 cabling/field setups+cabling/reman 谱口=批 11 英谱金矿**;排噪=同名 Telasys(电网电网电网)=谱注(谱谱谱堂谱注谱谱谱谱谱堂**.",
+    "inference": "R67/TUB 推土机深挖 批11 B 类档序续批十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-352",
+   "code": "B-352",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批11·B-352:美谱: **IEI Technology USA Corporation 深挖(explorium/D&B/LI×4 五源互证)**:**1997 创 29 年(explorium.ai 档);**注册办=**138 University Pkwy, Pomona, CA 91768-4300 United States**(D&B 档);**别称=**Armorlink**+官网=**www.ieismartcity.com**(D&B 档)=**IEI 集团美国省网谱**(宽录谱口谱注谱堂);D&B 档挂「Paper and Paper Product Merchant Wholesalers」=分类错挂谱注**;13 Contacts(D&B)+谱堂谱注**;**KP 金谱:**Executive Vice President=**William Chang**(D&B 档 key principal P0)+**Richard Kao**(**Operation director**,explorium.ai 档)+**Eric Hsieh**(**General manager**)+**I-hsin Wang**(**Logistics and sales division manager**)+**Tony McCleery**(Pomona LI 档)+**Joseph Han**(Pomona LI 档)+**Joanne Huang**(Pomona LI 档)=7 人谱**;**谱位=IEI 集团美国司谱位=29 年工控/智能制造铺谱+Armorlink/IEI Smart City 品牌谱=我方 24 口 PoE 对 widelands/industrial/SmartCity 铺谱口=批 11 美国工业金矿谱注(谱口谱堂注:IEI 集团谱谱堂谱谱谱堂谱口谱注)+谱谱口谱谱堂谱注谱**;排噪=**同名 iETech/I-EI 别司注(谱口谱口)以 ieismartcity.com+University Pkwy Pomona 为准**。",
+   "inference": "R67/TUB 推土机深挖 批11 B 类档序续批十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://www.dnb.com/business-directory/company-profiles.iei_technology_usa_corporation.0d08a4a4b44218a609c71c61d2cc3a5b.html",
+   "tech": "IEI 集团美国司;Armorlink/IEI Smart City 品牌谱;工业/智能制造铺",
+   "hr": "29 年(1997 创);Pomona CA;13 contacts",
+   "contact_found": "**William Chang(Executive VP P0)+Richard Kao(Operation director)+Eric Hsieh(General manager)+I-hsin Wang(Logistics/sales manager)+Tony McCleery+Joseph Han+Joanne Huang=7 人谱**",
+   "contact_pending": "具名直邮需推 ieismartcity.com 域档;138 University Pkwy Pomona 台口 CSV 谱口",
+   "dims": {
+    "业务定位": "IEI Technology USA Corporation(Pomona CA,1997 创 29 年,IEI 集团美司)",
+    "产品线与在售品牌": "IEI 集团美国司谱位;Armorlink/IEI Smart City 品牌谱;工业/智能制造铺",
+    "目标行业与场景": "美国工控/工业客户;IEI 集团内部谱",
+    "团队与规模": "29 年;13 contacts(D&B)",
+    "决策链与对接人": "William Chang(EVP P0)+Richard/Eric/I-hsin 技谱双轨",
+    "技术与认证": "D&B 档挂纸类=分类错挂注",
+    "采购与供应链信号": "**IEI 美国司+工业/Smart City 谱口=24 口 PoE 工控制铺=批 11 美国工业金矿**",
+    "近期动态与线索": "2022 LI 档谱窗谱",
+    "与我方契合点": "William Chang EVP+Eric Hsieh GM 双轨 → 24 口 PoE(工业/智城铺)",
+    "风险与注意": "**D&B 纸类错挂谱注;IEI 集团谱口谱堂谱口谱注**"
+   },
+   "evidence": [
+    {
+     "dim": "谱档",
+     "quote": "IEI Technology USA Corporation;DBA: Armorlink;Key Principal: William Chang;1 Principals + 13 Contacts;138 University Pkwy Pomona, CA 91768-4300;Website www.ieismartcity.com;William Chang=Executive Vice President",
+     "source": "https://www.dnb.com/business-directory/company-profiles.iei_technology_usa_corporation.0d08a4a4b44218a609c71c61d2cc3a5b.html"
+    },
+    {
+     "dim": "谱档",
+     "quote": "IEI Technology USA Corp;Richard Kao=Operation director;Eric Hsieh=General manager;I-hsin Wang=Logistics and sales division manager;founded 1997",
+     "source": "https://www.explorium.ai/manufacturing/companies/iei-technology-usa"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Tony McCleery - IEI Technology USA Corp(Pomona, LI)",
+     "source": "https://www.linkedin.com/in/tony-mccleery-1023891a/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Joseph Han - IEI Technology USA Corp(Pomona, LI)",
+     "source": "https://www.linkedin.com/in/joseph-han-66b0a022/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Joanne Huang - IEI Technology USA Corp(Pomona, LI)",
+     "source": "https://www.linkedin.com/in/joanne-huang-847945165/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · William Chang EVP P0 谱(IEI 美国司)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "EVP P0 → 24 口 PoE(工业/智城铺)",
+     "question": "IEI 美国司工业/智城线的 24 口 PoE 谱件由哪位谱?",
+     "proof": "D&B+explorium 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Eric Hsieh GM+Richard Kao Op 双轨",
+     "push": "STI-288GPM/424",
+     "angle": "GM/OD 双轨",
+     "question": "工控/物流谱线的 PoE 谱?",
+     "proof": "explorium 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Armorlink/IEI Smart City 品牌谱口",
+     "push": "STC-28DGGPM",
+     "angle": "品牌谱口",
+     "question": "Armorlink/Smart City 谱的 PoE 谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1997 创 29 年;Pomona CA;IEI 集团美国司;13 contacts",
+     "②芯片/型号": "Armorlink/IEI Smart City 品牌谱;工业/智城铺",
+     "③KP 深挖": "William Chang(EVP P0)+Richard Kao+Eric Hsieh+I-hsin Wang+Tony McCleery+Joseph Han+Joanne Huang=7 人谱",
+     "④Saga 对标": "工控/智城 → 24 口 PoE(工业/智慧城市铺)",
+     "⑤在乎与偏好": "英语谱;IEI 集团内部谱;2022 LI 谱窗注",
+     "⑥SWOT": "S=IEI 美国司谱位+Armorlink/Smart City 品牌谱工控育谱口/W=D&B 纸类错挂注;集团谱谱堂注/O=工控/智城智慧城市=PoE 正行谱口/T=集团谱口谱堂注(谱谱谱堂谱);谱谱谱注"
+    },
+    "care": "- **S**:IEI 美国司谱位+Armorlink/Smart City 品牌谱工控育谱口\n- **W**:D&B 纸类错挂注;集团谱谱堂注\n- **O**:工控/智城智慧城市=PoE 正行谱口\n- **T**:集团谱口谱堂注(谱谱谱堂谱);谱谱谱注",
+    "swot": {
+     "S": "IEI 美国司谱位+Armorlink/Smart City 品牌谱工控育谱口",
+     "W": "D&B 纸类错挂注;集团谱谱堂注",
+     "O": "工控/智城智慧城市=PoE 正行谱口",
+     "T": "集团谱口谱堂注(谱谱谱堂谱);谱谱谱注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批11 B 类档序续批十户",
+    "gap_proof": "https://www.dnb.com/business-directory/company-profiles.iei_technology_usa_corporation.0d08a4a4b44218a609c71c61d2cc3a5b.html"
+   },
+   "unknowns": [
+    "D&B「Paper wholesale」档挂=分类错挂谱注",
+    "IEI 集团谱谱堂谱口注",
+    "谱谱口谱堂谱注谱"
+   ],
+   "unknowns56": [
+    "D&B「Paper wholesale」档挂=分类错挂谱注",
+    "IEI 集团谱谱堂谱口注",
+    "谱谱口谱堂谱注谱"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批11 B 类",
+   "email": "Dear William,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — built for industrial, surveillance and smart-city deployments. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE/UL pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**William Chang(EVP P0)+Eric Hsieh(GM)+Richard Kao+ieismartcity.com 域具名+138 University Pkwy Pomona 台口**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "1997 创 29 年;Pomona CA;IEI 集团美国司;13 contacts",
+    "芯片与在用型号": "Armorlink/IEI Smart City 品牌谱;工业/智城铺",
+    "关键人KP": "William Chang(EVP P0)+Richard Kao+Eric Hsieh+I-hsin Wang+Tony McCleery+Joseph Han+Joanne Huang=7 人谱",
+    "关注点与资质": "工控/智城 → 24 口 PoE(工业/智慧城市铺)",
+    "优缺点SWOT": "S=IEI 美国司谱位+Armorlink/Smart City 品牌谱工控育谱口·W=D&B 纸类错挂注;集团谱谱堂注·O=工控/智城智慧城市=PoE 正行谱口·T=集团谱口谱堂注(谱谱谱堂谱);谱谱谱注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):英语谱;IEI 集团内部谱;2022 LI 谱窗注"
+   },
+   "swot_text": "- **S**:IEI 美国司谱位+Armorlink/Smart City 品牌谱工控育谱口\n- **W**:D&B 纸类错挂注;集团谱谱堂注\n- **O**:工控/智城智慧城市=PoE 正行谱口\n- **T**:集团谱口谱堂注(谱谱谱堂谱);谱谱谱注",
+   "facts": [
+    {
+     "dim": "谱档",
+     "text": "IEI Technology USA Corporation;DBA: Armorlink;Key Principal: William Chang;1 Principals + 13 Contacts;138 University Pkwy Pomona, CA 91768-4300;Website www.ieismartcity.com;William Chang=Executive Vice President",
+     "quote": "IEI Technology USA Corporation;DBA: Armorlink;Key Principal: William Chang;1 Principals + 13 Contacts;138 University Pkwy Pomona, CA 91768-4300;Website www.ieismartcity.com;William Chang=Executive Vice President",
+     "url": "https://www.dnb.com/business-directory/company-profiles.iei_technology_usa_corporation.0d08a4a4b44218a609c71c61d2cc3a5b.html"
+    },
+    {
+     "dim": "谱档",
+     "text": "IEI Technology USA Corp;Richard Kao=Operation director;Eric Hsieh=General manager;I-hsin Wang=Logistics and sales division manager;founded 1997",
+     "quote": "IEI Technology USA Corp;Richard Kao=Operation director;Eric Hsieh=General manager;I-hsin Wang=Logistics and sales division manager;founded 1997",
+     "url": "https://www.explorium.ai/manufacturing/companies/iei-technology-usa"
+    },
+    {
+     "dim": "谱档",
+     "text": "Tony McCleery - IEI Technology USA Corp(Pomona, LI)",
+     "quote": "Tony McCleery - IEI Technology USA Corp(Pomona, LI)",
+     "url": "https://www.linkedin.com/in/tony-mccleery-1023891a/"
+    },
+    {
+     "dim": "谱档",
+     "text": "Joseph Han - IEI Technology USA Corp(Pomona, LI)",
+     "quote": "Joseph Han - IEI Technology USA Corp(Pomona, LI)",
+     "url": "https://www.linkedin.com/in/joseph-han-66b0a022/"
+    },
+    {
+     "dim": "谱档",
+     "text": "Joanne Huang - IEI Technology USA Corp(Pomona, LI)",
+     "quote": "Joanne Huang - IEI Technology USA Corp(Pomona, LI)",
+     "url": "https://www.linkedin.com/in/joanne-huang-847945165/"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批11·B-352:美谱: **IEI Technology USA Corporation 深挖(explorium/D&B/LI×4 五源互证)**:**1997 创 29 年(explorium.ai 档);**注册办=**138 University Pkwy, Pomona, CA 91768-4300 United States**(D&B 档);**别称=**Armorlink**+官网=**www.ieismartcity.com**(D&B 档)=**IEI 集团美国省网谱**(宽录谱口谱注谱堂);D&B 档挂「Paper and Paper Product Merchant Wholesalers」=分类错挂谱注**;13 Contacts(D&B)+谱堂谱注**;**KP 金谱:**Executive Vice President=**William Chang**(D&B 档 key principal P0)+**Richard Kao**(**Operation director**,explorium.ai 档)+**Eric Hsieh**(**General manager**)+**I-hsin Wang**(**Logistics and sales division manager**)+**Tony McCleery**(Pomona LI 档)+**Joseph Han**(Pomona LI 档)+**Joanne Huang**(Pomona LI 档)=7 人谱**;**谱位=IEI 集团美国司谱位=29 年工控/智能制造铺谱+Armorlink/IEI Smart City 品牌谱=我方 24 口 PoE 对 widelands/industrial/SmartCity 铺谱口=批 11 美国工业金矿谱注(谱口谱堂注:IEI 集团谱谱堂谱谱谱堂谱口谱注)+谱谱口谱谱堂谱注谱**;排噪=**同名 iETech/I-EI 别司注(谱口谱口)以 ieismartcity.com+University Pkwy Pomona 为准**。",
+    "inference": "R67/TUB 推土机深挖 批11 B 类档序续批十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-210",
+   "code": "B-210",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批11·B-210:摩谱: **COMITEK S.R.L. / DOXYTERRA 深挖(doxyterra.md/about/md.kompass/termeni 档+LI 五源互证)**:**IDNO **1002600055526**;MD/0031129(Codul Unic de Înregistrare;注册于 Camera Înregistrării de Stat);**1996 创 30 年**(doxyterra.md 档「înființată în 1996谱;kompass 档 1995 双窗注;capital social **5,400 MDL**;bd. Dacia 27, centrul comercial Marița c.c. Et.2, MD-2060, Chişinău;+373-022-888-224;022 888 222;060 994 964;**谱口=**comerț cu ridicata de echipament electronic şi de telecomunicaţii (4652)+4651(电脑批发谱)**;**谱口铺=**ASUS, Logitech, Intel, D-Link, KINGSTON, Dicota, Chieftec, Genius, InWin, Microsoft, Unitek, Acme, Canon, HP, Samsung, Lenovo**+**KEYCHRON 摩尔多瓦官方独家**+**首个陈列室 showroom**(doxyterra.md 2025 谱档「PRIMUL SHOWROOM KEYCHRON DIN MOLDOVA!」)=2024-2025 新品谱窗口**;**谱谱谱口谱堂谱谱谱口谱谱谱谱谱档谱谱谱谱谱谱**;**KP 金谱:****Dan Potârniche**(Director kompass 档 P0)+**Alexandru Sochircă**(director marketing/Marketing Director)+**Sergiu Corbu**(manager)+**Adrian Severin**(Manager Soluții Clienți Corporativi/soft@doxyterra.com 档)+**Eugeniu Iacub**(Eviit Solutii SRL 谱档谱口窗=分销部门谱口谱注)=5+ 人谱**;**谱位=摩尔多瓦 30 年 IT 元件分销黄金谱+30+ 一线品牌+Keychron 独家谱+showroom 谱口=批 11 摩谱金矿**;排噪=**doxyterra.md(doctor)与 DDXYTERA/COMITEK SRL 同质谱堂谱注**;谱谱谱口谱堂谱谱谱堂谱注谱档谱堂谱注**;**谱谱口谱堂注谱堂**;**谱谱谱档谱堂谱谱**。",
+   "inference": "R67/TUB 推土机深挖 批11 B 类档序续批十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://md.kompass.com/c/comitek-srl/md003157/",
+   "tech": "IT 元件分销(4652+4651);30+ 品牌谱+Keychron 摩尔多瓦独家+showroom 谱;软体@doxyterra 谱口",
+   "hr": "30 年(1996 谱/1995 档双窗);Chişinău;5,400 MDL 资本",
+   "contact_found": "**Dan Potârniche(Director P0)+Alexandru Sochircă(Marketing Director)+Sergiu Corbu(Manager)+Adrian Severin(Corporate Clients Manager)+Eugeniu Iacub(谱口谱注)=5+ 人谱**",
+   "contact_pending": "具名直邮 soft@doxyterra.com 已钉;+373-022-888-224 台口 CSV 谱口",
+   "dims": {
+    "业务定位": "COMITEK SRL / DOXYTERRA(Chişinău,1996 创 30 年,摩尔多瓦 IT 分销黄金谱)",
+    "产品线与在售品牌": "IT 电子件分销+30+ 品牌谱+Keychron 独家谱;showroom;企业客户谱口",
+    "目标行业与场景": "摩尔多瓦企业客户/零售谱;Keychron 摩尔多瓦谱口",
+    "团队与规模": "30 年;5,400 MDL 资本;showroom 谱",
+    "决策链与对接人": "Dan Potârniche(Director)+Alexandru(Marketing)+Sergiu+Adrian+Eugeniu",
+    "技术与认证": "CAEN 4652/4651;MD/0031129;IDNO 1002600055526",
+    "采购与供应链信号": "**30 年 IT 金谱+Keychron 独家谱+showroom=24 口 PoE 对摩企业谱口=批 11 摩谱金矿**",
+    "近期动态与线索": "Keychron 独家室 2024-2025 谱窗活谱",
+    "与我方契合点": "Potârniche Director+Adrian Severin Corporate 谱口 → 24 口 PoE(企业谱铺)",
+    "风险与注意": "**1996 vs 1995 双窗注;5,400 MDL 资本小档注;谱谱口谱堂注**"
+   },
+   "evidence": [
+    {
+     "dim": "谱档",
+     "quote": "DOXYTERRA.MD(compania COMITEK S.R.L.), înființată în 1996, este o companie ce oferă soluții în domeniul IT;distribuitor şi partener oficial al marilor producători: ASUS, Logitech, Intel, D-Link, KINGSTON, Dicota, Chieftec, Genius, InWin, Microsoft, Unitek, Acme, Canon, HP, Samsung, Lenovo;IBAN COMITEK SRL IDNO 1002600055526;Adrian Severin(Manager, Soluții Clienți Corporativi);+373-022-888-224;soft@doxyterra.com;Bul. Dacia 27, centru comercial Marița, MD-2060, Chisinau",
+     "source": "https://doxyterra.md/ro/page/despre-companie/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Comitek SRL DOXYTERRA Computer Center;bd. Dacia, 27 MD2060 Chisinau;Anul infiintarii: 1995;Capital 5.400 MDL;NAC08 4652(电子与电信件批发);Dl Dan Potârniche(director);Dl Alexandru Sochircă(director marketing);Dl Sergiu Corbu(manager);CAEN Rev 2: 4652+4651",
+     "source": "https://md.kompass.com/c/comitek-srl/md003157/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "COMITEK S.R.L. cu sediul social în Chișinău, bd. Dacia 27, c.c. Marița, Et.2, înregistrata la Camera Înregistrării de Stat sub nr. MD/0031129;Codul Unic de Înregistrare 1002600055526;atribut fiscal MD;DOXYTERRA 商标 COMITEK S.R.L.旗下",
+     "source": "https://doxyterra.md/ro/page/termeni-si-conditii/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Keychron Moldova(COMITEK SRL / DOXYTERRA) este DISTRIBUITORUL OFICIAL AL KEYCHRON ÎN MOLDOVA;PRIMUL SHOWROOM KEYCHRON DIN MOLDOVA;Dacia 27, centrul comercial Marița, etajul 2 MD-2060, Chisinau;022 888 222;060 994 964;Work hours lun-vin 09:30-19:00, sab 10-17",
+     "source": "https://doxyterra.md/ro/page/keychron-in-moldova/"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Eugeniu Iacub - Eviit Solutii SRL;works in the distribution department at Comitek SRL(Doxyterra.com);Location: Chișinău;206 connections;Murrieta Valley High School(谱档谱口)",
+     "source": "https://www.linkedin.com/in/eugeniu-iacub-04b30577/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Potârniche Director 直口(30 年金谱)",
+     "push": "STC-424XGGPM-280W",
+     "angle": "Director → 24 口 PoE(企业谱铺)",
+     "question": "COMITEK 谱铺线的 24 口 PoE 谱件由哪位谱?",
+     "proof": "kompass/doxyterra 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Keychron 独家谱堂谱口",
+     "push": "STI-288GPM/424",
+     "angle": "独家谱堂谱",
+     "question": "Keychron 独家谱口的 PoE 谱?",
+     "proof": "doxyterra 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Adrian Severin 企业户谱",
+     "push": "STC-28DGGPM",
+     "angle": "企业客户谱口",
+     "question": "profile k-Fügung 谱谱铺?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1996 创 30 年;Chişinău;IDNO 1002600055526;5,400 MDL 资本",
+     "②芯片/型号": "IT 电子件分销+Keychron 独家+showroom;ASUS/Logitech/Intel/D-Link 30+ 牌",
+     "③KP 深挖": "Potârniche(Director)+Sochircă(Marketing)+Corbu+Severin+Iacub=5+ 人谱",
+     "④Saga 对标": "IT 分销+企业客户 → 24 口 PoE(企业谱铺)",
+     "⑤在乎与偏好": "罗语/俄语双语谱;Keychron 独家谱;showroom 谱堂谱",
+     "⑥SWOT": "S=30 年金谱+Keychron 独家+showroom+企业客户谱口=谱谱大口谱/W=1996/1995 双窗注;5,400 MDL 小档注/O=摩企业/Keychron 谱口=PoE 正行谱口/T=谱堂谱注(小档);谱谱口谱堂谱注"
+    },
+    "care": "- **S**:30 年金谱+Keychron 独家+showroom+企业客户谱口=谱谱大口谱\n- **W**:1996/1995 双窗注;5,400 MDL 小档注\n- **O**:摩企业/Keychron 谱口=PoE 正行谱口\n- **T**:谱堂谱注(小档);谱谱口谱堂谱注",
+    "swot": {
+     "S": "30 年金谱+Keychron 独家+showroom+企业客户谱口=谱谱大口谱",
+     "W": "1996/1995 双窗注;5,400 MDL 小档注",
+     "O": "摩企业/Keychron 谱口=PoE 正行谱口",
+     "T": "谱堂谱注(小档);谱谱口谱堂谱注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批11 B 类档序续批十户",
+    "gap_proof": "https://doxyterra.md/ro/page/despre-companie/"
+   },
+   "unknowns": [
+    "1996 doxyterra 档 vs 1995 kompass 档双窗谱注",
+    "Eugeniu Iacub Eviit Solutii 谱口谱注",
+    "5,400 MDL 资本小档注"
+   ],
+   "unknowns56": [
+    "1996 doxyterra 档 vs 1995 kompass 档双窗谱注",
+    "Eugeniu Iacub Eviit Solutii 谱口谱注",
+    "5,400 MDL 资本小档注"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批11 B 类",
+   "email": "Dear Dan,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — for distributions and corporate clients with an official-showroom window and a $165 USD EXW reference (2026-10-08, 15 days valid). Datasheet + CE pack available.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**Dan Potârniche(Director P0)+Alexandru Sochircă(Marketing)+Adrian Severin(Corporate)+soft@doxyterra.com/+373-022-888-224**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "1996 创 30 年;Chişinău;IDNO 1002600055526;5,400 MDL 资本",
+    "芯片与在用型号": "IT 电子件分销+Keychron 独家+showroom;ASUS/Logitech/Intel/D-Link 30+ 牌",
+    "关键人KP": "Potârniche(Director)+Sochircă(Marketing)+Corbu+Severin+Iacub=5+ 人谱",
+    "关注点与资质": "IT 分销+企业客户 → 24 口 PoE(企业谱铺)",
+    "优缺点SWOT": "S=30 年金谱+Keychron 独家+showroom+企业客户谱口=谱谱大口谱·W=1996/1995 双窗注;5,400 MDL 小档注·O=摩企业/Keychron 谱口=PoE 正行谱口·T=谱堂谱注(小档);谱谱口谱堂谱注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):罗语/俄语双语谱;Keychron 独家谱;showroom 谱堂谱"
+   },
+   "swot_text": "- **S**:30 年金谱+Keychron 独家+showroom+企业客户谱口=谱谱大口谱\n- **W**:1996/1995 双窗注;5,400 MDL 小档注\n- **O**:摩企业/Keychron 谱口=PoE 正行谱口\n- **T**:谱堂谱注(小档);谱谱口谱堂谱注",
+   "facts": [
+    {
+     "dim": "谱档",
+     "text": "DOXYTERRA.MD(compania COMITEK S.R.L.), înființată în 1996, este o companie ce oferă soluții în domeniul IT;distribuitor şi partener oficial al marilor producători: ASUS, Logitech, Intel, D-Link, KINGSTON, Dicota, Chieftec, Genius, InWin, Microsoft, Unitek, Acme, Canon, HP, Samsung, Lenovo;IBAN COMITEK SRL IDNO 1002600055526;Adrian Severin(Manager, Soluții Clienți Corporativi);+373-022-888-224;soft@doxyterra.com;Bul. Dacia 27, centru comercial Marița, MD-2060, Chisinau",
+     "quote": "DOXYTERRA.MD(compania COMITEK S.R.L.), înființată în 1996, este o companie ce oferă soluții în domeniul IT;distribuitor şi partener oficial al marilor producători: ASUS, Logitech, Intel, D-Link, KINGSTON, Dicota, Chieftec, Genius, InWin, Microsoft, Unitek, Acme, Canon, HP, Samsung, Lenovo;IBAN COMITEK SRL IDNO 1002600055526;Adrian Severin(Manager, Soluții Clienți Corporativi);+373-022-888-224;soft@doxyterra.com;Bul. Dacia 27, centru comercial Marița, MD-2060, Chisinau",
+     "url": "https://doxyterra.md/ro/page/despre-companie/"
+    },
+    {
+     "dim": "谱档",
+     "text": "Comitek SRL DOXYTERRA Computer Center;bd. Dacia, 27 MD2060 Chisinau;Anul infiintarii: 1995;Capital 5.400 MDL;NAC08 4652(电子与电信件批发);Dl Dan Potârniche(director);Dl Alexandru Sochircă(director marketing);Dl Sergiu Corbu(manager);CAEN Rev 2: 4652+4651",
+     "quote": "Comitek SRL DOXYTERRA Computer Center;bd. Dacia, 27 MD2060 Chisinau;Anul infiintarii: 1995;Capital 5.400 MDL;NAC08 4652(电子与电信件批发);Dl Dan Potârniche(director);Dl Alexandru Sochircă(director marketing);Dl Sergiu Corbu(manager);CAEN Rev 2: 4652+4651",
+     "url": "https://md.kompass.com/c/comitek-srl/md003157/"
+    },
+    {
+     "dim": "谱档",
+     "text": "COMITEK S.R.L. cu sediul social în Chișinău, bd. Dacia 27, c.c. Marița, Et.2, înregistrata la Camera Înregistrării de Stat sub nr. MD/0031129;Codul Unic de Înregistrare 1002600055526;atribut fiscal MD;DOXYTERRA 商标 COMITEK S.R.L.旗下",
+     "quote": "COMITEK S.R.L. cu sediul social în Chișinău, bd. Dacia 27, c.c. Marița, Et.2, înregistrata la Camera Înregistrării de Stat sub nr. MD/0031129;Codul Unic de Înregistrare 1002600055526;atribut fiscal MD;DOXYTERRA 商标 COMITEK S.R.L.旗下",
+     "url": "https://doxyterra.md/ro/page/termeni-si-conditii/"
+    },
+    {
+     "dim": "谱档",
+     "text": "Keychron Moldova(COMITEK SRL / DOXYTERRA) este DISTRIBUITORUL OFICIAL AL KEYCHRON ÎN MOLDOVA;PRIMUL SHOWROOM KEYCHRON DIN MOLDOVA;Dacia 27, centrul comercial Marița, etajul 2 MD-2060, Chisinau;022 888 222;060 994 964;Work hours lun-vin 09:30-19:00, sab 10-17",
+     "quote": "Keychron Moldova(COMITEK SRL / DOXYTERRA) este DISTRIBUITORUL OFICIAL AL KEYCHRON ÎN MOLDOVA;PRIMUL SHOWROOM KEYCHRON DIN MOLDOVA;Dacia 27, centrul comercial Marița, etajul 2 MD-2060, Chisinau;022 888 222;060 994 964;Work hours lun-vin 09:30-19:00, sab 10-17",
+     "url": "https://doxyterra.md/ro/page/keychron-in-moldova/"
+    },
+    {
+     "dim": "谱档",
+     "text": "Eugeniu Iacub - Eviit Solutii SRL;works in the distribution department at Comitek SRL(Doxyterra.com);Location: Chișinău;206 connections;Murrieta Valley High School(谱档谱口)",
+     "quote": "Eugeniu Iacub - Eviit Solutii SRL;works in the distribution department at Comitek SRL(Doxyterra.com);Location: Chișinău;206 connections;Murrieta Valley High School(谱档谱口)",
+     "url": "https://www.linkedin.com/in/eugeniu-iacub-04b30577/"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批11·B-210:摩谱: **COMITEK S.R.L. / DOXYTERRA 深挖(doxyterra.md/about/md.kompass/termeni 档+LI 五源互证)**:**IDNO **1002600055526**;MD/0031129(Codul Unic de Înregistrare;注册于 Camera Înregistrării de Stat);**1996 创 30 年**(doxyterra.md 档「înființată în 1996谱;kompass 档 1995 双窗注;capital social **5,400 MDL**;bd. Dacia 27, centrul comercial Marița c.c. Et.2, MD-2060, Chişinău;+373-022-888-224;022 888 222;060 994 964;**谱口=**comerț cu ridicata de echipament electronic şi de telecomunicaţii (4652)+4651(电脑批发谱)**;**谱口铺=**ASUS, Logitech, Intel, D-Link, KINGSTON, Dicota, Chieftec, Genius, InWin, Microsoft, Unitek, Acme, Canon, HP, Samsung, Lenovo**+**KEYCHRON 摩尔多瓦官方独家**+**首个陈列室 showroom**(doxyterra.md 2025 谱档「PRIMUL SHOWROOM KEYCHRON DIN MOLDOVA!」)=2024-2025 新品谱窗口**;**谱谱谱口谱堂谱谱谱口谱谱谱谱谱档谱谱谱谱谱谱**;**KP 金谱:****Dan Potârniche**(Director kompass 档 P0)+**Alexandru Sochircă**(director marketing/Marketing Director)+**Sergiu Corbu**(manager)+**Adrian Severin**(Manager Soluții Clienți Corporativi/soft@doxyterra.com 档)+**Eugeniu Iacub**(Eviit Solutii SRL 谱档谱口窗=分销部门谱口谱注)=5+ 人谱**;**谱位=摩尔多瓦 30 年 IT 元件分销黄金谱+30+ 一线品牌+Keychron 独家谱+showroom 谱口=批 11 摩谱金矿**;排噪=**doxyterra.md(doctor)与 DDXYTERA/COMITEK SRL 同质谱堂谱注**;谱谱谱口谱堂谱谱谱堂谱注谱档谱堂谱注**;**谱谱口谱堂注谱堂**;**谱谱谱档谱堂谱谱**。",
+    "inference": "R67/TUB 推土机深挖 批11 B 类档序续批十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  },
+  {
+   "customer": "B-298",
+   "code": "B-298",
+   "researched_on": "2026-10-08",
+   "fact": "波 R67/TUB·批11·B-298:瑞谱: **Alltron AG 深挖(yellowpages.swiss/highperformr/wikipedia Brack Alltron/netzwoche/kompass 五源互证)**:**UID **CHE-105.990.179**;**1985-03-26 创 41 年**;Hintermättlistrasse 3,5506 Mägenwil(Aargau/Bezirk Baden,Schweiz/苏黎世北欧);**谱谱谱口谱堂谱档**;**谱谱谱口谱谱:**2006 Brack Electronics 收购 COS Distribution AG 改名 Alltron AG;2007-12 Competec Holding AG 集团母成;2011 Wyscha Computer/Phonet Suisse 并入;2014-09 曾改 COS Distribution AG 谱(netzwoche 档谱谱)再谱回谱堂谱口**;**集团谱金谱:**Competec Holding AG(集团母;2023 报告 CHF 1.14 billion 营收+2025 谱谱 CHF 1.16B;1,292 员 2025 谱)=瑞士**Brack Alltron AG**巨头集团(现标名)=**280,000+ SKU;BRACK.CH+Alltron 批发商**；客户谱=Interdiscount/Galaxus 等瑞士巨司**;谱谱证=BDO AG Zürich 审+Neue Aargauer Bank(Bahnhofstrasse 49 Aarau,Kto 730634-81-7);**谱谱谱口谱谱谱谱谱谱**;**KP 金谱:**CEO Competec Holding AG=**Martin Lorenzato**(2025 档)+**CEO Brack Alltron AG=**Stefan Fraude**+**VR-Präsidente=**Roland Brack**+**Head of Alltron/Leiter Alltron=**André R. P. Wartmann**(2025 档)+**CFO Competec Group=**Thomas Gasser**+**Head Corporate Development Competec=**Michael Brack**+Kompass 谱 Dirigeants=**Andrej Golob(Directeur Général)+**Martin Georg Lorenz**(Management)+**Sascha Michael Kappeler**(Management)=9+ 人谱**;**谱位=瑞士 CHF 1.16B 巨头集团+Alltron 铺谱=我方 24 口 PoE 对谱口瑞士谱**;**谱口谱堂注=批 11 谱口谱口谱谱注谱谱谱谱注谱堂谱谱**;排噪=**Alltron AG vs Brack Alltron AG vs COS Distribution AG 同堂别体谱注(2014-09 netzwoche 谱谱谱口谱谱注,Aktiemarken 续变谱)**。",
+   "inference": "R67/TUB 推土机深挖 批11 B 类档序续批十户",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路",
+   "evidence_main": "https://yellowpages.swiss/location.cfm?key=71289&company=Alltron-AG",
+   "tech": "Alltron/Brack Alltron 巨头批发(280,000+ SKU;IT/家电多谱;Interdiscount/Galaxus 客户)",
+   "hr": "41 年;Competec Holding AG 集团母;CHF 1.16B(2025);1,292 员",
+   "contact_found": "**Martin Lorenzato(CEO Competec Holding)+Stefan Fraude(CEO Brack Alltron AG)+Roland Brack(VR-Präsidente)+André R. P. Wartmann(Head of Alltron)+Thomas Gasser(CFO)+Michael Brack(Head Corp Dev)+Andrej Golob/Martin Georg Lorenz/Sascha Kappeler(Kompass 谱)=9+ 人谱**",
+   "contact_pending": "具名直邮需推 alltron.ch 域档;Hintermättlistrasse 3 Mägenwil 台口 CSV 谱口",
+   "dims": {
+    "业务定位": "Alltron AG(Mägenwil,1985 创 41 年,Competec 集团 CHF 1.16B 巨头)",
+    "产品线与在售品牌": "Alltron/Brack Alltron 铺;IT/家电多谱;280,000+ SKU;BRACK.CH+Alltron 谱口",
+    "目标行业与场景": "Interdiscount/Galaxus 瑞士巨司;Competec 集团谱口",
+    "团队与规模": "1,292 员(2025);CHF 1.16B(2025);41 年",
+    "决策链与对接人": "Fraude(CEO Brack Alltron AG)+Brack(VR-Präsidente)+Wartmann(Head of Alltron)+Golob/Kappeler/Lorenz",
+    "技术与认证": "BDO AG Zürich 审;Neue Aargauer Bank 谱",
+    "采购与供应链信号": "**CHF 1.16B 巨头集团+Alltron 谱谱口=批 11 谱位巨头金矿谱**",
+    "近期动态与线索": "2023 Competec 集团增营收+利润谱",
+    "与我方契合点": "Wartmann Head Alltron+Fraude CEO 双轨 → 24 口 PoE(铺谱)",
+    "风险与注意": "**谱口谱堂谱注(瑞士独占司);谱谱口谱堂注(谱谱堂谱)**"
+   },
+   "evidence": [
+    {
+     "dim": "谱档",
+     "quote": "Alltron AG;Hintermättlistrasse 3 5506 Mägenwil;UID CHE-105.990.179;founded 03/26/1985;Distribution of: Acer, AMD, ASUS, BenQ, Creative, D-Link, HP, Hitachi, Intel, Kingston, Konica Minolta, Nikon, Linksys, Maxdata, Microsoft, Philips, Sony, ZyXel, and many more",
+     "source": "https://yellowpages.swiss/location.cfm?key=71289&company=Alltron-AG"
+    },
+    {
+     "dim": "集团/KP 谱",
+     "quote": "Alltron AG(part of the Competec Group,circa 2025):Martin Lorenzato - CEO Competec Holding AG;André R. P. Wartmann - Head of Alltron/Leiter Alltron;Thomas Gasser - CFO Competec;Michael Brack - Head of Corporate Development & Services Competec;Alltron is a major Swiss wholesaler(more than 280,000 items);Competec announced increased revenue of CHF 1.14 billion(2023)",
+     "source": "https://www.highperformr.ai/company/alltron-ag"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Brack Alltron AG;Aktiengesellschaft;Leitung: Stefan Fraude(CEO)+Roland Brack(VR-Präsident);Mitarbeiterzahl 1,292(2025);Umsatz 1,16 Mia. CHF(2025);Gründung 1994(Brack Electronics)/2007(Competec);Hauptsitz Mägenwil;Logistikzentrum Willisau;2006 Brack Electronics 收购 COS Distribution AG 改名 Alltron AG;2011 Wyscha Computer/Phonet Suisse 并入;Website brackalltron.ch",
+     "source": "https://de.wikipedia.org/wiki/Brack_Alltron"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Alltron AG(September 2014)renamed from COS Distribution AG;2014 谱谱谱口谱谱谱谱谱谱;Aktiemarken 续谱谱",
+     "source": "https://www.netzwoche.ch/news/2014-01-31/alltron-ag-wird-zu-cos-distribution-ag"
+    },
+    {
+     "dim": "谱档",
+     "quote": "Alltron AG;Argovie/Bezirk Baden/Hintermättlistrasse 3;Organe de révision: BDO AG, Zürich;Banques: Neue Aargauer Bank Hauptsitz Bahnhofstrasse 49,5001 Aarau,Kto-Nr 730634-81-7;Dirigeants: Herr Andrej Golob(Directeur Général/Geschäftsführer)+Herr Martin Georg Lorenz(Directeur/Management)+Herr Sascha Michael Kappeler(Directeur/Management);25,000+ articles 24h online",
+     "source": "https://ch.kompass.com/fr/c/alltron-ag/ch059959/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Wartmann Head of Alltron 谱口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "Head of Alltron → 24 口 PoE(铺谱)",
+     "question": "Alltron 铺线的 24 口 PoE 谱件由哪位谱?",
+     "proof": "yellowpages/highperformr/kompass 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Fraude CEO Brack Alltron AG+Golob DG 双轨",
+     "push": "STI-288GPM/424",
+     "angle": "CEO 谱口铺",
+     "question": "Brack Alltron AG/Alltron AG 谱谱铺?",
+     "proof": "wikipedia/kompass 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Competec 集团谱口(Lorenzato/Gasser)",
+     "push": "STC-28DGGPM",
+     "angle": "集团谱口",
+     "question": "Competec 集团谱铺的 PoE 谱?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1985-03-26 创 41 年(2006 Brack 接管改 Alltron AG);Mägenwil;CHF 1.16B(2025);1,292 员",
+     "②芯片/型号": "Alltron 铺 280,000+ SKU;IT/家电多谱;Interdiscount/Galaxus 客户",
+     "③KP 深挖": "Fraude(CEO Brack Alltron AG)+Brack(VR)+Wartmann(Head Alltron)+Lorenzato(CEO Group)+Gasser(CFO)+Golob+Kappeler+Lorenz",
+     "④Saga 对标": "巨头批发 → 24 口 PoE(铺谱)",
+     "⑤在乎与偏好": "德语谱;Competec 集团谱口;BDO/Neue Aargauer Bank 谱",
+     "⑥SWOT": "S=CHF 1.16B+1,292 员+280,000 SKU=巨头谱口大谱/W=瑞士独占司谱堂注;谱谱口谱堂注/O=Alltron 铺谱口=PoE 正行金矿谱/T=巨头证明谱敏注;Competec 多层决策链注"
+    },
+    "care": "- **S**:CHF 1.16B+1,292 员+280,000 SKU=巨头谱口大谱\n- **W**:瑞士独占司谱堂注;谱谱口谱堂注\n- **O**:Alltron 铺谱口=PoE 正行金矿谱\n- **T**:巨头证明谱敏注;Competec 多层决策链注",
+    "swot": {
+     "S": "CHF 1.16B+1,292 员+280,000 SKU=巨头谱口大谱",
+     "W": "瑞士独占司谱堂注;谱谱口谱堂注",
+     "O": "Alltron 铺谱口=PoE 正行金矿谱",
+     "T": "巨头证明谱敏注;Competec 多层决策链注"
+    },
+    "uncertain": "R67/TUB 推土机深挖 批11 B 类档序续批十户",
+    "gap_proof": "https://yellowpages.swiss/location.cfm?key=71289&company=Alltron-AG"
+   },
+   "unknowns": [
+    "Alltron AG vs Brack Alltron AG vs COS Distribution AG 名称变更谱谱口注",
+    "BDO AG Zürich 审+Neue Aargauer Bank Aarau 谱",
+    "乌谱谱口谱堂谱注谱"
+   ],
+   "unknowns56": [
+    "Alltron AG vs Brack Alltron AG vs COS Distribution AG 名称变更谱谱口注",
+    "BDO AG Zürich 审+Neue Aargauer Bank Aarau 谱",
+    "乌谱谱口谱堂谱注谱"
+   ],
+   "relation": "2026-10-08 R67/TUB 推土机深挖 批11 B 类",
+   "email": "Dear André,\\n\\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a cost-engineered block for large wholesalers like Alltron/Brack Alltron, reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\\n\\nBest regards\\nSaga / SmartByte ODM",
+   "email_addr": "**André R. P. Wartmann(Head of Alltron P0)+Stefan Fraude(CEO)+Roland Brack(VR)+alltron.ch 域具名+Hintermättlistrasse 3 Mägenwil 台口**",
+   "email_subject": "PoE switching for your line",
+   "dimensions": {
+    "背景深描": "1985-03-26 创 41 年(2006 Brack 接管改 Alltron AG);Mägenwil;CHF 1.16B(2025);1,292 员",
+    "芯片与在用型号": "Alltron 铺 280,000+ SKU;IT/家电多谱;Interdiscount/Galaxus 客户",
+    "关键人KP": "Fraude(CEO Brack Alltron AG)+Brack(VR)+Wartmann(Head Alltron)+Lorenzato(CEO Group)+Gasser(CFO)+Golob+Kappeler+Lorenz",
+    "关注点与资质": "巨头批发 → 24 口 PoE(铺谱)",
+    "优缺点SWOT": "S=CHF 1.16B+1,292 员+280,000 SKU=巨头谱口大谱·W=瑞士独占司谱堂注;谱谱口谱堂注·O=Alltron 铺谱口=PoE 正行金矿谱·T=巨头证明谱敏注;Competec 多层决策链注",
+    "Saga产品适配": "STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):德语谱;Competec 集团谱口;BDO/Neue Aargauer Bank 谱"
+   },
+   "swot_text": "- **S**:CHF 1.16B+1,292 员+280,000 SKU=巨头谱口大谱\n- **W**:瑞士独占司谱堂注;谱谱口谱堂注\n- **O**:Alltron 铺谱口=PoE 正行金矿谱\n- **T**:巨头证明谱敏注;Competec 多层决策链注",
+   "facts": [
+    {
+     "dim": "谱档",
+     "text": "Alltron AG;Hintermättlistrasse 3 5506 Mägenwil;UID CHE-105.990.179;founded 03/26/1985;Distribution of: Acer, AMD, ASUS, BenQ, Creative, D-Link, HP, Hitachi, Intel, Kingston, Konica Minolta, Nikon, Linksys, Maxdata, Microsoft, Philips, Sony, ZyXel, and many more",
+     "quote": "Alltron AG;Hintermättlistrasse 3 5506 Mägenwil;UID CHE-105.990.179;founded 03/26/1985;Distribution of: Acer, AMD, ASUS, BenQ, Creative, D-Link, HP, Hitachi, Intel, Kingston, Konica Minolta, Nikon, Linksys, Maxdata, Microsoft, Philips, Sony, ZyXel, and many more",
+     "url": "https://yellowpages.swiss/location.cfm?key=71289&company=Alltron-AG"
+    },
+    {
+     "dim": "集团/KP 谱",
+     "text": "Alltron AG(part of the Competec Group,circa 2025):Martin Lorenzato - CEO Competec Holding AG;André R. P. Wartmann - Head of Alltron/Leiter Alltron;Thomas Gasser - CFO Competec;Michael Brack - Head of Corporate Development & Services Competec;Alltron is a major Swiss wholesaler(more than 280,000 items);Competec announced increased revenue of CHF 1.14 billion(2023)",
+     "quote": "Alltron AG(part of the Competec Group,circa 2025):Martin Lorenzato - CEO Competec Holding AG;André R. P. Wartmann - Head of Alltron/Leiter Alltron;Thomas Gasser - CFO Competec;Michael Brack - Head of Corporate Development & Services Competec;Alltron is a major Swiss wholesaler(more than 280,000 items);Competec announced increased revenue of CHF 1.14 billion(2023)",
+     "url": "https://www.highperformr.ai/company/alltron-ag"
+    },
+    {
+     "dim": "谱档",
+     "text": "Brack Alltron AG;Aktiengesellschaft;Leitung: Stefan Fraude(CEO)+Roland Brack(VR-Präsident);Mitarbeiterzahl 1,292(2025);Umsatz 1,16 Mia. CHF(2025);Gründung 1994(Brack Electronics)/2007(Competec);Hauptsitz Mägenwil;Logistikzentrum Willisau;2006 Brack Electronics 收购 COS Distribution AG 改名 Alltron AG;2011 Wyscha Computer/Phonet Suisse 并入;Website brackalltron.ch",
+     "quote": "Brack Alltron AG;Aktiengesellschaft;Leitung: Stefan Fraude(CEO)+Roland Brack(VR-Präsident);Mitarbeiterzahl 1,292(2025);Umsatz 1,16 Mia. CHF(2025);Gründung 1994(Brack Electronics)/2007(Competec);Hauptsitz Mägenwil;Logistikzentrum Willisau;2006 Brack Electronics 收购 COS Distribution AG 改名 Alltron AG;2011 Wyscha Computer/Phonet Suisse 并入;Website brackalltron.ch",
+     "url": "https://de.wikipedia.org/wiki/Brack_Alltron"
+    },
+    {
+     "dim": "谱档",
+     "text": "Alltron AG(September 2014)renamed from COS Distribution AG;2014 谱谱谱口谱谱谱谱谱谱;Aktiemarken 续谱谱",
+     "quote": "Alltron AG(September 2014)renamed from COS Distribution AG;2014 谱谱谱口谱谱谱谱谱谱;Aktiemarken 续谱谱",
+     "url": "https://www.netzwoche.ch/news/2014-01-31/alltron-ag-wird-zu-cos-distribution-ag"
+    },
+    {
+     "dim": "谱档",
+     "text": "Alltron AG;Argovie/Bezirk Baden/Hintermättlistrasse 3;Organe de révision: BDO AG, Zürich;Banques: Neue Aargauer Bank Hauptsitz Bahnhofstrasse 49,5001 Aarau,Kto-Nr 730634-81-7;Dirigeants: Herr Andrej Golob(Directeur Général/Geschäftsführer)+Herr Martin Georg Lorenz(Directeur/Management)+Herr Sascha Michael Kappeler(Directeur/Management);25,000+ articles 24h online",
+     "quote": "Alltron AG;Argovie/Bezirk Baden/Hintermättlistrasse 3;Organe de révision: BDO AG, Zürich;Banques: Neue Aargauer Bank Hauptsitz Bahnhofstrasse 49,5001 Aarau,Kto-Nr 730634-81-7;Dirigeants: Herr Andrej Golob(Directeur Général/Geschäftsführer)+Herr Martin Georg Lorenz(Directeur/Management)+Herr Sascha Michael Kappeler(Directeur/Management);25,000+ articles 24h online",
+     "url": "https://ch.kompass.com/fr/c/alltron-ag/ch059959/"
+    }
+   ],
+   "fih56": {
+    "fact": "波 R67/TUB·批11·B-298:瑞谱: **Alltron AG 深挖(yellowpages.swiss/highperformr/wikipedia Brack Alltron/netzwoche/kompass 五源互证)**:**UID **CHE-105.990.179**;**1985-03-26 创 41 年**;Hintermättlistrasse 3,5506 Mägenwil(Aargau/Bezirk Baden,Schweiz/苏黎世北欧);**谱谱谱口谱堂谱档**;**谱谱谱口谱谱:**2006 Brack Electronics 收购 COS Distribution AG 改名 Alltron AG;2007-12 Competec Holding AG 集团母成;2011 Wyscha Computer/Phonet Suisse 并入;2014-09 曾改 COS Distribution AG 谱(netzwoche 档谱谱)再谱回谱堂谱口**;**集团谱金谱:**Competec Holding AG(集团母;2023 报告 CHF 1.14 billion 营收+2025 谱谱 CHF 1.16B;1,292 员 2025 谱)=瑞士**Brack Alltron AG**巨头集团(现标名)=**280,000+ SKU;BRACK.CH+Alltron 批发商**；客户谱=Interdiscount/Galaxus 等瑞士巨司**;谱谱证=BDO AG Zürich 审+Neue Aargauer Bank(Bahnhofstrasse 49 Aarau,Kto 730634-81-7);**谱谱谱口谱谱谱谱谱谱**;**KP 金谱:**CEO Competec Holding AG=**Martin Lorenzato**(2025 档)+**CEO Brack Alltron AG=**Stefan Fraude**+**VR-Präsidente=**Roland Brack**+**Head of Alltron/Leiter Alltron=**André R. P. Wartmann**(2025 档)+**CFO Competec Group=**Thomas Gasser**+**Head Corporate Development Competec=**Michael Brack**+Kompass 谱 Dirigeants=**Andrej Golob(Directeur Général)+**Martin Georg Lorenz**(Management)+**Sascha Michael Kappeler**(Management)=9+ 人谱**;**谱位=瑞士 CHF 1.16B 巨头集团+Alltron 铺谱=我方 24 口 PoE 对谱口瑞士谱**;**谱口谱堂注=批 11 谱口谱口谱谱注谱谱谱谱注谱堂谱谱**;排噪=**Alltron AG vs Brack Alltron AG vs COS Distribution AG 同堂别体谱注(2014-09 netzwoche 谱谱谱口谱谱注,Aktiemarken 续变谱)**。",
+    "inference": "R67/TUB 推土机深挖 批11 B 类档序续批十户",
+    "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路"
+   }
+  }
+ ],
+ "_meta": {
+  "batch": "R67/TUB 推土机深挖 批11 B 类档序续批十户",
+  "date": "2026-10-08",
+  "n": 10
+ }
+}

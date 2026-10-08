@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 30·B-298:瑞士谱: **守档准由·原 R65/R57 谱基增厚**:Alltron AG(Mägenwil Hintermättlistrasse 3;1985 创,**Competec/Brack.Allt…
+- **是谁**：1985-03-26 创 41 年(2006 Brack 接管改 Alltron AG);Mägenwil;CHF 1.16B(2025);1,292 员…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 瑞士分销巨头的 Hanwha 监控谱随单 value PoE 架位(Installateure 客层)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 30·B-298:瑞士谱: **守档准由·原 R65/R57 谱基增厚**:Alltron AG(Mägenwil Hintermättlistrasse 3;1985 创,**Competec/Brack.Alltron 集团旗下**;~$677M 营收,**20 万+ SKU 自仓**;Fachhandel/Integratoren/Installa | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 1985-03-26 创 41 年(2006 Brack 接管改 Alltron AG);Mägenwil;CHF 1.16B(2025);1,292 员 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | Alltron 铺 280,000+ SKU;IT/家电多谱;Interdiscount/Galaxus 客户 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 30·B-298:瑞士谱: **守档准由·原 R65/R57 谱基增厚**:Alltron AG(Mägenwil Hintermättlistrasse 3;1985 创,**Competec/Brack.Alltron 集团旗下**;~$677M 营收,**20 万+ SKU 自仓**;Fachhandel/Integratoren/Installateure;Alltron Solutions 增值 Competence Center;**开网络面授培训课(Grundkurs/Aufbaukurs)**;Cisco 老牌搭档;**Hanwha Techwin 视频监控分销**;Disti Award 2019 Broadliner) | R65 深挖:瑞士 Competec 大集团谱;280K SKU 批发;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第10波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 30 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】波 R67/TUB·批11·B-298:瑞谱: **Alltron AG 深挖(yellowpages.swiss/highperformr/wikipedia Brack Alltron/netzwoche/kompass 五源互证)**:**UID **CHE-105.990.179**;**1985-03-26 创 41 年**;Hintermättlistrasse 3,5506 Mägenwil(Aargau/Bezirk Baden,Schweiz/苏黎世北欧);**谱谱谱口谱堂谱档**;**谱谱谱口谱谱:**2006 Brack Electronics 收购 COS Distribution AG 改名 Alltron AG;2007-12 Competec Holding AG 集团母成;2011 Wyscha Computer/Phonet Suisse 并入;2014-09 曾改 COS Distribution AG 谱(netzwoche 档谱谱)再谱回谱堂谱口**;**集团谱金谱:**Competec Holding AG(集团母;2023 报告 CHF 1.14 billion 营收+2025 谱谱 CHF 1.16B;1,292 员 2025 谱)=瑞士**Brack Alltron AG**巨头集团(现标名)=**280,000+ SKU;BRACK.CH+Alltron 批发商**；客户谱=Interdiscount/Galaxus 等瑞士巨司**;谱谱证=BDO AG Zürich 审+Neue Aargauer Bank(Bahnhofstrasse 49 Aarau,Kto 730634-81-7);**谱谱谱口谱谱谱谱谱谱**;**KP 金谱:**CEO Competec Holding AG=**Martin Lorenzato**(2025 档)+**CEO Brack Alltron AG=**Stefan Fraude**+**VR-Präsidente=**Roland Brack**+**Head of Alltron/Leiter Alltron=**André R. P. Wartmann**(2025 档)+**CFO Competec Group=**Thomas Gasser**+**Head Corporate Development Competec=**Michael Brack**+Kompass 谱 Dirigeants=**Andrej Golob(Directeur Général)+**Martin Georg Lorenz**(Management)+**Sascha Michael Kappeler**(Management)=9+ 人谱**;**谱位=瑞士 CHF 1.16B 巨头集团+Alltron 铺谱=我方 24 口 PoE 对谱口瑞士谱**;**谱口谱堂注=批 11 谱口谱口谱谱注谱谱谱谱注谱堂谱谱**;排噪=**Alltron AG vs Brack Alltron AG vs COS Distribution AG 同堂别体谱注(2014-09 netzwoche 谱谱谱口谱谱注,Aktiemarken 续变谱)**。
+- 【推断】R67/TUB 推土机深挖 批11 B 类档序续批十户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+Alltron 铺 280,000+ SKU;IT/家电多谱;Interdiscount/Galaxus 客户
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -92,47 +92,56 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · Wartmann Head of Alltron 谱口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：守档铺位 → 价锚卡
-- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
-- **随附/动作**：规格页
+- **切入点**：Head of Alltron → 24 口 PoE(铺谱)
+- **要问的问题**：Alltron 铺线的 24 口 PoE 谱件由哪位谱?
+- **随附/动作**：yellowpages/highperformr/kompass 5 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · Fraude CEO Brack Alltron AG+Golob DG 双轨
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：CEO 谱口铺
+- **要问的问题**：Brack Alltron AG/Alltron AG 谱谱铺?
+- **随附/动作**：wikipedia/kompass 谱
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · Competec 集团谱口(Lorenzato/Gasser)
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：集团谱口
+- **要问的问题**：Competec 集团谱铺的 PoE 谱?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批11.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 30·B-298:瑞士谱: **守档准由·原 R65/R57 谱基增厚**:Alltron AG(Mägenwil Hintermättlistrasse 3;1985 创,**Competec/Brack.Alltron 集团旗下**;~$677M 营收,**20 万+ SKU 自仓**;Fachhandel/Integratoren/Installateure;Alltron Solutions 增值 Competence Center;**开网络面授培训课(Grundkurs/Aufbaukurs)**;Cisco 老牌搭档;**Hanwha Techwin 视频监控分销**;Disti Award 2019 Broadliner) | R65 深挖:瑞士 Competec 大集团谱;280K SKU 批发;R66 第 30 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第10波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
-- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
-- **关注点与资质**：瑞士 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
-- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **背景深描**：1985-03-26 创 41 年(2006 Brack 接管改 Alltron AG);Mägenwil;CHF 1.16B(2025);1,292 员
+- **芯片与在用型号**：Alltron 铺 280,000+ SKU;IT/家电多谱;Interdiscount/Galaxus 客户
+- **关键人KP**：Fraude(CEO Brack Alltron AG)+Brack(VR)+Wartmann(Head Alltron)+Lorenzato(CEO Group)+Gasser(CFO)+Golob+Kappeler+Lorenz
+- **关注点与资质**：巨头批发 → 24 口 PoE(铺谱)
+- **优缺点SWOT**：S=CHF 1.16B+1,292 员+280,000 SKU=巨头谱口大谱·W=瑞士独占司谱堂注;谱谱口谱堂注·O=Alltron 铺谱口=PoE 正行金矿谱·T=巨头证明谱敏注;Competec 多层决策链注
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):德语谱;Competec 集团谱口;BDO/Neue Aargauer Bank 谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**Alltron AG(Mägenwil Hintermättlistrasse 3;1985 创,**Competec/Brack.Alltron 集团旗下**;~$677M 营收,**20 万+ SKU 自仓**;Fachhandel/Integratoren/Installateure;Alltron Soluti
-  > Alltron AG(Mägenwil Hintermättlistrasse 3;1985 创,**Competec/Brack.Alltron 集团旗下**;~$677M 营收,**20 万+ SKU 自仓**;Fachhandel/Integratoren/Installateure;Alltron Soluti
-  > 来源：https://alltron.ch/
-- **【联系方式与基础画像】**CSV 入口:062 889 88 88 / mail@alltron.ch
-  > CSV 入口:062 889 88 88 / mail@alltron.ch
-  > 来源：https://alltron.ch/
+- **【谱档】**Alltron AG;Hintermättlistrasse 3 5506 Mägenwil;UID CHE-105.990.179;founded 03/26/1985;Distribution of: Acer, AMD, ASUS, BenQ, Creative, D-Link, HP, Hitachi, Intel, Kingston, Konica Minolta, Nikon, Linksys, Maxdata, Microsoft, Philips, Sony, ZyXel, and many more
+  > Alltron AG;Hintermättlistrasse 3 5506 Mägenwil;UID CHE-105.990.179;founded 03/26/1985;Distribution of: Acer, AMD, ASUS, BenQ, Creative, D-Link, HP, Hitachi, Intel, Kingston, Konica Minolta, Nikon, Linksys, Maxdata, Microsoft, Philips, Sony, ZyXel, and many more
+  > 来源：https://yellowpages.swiss/location.cfm?key=71289&company=Alltron-AG
+- **【集团/KP 谱】**Alltron AG(part of the Competec Group,circa 2025):Martin Lorenzato - CEO Competec Holding AG;André R. P. Wartmann - Head of Alltron/Leiter Alltron;Thomas Gasser - CFO Competec;Michael Brack - Head of Corporate Development & Services Competec;Alltron is a major Swiss wholesaler(more than 280,000 items);Competec announced increased revenue of CHF 1.14 billion(2023)
+  > Alltron AG(part of the Competec Group,circa 2025):Martin Lorenzato - CEO Competec Holding AG;André R. P. Wartmann - Head of Alltron/Leiter Alltron;Thomas Gasser - CFO Competec;Michael Brack - Head of Corporate Development & Services Competec;Alltron is a major Swiss wholesaler(more than 280,000 items);Competec announced increased revenue of CHF 1.14 billion(2023)
+  > 来源：https://www.highperformr.ai/company/alltron-ag
+- **【谱档】**Brack Alltron AG;Aktiengesellschaft;Leitung: Stefan Fraude(CEO)+Roland Brack(VR-Präsident);Mitarbeiterzahl 1,292(2025);Umsatz 1,16 Mia. CHF(2025);Gründung 1994(Brack Electronics)/2007(Competec);Hauptsitz Mägenwil;Logistikzentrum Willisau;2006 Brack Electronics 收购 COS Distribution AG 改名 Alltron AG;2011 Wyscha Computer/Phonet Suisse 并入;Website brackalltron.ch
+  > Brack Alltron AG;Aktiengesellschaft;Leitung: Stefan Fraude(CEO)+Roland Brack(VR-Präsident);Mitarbeiterzahl 1,292(2025);Umsatz 1,16 Mia. CHF(2025);Gründung 1994(Brack Electronics)/2007(Competec);Hauptsitz Mägenwil;Logistikzentrum Willisau;2006 Brack Electronics 收购 COS Distribution AG 改名 Alltron AG;2011 Wyscha Computer/Phonet Suisse 并入;Website brackalltron.ch
+  > 来源：https://de.wikipedia.org/wiki/Brack_Alltron
+- **【谱档】**Alltron AG(September 2014)renamed from COS Distribution AG;2014 谱谱谱口谱谱谱谱谱谱;Aktiemarken 续谱谱
+  > Alltron AG(September 2014)renamed from COS Distribution AG;2014 谱谱谱口谱谱谱谱谱谱;Aktiemarken 续谱谱
+  > 来源：https://www.netzwoche.ch/news/2014-01-31/alltron-ag-wird-zu-cos-distribution-ag
+- **【谱档】**Alltron AG;Argovie/Bezirk Baden/Hintermättlistrasse 3;Organe de révision: BDO AG, Zürich;Banques: Neue Aargauer Bank Hauptsitz Bahnhofstrasse 49,5001 Aarau,Kto-Nr 730634-81-7;Dirigeants: Herr Andrej Golob(Directeur Général/Geschäftsführer)+Herr Martin Georg Lorenz(Directeur/Management)+Herr Sascha Michael Kappeler(Directeur/Management);25,000+ articles 24h online
+  > Alltron AG;Argovie/Bezirk Baden/Hintermättlistrasse 3;Organe de révision: BDO AG, Zürich;Banques: Neue Aargauer Bank Hauptsitz Bahnhofstrasse 49,5001 Aarau,Kto-Nr 730634-81-7;Dirigeants: Herr Andrej Golob(Directeur Général/Geschäftsführer)+Herr Martin Georg Lorenz(Directeur/Management)+Herr Sascha Michael Kappeler(Directeur/Management);25,000+ articles 24h online
+  > 来源：https://ch.kompass.com/fr/c/alltron-ag/ch059959/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -145,7 +154,7 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+S=CHF 1.16B+1,292 员+280,000 SKU=巨头谱口大谱·W=瑞士独占司谱堂注;谱谱口谱堂注·O=Alltron 铺谱口=PoE 正行金矿谱·T=巨头证明谱敏注;Competec 多层决策链注
 
 ## 触达与风险红线
 
@@ -173,8 +182,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] Alltron AG vs Brack Alltron AG vs COS Distribution AG 名称变更谱谱口注
+  - [ ] BDO AG Zürich 审+Neue Aargauer Bank Aarau 谱
+  - [ ] 乌谱谱口谱堂谱注谱
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -186,12 +196,7 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 **主题**：PoE switching for your line
 
 ```text
-Dear Alltron AG Team,
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
-
-Best regards
-Saga / SmartByte ODM
+Dear André,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a cost-engineered block for large wholesalers like Alltron/Brack Alltron, reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

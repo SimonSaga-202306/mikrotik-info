@@ -834,6 +834,32 @@
     ]
   },
   {
+    "url": "http://www.edsystem.cz;Kategorie",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L766"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L860"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L861"
+      },
+      {
+        "path": "profile/B/B-208-eD's system Czech-捷克.md",
+        "locator": "L135"
+      },
+      {
+        "path": "profile/B/B-208-eD's system Czech-捷克.md",
+        "locator": "L136"
+      }
+    ]
+  },
+  {
     "url": "http://www.electracomprojects.com/contact-us/",
     "http_checked": false,
     "occurrences": [
@@ -3062,6 +3088,24 @@
     ]
   },
   {
+    "url": "https://ae.linkedin.com/company/ictintl",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L332"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L428"
+      },
+      {
+        "path": "profile/B/B-485-I C T INTERNATIONAL L.L.C-阿联酋.md",
+        "locator": "L141"
+      }
+    ]
+  },
+  {
     "url": "https://aesmide.es/asociado/lineas-y-cables-sa/",
     "http_checked": false,
     "occurrences": [
@@ -3906,14 +3950,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json",
         "locator": "L1658"
-      },
-      {
-        "path": "profile/B/B-298-Alltron AG-瑞士.md",
-        "locator": "L132"
-      },
-      {
-        "path": "profile/B/B-298-Alltron AG-瑞士.md",
-        "locator": "L135"
       }
     ]
   },
@@ -7362,6 +7398,24 @@
     ]
   },
   {
+    "url": "https://bouncewatch.com/explore/startup/solution-box-llc",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L623"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L720"
+      },
+      {
+        "path": "profile/B/B-381-Solution Box LLC-美国.md",
+        "locator": "L143"
+      }
+    ]
+  },
+  {
     "url": "https://brackalltron.ch/%C3%BCber-uns/organisation",
     "http_checked": false,
     "occurrences": [
@@ -8884,6 +8938,24 @@
     ]
   },
   {
+    "url": "https://ch.kompass.com/fr/c/alltron-ag/ch059959/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1393"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1490"
+      },
+      {
+        "path": "profile/B/B-298-Alltron AG-瑞士.md",
+        "locator": "L144"
+      }
+    ]
+  },
+  {
     "url": "https://channelnews.be/nl/kappa-data-wil-tegen-2030-verdubbelen-nieuwe-ceo-versterkte-aandeelhouders-en-expansie-in-europa/",
     "http_checked": false,
     "occurrences": [
@@ -9558,6 +9630,24 @@
       {
         "path": "profile/A/A-100-Networkology Ltd-英国.md",
         "locator": "L82"
+      }
+    ]
+  },
+  {
+    "url": "https://companycheck.co.uk/company/09975808/TELASYS-LTD/companies-house-data",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L916"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1010"
+      },
+      {
+        "path": "profile/B/B-425-Telasys Ltd-英国.md",
+        "locator": "L135"
       }
     ]
   },
@@ -11976,6 +12066,28 @@
     ]
   },
   {
+    "url": "https://cyprusregistry.com/companies/HE/241052",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L174"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L232"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L262"
+      },
+      {
+        "path": "profile/B/B-106-MS Electronics LTD-塞浦路斯.md",
+        "locator": "L132"
+      }
+    ]
+  },
+  {
     "url": "https://cz.linkedin.com/company/atesystem",
     "http_checked": false,
     "occurrences": [
@@ -13056,6 +13168,24 @@
     ]
   },
   {
+    "url": "https://de.wikipedia.org/wiki/Brack_Alltron",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1383"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1478"
+      },
+      {
+        "path": "profile/B/B-298-Alltron AG-瑞士.md",
+        "locator": "L138"
+      }
+    ]
+  },
+  {
     "url": "https://decoit.de/en/home_en.html",
     "http_checked": false,
     "occurrences": [
@@ -14022,6 +14152,24 @@
     ]
   },
   {
+    "url": "https://do.linkedin.com/company/solution-box-llc?trk=similar-pages_result-card_full-click",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L613"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L708"
+      },
+      {
+        "path": "profile/B/B-381-Solution Box LLC-美国.md",
+        "locator": "L137"
+      }
+    ]
+  },
+  {
     "url": "https://doubleradius.com/",
     "http_checked": false,
     "occurrences": [
@@ -14070,14 +14218,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json",
         "locator": "L7370"
-      },
-      {
-        "path": "profile/B/B-210-Comitek（doxyterra.md）-摩尔多瓦.md",
-        "locator": "L131"
-      },
-      {
-        "path": "profile/B/B-210-Comitek（doxyterra.md）-摩尔多瓦.md",
-        "locator": "L134"
       }
     ]
   },
@@ -14106,6 +14246,22 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第7批.json",
         "locator": "L113"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1219"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1282"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1312"
+      },
+      {
+        "path": "profile/B/B-210-Comitek（doxyterra.md）-摩尔多瓦.md",
+        "locator": "L131"
       }
     ]
   },
@@ -14124,6 +14280,36 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第7批.json",
         "locator": "L119"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1234"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1330"
+      },
+      {
+        "path": "profile/B/B-210-Comitek（doxyterra.md）-摩尔多瓦.md",
+        "locator": "L140"
+      }
+    ]
+  },
+  {
+    "url": "https://doxyterra.md/ro/page/termeni-si-conditii/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1229"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1324"
+      },
+      {
+        "path": "profile/B/B-210-Comitek（doxyterra.md）-摩尔多瓦.md",
+        "locator": "L137"
       }
     ]
   },
@@ -14770,14 +14956,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json",
         "locator": "L7251"
-      },
-      {
-        "path": "profile/B/B-208-eD's system Czech-捷克.md",
-        "locator": "L131"
-      },
-      {
-        "path": "profile/B/B-208-eD's system Czech-捷克.md",
-        "locator": "L134"
       }
     ]
   },
@@ -15816,6 +15994,24 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_R57转写.json",
         "locator": "L415"
+      }
+    ]
+  },
+  {
+    "url": "https://ergodotisi.com/en-CY/jobs/rma-director-27082500",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L189"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L280"
+      },
+      {
+        "path": "profile/B/B-106-MS Electronics LTD-塞浦路斯.md",
+        "locator": "L141"
       }
     ]
   },
@@ -18250,8 +18446,28 @@
         "locator": "L316"
       },
       {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L890"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L911"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L974"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1004"
+      },
+      {
         "path": "profile/B/B-425-Telasys Ltd-英国.md",
         "locator": "L88"
+      },
+      {
+        "path": "profile/B/B-425-Telasys Ltd-英国.md",
+        "locator": "L132"
       }
     ]
   },
@@ -18610,6 +18826,24 @@
       {
         "path": "profile/B/B-001-ALLNET Nordic A-S-丹麦.md",
         "locator": "L80"
+      }
+    ]
+  },
+  {
+    "url": "https://firmbase.co/resources/industry-lists/telecoms-companies-in-the-uk-cardiff",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L931"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1028"
+      },
+      {
+        "path": "profile/B/B-425-Telasys Ltd-英国.md",
+        "locator": "L144"
       }
     ]
   },
@@ -23148,14 +23382,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json",
         "locator": "L6775"
-      },
-      {
-        "path": "profile/B/B-485-I C T INTERNATIONAL L.L.C-阿联酋.md",
-        "locator": "L132"
-      },
-      {
-        "path": "profile/B/B-485-I C T INTERNATIONAL L.L.C-阿联酋.md",
-        "locator": "L135"
       }
     ]
   },
@@ -23236,14 +23462,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json",
         "locator": "L3205"
-      },
-      {
-        "path": "profile/B/B-352-IEI Technology USA Corp-美国.md",
-        "locator": "L133"
-      },
-      {
-        "path": "profile/B/B-352-IEI Technology USA Corp-美国.md",
-        "locator": "L136"
       }
     ]
   },
@@ -26808,6 +27026,24 @@
       {
         "path": "profile/A/A-077-J A Shomer Company-美国.md",
         "locator": "L131"
+      }
+    ]
+  },
+  {
+    "url": "https://jenprace.cz/firmy/ed-system-czech-a-s",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L772"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L868"
+      },
+      {
+        "path": "profile/B/B-208-eD's system Czech-捷克.md",
+        "locator": "L140"
       }
     ]
   },
@@ -30772,8 +31008,24 @@
         "locator": "L141"
       },
       {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1198"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1224"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1318"
+      },
+      {
         "path": "profile/B/B-210-Comitek（doxyterra.md）-摩尔多瓦.md",
         "locator": "L88"
+      },
+      {
+        "path": "profile/B/B-210-Comitek（doxyterra.md）-摩尔多瓦.md",
+        "locator": "L134"
       }
     ]
   },
@@ -38466,14 +38718,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json",
         "locator": "L4157"
-      },
-      {
-        "path": "profile/B/B-106-MS Electronics LTD-塞浦路斯.md",
-        "locator": "L132"
-      },
-      {
-        "path": "profile/B/B-106-MS Electronics LTD-塞浦路斯.md",
-        "locator": "L135"
       }
     ]
   },
@@ -43744,14 +43988,24 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json",
         "locator": "L6061"
+      }
+    ]
+  },
+  {
+    "url": "https://perpi.tech/contact",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L481"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L566"
       },
       {
         "path": "profile/B/B-467-Enric Perpinyà Pitarch - Perpi.tech-西班牙.md",
-        "locator": "L132"
-      },
-      {
-        "path": "profile/B/B-467-Enric Perpinyà Pitarch - Perpi.tech-西班牙.md",
-        "locator": "L135"
+        "locator": "L138"
       }
     ]
   },
@@ -46410,6 +46664,24 @@
     ]
   },
   {
+    "url": "https://rejstrik-firem.kurzy.cz/rejstrik-firem/DO-47974516-ed-system-czech/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L762"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L856"
+      },
+      {
+        "path": "profile/B/B-208-eD's system Czech-捷克.md",
+        "locator": "L134"
+      }
+    ]
+  },
+  {
     "url": "https://rejstrik.penize.cz/01392042-atesystem-s-r-o",
     "http_checked": false,
     "occurrences": [
@@ -48366,6 +48638,18 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第17批补18.json",
         "locator": "L190"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L327"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L422"
+      },
+      {
+        "path": "profile/B/B-485-I C T INTERNATIONAL L.L.C-阿联酋.md",
+        "locator": "L138"
       }
     ]
   },
@@ -49062,12 +49346,24 @@
         "locator": "L153"
       },
       {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L179"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L268"
+      },
+      {
         "path": "batch/KP猎捕_B_R64_第1批.json",
         "locator": "L186"
       },
       {
         "path": "profile/B/B-106-MS Electronics LTD-塞浦路斯.md",
         "locator": "L88"
+      },
+      {
+        "path": "profile/B/B-106-MS Electronics LTD-塞浦路斯.md",
+        "locator": "L135"
       }
     ]
   },
@@ -54460,14 +54756,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json",
         "locator": "L3681"
-      },
-      {
-        "path": "profile/B/B-381-Solution Box LLC-美国.md",
-        "locator": "L131"
-      },
-      {
-        "path": "profile/B/B-381-Solution Box LLC-美国.md",
-        "locator": "L134"
       }
     ]
   },
@@ -56184,6 +56472,24 @@
     ]
   },
   {
+    "url": "https://targetare.ro/26051890/dipol-connect-srl",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L41"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L131"
+      },
+      {
+        "path": "profile/B/B-313-Dipol Connect SRL-罗马尼亚.md",
+        "locator": "L139"
+      }
+    ]
+  },
+  {
     "url": "https://tayyebi.net/",
     "http_checked": false,
     "occurrences": [
@@ -56506,14 +56812,6 @@
       {
         "path": "batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json",
         "locator": "L4395"
-      },
-      {
-        "path": "profile/B/B-425-Telasys Ltd-英国.md",
-        "locator": "L132"
-      },
-      {
-        "path": "profile/B/B-425-Telasys Ltd-英国.md",
-        "locator": "L135"
       }
     ]
   },
@@ -56640,8 +56938,16 @@
         "locator": "L208"
       },
       {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L36"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L125"
+      },
+      {
         "path": "profile/B/B-313-Dipol Connect SRL-罗马尼亚.md",
-        "locator": "L132"
+        "locator": "L136"
       }
     ]
   },
@@ -58866,6 +59172,24 @@
       {
         "path": "profile/A/A-129-VARtek Services Inc-美国.md",
         "locator": "L155"
+      }
+    ]
+  },
+  {
+    "url": "https://ve.linkedin.com/company/solution-box-llc",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L608"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L702"
+      },
+      {
+        "path": "profile/B/B-381-Solution Box LLC-美国.md",
+        "locator": "L134"
       }
     ]
   },
@@ -69616,6 +69940,24 @@
     ]
   },
   {
+    "url": "https://www.cbinsights.com/company/telasys",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L926"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1022"
+      },
+      {
+        "path": "profile/B/B-425-Telasys Ltd-英国.md",
+        "locator": "L141"
+      }
+    ]
+  },
+  {
     "url": "https://www.cbinsights.com/company/titan-security-group/people",
     "http_checked": false,
     "occurrences": [
@@ -70154,6 +70496,22 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第13批.json",
         "locator": "L503"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L736"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L767"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L862"
+      },
+      {
+        "path": "profile/B/B-208-eD's system Czech-捷克.md",
+        "locator": "L137"
       }
     ]
   },
@@ -71800,6 +72158,24 @@
     ]
   },
   {
+    "url": "https://www.confidas.ro/profil/26051890/dipol-connect-srl",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L46"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L137"
+      },
+      {
+        "path": "profile/B/B-313-Dipol Connect SRL-罗马尼亚.md",
+        "locator": "L142"
+      }
+    ]
+  },
+  {
     "url": "https://www.confindustriaemilia.it/flex/FixedPages/Common/associati.php/L/EN/id/fd02d3c0-c6aa-e811-814b-5065f38b9571",
     "http_checked": false,
     "occurrences": [
@@ -73290,6 +73666,24 @@
       {
         "path": "profile/B/B-381-Solution Box LLC-美国.md",
         "locator": "L80"
+      }
+    ]
+  },
+  {
+    "url": "https://www.crunchbase.com/organization/telasys",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L921"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1016"
+      },
+      {
+        "path": "profile/B/B-425-Telasys Ltd-英国.md",
+        "locator": "L138"
       }
     ]
   },
@@ -76602,6 +76996,32 @@
     ]
   },
   {
+    "url": "https://www.dipolnet.ro/dipol_connect_srl_m120.htm",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L10"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L31"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L89"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L119"
+      },
+      {
+        "path": "profile/B/B-313-Dipol Connect SRL-罗马尼亚.md",
+        "locator": "L133"
+      }
+    ]
+  },
+  {
     "url": "https://www.direktronik.se/",
     "http_checked": false,
     "occurrences": [
@@ -77026,6 +77446,32 @@
     ]
   },
   {
+    "url": "https://www.dnb.com/business-directory/company-profiles.iei_technology_usa_corporation.0d08a4a4b44218a609c71c61d2cc3a5b.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1044"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1065"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1128"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1158"
+      },
+      {
+        "path": "profile/B/B-352-IEI Technology USA Corp-美国.md",
+        "locator": "L133"
+      }
+    ]
+  },
+  {
     "url": "https://www.dnb.com/business-directory/company-profiles.ingegneria__software_industriale_spa.40c05a1047199a94da2493712042092d.html",
     "http_checked": false,
     "occurrences": [
@@ -77222,6 +77668,28 @@
       {
         "path": "profile/A/A-269-Micro Technology Consultants-美国.md",
         "locator": "L81"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dnb.com/business-directory/company-profiles.ms_electronics_ltd.4407b2aed368125deae6826b52805731.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L153"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L184"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L274"
+      },
+      {
+        "path": "profile/B/B-106-MS Electronics LTD-塞浦路斯.md",
+        "locator": "L138"
       }
     ]
   },
@@ -81098,6 +81566,24 @@
     ]
   },
   {
+    "url": "https://www.explorium.ai/manufacturing/companies/iei-technology-usa",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1070"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1164"
+      },
+      {
+        "path": "profile/B/B-352-IEI Technology USA Corp-美国.md",
+        "locator": "L136"
+      }
+    ]
+  },
+  {
     "url": "https://www.facebook.com/3TECSOCIAL/",
     "http_checked": false,
     "occurrences": [
@@ -81484,6 +81970,28 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-788/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.facebook.com/ictintl/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L317"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L380"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L410"
+      },
+      {
+        "path": "profile/B/B-485-I C T INTERNATIONAL L.L.C-阿联酋.md",
+        "locator": "L132"
       }
     ]
   },
@@ -85398,6 +85906,24 @@
     ]
   },
   {
+    "url": "https://www.highperformr.ai/company/alltron-ag",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1378"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1472"
+      },
+      {
+        "path": "profile/B/B-298-Alltron AG-瑞士.md",
+        "locator": "L135"
+      }
+    ]
+  },
+  {
     "url": "https://www.hightechnordic.com/",
     "http_checked": false,
     "occurrences": [
@@ -87116,6 +87642,24 @@
       {
         "path": "profile/B/B-200-OEM Automatic spol. s r.o-捷克.md",
         "locator": "L81"
+      }
+    ]
+  },
+  {
+    "url": "https://www.info-ostrava.cz/ed-system-czech/index.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L777"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L874"
+      },
+      {
+        "path": "profile/B/B-208-eD's system Czech-捷克.md",
+        "locator": "L143"
       }
     ]
   },
@@ -90998,6 +91542,28 @@
     ]
   },
   {
+    "url": "https://www.lansweeper.com/partners/find-a-partner/ict-international-llc/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L296"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L322"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L416"
+      },
+      {
+        "path": "profile/B/B-485-I C T INTERNATIONAL L.L.C-阿联酋.md",
+        "locator": "L135"
+      }
+    ]
+  },
+  {
     "url": "https://www.lantronix.com/to-buy/locate-partner/",
     "http_checked": false,
     "occurrences": [
@@ -93274,6 +93840,42 @@
     ]
   },
   {
+    "url": "https://www.linkedin.com/in/eduardobicerne/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L618"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L714"
+      },
+      {
+        "path": "profile/B/B-381-Solution Box LLC-美国.md",
+        "locator": "L140"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/eugeniu-iacub-04b30577/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1239"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1336"
+      },
+      {
+        "path": "profile/B/B-210-Comitek（doxyterra.md）-摩尔多瓦.md",
+        "locator": "L143"
+      }
+    ]
+  },
+  {
     "url": "https://www.linkedin.com/in/flavio-camacho-aa966556",
     "http_checked": false,
     "occurrences": [
@@ -93647,11 +94249,7 @@
       },
       {
         "path": "profile/B/B-313-Dipol Connect SRL-罗马尼亚.md",
-        "locator": "L83"
-      },
-      {
-        "path": "profile/B/B-313-Dipol Connect SRL-罗马尼亚.md",
-        "locator": "L129"
+        "locator": "L90"
       }
     ]
   },
@@ -93675,7 +94273,7 @@
     "occurrences": [
       {
         "path": "profile/B/B-313-Dipol Connect SRL-罗马尼亚.md",
-        "locator": "L76"
+        "locator": "L83"
       }
     ]
   },
@@ -93736,6 +94334,24 @@
     ]
   },
   {
+    "url": "https://www.linkedin.com/in/joanne-huang-847945165/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1085"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1182"
+      },
+      {
+        "path": "profile/B/B-352-IEI Technology USA Corp-美国.md",
+        "locator": "L145"
+      }
+    ]
+  },
+  {
     "url": "https://www.linkedin.com/in/jodyl",
     "http_checked": false,
     "occurrences": [
@@ -93788,6 +94404,24 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-92/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/joseph-han-66b0a022/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1080"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1176"
+      },
+      {
+        "path": "profile/B/B-352-IEI Technology USA Corp-美国.md",
+        "locator": "L142"
       }
     ]
   },
@@ -94792,6 +95426,24 @@
       {
         "path": "scripts/R64_KP猎捕.py",
         "locator": "L46"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/in/tony-mccleery-1023891a/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1075"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1170"
+      },
+      {
+        "path": "profile/B/B-352-IEI Technology USA Corp-美国.md",
+        "locator": "L139"
       }
     ]
   },
@@ -106056,6 +106708,24 @@
     ]
   },
   {
+    "url": "https://www.netzwoche.ch/news/2014-01-31/alltron-ag-wird-zu-cos-distribution-ag",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1388"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1484"
+      },
+      {
+        "path": "profile/B/B-298-Alltron AG-瑞士.md",
+        "locator": "L141"
+      }
+    ]
+  },
+  {
     "url": "https://www.netzwoche.ch/news/2022-08-08/five-informatik-ernennt-neuen-ceo",
     "http_checked": false,
     "occurrences": [
@@ -112353,11 +113023,7 @@
       },
       {
         "path": "profile/B/B-313-Dipol Connect SRL-罗马尼亚.md",
-        "locator": "L82"
-      },
-      {
-        "path": "profile/B/B-313-Dipol Connect SRL-罗马尼亚.md",
-        "locator": "L126"
+        "locator": "L89"
       }
     ]
   },
@@ -112381,7 +113047,7 @@
     "occurrences": [
       {
         "path": "profile/B/B-313-Dipol Connect SRL-罗马尼亚.md",
-        "locator": "L75"
+        "locator": "L82"
       }
     ]
   },
@@ -116178,6 +116844,32 @@
     ]
   },
   {
+    "url": "https://www.solutionboxusa.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L582"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L603"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L666"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L696"
+      },
+      {
+        "path": "profile/B/B-381-Solution Box LLC-美国.md",
+        "locator": "L131"
+      }
+    ]
+  },
+  {
     "url": "https://www.solutions-numeriques.com/fiche/synexie/",
     "http_checked": false,
     "occurrences": [
@@ -119844,6 +120536,24 @@
     ]
   },
   {
+    "url": "https://www.ultimahora.es/noticias/economico/2025/12/19/2534123/connect-distingue-mejores-emprendedores.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L476"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L560"
+      },
+      {
+        "path": "profile/B/B-467-Enric Perpinyà Pitarch - Perpi.tech-西班牙.md",
+        "locator": "L135"
+      }
+    ]
+  },
+  {
     "url": "https://www.ultimahora.es/noticias/local/2026/07/15/2666711/",
     "http_checked": false,
     "occurrences": [
@@ -119870,8 +120580,28 @@
         "locator": "L127"
       },
       {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L450"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L471"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L524"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L554"
+      },
+      {
         "path": "profile/B/B-467-Enric Perpinyà Pitarch - Perpi.tech-西班牙.md",
         "locator": "L89"
+      },
+      {
+        "path": "profile/B/B-467-Enric Perpinyà Pitarch - Perpi.tech-西班牙.md",
+        "locator": "L132"
       }
     ]
   },
@@ -120768,6 +121498,28 @@
       {
         "path": "batch/B类深挖_2026-10-07_R65_第17批.json",
         "locator": "L35"
+      }
+    ]
+  },
+  {
+    "url": "https://www.vhodne-uverejneni.cz/profil/ed-system-czech-a-s",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L757"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L820"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L850"
+      },
+      {
+        "path": "profile/B/B-208-eD's system Czech-捷克.md",
+        "locator": "L131"
       }
     ]
   },
@@ -125224,8 +125976,20 @@
         "locator": "L211"
       },
       {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L337"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L434"
+      },
+      {
         "path": "profile/B/B-485-I C T INTERNATIONAL L.L.C-阿联酋.md",
         "locator": "L88"
+      },
+      {
+        "path": "profile/B/B-485-I C T INTERNATIONAL L.L.C-阿联酋.md",
+        "locator": "L144"
       }
     ]
   },
@@ -126936,6 +127700,32 @@
       {
         "path": "profile/A/A-416-Jorge Castellet Marques-西班牙.md",
         "locator": "L81"
+      }
+    ]
+  },
+  {
+    "url": "https://yellowpages.swiss/location.cfm?key=71289&company=Alltron-AG",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1352"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1373"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1436"
+      },
+      {
+        "path": "batch/B类深挖_2026-10-08_R67_R56_推土机批11.json",
+        "locator": "L1466"
+      },
+      {
+        "path": "profile/B/B-298-Alltron AG-瑞士.md",
+        "locator": "L132"
       }
     ]
   },

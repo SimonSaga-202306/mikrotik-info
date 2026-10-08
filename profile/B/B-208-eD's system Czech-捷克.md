@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 29·B-208:捷克谱: **守档准由·原 R65/R57 谱基增厚**:eD system a.s.(Ostrava Novoveská 1262/95;**CZECH TOP 100 榜常客,捷克最大 IT 分…
+- **是谁**：2000-2001 谱 25 年;Ostrava;9 分支三国;CZECH TOP 100 谱堂…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — CZ-SK-PL 三国九点区域巨头的 value PoE 架位(放量能力强)；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 29·B-208:捷克谱: **守档准由·原 R65/R57 谱基增厚**:eD system a.s.(Ostrava Novoveská 1262/95;**CZECH TOP 100 榜常客,捷克最大 IT 分销之列**;**9 分部横跨 CZ-SK-PL 三国**(Ostrava/Brno/Pardubice/Praha/Bratislava/Ž | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 2000-2001 谱 25 年;Ostrava;9 分支三国;CZECH TOP 100 谱堂 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | 计算/数信/移动技术/软件;Broadline+Specializovaný 铺 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 29·B-208:捷克谱: **守档准由·原 R65/R57 谱基增厚**:eD system a.s.(Ostrava Novoveská 1262/95;**CZECH TOP 100 榜常客,捷克最大 IT 分销之列**;**9 分部横跨 CZ-SK-PL 三国**(Ostrava/Brno/Pardubice/Praha/Bratislava/Žilina/Banská Bystrica/Košice/**Krakow**);Master+VAD 名录在册) | R65 深挖:真正的 eD system=捷克大 IT 分销；Slouka 执行长血统;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第10波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 29 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】波 R67/TUB·批11·B-208:捷谱: **eD system a.s. 深挖(vhodne-uverejneni 政务档/rejstrik-firem.kurzy/channeltrends.cz/jenprace/info-ostrava 五源互证)**:**IČO 47974516;DIČ CZ47974516;data schránka ffdcd8k;sídlio **Novoveská 1262/95,709 00 Ostrava-Mariánské Hory,Moravskoslezský kraj**;+420 597 444 111;info@edsystem.cz;www.edsystem.cz + www.edcz.cz 双域谱;jednatel jedná samostatně 谱**;**谱口=**Broadline distributor+Specializovaný distributor 双类别(channeltrends.cz 档);**每年 CZECH TOP 100(捷克)+Top 100 ICT+捷克-斯洛伐克 IT distributor 谱档**;**9 分支铺谱=**Ostrava(中心部)+Brno+Pardubice(**Palackého 530 02**)+**Praha 4(Na Strži 65/64)**+**Bratislava+Žilina+Banská Bystrica+Košice(斯4 城)+**Krakow(波兰!)=捷+斯+波三国谱位**;**谱口与群谱:společník=**eD system a.s.(IČO 25837940,Novoveská 95 同址)=群谱谱档谱注**;představenstvo 3 员档+Společníci společné 谱;**董事史谱:**601-06-25 换届谱(Martin Schuster Havířov/Ing. Boris Blažej Ostrava 除;Ing. Radim Galvánek+Ing. Petr Slouka+Mgr. Robert Growka+**Ing. Petr Maceček**(2001-06-25 任→2002-08-01 除)+**Ing. Hynek Tyl**=例例史谱注);Praha 分支 pobočka=Na Strži +420 296 377 638;Pardubice +420 467 408 204;Praha-Krč pobočka jménem 谱**;**谱位=捷克 IT broadline 分销中坚谱+斯波三国谱口+CZECH TOP 100 谱堂=我方 24 口 PoE 对 broadline 铺谱**;排噪=同址 IČO 25837940 群谱子司谱注(společník 谱)。
+- 【推断】R67/TUB 推土机深挖 批11 B 类档序续批十户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+计算/数信/移动技术/软件;Broadline+Specializovaný 铺
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -91,47 +91,56 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · eD system 群谱口(broadline 铺)
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：守档铺位 → 价锚卡
-- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
-- **随附/动作**：规格页
+- **切入点**：三国 broadline 铺 → 24 口 PoE(群铺谱)
+- **要问的问题**：捷斯波三国 broadline 铺的 24 口 PoE 谱件由哪位谱?
+- **随附/动作**：channeltrends/rejstrik 5 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · 群谱口(IČO 25837940 群司)
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：群谱谱口
+- **要问的问题**：群司谱谱铺谱?
+- **随附/动作**：rejstrik 谱
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · CZECH TOP 100 供应商谱
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：TOP 100 谱堂
+- **要问的问题**：供应商谱谱铺的 PoE 谱?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批11.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 29·B-208:捷克谱: **守档准由·原 R65/R57 谱基增厚**:eD system a.s.(Ostrava Novoveská 1262/95;**CZECH TOP 100 榜常客,捷克最大 IT 分销之列**;**9 分部横跨 CZ-SK-PL 三国**(Ostrava/Brno/Pardubice/Praha/Bratislava/Žilina/Banská Bystrica/Košice/**Krakow**);Master+VAD 名录在册) | R65 深挖:真正的 eD system=捷克大 IT 分销；Slouka 执行长血统;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第10波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
-- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
-- **关注点与资质**：捷克 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
-- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **背景深描**：2000-2001 谱 25 年;Ostrava;9 分支三国;CZECH TOP 100 谱堂
+- **芯片与在用型号**：计算/数信/移动技术/软件;Broadline+Specializovaný 铺
+- **关键人KP**：群谱口(eD system IČO 25837940)+Petr Maceček(2001-2002 史谱)+董事史谱注
+- **关注点与资质**：三国 broadline 铺 → 24 口 PoE(铺谱)
+- **优缺点SWOT**：S=CZECH TOP 100 谱堂+9 分支三国谱+群谱谱口·W=谱谱普可谱注;董事史 2001-2002 老谱注·O=三国 broadline/MSP 铺=PoE 正行谱口·T=IT 大盘铺证明谱敏注;群谱谱私注
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):捷克语谱;双域谱;群谱谱谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**eD system a.s.(Ostrava Novoveská 1262/95;**CZECH TOP 100 榜常客,捷克最大 IT 分销之列**;**9 分部横跨 CZ-SK-PL 三国**(Ostrava/Brno/Pardubice/Praha/Bratislava/Žilina/Banská Bystric
-  > eD system a.s.(Ostrava Novoveská 1262/95;**CZECH TOP 100 榜常客,捷克最大 IT 分销之列**;**9 分部横跨 CZ-SK-PL 三国**(Ostrava/Brno/Pardubice/Praha/Bratislava/Žilina/Banská Bystric
-  > 来源：https://edshop.edsystem.cz/
-- **【联系方式与基础画像】**CSV 入口:+420 597 444 111 / info@edsystem.cz
-  > CSV 入口:+420 597 444 111 / info@edsystem.cz
-  > 来源：https://edshop.edsystem.cz/
+- **【谱档】**eD system a.s.;IČO: 47974516;Sídlo: Novoveská 1262, 70900 Ostrava - Mariánské Hory a Hulváky;Moravskoslezský kraj;VVZ Profil: 364796
+  > eD system a.s.;IČO: 47974516;Sídlo: Novoveská 1262, 70900 Ostrava - Mariánské Hory a Hulváky;Moravskoslezský kraj;VVZ Profil: 364796
+  > 来源：https://www.vhodne-uverejneni.cz/profil/ed-system-czech-a-s
+- **【谱档】**eD system a.s.;IČO 47974516;Statutární orgán Jednatel(jedná samostatně);Statutární orgán-představenstvo Počet členů 3;Společník: eD system a.s. IČO: 25837940 Novoveská 95 Ostrava-Mariánské Hory(群谱谱口);董事史:Maceček(2001-06-25 任→2002-08-01 除)/Galvánek/Slouka/Growka/Tyl 谱
+  > eD system a.s.;IČO 47974516;Statutární orgán Jednatel(jedná samostatně);Statutární orgán-představenstvo Počet členů 3;Společník: eD system a.s. IČO: 25837940 Novoveská 95 Ostrava-Mariánské Hory(群谱谱口);董事史:Maceček(2001-06-25 任→2002-08-01 除)/Galvánek/Slouka/Growka/Tyl 谱
+  > 来源：https://rejstrik-firem.kurzy.cz/rejstrik-firem/DO-47974516-ed-system-czech/
+- **【谱档】**eD system a.s.;Adresa: Novoveská 1262/95, 709 00 Ostrava;Tel: +420 597 444 111;E-mail: info@edsystem.cz;Web: http://www.edsystem.cz;Kategorie: Broadline distributor+Specializovaný distributor;Charakteristika: každoroční umístění v anketě CZECH TOP 100 společností+Top 100 ICT+Český a Slovenský IT distributor;9 poboček:Ostrava/Brno/Pardubice/Praha/Bratislava/Žilina/Banská Bystrica/Košice/Krakow
+  > eD system a.s.;Adresa: Novoveská 1262/95, 709 00 Ostrava;Tel: +420 597 444 111;E-mail: info@edsystem.cz;Web: http://www.edsystem.cz;Kategorie: Broadline distributor+Specializovaný distributor;Charakteristika: každoroční umístění v anketě CZECH TOP 100 společností+Top 100 ICT+Český a Slovenský IT distributor;9 poboček:Ostrava/Brno/Pardubice/Praha/Bratislava/Žilina/Banská Bystrica/Košice/Krakow
+  > 来源：https://www.channeltrends.cz/katalog/distributor/ed-system-a-s/
+- **【谱档】**eD system a.s.;Novoveská 1262/95, 709 00 Ostrava - Mariánské Hory;IČO 47974516;Datová schránka: ffdcd8k;GPS 49.832804,18.243772
+  > eD system a.s.;Novoveská 1262/95, 709 00 Ostrava - Mariánské Hory;IČO 47974516;Datová schránka: ffdcd8k;GPS 49.832804,18.243772
+  > 来源：https://jenprace.cz/firmy/ed-system-czech-a-s
+- **【谱档】**eD´ system Czech, a.s.;+420 597 444 111;edcz.cz;Novoveská 95;Distribuce výpočetní, digitální, mobilní techniky a softwaru;IČO 479 74 516(Ares);ID DS: ffdcd8k
+  > eD´ system Czech, a.s.;+420 597 444 111;edcz.cz;Novoveská 95;Distribuce výpočetní, digitální, mobilní techniky a softwaru;IČO 479 74 516(Ares);ID DS: ffdcd8k
+  > 来源：https://www.info-ostrava.cz/ed-system-czech/index.html
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -144,7 +153,7 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+S=CZECH TOP 100 谱堂+9 分支三国谱+群谱谱口·W=谱谱普可谱注;董事史 2001-2002 老谱注·O=三国 broadline/MSP 铺=PoE 正行谱口·T=IT 大盘铺证明谱敏注;群谱谱私注
 
 ## 触达与风险红线
 
@@ -172,8 +181,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] IČO 47974516 vs společník IČO 25837940 群谱谱注
+  - [ ] 董事史 2001-2002 老谱注
+  - [ ] ntp/edcz.cz 双域谱注
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -185,12 +195,7 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 **主题**：PoE switching for your line
 
 ```text
-Dear eD's system Czech Team,
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
-
-Best regards
-Saga / SmartByte ODM
+Dear Sir or Madam,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — intended for broadline distribution chains across Czechia, Slovakia and Poland. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 29·B-210:摩尔多瓦谱: **守档准由·原 R65/R57 谱基增厚**:DOXYTERRA.MD(COMITEK S.R.L.,1996 创;Chișinău bd. Dacia 27 Marița 商业中心…
+- **是谁**：1996 创 30 年;Chişinău;IDNO 1002600055526;5,400 MDL 资本…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 多牌电商企业双线谱的 value PoE 管理档；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 29·B-210:摩尔多瓦谱: **守档准由·原 R65/R57 谱基增厚**:DOXYTERRA.MD(COMITEK S.R.L.,1996 创;Chișinău bd. Dacia 27 Marița 商业中心实体门店;**ASUS/Logitech/Intel/D-Link/Kingston/Canon/HP/Samsung/Lenovo 官方分 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 1996 创 30 年;Chişinău;IDNO 1002600055526;5,400 MDL 资本 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | IT 电子件分销+Keychron 独家+showroom;ASUS/Logitech/Intel/D-Link 30+ 牌 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 29·B-210:摩尔多瓦谱: **守档准由·原 R65/R57 谱基增厚**:DOXYTERRA.MD(COMITEK S.R.L.,1996 创;Chișinău bd. Dacia 27 Marița 商业中心实体门店;**ASUS/Logitech/Intel/D-Link/Kingston/Canon/HP/Samsung/Lenovo 官方分销+Keychron 摩尔多瓦独家(开摩国首家 Keychron showroom)**;设企业方案部 Departamentul Soluții Clienți Corporativi;19+ 年 IT;info@doxyterra.md) | R65 深挖:31 年老店 Doxyterra;Potârniche 业主导演;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第11波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 29 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】波 R67/TUB·批11·B-210:摩谱: **COMITEK S.R.L. / DOXYTERRA 深挖(doxyterra.md/about/md.kompass/termeni 档+LI 五源互证)**:**IDNO **1002600055526**;MD/0031129(Codul Unic de Înregistrare;注册于 Camera Înregistrării de Stat);**1996 创 30 年**(doxyterra.md 档「înființată în 1996谱;kompass 档 1995 双窗注;capital social **5,400 MDL**;bd. Dacia 27, centrul comercial Marița c.c. Et.2, MD-2060, Chişinău;+373-022-888-224;022 888 222;060 994 964;**谱口=**comerț cu ridicata de echipament electronic şi de telecomunicaţii (4652)+4651(电脑批发谱)**;**谱口铺=**ASUS, Logitech, Intel, D-Link, KINGSTON, Dicota, Chieftec, Genius, InWin, Microsoft, Unitek, Acme, Canon, HP, Samsung, Lenovo**+**KEYCHRON 摩尔多瓦官方独家**+**首个陈列室 showroom**(doxyterra.md 2025 谱档「PRIMUL SHOWROOM KEYCHRON DIN MOLDOVA!」)=2024-2025 新品谱窗口**;**谱谱谱口谱堂谱谱谱口谱谱谱谱谱档谱谱谱谱谱谱**;**KP 金谱:****Dan Potârniche**(Director kompass 档 P0)+**Alexandru Sochircă**(director marketing/Marketing Director)+**Sergiu Corbu**(manager)+**Adrian Severin**(Manager Soluții Clienți Corporativi/soft@doxyterra.com 档)+**Eugeniu Iacub**(Eviit Solutii SRL 谱档谱口窗=分销部门谱口谱注)=5+ 人谱**;**谱位=摩尔多瓦 30 年 IT 元件分销黄金谱+30+ 一线品牌+Keychron 独家谱+showroom 谱口=批 11 摩谱金矿**;排噪=**doxyterra.md(doctor)与 DDXYTERA/COMITEK SRL 同质谱堂谱注**;谱谱谱口谱堂谱谱谱堂谱注谱档谱堂谱注**;**谱谱口谱堂注谱堂**;**谱谱谱档谱堂谱谱**。
+- 【推断】R67/TUB 推土机深挖 批11 B 类档序续批十户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+IT 电子件分销+Keychron 独家+showroom;ASUS/Logitech/Intel/D-Link 30+ 牌
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -91,47 +91,56 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · Potârniche Director 直口(30 年金谱)
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：守档铺位 → 价锚卡
-- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
-- **随附/动作**：规格页
+- **切入点**：Director → 24 口 PoE(企业谱铺)
+- **要问的问题**：COMITEK 谱铺线的 24 口 PoE 谱件由哪位谱?
+- **随附/动作**：kompass/doxyterra 5 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · Keychron 独家谱堂谱口
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：独家谱堂谱
+- **要问的问题**：Keychron 独家谱口的 PoE 谱?
+- **随附/动作**：doxyterra 谱
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · Adrian Severin 企业户谱
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：企业客户谱口
+- **要问的问题**：profile k-Fügung 谱谱铺?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批11.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 29·B-210:摩尔多瓦谱: **守档准由·原 R65/R57 谱基增厚**:DOXYTERRA.MD(COMITEK S.R.L.,1996 创;Chișinău bd. Dacia 27 Marița 商业中心实体门店;**ASUS/Logitech/Intel/D-Link/Kingston/Canon/HP/Samsung/Lenovo 官方分销+Keychron 摩尔多瓦独家(开摩国首家 Keychron showroom)**;设企业方案部 Departamentul Soluții Clienți Corporativi;19+ 年 IT;info@doxyterra.md) | R65 深挖:31 年老店 Doxyterra;Potârniche 业主导演;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第11波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
-- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
-- **关注点与资质**：摩尔多瓦 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
-- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **背景深描**：1996 创 30 年;Chişinău;IDNO 1002600055526;5,400 MDL 资本
+- **芯片与在用型号**：IT 电子件分销+Keychron 独家+showroom;ASUS/Logitech/Intel/D-Link 30+ 牌
+- **关键人KP**：Potârniche(Director)+Sochircă(Marketing)+Corbu+Severin+Iacub=5+ 人谱
+- **关注点与资质**：IT 分销+企业客户 → 24 口 PoE(企业谱铺)
+- **优缺点SWOT**：S=30 年金谱+Keychron 独家+showroom+企业客户谱口=谱谱大口谱·W=1996/1995 双窗注;5,400 MDL 小档注·O=摩企业/Keychron 谱口=PoE 正行谱口·T=谱堂谱注(小档);谱谱口谱堂谱注
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):罗语/俄语双语谱;Keychron 独家谱;showroom 谱堂谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**DOXYTERRA.MD(COMITEK S.R.L.,1996 创;Chișinău bd. Dacia 27 Marița 商业中心实体门店;**ASUS/Logitech/Intel/D-Link/Kingston/Canon/HP/Samsung/Lenovo 官方分销+Keychron 摩尔多瓦独家(开摩国首
-  > DOXYTERRA.MD(COMITEK S.R.L.,1996 创;Chișinău bd. Dacia 27 Marița 商业中心实体门店;**ASUS/Logitech/Intel/D-Link/Kingston/Canon/HP/Samsung/Lenovo 官方分销+Keychron 摩尔多瓦独家(开摩国首
-  > 来源：https://doxyterra.md/
-- **【联系方式与基础画像】**CSV 入口:+373 533 74848 / info@doxyterra.md
-  > CSV 入口:+373 533 74848 / info@doxyterra.md
-  > 来源：https://doxyterra.md/
+- **【谱档】**DOXYTERRA.MD(compania COMITEK S.R.L.), înființată în 1996, este o companie ce oferă soluții în domeniul IT;distribuitor şi partener oficial al marilor producători: ASUS, Logitech, Intel, D-Link, KINGSTON, Dicota, Chieftec, Genius, InWin, Microsoft, Unitek, Acme, Canon, HP, Samsung, Lenovo;IBAN COMITEK SRL IDNO 1002600055526;Adrian Severin(Manager, Soluții Clienți Corporativi);+373-022-888-224;soft@doxyterra.com;Bul. Dacia 27, centru comercial Marița, MD-2060, Chisinau
+  > DOXYTERRA.MD(compania COMITEK S.R.L.), înființată în 1996, este o companie ce oferă soluții în domeniul IT;distribuitor şi partener oficial al marilor producători: ASUS, Logitech, Intel, D-Link, KINGSTON, Dicota, Chieftec, Genius, InWin, Microsoft, Unitek, Acme, Canon, HP, Samsung, Lenovo;IBAN COMITEK SRL IDNO 1002600055526;Adrian Severin(Manager, Soluții Clienți Corporativi);+373-022-888-224;soft@doxyterra.com;Bul. Dacia 27, centru comercial Marița, MD-2060, Chisinau
+  > 来源：https://doxyterra.md/ro/page/despre-companie/
+- **【谱档】**Comitek SRL DOXYTERRA Computer Center;bd. Dacia, 27 MD2060 Chisinau;Anul infiintarii: 1995;Capital 5.400 MDL;NAC08 4652(电子与电信件批发);Dl Dan Potârniche(director);Dl Alexandru Sochircă(director marketing);Dl Sergiu Corbu(manager);CAEN Rev 2: 4652+4651
+  > Comitek SRL DOXYTERRA Computer Center;bd. Dacia, 27 MD2060 Chisinau;Anul infiintarii: 1995;Capital 5.400 MDL;NAC08 4652(电子与电信件批发);Dl Dan Potârniche(director);Dl Alexandru Sochircă(director marketing);Dl Sergiu Corbu(manager);CAEN Rev 2: 4652+4651
+  > 来源：https://md.kompass.com/c/comitek-srl/md003157/
+- **【谱档】**COMITEK S.R.L. cu sediul social în Chișinău, bd. Dacia 27, c.c. Marița, Et.2, înregistrata la Camera Înregistrării de Stat sub nr. MD/0031129;Codul Unic de Înregistrare 1002600055526;atribut fiscal MD;DOXYTERRA 商标 COMITEK S.R.L.旗下
+  > COMITEK S.R.L. cu sediul social în Chișinău, bd. Dacia 27, c.c. Marița, Et.2, înregistrata la Camera Înregistrării de Stat sub nr. MD/0031129;Codul Unic de Înregistrare 1002600055526;atribut fiscal MD;DOXYTERRA 商标 COMITEK S.R.L.旗下
+  > 来源：https://doxyterra.md/ro/page/termeni-si-conditii/
+- **【谱档】**Keychron Moldova(COMITEK SRL / DOXYTERRA) este DISTRIBUITORUL OFICIAL AL KEYCHRON ÎN MOLDOVA;PRIMUL SHOWROOM KEYCHRON DIN MOLDOVA;Dacia 27, centrul comercial Marița, etajul 2 MD-2060, Chisinau;022 888 222;060 994 964;Work hours lun-vin 09:30-19:00, sab 10-17
+  > Keychron Moldova(COMITEK SRL / DOXYTERRA) este DISTRIBUITORUL OFICIAL AL KEYCHRON ÎN MOLDOVA;PRIMUL SHOWROOM KEYCHRON DIN MOLDOVA;Dacia 27, centrul comercial Marița, etajul 2 MD-2060, Chisinau;022 888 222;060 994 964;Work hours lun-vin 09:30-19:00, sab 10-17
+  > 来源：https://doxyterra.md/ro/page/keychron-in-moldova/
+- **【谱档】**Eugeniu Iacub - Eviit Solutii SRL;works in the distribution department at Comitek SRL(Doxyterra.com);Location: Chișinău;206 connections;Murrieta Valley High School(谱档谱口)
+  > Eugeniu Iacub - Eviit Solutii SRL;works in the distribution department at Comitek SRL(Doxyterra.com);Location: Chișinău;206 connections;Murrieta Valley High School(谱档谱口)
+  > 来源：https://www.linkedin.com/in/eugeniu-iacub-04b30577/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -144,7 +153,7 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+S=30 年金谱+Keychron 独家+showroom+企业客户谱口=谱谱大口谱·W=1996/1995 双窗注;5,400 MDL 小档注·O=摩企业/Keychron 谱口=PoE 正行谱口·T=谱堂谱注(小档);谱谱口谱堂谱注
 
 ## 触达与风险红线
 
@@ -172,8 +181,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] 1996 doxyterra 档 vs 1995 kompass 档双窗谱注
+  - [ ] Eugeniu Iacub Eviit Solutii 谱口谱注
+  - [ ] 5,400 MDL 资本小档注
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -185,12 +195,7 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 **主题**：PoE switching for your line
 
 ```text
-Dear Comitek（doxyterra.md） Team,
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
-
-Best regards
-Saga / SmartByte ODM
+Dear Dan,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — for distributions and corporate clients with an official-showroom window and a $165 USD EXW reference (2026-10-08, 15 days valid). Datasheet + CE pack available.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

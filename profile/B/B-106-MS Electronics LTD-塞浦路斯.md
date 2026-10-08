@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 29·B-106:塞浦路斯谱: **守档准由·原 R65/R57 谱基增厚**:MS Electronics Ltd(Limassol Demokritou 12B;1992 创;**塞浦路斯消费 AV+电子大分销:…
+- **是谁**：1996 谱/HE 2008 双窗;Limassol;头号 broadline 分销;800+ 合作网…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — 消费大分销 Networking 类目的管理型 PoE 升级档；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 29·B-106:塞浦路斯谱: **守档准由·原 R65/R57 谱基增厚**:MS Electronics Ltd(Limassol Demokritou 12B;1992 创;**塞浦路斯消费 AV+电子大分销:50+ 品牌官方合作,800+ 经销商网**;类目含 IT&Networking、Security、手机配件、太阳能;具名 Panicos  | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 1996 谱/HE 2008 双窗;Limassol;头号 broadline 分销;800+ 合作网 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | Consumer/IT/Networking/Security/Smart Home;60+ 品牌/6,000+ SKU | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 29·B-106:塞浦路斯谱: **守档准由·原 R65/R57 谱基增厚**:MS Electronics Ltd(Limassol Demokritou 12B;1992 创;**塞浦路斯消费 AV+电子大分销:50+ 品牌官方合作,800+ 经销商网**;类目含 IT&Networking、Security、手机配件、太阳能;具名 Panicos Michael,CSV pieris@mstronics.com 对位) | R64 并入:Panicos Michael = Managing Director;Pieris Michael = Product;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第11波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 29 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】波 R67/TUB·批11·B-106:塞谱: **MS ELECTRONICS LTD 深挖(cyprusregistry/rocketreach/D&B/cybo/ergodotisi 五源互证)**:**HE 241052(塞 PTR 档);2008-11-03 注册(HE 谱；rocketreach 谱档「Founded 1996=30 年」=司实体注册/司经营创双窗)****;**谱口(KYPROS 库谱安威):**Leading broadline distribution company in Cyprus since 1996=塞浦路斯头号 wholesale(航仪)分销社;**60+ world-class brands+6,000+ products+800+ trusted partners**(含零售店+行业专业客户);Consumer Electronics/IT/**Networking**/**Security**/Smart Home/Home/Professional Audio 大谱谱口**;注册办=**Kolonakiou 7,4103 Λεμεσός(Limassol;D&B 档 Agios Athanasios 双窗)+谱窗老址 7 Spyrou Kyprianou Ex Kolonakiou Linopetra 谱**;+357 25 580611;Fax +357 25 583742;www.mstronics.com;7-11 员(rocketreach 11 vs D&B 7 双窗);$1.31M-$4M 双窗注**;**KP 金谱:**Managing Director=**Panicos Michael**(ΠΑΝΙΚΟΣ ΜΙΧΑΗΛ;rocketreach 谱；D&B 档 Director+Secretary 双职 P0)+**Stavros Stavrou**(ΣΤΑΥΡΟΣ ΣΤΑΥΡΟΥ;Director PTR 档)+**Theodoros Theodorou**(Product Manager+**Michalis Pavlou**(Sales Director)+**Charalampos Oupli**(**Security Product Manager**)+**Marios Neokleous**(Accountant)=6+ 人谱**;RMA Director 招聘 2025-08 谱(€2,600-3,200/月)=活谱窗**;**谱位=塞浦路斯 30 年头号电子/网络/安防 wholesale 分销=我方 24 口 PoE 对 800 合作零售/行业客户网+Security Product Manager 直口=批 11 塞谱金矿**;排噪:同名多司(Lazaros Lazarou Entertainment 非本司谱注)。
+- 【推断】R67/TUB 推土机深挖 批11 B 类档序续批十户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+Consumer/IT/Networking/Security/Smart Home;60+ 品牌/6,000+ SKU
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -92,47 +92,53 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · Panicos Michael MD 直口(30 年头号谱)
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：守档铺位 → 价锚卡
-- **要问的问题**：贵司新一季 PoE 铺位是否开放比选？
-- **随附/动作**：规格页
+- **切入点**：MD 直口 → 24 口 PoE(网络/安防谱铺)
+- **要问的问题**：MS 谱铺线的 24 口 PoE 谱件由哪位谱口口?
+- **随附/动作**：rocketreach/D&B 5 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · Oupli Security PM 谱口
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：Security 24 口 PoE 铺
+- **要问的问题**：贵司 Security 谱口的 PoE 谱?
+- **随附/动作**：rocketreach 谱
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · Pavlou Sales Director 谱
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：Sales Director 谱口
+- **要问的问题**：800+ 合作网的 PoE 谱谱:
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第29波76户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批11.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 29·B-106:塞浦路斯谱: **守档准由·原 R65/R57 谱基增厚**:MS Electronics Ltd(Limassol Demokritou 12B;1992 创;**塞浦路斯消费 AV+电子大分销:50+ 品牌官方合作,800+ 经销商网**;类目含 IT&Networking、Security、手机配件、太阳能;具名 Panicos Michael,CSV pieris@mstronics.com 对位) | R64 并入:Panicos Michael = Managing Director;Pieris Michael = Product;R66 第 29 波谱:我司 STC-424XGGPM-280W(24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)($165 价锚))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第11波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
-- **关键人KP**：**守档准由;R66 第 29 波点名(谱面无实名)**
-- **关注点与资质**：塞浦路斯 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
-- **Saga产品适配**：STC-424XGGPM-280W vs PLANET/当批价差窗
+- **背景深描**：1996 谱/HE 2008 双窗;Limassol;头号 broadline 分销;800+ 合作网
+- **芯片与在用型号**：Consumer/IT/Networking/Security/Smart Home;60+ 品牌/6,000+ SKU
+- **关键人KP**：Panicos Michael(MD 双职)+Stavros Stavrou(Director)+Theodoros+Pavlou+Oupli(Security PM)+Neokleous=6+ 人谱
+- **关注点与资质**：大铺+Security PM → 24 口 PoE(网络+安防铺)
+- **优缺点SWOT**：S=30 年头号谱+800+ 伙伴+6,000 SKU+60 品牌=谱口大谱谱谱·W=$1.31M vs $4M 双窗注;broadline 谱誉谱注·O=网络/安防部署他箱箱箱 PoE 正行谱口·T=谱脑广谱=小件谱敏注;塞矿岛注
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):希英双语谱;800+ 合作网;30 年谱稳;上谱谱口安全铺
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**MS Electronics Ltd(Limassol Demokritou 12B;1992 创;**塞浦路斯消费 AV+电子大分销:50+ 品牌官方合作,800+ 经销商网**;类目含 IT&Networking、Security、手机配件、太阳能;具名 Panicos Michael,CSV pieris@mst
-  > MS Electronics Ltd(Limassol Demokritou 12B;1992 创;**塞浦路斯消费 AV+电子大分销:50+ 品牌官方合作,800+ 经销商网**;类目含 IT&Networking、Security、手机配件、太阳能;具名 Panicos Michael,CSV pieris@mst
-  > 来源：https://mstronics.com/
-- **【联系方式与基础画像】**CSV 入口:+357 25 580 611 / pieris@mstronics.com
-  > CSV 入口:+357 25 580 611 / pieris@mstronics.com
-  > 来源：https://mstronics.com/
+- **【谱档】**MS ELECTRONICS LTD;HE 241052;Limited Company-Private;Registration 03/11/08;Active;Kolonakiou 7, 4103 Limassol;ΠΑΝΙΚΟΣ ΜΙΧΑΗΛ holds Director+Secretary;ΣΤΑΥΡΟΣ ΣΤΑΥΡΟΥ holds Director
+  > MS ELECTRONICS LTD;HE 241052;Limited Company-Private;Registration 03/11/08;Active;Kolonakiou 7, 4103 Limassol;ΠΑΝΙΚΟΣ ΜΙΧΑΗΛ holds Director+Secretary;ΣΤΑΥΡΟΣ ΣΤΑΥΡΟΥ holds Director
+  > 来源：https://cyprusregistry.com/companies/HE/241052
+- **【谱档】**MS Electronics Ltd;mstronics.com;Revenue $4 million;11 Employees;Founded 1996;7 Spyrou Kyprianou Ex Kolonakiou Linopetra, Limassol 4103;+357 25 580611;Panicos Michael=Managing Director;Theodoros Theodorou=Product Manager;Michalis Pavlou=Sales Director;Charalampos Oupli=Security Product Manager;Marios Neokleous=Accountant
+  > MS Electronics Ltd;mstronics.com;Revenue $4 million;11 Employees;Founded 1996;7 Spyrou Kyprianou Ex Kolonakiou Linopetra, Limassol 4103;+357 25 580611;Panicos Michael=Managing Director;Theodoros Theodorou=Product Manager;Michalis Pavlou=Sales Director;Charalampos Oupli=Security Product Manager;Marios Neokleous=Accountant
+  > 来源：https://rocketreach.co/ms-electronics-ltd-profile_b4479492facba323
+- **【D&B 档】**MS ELECTRONICS LTD;Agios Athanasios Cyprus;7 Kolonakiou Agios Athanasios 4103;+357-25580611;mstronics.com;7 Employees;$1.31 million revenues;Year Started 2008;Panicos Michael Director and Secretary;Stavros Stavrou Director
+  > MS ELECTRONICS LTD;Agios Athanasios Cyprus;7 Kolonakiou Agios Athanasios 4103;+357-25580611;mstronics.com;7 Employees;$1.31 million revenues;Year Started 2008;Panicos Michael Director and Secretary;Stavros Stavrou Director
+  > 来源：https://www.dnb.com/business-directory/company-profiles.ms_electronics_ltd.4407b2aed368125deae6826b52805731.html
+- **【业务档】**MS Electronics Ltd, based in Limassol, is the leading broadline distribution company in Cyprus since 1996;60+ world-class brands;6,000+ products;800+ trusted partners(stores+industry professionals);Consumer Electronics, IT, Networking, Security, Smart Home, Home and Professional Audio;RMA Director 招聘(€2,600-3,200;Senior-Level;Full Time)
+  > MS Electronics Ltd, based in Limassol, is the leading broadline distribution company in Cyprus since 1996;60+ world-class brands;6,000+ products;800+ trusted partners(stores+industry professionals);Consumer Electronics, IT, Networking, Security, Smart Home, Home and Professional Audio;RMA Director 招聘(€2,600-3,200;Senior-Level;Full Time)
+  > 来源：https://ergodotisi.com/en-CY/jobs/rma-director-27082500
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -145,7 +151,7 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱链节奏
+S=30 年头号谱+800+ 伙伴+6,000 SKU+60 品牌=谱口大谱谱谱·W=$1.31M vs $4M 双窗注;broadline 谱誉谱注·O=网络/安防部署他箱箱箱 PoE 正行谱口·T=谱脑广谱=小件谱敏注;塞矿岛注
 
 ## 触达与风险红线
 
@@ -173,8 +179,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] 创年 1996 vs HE 2008 双窗谱注(实体注册/经营创谱)
+  - [ ] 7 vs 11 员双窗注
+  - [ ] $1.31M vs $4M 双窗注
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -186,12 +193,7 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=STC-424XGGPM-280W 价差窗;T=谱
 **主题**：PoE switching for your line
 
 ```text
-Dear MS Electronics LTD Team,
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
-
-Best regards
-Saga / SmartByte ODM
+Dear Panicos,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — a new-line block for your 800-partner network. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

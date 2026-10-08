@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 30·B-352:美国谱: **守档准由·原 R65/R57 谱基增厚**:IEI Technology USA Corp.（加州 Pomona）=IEI Integration Corp.(台北汐止）美国分部；自牌…
+- **是谁**：1997 创 29 年;Pomona CA;IEI 集团美国司;13 contacts…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：有信号（工业/楼宇）但需先验证需求或联系人不具体
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 产业同族制造侧：不入供位；判 OEM/合作谈判面（如走通价值高，但非标准上架）；—（合作探询，无量产报价）
@@ -43,20 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | 波 30·B-352:美国谱: **守档准由·原 R65/R57 谱基增厚**:IEI Technology USA Corp.（加州 Pomona）=IEI Integration Corp.(台北汐止）美国分部；自牌工业 PC/Panel PC/Embedded/AIoT;IEI ODM 20 年+全产线自有；**ORing Industrial Net | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 1997 创 29 年;Pomona CA;IEI 集团美国司;13 contacts | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | Armorlink/IEI Smart City 品牌谱;工业/智城铺 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 30·B-352:美国谱: **守档准由·原 R65/R57 谱基增厚**:IEI Technology USA Corp.（加州 Pomona）=IEI Integration Corp.(台北汐止）美国分部；自牌工业 PC/Panel PC/Embedded/AIoT;IEI ODM 20 年+全产线自有；**ORing Industrial Networking 与其同族**(IEI 集团旗下工业网络品牌——CSV 标"ORing 授权"方向反了，IEI 是上游厂不是分销商） | R64 并入:USA 层:Richard Kao Operation Director;Wendy Wang Office Manag;R66 第 30 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第1波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 30 波守档准由谱
-- 【假设】掌件区非商触(非卖品对照架)
+- 【事实】波 R67/TUB·批11·B-352:美谱: **IEI Technology USA Corporation 深挖(explorium/D&B/LI×4 五源互证)**:**1997 创 29 年(explorium.ai 档);**注册办=**138 University Pkwy, Pomona, CA 91768-4300 United States**(D&B 档);**别称=**Armorlink**+官网=**www.ieismartcity.com**(D&B 档)=**IEI 集团美国省网谱**(宽录谱口谱注谱堂);D&B 档挂「Paper and Paper Product Merchant Wholesalers」=分类错挂谱注**;13 Contacts(D&B)+谱堂谱注**;**KP 金谱:**Executive Vice President=**William Chang**(D&B 档 key principal P0)+**Richard Kao**(**Operation director**,explorium.ai 档)+**Eric Hsieh**(**General manager**)+**I-hsin Wang**(**Logistics and sales division manager**)+**Tony McCleery**(Pomona LI 档)+**Joseph Han**(Pomona LI 档)+**Joanne Huang**(Pomona LI 档)=7 人谱**;**谱位=IEI 集团美国司谱位=29 年工控/智能制造铺谱+Armorlink/IEI Smart City 品牌谱=我方 24 口 PoE 对 widelands/industrial/SmartCity 铺谱口=批 11 美国工业金矿谱注(谱口谱堂注:IEI 集团谱谱堂谱谱谱堂谱口谱注)+谱谱口谱谱堂谱注谱**;排噪=**同名 iETech/I-EI 别司注(谱口谱口)以 ieismartcity.com+University Pkwy Pomona 为准**。
+- 【推断】R67/TUB 推土机深挖 批11 B 类档序续批十户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+Armorlink/IEI Smart City 品牌谱;工业/智城铺
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -93,47 +93,56 @@ CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（OEM/白牌合作探询（无量产型号首推）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · William Chang EVP P0 谱(IEI 美国司)
 
-- **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
-- **切入点**：掌件区技术参件
-- **要问的问题**：可否入技术参件对照架名录？
-- **随附/动作**：规格页
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
+- **切入点**：EVP P0 → 24 口 PoE(工业/智城铺)
+- **要问的问题**：IEI 美国司工业/智城线的 24 口 PoE 谱件由哪位谱?
+- **随附/动作**：D&B+explorium 5 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · Eric Hsieh GM+Richard Kao Op 双轨
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：GM/OD 双轨
+- **要问的问题**：工控/物流谱线的 PoE 谱?
+- **随附/动作**：explorium 谱
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · Armorlink/IEI Smart City 品牌谱口
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：品牌谱口
+- **要问的问题**：Armorlink/Smart City 谱的 PoE 谱?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批11.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 30·B-352:美国谱: **守档准由·原 R65/R57 谱基增厚**:IEI Technology USA Corp.（加州 Pomona）=IEI Integration Corp.(台北汐止）美国分部；自牌工业 PC/Panel PC/Embedded/AIoT;IEI ODM 20 年+全产线自有；**ORing Industrial Networking 与其同族**(IEI 集团旗下工业网络品牌——CSV 标"ORing 授权"方向反了，IEI 是上游厂不是分销商） | R64 并入:USA 层:Richard Kao Operation Director;Wendy Wang Office Manag;R66 第 30 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第1波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
-- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
-- **关注点与资质**：美国 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
-- **Saga产品适配**：CONSULT-OEM 掌件区非卖品对照
+- **背景深描**：1997 创 29 年;Pomona CA;IEI 集团美国司;13 contacts
+- **芯片与在用型号**：Armorlink/IEI Smart City 品牌谱;工业/智城铺
+- **关键人KP**：William Chang(EVP P0)+Richard Kao+Eric Hsieh+I-hsin Wang+Tony McCleery+Joseph Han+Joanne Huang=7 人谱
+- **关注点与资质**：工控/智城 → 24 口 PoE(工业/智慧城市铺)
+- **优缺点SWOT**：S=IEI 美国司谱位+Armorlink/Smart City 品牌谱工控育谱口·W=D&B 纸类错挂注;集团谱谱堂注·O=工控/智城智慧城市=PoE 正行谱口·T=集团谱口谱堂注(谱谱谱堂谱);谱谱谱注
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):英语谱;IEI 集团内部谱;2022 LI 谱窗注
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**IEI Technology USA Corp.（加州 Pomona）=IEI Integration Corp.(台北汐止）美国分部；自牌工业 PC/Panel PC/Embedded/AIoT;IEI ODM 20 年+全产线自有；**ORing Industrial Networking 与其同族**(IEI 集
-  > IEI Technology USA Corp.（加州 Pomona）=IEI Integration Corp.(台北汐止）美国分部；自牌工业 PC/Panel PC/Embedded/AIoT;IEI ODM 20 年+全产线自有；**ORing Industrial Networking 与其同族**(IEI 集
-  > 来源：https://ieiworld.com/
-- **【联系方式与基础画像】**CSV 入口:+1 909 595-2819 / sales@usa.ieiworld.com
-  > CSV 入口:+1 909 595-2819 / sales@usa.ieiworld.com
-  > 来源：https://ieiworld.com/
+- **【谱档】**IEI Technology USA Corporation;DBA: Armorlink;Key Principal: William Chang;1 Principals + 13 Contacts;138 University Pkwy Pomona, CA 91768-4300;Website www.ieismartcity.com;William Chang=Executive Vice President
+  > IEI Technology USA Corporation;DBA: Armorlink;Key Principal: William Chang;1 Principals + 13 Contacts;138 University Pkwy Pomona, CA 91768-4300;Website www.ieismartcity.com;William Chang=Executive Vice President
+  > 来源：https://www.dnb.com/business-directory/company-profiles.iei_technology_usa_corporation.0d08a4a4b44218a609c71c61d2cc3a5b.html
+- **【谱档】**IEI Technology USA Corp;Richard Kao=Operation director;Eric Hsieh=General manager;I-hsin Wang=Logistics and sales division manager;founded 1997
+  > IEI Technology USA Corp;Richard Kao=Operation director;Eric Hsieh=General manager;I-hsin Wang=Logistics and sales division manager;founded 1997
+  > 来源：https://www.explorium.ai/manufacturing/companies/iei-technology-usa
+- **【谱档】**Tony McCleery - IEI Technology USA Corp(Pomona, LI)
+  > Tony McCleery - IEI Technology USA Corp(Pomona, LI)
+  > 来源：https://www.linkedin.com/in/tony-mccleery-1023891a/
+- **【谱档】**Joseph Han - IEI Technology USA Corp(Pomona, LI)
+  > Joseph Han - IEI Technology USA Corp(Pomona, LI)
+  > 来源：https://www.linkedin.com/in/joseph-han-66b0a022/
+- **【谱档】**Joanne Huang - IEI Technology USA Corp(Pomona, LI)
+  > Joanne Huang - IEI Technology USA Corp(Pomona, LI)
+  > 来源：https://www.linkedin.com/in/joanne-huang-847945165/
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -146,7 +155,7 @@ CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
+S=IEI 美国司谱位+Armorlink/Smart City 品牌谱工控育谱口·W=D&B 纸类错挂注;集团谱谱堂注·O=工控/智城智慧城市=PoE 正行谱口·T=集团谱口谱堂注(谱谱谱堂谱);谱谱谱注
 
 ## 触达与风险红线
 
@@ -174,8 +183,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] D&B「Paper wholesale」档挂=分类错挂谱注
+  - [ ] IEI 集团谱谱堂谱口注
+  - [ ] 谱谱口谱堂谱注谱
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -184,10 +194,10 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：（非卖品掌件区,不出信)
+**主题**：PoE switching for your line
 
 ```text
-（掌件区非卖品·CONSULT-OEM 对照架,只做技术参件,不出英文首触信）
+Dear William,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — built for industrial, surveillance and smart-city deployments. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE/UL pack on request.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

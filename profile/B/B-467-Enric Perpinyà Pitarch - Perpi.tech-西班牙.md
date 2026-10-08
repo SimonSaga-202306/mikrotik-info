@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：波 30·B-467:西班牙谱: **守档准由·原 R65/R57 谱基增厚**:Enric Perpinyà Pitarch - Perpi.Tech(Palma 马略卡;**创始人/CEO 本人+Connect'Up…
+- **是谁**：Palma Mallorca;2025 Youth 冠军;专精谱口谱堂谱…
 - **商业模式**：咨询/项目交付
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 获奖初创 MSP,酒店客谱项目型:备养等布网改造硬件信号,创始人具名通道；—（合作探询，无量产报价）
@@ -44,20 +44,20 @@ updated: 2026-10-07
 | 商业模式 | 咨询/项目交付 | 【推断】 |
 | 团队规模 | 一人/微型 | 【推断】 |
 | 决策链 | 短（本人即决策） | 【推断】 |
-| R55·背景深描 | 波 30·B-467:西班牙谱: **守档准由·原 R65/R57 谱基增厚**:Enric Perpinyà Pitarch - Perpi.Tech(Palma 马略卡;**创始人/CEO 本人+Connect'Up Youth 2025 获奖初创**;业务自网络起家已转网络安全:『Connection Tracker』云端安全 SaaS(监控网络进出连 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | Palma Mallorca;2025 Youth 冠军;专精谱口谱堂谱 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | 网络连接记录分析 3 年+实时检测+管理 IT/网络安全 | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
 
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 30·B-467:西班牙谱: **守档准由·原 R65/R57 谱基增厚**:Enric Perpinyà Pitarch - Perpi.Tech(Palma 马略卡;**创始人/CEO 本人+Connect'Up Youth 2025 获奖初创**;业务自网络起家已转网络安全:『Connection Tracker』云端安全 SaaS(监控网络进出连接,无需硬件);SME IT 管理/维护+上门服务;**客户谱=酒店业**(经奖项项目打开酒店 IT 人员门);MTCNA+MTCRE+MTCSE) | R65 深挖:Perpignan 西班牙跨界实体；Youth 2025 青年谱位最新入场口;R66 第 30 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第6波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 30 波守档准由谱
-- 【假设】掌件区非商触(非卖品对照架)
+- 【事实】波 R67/TUB·批11·B-467:西谱: **Enric Perpinyà Pitarch / Perpi.tech 深挖(ultimahora.es 双报道+perpi.tech 官网+Connect’Up 档 四源互证)**:**创始=**Enric Perpinyà**(Palma Mallorca,residente;优势=** Youth 类别 Connect’Up 2025 冠军**(2025-12-19 Fàbrica Ramis de Inca 决赛;2026-07-15 ultimahora「Connect’Up me ayudó...」访谈报告)=巴利阿里青年创业谱冠军谱**;**项目=Perpi.tech**=**网络安全+企业网络监控**具名=「registra y analiza todas las conexiones de una red durante tres años=记录分析所有网络连接 3 年;detectar intrusiones, comportamientos anómalos y movimientos sospechosos en tiempo real=实时检测入侵/异常/可疑行为」**;perpi.tech/contact 官网自白档=**「Gestionamos tu informática e internet de manera segura=我们管理你的电脑/互联网安全」+**管理 IT+网络安全谱口**;**谱口谱位=**Youth 类别与 **RIU Hotels & Resorts 合作**(RIU Global Program Manager Antoni Ramis 现场颁奖)=**打谱 RIU 连锁酒店 IT 部人脉谱**=酒店业企客谱位;Connect’Up 奖品笔记本电脑(gentileza de SMI Sistemes 谱)=SMI 谱口谱;谱谱 2026-07 ultimahora 访谈原声档=「me ha permitido hablar con el personal IT de las empresas hoteleras=酒店业 IT 部人脉谱」+Connect’Up 8 届冠军=创业谱」**;**谱位=西班牙近海 Palma+年青创职谱谱(Youth 类=青年谱切)+网络安全+网络监控+酒店行业谱正谱谱=我方 24 口 PoE 对酒店/休闲行业小型企客谱位谱口=批 11 西谱金矿(谱位谱口谱**;**谱口谱谦谱注=Perpi.tech 为青年先导谱谱(谱注谱谱堂注;谱谱谱注谱谱谱注谱**;排噪=西班牙同名 Enric Perpinyà=谱档谱档(谱谱堂)。
+- 【推断】R67/TUB 推土机深挖 批11 B 类档序续批十户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
+网络连接记录分析 3 年+实时检测+管理 IT/网络安全
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -92,47 +92,50 @@ CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（OEM/白牌合作探询（无量产型号首推）），备选型不进邮件。
 
-### 第 1 次跟进 · 档案铺位
+### 第 1 次跟进 · Enric 单谱口(冠军谱谱口)
 
-- **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
-- **切入点**：掌件区技术参件
-- **要问的问题**：可否入技术参件对照架名录？
-- **随附/动作**：规格页
+- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
+- **切入点**：管理 IT+网络安全 → 24 口 PoE(酒店/小企网络铺)
+- **要问的问题**：Perpi.tech 管理 IT 谱线的 24 口 PoE 芯谱?
+- **随附/动作**：ultimahora 3 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · RIU 酒店业人脉谱
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：酒店业谱位
+- **要问的问题**：RIU/连锁酒店客户线的订制一件谱?
+- **随附/动作**：ultimahora 谱
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · SMI Sistemes 奖品谱谱口
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：簿联路径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：贯赏品谱口
+- **要问的问题**：SMI 谱谱铺谱的 PoE 谱?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R66_R56_BKP第30波75户.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批11.json`；价格均为 EXW 快照。
 
-- **背景深描**：波 30·B-467:西班牙谱: **守档准由·原 R65/R57 谱基增厚**:Enric Perpinyà Pitarch - Perpi.Tech(Palma 马略卡;**创始人/CEO 本人+Connect'Up Youth 2025 获奖初创**;业务自网络起家已转网络安全:『Connection Tracker』云端安全 SaaS(监控网络进出连接,无需硬件);SME IT 管理/维护+上门服务;**客户谱=酒店业**(经奖项项目打开酒店 IT 人员门);MTCNA+MTCRE+MTCSE) | R65 深挖:Perpignan 西班牙跨界实体；Youth 2025 青年谱位最新入场口;R66 第 30 波谱:我司 CONSULT-OEM(掌件区非卖品(对照架/参件,不挂价))对口该谱;既有深挖批源:B类深挖_2026-09-29_R57-BC_第6波.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **芯片与在用型号**：CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
-- **关键人KP**：**守档准由;R66 第 30 波点名(谱面无实名)**
-- **关注点与资质**：西班牙 谱;CE/UKCA;持续关注新一季
-- **优缺点SWOT**：S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
-- **Saga产品适配**：CONSULT-OEM 掌件区非卖品对照
+- **背景深描**：Palma Mallorca;2025 Youth 冠军;专精谱口谱堂谱
+- **芯片与在用型号**：网络连接记录分析 3 年+实时检测+管理 IT/网络安全
+- **关键人KP**：Enric Perpinyà(单人 P0/foundador)+RIU Antoni Ramis 人脉谱+SMI Sistemes 谱口
+- **关注点与资质**：管理 IT+酒店 SMB → 24 口 PoE(网络铺)
+- **优缺点SWOT**：S=冠军谱+RIU 酒店谱位+网络安全+管理 IT 正谱谱谱·W=谱堂谱注(先导谱谱堂注)·O=酒店/小企网络铺 PoE 正行谱口·T=青年谱堂注+谱谱口谱注;谱谱谱私谱注
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):西语谱;Connect’Up 创业谱团门谱;谱堂谱注谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**Enric Perpinyà Pitarch - Perpi.Tech(Palma 马略卡;**创始人/CEO 本人+Connect'Up Youth 2025 获奖初创**;业务自网络起家已转网络安全:『Connection Tracker』云端安全 SaaS(监控网络进出连接,无需硬件);SME IT 管理/维护+
-  > Enric Perpinyà Pitarch - Perpi.Tech(Palma 马略卡;**创始人/CEO 本人+Connect'Up Youth 2025 获奖初创**;业务自网络起家已转网络安全:『Connection Tracker』云端安全 SaaS(监控网络进出连接,无需硬件);SME IT 管理/维护+
-  > 来源：https://perpi.tech/
-- **【联系方式与基础画像】**CSV 入口:+34 657 334 318 / enric@perpi.tech
-  > CSV 入口:+34 657 334 318 / enric@perpi.tech
-  > 来源：https://perpi.tech/
+- **【谱档】**Enric Perpinyà ganó la categoría Youth 2025 con Perpi.Tech, una solución de ciberseguridad para monitorizar redes empresariales;Goaward 大会谱;riavalle«Connect’Up me ayudó a convertir la idea en algo útil para el mercado»;访谈谱谱:me ha permitido hablar con el personal IT de las empresas hoteleras;2026-07-15
+  > Enric Perpinyà ganó la categoría Youth 2025 con Perpi.Tech, una solución de ciberseguridad para monitorizar redes empresariales;Goaward 大会谱;riavalle«Connect’Up me ayudó a convertir la idea en algo útil para el mercado»;访谈谱谱:me ha permitido hablar con el personal IT de las empresas hoteleras;2026-07-15
+  > 来源：https://www.ultimahora.es/noticias/local/2026/07/15/2666711/connect-ayudo-convertir-idea-algo-util-para-mercado.html
+- **【谱档】**Perpi.Tech 获奖 Connect’Up 2025 categoría Youth;Enric Perpinyà presentó Perpi.Tech(categoría Youth, en colaboración con RIU Hotels & Resorts);propuesta registra y analiza todas las conexiones de una red durante tres años;detecta intrusiones/comportamientos anómalos/movimientos sospechosos en tiempo real;Antoni Ramis(RIU Global Program Manager)颁奖;gentileza SMI Sistemes(premio laptó);Coordinadores Tona Pou y Marvin Singhateh;Fàbrica Ramis de Inca
+  > Perpi.Tech 获奖 Connect’Up 2025 categoría Youth;Enric Perpinyà presentó Perpi.Tech(categoría Youth, en colaboración con RIU Hotels & Resorts);propuesta registra y analiza todas las conexiones de una red durante tres años;detecta intrusiones/comportamientos anómalos/movimientos sospechosos en tiempo real;Antoni Ramis(RIU Global Program Manager)颁奖;gentileza SMI Sistemes(premio laptó);Coordinadores Tona Pou y Marvin Singhateh;Fàbrica Ramis de Inca
+  > 来源：https://www.ultimahora.es/noticias/economico/2025/12/19/2534123/connect-distingue-mejores-emprendedores.html
+- **【谱档】**Gestionamos tu informática e internet de manera segura(官网 contact 页自白档);Perpi.tech 管理 IT+internet 安全谱
+  > Gestionamos tu informática e internet de manera segura(官网 contact 页自白档);Perpi.tech 管理 IT+internet 安全谱
+  > 来源：https://perpi.tech/contact
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -145,7 +148,7 @@ CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 
 ## SWOT
 
-S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节奏
+S=冠军谱+RIU 酒店谱位+网络安全+管理 IT 正谱谱谱·W=谱堂谱注(先导谱谱堂注)·O=酒店/小企网络铺 PoE 正行谱口·T=青年谱堂注+谱谱口谱注;谱谱谱私谱注
 
 ## 触达与风险红线
 
@@ -173,8 +176,9 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] 谱口谱堂谱注(青年谱切+谱口谱单一)
+  - [ ] RIU Antoni Ramis 人脉谱注
+  - [ ] 谱口谱窪谱注(谱堂谱口谱谱谱注)
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -183,10 +187,10 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节
 
 ## 首触邮件（英文样板 · 可直接发送）
 
-**主题**：（非卖品掌件区,不出信)
+**主题**：PoE switching for your line
 
 ```text
-（掌件区非卖品·CONSULT-OEM 对照架,只做技术参件,不出英文首触信）
+Dear Enric,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — built for secure managed IT networks in hospitality and SME deployments. Reference $165 USD EXW (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

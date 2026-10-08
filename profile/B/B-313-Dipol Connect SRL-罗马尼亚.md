@@ -22,7 +22,7 @@ updated: 2026-10-07
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：DIPOL CONNECT SRL(罗马尼亚 București Sector 2,Strada Fabrica De Gheata Nr. 8(行政)/Strada Saltului Nr. 19(注册);**CUI …
+- **是谁**：2009 创 17 年;Bucureşti 双址;200 Lei 资堂注;CCTV/WLAN/TV-SAT 分销+天线生产…
 - **商业模式**：分销 stocking
 - **为什么值得跟**：通用分销商信号，无差异化切入点，慢慢跟
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — DIPOL 集团 CCTV 谱的工业 PoE 供电轨(商用 STC-424 备位,集团 OEM 侧线)；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
@@ -43,13 +43,20 @@ updated: 2026-10-07
 | 商业模式 | 分销 stocking | 【推断】 |
 | 团队规模 | 有官网组织，规模未量化 | 【推断】 |
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
-| R55·背景深描 | DIPOL CONNECT SRL(罗马尼亚 București Sector 2,Strada Fabrica De Gheata Nr. 8(行政)/Strada Saltului Nr. 19(注册);**CUI 26051890**;J40/9512/2009;EUID ROONRC.J40/9512/2009;**2009-10-01 创(17 年 | 事实+【推断】混合，见证据摘录 |
-| R55·芯片与在用型号 | (待谱面二补) | 事实+【推断】混合，见证据摘录 |
+| R55·背景深描 | 2009 创 17 年;Bucureşti 双址;200 Lei 资堂注;CCTV/WLAN/TV-SAT 分销+天线生产 | 事实+【推断】混合，见证据摘录 |
+| R55·芯片与在用型号 | CCTV/WLAN/TV-SAT 件+天线生产;2000+ SKU | 事实+【推断】混合，见证据摘录 |
 | 批注 | R65 B 升 v2(来源:R57-BC 备护深挖转写;P1=判位备档参考位,评级不动,不出信守档) | 【推断】 |
+
+
+**深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
+
+- 【事实】波 R67/TUB·批11·B-313:罗谱: **DIPOL CONNECT SRL 深挖(dipolnet.ro/termene/targetare/confidas 四源互证)**:**CUI 26051890;J40/9512/2009;EUID ROONRC.J2009009512406;2009-10-01 创 17 年;capital=200 Lei(谱堂小注);官网双址谱=sediu social **Str. Fabrica de Gheaţă nr. 8 Sector 2 Bucureşti 022503**(dipolnet.ro 档)+termene 新档 **Str. Saltului Nr. 19 Sector 2(Garaj 18mp 登档)**+**punct de lucru Bd. Ghica Tei nr. 81**;Str. Saltului, Nr.19 登档活跃(targetare 2026-07-12 档);CAEN 4650(电脑电子批发)/4652(电子电信件)**;**财税金谱:**2021 营收=4,811,706 RON/利润 801,802 RON(marjă 16.66%)/6 员;**2025 营收=**8,185,582 RON**/利润 301,178 RON(净降谱=利润薄谱注)****;**谱口自白档:**「APROVIZIONĂM PROFESIONIȘTII=我们供专业人士」+**「Suntem distribuitor european de echipamente CCTV, WLAN, TV-SAT şi producători de antene de telecomumicaţii, de televiziune şi radio=我们是欧洲 CCTV/WLAN/TV-SAT 分销+天线生产谱」+**2000+ SKU+技术支持谱****;office@/shop@dipolnet.ro;031.428.10.05(Facebook/Youtube 档);**KP=termene 档「1 asociat unic+1 administrator」=独主双职谱;targetare 档 administrator=Nicolau Corin?(掩码 Ni***u Co***n 谱注待核)**;**谱位=罗布城 CCTV/WLAN 分销+天线生产谱=我方 24 口 PoE 对视频/无线/WLAN 部署谱口直接对口金矿=批 11 罗谱金矿**;排噪:PUNCT DE LUCRU 分实体(CUI 53513066)=分址谱注。
+- 【推断】R67/TUB 推土机深挖 批11 B 类档序续批十户
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))具名谱引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
-(待谱面二补)
+CCTV/WLAN/TV-SAT 件+天线生产;2000+ SKU
 
 > 诚实边界：出货量/订单信息、客户反馈若无公开来源一律写「无公开」，不编造；在用品牌未获客户本人确认前一律视为【假设】。
 
@@ -62,7 +69,7 @@ updated: 2026-10-07
 
 ## HR 与规模信号（招聘/团队/绿旗）
 
-- DIPOL CONNECT SRL(罗马尼亚 București Sector 2,Strada Fabrica De Gheata Nr. 8(行政)/Strada Saltului Nr. 19(注册);**CUI 26051890**;J40/9512/2009;EUID ROONRC.J40/9512/2009;**2009-10-01 创(17 年)**;CAEN 4652 电子/电信件批发;**2025:7 员工/营收 8,185,582 RON(+9.7%)/净利 301,178 RON**;1 独东+1 管理员结构;安防目录页标「firmă de pază:instalare, întreținere 许可」;0314281005
+- 暂无可核实的招聘/团队规模公开信号（LinkedIn 员工枚举登录墙外不可见，2026-09-28 纪律）。
 
 ## 联系方式（已有/猜测分标）
 
@@ -86,50 +93,53 @@ updated: 2026-10-07
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP（工业非管理 8口 PoE）），备选型不进邮件。
 
-### 第 1 次跟进 · 具名 kp 引路口
+### 第 1 次跟进 · 独主直口(CCTV/WLAN 分销谱)
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
-- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
-- **随附/动作**：规格页
+- **切入点**：CCTV/WLAN 正对口 → 24 口 PoE(视频部署)
+- **要问的问题**：贵司 CCTV/WLAN 部署线的 24 口 PoE 谱件由哪位同事主责?
+- **随附/动作**：dipolnet/termene 5 源
 
-### 第 2 次跟进 · 一页目录卡
+### 第 2 次跟进 · 天线生产谱客户谱
 
-- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
-- **切入点**：价值层 PoE 谱链卡
-- **要问的问题**：可否入谱链名录？
-- **随附/动作**：卡
+- **推什么**：STI-288GPM/424（统一口径=P1 系列，不外溢）
+- **切入点**：天线生产谱谱谱位
+- **要问的问题**：天线生产线的交换机享用谱?
+- **随附/动作**：dipolnet 谱
 
-### 第 3 次跟进 · 留档+LinkedIn 谱
+### 第 3 次跟进 · TV-SAT/WLAN 谱口
 
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：谱链明智途径
-- **要问的问题**：—
-- **随附/动作**：—
+- **推什么**：STC-28DGGPM（统一口径=P1 系列，不外溢）
+- **切入点**：TV-SAT+WLAN 谱口
+- **要问的问题**：TV-SAT/WLAN 谱口的 PoE 谱?
+- **随附/动作**：
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **2026-10-08(R66-B 波 1)**；原始记录：`batch/B类深挖_2026-10-08_R66_BKP波3.json`；价格均为 EXW 快照。
+> 调研日期 **2026-10-08**；原始记录：`batch/B类深挖_2026-10-08_R67_R56_推土机批11.json`；价格均为 EXW 快照。
 
-- **背景深描**：DIPOL CONNECT SRL(罗马尼亚 București Sector 2,Strada Fabrica De Gheata Nr. 8(行政)/Strada Saltului Nr. 19(注册);**CUI 26051890**;J40/9512/2009;EUID ROONRC.J40/9512/2009;**2009-10-01 创(17 年)**;CAEN 4652 电子/电信件批发;**2025:7 员工/营收 8,185,582 RON(+9.7%)/净利 301,178 RON**;1 独东+1 管理员结构;安防目录页标「firmă de pază:instalare, întreținere 许可」;0314281005
-- **芯片与在用型号**：(待谱面二补)
-- **关键人KP**：**Nicolau Cristin(Administrator(管理员;罗马尼亚安防企业名册件具名),leads-only·待 opt-in(LinkedIn/谱面带核));Iulia Diaconu(Sales Procurement(**2018-10 起在职 7 年;采购 KPI 天位**;Universitatea Tehnică Iași),leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **关注点与资质**：采购 Diaconu 在职 7 年直达位
-- **优缺点SWOT**：S 采购 Diaconu 在职 7 年直达位 / W 小实体(1 东 1 管) / O Cristin 管理员名册件 / T 大牌件链竞谱
-- **Saga产品适配**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效)):罗马尼亚布加勒斯特电子件批发+安防安装;Cristin 管理员+Diaconu 采购(opt-in 律)
+- **背景深描**：2009 创 17 年;Bucureşti 双址;200 Lei 资堂注;CCTV/WLAN/TV-SAT 分销+天线生产
+- **芯片与在用型号**：CCTV/WLAN/TV-SAT 件+天线生产;2000+ SKU
+- **关键人KP**：独主双职谱(1 asociat+1 administrator;名待核——targetare 档掩码 Ni***u Co***n 谱注)
+- **关注点与资质**：CCTV/WLAN 件 → 24 口 PoE(视频/无线部署件)
+- **优缺点SWOT**：S=CCTV/WLAN 直接对口谱+独主决策快+17 年谱+2000+ SKU·W=200 Lei 资堂小档注;2025 净利降至 301k RON;独主敏感·O=WIFI/WLAN/CCTV 部署=PoE 正行谱口·T=价格谱敏注(2025 利薄)=平价盛 $165 上谱
+- **Saga产品适配**：STC-424XGGPM-280W 24 口 PoE($165 USD EXW,15 天有效):罗语谱;独主决策快;CCTV/WLAN 正对口
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**Dipol Connect S.R.L. administrată de Nicolau Cristin;București Sectorul 2;instalare, întreținere(罗马尼亚安防企业名册件)
-  > Dipol Connect S.R.L. administrată de Nicolau Cristin;București Sectorul 2;instalare, întreținere(罗马尼亚安防企业名册件)
-  > 来源：https://www.protectiesipaza.ro/firme-de-paza/dipol-connect-s-r-l-protectie-si-paza/
-- **【决策链与对接人】**Iulia Diaconu — Sales Procurement, Dipol Connect SRL(Oct 2018 – Present, 7 years;Bucharest;Universitatea Tehnică „Gheorghe Asachi” din Iași)
-  > Iulia Diaconu — Sales Procurement, Dipol Connect SRL(Oct 2018 – Present, 7 years;Bucharest;Universitatea Tehnică „Gheorghe Asachi” din Iași)
-  > 来源：https://www.linkedin.com/in/iulia-diaconu-07a91b47/
-- **【团队与规模】**CUI 26051890;7 angajați (2025);Cifra de afaceri 8.185.582 RON (+9,74%);Profit net 301.178 RON;17 ani din 2009;1 asociat unic+1 administrator(termene.ro 登记册件)
-  > CUI 26051890;7 angajați (2025);Cifra de afaceri 8.185.582 RON (+9,74%);Profit net 301.178 RON;17 ani din 2009;1 asociat unic+1 administrator(termene.ro 登记册件)
+- **【谱档】**DIPOL CONNECT SRL;CUI: RO 26051890;Înregistrare: J40/9512/2009;Capital social: 200 Lei;Sediu social: Str. Fabrica de Gheaţă nr. 8 Sector 2, Bucureşti;D Statment: Suntem distribuitor european de echipamente CCTV, WLAN, TV-SAT şi producători de antene de telecomumicaţii;2000+ articles;Punct de lucru: Bd. Ghica Tei nr. 81;shop@dipolnet.ro
+  > DIPOL CONNECT SRL;CUI: RO 26051890;Înregistrare: J40/9512/2009;Capital social: 200 Lei;Sediu social: Str. Fabrica de Gheaţă nr. 8 Sector 2, Bucureşti;D Statment: Suntem distribuitor european de echipamente CCTV, WLAN, TV-SAT şi producători de antene de telecomumicaţii;2000+ articles;Punct de lucru: Bd. Ghica Tei nr. 81;shop@dipolnet.ro
+  > 来源：https://www.dipolnet.ro/dipol_connect_srl_m120.htm
+- **【CCV 档】**DIPOL CONNECT SRL CUI 26051890;An înființare 2009(17 ani);Status: Funcţiune;J2009009512406;Plătitoare TVA;Fără datorii ANAF;CAEN 4650;Data înființării: 01 octombrie 2009;Sediu social: Strada Saltului, Nr. 19, București;1 asociat și 1 administrator
+  > DIPOL CONNECT SRL CUI 26051890;An înființare 2009(17 ani);Status: Funcţiune;J2009009512406;Plătitoare TVA;Fără datorii ANAF;CAEN 4650;Data înființării: 01 octombrie 2009;Sediu social: Strada Saltului, Nr. 19, București;1 asociat și 1 administrator
   > 来源：https://termene.ro/firma/26051890-DIPOL-CONNECT-SRL
+- **【财务档】**DIPOL CONNECT SRL;cifră de afaceri 2025=8.185.582 RON;profit 2025=301.178 RON;2021=4.811.706 RON/801.802 RON(16.66%);Risc de insolvență scăzut;Adresa: Str Saltului, Nr.19, Garaj In Suprafata De 18mp;Administrator: Ni***u Co***n(掩码待核)
+  > DIPOL CONNECT SRL;cifră de afaceri 2025=8.185.582 RON;profit 2025=301.178 RON;2021=4.811.706 RON/801.802 RON(16.66%);Risc de insolvență scăzut;Adresa: Str Saltului, Nr.19, Garaj In Suprafata De 18mp;Administrator: Ni***u Co***n(掩码待核)
+  > 来源：https://targetare.ro/26051890/dipol-connect-srl
+- **【谱档】**DIPOL CONNECT SRL;C.U.I. 26051890;Nr. Înreg J40/9512/2009;Bucureşti Sectorul 2, Str FABRICA DE GHEAŢĂ Nr 8;Obiect principal CAEN 4652;2021 angaja 6 persoane
+  > DIPOL CONNECT SRL;C.U.I. 26051890;Nr. Înreg J40/9512/2009;Bucureşti Sectorul 2, Str FABRICA DE GHEAŢĂ Nr 8;Obiect principal CAEN 4652;2021 angaja 6 persoane
+  > 来源：https://www.confidas.ro/profil/26051890/dipol-connect-srl
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -142,7 +152,7 @@ updated: 2026-10-07
 
 ## SWOT
 
-S 采购 Diaconu 在职 7 年直达位 / W 小实体(1 东 1 管) / O Cristin 管理员名册件 / T 大牌件链竞谱
+S=CCTV/WLAN 直接对口谱+独主决策快+17 年谱+2000+ SKU·W=200 Lei 资堂小档注;2025 净利降至 301k RON;独主敏感·O=WIFI/WLAN/CCTV 部署=PoE 正行谱口·T=价格谱敏注(2025 利薄)=平价盛 $165 上谱
 
 ## 触达与风险红线
 
@@ -170,8 +180,9 @@ S 采购 Diaconu 在职 7 年直达位 / W 小实体(1 东 1 管) / O Cristin �
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 硬件采购线在职者(波次二)
-  - [ ] MikroTik 谱面份额
+  - [ ] 独主名 Ni***u Co***n 掩码待核注
+  - [ ] 200 Lei 资堂=小谱注(弹股谱谱注)
+  - [ ] PUNCT DE LUCRU 分址 CUI 53513066 谱注
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -183,12 +194,7 @@ S 采购 Diaconu 在职 7 年直达位 / W 小实体(1 东 1 管) / O Cristin �
 **主题**：PoE switching for your line
 
 ```text
-Bună ziua Iulia,
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
-
-Best regards,
-Saga Networks Export Desk
+Dear Sir or Madam,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — made for CCTV and WLAN deployments with direct $165 USD EXW reference (2026-10-08, 15 days valid). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
