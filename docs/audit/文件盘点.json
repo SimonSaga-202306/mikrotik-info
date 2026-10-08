@@ -1657,9 +1657,19 @@
       "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批2.json",
       "sha256": "2ca2bc52d9441ce14ef1656430a04b40ef1b34f941c4fd96e56e2208a58c6164",
       "bytes": 40622,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 624,
       "unique_url_count": 17,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+      "sha256": "ffbfa1c621b00462dec48199fdc64867d8b6f325e0ba93a79d4cbe350cad31d3",
+      "bytes": 48073,
+      "tracked_at_scan": false,
+      "units_scanned": 617,
+      "unique_url_count": 22,
       "inspection": {},
       "errors": []
     },
@@ -3005,7 +3015,7 @@
     },
     {
       "path": "docs/audit/A类入库完整性审计_2026-09-29.json",
-      "sha256": "e5b13d74c28ba3faa298b05837e89718d3ce5aabe15bc6034d8ddfa895e07f9d",
+      "sha256": "c9733fc8c7877fb40d02a02fb19db6621eeadba86ed1fef2c0e4dc8a7d6e18f3",
       "bytes": 3694,
       "tracked_at_scan": true,
       "units_scanned": 130,
@@ -3055,10 +3065,10 @@
     },
     {
       "path": "docs/requirements/用户要求总账.md",
-      "sha256": "f423b63532a1ae4cd09b9d14cbd9a335c4f7429d37f12b316ecbb2d65471861b",
-      "bytes": 210869,
+      "sha256": "a564ba8453f4f7d6d453216e72c49e924318ee690273ed185a3d39dc1fe9d660",
+      "bytes": 214805,
       "tracked_at_scan": true,
-      "units_scanned": 1500,
+      "units_scanned": 1512,
       "unique_url_count": 3,
       "inspection": {},
       "errors": []
@@ -3915,11 +3925,11 @@
     },
     {
       "path": "profile/A/A-081-Profcon AB-瑞典.md",
-      "sha256": "d13c6b21ac998cfc82dbb7e131d6876d303c6274668df93b61f1cc0aae3eb4cb",
-      "bytes": 22948,
+      "sha256": "6bd16ce5342be0aa198903006ee7ef39be4a08d44b8d9bded3edb76ad2f9c35c",
+      "bytes": 23895,
       "tracked_at_scan": true,
-      "units_scanned": 278,
-      "unique_url_count": 7,
+      "units_scanned": 286,
+      "unique_url_count": 11,
       "inspection": {},
       "errors": []
     },
@@ -4235,11 +4245,11 @@
     },
     {
       "path": "profile/A/A-113-A3 Communications-美国.md",
-      "sha256": "1ce3f7ba851aa2025febb9440b6fee641cd855fdd97603bb35fcb321be09a4bd",
-      "bytes": 20449,
+      "sha256": "86886f1141480f2aaf6dfc736a38855ec05347ffcd4f1b11362f7c17020b43b7",
+      "bytes": 21720,
       "tracked_at_scan": true,
-      "units_scanned": 265,
-      "unique_url_count": 10,
+      "units_scanned": 269,
+      "unique_url_count": 11,
       "inspection": {},
       "errors": []
     },
@@ -4265,11 +4275,11 @@
     },
     {
       "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
-      "sha256": "d31584569fe9729c528070339203e91a1d8660c5c7127f463052e0a06237b396",
-      "bytes": 21736,
+      "sha256": "75a22ef5f22f5cc1d7657fa74a20e70529de47d1e26afa580e65ec88cd1aaaf6",
+      "bytes": 23841,
       "tracked_at_scan": true,
-      "units_scanned": 273,
-      "unique_url_count": 10,
+      "units_scanned": 281,
+      "unique_url_count": 17,
       "inspection": {},
       "errors": []
     },
@@ -4285,11 +4295,11 @@
     },
     {
       "path": "profile/A/A-118-Heartland Business Systems-美国.md",
-      "sha256": "041adababc34e820696b205d5589f594a2875112738e0ccf031ebdb81cb2b01f",
-      "bytes": 22097,
+      "sha256": "d47f72024032478d7b3e11fdf6c761c7ec15534d3e4520185946b3084d067fc7",
+      "bytes": 23684,
       "tracked_at_scan": true,
-      "units_scanned": 275,
-      "unique_url_count": 11,
+      "units_scanned": 285,
+      "unique_url_count": 15,
       "inspection": {},
       "errors": []
     },
@@ -4465,11 +4475,11 @@
     },
     {
       "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
-      "sha256": "1488289608ad71d59b6d1881c1b41bffb9f0622a5dd30fcf30aa9f1d91f00221",
-      "bytes": 22820,
+      "sha256": "8f4c7c533dd1f75f5abda3b929252631ee641aa063007b5f33fb936c58e0288b",
+      "bytes": 22872,
       "tracked_at_scan": true,
-      "units_scanned": 272,
-      "unique_url_count": 8,
+      "units_scanned": 275,
+      "unique_url_count": 11,
       "inspection": {},
       "errors": []
     },
@@ -14225,10 +14235,10 @@
     },
     {
       "path": "scripts/make_profiles.py",
-      "sha256": "0c4858d9af066f82d58b601f700ba2b82d46603085c7205ad9b3bc50cbe13094",
-      "bytes": 39841,
+      "sha256": "1b761e028d52915cae3d336f4ff67b439a37819531a2292b4b8abe1fcfb8beec",
+      "bytes": 39903,
       "tracked_at_scan": true,
-      "units_scanned": 820,
+      "units_scanned": 821,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []

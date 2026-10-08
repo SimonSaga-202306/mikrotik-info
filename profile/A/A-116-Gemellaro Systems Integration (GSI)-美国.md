@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Gemellaro Systems Integration (GSI):Gemellaro Systems Integration®(美国 Troy(Southeast Michigan),1055 W Square Lake Rd, 48098;+1 248-585-5535;securityandnetworks.com;**DBA=WILTECH TECHNOLOGIES(DNB 件)**;63 员工(RR 谱;signalhire 500-1000 异文);$38.9M(RR 谱；prospeo $5.4M 异文);谱型=网络基础设施+物理安防双层集成商(Ford Network Services 大客户账户谱;CAD/设计工程/管服 RC DD/DCDC/ESS 认证谱)
-- 【推断】R66 第 14 波具名 KP 金谱
-- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
+- 【事实】波 R67 批3·A-116:美谱: **GSI Gemellaro Systems Integration 深挖(rocketreach/visualvisitor/prospeo 三源互证)**:Troy MI 48098(1055 W Square Lake Rd 新址/376 Robbins Drive 旧址注),+1 248-585-5535;**营收数窗:$38.9M(rocketreach 2026)/$5.39M(prospeo 2024 估)/visualvisitor $10-50M 窗——三源差钉**;员工 63(rocketreach)/51-100(prospeo);**企业安防+IT 网络集成商:physical security+network infrastructure 双核心区**;客户秒区=**Ford Motor 网络服务专线(Charles Cassavoy 户经理岗位=Ford 大客专项)**+企业本地及全球;**KP 金谱:Marc Gemellaro(President 总裁=创始姓氏家族)+Sharon Pfeiffer Gemellaro(CFO=创始家族双谱)+Mike Newman(Owner&VP,2005 至今,P0 决策主;密歇根 Ross MBA 1997-99 金融/企业战略+BSBA John Carroll 1985-89 财;前 Frontline Capital 研究分析师 2001-05+前 Morgan Stanley 交易与交易助理 1999-01=**高学历金 4 段谱**)+Charles Cassavoy(Director Ford Network Services Account=Ford 大客户专线 P0)+Larry Craig(Director of IT IT 总监)+Andrew Krull(Director of Operational Systems)+Austin Rich(Director of Technology 技术总监)+James J. Miller(Director of CAD Operations CAD 总监)**;「we bring together high-level expertise in network infrastructure and physical security with a rare ability to bridge technology and design」自谱;安保为**民用商用对象安防+企业网络本业**零军火语义自然。
+- 【推断】R67 推土机深挖 批3 具名 KP 金谱(Ford 专线+Newman 高学历谱)
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Newman Owner&VP 决策/Cassavoy Ford 专线 PoE 载线引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,10 +75,12 @@ updated: 2026-09-28
 - **原始联系字段**：info@securityandnetworks.com [Publicly listed; delivery not tested]; https://securityandnetworks.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Mike Newman**(Owner&VP(2005 至今 21 年谱);MBA Finance/Corp Strategy University of Michigan Ross 1997-99;BSBA Finance John Carroll 1985-89;Frontline Capital 研究 2001-05;Morgan Stanley 交易助理 1999-01=**4 段高学历金谱**;Rochester MI)— mnewman@securityandnetworks.com(rocketreach 掩码 m******@ 推断,送完核)/248-608-XXXX 012 号段 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/mike-newman-email_27676323〕
+  - **Marc Gemellaro**(President(总裁=创始姓氏家族谱;visualvisitor+crunchbase 双源直证))— mgemellaro@securityandnetworks.com(推断) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.visualvisitor.com/companies/5807095/Gemellaro-Systems-Integration〕
+  - **Charles Cassavoy**(Director – Ford Network Services Account(Ford 大客户专线 P0;visualvisitor+prospeo 双源直证))— ccassavoy@securityandnetworks.com(推断) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.visualvisitor.com/companies/5807095/Gemellaro-Systems-Integration〕
+  - **Larry Craig**(Director of IT(IT 总监;rocketreach 直证))— lcraig@securityandnetworks.com(推断) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/gemellaro-systems-integration-management_b551e6a5f9826f72〕
   - **Marc J Gemellaro**(Key Principal(创办家族名位))— DNB Key Principal 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.dnb.com/business-directory/company-profiles.gemellaro_systems_integration_inc.987bd81e4b2588fb4bf7ca76ab2a8756.html〕
-  - **Mike Newman**(Owner & Vice President)— RR/prospeo/signalhire 三源谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/gemellaro-systems-integration-profile_b551e6a5f9826f72〕
   - **Sharon Pfeiffer Gemellaro**(Chief Financial Officer(家族谱))— RocketReach 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/gemellaro-systems-integration-profile_b551e6a5f9826f72〕
-  - **Charles Cassavoy**(Director – Ford Network Services Account(大客户账户 KPI 位))— signalhire/prospeo 双源谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.signalhire.com/companies/gemellaro-systems-integration〕
   - **James J. Miller**(Director of CAD Operations)— RR/prospeo/getprospect 三源谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/gemellaro-systems-integration-profile_b551e6a5f9826f72〕
   - **Andrew H. Krull**(Director of Operational Systems)— RR/prospeo 双源谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/gemellaro-systems-integration-profile_b551e6a5f9826f72〕
   - **Ron McPherson**(Director of Design And Engineering)— signalhire/prospeo 双源谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.signalhire.com/companies/gemellaro-systems-integration〕
@@ -88,10 +90,12 @@ updated: 2026-09-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Mike Newman | Owner&VP(2005 至今 21 年谱);MBA Finance/Corp Strategy University of Michigan Ross 1997-99;BSBA Finance John Carroll 1985-89;Frontline Capital 研究 2001-05;Morgan Stanley 交易助理 1999-01=**4 段高学历金谱**;Rochester MI | mnewman@securityandnetworks.com(rocketreach 掩码 m******@ 推断,送完核)/248-608-XXXX 012 号段 | rocketreach 直证 O 级;邮箱推断 G 级 | https://rocketreach.co/mike-newman-email_27676323 |
+| Marc Gemellaro | President(总裁=创始姓氏家族谱;visualvisitor+crunchbase 双源直证) | mgemellaro@securityandnetworks.com(推断) | visualvisitor+prospeo 双源 O 级;邮箱推断 G 级 | https://www.visualvisitor.com/companies/5807095/Gemellaro-Systems-Integration |
+| Charles Cassavoy | Director – Ford Network Services Account(Ford 大客户专线 P0;visualvisitor+prospeo 双源直证) | ccassavoy@securityandnetworks.com(推断) | visualvisitor+prospeo 双源 O 级;邮箱推断 G 级 | https://www.visualvisitor.com/companies/5807095/Gemellaro-Systems-Integration |
+| Larry Craig | Director of IT(IT 总监;rocketreach 直证) | lcraig@securityandnetworks.com(推断) | rocketreach+visualvisitor 双源 O 级;邮箱推断 G 级 | https://rocketreach.co/gemellaro-systems-integration-management_b551e6a5f9826f72 |
 | Marc J Gemellaro | Key Principal(创办家族名位) | DNB Key Principal 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.dnb.com/business-directory/company-profiles.gemellaro_systems_integration_inc.987bd81e4b2588fb4bf7ca76ab2a8756.html |
-| Mike Newman | Owner & Vice President | RR/prospeo/signalhire 三源谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/gemellaro-systems-integration-profile_b551e6a5f9826f72 |
 | Sharon Pfeiffer Gemellaro | Chief Financial Officer(家族谱) | RocketReach 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/gemellaro-systems-integration-profile_b551e6a5f9826f72 |
-| Charles Cassavoy | Director – Ford Network Services Account(大客户账户 KPI 位) | signalhire/prospeo 双源谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.signalhire.com/companies/gemellaro-systems-integration |
 | James J. Miller | Director of CAD Operations | RR/prospeo/getprospect 三源谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/gemellaro-systems-integration-profile_b551e6a5f9826f72 |
 | Andrew H. Krull | Director of Operational Systems | RR/prospeo 双源谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://rocketreach.co/gemellaro-systems-integration-profile_b551e6a5f9826f72 |
 | Ron McPherson | Director of Design And Engineering | signalhire/prospeo 双源谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.signalhire.com/companies/gemellaro-systems-integration |
@@ -155,38 +159,41 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第14波.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R67_R56_推土机批3.json`；价格均为 EXW 快照。
 
-- **①背景再核**：Gemellaro Systems Integration®(美国 Troy(Southeast Michigan),1055 W Square Lake Rd, 48098;+1 248-585-5535;securityandnetworks.com;**DBA=WILTECH TECHNOLOGIES(DNB 件)**;63 员工(RR 谱;signalhire 500-1000 异文);$38.9M(RR 谱；prospeo $5.4M 异文);谱型=网络基础设施+物理安防双层集成商(Ford Network Services 大客户账户谱;CAD/设计工程/管服 RC DD/DCDC/ESS 认证谱)
-- **②芯片/型号**：(待谱面二补)
-- **③KP 深挖**：**Marc J Gemellaro(Key Principal(创办家族名位),leads-only·待 opt-in(LinkedIn/谱面带核));Mike Newman(Owner & Vice President,leads-only·待 opt-in(LinkedIn/谱面带核));Sharon Pfeiffer Gemellaro(Chief Financial Officer(家族谱),leads-only·待 opt-in(LinkedIn/谱面带核));Charles Cassavoy(Director – Ford Network Services Account(大客户账户 KPI 位),leads-only·待 opt-in(LinkedIn/谱面带核));James J. Miller(Director of CAD Operations,leads-only·待 opt-in(LinkedIn/谱面带核));Andrew H. Krull(Director of Operational Systems,leads-only·待 opt-in(LinkedIn/谱面带核));Ron McPherson(Director of Design And Engineering,leads-only·待 opt-in(LinkedIn/谱面带核));Bill Ferguson(Security and Network Technician,leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
-- **⑤在乎与偏好**：Gemellaro 家族+Ford 大客户账户
+- **①背景再核**：Troy MI;63 员工数窗;$38.9M/$5.39M/$10-50M 三源差;NAICS 221122/5616 两码
+- **②芯片/型号**：物理安防+企业网络双核;PoE 24 口 Ford 专线/大客链载线
+- **③KP 深挖**：Newman(Owner&VP 21 年谱+MBA 4 段高学历金)+Cassavoy(Ford 专线 P0)+Gemellaro 家族双谱+Craig/Rich/Krull/Miller
+- **④Saga 对标**：Ford 专线+企业安防网络 → 24 口 PoE 集成载线
+- **⑤在乎与偏好**：家族谱稳;汽车大企业(LI 现场 Ford 名帽)谱;密大教育集团
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**Key Principal: Marc J Gemellaro;Gemellaro Systems Integration, Inc. Doing Business As: WILTECH TECHNOLOGIES(DNB 件)
-  > Key Principal: Marc J Gemellaro;Gemellaro Systems Integration, Inc. Doing Business As: WILTECH TECHNOLOGIES(DNB 件)
-  > 来源：https://www.dnb.com/business-directory/company-profiles.gemellaro_systems_integration_inc.987bd81e4b2588fb4bf7ca76ab2a8756.html
-- **【团队与规模】**Mike Newman Owner & VP;Sharon Pfeiffer Gemellaro CFO;James Miller Director CAD Operations;Andrew Krull Director Operational Systems;Charles Cassavoy Director Ford Network Services Account;63 employees;$38.9M
-  > Mike Newman Owner & VP;Sharon Pfeiffer Gemellaro CFO;James Miller Director CAD Operations;Andrew Krull Director Operational Systems;Charles Cassavoy Director Ford Network Services Account;63 employees;$38.9M
-  > 来源：https://rocketreach.co/gemellaro-systems-integration-profile_b551e6a5f9826f72
-- **【业务定位】**GSI brings together high-level expertise in network infrastructure and physical security;1055 W Square Lake Rd, Troy MI 48098;Ingredient: Ford Network Services Directorship 谱
-  > GSI brings together high-level expertise in network infrastructure and physical security;1055 W Square Lake Rd, Troy MI 48098;Ingredient: Ford Network Services Directorship 谱
-  > 来源：https://www.signalhire.com/companies/gemellaro-systems-integration
+- **【公司谱】**$38.9M revenue,63 employees(RocketReach);$5,389,965/年 $86,000/人(prospeo);Prospeo 估 $17.3M 估值;$10-50M(visualvisitor);Troy MI 48098 1055 W Square Lake Rd/376 Robbins Drive
+  > $38.9M revenue,63 employees(RocketReach);$5,389,965/年 $86,000/人(prospeo);Prospeo 估 $17.3M 估值;$10-50M(visualvisitor);Troy MI 48098 1055 W Square Lake Rd/376 Robbins Drive
+  > 来源：https://prospeo.io/c/gemellaro-systems-integration-revenue
+- **【决策链与对接人】**Mike Newman Owner&VP (2005 - now);MBA Finance, Corporate Strategy University of Michigan Ross 1997-99;BSBA John Carroll 1985-89;Frontline Capital 2001-05;Morgan Stanley Associate Sales and Trading 1999-01
+  > Mike Newman Owner&VP (2005 - now);MBA Finance, Corporate Strategy University of Michigan Ross 1997-99;BSBA John Carroll 1985-89;Frontline Capital 2001-05;Morgan Stanley Associate Sales and Trading 1999-01
+  > 来源：https://rocketreach.co/mike-newman-email_27676323
+- **【高管矩阵】**Marc Gemellaro President;Sharon Pfeiffer Gemellaro CFO;Charles Cassavoy Director Ford Network Services Account;Larry Craig Director of IT;Andrew Krull Director of Operational Systems;Austin Rich Director Of Technology;James J. Miller Director Of Cad Operations
+  > Marc Gemellaro President;Sharon Pfeiffer Gemellaro CFO;Charles Cassavoy Director Ford Network Services Account;Larry Craig Director of IT;Andrew Krull Director of Operational Systems;Austin Rich Director Of Technology;James J. Miller Director Of Cad Operations
+  > 来源：https://rocketreach.co/gemellaro-systems-integration-management_b551e6a5f9826f72
+- **【Ford 专线】**Charles Cassavoy Director – Ford Network Services Account(visualvisitor+prospeo 双源直证)
+  > Charles Cassavoy Director – Ford Network Services Account(visualvisitor+prospeo 双源直证)
+  > 来源：https://www.visualvisitor.com/companies/5807095/Gemellaro-Systems-Integration
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：Gemellaro Systems Integration®(美国 Troy(Southeast Michigan),1055 W Square Lake Rd, 48098;+1 248-585-5535;securityandnetworks.com;**DBA=WILTECH TECHNOLOGIES(DNB 件)**;63 员工(RR 谱;signalhire 500-1000 异文);$38.9M(RR 谱；prospeo $5.4M 异文);谱型=网络基础设施+物理安防双层集成商(Ford Network Services 大客户账户谱;CAD/设计工程/管服 RC DD/DCDC/ESS 认证谱)
-- **产品线与在售品牌**：(波次二补谱面)
-- **目标行业与场景**：美国 MI 网络+安防双层集成商(Ford 账户谱)
-- **团队与规模**：63 人;$38.9M
-- **决策链与对接人**：**Marc J Gemellaro(Key Principal(创办家族名位),leads-only·待 opt-in(LinkedIn/谱面带核));Mike Newman(Owner & Vice President,leads-only·待 opt-in(LinkedIn/谱面带核));Sharon Pfeiffer Gemellaro(Chief Financial Officer(家族谱),leads-only·待 opt-in(LinkedIn/谱面带核));Charles Cassavoy(Director – Ford Network Services Account(大客户账户 KPI 位),leads-only·待 opt-in(LinkedIn/谱面带核));James J. Miller(Director of CAD Operations,leads-only·待 opt-in(LinkedIn/谱面带核));Andrew H. Krull(Director of Operational Systems,leads-only·待 opt-in(LinkedIn/谱面带核));Ron McPherson(Director of Design And Engineering,leads-only·待 opt-in(LinkedIn/谱面带核));Bill Ferguson(Security and Network Technician,leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **技术与认证**：(波次二补)
-- **采购与供应链信号**：(波次二补)
-- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
-- **与我方契合点**：24 口 value PoE 谱链窗口
-- **风险与注意**：家族+四 Director 谱位(opt-in 律)
+- **业务定位**：GSI Gemellaro Systems Integration(Troy MI 63 人):物理安防+企业网络集成商(Ford 专线大客谱)
+- **产品线与在售品牌**：network infrastructure+physical security 双核心;Ford Network Services 大类帐户;CAD 设计+运营系统
+- **目标行业与场景**：密大集团旗下区+全密美北东(汽车大企业连)+全球企业;Ford Motor 汽车专大客谱
+- **团队与规模**：63(rocketreach)/51-100(prospeo)数窗注;Gemellaro 家族 2 人谱
+- **决策链与对接人**：Mike Newman(Owner&VP 2005,MBA 4 段谱)+Marc Gemellaro(President)+Sharon Pfeiffer Gemellaro(CFO)+Charles Cassavoy(Ford 专线)+Larry Craig(IT)+Austin Rich(技术)+Andrew Krull(Ops)+James J. Miller(CAD)
+- **技术与认证**：NAICS 221122(visualvisitor 注)/5616(prospeo 注)=两码注;MI 物理安防+网络络络双核
+- **采购与供应链信号**：Ford 快线=大企业集购稳定口;Ford Network Services Account 谱=Ford 车载/办公/ITS 网络类
+- **近期动态与线索**：rocketreach 2026 $38.9M/prospeo 2024 $5.39M 数窗;1055 W Square Lake Rd 新址轮新谱;
+- **与我方契合点**：Newman Owner&VP 决策+Cassavoy Ford 专线 → 24 口 PoE(企业安防网络+Ford 大客链载线)
+- **风险与注意**：营收三源数窗差($38.9M/$5.39M/$10-50M);家族姓氏双谱担;Ford 谱连=潜在谱口窄幅注;安防为家用/商用对象保护民用商用自然
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -201,10 +208,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：Gemellaro 家族+Ford 大客户账户
-- **W**：谱件异文(规模/营收)
-- **O**：Newman(Owner/VP)+Cassavoy(Ford 账户)双位
-- **T**：大牌安防件链
+- **S**：Ford 专线+家族稳定谱
+- **W**：营收三源数窗差
+- **O**：企业安防网络 PoE 扭
+- **T**：谱口窄幅
 
 ## 触达与风险红线
 
@@ -232,8 +239,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 硬件采购线在职者(波次二)
-  - [ ] MikroTik 谱面份额
+  - [ ] MikroTik 谱位在售线需核
+  - [ ] 营收三源差=精确次年订
+  - [ ] Ford 谱口窄幅分辨
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -245,12 +253,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Mike,
+Dear Mike Newman Team,
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for enterprise security network and Ford account backhaul lines. Datasheet + CE pack on request.
 
-Best regards,
-Saga Networks Export Desk
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

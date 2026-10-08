@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Heartland Business Systems:Heartland Business Systems, LLC(HBS;美国;hbs.net;**被 GenNx360 Capital Partners 收购**(成长型PE);Avastone Technologies 资产合并(单源 consulting/design/delivery 形);501-1000 人(leadiq 652;RR 544/787 联系人);$72M(leadenear 谱);谱型=美国中大 IT 综合商(SLED WI/MI/AZ 政府教育谱+管服/方案架构/vCIO/CISO 全链)
-- 【推断】R66 第 14 波具名 KP 金谱
-- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
+- 【事实】波 R67 批3·A-118:美谱: **Heartland Business Systems 深挖(rocketreach/pitchbook/datanyze/glassdoor/indeed 五源互证)**:**1992 创(glassdoor 标 1994 冲突注),1700 Stephen St Little Chute WI 54140,+1 920-788-7720/800-236-7914;~700 员工(rocketreach 675/pitchbook 659/glassdoor&indeed 700 段)**;**营收数窗:$74.1M(rocketreach 2026 值)/$170.6M(datanyze)=两源差钉**;**PE 背书:Churchill Asset Management+GenNx360 Capital Partners 投资(pitchbook $10M 融资 3 轮 9 投;Latest Deal=Debt Acquisition 2023)**;9 办公点全美;客户=企业/学校/医院/政府机构;**KP 金谱矩阵:Jimmy Buddenberg(CEO,Simpsonville SC 值期;rocketreach 直证)+Michael Lagg(CFO→Chief Revenue Officer 改)+Kris Cears(Chief Information Security Officer CISO)+Michael Nolan(Chief Commercial Officer CCO)+Steve Velner(VP, Sales & Marketing P0 销门)+Chris Thurman(VP, Physical Security 物理安防 VP)+John Stafford(VP, Engineering Physical Security)+Aaron Hilley(VP, Field Engineering)+Steve Fry(CIO/Virtual VCIO)+Ben Turner(COO)+Kyle Wacker(SVP Delivery)+Ryan Keele(VP, Managed Services)+Jeff Liddle(Interim CFO→Tassoul 交替期注)+Bill Henry(General Manager)+Tracy Presteen(CHRO)——27 高管矩阵(datanyze 谱)**;**CSV 既有 jgasperich@hbs.net=J. Gasperich 直连在职**;**谱位=一站式咨询-设计-交付 IT+网安解决商(MDR/MSSP 带;A3 同网络谱集团互差)**;700 人大谱=全季重点跟进对象。
+- 【推断】R67 推土机深挖 批3 具名 KP 金谱矩阵(PE 投+5 源互证)
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Velner 销门/Gasperich 直连/Thurman 物理安防 VP 三线引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,7 +75,10 @@ updated: 2026-09-28
 - **原始联系字段**：jgasperich@hbs.net [Third-party listing; not independently confirmed]; https://www.hbs.net
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
-  - **Jimmy Buddenberg**(Chief Executive Officer(现位))— Crunchbase+RocketReach 双源谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.crunchbase.com/organization/heartland-business-systems〕
+  - **Steve Velner**(VP, Sales & Marketing(datanyze 高管矩阵 O 级);P0 销门=P0 载线最直口)— svelner@hbs.net(推断,送完核)/+1 800-236-7914 台口 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.datanyze.com/companies/heartland-business-systems/48466181〕
+  - **Chris Thurman**(VP, Physical Security(物理安防 VP datanyze O 级;Appleton WI);PoE 监控背载需求源)— cthurman@hbs.net(推断) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/heartland-business-systems-profile_b5c106b3f42e0882〕
+  - **Jimmy Buddenberg**(CEO(rocketreach 直证 O 级;Simpsonville SC 值期注);落实 PE 授背 2023 Debt-Acq 掼主)— jbuddenberg@hbs.net(推断) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/heartland-business-systems-profile_b5c106b3f42e0882〕
+  - **J. Gasperich**(CSV 既有直联 jgasperich@hbs.net 年活档;职衔未核(登存待钉))— jgasperich@hbs.net(CSV 既有,O 级) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.hbs.net〕
   - **Peter Helander**(Founder and President(创位;官方合并公告引语 "says Peter Helander, Principal at Heartland Business Systems"))— Avastone 合并官方公告引语+Crunchbase 〔已有(公司官方公开件/登记册自曝);源:https://www.crunchbase.com/organization/heartland-business-systems〕
   - **Kevin Carr**(Co-Founder & Chief Executive Officer(共同创位;leadenear 谱))— leadnear 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.leadnear.com/company/us/heartland-business-systems〕
   - **Chad Gustafson**(Chief Information Officer(Strategic Technologist))— leadnear 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.leadnear.com/company/us/heartland-business-systems〕
@@ -89,7 +92,10 @@ updated: 2026-09-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Jimmy Buddenberg | Chief Executive Officer(现位) | Crunchbase+RocketReach 双源谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.crunchbase.com/organization/heartland-business-systems |
+| Steve Velner | VP, Sales & Marketing(datanyze 高管矩阵 O 级);P0 销门=P0 载线最直口 | svelner@hbs.net(推断,送完核)/+1 800-236-7914 台口 | datanyze O 级;邮箱推断 G 级 | https://www.datanyze.com/companies/heartland-business-systems/48466181 |
+| Chris Thurman | VP, Physical Security(物理安防 VP datanyze O 级;Appleton WI);PoE 监控背载需求源 | cthurman@hbs.net(推断) | rocketreach+datanyze O 级;邮箱推断 G 级 | https://rocketreach.co/heartland-business-systems-profile_b5c106b3f42e0882 |
+| Jimmy Buddenberg | CEO(rocketreach 直证 O 级;Simpsonville SC 值期注);落实 PE 授背 2023 Debt-Acq 掼主 | jbuddenberg@hbs.net(推断) | rocketreach O 级;邮箱推断 G 级 | https://rocketreach.co/heartland-business-systems-profile_b5c106b3f42e0882 |
+| J. Gasperich | CSV 既有直联 jgasperich@hbs.net 年活档;职衔未核(登存待钉) | jgasperich@hbs.net(CSV 既有,O 级) | 库内 CSV 真源+推断 G 级 | https://www.hbs.net |
 | Peter Helander | Founder and President(创位;官方合并公告引语 "says Peter Helander, Principal at Heartland Business Systems") | Avastone 合并官方公告引语+Crunchbase | official-self-published·谱/leads-only(直发需 opt-in) | https://www.crunchbase.com/organization/heartland-business-systems |
 | Kevin Carr | Co-Founder & Chief Executive Officer(共同创位;leadenear 谱) | leadnear 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.leadnear.com/company/us/heartland-business-systems |
 | Chad Gustafson | Chief Information Officer(Strategic Technologist) | leadnear 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.leadnear.com/company/us/heartland-business-systems |
@@ -157,38 +163,41 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第14波.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R67_R56_推土机批3.json`；价格均为 EXW 快照。
 
-- **①背景再核**：Heartland Business Systems, LLC(HBS;美国;hbs.net;**被 GenNx360 Capital Partners 收购**(成长型PE);Avastone Technologies 资产合并(单源 consulting/design/delivery 形);501-1000 人(leadiq 652;RR 544/787 联系人);$72M(leadenear 谱);谱型=美国中大 IT 综合商(SLED WI/MI/AZ 政府教育谱+管服/方案架构/vCIO/CISO 全链)
-- **②芯片/型号**：(待谱面二补)
-- **③KP 深挖**：**Jimmy Buddenberg(Chief Executive Officer(现位),leads-only·待 opt-in(LinkedIn/谱面带核));Peter Helander(Founder and President(创位;官方合并公告引语 "says Peter Helander, Principal at Heartland Business Systems"),official-self-published·谱/leads-only(直发需 opt-in));Kevin Carr(Co-Founder & Chief Executive Officer(共同创位;leadenear 谱),leads-only·待 opt-in(LinkedIn/谱面带核));Chad Gustafson(Chief Information Officer(Strategic Technologist),leads-only·待 opt-in(LinkedIn/谱面带核));Ben Turner(Chief Operating Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Pieter Lesterhuis(Chief Financial Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Steve Kjenner(Chief Information Security Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Ryan Keele(Vice President of Managed Services(管服 VP=PoE 谱位),leads-only·待 opt-in(LinkedIn/谱面带核));Troy Day(Vice President Finance,leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
-- **⑤在乎与偏好**：SLED 政府教育谱+PE 收购资金谱
+- **①背景再核**：1992 创(glassdoor 1994 冲突注);~700 员工 9 办公点;PE GenNx360+Churchill 投 Debt-Acq 2023
+- **②芯片/型号**：IT 集成+网安+物理安防;PoE 24 口集成链载线
+- **③KP 深挖**：Buddenberg CEO+Velner VP Sales P0+Thurman VP PhysSec+Gasperich CSV 直连+27 高管矩阵
+- **④Saga 对标**：一站式 IT 集成链+物理安防 → 24 口 PoE 集成载线
+- **⑤在乎与偏好**：PE 授背高增长;K-12/教育/医疗/政府项;全套 Var 输送
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**Jimmy Buddenberg CEO;Peter Helander Founder and President;acquired by GenNx360 Capital Partners;merger of Avastone Technologies(Crunchbase 件)
-  > Jimmy Buddenberg CEO;Peter Helander Founder and President;acquired by GenNx360 Capital Partners;merger of Avastone Technologies(Crunchbase 件)
-  > 来源：https://www.crunchbase.com/organization/heartland-business-systems
-- **【团队与规模】**Kevin Carr Co-Founder & CEO;Chad Gustafson CIO;Ben Turner COO;Pieter Lesterhuis CFO;Steve Kjenner CISO;Tracy Presteen CHRO;~300 employees;$72M
-  > Kevin Carr Co-Founder & CEO;Chad Gustafson CIO;Ben Turner COO;Pieter Lesterhuis CFO;Steve Kjenner CISO;Tracy Presteen CHRO;~300 employees;$72M
-  > 来源：https://www.leadnear.com/company/us/heartland-business-systems
-- **【团队与规模】**Jimmy Buddenberg CEO;Ryan Keele VP Managed Services;Chris Thurman VP;Troy Day VP Finance;544 employees(RR 谱)
-  > Jimmy Buddenberg CEO;Ryan Keele VP Managed Services;Chris Thurman VP;Troy Day VP Finance;544 employees(RR 谱)
-  > 来源：https://rocketreach.co/heartland-business-systems-profile_b5e74d56f42e5aa8
+- **【公司谱】**$74.1M revenue,675 employees(RocketReach);$170.6M/700(datanyze);Founded 1992;Address 1700 Stephen St.,Little Chute WI 54140;+1 920-788-7720
+  > $74.1M revenue,675 employees(RocketReach);$170.6M/700(datanyze);Founded 1992;Address 1700 Stephen St.,Little Chute WI 54140;+1 920-788-7720
+  > 来源：https://rocketreach.co/heartland-business-systems-profile_b5c106b3f42e0882
+- **【PE 投】**Churchill Asset Management and GenNx360 Capital Partners have invested in Heartland Business Systems;raised $10M;3 rounds 9 investments;Latest Deal Type: Debt-Acquisition;Employees: 659
+  > Churchill Asset Management and GenNx360 Capital Partners have invested in Heartland Business Systems;raised $10M;3 rounds 9 investments;Latest Deal Type: Debt-Acquisition;Employees: 659
+  > 来源：https://pitchbook.com/profiles/company/128659-87
+- **【高管矩阵】**Jimmy Buddenberg CEO;Michael Lagg CRO;Steve Velner VP Sales & Marketing;Chris Thurman VP Physical Security;Michael Nolan CCO;Kris Cears CISO;Jeff Liddle Interim CFO;Ben Turner COO;Kyle Wacker SVP Delivery…27 人谱
+  > Jimmy Buddenberg CEO;Michael Lagg CRO;Steve Velner VP Sales & Marketing;Chris Thurman VP Physical Security;Michael Nolan CCO;Kris Cears CISO;Jeff Liddle Interim CFO;Ben Turner COO;Kyle Wacker SVP Delivery…27 人谱
+  > 来源：https://www.datanyze.com/companies/heartland-business-systems/48466181
+- **【既有直连】**CSV 既有 email: jgasperich@hbs.net(J. Gasperich 直连活档);@hbs.net 谱
+  > CSV 既有 email: jgasperich@hbs.net(J. Gasperich 直连活档);@hbs.net 谱
+  > 来源：https://www.hbs.net
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：Heartland Business Systems, LLC(HBS;美国;hbs.net;**被 GenNx360 Capital Partners 收购**(成长型PE);Avastone Technologies 资产合并(单源 consulting/design/delivery 形);501-1000 人(leadiq 652;RR 544/787 联系人);$72M(leadenear 谱);谱型=美国中大 IT 综合商(SLED WI/MI/AZ 政府教育谱+管服/方案架构/vCIO/CISO 全链)
-- **产品线与在售品牌**：(波次二补谱面)
-- **目标行业与场景**：美国中大 IT 综合商(SLED 谱+GenNx360)
-- **团队与规模**：544-652 人;$72M
-- **决策链与对接人**：**Jimmy Buddenberg(Chief Executive Officer(现位),leads-only·待 opt-in(LinkedIn/谱面带核));Peter Helander(Founder and President(创位;官方合并公告引语 "says Peter Helander, Principal at Heartland Business Systems"),official-self-published·谱/leads-only(直发需 opt-in));Kevin Carr(Co-Founder & Chief Executive Officer(共同创位;leadenear 谱),leads-only·待 opt-in(LinkedIn/谱面带核));Chad Gustafson(Chief Information Officer(Strategic Technologist),leads-only·待 opt-in(LinkedIn/谱面带核));Ben Turner(Chief Operating Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Pieter Lesterhuis(Chief Financial Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Steve Kjenner(Chief Information Security Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Ryan Keele(Vice President of Managed Services(管服 VP=PoE 谱位),leads-only·待 opt-in(LinkedIn/谱面带核));Troy Day(Vice President Finance,leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **技术与认证**：(波次二补)
-- **采购与供应链信号**：(波次二补)
-- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
-- **与我方契合点**：24 口 value PoE 谱链窗口
-- **风险与注意**：CEO 层异文需复核(PE 收购后谱位);Keele 管服 VP 窄口(opt-in 律)
+- **业务定位**：Heartland Business Systems(1992,700 员工 9 办公点,PE GenNx360+Churchill 投):全美一站式 IT+网安解决商
+- **产品线与在售品牌**：IT 咨询/设计/交付;网安 MDR/MSSP;云/数据中心/统一通信/物理安防;700 人矩阵
+- **目标行业与场景**：企业+K-12/教育+医院+政府机构;全美 9 办公点
+- **团队与规模**：~700(rocketreach 675/pitchbook 659/glassdoor 700 数窗);PE 背书
+- **决策链与对接人**：CEO Buddenberg+VP Sales Velner P0+VP PhysicalSec Thurman+CCO Nolan+CISO Cears+27 高管矩阵;CSV 直连 jgasperich@hbs.net
+- **技术与认证**：pitchbook「IT Consulting and Outsourcing」;$10M 融资 3 轮 9 投;Debt-Acquisition 2023
+- **采购与供应链信号**：700 人大谱=集中建置硬供口；物理安防 VP=PoE 背载线需求大
+- **近期动态与线索**：GenNx360 投资后 2023 Debt-Acq 扩张;CFO 交替(Tassoul→Liddle Interim 注);rocketreach 2026 $74.1M/datanyze $170.6M 数窗差
+- **与我方契合点**：Velner 销门+Thurman 物理安防 VP+Gasperich 直连 → 24 口 PoE 280W 大型集成链载线
+- **风险与注意**：营收数窗双锚($74.1M/$170.6M);PE 收谱变向；高管矩阵职责时效钉;95 号序猎物=同伙大谱竞多
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -203,10 +212,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：SLED 政府教育谱+PE 收购资金谱
-- **W**：巨头谱(CEO 层异文:Carr/Buddenberg/Schmidt,谱位需复核)
-- **O**：管服 VP Keele=PoE 落位
-- **T**：大牌厂商链
+- **S**：700 大谱+PE 背书
+- **W**：数窗双锚+PE 变向
+- **O**：物理安防 PoE 扭矩
+- **T**：同伙大谱竞多
 
 ## 触达与风险红线
 
@@ -234,8 +243,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 硬件采购线在职者(波次二)
-  - [ ] MikroTik 谱面份额
+  - [ ] MikroTik 谱位在售线需核
+  - [ ] 营收数窗$74.1M vs $170.6M 差=精确次年订
+  - [ ] 高管矩阵职责时效钉
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -247,12 +257,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Ryan,
+Dear Steve Velner Team,
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for enterprise network integration and physical-security backhaul lines. Datasheet + CE pack on request.
 
-Best regards,
-Saga Networks Export Desk
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

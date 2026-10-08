@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Profcon AB:Profcon AB(瑞典 Vansbro(Dalarnas län),Fabriksvägen 8, 786 33;1966 创(60 年谱:今=Profcon Electronics AB+Telefrang AB 合并体);17 员工(2024);谱型=I/O 系统/烟气控制/定制电子/工业 PC/平板/加固手持/网通件/RFID/称重;自有牌 SIOX Solutions+OnControl;profcon.se
-- 【推断】R66 第 11 波具名 KP 金谱
-- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
+- 【事实】波 R67 批3·A-081:瑞谱: **Profcon AB 深挖(allabolag/hitta/bolagsfakta/D&B/byggkatalogen 五源互证)**:org 556578-7024(VAT SE556578702401),1999-11-12 注册 AB(前身 2000-02-05 历),Vansbro Fabriksvägen 8(Dalarna)+**分点 Västra Frölunda Victor Hasselblads gata 9(哥德堡城西)**,Tel 031-40 30 60;**商号 On Control**;**母体系=Olsson & Jansson i Nås AB(3 体集团)**;AB 股金 400 Tkr;SNI 27900(其他电器制造)+46502/46521(电子元件批发)=**制造+批发双线**;员工 17(2024)→19(2025);**营收数窗:2024=65.738 MSEK(+4.2%),EBITDA 14.1 MSEK,息后纯益 14.65 MSEK(利润率 22.4%),2023=63.09 MSEK,2025=62.12 MSEK(merinfo)或 59.91 MSEK(hitta 2025 帐)——两源差压注**;**业务=工业/电子元件贸易+电脑及周边制造销售+控制调节技术+火闸(brandspjäll)/烟气风机控制系统+楼宇自动化 fastighetsautomation;自产 SIOX Solutions 烟气控制系统族(SX:UNO/SX:DUO damper 模块+SX:ACCESS 中央单元 200 模块/400 damper 容量,byggkatalogen 上册)**;KP 金谱:**VD=Micael Karl Magni Andersson(f1970=55 岁,D&B Key Principal+董事会成员 7 principals 谱)+Ordförande 主席=Ulf Anders Gladh(f1961=64 岁)**;5 年累计纳税 9.74 MSEK(bolagsfakta);消防烟控=民用建筑安全自动化场景(民用商业语境自然)。
+- 【推断】R67 推土机深挖 批3 具名 KP 金谱(五源登册+产品目录交叉)
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))VD Andersson/烟控系统 PoE 扭力载线引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,6 +76,8 @@ updated: 2026-09-28
 - **原始联系字段**：+46 281 30600 / info@profcon.se（Profcon 官网联系页；总部/销售同一邮箱。Perle 授权分销商）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Micael Karl Magni Andersson**(VD(CEO)+D&B Key Principal(董事 7 principals 谱);f1970=55 岁;Fabriksvágen 8 Vansbro 主点+维克托·哈塞尔布拉德街 9 分点)— micael.andersson@profcon.se(推断,送完核)/031-40 30 60 台口转 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://allabolag.se/5565787024/profcon-ab〕
+  - **Ulf Anders Gladh**(Ordförande(董事会主席)f1961=64 岁;Olsson & Jansson 母体系谱)— info@profcon.se 台口转/031-40 30 60 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://allabolag.se/5565787024/profcon-ab〕
   - **Micael Andersson**(VD(CEO)+董事(受益所有权 25-50%))— bolagsfakta.se 登记册谱+DNB Key Principal 〔已有(公司官方公开件/登记册自曝);源:https://www.bolagsfakta.se/5565787024-Profcon_AB〕
   - **Ulf Gladh**(Styrelseordförande(董事长)+Owner(受益所有权谱))— bolagsfakta.se 登记册谱+LinkedIn 〔已有(公司官方公开件/登记册自曝);源:https://www.bolagsfakta.se/5565787024-Profcon_AB〕
   - **Lars-Uno Olsson**(董事+受益所有权人(50-75%))— bolagsfakta.se 登记册谱 〔已有(公司官方公开件/登记册自曝);源:https://www.bolagsfakta.se/5565787024-Profcon_AB〕
@@ -91,6 +93,8 @@ updated: 2026-09-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Micael Karl Magni Andersson | VD(CEO)+D&B Key Principal(董事 7 principals 谱);f1970=55 岁;Fabriksvágen 8 Vansbro 主点+维克托·哈塞尔布拉德街 9 分点 | micael.andersson@profcon.se(推断,送完核)/031-40 30 60 台口转 | allabolag+D&B 双源 O 级;邮箱推断 G 级 | https://allabolag.se/5565787024/profcon-ab |
+| Ulf Anders Gladh | Ordförande(董事会主席)f1961=64 岁;Olsson & Jansson 母体系谱 | info@profcon.se 台口转/031-40 30 60 | allabolag O 级 | https://allabolag.se/5565787024/profcon-ab |
 | Micael Andersson | VD(CEO)+董事(受益所有权 25-50%) | bolagsfakta.se 登记册谱+DNB Key Principal | official-self-published·谱/leads-only(直发需 opt-in) | https://www.bolagsfakta.se/5565787024-Profcon_AB |
 | Ulf Gladh | Styrelseordförande(董事长)+Owner(受益所有权谱) | bolagsfakta.se 登记册谱+LinkedIn | official-self-published·谱/leads-only(直发需 opt-in) | https://www.bolagsfakta.se/5565787024-Profcon_AB |
 | Lars-Uno Olsson | 董事+受益所有权人(50-75%) | bolagsfakta.se 登记册谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.bolagsfakta.se/5565787024-Profcon_AB |
@@ -160,38 +164,41 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第11波.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R67_R56_推土机批3.json`；价格均为 EXW 快照。
 
-- **①背景再核**：Profcon AB(瑞典 Vansbro(Dalarnas län),Fabriksvägen 8, 786 33;1966 创(60 年谱:今=Profcon Electronics AB+Telefrang AB 合并体);17 员工(2024);谱型=I/O 系统/烟气控制/定制电子/工业 PC/平板/加固手持/网通件/RFID/称重;自有牌 SIOX Solutions+OnControl;profcon.se
-- **②芯片/型号**：(待谱面二补)
-- **③KP 深挖**：**Micael Andersson(VD(CEO)+董事(受益所有权 25-50%),official-self-published·谱/leads-only(直发需 opt-in));Ulf Gladh(Styrelseordförande(董事长)+Owner(受益所有权谱),official-self-published·谱/leads-only(直发需 opt-in));Lars-Uno Olsson(董事+受益所有权人(50-75%),official-self-published·谱/leads-only(直发需 opt-in));Lars Olsson(董事+受益所有权人(50-75%),official-self-published·谱/leads-only(直发需 opt-in));Ingegerd Maria Jansson(受益所有权人(50-75%),official-self-published·谱/leads-only(直发需 opt-in));Owe Westerberg(董事,official-self-published·谱/leads-only(直发需 opt-in));Anders Jansson(Purchaser(采购 KPI 天位),leads-only·待 opt-in(LinkedIn/谱面带核));Gennady Hamizevitsch(Manager, Procurement(采购二线),leads-only·待 opt-in(LinkedIn/谱面带核));Lars Lidmarck(President & Founder(Profcon Electronics AB 合并前主体),leads-only·待 opt-in(LinkedIn/谱面带核));Mats Koponen(Software engineering,leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
-- **⑤在乎与偏好**：60 年工控分销+自有牌
+- **①背景再核**：1999 创 AB;556578-7024;母体系 O&J 3 体;2024=65.7MSEK
+- **②芯片/型号**：自产 SIOX 烟控+元件批发双线;PoE 24 口扭力载线
+- **③KP 深挖**：VD Andersson(55 岁)+Gladh 主席(64 岁)五源登册金谱
+- **④Saga 对标**：烟控系统 PoE 扭+元件批发铺位 → 24 口 PoE 双线引路
+- **⑤在乎与偏好**：利润率稳定 22.4%;Dalarna Vansbro+哥德堡 Södra Frölunda 两点;On Control 商号
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**VD för Profcon AB är Micael Andersson och styrelseordförande är Ulf Gladh;Styrelsen: Lars-Uno Olsson/Owe Westerberg/Lars Olsson/Micael Andersson;Verklig huvudman: Ingegerd Maria Jansson/Lars Olsson/Lars-Uno Olsson (50-75%)/Micael Andersson (25-50%)
-  > VD för Profcon AB är Micael Andersson och styrelseordförande är Ulf Gladh;Styrelsen: Lars-Uno Olsson/Owe Westerberg/Lars Olsson/Micael Andersson;Verklig huvudman: Ingegerd Maria Jansson/Lars Olsson/Lars-Uno Olsson (50-75%)/Micael Andersson (25-50%)
+- **【法体登册】**Profcon AB Org.nr 556578-7024,Fabriksvägen 8 786 33 Vansbro;Registreringsdatum 1999-11-12;Aktiekapital 400 Tkr;Del av Olsson & Jansson i Nås AB;Särskilda företagsnamn On Control
+  > Profcon AB Org.nr 556578-7024,Fabriksvägen 8 786 33 Vansbro;Registreringsdatum 1999-11-12;Aktiekapital 400 Tkr;Del av Olsson & Jansson i Nås AB;Särskilda företagsnamn On Control
+  > 来源：https://allabolag.se/5565787024/profcon-ab
+- **【财务】**Omsättning 2024: 65 738 tkr(+4,2%);Resultat efter finansnetto 14 653 tkr;EBITDA 14 127 tkr;Anställda 17(2025: 19);vinstmarginal 22,4%
+  > Omsättning 2024: 65 738 tkr(+4,2%);Resultat efter finansnetto 14 653 tkr;EBITDA 14 127 tkr;Anställda 17(2025: 19);vinstmarginal 22,4%
   > 来源：https://www.bolagsfakta.se/5565787024-Profcon_AB
-- **【团队与规模】**Employees: Ulf Gladh Owner;Anders Jansson Purchaser;Mats Koponen Software engineering;Lars Lidmarck President and founder at Profcon Electronics AB;17 anställda (2024)
-  > Employees: Ulf Gladh Owner;Anders Jansson Purchaser;Mats Koponen Software engineering;Lars Lidmarck President and founder at Profcon Electronics AB;17 anställda (2024)
-  > 来源：https://se.linkedin.com/company/profcon-ab
-- **【业务定位】**Profcon AB today consists of the merged companies Profcon Electronics AB and Telefrang AB;I/O-Systems/Smoke Control/Industrial computers/Network and communication products;SIOX Solutions and OnControl registered trademarks;founded 1966
-  > Profcon AB today consists of the merged companies Profcon Electronics AB and Telefrang AB;I/O-Systems/Smoke Control/Industrial computers/Network and communication products;SIOX Solutions and OnControl registered trademarks;founded 1966
-  > 来源：https://se.linkedin.com/company/profcon-ab
+- **【决策链与对接人】**Verkställande direktör Micael Karl Magni Andersson (f 1970);Ordförande Ulf Anders Gladh (f 1961);D&B Key Principal: Micael Karl Magni Andersson(Managing Director and Member of the Board)
+  > Verkställande direktör Micael Karl Magni Andersson (f 1970);Ordförande Ulf Anders Gladh (f 1961);D&B Key Principal: Micael Karl Magni Andersson(Managing Director and Member of the Board)
+  > 来源：https://www.dnb.com/business-directory/company-profiles.profcon_ab.f6d02fdf10e3fe7fbd1dd9320993384b.html
+- **【自产产品】**SIOX Solutions SX:UNO/SX:DUO Spjällmodul+SX:ACCESS Centralenhet(upp till 200 spjällmoduler och 400 spjäll);Telefon: 031-40 30 60;Besök: Victor Hasselblads gata 9 421 31 VÄSTRA FRÖLUNDA
+  > SIOX Solutions SX:UNO/SX:DUO Spjällmodul+SX:ACCESS Centralenhet(upp till 200 spjällmoduler och 400 spjäll);Telefon: 031-40 30 60;Besök: Victor Hasselblads gata 9 421 31 VÄSTRA FRÖLUNDA
+  > 来源：https://byggkatalogen.byggtjanst.se/produkt/elprodukter/styrutrustning-styrenheter-el/styrfunktionsenheter-el-ovrigt/siox-solutions-sxduo-spjallmodul/234158
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：Profcon AB(瑞典 Vansbro(Dalarnas län),Fabriksvägen 8, 786 33;1966 创(60 年谱:今=Profcon Electronics AB+Telefrang AB 合并体);17 员工(2024);谱型=I/O 系统/烟气控制/定制电子/工业 PC/平板/加固手持/网通件/RFID/称重;自有牌 SIOX Solutions+OnControl;profcon.se
-- **产品线与在售品牌**：(波次二补谱面)
-- **目标行业与场景**：瑞典工控电子/网通件分销(自有双牌)
-- **团队与规模**：17 人;1966 创;60 年谱
-- **决策链与对接人**：**Micael Andersson(VD(CEO)+董事(受益所有权 25-50%),official-self-published·谱/leads-only(直发需 opt-in));Ulf Gladh(Styrelseordförande(董事长)+Owner(受益所有权谱),official-self-published·谱/leads-only(直发需 opt-in));Lars-Uno Olsson(董事+受益所有权人(50-75%),official-self-published·谱/leads-only(直发需 opt-in));Lars Olsson(董事+受益所有权人(50-75%),official-self-published·谱/leads-only(直发需 opt-in));Ingegerd Maria Jansson(受益所有权人(50-75%),official-self-published·谱/leads-only(直发需 opt-in));Owe Westerberg(董事,official-self-published·谱/leads-only(直发需 opt-in));Anders Jansson(Purchaser(采购 KPI 天位),leads-only·待 opt-in(LinkedIn/谱面带核));Gennady Hamizevitsch(Manager, Procurement(采购二线),leads-only·待 opt-in(LinkedIn/谱面带核));Lars Lidmarck(President & Founder(Profcon Electronics AB 合并前主体),leads-only·待 opt-in(LinkedIn/谱面带核));Mats Koponen(Software engineering,leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **技术与认证**：(波次二补)
-- **采购与供应链信号**：(波次二补)
-- **近期动态与线索**：2026-10-08 R66 11 波谱名牌
-- **与我方契合点**：24 口 value PoE 谱链窗口
-- **风险与注意**：VD+董事长登记册金谱+采购双谱(opt-in 律)
+- **业务定位**：Profcon AB(556578-7024,1999,65.7MSEK/2024):电子元件批发+自产烟控系统双线(母体系 O&J 3 体)
+- **产品线与在售品牌**：SIOX Solutions 自产烟控族(SX:UNO/DUO damper 模块+SX:ACCESS 200 模块中央);工业/电子元件贸易;电脑及周边;控制调节;楼宇自动化
+- **目标行业与场景**：民用建筑通风消防自动化(烟控 damper);楼宇自动化 BMS;工业电子元件分销
+- **团队与规模**：17→19 员工(2024→2025);Vansbro+Västra Frölunda 两点;母体系 Olsson & Jansson i Nås AB
+- **决策链与对接人**：VD Micael Karl Magni Andersson(f1970,55 岁,D&B Key Principal)+主席 Ulf Anders Gladh(f1961,64 岁)
+- **技术与认证**：SNI 27900+46502/46521;VAT SE556578702401;商号 On Control;byggkatalogen 建筑产品目录上册
+- **采购与供应链信号**：自产控制系统+批发元件双线;5 年累计纳税 9.74 MSEK;利润率 22.4%
+- **近期动态与线索**：营收 2024 +4.2% 稳定;员工 17→19 微增;SX:ACCESS 中央单元新谱;哥德堡分点存
+- **与我方契合点**：VD Andersson 双线门 → 24 口 PoE(烟控系统 PoE 扭力+批发元件铺位载线)
+- **风险与注意**：营收数窗双锚(2024=65.7/2025=62.1 或 59.9 两源差);元件批发+自产互锁差;消防自动化为高频民建场景(民用商用语境自然)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -206,10 +213,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：60 年工控分销+自有牌
-- **W**：小实体(17 人)
-- **O**：Anders Jansson 采购 KPI 直达位
-- **T**：大牌工控件链竞谱
+- **S**：自产系统+批发双线
+- **W**：数窗双锚差
+- **O**：楼宇自动化新保
+- **T**：元件铺位互锁
 
 ## 触达与风险红线
 
@@ -237,8 +244,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 硬件采购线在职者(波次二)
-  - [ ] MikroTik 谱面份额
+  - [ ] MikroTik 谱位在售线需官网核
+  - [ ] VD 直邮推档
+  - [ ] 数窗两源差=精确到次年补
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -250,12 +258,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hej Micael,
+Dear Micael Andersson Team,
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for burnout control systems and building-automation deployment lines. Datasheet + CE pack on request.
 
-Best regards,
-Saga Networks Export Desk
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

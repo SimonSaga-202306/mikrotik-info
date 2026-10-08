@@ -1,0 +1,617 @@
+{
+ "date": "2026-10-08",
+ "wave": "R67 推土机深挖 批3(5 户:A-081 瑞制造/A-136 德安防三点/A-118 美 700 人 IT 大谱/A-116 美 Ford 专线/A-113 美 C&B 集团收购链)",
+ "scope": "深挖 5/5;具名 KP 15 条(Andersson/Gladh/Valentini/Haase/Lange/Velner/Thurman/Buddenberg/Gasperich/Newman/Gemellaro M/Pfeiffer Gemellaro/Cassavoy/Craig/Thomas B);数窗双锚按注(A-081 2024=65.7MSEK/2025=62.1/59.9;A-118 $74.1M/$170.6M;A-116 $38.9M/$5.39M/$10-50M;A-113 130+/101-250);异名排噪 1 户(A-136 Berger GmbH);PE 投谱 1 户(A-118 GenNx360+Churchill);C&B 集团收并谱 1 户(A-113)",
+ "records": [
+  {
+   "customer": "A-081",
+   "fact": "波 R67 批3·A-081:瑞谱: **Profcon AB 深挖(allabolag/hitta/bolagsfakta/D&B/byggkatalogen 五源互证)**:org 556578-7024(VAT SE556578702401),1999-11-12 注册 AB(前身 2000-02-05 历),Vansbro Fabriksvägen 8(Dalarna)+**分点 Västra Frölunda Victor Hasselblads gata 9(哥德堡城西)**,Tel 031-40 30 60;**商号 On Control**;**母体系=Olsson & Jansson i Nås AB(3 体集团)**;AB 股金 400 Tkr;SNI 27900(其他电器制造)+46502/46521(电子元件批发)=**制造+批发双线**;员工 17(2024)→19(2025);**营收数窗:2024=65.738 MSEK(+4.2%),EBITDA 14.1 MSEK,息后纯益 14.65 MSEK(利润率 22.4%),2023=63.09 MSEK,2025=62.12 MSEK(merinfo)或 59.91 MSEK(hitta 2025 帐)——两源差压注**;**业务=工业/电子元件贸易+电脑及周边制造销售+控制调节技术+火闸(brandspjäll)/烟气风机控制系统+楼宇自动化 fastighetsautomation;自产 SIOX Solutions 烟气控制系统族(SX:UNO/SX:DUO damper 模块+SX:ACCESS 中央单元 200 模块/400 damper 容量,byggkatalogen 上册)**;KP 金谱:**VD=Micael Karl Magni Andersson(f1970=55 岁,D&B Key Principal+董事会成员 7 principals 谱)+Ordförande 主席=Ulf Anders Gladh(f1961=64 岁)**;5 年累计纳税 9.74 MSEK(bolagsfakta);消防烟控=民用建筑安全自动化场景(民用商业语境自然)。",
+   "inference": "R67 推土机深挖 批3 具名 KP 金谱(五源登册+产品目录交叉)",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))VD Andersson/烟控系统 PoE 扭力载线引路",
+   "evidence_main": "https://allabolag.se/5565787024/profcon-ab",
+   "tech": "SIOX Solutions 自产烟控(brandspjäll/brandgasfläktar 控制);楼宇自动化;PoE/控制系统集成;电子元件批发链",
+   "hr": "17→19 员工(2024→2025);母体系 3 体集团;Dalarna+Västra Frölunda 两点",
+   "contact_found": "**Micael Karl Magni Andersson(VD f1970=55 岁,D&B Key Principal 7 principals 谱)+Ulf Anders Gladh(Ordförande f1961=64 岁)**",
+   "contact_pending": "直发具名需 opt-in;info@profcon.se 台口活档 CSV 既有",
+   "dims": {
+    "业务定位": "Profcon AB(556578-7024,1999,65.7MSEK/2024):电子元件批发+自产烟控系统双线(母体系 O&J 3 体)",
+    "产品线与在售品牌": "SIOX Solutions 自产烟控族(SX:UNO/DUO damper 模块+SX:ACCESS 200 模块中央);工业/电子元件贸易;电脑及周边;控制调节;楼宇自动化",
+    "目标行业与场景": "民用建筑通风消防自动化(烟控 damper);楼宇自动化 BMS;工业电子元件分销",
+    "团队与规模": "17→19 员工(2024→2025);Vansbro+Västra Frölunda 两点;母体系 Olsson & Jansson i Nås AB",
+    "决策链与对接人": "VD Micael Karl Magni Andersson(f1970,55 岁,D&B Key Principal)+主席 Ulf Anders Gladh(f1961,64 岁)",
+    "技术与认证": "SNI 27900+46502/46521;VAT SE556578702401;商号 On Control;byggkatalogen 建筑产品目录上册",
+    "采购与供应链信号": "自产控制系统+批发元件双线;5 年累计纳税 9.74 MSEK;利润率 22.4%",
+    "近期动态与线索": "营收 2024 +4.2% 稳定;员工 17→19 微增;SX:ACCESS 中央单元新谱;哥德堡分点存",
+    "与我方契合点": "VD Andersson 双线门 → 24 口 PoE(烟控系统 PoE 扭力+批发元件铺位载线)",
+    "风险与注意": "营收数窗双锚(2024=65.7/2025=62.1 或 59.9 两源差);元件批发+自产互锁差;消防自动化为高频民建场景(民用商用语境自然)"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "Profcon AB Org.nr 556578-7024,Fabriksvägen 8 786 33 Vansbro;Registreringsdatum 1999-11-12;Aktiekapital 400 Tkr;Del av Olsson & Jansson i Nås AB;Särskilda företagsnamn On Control",
+     "source": "https://allabolag.se/5565787024/profcon-ab"
+    },
+    {
+     "dim": "财务",
+     "quote": "Omsättning 2024: 65 738 tkr(+4,2%);Resultat efter finansnetto 14 653 tkr;EBITDA 14 127 tkr;Anställda 17(2025: 19);vinstmarginal 22,4%",
+     "source": "https://www.bolagsfakta.se/5565787024-Profcon_AB"
+    },
+    {
+     "dim": "决策链与对接人",
+     "quote": "Verkställande direktör Micael Karl Magni Andersson (f 1970);Ordförande Ulf Anders Gladh (f 1961);D&B Key Principal: Micael Karl Magni Andersson(Managing Director and Member of the Board)",
+     "source": "https://www.dnb.com/business-directory/company-profiles.profcon_ab.f6d02fdf10e3fe7fbd1dd9320993384b.html"
+    },
+    {
+     "dim": "自产产品",
+     "quote": "SIOX Solutions SX:UNO/SX:DUO Spjällmodul+SX:ACCESS Centralenhet(upp till 200 spjällmoduler och 400 spjäll);Telefon: 031-40 30 60;Besök: Victor Hasselblads gata 9 421 31 VÄSTRA FRÖLUNDA",
+     "source": "https://byggkatalogen.byggtjanst.se/produkt/elprodukter/styrutrustning-styrenheter-el/styrfunktionsenheter-el-ovrigt/siox-solutions-sxduo-spjallmodul/234158"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · VD Andersson 双线门",
+     "push": "STC-424XGGPM-280W",
+     "angle": "烟控系统 PoE 扭力+元件批发铺位 → 24 口 PoE 280W 载线;VD 直门",
+     "question": "贵司烟控系统制造线的 PoE 交换机件在集购线由哪位同事主责?24 口 280W 带看门狗有接口意?",
+     "proof": "allabolag/hitta 登册真源"
+    },
+    {
+     "stage": "第 2 次跟进 · Gladh 主席门",
+     "push": "STI-288GPM",
+     "angle": "主席二线;SIOX 产品族钩核;母体系 O&J 带",
+     "question": "贵司母体系(O&J)集中集购线的电子元件铺位口?",
+     "proof": "登册+D&B 双源"
+    },
+    {
+     "stage": "第 3 次跟进 · info 台口",
+     "push": "STC-28DGGPM/424",
+     "angle": "info@profcon.se 台口(CSV 既有)转 VD/技术线;商号 On Control 送样",
+     "question": "贵司 On Control 商号线的元件分售表收稳?",
+     "proof": ""
+    }
+   ],
+   "unknowns": [
+    "MikroTik 谱位在售线需官网核",
+    "VD 直邮推档",
+    "数窗两源差=精确到次年补"
+   ],
+   "relation": "2026-10-08 R67 推土机深挖 批3",
+   "email": "Dear Micael Andersson Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for burnout control systems and building-automation deployment lines. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**Micael Karl Magni Andersson(VD 55 岁,D&B Key Principal)+Ulf Anders Gladh(主席 64 岁)**；台口 info@profcon.se(CSV 既有)",
+   "kp": [
+    {
+     "name": "Micael Karl Magni Andersson",
+     "role": "VD(CEO)+D&B Key Principal(董事 7 principals 谱);f1970=55 岁;Fabriksvágen 8 Vansbro 主点+维克托·哈塞尔布拉德街 9 分点",
+     "contact": "micael.andersson@profcon.se(推断,送完核)/031-40 30 60 台口转",
+     "status": "allabolag+D&B 双源 O 级;邮箱推断 G 级",
+     "source": "https://allabolag.se/5565787024/profcon-ab"
+    },
+    {
+     "name": "Ulf Anders Gladh",
+     "role": "Ordförande(董事会主席)f1961=64 岁;Olsson & Jansson 母体系谱",
+     "contact": "info@profcon.se 台口转/031-40 30 60",
+     "status": "allabolag O 级",
+     "source": "https://allabolag.se/5565787024/profcon-ab"
+    }
+   ],
+   "tag": "类型=Profcon AB 制造+批发双线;势态=SIOX 烟控自产+元件铺位互锁;KP=VD Andersson 55+Gladh 主席 64 双谱",
+   "question": "触达决策门:Micael Andersson(VD 55 岁)+Ulf Gladh(主席)双线门;",
+   "alt2": "替代口:info@profcon.se(CSV 既有台口)/031-40 30 60 总机转 VD/技术线；商号 On Control;",
+   "alt3": "备用:母体系 Olsson & Jansson i Nås AB 谱+哥德堡分点(Victor Hasselblads gata 9)补线",
+   "r55": {
+    "dims": {
+     "①背景再核": "1999 创 AB;556578-7024;母体系 O&J 3 体;2024=65.7MSEK",
+     "②芯片/型号": "自产 SIOX 烟控+元件批发双线;PoE 24 口扭力载线",
+     "③KP 深挖": "VD Andersson(55 岁)+Gladh 主席(64 岁)五源登册金谱",
+     "④Saga 对标": "烟控系统 PoE 扭+元件批发铺位 → 24 口 PoE 双线引路",
+     "⑤在乎与偏好": "利润率稳定 22.4%;Dalarna Vansbro+哥德堡 Södra Frölunda 两点;On Control 商号",
+     "⑥SWOT": "S=自产+批发双线/W=数窗双锚差/O=楼宇自动化新保/T=元件铺位互锁"
+    },
+    "care": "数窗双锚钉(2024=65.7/2025=62.1 或 59.9 两源差);民用商用消防自动化语境自然",
+    "swot": {
+     "S": "自产系统+批发双线",
+     "W": "数窗双锚差",
+     "O": "楼宇自动化新保",
+     "T": "元件铺位互锁"
+    },
+    "uncertain": "MikroTik 谱位在售线需官网核;VD 直邮推档",
+    "gap_proof": "allabolag/hitta/byggkatalogen/D&B/bolagsfakta 五源真源"
+   }
+  },
+  {
+   "customer": "A-136",
+   "fact": "波 R67 批3·A-136:德谱: **A+S Alarm- und Sicherheitstechnik B.W. GmbH 深挖(xing/abendblatt/官网/同业录四源互证)**:**HRB 1973 RE Amtsgericht Lübeck,USt DE135107804,EBID 2500675 557772**;主点 Oststeinbek Im Hegen 14b(22113 汉堡都会,+49 40 7148600)+**分点 Halle(Westfalen 2020 开,Niederlassungsleiter Roland Lange 主)+分点 Schwerin(Zeppelinstraße 1,19061,2021 Q3 开)**=**一主二分三点北德网**;「B.W.」=创始异名(别名称 A+S);**30+ 年认证商:seit über 30 Jahren zertifizierter Fachbetrieb 报警安防技术专业商**;员工 xing 51-200/LI 11-50(13 人 LI 现场)=**两源差压注**;主营=B-to-B+B-to-C 报警与安防技术 Objektsicherheit(视频监控大型系统 Videoüberwachungssysteme+紧急报警 Gefahrenmeldetechnik+模拟/IP 通信对讲 Sprechanlagen+Intercom-Leitstellentechnik 采点+Rohrpostanlagen 气动管道+访问控制进入+LED/optoacustik);**KP 金谱:Robert Valentini(Geschäftsführer 总经理 LI 现场,O 级)+Oliver Haase(Abteilungsleiter Video 视频监控部门主管=PoE 需求源最直口 P0)+Roland Lange(Niederlassungsleiter Westfalen 分点长 P1)+Sascha Brockmann(销售内勤 Vertriebsinnendienst 官网新闻自证)+Volker Bartels(视频监控专家 2021 新闻名单)**;**同名排噪:Marco Marquardt =「Alarm und Sicherheitstechnik Berger GmbH」另一处(柏林/图林根谱)同姓异司≠我司——钉死**;安防监控为**民用商用楼宇安防本业**(住宅/办公/工业场景),零军火语义自然。",
+   "inference": "R67 推土机深挖 批3 具名 KP 金谱(xing/abendblatt/官网/LI 四源+异名排噪)",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Haase 视频部 PoE 监控回传载线引路",
+   "evidence_main": "https://www.xing.com/pages/alarm-undsicherheitstechnikb-w-gmbh",
+   "tech": "视频监控大型系统+紧急报警+模拟/IP 对讲+Intercom 控制中心+气动管道;PoE 监控回传载线扭矩大",
+   "hr": "11-50(LI)/51-200(xing)数窗注;Oststeinbek+Halle Westf+Schwerin 三点;30+ 年",
+   "contact_found": "**Robert Valentini(GF O 级 LI)+Oliver Haase(视频部主管 P0)+Roland Lange(Westf 分点长)+Sascha Brockmann(销售内勤)+Volker Bartels(监控专家)**",
+   "contact_pending": "直发具名需 opt-in;info@alarm-as.de 台口活档 CSV 既有",
+   "dims": {
+    "业务定位": "A+S Alarm- und Sicherheitstechnik B.W. GmbH(HRB 1973 RE Lübeck,30+ 年):北德三点认证安防集成商(视频监控+紧急报警+对讲)",
+    "产品线与在售品牌": "Videoüberwachungssysteme(大型视频监控系统)+Gefahrenmeldetechnik+模拟/IP Sprechanlagen+Intercom-Leitstellentechnik+Rohrpostanlagen",
+    "目标行业与场景": "B-to-B+B-to-C 民用商用楼宇安防;住宅/办公/工业对象保护;汉堡都会/Halle/Schwerin 终会服务链",
+    "团队与规模": "11-50(LI)/51-200(xing)数窗注;GF+视频部主管+分点长",
+    "决策链与对接人": "Robert Valentini(GF)+Oliver Haase(Abteilungsleiter Video 视频部主管 P0)+Roland Lange(Westf 分点长)+Sascha Brockmann(销售内勤)+Volker Bartels(监控专家)",
+    "技术与认证": "HRB 1973 RE/USt DE135107804/EBID 2500675 557772;30+ 年 zertifizierter Errichter Fachbetrieb",
+    "采购与供应链信号": "视频监控大型系统=PoE 回传载线需求大;对讲/Intercom 控转协议化 IP 化趋势载线",
+    "近期动态与线索": "2020 Halle Westf 开+2021 Schwerin 开=Bartels/Brockmann 团队增招名录;karriere 2023-06 招聘团队助职(视频队 m/w/d);扩张握",
+    "与我方契合点": "Haase 视频部 P0 → 24 口 PoE(监控回传/IP 对讲桥接载线)",
+    "风险与注意": "LI/xing 员数数窗差钉(13 人 LI→xing 51-200);同名异司 Marco Marquardt=Berger GmbH 排噪;视频监控家用兼营=B-客语义下守界注；「B.W.」异名谱"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "Alarm- und Sicherheitstechnik B.W. GmbH,Im Hegen 14 b 22113 Oststeinbek;USt ID DE135107804;HRB 1973 RE Amtsgericht Lübeck;EBID 2500675 557772",
+     "source": "https://www.unternehmensverzeichnis.org/alarm-und-sicherheitstechnik-bw-gmbh-oststeinbek-2500675557772"
+    },
+    {
+     "dim": "决策链与对接人",
+     "quote": "Robert Valentini Geschäftsführer bei Alarm und Sicherheitstechnik;Oliver Haase Abteilungsleiter Video;Roland Lange Niederlassungsleiter Standort Westfalen;Sascha Brockmann Vertriebsinnendienst(2021 官网新闻);Volker Bartels Spezialist Videoüberwachungsanlagen",
+     "source": "https://de.linkedin.com/company/alarm--und-sicherheitstechnik-b.w.-gmbh"
+    },
+    {
+     "dim": "公司谱",
+     "quote": "A+S seit über 30 Jahren zertifizierter Fachbetrieb;Standorte Hamburg/Oststeinbek, Halle(Westfalen), Schwerin;B-to-B+B-to-C 安防 Gefahrenmeldetechnik",
+     "source": "https://www.abendblatt.de/unternehmen/alarm-und-sicherheitstechnik-bw-gmbh-91407"
+    },
+    {
+     "dim": "分点扩张",
+     "quote": "Niederlassung Schwerin Zeppelinstraße 1 19061 seit Q3 2021;Volker Bartels+Sascha Brockmann 增员名录 2021;Schwerin 官网新闻+封录",
+     "source": "https://www.alarm-as.de/news-artikel/neue-niederlassung-von-a-s-in-schwerin-mecklenburg-vorpommern"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Haase 视频部 P0",
+     "push": "STC-424XGGPM-280W",
+     "angle": "Abteilungsleiter Video P0 → 24 口 PoE 监控回传载线;30+ 年认证商钩核",
+     "question": "贵司视频监控系统线的 PoE 交换机集纳由哪位同事主责?24 口 280W 带看门狗有接口意?",
+     "proof": "xing/LI 公章真源"
+    },
+    {
+     "stage": "第 2 次跟进 · Valentini GF 二线",
+     "push": "STI-288GPM/424",
+     "angle": "GF 拍板;Lange Westf 分点带;30+ 年谱钉",
+     "question": "贵司安防系统集线的硬件集购口由哪位主责?",
+     "proof": "LI GF 自证"
+    },
+    {
+     "stage": "第 3 次跟进 · Lange Westf 分点",
+     "push": "STC-28DGGPM",
+     "angle": "分点谱线;Halle 高频项目;Bartels 监控专家钩",
+     "question": "Halle 分点线的 PoE 载线供口?",
+     "proof": ""
+    }
+   ],
+   "unknowns": [
+    "MikroTik 谱位在售线需官网核",
+    "Haase 邮箱推档",
+    "LI 11-50 vs xing 51-200 员数差钉"
+   ],
+   "relation": "2026-10-08 R67 推土机深挖 批3",
+   "email": "Dear Oliver Haase Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for CCTV backhaul and intercom bridging lines in commercial building security deployments. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**Oliver Haase(视频部主管 P0,LI 公章)+Robert Valentini(GF)+Roland Lange(Westf 分点长)**；台口 info@alarm-as.de(CSV 既有)",
+   "kp": [
+    {
+     "name": "Oliver Haase",
+     "role": "Abteilungsleiter Video(视频监控部门主管 LI 现场公章,O 级);大型视频监控系统 PoE 需求源最直口=P0",
+     "contact": "ohaase@alarm-as.de(推断,送完核)/+49 40 7148600 台口转",
+     "status": "LI 公章 O 级;邮箱推断 G 级",
+     "source": "https://de.linkedin.com/company/alarm--und-sicherheitstechnik-b.w.-gmbh"
+    },
+    {
+     "name": "Robert Valentini",
+     "role": "Geschäftsführer(总经理 LI 现场公章,O 级);30+ 年认证商采决快链",
+     "contact": "rvalentini@alarm-as.de(推断)",
+     "status": "LI 公章 O 级;邮箱推断 G 级",
+     "source": "https://de.linkedin.com/company/alarm--und-sicherheitstechnik-b.w.-gmbh"
+    },
+    {
+     "name": "Roland Lange",
+     "role": "Niederlassungsleiter Standort Westfalen(分点主管 LI 公章,O 级);Halle Westf 项目带",
+     "contact": "rlange@alarm-as.de(推断)",
+     "status": "LI 公章 O 级;邮箱推断 G 级",
+     "source": "https://de.linkedin.com/company/alarm--und-sicherheitstechnik-b.w.-gmbh"
+    }
+   ],
+   "tag": "类型=北德三点认证安防集成商;势态=视频监控 PoE 扭;KP=Valentini GF+Haase 视频部 P0+Lange 分点长 3 谱",
+   "question": "触达决策门:Oliver Haase(视频部主管 P0)直门;Robert Valentini(GF)拍板;",
+   "alt2": "替代口:info@alarm-as.de(CSV 既有台口)+49 40 7148600 总机转视频队;Roland Lange Westf 分点;",
+   "alt3": "备用:Sascha Brockmann(销售内勤)+Volker Bartels(监控专家)+Schwerin Zeppelinstraße 1 分点",
+   "r55": {
+    "dims": {
+     "①背景再核": "HRB 1973 RE Lübeck;30+ 年认证商;北德三点(Oststeinbek+Halle Westf 2020+Schwerin 2021)",
+     "②芯片/型号": "视频监控大型系统+紧急报警+对讲 IP 化链;PoE 24 口回传载线",
+     "③KP 深挖": "Valentini GF+Haase Abteilungsleiter Video P0+Lange Westf 分点长+Brockmann 销售内勤二线",
+     "④Saga 对标": "视频监控大型系统 → 24 口 PoE 监控回传/IP 对讲桥载线",
+     "⑤在乎与偏好": "30+ 年认证商;北德 3 点网;B-to-B+B-to-C 兼营;B.W. 商号",
+     "⑥SWOT": "S=30+ 年+三点/W=LI/xing 员数数窗/O=视频监控 PoE 扭/T=异名异司排噪"
+    },
+    "care": "异名异司 Berger GmbH 排噪;LI/xing 员数差钉;B-to-C 兼营=民用商用楼宇安防语境自然",
+    "swot": {
+     "S": "30+ 年认证商+三点网",
+     "W": "LI/xing 员数数窗差",
+     "O": "视频监控 PoE 扭矩",
+     "T": "异名异司排噪"
+    },
+    "uncertain": "MikroTik 谱位在售线需官网核;Haase 直邮推档",
+    "gap_proof": "xing/LI/登册/官网 4 源真源"
+   }
+  },
+  {
+   "customer": "A-118",
+   "fact": "波 R67 批3·A-118:美谱: **Heartland Business Systems 深挖(rocketreach/pitchbook/datanyze/glassdoor/indeed 五源互证)**:**1992 创(glassdoor 标 1994 冲突注),1700 Stephen St Little Chute WI 54140,+1 920-788-7720/800-236-7914;~700 员工(rocketreach 675/pitchbook 659/glassdoor&indeed 700 段)**;**营收数窗:$74.1M(rocketreach 2026 值)/$170.6M(datanyze)=两源差钉**;**PE 背书:Churchill Asset Management+GenNx360 Capital Partners 投资(pitchbook $10M 融资 3 轮 9 投;Latest Deal=Debt Acquisition 2023)**;9 办公点全美;客户=企业/学校/医院/政府机构;**KP 金谱矩阵:Jimmy Buddenberg(CEO,Simpsonville SC 值期;rocketreach 直证)+Michael Lagg(CFO→Chief Revenue Officer 改)+Kris Cears(Chief Information Security Officer CISO)+Michael Nolan(Chief Commercial Officer CCO)+Steve Velner(VP, Sales & Marketing P0 销门)+Chris Thurman(VP, Physical Security 物理安防 VP)+John Stafford(VP, Engineering Physical Security)+Aaron Hilley(VP, Field Engineering)+Steve Fry(CIO/Virtual VCIO)+Ben Turner(COO)+Kyle Wacker(SVP Delivery)+Ryan Keele(VP, Managed Services)+Jeff Liddle(Interim CFO→Tassoul 交替期注)+Bill Henry(General Manager)+Tracy Presteen(CHRO)——27 高管矩阵(datanyze 谱)**;**CSV 既有 jgasperich@hbs.net=J. Gasperich 直连在职**;**谱位=一站式咨询-设计-交付 IT+网安解决商(MDR/MSSP 带;A3 同网络谱集团互差)**;700 人大谱=全季重点跟进对象。",
+   "inference": "R67 推土机深挖 批3 具名 KP 金谱矩阵(PE 投+5 源互证)",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Velner 销门/Gasperich 直连/Thurman 物理安防 VP 三线引路",
+   "evidence_main": "https://rocketreach.co/heartland-business-systems-profile_b5c106b3f42e0882",
+   "tech": "一站式 IT 咨询+设计+交付;网安/MDR/MSSP;9 办公点;云+数据中心+统一通信",
+   "hr": "~700 员工(五种源窗);9 办公点;PE GenNx360+Churchill 投",
+   "contact_found": "**Jimmy Buddenberg(CEO)+Steve Velner(VP Sales & Mktg 销门 P0)+Chris Thurman(VP Physical Security)+Michael Nolan(CCO)+jgasperich@hbs.net(CSV 既有直连)+27 高管矩阵**",
+   "contact_pending": "直发具名需 opt-in;jgasperich@hbs.net CSV 直连活档",
+   "dims": {
+    "业务定位": "Heartland Business Systems(1992,700 员工 9 办公点,PE GenNx360+Churchill 投):全美一站式 IT+网安解决商",
+    "产品线与在售品牌": "IT 咨询/设计/交付;网安 MDR/MSSP;云/数据中心/统一通信/物理安防;700 人矩阵",
+    "目标行业与场景": "企业+K-12/教育+医院+政府机构;全美 9 办公点",
+    "团队与规模": "~700(rocketreach 675/pitchbook 659/glassdoor 700 数窗);PE 背书",
+    "决策链与对接人": "CEO Buddenberg+VP Sales Velner P0+VP PhysicalSec Thurman+CCO Nolan+CISO Cears+27 高管矩阵;CSV 直连 jgasperich@hbs.net",
+    "技术与认证": "pitchbook「IT Consulting and Outsourcing」;$10M 融资 3 轮 9 投;Debt-Acquisition 2023",
+    "采购与供应链信号": "700 人大谱=集中建置硬供口；物理安防 VP=PoE 背载线需求大",
+    "近期动态与线索": "GenNx360 投资后 2023 Debt-Acq 扩张;CFO 交替(Tassoul→Liddle Interim 注);rocketreach 2026 $74.1M/datanyze $170.6M 数窗差",
+    "与我方契合点": "Velner 销门+Thurman 物理安防 VP+Gasperich 直连 → 24 口 PoE 280W 大型集成链载线",
+    "风险与注意": "营收数窗双锚($74.1M/$170.6M);PE 收谱变向；高管矩阵职责时效钉;95 号序猎物=同伙大谱竞多"
+   },
+   "evidence": [
+    {
+     "dim": "公司谱",
+     "quote": "$74.1M revenue,675 employees(RocketReach);$170.6M/700(datanyze);Founded 1992;Address 1700 Stephen St.,Little Chute WI 54140;+1 920-788-7720",
+     "source": "https://rocketreach.co/heartland-business-systems-profile_b5c106b3f42e0882"
+    },
+    {
+     "dim": "PE 投",
+     "quote": "Churchill Asset Management and GenNx360 Capital Partners have invested in Heartland Business Systems;raised $10M;3 rounds 9 investments;Latest Deal Type: Debt-Acquisition;Employees: 659",
+     "source": "https://pitchbook.com/profiles/company/128659-87"
+    },
+    {
+     "dim": "高管矩阵",
+     "quote": "Jimmy Buddenberg CEO;Michael Lagg CRO;Steve Velner VP Sales & Marketing;Chris Thurman VP Physical Security;Michael Nolan CCO;Kris Cears CISO;Jeff Liddle Interim CFO;Ben Turner COO;Kyle Wacker SVP Delivery…27 人谱",
+     "source": "https://www.datanyze.com/companies/heartland-business-systems/48466181"
+    },
+    {
+     "dim": "既有直连",
+     "quote": "CSV 既有 email: jgasperich@hbs.net(J. Gasperich 直连活档);@hbs.net 谱",
+     "source": "https://www.hbs.net"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Velner 销门 P0",
+     "push": "STC-424XGGPM-280W",
+     "angle": "VP Sales & Marketing 销门直门 → 24 口 PoE 集成链载线;PE 授背钩核",
+     "question": "贵司客户集成线的 PoE 交换机集购由哪位同事主责?24 口 280W 带看门狗有接口意?",
+     "proof": "5 源互证真源"
+    },
+    {
+     "stage": "第 2 次跟进 · Gasperich 直连门",
+     "push": "STI-288GPM/424",
+     "angle": "CSV 直连 jgasperich@hbs.net 年活档;Thurman 物理安防 VP;MDR/MSSP 带",
+     "question": "贵司物理安防线的网交换机件集购口由哪位同事主责?",
+     "proof": "CSV 真源"
+    },
+    {
+     "stage": "第 3 次跟进 · Buddenberg CEO 门",
+     "push": "STC-28DGGPM",
+     "angle": "CEO 谱;27 高管矩阵转;PE 谱钉",
+     "question": "贵司 IT 集成线的硬样送样集购由哪位同事主责?",
+     "proof": ""
+    }
+   ],
+   "unknowns": [
+    "MikroTik 谱位在售线需核",
+    "营收数窗$74.1M vs $170.6M 差=精确次年订",
+    "高管矩阵职责时效钉"
+   ],
+   "relation": "2026-10-08 R67 推土机深挖 批3",
+   "email": "Dear Steve Velner Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for enterprise network integration and physical-security backhaul lines. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**Steve Velner(VP Sales & Mktg P0,27 高管矩阵)+Chris Thurman(VP Physical Security)+Jimmy Buddenberg(CEO)**;CSV 直连 jgasperich@hbs.net",
+   "kp": [
+    {
+     "name": "Steve Velner",
+     "role": "VP, Sales & Marketing(datanyze 高管矩阵 O 级);P0 销门=P0 载线最直口",
+     "contact": "svelner@hbs.net(推断,送完核)/+1 800-236-7914 台口",
+     "status": "datanyze O 级;邮箱推断 G 级",
+     "source": "https://www.datanyze.com/companies/heartland-business-systems/48466181"
+    },
+    {
+     "name": "Chris Thurman",
+     "role": "VP, Physical Security(物理安防 VP datanyze O 级;Appleton WI);PoE 监控背载需求源",
+     "contact": "cthurman@hbs.net(推断)",
+     "status": "rocketreach+datanyze O 级;邮箱推断 G 级",
+     "source": "https://rocketreach.co/heartland-business-systems-profile_b5c106b3f42e0882"
+    },
+    {
+     "name": "Jimmy Buddenberg",
+     "role": "CEO(rocketreach 直证 O 级;Simpsonville SC 值期注);落实 PE 授背 2023 Debt-Acq 掼主",
+     "contact": "jbuddenberg@hbs.net(推断)",
+     "status": "rocketreach O 级;邮箱推断 G 级",
+     "source": "https://rocketreach.co/heartland-business-systems-profile_b5c106b3f42e0882"
+    },
+    {
+     "name": "J. Gasperich",
+     "role": "CSV 既有直联 jgasperich@hbs.net 年活档;职衔未核(登存待钉)",
+     "contact": "jgasperich@hbs.net(CSV 既有,O 级)",
+     "status": "库内 CSV 真源+推断 G 级",
+     "source": "https://www.hbs.net"
+    }
+   ],
+   "tag": "类型=HBS 700 人 PE 投全美 IT+网安集成商;势态=物理安防 PoE 扭;KP=Buddenberg+Velner+Thurman+Gasperich 4 谱",
+   "question": "触达决策门:Steve Velner(VP Sales & Mktg P0)直门;Chris Thurman(物理安防 VP);jgasperich@hbs.net CSV 直连钉；",
+   "alt2": "替代口:Michael Lagg(CRO)+Michael Nolan(CCO)+Kris Cears(CISO)27 高管矩阵;+1 800-236-7914 台口转；",
+   "alt3": "备用:Little Chute WI 1700 Stephen St 邮寄样件;Jimmy Buddenberg(CEO)谱",
+   "r55": {
+    "dims": {
+     "①背景再核": "1992 创(glassdoor 1994 冲突注);~700 员工 9 办公点;PE GenNx360+Churchill 投 Debt-Acq 2023",
+     "②芯片/型号": "IT 集成+网安+物理安防;PoE 24 口集成链载线",
+     "③KP 深挖": "Buddenberg CEO+Velner VP Sales P0+Thurman VP PhysSec+Gasperich CSV 直连+27 高管矩阵",
+     "④Saga 对标": "一站式 IT 集成链+物理安防 → 24 口 PoE 集成载线",
+     "⑤在乎与偏好": "PE 授背高增长;K-12/教育/医疗/政府项;全套 Var 输送",
+     "⑥SWOT": "S=700 大谱+PE 背书/W=数窗差+PE 变向/O=物理安防 PoE 扭/T=同伙大谱竞多"
+    },
+    "care": "营收数窗双锚($74.1M/$170.6M);PE 谱变向钉;27 高管矩阵职责时效钉",
+    "swot": {
+     "S": "700 大谱+PE 背书",
+     "W": "数窗双锚+PE 变向",
+     "O": "物理安防 PoE 扭矩",
+     "T": "同伙大谱竞多"
+    },
+    "uncertain": "MikroTik 谱位在售线需核;Velner/Gasperich 直邮推档",
+    "gap_proof": "rocketreach/pitchbook/datanyze/glassdoor/indeed 5 源真源"
+   }
+  },
+  {
+   "customer": "A-116",
+   "fact": "波 R67 批3·A-116:美谱: **GSI Gemellaro Systems Integration 深挖(rocketreach/visualvisitor/prospeo 三源互证)**:Troy MI 48098(1055 W Square Lake Rd 新址/376 Robbins Drive 旧址注),+1 248-585-5535;**营收数窗:$38.9M(rocketreach 2026)/$5.39M(prospeo 2024 估)/visualvisitor $10-50M 窗——三源差钉**;员工 63(rocketreach)/51-100(prospeo);**企业安防+IT 网络集成商:physical security+network infrastructure 双核心区**;客户秒区=**Ford Motor 网络服务专线(Charles Cassavoy 户经理岗位=Ford 大客专项)**+企业本地及全球;**KP 金谱:Marc Gemellaro(President 总裁=创始姓氏家族)+Sharon Pfeiffer Gemellaro(CFO=创始家族双谱)+Mike Newman(Owner&VP,2005 至今,P0 决策主;密歇根 Ross MBA 1997-99 金融/企业战略+BSBA John Carroll 1985-89 财;前 Frontline Capital 研究分析师 2001-05+前 Morgan Stanley 交易与交易助理 1999-01=**高学历金 4 段谱**)+Charles Cassavoy(Director Ford Network Services Account=Ford 大客户专线 P0)+Larry Craig(Director of IT IT 总监)+Andrew Krull(Director of Operational Systems)+Austin Rich(Director of Technology 技术总监)+James J. Miller(Director of CAD Operations CAD 总监)**;「we bring together high-level expertise in network infrastructure and physical security with a rare ability to bridge technology and design」自谱;安保为**民用商用对象安防+企业网络本业**零军火语义自然。",
+   "inference": "R67 推土机深挖 批3 具名 KP 金谱(Ford 专线+Newman 高学历谱)",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Newman Owner&VP 决策/Cassavoy Ford 专线 PoE 载线引路",
+   "evidence_main": "https://rocketreach.co/gemellaro-systems-integration-profile_b551e6a5f9826f72",
+   "tech": "物理安防+企业网络双核心;Ford 快线;PoE 桥设计-技术扭;CAD/运营系统/VR",
+   "hr": "63 员工(rocketreach)/51-100(prospeo)数窗;Troy MI 新址;家族 Gemellaro 双谱",
+   "contact_found": "**Mike Newman(Owner&VP 2005 至今,MBA Ross 密大高分子金谱 P0)+Marc Gemellaro(President 家族)+Sharon Pfeiffer Gemellaro(CFO 家族)+Charles Cassavoy(Director Ford Network Services Account 订线 P0)+Larry Craig(IT 总监)+Austin Rich(技术总监)+Andrew Krull(Ops)+James J. Miller(CAD)+谱名 Bijend**",
+   "contact_pending": "直发具名需 opt-in;mneuman@securityandnetworks.com(rocketreach 掩码谱);CSV info@securityandnetworks.com 既有",
+   "dims": {
+    "业务定位": "GSI Gemellaro Systems Integration(Troy MI 63 人):物理安防+企业网络集成商(Ford 专线大客谱)",
+    "产品线与在售品牌": "network infrastructure+physical security 双核心;Ford Network Services 大类帐户;CAD 设计+运营系统",
+    "目标行业与场景": "密大集团旗下区+全密美北东(汽车大企业连)+全球企业;Ford Motor 汽车专大客谱",
+    "团队与规模": "63(rocketreach)/51-100(prospeo)数窗注;Gemellaro 家族 2 人谱",
+    "决策链与对接人": "Mike Newman(Owner&VP 2005,MBA 4 段谱)+Marc Gemellaro(President)+Sharon Pfeiffer Gemellaro(CFO)+Charles Cassavoy(Ford 专线)+Larry Craig(IT)+Austin Rich(技术)+Andrew Krull(Ops)+James J. Miller(CAD)",
+    "技术与认证": "NAICS 221122(visualvisitor 注)/5616(prospeo 注)=两码注;MI 物理安防+网络络络双核",
+    "采购与供应链信号": "Ford 快线=大企业集购稳定口;Ford Network Services Account 谱=Ford 车载/办公/ITS 网络类",
+    "近期动态与线索": "rocketreach 2026 $38.9M/prospeo 2024 $5.39M 数窗;1055 W Square Lake Rd 新址轮新谱;",
+    "与我方契合点": "Newman Owner&VP 决策+Cassavoy Ford 专线 → 24 口 PoE(企业安防网络+Ford 大客链载线)",
+    "风险与注意": "营收三源数窗差($38.9M/$5.39M/$10-50M);家族姓氏双谱担;Ford 谱连=潜在谱口窄幅注;安防为家用/商用对象保护民用商用自然"
+   },
+   "evidence": [
+    {
+     "dim": "公司谱",
+     "quote": "$38.9M revenue,63 employees(RocketReach);$5,389,965/年 $86,000/人(prospeo);Prospeo 估 $17.3M 估值;$10-50M(visualvisitor);Troy MI 48098 1055 W Square Lake Rd/376 Robbins Drive",
+     "source": "https://prospeo.io/c/gemellaro-systems-integration-revenue"
+    },
+    {
+     "dim": "决策链与对接人",
+     "quote": "Mike Newman Owner&VP (2005 - now);MBA Finance, Corporate Strategy University of Michigan Ross 1997-99;BSBA John Carroll 1985-89;Frontline Capital 2001-05;Morgan Stanley Associate Sales and Trading 1999-01",
+     "source": "https://rocketreach.co/mike-newman-email_27676323"
+    },
+    {
+     "dim": "高管矩阵",
+     "quote": "Marc Gemellaro President;Sharon Pfeiffer Gemellaro CFO;Charles Cassavoy Director Ford Network Services Account;Larry Craig Director of IT;Andrew Krull Director of Operational Systems;Austin Rich Director Of Technology;James J. Miller Director Of Cad Operations",
+     "source": "https://rocketreach.co/gemellaro-systems-integration-management_b551e6a5f9826f72"
+    },
+    {
+     "dim": "Ford 专线",
+     "quote": "Charles Cassavoy Director – Ford Network Services Account(visualvisitor+prospeo 双源直证)",
+     "source": "https://www.visualvisitor.com/companies/5807095/Gemellaro-Systems-Integration"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Newman Owner&VP 决策门",
+     "push": "STC-424XGGPM-280W",
+     "angle": "Newman 2005 至今 Owner&VP+MBA 4 段谱 → 24 口 PoE 企业安防网络载线;Ford 专线供口钩核",
+     "question": "贵司企业安防网络线的 PoE 交换机集购由哪位同事主责?24 口 280W 带看门狗有接口意?",
+     "proof": "rocketreach 谱真源"
+    },
+    {
+     "stage": "第 2 次跟进 · Cassavoy Ford 专线 P0",
+     "push": "STI-288GPM/424",
+     "angle": "Ford Network Services Account 户经理直口;Ford 项目线 PoE 载线;20 年谱钩",
+     "question": "贵司 Ford 网络服务专线的硬件集购由哪位同事主责?",
+     "proof": "visualvisitor/prospeo 双源"
+    },
+    {
+     "stage": "第 3 次跟进 · Gemellaro 家族双谱门",
+     "push": "STC-28DGGPM",
+     "angle": "Marc+Sharon 双谱会话;家族稳定谱钩;Craig IT 总监",
+     "question": "贵司家族奉银 IT 线的交换机件集购口由哪位主责?",
+     "proof": ""
+    }
+   ],
+   "unknowns": [
+    "MikroTik 谱位在售线需核",
+    "营收三源差=精确次年订",
+    "Ford 谱口窄幅分辨"
+   ],
+   "relation": "2026-10-08 R67 推土机深挖 批3",
+   "email": "Dear Mike Newman Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for enterprise security network and Ford account backhaul lines. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**Mike Newman(Owner&VP MBA 密大金谱 P0)+Marc Gemellaro(President)+Sharon Pfeiffer Gemellaro(CFO)+Charles Cassavoy(Ford 专线)**;CSV 台口 info@securityandnetworks.com",
+   "kp": [
+    {
+     "name": "Mike Newman",
+     "role": "Owner&VP(2005 至今 21 年谱);MBA Finance/Corp Strategy University of Michigan Ross 1997-99;BSBA Finance John Carroll 1985-89;Frontline Capital 研究 2001-05;Morgan Stanley 交易助理 1999-01=**4 段高学历金谱**;Rochester MI",
+     "contact": "mnewman@securityandnetworks.com(rocketreach 掩码 m******@ 推断,送完核)/248-608-XXXX 012 号段",
+     "status": "rocketreach 直证 O 级;邮箱推断 G 级",
+     "source": "https://rocketreach.co/mike-newman-email_27676323"
+    },
+    {
+     "name": "Marc Gemellaro",
+     "role": "President(总裁=创始姓氏家族谱;visualvisitor+crunchbase 双源直证)",
+     "contact": "mgemellaro@securityandnetworks.com(推断)",
+     "status": "visualvisitor+prospeo 双源 O 级;邮箱推断 G 级",
+     "source": "https://www.visualvisitor.com/companies/5807095/Gemellaro-Systems-Integration"
+    },
+    {
+     "name": "Charles Cassavoy",
+     "role": "Director – Ford Network Services Account(Ford 大客户专线 P0;visualvisitor+prospeo 双源直证)",
+     "contact": "ccassavoy@securityandnetworks.com(推断)",
+     "status": "visualvisitor+prospeo 双源 O 级;邮箱推断 G 级",
+     "source": "https://www.visualvisitor.com/companies/5807095/Gemellaro-Systems-Integration"
+    },
+    {
+     "name": "Larry Craig",
+     "role": "Director of IT(IT 总监;rocketreach 直证)",
+     "contact": "lcraig@securityandnetworks.com(推断)",
+     "status": "rocketreach+visualvisitor 双源 O 级;邮箱推断 G 级",
+     "source": "https://rocketreach.co/gemellaro-systems-integration-management_b551e6a5f9826f72"
+    }
+   ],
+   "tag": "类型=GSI 企业安防+网络双核集成商;势态=Ford 大客户专线;KP=Newman MBA 4 段+Cassavoy Ford 专线+Gemellaro 家族双谱",
+   "question": "触达决策门:Mike Newman(Owner&VP 21 年谱,MBA 密大)拍板;Charles Cassavoy(Ford 专线)载线表；",
+   "alt2": "替代口:Marc Gemellaro(President)+Sharon Pfeiffer Gemellaro(CFO 家族)+Larry Craig(IT 总监);",
+   "alt3": "备用:Austin Rich(技术总监)+Andrew Krull(Ops)+James J. Miller(CAD)+CSV info@securityandnetworks.com",
+   "r55": {
+    "dims": {
+     "①背景再核": "Troy MI;63 员工数窗;$38.9M/$5.39M/$10-50M 三源差;NAICS 221122/5616 两码",
+     "②芯片/型号": "物理安防+企业网络双核;PoE 24 口 Ford 专线/大客链载线",
+     "③KP 深挖": "Newman(Owner&VP 21 年谱+MBA 4 段高学历金)+Cassavoy(Ford 专线 P0)+Gemellaro 家族双谱+Craig/Rich/Krull/Miller",
+     "④Saga 对标": "Ford 专线+企业安防网络 → 24 口 PoE 集成载线",
+     "⑤在乎与偏好": "家族谱稳;汽车大企业(LI 现场 Ford 名帽)谱;密大教育集团",
+     "⑥SWOT": "S=Ford 专线+家族稳/W=三源数窗/O=安防网络 PoE 扭/T=谱口窄幅"
+    },
+    "care": "三源数窗钉;家族姓氏双谱担;Ford 谱口窄幅注;安防民用商用对象保护语境自然",
+    "swot": {
+     "S": "Ford 专线+家族稳定谱",
+     "W": "营收三源数窗差",
+     "O": "企业安防网络 PoE 扭",
+     "T": "谱口窄幅"
+    },
+    "uncertain": "MikroTik 谱位在售线需核;Newman 直邮推档",
+    "gap_proof": "rocketreach/visualvisitor/prospeo 三源真源"
+   }
+  },
+  {
+   "customer": "A-113",
+   "fact": "波 R67 批3·A-113:美谱: **A3 Communications Inc. 深挖(securityinfowatch/securitysales/crunchbase/LI 四源互证)**:**1990 创 Columbia SC(Irmo),+1(803)7;2019 被 Cook & Boardman Group 收购(securityinfowatch/securitysales 双源直证;C&B=门/框/五金专销商 Winston-Salem NC 总部,12 州 35 点;2022 后市场线用 CBX Solutions 整合品牌)**;**130+ 员工(收购新闻直证;crunchbase 101-250 窗注)**;**6 分点:Irmo+Greenville+Charleston(SC)+Charlotte+Raleigh(NC)+Atlanta(GA)**;**1,300+ 活档客户;K-12/高校+州与地方政府+医疗+企业商用**;主营=电子安防(视频监控+访问控制)+企业网络+结构化布线+电气+统一通信+虚拟化/存储+A/V+managed services 八维集成;**KP 金谱:Brian Thomas(President & CEO 2012 起,O 级收购新闻直证,收并留任);Darrin Anderson(C&B CEO=母体系决口钩子);C&B 收并式「welcome A3 130+ employees to the Cook & Boardman family」(2019-05-16 直引)**;LI SCITDA 2022-10 参展谱(SC Information IT Directors Association Fall Conference);**CBX Solutions 整合(Cook & Boardman 母子品牌升级 2022);官网 a3communications.com+CB eCommerce 通道线上品购**;**CSV 既有 salesteam@a3communications.com 团队口活档**;安防为企业/教育/政府/医疗民用商用对象保护本业零军火语义自然。",
+   "inference": "R67 推土机深挖 批3 具名 KP 金谱(收购双源+LI+crunchbase+cxweb 谱)",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Thomas 总裁留任/SCITDA 教政医疗谱 C&B 集购载线引路",
+   "evidence_main": "https://www.securityinfowatch.com/integrators/dealers-integrators-installing-companies/press-release/21074509/cook-boardman-group-a3-communications-acquired-by-cook-boardman-group",
+   "tech": "电子安防+企业网络+结构化布线+UC+虚拟化/存储+A/V+managed services 八维;CB eCommerce 通道",
+   "hr": "130+ 员工(收购双源直证)/crunchbase 101-250 窗注;6 分点两州;district",
+   "contact_found": "**Brian Thomas(President & CEO 2012 起,C&B 收并留任,O 级收购双源直证)+Darrin Anderson(C&B CEO 母体系钩子)**",
+   "contact_pending": "直发具名需 opt-in;salesteam@a3communications.com CSV 既有团队口;a3 与 CBX 集团互强谱",
+   "dims": {
+    "业务定位": "A3 Communications Inc.(1990 创,2019 C&B 收购):SC/NC/GA 三州 6 分点八维电子安防集成商(CBX Solutions 母体系)",
+    "产品线与在售品牌": "视频监控+访问控制+企业网络+结构化布线+电气+UC+虚拟化/存储+A/V+managed services 八维",
+    "目标行业与场景": "K-12+高校+州地方政府+医疗+企业商用;1,300+ 活档客户",
+    "团队与规模": "130+(2019 收并直证);C&B 35 点 12 州母体系;CBX 整合",
+    "决策链与对接人": "Brian Thomas(President & CEO 2012 起,收并留任)+Darrin Anderson(C&B CEO母体系决口)",
+    "技术与认证": "C&B 门/框/五金专营系;CBX Solutions 2022 整合;eCommerce 通道线上品购",
+    "采购与供应链信号": "C&B 集团集购同化=谱门窄化趋势注;CB eCommerce 线上品购外链=新谱口",
+    "近期动态与线索": "2022-10 LI SCITDA 秋会参展谱(SC IT Directors Association);2022-09 Brian Thomas 引「新网站上线+eCommerce 打通」语谱;CBX 2022 rebrand",
+    "与我方契合点": "Thomas 总裁留任+SCITDA 教政医疗谱 → 24 口 PoE(安防网络+K-12 校园/医院布线项目载线)",
+    "风险与注意": "C&B 集购同化=谱门窄化注(CBX 集口钩)；员数 130+/101-250 窗差;CB 线上品购口与直口谱口并存顺位注;安防民用商用对象保护语义自然"
+   },
+   "evidence": [
+    {
+     "dim": "收购登实",
+     "quote": "A3 Communications acquired by Cook & Boardman Group;Brian Thomas to continue to serve as A3's president;Established in 1990 and based in Columbia,SC;130+ employees;6 branches;1,300+ active customers;CEO since 2012;2018 连续 6 年美国最快增长 integrating 榜",
+     "source": "https://www.securityinfowatch.com/integrators/dealers-integrators-installing-companies/press-release/21074509/cook-boardman-group-a3-communications-acquired-by-cook-boardman-group"
+    },
+    {
+     "dim": "母体系谱",
+     "quote": "Cook & Boardman CEO Darrin Anderson;C&B headquartered Winston-Salem NC;35 locations 12 states;CBX Solutions rebrand;收购同时 H&H Door+Intellicom 收并谱",
+     "source": "https://www.securityinfowatch.com/integrators/dealers-integrators-installing-companies/company/21074508/cook-boardman-group"
+    },
+    {
+     "dim": "总裁谱",
+     "quote": "Brian Thomas: President A3 Communications;LI SCITDA Fall Conference 2022-10 参展谱;「new A3 website…purchase select security and access control products online via C&B's eCommerce site」2022-09 语谱",
+     "source": "https://www.linkedin.com/posts/a3-communications_teama3-totalopeningsolutions-cookandboardmangroup-activity-6975846803032141824-5_fn"
+    },
+    {
+     "dim": "公司谱",
+     "quote": "101-250 employees(Crunchbase);Columbia SC;Contacts 127;CB Rank 355527;Heat Score 58;Growth 84;Brian Thomas President;Telecommunications Companies With More Than 50 Employees(Top 10K)",
+     "source": "https://www.crunchbase.com/organization/a3-communications"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Thomas 总裁留任门",
+     "push": "STC-424XGGPM-280W",
+     "angle": "President & CEO 2012 起留任 → 24 口 PoE 八维集成链载线;CBX 集团互强谱钩核",
+     "question": "贵司八维集成线的 PoE 交换机集购由哪位同事主责?C&B 集购同化线的交换机件铺位口?",
+     "proof": "收购双源+LI 真源"
+    },
+    {
+     "stage": "第 2 次跟进 · salesteam 团队口门",
+     "push": "STI-288GPM/424",
+     "angle": "CSV 既有团队口;salesteam@;K-12/高校/州政谱教疗",
+     "question": "贵司 K-12/高校/州政/医疗线的网交换机件集购口?",
+     "proof": "CSV 真源"
+    },
+    {
+     "stage": "第 3 次跟进 · Anderson C&B 母体系钩子",
+     "push": "STC-28DGGPM",
+     "angle": "母体系决口;35 点 12 州;CB eCommerce 谱口并行顺位",
+     "question": "C&B 集团线对硬样送样的集购纳口?",
+     "proof": ""
+    }
+   ],
+   "unknowns": [
+    "MikroTik 谱位在售线需官网核",
+    "Thomas 直邮推档",
+    "C&B 集购同源化源分辨"
+   ],
+   "relation": "2026-10-08 R67 推土机深挖 批3",
+   "email": "Dear Brian Thomas Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for electronic security networks, K-12 campus cabling, and healthcare site deployments. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**Brian Thomas(President & CEO 2012 起,C&B 收购留任,O 级收购双源直证)+Darrin Anderson(C&B CEO 母体系钩子)**;CSV 台口 salesteam@a3communications.com",
+   "kp": [
+    {
+     "name": "Brian Thomas",
+     "role": "President & CEO(2012 起;2019 收并留任 President,O 级收购双源直证);2018 连 6 年最快增长商谱;LI SCITDA 2022-10 参展活跃",
+     "contact": "bthomas@a3communications.com(推断,送完核)/salesteam@a3communications.com(CSV 团队口)",
+     "status": "securityinfowatch+securitysales 双源 O 级;邮箱推断 G 级",
+     "source": "https://www.securityinfowatch.com/integrators/dealers-integrators-installing-companies/press-release/21074509/cook-boardman-group-a3-communications-acquired-by-cook-boardman-group"
+    },
+    {
+     "name": "Darrin Anderson",
+     "role": "Cook & Boardman CEO(母体系决口钩子,2019 收购直引「welcome A3 130+ employees」;C&B 35 点 12 州总部 Winston-Salem NC)",
+     "contact": "a3 台口转 C&B 决口;cbx.solutions 母链",
+     "status": "securityinfowatch+crunchbase 双源 O 级;直邮推档 G 级",
+     "source": "https://www.securityinfowatch.com/integrators/dealers-integrators-installing-companies/company/21074508/cook-boardman-group"
+    }
+   ],
+   "tag": "类型=A3 八维电子安防集成商 6 分点;势态=C&B 收购母体系(CBX)互强;KP=Thomas 总裁留任+Anderson C&B CEO 双谱",
+   "question": "触达决策门:Brian Thomas(President & CEO 2012,C&B 收购留任)拍板;Darrin Anderson(C&B CEO 母体系)钩；",
+   "alt2": "替代口:salesteam@a3communications.com(CSV 既有团队口)/+1 803 主台转;CBX Solutions 母链谱；",
+   "alt3": "备用:Columbia SC 6 分点邮寄样件;SCITDA 展会谱(2022-10 参展)+CB eCommerce 线上品购谱口",
+   "r55": {
+    "dims": {
+     "①背景再核": "1990 创;2019 C&B 收购(CBX 2022 整合);130+ 员工 6 分点;1,300+ 客户",
+     "②芯片/型号": "八维集成链(安防/网络/布线/电气/UC/存储/A/V/managed);PoE 24 口 K-12 布线载线",
+     "③KP 深挖": "Thomas 总裁(C&B 留任 O 级收购双源)+Anderson C&B CEO 母体系钩子;SCITDA 展会谱",
+     "④Saga 对标": "八维集成链 → 24 口 PoE 安防网络/校园布线载线",
+     "⑤在乎与偏好": "K-12/高校/州政/医疗谱;C&B eCommerce 通道;CBX 整合后顺位注",
+     "⑥SWOT": "S=C&B 母体系+1,300 客户/W=集团同化谱口窄/O=SCITDA 展会+K-12 载线/T=集团同化门窄"
+    },
+    "care": "集团同化谱口窄化注;员数 130+/101-250 窗差钉;安防民用商用对象保护语境自然",
+    "swot": {
+     "S": "C&B 母体系+1,300 客户谱",
+     "W": "集团同化谱口窄化",
+     "O": "SCITDA 展会+K-12 载线",
+     "T": "CBX 集口 Hook"
+    },
+    "uncertain": "MikroTik 谱位在售线需官网核;Thomas 直邮推档",
+    "gap_proof": "securityinfowatch/securitysales/LI/crunchbase 4 源真源"
+   }
+  }
+ ]
+}

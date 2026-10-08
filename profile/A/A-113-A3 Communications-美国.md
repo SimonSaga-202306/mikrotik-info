@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】A3 Communications:A3 Communications, Inc.(美国 Irmo(South Carolina);**1990 创(36 年谱)**;130+ 员工/201-500 谱;$5-20M;**2019 被 The Cook & Boardman Group, LLC(全国最大商业门件/五金分销平台)收购**(子公司存续;分支 Raleigh NC 等);谱型=美国一线系统集成商(企业组网/无线/IP 视频监控/门禁/结构化布线/统一通信/虚拟化存储/电气/AV/网安/管服);a3communications.com;(803) 744-xxxx;salesteam@a3communications.com
-- 【推断】R66 第 13 波具名 KP 金谱
-- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
+- 【事实】波 R67 批3·A-113:美谱: **A3 Communications Inc. 深挖(securityinfowatch/securitysales/crunchbase/LI 四源互证)**:**1990 创 Columbia SC(Irmo),+1(803)7;2019 被 Cook & Boardman Group 收购(securityinfowatch/securitysales 双源直证;C&B=门/框/五金专销商 Winston-Salem NC 总部,12 州 35 点;2022 后市场线用 CBX Solutions 整合品牌)**;**130+ 员工(收购新闻直证;crunchbase 101-250 窗注)**;**6 分点:Irmo+Greenville+Charleston(SC)+Charlotte+Raleigh(NC)+Atlanta(GA)**;**1,300+ 活档客户;K-12/高校+州与地方政府+医疗+企业商用**;主营=电子安防(视频监控+访问控制)+企业网络+结构化布线+电气+统一通信+虚拟化/存储+A/V+managed services 八维集成;**KP 金谱:Brian Thomas(President & CEO 2012 起,O 级收购新闻直证,收并留任);Darrin Anderson(C&B CEO=母体系决口钩子);C&B 收并式「welcome A3 130+ employees to the Cook & Boardman family」(2019-05-16 直引)**;LI SCITDA 2022-10 参展谱(SC Information IT Directors Association Fall Conference);**CBX Solutions 整合(Cook & Boardman 母子品牌升级 2022);官网 a3communications.com+CB eCommerce 通道线上品购**;**CSV 既有 salesteam@a3communications.com 团队口活档**;安防为企业/教育/政府/医疗民用商用对象保护本业零军火语义自然。
+- 【推断】R67 推土机深挖 批3 具名 KP 金谱(收购双源+LI+crunchbase+cxweb 谱)
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Thomas 总裁留任/SCITDA 教政医疗谱 C&B 集购载线引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,19 +75,19 @@ updated: 2026-09-28
 - **原始联系字段**：salesteam@a3communications.com [Publicly listed; delivery not tested]; https://www.cookandboardman.com/division/a3-communications
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
-  - **Brian Thomas**(President & CEO(2012 起在位;收购后继续续任 President;2018 起连续六年全国最快成长集成商))— Cook & Boardman 官方收购公告具名+(上镜)多源 〔已有(公司官方公开件/登记册自曝);源:https://www.securityinfowatch.com/integrators/dealers-integrators-installing-companies/press-release/21074509/cook-boardman-group-a3-communications-acquired-by-cook-boardman-group〕
+  - **Brian Thomas**(President & CEO(2012 起;2019 收并留任 President,O 级收购双源直证);2018 连 6 年最快增长商谱;LI SCITDA 2022-10 参展活跃)— bthomas@a3communications.com(推断,送完核)/salesteam@a3communications.com(CSV 团队口) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.securityinfowatch.com/integrators/dealers-integrators-installing-companies/press-release/21074509/cook-boardman-group-a3-communications-acquired-by-cook-boardman-group〕
+  - **Darrin Anderson**(Cook & Boardman CEO(母体系决口钩子,2019 收购直引「welcome A3 130+ employees」;C&B 35 点 12 州总部 Winston-Salem NC))— a3 台口转 C&B 决口;cbx.solutions 母链 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.securityinfowatch.com/integrators/dealers-integrators-installing-companies/company/21074508/cook-boardman-group〕
   - **Scott Grainger**(Vice President of Physical Security)— craft.co 高管谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://craft.co/a3-communications/executives〕
   - **Chad Hendrix**(Vice President of Infrastructure(基础设施 VP=PoE 谱位))— craft.co 高管谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://craft.co/a3-communications/executives〕
-  - **Darrin Anderson**(Chief Executive Officer, The Cook & Boardman Group(母体 CEO;公告引语))— C&B 官方收购公告引语 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.securitysales.com/news/a3-communications-acquired-cook-boardman/92390/〕
 
 ## 关键人（KP）与触达通道
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Brian Thomas | President & CEO(2012 起在位;收购后继续续任 President;2018 起连续六年全国最快成长集成商) | Cook & Boardman 官方收购公告具名+(上镜)多源 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.securityinfowatch.com/integrators/dealers-integrators-installing-companies/press-release/21074509/cook-boardman-group-a3-communications-acquired-by-cook-boardman-group |
+| Brian Thomas | President & CEO(2012 起;2019 收并留任 President,O 级收购双源直证);2018 连 6 年最快增长商谱;LI SCITDA 2022-10 参展活跃 | bthomas@a3communications.com(推断,送完核)/salesteam@a3communications.com(CSV 团队口) | securityinfowatch+securitysales 双源 O 级;邮箱推断 G 级 | https://www.securityinfowatch.com/integrators/dealers-integrators-installing-companies/press-release/21074509/cook-boardman-group-a3-communications-acquired-by-cook-boardman-group |
+| Darrin Anderson | Cook & Boardman CEO(母体系决口钩子,2019 收购直引「welcome A3 130+ employees」;C&B 35 点 12 州总部 Winston-Salem NC) | a3 台口转 C&B 决口;cbx.solutions 母链 | securityinfowatch+crunchbase 双源 O 级;直邮推档 G 级 | https://www.securityinfowatch.com/integrators/dealers-integrators-installing-companies/company/21074508/cook-boardman-group |
 | Scott Grainger | Vice President of Physical Security | craft.co 高管谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://craft.co/a3-communications/executives |
 | Chad Hendrix | Vice President of Infrastructure(基础设施 VP=PoE 谱位) | craft.co 高管谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://craft.co/a3-communications/executives |
-| Darrin Anderson | Chief Executive Officer, The Cook & Boardman Group(母体 CEO;公告引语) | C&B 官方收购公告引语 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.securitysales.com/news/a3-communications-acquired-cook-boardman/92390/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -147,38 +147,41 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第13波.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R67_R56_推土机批3.json`；价格均为 EXW 快照。
 
-- **①背景再核**：A3 Communications, Inc.(美国 Irmo(South Carolina);**1990 创(36 年谱)**;130+ 员工/201-500 谱;$5-20M;**2019 被 The Cook & Boardman Group, LLC(全国最大商业门件/五金分销平台)收购**(子公司存续;分支 Raleigh NC 等);谱型=美国一线系统集成商(企业组网/无线/IP 视频监控/门禁/结构化布线/统一通信/虚拟化存储/电气/AV/网安/管服);a3communications.com;(803) 744-xxxx;salesteam@a3communications.com
-- **②芯片/型号**：(待谱面二补)
-- **③KP 深挖**：**Brian Thomas(President & CEO(2012 起在位;收购后继续续任 President;2018 起连续六年全国最快成长集成商),official-self-published·谱/leads-only(直发需 opt-in));Scott Grainger(Vice President of Physical Security,leads-only·待 opt-in(LinkedIn/谱面带核));Chad Hendrix(Vice President of Infrastructure(基础设施 VP=PoE 谱位),leads-only·待 opt-in(LinkedIn/谱面带核));Darrin Anderson(Chief Executive Officer, The Cook & Boardman Group(母体 CEO;公告引语),leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
-- **⑤在乎与偏好**：36 年集成巨头谱+官方公告金谱
+- **①背景再核**：1990 创;2019 C&B 收购(CBX 2022 整合);130+ 员工 6 分点;1,300+ 客户
+- **②芯片/型号**：八维集成链(安防/网络/布线/电气/UC/存储/A/V/managed);PoE 24 口 K-12 布线载线
+- **③KP 深挖**：Thomas 总裁(C&B 留任 O 级收购双源)+Anderson C&B CEO 母体系钩子;SCITDA 展会谱
+- **④Saga 对标**：八维集成链 → 24 口 PoE 安防网络/校园布线载线
+- **⑤在乎与偏好**：K-12/高校/州政/医疗谱;C&B eCommerce 通道;CBX 整合后顺位注
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**A3 is led by Brian Thomas, the Company’s President and CEO since 2012;Brian will continue to serve as President of A3 under C&B’s ownership(C&B 官方公告 2019)
-  > A3 is led by Brian Thomas, the Company’s President and CEO since 2012;Brian will continue to serve as President of A3 under C&B’s ownership(C&B 官方公告 2019)
-  > 来源：https://www.securitysales.com/news/a3-communications-acquired-cook-boardman/92390/
-- **【团队与规模】**President, CEO is Brian Thomas;Scott Grainger Vice President of Physical Security;Chad Hendrix Vice President of Infrastructure(craft.co 高管谱);130+ employees
-  > President, CEO is Brian Thomas;Scott Grainger Vice President of Physical Security;Chad Hendrix Vice President of Infrastructure(craft.co 高管谱);130+ employees
-  > 来源：https://craft.co/a3-communications/executives
-- **【业务定位】**Founded in 1990, A3 provides a broad range of IT and security solutions:unified communications;virtualization and storage;structured cabling;enterprise networking and wireless;IP video surveillance and access control;network security;201-500 employees
-  > Founded in 1990, A3 provides a broad range of IT and security solutions:unified communications;virtualization and storage;structured cabling;enterprise networking and wireless;IP video surveillance and access control;network security;201-500 employees
-  > 来源：https://seamless.ai/b/a3-communications-inc-12913712
+- **【收购登实】**A3 Communications acquired by Cook & Boardman Group;Brian Thomas to continue to serve as A3's president;Established in 1990 and based in Columbia,SC;130+ employees;6 branches;1,300+ active customers;CEO since 2012;2018 连续 6 年美国最快增长 integrating 榜
+  > A3 Communications acquired by Cook & Boardman Group;Brian Thomas to continue to serve as A3's president;Established in 1990 and based in Columbia,SC;130+ employees;6 branches;1,300+ active customers;CEO since 2012;2018 连续 6 年美国最快增长 integrating 榜
+  > 来源：https://www.securityinfowatch.com/integrators/dealers-integrators-installing-companies/press-release/21074509/cook-boardman-group-a3-communications-acquired-by-cook-boardman-group
+- **【母体系谱】**Cook & Boardman CEO Darrin Anderson;C&B headquartered Winston-Salem NC;35 locations 12 states;CBX Solutions rebrand;收购同时 H&H Door+Intellicom 收并谱
+  > Cook & Boardman CEO Darrin Anderson;C&B headquartered Winston-Salem NC;35 locations 12 states;CBX Solutions rebrand;收购同时 H&H Door+Intellicom 收并谱
+  > 来源：https://www.securityinfowatch.com/integrators/dealers-integrators-installing-companies/company/21074508/cook-boardman-group
+- **【总裁谱】**Brian Thomas: President A3 Communications;LI SCITDA Fall Conference 2022-10 参展谱;「new A3 website…purchase select security and access control products online via C&B's eCommerce site」2022-09 语谱
+  > Brian Thomas: President A3 Communications;LI SCITDA Fall Conference 2022-10 参展谱;「new A3 website…purchase select security and access control products online via C&B's eCommerce site」2022-09 语谱
+  > 来源：https://www.linkedin.com/posts/a3-communications_teama3-totalopeningsolutions-cookandboardmangroup-activity-6975846803032141824-5_fn
+- **【公司谱】**101-250 employees(Crunchbase);Columbia SC;Contacts 127;CB Rank 355527;Heat Score 58;Growth 84;Brian Thomas President;Telecommunications Companies With More Than 50 Employees(Top 10K)
+  > 101-250 employees(Crunchbase);Columbia SC;Contacts 127;CB Rank 355527;Heat Score 58;Growth 84;Brian Thomas President;Telecommunications Companies With More Than 50 Employees(Top 10K)
+  > 来源：https://www.crunchbase.com/organization/a3-communications
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：A3 Communications, Inc.(美国 Irmo(South Carolina);**1990 创(36 年谱)**;130+ 员工/201-500 谱;$5-20M;**2019 被 The Cook & Boardman Group, LLC(全国最大商业门件/五金分销平台)收购**(子公司存续;分支 Raleigh NC 等);谱型=美国一线系统集成商(企业组网/无线/IP 视频监控/门禁/结构化布线/统一通信/虚拟化存储/电气/AV/网安/管服);a3communications.com;(803) 744-xxxx;salesteam@a3communications.com
-- **产品线与在售品牌**：(波次二补谱面)
-- **目标行业与场景**：美国 SC 一线系统集成商(C&B 集团子)
-- **团队与规模**：130+ 人;1990 创;C&B 母体
-- **决策链与对接人**：**Brian Thomas(President & CEO(2012 起在位;收购后继续续任 President;2018 起连续六年全国最快成长集成商),official-self-published·谱/leads-only(直发需 opt-in));Scott Grainger(Vice President of Physical Security,leads-only·待 opt-in(LinkedIn/谱面带核));Chad Hendrix(Vice President of Infrastructure(基础设施 VP=PoE 谱位),leads-only·待 opt-in(LinkedIn/谱面带核));Darrin Anderson(Chief Executive Officer, The Cook & Boardman Group(母体 CEO;公告引语),leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **技术与认证**：(波次二补)
-- **采购与供应链信号**：(波次二补)
-- **近期动态与线索**：2026-10-08 R66 13 波谱名牌
-- **与我方契合点**：24 口 value PoE 谱链窗口
-- **风险与注意**：Brian Thomas 续任 CEO 金谱(opt-in 律)
+- **业务定位**：A3 Communications Inc.(1990 创,2019 C&B 收购):SC/NC/GA 三州 6 分点八维电子安防集成商(CBX Solutions 母体系)
+- **产品线与在售品牌**：视频监控+访问控制+企业网络+结构化布线+电气+UC+虚拟化/存储+A/V+managed services 八维
+- **目标行业与场景**：K-12+高校+州地方政府+医疗+企业商用;1,300+ 活档客户
+- **团队与规模**：130+(2019 收并直证);C&B 35 点 12 州母体系;CBX 整合
+- **决策链与对接人**：Brian Thomas(President & CEO 2012 起,收并留任)+Darrin Anderson(C&B CEO母体系决口)
+- **技术与认证**：C&B 门/框/五金专营系;CBX Solutions 2022 整合;eCommerce 通道线上品购
+- **采购与供应链信号**：C&B 集团集购同化=谱门窄化趋势注;CB eCommerce 线上品购外链=新谱口
+- **近期动态与线索**：2022-10 LI SCITDA 秋会参展谱(SC IT Directors Association);2022-09 Brian Thomas 引「新网站上线+eCommerce 打通」语谱;CBX 2022 rebrand
+- **与我方契合点**：Thomas 总裁留任+SCITDA 教政医疗谱 → 24 口 PoE(安防网络+K-12 校园/医院布线项目载线)
+- **风险与注意**：C&B 集购同化=谱门窄化注(CBX 集口钩)；员数 130+/101-250 窗差;CB 线上品购口与直口谱口并存顺位注;安防民用商用对象保护语义自然
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -193,10 +196,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：36 年集成巨头谱+官方公告金谱
-- **W**：母体平台采购链层
-- **O**：Thomas CEO 续任续谱+Infra VP Hendrix
-- **T**：大牌安防件链
+- **S**：C&B 母体系+1,300 客户谱
+- **W**：集团同化谱口窄化
+- **O**：SCITDA 展会+K-12 载线
+- **T**：CBX 集口 Hook
 
 ## 触达与风险红线
 
@@ -224,8 +227,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 硬件采购线在职者(波次二)
-  - [ ] MikroTik 谱面份额
+  - [ ] MikroTik 谱位在售线需官网核
+  - [ ] Thomas 直邮推档
+  - [ ] C&B 集购同源化源分辨
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -237,12 +241,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Brian,
+Dear Brian Thomas Team,
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for electronic security networks, K-12 campus cabling, and healthcare site deployments. Datasheet + CE pack on request.
 
-Best regards,
-Saga Networks Export Desk
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Alarm- und Sicherheitstechnik B.W. GmbH Schwerin:Alarm- und Sicherheitstechnik B.W. GmbH(**总部 Oststeinbek(汉堡圈),Im Hegen 14 b, 22113**;**档案锚=Schwerin 新支谱(Zeppelinstraße 1, 19061 Schwerin;+49 385 2074 7227;官网新闻「Neue Niederlassung in Schwerin」)**;Westfalen 支谱 Halle(Westf.);**HRB 1973 RE Amtsgericht Lübeck**;**资本增资谱:2021-04 €102,500→€1,002,500**;11-50/13 员工谱;alarm-as.de;谱型=安防工程商(入侵/火灾报警、视频监控、对讲、门禁、考勤+电气安装+进口件;北德三地网)**GF 换届谱:2026-07-01 Beckmann 退出、Frank Christian Müller 新入**
-- 【推断】R66 第 14 波具名 KP 金谱
-- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
+- 【事实】波 R67 批3·A-136:德谱: **A+S Alarm- und Sicherheitstechnik B.W. GmbH 深挖(xing/abendblatt/官网/同业录四源互证)**:**HRB 1973 RE Amtsgericht Lübeck,USt DE135107804,EBID 2500675 557772**;主点 Oststeinbek Im Hegen 14b(22113 汉堡都会,+49 40 7148600)+**分点 Halle(Westfalen 2020 开,Niederlassungsleiter Roland Lange 主)+分点 Schwerin(Zeppelinstraße 1,19061,2021 Q3 开)**=**一主二分三点北德网**;「B.W.」=创始异名(别名称 A+S);**30+ 年认证商:seit über 30 Jahren zertifizierter Fachbetrieb 报警安防技术专业商**;员工 xing 51-200/LI 11-50(13 人 LI 现场)=**两源差压注**;主营=B-to-B+B-to-C 报警与安防技术 Objektsicherheit(视频监控大型系统 Videoüberwachungssysteme+紧急报警 Gefahrenmeldetechnik+模拟/IP 通信对讲 Sprechanlagen+Intercom-Leitstellentechnik 采点+Rohrpostanlagen 气动管道+访问控制进入+LED/optoacustik);**KP 金谱:Robert Valentini(Geschäftsführer 总经理 LI 现场,O 级)+Oliver Haase(Abteilungsleiter Video 视频监控部门主管=PoE 需求源最直口 P0)+Roland Lange(Niederlassungsleiter Westfalen 分点长 P1)+Sascha Brockmann(销售内勤 Vertriebsinnendienst 官网新闻自证)+Volker Bartels(视频监控专家 2021 新闻名单)**;**同名排噪:Marco Marquardt =「Alarm und Sicherheitstechnik Berger GmbH」另一处(柏林/图林根谱)同姓异司≠我司——钉死**;安防监控为**民用商用楼宇安防本业**(住宅/办公/工业场景),零军火语义自然。
+- 【推断】R67 推土机深挖 批3 具名 KP 金谱(xing/abendblatt/官网/LI 四源+异名排噪)
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Haase 视频部 PoE 监控回传载线引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,23 +75,25 @@ updated: 2026-09-28
 - **原始联系字段**：info@alarm-as.de [Publicly listed; delivery not tested]; https://www.alarm-as.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Oliver Haase**(Abteilungsleiter Video(视频监控部门主管 LI 现场公章,O 级);大型视频监控系统 PoE 需求源最直口=P0)— ohaase@alarm-as.de(推断,送完核)/+49 40 7148600 台口转 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://de.linkedin.com/company/alarm--und-sicherheitstechnik-b.w.-gmbh〕
+  - **Robert Valentini**(Geschäftsführer(总经理 LI 现场公章,O 级);30+ 年认证商采决快链)— rvalentini@alarm-as.de(推断) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://de.linkedin.com/company/alarm--und-sicherheitstechnik-b.w.-gmbh〕
+  - **Roland Lange**(Niederlassungsleiter Standort Westfalen(分点主管 LI 公章,O 级);Halle Westf 项目带)— rlange@alarm-as.de(推断) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://de.linkedin.com/company/alarm--und-sicherheitstechnik-b.w.-gmbh〕
   - **Lutz Heldt**(Geschäftsführer(执行董事;2016-08 入职位,einzelvertretungsberechtigt,Kisdorf))— webvalid 登记册谱 〔已有(公司官方公开件/登记册自曝);源:https://www.webvalid.de/company/Alarm-+und+Sicherheitstechnik+B.W.+GmbH,+Oststeinbek/HRB+1973+RE〕
   - **Frank Christian Müller**(Geschäftsführer(执行董事;**2026-07-01 新登记**,*1972-12-29,Lippstadt))— creditreform 登记公告谱 〔已有(公司官方公开件/登记册自曝);源:https://firmeneintrag.creditreform.de/22113/2390066908/ALARM_UND_SICHERHEITSTECHNIK_B_W_GMBH〕
   - **Thomas Niemann**(Geschäftsführer 谱位(登记册历史入谱))— webvalid 登记册谱(留痕) 〔已有(公司官方公开件/登记册自曝);源:https://www.webvalid.de/company/Alarm-+und+Sicherheitstechnik+B.W.+GmbH,+Oststeinbek/HRB+1973+RE〕
   - **Hans-Olaf Beckmann**(原 Geschäftsführer(2018 变谱;**2026-07-01 Austritt**;DNB Key Principal 旧谱留痕))— DNB+creditreform 双源谱(DNB 滞) 〔已有(公司官方公开件/登记册自曝);源:https://firmeneintrag.creditreform.de/22113/2390066908/ALARM_UND_SICHERHEITSTECHNIK_B_W_GMBH〕
-  - **Oliver Haase**(Abteilungsleiter Video(视频监控部长 KPI 天位))— LinkedIn 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://de.linkedin.com/company/alarm--und-sicherheitstechnik-b.w.-gmbh〕
-  - **Roland Lange**(Niederlassungsleiter Westfalen(西法伦支谱长))— LinkedIn 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://de.linkedin.com/company/alarm--und-sicherheitstechnik-b.w.-gmbh〕
 
 ## 关键人（KP）与触达通道
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Oliver Haase | Abteilungsleiter Video(视频监控部门主管 LI 现场公章,O 级);大型视频监控系统 PoE 需求源最直口=P0 | ohaase@alarm-as.de(推断,送完核)/+49 40 7148600 台口转 | LI 公章 O 级;邮箱推断 G 级 | https://de.linkedin.com/company/alarm--und-sicherheitstechnik-b.w.-gmbh |
+| Robert Valentini | Geschäftsführer(总经理 LI 现场公章,O 级);30+ 年认证商采决快链 | rvalentini@alarm-as.de(推断) | LI 公章 O 级;邮箱推断 G 级 | https://de.linkedin.com/company/alarm--und-sicherheitstechnik-b.w.-gmbh |
+| Roland Lange | Niederlassungsleiter Standort Westfalen(分点主管 LI 公章,O 级);Halle Westf 项目带 | rlange@alarm-as.de(推断) | LI 公章 O 级;邮箱推断 G 级 | https://de.linkedin.com/company/alarm--und-sicherheitstechnik-b.w.-gmbh |
 | Lutz Heldt | Geschäftsführer(执行董事;2016-08 入职位,einzelvertretungsberechtigt,Kisdorf) | webvalid 登记册谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.webvalid.de/company/Alarm-+und+Sicherheitstechnik+B.W.+GmbH,+Oststeinbek/HRB+1973+RE |
 | Frank Christian Müller | Geschäftsführer(执行董事;**2026-07-01 新登记**,*1972-12-29,Lippstadt) | creditreform 登记公告谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://firmeneintrag.creditreform.de/22113/2390066908/ALARM_UND_SICHERHEITSTECHNIK_B_W_GMBH |
 | Thomas Niemann | Geschäftsführer 谱位(登记册历史入谱) | webvalid 登记册谱(留痕) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.webvalid.de/company/Alarm-+und+Sicherheitstechnik+B.W.+GmbH,+Oststeinbek/HRB+1973+RE |
 | Hans-Olaf Beckmann | 原 Geschäftsführer(2018 变谱;**2026-07-01 Austritt**;DNB Key Principal 旧谱留痕) | DNB+creditreform 双源谱(DNB 滞) | official-self-published·谱/leads-only(直发需 opt-in) | https://firmeneintrag.creditreform.de/22113/2390066908/ALARM_UND_SICHERHEITSTECHNIK_B_W_GMBH |
-| Oliver Haase | Abteilungsleiter Video(视频监控部长 KPI 天位) | LinkedIn 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://de.linkedin.com/company/alarm--und-sicherheitstechnik-b.w.-gmbh |
-| Roland Lange | Niederlassungsleiter Westfalen(西法伦支谱长) | LinkedIn 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://de.linkedin.com/company/alarm--und-sicherheitstechnik-b.w.-gmbh |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -151,41 +153,41 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第16波.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R67_R56_推土机批3.json`；价格均为 EXW 快照。
 
-- **①背景再核**：Alarm- und Sicherheitstechnik B.W. GmbH(**总部 Oststeinbek(汉堡圈),Im Hegen 14 b, 22113**;**档案锚=Schwerin 新支谱(Zeppelinstraße 1, 19061 Schwerin;+49 385 2074 7227;官网新闻「Neue Niederlassung in Schwerin」)**;Westfalen 支谱 Halle(Westf.);**HRB 1973 RE Amtsgericht Lübeck**;**资本增资谱:2021-04 €102,500→€1,002,500**;11-50/13 员工谱;alarm-as.de;谱型=安防工程商(入侵/火灾报警、视频监控、对讲、门禁、考勤+电气安装+进口件;北德三地网)**GF 换届谱:2026-07-01 Beckmann 退出、Frank Christian Müller 新入**
-- **②芯片/型号**：(待谱面二补)
-- **③KP 深挖**：**Lutz Heldt(Geschäftsführer(执行董事;2016-08 入职位,einzelvertretungsberechtigt,Kisdorf),official-self-published·谱/leads-only(直发需 opt-in));Frank Christian Müller(Geschäftsführer(执行董事;**2026-07-01 新登记**,*1972-12-29,Lippstadt),official-self-published·谱/leads-only(直发需 opt-in));Thomas Niemann(Geschäftsführer 谱位(登记册历史入谱),official-self-published·谱/leads-only(直发需 opt-in));Hans-Olaf Beckmann(原 Geschäftsführer(2018 变谱;**2026-07-01 Austritt**;DNB Key Principal 旧谱留痕),official-self-published·谱/leads-only(直发需 opt-in));Oliver Haase(Abteilungsleiter Video(视频监控部长 KPI 天位),leads-only·待 opt-in(LinkedIn/谱面带核));Roland Lange(Niederlassungsleiter Westfalen(西法伦支谱长),leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
-- **⑤在乎与偏好**：三地支谱+增资谱(×10)
+- **①背景再核**：HRB 1973 RE Lübeck;30+ 年认证商;北德三点(Oststeinbek+Halle Westf 2020+Schwerin 2021)
+- **②芯片/型号**：视频监控大型系统+紧急报警+对讲 IP 化链;PoE 24 口回传载线
+- **③KP 深挖**：Valentini GF+Haase Abteilungsleiter Video P0+Lange Westf 分点长+Brockmann 销售内勤二线
+- **④Saga 对标**：视频监控大型系统 → 24 口 PoE 监控回传/IP 对讲桥载线
+- **⑤在乎与偏好**：30+ 年认证商;北德 3 点网;B-to-B+B-to-C 兼营;B.W. 商号
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**GF 谱:Heldt, Lutz (Kisdorf, einzelvertretungsberechtigt, Eintritt 2016);Niemann, Thomas(入谱);Beckmann, Hans-Olaf(2018 变谱 → 01.07.2026 Nicht mehr GF);Wille, Kurt(Austritt);Kapital 102.500→1.002.500 EUR(13.04.2021)
-  > GF 谱:Heldt, Lutz (Kisdorf, einzelvertretungsberechtigt, Eintritt 2016);Niemann, Thomas(入谱);Beckmann, Hans-Olaf(2018 变谱 → 01.07.2026 Nicht mehr GF);Wille, Kurt(Austritt);Kapital 102.500→1.002.500 EUR(13.04.2021)
-  > 来源：https://www.webvalid.de/company/Alarm-+und+Sicherheitstechnik+B.W.+GmbH,+Oststeinbek/HRB+1973+RE
-- **【决策链与对接人】**Registerbekanntmachung 01.07.2026: Nicht mehr GF: Beckmann, Hans-Olaf;GF: Müller, Frank Christian, *29.12.1972, Lippstadt(creditreform 件);wird derzeit von 3 Managern geführt
-  > Registerbekanntmachung 01.07.2026: Nicht mehr GF: Beckmann, Hans-Olaf;GF: Müller, Frank Christian, *29.12.1972, Lippstadt(creditreform 件);wird derzeit von 3 Managern geführt
-  > 来源：https://firmeneintrag.creditreform.de/22113/2390066908/ALARM_UND_SICHERHEITSTECHNIK_B_W_GMBH
-- **【联系方式与基础画像】**Kontakt Niederlassung Schwerin: Zeppelinstraße 1, 19061 Schwerin;Tel.: +49 (0)385 2074 7227;Niederlassung Hamburg: Im Hegen 14 b, 22113 Oststeinbek;Niederlassung Westfalen: Kleine Heide 4, 33790 Halle (Westfalen)(alarm-as.de 官网)
-  > Kontakt Niederlassung Schwerin: Zeppelinstraße 1, 19061 Schwerin;Tel.: +49 (0)385 2074 7227;Niederlassung Hamburg: Im Hegen 14 b, 22113 Oststeinbek;Niederlassung Westfalen: Kleine Heide 4, 33790 Halle (Westfalen)(alarm-as.de 官网)
-  > 来源：https://www.alarm-as.de/
-- **【团队与规模】**Oliver Haase Abteilungsleiter Video;Robert Valentini Geschäftsführer;Roland Lange Niederlassungsleiter Westfalen;13 Mitarbeiter;Baugewerbe(LinkedIn 谱;Valentini 自署=未核,仅留痕)
-  > Oliver Haase Abteilungsleiter Video;Robert Valentini Geschäftsführer;Roland Lange Niederlassungsleiter Westfalen;13 Mitarbeiter;Baugewerbe(LinkedIn 谱;Valentini 自署=未核,仅留痕)
+- **【法体登册】**Alarm- und Sicherheitstechnik B.W. GmbH,Im Hegen 14 b 22113 Oststeinbek;USt ID DE135107804;HRB 1973 RE Amtsgericht Lübeck;EBID 2500675 557772
+  > Alarm- und Sicherheitstechnik B.W. GmbH,Im Hegen 14 b 22113 Oststeinbek;USt ID DE135107804;HRB 1973 RE Amtsgericht Lübeck;EBID 2500675 557772
+  > 来源：https://www.unternehmensverzeichnis.org/alarm-und-sicherheitstechnik-bw-gmbh-oststeinbek-2500675557772
+- **【决策链与对接人】**Robert Valentini Geschäftsführer bei Alarm und Sicherheitstechnik;Oliver Haase Abteilungsleiter Video;Roland Lange Niederlassungsleiter Standort Westfalen;Sascha Brockmann Vertriebsinnendienst(2021 官网新闻);Volker Bartels Spezialist Videoüberwachungsanlagen
+  > Robert Valentini Geschäftsführer bei Alarm und Sicherheitstechnik;Oliver Haase Abteilungsleiter Video;Roland Lange Niederlassungsleiter Standort Westfalen;Sascha Brockmann Vertriebsinnendienst(2021 官网新闻);Volker Bartels Spezialist Videoüberwachungsanlagen
   > 来源：https://de.linkedin.com/company/alarm--und-sicherheitstechnik-b.w.-gmbh
+- **【公司谱】**A+S seit über 30 Jahren zertifizierter Fachbetrieb;Standorte Hamburg/Oststeinbek, Halle(Westfalen), Schwerin;B-to-B+B-to-C 安防 Gefahrenmeldetechnik
+  > A+S seit über 30 Jahren zertifizierter Fachbetrieb;Standorte Hamburg/Oststeinbek, Halle(Westfalen), Schwerin;B-to-B+B-to-C 安防 Gefahrenmeldetechnik
+  > 来源：https://www.abendblatt.de/unternehmen/alarm-und-sicherheitstechnik-bw-gmbh-91407
+- **【分点扩张】**Niederlassung Schwerin Zeppelinstraße 1 19061 seit Q3 2021;Volker Bartels+Sascha Brockmann 增员名录 2021;Schwerin 官网新闻+封录
+  > Niederlassung Schwerin Zeppelinstraße 1 19061 seit Q3 2021;Volker Bartels+Sascha Brockmann 增员名录 2021;Schwerin 官网新闻+封录
+  > 来源：https://www.alarm-as.de/news-artikel/neue-niederlassung-von-a-s-in-schwerin-mecklenburg-vorpommern
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：Alarm- und Sicherheitstechnik B.W. GmbH(**总部 Oststeinbek(汉堡圈),Im Hegen 14 b, 22113**;**档案锚=Schwerin 新支谱(Zeppelinstraße 1, 19061 Schwerin;+49 385 2074 7227;官网新闻「Neue Niederlassung in Schwerin」)**;Westfalen 支谱 Halle(Westf.);**HRB 1973 RE Amtsgericht Lübeck**;**资本增资谱:2021-04 €102,500→€1,002,500**;11-50/13 员工谱;alarm-as.de;谱型=安防工程商(入侵/火灾报警、视频监控、对讲、门禁、考勤+电气安装+进口件;北德三地网)**GF 换届谱:2026-07-01 Beckmann 退出、Frank Christian Müller 新入**
-- **产品线与在售品牌**：(波次二补谱面)
-- **目标行业与场景**：北德安防工程商(汉堡 HQ+Schwerin/Westfalen 支谱)
-- **团队与规模**：13-50 人;Saar 谱
-- **决策链与对接人**：**Lutz Heldt(Geschäftsführer(执行董事;2016-08 入职位,einzelvertretungsberechtigt,Kisdorf),official-self-published·谱/leads-only(直发需 opt-in));Frank Christian Müller(Geschäftsführer(执行董事;**2026-07-01 新登记**,*1972-12-29,Lippstadt),official-self-published·谱/leads-only(直发需 opt-in));Thomas Niemann(Geschäftsführer 谱位(登记册历史入谱),official-self-published·谱/leads-only(直发需 opt-in));Hans-Olaf Beckmann(原 Geschäftsführer(2018 变谱;**2026-07-01 Austritt**;DNB Key Principal 旧谱留痕),official-self-published·谱/leads-only(直发需 opt-in));Oliver Haase(Abteilungsleiter Video(视频监控部长 KPI 天位),leads-only·待 opt-in(LinkedIn/谱面带核));Roland Lange(Niederlassungsleiter Westfalen(西法伦支谱长),leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **技术与认证**：(波次二补)
-- **采购与供应链信号**：(波次二补)
-- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
-- **与我方契合点**：24 口 value PoE 谱链窗口
-- **风险与注意**：Heldt+Müller GF+Haase 视频部长(opt-in 律)
+- **业务定位**：A+S Alarm- und Sicherheitstechnik B.W. GmbH(HRB 1973 RE Lübeck,30+ 年):北德三点认证安防集成商(视频监控+紧急报警+对讲)
+- **产品线与在售品牌**：Videoüberwachungssysteme(大型视频监控系统)+Gefahrenmeldetechnik+模拟/IP Sprechanlagen+Intercom-Leitstellentechnik+Rohrpostanlagen
+- **目标行业与场景**：B-to-B+B-to-C 民用商用楼宇安防;住宅/办公/工业对象保护;汉堡都会/Halle/Schwerin 终会服务链
+- **团队与规模**：11-50(LI)/51-200(xing)数窗注;GF+视频部主管+分点长
+- **决策链与对接人**：Robert Valentini(GF)+Oliver Haase(Abteilungsleiter Video 视频部主管 P0)+Roland Lange(Westf 分点长)+Sascha Brockmann(销售内勤)+Volker Bartels(监控专家)
+- **技术与认证**：HRB 1973 RE/USt DE135107804/EBID 2500675 557772;30+ 年 zertifizierter Errichter Fachbetrieb
+- **采购与供应链信号**：视频监控大型系统=PoE 回传载线需求大;对讲/Intercom 控转协议化 IP 化趋势载线
+- **近期动态与线索**：2020 Halle Westf 开+2021 Schwerin 开=Bartels/Brockmann 团队增招名录;karriere 2023-06 招聘团队助职(视频队 m/w/d);扩张握
+- **与我方契合点**：Haase 视频部 P0 → 24 口 PoE(监控回传/IP 对讲桥接载线)
+- **风险与注意**：LI/xing 员数数窗差钉(13 人 LI→xing 51-200);同名异司 Marco Marquardt=Berger GmbH 排噪;视频监控家用兼营=B-客语义下守界注；「B.W.」异名谱
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -200,10 +202,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：三地支谱+增资谱(×10)
-- **W**：中型工程商谱
-- **O**：Haase 视频部长 KPI 直达
-- **T**：大牌安防链竞位(ABUS/Bosch)
+- **S**：30+ 年认证商+三点网
+- **W**：LI/xing 员数数窗差
+- **O**：视频监控 PoE 扭矩
+- **T**：异名异司排噪
 
 ## 触达与风险红线
 
@@ -231,8 +233,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 硬件采购线在职者(波次二)
-  - [ ] MikroTik 谱面份额
+  - [ ] MikroTik 谱位在售线需官网核
+  - [ ] Haase 邮箱推档
+  - [ ] LI 11-50 vs xing 51-200 员数差钉
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -244,12 +247,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Guten Tag Herr Heldt,
+Dear Oliver Haase Team,
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for CCTV backhaul and intercom bridging lines in commercial building security deployments. Datasheet + CE pack on request.
 
-Best regards,
-Saga Networks Export Desk
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

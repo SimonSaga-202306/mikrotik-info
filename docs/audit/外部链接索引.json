@@ -3550,6 +3550,54 @@
     ]
   },
   {
+    "url": "https://allabolag.se/5565787024/profcon-ab",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L11"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L32"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L87"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L94"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L96"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L97"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L179"
+      }
+    ]
+  },
+  {
+    "url": "https://allabolag.se/5565787024/profcon-ab〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L80"
+      }
+    ]
+  },
+  {
     "url": "https://allness.net/",
     "http_checked": false,
     "occurrences": [
@@ -7438,6 +7486,20 @@
     ]
   },
   {
+    "url": "https://byggkatalogen.byggtjanst.se/produkt/elprodukter/styrutrustning-styrenheter-el/styrfunktionsenheter-el-ovrigt/siox-solutions-sxduo-spjallmodul/234158",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L47"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L188"
+      }
+    ]
+  },
+  {
     "url": "https://bytesolutions.it",
     "http_checked": false,
     "occurrences": [
@@ -10581,15 +10643,11 @@
       },
       {
         "path": "profile/A/A-113-A3 Communications-美国.md",
-        "locator": "L88"
-      },
-      {
-        "path": "profile/A/A-113-A3 Communications-美国.md",
         "locator": "L89"
       },
       {
         "path": "profile/A/A-113-A3 Communications-美国.md",
-        "locator": "L165"
+        "locator": "L90"
       }
     ]
   },
@@ -10617,11 +10675,11 @@
     "occurrences": [
       {
         "path": "profile/A/A-113-A3 Communications-美国.md",
-        "locator": "L79"
+        "locator": "L80"
       },
       {
         "path": "profile/A/A-113-A3 Communications-美国.md",
-        "locator": "L80"
+        "locator": "L81"
       }
     ]
   },
@@ -12160,16 +12218,36 @@
         "locator": "L269"
       },
       {
-        "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
-        "locator": "L93"
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L152"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L202"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L209"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L216"
       },
       {
         "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
-        "locator": "L94"
+        "locator": "L90"
       },
       {
         "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
-        "locator": "L175"
+        "locator": "L91"
+      },
+      {
+        "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
+        "locator": "L171"
       }
     ]
   },
@@ -12197,11 +12275,15 @@
     "occurrences": [
       {
         "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
-        "locator": "L82"
+        "locator": "L78"
       },
       {
         "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
-        "locator": "L83"
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
+        "locator": "L80"
       }
     ]
   },
@@ -12671,7 +12753,7 @@
       },
       {
         "path": "profile/A/A-118-Heartland Business Systems-美国.md",
-        "locator": "L156"
+        "locator": "L162"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -17909,15 +17991,11 @@
       },
       {
         "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
-        "locator": "L90"
+        "locator": "L94"
       },
       {
         "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
-        "locator": "L92"
-      },
-      {
-        "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
-        "locator": "L169"
+        "locator": "L96"
       }
     ]
   },
@@ -17945,11 +18023,11 @@
     "occurrences": [
       {
         "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
-        "locator": "L79"
+        "locator": "L82"
       },
       {
         "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
-        "locator": "L81"
+        "locator": "L84"
       }
     ]
   },
@@ -19795,7 +19873,7 @@
       },
       {
         "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
-        "locator": "L98"
+        "locator": "L102"
       }
     ]
   },
@@ -19815,7 +19893,7 @@
     "occurrences": [
       {
         "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
-        "locator": "L85"
+        "locator": "L87"
       }
     ]
   },
@@ -42588,6 +42666,20 @@
     ]
   },
   {
+    "url": "https://pitchbook.com/profiles/company/128659-87",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L274"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L181"
+      }
+    ]
+  },
+  {
     "url": "https://pitchbook.com/profiles/company/159696-28",
     "http_checked": false,
     "occurrences": [
@@ -43926,6 +44018,20 @@
       {
         "path": "profile/B/B-231-ALLNET France SAS-法国.md",
         "locator": "L81"
+      }
+    ]
+  },
+  {
+    "url": "https://prospeo.io/c/gemellaro-systems-integration-revenue",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L398"
+      },
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L174"
       }
     ]
   },
@@ -46452,6 +46558,38 @@
     ]
   },
   {
+    "url": "https://rocketreach.co/gemellaro-systems-integration-management_b551e6a5f9826f72",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L408"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L474"
+      },
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L96"
+      },
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L180"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/gemellaro-systems-integration-management_b551e6a5f9826f72〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L81"
+      }
+    ]
+  },
+  {
     "url": "https://rocketreach.co/gemellaro-systems-integration-profile_b551e6a5f9826f72",
     "http_checked": false,
     "occurrences": [
@@ -46476,24 +46614,20 @@
         "locator": "L366"
       },
       {
-        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
-        "locator": "L92"
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L377"
       },
       {
         "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
-        "locator": "L93"
+        "locator": "L98"
       },
       {
         "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
-        "locator": "L95"
+        "locator": "L99"
       },
       {
         "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
-        "locator": "L96"
-      },
-      {
-        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
-        "locator": "L173"
+        "locator": "L100"
       }
     ]
   },
@@ -46529,19 +46663,15 @@
     "occurrences": [
       {
         "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
-        "locator": "L79"
-      },
-      {
-        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
-        "locator": "L80"
-      },
-      {
-        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
-        "locator": "L82"
-      },
-      {
-        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
         "locator": "L83"
+      },
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L84"
+      },
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L85"
       }
     ]
   },
@@ -46588,8 +46718,36 @@
         "locator": "L531"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L248"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L269"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L331"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L338"
+      },
+      {
         "path": "profile/A/A-118-Heartland Business Systems-美国.md",
-        "locator": "L99"
+        "locator": "L96"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L97"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L105"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L178"
       }
     ]
   },
@@ -46609,7 +46767,15 @@
     "occurrences": [
       {
         "path": "profile/A/A-118-Heartland Business Systems-美国.md",
-        "locator": "L85"
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L80"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L88"
       }
     ]
   },
@@ -46627,11 +46793,7 @@
       },
       {
         "path": "profile/A/A-118-Heartland Business Systems-美国.md",
-        "locator": "L100"
-      },
-      {
-        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
-        "locator": "L178"
+        "locator": "L106"
       }
     ]
   },
@@ -46655,7 +46817,7 @@
     "occurrences": [
       {
         "path": "profile/A/A-118-Heartland Business Systems-美国.md",
-        "locator": "L86"
+        "locator": "L89"
       }
     ]
   },
@@ -47228,6 +47390,38 @@
       {
         "path": "scripts/R66_R56_KP第18波_30户扩招落盘.py",
         "locator": "L292"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/mike-newman-email_27676323",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L403"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L453"
+      },
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L177"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/mike-newman-email_27676323〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L78"
       }
     ]
   },
@@ -50029,23 +50223,15 @@
       },
       {
         "path": "profile/A/A-081-Profcon AB-瑞典.md",
-        "locator": "L100"
+        "locator": "L104"
       },
       {
         "path": "profile/A/A-081-Profcon AB-瑞典.md",
-        "locator": "L102"
+        "locator": "L106"
       },
       {
         "path": "profile/A/A-081-Profcon AB-瑞典.md",
-        "locator": "L103"
-      },
-      {
-        "path": "profile/A/A-081-Profcon AB-瑞典.md",
-        "locator": "L178"
-      },
-      {
-        "path": "profile/A/A-081-Profcon AB-瑞典.md",
-        "locator": "L181"
+        "locator": "L107"
       }
     ]
   },
@@ -50081,15 +50267,15 @@
     "occurrences": [
       {
         "path": "profile/A/A-081-Profcon AB-瑞典.md",
-        "locator": "L85"
-      },
-      {
-        "path": "profile/A/A-081-Profcon AB-瑞典.md",
         "locator": "L87"
       },
       {
         "path": "profile/A/A-081-Profcon AB-瑞典.md",
-        "locator": "L88"
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L90"
       }
     ]
   },
@@ -50100,10 +50286,6 @@
       {
         "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
         "locator": "L519"
-      },
-      {
-        "path": "profile/A/A-113-A3 Communications-美国.md",
-        "locator": "L168"
       }
     ]
   },
@@ -50337,19 +50519,19 @@
       },
       {
         "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
-        "locator": "L145"
+        "locator": "L149"
       },
       {
         "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
-        "locator": "L148"
+        "locator": "L152"
       },
       {
         "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
-        "locator": "L151"
+        "locator": "L155"
       },
       {
         "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
-        "locator": "L154"
+        "locator": "L158"
       }
     ]
   },
@@ -60048,6 +60230,20 @@
     ]
   },
   {
+    "url": "https://www.abendblatt.de/unternehmen/alarm-und-sicherheitstechnik-bw-gmbh-91407",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L157"
+      },
+      {
+        "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
+        "locator": "L174"
+      }
+    ]
+  },
+  {
     "url": "https://www.absolcom.hu",
     "http_checked": false,
     "occurrences": [
@@ -61263,23 +61459,19 @@
       },
       {
         "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
-        "locator": "L141"
+        "locator": "L143"
       },
       {
         "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
-        "locator": "L144"
+        "locator": "L146"
       },
       {
         "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
-        "locator": "L147"
+        "locator": "L149"
       },
       {
         "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
-        "locator": "L150"
-      },
-      {
-        "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
-        "locator": "L172"
+        "locator": "L152"
       }
     ]
   },
@@ -61312,6 +61504,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-883/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.alarm-as.de/news-artikel/neue-niederlassung-von-a-s-in-schwerin-mecklenburg-vorpommern",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L162"
+      },
+      {
+        "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
+        "locator": "L177"
       }
     ]
   },
@@ -66226,20 +66432,8 @@
         "locator": "L134"
       },
       {
-        "path": "profile/A/A-081-Profcon AB-瑞典.md",
-        "locator": "L94"
-      },
-      {
-        "path": "profile/A/A-081-Profcon AB-瑞典.md",
-        "locator": "L95"
-      },
-      {
-        "path": "profile/A/A-081-Profcon AB-瑞典.md",
-        "locator": "L96"
-      },
-      {
-        "path": "profile/A/A-081-Profcon AB-瑞典.md",
-        "locator": "L97"
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L37"
       },
       {
         "path": "profile/A/A-081-Profcon AB-瑞典.md",
@@ -66251,7 +66445,23 @@
       },
       {
         "path": "profile/A/A-081-Profcon AB-瑞典.md",
-        "locator": "L175"
+        "locator": "L100"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L101"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L102"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L103"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L182"
       }
     ]
   },
@@ -66295,14 +66505,6 @@
     "occurrences": [
       {
         "path": "profile/A/A-081-Profcon AB-瑞典.md",
-        "locator": "L79"
-      },
-      {
-        "path": "profile/A/A-081-Profcon AB-瑞典.md",
-        "locator": "L80"
-      },
-      {
-        "path": "profile/A/A-081-Profcon AB-瑞典.md",
         "locator": "L81"
       },
       {
@@ -66316,6 +66518,14 @@
       {
         "path": "profile/A/A-081-Profcon AB-瑞典.md",
         "locator": "L84"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L86"
       }
     ]
   },
@@ -70030,6 +70240,20 @@
     ]
   },
   {
+    "url": "https://www.crunchbase.com/organization/a3-communications",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L542"
+      },
+      {
+        "path": "profile/A/A-113-A3 Communications-美国.md",
+        "locator": "L171"
+      }
+    ]
+  },
+  {
     "url": "https://www.crunchbase.com/organization/accreda",
     "http_checked": false,
     "occurrences": [
@@ -70429,15 +70653,7 @@
       },
       {
         "path": "profile/A/A-118-Heartland Business Systems-美国.md",
-        "locator": "L92"
-      },
-      {
-        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
-        "locator": "L93"
-      },
-      {
-        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
-        "locator": "L172"
+        "locator": "L99"
       }
     ]
   },
@@ -70465,11 +70681,7 @@
     "occurrences": [
       {
         "path": "profile/A/A-118-Heartland Business Systems-美国.md",
-        "locator": "L78"
-      },
-      {
-        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
-        "locator": "L79"
+        "locator": "L82"
       }
     ]
   },
@@ -72632,6 +72844,38 @@
     ]
   },
   {
+    "url": "https://www.datanyze.com/companies/heartland-business-systems/48466181",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L279"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L324"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L95"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L184"
+      }
+    ]
+  },
+  {
+    "url": "https://www.datanyze.com/companies/heartland-business-systems/48466181〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L78"
+      }
+    ]
+  },
+  {
     "url": "https://www.datanyze.com/companies/nts-direct/347616523",
     "http_checked": false,
     "occurrences": [
@@ -74347,11 +74591,7 @@
       },
       {
         "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
-        "locator": "L91"
-      },
-      {
-        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
-        "locator": "L170"
+        "locator": "L97"
       }
     ]
   },
@@ -74375,7 +74615,7 @@
     "occurrences": [
       {
         "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
-        "locator": "L78"
+        "locator": "L82"
       }
     ]
   },
@@ -74732,6 +74972,20 @@
       {
         "path": "profile/A/A-379-Optitera Global Networks Inc-加拿大.md",
         "locator": "L82"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dnb.com/business-directory/company-profiles.profcon_ab.f6d02fdf10e3fe7fbd1dd9320993384b.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L42"
+      },
+      {
+        "path": "profile/A/A-081-Profcon AB-瑞典.md",
+        "locator": "L185"
       }
     ]
   },
@@ -82064,6 +82318,14 @@
         "locator": "反向信号名单!J789"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L284"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L345"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L121"
       },
@@ -82078,6 +82340,14 @@
       {
         "path": "profile/A/A-118-Heartland Business Systems-美国.md",
         "locator": "L75"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L98"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L187"
       },
       {
         "path": "客户分级跟进表_2026-09.xlsx",
@@ -82127,15 +82397,25 @@
       },
       {
         "path": "profile/A/A-118-Heartland Business Systems-美国.md",
-        "locator": "L147"
-      },
-      {
-        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
-        "locator": "L150"
-      },
-      {
-        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
         "locator": "L153"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L156"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L159"
+      }
+    ]
+  },
+  {
+    "url": "https://www.hbs.net〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L81"
       }
     ]
   },
@@ -87905,27 +88185,23 @@
       },
       {
         "path": "profile/A/A-118-Heartland Business Systems-美国.md",
-        "locator": "L94"
+        "locator": "L100"
       },
       {
         "path": "profile/A/A-118-Heartland Business Systems-美国.md",
-        "locator": "L95"
+        "locator": "L101"
       },
       {
         "path": "profile/A/A-118-Heartland Business Systems-美国.md",
-        "locator": "L96"
+        "locator": "L102"
       },
       {
         "path": "profile/A/A-118-Heartland Business Systems-美国.md",
-        "locator": "L97"
+        "locator": "L103"
       },
       {
         "path": "profile/A/A-118-Heartland Business Systems-美国.md",
-        "locator": "L98"
-      },
-      {
-        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
-        "locator": "L175"
+        "locator": "L104"
       }
     ]
   },
@@ -87965,23 +88241,23 @@
     "occurrences": [
       {
         "path": "profile/A/A-118-Heartland Business Systems-美国.md",
-        "locator": "L80"
-      },
-      {
-        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
-        "locator": "L81"
-      },
-      {
-        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
-        "locator": "L82"
-      },
-      {
-        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
         "locator": "L83"
       },
       {
         "path": "profile/A/A-118-Heartland Business Systems-美国.md",
         "locator": "L84"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-118-Heartland Business Systems-美国.md",
+        "locator": "L87"
       }
     ]
   },
@@ -91660,6 +91936,20 @@
       {
         "path": "profile/B/B-221-GCOM-格鲁吉亚.md",
         "locator": "L75"
+      }
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/posts/a3-communications_teama3-totalopeningsolutions-cookandboardmangroup-activity-6975846803032141824-5_fn",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L537"
+      },
+      {
+        "path": "profile/A/A-113-A3 Communications-美国.md",
+        "locator": "L168"
       }
     ]
   },
@@ -108109,19 +108399,19 @@
       },
       {
         "path": "profile/A/A-081-Profcon AB-瑞典.md",
-        "locator": "L150"
+        "locator": "L154"
       },
       {
         "path": "profile/A/A-081-Profcon AB-瑞典.md",
-        "locator": "L153"
+        "locator": "L157"
       },
       {
         "path": "profile/A/A-081-Profcon AB-瑞典.md",
-        "locator": "L156"
+        "locator": "L160"
       },
       {
         "path": "profile/A/A-081-Profcon AB-瑞典.md",
-        "locator": "L159"
+        "locator": "L163"
       }
     ]
   },
@@ -110888,6 +111178,38 @@
     ]
   },
   {
+    "url": "https://www.securityinfowatch.com/integrators/dealers-integrators-installing-companies/company/21074508/cook-boardman-group",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L532"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L589"
+      },
+      {
+        "path": "profile/A/A-113-A3 Communications-美国.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-113-A3 Communications-美国.md",
+        "locator": "L165"
+      }
+    ]
+  },
+  {
+    "url": "https://www.securityinfowatch.com/integrators/dealers-integrators-installing-companies/company/21074508/cook-boardman-group〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-113-A3 Communications-美国.md",
+        "locator": "L79"
+      }
+    ]
+  },
+  {
     "url": "https://www.securityinfowatch.com/integrators/dealers-integrators-installing-companies/press-release/21074509/cook-boardman-group-a3-communications-acquired-by-cook-boardman-group",
     "http_checked": false,
     "occurrences": [
@@ -110896,8 +111218,24 @@
         "locator": "L576"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L506"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L527"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L582"
+      },
+      {
         "path": "profile/A/A-113-A3 Communications-美国.md",
         "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-113-A3 Communications-美国.md",
+        "locator": "L162"
       }
     ]
   },
@@ -110936,14 +111274,6 @@
       {
         "path": "batch/A类深挖_2026-10-08_R66_R56_KP第13波.json",
         "locator": "L597"
-      },
-      {
-        "path": "profile/A/A-113-A3 Communications-美国.md",
-        "locator": "L90"
-      },
-      {
-        "path": "profile/A/A-113-A3 Communications-美国.md",
-        "locator": "L162"
       }
     ]
   },
@@ -110958,16 +111288,6 @@
       {
         "path": "scripts/R66_R56_KP第13波落盘.py",
         "locator": "L103"
-      }
-    ]
-  },
-  {
-    "url": "https://www.securitysales.com/news/a3-communications-acquired-cook-boardman/92390/〕",
-    "http_checked": false,
-    "occurrences": [
-      {
-        "path": "profile/A/A-113-A3 Communications-美国.md",
-        "locator": "L81"
       }
     ]
   },
@@ -111481,15 +111801,7 @@
       },
       {
         "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
-        "locator": "L94"
-      },
-      {
-        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
-        "locator": "L97"
-      },
-      {
-        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
-        "locator": "L176"
+        "locator": "L101"
       }
     ]
   },
@@ -111517,11 +111829,7 @@
     "occurrences": [
       {
         "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
-        "locator": "L81"
-      },
-      {
-        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
-        "locator": "L84"
+        "locator": "L86"
       }
     ]
   },
@@ -116280,6 +116588,20 @@
     ]
   },
   {
+    "url": "https://www.unternehmensverzeichnis.org/alarm-und-sicherheitstechnik-bw-gmbh-oststeinbek-2500675557772",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L147"
+      },
+      {
+        "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
+        "locator": "L168"
+      }
+    ]
+  },
+  {
     "url": "https://www.varia-store.com/",
     "http_checked": false,
     "occurrences": [
@@ -117146,6 +117468,50 @@
     ]
   },
   {
+    "url": "https://www.visualvisitor.com/companies/5807095/Gemellaro-Systems-Integration",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L413"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L460"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L467"
+      },
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L94"
+      },
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L95"
+      },
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L183"
+      }
+    ]
+  },
+  {
+    "url": "https://www.visualvisitor.com/companies/5807095/Gemellaro-Systems-Integration〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-116-Gemellaro Systems Integration (GSI)-美国.md",
+        "locator": "L80"
+      }
+    ]
+  },
+  {
     "url": "https://www.visurissima.it/aziende/DPS-INFORMATICA-S.N.C.-DI-PRESELLO-GIANNI--C._01486330309.html",
     "http_checked": false,
     "occurrences": [
@@ -117829,15 +118195,11 @@
       },
       {
         "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
-        "locator": "L89"
+        "locator": "L93"
       },
       {
         "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
-        "locator": "L91"
-      },
-      {
-        "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
-        "locator": "L166"
+        "locator": "L95"
       }
     ]
   },
@@ -117865,11 +118227,11 @@
     "occurrences": [
       {
         "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
-        "locator": "L78"
+        "locator": "L81"
       },
       {
         "path": "profile/A/A-136-Alarm- und Sicherheitstechnik B.W. GmbH Schwerin-德国.md",
-        "locator": "L80"
+        "locator": "L83"
       }
     ]
   },
@@ -119492,6 +119854,16 @@
       {
         "path": "scripts/R66_R56_KP第19波_50户扩招落盘.py",
         "locator": "L170"
+      }
+    ]
+  },
+  {
+    "url": "https://www.xing.com/pages/alarm-undsicherheitstechnikb-w-gmbh",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批3.json",
+        "locator": "L126"
       }
     ]
   },
@@ -122059,7 +122431,7 @@
       },
       {
         "path": "profile/A/A-081-Profcon AB-瑞典.md",
-        "locator": "L101"
+        "locator": "L105"
       }
     ]
   },
@@ -122079,7 +122451,7 @@
     "occurrences": [
       {
         "path": "profile/A/A-081-Profcon AB-瑞典.md",
-        "locator": "L86"
+        "locator": "L88"
       }
     ]
   },
