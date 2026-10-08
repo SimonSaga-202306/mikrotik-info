@@ -153,7 +153,7 @@ ENRICH_FILES = [
     "batch/A类加厚_2026-09-28_R54_第16批.json",
     "batch/A类加厚_2026-09-28_R54_第17批.json",
 ]
-CN = ['零', '一', '二', '三', '四', '五', '六', '七', '八', '九', '十', '十一', '十二']
+CN = ['零', '一', '二', '三', '四', '五', '六', '七', '八', '九', '十', '十一', '十二', '十三', '十四']
 
 
 _SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -383,6 +383,28 @@ def load_enrichment_b():
 
 ENRICH_B = load_enrichment_b()
 
+# ── R67:A 类同谱竞合谱注(2026-10-08 用户令:A 类深挖补强)────────────────
+# MikroTik 官方分销位(CSV 类型列)户的竞合判定:授权位/服务网=不可替资产,
+# 我方谱策=补位不硬冲。只渲染,不改级。
+ENRICH_COOP_FILES = [
+    "batch/A类竞合谱注_2026-10-08_R67_批1.json",
+]
+
+
+def load_enrichment_coop():
+    out = {}
+    for rel in ENRICH_COOP_FILES:
+        path = rel if os.path.exists(rel) else os.path.join(_REPO_ROOT, rel)
+        if not os.path.exists(path):
+            continue
+        for rec in json.load(open(path, encoding="utf-8"))["records"]:
+            rec["_file"] = rel
+            out[rec["code"]] = rec
+    return out
+
+
+ENRICH_COOP = load_enrichment_coop()
+
 
 def _clear_stale_dossiers():
     """Remove old dossiers before regenerating.
@@ -527,6 +549,7 @@ def main():
                        signal=signal, ownbrand=ownbrand, angle=angle, sku=sku,
                        contact=contact, prio=prio, status=status, src=src, note=note,
                        why=why, rec=rec_a, rec55=rec55_a,
+                       coop=(ENRICH_COOP.get(code) if grade == "A" else None),
                        person=person, person_disp=(person or None), company=company,
                        mails=mails, tels=tels,
                        # R54 已有跟进步骤的户（frozen plan）优先保留；R56 定制只在无 R54 记录时补位
@@ -740,6 +763,21 @@ def main():
                 w("  > %s" % f["quote"])
                 w("  > 来源：%s" % f["url"])
             w("")
+
+        # 5.7 R67 同谱竞合谱注(A tier,MikroTik 官方分销位)
+        coop = ENRICH_COOP.get(code) if grade == "A" else None
+        if coop:
+            w("## %s、同谱竞合谱注（R67：MikroTik 官方分销位竞合判定）" % CN[sec])
+            w("")
+            w("> 谱注日期 **%s**；来源=CSV 类型/信号列+R54/R55 深挖档；原始记录：`%s`。"
+              "本节为定位判定，不改级、不改档。"
+              % (coop.get("researched_on", "—"), coop.get("_file", ENRICH_COOP_FILES[0])))
+            w("")
+            w("- **官方位**：MikroTik（%s）" % coop.get("level", "—"))
+            w("- **谱位**：%s" % coop.get("cat", "—"))
+            w("- **判定**：%s" % coop.get("note", "—"))
+            w("")
+            sec += 1
 
         # 6 cautions
         w("## %s、注意点" % CN[sec])

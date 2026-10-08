@@ -73,6 +73,7 @@ updated: 2026-09-28
 - **邮箱**：sales@roadtech.co.uk
   - 状态：既有/公开
 - **电话**：—
+- 来源等级：official-channel（R41–R48 联系方式台账口径）
 - **原始联系字段**：sales@roadtech.co.uk（另有 info@ / crm@roadtech.co.uk。公路货运/物流行业 IT，40 年历史）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:

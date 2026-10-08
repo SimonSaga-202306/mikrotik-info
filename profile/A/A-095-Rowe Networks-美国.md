@@ -74,6 +74,7 @@ updated: 2026-09-28
 - **邮箱**：—
   - 状态：缺失（leads-only 口径：人工补录前**不进群发**，与旧批次纪律一致）
 - **电话**：1-614-410-3535
+- 来源等级：official-channel（R41–R48 联系方式台账口径）
 - **原始联系字段**：1-614-410-3535；⚠️ 无邮箱：rowewireless.com 仅表单｜Site 只有联络表单。具名：Joshua Rowe（Business Owner，ZoomInfo 收录）。可试 joshua@/josh@ 前缀或表单
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 

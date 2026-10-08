@@ -75,6 +75,7 @@ updated: 2026-09-28
 - **邮箱**：info@dside.nl
   - 状态：既有/公开
 - **电话**：—
+- 来源等级：official-channel（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@dside.nl（官网 contact 页。D-Side Telecom 所有者；持 **MTCSWE**（2023-07 发，2026-07 到期）；**2026 年在布拉格 MTPC 大会讲过 MikroTik spine-leaf 交换** → 技术深度高、活跃）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 

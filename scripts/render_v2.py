@@ -406,6 +406,20 @@ def render(e, ctx):
             w('- **%s**：%s' % (_k, _v))
         w('')
 
+    # ---- R67 同谱竞合谱注（A tier · MikroTik 官方分销位） ----
+    _coop = ctx.get('coop')
+    if _coop:
+        w('## 同谱竞合谱注（R67：MikroTik 官方分销位竞合判定）')
+        w('')
+        w('> 谱注日期 **%s**；来源=CSV 类型/信号列+R54/R55 深挖档；原始记录：`%s`。'
+          '本节为定位判定，不改级、不改档。'
+          % (_coop.get('researched_on', '—'), _coop.get('_file', '—')))
+        w('')
+        w('- **官方位**：MikroTik（%s）' % _coop.get('level', '—'))
+        w('- **谱位**：%s' % _coop.get('cat', '—'))
+        w('- **判定**：%s' % _coop.get('note', '—'))
+        w('')
+
     # ---- 产品决策 ----
     w('## 产品决策（Saga · 单一决策口径）')
     w('')

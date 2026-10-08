@@ -75,6 +75,7 @@ MikroTik 栈(MTCNA/MTCEWE 企业无线)
 - **邮箱**：studio4face@gmail.com
   - 状态：既有/公开
 - **电话**：+380 67 551 7229
+- 来源等级：official-channel（R41–R48 联系方式台账口径）
 - **原始联系字段**：+380 67 551 7229 / studio4face@gmail.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 

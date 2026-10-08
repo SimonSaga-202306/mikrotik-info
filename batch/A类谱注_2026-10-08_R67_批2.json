@@ -1,0 +1,46 @@
+{
+ "date": "2026-10-08",
+ "scope": "R67 A 类深挖补强批2：人工档清理 3 档(A-205 守档撤钉/A-212 军工谱口闭门/A-215 SIM NT 并购更名事件)+A-001 EN/PUMA 叠段邮箱二钉守档",
+ "records": [
+  {
+   "code": "A-205",
+   "name": "Luca Masetto",
+   "country": "意大利",
+   "track": "人工档清理（守档）",
+   "note": "R67 三搜二钉：公开网检索「Luca Masetto + 网络/Allied Telesis」无匹配命中；唯一公开锚=Allied Telesis 独立伙伴页（址 Via Cavin di Sala 17, Santa Maria di Sala VE 30036)，页内无邮箱/电话；LinkedIn 同名人均按排噪处理（无任何 Allied/网络行业锚）。结论=个人独立顾问形态，公开域无可证触点。",
+   "status": "守档（公开证据缺位=合规终态；不臆造外链，不投首触）",
+   "evidence": [],
+   "action": "档注：保持守档口径；后续补证窗=Allied Telesis 意大利渠道部人工问询。"
+  },
+  {
+   "code": "A-212",
+   "name": "S.C.E Telecomunicazioni S.r.l",
+   "country": "意大利",
+   "track": "人工档清理（军工谱口）",
+   "note": "二钉成案：P.IVA 08399381006 一钉（informazione-aziende.it / Atoka)；电话 06 91801489 黄页 verificato；址 Via Rattazzi Urbano 3, Pomezia RM;ATECO 46.52.09；营业额约 150 万欧。Atoka 经营范围含「apparecchiature...in ambito militare」，即军工/军安类设备与系统。Saga 谱位不做军工口（规制面），故不投首触、不推样机。",
+   "status": "守档（MIL 谱口闭门=不售不推；合规终态）",
+   "evidence": ["https://www.informazione-aziende.it/Azienda_SCE-TELECOMUNICAZIONI-SRL", "https://atoka.io/public/it/azienda/sce-telecomunicazioni-srl-o-in-forma-abbreviata-sce-srl/97eb68904abb"],
+   "action": "档注：MIL 谱口=OFF；后续若该户改投民用批发线再重评。"
+  },
+  {
+   "code": "A-215",
+   "name": "SIM NT srl",
+   "country": "意大利",
+   "track": "人工档清理（并购更名事件）",
+   "note": "重大档事件：：：按 ASL Bari 2024-11-27 公文 (DETER_20240009327),EULOGIC S.R.L. 于 2024-11-01 并入 SIM NT S.R.L.，合并体随之改名 EULOGIC NT S.P.A.,P.IVA 04863810729 由合并体继承（原 SIM NT srl 主体消亡）；锚证：amministrazionicomunali MePA 页（址 Via Ugo La Malfa 7, tel 0805640511, MePA 22 项参与/2017),Politecnico Bari 2022-05 购 Dell XPS 17 €2.890 判例。",
+   "status": "守档（并购更名完毕；现有档名 SIM NT srl 已过时，应改 EULOGIC NT S.P.A.;CSV 口暂不改，等人审）",
+   "evidence": ["https://www.asl.bari.it/pdf/DETER_20240009327.pdf", "https://www.amministrazionicomunali.it/puglia/bari/sim-nt-srl", "https://www.poliba.it/sites/default/files/determina_a_contrarre_sim_nt_capolupo.pdf"],
+   "action": "档注：待人工复核后改档名/入口为 EULOGIC NT S.P.A.;tel 0805640511 与 www.simnt.it 均按「未核」口径保留。"
+  },
+  {
+   "code": "A-001",
+   "name": "Puma Solutions ApS",
+   "country": "丹麦",
+   "track": "邮箱二钉固链（EN/PUMA 叠段）",
+   "note": "A-001 档带 EN/PUMA 两段谱注：EN 段谱 rfi@pumait.dk（官网公开角色邮箱；补钉批 2 已上 5 证）;R66 KP 段另存「模式猜测·未验证（MX 已验 Google)」firstname@pumait.dk。模式猜测抽屉口径：不投、不验证、不升级；R67 二钉=该猜测公式保持守档，不给新谓词。",
+   "status": "守档（模式猜测抽屉保持；角色邮箱走正核）",
+   "evidence": ["https://pumait.dk/", "https://www.pumait.dk/contactus"],
+   "action": "档注：电子邮件只认 rfi@pumait.dk;firstname@pumait.dk 继续标记「模式猜测·未验证」，禁止进群发。"
+  }
+ ]
+}

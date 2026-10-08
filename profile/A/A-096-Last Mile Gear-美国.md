@@ -74,6 +74,7 @@ updated: 2026-09-28
 - **邮箱**：sales@lastmilegear.com
   - 状态：既有/公开
 - **电话**：2026-09-29
+- 来源等级：official-channel（R41–R48 联系方式台账口径）
 - **原始联系字段**：sales@lastmilegear.com【主通道】；X（@LastMileGear）第三通道；info@lastmilegear.com【永久停用：2026-09-29 退信 not-found】。自述卖 Cambium / SAF 等 WISP 设备
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 

@@ -1,0 +1,1971 @@
+{
+ "date": "2026-10-08",
+ "scope": "R67 A 类深挖补强批1:同谱竞合谱注 131 档(分销(MikroTik 官方)类型列口径;Master 24/Reseller 62/Master+VAD 44/WiFi6 1;纯客户语料分类)",
+ "records": [
+  {
+   "code": "A-001",
+   "name": "Puma Solutions ApS",
+   "country": "丹麦",
+   "level": "Reseller",
+   "cat": "ISP 接入",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=ISP/运营商位:补位谱=PoE watchdog/大功率接入件(MT 空档)+上行收敛比话题;不谈替代 MT 路由核。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-010",
+   "name": "Wireless Netware",
+   "country": "加拿大",
+   "level": "Master+VAD",
+   "cat": "ISP 接入",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=ISP/运营商位:补位谱=PoE watchdog/大功率接入件(MT 空档)+上行收敛比话题;不谈替代 MT 路由核。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-024",
+   "name": "HellasCom L.t.d.",
+   "country": "希腊",
+   "level": "Master+VAD",
+   "cat": "安防接入",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=安防集成位:补位谱=PoE++ 大功率(PTZ)/工业温宽位,摄像接入层对口。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-031",
+   "name": "VARIA System GmbH",
+   "country": "德国",
+   "level": "Master+VAD",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-365",
+   "name": "Nexus Networks",
+   "country": "马耳他",
+   "level": "Reseller",
+   "cat": "酒店接入",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=酒店位:补位谱=客房接入 PoE+IPTV 组播位。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-379",
+   "name": "Optitera Global Networks Inc.",
+   "country": "加拿大",
+   "level": "Reseller",
+   "cat": "ISP 接入",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=ISP/运营商位:补位谱=PoE watchdog/大功率接入件(MT 空档)+上行收敛比话题;不谈替代 MT 路由核。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-380",
+   "name": "WISP.PL",
+   "country": "波兰",
+   "level": "Master+VAD",
+   "cat": "ISP 接入",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=ISP/运营商位:补位谱=PoE watchdog/大功率接入件(MT 空档)+上行收敛比话题;不谈替代 MT 路由核。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-382",
+   "name": "MS Dist.",
+   "country": "英国",
+   "level": "Reseller",
+   "cat": "ISP 接入",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=ISP/运营商位:补位谱=PoE watchdog/大功率接入件(MT 空档)+上行收敛比话题;不谈替代 MT 路由核。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-383",
+   "name": "Makro Wisp",
+   "country": "美国",
+   "level": "Reseller",
+   "cat": "ISP 接入",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=ISP/运营商位:补位谱=PoE watchdog/大功率接入件(MT 空档)+上行收敛比话题;不谈替代 MT 路由核。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-384",
+   "name": "WispMax",
+   "country": "意大利",
+   "level": "Reseller",
+   "cat": "ISP 接入",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=ISP/运营商位:补位谱=PoE watchdog/大功率接入件(MT 空档)+上行收敛比话题;不谈替代 MT 路由核。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-424",
+   "name": "WIFIPROFI.CZ",
+   "country": "捷克",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-432",
+   "name": "DEPS",
+   "country": "乌克兰",
+   "level": "Master+VAD",
+   "cat": "ISP 接入",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=ISP/运营商位:补位谱=PoE watchdog/大功率接入件(MT 空档)+上行收敛比话题;不谈替代 MT 路由核。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-433",
+   "name": "Lanbox",
+   "country": "乌克兰",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-434",
+   "name": "Lanmarket",
+   "country": "乌克兰",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-435",
+   "name": "Lantorg",
+   "country": "乌克兰",
+   "level": "Reseller",
+   "cat": "ISP 接入",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=ISP/运营商位:补位谱=PoE watchdog/大功率接入件(MT 空档)+上行收敛比话题;不谈替代 MT 路由核。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-436",
+   "name": "Lux-Mobil",
+   "country": "乌克兰",
+   "level": "Reseller",
+   "cat": "安防接入",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=安防集成位:补位谱=PoE++ 大功率(PTZ)/工业温宽位,摄像接入层对口。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-437",
+   "name": "Network Discount",
+   "country": "乌克兰",
+   "level": "Reseller",
+   "cat": "安防接入",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=安防集成位:补位谱=PoE++ 大功率(PTZ)/工业温宽位,摄像接入层对口。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-438",
+   "name": "Setevuha",
+   "country": "乌克兰",
+   "level": "Reseller",
+   "cat": "安防接入",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=安防集成位:补位谱=PoE++ 大功率(PTZ)/工业温宽位,摄像接入层对口。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-439",
+   "name": "Technotrade LLC",
+   "country": "乌克兰",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-440",
+   "name": "Viatec",
+   "country": "乌克兰",
+   "level": "Master+VAD",
+   "cat": "安防接入",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=安防集成位:补位谱=PoE++ 大功率(PTZ)/工业温宽位,摄像接入层对口。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-441",
+   "name": "Dipole Wireless Communication",
+   "country": "以色列",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-442",
+   "name": "MTBG OOD（mikrotikbg.shop）",
+   "country": "保加利亚",
+   "level": "Master+VAD",
+   "cat": "机房谱",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=云/主机位:补位谱=机架接入/管理口 PoE 分路。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-443",
+   "name": "Rootelsat, Ltd.（vesuviustreamline.com）",
+   "country": "保加利亚",
+   "level": "Reseller",
+   "cat": "安防接入",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=安防集成位:补位谱=PoE++ 大功率(PTZ)/工业温宽位,摄像接入层对口。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-445",
+   "name": "JRS Global Technologies Ltd",
+   "country": "加拿大",
+   "level": "Master+VAD",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-446",
+   "name": "MBSI WAV",
+   "country": "加拿大",
+   "level": "Master+VAD",
+   "cat": "ISP 接入",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=ISP/运营商位:补位谱=PoE watchdog/大功率接入件(MT 空档)+上行收敛比话题;不谈替代 MT 路由核。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-447",
+   "name": "Mahkesis Group Inc.",
+   "country": "加拿大",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-448",
+   "name": "Solimedia Technology Inc",
+   "country": "加拿大",
+   "level": "Master+VAD",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-451",
+   "name": "AbsolCom Kft.",
+   "country": "匈牙利",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-452",
+   "name": "AccessPoint Kft.",
+   "country": "匈牙利",
+   "level": "Master",
+   "cat": "机房谱",
+   "note": "该户为 MikroTik 官方分销(Master)+Master 大师谱:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=云/主机位:补位谱=机架接入/管理口 PoE 分路。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-454",
+   "name": "Wireless-Bolt",
+   "country": "匈牙利",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-455",
+   "name": "ALL4NET DOOEL",
+   "country": "北马其顿",
+   "level": "Master+VAD",
+   "cat": "无线网络",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=无线位:补位谱=60GHz/户外谱空档+接入层 PoE。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-456",
+   "name": "Treco",
+   "country": "北马其顿",
+   "level": "Master",
+   "cat": "安防接入",
+   "note": "该户为 MikroTik 官方分销(Master)+Master 大师谱:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=安防集成位:补位谱=PoE++ 大功率(PTZ)/工业温宽位,摄像接入层对口。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-457",
+   "name": "C TECH BILISIM（enucuzmikrotik.com）",
+   "country": "土耳其",
+   "level": "Reseller",
+   "cat": "机房谱",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=云/主机位:补位谱=机架接入/管理口 PoE 分路。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-458",
+   "name": "COOLTECH TRADING",
+   "country": "土耳其",
+   "level": "Master",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master)+Master 大师谱:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-459",
+   "name": "Internetten Ltd.（wi.com.tr）",
+   "country": "土耳其",
+   "level": "Master",
+   "cat": "ISP 接入",
+   "note": "该户为 MikroTik 官方分销(Master)+Master 大师谱:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=ISP/运营商位:补位谱=PoE watchdog/大功率接入件(MT 空档)+上行收敛比话题;不谈替代 MT 路由核。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-460",
+   "name": "NODENET GLOBAL",
+   "country": "土耳其",
+   "level": "Master+VAD",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-461",
+   "name": "Net Vizyon（4mimo.com）",
+   "country": "土耳其",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-463",
+   "name": "Poyraz Network",
+   "country": "土耳其",
+   "level": "Master+VAD",
+   "cat": "培训中心",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=培训位:谱策=样机+课程内案(INFLUENCE 谱),不谈返点。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-464",
+   "name": "Sekuritim Bilisim",
+   "country": "土耳其",
+   "level": "Reseller",
+   "cat": "安防接入",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=安防集成位:补位谱=PoE++ 大功率(PTZ)/工业温宽位,摄像接入层对口。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-465",
+   "name": "Sis Bil tek（wifianten.com）",
+   "country": "土耳其",
+   "level": "Master+VAD",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-466",
+   "name": "3NET",
+   "country": "塞尔维亚",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-467",
+   "name": "Pixel Network LLC",
+   "country": "塞尔维亚",
+   "level": "Reseller",
+   "cat": "安防接入",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=安防集成位:补位谱=PoE++ 大功率(PTZ)/工业温宽位,摄像接入层对口。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-468",
+   "name": "QEDV IT-Lösungen（Raum4 GmbH）",
+   "country": "奥地利",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-469",
+   "name": "TRIOTRONIK",
+   "country": "奥地利",
+   "level": "Master",
+   "cat": "培训中心",
+   "note": "该户为 MikroTik 官方分销(Master)+Master 大师谱:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=培训位:谱策=样机+课程内案(INFLUENCE 谱),不谈返点。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-470",
+   "name": "evoNET",
+   "country": "奥地利",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-472",
+   "name": "CABLEWORKS",
+   "country": "希腊",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-473",
+   "name": "E-WIRELESS",
+   "country": "希腊",
+   "level": "Master",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master)+Master 大师谱:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-474",
+   "name": "Hellas Digital",
+   "country": "希腊",
+   "level": "Master",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master)+Master 大师谱:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-475",
+   "name": "XPATIT S.A.",
+   "country": "希腊",
+   "level": "Master+VAD",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-476",
+   "name": "wirelesslan.gr - Teledata e.e.",
+   "country": "希腊",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-477",
+   "name": "4Networks IT-Distribution（OMG.de）",
+   "country": "德国",
+   "level": "Master+VAD",
+   "cat": "机房谱",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=云/主机位:补位谱=机架接入/管理口 PoE 分路。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-479",
+   "name": "FMS Internetservice（mikrotik-shop.de）",
+   "country": "德国",
+   "level": "Master+VAD",
+   "cat": "ISP 接入",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=ISP/运营商位:补位谱=PoE watchdog/大功率接入件(MT 空档)+上行收敛比话题;不谈替代 MT 路由核。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-481",
+   "name": "I-NetPartner GmbH（mikrotik-store.eu）",
+   "country": "德国",
+   "level": "Master+VAD",
+   "cat": "ISP 接入",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=ISP/运营商位:补位谱=PoE watchdog/大功率接入件(MT 空档)+上行收敛比话题;不谈替代 MT 路由核。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-483",
+   "name": "NSR One GmbH（nsr-tik.com）",
+   "country": "德国",
+   "level": "Master",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master)+Master 大师谱:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-484",
+   "name": "Neunetia GmbH",
+   "country": "德国",
+   "level": "Master",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master)+Master 大师谱:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-485",
+   "name": "C1V Hosting",
+   "country": "意大利",
+   "level": "Reseller",
+   "cat": "机房谱",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=云/主机位:补位谱=机架接入/管理口 PoE 分路。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-487",
+   "name": "MARCOM S.r.l.",
+   "country": "意大利",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-488",
+   "name": "SELIT s.r.l（wirmax.net）",
+   "country": "意大利",
+   "level": "Reseller",
+   "cat": "无线网络",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=无线位:补位谱=60GHz/户外谱空档+接入层 PoE。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-489",
+   "name": "SICE Telecomunicazioni",
+   "country": "意大利",
+   "level": "Master+VAD",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-490",
+   "name": "WISP STORE SRLS",
+   "country": "意大利",
+   "level": "Reseller",
+   "cat": "ISP 接入",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=ISP/运营商位:补位谱=PoE watchdog/大功率接入件(MT 空档)+上行收敛比话题;不谈替代 MT 路由核。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-491",
+   "name": "NetPro SIA（nasstore.eu）",
+   "country": "拉脱维亚",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-492",
+   "name": "SPX, SIA（router.lv）",
+   "country": "拉脱维亚",
+   "level": "Master+VAD",
+   "cat": "机房谱",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=云/主机位:补位谱=机架接入/管理口 PoE 分路。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-494",
+   "name": "AIRCOM Praha s.r.o.",
+   "country": "捷克",
+   "level": "Master+VAD",
+   "cat": "ISP 接入",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=ISP/运营商位:补位谱=PoE watchdog/大功率接入件(MT 空档)+上行收敛比话题;不谈替代 MT 路由核。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-495",
+   "name": "Discomp s.r.o.",
+   "country": "捷克",
+   "level": "Master+VAD+WiFi6",
+   "cat": "机房谱",
+   "note": "该户为 MikroTik 官方分销(Master+VAD+WiFi6)+VAD+WiFi6 顶谱:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=云/主机位:补位谱=机架接入/管理口 PoE 分路。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-496",
+   "name": "IPMEDIA",
+   "country": "捷克",
+   "level": "Master+VAD",
+   "cat": "无线网络",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=无线位:补位谱=60GHz/户外谱空档+接入层 PoE。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-498",
+   "name": "VanCo.cz s.r.o.（wifi-shop.cz）",
+   "country": "捷克",
+   "level": "Master",
+   "cat": "安防接入",
+   "note": "该户为 MikroTik 官方分销(Master)+Master 大师谱:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=安防集成位:补位谱=PoE++ 大功率(PTZ)/工业温宽位,摄像接入层对口。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-499",
+   "name": "i4wifi a.s.",
+   "country": "捷克",
+   "level": "Master+VAD",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-500",
+   "name": "TIMES NETWORKS（lancentrum）",
+   "country": "斯洛伐克",
+   "level": "Master",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master)+Master 大师谱:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-501",
+   "name": "SmartEye BV（wifistock.be）",
+   "country": "比利时",
+   "level": "Master+VAD",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-504",
+   "name": "Azurtem",
+   "country": "法国",
+   "level": "Master+VAD",
+   "cat": "机房谱",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=云/主机位:补位谱=机架接入/管理口 PoE 分路。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-505",
+   "name": "GROUPE CONVERGENCE SAS",
+   "country": "法国",
+   "level": "Master+VAD",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-506",
+   "name": "MHz Wireless",
+   "country": "法国",
+   "level": "Master",
+   "cat": "ISP 接入",
+   "note": "该户为 MikroTik 官方分销(Master)+Master 大师谱:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=ISP/运营商位:补位谱=PoE watchdog/大功率接入件(MT 空档)+上行收敛比话题;不谈替代 MT 路由核。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-507",
+   "name": "NFTECH - WIFI France",
+   "country": "法国",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-508",
+   "name": "Aenet.pl（alfaextranet.pl）",
+   "country": "波兰",
+   "level": "Master",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master)+Master 大师谱:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-510",
+   "name": "Batna（anteny24.pl）",
+   "country": "波兰",
+   "level": "Master+VAD",
+   "cat": "ISP 接入",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=ISP/运营商位:补位谱=PoE watchdog/大功率接入件(MT 空档)+上行收敛比话题;不谈替代 MT 路由核。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-511",
+   "name": "CDR P.S.A.",
+   "country": "波兰",
+   "level": "Master+VAD",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-513",
+   "name": "FIBERM sp. z o.o.",
+   "country": "波兰",
+   "level": "Reseller",
+   "cat": "ISP 接入",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=ISP/运营商位:补位谱=PoE watchdog/大功率接入件(MT 空档)+上行收敛比话题;不谈替代 MT 路由核。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-514",
+   "name": "Konsorcjum ATS",
+   "country": "波兰",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-515",
+   "name": "WiFi24",
+   "country": "波兰",
+   "level": "Master",
+   "cat": "无线网络",
+   "note": "该户为 MikroTik 官方分销(Master)+Master 大师谱:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=无线位:补位谱=60GHz/户外谱空档+接入层 PoE。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-516",
+   "name": "iWave Group S.A.",
+   "country": "波兰",
+   "level": "Reseller",
+   "cat": "培训中心",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=培训位:谱策=样机+课程内案(INFLUENCE 谱),不谈返点。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-517",
+   "name": "Winncom Technologies（Dublin）",
+   "country": "爱尔兰",
+   "level": "Master+VAD",
+   "cat": "ISP 接入",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=ISP/运营商位:补位谱=PoE watchdog/大功率接入件(MT 空档)+上行收敛比话题;不谈替代 MT 路由核。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-518",
+   "name": "Kernel AS",
+   "country": "爱沙尼亚",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-519",
+   "name": "Sonictest OÜ",
+   "country": "爱沙尼亚",
+   "level": "Reseller",
+   "cat": "无线网络",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=无线位:补位谱=60GHz/户外谱空档+接入层 PoE。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-520",
+   "name": "AxByte（netdist.se）",
+   "country": "瑞典",
+   "level": "Master+VAD",
+   "cat": "ISP 接入",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=ISP/运营商位:补位谱=PoE watchdog/大功率接入件(MT 空档)+上行收敛比话题;不谈替代 MT 路由核。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-521",
+   "name": "Satellithuset i Limmared AB（routerboard.se）",
+   "country": "瑞典",
+   "level": "Master",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master)+Master 大师谱:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-522",
+   "name": "ENGITECH S.A.",
+   "country": "瑞士",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-523",
+   "name": "INOVIS Live Automation AG",
+   "country": "瑞士",
+   "level": "Reseller",
+   "cat": "工业现场",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=工业位:补位谱=DIN 导轨/宽温/ERPS(MT 弱档);先问现场工况与认证。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-525",
+   "name": "Wifx SA",
+   "country": "瑞士",
+   "level": "Master",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master)+Master 大师谱:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-526",
+   "name": "KosProd",
+   "country": "科索沃",
+   "level": "Master",
+   "cat": "安防接入",
+   "note": "该户为 MikroTik 官方分销(Master)+Master 大师谱:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=安防集成位:补位谱=PoE++ 大功率(PTZ)/工业温宽位,摄像接入层对口。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-527",
+   "name": "Netter System SRL（mikrotik.ro）",
+   "country": "罗马尼亚",
+   "level": "Master+VAD",
+   "cat": "ISP 接入",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=ISP/运营商位:补位谱=PoE watchdog/大功率接入件(MT 空档)+上行收敛比话题;不谈替代 MT 路由核。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-528",
+   "name": "Wifimag.ro",
+   "country": "罗马尼亚",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-529",
+   "name": "4Net Networking, Corp.",
+   "country": "美国",
+   "level": "Master+VAD",
+   "cat": "ISP 接入",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=ISP/运营商位:补位谱=PoE watchdog/大功率接入件(MT 空档)+上行收敛比话题;不谈替代 MT 路由核。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-530",
+   "name": "Altanet Corporation",
+   "country": "美国",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-531",
+   "name": "Baltic Network",
+   "country": "美国",
+   "level": "Master+VAD",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-532",
+   "name": "Business Systems Connection, Inc.",
+   "country": "美国",
+   "level": "Reseller",
+   "cat": "安防接入",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=安防集成位:补位谱=PoE++ 大功率(PTZ)/工业温宽位,摄像接入层对口。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-533",
+   "name": "CTIconnect LLC",
+   "country": "美国",
+   "level": "Reseller",
+   "cat": "无线网络",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=无线位:补位谱=60GHz/户外谱空档+接入层 PoE。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-534",
+   "name": "Digicomm International",
+   "country": "美国",
+   "level": "Master+VAD",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-535",
+   "name": "DoubleRadius, Inc.",
+   "country": "美国",
+   "level": "Reseller",
+   "cat": "ISP 接入",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=ISP/运营商位:补位谱=PoE watchdog/大功率接入件(MT 空档)+上行收敛比话题;不谈替代 MT 路由核。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-536",
+   "name": "Flytec Computers",
+   "country": "美国",
+   "level": "Master+VAD",
+   "cat": "安防接入",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=安防集成位:补位谱=PoE++ 大功率(PTZ)/工业温宽位,摄像接入层对口。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-537",
+   "name": "Hexstar",
+   "country": "美国",
+   "level": "Reseller",
+   "cat": "无线网络",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=无线位:补位谱=60GHz/户外谱空档+接入层 PoE。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-538",
+   "name": "Interamerican Tech Corp.",
+   "country": "美国",
+   "level": "Reseller",
+   "cat": "安防接入",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=安防集成位:补位谱=PoE++ 大功率(PTZ)/工业温宽位,摄像接入层对口。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-539",
+   "name": "Itshopp.com",
+   "country": "美国",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-540",
+   "name": "Microcom Technologies",
+   "country": "美国",
+   "level": "Master+VAD",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-542",
+   "name": "Multilink Solutions",
+   "country": "美国",
+   "level": "Master",
+   "cat": "ISP 接入",
+   "note": "该户为 MikroTik 官方分销(Master)+Master 大师谱:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=ISP/运营商位:补位谱=PoE watchdog/大功率接入件(MT 空档)+上行收敛比话题;不谈替代 MT 路由核。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-543",
+   "name": "NACE Inc（North American Cable）",
+   "country": "美国",
+   "level": "Master",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master)+Master 大师谱:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-544",
+   "name": "ROC-NOC",
+   "country": "美国",
+   "level": "Master+VAD",
+   "cat": "ISP 接入",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=ISP/运营商位:补位谱=PoE watchdog/大功率接入件(MT 空档)+上行收敛比话题;不谈替代 MT 路由核。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-545",
+   "name": "Streakwave",
+   "country": "美国",
+   "level": "Master",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master)+Master 大师谱:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-549",
+   "name": "4Gon",
+   "country": "英国",
+   "level": "Reseller",
+   "cat": "安防接入",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=安防集成位:补位谱=PoE++ 大功率(PTZ)/工业温宽位,摄像接入层对口。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-550",
+   "name": "Comms Express Ltd",
+   "country": "英国",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-551",
+   "name": "Liberty-izone Ltd.",
+   "country": "英国",
+   "level": "Master",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master)+Master 大师谱:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-552",
+   "name": "NetXL Distribution Ltd.",
+   "country": "英国",
+   "level": "Master",
+   "cat": "机房谱",
+   "note": "该户为 MikroTik 官方分销(Master)+Master 大师谱:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=云/主机位:补位谱=机架接入/管理口 PoE 分路。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-554",
+   "name": "VoiceHost Limited",
+   "country": "英国",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-555",
+   "name": "broadbandbuyer.com",
+   "country": "英国",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-557",
+   "name": "Routershop.nl",
+   "country": "荷兰",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-558",
+   "name": "SDC Group",
+   "country": "荷兰",
+   "level": "Master+VAD",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-559",
+   "name": "Wimood（wimoodshop.nl）",
+   "country": "荷兰",
+   "level": "Master+VAD",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-561",
+   "name": "Officelan",
+   "country": "葡萄牙",
+   "level": "Master+VAD",
+   "cat": "安防接入",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=安防集成位:补位谱=PoE++ 大功率(PTZ)/工业温宽位,摄像接入层对口。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-562",
+   "name": "CiudadWireless",
+   "country": "西班牙",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-563",
+   "name": "DITECAL S.L",
+   "country": "西班牙",
+   "level": "Reseller",
+   "cat": "ISP 接入",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=ISP/运营商位:补位谱=PoE watchdog/大功率接入件(MT 空档)+上行收敛比话题;不谈替代 MT 路由核。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-564",
+   "name": "Instant Byte S.L.",
+   "country": "西班牙",
+   "level": "Master+VAD",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-565",
+   "name": "LAUFQUEN COMUNICACIONES",
+   "country": "西班牙",
+   "level": "Master+VAD",
+   "cat": "ISP 接入",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=ISP/运营商位:补位谱=PoE watchdog/大功率接入件(MT 空档)+上行收敛比话题;不谈替代 MT 路由核。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-567",
+   "name": "RIDMONT D.O.O.",
+   "country": "黑山",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-570",
+   "name": "Ronitek",
+   "country": "以色列",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-571",
+   "name": "Triple core",
+   "country": "以色列",
+   "level": "Reseller",
+   "cat": "ISP 接入",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=ISP/运营商位:补位谱=PoE watchdog/大功率接入件(MT 空档)+上行收敛比话题;不谈替代 MT 路由核。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-572",
+   "name": "Cy-Wireless（art2soft）",
+   "country": "塞浦路斯",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-573",
+   "name": "etree GmbH",
+   "country": "德国",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-574",
+   "name": "Dnet-Distribution",
+   "country": "意大利",
+   "level": "Master+VAD",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-577",
+   "name": "PEC SISTEMI d.o.o.（tehnox.si）",
+   "country": "斯洛文尼亚",
+   "level": "Reseller",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Reseller):其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-578",
+   "name": "TAKOPI GEORGIA（smart-network.ge）",
+   "country": "格鲁吉亚",
+   "level": "Master+VAD",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master+VAD)+VAD 认证价值型:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-579",
+   "name": "EDOX SAS",
+   "country": "法国",
+   "level": "Master",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master)+Master 大师谱:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  },
+  {
+   "code": "A-582",
+   "name": "Vodanet Systems LLC",
+   "country": "美国",
+   "level": "Master",
+   "cat": "通用分销",
+   "note": "该户为 MikroTik 官方分销(Master)+Master 大师谱:其 MikroTik 授权位/服务网=不可替资产,我方不与 MT 官方线硬碰;谱策=通用位:非 MT 空档(工业 PoE/大功率 24/48V)补位+价谱情报互织。报价纪律=补位不硬冲(MT 有 SKU 的型号不报价;MT 空档报 STC/STI 谱)。",
+   "sources": [
+    [
+     1,
+     "仓内:客户名单_反向信号_2026-09.csv(类型/反向信号列)+R54/R55 dimensions"
+    ]
+   ],
+   "researched_on": "2026-10-08"
+  }
+ ]
+}

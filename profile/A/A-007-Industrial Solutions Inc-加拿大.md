@@ -73,6 +73,7 @@ updated: 2026-09-28
 - **邮箱**：sales@indsol.com
   - 状态：待核·未验证投递（不进群发）
 - **电话**：780.460.9533、866.460.9533
+- 来源等级：official-channel（R41–R48 联系方式台账口径）
 - **原始联系字段**：sales@indsol.com；电话 780.460.9533（免费 866.460.9533）。具名：Bob Moser（Managing Partner）、Amy Hunter（Managing Partner）；该公司邮箱格式为 {first}@indsol.com（bob@/amy@ 属推测，未验证）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:

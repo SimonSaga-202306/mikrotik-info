@@ -74,6 +74,7 @@ updated: 2026-09-28
 - **邮箱**：—
   - 状态：缺失（leads-only 口径：人工补录前**不进群发**，与旧批次纪律一致）
 - **电话**：+44 (0) 207 538 8701
+- 来源等级：official-channel（R41–R48 联系方式台账口径）
 - **原始联系字段**：+44 (0) 207 538 8701；⚠️ 无直接邮箱：域名 dacceurope.com｜具名 Chris Yearwood（Director of Operations）、Jon H（Head of Railway Division Comms）。**有铁路通信部门** → 工业/轨交场景强对口，值得人工解锁 @dacceurope.com 姓名邮箱
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:

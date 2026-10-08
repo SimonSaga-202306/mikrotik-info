@@ -5,6 +5,7 @@
 
 | Commit | 提交时间（原始时区） | 说明 |
 |---|---|---|
+| `37ea9a2bf4b4` | 2026-10-08T14:48:51+00:00 | R67 证据补钉批1-2:A/B 待补证 273 档(A119+B154)机械转写为 contact_research 结构化档(零臆造;28 守档实体守档模板明示);source_status 结构化 483→756,A/B 域内待补证清零(剩 C 280 按令不碰);总账第113章;audit errors:0(1424);tests 29 OK |
 | `aa8aa5a60c13` | 2026-10-08T14:35:31+00:00 | R67 推土机深挖批13(收关批):B 类档序收批乌专批十户(ELKO Ukraine $2B/ERC 31年奥地利控股/MTI 35年乌首家AEO-C/Omnilink运营商级专业谱/VIP三证顾问/RIM2000 32年三城/WinTik安防电商/Coders深网工三证金矿+Nagornyi/Maksymenko双守界档);KP 24;facts 42 全 URL;**B 类 167 档推土机深挖 100% 全覆盖达成**;总账批13收关章(第112章);audit errors:0(1422) |
 | `3f76d95327d4` | 2026-10-08T14:21:42+00:00 | R67 推土机深挖批12:B 类档序续批三十户(VODENN Pistolesi 家族/Sanuk 泰-瑞双国+67%增长/ALLNET France Gonon 父子交接/NETCOM MVNO 27M€/GPE MikroTik consultant 直谱★★★/Fiseg 3.1M€ 3人董全钉/TECON 33年工控/Agulló 守界降级档/SHOP-GSM 19年四城/Romsat 32年4国)全谱深挖;KP 21;facts 43 全 URL;总账批12章(第111章);audit errors:0(1421);tests 29 OK |
 | `f06860a57cd8` | 2026-10-08T13:14:28+00:00 | R67 推土机深挖批11:B 类档序续批二十户(Dipol Connect/MS Electronics/ICT INTERNATIONAL/Perpi.tech/Solution Box/eD system/Telasys/IEI USA/Comitek/Alltron)全谱深挖;KP 49;facts 40 全 URL;总账批11章(第110章);audit errors:0(1420) |

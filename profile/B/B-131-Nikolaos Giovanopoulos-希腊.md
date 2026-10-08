@@ -75,6 +75,7 @@ CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 - **邮箱**：ngiovanopoulos@ien.gr
   - 状态：既有/公开
 - **电话**：+30 694 347 5654
+- 来源等级：official-channel（R41–R48 联系方式台账口径）
 - **原始联系字段**：+30 694 347 5654 / ngiovanopoulos@ien.gr
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 

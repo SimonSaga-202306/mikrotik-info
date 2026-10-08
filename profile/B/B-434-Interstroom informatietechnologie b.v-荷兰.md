@@ -75,6 +75,7 @@ STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
 - **邮箱**：sales@interstroom.nl
   - 状态：既有/公开
 - **电话**：+31 74 245 20 50
+- 来源等级：official-channel（R41–R48 联系方式台账口径）
 - **原始联系字段**：+31 74 245 20 50 / sales@interstroom.nl
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:

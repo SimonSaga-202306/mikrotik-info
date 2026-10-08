@@ -76,6 +76,7 @@ STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
 - **邮箱**：santiagoayodar@hotmail.com
   - 状态：既有/公开
 - **电话**：+34 960 802 505
+- 来源等级：official-channel（R41–R48 联系方式台账口径）
 - **原始联系字段**：+34 960 802 505 / santiagoayodar@hotmail.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 

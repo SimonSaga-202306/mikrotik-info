@@ -74,6 +74,7 @@ updated: 2026-10-07
 - **邮箱**：—
   - 状态：缺失（leads-only 口径：人工补录前**不进群发**，与旧批次纪律一致）
 - **电话**：+36 20 9937980
+- 来源等级：official-channel（R41–R48 联系方式台账口径）
 - **原始联系字段**：+36 20 9937980；⚠️ 无邮箱：站点 mikrotikgyor.hu / digisoftnet.hu｜MikroTik Trainer + Academy Trainer，兼 CISCO Network Academy 讲师；经营主体另有 Gyenese Laszlo E.V. 与 Alphasonic。建议从 mikrotikgyor.hu 表单或 MUM 讲师名录找邮箱
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 

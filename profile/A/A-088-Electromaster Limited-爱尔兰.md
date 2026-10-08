@@ -73,6 +73,7 @@ updated: 2026-10-04
 - **邮箱**：info@electromaster.ie【已停用:2026-10-04 退信 not-found(46h|20h retry 后 Message not delivered)】
   - 状态：R62-退信-not-found
 - **电话**：2026-10-04
+- 来源等级：official-channel（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@electromaster.ie【已停用:2026-10-04 退信 not-found(46h|20h retry 后 Message not delivered) 发不过去】（Golden Pages 与 HiFi 名录均收录；都柏林 Tallaght）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 

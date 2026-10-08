@@ -75,6 +75,7 @@ updated: 2026-09-28
 - **邮箱**：—
   - 状态：缺失（leads-only 口径：人工补录前**不进群发**，与旧批次纪律一致）
 - **电话**：+44 3331 020000
+- 来源等级：official-channel（R41–R48 联系方式台账口径）
 - **原始联系字段**：+44 3331 020000；⚠️ 无邮箱：域名 internetty.uk（RocketReach 显示 b******@internetty.uk，被遮码）｜InternetTY = 全光纤宽带 ISP（家用+商用+VoIP），本身即潜在采购方。RocketReach 证实存在 @internetty.uk 邮箱但遮码，需人工解锁或试 info@/sales@
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 

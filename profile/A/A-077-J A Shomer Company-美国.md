@@ -73,6 +73,7 @@ updated: 2026-09-28
 - **邮箱**：sales@jashomer.com
   - 状态：待核·未验证投递（不进群发）
 - **电话**：216-221-4157
+- 来源等级：official-channel（R41–R48 联系方式台账口径）
 - **原始联系字段**：电话 216-221-4157（总机，Charles Zaugg 直线同号）；sales@jashomer.com。President：Charles Zaugg（邮箱按 czaugg@jashomer.com 推测，未验证）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 

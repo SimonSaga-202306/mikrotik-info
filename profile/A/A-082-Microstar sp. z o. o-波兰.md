@@ -73,6 +73,7 @@ updated: 2026-09-28
 - **邮箱**：piotr.pieczerak@microstar.com.pl
   - 状态：既有/公开
 - **电话**：+48 22 8365273
+- 来源等级：official-channel（R41–R48 联系方式台账口径）
 - **原始联系字段**：+48 22 8365273 / piotr.pieczerak@microstar.com.pl（具名联系人 Piotr Pieczerak（atto.com 厂商名录收录）。⚠️波兰法人，勿与克罗地亚 Microstar 合并）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:

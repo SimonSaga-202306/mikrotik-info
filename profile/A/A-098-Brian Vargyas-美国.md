@@ -73,6 +73,7 @@ updated: 2026-10-07
 - **邮箱**：—
   - 状态：缺失（leads-only 口径：人工补录前**不进群发**，与旧批次纪律一致）
 - **电话**：630-929-3610、888-929-3610
+- 来源等级：official-channel（R41–R48 联系方式台账口径）
 - **原始联系字段**：630-929-3610 / 888-929-3610；⚠️ 无邮箱：LinkedIn linkedin.com/in/brianvargyas/｜Vargyas Consulting, LLC（Naperville）。另在 MikroTik 官方论坛与 Baltic Networks 同台讲 60GHz PtMP → 属 MikroTik 圈子活跃者，值得 LinkedIn 私信
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 

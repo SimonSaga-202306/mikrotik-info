@@ -75,6 +75,7 @@ updated: 2026-09-28
 - **邮箱**：sales@lloret.co.uk
   - 状态：既有/公开
 - **电话**：—
+- 来源等级：official-channel（R41–R48 联系方式台账口径）
 - **原始联系字段**：Graham Budd（Commissioning Manager）- graham.budd@lloret.co.uk【主通道】；sales@lloret.co.uk【抄送】。主业**电气控制系统/楼宇自控**，92 人 → 工业交换机对口
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
