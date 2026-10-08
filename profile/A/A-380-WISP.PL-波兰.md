@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】WISP.PL（波兰）：**Poznań 著名 WISP 装备大店分销+MBUM #11(MikroTik Beer User Meeting）主办方**:MikroTik/Ubiquiti/Teltonika/TP-Link/Cudy/Solarix/**Scodeno 工业交换（switche przemysłowe)**/USR-IoT LoRa
-- 【推断】工业交换类目已被 Scodeno 开=品类口子实存；大牌墙深=替补收录最自然（我们=第二选择对照行）
-- 【假设】双角：商业 PoE 替补+工业件二轨（Scodeno 旁诚实对照）
+- 【事实】WISP.PL:WISP.PL Sieci bezprzewodowe(法体 **Allnet Sp. z o.o. Sp.k.**;波兰 Bełk(Czerwionka-Leszczyny,西里西亚 Opole 区),Dębowa 2A, 44-237(批发热线挂 Oleska 117, 45-231 Opole);**NIP 6422859593;2008 创 18 年;2-10 人;+48 327218673;**MikroTik Master Partner/Master Distributor & Value Added Distributor(LI 自宣 O;自家链最高档)**;Ubiquiti/TP-Link/Teltonika/Wisnetworks/D-Link/SparkLan/TechnicLan 牌谱;B2B+B2C 双段;**异体分层注：≠德国 Allnet GmbH 分销巨头**;具名决策人谱面未锁→守档准由(Master Partner 自家链在档,具名待专批/波兰 KRS 件)**
+- 【推断】R66 第 23 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -87,56 +87,59 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 商业线
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：商业 PoE 替补对照行（大牌墙旁诚实角）
-- **要问的问题**：对照行收吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 工业线
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：Scodeno 类目旁 8 口工业 PoE 二轨
-- **要问的问题**：工业类目收第二选择吗？
-- **随附/动作**：规格页
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第38批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://www.wisp.pl|Scodeno 工业交换+MBUM#11 双核
-- **②芯片/型号**：Scodeno（工业）
-- **③KP 深挖**：WISP 分销老铺
-- **④Saga 对标**：STC-424+STI-288GP 双角（$180 锚点一致）
-- **⑤在乎与偏好**：类目口子实存（已接纳工业新牌=开放度证）
+- **①背景再核**：WISP.PL Sieci bezprzewodowe(法体 **Allnet Sp. z o.o. Sp.k.**;波兰 Bełk(Czerwionka-Leszczyny,西里西亚 Opole 区),Dębowa 2A, 44-237(批发热线挂 Oleska 117, 45-231 Opole);**NIP 6422859593;2008 创 18 年;2-10 人;+48 327218673;**MikroTik Master Partner/Master Distributor & Value Added Distributor(LI 自宣 O;自家链最高档)**;Ubiquiti/TP-Link/Teltonika/Wisnetworks/D-Link/SparkLan/TechnicLan 牌谱;B2B+B2C 双段;**异体分层注：≠德国 Allnet GmbH 分销巨头**;具名决策人谱面未锁→守档准由(Master Partner 自家链在档,具名待专批/波兰 KRS 件)**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 第 23 波点名(谱面无实名)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：Master Partner 金档=链窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【在售品牌】**牌墙：MikroTik/Ubiquiti/Teltonika/Cudy/Solarix/Scodeno-switche przemysłowe；MBUM #11 主办
-  > 牌墙：MikroTik/Ubiquiti/Teltonika/Cudy/Solarix/Scodeno-switche przemysłowe；MBUM #11 主办
-  > 来源：https://www.wisp.pl
+- **【决策链与对接人】**谱面未锁具名决策人=守档准由;LI 自宣:「Jesteśmy oficjalnym dystrybutorem firmy MikroTik. Posiadamy status Złotego Partnera (MikroTik Master Partner / Master Distributor & Value Added Distributor)」(2026-10-08 R66 23 波留痕)
+  > 谱面未锁具名决策人=守档准由;LI 自宣:「Jesteśmy oficjalnym dystrybutorem firmy MikroTik. Posiadamy status Złotego Partnera (MikroTik Master Partner / Master Distributor & Value Added Distributor)」(2026-10-08 R66 23 波留痕)
+  > 来源：https://pl.linkedin.com/company/wisppl
+- **【联系方式与基础画像】**WISP.PL(Allnet Sp. z o.o. Sp.k.);Dębowa 2A, 44-237 Bełk;NIP 6422859593;+48 32 721 86 73;2008 founded;2-10 pracowników;B2B i B2C 无线网件分销(linkedin/cylex/ceneo 件)
+  > WISP.PL(Allnet Sp. z o.o. Sp.k.);Dębowa 2A, 44-237 Bełk;NIP 6422859593;+48 32 721 86 73;2008 founded;2-10 pracowników;B2B i B2C 无线网件分销(linkedin/cylex/ceneo 件)
+  > 来源：https://www.cylex-polska.pl/firmy/wisp-pl-11344126.html
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：波兰 WISP 装备大分销（Poznań)
-- **产品线与在售品牌**：MikroTik/Ubiquiti/Teltonika/Cudy/**Scodeno 工业交换**
-- **目标行业与场景**：WISP/集成商/工业客
-- **团队与规模**：中型
-- **决策链与对接人**：sklep@ 口
-- **技术与认证**：MBUM 主办方
-- **采购与供应链信号**：大库存店
-- **近期动态与线索**：2026-09 新闻流活跃
-- **与我方契合点**：**双角**:STC-424 替补+STI-288GP 工业件（Scodeno 类目已开）
-- **风险与注意**：大牌墙极深——对照行定位须诚实
+- **业务定位**：WISP.PL Sieci bezprzewodowe(法体 **Allnet Sp. z o.o. Sp.k.**;波兰 Bełk(Czerwionka-Leszczyny,西里西亚 Opole 区),Dębowa 2A, 44-237(批发热线挂 Oleska 117, 45-231 Opole);**NIP 6422859593;2008 创 18 年;2-10 人;+48 327218673;**MikroTik Master Partner/Master Distributor & Value Added Distributor(LI 自宣 O;自家链最高档)**;Ubiquiti/TP-Link/Teltonika/Wisnetworks/D-Link/SparkLan/TechnicLan 牌谱;B2B+B2C 双段;**异体分层注：≠德国 Allnet GmbH 分销巨头**;具名决策人谱面未锁→守档准由(Master Partner 自家链在档,具名待专批/波兰 KRS 件)**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：波兰西里西亚 MT Master Partner 分销屋
+- **团队与规模**：2-10 人;2008 创
+- **决策链与对接人**：**守档准由;R66 第 23 波点名(谱面无实名)**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 23 波谱名牌(Master Partner 金档守档)
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：守档:MT Master Partner 谱在档,具名待专批(≠德 Allnet)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -151,10 +154,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：类目口子
-- **W**：大牌墙深
-- **O**：替补对照行
-- **T**：多牌
+- **S**：Master Partner 金档=链窗
+- **W**：具名缺守档
+- **O**：无守档
+- **T**：—
 
 ## 触达与风险红线
 
@@ -182,8 +185,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 买手口
-  - [ ] 首发量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -195,16 +198,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi WISP.PL team,
+Szanowni Państwo,
 
-MBUM hosts carry weight in this trade - and your catalogue already proves category openness: Scodeno industrial switches sit beside MikroTik and Ubiquiti. We would ask for exactly such a comparison row: a documented 24-port Gigabit PoE switch (280W, watchdog) at $180 USD EXW (2026-09-29) - the value answer beside your flagships, commercial and industrial (8-port DIN-rail).
-
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
-
-One question: would your switch category carry a documented value comparison row - either commercial or industrial?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

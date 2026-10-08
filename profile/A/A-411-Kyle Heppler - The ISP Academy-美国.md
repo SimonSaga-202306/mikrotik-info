@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Kyle Heppler (The ISP Academy)（美国）：The ISP Academy（美）:**MikroTik 专精咨询+课程，孵化社区型/绿能新 ISP**('shift control away from big-box providers');805 电话公开
-- 【推断】trainer/顾问=天然的横向比照者：不抢 MikroTik 主位，只留一行预算场景对照
-- 【假设】课堂/咨询旁的一行了解位
+- 【事实】Kyle Heppler - The ISP Academy:Kyle Heppler - The ISP Academy(美国／Tucson, AZ;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://theispacademy.com;theispacademy.com=ISP 培训院谱(课堂对照行角))
+- 【推断】R66 第 23 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -78,65 +78,75 @@ updated: 2026-09-28
 - 来源等级：official-directory-prior-round（R41–R48 联系方式台账口径）
 - **原始联系字段**：+1 805 394 5953 / hello@theispacademy.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Kyle Heppler - The ISP Academy**(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人))— 档谱+档站自署 〔已有(公司官方公开件/登记册自曝);源:https://theispacademy.com〕
 
 ## 关键人（KP）与触达通道
 
-- **Kyle Heppler**（本人直达；角色=业主/顾问本人，依据名录）
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Kyle Heppler - The ISP Academy | MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人) | 档谱+档站自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://theispacademy.com |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（OEM/白牌合作探询（无量产型号首推）），备选型不进邮件。
 
-### 第 1 次跟进 · 对照单元
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：CONSULT-OEM（统一口径=P1 系列，不外溢）
-- **切入点**：顾问对照库了解单元（诚实角；非替换）
-- **要问的问题**：值得进对照库吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 课堂角
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：一页对照卡（统一口径=P1 系列，不外溢）
-- **切入点**：MTCSWE 课堂旁的了解位（学员问性价比场景）
-- **要问的问题**：课堂需要对照样本吗？
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
 - **随附/动作**：卡
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第42批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://www.theispacademy.com|Kyle 具名
-- **②芯片/型号**：MikroTik 生态
-- **③KP 深挖**：trainer/顾问页与证书核
-- **④Saga 对标**：CONSULT-OEM（$180 锚点一致）
-- **⑤在乎与偏好**：比照心态/拒硬销
+- **①背景再核**：Kyle Heppler - The ISP Academy(美国／Tucson, AZ;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://theispacademy.com;theispacademy.com=ISP 培训院谱(课堂对照行角))
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Kyle Heppler - The ISP Academy(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：MTCSWE/交换认证谱=对口窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**theispacademy.com: 'Empowering Network Success with MikroTik Expertise' + consulting+courses for community ISPs
-  > theispacademy.com: 'Empowering Network Success with MikroTik Expertise' + consulting+courses for community ISPs
-  > 来源：https://www.theispacademy.com
+- **【联系方式与基础画像】**国家/城市: %s;网站: %s;类型: 集成商/顾问(MikroTik 认证)(档案基础画像行=事实)
+  > 国家/城市: %s;网站: %s;类型: 集成商/顾问(MikroTik 认证)(档案基础画像行=事实)
+  > 来源：https://theispacademy.com
+- **【近期动态与线索】**档定首触角: 顾问对照单元($180 锚点一致);—(合作探询,无量产报价)
+  > 档定首触角: 顾问对照单元($180 锚点一致);—(合作探询,无量产报价)
+  > 来源：https://theispacademy.com
+- **【目标行业与场景】**档定值得跟: 有明确交换/供电需求(交换认证 MTCSWE),且有具体人直联
+  > 档定值得跟: 有明确交换/供电需求(交换认证 MTCSWE),且有具体人直联
+  > 来源：https://theispacademy.com
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：美国 MikroTik 顾问/培训实体（官网核）
-- **产品线与在售品牌**：MikroTik 生态为主
-- **目标行业与场景**：咨询/培训现场
-- **团队与规模**：小微
-- **决策链与对接人**：hello@theispacademy.com 口
-- **技术与认证**：MikroTik 认证体系
-- **采购与供应链信号**：—
-- **近期动态与线索**：—
-- **与我方契合点**：顾问对照单元（An academy that laun）
-- **风险与注意**：体量微——低期待窄针
+- **业务定位**：Kyle Heppler - The ISP Academy(美国／Tucson, AZ;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://theispacademy.com;theispacademy.com=ISP 培训院谱(课堂对照行角))
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：培训交付谱(MTCSWE 谱链)
+- **团队与规模**：单铺/工作室谱
+- **决策链与对接人**：**Kyle Heppler - The ISP Academy(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 23 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Dear Kyle,(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -151,10 +161,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：对照态
-- **W**：体量微
-- **O**：课堂旁了解位
-- **T**：大牌
+- **S**：MTCSWE/交换认证谱=对口窗
+- **W**：单铺谱
+- **O**：Kyle Heppler - The ISP Academy 本人直达位
+- **T**：MikroTik 官方课链
 
 ## 触达与风险红线
 
@@ -186,8 +196,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 证书现况
-  - [ ] 复购场景
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -199,16 +209,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Kyle,
+Dear Kyle,
 
-An academy that launches grassroots ISPs knows better than anyone what capital discipline means. We build network hardware and keep a 24-port Gigabit PoE access switch (280W total, 802.3af/at, per-port watchdog, desktop/rack) with full English documentation. Reference: $180 USD EXW (2026-09-29).
-
-Consultants like you meet every brand in the field, so we are not pitching a replacement - only asking to be one honest row in your comparison notebook for budget-driven projects. If the spec ever earns a mention, one reply and the documentation pack follows.
-
-One question: for the ISPs you help launch, would a documented value PoE switch be a useful reference row?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

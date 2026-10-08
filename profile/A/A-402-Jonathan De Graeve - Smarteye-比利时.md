@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Jonathan De Graeve (SmartEye)（比利时）：**SmartEye BV(Wilrijk;BE0542740338)：楼宇网络 IaaS——30.000+ WiFi AP、700+ 地点、165.000+ 年用户、100.000+ 米线缆**；客群=学生公寓（Xior/UGent/Artevelde/Howest 等）+住宅/办公；设计与运营一体
-- 【推断】楼宇网络运营商=接入层交换持续采购体量（30k AP 背后的 PoE 层）；新建+换代+备件三流；预算纪律型（as-a-service 毛利模型）
-- 【假设】楼宇 IaaS 接入层 value PoE 强口（30k AP 底座）
+- 【事实】Jonathan De Graeve - Smarteye:Jonathan De Graeve - Smarteye(比利时／Wilrijk (Antwerpen);**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://smarteye.eu;smarteye.eu=安特卫普 IT 铺谱(荷语区))
+- 【推断】R66 第 23 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -77,65 +77,75 @@ updated: 2026-09-28
 - 来源等级：official-directory-prior-round（R41–R48 联系方式台账口径）
 - **原始联系字段**：+32 9 395 6202 / jonathan@smarteye.eu
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Jonathan De Graeve - Smarteye**(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人))— 档谱+档站自署 〔已有(公司官方公开件/登记册自曝);源:https://smarteye.eu〕
 
 ## 关键人（KP）与触达通道
 
-- **Jonathan De Graeve**（本人直达；角色=业主/顾问本人，依据名录）
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Jonathan De Graeve - Smarteye | MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人) | 档谱+档站自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://smarteye.eu |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 接入层
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：楼宇 IaaS 接入层（换代+备件+新建三流）
-- **要问的问题**：接入层用 value 件吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 试点
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：试点条款（统一口径=P1 系列，不外溢）
-- **切入点**：一栋楼试点提案
-- **要问的问题**：试点一栋楼吗？
-- **随附/动作**：规格页+样机条款
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第41批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://www.smarteye.eu|30.000+ AP/700+ 地点/165.000 用户三核
-- **②芯片/型号**：——
-- **③KP 深挖**：IaaS 多年运营
-- **④Saga 对标**：STC-424 强口（$180 锚点一致）
-- **⑤在乎与偏好**：as-a-service 毛利纪律
+- **①背景再核**：Jonathan De Graeve - Smarteye(比利时／Wilrijk (Antwerpen);**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://smarteye.eu;smarteye.eu=安特卫普 IT 铺谱(荷语区))
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Jonathan De Graeve - Smarteye(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：MTCSWE/交换认证谱=对口窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**'SmartEye in cijfers: 30.000+ WiFi toegangspunten / 700+ locaties / 165.000+ jaarlijkse gebruikers / 100.000+ meter bekabeling'
-  > 'SmartEye in cijfers: 30.000+ WiFi toegangspunten / 700+ locaties / 165.000+ jaarlijkse gebruikers / 100.000+ meter bekabeling'
-  > 来源：https://www.smarteye.eu
+- **【联系方式与基础画像】**国家/城市: %s;网站: %s;类型: 集成商/顾问(MikroTik 认证)(档案基础画像行=事实)
+  > 国家/城市: %s;网站: %s;类型: 集成商/顾问(MikroTik 认证)(档案基础画像行=事实)
+  > 来源：https://smarteye.eu
+- **【近期动态与线索】**档定首触角: 增值替补对照行($180 锚点一致);—(合作探询,无量产报价)
+  > 档定首触角: 增值替补对照行($180 锚点一致);—(合作探询,无量产报价)
+  > 来源：https://smarteye.eu
+- **【目标行业与场景】**档定值得跟: 有明确交换/供电需求(交换认证 MTCSWE),且有具体人直联
+  > 档定值得跟: 有明确交换/供电需求(交换认证 MTCSWE),且有具体人直联
+  > 来源：https://smarteye.eu
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：比国楼宇网络 IaaS 运营商
-- **产品线与在售品牌**：自有 IaaS 栈（牌未明列）
-- **目标行业与场景**：学生公寓/住宅/办公楼宇
-- **团队与规模**：中型
-- **决策链与对接人**：jonathan@ 具名+sales@/support@ 公开
-- **技术与认证**：BE0542740338
-- **采购与供应链信号**：700+ 地点运营
-- **近期动态与线索**：NL 线（+3185）扩张
-- **与我方契合点**：**接入层 value PoE 强口（30k AP 底座；换代+备件+新建三流）**
-- **风险与注意**：IaaS 毛利模型=单价敏感（正口）
+- **业务定位**：Jonathan De Graeve - Smarteye(比利时／Wilrijk (Antwerpen);**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://smarteye.eu;smarteye.eu=安特卫普 IT 铺谱(荷语区))
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：培训交付谱(MTCSWE 谱链)
+- **团队与规模**：单铺/工作室谱
+- **决策链与对接人**：**Jonathan De Graeve - Smarteye(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 23 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Geachte heer De Graeve,(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -150,10 +160,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：体量对口
-- **W**：现供锁定
-- **O**：接入层换代
-- **T**：大牌
+- **S**：MTCSWE/交换认证谱=对口窗
+- **W**：单铺谱
+- **O**：Jonathan De Graeve - Smarteye 本人直达位
+- **T**：MikroTik 官方课链
 
 ## 触达与风险红线
 
@@ -185,8 +195,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 接入层 PoE 谱
-  - [ ] 首发量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -198,16 +208,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Jonathan,
+Geachte heer De Graeve,
 
-Thirty thousand access points across seven hundred buildings - an access layer that never stops being built, swapped and maintained. For exactly that tier we build a documented 24-port Gigabit PoE switch (280W, 802.3af/at, watchdog) at $180 USD EXW (2026-09-29), with the paperwork your operations need.
-
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
-
-One question: for your access-layer rollouts and swap stock, would a documented value PoE unit be worth a test?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

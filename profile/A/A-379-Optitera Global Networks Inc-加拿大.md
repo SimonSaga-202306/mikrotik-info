@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Optitera Global Networks（加拿大）：**加拿大网件分销+自有品牌 Optitera(43 SKU：光纤 patch cord/pigtail 等）**;店牌=TP-Link/MikroTik(105)/Mimosa/Cambium/Grandstream/Cudy;客群宣言=ISP/WISP/装维/CCTV 集成/企业
-- 【推断】已跑通自牌 OEM 模式（43 SKU 光纤件）=**自牌扩线角度天然：自牌交换机线=OEM/ODM 正中我口**
-- 【假设】自牌扩线 OEM/ODM 角（强口）+店收录备选
+- 【事实】Optitera Global Networks Inc.:Optitera Global Networks Inc.(加拿大 Oakville, ON,2026 Golden Briar Trail, L6H 4N9;+1 437-424-4024;cs@/sales@optiteraglobal.ca;**FB 自宣:「now a Master Distributor of Mikrotik Products in Canada」=加拿大 Master Distributor(自家链最高档!)+TP-Link Master;92 MikroTik SKU 在架**;HFCL/Cambium/Mimosa/Ubiquiti 牌谱;新体微谱(FB 2026 建页))
+- 【推断】R66 第 23 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -78,65 +78,74 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：+1 437 424 4024 / sales@optiteraglobal.ca
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Priti Kumari Shrivastava**(Key Principal/Member of the Board(D&B 件))— dnb.com 件 〔已有(公司官方公开件/登记册自曝);源:https://www.dnb.com/business-directory/company-profiles.optitera_global_networks_inc.8af4e343a8f9eb86e6b90afebfb506e5.html〕
+  - **bishal(名谱前缀)**(员工邮箱名谱(bishal@optiteraglobal.ca))— facebook.com 接触条 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.facebook.com/61566512131352〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Priti Kumari Shrivastava | Key Principal/Member of the Board(D&B 件) | dnb.com 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.dnb.com/business-directory/company-profiles.optitera_global_networks_inc.8af4e343a8f9eb86e6b90afebfb506e5.html |
+| bishal(名谱前缀) | 员工邮箱名谱(bishal@optiteraglobal.ca) | facebook.com 接触条 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.facebook.com/61566512131352 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · OEM
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：自牌扩线 OEM/ODM（白标+文档齐）
-- **要问的问题**：自牌扩线吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 备选
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：店目录收录备选（自牌不谈转分销收录）
-- **要问的问题**：收录备选呢？
-- **随附/动作**：规格页
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第38批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://optiteraglobal.ca|自牌 43 SKU+ISP/WISP 客群宣言双核
-- **②芯片/型号**：——
-- **③KP 深挖**：自牌 OEM 实跑者
-- **④Saga 对标**：STC-424 OEM 角（$180 锚点一致）
-- **⑤在乎与偏好**：自牌主=毛利逻辑敏感
+- **①背景再核**：Optitera Global Networks Inc.(加拿大 Oakville, ON,2026 Golden Briar Trail, L6H 4N9;+1 437-424-4024;cs@/sales@optiteraglobal.ca;**FB 自宣:「now a Master Distributor of Mikrotik Products in Canada」=加拿大 Master Distributor(自家链最高档!)+TP-Link Master;92 MikroTik SKU 在架**;HFCL/Cambium/Mimosa/Ubiquiti 牌谱;新体微谱(FB 2026 建页))
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Priti Kumari Shrivastava(Key Principal/Member of the Board(D&B 件),official-self-published·谱/leads-only(直发需 opt-in));bishal(名谱前缀)(员工邮箱名谱(bishal@optiteraglobal.ca),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：加 Master Distributor 自宣=链窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**Shop-by-brand: Optitera (43 products)+MikroTik (105)/TP-Link/Cudy/Cambium/Grandstream; Solutions for ISPs/WISP/Telecom installers
-  > Shop-by-brand: Optitera (43 products)+MikroTik (105)/TP-Link/Cudy/Cambium/Grandstream; Solutions for ISPs/WISP/Telecom installers
-  > 来源：https://optiteraglobal.ca
+- **【决策链与对接人】**Key Principal: Priti Kumari Shrivastava, Member of the Board of Directors(D&B);接触条 bishal@optiteraglobal.ca 名谱
+  > Key Principal: Priti Kumari Shrivastava, Member of the Board of Directors(D&B);接触条 bishal@optiteraglobal.ca 名谱
+  > 来源：https://www.dnb.com/business-directory/company-profiles.optitera_global_networks_inc.8af4e343a8f9eb86e6b90afebfb506e5.html
+- **【联系方式与基础画像】**2026 Golden Briar Trail, Oakville, ON;+1 437-424-4024;cs@/sales@optiteraglobal.ca;**Master Distributors Of Mikrotik and Tp-Link in Canada**(FB 页 Intro);MikroTik 92 SKU/TP-Link 64(dnb/optiteraglobal.ca/facebook 件)
+  > 2026 Golden Briar Trail, Oakville, ON;+1 437-424-4024;cs@/sales@optiteraglobal.ca;**Master Distributors Of Mikrotik and Tp-Link in Canada**(FB 页 Intro);MikroTik 92 SKU/TP-Link 64(dnb/optiteraglobal.ca/facebook 件)
+  > 来源：https://optiteraglobal.ca/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：加拿大网件分销+自牌（Toronto 区）
-- **产品线与在售品牌**：自牌 Optitera 43 SKU+MT/TP-Link/Cudy/Cambium
-- **目标行业与场景**：ISP/WISP/集成商
-- **团队与规模**：小型
-- **决策链与对接人**：sales@ 口+647 电话
-- **技术与认证**：—
-- **采购与供应链信号**：自牌 OEM 供应链实锤
-- **近期动态与线索**：2026-04 新牌墙（Cudy/Yealink)
-- **与我方契合点**：**自牌扩线 OEM/ODM 角（强口）**；店收录备选
-- **风险与注意**：自牌现仅无源件——有源线或已有另一供应商（问清）
+- **业务定位**：Optitera Global Networks Inc.(加拿大 Oakville, ON,2026 Golden Briar Trail, L6H 4N9;+1 437-424-4024;cs@/sales@optiteraglobal.ca;**FB 自宣:「now a Master Distributor of Mikrotik Products in Canada」=加拿大 Master Distributor(自家链最高档!)+TP-Link Master;92 MikroTik SKU 在架**;HFCL/Cambium/Mimosa/Ubiquiti 牌谱;新体微谱(FB 2026 建页))
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：加拿大 MikroTik Master 分销新体谱
+- **团队与规模**：小微谱;2026 新页
+- **决策链与对接人**：**Priti Kumari Shrivastava(Key Principal/Member of the Board(D&B 件),official-self-published·谱/leads-only(直发需 opt-in));bishal(名谱前缀)(员工邮箱名谱(bishal@optiteraglobal.ca),leads-only·待 opt-in(LinkedIn/谱面带核))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 23 波谱名牌(MT 加 Master 自宣)
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Priti Kumari Shrivastava 位(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -151,10 +160,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：OEM 模式已通
-- **W**：有源件未涉
-- **O**：自牌扩线
-- **T**：他供先占
+- **S**：加 Master Distributor 自宣=链窗
+- **W**：新体薄谱
+- **O**：Shrivastava BoD 位
+- **T**：自家链竞谱
 
 ## 触达与风险红线
 
@@ -173,7 +182,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -182,8 +191,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 有源线供位
-  - [ ] MOQ
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -195,16 +204,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Optitera team,
+Dear Ms. Shrivastava,
 
-Forty-three SKUs under your own Optitera label already - you clearly run private-label well. The natural next line behind fiber patch cords is the switch the fiber plugs into. We are PoE switch OEM/ODM: 24-port Gigabit PoE (280W, watchdog), full documentation, your label, reference $180 USD EXW (2026-09-29).
-
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
-
-One question: would a private-label PoE switch line fit your Optitera roadmap?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

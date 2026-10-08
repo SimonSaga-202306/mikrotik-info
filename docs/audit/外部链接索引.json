@@ -786,6 +786,34 @@
     ]
   },
   {
+    "url": "http://www.elmat.com/news/townet.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L516"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L537"
+      },
+      {
+        "path": "profile/A/A-384-WispMax-意大利.md",
+        "locator": "L126"
+      }
+    ]
+  },
+  {
+    "url": "http://www.elmat.com/news/townet.html'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第23波_50户落盘.py",
+        "locator": "L102"
+      }
+    ]
+  },
+  {
     "url": "http://www.fmsweb.de/impressum/",
     "http_checked": false,
     "occurrences": [
@@ -1716,6 +1744,10 @@
       {
         "path": "scripts/R66_R56_KP第22波_50户落盘.py",
         "locator": "L373"
+      },
+      {
+        "path": "scripts/R66_R56_KP第23波_50户落盘.py",
+        "locator": "L123"
       }
     ]
   },
@@ -3294,6 +3326,10 @@
     "http_checked": false,
     "occurrences": [
       {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L542"
+      },
+      {
         "path": "batch/B类深挖_2026-09-29_R57-BC_第3波.json",
         "locator": "L21"
       },
@@ -3318,8 +3354,22 @@
         "locator": "L487"
       },
       {
+        "path": "profile/A/A-384-WispMax-意大利.md",
+        "locator": "L129"
+      },
+      {
         "path": "profile/B/B-168-Neostar-意大利.md",
         "locator": "L125"
+      }
+    ]
+  },
+  {
+    "url": "https://altostrat.io/buying/hardware/resellers/europe/italy/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第23波_50户落盘.py",
+        "locator": "L103"
       }
     ]
   },
@@ -3788,6 +3838,48 @@
     ]
   },
   {
+    "url": "https://archous.tech",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3252"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3273"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3278"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3283"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3340"
+      },
+      {
+        "path": "profile/A/A-410-Joshua Moore - Archous Networks-美国.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-410-Joshua Moore - Archous Networks-美国.md",
+        "locator": "L130"
+      },
+      {
+        "path": "profile/A/A-410-Joshua Moore - Archous Networks-美国.md",
+        "locator": "L133"
+      },
+      {
+        "path": "profile/A/A-410-Joshua Moore - Archous Networks-美国.md",
+        "locator": "L136"
+      }
+    ]
+  },
+  {
     "url": "https://archous.tech/",
     "http_checked": false,
     "occurrences": [
@@ -3798,6 +3890,46 @@
       {
         "path": "batch/contact_research_2026-09-28_BCrescreen_A379-A384.json",
         "locator": "L333"
+      }
+    ]
+  },
+  {
+    "url": "https://archous.tech;archous.tech=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3249"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3258"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3311"
+      },
+      {
+        "path": "profile/A/A-410-Joshua Moore - Archous Networks-美国.md",
+        "locator": "L51"
+      },
+      {
+        "path": "profile/A/A-410-Joshua Moore - Archous Networks-美国.md",
+        "locator": "L120"
+      },
+      {
+        "path": "profile/A/A-410-Joshua Moore - Archous Networks-美国.md",
+        "locator": "L140"
+      }
+    ]
+  },
+  {
+    "url": "https://archous.tech〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-410-Joshua Moore - Archous Networks-美国.md",
+        "locator": "L82"
       }
     ]
   },
@@ -3994,8 +4126,70 @@
         "locator": "L686"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3048"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3069"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3074"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3079"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3136"
+      },
+      {
         "path": "profile/A/A-408-Dovydas Rimeisis-立陶宛.md",
-        "locator": "L123"
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-408-Dovydas Rimeisis-立陶宛.md",
+        "locator": "L127"
+      },
+      {
+        "path": "profile/A/A-408-Dovydas Rimeisis-立陶宛.md",
+        "locator": "L130"
+      },
+      {
+        "path": "profile/A/A-408-Dovydas Rimeisis-立陶宛.md",
+        "locator": "L133"
+      }
+    ]
+  },
+  {
+    "url": "https://atitic.eu;atitic.eu=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3045"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3054"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3107"
+      },
+      {
+        "path": "profile/A/A-408-Dovydas Rimeisis-立陶宛.md",
+        "locator": "L50"
+      },
+      {
+        "path": "profile/A/A-408-Dovydas Rimeisis-立陶宛.md",
+        "locator": "L117"
+      },
+      {
+        "path": "profile/A/A-408-Dovydas Rimeisis-立陶宛.md",
+        "locator": "L137"
       }
     ]
   },
@@ -4006,10 +4200,16 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第41批.json",
         "locator": "L714"
-      },
+      }
+    ]
+  },
+  {
+    "url": "https://atitic.eu〕",
+    "http_checked": false,
+    "occurrences": [
       {
         "path": "profile/A/A-408-Dovydas Rimeisis-立陶宛.md",
-        "locator": "L113"
+        "locator": "L79"
       }
     ]
   },
@@ -6204,8 +6404,70 @@
         "locator": "L592"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1926"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1947"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1952"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1957"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2014"
+      },
+      {
         "path": "profile/A/A-397-Simone Filippi - Byte Solutions-意大利.md",
-        "locator": "L124"
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-397-Simone Filippi - Byte Solutions-意大利.md",
+        "locator": "L128"
+      },
+      {
+        "path": "profile/A/A-397-Simone Filippi - Byte Solutions-意大利.md",
+        "locator": "L131"
+      },
+      {
+        "path": "profile/A/A-397-Simone Filippi - Byte Solutions-意大利.md",
+        "locator": "L134"
+      }
+    ]
+  },
+  {
+    "url": "https://bytesolutions.it;bytesolutions.it=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1923"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1932"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1985"
+      },
+      {
+        "path": "profile/A/A-397-Simone Filippi - Byte Solutions-意大利.md",
+        "locator": "L51"
+      },
+      {
+        "path": "profile/A/A-397-Simone Filippi - Byte Solutions-意大利.md",
+        "locator": "L118"
+      },
+      {
+        "path": "profile/A/A-397-Simone Filippi - Byte Solutions-意大利.md",
+        "locator": "L138"
       }
     ]
   },
@@ -6216,10 +6478,16 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第40批.json",
         "locator": "L620"
-      },
+      }
+    ]
+  },
+  {
+    "url": "https://bytesolutions.it〕",
+    "http_checked": false,
+    "occurrences": [
       {
         "path": "profile/A/A-397-Simone Filippi - Byte Solutions-意大利.md",
-        "locator": "L114"
+        "locator": "L80"
       }
     ]
   },
@@ -6606,6 +6874,88 @@
       {
         "path": "profile/A/A-275-Philippe Lachapelle-加拿大.md",
         "locator": "L79"
+      }
+    ]
+  },
+  {
+    "url": "https://ccisrd.eu",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4680"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4701"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4706"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4711"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4768"
+      },
+      {
+        "path": "profile/A/A-425-Rein Podra-爱沙尼亚.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-425-Rein Podra-爱沙尼亚.md",
+        "locator": "L129"
+      },
+      {
+        "path": "profile/A/A-425-Rein Podra-爱沙尼亚.md",
+        "locator": "L132"
+      },
+      {
+        "path": "profile/A/A-425-Rein Podra-爱沙尼亚.md",
+        "locator": "L135"
+      }
+    ]
+  },
+  {
+    "url": "https://ccisrd.eu;ccisrd.eu=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4677"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4686"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4739"
+      },
+      {
+        "path": "profile/A/A-425-Rein Podra-爱沙尼亚.md",
+        "locator": "L52"
+      },
+      {
+        "path": "profile/A/A-425-Rein Podra-爱沙尼亚.md",
+        "locator": "L119"
+      },
+      {
+        "path": "profile/A/A-425-Rein Podra-爱沙尼亚.md",
+        "locator": "L139"
+      }
+    ]
+  },
+  {
+    "url": "https://ccisrd.eu〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-425-Rein Podra-爱沙尼亚.md",
+        "locator": "L81"
       }
     ]
   },
@@ -7186,6 +7536,48 @@
     ]
   },
   {
+    "url": "https://cloudpilot.dk",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L702"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L723"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L728"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L733"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L790"
+      },
+      {
+        "path": "profile/A/A-385-Thomas Fossing - CloudPilot-丹麦.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-385-Thomas Fossing - CloudPilot-丹麦.md",
+        "locator": "L130"
+      },
+      {
+        "path": "profile/A/A-385-Thomas Fossing - CloudPilot-丹麦.md",
+        "locator": "L133"
+      },
+      {
+        "path": "profile/A/A-385-Thomas Fossing - CloudPilot-丹麦.md",
+        "locator": "L136"
+      }
+    ]
+  },
+  {
     "url": "https://cloudpilot.dk/",
     "http_checked": false,
     "occurrences": [
@@ -7196,6 +7588,46 @@
       {
         "path": "batch/contact_research_2026-09-28_BCrescreen_A379-A384.json",
         "locator": "L591"
+      }
+    ]
+  },
+  {
+    "url": "https://cloudpilot.dk;cloudpilot.dk=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L699"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L708"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L761"
+      },
+      {
+        "path": "profile/A/A-385-Thomas Fossing - CloudPilot-丹麦.md",
+        "locator": "L51"
+      },
+      {
+        "path": "profile/A/A-385-Thomas Fossing - CloudPilot-丹麦.md",
+        "locator": "L120"
+      },
+      {
+        "path": "profile/A/A-385-Thomas Fossing - CloudPilot-丹麦.md",
+        "locator": "L140"
+      }
+    ]
+  },
+  {
+    "url": "https://cloudpilot.dk〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-385-Thomas Fossing - CloudPilot-丹麦.md",
+        "locator": "L82"
       }
     ]
   },
@@ -7240,6 +7672,88 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第2批.json",
         "locator": "L99"
+      }
+    ]
+  },
+  {
+    "url": "https://codisats.es",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4068"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4089"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4094"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4099"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4156"
+      },
+      {
+        "path": "profile/A/A-418-Juan Miguel Gallardo Pérez - Codisa Telco Solutions-西班牙.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-418-Juan Miguel Gallardo Pérez - Codisa Telco Solutions-西班牙.md",
+        "locator": "L130"
+      },
+      {
+        "path": "profile/A/A-418-Juan Miguel Gallardo Pérez - Codisa Telco Solutions-西班牙.md",
+        "locator": "L133"
+      },
+      {
+        "path": "profile/A/A-418-Juan Miguel Gallardo Pérez - Codisa Telco Solutions-西班牙.md",
+        "locator": "L136"
+      }
+    ]
+  },
+  {
+    "url": "https://codisats.es;codisats.es=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4065"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4074"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4127"
+      },
+      {
+        "path": "profile/A/A-418-Juan Miguel Gallardo Pérez - Codisa Telco Solutions-西班牙.md",
+        "locator": "L51"
+      },
+      {
+        "path": "profile/A/A-418-Juan Miguel Gallardo Pérez - Codisa Telco Solutions-西班牙.md",
+        "locator": "L120"
+      },
+      {
+        "path": "profile/A/A-418-Juan Miguel Gallardo Pérez - Codisa Telco Solutions-西班牙.md",
+        "locator": "L140"
+      }
+    ]
+  },
+  {
+    "url": "https://codisats.es〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-418-Juan Miguel Gallardo Pérez - Codisa Telco Solutions-西班牙.md",
+        "locator": "L82"
       }
     ]
   },
@@ -8994,8 +9508,40 @@
         "locator": "L125"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4476"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4497"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4502"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4507"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4564"
+      },
+      {
         "path": "profile/A/A-422-David Csongradi-匈牙利.md",
-        "locator": "L124"
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-422-David Csongradi-匈牙利.md",
+        "locator": "L128"
+      },
+      {
+        "path": "profile/A/A-422-David Csongradi-匈牙利.md",
+        "locator": "L131"
+      },
+      {
+        "path": "profile/A/A-422-David Csongradi-匈牙利.md",
+        "locator": "L134"
       }
     ]
   },
@@ -9026,16 +9572,52 @@
     ]
   },
   {
+    "url": "https://csongradidavid.hu;csongradidavid.hu=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4473"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4482"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4535"
+      },
+      {
+        "path": "profile/A/A-422-David Csongradi-匈牙利.md",
+        "locator": "L50"
+      },
+      {
+        "path": "profile/A/A-422-David Csongradi-匈牙利.md",
+        "locator": "L118"
+      },
+      {
+        "path": "profile/A/A-422-David Csongradi-匈牙利.md",
+        "locator": "L138"
+      }
+    ]
+  },
+  {
     "url": "https://csongradidavid.hu|David",
     "http_checked": false,
     "occurrences": [
       {
         "path": "batch/A类深挖_2026-09-28_R56_第43批.json",
         "locator": "L153"
-      },
+      }
+    ]
+  },
+  {
+    "url": "https://csongradidavid.hu〕",
+    "http_checked": false,
+    "occurrences": [
       {
         "path": "profile/A/A-422-David Csongradi-匈牙利.md",
-        "locator": "L114"
+        "locator": "L80"
       }
     ]
   },
@@ -9274,6 +9856,88 @@
       {
         "path": "scripts/R66_B_KP波4落盘.py",
         "locator": "L93"
+      }
+    ]
+  },
+  {
+    "url": "https://dael.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4884"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4905"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4910"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4915"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4972"
+      },
+      {
+        "path": "profile/A/A-427-Corné van Halteren - DAEL-荷兰.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-427-Corné van Halteren - DAEL-荷兰.md",
+        "locator": "L129"
+      },
+      {
+        "path": "profile/A/A-427-Corné van Halteren - DAEL-荷兰.md",
+        "locator": "L132"
+      },
+      {
+        "path": "profile/A/A-427-Corné van Halteren - DAEL-荷兰.md",
+        "locator": "L135"
+      }
+    ]
+  },
+  {
+    "url": "https://dael.com;dael.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4881"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4890"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4943"
+      },
+      {
+        "path": "profile/A/A-427-Corné van Halteren - DAEL-荷兰.md",
+        "locator": "L53"
+      },
+      {
+        "path": "profile/A/A-427-Corné van Halteren - DAEL-荷兰.md",
+        "locator": "L119"
+      },
+      {
+        "path": "profile/A/A-427-Corné van Halteren - DAEL-荷兰.md",
+        "locator": "L139"
+      }
+    ]
+  },
+  {
+    "url": "https://dael.com〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-427-Corné van Halteren - DAEL-荷兰.md",
+        "locator": "L81"
       }
     ]
   },
@@ -10530,8 +11194,70 @@
         "locator": "L779"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1110"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1131"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1136"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1141"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1198"
+      },
+      {
         "path": "profile/A/A-389-Mihail Gyoshev - Digit Consult-保加利亚.md",
-        "locator": "L126"
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-389-Mihail Gyoshev - Digit Consult-保加利亚.md",
+        "locator": "L130"
+      },
+      {
+        "path": "profile/A/A-389-Mihail Gyoshev - Digit Consult-保加利亚.md",
+        "locator": "L133"
+      },
+      {
+        "path": "profile/A/A-389-Mihail Gyoshev - Digit Consult-保加利亚.md",
+        "locator": "L136"
+      }
+    ]
+  },
+  {
+    "url": "https://digitconsult.eu;digitconsult.eu=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1107"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1116"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1169"
+      },
+      {
+        "path": "profile/A/A-389-Mihail Gyoshev - Digit Consult-保加利亚.md",
+        "locator": "L51"
+      },
+      {
+        "path": "profile/A/A-389-Mihail Gyoshev - Digit Consult-保加利亚.md",
+        "locator": "L120"
+      },
+      {
+        "path": "profile/A/A-389-Mihail Gyoshev - Digit Consult-保加利亚.md",
+        "locator": "L140"
       }
     ]
   },
@@ -10542,10 +11268,16 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第39批.json",
         "locator": "L807"
-      },
+      }
+    ]
+  },
+  {
+    "url": "https://digitconsult.eu〕",
+    "http_checked": false,
+    "occurrences": [
       {
         "path": "profile/A/A-389-Mihail Gyoshev - Digit Consult-保加利亚.md",
-        "locator": "L116"
+        "locator": "L82"
       }
     ]
   },
@@ -10822,10 +11554,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第39批.json",
         "locator": "L32"
-      },
-      {
-        "path": "profile/A/A-381-Ditecom-西班牙.md",
-        "locator": "L125"
       }
     ]
   },
@@ -10982,6 +11710,48 @@
     ]
   },
   {
+    "url": "https://dside.nl",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4986"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L5007"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L5012"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L5017"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L5074"
+      },
+      {
+        "path": "profile/A/A-428-Jasper Hagoort - Dside-荷兰.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-428-Jasper Hagoort - Dside-荷兰.md",
+        "locator": "L127"
+      },
+      {
+        "path": "profile/A/A-428-Jasper Hagoort - Dside-荷兰.md",
+        "locator": "L130"
+      },
+      {
+        "path": "profile/A/A-428-Jasper Hagoort - Dside-荷兰.md",
+        "locator": "L133"
+      }
+    ]
+  },
+  {
     "url": "https://dside.nl/",
     "http_checked": false,
     "occurrences": [
@@ -11004,6 +11774,46 @@
       {
         "path": "profile/A/A-090-Jasper Hagoort-荷兰.md",
         "locator": "L155"
+      }
+    ]
+  },
+  {
+    "url": "https://dside.nl;dside.nl=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4983"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4992"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L5045"
+      },
+      {
+        "path": "profile/A/A-428-Jasper Hagoort - Dside-荷兰.md",
+        "locator": "L51"
+      },
+      {
+        "path": "profile/A/A-428-Jasper Hagoort - Dside-荷兰.md",
+        "locator": "L117"
+      },
+      {
+        "path": "profile/A/A-428-Jasper Hagoort - Dside-荷兰.md",
+        "locator": "L137"
+      }
+    ]
+  },
+  {
+    "url": "https://dside.nl〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-428-Jasper Hagoort - Dside-荷兰.md",
+        "locator": "L79"
       }
     ]
   },
@@ -11320,6 +12130,88 @@
       {
         "path": "profile/A/A-102-EAC Network Solutions-英国.md",
         "locator": "L82"
+      }
+    ]
+  },
+  {
+    "url": "https://ebc-marburg.de",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1722"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1743"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1748"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1753"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1810"
+      },
+      {
+        "path": "profile/A/A-395-Manuel Kuhn - EBC Marburg-德国.md",
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-395-Manuel Kuhn - EBC Marburg-德国.md",
+        "locator": "L128"
+      },
+      {
+        "path": "profile/A/A-395-Manuel Kuhn - EBC Marburg-德国.md",
+        "locator": "L131"
+      },
+      {
+        "path": "profile/A/A-395-Manuel Kuhn - EBC Marburg-德国.md",
+        "locator": "L134"
+      }
+    ]
+  },
+  {
+    "url": "https://ebc-marburg.de;ebc-marburg.de=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1719"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1728"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1781"
+      },
+      {
+        "path": "profile/A/A-395-Manuel Kuhn - EBC Marburg-德国.md",
+        "locator": "L51"
+      },
+      {
+        "path": "profile/A/A-395-Manuel Kuhn - EBC Marburg-德国.md",
+        "locator": "L118"
+      },
+      {
+        "path": "profile/A/A-395-Manuel Kuhn - EBC Marburg-德国.md",
+        "locator": "L138"
+      }
+    ]
+  },
+  {
+    "url": "https://ebc-marburg.de〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-395-Manuel Kuhn - EBC Marburg-德国.md",
+        "locator": "L80"
       }
     ]
   },
@@ -12642,8 +13534,70 @@
         "locator": "L686"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1008"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1029"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1034"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1039"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1096"
+      },
+      {
         "path": "profile/A/A-388-Vadym Klymenko - Explorer-乌克兰.md",
-        "locator": "L124"
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-388-Vadym Klymenko - Explorer-乌克兰.md",
+        "locator": "L128"
+      },
+      {
+        "path": "profile/A/A-388-Vadym Klymenko - Explorer-乌克兰.md",
+        "locator": "L131"
+      },
+      {
+        "path": "profile/A/A-388-Vadym Klymenko - Explorer-乌克兰.md",
+        "locator": "L134"
+      }
+    ]
+  },
+  {
+    "url": "https://explorer.od.ua;explorer.od.ua=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1005"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1014"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1067"
+      },
+      {
+        "path": "profile/A/A-388-Vadym Klymenko - Explorer-乌克兰.md",
+        "locator": "L51"
+      },
+      {
+        "path": "profile/A/A-388-Vadym Klymenko - Explorer-乌克兰.md",
+        "locator": "L118"
+      },
+      {
+        "path": "profile/A/A-388-Vadym Klymenko - Explorer-乌克兰.md",
+        "locator": "L138"
       }
     ]
   },
@@ -12654,10 +13608,16 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第39批.json",
         "locator": "L714"
-      },
+      }
+    ]
+  },
+  {
+    "url": "https://explorer.od.ua〕",
+    "http_checked": false,
+    "occurrences": [
       {
         "path": "profile/A/A-388-Vadym Klymenko - Explorer-乌克兰.md",
-        "locator": "L114"
+        "locator": "L80"
       }
     ]
   },
@@ -14772,6 +15732,88 @@
     ]
   },
   {
+    "url": "https://fmsweb.de",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4578"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4599"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4604"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4609"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4666"
+      },
+      {
+        "path": "profile/A/A-423-Sebastian Inacker - FMS Web（fmsweb.de）-德国.md",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-423-Sebastian Inacker - FMS Web（fmsweb.de）-德国.md",
+        "locator": "L132"
+      },
+      {
+        "path": "profile/A/A-423-Sebastian Inacker - FMS Web（fmsweb.de）-德国.md",
+        "locator": "L135"
+      },
+      {
+        "path": "profile/A/A-423-Sebastian Inacker - FMS Web（fmsweb.de）-德国.md",
+        "locator": "L138"
+      }
+    ]
+  },
+  {
+    "url": "https://fmsweb.de;fmsweb.de=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4575"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4584"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4637"
+      },
+      {
+        "path": "profile/A/A-423-Sebastian Inacker - FMS Web（fmsweb.de）-德国.md",
+        "locator": "L53"
+      },
+      {
+        "path": "profile/A/A-423-Sebastian Inacker - FMS Web（fmsweb.de）-德国.md",
+        "locator": "L122"
+      },
+      {
+        "path": "profile/A/A-423-Sebastian Inacker - FMS Web（fmsweb.de）-德国.md",
+        "locator": "L142"
+      }
+    ]
+  },
+  {
+    "url": "https://fmsweb.de〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-423-Sebastian Inacker - FMS Web（fmsweb.de）-德国.md",
+        "locator": "L84"
+      }
+    ]
+  },
+  {
     "url": "https://focusonenergy.com/trade-allies/shea-electric-communications-llc",
     "http_checked": false,
     "occurrences": [
@@ -14844,8 +15886,70 @@
         "locator": "L218"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1518"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1539"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1544"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1549"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1606"
+      },
+      {
         "path": "profile/A/A-393-Florian Valentin - Formatik-奥地利.md",
-        "locator": "L124"
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-393-Florian Valentin - Formatik-奥地利.md",
+        "locator": "L128"
+      },
+      {
+        "path": "profile/A/A-393-Florian Valentin - Formatik-奥地利.md",
+        "locator": "L131"
+      },
+      {
+        "path": "profile/A/A-393-Florian Valentin - Formatik-奥地利.md",
+        "locator": "L134"
+      }
+    ]
+  },
+  {
+    "url": "https://formatik.at;formatik.at=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1515"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1524"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1577"
+      },
+      {
+        "path": "profile/A/A-393-Florian Valentin - Formatik-奥地利.md",
+        "locator": "L51"
+      },
+      {
+        "path": "profile/A/A-393-Florian Valentin - Formatik-奥地利.md",
+        "locator": "L118"
+      },
+      {
+        "path": "profile/A/A-393-Florian Valentin - Formatik-奥地利.md",
+        "locator": "L138"
       }
     ]
   },
@@ -14856,10 +15960,16 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第40批.json",
         "locator": "L246"
-      },
+      }
+    ]
+  },
+  {
+    "url": "https://formatik.at〕",
+    "http_checked": false,
+    "occurrences": [
       {
         "path": "profile/A/A-393-Florian Valentin - Formatik-奥地利.md",
-        "locator": "L114"
+        "locator": "L80"
       }
     ]
   },
@@ -15236,12 +16346,80 @@
         "locator": "L807"
       },
       {
-        "path": "profile/A/A-399-Martin Klablena-捷克.md",
-        "locator": "L114"
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2130"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2151"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2156"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2161"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2218"
       },
       {
         "path": "profile/A/A-399-Martin Klablena-捷克.md",
-        "locator": "L124"
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-399-Martin Klablena-捷克.md",
+        "locator": "L128"
+      },
+      {
+        "path": "profile/A/A-399-Martin Klablena-捷克.md",
+        "locator": "L131"
+      },
+      {
+        "path": "profile/A/A-399-Martin Klablena-捷克.md",
+        "locator": "L134"
+      }
+    ]
+  },
+  {
+    "url": "https://fubar.cz;fubar.cz=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2127"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2136"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2189"
+      },
+      {
+        "path": "profile/A/A-399-Martin Klablena-捷克.md",
+        "locator": "L50"
+      },
+      {
+        "path": "profile/A/A-399-Martin Klablena-捷克.md",
+        "locator": "L118"
+      },
+      {
+        "path": "profile/A/A-399-Martin Klablena-捷克.md",
+        "locator": "L138"
+      }
+    ]
+  },
+  {
+    "url": "https://fubar.cz〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-399-Martin Klablena-捷克.md",
+        "locator": "L80"
       }
     ]
   },
@@ -17862,8 +19040,70 @@
         "locator": "L778"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4170"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4191"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4196"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4201"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4258"
+      },
+      {
         "path": "profile/A/A-419-Martin Ruiz - Ibersystems-西班牙.md",
-        "locator": "L124"
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-419-Martin Ruiz - Ibersystems-西班牙.md",
+        "locator": "L128"
+      },
+      {
+        "path": "profile/A/A-419-Martin Ruiz - Ibersystems-西班牙.md",
+        "locator": "L131"
+      },
+      {
+        "path": "profile/A/A-419-Martin Ruiz - Ibersystems-西班牙.md",
+        "locator": "L134"
+      }
+    ]
+  },
+  {
+    "url": "https://ibersystems.es;ibersystems.es=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4167"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4176"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4229"
+      },
+      {
+        "path": "profile/A/A-419-Martin Ruiz - Ibersystems-西班牙.md",
+        "locator": "L51"
+      },
+      {
+        "path": "profile/A/A-419-Martin Ruiz - Ibersystems-西班牙.md",
+        "locator": "L118"
+      },
+      {
+        "path": "profile/A/A-419-Martin Ruiz - Ibersystems-西班牙.md",
+        "locator": "L138"
       }
     ]
   },
@@ -17874,10 +19114,16 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第42批.json",
         "locator": "L806"
-      },
+      }
+    ]
+  },
+  {
+    "url": "https://ibersystems.es〕",
+    "http_checked": false,
+    "occurrences": [
       {
         "path": "profile/A/A-419-Martin Ruiz - Ibersystems-西班牙.md",
-        "locator": "L114"
+        "locator": "L80"
       }
     ]
   },
@@ -18704,6 +19950,56 @@
     ]
   },
   {
+    "url": "https://infonif.economia3.com/ficha-empresa/ditecom-design-sl",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L204"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L225"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L287"
+      },
+      {
+        "path": "profile/A/A-381-Ditecom-西班牙.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-381-Ditecom-西班牙.md",
+        "locator": "L129"
+      }
+    ]
+  },
+  {
+    "url": "https://infonif.economia3.com/ficha-empresa/ditecom-design-sl'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第23波_50户落盘.py",
+        "locator": "L70"
+      },
+      {
+        "path": "scripts/R66_R56_KP第23波_50户落盘.py",
+        "locator": "L71"
+      }
+    ]
+  },
+  {
+    "url": "https://infonif.economia3.com/ficha-empresa/ditecom-design-sl〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-381-Ditecom-西班牙.md",
+        "locator": "L81"
+      }
+    ]
+  },
+  {
     "url": "https://infonif.economia3.com/ficha-empresa/lineas-y-cables-sa",
     "http_checked": false,
     "occurrences": [
@@ -18724,6 +20020,88 @@
       {
         "path": "scripts/R66_R56_KP第19波_50户扩招落盘.py",
         "locator": "L509"
+      }
+    ]
+  },
+  {
+    "url": "https://innored.pl",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2742"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2763"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2768"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2773"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2830"
+      },
+      {
+        "path": "profile/A/A-405-Krzysztof Dudek - Innored-波兰.md",
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-405-Krzysztof Dudek - Innored-波兰.md",
+        "locator": "L128"
+      },
+      {
+        "path": "profile/A/A-405-Krzysztof Dudek - Innored-波兰.md",
+        "locator": "L131"
+      },
+      {
+        "path": "profile/A/A-405-Krzysztof Dudek - Innored-波兰.md",
+        "locator": "L134"
+      }
+    ]
+  },
+  {
+    "url": "https://innored.pl;innored.pl=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2739"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2748"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2801"
+      },
+      {
+        "path": "profile/A/A-405-Krzysztof Dudek - Innored-波兰.md",
+        "locator": "L51"
+      },
+      {
+        "path": "profile/A/A-405-Krzysztof Dudek - Innored-波兰.md",
+        "locator": "L118"
+      },
+      {
+        "path": "profile/A/A-405-Krzysztof Dudek - Innored-波兰.md",
+        "locator": "L138"
+      }
+    ]
+  },
+  {
+    "url": "https://innored.pl〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-405-Krzysztof Dudek - Innored-波兰.md",
+        "locator": "L80"
       }
     ]
   },
@@ -21320,6 +22698,88 @@
     ]
   },
   {
+    "url": "https://k2o.cc",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L804"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L825"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L830"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L835"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L892"
+      },
+      {
+        "path": "profile/A/A-386-Oleksandr Kovinia - K2O Services-乌克兰.md",
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-386-Oleksandr Kovinia - K2O Services-乌克兰.md",
+        "locator": "L128"
+      },
+      {
+        "path": "profile/A/A-386-Oleksandr Kovinia - K2O Services-乌克兰.md",
+        "locator": "L131"
+      },
+      {
+        "path": "profile/A/A-386-Oleksandr Kovinia - K2O Services-乌克兰.md",
+        "locator": "L134"
+      }
+    ]
+  },
+  {
+    "url": "https://k2o.cc;k2o.cc=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L801"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L810"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L863"
+      },
+      {
+        "path": "profile/A/A-386-Oleksandr Kovinia - K2O Services-乌克兰.md",
+        "locator": "L51"
+      },
+      {
+        "path": "profile/A/A-386-Oleksandr Kovinia - K2O Services-乌克兰.md",
+        "locator": "L118"
+      },
+      {
+        "path": "profile/A/A-386-Oleksandr Kovinia - K2O Services-乌克兰.md",
+        "locator": "L138"
+      }
+    ]
+  },
+  {
+    "url": "https://k2o.cc〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-386-Oleksandr Kovinia - K2O Services-乌克兰.md",
+        "locator": "L80"
+      }
+    ]
+  },
+  {
     "url": "https://kamicgroup.com/index.php/en/electronics-2/",
     "http_checked": false,
     "occurrences": [
@@ -21988,8 +23448,40 @@
         "locator": "L404"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3762"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3783"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3788"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3793"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3850"
+      },
+      {
         "path": "profile/A/A-415-Darío Noguera - Lanpixel-西班牙.md",
-        "locator": "L124"
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-415-Darío Noguera - Lanpixel-西班牙.md",
+        "locator": "L128"
+      },
+      {
+        "path": "profile/A/A-415-Darío Noguera - Lanpixel-西班牙.md",
+        "locator": "L131"
+      },
+      {
+        "path": "profile/A/A-415-Darío Noguera - Lanpixel-西班牙.md",
+        "locator": "L134"
       }
     ]
   },
@@ -22042,16 +23534,52 @@
     ]
   },
   {
+    "url": "https://lanpixel.com;lanpixel.com=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3759"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3768"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3821"
+      },
+      {
+        "path": "profile/A/A-415-Darío Noguera - Lanpixel-西班牙.md",
+        "locator": "L51"
+      },
+      {
+        "path": "profile/A/A-415-Darío Noguera - Lanpixel-西班牙.md",
+        "locator": "L118"
+      },
+      {
+        "path": "profile/A/A-415-Darío Noguera - Lanpixel-西班牙.md",
+        "locator": "L138"
+      }
+    ]
+  },
+  {
     "url": "https://lanpixel.com|Darío",
     "http_checked": false,
     "occurrences": [
       {
         "path": "batch/A类深挖_2026-09-28_R56_第42批.json",
         "locator": "L432"
-      },
+      }
+    ]
+  },
+  {
+    "url": "https://lanpixel.com〕",
+    "http_checked": false,
+    "occurrences": [
       {
         "path": "profile/A/A-415-Darío Noguera - Lanpixel-西班牙.md",
-        "locator": "L114"
+        "locator": "L80"
       }
     ]
   },
@@ -22214,8 +23742,70 @@
         "locator": "L218"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3558"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3579"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3584"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3589"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3646"
+      },
+      {
         "path": "profile/A/A-413-Menno van Krimpen - Libernet-荷兰.md",
-        "locator": "L127"
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-413-Menno van Krimpen - Libernet-荷兰.md",
+        "locator": "L131"
+      },
+      {
+        "path": "profile/A/A-413-Menno van Krimpen - Libernet-荷兰.md",
+        "locator": "L134"
+      },
+      {
+        "path": "profile/A/A-413-Menno van Krimpen - Libernet-荷兰.md",
+        "locator": "L137"
+      }
+    ]
+  },
+  {
+    "url": "https://libernet.nl;libernet.nl=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3555"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3564"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3617"
+      },
+      {
+        "path": "profile/A/A-413-Menno van Krimpen - Libernet-荷兰.md",
+        "locator": "L51"
+      },
+      {
+        "path": "profile/A/A-413-Menno van Krimpen - Libernet-荷兰.md",
+        "locator": "L121"
+      },
+      {
+        "path": "profile/A/A-413-Menno van Krimpen - Libernet-荷兰.md",
+        "locator": "L141"
       }
     ]
   },
@@ -22226,10 +23816,16 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第42批.json",
         "locator": "L246"
-      },
+      }
+    ]
+  },
+  {
+    "url": "https://libernet.nl〕",
+    "http_checked": false,
+    "occurrences": [
       {
         "path": "profile/A/A-413-Menno van Krimpen - Libernet-荷兰.md",
-        "locator": "L117"
+        "locator": "L83"
       }
     ]
   },
@@ -23200,14 +24796,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第39批.json",
         "locator": "L248"
-      },
-      {
-        "path": "profile/A/A-383-Makro Wisp-美国.md",
-        "locator": "L116"
-      },
-      {
-        "path": "profile/A/A-383-Makro Wisp-美国.md",
-        "locator": "L126"
       }
     ]
   },
@@ -23242,6 +24830,30 @@
     ]
   },
   {
+    "url": "https://makrowisp.com/contact-us/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L445"
+      },
+      {
+        "path": "profile/A/A-383-Makro Wisp-美国.md",
+        "locator": "L133"
+      }
+    ]
+  },
+  {
+    "url": "https://makrowisp.com/contact-us/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第23波_50户落盘.py",
+        "locator": "L94"
+      }
+    ]
+  },
+  {
     "url": "https://makrowisp.com/product-category/routers-switches/",
     "http_checked": false,
     "occurrences": [
@@ -23272,6 +24884,56 @@
     ]
   },
   {
+    "url": "https://makrowisp.com/top-networking-equipment-brands-for-small-business/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L419"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L440"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L502"
+      },
+      {
+        "path": "profile/A/A-383-Makro Wisp-美国.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-383-Makro Wisp-美国.md",
+        "locator": "L130"
+      }
+    ]
+  },
+  {
+    "url": "https://makrowisp.com/top-networking-equipment-brands-for-small-business/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第23波_50户落盘.py",
+        "locator": "L92"
+      },
+      {
+        "path": "scripts/R66_R56_KP第23波_50户落盘.py",
+        "locator": "L93"
+      }
+    ]
+  },
+  {
+    "url": "https://makrowisp.com/top-networking-equipment-brands-for-small-business/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-383-Makro Wisp-美国.md",
+        "locator": "L82"
+      }
+    ]
+  },
+  {
     "url": "https://maliszewski.pro",
     "http_checked": false,
     "occurrences": [
@@ -23284,8 +24946,70 @@
         "locator": "L313"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2640"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2661"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2666"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2671"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2728"
+      },
+      {
         "path": "profile/A/A-404-Bartłomiej Maliszewski-波兰.md",
-        "locator": "L125"
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-404-Bartłomiej Maliszewski-波兰.md",
+        "locator": "L129"
+      },
+      {
+        "path": "profile/A/A-404-Bartłomiej Maliszewski-波兰.md",
+        "locator": "L132"
+      },
+      {
+        "path": "profile/A/A-404-Bartłomiej Maliszewski-波兰.md",
+        "locator": "L135"
+      }
+    ]
+  },
+  {
+    "url": "https://maliszewski.pro;maliszewski.pro=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2637"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2646"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2699"
+      },
+      {
+        "path": "profile/A/A-404-Bartłomiej Maliszewski-波兰.md",
+        "locator": "L50"
+      },
+      {
+        "path": "profile/A/A-404-Bartłomiej Maliszewski-波兰.md",
+        "locator": "L119"
+      },
+      {
+        "path": "profile/A/A-404-Bartłomiej Maliszewski-波兰.md",
+        "locator": "L139"
       }
     ]
   },
@@ -23296,10 +25020,98 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第41批.json",
         "locator": "L341"
-      },
+      }
+    ]
+  },
+  {
+    "url": "https://maliszewski.pro〕",
+    "http_checked": false,
+    "occurrences": [
       {
         "path": "profile/A/A-404-Bartłomiej Maliszewski-波兰.md",
-        "locator": "L115"
+        "locator": "L81"
+      }
+    ]
+  },
+  {
+    "url": "https://mapnet.cz",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2232"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2253"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2258"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2263"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2320"
+      },
+      {
+        "path": "profile/A/A-400-Martin Poisel - MapNet-捷克.md",
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-400-Martin Poisel - MapNet-捷克.md",
+        "locator": "L128"
+      },
+      {
+        "path": "profile/A/A-400-Martin Poisel - MapNet-捷克.md",
+        "locator": "L131"
+      },
+      {
+        "path": "profile/A/A-400-Martin Poisel - MapNet-捷克.md",
+        "locator": "L134"
+      }
+    ]
+  },
+  {
+    "url": "https://mapnet.cz;mapnet.cz=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2229"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2238"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2291"
+      },
+      {
+        "path": "profile/A/A-400-Martin Poisel - MapNet-捷克.md",
+        "locator": "L51"
+      },
+      {
+        "path": "profile/A/A-400-Martin Poisel - MapNet-捷克.md",
+        "locator": "L118"
+      },
+      {
+        "path": "profile/A/A-400-Martin Poisel - MapNet-捷克.md",
+        "locator": "L138"
+      }
+    ]
+  },
+  {
+    "url": "https://mapnet.cz〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-400-Martin Poisel - MapNet-捷克.md",
+        "locator": "L80"
       }
     ]
   },
@@ -23660,6 +25472,88 @@
       {
         "path": "profile/B/B-210-Comitek（doxyterra.md）-摩尔多瓦.md",
         "locator": "L81"
+      }
+    ]
+  },
+  {
+    "url": "https://meganet.md",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2334"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2355"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2360"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2365"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2422"
+      },
+      {
+        "path": "profile/A/A-401-Radion Gareev - Meganet-摩尔多瓦.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-401-Radion Gareev - Meganet-摩尔多瓦.md",
+        "locator": "L130"
+      },
+      {
+        "path": "profile/A/A-401-Radion Gareev - Meganet-摩尔多瓦.md",
+        "locator": "L133"
+      },
+      {
+        "path": "profile/A/A-401-Radion Gareev - Meganet-摩尔多瓦.md",
+        "locator": "L136"
+      }
+    ]
+  },
+  {
+    "url": "https://meganet.md;meganet.md=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2331"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2340"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2393"
+      },
+      {
+        "path": "profile/A/A-401-Radion Gareev - Meganet-摩尔多瓦.md",
+        "locator": "L51"
+      },
+      {
+        "path": "profile/A/A-401-Radion Gareev - Meganet-摩尔多瓦.md",
+        "locator": "L120"
+      },
+      {
+        "path": "profile/A/A-401-Radion Gareev - Meganet-摩尔多瓦.md",
+        "locator": "L140"
+      }
+    ]
+  },
+  {
+    "url": "https://meganet.md〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-401-Radion Gareev - Meganet-摩尔多瓦.md",
+        "locator": "L82"
       }
     ]
   },
@@ -30258,8 +32152,70 @@
         "locator": "L32"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4374"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4395"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4400"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4405"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4462"
+      },
+      {
         "path": "profile/A/A-421-MikroTik Trening Srbija-塞尔维亚.md",
-        "locator": "L123"
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-421-MikroTik Trening Srbija-塞尔维亚.md",
+        "locator": "L127"
+      },
+      {
+        "path": "profile/A/A-421-MikroTik Trening Srbija-塞尔维亚.md",
+        "locator": "L130"
+      },
+      {
+        "path": "profile/A/A-421-MikroTik Trening Srbija-塞尔维亚.md",
+        "locator": "L133"
+      }
+    ]
+  },
+  {
+    "url": "https://mikrotiktrening.rs;mikrotiktrening.rs=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4371"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4380"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4433"
+      },
+      {
+        "path": "profile/A/A-421-MikroTik Trening Srbija-塞尔维亚.md",
+        "locator": "L50"
+      },
+      {
+        "path": "profile/A/A-421-MikroTik Trening Srbija-塞尔维亚.md",
+        "locator": "L117"
+      },
+      {
+        "path": "profile/A/A-421-MikroTik Trening Srbija-塞尔维亚.md",
+        "locator": "L137"
       }
     ]
   },
@@ -30270,10 +32226,16 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第43批.json",
         "locator": "L60"
-      },
+      }
+    ]
+  },
+  {
+    "url": "https://mikrotiktrening.rs〕",
+    "http_checked": false,
+    "occurrences": [
       {
         "path": "profile/A/A-421-MikroTik Trening Srbija-塞尔维亚.md",
-        "locator": "L113"
+        "locator": "L79"
       }
     ]
   },
@@ -30726,6 +32688,88 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-916/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://mnw.nl",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3660"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3681"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3686"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3691"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3748"
+      },
+      {
+        "path": "profile/A/A-414-Stephan Szarafinski - MNW-荷兰.md",
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-414-Stephan Szarafinski - MNW-荷兰.md",
+        "locator": "L128"
+      },
+      {
+        "path": "profile/A/A-414-Stephan Szarafinski - MNW-荷兰.md",
+        "locator": "L131"
+      },
+      {
+        "path": "profile/A/A-414-Stephan Szarafinski - MNW-荷兰.md",
+        "locator": "L134"
+      }
+    ]
+  },
+  {
+    "url": "https://mnw.nl;mnw.nl=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3657"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3666"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3719"
+      },
+      {
+        "path": "profile/A/A-414-Stephan Szarafinski - MNW-荷兰.md",
+        "locator": "L51"
+      },
+      {
+        "path": "profile/A/A-414-Stephan Szarafinski - MNW-荷兰.md",
+        "locator": "L118"
+      },
+      {
+        "path": "profile/A/A-414-Stephan Szarafinski - MNW-荷兰.md",
+        "locator": "L138"
+      }
+    ]
+  },
+  {
+    "url": "https://mnw.nl〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-414-Stephan Szarafinski - MNW-荷兰.md",
+        "locator": "L80"
       }
     ]
   },
@@ -32046,12 +34090,80 @@
         "locator": "L900"
       },
       {
-        "path": "profile/A/A-390-Stanimir Konakchiev - Nebo Systems-保加利亚.md",
-        "locator": "L114"
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1212"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1233"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1238"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1243"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1300"
       },
       {
         "path": "profile/A/A-390-Stanimir Konakchiev - Nebo Systems-保加利亚.md",
-        "locator": "L124"
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-390-Stanimir Konakchiev - Nebo Systems-保加利亚.md",
+        "locator": "L128"
+      },
+      {
+        "path": "profile/A/A-390-Stanimir Konakchiev - Nebo Systems-保加利亚.md",
+        "locator": "L131"
+      },
+      {
+        "path": "profile/A/A-390-Stanimir Konakchiev - Nebo Systems-保加利亚.md",
+        "locator": "L134"
+      }
+    ]
+  },
+  {
+    "url": "https://nebosystems.eu;nebosystems.eu=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1209"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1218"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1271"
+      },
+      {
+        "path": "profile/A/A-390-Stanimir Konakchiev - Nebo Systems-保加利亚.md",
+        "locator": "L51"
+      },
+      {
+        "path": "profile/A/A-390-Stanimir Konakchiev - Nebo Systems-保加利亚.md",
+        "locator": "L118"
+      },
+      {
+        "path": "profile/A/A-390-Stanimir Konakchiev - Nebo Systems-保加利亚.md",
+        "locator": "L138"
+      }
+    ]
+  },
+  {
+    "url": "https://nebosystems.eu〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-390-Stanimir Konakchiev - Nebo Systems-保加利亚.md",
+        "locator": "L80"
       }
     ]
   },
@@ -32408,8 +34520,70 @@
         "locator": "L685"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2028"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2049"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2054"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2059"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2116"
+      },
+      {
         "path": "profile/A/A-398-Oļegs Žakovs - NetPro-拉脱维亚.md",
-        "locator": "L125"
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-398-Oļegs Žakovs - NetPro-拉脱维亚.md",
+        "locator": "L129"
+      },
+      {
+        "path": "profile/A/A-398-Oļegs Žakovs - NetPro-拉脱维亚.md",
+        "locator": "L132"
+      },
+      {
+        "path": "profile/A/A-398-Oļegs Žakovs - NetPro-拉脱维亚.md",
+        "locator": "L135"
+      }
+    ]
+  },
+  {
+    "url": "https://netpro.lv;netpro.lv=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2025"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2034"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2087"
+      },
+      {
+        "path": "profile/A/A-398-Oļegs Žakovs - NetPro-拉脱维亚.md",
+        "locator": "L51"
+      },
+      {
+        "path": "profile/A/A-398-Oļegs Žakovs - NetPro-拉脱维亚.md",
+        "locator": "L119"
+      },
+      {
+        "path": "profile/A/A-398-Oļegs Žakovs - NetPro-拉脱维亚.md",
+        "locator": "L139"
       }
     ]
   },
@@ -32420,10 +34594,16 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第40批.json",
         "locator": "L713"
-      },
+      }
+    ]
+  },
+  {
+    "url": "https://netpro.lv〕",
+    "http_checked": false,
+    "occurrences": [
       {
         "path": "profile/A/A-398-Oļegs Žakovs - NetPro-拉脱维亚.md",
-        "locator": "L115"
+        "locator": "L81"
       }
     ]
   },
@@ -34380,14 +36560,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第38批.json",
         "locator": "L800"
-      },
-      {
-        "path": "profile/A/A-379-Optitera Global Networks Inc-加拿大.md",
-        "locator": "L116"
-      },
-      {
-        "path": "profile/A/A-379-Optitera Global Networks Inc-加拿大.md",
-        "locator": "L126"
       }
     ]
   },
@@ -34398,6 +36570,10 @@
       {
         "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
         "locator": "反向信号名单!Q162"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L37"
       },
       {
         "path": "batch/contact_research_2026-09-28_BCrescreen_A379-A384.json",
@@ -34412,12 +36588,26 @@
         "locator": "L19"
       },
       {
+        "path": "profile/A/A-379-Optitera Global Networks Inc-加拿大.md",
+        "locator": "L135"
+      },
+      {
         "path": "客户分级跟进表_2026-09.xlsx",
         "locator": "A级-重点好跟进!Q117"
       },
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-162/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://optiteraglobal.ca/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第23波_50户落盘.py",
+        "locator": "L52"
       }
     ]
   },
@@ -35350,6 +37540,34 @@
     ]
   },
   {
+    "url": "https://pl.linkedin.com/company/wisppl",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L115"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L136"
+      },
+      {
+        "path": "profile/A/A-380-WISP.PL-波兰.md",
+        "locator": "L126"
+      }
+    ]
+  },
+  {
+    "url": "https://pl.linkedin.com/company/wisppl'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第23波_50户落盘.py",
+        "locator": "L61"
+      }
+    ]
+  },
+  {
     "url": "https://pl.linkedin.com/company/wisppl?utm_source=chatgpt.com",
     "http_checked": false,
     "occurrences": [
@@ -35602,6 +37820,88 @@
       {
         "path": "scripts/R66_B_KP波2落盘.py",
         "locator": "L56"
+      }
+    ]
+  },
+  {
+    "url": "https://portup.ch",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2946"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2967"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2972"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2977"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3034"
+      },
+      {
+        "path": "profile/A/A-407-Philipp Marcel Albrecht - Portup-瑞士.md",
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-407-Philipp Marcel Albrecht - Portup-瑞士.md",
+        "locator": "L128"
+      },
+      {
+        "path": "profile/A/A-407-Philipp Marcel Albrecht - Portup-瑞士.md",
+        "locator": "L131"
+      },
+      {
+        "path": "profile/A/A-407-Philipp Marcel Albrecht - Portup-瑞士.md",
+        "locator": "L134"
+      }
+    ]
+  },
+  {
+    "url": "https://portup.ch;portup.ch=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2943"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2952"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3005"
+      },
+      {
+        "path": "profile/A/A-407-Philipp Marcel Albrecht - Portup-瑞士.md",
+        "locator": "L51"
+      },
+      {
+        "path": "profile/A/A-407-Philipp Marcel Albrecht - Portup-瑞士.md",
+        "locator": "L118"
+      },
+      {
+        "path": "profile/A/A-407-Philipp Marcel Albrecht - Portup-瑞士.md",
+        "locator": "L138"
+      }
+    ]
+  },
+  {
+    "url": "https://portup.ch〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-407-Philipp Marcel Albrecht - Portup-瑞士.md",
+        "locator": "L80"
       }
     ]
   },
@@ -37078,6 +39378,48 @@
     ]
   },
   {
+    "url": "https://rickfreyconsulting.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3456"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3477"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3482"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3487"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3544"
+      },
+      {
+        "path": "profile/A/A-412-Rick Frey - Rick Frey Consulting-美国.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-412-Rick Frey - Rick Frey Consulting-美国.md",
+        "locator": "L129"
+      },
+      {
+        "path": "profile/A/A-412-Rick Frey - Rick Frey Consulting-美国.md",
+        "locator": "L132"
+      },
+      {
+        "path": "profile/A/A-412-Rick Frey - Rick Frey Consulting-美国.md",
+        "locator": "L135"
+      }
+    ]
+  },
+  {
     "url": "https://rickfreyconsulting.com/",
     "http_checked": false,
     "occurrences": [
@@ -37114,6 +39456,46 @@
       {
         "path": "batch/contact_research_2026-09-28_BCrescreen_A379-A384.json",
         "locator": "L555"
+      }
+    ]
+  },
+  {
+    "url": "https://rickfreyconsulting.com;rickfreyconsulting.com=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3453"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3462"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3515"
+      },
+      {
+        "path": "profile/A/A-412-Rick Frey - Rick Frey Consulting-美国.md",
+        "locator": "L51"
+      },
+      {
+        "path": "profile/A/A-412-Rick Frey - Rick Frey Consulting-美国.md",
+        "locator": "L119"
+      },
+      {
+        "path": "profile/A/A-412-Rick Frey - Rick Frey Consulting-美国.md",
+        "locator": "L139"
+      }
+    ]
+  },
+  {
+    "url": "https://rickfreyconsulting.com〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-412-Rick Frey - Rick Frey Consulting-美国.md",
+        "locator": "L81"
       }
     ]
   },
@@ -39100,6 +41482,104 @@
     ]
   },
   {
+    "url": "https://rocketreach.co/ms-distribution-uk-ltd-profile_b5f07f70f42d352c",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L301"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L322"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L384"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L391"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L398"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L405"
+      },
+      {
+        "path": "profile/A/A-382-MS Dist-英国.md",
+        "locator": "L91"
+      },
+      {
+        "path": "profile/A/A-382-MS Dist-英国.md",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/A/A-382-MS Dist-英国.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-382-MS Dist-英国.md",
+        "locator": "L94"
+      },
+      {
+        "path": "profile/A/A-382-MS Dist-英国.md",
+        "locator": "L136"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/ms-distribution-uk-ltd-profile_b5f07f70f42d352c'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第23波_50户落盘.py",
+        "locator": "L79"
+      },
+      {
+        "path": "scripts/R66_R56_KP第23波_50户落盘.py",
+        "locator": "L80"
+      },
+      {
+        "path": "scripts/R66_R56_KP第23波_50户落盘.py",
+        "locator": "L81"
+      },
+      {
+        "path": "scripts/R66_R56_KP第23波_50户落盘.py",
+        "locator": "L82"
+      },
+      {
+        "path": "scripts/R66_R56_KP第23波_50户落盘.py",
+        "locator": "L83"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/ms-distribution-uk-ltd-profile_b5f07f70f42d352c〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-382-MS Dist-英国.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/A/A-382-MS Dist-英国.md",
+        "locator": "L83"
+      },
+      {
+        "path": "profile/A/A-382-MS Dist-英国.md",
+        "locator": "L84"
+      },
+      {
+        "path": "profile/A/A-382-MS Dist-英国.md",
+        "locator": "L85"
+      }
+    ]
+  },
+  {
     "url": "https://rocketreach.co/ms-electronics-ltd-profile_b4479492facba323",
     "http_checked": false,
     "occurrences": [
@@ -40422,8 +42902,70 @@
         "locator": "L125"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1416"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1437"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1442"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1447"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1504"
+      },
+      {
         "path": "profile/A/A-392-Nenad Marinkovic - Routerboard.rs-塞尔维亚.md",
-        "locator": "L124"
+        "locator": "L86"
+      },
+      {
+        "path": "profile/A/A-392-Nenad Marinkovic - Routerboard.rs-塞尔维亚.md",
+        "locator": "L128"
+      },
+      {
+        "path": "profile/A/A-392-Nenad Marinkovic - Routerboard.rs-塞尔维亚.md",
+        "locator": "L131"
+      },
+      {
+        "path": "profile/A/A-392-Nenad Marinkovic - Routerboard.rs-塞尔维亚.md",
+        "locator": "L134"
+      }
+    ]
+  },
+  {
+    "url": "https://routerboard.rs;routerboard.rs=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1413"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1422"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1475"
+      },
+      {
+        "path": "profile/A/A-392-Nenad Marinkovic - Routerboard.rs-塞尔维亚.md",
+        "locator": "L51"
+      },
+      {
+        "path": "profile/A/A-392-Nenad Marinkovic - Routerboard.rs-塞尔维亚.md",
+        "locator": "L118"
+      },
+      {
+        "path": "profile/A/A-392-Nenad Marinkovic - Routerboard.rs-塞尔维亚.md",
+        "locator": "L138"
       }
     ]
   },
@@ -40434,10 +42976,16 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第40批.json",
         "locator": "L153"
-      },
+      }
+    ]
+  },
+  {
+    "url": "https://routerboard.rs〕",
+    "http_checked": false,
+    "occurrences": [
       {
         "path": "profile/A/A-392-Nenad Marinkovic - Routerboard.rs-塞尔维亚.md",
-        "locator": "L114"
+        "locator": "L80"
       }
     ]
   },
@@ -41112,6 +43660,26 @@
         "locator": "L446"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4782"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4803"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4808"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4813"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4870"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A110-A159.json",
         "locator": "L311"
       },
@@ -41133,11 +43701,19 @@
       },
       {
         "path": "profile/A/A-426-Aris Vink - SDC-荷兰.md",
-        "locator": "L117"
+        "locator": "L89"
       },
       {
         "path": "profile/A/A-426-Aris Vink - SDC-荷兰.md",
-        "locator": "L127"
+        "locator": "L131"
+      },
+      {
+        "path": "profile/A/A-426-Aris Vink - SDC-荷兰.md",
+        "locator": "L134"
+      },
+      {
+        "path": "profile/A/A-426-Aris Vink - SDC-荷兰.md",
+        "locator": "L137"
       },
       {
         "path": "profile/A/A-558-SDC Group-荷兰.md",
@@ -41304,6 +43880,36 @@
     ]
   },
   {
+    "url": "https://sdc.nl;sdc.nl",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4779"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4788"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L4841"
+      },
+      {
+        "path": "profile/A/A-426-Aris Vink - SDC-荷兰.md",
+        "locator": "L53"
+      },
+      {
+        "path": "profile/A/A-426-Aris Vink - SDC-荷兰.md",
+        "locator": "L121"
+      },
+      {
+        "path": "profile/A/A-426-Aris Vink - SDC-荷兰.md",
+        "locator": "L141"
+      }
+    ]
+  },
+  {
     "url": "https://sdc.nl|ICT",
     "http_checked": false,
     "occurrences": [
@@ -41314,6 +43920,16 @@
       {
         "path": "profile/A/A-558-SDC Group-荷兰.md",
         "locator": "L113"
+      }
+    ]
+  },
+  {
+    "url": "https://sdc.nl〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-426-Aris Vink - SDC-荷兰.md",
+        "locator": "L83"
       }
     ]
   },
@@ -42826,10 +45442,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第43批.json",
         "locator": "L309"
-      },
-      {
-        "path": "profile/A/A-424-WIFIPROFI.CZ-捷克.md",
-        "locator": "L125"
       }
     ]
   },
@@ -42866,10 +45478,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第43批.json",
         "locator": "L337"
-      },
-      {
-        "path": "profile/A/A-424-WIFIPROFI.CZ-捷克.md",
-        "locator": "L115"
       }
     ]
   },
@@ -43460,6 +46068,48 @@
     ]
   },
   {
+    "url": "https://smarteye.eu",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2436"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2457"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2462"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2467"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2524"
+      },
+      {
+        "path": "profile/A/A-402-Jonathan De Graeve - Smarteye-比利时.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-402-Jonathan De Graeve - Smarteye-比利时.md",
+        "locator": "L129"
+      },
+      {
+        "path": "profile/A/A-402-Jonathan De Graeve - Smarteye-比利时.md",
+        "locator": "L132"
+      },
+      {
+        "path": "profile/A/A-402-Jonathan De Graeve - Smarteye-比利时.md",
+        "locator": "L135"
+      }
+    ]
+  },
+  {
     "url": "https://smarteye.eu/",
     "http_checked": false,
     "occurrences": [
@@ -43476,6 +46126,46 @@
       {
         "path": "batch/contact_research_2026-09-28_BCrescreen_A379-A384.json",
         "locator": "L488"
+      }
+    ]
+  },
+  {
+    "url": "https://smarteye.eu;smarteye.eu=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2433"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2442"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2495"
+      },
+      {
+        "path": "profile/A/A-402-Jonathan De Graeve - Smarteye-比利时.md",
+        "locator": "L51"
+      },
+      {
+        "path": "profile/A/A-402-Jonathan De Graeve - Smarteye-比利时.md",
+        "locator": "L119"
+      },
+      {
+        "path": "profile/A/A-402-Jonathan De Graeve - Smarteye-比利时.md",
+        "locator": "L139"
+      }
+    ]
+  },
+  {
+    "url": "https://smarteye.eu〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-402-Jonathan De Graeve - Smarteye-比利时.md",
+        "locator": "L81"
       }
     ]
   },
@@ -43642,6 +46332,88 @@
       {
         "path": "scripts/R66_R56_KP第22波_50户落盘.py",
         "locator": "L343"
+      }
+    ]
+  },
+  {
+    "url": "https://spadhausen.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1824"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1845"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1850"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1855"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1912"
+      },
+      {
+        "path": "profile/A/A-396-Elia Fiumalbo Tino Spadoni - Spadhausen-意大利.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-396-Elia Fiumalbo Tino Spadoni - Spadhausen-意大利.md",
+        "locator": "L130"
+      },
+      {
+        "path": "profile/A/A-396-Elia Fiumalbo Tino Spadoni - Spadhausen-意大利.md",
+        "locator": "L133"
+      },
+      {
+        "path": "profile/A/A-396-Elia Fiumalbo Tino Spadoni - Spadhausen-意大利.md",
+        "locator": "L136"
+      }
+    ]
+  },
+  {
+    "url": "https://spadhausen.com;spadhausen.com=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1821"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1830"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L1883"
+      },
+      {
+        "path": "profile/A/A-396-Elia Fiumalbo Tino Spadoni - Spadhausen-意大利.md",
+        "locator": "L51"
+      },
+      {
+        "path": "profile/A/A-396-Elia Fiumalbo Tino Spadoni - Spadhausen-意大利.md",
+        "locator": "L120"
+      },
+      {
+        "path": "profile/A/A-396-Elia Fiumalbo Tino Spadoni - Spadhausen-意大利.md",
+        "locator": "L140"
+      }
+    ]
+  },
+  {
+    "url": "https://spadhausen.com〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-396-Elia Fiumalbo Tino Spadoni - Spadhausen-意大利.md",
+        "locator": "L82"
       }
     ]
   },
@@ -44874,6 +47646,88 @@
       {
         "path": "scripts/R66_B_KP波3落盘.py",
         "locator": "L67"
+      }
+    ]
+  },
+  {
+    "url": "https://theispacademy.com",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3354"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3375"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3380"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3385"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3442"
+      },
+      {
+        "path": "profile/A/A-411-Kyle Heppler - The ISP Academy-美国.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-411-Kyle Heppler - The ISP Academy-美国.md",
+        "locator": "L130"
+      },
+      {
+        "path": "profile/A/A-411-Kyle Heppler - The ISP Academy-美国.md",
+        "locator": "L133"
+      },
+      {
+        "path": "profile/A/A-411-Kyle Heppler - The ISP Academy-美国.md",
+        "locator": "L136"
+      }
+    ]
+  },
+  {
+    "url": "https://theispacademy.com;theispacademy.com=ISP",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3351"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3360"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3413"
+      },
+      {
+        "path": "profile/A/A-411-Kyle Heppler - The ISP Academy-美国.md",
+        "locator": "L51"
+      },
+      {
+        "path": "profile/A/A-411-Kyle Heppler - The ISP Academy-美国.md",
+        "locator": "L120"
+      },
+      {
+        "path": "profile/A/A-411-Kyle Heppler - The ISP Academy-美国.md",
+        "locator": "L140"
+      }
+    ]
+  },
+  {
+    "url": "https://theispacademy.com〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-411-Kyle Heppler - The ISP Academy-美国.md",
+        "locator": "L82"
       }
     ]
   },
@@ -46362,6 +49216,30 @@
       {
         "path": "profile/B/B-532-MAC Solutions UK Ltd-英国.md",
         "locator": "L136"
+      }
+    ]
+  },
+  {
+    "url": "https://uk.linkedin.com/company/msdistuk",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L327"
+      },
+      {
+        "path": "profile/A/A-382-MS Dist-英国.md",
+        "locator": "L139"
+      }
+    ]
+  },
+  {
+    "url": "https://uk.linkedin.com/company/msdistuk'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第23波_50户落盘.py",
+        "locator": "L84"
       }
     ]
   },
@@ -49940,10 +52818,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第41批.json",
         "locator": "L406"
-      },
-      {
-        "path": "profile/A/A-405-Krzysztof Dudek - Innored-波兰.md",
-        "locator": "L124"
       }
     ]
   },
@@ -49954,10 +52828,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第41批.json",
         "locator": "L434"
-      },
-      {
-        "path": "profile/A/A-405-Krzysztof Dudek - Innored-波兰.md",
-        "locator": "L114"
       }
     ]
   },
@@ -52952,14 +55822,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第41批.json",
         "locator": "L900"
-      },
-      {
-        "path": "profile/A/A-410-Joshua Moore - Archous Networks-美国.md",
-        "locator": "L116"
-      },
-      {
-        "path": "profile/A/A-410-Joshua Moore - Archous Networks-美国.md",
-        "locator": "L126"
       }
     ]
   },
@@ -56640,10 +59502,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第43批.json",
         "locator": "L404"
-      },
-      {
-        "path": "profile/A/A-425-Rein Podra-爱沙尼亚.md",
-        "locator": "L125"
       }
     ]
   },
@@ -56658,10 +59516,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第43批.json",
         "locator": "L432"
-      },
-      {
-        "path": "profile/A/A-425-Rein Podra-爱沙尼亚.md",
-        "locator": "L115"
       }
     ]
   },
@@ -56844,6 +59698,30 @@
       {
         "path": "profile/A/A-350-Landatel-西班牙.md",
         "locator": "L81"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ceskaporadna.cz/profil/wifiprofi-cz-s-r-o",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L631"
+      },
+      {
+        "path": "profile/A/A-424-WIFIPROFI.CZ-捷克.md",
+        "locator": "L132"
+      }
+    ]
+  },
+  {
+    "url": "https://www.ceskaporadna.cz/profil/wifiprofi-cz-s-r-o'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第23波_50户落盘.py",
+        "locator": "L113"
       }
     ]
   },
@@ -57238,10 +60116,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第39批.json",
         "locator": "L407"
-      },
-      {
-        "path": "profile/A/A-385-Thomas Fossing - CloudPilot-丹麦.md",
-        "locator": "L126"
       }
     ]
   },
@@ -57252,10 +60126,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第39批.json",
         "locator": "L435"
-      },
-      {
-        "path": "profile/A/A-385-Thomas Fossing - CloudPilot-丹麦.md",
-        "locator": "L116"
       }
     ]
   },
@@ -57270,10 +60140,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第42批.json",
         "locator": "L683"
-      },
-      {
-        "path": "profile/A/A-418-Juan Miguel Gallardo Pérez - Codisa Telco Solutions-西班牙.md",
-        "locator": "L126"
       }
     ]
   },
@@ -57284,10 +60150,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第42批.json",
         "locator": "L711"
-      },
-      {
-        "path": "profile/A/A-418-Juan Miguel Gallardo Pérez - Codisa Telco Solutions-西班牙.md",
-        "locator": "L116"
       }
     ]
   },
@@ -60548,6 +63410,30 @@
     ]
   },
   {
+    "url": "https://www.cylex-polska.pl/firmy/wisp-pl-11344126.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L141"
+      },
+      {
+        "path": "profile/A/A-380-WISP.PL-波兰.md",
+        "locator": "L129"
+      }
+    ]
+  },
+  {
+    "url": "https://www.cylex-polska.pl/firmy/wisp-pl-11344126.html'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第23波_50户落盘.py",
+        "locator": "L62"
+      }
+    ]
+  },
+  {
     "url": "https://www.cyprusnet.com/ms-electronics",
     "http_checked": false,
     "occurrences": [
@@ -60780,10 +63666,6 @@
         "locator": "L161"
       },
       {
-        "path": "profile/A/A-427-Corné van Halteren - DAEL-荷兰.md",
-        "locator": "L125"
-      },
-      {
         "path": "客户分级跟进表_2026-09.xlsx",
         "locator": "A级-重点好跟进!D294"
       },
@@ -60904,10 +63786,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第43批.json",
         "locator": "L616"
-      },
-      {
-        "path": "profile/A/A-427-Corné van Halteren - DAEL-荷兰.md",
-        "locator": "L115"
       }
     ]
   },
@@ -63398,10 +66276,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第39批.json",
         "locator": "L60"
-      },
-      {
-        "path": "profile/A/A-381-Ditecom-西班牙.md",
-        "locator": "L115"
       }
     ]
   },
@@ -63914,6 +66788,56 @@
       {
         "path": "profile/A/A-354-NTS Direct-美国.md",
         "locator": "L81"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dnb.com/business-directory/company-profiles.optitera_global_networks_inc.8af4e343a8f9eb86e6b90afebfb506e5.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L11"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L32"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L94"
+      },
+      {
+        "path": "profile/A/A-379-Optitera Global Networks Inc-加拿大.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-379-Optitera Global Networks Inc-加拿大.md",
+        "locator": "L132"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dnb.com/business-directory/company-profiles.optitera_global_networks_inc.8af4e343a8f9eb86e6b90afebfb506e5.html'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第23波_50户落盘.py",
+        "locator": "L49"
+      },
+      {
+        "path": "scripts/R66_R56_KP第23波_50户落盘.py",
+        "locator": "L51"
+      }
+    ]
+  },
+  {
+    "url": "https://www.dnb.com/business-directory/company-profiles.optitera_global_networks_inc.8af4e343a8f9eb86e6b90afebfb506e5.html〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-379-Optitera Global Networks Inc-加拿大.md",
+        "locator": "L82"
       }
     ]
   },
@@ -64830,10 +67754,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第43批.json",
         "locator": "L679"
-      },
-      {
-        "path": "profile/A/A-428-Jasper Hagoort - Dside-荷兰.md",
-        "locator": "L123"
       }
     ]
   },
@@ -64870,10 +67790,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第43批.json",
         "locator": "L707"
-      },
-      {
-        "path": "profile/A/A-428-Jasper Hagoort - Dside-荷兰.md",
-        "locator": "L113"
       }
     ]
   },
@@ -65052,10 +67968,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第40批.json",
         "locator": "L405"
-      },
-      {
-        "path": "profile/A/A-395-Manuel Kuhn - EBC Marburg-德国.md",
-        "locator": "L124"
       }
     ]
   },
@@ -65066,10 +67978,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第40批.json",
         "locator": "L433"
-      },
-      {
-        "path": "profile/A/A-395-Manuel Kuhn - EBC Marburg-德国.md",
-        "locator": "L114"
       }
     ]
   },
@@ -67436,6 +70344,40 @@
     ]
   },
   {
+    "url": "https://www.facebook.com/61566512131352",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L101"
+      },
+      {
+        "path": "profile/A/A-379-Optitera Global Networks Inc-加拿大.md",
+        "locator": "L90"
+      }
+    ]
+  },
+  {
+    "url": "https://www.facebook.com/61566512131352'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第23波_50户落盘.py",
+        "locator": "L50"
+      }
+    ]
+  },
+  {
+    "url": "https://www.facebook.com/61566512131352〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-379-Optitera Global Networks Inc-加拿大.md",
+        "locator": "L83"
+      }
+    ]
+  },
+  {
     "url": "https://www.facebook.com/HolkerIT/",
     "http_checked": false,
     "occurrences": [
@@ -69154,10 +72096,6 @@
         "locator": "L165"
       },
       {
-        "path": "profile/A/A-423-Sebastian Inacker - FMS Web（fmsweb.de）-德国.md",
-        "locator": "L128"
-      },
-      {
         "path": "客户分级跟进表_2026-09.xlsx",
         "locator": "A级-重点好跟进!D312"
       },
@@ -69306,10 +72244,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第43批.json",
         "locator": "L246"
-      },
-      {
-        "path": "profile/A/A-423-Sebastian Inacker - FMS Web（fmsweb.de）-德国.md",
-        "locator": "L118"
       }
     ]
   },
@@ -87166,10 +90100,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第40批.json",
         "locator": "L873"
-      },
-      {
-        "path": "profile/A/A-400-Martin Poisel - MapNet-捷克.md",
-        "locator": "L124"
       }
     ]
   },
@@ -87180,10 +90110,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第40批.json",
         "locator": "L901"
-      },
-      {
-        "path": "profile/A/A-400-Martin Poisel - MapNet-捷克.md",
-        "locator": "L114"
       }
     ]
   },
@@ -89562,10 +92488,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第42批.json",
         "locator": "L311"
-      },
-      {
-        "path": "profile/A/A-414-Stephan Szarafinski - MNW-荷兰.md",
-        "locator": "L124"
       }
     ]
   },
@@ -89576,10 +92498,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第42批.json",
         "locator": "L339"
-      },
-      {
-        "path": "profile/A/A-414-Stephan Szarafinski - MNW-荷兰.md",
-        "locator": "L114"
       }
     ]
   },
@@ -89844,10 +92762,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第39批.json",
         "locator": "L126"
-      },
-      {
-        "path": "profile/A/A-382-MS Dist-英国.md",
-        "locator": "L126"
       }
     ]
   },
@@ -89918,10 +92832,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第39批.json",
         "locator": "L154"
-      },
-      {
-        "path": "profile/A/A-382-MS Dist-英国.md",
-        "locator": "L116"
       }
     ]
   },
@@ -94974,6 +97884,30 @@
     ]
   },
   {
+    "url": "https://www.paginasamarillas.es/f/madrid/ditecom_198749954_000000001.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L230"
+      },
+      {
+        "path": "profile/A/A-381-Ditecom-西班牙.md",
+        "locator": "L132"
+      }
+    ]
+  },
+  {
+    "url": "https://www.paginasamarillas.es/f/madrid/ditecom_198749954_000000001.html'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第23波_50户落盘.py",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
     "url": "https://www.paginebianche.it/pomezia/s-c-e-telecomunicazioni.3371943",
     "http_checked": false,
     "occurrences": [
@@ -96592,10 +99526,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第41批.json",
         "locator": "L592"
-      },
-      {
-        "path": "profile/A/A-407-Philipp Marcel Albrecht - Portup-瑞士.md",
-        "locator": "L124"
       }
     ]
   },
@@ -96606,10 +99536,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第41批.json",
         "locator": "L620"
-      },
-      {
-        "path": "profile/A/A-407-Philipp Marcel Albrecht - Portup-瑞士.md",
-        "locator": "L114"
       }
     ]
   },
@@ -101244,10 +104170,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第41批.json",
         "locator": "L125"
-      },
-      {
-        "path": "profile/A/A-402-Jonathan De Graeve - Smarteye-比利时.md",
-        "locator": "L125"
       }
     ]
   },
@@ -101284,10 +104206,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第41批.json",
         "locator": "L153"
-      },
-      {
-        "path": "profile/A/A-402-Jonathan De Graeve - Smarteye-比利时.md",
-        "locator": "L115"
       }
     ]
   },
@@ -101750,10 +104668,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第40批.json",
         "locator": "L498"
-      },
-      {
-        "path": "profile/A/A-396-Elia Fiumalbo Tino Spadoni - Spadhausen-意大利.md",
-        "locator": "L126"
       }
     ]
   },
@@ -101764,10 +104678,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第40批.json",
         "locator": "L526"
-      },
-      {
-        "path": "profile/A/A-396-Elia Fiumalbo Tino Spadoni - Spadhausen-意大利.md",
-        "locator": "L116"
       }
     ]
   },
@@ -103282,10 +106192,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第42批.json",
         "locator": "L32"
-      },
-      {
-        "path": "profile/A/A-411-Kyle Heppler - The ISP Academy-美国.md",
-        "locator": "L126"
       }
     ]
   },
@@ -103296,10 +106202,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第42批.json",
         "locator": "L60"
-      },
-      {
-        "path": "profile/A/A-411-Kyle Heppler - The ISP Academy-美国.md",
-        "locator": "L116"
       }
     ]
   },
@@ -107686,6 +110588,18 @@
         "locator": "L537"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L605"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L626"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L688"
+      },
+      {
         "path": "batch/contact_research_2026-09-27_A280-A299.json",
         "locator": "L288"
       },
@@ -107706,12 +110620,44 @@
         "locator": "L140"
       },
       {
+        "path": "profile/A/A-424-WIFIPROFI.CZ-捷克.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-424-WIFIPROFI.CZ-捷克.md",
+        "locator": "L129"
+      },
+      {
         "path": "客户分级跟进表_2026-09.xlsx",
         "locator": "A级-重点好跟进!Q299"
       },
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-591/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.wifiprofi.cz/'",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "scripts/R66_R56_KP第23波_50户落盘.py",
+        "locator": "L111"
+      },
+      {
+        "path": "scripts/R66_R56_KP第23波_50户落盘.py",
+        "locator": "L112"
+      }
+    ]
+  },
+  {
+    "url": "https://www.wifiprofi.cz/〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-424-WIFIPROFI.CZ-捷克.md",
+        "locator": "L81"
       }
     ]
   },
@@ -108194,10 +111140,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第38批.json",
         "locator": "L868"
-      },
-      {
-        "path": "profile/A/A-380-WISP.PL-波兰.md",
-        "locator": "L126"
       }
     ]
   },
@@ -108208,10 +111150,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第38批.json",
         "locator": "L896"
-      },
-      {
-        "path": "profile/A/A-380-WISP.PL-波兰.md",
-        "locator": "L116"
       }
     ]
   },
@@ -108226,10 +111164,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第39批.json",
         "locator": "L314"
-      },
-      {
-        "path": "profile/A/A-384-WispMax-意大利.md",
-        "locator": "L126"
       }
     ]
   },
@@ -108300,10 +111234,6 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第39批.json",
         "locator": "L342"
-      },
-      {
-        "path": "profile/A/A-384-WispMax-意大利.md",
-        "locator": "L116"
       }
     ]
   },
@@ -111438,8 +114368,40 @@
         "locator": "L499"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2844"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2865"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2870"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2875"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2932"
+      },
+      {
         "path": "profile/A/A-406-Fredrik Soderblom - XPD-瑞典.md",
-        "locator": "L126"
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-406-Fredrik Soderblom - XPD-瑞典.md",
+        "locator": "L130"
+      },
+      {
+        "path": "profile/A/A-406-Fredrik Soderblom - XPD-瑞典.md",
+        "locator": "L133"
+      },
+      {
+        "path": "profile/A/A-406-Fredrik Soderblom - XPD-瑞典.md",
+        "locator": "L136"
       }
     ]
   },
@@ -111458,16 +114420,52 @@
     ]
   },
   {
+    "url": "https://xpd.se;xpd.se=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2841"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2850"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L2903"
+      },
+      {
+        "path": "profile/A/A-406-Fredrik Soderblom - XPD-瑞典.md",
+        "locator": "L51"
+      },
+      {
+        "path": "profile/A/A-406-Fredrik Soderblom - XPD-瑞典.md",
+        "locator": "L120"
+      },
+      {
+        "path": "profile/A/A-406-Fredrik Soderblom - XPD-瑞典.md",
+        "locator": "L140"
+      }
+    ]
+  },
+  {
     "url": "https://xpd.se|Fredrik",
     "http_checked": false,
     "occurrences": [
       {
         "path": "batch/A类深挖_2026-09-28_R56_第41批.json",
         "locator": "L527"
-      },
+      }
+    ]
+  },
+  {
+    "url": "https://xpd.se〕",
+    "http_checked": false,
+    "occurrences": [
       {
         "path": "profile/A/A-406-Fredrik Soderblom - XPD-瑞典.md",
-        "locator": "L116"
+        "locator": "L82"
       }
     ]
   },
@@ -111510,8 +114508,70 @@
         "locator": "L497"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3864"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3885"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3890"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3895"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3952"
+      },
+      {
         "path": "profile/A/A-416-Jorge Castellet Marques-西班牙.md",
-        "locator": "L125"
+        "locator": "L87"
+      },
+      {
+        "path": "profile/A/A-416-Jorge Castellet Marques-西班牙.md",
+        "locator": "L129"
+      },
+      {
+        "path": "profile/A/A-416-Jorge Castellet Marques-西班牙.md",
+        "locator": "L132"
+      },
+      {
+        "path": "profile/A/A-416-Jorge Castellet Marques-西班牙.md",
+        "locator": "L135"
+      }
+    ]
+  },
+  {
+    "url": "https://yatuaprendes.com;yatuaprendes.com=",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3861"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3870"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json",
+        "locator": "L3923"
+      },
+      {
+        "path": "profile/A/A-416-Jorge Castellet Marques-西班牙.md",
+        "locator": "L50"
+      },
+      {
+        "path": "profile/A/A-416-Jorge Castellet Marques-西班牙.md",
+        "locator": "L119"
+      },
+      {
+        "path": "profile/A/A-416-Jorge Castellet Marques-西班牙.md",
+        "locator": "L139"
       }
     ]
   },
@@ -111522,10 +114582,16 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第42批.json",
         "locator": "L525"
-      },
+      }
+    ]
+  },
+  {
+    "url": "https://yatuaprendes.com〕",
+    "http_checked": false,
+    "occurrences": [
       {
         "path": "profile/A/A-416-Jorge Castellet Marques-西班牙.md",
-        "locator": "L115"
+        "locator": "L81"
       }
     ]
   },

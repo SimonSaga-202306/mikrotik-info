@@ -49,9 +49,9 @@ updated: 2026-10-04
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】WIFIPROFI.CZ（捷克）：WIFIPROFI.CZ:MikroTik/网络培训+专业装备店（高空作业认证课+一日 MT 课在排）;**重大动态：Praděd 山上培训点 20 年后 2026-09-20 关闭（刚发生）**;店页首页混售侦探小说注
-- 【推断】培训点关停=业务收缩期（找新收入口？)；店仍在营（装备销售延续）；诚实的关停注不写进信
-- 【假设】转型窗口期的店收录低密针
+- 【事实】WIFIPROFI.CZ:WIFIPROFI.CZ s.r.o.(捷克 Lety(布拉格西),V Chaloupkách 83, 252 29;**IČ 02889251;DIČ CZ02889251;+420 774 331 774;klima@wifiprofi.cz(域名邮箱=创主姓谱)**;**MikroTik 培训+专业无线件店(shop5.wifiprofi.cz:RouterBoard/SFP 模块/发射卡/SAREL 户外柜/ISP 工程件**;**创始人 Kryštof Klíma(官网自署「zakladatel」;1999 年起做网络;MikroTik 认证培训师;个体体 IČ 61646385 谱)**;**同人镜像注:A-288 Krystof Klima(波 21 人名档)=同一人;A-424=公司体档;免重复主发,A-288 主发口,A-424 备案候补;官网 SEO 污染标题差旗注(搜索面博彩劫持标题 vs 站内正常)**
+- 【推断】R66 第 23 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -77,65 +77,72 @@ updated: 2026-10-04
 - 来源等级：official-directory-dup（R41–R48 联系方式台账口径）
 - **原始联系字段**：774 331 774 / klima@wifiprofi.cz【已停用:2026-10-04 退信 not-found 发不过去】
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Kryštof Klíma**(Zakladatel/创始人+MikroTik 认证培训师(官网自署))— wifiprofi.cz 官网(O) 〔已有(公司官方公开件/登记册自曝);源:https://www.wifiprofi.cz/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Kryštof Klíma | Zakladatel/创始人+MikroTik 认证培训师(官网自署) | wifiprofi.cz 官网(O) | official-self-published·谱/leads-only(直发需 opt-in) | https://www.wifiprofi.cz/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 店收录
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：装备店类目 value 件（转型窗口低密）
-- **要问的问题**：店类目收 value 件吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
-
-### 第 3 次跟进 · 留档
-
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第43批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://shop5.wifiprofi.cz|'školení MikroTik a sítí, prodej vybavení vysílačů pro profesionály a ISP'
-- **②芯片/型号**：MikroTik 谱
-- **③KP 深挖**：20 年培训史
-- **④Saga 对标**：STC-424 低密针（$180 锚点一致）
-- **⑤在乎与偏好**：老学员社群口碑
+- **①背景再核**：WIFIPROFI.CZ s.r.o.(捷克 Lety(布拉格西),V Chaloupkách 83, 252 29;**IČ 02889251;DIČ CZ02889251;+420 774 331 774;klima@wifiprofi.cz(域名邮箱=创主姓谱)**;**MikroTik 培训+专业无线件店(shop5.wifiprofi.cz:RouterBoard/SFP 模块/发射卡/SAREL 户外柜/ISP 工程件**;**创始人 Kryštof Klíma(官网自署「zakladatel」;1999 年起做网络;MikroTik 认证培训师;个体体 IČ 61646385 谱)**;**同人镜像注:A-288 Krystof Klima(波 21 人名档)=同一人;A-424=公司体档;免重复主发,A-288 主发口,A-424 备案候补;官网 SEO 污染标题差旗注(搜索面博彩劫持标题 vs 站内正常)**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Kryštof Klíma(Zakladatel/创始人+MikroTik 认证培训师(官网自署),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：创主域箱+培训谱=直达
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**'NEJSPÍŠ POSLEDNÍ ŠKOLENÍ NA PRADĚDU - uzavření k 20.9.2026' + školení MikroTik a sítí, prodej vybavení
-  > 'NEJSPÍŠ POSLEDNÍ ŠKOLENÍ NA PRADĚDU - uzavření k 20.9.2026' + školení MikroTik a sítí, prodej vybavení
-  > 来源：https://shop5.wifiprofi.cz
+- **【决策链与对接人】**「Kryštof Klíma — zakladatel」(wifiprofi.cz 官网自署);klima@wifiprofi.cz 域箱;**与 A-288 同人镜像:免重复主发注**
+  > 「Kryštof Klíma — zakladatel」(wifiprofi.cz 官网自署);klima@wifiprofi.cz 域箱;**与 A-288 同人镜像:免重复主发注**
+  > 来源：https://www.wifiprofi.cz/
+- **【联系方式与基础画像】**Wifiprofi.CZ, s.r.o.;V Chaloupkách 83, Lety, 252 29 Praha-západ;IČ 02889251;+420 774 331 774;školení MikroTik a sítí, prodej konstrukcí a vybavení vysílačů pro profesionály a ISP(ceskaporadna/shop5 件)
+  > Wifiprofi.CZ, s.r.o.;V Chaloupkách 83, Lety, 252 29 Praha-západ;IČ 02889251;+420 774 331 774;školení MikroTik a sítí, prodej konstrukcí a vybavení vysílačů pro profesionály a ISP(ceskaporadna/shop5 件)
+  > 来源：https://www.ceskaporadna.cz/profil/wifiprofi-cz-s-r-o
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：捷克 MT 培训+装备店（转型窗口）
-- **产品线与在售品牌**：培训+装备+出版物杂摆
-- **目标行业与场景**：ISP/装维学员
-- **团队与规模**：小微
-- **决策链与对接人**：klima@ 口
-- **技术与认证**：MT 课+高空作业证
-- **采购与供应链信号**：—
-- **近期动态与线索**：Praděd 场地 2026-09-20 关停
-- **与我方契合点**：店收录+课堂对照低密针
-- **风险与注意**：转型窗口期——优先序不明
+- **业务定位**：WIFIPROFI.CZ s.r.o.(捷克 Lety(布拉格西),V Chaloupkách 83, 252 29;**IČ 02889251;DIČ CZ02889251;+420 774 331 774;klima@wifiprofi.cz(域名邮箱=创主姓谱)**;**MikroTik 培训+专业无线件店(shop5.wifiprofi.cz:RouterBoard/SFP 模块/发射卡/SAREL 户外柜/ISP 工程件**;**创始人 Kryštof Klíma(官网自署「zakladatel」;1999 年起做网络;MikroTik 认证培训师;个体体 IČ 61646385 谱)**;**同人镜像注:A-288 Krystof Klima(波 21 人名档)=同一人;A-424=公司体档;免重复主发,A-288 主发口,A-424 备案候补;官网 SEO 污染标题差旗注(搜索面博彩劫持标题 vs 站内正常)**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：捷克 MikroTik 培训+专业店(Klíma 创主)
+- **团队与规模**：小铺谱
+- **决策链与对接人**：**Kryštof Klíma(Zakladatel/创始人+MikroTik 认证培训师(官网自署),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 23 波谱名牌(A-288 镜像)
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Kryštof Klíma 直达(opt-in 律;**A-288 同人镜像,错峰免重复主发**)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -150,10 +157,10 @@ updated: 2026-10-04
 
 ## SWOT
 
-- **S**：社群深
-- **W**：场地关停
-- **O**：装备店线
-- **T**：—
+- **S**：创主域箱+培训谱=直达
+- **W**：同人镜像错峰注
+- **O**：Klíma 直达位(候补口)
+- **T**：自家链竞谱
 
 ## 触达与风险红线
 
@@ -172,7 +179,7 @@ updated: 2026-10-04
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -181,8 +188,8 @@ updated: 2026-10-04
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 装备店存续
-  - [ ] 首发量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -194,16 +201,12 @@ updated: 2026-10-04
 **主题**：PoE switching for your projects
 
 ```text
-Hi WIFIPROFI team,
+Vážený pane Klímo,
 
-Twenty years of MikroTik training in the mountains - and a shop that equips the same engineers between classes. With the shop continuing, one honest value row could serve your customers: a documented 24-port PoE switch at $180 USD EXW (2026-09-29).
-
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
-
-One question: would your equipment shelves carry a documented value PoE row?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

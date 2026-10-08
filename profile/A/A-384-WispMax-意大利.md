@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】WispMax（意大利）：意大利 WISP 装备店（品类宽：天线/板卡/能源/监控/热区/IoT/**EV 充电桩 Trydan**);**switch Townet managed industrial PoE 5P 在售**;TinyControl LAN controller
-- 【推断】工业 PoE 交换类目（Townet）已开+品类开放度高（EV 充电桩都收）=替补收录最自然；双角：商业 PoE 对照行+工业 8 口件（Townet 旁）
-- 【假设】双角：商业对照行+工业件（Townet 旁）
+- 【事实】WispMax:WispMax(意大利 Acqualagna/Cagli (PU);+39 0721797396;info@wispmax.com;**MikroTik 意大利官方分销(官方名录;RouterOS Italia 论坛投票谱 #2);**ELMAT 官网 Townet 新闻页:「il gruppo Townet comprende anche Wispmax, il portale di E-commerce principale partner europeo di MikroTik e IWlab」=Townet 集团 MikroTik 欧洲主力电商门谱+IWlab 云网管软件 spin-off=集团谱金档!**;牌谱 Compex/Jirous/Mars Antennas/MTI Wireless Edge/PC Engines/Teracom/Townet/Ubiquiti/Fiamm/MeanWell**;**关联群互注:A-353 ELMAT(波 22)=同 Townet 集团生态谱**;具名决策人谱面未锁→守档准由(MikroTik 意官方+Townet 集团谱在档,具名待专批)**
+- 【推断】R66 第 23 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -87,56 +87,59 @@ updated: 2026-09-28
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 商业线
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：商业 PoE 替补对照行（品类开放史角）
-- **要问的问题**：对照行收吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 工业线
+### 第 2 次跟进 · 一页目录卡
 
-- **推什么**：STI-288GP（统一口径=P1 系列，不外溢）
-- **切入点**：Townet 类目旁 8 口工业 PoE 二轨
-- **要问的问题**：工业类目收第二选择吗？
-- **随附/动作**：规格页
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
 
-### 第 3 次跟进 · 留档
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第39批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://www.wispmax.com|Townet managed industrial PoE switch 5P 在售+EV 线
-- **②芯片/型号**：Townet（工业）
-- **③KP 深挖**：WISP 店多年
-- **④Saga 对标**：STC-424+STI-288GP 双角（$180 锚点一致）
-- **⑤在乎与偏好**：敢上新牌（品类开放史）
+- **①背景再核**：WispMax(意大利 Acqualagna/Cagli (PU);+39 0721797396;info@wispmax.com;**MikroTik 意大利官方分销(官方名录;RouterOS Italia 论坛投票谱 #2);**ELMAT 官网 Townet 新闻页:「il gruppo Townet comprende anche Wispmax, il portale di E-commerce principale partner europeo di MikroTik e IWlab」=Townet 集团 MikroTik 欧洲主力电商门谱+IWlab 云网管软件 spin-off=集团谱金档!**;牌谱 Compex/Jirous/Mars Antennas/MTI Wireless Edge/PC Engines/Teracom/Townet/Ubiquiti/Fiamm/MeanWell**;**关联群互注:A-353 ELMAT(波 22)=同 Townet 集团生态谱**;具名决策人谱面未锁→守档准由(MikroTik 意官方+Townet 集团谱在档,具名待专批)**
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**守档准由;R66 第 23 波点名(谱面无实名)**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：Townet 集团 MT 欧洲主力电商=链窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【在售品牌】**Slider: switch Townet managed industrial PoE 5P + 品类含 WISP/监控/能源/EV 充电桩
-  > Slider: switch Townet managed industrial PoE 5P + 品类含 WISP/监控/能源/EV 充电桩
-  > 来源：https://www.wispmax.com
+- **【决策链与对接人】**谱面未锁具名决策人=守档准由;**「Wispmax, il portale di E-commerce principale partner europeo di MikroTik e IWlab」(ELMAT 官网 Townet 新闻页=集团谱证)**(2026-10-08 R66 23 波留痕)
+  > 谱面未锁具名决策人=守档准由;**「Wispmax, il portale di E-commerce principale partner europeo di MikroTik e IWlab」(ELMAT 官网 Townet 新闻页=集团谱证)**(2026-10-08 R66 23 波留痕)
+  > 来源：http://www.elmat.com/news/townet.html
+- **【联系方式与基础画像】**Acqualagna/Cagli (PU);+39 0721797396;info@wispmax.com;MikroTik 意官方分销名录;Acqualagna 谱(altostrat/routerositalia 件);WispMax Reseller;Townet 集团谱(elmat.com 件)
+  > Acqualagna/Cagli (PU);+39 0721797396;info@wispmax.com;MikroTik 意官方分销名录;Acqualagna 谱(altostrat/routerositalia 件);WispMax Reseller;Townet 集团谱(elmat.com 件)
+  > 来源：https://altostrat.io/buying/hardware/resellers/europe/italy/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：意 WISP 装备店（品类超宽）
-- **产品线与在售品牌**：MikroTik/Ubiquiti/**Townet 工业 PoE**/Trydan EV
-- **目标行业与场景**：WISP/装维/工业/EV 客
-- **团队与规模**：小型
-- **决策链与对接人**：info@ 口
-- **技术与认证**：—
-- **采购与供应链信号**：库存电商
-- **近期动态与线索**：EV 充电桩线 2026 扩张
-- **与我方契合点**：**双角**:STC-424 对照行+STI-288GP 工业件（Townet 类目已开）
-- **风险与注意**：品类过宽——卖点须极简
+- **业务定位**：WispMax(意大利 Acqualagna/Cagli (PU);+39 0721797396;info@wispmax.com;**MikroTik 意大利官方分销(官方名录;RouterOS Italia 论坛投票谱 #2);**ELMAT 官网 Townet 新闻页:「il gruppo Townet comprende anche Wispmax, il portale di E-commerce principale partner europeo di MikroTik e IWlab」=Townet 集团 MikroTik 欧洲主力电商门谱+IWlab 云网管软件 spin-off=集团谱金档!**;牌谱 Compex/Jirous/Mars Antennas/MTI Wireless Edge/PC Engines/Teracom/Townet/Ubiquiti/Fiamm/MeanWell**;**关联群互注:A-353 ELMAT(波 22)=同 Townet 集团生态谱**;具名决策人谱面未锁→守档准由(MikroTik 意官方+Townet 集团谱在档,具名待专批)**
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：意佩萨罗 Townet 集团 MT 欧洲电商档
+- **团队与规模**：集团电商谱
+- **决策链与对接人**：**守档准由;R66 第 23 波点名(谱面无实名)**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 23 波谱名牌(Townet 集团;关联 A-353)
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：守档:MT 意官方+Townet 集团谱在档,具名待专批;**关联 A-353 ELMAT 互注**
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -151,10 +154,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：类目已开
-- **W**：店小
-- **O**：双角
-- **T**：多牌
+- **S**：Townet 集团 MT 欧洲主力电商=链窗
+- **W**：具名缺守档
+- **O**：无守档
+- **T**：—
 
 ## 触达与风险红线
 
@@ -182,8 +185,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 买手口
-  - [ ] 首发量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -195,16 +198,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi WispMax team,
+Gentili Signori,
 
-An industrial PoE switch from Townet already earns shelf space next to EV chargers and WISP kit - that tells us you run an open category. Two honest rows to offer: a documented 24-port commercial PoE switch at $180 USD EXW (2026-09-29), and an 8-port DIN-rail industrial PoE unit beside it.
-
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
-
-One question: would your switch category carry a documented value row, commercial or industrial?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

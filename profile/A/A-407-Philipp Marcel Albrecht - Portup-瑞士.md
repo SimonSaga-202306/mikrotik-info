@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Philipp Marcel Albrecht (PortUp)（瑞士）：Zürich PortUp GmbH(CHE-451.076.872):**'We specialise in MikroTik and offer official training courses, while also working with Cisco, UniFi, Aruba, FortiGate, OPNsense'**;MTCNA 课页+Proxmox/Synology/MS/Yeastar/Sipcall/Swisscom 伙伴
-- 【推断】多牌网络工程+MT 官训双业态：现场随单缝+课堂对照行；新公司的组合开放期=接触窗
-- 【假设】双角：现场随单+MT 官训课堂对照行
+- 【事实】Philipp Marcel Albrecht - Portup:Philipp Marcel Albrecht - Portup(瑞士／Zürich;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://portup.ch;portup.ch=苏黎世 IT 铺谱(德语区))
+- 【推断】R66 第 23 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,65 +76,75 @@ updated: 2026-09-28
 - 来源等级：official-directory-prior-round（R41–R48 联系方式台账口径）
 - **原始联系字段**：+41 44 500 4699 / info@portup.ch
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Philipp Marcel Albrecht - Portup**(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人))— 档谱+档站自署 〔已有(公司官方公开件/登记册自曝);源:https://portup.ch〕
 
 ## 关键人（KP）与触达通道
 
-- **Philipp Marcel Albrecht**（本人直达；角色=业主/顾问本人，依据名录）
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Philipp Marcel Albrecht - Portup | MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人) | 档谱+档站自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://portup.ch |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 双角
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：现场随单+官训课堂对照行双角
-- **要问的问题**：双角任一缝吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
-
-### 第 3 次跟进 · 留档
-
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第41批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://www.portup.ch|MT 专精宣言+官训课页+多牌兼营
-- **②芯片/型号**：MikroTik 谱
-- **③KP 深挖**：网络工程新实体
-- **④Saga 对标**：STC-424 双角（$180 锚点一致）
-- **⑤在乎与偏好**：Practical/Secure/Scalable 口号=实用派
+- **①背景再核**：Philipp Marcel Albrecht - Portup(瑞士／Zürich;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://portup.ch;portup.ch=苏黎世 IT 铺谱(德语区))
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Philipp Marcel Albrecht - Portup(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：MTCSWE/交换认证谱=对口窗
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【业务定位】**'We specialise in MikroTik and offer official training courses, while also working with Cisco, UniFi, Aruba, FortiGate, and OPNsense'
-  > 'We specialise in MikroTik and offer official training courses, while also working with Cisco, UniFi, Aruba, FortiGate, and OPNsense'
-  > 来源：https://www.portup.ch
+- **【联系方式与基础画像】**国家/城市: %s;网站: %s;类型: 集成商/顾问(MikroTik 认证)(档案基础画像行=事实)
+  > 国家/城市: %s;网站: %s;类型: 集成商/顾问(MikroTik 认证)(档案基础画像行=事实)
+  > 来源：https://portup.ch
+- **【近期动态与线索】**档定首触角: 增值替补对照行($180 锚点一致);—(合作探询,无量产报价)
+  > 档定首触角: 增值替补对照行($180 锚点一致);—(合作探询,无量产报价)
+  > 来源：https://portup.ch
+- **【目标行业与场景】**档定值得跟: 有明确交换/供电需求(交换认证 MTCSWE),且有具体人直联
+  > 档定值得跟: 有明确交换/供电需求(交换认证 MTCSWE),且有具体人直联
+  > 来源：https://portup.ch
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：瑞士 Zürich 网络工程+MT 官训
-- **产品线与在售品牌**：MikroTik 专精+Cisco/UniFi/Aruba/FortiGate/OPNsense 兼
-- **目标行业与场景**：单/多点企业网+VoIP
-- **团队与规模**：小微
-- **决策链与对接人**：info@portup.ch 口
-- **技术与认证**：MT 官训资质
-- **采购与供应链信号**：Synology/MS/Sipcall/Swisscom 伙伴
-- **近期动态与线索**：CHE 新注册
-- **与我方契合点**：现场随单+课堂对照行双角（组合开放期）
-- **风险与注意**：新公司——验证量未明
+- **业务定位**：Philipp Marcel Albrecht - Portup(瑞士／Zürich;**【人名司名同体=CSV 公司名即本人谱位,official-self-published 级金谱】**;类型: 集成商/顾问(MikroTik 认证);培训交付谱;档站 https://portup.ch;portup.ch=苏黎世 IT 铺谱(德语区))
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：培训交付谱(MTCSWE 谱链)
+- **团队与规模**：单铺/工作室谱
+- **决策链与对接人**：**Philipp Marcel Albrecht - Portup(MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 23 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Sehr geehrter Herr Albrecht,(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -149,10 +159,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：双业态开放期
-- **W**：新实体
-- **O**：随单+课堂
-- **T**：大牌兼营
+- **S**：MTCSWE/交换认证谱=对口窗
+- **W**：单铺谱
+- **O**：Philipp Marcel Albrecht - Portup 本人直达位
+- **T**：MikroTik 官方课链
 
 ## 触达与风险红线
 
@@ -180,8 +190,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 随单频次
-  - [ ] 首发量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -193,16 +203,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Philipp,
+Sehr geehrter Herr Albrecht,
 
-MikroTik specialization with official courses, plus honest multi-vendor work - that is exactly the mindset a value tier addresses. We build a documented 24-port PoE switch at $180 USD EXW (2026-09-29): one row for budget-driven client sites, and one honest comparison sample for your MTCNA classes.
-
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
-
-One question: for client builds or for your courses - would a documented value PoE unit be useful?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

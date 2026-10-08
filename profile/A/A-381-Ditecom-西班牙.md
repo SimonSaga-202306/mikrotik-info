@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Ditecom（西班牙）：Madrid 测试测量店（Pico 示波器/光纤熔接/OTDR/CAT6 认证仪）+环境监控传感（STE2/Poseidon/Sensdesk);Networking 区=RS232/485 转以太网、E/S por IP、媒体转换器；实体店+光纤校准实验室
-- 【推断】仪器/传感主业，联网件=串口/光电口子——唯一缝=工业联网类目旁 PoE 口子；低密长针不追
-- 【假设】工业联网类目旁 PoE 口子窄位（低密）
+- 【事实】Ditecom:DITECOM DESIGN S.L.(西班牙 Madrid(Arganzuela/Palos de Moguer),Canarias 3 Local Izquierda, 28045;**NIF B82914482;2001-03-07 创 25 年(SL 体 2003 登;旧名 Ditecom Desing 拼写谱);0-10 人;€0.5-1M;cap ≤€3.5k;电脑/外设/软件零售专营+分销网店;915285437**;**Administrador único(唯一董事): Daniel Moya Albacete(BORME 2014 复任件 O;LI 自署:2000 年 UPC-ETSETB 电信工程硕士=金谱)**;Registro Mercantil MADRID T16344 谱
+- 【推断】R66 第 23 波具名 KP 金谱
+- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -77,65 +77,72 @@ updated: 2026-09-28
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：+34 91 528 54 37 / info@ditecom.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Daniel Moya Albacete**(Administrador único(唯一董事;BORME 公证件+LI 自署))— infonif.economia3.com BORME 件 〔已有(公司官方公开件/登记册自曝);源:https://infonif.economia3.com/ficha-empresa/ditecom-design-sl〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Daniel Moya Albacete | Administrador único(唯一董事;BORME 公证件+LI 自署) | infonif.economia3.com BORME 件 | official-self-published·谱/leads-only(直发需 opt-in) | https://infonif.economia3.com/ficha-empresa/ditecom-design-sl |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W（24口 PoE + 4×10G）），备选型不进邮件。
 
-### 第 1 次跟进 · 口子针
+### 第 1 次跟进 · 具名 kp 引路口
 
 - **推什么**：STC-424XGGPM-280W（统一口径=P1 系列，不外溢）
-- **切入点**：工业联网类目旁 PoE 口子（低密长针）
-- **要问的问题**：口子存在吗？
+- **切入点**：具名 kp 引路 → 采购/技术硬件分载线
+- **要问的问题**：贵司 24 口 PoE 交换机的硬件采购线由哪位同事主责？
 - **随附/动作**：规格页
 
-### 第 2 次跟进 · 留档
+### 第 2 次跟进 · 一页目录卡
+
+- **推什么**：一页目录卡（统一口径=P1 系列，不外溢）
+- **切入点**：价值层 PoE 谱链卡
+- **要问的问题**：可否入谱链名录？
+- **随附/动作**：卡
+
+### 第 3 次跟进 · 留档+LinkedIn 谱
 
 - **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：无响——留档
-- **要问的问题**：—
-- **随附/动作**：—
-
-### 第 3 次跟进 · 留档
-
-- **推什么**：—（统一口径=P1 系列，不外溢）
-- **切入点**：留档
+- **切入点**：谱链明智途径
 - **要问的问题**：—
 - **随附/动作**：—
 
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-09-28_R56_第39批.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第23波50户.json`；价格均为 EXW 快照。
 
-- **①背景再核**：https://www.ditecom.com|Networking 区（串口服务器/媒体转换器）+校准实验室
-- **②芯片/型号**：HWg/串口谱
-- **③KP 深挖**：仪器店 15+ 年
-- **④Saga 对标**：STC-424 口子窄位（$180 锚点一致）
-- **⑤在乎与偏好**：传感/布线认证仪客群=装维链路
+- **①背景再核**：DITECOM DESIGN S.L.(西班牙 Madrid(Arganzuela/Palos de Moguer),Canarias 3 Local Izquierda, 28045;**NIF B82914482;2001-03-07 创 25 年(SL 体 2003 登;旧名 Ditecom Desing 拼写谱);0-10 人;€0.5-1M;cap ≤€3.5k;电脑/外设/软件零售专营+分销网店;915285437**;**Administrador único(唯一董事): Daniel Moya Albacete(BORME 2014 复任件 O;LI 自署:2000 年 UPC-ETSETB 电信工程硕士=金谱)**;Registro Mercantil MADRID T16344 谱
+- **②芯片/型号**：(待谱面二补)
+- **③KP 深挖**：**Daniel Moya Albacete(Administrador único(唯一董事;BORME 公证件+LI 自署),official-self-published·谱/leads-only(直发需 opt-in))**
+- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
+- **⑤在乎与偏好**：独董 BORME 件=直达
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【产品线】**Networking – Conectividad: Conversores de medios RS232/422/485 a ethernet / E/S por IP / Repetidor RS232/485/CAN
-  > Networking – Conectividad: Conversores de medios RS232/422/485 a ethernet / E/S por IP / Repetidor RS232/485/CAN
-  > 来源：https://ditecom.com/instrumentacion/networking/
+- **【决策链与对接人】**Cargo Directivo: MOYA ALBACETE DANIEL (Administrador único);BORME 10 abril 2014: Adm. Solid. MOYA ALBACETE DANIEL;LI: UPC ETSETB TelecomBCN 2000 电信工程(infonif/LI 件)
+  > Cargo Directivo: MOYA ALBACETE DANIEL (Administrador único);BORME 10 abril 2014: Adm. Solid. MOYA ALBACETE DANIEL;LI: UPC ETSETB TelecomBCN 2000 电信工程(infonif/LI 件)
+  > 来源：https://infonif.economia3.com/ficha-empresa/ditecom-design-sl
+- **【联系方式与基础画像】**NIF B82914482;C/ Canarias 3, 28045 Madrid;915285437;constituida 07/03/2001 SL;0-10 empleados;€500k-1M;comercio minorista ordenadores/periféricos(paginasamarillas/infonif 件)
+  > NIF B82914482;C/ Canarias 3, 28045 Madrid;915285437;constituida 07/03/2001 SL;0-10 empleados;€500k-1M;comercio minorista ordenadores/periféricos(paginasamarillas/infonif 件)
+  > 来源：https://www.paginasamarillas.es/f/madrid/ditecom_198749954_000000001.html
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：马德里测试测量/监控传感店
-- **产品线与在售品牌**：Rigol/HWg/Pico+串口联网件
-- **目标行业与场景**：实验室/机房/装维客群
-- **团队与规模**：小型
-- **决策链与对接人**：info@ 口
-- **技术与认证**：光纤校准实验室
-- **采购与供应链信号**：门店+实验室
-- **近期动态与线索**：4 天工作制注
-- **与我方契合点**：工业联网类目旁 PoE 口子（低密长针）
-- **风险与注意**：**交换非主类——期待管理**
+- **业务定位**：DITECOM DESIGN S.L.(西班牙 Madrid(Arganzuela/Palos de Moguer),Canarias 3 Local Izquierda, 28045;**NIF B82914482;2001-03-07 创 25 年(SL 体 2003 登;旧名 Ditecom Desing 拼写谱);0-10 人;€0.5-1M;cap ≤€3.5k;电脑/外设/软件零售专营+分销网店;915285437**;**Administrador único(唯一董事): Daniel Moya Albacete(BORME 2014 复任件 O;LI 自署:2000 年 UPC-ETSETB 电信工程硕士=金谱)**;Registro Mercantil MADRID T16344 谱
+- **产品线与在售品牌**：(波次二补谱面)
+- **目标行业与场景**：西马德里 25 年电脑件零售分销铺
+- **团队与规模**：0-10 人;2001 创
+- **决策链与对接人**：**Daniel Moya Albacete(Administrador único(唯一董事;BORME 公证件+LI 自署),official-self-published·谱/leads-only(直发需 opt-in))**
+- **技术与认证**：(波次二补)
+- **采购与供应链信号**：(波次二补)
+- **近期动态与线索**：2026-10-08 R66 23 波谱名牌
+- **与我方契合点**：24 口 value PoE 谱链窗口
+- **风险与注意**：Daniel Moya Albacete 直达(opt-in 律)
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -150,10 +157,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：类目口子
-- **W**：交换非主类
-- **O**：工业口子
-- **T**：—
+- **S**：独董 BORME 件=直达
+- **W**：微实体谱
+- **O**：Moya 独董直达位
+- **T**：区域链竞谱
 
 ## 触达与风险红线
 
@@ -172,7 +179,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -181,8 +188,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 口子存在性
-  - [ ] 首发量
+  - [ ] 硬件采购线在职者(波次二)
+  - [ ] MikroTik 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -194,16 +201,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Ditecom team,
+Estimado Sr. Moya,
 
-Your Networking shelf already bridges serial and fiber into Ethernet - the industrial edge where sensors actually live. The box feeding those converters is usually a PoE switch, and a documented value unit at $180 USD EXW (2026-09-29) could sit naturally beside them.
-
-We build a 24-port Gigabit PoE access switch (280W total budget, 802.3af/at, per-port watchdog, desktop or rack) with full English documentation. Reference: $180 USD EXW (2026-09-29) - a documented value tier beside the lines you already carry, not a replacement.
-
-One question: would your networking category make room for a documented value PoE switch?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
 
 Best regards,
-Saga Telecom - PoE switch OEM/ODM
+Saga Networks Export Desk
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
