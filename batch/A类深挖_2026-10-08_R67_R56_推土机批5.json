@@ -1,0 +1,645 @@
+{
+ "date": "2026-10-08",
+ "wave": "R67 推土机深挖 批5(5 户:A-092 Titan 美 5K 员 PE/A-102 EAC 英 20 年教育商用/A-100 Networkology 英 5 董事 Defence 守界/A-139 ARCHE 德 Wilhelmsahaven 军用 IT 守界/A-282 Berdin 西 22 年 5 子司 Importa)",
+ "scope": "深挖 5/5;具名 KP 20 条(Pack/Adams/Wilson/Radi/Hammond/Papworth/Silk/David/Wallington/Owen/Morgan/Jelley/Seeberg/Ristau/Hoppe/Ortiz/Ostolaza/del Río/Mentxaka);守界重户 2 户(A-100 Defence/政府 G-Cloud 谱口,A-139 军用 IT 明示);双锚营窗(A-092 5K-10K/730 员,A-102 11-50/22 员,A-282 >30M€/€2.5M);进口 EXW 对口 1 户(A-282 「Importa」)",
+ "records": [
+  {
+   "customer": "A-092",
+   "fact": "波 R67 批5·A-092:美谱: **Titan Security Group 深挖(zoominfo/rocketreach/cb insights/PR Newswire/marksman PDF 五源互证)**:**1994 创 Chicago IL(31 年家族企业 until 2019+ Quad-C Management PE 投 2021);业务=security staffing 人员安防+security systems integration 电子安防系统集成(video surveillance/CCTV/electronic access control/turnstiles 闸机/biometrics 生物识别/visitor management/alarm monitoring 报警监控);覆盖 US Midwest 中西部+Southeastern 东南部**;**员工 5,000-10,000(zoominfo 2026)/730(rocketreach 旧档)——员数数窗双锚;营收 $2B(zoominfo 估计)；8 战略地点(localized support 全国足印)**;**2024-09-16 宣布与 Marksman Security Corporation 战略合并(PR Newswire 官方通稿; Marksman 总部 Fort Lauderdale FL;合并后联合公司「premier boutique security services provider」;Titan 继续独立品牌运营;合并高管团:Dave Pack 任 CEO、Mark Radi 任 President、Zeke Kaufman 任 CAO=三人组合并领导)**;**Quad-C Management PE 投资(2021 年入股家族企业)**;**KP 金谱:David S. Pack(President & CEO,履历=前 EY(前安永)+Arthur Andersen(前安达信)会计所背景=**高学历职业履历**;Chicago)+Brad Adams(Vice President of Information Technology=**IT 副总裁 P0=电子安防/安防系统集成交换机/服务器需求源最直口**;LI 谱 e78advisors.com 曾司)+Paul Wilson(President – Great Lakes Region 大区总裁)+Mark Apel(President 总裁 Chicago)+Dan Williams(Vice President of Operations 运营副总裁)+Ross McCarthy(Chief HR Officer)+Jason Sikora(Chief Revenue Officer 收入总裁=收入侧高管)**+Niko Jones(总裁另行谱位注)+Noel Rusk(Portfolio Manager)+Suzanne Monreal(VP)+Isaac Lund(GFO(原 CFO)+Todd Sheetz(Director of Operations);info@titan-security.com CSV 既有台口活。",
+   "inference": "R67 推土机深挖 批5 具名 KP 金谱(PE+合并+IT 副总 P0)",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Brad Adams VP IT / Dave Pack CEO 双口 电子安防集成载线引路",
+   "evidence_main": "https://www.prnewswire.com/news-releases/titan-security-group-and-marksman-security-corporation-announce-strategic-merger-creating-a-boutique-security-services-provider-with-a-national-footprint-302250097.html",
+   "tech": "安防人员+电子安防系统集成(video/CCTV/EACS 访问控制/闸机/生物识别/访客/报警监控);全国足印 8 点;PE 背书",
+   "hr": "5K-10K(zoominfo)/730(rocketreach 旧档)双窗注;8 战略地点;Marksman 合并后全国足印",
+   "contact_found": "**David S. Pack(President & CEO=始创家族成员 PE 前人)+Brad Adams(VP IT=最直口 P0)+Paul Wilson(President Great Lakes Region)+Dan Williams(VP Operations)+Jason Sikora(CRO)+Ross McCarthy(CHRO)+Mark Radi(合并后 President Marksman 系)**",
+   "contact_pending": "直发具名需 opt-in;info@titan-security.com CSV 既有台口活档",
+   "dims": {
+    "业务定位": "Titan Security Group(1994 创,芝加哥总部,PE Quad-C 背书,2024 Marksman 合并):美中西+东南 8 点全国安防人员+电子安防系统集成商",
+    "产品线与在售品牌": "security staffing 人员安防+security systems integration 电子安防集成(video surveillance/CCTV/EACS 电子访问控制/闸机/生物识别/访客管理/报警监控);合并后 boutique security services",
+    "目标行业与场景": "multi-family 多家庭住宅/零售/商用服务/企业/机构;US MidWest 中西部+Southeastern 东南部 8 点全国足印",
+    "团队与规模": "5,000-10,000(zoominfo)/730(rocketreach 旧档)双窗注;合并 Marksman 2024;PE Quad-C 背书",
+    "决策链与对接人": "David S. Pack(总裁/CEO=始创家族,EY/Arthur Andersen 财务背景)+Brad Adams(VP IT 最直口)+Paul Wilson(President GLR)+Dan Williams(VP Ops)+Jason Sikora(CRO)+Ross McCarthy(CHRO)+Mark Radi(合并后 President)",
+    "技术与认证": "Quad-C Management 投资(2021);Marksman 合并 2024-09-16 Yahoo/PR Newswire 官方通稿;Chicago IL 1994 家族企业谱",
+    "采购与供应链信号": "电子安防系统集成交换机/PoE 监控回传/门禁/访客管理=IT 采购线;VP IT=Adams 最直口;CITO/网络设备供应链谱",
+    "近期动态与线索": "2024-09-16 Marksman 合并公告;PE Quad-C 投资 2021;5-10K 员工;zoominfo 2026 $2B 估营收谱",
+    "与我方契合点": "Brad Adams(VP IT)+Dave Pack(CEO 创始家族) → 24 口 PoE(电子安防集成 PoE 监控回传/门禁线)",
+    "风险与注意": "**员数数窗双锚(5-10K/730);PE 背书注;合并后品牌并弄顺位注;安防为物业/民用商用场景自然——多家庭住宅/零售/商用/企业机构,零军用语义自然**"
+   },
+   "evidence": [
+    {
+     "dim": "合并登实",
+     "quote": "CHICAGO and FORT LAUDERDALE, Fla., Sept. 16, 2024 — Titan Security Group, LLC, a leading provider of security solutions including security staffing and security systems integration headquartered in Chicago, and Marksman Security Corporation, a premier provider of security staffing services headquartered in Fort Lauderdale, announce a strategic merger; Dave Pack as CEO, Mark Radi as President, Zeke Kaufman as CAO; Titan is a portfolio company of Quad-C Management, Inc.",
+     "source": "https://www.prnewswire.com/news-releases/titan-security-group-and-marksman-security-corporation-announce-strategic-merger-creating-a-boutique-security-services-provider-with-a-national-footprint-302250097.html"
+    },
+    {
+     "dim": "公司谱",
+     "quote": "Revenue $2B;5K - 10K employees;8 strategic locations;multi-family residential, retail environments, and general commercial security requirements;Founded 1994;David Pack President & CEO",
+     "source": "https://www.zoominfo.com/c/titan-security-group/353923263"
+    },
+    {
+     "dim": "CEO 履历",
+     "quote": "Dave S Pack — Chief Executive Officer, President, Executive Vice President — Work History: EY, and Arthur Andersen(前安永+前安达信会计所谱)",
+     "source": "https://www.cbinsights.com/company/titan-security-group/people"
+    },
+    {
+     "dim": "KP 矩阵",
+     "quote": "Brad Adams Vice President Of Information Technology(Chicago);Paul Wilson President - Great Lakes Region;Dan Williams Vice President of Operations;Jason Sikora CRO;Ross McCarthy CHRO",
+     "source": "https://rocketreach.co/titan-security-group-profile_b5d6316cf42e31e1"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Adams VP IT P0",
+     "push": "STC-424XGGPM-280W",
+     "angle": "Vice President of Information Technology 最直口 → 24 口 PoE(电子安防集成 PoE 监控回传/门禁/访客管理线)载线",
+     "question": "贵司 IT 线的交换机采购由哪位同事主责?24 口 280W PoE 带看门狗交换机有接口意?",
+     "proof": "PR Newswire 五源真源"
+    },
+    {
+     "stage": "第 2 次跟进 · Pack CEO 创始门",
+     "push": "STI-288GPM/424",
+     "angle": "President & CEO 创始家族+EY/安达信履历钩核;Quad-C PE 谱",
+     "question": "贵司 Marksman 合并后联合 IT 架构线的硬件采购口?",
+     "proof": "cb insights/ zoominfo 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Sikora CRO 线",
+     "push": "STC-28DGGPM",
+     "angle": "Chief Revenue Officer 谱;收入侧;Marksman 全国足印谱口并行",
+     "question": "贵司收入侧的集成产品铺位由哪位同事主责? ",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "1994 创 Chicago(31 年家族;Quad-C PE 2021);2024-09-16 Marksman 合并(三人组合并领导);8 点全国足印",
+     "②芯片/型号": "人员安防+电子安防集成(video/CCTV/EACS/生物识别/访客/报警监控);PoE 24 口集成载线",
+     "③KP 深挖": "David S Pack CEO 创始家族(EY/AA 财务背景)+Brad Adams VP IT 最直口+Wilson(Region 区)+Sikora CRO+Williams VP Ops",
+     "④Saga 对标": "电子安防集成 → 24 口 PoE 监控回传/门禁/访客线载;Quad-C PE 谱",
+     "⑤在乎与偏好": "1994 谱;Quad-C 投资 2021;Marksman 全国足印谱",
+     "⑥SWOT": "S=Barrage PE+创始 1994/W=员数 5K-10K/730 双窗差/O=VP IT 直口 Adams P0/T=合并后品牌并弄顺位注"
+    },
+    "care": "PE+Marksman 合并=谱位口径钉;员数数窗双锚注;Mark Radi(Marksman 系 President)并入链",
+    "swot": {
+     "S": "Barrage PE+创始 1994",
+     "W": "员数 5K-10K/730 双窗差",
+     "O": "VP IT 直口 Adams P0",
+     "T": "合并后品牌并弄顺位注"
+    },
+    "uncertain": "MikroTik 谱位在售线需核;Adams 直邮推档",
+    "gap_proof": "PR Newswire/zoominfo/cb insights/rocketreach/marksman pdf 5 源真源"
+   },
+   "unknowns": [
+    "MikroTik 谱位在售线需官网核",
+    "Adams 直邮推档",
+    "合并后 IPC 谱位口分辨"
+   ],
+   "relation": "2026-10-08 R67 推土机深挖 批5",
+   "email": "Dear Brad Adams Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for electronic security system integration (CCTV backhaul, access control, visitor management). Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**Brad Adams(Vice President of IT 最直口 P0)+David S. Pack(President & CEO 创始家族)+Paul Wilson(President Great Lakes Region)**;CSV 台口 info@titan-security.com",
+   "kp": [
+    {
+     "name": "Brad Adams",
+     "role": "Vice President of Information Technology(Chicago;电子安防/安防系统集成交换机/服务器/网络设备采购线最直口 P0);曾司 e78advisors.com 谱",
+     "contact": "badams@titan-security.com(推断,送完核)/+1 312-479-XXXX 谱",
+     "status": "rocketreach 直证 O 级;邮箱推断 G 级",
+     "source": "https://rocketreach.co/titan-security-group-profile_b5d6316cf42e31e1"
+    },
+    {
+     "name": "David S. Pack",
+     "role": "President & Chief Executive Officer(始创家族成员;EY(前安永)+Arthur Andersen(前安达信)履历 cb insights 直证;Chicago HQ;Quad-C PE 与现代并购总决口)",
+     "contact": "dpack@titan-security.com(推断,送完核)/+1 312-902-XXXX 谱",
+     "status": "zoominfo+cb insights 双源 O 级;邮箱推断 G 级",
+     "source": "https://www.cbinsights.com/company/titan-security-group/people"
+    },
+    {
+     "name": "Paul Wilson",
+     "role": "President – Great Lakes Region(大区总裁;Chicago)",
+     "contact": "pwilson@titan-security.com(推断)",
+     "status": "rocketreach 直证 O 级;邮箱推断 G 级",
+     "source": "https://rocketreach.co/titan-security-group-profile_b5d6316cf42e31e1"
+    },
+    {
+     "name": "Mark Radi",
+     "role": "President(Marksman 合并后联合总裁;Fort Lauderdale 谱)",
+     "contact": "info@titan-security.com 台口转 Marksman 链",
+     "status": "PR Newswire 通稿直证 O 级",
+     "source": "https://www.prnewswire.com/news-releases/titan-security-group-and-marksman-security-corporation-announce-strategic-merger-creating-a-boutique-security-services-provider-with-a-national-footprint-302250097.html"
+    }
+   ],
+   "tag": "类型=Titan 安防人员+集成商 1994 创;势态=PE+Marksman 合并;KP=Pack CEO 创始+Adams VP IT P0 双口",
+   "question": "触达决策门:Brad Adams(VP IT 最直口 P0)直门;David Pack(CEO 创始家族);",
+   "alt2": "替代口:Paul Wilson(President GLR)+Dan Williams(VP Ops)+Jason Sikora(CRO)+Mark Radi(Marksman President);",
+   "alt3": "备用:info@titan-security.com(CSV 既有台口)+1 800-236-XXXX 台口转;Ross McCarthy(CHRO)+Noel Rusk(Portfolio Mgr)"
+  },
+  {
+   "customer": "A-102",
+   "fact": "波 R67 批5·A-102:英谱: **EAC Network Solutions Ltd 深挖(官网/Companies House/LI/contactout/rocketreach 五源互证)**:**Company No 05535673,2005-08-12 创(20 年);SIC 62020 信息技术咨询;Stokenchurch Buckinghamshire HP14 3RQ HQ(历史注册地 Witney OX28 4BE)+14 员工(LI 11-50/contactout 22 员双窗注)**;**业务=IT 教育+商业双线:Network Support & Maintenance/Wireless Infrastructure 无线基建/Network Access Control NAC/Virtual Desktop Infrastructure VDI/BYOD 移动设备整合/Integrated Solutions/Unified Communications 统一通信(「supported IT partner to schools and business customers」LI 自报;客户证言 Salveo Care 养老院 MD Grace Evans+Oxford Science Park Magdalen Centre Manager Ania Ferenc)**;**慈善 que【give something back】sector 社会项目注**;**KP 金谱:Ben Hammond(Technical Director& Co-Founder 共同创始,DOB Dec 1977=47 岁,近 30 年 IT 经验,2005-08 同任至今;LI 组织部谱 Hemel Hempstead 谱;contactout+LI 杰谱)+Mike Papworth(Director& Co-Founder 共同创始,DOB Dec 1964=61 岁,2005-08 同任至今;LI 组织部谱 Oxford;同任 20 年合伙人)+Emma David(General Manager LI 谱)+Laura Papworth(Office Manager 家庭谱注)+Tina Restall+Sharon Wheeler(Operations Team 经理)+Jeff Woodhall+Steve Burns(Independent Contractor 谱)+Taylor Lloyd(Senior Business Development Representative)+Libby March(Internal Sales Account Manager)+Chris Silk(Technical Operations Manager)**=10 人谱;**carbon 注:邮箱格式 100%={first}.{last}@eac-ns.co.uk(contactout 直证)=具名直邮破解链;enquiry@eac-ns.co.uk CSV 既有台口活**;20 年教育+商用双区(Buckinghamshire 首柜)=专业谱。",
+   "inference": "R67 推土机深挖 批5 具名 KP 金谱(20 年双创始+邮箱 100% 格式链)",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Hammond Technical Director/Papworth Director 双创始 VDI/无线 PoE 载线引路",
+   "evidence_main": "https://find-and-update.company-information.service.gov.uk/company/05535673/officers",
+   "tech": "Wireless Infrastructure+NAC/VDI/BYOD/UC/Integrated Solutions;Schools+business;20 年老谱;carbon 负数公司注",
+   "hr": "11-50(LI)/22(contactout)双窗注;20 年双创始;Buckinghamshire Stokenchurch HQ;Operations Team 5 人",
+   "contact_found": "**Ben Hammond(Technical Director& 共同创始=技术主导 P0)+Mike Papworth(Director& 共同创始=商业主导 P1)+Emma David(General Manager)+Laura Papworth(Office Manager)+Chris Silk(Technical Operations Manager)+Libby March(Internal Sales AM)**",
+   "contact_pending": "直发具名需 opt-in;邮箱格式 100%={first}.{last}@eac-ns.co.uk(contactout 直证)",
+   "dims": {
+    "业务定位": "EAC Network Solutions Ltd(05535673,2005 创 20 年,Buckinghamshire HQ):UK 教育+商用 IT 集成商(无线基建/VDI/NAC/UC)",
+    "产品线与在售品牌": "无线基建 Wireless Infrastructure+Network Access Control NAC+Virtual Desktop Infrastructure VDI+BYOD/移动设备整合+Unified Communications 统一通信+Integrated Solutions",
+    "目标行业与场景": "Schools(教育)+商业(Business)+慈善「give something back」sector;UK 全国(14-22 员联储机)",
+    "团队与规模": "11-50(LI)/22(contactout)双窗注;Buckinghamshire/Stokenchurch HQ;Operations Team 5 人",
+    "决策链与对接人": "Ben Hammond(Technical Director& 共创 Dec 1977=47 岁)+Mike Papworth(Director& 共创 Dec 1964=61 岁)+Emma David(GM)+Laura Papworth(Office Mgr)+Chris Silk(Technical Operations Mgr)+Libby March(Internal Sales)+Taylor Lloyd(Sr BDR)+Tina Restall+Sharon Wheeler(Ops)+Jeff Woodhall+Steve Burns(Contractors)",
+    "技术与认证": "SIC 62020;Companies House 登实;邮箱格式 {first}.{last}@eac-ns.co.uk 100%(contactout);G-Cloud? 未证注",
+    "采购与供应链信号": "VDI/无线/NAC 集成需求 PoE 载线;教育+商用「managed network」客户复购;20 年老谱稳",
+    "近期动态与线索": "LI 2025-11 谱「security-first network design」谱(李华档);Salveo Care/Oxford Science Park Magdalen Centre 客户证言",
+    "与我方契合点": "Hammond Technical Director 技术主导 P0 → 24 口 PoE(无线基建/VDI/NAC 集成载线)",
+    "风险与注意": "**员数 11-50/22 双窗注;20 年老谱=双创始合伙人谱结构注(无外部投资=稳定/Ben& Mike 共控);carbon negative company 注;邮箱格式链=直邮破**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "EAC NETWORK SOLUTIONS LIMITED Company No 05535673;Incorporated 12 August 2005;SIC 62020 Information technology consultancy activities;HAMMOND, Benjamin John(DOB Dec 1977)Director appointed 12 August 2005;PAPWORTH, Michael(DOB Dec 1964)Director appointed 12 August 2005;First Floor, 1 Des Roches Square, Witan Way, Witney OX28 4BE",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/05535673/officers"
+    },
+    {
+     "dim": "KP 矩阵",
+     "quote": "Ben Hammond Director & Co-Founder(近 30 年 IT 经验);Mike Papworth Director & Co-Founder;Tina Restall/Sharon Wheeler/Laura Papworth Business Operations Team;Jeff Woodhall/Steve Burns Contractors;Emma David General Manager;Taylor Lloyd Sr BDR;Libby March Internal Sales",
+     "source": "https://uk.linkedin.com/company/eac-network-solutions"
+    },
+    {
+     "dim": "公司谱",
+     "quote": "Founded in 2005 by two like-minded IT professionals;EAC is a respected leader in educational and commercial IT;Stokenchurch HQ;Website eac-ns.co.uk;257 LI followers;Supported customers right across the country",
+     "source": "https://uk.linkedin.com/company/eac-network-solutions"
+    },
+    {
+     "dim": "邮箱链",
+     "quote": "The widely used EAC Network Solutions email format is {first}.{last}@eac-ns.co.uk, which is used 100% of the time;22 employees;Wycombe Road Stokenchurch HP14 3RQ;Chris Silk Technical Operations Manager",
+     "source": "https://contactout.com/company/EAC-Network-Solutions-5650"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Hammond 技术主导 P0",
+     "push": "STC-424XGGPM-280W",
+     "angle": "Technical Director& 共创(技术主导)→ 24 口 PoE(无线基建/VDI/NAC 集成载线);邮箱 100% {first}.{last}@eac-ns.co.uk 破解链",
+     "question": "贵司无线/VDI 集成线的 PoE 交换机集购由哪位同事主责?24 口 280W 带看门狗有接口意?",
+     "proof": "Companies House+contactout 4 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Papworth 商业主导 P1",
+     "push": "STI-288GPM/424",
+     "angle": "Director& 共创(商业主导);教育+养老客户证言钩;邮箱链直投",
+     "question": "贵司 Salveo Care 养老院线的硬件集购口?",
+     "proof": "Companies House/官网 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · March 内部销售",
+     "push": "STC-28DGGPM",
+     "angle": "Internal Sales Account Manager 谱;Techn Operations Manager 带;G-Cloud 谱位钩",
+     "question": "贵司线硬样送样品线由哪位同事主责? ",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2005-08-12 创(20 年);05535673;Stokenchurch Bucks HQ(Witney 旧册);711",
+     "②芯片/型号": "无线基建/VDI/NAC/UC/集成;PoE 24 口集成载线",
+     "③KP 深挖": "Hammond 技术主导 47+Papworth 商业主导 61 双创始合伙人+GM/Silk/Operations 二线",
+     "④Saga 对标": "无线基建/VDI/NAC 集成 → 24 口 PoE 载;邮箱格式链直投",
+     "⑤在乎与偏好": "20 年老谱;Buckinghamshire/教育+养老+商用;carbon negative company 注",
+     "⑥SWOT": "S=20 年双创始+邮箱 100% 链/W=员数 11-50/22 双窗注/O=Hammond 技术主导 P0/T=慈善+教育=谱位窄幅注"
+    },
+    "care": "Ben/Mike 双创始谱(未受外部投资=稳定);邮箱 100% 格式链;人品:20 年员工走活",
+    "swot": {
+     "S": "20 年双创始+邮箱 100% 链",
+     "W": "员数 11-50/22 双窗注",
+     "O": "Hammond 技术主导 P0",
+     "T": "慈善+教育=谱位窄幅注"
+    },
+    "uncertain": "MikroTik 谱位在售线需核;Hammond 直邮推档",
+    "gap_proof": "Companies House/contactout/LI/官网/rocketreach 5 源真源"
+   },
+   "unknowns": [
+    "MikroTik 谱位在售线需官网核",
+    "Hammond 直邮推档",
+    "员数 11-50/22 双窗差精确次年订"
+   ],
+   "relation": "2026-10-08 R67 推土机深挖 批5",
+   "email": "Dear Ben Hammond Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for wireless infrastructure, VDI and endpoint integration deployment lines. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**Ben Hammond(Technical Director& 共同创始=技术主导 P0)+Mike Papworth(Director& 共同创始=商业主导)+Chris Silk(Technical Operations Mgr)**;邮箱 100%={first}.{last}@eac-ns.co.uk 链",
+   "kp": [
+    {
+     "name": "Ben Hammond",
+     "role": "Technical Director & Co-Founder(共同创始=技术主导;近 30 年 IT 经验;DOB Dec 1977=47 岁;2005-08-12 任至今;Companies House 直证)",
+     "contact": "ben.hammond@eac-ns.co.uk(100% 格式链 推断,送完核)/+44 7855 49XXXX 谱",
+     "status": "Companies House+LI+contactout 3 源 O 级;邮箱推断 G 级",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/05535673/officers"
+    },
+    {
+     "name": "Mike Papworth",
+     "role": "Director & Co-Founder(共同创始=商业主导;DOB Dec 1964=61 岁;2005-08-12 任至今;Oxford 谱)",
+     "contact": "mike.papworth@eac-ns.co.uk(100% 格式链 推断,送完核)",
+     "status": "Companies House+LI+contactout 3 源 O 级;邮箱推断 G 级",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/05535673/officers"
+    },
+    {
+     "name": "Chris Silk",
+     "role": "Technical Operations Manager(contactout 直证 O 级;LI 谱)",
+     "contact": "chris.silk@eac-ns.co.uk(100% 格式链)",
+     "status": "contactout 直证 O 级;邮箱推断 G 级",
+     "source": "https://contactout.com/company/EAC-Network-Solutions-5650"
+    },
+    {
+     "name": "Emma David",
+     "role": "General Manager(LI 直证 O 级;LI 谱)",
+     "contact": "emma.david@eac-ns.co.uk(100% 格式链)",
+     "status": "LI 直证 O 级;邮箱推断 G 级",
+     "source": "https://uk.linkedin.com/company/eac-network-solutions"
+    }
+   ],
+   "tag": "类型=EAC 20 年教育+商用 IT 商;势态=双创始合伙人+VLD/无线谱;KP=Hammond 技术主导 47+Papworth 商业主导 61+Silk/David 一线",
+   "question": "触达决策门:Ben Hammond(Technical Director 技术主导 P0)直门+Mike Papworth(Director 商业主导);",
+   "alt2": "替代口:Emma David(GM)+Chris Silk(Technical Operations Mgr)+Libby March(Internal Sales);",
+   "alt3": "备用:enquiry@eac-ns.co.uk(CSV 既有台口)+Taylor Lloyd(Sr BDR)+Stokenchurch HP14 3RQ 邮寄样件"
+  },
+  {
+   "customer": "A-100",
+   "fact": "波 R67 批5·A-100:英谱: **Networkology Ltd 深挖(Companies House/Endole/companycheck/digitalmarketplace 四源互证)**:**Company No 08680414,2013-09-06 创(11 年);SIC 62020 信息技术咨询;现注册 Unit 11 Forest Gate Chippenham Wiltshire SN15 3RS(2025-04-28 由 Calne 旧册迁;此前 Hoddesdon 旧址)**;**5 董事 5 股东+1 PSC(Endole 直证)=Prosciutto 结构 Robert-Wallington-Morgan-Owen-Monteith 五人共同所有+5 股东+1 PSC=合伙型谱(pot fan BUSINESS);公司对象=「IT organization providing professional services and products to **defense, government, and other public sector clients** throughout the UK」Endole 直白直证=Defence 防务+政府+公部门客带=**守界重户(**任何商机对话仅用民用商用场景词,零军用/防务采办语义**)**;**G-Cloud 框架供应商(Digital Marketplace 上架:Network Architecture+Network Management, Automation & Monitoring 两条目;联络=David Owen tenders@networkology.com +44 1249 700084=招投标专线)**;**Carbon Negative company(Carbon Neutral Britain offset 100%+;virtual first 虚拟优先公司=无固定办公室谱;director 变作地址 2025-04-29 三档一张纸)**;**KP 金谱五董事矩阵(合伙型):Stefan Nicholas Wallington(DOB Oct 1981=44 岁,2019-08 任,**PSC 实控**)+James Douglas Morgan(DOB Jul 1976=49 岁,2018-04 任)+David John Owen(DOB Oct 1983=42 岁,2018-04 任+**tenders@ 招投标专线联络人**)+Robert Kevin Jelley(DOB Oct 1979=46 岁,2024-10-25 任=2024 新入)+Stuart Andrew Monteith(DOB Jul 1973=52 岁,2024-10-25 任=2024 新入)=5 人共同董事合伙人制**;**往董 Douglas Goodridge+Andrew Knight+William McEvoy(已曾)**;**Mutual Companies=Tektora Ltd(Morgan+Owen+2 more)=双公司关联谱注**;**Network Management/Network Architecture 服务=重大网络安全架构集成专家谱;网络咨询市场深专家族**。**客车产**=defence/government/public sector=商机话术民用商用化(如「园区 LAN/办公 IT 网络/PoE 摄像回传」)。**同名排噪=美国另有 Networkology(专用研究所)==未证线上**。",
+   "inference": "R67 推土机深挖 批5 具名 KP 金谱(合伙型五董事+Defence/政府守界重户)",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Wallington PSC/Owen 招投专线双口 园区/办公网络 PoE 载线引路(民用商用场景)",
+   "evidence_main": "https://find-and-update.company-information.service.gov.uk/company/08680414/officers",
+   "tech": "Network Architecture+Network Management, Automation & Monitoring 专家;G-Cloud 框架商;Carbon Negative/virtual first 谱",
+   "hr": "11 年;5 董事 5 股东 1 PSC=合伙型;Carbon Negative+virtual first 无固定办公室谱",
+   "contact_found": "**Stefan Nicholas Wallington(Director+PSC 实控=44 岁)+James Douglas Morgan(49 岁)+David John Owen(42 岁,tenders@ 招投专线联络人)+Robert Kevin Jelley(46 岁,2024-10 任)+Stuart Andrew Monteith(52 岁,2024-10 任)**=五董事合伙人矩阵",
+   "contact_pending": "Defence/政府客户带=一切房机台民用商用场景;邮箱格式未证冠地谱",
+   "dims": {
+    "业务定位": "Networkology Ltd(08680414,2013 创 11 年,Chippenham Wiltshire):UK Defeance/government/public sector 网络架构咨询商(G-Cloud 框架)",
+    "产品线与在售品牌": "Network Architecture+Network Management/Automation/Monitoring 专业咨询;G-Cloud 两条目;virtual first 虚拟优先",
+    "目标行业与场景": "**Defence 防务+government 政府+public sector 公部门 带=守界重户;任何商机对话=民用商用场景词(如园区 LAN/办公网络/PoE)必压,零军用/防务采办语义**",
+    "团队与规模": "11 年;5 董事 5 股东+1 PSC=合伙型;Carbon Negative(Carbon Neutral Britain offset 100%+)+virtual first 谱",
+    "决策链与对接人": "Stefan Wallington(PSC+Dir)+James Morgan+David Owen(tenders@ 招投专线)+Robert Jelley(2024-10 任)+Stuart Monteith(2024-10 任)=五合伙人矩阵",
+    "技术与认证": "Companies House 登实;G-Cloud 框架两条目;Carbon Neutral Britain 认证;Mutual Companies=Tektora Ltd 关联谱",
+    "采购与供应链信号": "G-Cloud=政府/公部门采购框架=谱位限制注;defence 客户带=谱位掼位;virtual first=无固定办室谱",
+    "近期动态与线索": "2025-04-28 Unit 11 Forest Gate 迁入;2024-10-25 Jelley+Monteith 双新入董事;digital marketplace 2025-01 档活;",
+    "与我方契合点": "Wallington PSC/Owen 招投专线 → 24 口 PoE(园区/办公网络集成;民用商用场景必压)载线",
+    "风险与注意": "**守界注=Defence 防务+政府客带=一切商机对话民用商用场景词必压(「园区 LAN/办公网络/PoE」),任何军用/防务采购/武场景词绝对零;partner 五合伙构注;Carbon Negative/virtual first 谱**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "NETWORKOLOGY LTD Company No 08680414;Incorporated 6 September 2013;SIC 62020 IT consultancy;Unit 11 Forest Gate Chippenham Wiltshire SN15 3RS;5 Directors;Active",
+     "source": "https://companycheck.co.uk/company/08680414/NETWORKOLOGY-LTD/companies-house-data"
+    },
+    {
+     "dim": "KP 矩阵",
+     "quote": "WALLINGTON, Stefan Nicholas(DOB Oct 1981,Reappointed)PSC;MORGAN, James Douglas(DOB Jul 1976)2024-10-25 Director;OWEN, David John(DOB Oct 1983)tenders@ networkology.com 招投专线;JELLEY, Robert Kevin(DOB Oct 1979)+MONTEITH, Stuart Andrew(DOB Jul 1973)双 2024-10-25 任",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/08680414/officers"
+    },
+    {
+     "dim": "公司谱",
+     "quote": "Networkology is an IT organization providing professional services and products to defense, government, and other public sector clients throughout the UK;Officers 6;Shareholders 5;Mutual Companies Tektora Ltd",
+     "source": "https://open.endole.co.uk/insight/company/08680414-networkology-ltd"
+    },
+    {
+     "dim": "G-Cloud 框架",
+     "quote": "Networkology LTD David Owen Telephone: 01249700084 Email: tenders@networkology.com;service documents 762414478407719 Network Architecture;642600619798849 Network Management, Automation & Monitoring;Carbon Negative company;virtual first",
+     "source": "https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/services/762414478407719"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Wallington PSC+Owen 招投双口",
+     "push": "STC-424XGGPM-280W",
+     "angle": "PSC 实控+招投专线直通 → 24 口 PoE(园区/办公网络集成,民用商用场景必压)载线",
+     "question": "贵司园区/办公网络集成线的 PoE 交换机集购由哪位同事主责?",
+     "proof": "Companies House+Digital Marketplace 多源"
+    },
+    {
+     "stage": "第 2 次跟进 · Morgan(合伙人)",
+     "push": "STI-288GPM/424",
+     "angle": "James Morgan 49 岁案;Tektora Ltd 关联谱钩;招投标谱",
+     "question": "贵司办公网络谱的硬件集购口?",
+     "proof": "Companies House/Endole 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · tenders 专线",
+     "push": "STC-28DGGPM",
+     "angle": "tenders@networkology.com 招投专线直投;Carbon Negative 谱钩",
+     "question": "贵司招投标线的样件送样口?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2013 创 11 年;Chippenham 现册(2025-04 迁);5 董事 5 股东 1 PSC 合伙",
+     "②芯片/型号": "Network Architecture/Management 专家;PoE 24 口园区/办公网络载线(民用商用场景必压)",
+     "③KP 深挖": "Wallington PSC 44+Morgan 49+Owen 42(tenders 专线)+Jelley 46/Monteith 52 五合伙人矩阵;Tektora Ltd 关联",
+     "④Saga 对标": "园区/办公网络 → 24 口 PoE 载(民用商用场景必压);G-Cloud 框架钩",
+     "⑤在乎与偏好": "Carbon Negative+virtual first;G-Cloud 框架商;Defence 客户带",
+     "⑥SWOT": "S=Carbon Negative+virtual first+G-Cloud/W=Defence 守界门=谱位掼位/O=Five 合伙人 PSC 谱口/T=Defence 带=话术民用商用限制"
+    },
+    "care": "Defence 带=一切商机对话民用商用场景;五合伙人共同董事制注;2024-10 双新入(Jelley+Monteith)",
+    "swot": {
+     "S": "Carbon Negative+virtual first+G-Cloud",
+     "W": "Defence 守界门=谱位掼位",
+     "O": "Five 合伙人 PSC 谱口",
+     "T": "Defence 带=话术民用商用限制"
+    },
+    "uncertain": "MikroTik 谱位在售线需核;Wallington 直邮推档",
+    "gap_proof": "Companies House/Endole/companycheck/Digital Marketplace 4 源真源"
+   },
+   "unknowns": [
+    "MikroTik 谱位在售线需官网核",
+    "Waliington 直邮推档",
+    "Defence 谱位口径精确(民用/防务分辨)"
+   ],
+   "relation": "2026-10-08 R67 推土机深挖 批5",
+   "email": "Dear Stefan Wallington and David Owen Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — EXW open, tenders-ready. Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for commercial campus LAN / office network integration lines. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**Stefan Nicholas Wallington(Director+PSC=实控,+44 1249 700084)+David John Owen(Director+tenders@ 招投专线联络人)+James Douglas Morgan(Director)**",
+   "kp": [
+    {
+     "name": "Stefan Nicholas Wallington",
+     "role": "Director+PSC 实控(DOB Oct 1981=44 岁;2019-08-14 任;Companies House+Endole 双源直证)",
+     "contact": "stefan.wallington@networkology.com(推断,送完核)/+44 1249 700084 台口转",
+     "status": "Companies House+Endole 双源 O 级;邮箱推断 G 级",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/08680414/officers"
+    },
+    {
+     "name": "David John Owen",
+     "role": "Director+G-Cloud 招投专员(DOB Oct 1983=42 岁;2018-04-20 任;**tenders@networkology.com 招投专线联络人** Digital Marketplace 直证)",
+     "contact": "david.owen@networkology.com(推断,送完核)/tenders@networkology.com(招投专线 O 级)",
+     "status": "Companies House+Digital Marketplace 双源 O 级",
+     "source": "https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/services/762414478407719"
+    },
+    {
+     "name": "James Douglas Morgan",
+     "role": "Director(DOB Jul 1976=49 岁;2018-04-20 任;Tektora Ltd 关联谱注)",
+     "contact": "james.morgan@networkology.com(推断)",
+     "status": "Companies House+Endole 双源 O 级;邮箱推断 G 级",
+     "source": "https://find-and-update.company-information.service.gov.uk/company/08680414/officers"
+    },
+    {
+     "name": "Robert Kevin Jelley",
+     "role": "Director(DOB Oct 1979=46 岁;2024-10-25 任=2024 新入)",
+     "contact": "robert.jelley@networkology.com(推断)",
+     "status": "Companies House+companycheck 双源 O 级;邮箱推断 G 级",
+     "source": "https://companycheck.co.uk/company/08680414/NETWORKOLOGY-LTD/companies-house-data"
+    }
+   ],
+   "tag": "类型=Networkology 合伙型 5 董事;势态=Defence/政府 G-Cloud 框架=守界重户;KP=Wallington PSC+Owen 招投+Morgan+Jelley+Monteith 五矩阵",
+   "question": "触达决策门:Stefan Wallington(PSC 实控)+David Owen(tenders@ 招投专员)双口;",
+   "alt2": "替代口:James Morgan+Robert Jelley+Stuart Monteith(2024-10 双新入);",
+   "alt3": "备用:tenders@networkology.com(招投专线 O 级)+Unit 11 Forest Gate Chippenham SN15 3RS+virtual first 望 TC 台口"
+  },
+  {
+   "customer": "A-139",
+   "fact": "波 R67 批5·A-139:德谱: **ARCHE Systeme GmbH 深挖(implisense/companyhouse/northdata/kompass/官网 五源互证)**:**HRB 204011 Amtsgericht Oldenburg(Oldenburg),2009-10-07 创(16 年);GmbH;股本 €25,000;VAT DE268332024;LEI 5299001FYEDPIB63GS50**;注册 Banter Deich 16-18,26382 Wilhelmshaven(**德国海军城谱**);电话 +49 4421 9160;邮箱 info@arche.de;官网 arche-systeme.de/www.archesysteme.de;**员工 24(2023 implisense 谱;kompass 估 0-9 员双窗注)**;**「Herstellung, Vertrieb und Integration maritimer und militärischer Informationstechnik sowie komplexer Daten- und Kommunikationsnetzwerke」=「海事与军用信息技术及复杂数据与通信网络的生产、销售与集成」官方公司宗旨=**军用信息技术+军方(海军)场景明示**=**守界重户(任何商机对话仅用民用商用场景词,零军事/军供/海军采办语义,零军场景销售暗示**);**KP 金谱:Joachim Ristau(Geschäftsführer 总经理,2009-12-17 任至今,公司独家代表;前身 Arche AG 董事会成员 2005-12~2009-11=Arche AG→GmbH 过渡谱;Schortens 谱)+**Ingmar Seeberg(Authorized signatory Prokurist=业务代表+官网**Netzwerktechnik 网络技术对接人**直证:「Ihr Ansprechpartner: Ingmar Seeberg」)+Julia Hoppe(Authorized signatory Prokurist,2021-11-03 任,可独立代表公司)**=3 人谱;**业务=Hardwareentwicklung 硬件开发+systemnahe Softwareentwicklung 系统近距软件开发+komplexe Netzwerktechnik 复杂网络技术+Härtung und Installation von Hardware für raue Bedingungen an Bord von Marineschiffen(舰船恶劣环境硬件硬化与安装)**+Windparks 风电场网络布线+stockwerkübergreifende Verlegung mit Kaltgangeinhausung(跨楼层冷通道布线)**」;**Arche AG 关联谱(Ristau 前董事);官网谱位注:海事/军用明示**;**客户=「öffentliche und private Kunden」谱=公共+私有客户谱注(其中海军政务谱=谱位限制)。**给我方挂念:复杂网络技术+风电场网络线=民用商用场景(风电场/纯民用船舶/商用办公楼)可作商机对话合法谱口谱;军方/海军场景绝对零**。 ",
+   "inference": "R67 推土机深挖 批5 具名 KP 金谱(Wilhelmshaven 海军城+军用 IT 明示=守界重户)",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Seeberg 网络技术对接人 风电场/商用民用船/办公楼 PoE 载线引路(民用商用场景必压)",
+   "evidence_main": "https://app.implisense.com/en/companies/arche-systeme-gmbh-wilhelmshaven--DEV0W3P1YV86",
+   "tech": "Hardware 硬件开发+systemnahe 软件+komplexe Netzwerktechnik 复杂网络+Massiveschiffen 船载硬化;风电场/冷通道/跨楼层布线",
+   "hr": "24 员工(2023 implisense)/0-9(kompass 估)双窗注;Ristau GF+Seeberg ppa/网络对接+Hoppe ppa 3 人谱",
+   "contact_found": "**Joachim Ristau(Geschäftsführer,2009-12 起至)+Ingmar Seeberg(Prokurist+Netzwerktechnik 网络技术对接人**官网直证**)+Julia Hoppe(Prokurist,2021-11 任)**=3 人谱",
+   "contact_pending": "军用信息技术+军船场景明示=守界重户(军用/军供/海军销售场景语义零)",
+   "dims": {
+    "业务定位": "ARCHE Systeme GmbH(HRB 204011 Oldenburg,2009 创 16 年,Wilhelmshaven):「海事与军用信息技术+复杂数据与通信网络的生产、销售与集成」**军用 IT 明示=守界重户**",
+    "产品线与在售品牌": "Hardware 硬件开发+systemnahe 软件+complex Netzwerktechnik 复杂网络+Härtung 硬化硬件(船载恶劣环境);风电场/冷通道布线",
+    "目标行业与场景": "海军/军方场景=**一切商机对话仅用民用商用场景**(风电场/商用民用船/商用办公楼网),**军用/军供/海军场景销售词绝对零**",
+    "团队与规模": "24 员工(2023 implisense)/0-9(kompass 估)双窗注;16 年;Ristau 前身 Arche AG 董事",
+    "决策链与对接人": "Joachim Ristau(Geschäftsführer,2009-12-17 起)+Ingmar Seeberg(Prokurist+/Netzwerktechnik **官网对接人**)+Julia Hoppe(Prokurist,2021-11-03 任)",
+    "技术与认证": "HRB 204011 Amtsgericht Oldenburg;VAT DE268332024;LEI 5299001FYEDPIB63GS50;2009-10-07 创 €25,000;GmbH",
+    "采购与供应链信号": "军用/海事信息网络+复杂数据/通信网络集成;风电场+跨楼层冷通道布线;「öffentliche und private Kunden」谱",
+    "近期动态与线索": "2024-11-03 Seeberg+Hoppe 可以公司独立代表谱;Arche AG 关联谱(Ristau 前董事 SHAB 2005-12~2009-11);Wilhelmshaven 海军城谱",
+    "与我方契合点": "Seeberg 网络技术对接人 → 24 口 PoE(**商用民用风电场/商用民用船/商用办公楼**网络载线,军用/军供/海军场景零)",
+    "风险与注意": "**守界重户=「军用信息技术」官方宗旨明示;一切商机对话=民用商用场景词必压(风电场/商用民用船/办公楼网);军用/军供/海军场景销售词/采办对话绝对零;Arche AG 关联谱位注**"
+   },
+   "evidence": [
+    {
+     "dim": "法体登册",
+     "quote": "ARCHE Systeme GmbH HRB 204011 Amtsgericht Oldenburg;Founded 07 Oct 2009;Share capital €25,000;VAT DE268332024;LEI 5299001FYEDPIB63GS50;Banter Deich 16-18 26382 Wilhelmshaven;+49 4421 9160;info@arche.de",
+     "source": "https://app.implisense.com/en/companies/arche-systeme-gmbh-wilhelmshaven--DEV0W3P1YV86"
+    },
+    {
+     "dim": "军用明示",
+     "quote": "Herstellung, Vertrieb und Integration maritimer und militärischer Informationstechnik sowie komplexer Daten- und Kommunikationsnetzwerken;Produkte und Dienstleistungen Hardwareentwicklung, systemnahe Softwareentwicklung, komplexe Netzwerktechnik sowie Härtung und Installation von Hardware für raue Bedingungen an Bord von Marineschiffen",
+     "source": "https://app.implisense.com/en/companies/arche-systeme-gmbh-wilhelmshaven--DEV0W3P1YV86"
+    },
+    {
+     "dim": "KP 三谱",
+     "quote": "Joachim Ristau Managing director 17.12.2009 - until now(can represent alone);Julia Hoppe Authorized signatory 03.11.2021 - until now(can represent alone);Ingmar Seeberg(Authorized signatory+Networktechnik);Ristau 前身 Arche AG 董事会成员 Dec 2005 - Nov 2009",
+     "source": "https://www.companyhouse.de/en/ARCHE-Systeme-GmbH-Wilhelmshaven"
+    },
+    {
+     "dim": "网络对接",
+     "quote": "Ihr Ansprechpartner: Ingmar Seeberg(官网 Netzwerktechnik 对接人直证);komplexe Verkabelung mit Kupfer oder LWL, KVM Technik, fernwartbare Netzwerkschränke;",
+     "source": "https://www.arche-systeme.de/nwt.htm"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Seeberg 网络技术对接人",
+     "push": "STC-424XGGPM-280W",
+     "angle": "Netzwerktechnik 官网对接人直通 → 24 口 PoE(**商用民用风电场/商用民用船/商用办公楼**网络载线,军用/军供/海军场景绝对零)",
+     "question": "贵司商业民用(风电场/商用办公楼)网络线的 PoE 交换机集购由哪位同事主责?",
+     "proof": "implisense+官网 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Ristau Geschäftsführer 式",
+     "push": "STI-288GPM/424",
+     "angle": "Geschäftsführer;Arche AG 前董事谱钩;16 年谱钉;商用民用场景",
+     "question": "贵司商用民用风电场网络谱的硬件集购口?",
+     "proof": "companyhouse 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Hoppe Prokurist 谱",
+     "push": "STC-28DGGPM",
+     "angle": "Prokurist 2021-11 任;withows 谱钉;民用场景",
+     "question": "贵司商业民用办公楼网络谱的硬样送样口?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2009 创 16 年;Wilhelmshaven 德国海军城;军用 IT 目的=守界重户",
+     "②芯片/型号": "复杂网络/硬件/船载硬化/风电场布线;PoE 24 口商用民用场景载线",
+     "③KP 深挖": "Ristau GF 2009+Seeberg Prokurist/网络对接+Hoppe Prokurist 2021 3 人谱;Arche AG 关联",
+     "④Saga 对标": "商用民用风电场/商用民用船/办公楼 → 24 口 PoE 载;军用/军供/海军场景绝对零",
+     "⑤在乎与偏好": "16 年谱;Wilhelmshaven 海军城谱;Arche AG 关联谱",
+     "⑥SWOT": "S=16 年谱+官网 Seeberg 网络对接人/W=军用 IT 目的=守界掼位/O=风电场/商用民用船 PoE 扭/T=军方场景=商机 0=谱位掼位"
+    },
+    "care": "军用信息技术明示=商机对话仅用民用商用场景;Arche AG 关联谱注;Kund减速",
+    "swot": {
+     "S": "16 年谱+官网 Seeberg 网络对接人",
+     "W": "军用 IT 目的=守界掼位",
+     "O": "风电场/商用民用船 PoE 扭",
+     "T": "军方场景=商机 0=谱位掼位"
+    },
+    "uncertain": "MikroTik 谱位在售线需核;Seeberg 直邮推档",
+    "gap_proof": "implisense/companyhouse/northdata/kompass/官网 5 源真源"
+   },
+   "unknowns": [
+    "MikroTik 谱位在售线需核",
+    "Seeberg 直邮推档",
+    "军方/海事口分辨(谱位掼位)"
+   ],
+   "relation": "2026-10-08 R67 推土机深挖 批5",
+   "email": "Dear Ingmar Seeberg Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for commercial/civilian campus and building network deployment lines in demanding environments. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**Ingmar Seeberg(Authorized signatory+Netzwerktechnik *对接人*)+Joachim Ristau(Geschäftsführer)+Julia Hoppe(Authorized signatory)**;CSV 台口 info@arche.de",
+   "kp": [
+    {
+     "name": "Ingmar Seeberg",
+     "role": "Authorized signatory(Prokurist)+Netzwerktechnik **官网网络技术对接人直证**「Ihr Ansprechpartner: Ingmar Seeberg」;=我方第一联络口 P0",
+     "contact": "iseeberg@arche.de(推断,送完核)/+49 4421 9160 台口转",
+     "status": "官网+companyhouse 双源 O 级;邮箱推断 G 级",
+     "source": "https://www.arche-systeme.de/nwt.htm"
+    },
+    {
+     "name": "Joachim Ristau",
+     "role": "Geschäftsführer(总经理公司独家代表;17.12.2009 起至今=16 年;前身 Arche AG 董事会成员 2005-12~2009-11 SHAB 谱)",
+     "contact": "jristau@arche.de(推断,送完核)/+49 4421 9160 台口转",
+     "status": "implisense+companyhouse 双源 O 级;邮箱推断 G 级",
+     "source": "https://www.companyhouse.de/en/ARCHE-Systeme-GmbH-Wilhelmshaven"
+    },
+    {
+     "name": "Julia Hoppe",
+     "role": "Authorized signatory(Prokurist=公司可独立代表人;03.11.2021 任)=PL 谱",
+     "contact": "jhoppe@arche.de(推断,送完核)",
+     "status": "companyhouse 直证 O 级;邮箱推断 G 级",
+     "source": "https://www.companyhouse.de/en/ARCHE-Systeme-GmbH-Wilhelmshaven"
+    }
+   ],
+   "tag": "类型=ARCHE「海事+军用信息技术」16 年;势态=军用 IT 明示=守界重户;KP=Seeberg 网络对接人/Ristau GF/Hoppe 谱",
+   "question": "触达决策门:Ingmar Seeberg(Netzwerktechnik 对接人 P0)直门+Joachim Ristau(Geschäftsführer);",
+   "alt2": "替代口:Julia Hoppe(Authorized signatory)+49 4421 9160 台口转；",
+   "alt3": "备用:info@arche.de(CSV 既有台口)+Banter Deich 16-18 26382 Wilhelmshaven 邮寄商用样件"
+  },
+  {
+   "customer": "A-282",
+   "fact": "波 R67 批5·A-282:西谱: **Berdin Grupo 深挖(empresite/empresia/iberinform/官网/rocketreach/proinstalaciones/redestelecom 七源互证)**:董事复合体谱位(商业注册网谱注):**操作主体 = BERDIN S.L.(CIF B20828372,22-12-2003 创(22 年,前身 = Berdin S.A. 2003-11-19 全解重组);CNAE 4652 电子/电信产品批发;47 员工(2026 empresite);Donostia-San Sebastián;Tel +34 943 45 81 12/943 36 93 94;「Distribución de material eléctrico, electrónico, industrial y tecnológico」=电工/电子/工业/技术材料分销**;**控股主体(受益链谱 = GRUPO BERDIN S.A.(CIF A20817391,28-07-2003 创(22 年),holding 控股,资本 €138,652,2023 <€500k 营收谱检,1 员工谱 fc S3E11)**;Bererdin SL 于 2017-02-16 由 GRUPO BERDIN S.A. 担任 Administrador Único(BORME 直证)**;**全国 5 子司谱 = Berdin Alicante SL/Berdin Castellón S.A./Berdin Valencia SL/Berdin Madrid SL/Berdin Rioja SL(2020-2024 先后由 GRUPO BERDIN S.A. 担任 Administrador Único;Barcelona/Álava 历史谱已解**;**「Operaciones Internacionales: Importa」=**进口经营**谱口;**「Mayor de 30 millones € facturación」=(销售等级区间注;empresia 图个谱 = €2.5M/年=两源差钉)**;**五位业务区 = automatización 自动化/electricidad 电力/iluminación 照明/telecomunicación 电信/seguridad 安防**(berdin.com 自豪广) = 电信+安防产品全国分销谱口;**KP 金谱 Xabier Ostolaza(F. J. Ostolaza Manterola = **Gerente / Director General 总经理**,2017-01-01 由创始合伙人 F. Javier Fierro **接力继任**;2014-2017 三年阶梯交接;前身 = 电信工程师(Bilbao)+Lyntel 电信部门商业总监 = 公司内电信谱口熟;proinstalaciones 专访官方录**;**Alfonso del Río**(Director Comercial 商业总监 = 2025-01 年代表会证词者**;**Javier Mentxaka**(Responsable de Cuentas Nacionales = **客户战略管理/大客户线 P0**,2025-01 新数字 = 大客户战略勾引导**;**Raúl Ortiz de Guzmán Ezquerra**(Head Business Development Telecom & Security Area = **电信+安防 BD 主管 P0=最直口** Zaragoza 谱**+Ana Gil(Responsable marketing/Lasarte-Oria)**;**新总部 Belartza 2,000+ m² 控股+物流中心(Errekatxulo 4, Polígono Industrial Belartza, Donostia-San Sebastián;2022 启用**;LI 官谱 rocketreach 系.",
+   "inference": "R67 推土机深挖 批5 具名 KP 金谱(集团 5 子司+Importa+Ostolaza 总谱)",
+   "hypothesis": "STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Ortiz de Guzmán 电信安防 BD P0 直口 全国分销 EXW 载线引路",
+   "evidence_main": "https://www.proinstalaciones.com/entrevistas/2234-xabier-ostolaza-gerente-de-berdin-grupo",
+   "tech": "电信+安防+自动化/电力/照明全国分销;进口经营;telecom y componentes 批发;5 子司全国网",
+   "hr": "47 员工(2026 empresite);集团 5 子司;Belartza 2000+m² 控股+物流中心 2022",
+   "contact_found": "**Raúl Ortiz de Guzmán Ezquerra(Head BD Telecom & Security Area=最直口 P0)+Xabier Ostolaza(Gerente/Director General 总)+Alfonso del Río(Director Comercial)+Javier Mentxaka(Responsable Cuentas Nacionales=大客户线 P0 新设)**",
+   "contact_pending": "直发具名需 opt-in;berdin.com 官谱;LI 公司页",
+   "dims": {
+    "业务定位": "Berdin Grupo(B20828372 主体+GRUPO BERDIN S.A. 控股,2003 创 22 年):西全国电工/电子/工业/电信/安防产品分销商(Importa=进口经营)",
+    "产品线与在售品牌": "自动/automatización+电力/electricidad+照明/iluminación+电信/telecomunicaciones+安防/seguridad 五业务区;5 子司全国网",
+    "目标行业与场景": "全国(Donostia 总+Alicante/Castellón/Valencia/Madrid/Rioja 五点);B2B 分销=厂商-集成客链",
+    "团队与规模": "47 员工(2026 empresite);GRUPO BERDIN S.A. holding(€138,652 资本,<€500k 营收谱);销售「>30M €」级别(empresia €2.5M 估双源差钉)",
+    "决策链与对接人": "Raúl Ortiz de Guzmán Ezquerra(电信安防 BD 主管 P0=最直口)+Xabier Ostolaza(Gerente/Director General 总 2017-01 起)+Alfonso del Río(Director Comercial)+Javier Mentxaka(Cuentas Nacionales=大客户线 P0 新设)+Ana Gil(Marketing)+José Luis Iglesias García(Catalón Tech Sales)",
+    "技术与认证": "CIF B20828372/A20817391 登实;BORME 五子司接管谱;全新总部 Belartza 2022 启",
+    "采购与供应链信号": "Importa=进口经营=我方 ODM EXW 对口;5 子司全国网=交付网谱;Strom",
+    "近期动态与线索": "新总部 Belartza 2,000+ m² 2022 启动;2024-12-22 Berdin Alicante SL 接管谱(BORME);2025-01 年代表会(Logroño);Javier Mentxaka 新客户数字 2025-01",
+    "与我方契合点": "Ortiz de Guzmán 电信安防 BD =**我方 EXW 最直口**→ 24 口 PoE(电信/安防产品全国分销载线,Importa 进口经营自然)",
+    "风险与注意": "**「Importa」进口经营=EXW 对口=最大钩;集团五子司谱谱位籀;上销档「>30M €」级别/ €2.5M 估 = 营窗双锚注;Barcelona/Álava 谱史注**"
+   },
+   "evidence": [
+    {
+     "dim": "总经理谱",
+     "quote": "Xabier Ostolaza Gerente de Berdin Grupo;2017-01-01 sustituye a F. Javier Fierro socio fundador desde 1980;Voy, mismo, igual mucho equal F. Javier Fierro communicated(2014), 3-year gradual transition;telecom engineer Bilbao+Lyntel director comercial previo;proinstalaciones 2018-11-05 专访",
+     "source": "https://www.proinstalaciones.com/entrevistas/2234-xabier-ostolaza-gerente-de-berdin-grupo"
+    },
+    {
+     "dim": "集团谱",
+     "quote": "GRUPO BERDIN SA CIF A20817391 Societás Anónima Aktividades Holding;28-07-2003 创;Capital 138.652,20€;Administrador Único de Berdin SL 2017-02-16 + Alicante/Castellón/Valencia/Madrid/Rioja 五子司谱(BORME)",
+     "source": "https://www.iberinform.es/empresa/946717/grupo-berdin"
+    },
+    {
+     "dim": "KP 矩阵",
+     "quote": "Xabier Ostolaza Director Gerente;Alfonso del Rio Director comercial;Javier Mentxaka Nueva figura responsable de cuentas nacionales 2025;Raúl Ortiz de Guzmán Ezquerra Responsable desarrollo de negocio Área Telecomunicaciones y Seguridad(Zaragoza);Ana Gil Responsable Marketing;Jose Luis Iglesias Técnico comercial Cataluña",
+     "source": "https://www.berdin.com/noticias/reunion-delegados-2025"
+    },
+    {
+     "dim": "新型/进口",
+     "quote": "Mayor de 30 millones € facturación(empresite)/Evolución de ventas range;Operaciones Internacionales: Importa;47 trabajadores;Tel 943458112;email donosti@berdin.com/rekalde@berdin.com;Belartza 2000+m² 新总部 2022",
+     "source": "https://empresite.eleconomista.es/BERDIN.html"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "第 1 次跟进 · Ortiz de Guzmán 电信安防 BD P0",
+     "push": "STC-424XGGPM-280W",
+     "angle": "Head BD Telecom & Security Area 最直口 → 24 口 PoE(电信/安防产品全国分销载线)**Importa 进口经营=EXW 对口**",
+     "question": "贵司电信/安防分销线的 PoE 交换机集购由哪位同事主责?24 口 280W 带看门狗有接口意?",
+     "proof": "proinstalaciones+berdin.com 5 源"
+    },
+    {
+     "stage": "第 2 次跟进 · Ostolaza Gerente 总",
+     "push": "STI-288GPM/424",
+     "angle": "Gerente/Director General 总;Lyntel 电信谱口熟;启示",
+     "question": "贵司 5 子司分销线的硬集购口?",
+     "proof": "proinstalaciones 谱"
+    },
+    {
+     "stage": "第 3 次跟进 · Mentxaka 大客户线 P0",
+     "push": "STC-28DGGPM",
+     "angle": "Responsable de Cuentas Nacionales = 大客户线 P0 新设 2025-01;stunter 谱位;招投标谱钩",
+     "question": "贵司大客户/招投标线的硬样送样口?",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {
+     "①背景再核": "2003 创 22 年(Berdin SL 主体+GRUPO BERDIN S.A. 控股,5 子司全国网)",
+     "②芯片/型号": "电信/安防/自动化/电力/照明五业务区分销;PoE 24 口分销载线",
+     "③KP 深挖": "Ortiz de Guzmán 电信安防 BD P0+Ostolaza Gerente 总+Mentxaka 大客户线+del Río 商业总监+Ana Gil Mkt",
+     "④Saga 对标": "电信/安防产品全国分销 → 24 口 PoE 载(Importa=EXW 对口)",
+     "⑤在乎与偏好": "五子司全国网;CR5;Donostia Belartza 2000+m² 2022;Importa 进口经营",
+     "⑥SWOT": "S=Importa=EXW 对口+五子司全国网/W=营窗双锚(>30M € 级/€2.5M 估)/O=电信安防 BD 主管 = 我方最直口 P0/T=营窗双锚注"
+    },
+    "care": "Importa 进口经营=EXW 对口=最大钩;集团谱=五子司;2025-01 新 Mentxaka 大客户线",
+    "swot": {
+     "S": "Importa=EXW 对口+五子司全国网",
+     "W": "营窗双锚(>30M € 级/€2.5M 估)",
+     "O": "电信安防 BD 主管 = 我方最直口 P0",
+     "T": "营窗双锚注"
+    },
+    "uncertain": "MikroTik 谱位在售线需核;Ortiz 直邮推档",
+    "gap_proof": "proinstalaciones/berdin.com/empresite/empresia/iberinform/rocketreach 7 源真源"
+   },
+   "unknowns": [
+    "MikroTik 谱位在售线需官网核",
+    "Ortiz 直邮推档",
+    "营窗双锚 (>30M € 级/€2.5M 估)精确次年订"
+   ],
+   "relation": "2026-10-08 R67 推土机深挖 批5",
+   "email": "Dear Raúl Ortiz de Guzmán Ezquerra and Xabier Ostolaza Team,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — EXW open for Spanish / European distribution (import). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for telecom, automation and security product lines. Datasheet + CE pack on request.\n\nBest regards\nSaga / SmartByte ODM",
+   "email_addr": "**Raúl Ortiz de Guzmán Ezquerra(Head BD Telecom & Security Area=最直口 P0)+Xabier Ostolaza(Gerente/Director General)+Alfonso del Río(Director Comercial)+Javier Mentxaka(Responsable Cuentas Nacionales)**",
+   "kp": [
+    {
+     "name": "Raúl Ortiz de Guzmán Ezquerra",
+     "role": "Responsable Desarrollo de Negocio– Área Telecomunicaciones y Seguridad(**电信+安防 BD 主管** P0 = 我方 EXW 直对口最直口;Zaragoza 谱;rocketreach 直证)",
+     "contact": "rortiz@berdin.com(推断,送完核)/+34 943 45 81 12 台口转",
+     "status": "rocketreach 直证 O 级;邮箱推断 G 级",
+     "source": "https://rocketreach.co/berdin-grupo-profile_b5d4ee1ff42e3909"
+    },
+    {
+     "name": "Xabier Ostolaza",
+     "role": "Gerente / Director General(F. J. Ostolaza Manterola;2017-01-01 由 F. Javier Fierro 创始复到;前电信工程师 Bilbao+Lyntel 商业总监;proinstalaciones 2018-11 专访官方录)",
+     "contact": "xostolaza@berdin.com(推断,送完核)/donosti@berdin.com 台口转",
+     "status": "proinstalaciones+rocketreach 双源 O 级;邮箱推断 G 级",
+     "source": "https://www.proinstalaciones.com/entrevistas/2234-xabier-ostolaza-gerente-de-berdin-grupo"
+    },
+    {
+     "name": "Alfonso del Río",
+     "role": "Director Comercial(商业总监;2025-01 年代表会发言人=全国商业侧口)",
+     "contact": "adelrio@berdin.com(推断,送完核)",
+     "status": "berdin.com+rocketreach 双源 O 级;邮箱推断 G 级",
+     "source": "https://www.berdin.com/noticias/reunion-delegados-2025"
+    },
+    {
+     "name": "Javier Mentxaka",
+     "role": "Responsable de Cuentas Nacionales(大客户战略管理 2025-01 新设;招投标+大客户线 P0 新谱)",
+     "contact": "jmentxaka@berdin.com(推断,送完核)",
+     "status": "berdin.com 直证 O 级;邮箱推断 G 级",
+     "source": "https://www.berdin.com/noticias/reunion-delegados-2025"
+    }
+   ],
+   "tag": "类型=Berdin Grupo 22 年全国 5 子司 分销/Importa;势态=电信安防 BD 主管 Ostolaza 总;KP=Ortiz BD P0+Ostolaza 总+Mentxaka 大客户+del Río 商业总监",
+   "question": "触达决策门:Raúl Ortiz de Guzmán Ezquerra(电信安防 BD 主管 P0)直门+Xabier Ostolaza(Gerente 总);",
+   "alt2": "替代口:Alfonso del Río(Director Comercial)+Javier Mentxaka(Responsable Cuentas Nacionales);",
+   "alt3": "备用:+34 943 45 81 12 台口转;donosti@berdin.com/rekalde@berdin.com;Errekatxulo 4 Belartza Donostia 邮寄样件"
+  }
+ ]
+}

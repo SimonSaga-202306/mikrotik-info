@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Berdin Grupo:Grupo Berdin, S.A.(西班牙 Donostia-San Sebastián;**CIF A20817391;1980 创(9 合伙人,Balleneros 16 起始);200 人;电气/电子件+照明+自动化分销集团**;**换代金谱:Gerente/Director General Xabier Ostolaza(2017-01-01 接替创始合伙人 F. Javier Fierro;前电信商务总监;proinstalaciones 专访 O)**:Alfonso del Río dir comercial+三区域总(Oscar Vilella 北/Enrique Viana 东/Javier Parro 中南)+Daniel Vilar dir informática+Harkaitz Arrizabalaga dir técnico+Laura Marino CFO+Estíbaliz Sesma RRHH+Javier Mentxaka 国家账户(**官网新闻件全谱 O 级**)
-- 【推断】R66 第 21 波具名 KP 金谱
-- 【假设】24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))具名谱位引路
+- 【事实】波 R67 批5·A-282:西谱: **Berdin Grupo 深挖(empresite/empresia/iberinform/官网/rocketreach/proinstalaciones/redestelecom 七源互证)**:董事复合体谱位(商业注册网谱注):**操作主体 = BERDIN S.L.(CIF B20828372,22-12-2003 创(22 年,前身 = Berdin S.A. 2003-11-19 全解重组);CNAE 4652 电子/电信产品批发;47 员工(2026 empresite);Donostia-San Sebastián;Tel +34 943 45 81 12/943 36 93 94;「Distribución de material eléctrico, electrónico, industrial y tecnológico」=电工/电子/工业/技术材料分销**;**控股主体(受益链谱 = GRUPO BERDIN S.A.(CIF A20817391,28-07-2003 创(22 年),holding 控股,资本 €138,652,2023 <€500k 营收谱检,1 员工谱 fc S3E11)**;Bererdin SL 于 2017-02-16 由 GRUPO BERDIN S.A. 担任 Administrador Único(BORME 直证)**;**全国 5 子司谱 = Berdin Alicante SL/Berdin Castellón S.A./Berdin Valencia SL/Berdin Madrid SL/Berdin Rioja SL(2020-2024 先后由 GRUPO BERDIN S.A. 担任 Administrador Único;Barcelona/Álava 历史谱已解**;**「Operaciones Internacionales: Importa」=**进口经营**谱口;**「Mayor de 30 millones € facturación」=(销售等级区间注;empresia 图个谱 = €2.5M/年=两源差钉)**;**五位业务区 = automatización 自动化/electricidad 电力/iluminación 照明/telecomunicación 电信/seguridad 安防**(berdin.com 自豪广) = 电信+安防产品全国分销谱口;**KP 金谱 Xabier Ostolaza(F. J. Ostolaza Manterola = **Gerente / Director General 总经理**,2017-01-01 由创始合伙人 F. Javier Fierro **接力继任**;2014-2017 三年阶梯交接;前身 = 电信工程师(Bilbao)+Lyntel 电信部门商业总监 = 公司内电信谱口熟;proinstalaciones 专访官方录**;**Alfonso del Río**(Director Comercial 商业总监 = 2025-01 年代表会证词者**;**Javier Mentxaka**(Responsable de Cuentas Nacionales = **客户战略管理/大客户线 P0**,2025-01 新数字 = 大客户战略勾引导**;**Raúl Ortiz de Guzmán Ezquerra**(Head Business Development Telecom & Security Area = **电信+安防 BD 主管 P0=最直口** Zaragoza 谱**+Ana Gil(Responsable marketing/Lasarte-Oria)**;**新总部 Belartza 2,000+ m² 控股+物流中心(Errekatxulo 4, Polígono Industrial Belartza, Donostia-San Sebastián;2022 启用**;LI 官谱 rocketreach 系.
+- 【推断】R67 推土机深挖 批5 具名 KP 金谱(集团 5 子司+Importa+Ostolaza 总谱)
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Ortiz de Guzmán 电信安防 BD P0 直口 全国分销 EXW 载线引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,8 +76,10 @@ updated: 2026-09-28
 - **原始联系字段**：info@berdin.com（官网联系页正文）；分地址：madrid@berdin.com／info@berdinonline.com／agil@berdin.com（第三方目录）；原入口：见 elioplus 渠道库
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
-  - **Xabier Ostolaza**(Gerente/Director General(2017 换代接棒;专访 O))— proinstalaciones.com 专访件 〔已有(公司官方公开件/登记册自曝);源:https://www.proinstalaciones.com/entrevistas/2234-xabier-ostolaza-gerente-de-berdin-grupo〕
-  - **Alfonso del Río**(Director Comercial(官网销售梯队文 O))— berdin.com 新闻件 〔已有(公司官方公开件/登记册自曝);源:https://www.berdin.com/noticias/hablan-los-jefes-de-venta〕
+  - **Raúl Ortiz de Guzmán Ezquerra**(Responsable Desarrollo de Negocio– Área Telecomunicaciones y Seguridad(**电信+安防 BD 主管** P0 = 我方 EXW 直对口最直口;Zaragoza 谱;rocketreach 直证))— rortiz@berdin.com(推断,送完核)/+34 943 45 81 12 台口转 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/berdin-grupo-profile_b5d4ee1ff42e3909〕
+  - **Xabier Ostolaza**(Gerente / Director General(F. J. Ostolaza Manterola;2017-01-01 由 F. Javier Fierro 创始复到;前电信工程师 Bilbao+Lyntel 商业总监;proinstalaciones 2018-11 专访官方录))— xostolaza@berdin.com(推断,送完核)/donosti@berdin.com 台口转 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.proinstalaciones.com/entrevistas/2234-xabier-ostolaza-gerente-de-berdin-grupo〕
+  - **Alfonso del Río**(Director Comercial(商业总监;2025-01 年代表会发言人=全国商业侧口))— adelrio@berdin.com(推断,送完核) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.berdin.com/noticias/reunion-delegados-2025〕
+  - **Javier Mentxaka**(Responsable de Cuentas Nacionales(大客户战略管理 2025-01 新设;招投标+大客户线 P0 新谱))— jmentxaka@berdin.com(推断,送完核) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.berdin.com/noticias/reunion-delegados-2025〕
   - **Oscar Vilella / Enrique Viana / Javier Parro**(Jefes de venta 三区域总(北/东/中南))— berdin.com 新闻件 〔已有(公司官方公开件/登记册自曝);源:https://www.berdin.com/noticias/hablan-los-jefes-de-venta〕
   - **Daniel Vilar**(Director de informática y digitalización(数字化=件链口))— berdin.com/alimarket 任命件 〔已有(公司官方公开件/登记册自曝);源:https://www.alimarket.es/construccion/noticia/342590/berdin-remodela-su-equipo-directivo〕
   - **Harkaitz Arrizabalaga**(Director Técnico(技术总监))— alimarket 任命件 〔已有(公司官方公开件/登记册自曝);源:https://www.alimarket.es/construccion/noticia/342590/berdin-remodela-su-equipo-directivo〕
@@ -86,8 +88,10 @@ updated: 2026-09-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Xabier Ostolaza | Gerente/Director General(2017 换代接棒;专访 O) | proinstalaciones.com 专访件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.proinstalaciones.com/entrevistas/2234-xabier-ostolaza-gerente-de-berdin-grupo |
-| Alfonso del Río | Director Comercial(官网销售梯队文 O) | berdin.com 新闻件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.berdin.com/noticias/hablan-los-jefes-de-venta |
+| Raúl Ortiz de Guzmán Ezquerra | Responsable Desarrollo de Negocio– Área Telecomunicaciones y Seguridad(**电信+安防 BD 主管** P0 = 我方 EXW 直对口最直口;Zaragoza 谱;rocketreach 直证) | rortiz@berdin.com(推断,送完核)/+34 943 45 81 12 台口转 | rocketreach 直证 O 级;邮箱推断 G 级 | https://rocketreach.co/berdin-grupo-profile_b5d4ee1ff42e3909 |
+| Xabier Ostolaza | Gerente / Director General(F. J. Ostolaza Manterola;2017-01-01 由 F. Javier Fierro 创始复到;前电信工程师 Bilbao+Lyntel 商业总监;proinstalaciones 2018-11 专访官方录) | xostolaza@berdin.com(推断,送完核)/donosti@berdin.com 台口转 | proinstalaciones+rocketreach 双源 O 级;邮箱推断 G 级 | https://www.proinstalaciones.com/entrevistas/2234-xabier-ostolaza-gerente-de-berdin-grupo |
+| Alfonso del Río | Director Comercial(商业总监;2025-01 年代表会发言人=全国商业侧口) | adelrio@berdin.com(推断,送完核) | berdin.com+rocketreach 双源 O 级;邮箱推断 G 级 | https://www.berdin.com/noticias/reunion-delegados-2025 |
+| Javier Mentxaka | Responsable de Cuentas Nacionales(大客户战略管理 2025-01 新设;招投标+大客户线 P0 新谱) | jmentxaka@berdin.com(推断,送完核) | berdin.com 直证 O 级;邮箱推断 G 级 | https://www.berdin.com/noticias/reunion-delegados-2025 |
 | Oscar Vilella / Enrique Viana / Javier Parro | Jefes de venta 三区域总(北/东/中南) | berdin.com 新闻件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.berdin.com/noticias/hablan-los-jefes-de-venta |
 | Daniel Vilar | Director de informática y digitalización(数字化=件链口) | berdin.com/alimarket 任命件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.alimarket.es/construccion/noticia/342590/berdin-remodela-su-equipo-directivo |
 | Harkaitz Arrizabalaga | Director Técnico(技术总监) | alimarket 任命件 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.alimarket.es/construccion/noticia/342590/berdin-remodela-su-equipo-directivo |
@@ -147,35 +151,41 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第21波50户.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R67_R56_推土机批5.json`；价格均为 EXW 快照。
 
-- **①背景再核**：Grupo Berdin, S.A.(西班牙 Donostia-San Sebastián;**CIF A20817391;1980 创(9 合伙人,Balleneros 16 起始);200 人;电气/电子件+照明+自动化分销集团**;**换代金谱:Gerente/Director General Xabier Ostolaza(2017-01-01 接替创始合伙人 F. Javier Fierro;前电信商务总监;proinstalaciones 专访 O)**:Alfonso del Río dir comercial+三区域总(Oscar Vilella 北/Enrique Viana 东/Javier Parro 中南)+Daniel Vilar dir informática+Harkaitz Arrizabalaga dir técnico+Laura Marino CFO+Estíbaliz Sesma RRHH+Javier Mentxaka 国家账户(**官网新闻件全谱 O 级**)
-- **②芯片/型号**：(待谱面二补)
-- **③KP 深挖**：**Xabier Ostolaza(Gerente/Director General(2017 换代接棒;专访 O),official-self-published·谱/leads-only(直发需 opt-in));Alfonso del Río(Director Comercial(官网销售梯队文 O),official-self-published·谱/leads-only(直发需 opt-in));Oscar Vilella / Enrique Viana / Javier Parro(Jefes de venta 三区域总(北/东/中南),official-self-published·谱/leads-only(直发需 opt-in));Daniel Vilar(Director de informática y digitalización(数字化=件链口),official-self-published·谱/leads-only(直发需 opt-in));Harkaitz Arrizabalaga(Director Técnico(技术总监),official-self-published·谱/leads-only(直发需 opt-in))**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-08, 15天有效))
-- **⑤在乎与偏好**：官网新闻件=O 级全梯队
+- **①背景再核**：2003 创 22 年(Berdin SL 主体+GRUPO BERDIN S.A. 控股,5 子司全国网)
+- **②芯片/型号**：电信/安防/自动化/电力/照明五业务区分销;PoE 24 口分销载线
+- **③KP 深挖**：Ortiz de Guzmán 电信安防 BD P0+Ostolaza Gerente 总+Mentxaka 大客户线+del Río 商业总监+Ana Gil Mkt
+- **④Saga 对标**：电信/安防产品全国分销 → 24 口 PoE 载(Importa=EXW 对口)
+- **⑤在乎与偏好**：五子司全国网;CR5;Donostia Belartza 2000+m² 2022;Importa 进口经营
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**「sustituido por Xabier Ostolaza desde el 1 de enero de 2017… dirección general de Berdin Grupo… 200 personas」;梯队: Ostolaza(director)+Laura Marino(financiera)+Alfonso del Río(comercial)+Estíbaliz Sesma(RRHH)+Daniel Vilar(informática)+Harkaitz Arrizabalaga(técnico)(proinstalaciones/alimarket 件)
-  > 「sustituido por Xabier Ostolaza desde el 1 de enero de 2017… dirección general de Berdin Grupo… 200 personas」;梯队: Ostolaza(director)+Laura Marino(financiera)+Alfonso del Río(comercial)+Estíbaliz Sesma(RRHH)+Daniel Vilar(informática)+Harkaitz Arrizabalaga(técnico)(proinstalaciones/alimarket 件)
+- **【总经理谱】**Xabier Ostolaza Gerente de Berdin Grupo;2017-01-01 sustituye a F. Javier Fierro socio fundador desde 1980;Voy, mismo, igual mucho equal F. Javier Fierro communicated(2014), 3-year gradual transition;telecom engineer Bilbao+Lyntel director comercial previo;proinstalaciones 2018-11-05 专访
+  > Xabier Ostolaza Gerente de Berdin Grupo;2017-01-01 sustituye a F. Javier Fierro socio fundador desde 1980;Voy, mismo, igual mucho equal F. Javier Fierro communicated(2014), 3-year gradual transition;telecom engineer Bilbao+Lyntel director comercial previo;proinstalaciones 2018-11-05 专访
   > 来源：https://www.proinstalaciones.com/entrevistas/2234-xabier-ostolaza-gerente-de-berdin-grupo
-- **【联系方式与基础画像】**GRUPO BERDIN SA;CIF A20817391;Donostia;fundada 1980(9 socios);200 personas;distribución material eléctrico y electrónico;技术部 20+ 工程师 5 业务区(einforma/proinstalaciones 件)
-  > GRUPO BERDIN SA;CIF A20817391;Donostia;fundada 1980(9 socios);200 personas;distribución material eléctrico y electrónico;技术部 20+ 工程师 5 业务区(einforma/proinstalaciones 件)
-  > 来源：https://www.einforma.com/informacion-empresa/grupo-berdin
+- **【集团谱】**GRUPO BERDIN SA CIF A20817391 Societás Anónima Aktividades Holding;28-07-2003 创;Capital 138.652,20€;Administrador Único de Berdin SL 2017-02-16 + Alicante/Castellón/Valencia/Madrid/Rioja 五子司谱(BORME)
+  > GRUPO BERDIN SA CIF A20817391 Societás Anónima Aktividades Holding;28-07-2003 创;Capital 138.652,20€;Administrador Único de Berdin SL 2017-02-16 + Alicante/Castellón/Valencia/Madrid/Rioja 五子司谱(BORME)
+  > 来源：https://www.iberinform.es/empresa/946717/grupo-berdin
+- **【KP 矩阵】**Xabier Ostolaza Director Gerente;Alfonso del Rio Director comercial;Javier Mentxaka Nueva figura responsable de cuentas nacionales 2025;Raúl Ortiz de Guzmán Ezquerra Responsable desarrollo de negocio Área Telecomunicaciones y Seguridad(Zaragoza);Ana Gil Responsable Marketing;Jose Luis Iglesias Técnico comercial Cataluña
+  > Xabier Ostolaza Director Gerente;Alfonso del Rio Director comercial;Javier Mentxaka Nueva figura responsable de cuentas nacionales 2025;Raúl Ortiz de Guzmán Ezquerra Responsable desarrollo de negocio Área Telecomunicaciones y Seguridad(Zaragoza);Ana Gil Responsable Marketing;Jose Luis Iglesias Técnico comercial Cataluña
+  > 来源：https://www.berdin.com/noticias/reunion-delegados-2025
+- **【新型/进口】**Mayor de 30 millones € facturación(empresite)/Evolución de ventas range;Operaciones Internacionales: Importa;47 trabajadores;Tel 943458112;email donosti@berdin.com/rekalde@berdin.com;Belartza 2000+m² 新总部 2022
+  > Mayor de 30 millones € facturación(empresite)/Evolución de ventas range;Operaciones Internacionales: Importa;47 trabajadores;Tel 943458112;email donosti@berdin.com/rekalde@berdin.com;Belartza 2000+m² 新总部 2022
+  > 来源：https://empresite.eleconomista.es/BERDIN.html
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：Grupo Berdin, S.A.(西班牙 Donostia-San Sebastián;**CIF A20817391;1980 创(9 合伙人,Balleneros 16 起始);200 人;电气/电子件+照明+自动化分销集团**;**换代金谱:Gerente/Director General Xabier Ostolaza(2017-01-01 接替创始合伙人 F. Javier Fierro;前电信商务总监;proinstalaciones 专访 O)**:Alfonso del Río dir comercial+三区域总(Oscar Vilella 北/Enrique Viana 东/Javier Parro 中南)+Daniel Vilar dir informática+Harkaitz Arrizabalaga dir técnico+Laura Marino CFO+Estíbaliz Sesma RRHH+Javier Mentxaka 国家账户(**官网新闻件全谱 O 级**)
-- **产品线与在售品牌**：(波次二补谱面)
-- **目标行业与场景**：西班牙巴斯克 45 年电气分销集团
-- **团队与规模**：200 人;1980 创
-- **决策链与对接人**：**Xabier Ostolaza(Gerente/Director General(2017 换代接棒;专访 O),official-self-published·谱/leads-only(直发需 opt-in));Alfonso del Río(Director Comercial(官网销售梯队文 O),official-self-published·谱/leads-only(直发需 opt-in));Oscar Vilella / Enrique Viana / Javier Parro(Jefes de venta 三区域总(北/东/中南),official-self-published·谱/leads-only(直发需 opt-in));Daniel Vilar(Director de informática y digitalización(数字化=件链口),official-self-published·谱/leads-only(直发需 opt-in));Harkaitz Arrizabalaga(Director Técnico(技术总监),official-self-published·谱/leads-only(直发需 opt-in))**
-- **技术与认证**：(波次二补)
-- **采购与供应链信号**：(波次二补)
-- **近期动态与线索**：2026-10-08 R66 21 波谱名牌
-- **与我方契合点**：24 口 value PoE 谱链窗口
-- **风险与注意**：Ostolaza 总座+del Río 商务位(opt-in 律)
+- **业务定位**：Berdin Grupo(B20828372 主体+GRUPO BERDIN S.A. 控股,2003 创 22 年):西全国电工/电子/工业/电信/安防产品分销商(Importa=进口经营)
+- **产品线与在售品牌**：自动/automatización+电力/electricidad+照明/iluminación+电信/telecomunicaciones+安防/seguridad 五业务区;5 子司全国网
+- **目标行业与场景**：全国(Donostia 总+Alicante/Castellón/Valencia/Madrid/Rioja 五点);B2B 分销=厂商-集成客链
+- **团队与规模**：47 员工(2026 empresite);GRUPO BERDIN S.A. holding(€138,652 资本,<€500k 营收谱);销售「>30M €」级别(empresia €2.5M 估双源差钉)
+- **决策链与对接人**：Raúl Ortiz de Guzmán Ezquerra(电信安防 BD 主管 P0=最直口)+Xabier Ostolaza(Gerente/Director General 总 2017-01 起)+Alfonso del Río(Director Comercial)+Javier Mentxaka(Cuentas Nacionales=大客户线 P0 新设)+Ana Gil(Marketing)+José Luis Iglesias García(Catalón Tech Sales)
+- **技术与认证**：CIF B20828372/A20817391 登实;BORME 五子司接管谱;全新总部 Belartza 2022 启
+- **采购与供应链信号**：Importa=进口经营=我方 ODM EXW 对口;5 子司全国网=交付网谱;Strom
+- **近期动态与线索**：新总部 Belartza 2,000+ m² 2022 启动;2024-12-22 Berdin Alicante SL 接管谱(BORME);2025-01 年代表会(Logroño);Javier Mentxaka 新客户数字 2025-01
+- **与我方契合点**：Ortiz de Guzmán 电信安防 BD =**我方 EXW 最直口**→ 24 口 PoE(电信/安防产品全国分销载线,Importa 进口经营自然)
+- **风险与注意**：**「Importa」进口经营=EXW 对口=最大钩;集团五子司谱谱位籀;上销档「>30M €」级别/ €2.5M 估 = 营窗双锚注;Barcelona/Álava 谱史注**
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -190,10 +200,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：官网新闻件=O 级全梯队
-- **W**：分销巨头谱
-- **O**：Ostolaza+Vilar 数字化口直达位
-- **T**：一线链竞谱
+- **S**：Importa=EXW 对口+五子司全国网
+- **W**：营窗双锚(>30M € 级/€2.5M 估)
+- **O**：电信安防 BD 主管 = 我方最直口 P0
+- **T**：营窗双锚注
 
 ## 触达与风险红线
 
@@ -221,8 +231,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 硬件采购线在职者(波次二)
-  - [ ] MikroTik 谱面份额
+  - [ ] MikroTik 谱位在售线需官网核
+  - [ ] Ortiz 直邮推档
+  - [ ] 营窗双锚 (>30M € 级/€2.5M 估)精确次年订
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -234,12 +245,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Estimado Sr. Ostolaza,
+Dear Raúl Ortiz de Guzmán Ezquerra and Xabier Ostolaza Team,
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — EXW open for Spanish / European distribution (import). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for telecom, automation and security product lines. Datasheet + CE pack on request.
 
-Best regards,
-Saga Networks Export Desk
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

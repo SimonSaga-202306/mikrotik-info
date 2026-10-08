@@ -36,7 +36,7 @@
    "check": "价锚一致(p1↔email 锚点)",
    "ok": false,
    "severity": "info",
-   "detail": "[('A-092', 'STC-424XGGPM-280W', '$165'), ('A-093', 'STC-424XGGPM-280W', '$165'), ('A-099', 'STC-424XGGPM-280W', '$165'), ('A-100', 'STC-424XGGPM-280W', '$165'), ('A-102', 'STC-424XGGPM-280W', '$165'), ('A-105', 'STC-424XGGPM-280W', '$165'), ('A-107', 'STC-424XGGPM-280W', '$165'), ('A-114', 'STC-424XGGPM-280W', '$165')]"
+   "detail": "[('A-093', 'STC-424XGGPM-280W', '$165'), ('A-099', 'STC-424XGGPM-280W', '$165'), ('A-105', 'STC-424XGGPM-280W', '$165'), ('A-107', 'STC-424XGGPM-280W', '$165'), ('A-114', 'STC-424XGGPM-280W', '$165'), ('A-115', 'STC-424XGGPM-280W', '$165'), ('A-117', 'STC-424XGGPM-280W', '$165'), ('A-133', 'STC-424XGGPM-280W', '$165')]"
   },
   {
    "check": "供位 push≡p1(去矛盾)",
@@ -54,7 +54,7 @@
    "check": "question 同文入 MD 率(早期批问题句独立措辞属设计差异)",
    "ok": true,
    "severity": "info",
-   "detail": "同文入档 526/547;独立措辞 21(信息项)"
+   "detail": "同文入档 521/547;独立措辞 26(信息项)"
   },
   {
    "check": "OVERRIDE 指向真实存在的 A 档",

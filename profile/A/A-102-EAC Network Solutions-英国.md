@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】EAC Network Solutions:EAC NETWORK SOLUTIONS LIMITED(英国 Witney/Stokenchurch,The Old Chapel, Union Way, Witney OX28 6HD(通信:First Floor, 1 Des Roches Square, Witan Way);公司号 **05535673**(2005-08-12 注册,21 年);SIC 62090 IT 服务;11-50 人;谱型=英国教育+商业 IT 伙伴(学校/学院/SME 高度个性化服务:网络支持维护/无线基础设施/NAC/VDI/BYOD/统一通信;慈善界回馈形;eac-ns.co.uk)
-- 【推断】R66 第 12 波具名 KP 金谱
-- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
+- 【事实】波 R67 批5·A-102:英谱: **EAC Network Solutions Ltd 深挖(官网/Companies House/LI/contactout/rocketreach 五源互证)**:**Company No 05535673,2005-08-12 创(20 年);SIC 62020 信息技术咨询;Stokenchurch Buckinghamshire HP14 3RQ HQ(历史注册地 Witney OX28 4BE)+14 员工(LI 11-50/contactout 22 员双窗注)**;**业务=IT 教育+商业双线:Network Support & Maintenance/Wireless Infrastructure 无线基建/Network Access Control NAC/Virtual Desktop Infrastructure VDI/BYOD 移动设备整合/Integrated Solutions/Unified Communications 统一通信(「supported IT partner to schools and business customers」LI 自报;客户证言 Salveo Care 养老院 MD Grace Evans+Oxford Science Park Magdalen Centre Manager Ania Ferenc)**;**慈善 que【give something back】sector 社会项目注**;**KP 金谱:Ben Hammond(Technical Director& Co-Founder 共同创始,DOB Dec 1977=47 岁,近 30 年 IT 经验,2005-08 同任至今;LI 组织部谱 Hemel Hempstead 谱;contactout+LI 杰谱)+Mike Papworth(Director& Co-Founder 共同创始,DOB Dec 1964=61 岁,2005-08 同任至今;LI 组织部谱 Oxford;同任 20 年合伙人)+Emma David(General Manager LI 谱)+Laura Papworth(Office Manager 家庭谱注)+Tina Restall+Sharon Wheeler(Operations Team 经理)+Jeff Woodhall+Steve Burns(Independent Contractor 谱)+Taylor Lloyd(Senior Business Development Representative)+Libby March(Internal Sales Account Manager)+Chris Silk(Technical Operations Manager)**=10 人谱;**carbon 注:邮箱格式 100%={first}.{last}@eac-ns.co.uk(contactout 直证)=具名直邮破解链;enquiry@eac-ns.co.uk CSV 既有台口活**;20 年教育+商用双区(Buckinghamshire 首柜)=专业谱。
+- 【推断】R67 推土机深挖 批5 具名 KP 金谱(20 年双创始+邮箱 100% 格式链)
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Hammond Technical Director/Papworth Director 双创始 VDI/无线 PoE 载线引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,21 +76,27 @@ updated: 2026-09-28
 - **原始联系字段**：enquiry@eac-ns.co.uk（官网自述原文直取；邮箱格式 {first}.{last}@eac-ns.co.uk。具名 Mike Papworth（Director）、Ben Hammond（Technical Director）、Chris Silk（Senior Customer Account Manager）→ 可直接拼 mike.papworth@ / ben.hammond@）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Ben Hammond**(Technical Director & Co-Founder(共同创始=技术主导;近 30 年 IT 经验;DOB Dec 1977=47 岁;2005-08-12 任至今;Companies House 直证))— ben.hammond@eac-ns.co.uk(100% 格式链 推断,送完核)/+44 7855 49XXXX 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://find-and-update.company-information.service.gov.uk/company/05535673/officers〕
+  - **Mike Papworth**(Director & Co-Founder(共同创始=商业主导;DOB Dec 1964=61 岁;2005-08-12 任至今;Oxford 谱))— mike.papworth@eac-ns.co.uk(100% 格式链 推断,送完核) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://find-and-update.company-information.service.gov.uk/company/05535673/officers〕
+  - **Chris Silk**(Technical Operations Manager(contactout 直证 O 级;LI 谱))— chris.silk@eac-ns.co.uk(100% 格式链) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://contactout.com/company/EAC-Network-Solutions-5650〕
+  - **Emma David**(General Manager(LI 直证 O 级;LI 谱))— emma.david@eac-ns.co.uk(100% 格式链) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://uk.linkedin.com/company/eac-network-solutions〕
   - **Benjamin John Hammond**(Director & Co-Founder 兼 Technical Director(近 30 年 IT 技术谱))— Companies House 军官名件+官网 Meet the Team 自署 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/05535673/officers〕
   - **Michael Papworth**(Director & Co-Founder(2005 共同创位;客户服务体系驱动))— Companies House 军官名件+官网 Meet the Team 自署 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/05535673/officers〕
   - **Jeff Woodhall**(Senior Engineer(澳洲基地;跨时区 24h 覆盖双档))— eac-ns.co.uk About Us 官网自署 〔已有(公司官方公开件/登记册自曝);源:https://eac-ns.co.uk/about-us/〕
   - **Steve Burns**(Senior Engineer(英国基地))— eac-ns.co.uk About Us 官网自署 〔已有(公司官方公开件/登记册自曝);源:https://eac-ns.co.uk/about-us/〕
-  - **Emma David**(General Manager)— LinkedIn 自署 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://uk.linkedin.com/company/eac-network-solutions〕
 
 ## 关键人（KP）与触达通道
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Ben Hammond | Technical Director & Co-Founder(共同创始=技术主导;近 30 年 IT 经验;DOB Dec 1977=47 岁;2005-08-12 任至今;Companies House 直证) | ben.hammond@eac-ns.co.uk(100% 格式链 推断,送完核)/+44 7855 49XXXX 谱 | Companies House+LI+contactout 3 源 O 级;邮箱推断 G 级 | https://find-and-update.company-information.service.gov.uk/company/05535673/officers |
+| Mike Papworth | Director & Co-Founder(共同创始=商业主导;DOB Dec 1964=61 岁;2005-08-12 任至今;Oxford 谱) | mike.papworth@eac-ns.co.uk(100% 格式链 推断,送完核) | Companies House+LI+contactout 3 源 O 级;邮箱推断 G 级 | https://find-and-update.company-information.service.gov.uk/company/05535673/officers |
+| Chris Silk | Technical Operations Manager(contactout 直证 O 级;LI 谱) | chris.silk@eac-ns.co.uk(100% 格式链) | contactout 直证 O 级;邮箱推断 G 级 | https://contactout.com/company/EAC-Network-Solutions-5650 |
+| Emma David | General Manager(LI 直证 O 级;LI 谱) | emma.david@eac-ns.co.uk(100% 格式链) | LI 直证 O 级;邮箱推断 G 级 | https://uk.linkedin.com/company/eac-network-solutions |
 | Benjamin John Hammond | Director & Co-Founder 兼 Technical Director(近 30 年 IT 技术谱) | Companies House 军官名件+官网 Meet the Team 自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/05535673/officers |
 | Michael Papworth | Director & Co-Founder(2005 共同创位;客户服务体系驱动) | Companies House 军官名件+官网 Meet the Team 自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/05535673/officers |
 | Jeff Woodhall | Senior Engineer(澳洲基地;跨时区 24h 覆盖双档) | eac-ns.co.uk About Us 官网自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://eac-ns.co.uk/about-us/ |
 | Steve Burns | Senior Engineer(英国基地) | eac-ns.co.uk About Us 官网自署 | official-self-published·谱/leads-only(直发需 opt-in) | https://eac-ns.co.uk/about-us/ |
-| Emma David | General Manager | LinkedIn 自署 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://uk.linkedin.com/company/eac-network-solutions |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -150,38 +156,41 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第12波.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R67_R56_推土机批5.json`；价格均为 EXW 快照。
 
-- **①背景再核**：EAC NETWORK SOLUTIONS LIMITED(英国 Witney/Stokenchurch,The Old Chapel, Union Way, Witney OX28 6HD(通信:First Floor, 1 Des Roches Square, Witan Way);公司号 **05535673**(2005-08-12 注册,21 年);SIC 62090 IT 服务;11-50 人;谱型=英国教育+商业 IT 伙伴(学校/学院/SME 高度个性化服务:网络支持维护/无线基础设施/NAC/VDI/BYOD/统一通信;慈善界回馈形;eac-ns.co.uk)
-- **②芯片/型号**：(待谱面二补)
-- **③KP 深挖**：**Benjamin John Hammond(Director & Co-Founder 兼 Technical Director(近 30 年 IT 技术谱),official-self-published·谱/leads-only(直发需 opt-in));Michael Papworth(Director & Co-Founder(2005 共同创位;客户服务体系驱动),official-self-published·谱/leads-only(直发需 opt-in));Jeff Woodhall(Senior Engineer(澳洲基地;跨时区 24h 覆盖双档),official-self-published·谱/leads-only(直发需 opt-in));Steve Burns(Senior Engineer(英国基地),official-self-published·谱/leads-only(直发需 opt-in));Emma David(General Manager,leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
-- **⑤在乎与偏好**：双创办人直达+无线基础设施专营
+- **①背景再核**：2005-08-12 创(20 年);05535673;Stokenchurch Bucks HQ(Witney 旧册);711
+- **②芯片/型号**：无线基建/VDI/NAC/UC/集成;PoE 24 口集成载线
+- **③KP 深挖**：Hammond 技术主导 47+Papworth 商业主导 61 双创始合伙人+GM/Silk/Operations 二线
+- **④Saga 对标**：无线基建/VDI/NAC 集成 → 24 口 PoE 载;邮箱格式链直投
+- **⑤在乎与偏好**：20 年老谱;Buckinghamshire/教育+养老+商用;carbon negative company 注
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**Directors Active: HAMMOND Benjamin John (Director, DOB Dec 1977, appointed 12 Aug 2005) / PAPWORTH Michael (DOB Dec 1964, 12 Aug 2005)
-  > Directors Active: HAMMOND Benjamin John (Director, DOB Dec 1977, appointed 12 Aug 2005) / PAPWORTH Michael (DOB Dec 1964, 12 Aug 2005)
+- **【法体登册】**EAC NETWORK SOLUTIONS LIMITED Company No 05535673;Incorporated 12 August 2005;SIC 62020 Information technology consultancy activities;HAMMOND, Benjamin John(DOB Dec 1977)Director appointed 12 August 2005;PAPWORTH, Michael(DOB Dec 1964)Director appointed 12 August 2005;First Floor, 1 Des Roches Square, Witan Way, Witney OX28 4BE
+  > EAC NETWORK SOLUTIONS LIMITED Company No 05535673;Incorporated 12 August 2005;SIC 62020 Information technology consultancy activities;HAMMOND, Benjamin John(DOB Dec 1977)Director appointed 12 August 2005;PAPWORTH, Michael(DOB Dec 1964)Director appointed 12 August 2005;First Floor, 1 Des Roches Square, Witan Way, Witney OX28 4BE
   > 来源：https://find-and-update.company-information.service.gov.uk/company/05535673/officers
-- **【团队与规模】**Meet the Team: Ben Hammond Director & Co-Founder;Mike Papworth Director & Co-Founder;Jeff Woodhall and Steve Burns Senior Engineers(24-hour coverage;Jeff 澳洲/Steve UK)
-  > Meet the Team: Ben Hammond Director & Co-Founder;Mike Papworth Director & Co-Founder;Jeff Woodhall and Steve Burns Senior Engineers(24-hour coverage;Jeff 澳洲/Steve UK)
-  > 来源：https://eac-ns.co.uk/about-us/
-- **【团队与规模】**Employees: Mike Papworth Director;Emma David General Manager;Ben Hammond Technical Director;Jeff Woodhall Independent Contractor;11-50 employees;Stokenchurch HQ
-  > Employees: Mike Papworth Director;Emma David General Manager;Ben Hammond Technical Director;Jeff Woodhall Independent Contractor;11-50 employees;Stokenchurch HQ
+- **【KP 矩阵】**Ben Hammond Director & Co-Founder(近 30 年 IT 经验);Mike Papworth Director & Co-Founder;Tina Restall/Sharon Wheeler/Laura Papworth Business Operations Team;Jeff Woodhall/Steve Burns Contractors;Emma David General Manager;Taylor Lloyd Sr BDR;Libby March Internal Sales
+  > Ben Hammond Director & Co-Founder(近 30 年 IT 经验);Mike Papworth Director & Co-Founder;Tina Restall/Sharon Wheeler/Laura Papworth Business Operations Team;Jeff Woodhall/Steve Burns Contractors;Emma David General Manager;Taylor Lloyd Sr BDR;Libby March Internal Sales
   > 来源：https://uk.linkedin.com/company/eac-network-solutions
+- **【公司谱】**Founded in 2005 by two like-minded IT professionals;EAC is a respected leader in educational and commercial IT;Stokenchurch HQ;Website eac-ns.co.uk;257 LI followers;Supported customers right across the country
+  > Founded in 2005 by two like-minded IT professionals;EAC is a respected leader in educational and commercial IT;Stokenchurch HQ;Website eac-ns.co.uk;257 LI followers;Supported customers right across the country
+  > 来源：https://uk.linkedin.com/company/eac-network-solutions
+- **【邮箱链】**The widely used EAC Network Solutions email format is {first}.{last}@eac-ns.co.uk, which is used 100% of the time;22 employees;Wycombe Road Stokenchurch HP14 3RQ;Chris Silk Technical Operations Manager
+  > The widely used EAC Network Solutions email format is {first}.{last}@eac-ns.co.uk, which is used 100% of the time;22 employees;Wycombe Road Stokenchurch HP14 3RQ;Chris Silk Technical Operations Manager
+  > 来源：https://contactout.com/company/EAC-Network-Solutions-5650
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：EAC NETWORK SOLUTIONS LIMITED(英国 Witney/Stokenchurch,The Old Chapel, Union Way, Witney OX28 6HD(通信:First Floor, 1 Des Roches Square, Witan Way);公司号 **05535673**(2005-08-12 注册,21 年);SIC 62090 IT 服务;11-50 人;谱型=英国教育+商业 IT 伙伴(学校/学院/SME 高度个性化服务:网络支持维护/无线基础设施/NAC/VDI/BYOD/统一通信;慈善界回馈形;eac-ns.co.uk)
-- **产品线与在售品牌**：(波次二补谱面)
-- **目标行业与场景**：英国教育/商业 IT 伙伴(无线基础设施谱)
-- **团队与规模**：11-50 人;2005 创;21 年谱
-- **决策链与对接人**：**Benjamin John Hammond(Director & Co-Founder 兼 Technical Director(近 30 年 IT 技术谱),official-self-published·谱/leads-only(直发需 opt-in));Michael Papworth(Director & Co-Founder(2005 共同创位;客户服务体系驱动),official-self-published·谱/leads-only(直发需 opt-in));Jeff Woodhall(Senior Engineer(澳洲基地;跨时区 24h 覆盖双档),official-self-published·谱/leads-only(直发需 opt-in));Steve Burns(Senior Engineer(英国基地),official-self-published·谱/leads-only(直发需 opt-in));Emma David(General Manager,leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **技术与认证**：(波次二补)
-- **采购与供应链信号**：(波次二补)
-- **近期动态与线索**：2026-10-08 R66 12 波谱名牌
-- **与我方契合点**：24 口 value PoE 谱链窗口
-- **风险与注意**：双创办人+GM 谱位(opt-in 律)
+- **业务定位**：EAC Network Solutions Ltd(05535673,2005 创 20 年,Buckinghamshire HQ):UK 教育+商用 IT 集成商(无线基建/VDI/NAC/UC)
+- **产品线与在售品牌**：无线基建 Wireless Infrastructure+Network Access Control NAC+Virtual Desktop Infrastructure VDI+BYOD/移动设备整合+Unified Communications 统一通信+Integrated Solutions
+- **目标行业与场景**：Schools(教育)+商业(Business)+慈善「give something back」sector;UK 全国(14-22 员联储机)
+- **团队与规模**：11-50(LI)/22(contactout)双窗注;Buckinghamshire/Stokenchurch HQ;Operations Team 5 人
+- **决策链与对接人**：Ben Hammond(Technical Director& 共创 Dec 1977=47 岁)+Mike Papworth(Director& 共创 Dec 1964=61 岁)+Emma David(GM)+Laura Papworth(Office Mgr)+Chris Silk(Technical Operations Mgr)+Libby March(Internal Sales)+Taylor Lloyd(Sr BDR)+Tina Restall+Sharon Wheeler(Ops)+Jeff Woodhall+Steve Burns(Contractors)
+- **技术与认证**：SIC 62020;Companies House 登实;邮箱格式 {first}.{last}@eac-ns.co.uk 100%(contactout);G-Cloud? 未证注
+- **采购与供应链信号**：VDI/无线/NAC 集成需求 PoE 载线;教育+商用「managed network」客户复购;20 年老谱稳
+- **近期动态与线索**：LI 2025-11 谱「security-first network design」谱(李华档);Salveo Care/Oxford Science Park Magdalen Centre 客户证言
+- **与我方契合点**：Hammond Technical Director 技术主导 P0 → 24 口 PoE(无线基建/VDI/NAC 集成载线)
+- **风险与注意**：**员数 11-50/22 双窗注;20 年老谱=双创始合伙人谱结构注(无外部投资=稳定/Ben& Mike 共控);carbon negative company 注;邮箱格式链=直邮破**
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -196,10 +205,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：双创办人直达+无线基础设施专营
-- **W**：小实体谱
-- **O**：Hammond(Technical)+Papworth 双金谱+GM David
-- **T**：大牌厂商链竞谱
+- **S**：20 年双创始+邮箱 100% 链
+- **W**：员数 11-50/22 双窗注
+- **O**：Hammond 技术主导 P0
+- **T**：慈善+教育=谱位窄幅注
 
 ## 触达与风险红线
 
@@ -231,8 +240,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 硬件采购线在职者(波次二)
-  - [ ] MikroTik 谱面份额
+  - [ ] MikroTik 谱位在售线需官网核
+  - [ ] Hammond 直邮推档
+  - [ ] 员数 11-50/22 双窗差精确次年订
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -244,12 +254,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Ben,
+Dear Ben Hammond Team,
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for wireless infrastructure, VDI and endpoint integration deployment lines. Datasheet + CE pack on request.
 
-Best regards,
-Saga Networks Export Desk
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

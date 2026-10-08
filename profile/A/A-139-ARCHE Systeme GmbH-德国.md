@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】ARCHE Systeme GmbH:ARCHE Systeme GmbH(德国 Wilhelmshaven,Banter Deich 16-18, 26382;**HRB 204011 Amtsgericht Oldenburg,€25,000,LEI 5299001FYEDPIB63GS50;2009-12 创(16 年;前身谱=GF Ristau 2005-2009 Arche AG 董事会)**;+49 4421 9160;谱型=**海事/军工 IT 集成商**(登记目的原文:Production, distribution and integration of maritime and military information technology as well as complex data and communication networks;光纤技术/项目/网络技术;Data Center+Linux 谱);**军谱守界适配:军工线不触发,民用网络线窄段触达**;3 经理人谱(1 GF+2 Prokurist)
-- 【推断】R66 第 14 波具名 KP 金谱
-- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
+- 【事实】波 R67 批5·A-139:德谱: **ARCHE Systeme GmbH 深挖(implisense/companyhouse/northdata/kompass/官网 五源互证)**:**HRB 204011 Amtsgericht Oldenburg(Oldenburg),2009-10-07 创(16 年);GmbH;股本 €25,000;VAT DE268332024;LEI 5299001FYEDPIB63GS50**;注册 Banter Deich 16-18,26382 Wilhelmshaven(**德国海军城谱**);电话 +49 4421 9160;邮箱 info@arche.de;官网 arche-systeme.de/www.archesysteme.de;**员工 24(2023 implisense 谱;kompass 估 0-9 员双窗注)**;**「Herstellung, Vertrieb und Integration maritimer und militärischer Informationstechnik sowie komplexer Daten- und Kommunikationsnetzwerke」=「海事与军用信息技术及复杂数据与通信网络的生产、销售与集成」官方公司宗旨=**军用信息技术+军方(海军)场景明示**=**守界重户(任何商机对话仅用民用商用场景词,零军事/军供/海军采办语义,零军场景销售暗示**);**KP 金谱:Joachim Ristau(Geschäftsführer 总经理,2009-12-17 任至今,公司独家代表;前身 Arche AG 董事会成员 2005-12~2009-11=Arche AG→GmbH 过渡谱;Schortens 谱)+**Ingmar Seeberg(Authorized signatory Prokurist=业务代表+官网**Netzwerktechnik 网络技术对接人**直证:「Ihr Ansprechpartner: Ingmar Seeberg」)+Julia Hoppe(Authorized signatory Prokurist,2021-11-03 任,可独立代表公司)**=3 人谱;**业务=Hardwareentwicklung 硬件开发+systemnahe Softwareentwicklung 系统近距软件开发+komplexe Netzwerktechnik 复杂网络技术+Härtung und Installation von Hardware für raue Bedingungen an Bord von Marineschiffen(舰船恶劣环境硬件硬化与安装)**+Windparks 风电场网络布线+stockwerkübergreifende Verlegung mit Kaltgangeinhausung(跨楼层冷通道布线)**」;**Arche AG 关联谱(Ristau 前董事);官网谱位注:海事/军用明示**;**客户=「öffentliche und private Kunden」谱=公共+私有客户谱注(其中海军政务谱=谱位限制)。**给我方挂念:复杂网络技术+风电场网络线=民用商用场景(风电场/纯民用船舶/商用办公楼)可作商机对话合法谱口谱;军方/海军场景绝对零**。 
+- 【推断】R67 推土机深挖 批5 具名 KP 金谱(Wilhelmshaven 海军城+军用 IT 明示=守界重户)
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Seeberg 网络技术对接人 风电场/商用民用船/办公楼 PoE 载线引路(民用商用场景必压)
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,9 +75,9 @@ updated: 2026-09-28
 - **原始联系字段**：info@arche.de [Publicly listed; delivery not tested]; https://www.arche-systeme.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
-  - **Joachim Ristau**(Geschäftsführer(执行董事;2009-12-17 起 einzelvertretungsberechtigt;前 Arche AG 董事会 2005-2009))— 官网 Kontakt 页+companyhouse/implisense 登记册谱 〔已有(公司官方公开件/登记册自曝);源:https://www.arche-systeme.de/contact.htm〕
-  - **Ingmar Seeberg**(Einzelprokura+Projektleiter(登记谱授权代理 2021-11-03+官网项目主管))— creditreform 登记公告+官网 Kontakt 页 〔已有(公司官方公开件/登记册自曝);源:https://firmeneintrag.creditreform.de/26382/2370281656/ARCHE_SYSTEME_GMBH〕
-  - **Julia Hoppe**(Einzelprokura(授权代理;2021-11-03 登记,Schortens,*1965))— creditreform 登记公告谱 〔已有(公司官方公开件/登记册自曝);源:https://firmeneintrag.creditreform.de/26382/2370281656/ARCHE_SYSTEME_GMBH〕
+  - **Ingmar Seeberg**(Authorized signatory(Prokurist)+Netzwerktechnik **官网网络技术对接人直证**「Ihr Ansprechpartner: Ingmar Seeberg」;=我方第一联络口 P0)— iseeberg@arche.de(推断,送完核)/+49 4421 9160 台口转 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.arche-systeme.de/nwt.htm〕
+  - **Joachim Ristau**(Geschäftsführer(总经理公司独家代表;17.12.2009 起至今=16 年;前身 Arche AG 董事会成员 2005-12~2009-11 SHAB 谱))— jristau@arche.de(推断,送完核)/+49 4421 9160 台口转 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.companyhouse.de/en/ARCHE-Systeme-GmbH-Wilhelmshaven〕
+  - **Julia Hoppe**(Authorized signatory(Prokurist=公司可独立代表人;03.11.2021 任)=PL 谱)— jhoppe@arche.de(推断,送完核) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.companyhouse.de/en/ARCHE-Systeme-GmbH-Wilhelmshaven〕
   - **Peter Weinstock**(Projektleiter(项目主管))— 官网 Kontakt 页 〔已有(公司官方公开件/登记册自曝);源:https://www.arche-systeme.de/contact.htm〕
   - **Michael Meinhardt**(Projektleiter(项目主管))— 官网 Kontakt 页 〔已有(公司官方公开件/登记册自曝);源:https://www.arche-systeme.de/contact.htm〕
 
@@ -85,9 +85,9 @@ updated: 2026-09-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Joachim Ristau | Geschäftsführer(执行董事;2009-12-17 起 einzelvertretungsberechtigt;前 Arche AG 董事会 2005-2009) | 官网 Kontakt 页+companyhouse/implisense 登记册谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.arche-systeme.de/contact.htm |
-| Ingmar Seeberg | Einzelprokura+Projektleiter(登记谱授权代理 2021-11-03+官网项目主管) | creditreform 登记公告+官网 Kontakt 页 | official-self-published·谱/leads-only(直发需 opt-in) | https://firmeneintrag.creditreform.de/26382/2370281656/ARCHE_SYSTEME_GMBH |
-| Julia Hoppe | Einzelprokura(授权代理;2021-11-03 登记,Schortens,*1965) | creditreform 登记公告谱 | official-self-published·谱/leads-only(直发需 opt-in) | https://firmeneintrag.creditreform.de/26382/2370281656/ARCHE_SYSTEME_GMBH |
+| Ingmar Seeberg | Authorized signatory(Prokurist)+Netzwerktechnik **官网网络技术对接人直证**「Ihr Ansprechpartner: Ingmar Seeberg」;=我方第一联络口 P0 | iseeberg@arche.de(推断,送完核)/+49 4421 9160 台口转 | 官网+companyhouse 双源 O 级;邮箱推断 G 级 | https://www.arche-systeme.de/nwt.htm |
+| Joachim Ristau | Geschäftsführer(总经理公司独家代表;17.12.2009 起至今=16 年;前身 Arche AG 董事会成员 2005-12~2009-11 SHAB 谱) | jristau@arche.de(推断,送完核)/+49 4421 9160 台口转 | implisense+companyhouse 双源 O 级;邮箱推断 G 级 | https://www.companyhouse.de/en/ARCHE-Systeme-GmbH-Wilhelmshaven |
+| Julia Hoppe | Authorized signatory(Prokurist=公司可独立代表人;03.11.2021 任)=PL 谱 | jhoppe@arche.de(推断,送完核) | companyhouse 直证 O 级;邮箱推断 G 级 | https://www.companyhouse.de/en/ARCHE-Systeme-GmbH-Wilhelmshaven |
 | Peter Weinstock | Projektleiter(项目主管) | 官网 Kontakt 页 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.arche-systeme.de/contact.htm |
 | Michael Meinhardt | Projektleiter(项目主管) | 官网 Kontakt 页 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.arche-systeme.de/contact.htm |
 
@@ -149,41 +149,41 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第17波.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R67_R56_推土机批5.json`；价格均为 EXW 快照。
 
-- **①背景再核**：ARCHE Systeme GmbH(德国 Wilhelmshaven,Banter Deich 16-18, 26382;**HRB 204011 Amtsgericht Oldenburg,€25,000,LEI 5299001FYEDPIB63GS50;2009-12 创(16 年;前身谱=GF Ristau 2005-2009 Arche AG 董事会)**;+49 4421 9160;谱型=**海事/军工 IT 集成商**(登记目的原文:Production, distribution and integration of maritime and military information technology as well as complex data and communication networks;光纤技术/项目/网络技术;Data Center+Linux 谱);**军谱守界适配:军工线不触发,民用网络线窄段触达**;3 经理人谱(1 GF+2 Prokurist)
-- **②芯片/型号**：(待谱面二补)
-- **③KP 深挖**：**Joachim Ristau(Geschäftsführer(执行董事;2009-12-17 起 einzelvertretungsberechtigt;前 Arche AG 董事会 2005-2009),official-self-published·谱/leads-only(直发需 opt-in));Ingmar Seeberg(Einzelprokura+Projektleiter(登记谱授权代理 2021-11-03+官网项目主管),official-self-published·谱/leads-only(直发需 opt-in));Julia Hoppe(Einzelprokura(授权代理;2021-11-03 登记,Schortens,*1965),official-self-published·谱/leads-only(直发需 opt-in));Peter Weinstock(Projektleiter(项目主管),official-self-published·谱/leads-only(直发需 opt-in));Michael Meinhardt(Projektleiter(项目主管),official-self-published·谱/leads-only(直发需 opt-in))**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
-- **⑤在乎与偏好**：军品登记目的=高规格谱
+- **①背景再核**：2009 创 16 年;Wilhelmshaven 德国海军城;军用 IT 目的=守界重户
+- **②芯片/型号**：复杂网络/硬件/船载硬化/风电场布线;PoE 24 口商用民用场景载线
+- **③KP 深挖**：Ristau GF 2009+Seeberg Prokurist/网络对接+Hoppe Prokurist 2021 3 人谱;Arche AG 关联
+- **④Saga 对标**：商用民用风电场/商用民用船/办公楼 → 24 口 PoE 载;军用/军供/海军场景绝对零
+- **⑤在乎与偏好**：16 年谱;Wilhelmshaven 海军城谱;Arche AG 关联谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**Joachim Ristau Geschäftsführer (joachim.ristau@arche.de);Peter Weinstock Projektleiter;Ingmar Seeberg Projektleiter;Michael Meinhardt Projektleiter;+49(0)4421 9160(arche-systeme.de 官网 Kontakt 页)
-  > Joachim Ristau Geschäftsführer (joachim.ristau@arche.de);Peter Weinstock Projektleiter;Ingmar Seeberg Projektleiter;Michael Meinhardt Projektleiter;+49(0)4421 9160(arche-systeme.de 官网 Kontakt 页)
-  > 来源：https://www.arche-systeme.de/contact.htm
-- **【决策链与对接人】**Registerbekanntmachung 03.11.2021: Einzelprokura: Hoppe, Julia (Schortens, *07.12.1965);Seeberg, Ingmar;derzeit von 3 Managern (1 GF + 2 Prokurist) geführt(creditreform 件)
-  > Registerbekanntmachung 03.11.2021: Einzelprokura: Hoppe, Julia (Schortens, *07.12.1965);Seeberg, Ingmar;derzeit von 3 Managern (1 GF + 2 Prokurist) geführt(creditreform 件)
-  > 来源：https://firmeneintrag.creditreform.de/26382/2370281656/ARCHE_SYSTEME_GMBH
-- **【联系方式与基础画像】**AG Oldenburg HRB 204011;Banter Deich 16-18, 26382 Wilhelmshaven;capital €25,000;date of articles 08.10.2009;Ristau previously board member of Arche AG Dec 2005-Nov 2009(companyhouse/northdata 件)
-  > AG Oldenburg HRB 204011;Banter Deich 16-18, 26382 Wilhelmshaven;capital €25,000;date of articles 08.10.2009;Ristau previously board member of Arche AG Dec 2005-Nov 2009(companyhouse/northdata 件)
+- **【法体登册】**ARCHE Systeme GmbH HRB 204011 Amtsgericht Oldenburg;Founded 07 Oct 2009;Share capital €25,000;VAT DE268332024;LEI 5299001FYEDPIB63GS50;Banter Deich 16-18 26382 Wilhelmshaven;+49 4421 9160;info@arche.de
+  > ARCHE Systeme GmbH HRB 204011 Amtsgericht Oldenburg;Founded 07 Oct 2009;Share capital €25,000;VAT DE268332024;LEI 5299001FYEDPIB63GS50;Banter Deich 16-18 26382 Wilhelmshaven;+49 4421 9160;info@arche.de
+  > 来源：https://app.implisense.com/en/companies/arche-systeme-gmbh-wilhelmshaven--DEV0W3P1YV86
+- **【军用明示】**Herstellung, Vertrieb und Integration maritimer und militärischer Informationstechnik sowie komplexer Daten- und Kommunikationsnetzwerken;Produkte und Dienstleistungen Hardwareentwicklung, systemnahe Softwareentwicklung, komplexe Netzwerktechnik sowie Härtung und Installation von Hardware für raue Bedingungen an Bord von Marineschiffen
+  > Herstellung, Vertrieb und Integration maritimer und militärischer Informationstechnik sowie komplexer Daten- und Kommunikationsnetzwerken;Produkte und Dienstleistungen Hardwareentwicklung, systemnahe Softwareentwicklung, komplexe Netzwerktechnik sowie Härtung und Installation von Hardware für raue Bedingungen an Bord von Marineschiffen
+  > 来源：https://app.implisense.com/en/companies/arche-systeme-gmbh-wilhelmshaven--DEV0W3P1YV86
+- **【KP 三谱】**Joachim Ristau Managing director 17.12.2009 - until now(can represent alone);Julia Hoppe Authorized signatory 03.11.2021 - until now(can represent alone);Ingmar Seeberg(Authorized signatory+Networktechnik);Ristau 前身 Arche AG 董事会成员 Dec 2005 - Nov 2009
+  > Joachim Ristau Managing director 17.12.2009 - until now(can represent alone);Julia Hoppe Authorized signatory 03.11.2021 - until now(can represent alone);Ingmar Seeberg(Authorized signatory+Networktechnik);Ristau 前身 Arche AG 董事会成员 Dec 2005 - Nov 2009
   > 来源：https://www.companyhouse.de/en/ARCHE-Systeme-GmbH-Wilhelmshaven
-- **【业务定位】**Corporate purpose: Production, distribution and integration of maritime and military information technology as well as complex data and communication networks;Lichtwellenleitertechnik/Projekte/Netzwerktechnik(northdata/implisense 件)
-  > Corporate purpose: Production, distribution and integration of maritime and military information technology as well as complex data and communication networks;Lichtwellenleitertechnik/Projekte/Netzwerktechnik(northdata/implisense 件)
-  > 来源：https://www.northdata.com/ARCHE%20Systeme%20GmbH,%20Wilhelmshaven/Amtsgericht%20Oldenburg%20HRB%20204011
+- **【网络对接】**Ihr Ansprechpartner: Ingmar Seeberg(官网 Netzwerktechnik 对接人直证);komplexe Verkabelung mit Kupfer oder LWL, KVM Technik, fernwartbare Netzwerkschränke;
+  > Ihr Ansprechpartner: Ingmar Seeberg(官网 Netzwerktechnik 对接人直证);komplexe Verkabelung mit Kupfer oder LWL, KVM Technik, fernwartbare Netzwerkschränke;
+  > 来源：https://www.arche-systeme.de/nwt.htm
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：ARCHE Systeme GmbH(德国 Wilhelmshaven,Banter Deich 16-18, 26382;**HRB 204011 Amtsgericht Oldenburg,€25,000,LEI 5299001FYEDPIB63GS50;2009-12 创(16 年;前身谱=GF Ristau 2005-2009 Arche AG 董事会)**;+49 4421 9160;谱型=**海事/军工 IT 集成商**(登记目的原文:Production, distribution and integration of maritime and military information technology as well as complex data and communication networks;光纤技术/项目/网络技术;Data Center+Linux 谱);**军谱守界适配:军工线不触发,民用网络线窄段触达**;3 经理人谱(1 GF+2 Prokurist)
-- **产品线与在售品牌**：(波次二补谱面)
-- **目标行业与场景**：德国 Wilhelmshaven 海事/军工 IT 集成商(军线守界)
-- **团队与规模**：小实体谱;2009 创;€25k
-- **决策链与对接人**：**Joachim Ristau(Geschäftsführer(执行董事;2009-12-17 起 einzelvertretungsberechtigt;前 Arche AG 董事会 2005-2009),official-self-published·谱/leads-only(直发需 opt-in));Ingmar Seeberg(Einzelprokura+Projektleiter(登记谱授权代理 2021-11-03+官网项目主管),official-self-published·谱/leads-only(直发需 opt-in));Julia Hoppe(Einzelprokura(授权代理;2021-11-03 登记,Schortens,*1965),official-self-published·谱/leads-only(直发需 opt-in));Peter Weinstock(Projektleiter(项目主管),official-self-published·谱/leads-only(直发需 opt-in));Michael Meinhardt(Projektleiter(项目主管),official-self-published·谱/leads-only(直发需 opt-in))**
-- **技术与认证**：(波次二补)
-- **采购与供应链信号**：(波次二补)
-- **近期动态与线索**：2026-10-08 R66 14 波谱名牌
-- **与我方契合点**：24 口 value PoE 谱链窗口
-- **风险与注意**：Ristau GF+Seeberg/Hoppe Prokurist(军线守界;opt-in 律)
+- **业务定位**：ARCHE Systeme GmbH(HRB 204011 Oldenburg,2009 创 16 年,Wilhelmshaven):「海事与军用信息技术+复杂数据与通信网络的生产、销售与集成」**军用 IT 明示=守界重户**
+- **产品线与在售品牌**：Hardware 硬件开发+systemnahe 软件+complex Netzwerktechnik 复杂网络+Härtung 硬化硬件(船载恶劣环境);风电场/冷通道布线
+- **目标行业与场景**：海军/军方场景=**一切商机对话仅用民用商用场景**(风电场/商用民用船/商用办公楼网),**军用/军供/海军场景销售词绝对零**
+- **团队与规模**：24 员工(2023 implisense)/0-9(kompass 估)双窗注;16 年;Ristau 前身 Arche AG 董事
+- **决策链与对接人**：Joachim Ristau(Geschäftsführer,2009-12-17 起)+Ingmar Seeberg(Prokurist+/Netzwerktechnik **官网对接人**)+Julia Hoppe(Prokurist,2021-11-03 任)
+- **技术与认证**：HRB 204011 Amtsgericht Oldenburg;VAT DE268332024;LEI 5299001FYEDPIB63GS50;2009-10-07 创 €25,000;GmbH
+- **采购与供应链信号**：军用/海事信息网络+复杂数据/通信网络集成;风电场+跨楼层冷通道布线;「öffentliche und private Kunden」谱
+- **近期动态与线索**：2024-11-03 Seeberg+Hoppe 可以公司独立代表谱;Arche AG 关联谱(Ristau 前董事 SHAB 2005-12~2009-11);Wilhelmshaven 海军城谱
+- **与我方契合点**：Seeberg 网络技术对接人 → 24 口 PoE(**商用民用风电场/商用民用船/商用办公楼**网络载线,军用/军供/海军场景零)
+- **风险与注意**：**守界重户=「军用信息技术」官方宗旨明示;一切商机对话=民用商用场景词必压(风电场/商用民用船/办公楼网);军用/军供/海军场景销售词/采办对话绝对零;Arche AG 关联谱位注**
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -198,10 +198,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：军品登记目的=高规格谱
-- **W**：军谱守界段
-- **O**：Ristau GF 直达位
-- **T**：大牌件链竞谱
+- **S**：16 年谱+官网 Seeberg 网络对接人
+- **W**：军用 IT 目的=守界掼位
+- **O**：风电场/商用民用船 PoE 扭
+- **T**：军方场景=商机 0=谱位掼位
 
 ## 触达与风险红线
 
@@ -229,8 +229,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 硬件采购线在职者(波次二)
-  - [ ] MikroTik 谱面份额
+  - [ ] MikroTik 谱位在售线需核
+  - [ ] Seeberg 直邮推档
+  - [ ] 军方/海事口分辨(谱位掼位)
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -242,12 +243,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Guten Tag Herr Ristau,
+Dear Ingmar Seeberg Team,
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for commercial/civilian campus and building network deployment lines in demanding environments. Datasheet + CE pack on request.
 
-Best regards,
-Saga Networks Export Desk
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -1677,8 +1677,18 @@
       "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批4.json",
       "sha256": "8316e163710f5e5ebba1bc3e379d0a447bd3c093a06ad1feb73bce80a4418d13",
       "bytes": 50683,
-      "tracked_at_scan": false,
+      "tracked_at_scan": true,
       "units_scanned": 638,
+      "unique_url_count": 19,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+      "sha256": "1013352d98c896e3d6b9973f2806a125a865ad0aa6a7154f284be0e92ad6e57e",
+      "bytes": 57932,
+      "tracked_at_scan": false,
+      "units_scanned": 645,
       "unique_url_count": 19,
       "inspection": {},
       "errors": []
@@ -3025,7 +3035,7 @@
     },
     {
       "path": "docs/audit/A类入库完整性审计_2026-09-29.json",
-      "sha256": "ecd417b07cbdf71e84e1faba383a9286bff2f3060e24722b67020736b104bba9",
+      "sha256": "abe0d493440e211ad79af063cce9bfcabfec829d8f7198122775fdf367247389",
       "bytes": 3694,
       "tracked_at_scan": true,
       "units_scanned": 130,
@@ -3075,10 +3085,10 @@
     },
     {
       "path": "docs/requirements/用户要求总账.md",
-      "sha256": "756e38edd412f97f37cb6cd3855c70963d0c777d451f9c59364385b62d791a90",
-      "bytes": 219133,
+      "sha256": "44c4c955c56ddf2160cd2ce1c362349d63dabf67a76b97ee3372fe0efbc6d5f6",
+      "bytes": 225410,
       "tracked_at_scan": true,
-      "units_scanned": 1524,
+      "units_scanned": 1536,
       "unique_url_count": 3,
       "inspection": {},
       "errors": []
@@ -4045,11 +4055,11 @@
     },
     {
       "path": "profile/A/A-092-Titan Security Group-美国.md",
-      "sha256": "fbd4b0eb82d1b1bd2981114a8699b83359fbb7bbb3411c3b81bef68c4da34727",
-      "bytes": 21053,
+      "sha256": "44d85c73f66364377360ac7bda2ef0f32f15742cd38dc040fe74eb04a0b1e18e",
+      "bytes": 24672,
       "tracked_at_scan": true,
-      "units_scanned": 274,
-      "unique_url_count": 9,
+      "units_scanned": 282,
+      "unique_url_count": 13,
       "inspection": {},
       "errors": []
     },
@@ -4125,11 +4135,11 @@
     },
     {
       "path": "profile/A/A-100-Networkology Ltd-英国.md",
-      "sha256": "ea242c35f2240c5d1b5322c8f7f3263f920112f402ef73baf6731152fc6925bb",
-      "bytes": 20177,
+      "sha256": "8b051f373c960ae70fa7095b5628f0095ecfe1e2afb154e1f4d6ec954070302f",
+      "bytes": 23615,
       "tracked_at_scan": true,
       "units_scanned": 276,
-      "unique_url_count": 6,
+      "unique_url_count": 8,
       "inspection": {},
       "errors": []
     },
@@ -4145,11 +4155,11 @@
     },
     {
       "path": "profile/A/A-102-EAC Network Solutions-英国.md",
-      "sha256": "7e09d4fdfb11499cb734d4b340fb78ac4e7509228b66c5580616354494ba1853",
-      "bytes": 20520,
+      "sha256": "947e777020c636fed76d4cb125f8bb818470eda44803099198801308f67370ae",
+      "bytes": 24549,
       "tracked_at_scan": true,
-      "units_scanned": 272,
-      "unique_url_count": 7,
+      "units_scanned": 282,
+      "unique_url_count": 9,
       "inspection": {},
       "errors": []
     },
@@ -4515,11 +4525,11 @@
     },
     {
       "path": "profile/A/A-139-ARCHE Systeme GmbH-德国.md",
-      "sha256": "7a8f7f954d08ccbebfc77befd31c0a2e14014957bd9cabd2d84b83bd9bc0ec8c",
-      "bytes": 22032,
+      "sha256": "c481a4d195144ade0207567f94582165bc2afd71b2bed54809fc2218c28f5661",
+      "bytes": 23343,
       "tracked_at_scan": true,
-      "units_scanned": 270,
-      "unique_url_count": 9,
+      "units_scanned": 271,
+      "unique_url_count": 10,
       "inspection": {},
       "errors": []
     },
@@ -5945,11 +5955,11 @@
     },
     {
       "path": "profile/A/A-282-Berdin Grupo-西班牙.md",
-      "sha256": "e464a269441449f8e5d83323d19b58764586f10f8eea40c9edd15fd66b9ca876",
-      "bytes": 20491,
+      "sha256": "97334d1fbe8a7ebbb9d5058580abc8daead7345177c2d0ee09566eef74da8e42",
+      "bytes": 24597,
       "tracked_at_scan": true,
-      "units_scanned": 262,
-      "unique_url_count": 9,
+      "units_scanned": 273,
+      "unique_url_count": 14,
       "inspection": {},
       "errors": []
     },
@@ -14245,10 +14255,10 @@
     },
     {
       "path": "scripts/make_profiles.py",
-      "sha256": "d0dba119bbc0fc40d0739eeafa75d26b8ada09e49f52ba31615d7f2d8cbcfdbe",
-      "bytes": 39965,
+      "sha256": "9a6a9f2f186f1989d2aa2916d2bac55e46d12f58c953f34ab575570d189309b1",
+      "bytes": 40027,
       "tracked_at_scan": true,
-      "units_scanned": 822,
+      "units_scanned": 823,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []

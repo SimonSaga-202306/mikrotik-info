@@ -4490,6 +4490,32 @@
     ]
   },
   {
+    "url": "https://app.implisense.com/en/companies/arche-systeme-gmbh-wilhelmshaven--DEV0W3P1YV86",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L398"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L419"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L424"
+      },
+      {
+        "path": "profile/A/A-139-ARCHE Systeme GmbH-德国.md",
+        "locator": "L164"
+      },
+      {
+        "path": "profile/A/A-139-ARCHE Systeme GmbH-德国.md",
+        "locator": "L167"
+      }
+    ]
+  },
+  {
     "url": "https://app.implisense.com/en/companies/daten-und-telekommunikations-gmbh-dessau-dessau-rosslau--DEJ5ILDOVM07",
     "http_checked": false,
     "occurrences": [
@@ -9172,6 +9198,38 @@
     ]
   },
   {
+    "url": "https://companycheck.co.uk/company/08680414/NETWORKOLOGY-LTD/companies-house-data",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L290"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L385"
+      },
+      {
+        "path": "profile/A/A-100-Networkology Ltd-英国.md",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/A/A-100-Networkology Ltd-英国.md",
+        "locator": "L165"
+      }
+    ]
+  },
+  {
+    "url": "https://companycheck.co.uk/company/08680414/NETWORKOLOGY-LTD/companies-house-data〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-100-Networkology Ltd-英国.md",
+        "locator": "L82"
+      }
+    ]
+  },
+  {
     "url": "https://companyinfo.nl/organisatieprofiel/activiteiten-op-het-gebied-van-computerconsultancy-en-beheer-van-computerfaciliteiten/gpe-networks-b-v-haarlem-99477238-000040775445",
     "http_checked": false,
     "occurrences": [
@@ -9720,6 +9778,38 @@
       {
         "path": "profile/A/A-254-Connect Data-法国.md",
         "locator": "L84"
+      }
+    ]
+  },
+  {
+    "url": "https://contactout.com/company/EAC-Network-Solutions-5650",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L176"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L249"
+      },
+      {
+        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
+        "locator": "L94"
+      },
+      {
+        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
+        "locator": "L180"
+      }
+    ]
+  },
+  {
+    "url": "https://contactout.com/company/EAC-Network-Solutions-5650〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
+        "locator": "L81"
       }
     ]
   },
@@ -14063,19 +14153,19 @@
       },
       {
         "path": "profile/A/A-102-EAC Network Solutions-英国.md",
-        "locator": "L140"
-      },
-      {
-        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
-        "locator": "L143"
-      },
-      {
-        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
         "locator": "L146"
       },
       {
         "path": "profile/A/A-102-EAC Network Solutions-英国.md",
         "locator": "L149"
+      },
+      {
+        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
+        "locator": "L152"
+      },
+      {
+        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
+        "locator": "L155"
       }
     ]
   },
@@ -14097,15 +14187,11 @@
       },
       {
         "path": "profile/A/A-102-EAC Network Solutions-英国.md",
-        "locator": "L91"
+        "locator": "L98"
       },
       {
         "path": "profile/A/A-102-EAC Network Solutions-英国.md",
-        "locator": "L92"
-      },
-      {
-        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
-        "locator": "L168"
+        "locator": "L99"
       }
     ]
   },
@@ -14133,11 +14219,11 @@
     "occurrences": [
       {
         "path": "profile/A/A-102-EAC Network Solutions-英国.md",
-        "locator": "L81"
+        "locator": "L85"
       },
       {
         "path": "profile/A/A-102-EAC Network Solutions-英国.md",
-        "locator": "L82"
+        "locator": "L86"
       }
     ]
   },
@@ -14898,6 +14984,20 @@
       {
         "path": "profile/B/B-274-eltrox.pl-波兰.md",
         "locator": "L134"
+      }
+    ]
+  },
+  {
+    "url": "https://empresite.eleconomista.es/BERDIN.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L556"
+      },
+      {
+        "path": "profile/A/A-282-Berdin Grupo-西班牙.md",
+        "locator": "L175"
       }
     ]
   },
@@ -17420,16 +17520,40 @@
         "locator": "L444"
       },
       {
-        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
-        "locator": "L89"
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L140"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L161"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L235"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L242"
       },
       {
         "path": "profile/A/A-102-EAC Network Solutions-英国.md",
-        "locator": "L90"
+        "locator": "L92"
       },
       {
         "path": "profile/A/A-102-EAC Network Solutions-英国.md",
-        "locator": "L165"
+        "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
+        "locator": "L96"
+      },
+      {
+        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
+        "locator": "L97"
+      },
+      {
+        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
+        "locator": "L171"
       }
     ]
   },
@@ -17462,6 +17586,14 @@
       {
         "path": "profile/A/A-102-EAC Network Solutions-英国.md",
         "locator": "L80"
+      },
+      {
+        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
+        "locator": "L83"
+      },
+      {
+        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
+        "locator": "L84"
       }
     ]
   },
@@ -17520,8 +17652,24 @@
         "locator": "L473"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L269"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L295"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L364"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L378"
+      },
+      {
         "path": "profile/A/A-100-Networkology Ltd-英国.md",
-        "locator": "L90"
+        "locator": "L89"
       },
       {
         "path": "profile/A/A-100-Networkology Ltd-英国.md",
@@ -17529,15 +17677,11 @@
       },
       {
         "path": "profile/A/A-100-Networkology Ltd-英国.md",
-        "locator": "L92"
-      },
-      {
-        "path": "profile/A/A-100-Networkology Ltd-英国.md",
         "locator": "L93"
       },
       {
         "path": "profile/A/A-100-Networkology Ltd-英国.md",
-        "locator": "L165"
+        "locator": "L168"
       }
     ]
   },
@@ -17579,15 +17723,11 @@
     "occurrences": [
       {
         "path": "profile/A/A-100-Networkology Ltd-英国.md",
-        "locator": "L80"
+        "locator": "L79"
       },
       {
         "path": "profile/A/A-100-Networkology Ltd-英国.md",
         "locator": "L81"
-      },
-      {
-        "path": "profile/A/A-100-Networkology Ltd-英国.md",
-        "locator": "L82"
       },
       {
         "path": "profile/A/A-100-Networkology Ltd-英国.md",
@@ -18170,18 +18310,6 @@
       {
         "path": "batch/A类深挖_2026-10-08_R66_R56_KP第17波.json",
         "locator": "L118"
-      },
-      {
-        "path": "profile/A/A-139-ARCHE Systeme GmbH-德国.md",
-        "locator": "L89"
-      },
-      {
-        "path": "profile/A/A-139-ARCHE Systeme GmbH-德国.md",
-        "locator": "L90"
-      },
-      {
-        "path": "profile/A/A-139-ARCHE Systeme GmbH-德国.md",
-        "locator": "L167"
       }
     ]
   },
@@ -18200,20 +18328,6 @@
       {
         "path": "scripts/R66_R56_KP第17波落盘.py",
         "locator": "L50"
-      }
-    ]
-  },
-  {
-    "url": "https://firmeneintrag.creditreform.de/26382/2370281656/ARCHE_SYSTEME_GMBH〕",
-    "http_checked": false,
-    "occurrences": [
-      {
-        "path": "profile/A/A-139-ARCHE Systeme GmbH-德国.md",
-        "locator": "L79"
-      },
-      {
-        "path": "profile/A/A-139-ARCHE Systeme GmbH-德国.md",
-        "locator": "L80"
       }
     ]
   },
@@ -29537,15 +29651,15 @@
       },
       {
         "path": "profile/A/A-092-Titan Security Group-美国.md",
-        "locator": "L145"
+        "locator": "L149"
       },
       {
         "path": "profile/A/A-092-Titan Security Group-美国.md",
-        "locator": "L148"
+        "locator": "L152"
       },
       {
         "path": "profile/A/A-092-Titan Security Group-美国.md",
-        "locator": "L151"
+        "locator": "L155"
       }
     ]
   },
@@ -41826,6 +41940,10 @@
         "locator": "L383"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L300"
+      },
+      {
         "path": "profile/A/A-100-Networkology Ltd-英国.md",
         "locator": "L171"
       }
@@ -46046,6 +46164,30 @@
     ]
   },
   {
+    "url": "https://rocketreach.co/berdin-grupo-profile_b5d4ee1ff42e3909",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L615"
+      },
+      {
+        "path": "profile/A/A-282-Berdin Grupo-西班牙.md",
+        "locator": "L91"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/berdin-grupo-profile_b5d4ee1ff42e3909〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-282-Berdin Grupo-西班牙.md",
+        "locator": "L79"
+      }
+    ]
+  },
+  {
     "url": "https://rocketreach.co/bluebearsit-management_b41a1a34ff6018bd",
     "http_checked": false,
     "occurrences": [
@@ -48726,6 +48868,50 @@
       {
         "path": "scripts/R64_KP猎捕.py",
         "locator": "L51"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/titan-security-group-profile_b5d6316cf42e31e1",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L47"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L106"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L120"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L95"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L180"
+      }
+    ]
+  },
+  {
+    "url": "https://rocketreach.co/titan-security-group-profile_b5d6316cf42e31e1〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L78"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L80"
       }
     ]
   },
@@ -56826,12 +57012,28 @@
         "locator": "L465"
       },
       {
-        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
-        "locator": "L93"
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L166"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L171"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L256"
       },
       {
         "path": "profile/A/A-102-EAC Network Solutions-英国.md",
-        "locator": "L171"
+        "locator": "L95"
+      },
+      {
+        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
+        "locator": "L174"
+      },
+      {
+        "path": "profile/A/A-102-EAC Network Solutions-英国.md",
+        "locator": "L177"
       }
     ]
   },
@@ -56855,7 +57057,7 @@
     "occurrences": [
       {
         "path": "profile/A/A-102-EAC Network Solutions-英国.md",
-        "locator": "L83"
+        "locator": "L82"
       }
     ]
   },
@@ -61306,14 +61508,6 @@
       {
         "path": "batch/A类深挖_2026-10-07_R66_R56_KP第5_6波.json",
         "locator": "L445"
-      },
-      {
-        "path": "profile/A/A-100-Networkology Ltd-英国.md",
-        "locator": "L89"
-      },
-      {
-        "path": "profile/A/A-100-Networkology Ltd-英国.md",
-        "locator": "L168"
       }
     ]
   },
@@ -61334,16 +61528,6 @@
       {
         "path": "scripts/R66_R56_KP第5_6波落盘.py",
         "locator": "L94"
-      }
-    ]
-  },
-  {
-    "url": "https://www.adsgroup.org.uk/members/networkology-ltd-1/〕",
-    "http_checked": false,
-    "occurrences": [
-      {
-        "path": "profile/A/A-100-Networkology Ltd-英国.md",
-        "locator": "L79"
       }
     ]
   },
@@ -62115,11 +62299,11 @@
       },
       {
         "path": "profile/A/A-282-Berdin Grupo-西班牙.md",
-        "locator": "L92"
+        "locator": "L96"
       },
       {
         "path": "profile/A/A-282-Berdin Grupo-西班牙.md",
-        "locator": "L93"
+        "locator": "L97"
       }
     ]
   },
@@ -62143,11 +62327,11 @@
     "occurrences": [
       {
         "path": "profile/A/A-282-Berdin Grupo-西班牙.md",
-        "locator": "L82"
+        "locator": "L84"
       },
       {
         "path": "profile/A/A-282-Berdin Grupo-西班牙.md",
-        "locator": "L83"
+        "locator": "L85"
       }
     ]
   },
@@ -63930,6 +64114,38 @@
     ]
   },
   {
+    "url": "https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/services/762414478407719",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L305"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L371"
+      },
+      {
+        "path": "profile/A/A-100-Networkology Ltd-英国.md",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/A/A-100-Networkology Ltd-英国.md",
+        "locator": "L174"
+      }
+    ]
+  },
+  {
+    "url": "https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/services/762414478407719〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-100-Networkology Ltd-英国.md",
+        "locator": "L80"
+      }
+    ]
+  },
+  {
     "url": "https://www.aqiveo.com/empresa/berdin-grupo",
     "http_checked": false,
     "occurrences": [
@@ -64119,19 +64335,11 @@
       },
       {
         "path": "profile/A/A-139-ARCHE Systeme GmbH-德国.md",
-        "locator": "L88"
-      },
-      {
-        "path": "profile/A/A-139-ARCHE Systeme GmbH-德国.md",
         "locator": "L91"
       },
       {
         "path": "profile/A/A-139-ARCHE Systeme GmbH-德国.md",
         "locator": "L92"
-      },
-      {
-        "path": "profile/A/A-139-ARCHE Systeme GmbH-德国.md",
-        "locator": "L164"
       }
     ]
   },
@@ -64163,15 +64371,43 @@
     "occurrences": [
       {
         "path": "profile/A/A-139-ARCHE Systeme GmbH-德国.md",
-        "locator": "L78"
-      },
-      {
-        "path": "profile/A/A-139-ARCHE Systeme GmbH-德国.md",
         "locator": "L81"
       },
       {
         "path": "profile/A/A-139-ARCHE Systeme GmbH-德国.md",
         "locator": "L82"
+      }
+    ]
+  },
+  {
+    "url": "https://www.arche-systeme.de/nwt.htm",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L434"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L493"
+      },
+      {
+        "path": "profile/A/A-139-ARCHE Systeme GmbH-德国.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/A/A-139-ARCHE Systeme GmbH-德国.md",
+        "locator": "L173"
+      }
+    ]
+  },
+  {
+    "url": "https://www.arche-systeme.de/nwt.htm〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-139-ARCHE Systeme GmbH-德国.md",
+        "locator": "L78"
       }
     ]
   },
@@ -66083,15 +66319,15 @@
       },
       {
         "path": "profile/A/A-282-Berdin Grupo-西班牙.md",
-        "locator": "L140"
+        "locator": "L144"
       },
       {
         "path": "profile/A/A-282-Berdin Grupo-西班牙.md",
-        "locator": "L143"
+        "locator": "L147"
       },
       {
         "path": "profile/A/A-282-Berdin Grupo-西班牙.md",
-        "locator": "L146"
+        "locator": "L150"
       }
     ]
   },
@@ -66135,11 +66371,7 @@
       },
       {
         "path": "profile/A/A-282-Berdin Grupo-西班牙.md",
-        "locator": "L90"
-      },
-      {
-        "path": "profile/A/A-282-Berdin Grupo-西班牙.md",
-        "locator": "L91"
+        "locator": "L95"
       }
     ]
   },
@@ -66163,11 +66395,51 @@
     "occurrences": [
       {
         "path": "profile/A/A-282-Berdin Grupo-西班牙.md",
-        "locator": "L80"
+        "locator": "L83"
+      }
+    ]
+  },
+  {
+    "url": "https://www.berdin.com/noticias/reunion-delegados-2025",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L551"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L629"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L636"
       },
       {
         "path": "profile/A/A-282-Berdin Grupo-西班牙.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/A/A-282-Berdin Grupo-西班牙.md",
+        "locator": "L94"
+      },
+      {
+        "path": "profile/A/A-282-Berdin Grupo-西班牙.md",
+        "locator": "L172"
+      }
+    ]
+  },
+  {
+    "url": "https://www.berdin.com/noticias/reunion-delegados-2025〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-282-Berdin Grupo-西班牙.md",
         "locator": "L81"
+      },
+      {
+        "path": "profile/A/A-282-Berdin Grupo-西班牙.md",
+        "locator": "L82"
       }
     ]
   },
@@ -67860,6 +68132,38 @@
     ]
   },
   {
+    "url": "https://www.cbinsights.com/company/titan-security-group/people",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L42"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L113"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L94"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L177"
+      }
+    ]
+  },
+  {
+    "url": "https://www.cbinsights.com/company/titan-security-group/people〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L79"
+      }
+    ]
+  },
+  {
     "url": "https://www.cbxsolutions.com/",
     "http_checked": false,
     "occurrences": [
@@ -69358,6 +69662,26 @@
         "locator": "L42"
       },
       {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L429"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L500"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L507"
+      },
+      {
+        "path": "profile/A/A-139-ARCHE Systeme GmbH-德国.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/A/A-139-ARCHE Systeme GmbH-德国.md",
+        "locator": "L90"
+      },
+      {
         "path": "profile/A/A-139-ARCHE Systeme GmbH-德国.md",
         "locator": "L170"
       }
@@ -69370,6 +69694,20 @@
       {
         "path": "scripts/R66_R56_KP第17波落盘.py",
         "locator": "L51"
+      }
+    ]
+  },
+  {
+    "url": "https://www.companyhouse.de/en/ARCHE-Systeme-GmbH-Wilhelmshaven〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-139-ARCHE Systeme GmbH-德国.md",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/A/A-139-ARCHE Systeme GmbH-德国.md",
+        "locator": "L80"
       }
     ]
   },
@@ -71278,10 +71616,6 @@
       {
         "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
         "locator": "L309"
-      },
-      {
-        "path": "profile/A/A-092-Titan Security Group-美国.md",
-        "locator": "L173"
       }
     ]
   },
@@ -76978,10 +77312,6 @@
       {
         "path": "batch/A类深挖_2026-10-08_R66_R56_KP第21波50户.json",
         "locator": "L327"
-      },
-      {
-        "path": "profile/A/A-282-Berdin Grupo-西班牙.md",
-        "locator": "L165"
       }
     ]
   },
@@ -83700,6 +84030,20 @@
       {
         "path": "batch/A类深挖_2026-09-28_R56_第50批.json",
         "locator": "L773"
+      }
+    ]
+  },
+  {
+    "url": "https://www.iberinform.es/empresa/946717/grupo-berdin",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L546"
+      },
+      {
+        "path": "profile/A/A-282-Berdin Grupo-西班牙.md",
+        "locator": "L169"
       }
     ]
   },
@@ -104674,10 +105018,6 @@
       {
         "path": "batch/A类深挖_2026-10-08_R66_R56_KP第17波.json",
         "locator": "L47"
-      },
-      {
-        "path": "profile/A/A-139-ARCHE Systeme GmbH-德国.md",
-        "locator": "L173"
       }
     ]
   },
@@ -108573,15 +108913,7 @@
       },
       {
         "path": "profile/A/A-092-Titan Security Group-美国.md",
-        "locator": "L91"
-      },
-      {
-        "path": "profile/A/A-092-Titan Security Group-美国.md",
-        "locator": "L92"
-      },
-      {
-        "path": "profile/A/A-092-Titan Security Group-美国.md",
-        "locator": "L93"
+        "locator": "L97"
       }
     ]
   },
@@ -108604,20 +108936,48 @@
     ]
   },
   {
+    "url": "https://www.prnewswire.com/news-releases/titan-security-group-and-marksman-security-corporation-announce-strategic-merger-creating-a-boutique-security-services-provider-with-a-national-footprint-302250097.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L11"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L32"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L127"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L96"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L171"
+      }
+    ]
+  },
+  {
+    "url": "https://www.prnewswire.com/news-releases/titan-security-group-and-marksman-security-corporation-announce-strategic-merger-creating-a-boutique-security-services-provider-with-a-national-footprint-302250097.html〕",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L81"
+      }
+    ]
+  },
+  {
     "url": "https://www.prnewswire.com/〕",
     "http_checked": false,
     "occurrences": [
       {
         "path": "profile/A/A-092-Titan Security Group-美国.md",
-        "locator": "L78"
-      },
-      {
-        "path": "profile/A/A-092-Titan Security Group-美国.md",
-        "locator": "L79"
-      },
-      {
-        "path": "profile/A/A-092-Titan Security Group-美国.md",
-        "locator": "L80"
+        "locator": "L82"
       }
     ]
   },
@@ -109122,12 +109482,24 @@
         "locator": "L384"
       },
       {
-        "path": "profile/A/A-282-Berdin Grupo-西班牙.md",
-        "locator": "L89"
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L520"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L541"
+      },
+      {
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L622"
       },
       {
         "path": "profile/A/A-282-Berdin Grupo-西班牙.md",
-        "locator": "L162"
+        "locator": "L92"
+      },
+      {
+        "path": "profile/A/A-282-Berdin Grupo-西班牙.md",
+        "locator": "L166"
       }
     ]
   },
@@ -109151,7 +109523,7 @@
     "occurrences": [
       {
         "path": "profile/A/A-282-Berdin Grupo-西班牙.md",
-        "locator": "L79"
+        "locator": "L80"
       }
     ]
   },
@@ -111432,10 +111804,6 @@
       {
         "path": "batch/A类深挖_2026-10-08_R66_R56_KP第11波.json",
         "locator": "L299"
-      },
-      {
-        "path": "profile/A/A-092-Titan Security Group-美国.md",
-        "locator": "L167"
       }
     ]
   },
@@ -122204,24 +122572,28 @@
         "locator": "L408"
       },
       {
-        "path": "profile/A/A-092-Titan Security Group-美国.md",
-        "locator": "L94"
+        "path": "batch/A类深挖_2026-10-08_R67_R56_推土机批5.json",
+        "locator": "L37"
       },
       {
         "path": "profile/A/A-092-Titan Security Group-美国.md",
-        "locator": "L95"
+        "locator": "L98"
       },
       {
         "path": "profile/A/A-092-Titan Security Group-美国.md",
-        "locator": "L96"
+        "locator": "L99"
       },
       {
         "path": "profile/A/A-092-Titan Security Group-美国.md",
-        "locator": "L97"
+        "locator": "L100"
       },
       {
         "path": "profile/A/A-092-Titan Security Group-美国.md",
-        "locator": "L170"
+        "locator": "L101"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L174"
       }
     ]
   },
@@ -122257,19 +122629,19 @@
     "occurrences": [
       {
         "path": "profile/A/A-092-Titan Security Group-美国.md",
-        "locator": "L81"
-      },
-      {
-        "path": "profile/A/A-092-Titan Security Group-美国.md",
-        "locator": "L82"
-      },
-      {
-        "path": "profile/A/A-092-Titan Security Group-美国.md",
         "locator": "L83"
       },
       {
         "path": "profile/A/A-092-Titan Security Group-美国.md",
         "locator": "L84"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/A/A-092-Titan Security Group-美国.md",
+        "locator": "L86"
       }
     ]
   },
@@ -122829,7 +123201,7 @@
       },
       {
         "path": "profile/A/A-092-Titan Security Group-美国.md",
-        "locator": "L98"
+        "locator": "L102"
       }
     ]
   },
@@ -122849,7 +123221,7 @@
     "occurrences": [
       {
         "path": "profile/A/A-092-Titan Security Group-美国.md",
-        "locator": "L85"
+        "locator": "L87"
       }
     ]
   },

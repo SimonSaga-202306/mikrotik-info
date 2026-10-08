@@ -48,9 +48,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】NETWORKOLOGY LTD(英国;NETWORKOLOGY LTD(威尔特郡 Unit 11 Forest Gate, Chippenham SN15 3RS(2025-04 由 Calne 迁址);公司号 08680414;2013-09-06 注册;网络安全/IP 网络建筑咨询谱面(Defence 方向为主,ADS Group 会员;ISO27001:2022+Cyber Essentials/Cyber Essentials PLUS);客户=Defence/Government/Finance/Energy/Maritime/IoT/Oil&Gas)
-- 【推断】R66 5-6 波:英国登记册(Companies House)/官网/LinkedIn 具名 KP 金谱
-- 【假设】24 口 value PoE 谱链窗口=($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
+- 【事实】波 R67 批5·A-100:英谱: **Networkology Ltd 深挖(Companies House/Endole/companycheck/digitalmarketplace 四源互证)**:**Company No 08680414,2013-09-06 创(11 年);SIC 62020 信息技术咨询;现注册 Unit 11 Forest Gate Chippenham Wiltshire SN15 3RS(2025-04-28 由 Calne 旧册迁;此前 Hoddesdon 旧址)**;**5 董事 5 股东+1 PSC(Endole 直证)=Prosciutto 结构 Robert-Wallington-Morgan-Owen-Monteith 五人共同所有+5 股东+1 PSC=合伙型谱(pot fan BUSINESS);公司对象=「IT organization providing professional services and products to **defense, government, and other public sector clients** throughout the UK」Endole 直白直证=Defence 防务+政府+公部门客带=**守界重户(**任何商机对话仅用民用商用场景词,零军用/防务采办语义**)**;**G-Cloud 框架供应商(Digital Marketplace 上架:Network Architecture+Network Management, Automation & Monitoring 两条目;联络=David Owen tenders@networkology.com +44 1249 700084=招投标专线)**;**Carbon Negative company(Carbon Neutral Britain offset 100%+;virtual first 虚拟优先公司=无固定办公室谱;director 变作地址 2025-04-29 三档一张纸)**;**KP 金谱五董事矩阵(合伙型):Stefan Nicholas Wallington(DOB Oct 1981=44 岁,2019-08 任,**PSC 实控**)+James Douglas Morgan(DOB Jul 1976=49 岁,2018-04 任)+David John Owen(DOB Oct 1983=42 岁,2018-04 任+**tenders@ 招投标专线联络人**)+Robert Kevin Jelley(DOB Oct 1979=46 岁,2024-10-25 任=2024 新入)+Stuart Andrew Monteith(DOB Jul 1973=52 岁,2024-10-25 任=2024 新入)=5 人共同董事合伙人制**;**往董 Douglas Goodridge+Andrew Knight+William McEvoy(已曾)**;**Mutual Companies=Tektora Ltd(Morgan+Owen+2 more)=双公司关联谱注**;**Network Management/Network Architecture 服务=重大网络安全架构集成专家谱;网络咨询市场深专家族**。**客车产**=defence/government/public sector=商机话术民用商用化(如「园区 LAN/办公 IT 网络/PoE 摄像回传」)。**同名排噪=美国另有 Networkology(专用研究所)==未证线上**。
+- 【推断】R67 推土机深挖 批5 具名 KP 金谱(合伙型五董事+Defence/政府守界重户)
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Wallington PSC/Owen 招投专线双口 园区/办公网络 PoE 载线引路(民用商用场景)
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -76,21 +76,21 @@ updated: 2026-09-28
 - **原始联系字段**：contact@networkology.com（官网 contact 页；另有 tenders@networkology.com，具名 David Owen。客户为**国防/政府/公共部门**（高合规环境），Allied Telesis 伙伴）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
-  - **James Douglas Morgan**(Director(ADS Group 官网联系人))— ADS Group 会员页自曝 〔已有(公司官方公开件/登记册自曝);源:https://www.adsgroup.org.uk/members/networkology-ltd-1/〕
-  - **David John Owen**(Director)— Companies House 军官名单 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/08680414/officers〕
-  - **Stefan Nicholas Wallington**(Director)— Companies House 军官名单 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/08680414/officers〕
+  - **Stefan Nicholas Wallington**(Director+PSC 实控(DOB Oct 1981=44 岁;2019-08-14 任;Companies House+Endole 双源直证))— stefan.wallington@networkology.com(推断,送完核)/+44 1249 700084 台口转 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://find-and-update.company-information.service.gov.uk/company/08680414/officers〕
+  - **David John Owen**(Director+G-Cloud 招投专员(DOB Oct 1983=42 岁;2018-04-20 任;**tenders@networkology.com 招投专线联络人** Digital Marketplace 直证))— david.owen@networkology.com(推断,送完核)/tenders@networkology.com(招投专线 O 级) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/services/762414478407719〕
+  - **James Douglas Morgan**(Director(DOB Jul 1976=49 岁;2018-04-20 任;Tektora Ltd 关联谱注))— james.morgan@networkology.com(推断) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://find-and-update.company-information.service.gov.uk/company/08680414/officers〕
+  - **Robert Kevin Jelley**(Director(DOB Oct 1979=46 岁;2024-10-25 任=2024 新入))— robert.jelley@networkology.com(推断) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://companycheck.co.uk/company/08680414/NETWORKOLOGY-LTD/companies-house-data〕
   - **Stuart Andrew Monteith**(Director(2024-10))— Companies House 军官名单 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/08680414/officers〕
-  - **Robert Kevin Jelley**(Director(2024-10))— Companies House 军官名单 〔已有(公司官方公开件/登记册自曝);源:https://find-and-update.company-information.service.gov.uk/company/08680414/officers〕
 
 ## 关键人（KP）与触达通道
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| James Douglas Morgan | Director(ADS Group 官网联系人) | ADS Group 会员页自曝 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.adsgroup.org.uk/members/networkology-ltd-1/ |
-| David John Owen | Director | Companies House 军官名单 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/08680414/officers |
-| Stefan Nicholas Wallington | Director | Companies House 军官名单 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/08680414/officers |
+| Stefan Nicholas Wallington | Director+PSC 实控(DOB Oct 1981=44 岁;2019-08-14 任;Companies House+Endole 双源直证) | stefan.wallington@networkology.com(推断,送完核)/+44 1249 700084 台口转 | Companies House+Endole 双源 O 级;邮箱推断 G 级 | https://find-and-update.company-information.service.gov.uk/company/08680414/officers |
+| David John Owen | Director+G-Cloud 招投专员(DOB Oct 1983=42 岁;2018-04-20 任;**tenders@networkology.com 招投专线联络人** Digital Marketplace 直证) | david.owen@networkology.com(推断,送完核)/tenders@networkology.com(招投专线 O 级) | Companies House+Digital Marketplace 双源 O 级 | https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/services/762414478407719 |
+| James Douglas Morgan | Director(DOB Jul 1976=49 岁;2018-04-20 任;Tektora Ltd 关联谱注) | james.morgan@networkology.com(推断) | Companies House+Endole 双源 O 级;邮箱推断 G 级 | https://find-and-update.company-information.service.gov.uk/company/08680414/officers |
+| Robert Kevin Jelley | Director(DOB Oct 1979=46 岁;2024-10-25 任=2024 新入) | robert.jelley@networkology.com(推断) | Companies House+companycheck 双源 O 级;邮箱推断 G 级 | https://companycheck.co.uk/company/08680414/NETWORKOLOGY-LTD/companies-house-data |
 | Stuart Andrew Monteith | Director(2024-10) | Companies House 军官名单 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/08680414/officers |
-| Robert Kevin Jelley | Director(2024-10) | Companies House 军官名单 | official-self-published·谱/leads-only(直发需 opt-in) | https://find-and-update.company-information.service.gov.uk/company/08680414/officers |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -150,38 +150,41 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-07_R66_R56_KP第5_6波.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R67_R56_推土机批5.json`；价格均为 EXW 快照。
 
-- **①背景再核**：NETWORKOLOGY LTD(威尔特郡 Unit 11 Forest Gate, Chippenham SN15 3RS(2025-04 由 Calne 迁址);公司号 08680414;2013-09-06 注册;网络安全/IP 网络建筑咨询谱面(Defence 方向为主,ADS Group 会员;ISO27001:2022+Cyber Essentials/Cyber Essentials PLUS);客户=Defence/Government/Finance/Energy/Maritime/IoT/Oil&Gas
-- **②芯片/型号**：Cyber/IP 网络建筑(Defence 方向);ADS Group 会员
-- **③KP 深挖**：**James Douglas Morgan = Director(2018-04 任命,ADS Group 官网姓谱 James Morgan)** + David John Owen = Director(2018,DnB Key Principal 双源)+ Stefan Nicholas Wallington = Director(2019)+ Stuart Andrew Monteith = Director(2024-10)+ Robert Kevin Jelley = Director(2024-10);5 实名董事/全员 40-50 代;Companies House 免费军官名单(official-self-published 级金谱);Defence 网络咨询谱面**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
-- **⑤在乎与偏好**：Defence 网络咨询5董事+ISO27001
+- **①背景再核**：2013 创 11 年;Chippenham 现册(2025-04 迁);5 董事 5 股东 1 PSC 合伙
+- **②芯片/型号**：Network Architecture/Management 专家;PoE 24 口园区/办公网络载线(民用商用场景必压)
+- **③KP 深挖**：Wallington PSC 44+Morgan 49+Owen 42(tenders 专线)+Jelley 46/Monteith 52 五合伙人矩阵;Tektora Ltd 关联
+- **④Saga 对标**：园区/办公网络 → 24 口 PoE 载(民用商用场景必压);G-Cloud 框架钩
+- **⑤在乎与偏好**：Carbon Negative+virtual first;G-Cloud 框架商;Defence 客户带
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【决策链与对接人】**JELLEY, Robert Kevin / MONTEITH, Stuart Andrew / MORGAN, James Douglas / OWEN, David John / WALLINGTON, Stefan Nicholas —— 五员 Active Director(2013-2024 任命链)
-  > JELLEY, Robert Kevin / MONTEITH, Stuart Andrew / MORGAN, James Douglas / OWEN, David John / WALLINGTON, Stefan Nicholas —— 五员 Active Director(2013-2024 任命链)
+- **【法体登册】**NETWORKOLOGY LTD Company No 08680414;Incorporated 6 September 2013;SIC 62020 IT consultancy;Unit 11 Forest Gate Chippenham Wiltshire SN15 3RS;5 Directors;Active
+  > NETWORKOLOGY LTD Company No 08680414;Incorporated 6 September 2013;SIC 62020 IT consultancy;Unit 11 Forest Gate Chippenham Wiltshire SN15 3RS;5 Directors;Active
+  > 来源：https://companycheck.co.uk/company/08680414/NETWORKOLOGY-LTD/companies-house-data
+- **【KP 矩阵】**WALLINGTON, Stefan Nicholas(DOB Oct 1981,Reappointed)PSC;MORGAN, James Douglas(DOB Jul 1976)2024-10-25 Director;OWEN, David John(DOB Oct 1983)tenders@ networkology.com 招投专线;JELLEY, Robert Kevin(DOB Oct 1979)+MONTEITH, Stuart Andrew(DOB Jul 1973)双 2024-10-25 任
+  > WALLINGTON, Stefan Nicholas(DOB Oct 1981,Reappointed)PSC;MORGAN, James Douglas(DOB Jul 1976)2024-10-25 Director;OWEN, David John(DOB Oct 1983)tenders@ networkology.com 招投专线;JELLEY, Robert Kevin(DOB Oct 1979)+MONTEITH, Stuart Andrew(DOB Jul 1973)双 2024-10-25 任
   > 来源：https://find-and-update.company-information.service.gov.uk/company/08680414/officers
-- **【决策链与对接人】**ADS Group member: James Morgan —— Director(官网联系人页谱);ISO27001:2022/Cyber Essentials/Cyber Essentials PLUS
-  > ADS Group member: James Morgan —— Director(官网联系人页谱);ISO27001:2022/Cyber Essentials/Cyber Essentials PLUS
-  > 来源：https://www.adsgroup.org.uk/members/networkology-ltd-1/
-- **【业务定位】**NETWORKOLOGY LTD · 08680414 · HARTHAM PARK CORSHAM SN13 0RP → Unit 11 Forest Gate Chippenham SN15 3RS(2025-04 迁址);Defence/government/public-sector 网络+安全建筑咨询
-  > NETWORKOLOGY LTD · 08680414 · HARTHAM PARK CORSHAM SN13 0RP → Unit 11 Forest Gate Chippenham SN15 3RS(2025-04 迁址);Defence/government/public-sector 网络+安全建筑咨询
+- **【公司谱】**Networkology is an IT organization providing professional services and products to defense, government, and other public sector clients throughout the UK;Officers 6;Shareholders 5;Mutual Companies Tektora Ltd
+  > Networkology is an IT organization providing professional services and products to defense, government, and other public sector clients throughout the UK;Officers 6;Shareholders 5;Mutual Companies Tektora Ltd
   > 来源：https://open.endole.co.uk/insight/company/08680414-networkology-ltd
+- **【G-Cloud 框架】**Networkology LTD David Owen Telephone: 01249700084 Email: tenders@networkology.com;service documents 762414478407719 Network Architecture;642600619798849 Network Management, Automation & Monitoring;Carbon Negative company;virtual first
+  > Networkology LTD David Owen Telephone: 01249700084 Email: tenders@networkology.com;service documents 762414478407719 Network Architecture;642600619798849 Network Management, Automation & Monitoring;Carbon Negative company;virtual first
+  > 来源：https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/services/762414478407719
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：NETWORKOLOGY LTD(威尔特郡 Unit 11 Forest Gate, Chippenham SN15 3RS(2025-04 由 Calne 迁址);公司号 08680414;2013-09-06 注册;网络安全/IP 网络建筑咨询谱面(Defence 方向为主,ADS Group 会员;ISO27001:2022+Cyber Essentials/Cyber Essentials PLUS);客户=Defence/Government/Finance/Energy/Maritime/IoT/Oil&Gas
-- **产品线与在售品牌**：Cyber/IP 网络建筑(Defence 方向);ADS Group 会员
-- **目标行业与场景**：英国 IT/电信谱面
-- **团队与规模**：5 董事小实体;2013 创
-- **决策链与对接人**：**James Douglas Morgan = Director(2018-04 任命,ADS Group 官网姓谱 James Morgan)** + David John Owen = Director(2018,DnB Key Principal 双源)+ Stefan Nicholas Wallington = Director(2019)+ Stuart Andrew Monteith = Director(2024-10)+ Robert Kevin Jelley = Director(2024-10);5 实名董事/全员 40-50 代;Companies House 免费军官名单(official-self-published 级金谱);Defence 网络咨询谱面**
-- **技术与认证**：ISO27001:2022;Cyber Essentials PLUS
-- **采购与供应链信号**：咨询谱面(Defence/Gov)
-- **近期动态与线索**：2026-10-07 R66 波次点名
-- **与我方契合点**：24 口 value PoE 谱链窗口
-- **风险与注意**：咨询实体不接硬谱面;James Morgan ADS 姓谱=opt-in 天位
+- **业务定位**：Networkology Ltd(08680414,2013 创 11 年,Chippenham Wiltshire):UK Defeance/government/public sector 网络架构咨询商(G-Cloud 框架)
+- **产品线与在售品牌**：Network Architecture+Network Management/Automation/Monitoring 专业咨询;G-Cloud 两条目;virtual first 虚拟优先
+- **目标行业与场景**：**Defence 防务+government 政府+public sector 公部门 带=守界重户;任何商机对话=民用商用场景词(如园区 LAN/办公网络/PoE)必压,零军用/防务采办语义**
+- **团队与规模**：11 年;5 董事 5 股东+1 PSC=合伙型;Carbon Negative(Carbon Neutral Britain offset 100%+)+virtual first 谱
+- **决策链与对接人**：Stefan Wallington(PSC+Dir)+James Morgan+David Owen(tenders@ 招投专线)+Robert Jelley(2024-10 任)+Stuart Monteith(2024-10 任)=五合伙人矩阵
+- **技术与认证**：Companies House 登实;G-Cloud 框架两条目;Carbon Neutral Britain 认证;Mutual Companies=Tektora Ltd 关联谱
+- **采购与供应链信号**：G-Cloud=政府/公部门采购框架=谱位限制注;defence 客户带=谱位掼位;virtual first=无固定办室谱
+- **近期动态与线索**：2025-04-28 Unit 11 Forest Gate 迁入;2024-10-25 Jelley+Monteith 双新入董事;digital marketplace 2025-01 档活;
+- **与我方契合点**：Wallington PSC/Owen 招投专线 → 24 口 PoE(园区/办公网络集成;民用商用场景必压)载线
+- **风险与注意**：**守界注=Defence 防务+政府客带=一切商机对话民用商用场景词必压(「园区 LAN/办公网络/PoE」),任何军用/防务采购/武场景词绝对零;partner 五合伙构注;Carbon Negative/virtual first 谱**
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -196,10 +199,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：Defence 网络咨询5董事+ISO27001
-- **W**：咨询实体硬谱面受体受限
-- **O**：工业/Defence 受限场谱的价值层
-- **T**：大牌集成商锁谱
+- **S**：Carbon Negative+virtual first+G-Cloud
+- **W**：Defence 守界门=谱位掼位
+- **O**：Five 合伙人 PSC 谱口
+- **T**：Defence 带=话术民用商用限制
 
 ## 触达与风险红线
 
@@ -231,8 +234,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] Defence 方向交换机采用件(受限谱)
-  - [ ] MikroTik 库档信号来源
+  - [ ] MikroTik 谱位在售线需官网核
+  - [ ] Waliington 直邮推档
+  - [ ] Defence 谱位口径精确(民用/防务分辨)
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -244,16 +248,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi James,
+Dear Stefan Wallington and David Owen Team,
 
-I came across NETWORKOLOGY LTD while mapping UK network and IT suppliers. Behind every deployment sits a switching layer that has to stay cheap, PoE-healthy and well documented.
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) — EXW open, tenders-ready. Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for commercial campus LAN / office network integration lines. Datasheet + CE pack on request.
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog) with full documentation. Reference: $180 USD EXW (2026-10-07, 15天有效), a value unit that rides along with each deployment.
-
-Could you point me to the colleague who carries the hardware purchasing line, so we route the right spec to the right desk?
-
-Best regards,
-Saga Networks Export Desk
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

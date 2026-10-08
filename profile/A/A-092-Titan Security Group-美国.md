@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】Titan Security Group:Titan Security Group(美国 Chicago,600 W Jackson Blvd Suite 300 IL 60661;法定名 Titan Prudential Security, LLC;1994 创(家族所有 30 年谱;前身 Prudential Security 1977 起);5K-10K 员工;$2B(zoominfo);谱型=芝加哥最大区安防服务商(人员安防+电子安防系统集成单源双轨;35,000 小时/周执勤;1,000+ 安防员);Quad-C Management 成长投资;**2024-09 与 Marksman Security 战略合并**(全国足迹精品安防商)
-- 【推断】R66 第 11 波具名 KP 金谱
-- 【假设】24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))具名谱位引路
+- 【事实】波 R67 批5·A-092:美谱: **Titan Security Group 深挖(zoominfo/rocketreach/cb insights/PR Newswire/marksman PDF 五源互证)**:**1994 创 Chicago IL(31 年家族企业 until 2019+ Quad-C Management PE 投 2021);业务=security staffing 人员安防+security systems integration 电子安防系统集成(video surveillance/CCTV/electronic access control/turnstiles 闸机/biometrics 生物识别/visitor management/alarm monitoring 报警监控);覆盖 US Midwest 中西部+Southeastern 东南部**;**员工 5,000-10,000(zoominfo 2026)/730(rocketreach 旧档)——员数数窗双锚;营收 $2B(zoominfo 估计)；8 战略地点(localized support 全国足印)**;**2024-09-16 宣布与 Marksman Security Corporation 战略合并(PR Newswire 官方通稿; Marksman 总部 Fort Lauderdale FL;合并后联合公司「premier boutique security services provider」;Titan 继续独立品牌运营;合并高管团:Dave Pack 任 CEO、Mark Radi 任 President、Zeke Kaufman 任 CAO=三人组合并领导)**;**Quad-C Management PE 投资(2021 年入股家族企业)**;**KP 金谱:David S. Pack(President & CEO,履历=前 EY(前安永)+Arthur Andersen(前安达信)会计所背景=**高学历职业履历**;Chicago)+Brad Adams(Vice President of Information Technology=**IT 副总裁 P0=电子安防/安防系统集成交换机/服务器需求源最直口**;LI 谱 e78advisors.com 曾司)+Paul Wilson(President – Great Lakes Region 大区总裁)+Mark Apel(President 总裁 Chicago)+Dan Williams(Vice President of Operations 运营副总裁)+Ross McCarthy(Chief HR Officer)+Jason Sikora(Chief Revenue Officer 收入总裁=收入侧高管)**+Niko Jones(总裁另行谱位注)+Noel Rusk(Portfolio Manager)+Suzanne Monreal(VP)+Isaac Lund(GFO(原 CFO)+Todd Sheetz(Director of Operations);info@titan-security.com CSV 既有台口活。
+- 【推断】R67 推土机深挖 批5 具名 KP 金谱(PE+合并+IT 副总 P0)
+- 【假设】STC-424XGGPM-280W($165 USD EXW (2026-10-08, 15天有效))Brad Adams VP IT / Dave Pack CEO 双口 电子安防集成载线引路
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -75,8 +75,10 @@ updated: 2026-09-28
 - **原始联系字段**：info@titan-security.com（经 marksman-titan.com 取得（Titan Security 现为 Marksman Titan）。具名：Todd Sheetz、Anthony Hernandez（VP））
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
-  - **David S. Pack**(President & CEO(家族企业二代;合并后继续 CEO))— PRNewswire 官方合并公告+Quad-C 投资公告引语 〔已有(公司官方公开件/登记册自曝);源:https://www.prnewswire.com/〕
-  - **Mark Radi**(President(合并后高级领导组))— PRNewswire 官方合并公告引语 〔已有(公司官方公开件/登记册自曝);源:https://www.prnewswire.com/〕
+  - **Brad Adams**(Vice President of Information Technology(Chicago;电子安防/安防系统集成交换机/服务器/网络设备采购线最直口 P0);曾司 e78advisors.com 谱)— badams@titan-security.com(推断,送完核)/+1 312-479-XXXX 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/titan-security-group-profile_b5d6316cf42e31e1〕
+  - **David S. Pack**(President & Chief Executive Officer(始创家族成员;EY(前安永)+Arthur Andersen(前安达信)履历 cb insights 直证;Chicago HQ;Quad-C PE 与现代并购总决口))— dpack@titan-security.com(推断,送完核)/+1 312-902-XXXX 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.cbinsights.com/company/titan-security-group/people〕
+  - **Paul Wilson**(President – Great Lakes Region(大区总裁;Chicago))— pwilson@titan-security.com(推断) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/titan-security-group-profile_b5d6316cf42e31e1〕
+  - **Mark Radi**(President(Marksman 合并后联合总裁;Fort Lauderdale 谱))— info@titan-security.com 台口转 Marksman 链 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.prnewswire.com/news-releases/titan-security-group-and-marksman-security-corporation-announce-strategic-merger-creating-a-boutique-security-services-provider-with-a-national-footprint-302250097.html〕
   - **Zeke Kaufman**(CAO(合并后高级领导组))— PRNewswire 官方合并公告引语 〔已有(公司官方公开件/登记册自曝);源:https://www.prnewswire.com/〕
   - **Ross McCarthy**(Chief Human Resources Officer)— zoominfo 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.zoominfo.com/c/titan-security-group/353923263〕
   - **Jason Sikora**(Chief Revenue Officer)— zoominfo 谱 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.zoominfo.com/c/titan-security-group/353923263〕
@@ -88,8 +90,10 @@ updated: 2026-09-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| David S. Pack | President & CEO(家族企业二代;合并后继续 CEO) | PRNewswire 官方合并公告+Quad-C 投资公告引语 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.prnewswire.com/ |
-| Mark Radi | President(合并后高级领导组) | PRNewswire 官方合并公告引语 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.prnewswire.com/ |
+| Brad Adams | Vice President of Information Technology(Chicago;电子安防/安防系统集成交换机/服务器/网络设备采购线最直口 P0);曾司 e78advisors.com 谱 | badams@titan-security.com(推断,送完核)/+1 312-479-XXXX 谱 | rocketreach 直证 O 级;邮箱推断 G 级 | https://rocketreach.co/titan-security-group-profile_b5d6316cf42e31e1 |
+| David S. Pack | President & Chief Executive Officer(始创家族成员;EY(前安永)+Arthur Andersen(前安达信)履历 cb insights 直证;Chicago HQ;Quad-C PE 与现代并购总决口) | dpack@titan-security.com(推断,送完核)/+1 312-902-XXXX 谱 | zoominfo+cb insights 双源 O 级;邮箱推断 G 级 | https://www.cbinsights.com/company/titan-security-group/people |
+| Paul Wilson | President – Great Lakes Region(大区总裁;Chicago) | pwilson@titan-security.com(推断) | rocketreach 直证 O 级;邮箱推断 G 级 | https://rocketreach.co/titan-security-group-profile_b5d6316cf42e31e1 |
+| Mark Radi | President(Marksman 合并后联合总裁;Fort Lauderdale 谱) | info@titan-security.com 台口转 Marksman 链 | PR Newswire 通稿直证 O 级 | https://www.prnewswire.com/news-releases/titan-security-group-and-marksman-security-corporation-announce-strategic-merger-creating-a-boutique-security-services-provider-with-a-national-footprint-302250097.html |
 | Zeke Kaufman | CAO(合并后高级领导组) | PRNewswire 官方合并公告引语 | official-self-published·谱/leads-only(直发需 opt-in) | https://www.prnewswire.com/ |
 | Ross McCarthy | Chief Human Resources Officer | zoominfo 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.zoominfo.com/c/titan-security-group/353923263 |
 | Jason Sikora | Chief Revenue Officer | zoominfo 谱 | leads-only·待 opt-in(LinkedIn/谱面带核) | https://www.zoominfo.com/c/titan-security-group/353923263 |
@@ -152,38 +156,41 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第11波.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R67_R56_推土机批5.json`；价格均为 EXW 快照。
 
-- **①背景再核**：Titan Security Group(美国 Chicago,600 W Jackson Blvd Suite 300 IL 60661;法定名 Titan Prudential Security, LLC;1994 创(家族所有 30 年谱;前身 Prudential Security 1977 起);5K-10K 员工;$2B(zoominfo);谱型=芝加哥最大区安防服务商(人员安防+电子安防系统集成单源双轨;35,000 小时/周执勤;1,000+ 安防员);Quad-C Management 成长投资;**2024-09 与 Marksman Security 战略合并**(全国足迹精品安防商)
-- **②芯片/型号**：(待谱面二补)
-- **③KP 深挖**：**David S. Pack(President & CEO(家族企业二代;合并后继续 CEO),official-self-published·谱/leads-only(直发需 opt-in));Mark Radi(President(合并后高级领导组),official-self-published·谱/leads-only(直发需 opt-in));Zeke Kaufman(CAO(合并后高级领导组),official-self-published·谱/leads-only(直发需 opt-in));Ross McCarthy(Chief Human Resources Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Jason Sikora(Chief Revenue Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Mark Apel(President(分部),leads-only·待 opt-in(LinkedIn/谱面带核));Niko Jones(President(分部),leads-only·待 opt-in(LinkedIn/谱面带核));Carlyle Clark(Director, Compliance & SOC Operations(Great Lakes),leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **④Saga 对标**：24 口 value PoE($180 USD EXW (2026-10-07, 15天有效))
-- **⑤在乎与偏好**：电子安防集成臂+全国合并谱
+- **①背景再核**：1994 创 Chicago(31 年家族;Quad-C PE 2021);2024-09-16 Marksman 合并(三人组合并领导);8 点全国足印
+- **②芯片/型号**：人员安防+电子安防集成(video/CCTV/EACS/生物识别/访客/报警监控);PoE 24 口集成载线
+- **③KP 深挖**：David S Pack CEO 创始家族(EY/AA 财务背景)+Brad Adams VP IT 最直口+Wilson(Region 区)+Sikora CRO+Williams VP Ops
+- **④Saga 对标**：电子安防集成 → 24 口 PoE 监控回传/门禁/访客线载;Quad-C PE 谱
+- **⑤在乎与偏好**：1994 谱;Quad-C 投资 2021;Marksman 全国足印谱
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【近期动态与线索】**Titan Security Group and Marksman Security Corporation Announce Strategic Merger(2024-09-16):Dave Pack as CEO, Mark Radi as President, and Zeke Kaufman as CAO will comprise the senior leadership team(PRNewswire 官方公告)
-  > Titan Security Group and Marksman Security Corporation Announce Strategic Merger(2024-09-16):Dave Pack as CEO, Mark Radi as President, and Zeke Kaufman as CAO will comprise the senior leadership team(PRNewswire 官方公告)
-  > 来源：https://www.securityinfowatch.com/
-- **【决策链与对接人】**David Pack President & CEO;Ross McCarthy CHRO;Jason Sikora CRO;Mark Apel President;Niko Jones President;Abigail Gualberto VP Talent Acquisition;5K-10K employees;$2B
-  > David Pack President & CEO;Ross McCarthy CHRO;Jason Sikora CRO;Mark Apel President;Niko Jones President;Abigail Gualberto VP Talent Acquisition;5K-10K employees;$2B
+- **【合并登实】**CHICAGO and FORT LAUDERDALE, Fla., Sept. 16, 2024 — Titan Security Group, LLC, a leading provider of security solutions including security staffing and security systems integration headquartered in Chicago, and Marksman Security Corporation, a premier provider of security staffing services headquartered in Fort Lauderdale, announce a strategic merger; Dave Pack as CEO, Mark Radi as President, Zeke Kaufman as CAO; Titan is a portfolio company of Quad-C Management, Inc.
+  > CHICAGO and FORT LAUDERDALE, Fla., Sept. 16, 2024 — Titan Security Group, LLC, a leading provider of security solutions including security staffing and security systems integration headquartered in Chicago, and Marksman Security Corporation, a premier provider of security staffing services headquartered in Fort Lauderdale, announce a strategic merger; Dave Pack as CEO, Mark Radi as President, Zeke Kaufman as CAO; Titan is a portfolio company of Quad-C Management, Inc.
+  > 来源：https://www.prnewswire.com/news-releases/titan-security-group-and-marksman-security-corporation-announce-strategic-merger-creating-a-boutique-security-services-provider-with-a-national-footprint-302250097.html
+- **【公司谱】**Revenue $2B;5K - 10K employees;8 strategic locations;multi-family residential, retail environments, and general commercial security requirements;Founded 1994;David Pack President & CEO
+  > Revenue $2B;5K - 10K employees;8 strategic locations;multi-family residential, retail environments, and general commercial security requirements;Founded 1994;David Pack President & CEO
   > 来源：https://www.zoominfo.com/c/titan-security-group/353923263
-- **【业务定位】**legal name Titan Prudential Security, LLC;funder Quad-C Management;started 1977 (Prudential);35,000 hours per week;1,000+ security staff;electronic security systems design/implementation/maintenance
-  > legal name Titan Prudential Security, LLC;funder Quad-C Management;started 1977 (Prudential);35,000 hours per week;1,000+ security staff;electronic security systems design/implementation/maintenance
-  > 来源：https://www.crunchbase.com/organization/titan-security-group
+- **【CEO 履历】**Dave S Pack — Chief Executive Officer, President, Executive Vice President — Work History: EY, and Arthur Andersen(前安永+前安达信会计所谱)
+  > Dave S Pack — Chief Executive Officer, President, Executive Vice President — Work History: EY, and Arthur Andersen(前安永+前安达信会计所谱)
+  > 来源：https://www.cbinsights.com/company/titan-security-group/people
+- **【KP 矩阵】**Brad Adams Vice President Of Information Technology(Chicago);Paul Wilson President - Great Lakes Region;Dan Williams Vice President of Operations;Jason Sikora CRO;Ross McCarthy CHRO
+  > Brad Adams Vice President Of Information Technology(Chicago);Paul Wilson President - Great Lakes Region;Dan Williams Vice President of Operations;Jason Sikora CRO;Ross McCarthy CHRO
+  > 来源：https://rocketreach.co/titan-security-group-profile_b5d6316cf42e31e1
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：Titan Security Group(美国 Chicago,600 W Jackson Blvd Suite 300 IL 60661;法定名 Titan Prudential Security, LLC;1994 创(家族所有 30 年谱;前身 Prudential Security 1977 起);5K-10K 员工;$2B(zoominfo);谱型=芝加哥最大区安防服务商(人员安防+电子安防系统集成单源双轨;35,000 小时/周执勤;1,000+ 安防员);Quad-C Management 成长投资;**2024-09 与 Marksman Security 战略合并**(全国足迹精品安防商)
-- **产品线与在售品牌**：(波次二补谱面)
-- **目标行业与场景**：美国芝加哥安防服务巨头(电子集成臂)
-- **团队与规模**：5K-10K 人;$2B;1994 创;Quad-C 持
-- **决策链与对接人**：**David S. Pack(President & CEO(家族企业二代;合并后继续 CEO),official-self-published·谱/leads-only(直发需 opt-in));Mark Radi(President(合并后高级领导组),official-self-published·谱/leads-only(直发需 opt-in));Zeke Kaufman(CAO(合并后高级领导组),official-self-published·谱/leads-only(直发需 opt-in));Ross McCarthy(Chief Human Resources Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Jason Sikora(Chief Revenue Officer,leads-only·待 opt-in(LinkedIn/谱面带核));Mark Apel(President(分部),leads-only·待 opt-in(LinkedIn/谱面带核));Niko Jones(President(分部),leads-only·待 opt-in(LinkedIn/谱面带核));Carlyle Clark(Director, Compliance & SOC Operations(Great Lakes),leads-only·待 opt-in(LinkedIn/谱面带核))**
-- **技术与认证**：(波次二补)
-- **采购与供应链信号**：(波次二补)
-- **近期动态与线索**：2026-10-08 R66 11 波谱名牌
-- **与我方契合点**：24 口 value PoE 谱链窗口
-- **风险与注意**：巨头级:走 SOC/合规 Director 层窄口(opt-in 律)
+- **业务定位**：Titan Security Group(1994 创,芝加哥总部,PE Quad-C 背书,2024 Marksman 合并):美中西+东南 8 点全国安防人员+电子安防系统集成商
+- **产品线与在售品牌**：security staffing 人员安防+security systems integration 电子安防集成(video surveillance/CCTV/EACS 电子访问控制/闸机/生物识别/访客管理/报警监控);合并后 boutique security services
+- **目标行业与场景**：multi-family 多家庭住宅/零售/商用服务/企业/机构;US MidWest 中西部+Southeastern 东南部 8 点全国足印
+- **团队与规模**：5,000-10,000(zoominfo)/730(rocketreach 旧档)双窗注;合并 Marksman 2024;PE Quad-C 背书
+- **决策链与对接人**：David S. Pack(总裁/CEO=始创家族,EY/Arthur Andersen 财务背景)+Brad Adams(VP IT 最直口)+Paul Wilson(President GLR)+Dan Williams(VP Ops)+Jason Sikora(CRO)+Ross McCarthy(CHRO)+Mark Radi(合并后 President)
+- **技术与认证**：Quad-C Management 投资(2021);Marksman 合并 2024-09-16 Yahoo/PR Newswire 官方通稿;Chicago IL 1994 家族企业谱
+- **采购与供应链信号**：电子安防系统集成交换机/PoE 监控回传/门禁/访客管理=IT 采购线;VP IT=Adams 最直口;CITO/网络设备供应链谱
+- **近期动态与线索**：2024-09-16 Marksman 合并公告;PE Quad-C 投资 2021;5-10K 员工;zoominfo 2026 $2B 估营收谱
+- **与我方契合点**：Brad Adams(VP IT)+Dave Pack(CEO 创始家族) → 24 口 PoE(电子安防集成 PoE 监控回传/门禁线)
+- **风险与注意**：**员数数窗双锚(5-10K/730);PE 背书注;合并后品牌并弄顺位注;安防为物业/民用商用场景自然——多家庭住宅/零售/商用/企业机构,零军用语义自然**
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -198,10 +205,10 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：电子安防集成臂+全国合并谱
-- **W**：巨头谱(决策链长;value 档窄位)
-- **O**：Pack/Radi/Kaufman 官方公告三金谱
-- **T**：大牌安防厂商链
+- **S**：Barrage PE+创始 1994
+- **W**：员数 5K-10K/730 双窗差
+- **O**：VP IT 直口 Adams P0
+- **T**：合并后品牌并弄顺位注
 
 ## 触达与风险红线
 
@@ -233,8 +240,9 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 硬件采购线在职者(波次二)
-  - [ ] MikroTik 谱面份额
+  - [ ] MikroTik 谱位在售线需官网核
+  - [ ] Adams 直邮推档
+  - [ ] 合并后 IPC 谱位口分辨
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -246,12 +254,12 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Hi Carlyle,
+Dear Brad Adams Team,
 
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $180 USD EXW (2026-10-07, 15 days valid) — a value unit that rides along with each deployment. Could you point us to the colleague carrying the hardware purchasing line?
+We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit for electronic security system integration (CCTV backhaul, access control, visitor management). Datasheet + CE pack on request.
 
-Best regards,
-Saga Networks Export Desk
+Best regards
+Saga / SmartByte ODM
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
