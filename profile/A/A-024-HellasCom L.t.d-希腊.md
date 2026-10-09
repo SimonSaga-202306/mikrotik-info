@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 26·A-024:希腊谱: **守档准由·原 R56 谱基增厚**:HellasCom Ltd（比雷埃夫斯，Akti Themistokleous 12）：1998 年成立（28+ 年）、ISO 9001:2015、500+ 项目；MikroTik 分销商+官方培训中心（2001 起）；TAIT/Omnitronics/Zetron/BHE/Ruckus 代理；自营电商 LinkShop.gr；酒店科技（WiFi/IPTV/CCTV/VoIP PBX 6Play）+隧道 SCADA 大型基建双线;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第3批.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 26 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】希腊 HellasCom LTD（Piraeus, 12 Themistokleous Coast, Freatyda 185 36；sales@hellascom.gr；+30 210 4511087 / +30 210 4523890；官网 hellascom.gr 产品线列 MikroTik/TAIT/Ruckus/Omnitronics/Zetron/IPTV）。LinkShop.GR 官方 Facebook 页自曝：HellasCom 是希腊首家 MikroTik Certified Sales Associate、MikroTik value added Distributor，并列点名 Stavros Maragoudakis 与 Eleftherios Liodakis。LinkedIn 命中 Stavros Maragkoudakis（自署 HELLASCOM LTD，MikroTik Certified Trainer，名下 LinkShop.GR 商城与 mikrotiktraining.gr 培训中心）与 George Maragoudakis（worksFor HELLASCOM LTD，1972 年起创业）。排噪：SEVE 所登 HellasCom International S.A.（Marousi，OTE 集团）同名异司已排。
+- 【推断】R69 第 1 波 KP 猎获（LinkedIn 谱面 + 官方页点名双锚）
+- 【假设】分销位 KP 双锁；LinkedIn 猜测位直发需 opt-in；公司邮箱转接
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -78,10 +78,18 @@ updated: 2026-09-28
 - 来源等级：official-channel（R41–R48 联系方式台账口径）
 - **原始联系字段**：+30 210 4523890 / sales@hellascom.gr
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Stavros Maragkoudakis**(MikroTik Certified Trainer / 培训中心与商城负责人)— LinkedIn 公开面（公司邮箱 sales@hellascom.gr 转接） 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/in/maragkoudakisstavros/〕
+  - **George Maragoudakis**(资深/疑似创始（1972 年起创业）)— LinkedIn 公开面 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/in/george-maragoudakis-838a5431/〕
+  - **Eleftherios Liodakis**(公司代表（FB 官页点名，职衔待核）)— 无公开邮箱；FB 官页点名 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.facebook.com/linkshopgr/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Stavros Maragkoudakis | MikroTik Certified Trainer / 培训中心与商城负责人 | LinkedIn 公开面（公司邮箱 sales@hellascom.gr 转接） | leads-only·待 opt-in（LinkedIn 公开面；FB 官页点名加持） | https://www.linkedin.com/in/maragkoudakisstavros/ |
+| George Maragoudakis | 资深/疑似创始（1972 年起创业） | LinkedIn 公开面 | leads-only·待 opt-in（LinkedIn 公开面） | https://www.linkedin.com/in/george-maragoudakis-838a5431/ |
+| Eleftherios Liodakis | 公司代表（FB 官页点名，职衔待核） | 无公开邮箱；FB 官页点名 | leads-only·待 opt-in（FB 官页点名） | https://www.facebook.com/linkshopgr/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -141,35 +149,33 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-09_R69_R56_KP第1波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：波 26·A-024:希腊谱: **守档准由·原 R56 谱基增厚**:HellasCom Ltd（比雷埃夫斯，Akti Themistokleous 12）：1998 年成立（28+ 年）、ISO 9001:2015、500+ 项目；MikroTik 分销商+官方培训中心（2001 起）；TAIT/Omnitronics/Zetron/BHE/Ruckus 代理；自营电商 LinkShop.gr；酒店科技（WiFi/IPTV/CCTV/VoIP PBX 6Play）+隧道 SCADA 大型基建双线;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第3批.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **②芯片/型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
-- **③KP 深挖**：**守档准由;R66 第 26 波点名(谱面无实名)**
-- **④Saga 对标**：STC-424XGGPM-280W vs PLANET/当批价差窗
-- **⑤在乎与偏好**：希腊 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**HellasCom Ltd（比雷埃夫斯，Akti Themistokleous 12）：1998 年成立（28+ 年）、ISO 9001:2015、500+ 项目；MikroTik 分销商+官方培训中心（2001 起）；TAIT/Omnitronics/Zetron/BHE/Ruckus 代理；自营电商 LinkSho
-  > HellasCom Ltd（比雷埃夫斯，Akti Themistokleous 12）：1998 年成立（28+ 年）、ISO 9001:2015、500+ 项目；MikroTik 分销商+官方培训中心（2001 起）；TAIT/Omnitronics/Zetron/BHE/Ruckus 代理；自营电商 LinkSho
-  > 来源：https://hellascom.gr/
-- **【联系方式与基础画像】**CSV 入口:+30 210 4523890 / sales@hellascom.gr
-  > CSV 入口:+30 210 4523890 / sales@hellascom.gr
-  > 来源：https://hellascom.gr/
+- **【证据】**sales@hellascom.gr · +30 210 4511087 / +30 210 4523890 · 12 Themistokleous Coast, Freatyda, Piraeus 185 36, Greece（官网产品页联系方式）
+  > sales@hellascom.gr · +30 210 4511087 / +30 210 4523890 · 12 Themistokleous Coast, Freatyda, Piraeus 185 36, Greece（官网产品页联系方式）
+  > 来源：https://www.hellascom.gr/en/products
+- **【证据】**Stavros can introduce you to 1 people at HELLASCOM LTD · MikroTik Certified Trainer · linkshop.gr / mikrotiktraining.gr
+  > Stavros can introduce you to 1 people at HELLASCOM LTD · MikroTik Certified Trainer · linkshop.gr / mikrotiktraining.gr
+  > 来源：https://www.linkedin.com/in/maragkoudakisstavros/
+- **【证据】**HellasCom L.t.d. is 1st #MikroTik Certified Sales Associate and is recognized as a MikroTik value added Distributor in Greece. Stavros Maragoudakis and Eleftherios Liodakis
+  > HellasCom L.t.d. is 1st #MikroTik Certified Sales Associate and is recognized as a MikroTik value added Distributor in Greece. Stavros Maragoudakis and Eleftherios Liodakis
+  > 来源：https://www.facebook.com/linkshopgr/
+- **【证据】**Experience: HELLASCOM LTD · Location: Greece（George Maragoudakis，1972 年起创业）
+  > Experience: HELLASCOM LTD · Location: Greece（George Maragoudakis，1972 年起创业）
+  > 来源：https://www.linkedin.com/in/george-maragoudakis-838a5431/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：波 26·A-024:希腊谱: **守档准由·原 R56 谱基增厚**:HellasCom Ltd（比雷埃夫斯，Akti Themistokleous 12）：1998 年成立（28+ 年）、ISO 9001:2015、500+ 项目；MikroTik 分销商+官方培训中心（2001 起）；TAIT/Omnitronics/Zetron/BHE/Ruckus 代理；自营电商 LinkShop.gr；酒店科技（WiFi/IPTV/CCTV/VoIP PBX 6Play）+隧道 SCADA 大型基建双线;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第3批.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **产品线与在售品牌**：MikroTik（Master+VAD）
-- **目标行业与场景**：希腊 谱;分销（MikroTik 官方）
-- **团队与规模**：希腊谱·守档准由
-- **决策链与对接人**：**守档准由;R66 第 26 波点名(谱面无实名)**
-- **技术与认证**：STC-424XGGPM-280W 对口谱;$165 USD EXW 锚
-- **采购与供应链信号**：B2B 批口谱
-- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
-- **与我方契合点**：STC-424XGGPM-280W(24-port Gigabit PoE access switch) 档案铺位窗
-- **风险与注意**：具名缺(守档准由)
+- **业务定位**：希腊 MikroTik value added 分销（TAIT/Ruckus/Omnitronics 多线）
+- **决策链与对接人**：KP 双锁（Stavros 主对口）
+- **产品线与在售品牌**：MikroTik（官方 VAD）+ TAIT/Ruckus/Omnitronics/Zetron
+- **团队与规模**：希腊 Piraeus 总部
+- **技术与认证**：MikroTik Certified Sales Associate（希腊首家）
+- **采购与供应链信号**：分销采购线
+- **近期动态与线索**：Stavros 2026-05 活跃发布 MikroTik 产品动态（hAP be lite 文）
 
 ## 同谱竞合谱注（R67：MikroTik 官方分销位竞合判定）
 
@@ -192,10 +198,7 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：R56 谱基在册
-- **W**：具名缺(守档准由)
-- **O**：STC-424XGGPM-280W $165 USD EXW 价差窗
-- **T**：谱链节奏;先报价不回则档案铺位
+- **S**：有明确交换/供电需求（工业/楼宇、组播/IPTV），且有具体人直联
 
 ## 触达与风险红线
 
@@ -218,7 +221,7 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
@@ -227,8 +230,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] KP 个人邮箱未公开
+  - [ ] Eleftherios Liodakis 职衔待核
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -240,12 +243,7 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Dear HellasCom L.t.d. Team,
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
-
-Best regards
-Saga / SmartByte ODM
+sales@hellascom.gr
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

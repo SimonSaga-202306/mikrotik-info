@@ -160,7 +160,8 @@ def render(e, ctx):
     w('- **第一问（只问一个）**：%s' % e['first_question'])
     unk = ('现有交换机品牌与 PoE 预算未确认；' + ('采购量未确认' if e['volume_potential'] < 4 else '集团/分销内部决策层级未确认'))
     w('- **最大未知（影响成交的）**：%s' % unk)
-    w('- **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理')
+    _ns = (ctx.get('rec') or {}).get('next_step')
+    w('- **下一步**：%s' % (_ns or '发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理'))
     w('')
 
     _gr = GROUPS.get(e['code'])

@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 26·A-029:德国谱: **守档准由·原 R56 谱基增厚**:Kehrlein Consulting（Sandro Kehrlein，慕尼黑 Perlacher Str. 40 + Haßfurt Sonnenhang 1 双址）：2007 年起官方 MikroTik 顾问，10 证全谱（含 MTCSWE/MTCEWE）；高可用网络咨询（BGP/OSPF/VRRP/MLAG/CAPsMAN）全球远程+现场 24×7；另有 IT 管理/SAFe ASPC 培训线（15+ 年管理经验）;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第3批.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 26 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】德国 Kehrlein Consulting（München Perlacher Straße 40 + Haßfurt Sonnenhang 1；info@kehrlein.de；+49 89 69387111 / +49 9521 9580741）。官网自曝 Sandro Kehrlein = Official MikroTik Consultant since 2007，九证 MTCNA/MTCRE/MTCWE/MTCTCE/MTCUME/MTCINE/MTCIPv6E/MTCSE/MTCSWE/MTCEWE，兼 SAFe ASPC；kontakt.php 联系页在册。
+- 【推断】R69 第 1 波 KP 猎获（本人官网自曝）
+- 【假设】单人顾问位 KP 本人锁定；邮箱官网在册
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -74,10 +74,14 @@ updated: 2026-09-28
 - 来源等级：official-channel（R41–R48 联系方式台账口径）
 - **原始联系字段**：+49 89 69387111 / info@kehrlein.de
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Sandro Kehrlein**(本人/创始人（Official MikroTik Consultant since 2007）)— info@kehrlein.de（官网 JSON-LD 在册）；+49 89 69387111（München）/ +49 9521 9580741（Haßfurt） 〔已有(公司官方公开件/登记册自曝);源:https://www.kehrlein.de/en/〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Sandro Kehrlein | 本人/创始人（Official MikroTik Consultant since 2007） | info@kehrlein.de（官网 JSON-LD 在册）；+49 89 69387111（München）/ +49 9521 9580741（Haßfurt） | official-self-published（官网自曝） | https://www.kehrlein.de/en/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -134,35 +138,30 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-09_R69_R56_KP第1波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：波 26·A-029:德国谱: **守档准由·原 R56 谱基增厚**:Kehrlein Consulting（Sandro Kehrlein，慕尼黑 Perlacher Str. 40 + Haßfurt Sonnenhang 1 双址）：2007 年起官方 MikroTik 顾问，10 证全谱（含 MTCSWE/MTCEWE）；高可用网络咨询（BGP/OSPF/VRRP/MLAG/CAPsMAN）全球远程+现场 24×7；另有 IT 管理/SAFe ASPC 培训线（15+ 年管理经验）;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第3批.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **②芯片/型号**：STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
-- **③KP 深挖**：**守档准由;R66 第 26 波点名(谱面无实名)**
-- **④Saga 对标**：STC-424XGGPM-280W vs PLANET/当批价差窗
-- **⑤在乎与偏好**：德国 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**Kehrlein Consulting（Sandro Kehrlein，慕尼黑 Perlacher Str. 40 + Haßfurt Sonnenhang 1 双址）：2007 年起官方 MikroTik 顾问，10 证全谱（含 MTCSWE/MTCEWE）；高可用网络咨询（BGP/OSPF/VRRP/MLAG/CA
-  > Kehrlein Consulting（Sandro Kehrlein，慕尼黑 Perlacher Str. 40 + Haßfurt Sonnenhang 1 双址）：2007 年起官方 MikroTik 顾问，10 证全谱（含 MTCSWE/MTCEWE）；高可用网络咨询（BGP/OSPF/VRRP/MLAG/CA
-  > 来源：https://kehrlein.de/
-- **【联系方式与基础画像】**CSV 入口:+49 89 69387111 / info@kehrlein.de
-  > CSV 入口:+49 89 69387111 / info@kehrlein.de
-  > 来源：https://kehrlein.de/
+- **【证据】**Sandro Kehrlein — Official MikroTik Consultant since 2007 · MTCNA MTCRE MTCWE MTCTCE MTCUME MTCINE MTCIPv6E MTCSE MTCSWE MTCEWE · Advanced SAFe Practice Consultant (ASPC)
+  > Sandro Kehrlein — Official MikroTik Consultant since 2007 · MTCNA MTCRE MTCWE MTCTCE MTCUME MTCINE MTCIPv6E MTCSE MTCSWE MTCEWE · Advanced SAFe Practice Consultant (ASPC)
+  > 来源：https://www.kehrlein.de/en/
+- **【证据】**KEHRLEIN CONSULTING · Perlacher Straße 40 · D-81539 München · Sonnenhang 1 · D-97437 Haßfurt · Tel.: +49 89 69387111 / +49 9521 9580741
+  > KEHRLEIN CONSULTING · Perlacher Straße 40 · D-81539 München · Sonnenhang 1 · D-97437 Haßfurt · Tel.: +49 89 69387111 / +49 9521 9580741
+  > 来源：https://www.kehrlein.de/kontakt.php
+- **【证据】**telephone +498969387111 · email info@kehrlein.de（官网 JSON-LD）
+  > telephone +498969387111 · email info@kehrlein.de（官网 JSON-LD）
+  > 来源：https://www.kehrlein.de/en/
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：波 26·A-029:德国谱: **守档准由·原 R56 谱基增厚**:Kehrlein Consulting（Sandro Kehrlein，慕尼黑 Perlacher Str. 40 + Haßfurt Sonnenhang 1 双址）：2007 年起官方 MikroTik 顾问，10 证全谱（含 MTCSWE/MTCEWE）；高可用网络咨询（BGP/OSPF/VRRP/MLAG/CAPsMAN）全球远程+现场 24×7；另有 IT 管理/SAFe ASPC 培训线（15+ 年管理经验）;R66 第 26 波谱:我司 STC-424XGGPM-280W($165 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第3批.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **产品线与在售品牌**：MikroTik 认证顾问 MTCRE 等
-- **目标行业与场景**：德国 谱;集成商/顾问（MikroTik 认证）
-- **团队与规模**：德国谱·守档准由
-- **决策链与对接人**：**守档准由;R66 第 26 波点名(谱面无实名)**
-- **技术与认证**：STC-424XGGPM-280W 对口谱;$165 USD EXW 锚
-- **采购与供应链信号**：B2B 批口谱
-- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
-- **与我方契合点**：STC-424XGGPM-280W(24-port Gigabit PoE access switch) 档案铺位窗
-- **风险与注意**：具名缺(守档准由)
+- **业务定位**：MikroTik 认证顾问（since 2007）+ SAFe 咨询
+- **决策链与对接人**：KP 本人锁定（单人顾问）
+- **产品线与在售品牌**：MikroTik/RouterOS 咨询与培训
+- **团队与规模**：单人（两地办公 München/Haßfurt）
+- **技术与认证**：MikroTik 九证 + SAFe ASPC
+- **采购与供应链信号**：顾问代采/培训采购线
+- **近期动态与线索**：官网活跃（WireGuard/BGP 专长自述）
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -177,10 +176,7 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：R56 谱基在册
-- **W**：具名缺(守档准由)
-- **O**：STC-424XGGPM-280W $165 USD EXW 价差窗
-- **T**：谱链节奏;先报价不回则档案铺位
+- **S**：有明确交换/供电需求（PoE/监控/门禁），且有具体人直联
 
 ## 触达与风险红线
 
@@ -199,17 +195,13 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
 | 商业资格结论 | **技术上合格 / 商业上未合格（待首触信号）** |
 
 ## Unknowns（待问清单 · 首触后逐项消除）
-
-- **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -221,12 +213,7 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Dear Kehrlein（MikroTik 认证顾问） Team,
-
-We build a 24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog). Reference: $165 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
-
-Best regards
-Saga / SmartByte ODM
+info@kehrlein.de
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

@@ -1,0 +1,387 @@
+{
+ "date": "2026-10-09",
+ "wave": "R69 第 1 波（欧洲波 6 档）",
+ "scope": "R69 A 线 KP 未核波：用户 2026-10-09 钦点「搞 1 3 4」之线 3。清单重建口径——原 /tmp/r68_kp_gap.json 随沙箱清空丢失；按「优先级★★★ 且 关键人未定位」重取编号前 18 档（A-024~A-077 段，恰 18 档，与旧波规模一致），本波先做前 6 档。命中 4 档 KP（A-024 双 KP / A-029 本人 / A-038 本人猜测位 / A-040 本人），2 档公司口锁定但 KP 待猎捕（A-039 / A-042）。A-038 名录+X 双锚命中本人（@dtoffoletto），非守档。",
+ "records": [
+  {
+   "customer": "A-024",
+   "fact": "希腊 HellasCom LTD（Piraeus, 12 Themistokleous Coast, Freatyda 185 36；sales@hellascom.gr；+30 210 4511087 / +30 210 4523890；官网 hellascom.gr 产品线列 MikroTik/TAIT/Ruckus/Omnitronics/Zetron/IPTV）。LinkShop.GR 官方 Facebook 页自曝：HellasCom 是希腊首家 MikroTik Certified Sales Associate、MikroTik value added Distributor，并列点名 Stavros Maragoudakis 与 Eleftherios Liodakis。LinkedIn 命中 Stavros Maragkoudakis（自署 HELLASCOM LTD，MikroTik Certified Trainer，名下 LinkShop.GR 商城与 mikrotiktraining.gr 培训中心）与 George Maragoudakis（worksFor HELLASCOM LTD，1972 年起创业）。排噪：SEVE 所登 HellasCom International S.A.（Marousi，OTE 集团）同名异司已排。",
+   "inference": "R69 第 1 波 KP 猎获（LinkedIn 谱面 + 官方页点名双锚）",
+   "hypothesis": "分销位 KP 双锁；LinkedIn 猜测位直发需 opt-in；公司邮箱转接",
+   "evidence_main": "https://www.hellascom.gr/en/products",
+   "tech": "STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)",
+   "hr": "希腊·R69 第 1 波",
+   "contact_found": "**KP=Stavros Maragkoudakis（Certified Trainer，培训/商城负责人位）+ George Maragoudakis（资深/疑似创始）+ Eleftherios Liodakis（FB 官页点名，无 LinkedIn 锚）；公司口 sales@hellascom.gr",
+   "contact_pending": "KP 无公开个人邮箱；走公司邮箱转接或 LinkedIn 猜测位 opt-in",
+   "dims": {
+    "业务定位": "希腊 MikroTik value added 分销（TAIT/Ruckus/Omnitronics 多线）",
+    "决策链与对接人": "KP 双锁（Stavros 主对口）",
+    "产品线与在售品牌": "MikroTik（官方 VAD）+ TAIT/Ruckus/Omnitronics/Zetron",
+    "团队与规模": "希腊 Piraeus 总部",
+    "技术与认证": "MikroTik Certified Sales Associate（希腊首家）",
+    "采购与供应链信号": "分销采购线",
+    "近期动态与线索": "Stavros 2026-05 活跃发布 MikroTik 产品动态（hAP be lite 文）"
+   },
+   "evidence": [
+    {
+     "quote": "sales@hellascom.gr · +30 210 4511087 / +30 210 4523890 · 12 Themistokleous Coast, Freatyda, Piraeus 185 36, Greece（官网产品页联系方式）",
+     "source": "https://www.hellascom.gr/en/products"
+    },
+    {
+     "quote": "Stavros can introduce you to 1 people at HELLASCOM LTD · MikroTik Certified Trainer · linkshop.gr / mikrotiktraining.gr",
+     "source": "https://www.linkedin.com/in/maragkoudakisstavros/"
+    },
+    {
+     "quote": "HellasCom L.t.d. is 1st #MikroTik Certified Sales Associate and is recognized as a MikroTik value added Distributor in Greece. Stavros Maragoudakis and Eleftherios Liodakis",
+     "source": "https://www.facebook.com/linkshopgr/"
+    },
+    {
+     "quote": "Experience: HELLASCOM LTD · Location: Greece（George Maragoudakis，1972 年起创业）",
+     "source": "https://www.linkedin.com/in/george-maragoudakis-838a5431/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "触达",
+     "push": "LinkedIn 猜测位直发前走 opt-in",
+     "angle": "",
+     "question": "",
+     "proof": ""
+    },
+    {
+     "stage": "触达",
+     "push": "公司邮箱转接索要采购对接人",
+     "angle": "",
+     "question": "",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {},
+    "care": "",
+    "uncertain": "",
+    "gap_proof": ""
+   },
+   "unknowns": [
+    "KP 个人邮箱未公开",
+    "Eleftherios Liodakis 职衔待核"
+   ],
+   "email": "sales@hellascom.gr",
+   "kp": [
+    {
+     "name": "Stavros Maragkoudakis",
+     "role": "MikroTik Certified Trainer / 培训中心与商城负责人",
+     "contact": "LinkedIn 公开面（公司邮箱 sales@hellascom.gr 转接）",
+     "status": "leads-only·待 opt-in（LinkedIn 公开面；FB 官页点名加持）",
+     "source": "https://www.linkedin.com/in/maragkoudakisstavros/"
+    },
+    {
+     "name": "George Maragoudakis",
+     "role": "资深/疑似创始（1972 年起创业）",
+     "contact": "LinkedIn 公开面",
+     "status": "leads-only·待 opt-in（LinkedIn 公开面）",
+     "source": "https://www.linkedin.com/in/george-maragoudakis-838a5431/"
+    },
+    {
+     "name": "Eleftherios Liodakis",
+     "role": "公司代表（FB 官页点名，职衔待核）",
+     "contact": "无公开邮箱；FB 官页点名",
+     "status": "leads-only·待 opt-in（FB 官页点名）",
+     "source": "https://www.facebook.com/linkshopgr/"
+    }
+   ]
+  },
+  {
+   "customer": "A-029",
+   "fact": "德国 Kehrlein Consulting（München Perlacher Straße 40 + Haßfurt Sonnenhang 1；info@kehrlein.de；+49 89 69387111 / +49 9521 9580741）。官网自曝 Sandro Kehrlein = Official MikroTik Consultant since 2007，九证 MTCNA/MTCRE/MTCWE/MTCTCE/MTCUME/MTCINE/MTCIPv6E/MTCSE/MTCSWE/MTCEWE，兼 SAFe ASPC；kontakt.php 联系页在册。",
+   "inference": "R69 第 1 波 KP 猎获（本人官网自曝）",
+   "hypothesis": "单人顾问位 KP 本人锁定；邮箱官网在册",
+   "evidence_main": "https://www.kehrlein.de/en/",
+   "tech": "STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)",
+   "hr": "德国·R69 第 1 波",
+   "contact_found": "**KP=Sandro Kehrlein 本人（官网自曝，Official MikroTik Consultant since 2007）",
+   "contact_pending": "无；邮箱 info@kehrlein.de 官网 JSON-LD 在册",
+   "dims": {
+    "业务定位": "MikroTik 认证顾问（since 2007）+ SAFe 咨询",
+    "决策链与对接人": "KP 本人锁定（单人顾问）",
+    "产品线与在售品牌": "MikroTik/RouterOS 咨询与培训",
+    "团队与规模": "单人（两地办公 München/Haßfurt）",
+    "技术与认证": "MikroTik 九证 + SAFe ASPC",
+    "采购与供应链信号": "顾问代采/培训采购线",
+    "近期动态与线索": "官网活跃（WireGuard/BGP 专长自述）"
+   },
+   "evidence": [
+    {
+     "quote": "Sandro Kehrlein — Official MikroTik Consultant since 2007 · MTCNA MTCRE MTCWE MTCTCE MTCUME MTCINE MTCIPv6E MTCSE MTCSWE MTCEWE · Advanced SAFe Practice Consultant (ASPC)",
+     "source": "https://www.kehrlein.de/en/"
+    },
+    {
+     "quote": "KEHRLEIN CONSULTING · Perlacher Straße 40 · D-81539 München · Sonnenhang 1 · D-97437 Haßfurt · Tel.: +49 89 69387111 / +49 9521 9580741",
+     "source": "https://www.kehrlein.de/kontakt.php"
+    },
+    {
+     "quote": "telephone +498969387111 · email info@kehrlein.de（官网 JSON-LD）",
+     "source": "https://www.kehrlein.de/en/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "触达",
+     "push": "邮箱在册可排首触（顾问对照单元口径）",
+     "angle": "",
+     "question": "",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {},
+    "care": "",
+    "uncertain": "",
+    "gap_proof": ""
+   },
+   "unknowns": [],
+   "email": "info@kehrlein.de",
+   "kp": [
+    {
+     "name": "Sandro Kehrlein",
+     "role": "本人/创始人（Official MikroTik Consultant since 2007）",
+     "contact": "info@kehrlein.de（官网 JSON-LD 在册）；+49 89 69387111（München）/ +49 9521 9580741（Haßfurt）",
+     "status": "official-self-published（官网自曝）",
+     "source": "https://www.kehrlein.de/en/"
+    }
+   ]
+  },
+  {
+   "customer": "A-038",
+   "fact": "意大利 Davide Toffoletto：乌迪内 MikroTik 全科目认证讲师（企业交换/路由/防火墙集群、CAPsMAN 仓库办公覆盖、PtP、QoS；mikrotik.com/consultants 名录在册）；名录来源字段公开 X 账号 @dtoffoletto（x.com/dtoffoletto）；另命中 FB 个人页（无实质内容，同名佐证）。无官网、无公开邮箱。",
+   "inference": "R69 第 1 波 KP 猎获（名录认证讲师 + X 账号双锚，猜测位）",
+   "hypothesis": "个人讲师/顾问位 KP=本人；X 账号为公开触点，直发/私信需 opt-in",
+   "evidence_main": "https://www.facebook.com/davide.toffoletto/",
+   "tech": "STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)",
+   "hr": "意大利·R69 第 1 波",
+   "contact_found": "**KP=本人（名录全科目认证讲师 + X 账号 @dtoffoletto 双锚，猜测位）",
+   "contact_pending": "无公开邮箱；X 私信或后续名录补邮箱",
+   "dims": {
+    "业务定位": "意大利乌迪内 MikroTik 全科目认证讲师（个人顾问位）",
+    "决策链与对接人": "KP 本人（猜测位）",
+    "产品线与在售品牌": "MikroTik 顾问（库档口径）",
+    "团队与规模": "个人",
+    "技术与认证": "MikroTik 全科目认证讲师",
+    "采购与供应链信号": "顾问位",
+    "近期动态与线索": "无"
+   },
+   "evidence": [
+    {
+     "quote": "★★ 全科目 MikroTik 认证讲师；企业级网络 = 交换 switching、路由、防火墙、防火墙集群；站点间 PtP 无线；仓库与办公的室内无线覆盖（CAPsMAN）；QoS（CSV 备注）",
+     "source": "https://mikrotik.com/consultants"
+    },
+    {
+     "quote": "Davide Toffoletto 的 X 账号 @dtoffoletto（名录来源字段公开）",
+     "source": "https://x.com/dtoffoletto"
+    },
+    {
+     "quote": "Facebook 个人页 facebook.com/davide.toffoletto（页内无实质内容，仅作同名佐证）",
+     "source": "https://www.facebook.com/davide.toffoletto/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "触达",
+     "push": "X 私信走 opt-in；后续名录补公开邮箱",
+     "angle": "",
+     "question": "",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {},
+    "care": "",
+    "uncertain": "",
+    "gap_proof": ""
+   },
+   "unknowns": [
+    "公开邮箱缺位",
+    "X 账号活跃度待核"
+   ],
+   "email": "—（公开邮箱缺位；X 账号 @dtoffoletto 为触点）",
+   "kp": [
+    {
+     "name": "Davide Toffoletto",
+     "role": "本人（MikroTik 全科目认证讲师，乌迪内）",
+     "contact": "X 账号 @dtoffoletto（https://x.com/dtoffoletto）；无公开邮箱",
+     "status": "leads-only·待 opt-in（名录+X 双锚，猜测位）",
+     "source": "https://mikrotik.com/consultants"
+    }
+   ]
+  },
+  {
+   "customer": "A-039",
+   "fact": "意大利 EFA Automazione SpA（现属 RELATECH GROUP），Via Isola Guarnieri 13, 20063 Cernusco sul Naviglio (MI)；+39 02 92113180；info@efa.it（Crunchbase JSON-LD 在册）；LinkedIn 公司页 efa-automazione；ZoomInfo org 露 Juliet Okarter（行政助理，非决策人）；SPS Italia 2026 参展商（工业自动化/IT-OT 联通，Anybus HMS 代理）。",
+   "inference": "R69 第 1 波公司口锁定，KP 未锁",
+   "hypothesis": "工控分销/集成位；公司邮箱转接索要采购/技术负责人",
+   "evidence_main": "https://www.efa.it/",
+   "tech": "STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)",
+   "hr": "意大利·R69 第 1 波",
+   "contact_found": "**公司口=info@efa.it 锁定；KP 未锁（具名决策人缺位）",
+   "contact_pending": "KP 猜测位：LinkedIn 公司页员工猎捕（采购/技术负责人）",
+   "dims": {
+    "业务定位": "工业自动化 IT-OT 联通分销/集成（RELATECH GROUP 成员）",
+    "决策链与对接人": "公司口锁定，KP 待猎捕",
+    "产品线与在售品牌": "Anybus(HMS)/工业通信协议驱动",
+    "团队与规模": "11-50 人（Crunchbase）",
+    "技术与认证": "ISO 9001:2015",
+    "采购与供应链信号": "工控采购线",
+    "近期动态与线索": "SPS Italia 2026 参展"
+   },
+   "evidence": [
+    {
+     "quote": "Soluzioni：Gateway di comunicazione｜Industrial I/O & Data Collection｜Pannelli Operatore HMI｜…｜**Switch & Networking**｜Teleassistenza &…（官网方案板块）",
+     "source": "https://www.efa.it/"
+    },
+    {
+     "quote": "EFA Automazione – Business Unit Industrial Automation · Via Isola Guarnieri, 13 · Cernusco sul Naviglio (MI) · Telefono: (+39) 02 92113180 · Sito web: www.efa.it",
+     "source": "https://www.progettoindustria.com/efa-automazione/"
+    },
+    {
+     "quote": "info@efa.it · Via Isola Guarnieri 13, Cernusco Sul Naviglio · 11-50 employees（Crunchbase JSON-LD）",
+     "source": "https://www.crunchbase.com/organization/efa-automazione"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "触达",
+     "push": "LinkedIn 公司页员工猎捕 KP",
+     "angle": "",
+     "question": "",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {},
+    "care": "",
+    "uncertain": "",
+    "gap_proof": ""
+   },
+   "unknowns": [
+    "具名 KP 缺位",
+    "ZoomInfo 露行政助理非决策人"
+   ],
+   "email": "info@efa.it",
+   "kp": []
+  },
+  {
+   "customer": "A-040",
+   "fact": "意大利 Gianpiero Ciacci：Università per Stranieri di Siena 合约讲师 + Centro Servizi Informatici 主任 dal 2001（online.unistrasi.it 公示：gianpiero.ciacci@unistrasi.it，0577240277）；2023 MikroTik 课表（MTCSE/MTCNA，HC Teach 组织）；dbcf.unisi.it 实验室任职页为同一人。排噪：同名他者无 MikroTik 认证锚。",
+   "inference": "R69 第 1 波 KP 猎获（本人大学官网公示）",
+   "hypothesis": "个人顾问/讲师位 KP 本人锁定；机构邮箱即工作锚",
+   "evidence_main": "https://online.unistrasi.it/docenti/Persona.asp?ID=411&ID2=227",
+   "tech": "STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)",
+   "hr": "意大利·R69 第 1 波",
+   "contact_found": "**KP=本人锁定（大学官网公示邮箱 gianpiero.ciacci@unistrasi.it）",
+   "contact_pending": "无；职衔=大学 IT 中心主任 + 外聘 MikroTik 讲师",
+   "dims": {
+    "业务定位": "大学 IT 中心 + MikroTik 认证讲师/顾问（个人位）",
+    "决策链与对接人": "KP 本人锁定",
+    "产品线与在售品牌": "MikroTik 培训/顾问",
+    "团队与规模": "个人（挂靠大学 IT 中心）",
+    "技术与认证": "MTCSE + MTCNA（2023 课表）",
+    "采购与供应链信号": "培训/顾问采购线",
+    "近期动态与线索": "2023 起 MikroTik 课程（HC Teach 合办）"
+   },
+   "evidence": [
+    {
+     "quote": "Gianpiero Ciacci Docente a contratto · Tel. 0577240277 · Email gianpiero.ciacci@unistrasi.it · Direttore del Centro Servizi Informatici dal 2001",
+     "source": "https://online.unistrasi.it/docenti/Persona.asp?ID=411&ID2=227"
+    },
+    {
+     "quote": "Gianpiero Ciacci · EP3 · Centro Servizi Informatici · MTCSE Mikrotik Certified Security Engineer · 5-6 aprile 2023 · HC Teach srl",
+     "source": "https://www.unistrasi.it/public/articoli/3916/ELENCO%20CORSI%20E%20CORSISTI%202023%20ANNUALE.pdf"
+    },
+    {
+     "quote": "Gianpiero Ciacci · Laboratorio di Informatica · Dipartimento di Biotecnologie, chimica e farmacia · Università di Siena",
+     "source": "https://www.dbcf.unisi.it/it/dipartimento/personale/docenti-contratto/aa-20142015/gianpiero-ciacci"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "触达",
+     "push": "邮箱在册可排首触（培训/顾问对照单元口径）",
+     "angle": "",
+     "question": "",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {},
+    "care": "",
+    "uncertain": "",
+    "gap_proof": ""
+   },
+   "unknowns": [],
+   "email": "gianpiero.ciacci@unistrasi.it",
+   "kp": [
+    {
+     "name": "Gianpiero Ciacci",
+     "role": "本人（大学 IT 中心主任 + MikroTik 认证讲师/顾问）",
+     "contact": "gianpiero.ciacci@unistrasi.it（机构邮箱=本人工作锚）；0577240277",
+     "status": "official-self-published（大学官网公示）",
+     "source": "https://online.unistrasi.it/docenti/Persona.asp?ID=411&ID2=227"
+    }
+   ]
+  },
+  {
+   "customer": "A-042",
+   "fact": "意大利 PF Technology S.r.l.（Via Aldo Moro 10, 10083 Favria (TO)；0124-576160 / 0124-576161；info@pftech.it；P.IVA/C.F. 09509780012；官网 pftech.it）。ROC 授权运营商（全国 connettività/VoIP/Cloud PBX）；业务=网络工程（LAN/WiFi/点对点/WAN）+ 安防监控。",
+   "inference": "R69 第 1 波公司口锁定，KP 未锁",
+   "hypothesis": "运营商+集成位；公司邮箱转接索要工程/采购负责人",
+   "evidence_main": "http://www.pftech.it/",
+   "tech": "STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)",
+   "hr": "意大利·R69 第 1 波",
+   "contact_found": "**公司口=info@pftech.it 锁定；KP 未锁",
+   "contact_pending": "KP 猜测位：LinkedIn 公司页员工猎捕（工程/采购负责人）",
+   "dims": {
+    "业务定位": "ROC 授权运营商 + 网络工程/安防集成",
+    "决策链与对接人": "公司口锁定，KP 待猎捕",
+    "产品线与在售品牌": "自营网络设备（MikroTik 名录收录位）",
+    "团队与规模": "小公司（Favria TO 总部）",
+    "技术与认证": "ROC 运营商资质",
+    "采购与供应链信号": "工程采购线",
+    "近期动态与线索": "官网稳定运营"
+   },
+   "evidence": [
+    {
+     "quote": "PF Tech si occupa di distribuire prodotti informatici hardware e software, oltre a tutti i servizi e soluzioni ad essi correlati… Connettività, Web & VoIP · Operatore autorizzato ROC",
+     "source": "https://www.pftech.it/"
+    },
+    {
+     "quote": "0124-576160 / 0124-576161 · Via Aldo Moro, 10 - 10083 Favria (TO) · info@pftech.it · P.IVA e C.F.: 09509780012",
+     "source": "https://www.pftech.it/"
+    },
+    {
+     "quote": "PF Technology S.r.l., Favria · Il Vostro punto di riferimento per le nuove tecnologie informatiche!",
+     "source": "https://www.facebook.com/pftechnology/"
+    }
+   ],
+   "followups": [
+    {
+     "stage": "触达",
+     "push": "LinkedIn 公司页员工猎捕 KP",
+     "angle": "",
+     "question": "",
+     "proof": ""
+    }
+   ],
+   "r55": {
+    "dims": {},
+    "care": "",
+    "uncertain": "",
+    "gap_proof": ""
+   },
+   "unknowns": [
+    "具名 KP 缺位"
+   ],
+   "email": "info@pftech.it",
+   "kp": []
+  }
+ ]
+}

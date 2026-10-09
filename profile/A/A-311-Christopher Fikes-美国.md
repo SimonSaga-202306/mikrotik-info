@@ -28,7 +28,7 @@ updated: 2026-10-04
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — Fikes Media 美 TX MikroTik 顾问+培训双收录（function not vendors+/mikrotik-consulting 路径）：顾问对照单元（$180 锚点一致）；地方政府/K12 守界句；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Which switch do you currently put on the bench for the VLAN/PoE lab demos?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
-- **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
+- **下一步**：R69(2026-10-09)跟进实况更新：已双向对话 2 轮 → 下一步=第二轮跟进（全品类参数包已留档供选型引用）；无回复即冻结
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -116,18 +116,20 @@ updated: 2026-10-04
 
 ## R54 调研要点（加厚 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-28**；原始记录：`batch/A类加厚_2026-09-28_R54_第16批.json`。以下为要点压缩，证据原文全部保留。
+> 调研日期 **2026-10-09**；原始记录：`batch/A类加厚_2026-10-09_R69_跟进增厚批1.json`。以下为要点压缩，证据原文全部保留。
 
-- **业务定位**：德州 TCO 导向网络咨询（数据中心/VXLAN 也做）：公立部门是其本色——**只做 SMB/Enterprise 商业段**、首封声明。
+- **业务定位**：美国德州顾问+培训师双收录位（Fikes Media）
 - **产品线与在售品牌**：企业网/DC 网设计/VoIP/咨询；MTCRE+MikroTik 咨询页在站。
 - **目标行业与场景**：德州东南部 SMB/企业（公立两域划出）。
 - **团队与规模**：主理人咨询商。
-- **决策链与对接人**：sales@fikesmedia.com（官网联系页，CSV 9-27）。
+- **决策链与对接人**：本人即决策（短链）
 - **技术与认证**：MTCRE（CSV 9-23 名录）；20+ 年公共部门网络经验。
 - **采购与供应链信号**：**功能导向+压 TCO 方法论=白盒对频**：商业客户的接入层/汇聚件评估位+其 DC 咨询的 DAC/SFP 件。
 - **近期动态与线索**：咨询页米名 mikrotik-consulting=把 MikroTik 咨询当产品卖，懂成本控制话术。
 - **与我方契合点**：商业段 24 口 PoE 接入层评估位+万兆上行件+DAC/SFP。
 - **风险与注意**：地方政/K-12 段绝不谈（他的主粮仓）；与 IP ArchiTechs 同规：他是咨询选型人，不给渠道返点话术。
+- **跟进实况**：02-replied 已双向对话 2 轮；参数包已留档
+- **报价纪律**：无回复即冻结
 
 ### R54 原文证据摘录（全部保留）
 
@@ -140,6 +142,15 @@ updated: 2026-10-04
 - **【决策链与对接人】**sales@fikesmedia.com 官网联系页 Sales+支持 support@（CSV 9-27 official-company）；+1 409.877.4220（Option 1 销售）。
   > （CSV 2026-09-27 记录）官网联系页给销售 sales@fikesmedia.com、支持 support@、+1 409.877.4220；official-company
   > 来源：https://www.fikesmedia.com/
+- **【背景】**美国德州 Silsbee，Fikes Media；MikroTik 顾问+认证培训双收录（function not vendors+/mikrotik-consulting 路径）。
+  > Fikes Media 美 TX MikroTik 顾问+培训双收录（function not vendors+/mikrotik-consulting 路径）
+  > 来源：https://mikrotik.com/consultants
+- **【联系通道】**邮箱 sales@fikesmedia.com；电话 +1 409.877.4220。
+  > 域 fikesmedia.com 存活=可投递到域（MX/DNS 级核验口径）
+  > 来源：https://fikesmedia.com/
+- **【跟进实况】**已双向对话 2 轮；全品类参数包已留档供选型引用。
+  > 已双向对话(2 轮)（档案状态行）
+  > 来源：—（用户侧邮件实况）
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 

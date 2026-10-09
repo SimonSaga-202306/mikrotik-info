@@ -28,7 +28,7 @@ updated: 2026-10-03
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — R61 (2026-10-03 邮件实况): 24口 PoE af/at + 4×10G SFP+ $180 USD/PC EXW,Marvell AC5 L2+ 主推款;客户已回复有意做 UK distributor,已要样品评测；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Do you keep stock for reselling in the UK, or do you mainly work project by project?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
-- **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
+- **下一步**：R69(2026-10-09)跟进实况更新：已双向对话 4 轮，客户有意做 UK distributor 并已索样品评测 → 下一步=样品寄送确认 + 评测节点跟进；报价快照 2026-09-28 已过 15 天有效期，续报前核价
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -109,18 +109,20 @@ updated: 2026-10-03
 
 ## R54 调研要点（加厚 · 全文见原始 JSON）
 
-> 调研日期 **2026-09-28**；原始记录：`batch/A类加厚_2026-09-28_R54_第4批.json`。以下为要点压缩，证据原文全部保留。
+> 调研日期 **2026-10-09**；原始记录：`batch/A类加厚_2026-10-09_R69_跟进增厚批1.json`。以下为要点压缩，证据原文全部保留。
 
-- **业务定位**：CSV 名录挂在伦敦（Millie Evolution 名义）的尼日利亚裔资深 IP 工程师/顾问；LinkedIn 履历重心在尼日利亚运营商体系（VDT→Bitflux）。
+- **业务定位**：英国个人顾问（五证 MikroTik）→ 有意做 UK distributor（转分销位）
 - **产品线与在售品牌**：顾问服务（宽带基础设施、园区光纤、4G/LTE 与 Hotspot 计费）；无分销目录。
 - **目标行业与场景**：园区/楼宇光纤接入网、Hotspot 计费场景（酒店/宿舍/公共上网）、运营商网络规划与性能优化。
 - **团队与规模**：个人顾问（Millie Evolution 品牌）；官网空目录页说明线上投入为零。
-- **决策链与对接人**：Iyiola Folayan 本人（+44 7783 315527 / ifolayan@millievolution.com，CSV 记录）。
+- **决策链与对接人**：本人即决策（短链）
 - **技术与认证**：MTCNA+MTCRE+MTCWE+MTCUME+MTCINE 5 证+MTCRE 公开可查；MBA+大型运营商规划背景，谈商业与谈技术都通。
 - **采购与供应链信号**：园区光纤与 Hotspot 项目=接入层与 CPE 选型权；运营商背景意味着量大但决策链长。
 - **近期动态与线索**：官网仅剩服务器默认页：业务活跃度存疑——第一封信以「名录里看到你的顾问资料」开场，别装熟。
 - **与我方契合点**：园区光纤/Hotspot=24 口 PoE 接入层；运营商机房与 POP=10G 上行；他的规划角色=能进方案清单。
 - **风险与注意**：地理与身份标注不一致（CSV=伦敦/LinkedIn=尼日利亚）：先确认人在英国再谈交付条款；不假设，不点破。
+- **跟进实况**：02-replied 已双向对话 4 轮；已索样品评测
+- **报价纪律**：2026-09-28 快照已过 15 天有效期，续报前核价
 
 ### R54 原文证据摘录（全部保留）
 
@@ -136,6 +138,15 @@ updated: 2026-10-03
 - **【目标行业与场景】**CSV 既有记录：18 年 IP 工程，宽带基础设施设计、园区光纤网、4G/LTE、Hotspot/User-Manager，5 证含 MTCINE（CSV 名录记录）。
   > 18 年 IP 工程：宽带基础设施设计、IP 网络部署运维、4G/LTE、园区光纤网、Hotspot/User-Manager（CSV 备注）
   > 来源：https://mikrotik.com/consultants
+- **【背景】**英国伦敦五证 MikroTik 顾问（MTCNA+MTCRE+MTCWE+MTCUME+MTCINE），个人顾问位。
+  > ★★★ 五证 MikroTik 顾问（CSV 备注）
+  > 来源：https://mikrotik.com/consultants
+- **【联系通道】**邮箱 ifolayan@millievolution.com；电话 +44 7783 315527；官网 millievolution.com 为裸 Apache 目录（仅 cgi-bin）。
+  > 域 millievolution.com 存活=可投递到域（MX/DNS 级核验口径，2026-09-28 用户确认）
+  > 来源：http://millievolution.com/
+- **【跟进实况】**R61(2026-10-03 邮件实况)：客户已回复有意做 UK distributor，已要样品评测；已双向对话 4 轮。
+  > 客户已回复有意做 UK distributor,已要样品评测（R61 2026-10-03 邮件实况）
+  > 来源：—（用户侧邮件实况）
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 

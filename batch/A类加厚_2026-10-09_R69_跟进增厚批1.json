@@ -1,0 +1,250 @@
+{
+ "date": "2026-10-09",
+ "scope": "R69 线 4（优化 MD）：回复客户跟进增厚 2 档（A-069 英国 4 轮对话要样品 / A-311 美国 2 轮对话）。合并口径：保留既有 R54 记录的 followup_plan 冻结原文（测试冻结），仅追加 next_step（render_v2「下一步」行优先取）+ 跟进实况/报价纪律 dims + 3 条 facts（sources 同步追加）。",
+ "records": [
+  {
+   "code": "A-069",
+   "name": "Iyiola Folayan / Millie Evolution",
+   "country": "英国",
+   "city": "London",
+   "site": "millievolution.com",
+   "researched_on": "2026-10-09",
+   "sources": [
+    [
+     1,
+     "https://ng.linkedin.com/in/iyiola-folayan-42271158"
+    ],
+    [
+     2,
+     "https://millievolution.com/"
+    ],
+    [
+     3,
+     "https://mikrotik.com/consultants"
+    ],
+    [
+     4,
+     "https://mikrotik.com/consultants"
+    ],
+    [
+     5,
+     "http://millievolution.com/"
+    ],
+    [
+     6,
+     "—（用户侧邮件实况）"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "技术与认证",
+     "text": "LinkedIn 公开档案（第三方页面）：MikroTik 认证路由工程师，12 年 IP 工程经验，另有 ITIL/ISO 20000/MBA/尼日利亚工程师协会会员。",
+     "quote": "A Mikrotik Certified Routing Engineer … with twelve (12) years' experience in IP Engineering … MBA … Member, Nigerian Society of Engineers(MNSE)",
+     "url": "https://ng.linkedin.com/in/iyiola-folayan-42271158"
+    },
+    {
+     "dim": "业务定位",
+     "text": "同页履历：历任 SKANNET（Ibadan）、VDT Communications 网络规划与性能负责人→助理总经理；现显示 Bitflux Communications 技术/服务运营负责人。",
+     "quote": "Head of Technical/Service Operations at Bitflux Communications Limited · Joined VDT Communications Lagos in 2008 and became the Head Network Planning and Performance in 2011",
+     "url": "https://ng.linkedin.com/in/iyiola-folayan-42271158"
+    },
+    {
+     "dim": "近期动态与线索",
+     "text": "millievolution.com 本轮抓取只剩 Apache 默认目录页（仅 cgi-bin）——官网无内容，触达靠手机/邮箱。",
+     "quote": "Index of / — cgi-bin/ 2025-10-31",
+     "url": "https://millievolution.com/"
+    },
+    {
+     "dim": "目标行业与场景",
+     "text": "CSV 既有记录：18 年 IP 工程，宽带基础设施设计、园区光纤网、4G/LTE、Hotspot/User-Manager，5 证含 MTCINE（CSV 名录记录）。",
+     "quote": "18 年 IP 工程：宽带基础设施设计、IP 网络部署运维、4G/LTE、园区光纤网、Hotspot/User-Manager（CSV 备注）",
+     "url": "https://mikrotik.com/consultants"
+    },
+    {
+     "dim": "背景",
+     "text": "英国伦敦五证 MikroTik 顾问（MTCNA+MTCRE+MTCWE+MTCUME+MTCINE），个人顾问位。",
+     "quote": "★★★ 五证 MikroTik 顾问（CSV 备注）",
+     "url": "https://mikrotik.com/consultants"
+    },
+    {
+     "dim": "联系通道",
+     "text": "邮箱 ifolayan@millievolution.com；电话 +44 7783 315527；官网 millievolution.com 为裸 Apache 目录（仅 cgi-bin）。",
+     "quote": "域 millievolution.com 存活=可投递到域（MX/DNS 级核验口径，2026-09-28 用户确认）",
+     "url": "http://millievolution.com/"
+    },
+    {
+     "dim": "跟进实况",
+     "text": "R61(2026-10-03 邮件实况)：客户已回复有意做 UK distributor，已要样品评测；已双向对话 4 轮。",
+     "quote": "客户已回复有意做 UK distributor,已要样品评测（R61 2026-10-03 邮件实况）",
+     "url": "—（用户侧邮件实况）"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "英国个人顾问（五证 MikroTik）→ 有意做 UK distributor（转分销位）",
+    "产品线与在售品牌": "顾问服务（宽带基础设施、园区光纤、4G/LTE 与 Hotspot 计费）；无分销目录。",
+    "目标行业与场景": "园区/楼宇光纤接入网、Hotspot 计费场景（酒店/宿舍/公共上网）、运营商网络规划与性能优化。",
+    "团队与规模": "个人顾问（Millie Evolution 品牌）；官网空目录页说明线上投入为零。",
+    "决策链与对接人": "本人即决策（短链）",
+    "技术与认证": "MTCNA+MTCRE+MTCWE+MTCUME+MTCINE 5 证+MTCRE 公开可查；MBA+大型运营商规划背景，谈商业与谈技术都通。",
+    "采购与供应链信号": "园区光纤与 Hotspot 项目=接入层与 CPE 选型权；运营商背景意味着量大但决策链长。",
+    "近期动态与线索": "官网仅剩服务器默认页：业务活跃度存疑——第一封信以「名录里看到你的顾问资料」开场，别装熟。",
+    "与我方契合点": "园区光纤/Hotspot=24 口 PoE 接入层；运营商机房与 POP=10G 上行；他的规划角色=能进方案清单。",
+    "风险与注意": "地理与身份标注不一致（CSV=伦敦/LinkedIn=尼日利亚）：先确认人在英国再谈交付条款；不假设，不点破。",
+    "跟进实况": "02-replied 已双向对话 4 轮；已索样品评测",
+    "报价纪律": "2026-09-28 快照已过 15 天有效期，续报前核价"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 24 口 CCTV/PoE（园区光纤/Hotspot 接入层）",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行）",
+     "angle": "他设计园区光纤与 Hotspot 网：光纤进楼后的接入层 24 口 PoE++ 带 AP/监控/话机，4×10G 上行接光纤终端。",
+     "question": "园区项目接入层现在怎么选型？单端口成本卡在什么区间？",
+     "proof": "接入层单端口成本测算 + 规格对照（英文）。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · 工业级非管理 PoE（外线/弱电井点位）",
+     "product": "STI-280GE（Saga） PoE 版（8G + 2×2.5G SFP，DIN，-40~75°C）",
+     "angle": "园区外线与弱电井的零散点位：宽温 DIN 免配置，配 SFP 上行——批量铺点价格敏感。",
+     "question": "楼里弱电井的交换现在用什么？批量采购价多少？",
+     "proof": "批量阶梯价 + 宽温报告 + DIN 图。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 管理型 PoE（园区分段标准件）",
+     "product": "STI-480XGGM（Saga）（8G + 4×SFP+ 10G，PoE 版）",
+     "angle": "Hotspot/计费场景：管理型 VLAN 分段+QoS 模板给园区运营方做标准配置，他出方案我们供硬件。",
+     "question": "园区运营网的 VLAN 规划现在谁在做？要不要共同打样？",
+     "proof": "VLAN/QoS 模板 + 打样机政策。"
+    }
+   ],
+   "note": "尼日利亚裔资深 IP 顾问（CSV 挂伦敦；官网空目录；身份/地域需先确认）。3 步：园区接入 24 口 → 弱电井工业 PoE → 管理型园区分段模板。",
+   "next_step": "R69(2026-10-09)跟进实况更新：已双向对话 4 轮，客户有意做 UK distributor 并已索样品评测 → 下一步=样品寄送确认 + 评测节点跟进；报价快照 2026-09-28 已过 15 天有效期，续报前核价",
+   "kp": [
+    {
+     "name": "Iyiola Folayan",
+     "role": "本人（五证 MikroTik 顾问）",
+     "contact": "ifolayan@millievolution.com；+44 7783 315527",
+     "status": "official-self-published（名录/档案在册）",
+     "source": "客户名单_反向信号_2026-09.csv:row-70"
+    }
+   ]
+  },
+  {
+   "code": "A-311",
+   "name": "Christopher Fikes（Fikes Media）",
+   "country": "美国",
+   "city": "Silsbee, TX",
+   "site": "fikesmedia.com",
+   "researched_on": "2026-10-09",
+   "sources": [
+    [
+     1,
+     "https://www.fikesmedia.com/"
+    ],
+    [
+     2,
+     "https://mikrotik.com/consultants"
+    ],
+    [
+     3,
+     "https://fikesmedia.com/"
+    ],
+    [
+     4,
+     "—（用户侧邮件实况）"
+    ]
+   ],
+   "facts": [
+    {
+     "dim": "业务定位",
+     "text": "德州 Silsbee 的网络咨询/集成：**「Lower Technology Cost And Get More — It's about function, not vendors.」**——功能导向降 TCO 咨询；方案=企业网/数据中心网（VXLAN/ToR）/开放语音/咨询。",
+     "quote": "Lower Technology Cost And Get More — It's about function, not vendors. ‖ Datacenter Networking — High speed throughput, top of rack connectivity, VXLAN, or a custom solution.",
+     "url": "https://www.fikesmedia.com/"
+    },
+    {
+     "dim": "目标行业与场景",
+     "text": "三大客群自述：**Local Government（图书馆/市政厅/警局——公立面划出）/K-12 And Higher Education（公立教育面划出）**/SMB and Enterprise（商业面可做）——他 20+ 年公共部门背景（CSV），我们只做商业段。",
+     "quote": "Local Government — From the local library to city hall and your hometown police department ‖ K-12 And Higher Education ‖ SMB and Enterprise",
+     "url": "https://www.fikesmedia.com/"
+    },
+    {
+     "dim": "决策链与对接人",
+     "text": "sales@fikesmedia.com 官网联系页 Sales+支持 support@（CSV 9-27 official-company）；+1 409.877.4220（Option 1 销售）。",
+     "quote": "（CSV 2026-09-27 记录）官网联系页给销售 sales@fikesmedia.com、支持 support@、+1 409.877.4220；official-company",
+     "url": "https://www.fikesmedia.com/"
+    },
+    {
+     "dim": "背景",
+     "text": "美国德州 Silsbee，Fikes Media；MikroTik 顾问+认证培训双收录（function not vendors+/mikrotik-consulting 路径）。",
+     "quote": "Fikes Media 美 TX MikroTik 顾问+培训双收录（function not vendors+/mikrotik-consulting 路径）",
+     "url": "https://mikrotik.com/consultants"
+    },
+    {
+     "dim": "联系通道",
+     "text": "邮箱 sales@fikesmedia.com；电话 +1 409.877.4220。",
+     "quote": "域 fikesmedia.com 存活=可投递到域（MX/DNS 级核验口径）",
+     "url": "https://fikesmedia.com/"
+    },
+    {
+     "dim": "跟进实况",
+     "text": "已双向对话 2 轮；全品类参数包已留档供选型引用。",
+     "quote": "已双向对话(2 轮)（档案状态行）",
+     "url": "—（用户侧邮件实况）"
+    }
+   ],
+   "dimensions": {
+    "业务定位": "美国德州顾问+培训师双收录位（Fikes Media）",
+    "产品线与在售品牌": "企业网/DC 网设计/VoIP/咨询；MTCRE+MikroTik 咨询页在站。",
+    "目标行业与场景": "德州东南部 SMB/企业（公立两域划出）。",
+    "团队与规模": "主理人咨询商。",
+    "决策链与对接人": "本人即决策（短链）",
+    "技术与认证": "MTCRE（CSV 9-23 名录）；20+ 年公共部门网络经验。",
+    "采购与供应链信号": "**功能导向+压 TCO 方法论=白盒对频**：商业客户的接入层/汇聚件评估位+其 DC 咨询的 DAC/SFP 件。",
+    "近期动态与线索": "咨询页米名 mikrotik-consulting=把 MikroTik 咨询当产品卖，懂成本控制话术。",
+    "与我方契合点": "商业段 24 口 PoE 接入层评估位+万兆上行件+DAC/SFP。",
+    "风险与注意": "地方政/K-12 段绝不谈（他的主粮仓）；与 IP ArchiTechs 同规：他是咨询选型人，不给渠道返点话术。",
+    "跟进实况": "02-replied 已双向对话 2 轮；参数包已留档",
+    "报价纪律": "无回复即冻结"
+   },
+   "followup_plan": [
+    {
+     "step": 1,
+     "stage": "第一次跟进 · 声明边界+商业段接入层评估位",
+     "product": "STC-424XGGPM-440W（Saga）（24×千兆 PoE++ + 4×万兆上行 L2+）",
+     "angle": "简短一封：只做商业 SMB/Enterprise 段的接入层高性价比选型（您的 function-not-vendors 理念对味；公立段不经由我们）。",
+     "question": "您商业客户的接入层选型里有评估新硬件的流程吗？",
+     "proof": "一页规格（英）+ TCO 对照示例。"
+    },
+    {
+     "step": 2,
+     "stage": "第二次跟进 · DC 咨询场景 DAC/SFP+万兆件",
+     "product": "STC-424XGGPM-440W（Saga） + DAC/SFP",
+     "angle": "其数据中心咨询（ToR/VXLAN）场景的万兆件与互连配件。",
+     "question": "DC/汇聚场景需要高性价比万兆件吗？",
+     "proof": "万兆件一页+配件价卡。"
+    },
+    {
+     "step": 3,
+     "stage": "第三次跟进 · 参数包留档收口",
+     "product": "—（参数包）",
+     "angle": "全品类参数包留档供选型引用；无回复即冻结。",
+     "question": "（无需回）参数留档。",
+     "proof": "全品类参数一页。"
+    }
+   ],
+   "note": "德州 TCO 咨询（公立本色划出只做商业段；DC/VXLAN 能力对白盒对频）。3 步：商业接入层评估 → DC 万兆/配件 → 参数留档。",
+   "next_step": "R69(2026-10-09)跟进实况更新：已双向对话 2 轮 → 下一步=第二轮跟进（全品类参数包已留档供选型引用）；无回复即冻结",
+   "kp": [
+    {
+     "name": "Christopher Fikes",
+     "role": "本人（MikroTik 顾问/认证培训师）",
+     "contact": "sales@fikesmedia.com；+1 409.877.4220",
+     "status": "official-self-published（名录在册）",
+     "source": "客户名单_反向信号_2026-09.csv:row-312"
+    }
+   ]
+  }
+ ]
+}

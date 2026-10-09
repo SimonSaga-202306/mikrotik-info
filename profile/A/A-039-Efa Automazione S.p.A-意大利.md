@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 26·A-039:意大利谱: **守档准由·原 R56 谱基增厚**:EFA Automazione S.p.A.（米兰，02 921133??）：Relatech 集团旗下工业数字化转型商——通信网关、Industrial I/O/数采、HMI、版本平台、网安、DataOps、工业软件、**Switch & Networking 产品线**、远程协助/远控（Ewon Flexy）；Ignition SCADA 大量落地（水电/食品/制造），30+ 年经验、培训学院（OPC Router 课程）;R66 第 26 波谱:我司 STI-288GP($74.8 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第4批.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 26 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】意大利 EFA Automazione SpA（现属 RELATECH GROUP），Via Isola Guarnieri 13, 20063 Cernusco sul Naviglio (MI)；+39 02 92113180；info@efa.it（Crunchbase JSON-LD 在册）；LinkedIn 公司页 efa-automazione；ZoomInfo org 露 Juliet Okarter（行政助理，非决策人）；SPS Italia 2026 参展商（工业自动化/IT-OT 联通，Anybus HMS 代理）。
+- 【推断】R69 第 1 波公司口锁定，KP 未锁
+- 【假设】工控分销/集成位；公司邮箱转接索要采购/技术负责人
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -136,35 +136,30 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-09_R69_R56_KP第1波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：波 26·A-039:意大利谱: **守档准由·原 R56 谱基增厚**:EFA Automazione S.p.A.（米兰，02 921133??）：Relatech 集团旗下工业数字化转型商——通信网关、Industrial I/O/数采、HMI、版本平台、网安、DataOps、工业软件、**Switch & Networking 产品线**、远程协助/远控（Ewon Flexy）；Ignition SCADA 大量落地（水电/食品/制造），30+ 年经验、培训学院（OPC Router 课程）;R66 第 26 波谱:我司 STI-288GP($74.8 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第4批.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **②芯片/型号**：STI-288GP·industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at)
-- **③KP 深挖**：**守档准由;R66 第 26 波点名(谱面无实名)**
-- **④Saga 对标**：STI-288GP vs PLANET/当批价差窗
-- **⑤在乎与偏好**：意大利 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**EFA Automazione S.p.A.（米兰，02 921133??）：Relatech 集团旗下工业数字化转型商——通信网关、Industrial I/O/数采、HMI、版本平台、网安、DataOps、工业软件、**Switch & Networking 产品线**、远程协助/远控（Ewon Flexy）；Ig
-  > EFA Automazione S.p.A.（米兰，02 921133??）：Relatech 集团旗下工业数字化转型商——通信网关、Industrial I/O/数采、HMI、版本平台、网安、DataOps、工业软件、**Switch & Networking 产品线**、远程协助/远控（Ewon Flexy）；Ig
-  > 来源：https://efa.it/
-- **【联系方式与基础画像】**CSV 入口:vendite@efa.it（销售部）；info@efa.it；电话 02 92 11 31 80
-  > CSV 入口:vendite@efa.it（销售部）；info@efa.it；电话 02 92 11 31 80
-  > 来源：https://efa.it/
+- **【证据】**Soluzioni：Gateway di comunicazione｜Industrial I/O & Data Collection｜Pannelli Operatore HMI｜…｜**Switch & Networking**｜Teleassistenza &…（官网方案板块）
+  > Soluzioni：Gateway di comunicazione｜Industrial I/O & Data Collection｜Pannelli Operatore HMI｜…｜**Switch & Networking**｜Teleassistenza &…（官网方案板块）
+  > 来源：https://www.efa.it/
+- **【证据】**EFA Automazione – Business Unit Industrial Automation · Via Isola Guarnieri, 13 · Cernusco sul Naviglio (MI) · Telefono: (+39) 02 92113180 · Sito web: www.efa.it
+  > EFA Automazione – Business Unit Industrial Automation · Via Isola Guarnieri, 13 · Cernusco sul Naviglio (MI) · Telefono: (+39) 02 92113180 · Sito web: www.efa.it
+  > 来源：https://www.progettoindustria.com/efa-automazione/
+- **【证据】**info@efa.it · Via Isola Guarnieri 13, Cernusco Sul Naviglio · 11-50 employees（Crunchbase JSON-LD）
+  > info@efa.it · Via Isola Guarnieri 13, Cernusco Sul Naviglio · 11-50 employees（Crunchbase JSON-LD）
+  > 来源：https://www.crunchbase.com/organization/efa-automazione
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：波 26·A-039:意大利谱: **守档准由·原 R56 谱基增厚**:EFA Automazione S.p.A.（米兰，02 921133??）：Relatech 集团旗下工业数字化转型商——通信网关、Industrial I/O/数采、HMI、版本平台、网安、DataOps、工业软件、**Switch & Networking 产品线**、远程协助/远控（Ewon Flexy）；Ignition SCADA 大量落地（水电/食品/制造），30+ 年经验、培训学院（OPC Router 课程）;R66 第 26 波谱:我司 STI-288GP($74.8 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第4批.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **产品线与在售品牌**：N-Tron + Red Lion
-- **目标行业与场景**：意大利 谱;分销（HMS/N-Tron·Red Lion 渠道）
-- **团队与规模**：意大利谱·守档准由
-- **决策链与对接人**：**守档准由;R66 第 26 波点名(谱面无实名)**
-- **技术与认证**：STI-288GP 对口谱;$74.8 USD EXW 锚
-- **采购与供应链信号**：B2B 批口谱
-- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
-- **与我方契合点**：STI-288GP(industrial unmanaged 8-port PoE switch) 档案铺位窗
-- **风险与注意**：具名缺(守档准由)
+- **业务定位**：工业自动化 IT-OT 联通分销/集成（RELATECH GROUP 成员）
+- **决策链与对接人**：公司口锁定，KP 待猎捕
+- **产品线与在售品牌**：Anybus(HMS)/工业通信协议驱动
+- **团队与规模**：11-50 人（Crunchbase）
+- **技术与认证**：ISO 9001:2015
+- **采购与供应链信号**：工控采购线
+- **近期动态与线索**：SPS Italia 2026 参展
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -179,10 +174,7 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：R56 谱基在册
-- **W**：具名缺(守档准由)
-- **O**：STI-288GP $74.8 USD EXW 价差窗
-- **T**：谱链节奏;先报价不回则档案铺位
+- **S**：有明确交换/供电需求（工业/楼宇），且有具体人直联
 
 ## 触达与风险红线
 
@@ -210,8 +202,8 @@ updated: 2026-09-28
 ## Unknowns（待问清单 · 首触后逐项消除）
 
 - **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
+  - [ ] 具名 KP 缺位
+  - [ ] ZoomInfo 露行政助理非决策人
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -223,12 +215,7 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Dear Efa Automazione S.p.A. Team,
-
-We build a industrial unmanaged 8-port PoE switch (IP67 DIN-rail, 802.3af/at). Reference: $74.8 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
-
-Best regards
-Saga / SmartByte ODM
+info@efa.it
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。

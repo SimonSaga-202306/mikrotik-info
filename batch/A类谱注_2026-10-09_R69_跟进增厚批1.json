@@ -1,0 +1,26 @@
+{
+ "date": "2026-10-09",
+ "scope": "R69 线 4（优化 MD）：回复客户跟进实况增厚 2 档（A-069 英国 / A-311 美国）。两档「下一步」行原为「发出首触邮件」模板句，与 stage=02-replied 状态脱节，已手改更新；本文件留档备查，不走渲染管线。",
+ "records": [
+  {
+   "code": "A-069",
+   "name": "Iyiola Folayan / Millie Evolution",
+   "country": "英国",
+   "track": "跟进实况增厚（回复客户）",
+   "note": "状态 02-已双向对话(4 轮)；客户已回复有意做 UK distributor 并已索样品评测。下一步行由模板句更新为：样品寄送确认 + 评测节点跟进；报价快照 2026-09-28 已过 15 天有效期，续报前核价。KP=Iyiola Folayan 本人（事实）；邮箱 ifolayan@millievolution.com；电话 +44 7783 315527；五证顾问（MTCNA+MTCRE+MTCWE+MTCUME+MTCINE）。",
+   "status": "已更新（下一步行 + 跟进实况）",
+   "evidence": [],
+   "action": "样品寄送确认后 14 天内跟进评测反馈；续报前核价"
+  },
+  {
+   "code": "A-311",
+   "name": "Christopher Fikes",
+   "country": "美国",
+   "track": "跟进实况增厚（回复客户）",
+   "note": "状态 02-已双向对话(2 轮)。下一步行由模板句更新为：第二轮跟进（全品类参数包已留档供选型引用）；无回复即冻结。KP=Christopher Fikes 本人（MikroTik 顾问/认证培训师，Fikes Media，Silsbee TX）；邮箱 sales@fikesmedia.com；电话 +1 409.877.4220。",
+   "status": "已更新（下一步行 + 跟进实况）",
+   "evidence": [],
+   "action": "第二轮跟进发出后 14 天无回复即冻结"
+  }
+ ]
+}

@@ -47,9 +47,9 @@ updated: 2026-09-28
 
 **深挖三层（R56 · 一句话版 · 全文见原始 JSON）**
 
-- 【事实】波 26·A-040:意大利谱: **守档准由·原 R56 谱基增厚**:Gianpiero Ciacci：LinkedIn 自述曾任大学 IT 主管（Università per stranieri di Siena 锡耶纳外国人大学），现任 CTU/CTP 技术顾问（法庭鉴定方向）+MikroTik 顾问（MTCNA+MTCSE）；另有 UBWA/UEWA Ubiquiti 证;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第4批.json,先报价不回、档案铺位、持续关注新一季,OK。
-- 【推断】R66 第 26 波守档准由谱
-- 【假设】档案铺位谱,持续关注新一季
+- 【事实】意大利 Gianpiero Ciacci：Università per Stranieri di Siena 合约讲师 + Centro Servizi Informatici 主任 dal 2001（online.unistrasi.it 公示：gianpiero.ciacci@unistrasi.it，0577240277）；2023 MikroTik 课表（MTCSE/MTCNA，HC Teach 组织）；dbcf.unisi.it 实验室任职页为同一人。排噪：同名他者无 MikroTik 认证锚。
+- 【推断】R69 第 1 波 KP 猎获（本人大学官网公示）
+- 【假设】个人顾问/讲师位 KP 本人锁定；机构邮箱即工作锚
 
 ## 技术与在用（芯片/型号/规格/出货·客户反馈尽量核实）
 
@@ -77,10 +77,14 @@ updated: 2026-09-28
 - 来源等级：official-channel（R41–R48 联系方式台账口径）
 - **原始联系字段**：+39 338 248 7996 / gciacci@gmail.com
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
+  - **Gianpiero Ciacci**(本人（大学 IT 中心主任 + MikroTik 认证讲师/顾问）)— gianpiero.ciacci@unistrasi.it（机构邮箱=本人工作锚）；0577240277 〔已有(公司官方公开件/登记册自曝);源:https://online.unistrasi.it/docenti/Persona.asp?ID=411&ID2=227〕
 
 ## 关键人（KP）与触达通道
 
-- 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Gianpiero Ciacci | 本人（大学 IT 中心主任 + MikroTik 认证讲师/顾问） | gianpiero.ciacci@unistrasi.it（机构邮箱=本人工作锚）；0577240277 | official-self-published（大学官网公示） | https://online.unistrasi.it/docenti/Persona.asp?ID=411&ID2=227 |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
 
@@ -137,35 +141,30 @@ updated: 2026-09-28
 
 ## R55 再发掘要点（深挖 · 全文见原始 JSON）
 
-> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-08_R66_R56_KP第26波50户.json`；价格均为 EXW 快照。
+> 调研日期 **—**；原始记录：`batch/A类深挖_2026-10-09_R69_R56_KP第1波.json`；价格均为 EXW 快照。
 
-- **①背景再核**：波 26·A-040:意大利谱: **守档准由·原 R56 谱基增厚**:Gianpiero Ciacci：LinkedIn 自述曾任大学 IT 主管（Università per stranieri di Siena 锡耶纳外国人大学），现任 CTU/CTP 技术顾问（法庭鉴定方向）+MikroTik 顾问（MTCNA+MTCSE）；另有 UBWA/UEWA Ubiquiti 证;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第4批.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **②芯片/型号**：STC-28DGGPM·8-port PoE access box (802.3af/at, watchdog)
-- **③KP 深挖**：**守档准由;R66 第 26 波点名(谱面无实名)**
-- **④Saga 对标**：STC-28DGGPM vs PLANET/当批价差窗
-- **⑤在乎与偏好**：意大利 谱;CE/UKCA;持续关注新一季
 
 ### R55 证据摘录（全部保留 · 含数量）
 
-- **【联系方式与基础画像】**Gianpiero Ciacci：LinkedIn 自述曾任大学 IT 主管（Università per stranieri di Siena 锡耶纳外国人大学），现任 CTU/CTP 技术顾问（法庭鉴定方向）+MikroTik 顾问（MTCNA+MTCSE）；另有 UBWA/UEWA Ubiquiti 证
-  > Gianpiero Ciacci：LinkedIn 自述曾任大学 IT 主管（Università per stranieri di Siena 锡耶纳外国人大学），现任 CTU/CTP 技术顾问（法庭鉴定方向）+MikroTik 顾问（MTCNA+MTCSE）；另有 UBWA/UEWA Ubiquiti 证
-  > 来源：仓内:A类深挖_2026-09-28_R56_第4批.json
-- **【联系方式与基础画像】**CSV 入口:+39 338 248 7996 / gciacci@gmail.com
-  > CSV 入口:+39 338 248 7996 / gciacci@gmail.com
-  > 来源：仓内:A类深挖_2026-09-28_R56_第4批.json
+- **【证据】**Gianpiero Ciacci Docente a contratto · Tel. 0577240277 · Email gianpiero.ciacci@unistrasi.it · Direttore del Centro Servizi Informatici dal 2001
+  > Gianpiero Ciacci Docente a contratto · Tel. 0577240277 · Email gianpiero.ciacci@unistrasi.it · Direttore del Centro Servizi Informatici dal 2001
+  > 来源：https://online.unistrasi.it/docenti/Persona.asp?ID=411&ID2=227
+- **【证据】**Gianpiero Ciacci · EP3 · Centro Servizi Informatici · MTCSE Mikrotik Certified Security Engineer · 5-6 aprile 2023 · HC Teach srl
+  > Gianpiero Ciacci · EP3 · Centro Servizi Informatici · MTCSE Mikrotik Certified Security Engineer · 5-6 aprile 2023 · HC Teach srl
+  > 来源：https://www.unistrasi.it/public/articoli/3916/ELENCO%20CORSI%20E%20CORSISTI%202023%20ANNUALE.pdf
+- **【证据】**Gianpiero Ciacci · Laboratorio di Informatica · Dipartimento di Biotecnologie, chimica e farmacia · Università di Siena
+  > Gianpiero Ciacci · Laboratorio di Informatica · Dipartimento di Biotecnologie, chimica e farmacia · Università di Siena
+  > 来源：https://www.dbcf.unisi.it/it/dipartimento/personale/docenti-contratto/aa-20142015/gianpiero-ciacci
 
 ### R56 十维速览（深挖笔记 · 事实与推断混合，证据见上节）
 
-- **业务定位**：波 26·A-040:意大利谱: **守档准由·原 R56 谱基增厚**:Gianpiero Ciacci：LinkedIn 自述曾任大学 IT 主管（Università per stranieri di Siena 锡耶纳外国人大学），现任 CTU/CTP 技术顾问（法庭鉴定方向）+MikroTik 顾问（MTCNA+MTCSE）；另有 UBWA/UEWA Ubiquiti 证;R66 第 26 波谱:我司 STC-28DGGPM($99 价锚)对口该谱;既有深挖批源:A类深挖_2026-09-28_R56_第4批.json,先报价不回、档案铺位、持续关注新一季,OK。
-- **产品线与在售品牌**：MikroTik 认证顾问 MTCNA+MTCSE
-- **目标行业与场景**：意大利 谱;集成商/顾问（MikroTik 认证）
-- **团队与规模**：意大利谱·守档准由
-- **决策链与对接人**：**守档准由;R66 第 26 波点名(谱面无实名)**
-- **技术与认证**：STC-28DGGPM 对口谱;$99 USD EXW 锚
-- **采购与供应链信号**：B2B 批口谱
-- **近期动态与线索**：2026-10-08 R66 26 波谱名牌(A 类补全批)
-- **与我方契合点**：STC-28DGGPM(8-port PoE access box) 档案铺位窗
-- **风险与注意**：具名缺(守档准由)
+- **业务定位**：大学 IT 中心 + MikroTik 认证讲师/顾问（个人位）
+- **决策链与对接人**：KP 本人锁定
+- **产品线与在售品牌**：MikroTik 培训/顾问
+- **团队与规模**：个人（挂靠大学 IT 中心）
+- **技术与认证**：MTCSE + MTCNA（2023 课表）
+- **采购与供应链信号**：培训/顾问采购线
+- **近期动态与线索**：2023 起 MikroTik 课程（HC Teach 合办）
 
 ## 产品决策（Saga · 单一决策口径）
 
@@ -180,10 +179,7 @@ updated: 2026-09-28
 
 ## SWOT
 
-- **S**：R56 谱基在册
-- **W**：具名缺(守档准由)
-- **O**：STC-28DGGPM $99 USD EXW 价差窗
-- **T**：谱链节奏;先报价不回则档案铺位
+- **S**：有明确交换/供电需求（交换专长），且有具体人直联
 
 ## 触达与风险红线
 
@@ -206,17 +202,13 @@ updated: 2026-09-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（PoE/接入层池） | ✅ |
-| 决策人识别 | ❓ |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 邮箱域已验 MX |
 | 现用交换品牌 | ❓ 未确认 |
 | 采购量/预算 | ❓ 未确认 |
 | 商业资格结论 | **技术上合格 / 商业上未合格（待首触信号）** |
 
 ## Unknowns（待问清单 · 首触后逐项消除）
-
-- **深挖专属待问（R56）**：
-  - [ ] 具名决策人(波次二)
-  - [ ] 谱面份额
 
 - [ ] 现有交换机/PoE 品牌与型号（问法：见首触邮件第一问）
 - [ ] 典型站点端口数与供电预算
@@ -228,12 +220,7 @@ updated: 2026-09-28
 **主题**：PoE switching for your projects
 
 ```text
-Dear Gianpiero Ciacci Team,
-
-We build a 8-port PoE access box (802.3af/at, watchdog). Reference: $99 USD EXW (2026-10-08, 15 days valid) — a value unit that rides along with each deployment. Datasheet + CE pack on request.
-
-Best regards
-Saga / SmartByte ODM
+gianpiero.ciacci@unistrasi.it
 ```
 
 > 发送前检查：① 不出现「Made in China」或原产地信息；② 不承诺未实测的指标；③ 落款换成你自己的名字与公司；④ **一次只问一个问题**；⑤ 货币单位一律 USD 并带快照日期；⑥ 该客户为教师/公立身份时先读「本户特别红线」。
