@@ -34,11 +34,13 @@ for _tp in sorted(ROOT.glob('batch/contact_research_*.json')):
 
 # 2026-09-29 用户实测退信台账 + 关联实体群（复盘波）
 BOUNCE = {}
-try:
-    for _br in json.loads((ROOT / 'batch/邮件退信_2026-09-29.json').read_text(encoding='utf-8'))['records']:
-        BOUNCE[_br['code']] = _br
-except FileNotFoundError:
-    pass
+# 2026-10-09 起改为 glob 扫描 batch/邮件退信_*.json（sorted，晚文件覆盖早文件同 code）
+for _bf in sorted(ROOT.glob('batch/邮件退信_*.json')):
+    try:
+        for _br in json.loads(_bf.read_text(encoding='utf-8'))['records']:
+            BOUNCE[_br['code']] = _br
+    except Exception:
+        continue
 GROUPS = {}
 try:
     for _gr in json.loads((ROOT / 'batch/关联实体群_2026-09-29.json').read_text(encoding='utf-8'))['groups']:

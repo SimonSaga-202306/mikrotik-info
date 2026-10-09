@@ -78,8 +78,8 @@ updated: 2026-09-28
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
 
-- **退信实测（2026-10-08）**：`sales@dipole-ltd.com` 观察期满转永久（Gmail 临时投递失败(sales@dipole-ltd.com)，系统重试至多 22 小时；2026-10-08 观察期届满未恢复→转永久(R62/R63 规则：不删邮箱、只标「发不过去」+替代)）→ 停用该地址；替代通道：dipole.co.il 官网表单与 info@dipole.co.il（主域在册，R66 波24谱面确认）；+972 3-5732221（官网联系）
-  > 处置：观察期满(2026-10-08)→转永久；主触替代口=dipole.co.il 域（双域注：退信域 dipole-ltd.com≠主域）
+- **退信实测（2026-10-09）**：`sales@dipole-ltd.com` 观察期满转永久（2026-10-09 用户回执：sales@dipole-ltd.com 地址不存在）→ 停用该地址；替代通道：info@dipole.co.il（主域在册，R66 波24确认）；dipole.co.il 官网表单；+972 3-5732221（官网电话）
+  > 处置：永久停用 sales@dipole-ltd.com（不删档内邮箱，只标发不过去）；主触切换 info@dipole.co.il；双域注：退信域 dipole-ltd.com≠主域 dipole.co.il
 ## 关键人（KP）与触达通道
 
 - 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。

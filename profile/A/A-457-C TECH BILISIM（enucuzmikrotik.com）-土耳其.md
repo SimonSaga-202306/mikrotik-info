@@ -76,8 +76,8 @@ updated: 2026-09-28
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
 
-- **退信实测（2026-10-08）**：`info@enucuzmikrotik.com` 观察期满转永久（A-457 enucuzmikrotik.com 46h retry 观察）→ 停用该地址；替代通道：bilisimyol.com 官网联系口（roster 主域在册；0850 480 44 47）；CTECH Bilişim 官网表单
-  > 处置：观察期满(2026-10-08)→转永久；主触替代口=bilisimyol.com 主域（双域注：退信域 enucuzmikrotik.com≠主域 bilisimyol.com）
+- **退信实测（2026-10-09）**：`info@enucuzmikrotik.com` 观察期满转永久（2026-10-09 用户回执：info@enucuzmikrotik.com 地址不存在）→ 停用该地址；替代通道：info@bilisimyol.com（bilisimyol.com/iletisim.aspx 在册，页内 JSON-LD 露出；主体 SonicTech Bilişim，Vergi No 7740723136）；bilisimyol.com 官网联系表单；+90 541 389 33 53（通信页手机，Altınşehir Ümraniye İstanbul）；0850 480 44 47（档内固话）
+  > 处置：永久停用 info@enucuzmikrotik.com；主触切换 info@bilisimyol.com；双域注：退信域 enucuzmikrotik.com≠主域 bilisimyol.com；ctech.com.tr 同名异司已排（Teknopark İstanbul 防务公司，非本司）
 ## 关键人（KP）与触达通道
 
 - 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。

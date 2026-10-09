@@ -1,0 +1,83 @@
+{
+ "date": "2026-10-09",
+ "source": "用户退信回执实测（2026-10-09 波：A/B 跟进后退信反馈，5 户）",
+ "note": "接入方式：render_v2 改为 glob 扫描 batch/邮件退信_*.json，晚文件覆盖早文件（同 code）。本文件 A-441/A-457 两条覆盖 2026-09-29 老记录，detail 已合并老记录内容，信息不丢。R62/R63 规则沿用：不删档内邮箱，只标发不过去 + 替代口。",
+ "records": [
+  {
+   "code": "A-568",
+   "name": "Purdicom Limited",
+   "bounced": "watch",
+   "email": "info@purdicom.com",
+   "type": "临时退信（Gmail 重试中，非永久）",
+   "detail": "2026-10-09 用户回执：info@purdicom.com 临时投递失败，Gmail 将继续重试 45 小时。重要发现：官网实为 purdi.com（purdi.com/contact），purdicom.com 非官网域，档内「原始联系字段：purdicom.com 官网」表述有误。",
+   "alternates": [
+    "sales@purdi.com（官网销售线，purdi.com/contact 在册）",
+    "hello@purdi.com（总机 +44 (0) 333 1212 100）",
+    "purdi.com/contact 官网表单"
+   ],
+   "action": "观察窗内盯 Gmail 重试结果，暂不停用；主触备选 sales@purdi.com（官网销售邮箱）；邮箱字段待观察期结果再定",
+   "date": "2026-10-09"
+  },
+  {
+   "code": "A-441",
+   "name": "Dipole Wireless Communication",
+   "bounced": "sales@dipole-ltd.com",
+   "email": "sales@dipole-ltd.com",
+   "type": "not-found（永久退信，用户回执确认）",
+   "detail": "2026-10-09 用户回执：sales@dipole-ltd.com 地址不存在（永久）。合并 2026-10-08 老记录：Gmail 临时投递失败重试 22 小时，观察期届满未恢复，已转永久。",
+   "alternates": [
+    "info@dipole.co.il（主域在册，R66 波24确认）",
+    "dipole.co.il 官网表单",
+    "+972 3-5732221（官网电话）"
+   ],
+   "action": "永久停用 sales@dipole-ltd.com（不删档内邮箱，只标发不过去）；主触切换 info@dipole.co.il；双域注：退信域 dipole-ltd.com≠主域 dipole.co.il",
+   "date": "2026-10-09"
+  },
+  {
+   "code": "A-457",
+   "name": "C TECH BILISIM（enucuzmikrotik.com）",
+   "bounced": "info@enucuzmikrotik.com",
+   "email": "info@enucuzmikrotik.com",
+   "type": "not-found（永久退信，用户回执确认）",
+   "detail": "2026-10-09 用户回执：info@enucuzmikrotik.com 地址不存在（永久）。合并 2026-10-08 老记录：46h 观察期满转永久；同址第二封退信与域级 dead 同向，永久标维持。",
+   "alternates": [
+    "info@bilisimyol.com（bilisimyol.com/iletisim.aspx 在册，页内 JSON-LD 露出；主体 SonicTech Bilişim，Vergi No 7740723136）",
+    "bilisimyol.com 官网联系表单",
+    "+90 541 389 33 53（通信页手机，Altınşehir Ümraniye İstanbul）",
+    "0850 480 44 47（档内固话）"
+   ],
+   "action": "永久停用 info@enucuzmikrotik.com；主触切换 info@bilisimyol.com；双域注：退信域 enucuzmikrotik.com≠主域 bilisimyol.com；ctech.com.tr 同名异司已排（Teknopark İstanbul 防务公司，非本司）",
+   "date": "2026-10-09"
+  },
+  {
+   "code": "B-168",
+   "name": "Neostar",
+   "bounced": "info@neostar.it",
+   "email": "info@neostar.it",
+   "type": "not-found（永久退信，用户回执确认）",
+   "detail": "2026-10-09 用户回执：info@neostar.it 地址不存在（永久）。官网 neostar.it/contatti.html 未列 info@，分部门邮箱在册，确认该地址无效。",
+   "alternates": [
+    "acquisti@neostar.it（采购部，对口我方供货）",
+    "brescia@neostar.it（Brescia 销售/总机 +39 030 349771）",
+    "bergamo@neostar.it（Bergamo 销售 +39 035 325811）"
+   ],
+   "action": "永久停用 info@neostar.it；主触切换 acquisti@neostar.it（采购线）；来源 neostar.it/contatti.html（2026-10-09 核）",
+   "date": "2026-10-09"
+  },
+  {
+   "code": "B-221",
+   "name": "GCOM",
+   "bounced": "info@gcom.ge",
+   "email": "info@gcom.ge",
+   "type": "not-found（永久退信，用户回执确认）",
+   "detail": "2026-10-09 用户回执：info@gcom.ge 地址不存在（永久）。官网 gcom.ge/en/contact 只列 sale@gcom.ge，电话 +995 322 420 449 与档一致。",
+   "alternates": [
+    "sale@gcom.ge（官网 contact 页在册）",
+    "+995 322 420 449（官网电话）",
+    "Zaza Zviadadze（LinkedIn KP，档内已有，猜测位，直发需 opt-in）"
+   ],
+   "action": "永久停用 info@gcom.ge；主触切换 sale@gcom.ge；KP 走 LinkedIn 猜测位；来源 gcom.ge/en/contact（2026-10-09 核）",
+   "date": "2026-10-09"
+  }
+ ]
+}

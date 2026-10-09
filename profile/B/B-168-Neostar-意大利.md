@@ -78,6 +78,9 @@ STC-424XGGPM-280W·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog
 - **原始联系字段**：+39 030 349771 / info@neostar.it
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
+
+- **退信实测（2026-10-09）**：`info@neostar.it` 观察期满转永久（2026-10-09 用户回执：info@neostar.it 地址不存在）→ 停用该地址；替代通道：acquisti@neostar.it（采购部，对口我方供货）；brescia@neostar.it（Brescia 销售/总机 +39 030 349771）；bergamo@neostar.it（Bergamo 销售 +39 035 325811）
+  > 处置：永久停用 info@neostar.it；主触切换 acquisti@neostar.it（采购线）；来源 neostar.it/contatti.html（2026-10-09 核）
 ## 关键人（KP）与触达通道
 
 - 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。

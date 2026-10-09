@@ -78,6 +78,9 @@ updated: 2026-10-07
 - **原始联系字段**：purdicom.com 官网；Companies House CIN 05361794（Mitchell House, Unit 4 Woolley Barns, Wantage OX12 8TA）
 - **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
 
+
+- **退信实测（2026-10-09）**：`info@purdicom.com` 临时投递失败,观察中（2026-10-09 用户回执：info@purdicom.com 临时投递失败，Gmail 将继续重试 45 小时。重要发现：官网实为 purdi.com）→ 观察期暂不停用；备选通道已备: sales@purdi.com（官网销售线，purdi.com/contact 在册）；hello@purdi.com（总机 +44 (0) 333 1212 100）；purdi.com/contact 官网表单
+  > 处置：观察窗内盯 Gmail 重试结果，暂不停用；主触备选 sales@purdi.com（官网销售邮箱）；邮箱字段待观察期结果再定
 ## 关键人（KP）与触达通道
 
 - 关键人未定位：首封信件以 info/通用邮箱开场并向其索要正确联系人。

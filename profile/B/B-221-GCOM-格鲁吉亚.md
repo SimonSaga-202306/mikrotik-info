@@ -75,6 +75,9 @@ updated: 2026-10-07
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
   - **Zaza Zviadadze**(员工/管理层(LinkedIn 谱 GCOM/Tbilisi;波次二其职衔待核))— LinkedIn 自署 worksFor GCOM(Tbilisi) 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/in/zaza-zviadadze-249160109/〕
 
+
+- **退信实测（2026-10-09）**：`info@gcom.ge` 观察期满转永久（2026-10-09 用户回执：info@gcom.ge 地址不存在）→ 停用该地址；替代通道：sale@gcom.ge（官网 contact 页在册）；+995 322 420 449（官网电话）；Zaza Zviadadze（LinkedIn KP，档内已有，猜测位，直发需 opt-in）
+  > 处置：永久停用 info@gcom.ge；主触切换 sale@gcom.ge；KP 走 LinkedIn 猜测位；来源 gcom.ge/en/contact（2026-10-09 核）
 ## 关键人（KP）与触达通道
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
