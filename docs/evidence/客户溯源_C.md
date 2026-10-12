@@ -825,66 +825,119 @@
 <a id="C-051"></a>
 ## C-051 · QL3D · 法国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-341`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：ql3d.fr
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 本地原始批次：`batch/C类AB标准加厚_2026-10-12_R73_第5批.json / records[0]`
+- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第5批.json`；检索日期：2026-10-12；9 条逐项证据、10 个分析维度。
+- 主要逐项来源：
+  - [法国政府 Annuaire des Entreprises（INSEE/INPI 等公共登记汇总）](https://annuaire-entreprises.data.gouv.fr/entreprise/ql3d-429607740)（政府登记一手汇总页面；主体字段和 2024 年员工区间按登记统计口径解释）
+  - [QL3D 官方公司首页](https://ql3d.fr/)（公司一手自述/营销展示；目录规模、库存/交期与服务承诺未独立审计）
+  - [HMS Networks 官方 distributor/partner 定位器](https://www.hms-networks.com/contact/find-distributor?indexCatalogue=partner-company&searchQuery=QL3D&wordsMode=AllWords&sf_culture=en&orderBy=OrderBy%20extended&page=1)（制造商一手渠道名录；厂商确认目录列名/品牌和支持信息，具体合同子类别未标注）
+  - [QL3D 自营卖方商品页](https://ql3d.fr/switchs-ethernet-industriels/11827-hms-networks-n-tron-1008tx.html)（卖方一手 SKU/商品展示快照；询价入口不等于价格、实时库存、成交或采购量）
+  - [HMS Networks/N-Tron 官方产品页](https://www.hms-networks.com/p/1008tx-n-tron-1008tx-unmanaged-8-port-gigabit-industrial-ethernet-switch)（制造商一手规格；页面介绍段含与型号/详细端口表冲突的 5-port 文案，已明确标注，不隐去错误）
+  - [QL3D 官方客户案例/项目文章](https://ql3d.fr/actualit%C3%A9s/30_le-lab-de-l-attention-ce-que-nous-avons-const.html)（公司一手项目自述；未独立核实 QL3D 采购/转售 Atop 设备及项目金额/数量）
+  - [La Poste Groupe 官方 VivaTech 2026 press kit](https://www.lapostegroupe.com/assets/media/le-groupe-laposte/ajDsl41P9HI4UjLE_Press_kit_La_Poste_Groupe_VT26.pdf)（具名客户/项目主办方一手资料；独立确认展项与日期，但未确认 QL3D 供货、角色或设备型号）
+  - [QL3D 网站转载的 HW group 厂商案例文章](https://ql3d.fr/actualit%C3%A9s/17_le-systeme-wld-surveille-les-fuites-de-fluides-dans-l-installation-de-fabrication-de-semi-conducteurs-d-onsemi.html)（厂商案例转载/第三方实施方归属明确；只用于校正项目归属，不证明 QL3D 供货或采购）
+  - [QL3D 官方联系页](https://ql3d.fr/content/20-nous-contacter)（公司一手公开通用联系信息；不证明采购职责或联系许可，本轮未触达）
+- 联系/评级边界：**未触达；无邮件、电话、寄样或报价；保持 C；未改主表。**
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="C-052"></a>
 ## C-052 · Sphinx France · 法国
 
-- 状态：**有URL但未逐项核实**
+- 状态：**R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-344`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：反向信号/2026-09
 - 官网线索（不自动背书其他字段）：sphinxfrance.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：https://sphinxfrance.com/Contact/
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 本地原始批次：`batch/C类AB标准加厚_2026-10-12_R73_第5批.json / records[1]`
+- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第5批.json`；检索日期：2026-10-12；10 条逐项证据、10 个分析维度。
+- 主要逐项来源：
+  - [法国政府 Annuaire des Entreprises（INSEE/INPI 等公共登记汇总）](https://annuaire-entreprises.data.gouv.fr/entreprise/sphinx-connect-france-439398462)（政府登记一手汇总；法人及2024员工区间按页面统计口径解释）
+  - [Sphinx France 官方公司介绍页](https://sphinxfrance.com/Prendre-contact/A-propos/)（公司一手自述/营销规模；不证明审计库存、销售额、客户合同或实时可用量）
+  - [Sphinx France 官方 Moxa 品牌页](https://sphinxfrance.com/Marques/Moxa/)（公司一手授权自述/产品营销；未由本次可读的 Moxa 官方名录独立确认）
+  - [Sphinx France 自营卖方商品页](https://sphinxfrance.com/moxa-eds-g308-switch-non-manageable-8-ports)（卖方一手网页标题/图片链接/报价入口快照；EN STOCK 未给件数或实时库存证明）
+  - [Moxa 官方产品系列规格页](https://www.moxa.com/en/products/industrial-network-infrastructure/ethernet-switches/unmanaged-switches/eds-g308-series)（制造商一手型号/端口/温度订货信息；按SKU精确区分）
+  - [Moxa 官方单型号规格页](https://www.moxa.com/en/products/industrial-network-infrastructure/ethernet-switches/unmanaged-switches/eds-g308-series/eds-g308)（制造商一手技术规格；不证明 Sphinx 实际库存、销售或采购）
+  - [Sphinx France 动态卖方报价页面](https://sphinxfrance.com/moxa-eds-g308-switch-non-manageable-8-ports)（卖方页面标题/询价数量选择；无可核实库存数、成交价、折扣或供货承诺）
+  - [Moxa 官方经销商定位器动态页面](https://www.moxa.com/en/how-to-buy/find-a-distributor?search=Sphinx&region=France)（制造商一手查询工具；本次静态抓取未渲染搜索结果，只记录查询限制，不做缺席推断）
+  - [Sphinx France 官方博客/卖方营销案例](https://blog.sphinxfrance.com/actualite-iiot-cybersecurite/cybersecurite-reseau-ot-nis2/switches-industriels-moxa-integrer-la-cybersecurite-au-coeur-de-votre-reseau-ot/)（公司自述且客户匿名；无独立项目验证，不能证明具名客户部署或交换机采购量）
+  - [Sphinx France 官方公司/联系页面](https://sphinxfrance.com/Prendre-contact/A-propos/)（公司公开通用联系信息；无采购职责证明，本轮未提交表单/未联系）
+- 联系/评级边界：**未触达；无邮件、电话、寄样或报价；保持 C；未改主表。**
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="C-053"></a>
 ## C-053 · Eptimo · 波兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-352`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：eptimo.pl
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 本地原始批次：`batch/C类AB标准加厚_2026-10-12_R73_第5批.json / records[2]`
+- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第5批.json`；检索日期：2026-10-12；10 条逐项证据、10 个分析维度。
+- 主要逐项来源：
+  - [波兰司法部 KRS 官方当前摘录 API](https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000640183?rejestr=P&format=json)（政府/司法登记一手来源；股权与股本按摘录字段记录）
+  - [Eptimo 官方 B2B 平台公司介绍](https://www.eptimo.com/en/b2b-platform/)（公司一手业务/库存价值自述；未独立审计，不说明品牌/品类库存构成）
+  - [Eptimo 官方 B2B 产品/品牌展示页](https://www.eptimo.com/en/b2b-platform/)（公司自营品牌图标/品类陈列；不能推断官方渠道等级、具体产品、库存或销售）
+  - [Eptimo 官方 B2B 平台合作/订购说明](https://www.eptimo.com/en/b2b-platform/)（公司一手网站访问/交易门槛说明；没有登录验证实时目录，本轮未创建账户）
+  - [Eptimo 官方合作政策页](https://www.eptimo.com/en/cooperation/)（公司一手B2B合作/供应商入口说明；不证明特定品牌或类别引入意向）
+  - [MikroTik 官方 Distributor 定位器动态页](https://mikrotik.com/buy?category=distributors&search=Eptimo)（制造商一手定位器的静态抓取结果；无可读记录卡，不能作为授权/非授权结论）
+  - [Eptimo 官方联系页](https://www.eptimo.com/en/contact-us/)（公司一手法人识别/通用联系信息；与KRS字段交叉匹配，不说明采购岗位）
+  - [Eptimo 官方 B2B 商务联系区](https://www.eptimo.com/en/b2b-platform/)（公司官网公开岗位/联系信息；职位不等于采购/供应商准入职责，本轮未联系）
+  - [Eptimo 官方关于页客户推荐语](https://www.eptimo.com/en/about-us/)（公司自行刊载的第三方客户评价；不独立证明具体产品、采购量或项目部署）
+  - [Eptimo 官方公开 Offer 页面](https://www.eptimo.com/en/offer/)（公司一手产品/品牌自述；旧版页面含 2019/01 图片资源，未列出不代表当前目录不存在）
+- 联系/评级边界：**未触达；无邮件、电话、寄样或报价；保持 C；未改主表。**
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="C-054"></a>
 ## C-054 · Maritex Leszek Łosin Sp.j. · 波兰
 
-- 状态：**有URL但未逐项核实**
+- 状态：**R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-359`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：ORing经销商名录/2026-09
 - 官网线索（不自动背书其他字段）：maritex.eu
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：https://www.maritex.eu/en/contact-us
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 本地原始批次：`batch/C类AB标准加厚_2026-10-12_R73_第5批.json / records[3]`
+- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第5批.json`；检索日期：2026-10-12；10 条逐项证据、10 个分析维度。
+- 主要逐项来源：
+  - [波兰司法部 KRS 官方当前摘录 API](https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000880720?rejestr=P&format=json)（政府/司法登记一手来源；注册主营/其他经营范围不等于当前实际业务收入构成）
+  - [Maritex 官方公司介绍页](https://www.maritex.eu/en/about-company)（公司一手业务/规模自述；数字未独立审计，不能等同于实时库存/财务）
+  - [Maritex 官方公司介绍页](https://www.maritex.eu/en/about-company)（公司一手市场/客户类别自述；不证明具体客户、项目或交换机采购）
+  - [ORing 官方 Europe Where to Buy 页面](https://oringnet.com/en/where-to-buy/europe)（制造商一手渠道名录；确认列名，不扩写合同等级/排他范围/有效期）
+  - [Maritex 自营卖方商品页](https://www.maritex.eu/en/product/oring-ies-1080a-industrial-communication)（卖方一手SKU/字段/询价入口；未公开实时库存或数字价格）
+  - [ORing 官方精确型号产品页](https://oringnet.com/en/products/industrial-ethernet-switch/12-ies-1080a)（制造商一手规格与当前下载索引；不证明 Maritex 实际采购/现货）
+  - [Maritex 自营商品页/附件索引](https://www.maritex.eu/en/product/oring-ies-1080a-industrial-communication)（卖方字段/文档标识存在错型或时效问题；精确规格以 ORing 对应SKU页为准）
+  - [Maritex 官方联系页](https://www.maritex.eu/en/contact-us)（公司公开部门级联系方式；不证明交换机买手/采购职责，不触达）
+  - [Maritex 自营商品页产品咨询区](https://www.maritex.eu/en/product/oring-ies-1080a-industrial-communication)（公司公开岗位/咨询联系人；不是已核实的买手或采购负责人，本轮未联系）
+  - [Maritex 自营商品页品牌说明](https://www.maritex.eu/en/product/oring-ies-1080a-industrial-communication)（公司/卖方对进口角色的自述；不扩写厂商合同权限或具体采购量）
+- 联系/评级边界：**未触达；无邮件、电话、寄样或报价；保持 C；未改主表。**
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="C-055"></a>
 ## C-055 · Tekniska Polska · 波兰
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-362`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：tekniska.pl
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 本地原始批次：`batch/C类AB标准加厚_2026-10-12_R73_第5批.json / records[4]`
+- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第5批.json`；检索日期：2026-10-12；9 条逐项证据、10 个分析维度。
+- 主要逐项来源：
+  - [波兰司法部 KRS 官方当前摘录 API](https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000383694?rejestr=P&format=json)（政府/司法登记一手来源；主营代码为登记口径，不推断收入/产品线占比）
+  - [Tekniska 官方公司介绍页](https://tekniska.pl/o-firmie/)（公司一手业务/行业定位自述；不是独立审计的销量或项目覆盖范围）
+  - [Westermo 官方 Where to Buy 渠道目录](https://www.westermo.com/contact/where-to-buy)（制造商一手渠道/服务名录；页面等级可核，具体 SKU 库存和采购量不可推出）
+  - [Tekniska 自营卖方产品页](https://tekniska.pl/produkty/redfox-5528-f16g-t12g-lv/)（卖方一手当前SKU目录/询价入口；不提供公开标价、成交价或实时库存数）
+  - [Westermo 官方精确型号产品规格页](https://www.westermo.com/products/ethernet-switches/rack/redfox-5528-f16g-t12g-lv)（制造商一手型号规格；不证明 Tekniska 当前现货/成交价/采购量）
+  - [Tekniska 官方案例研究页（ABB/AMM Force Measurement）](https://tekniska.pl/case-studies/asea-brown-boveri/)（公司一手项目自述/具名客户展示；未独立核实订单，不得扩写到精确5528型号或采购量）
+  - [Tekniska 卖方页与 Westermo 厂商页的商业入口](https://tekniska.pl/produkty/redfox-5528-f16g-t12g-lv/)（卖方/制造商询价入口快照；无公开价格或SKU级库存数量）
+  - [Tekniska 官方联系页/组织联系人页面](https://tekniska.pl/kontakt/)（公司公开部门及销售职务；不证明品类采购职责，本轮未联系）
+  - [Tekniska 官方管理层/合作伙伴介绍页](https://tekniska.pl/poznaj-nasz-zarzad/)（公司自述的历史/客户数和合作计划；无独立审计，也不等于新品牌采购需求）
+- 联系/评级边界：**未触达；无邮件、电话、寄样或报价；保持 C；未改主表。**
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="C-056"></a>

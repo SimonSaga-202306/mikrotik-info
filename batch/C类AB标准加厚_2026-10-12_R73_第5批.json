@@ -1,0 +1,682 @@
+{
+  "date": "2026-10-12",
+  "round": "R73 第 5 批（C-051—C-055）",
+  "scope": "承接 C-001—C-050 已覆盖记录，仅对 C-051—C-055 做公开资料研究；按 A/B 深度覆盖主体/业务、品牌与渠道、具体产品/技术、市场与项目证据、KP/采购链、SWOT、Saga 适配及未知项。每条事实保留可回查 URL、页面原文摘录、检索日期与来源级别，区分政府登记、公司自述、厂商名录、制造商规格、卖方页面、推断与未知。只研究，不联系客户、不发邮件/电话、不寄样、不询价/报价、不改变评级、CSV 或主表规则。动态价格/库存仅为 2026-10-12 网页快照；挂牌、标题或卖方品牌目录不证明成交价、实际库存、采购量或采购意向。",
+  "records": [
+    {
+      "code": "C-051",
+      "name": "QL3D",
+      "country": "法国",
+      "researched_on": "2026-10-12",
+      "round": "R73",
+      "section_title": "R73 A/B标准深度调研与加厚（仅研究，不触达）",
+      "evidence_title": "R73 原文证据摘录（逐项保留）",
+      "revised_city": "Bazainville（Yvelines）",
+      "revised_sub": "HMS/N-Tron工业通信渠道与公开系统集成项目；采购需求/品类买手未核",
+      "revised_type": "工业通信、环境监测与IoT专业分销/集成（HMS官方目录列Red Lion/N-Tron；单条渠道身份未细分）",
+      "revised_why": "【R73 公开复核】法国政府登记确认 QL3D 为电子/电信设备批发企业；HMS 官方目录直接列出 QL3D、Red Lion/N-Tron、法国及售前/售后支持，但该条没有分销商/伙伴细分类别。QL3D 当前目录展示 N-Tron 1008TX；制造商规格确认其 8×千兆、非网管、-40…+85°C 工业交换机，但制造商页面介绍段含一处“5-port”文字错误，须以 1008TX 型号与 8 口规格行交叉读取。2026 年 La Poste「Lab de l’Attention」是 QL3D 自述的真实集成案例：公司称其设计/集成定位系统并选用 Atop RHG7628 PoE 交换机；La Poste 官方资料仅独立确认 VivaTech 展示了 Attention Lab，不确认 QL3D 的分工/设备。QL3D 页面所载 ON Semiconductor 案例明确由 2Pnet 实施、使用 HW group，不归因于 QL3D。现行 1008TX 页面只引导询价，旧 CSV 中“约 $500+ 对 $64”及同规格/第二来源结论本轮没有现价与完整规格支持；有公开通用邮箱但无已核实交换机买手/采购需求，保持 C，不改 CSV/主表，未触达。",
+      "contact_summary": "QL3D 当前联系页公开通用邮箱 info@ql3d.fr、总机 +33 1 34 91 90 20 与联系表单（周一至周五 9:00–12:30、14:00–17:00）；未发现具名交换机采购/品牌准入联系人。联系渠道仅作公开登记，本轮未联系。",
+      "revised_angle": "只保留渠道与技术覆盖情报：N-Tron 1008TX 是当前卖方目录条目，La Poste 案例说明 QL3D 有系统集成能力；两者均不证明其需要第二来源、已有采购缺口或愿意新增品牌。页面未给当前价格/库存数量；不沿用 CSV 的价差或“同规格”销售论点，也不建立未逐项核对的 Saga 对照。",
+      "dimensions": {
+        "法定主体与登记规模": "法国政府企业目录将 QL3D（SIREN 429 607 740）列为在营 SARL，主营电子与电信设备批发；注册地址 9 chemin de la Fosse, 78550 Bazainville；2024 年员工区间 6–9 人，4 个登记机构中 1 个在营。政府登记用于核实主体和统计口径，不等于网站所述的服务覆盖/销量。",
+        "业务模式与公司自述": "QL3D 官网自述主营工业连接、环境监测与 IoT，产品涉及 IP/4G 传感器、LoRaWAN、工业交换机、蜂窝路由器、串口/协议网关等；自报数千个型号、26 年经验、法语售前/售后技术支持、库存或按单供货及 24 小时报价。这些均为公司营销自述，不代表每款 SKU 实时现货或实际销售额。",
+        "品牌组合与HMS官方渠道记录": "HMS Networks 官方定位器列 QL3D（France），品牌 Red Lion/N-Tron，产品类别含 Switches & Infrastructure，并列售前及售后支持。定位器总体覆盖 distributor 与 partner，而 QL3D 单条未标具体子类别；据此只确认厂商目录列名，不推断授权合同、独家范围、分销等级或采购量。",
+        "当前N-Tron卖方目录与供货边界": "QL3D 自营目录现列 HMS Networks–N-Tron 1008TX，SKU 1008TX，标为需索取信息/报价；页面未公开数字价格或库存数量。旧 CSV 中的约 $500+ 不能由本次现行页面复核，也不是本批确认的成交价或采购成本。",
+        "1008TX制造商规格与页面内部不一致": "HMS 产品页型号和技术规格列 8×10/100/1000BaseT RJ45、最高 16 Gb/s、DIN 金属外壳、10–49 VDC、IP20、-40…+85°C、3 年质保；同一页介绍段另有一句“Unmanaged 5-port”，与 1008TX 名称及规格表的 8 口冲突。使用具体 SKU/规格表，不把错误的 5-port 文字当成产品事实。",
+        "La Poste Attention Lab项目（公司自述）": "QL3D 2026-09-09 的公司案例称其为 La Poste 项目的室内定位基础设施设计者/集成者；文章列出 Atop RHG7628 管理型 L3 PoE 工业交换机、Robustel 5G 路由器、BLE/UWB 锚点等。该案例支持 QL3D 具有方案集成能力，但不能证明 QL3D 对交换机的采购方式、数量或品牌供应关系。",
+        "La Poste官方来源的交叉验证范围": "La Poste Groupe 2026 VivaTech 官方资料确认 The Attention Lab 属于其展出内容，活动日期为 2026-06-17 至 06-20；该独立客户侧资料未列 QL3D、Atop 型号或采购合同，故仅交叉验证项目/展项存在，不独立证实 QL3D 具体交付角色。",
+        "ON Semiconductor页面的归属校正": "QL3D 网站托管的 2024-02-12 文章标为 HW group 厂商博客案例，并明确写明 ON Semiconductor Czech Republic 项目实施方是 2Pnet s.r.o.、所用设备来自 HW group。该文不是 QL3D 对 ON Semiconductor 供货、交换机安装或采购行为的证明。",
+        "公开KP/采购链与联系边界": "当前公司联系页有通用邮箱/总机及技术询问、报价表单；本轮未找到具名工业交换机买手、采购负责人或品牌准入岗位。公开邮箱不是触达许可，也不能将业务联系入口等同采购链。",
+        "SWOT、Saga适配与证据边界": "优势：HMS 官方目录列名、现行 N-Tron 交换机 SKU、公司自述技术支持，以及一个具名客户的系统集成案例。风险/竞合：已有 Red Lion/N-Tron 产品目录，且项目中使用 Atop 工业交换机；未找到公开成交价、稳定库存、销售量或新品牌需求。可能互补只是推断；没有 SKU 对 SKU 的完整性能/价格核验，评级保持 C。"
+      },
+      "kp": [],
+      "facts": [
+        {
+          "dim": "法定主体、行业与员工区间",
+          "text": "法国政府企业目录记录 QL3D（SIREN 429 607 740）为在营 SARL，注册地址 Bazainville；主营电子及电信设备批发，2024 年员工区间 6–9 人。",
+          "quote": "La société QL3D a été créée le 21 février 2000. Sa forme juridique est Société à responsabilité limitée (sans autre indication). Son domaine d’activité est : commerce de gros (commerce interentreprises) de composants et d’équipements électroniques et de ,télécommunication. En 2024, elle était catégorisée Petite ou Moyenne Entreprise. Elle comptait 6 à 9 salariés.\nSIREN\n429 607 740\nSIRET du siège social\n429 607 740 00041\n9 CHEMIN DE LA FOSSE 78550 BAZAINVILLE",
+          "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/ql3d-429607740",
+          "source_type": "法国政府 Annuaire des Entreprises（INSEE/INPI 等公共登记汇总）",
+          "source_level": "政府登记一手汇总页面；主体字段和 2024 年员工区间按登记统计口径解释",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "QL3D官网业务与规模自述",
+          "text": "QL3D 官网自述覆盖工业连接、环境监测、IoT、传感器、LoRaWAN、工业交换机、蜂窝路由器与协议网关，并称有数千产品、法语售前/售后支持、库存或按单供货、24 小时报价；未给实时库存数量或审计口径。",
+          "quote": "Connectivité industrielle, supervision environnementale et IoT...\nCapteurs, entrées/sorties, LoRaWAN, routeurs cellulaires, switchs : des milliers de références, avec un conseil technique en français avant et après l'achat.\nDes milliers de références en stock ou sur commande\n26 ans d'expertise\nDevis sous 24h",
+          "url": "https://ql3d.fr/",
+          "source_type": "QL3D 官方公司首页",
+          "source_level": "公司一手自述/营销展示；目录规模、库存/交期与服务承诺未独立审计",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "HMS官方渠道目录中的QL3D记录",
+          "text": "HMS Networks 官方定位器在 France 列出 QL3D，关联 Red Lion/N-Tron、交换机/基础设施产品以及售前和售后支持；单条记录未细分 distributor 或 partner 身份。",
+          "quote": "Find distributor or partner\nRed Lion, N-Tron\nQL3D\nFrance\nAvailable support:\nPre-sales support\nAfter-sales support",
+          "url": "https://www.hms-networks.com/contact/find-distributor?indexCatalogue=partner-company&searchQuery=QL3D&wordsMode=AllWords&sf_culture=en&orderBy=OrderBy%20extended&page=1",
+          "source_type": "HMS Networks 官方 distributor/partner 定位器",
+          "source_level": "制造商一手渠道名录；厂商确认目录列名/品牌和支持信息，具体合同子类别未标注",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "QL3D当前N-Tron 1008TX商品页与价格边界",
+          "text": "QL3D 卖方页当前列 N-Tron 1008TX，页面按钮为询价/索取信息，未公开数字价格或库存数；不能据此支持主表旧价差/同规格说法。",
+          "quote": "# HMS Networks - N-Tron 1008TX\nSwitch industriel non manageable N-Tron 1008TX : 8 ports Gigabit 10/100/1000BaseT RJ-45, DIN-rail, fonctionnement -40°C à +85°C, alimentation redondante.\nDemande d'informations / de devis\nSKU:1008TX",
+          "url": "https://ql3d.fr/switchs-ethernet-industriels/11827-hms-networks-n-tron-1008tx.html",
+          "source_type": "QL3D 自营卖方商品页",
+          "source_level": "卖方一手 SKU/商品展示快照；询价入口不等于价格、实时库存、成交或采购量",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "N-Tron 1008TX厂商产品规格及页面内部错误",
+          "text": "HMS 厂商产品页的型号与详细参数给出 8 口千兆工业交换机、16 Gb/s、10–49 VDC、IP20、-40…+85°C、DIN 与 3 年质保；同页一句介绍写成 5-port，与 1008TX 的型号和规格行不一致，按型号及详细规格行记录。",
+          "quote": "N-Tron® 1008TX Unmanaged 8-port Gigabit Industrial Ethernet Switch\nThe N-Tron® Unmanaged 5-port Gigabit Industrial Ethernet Switch meets data acquisition needs easily.\nEight 10/100/1000BaseT RJ-45 ports.\nMaximum switch throughput up to 16.0 Gb/s.\nOperating temperature of -40 °C to 85 °C.\nRedundant power inputs (10-49 VDC)\nProtection Class IP\nIP20\nWarranty (years)\n3",
+          "url": "https://www.hms-networks.com/p/1008tx-n-tron-1008tx-unmanaged-8-port-gigabit-industrial-ethernet-switch",
+          "source_type": "HMS Networks/N-Tron 官方产品页",
+          "source_level": "制造商一手规格；页面介绍段含与型号/详细端口表冲突的 5-port 文案，已明确标注，不隐去错误",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "La Poste Attention Lab中QL3D自述角色与Atop交换机",
+          "text": "QL3D 公司 2026-09-09 文章自述其为 La Poste Attention Lab 室内定位基础设施的设计与集成方，并列出 Atop RHG7628 L3 PoE 工业交换机；属于 QL3D 自述项目分工/设备清单，不是供应商发票或采购量证明。",
+          "quote": "09/09/2026 11:17:13\nQL3D, notre équipe : est le concepteur et intégrateur de l'infrastructure de localisation indoor qui constitue le cœur technique du projet.\nSwitch industriel modulaire manageable niveau 3 Atop Technologies RHG7628 : assure l’orchestration de l’ensemble du réseau local\nGrâce à sa fonctionnalité d’alimentation PoE (Power over Ethernet)",
+          "url": "https://ql3d.fr/actualit%C3%A9s/30_le-lab-de-l-attention-ce-que-nous-avons-const.html",
+          "source_type": "QL3D 官方客户案例/项目文章",
+          "source_level": "公司一手项目自述；未独立核实 QL3D 采购/转售 Atop 设备及项目金额/数量",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "La Poste官方资料对Attention Lab展项的有限交叉核验",
+          "text": "La Poste Groupe 官方 2026 VivaTech press kit 将 The Attention Lab 列入 La Poste at VivaTech 2026 展项表并标出活动日期；该资料只独立核验展项/活动存在，不说明 QL3D 角色、Atop/RHG7628 设备或采购合同。方括号为摘录省略。",
+          "quote": "VivaTech 2026\nVIVATECH\n17–20 JUNE 2026 / PARIS\n[...]\nThe Attention Lab",
+          "url": "https://www.lapostegroupe.com/assets/media/le-groupe-laposte/ajDsl41P9HI4UjLE_Press_kit_La_Poste_Groupe_VT26.pdf",
+          "source_type": "La Poste Groupe 官方 VivaTech 2026 press kit",
+          "source_level": "具名客户/项目主办方一手资料；独立确认展项与日期，但未确认 QL3D 供货、角色或设备型号",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "ON Semiconductor项目的实际实施方校正",
+          "text": "QL3D 托管的 2024 年厂商博客转载明确说 ON Semiconductor Czech Republic 项目由 2Pnet s.r.o. 实施并使用 HW group 设备；不可将该案例记为 QL3D 的客户交换机项目。",
+          "quote": "12/02/2024 16:37:17\nLa société 2Pnet s.r.o. a été sélectionnée pour mettre en œuvre le projet. Leur système, basé sur les produits de HW group\nDes composants fiables de HW group s.r.o. ont été utilisés pour ce système",
+          "url": "https://ql3d.fr/actualit%C3%A9s/17_le-systeme-wld-surveille-les-fuites-de-fluides-dans-l-installation-de-fabrication-de-semi-conducteurs-d-onsemi.html",
+          "source_type": "QL3D 网站转载的 HW group 厂商案例文章",
+          "source_level": "厂商案例转载/第三方实施方归属明确；只用于校正项目归属，不证明 QL3D 供货或采购",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "公开通用联系入口（非采购KP）",
+          "text": "QL3D 当前联系页公开通用 info@邮箱、公司总机与工作时间，并称可咨询技术/报价；未发现交换机买手姓名或采购职责。",
+          "quote": "Par téléphone\n01 34 91 90 20\nDu lundi au vendredi, 9h–12h30 / 14h–17h.\nPar email\ninfo@ql3d.fr\nPour toute demande générale, devis ou documentation.",
+          "url": "https://ql3d.fr/content/20-nous-contacter",
+          "source_type": "QL3D 官方联系页",
+          "source_level": "公司一手公开通用联系信息；不证明采购职责或联系许可，本轮未触达",
+          "retrieved_on": "2026-10-12"
+        }
+      ],
+      "assessment": "保持 C。已确认 QL3D 是小型法国工业/IoT 分销商，并出现在 HMS 的 Red Lion/N-Tron 官方渠道目录；现行目录有 1008TX。新发现的 La Poste 案例支持公司具备定位/通信系统集成能力，但项目交换机为 Atop RHG7628，且没有 QL3D 采购/转售证据。ON Semiconductor 文章归属 2Pnet/HW group。现有 N-Tron 产品线构成竞合，公开价格、库存数量、销量、具体买手及新品牌需求未知；不采信 CSV 的约价差/同规格结论，不因公开邮箱或项目自动升档，未改 CSV/评级，未触达。",
+      "next_steps": [
+        "如继续，只使用可公开回查的公司/厂商页面；需把 1008TX 与任一 Saga SKU 的端口、供电、温度、安装、认证、质保逐项核对后才能比较，本批不报价、不联系。",
+        "后续若需确认 HMS 具体合同类别，应等待官方目录明确显示或获得另行授权后的正式书面材料；本批不把 distributor/partner 总目录列名扩写为独家/主分销。",
+        "继续将 La Poste 项目、2Pnet 的 ON Semiconductor 项目、N-Tron 商品目录分别标注，不互相替代为采购或销售证明。"
+      ],
+      "unknowns": [
+        "HMS 与 QL3D 的具体合同类别、授权区域/产品范围、独家性与有效期；官方单条目录没有 distributor/partner 子类别。",
+        "N-Tron 1008TX 与 Atop RHG7628 的实际库存、成交价、QL3D 采购量及 La Poste 项目的交换机采购来源/数量。",
+        "QL3D 的工业交换机品类买手、供应商准入流程、当前新品牌需求及是否接受第二来源。",
+        "CSV 中 N-Tron 约价及 Saga 价格的原始可比报价条件、有效期、运费/税费和技术等同性；本批均未复核。"
+      ]
+    },
+    {
+      "code": "C-052",
+      "name": "Sphinx France",
+      "country": "法国",
+      "researched_on": "2026-10-12",
+      "round": "R73",
+      "section_title": "R73 A/B标准深度调研与加厚（仅研究，不触达）",
+      "evidence_title": "R73 原文证据摘录（逐项保留）",
+      "revised_city": "Montaigu-Vendée",
+      "revised_sub": "Moxa工业网络目录/EDS-G308商品重叠；授权范围、现货数量与买手未核",
+      "revised_type": "OT/IIoT与工业网络专业分销（Moxa官方分销为公司自述；厂商动态定位器本次未能独立确认）",
+      "revised_why": "【R73 公开复核】政府登记主体为 SPHINX CONNECT FRANCE，2024 年员工区间 20–49 人；公司官网自述 12,000+ 库存参考、2,500+ 集成商/分销商客户及工业、交通、能源、智慧城市等市场，属于公司自述。Sphinx 的 Moxa 品牌页称其为法国官方分销商，但本次 Moxa 官方定位器是需要地区/邮编/产品类别的动态页面，抓取仅得到加载占位，未能独立复核该关系；不据此判定授权存在或不存在。Sphinx 当前 EDS-G308 页标题写 8 口且标 EN STOCK，页图文件名为 eds-g308-2sfp-t.jpg；商品正文实际说明是 EDS-G308/G308-T 8×RJ45，而 -2SFP 版本是 6×RJ45+2×combo，厂商官方系列表支持此区分。基础 EDS-G308 标准温度为 -10…+60°C，只有 -T 为 -40…+75°C。页标题库存没有数量，选择框是报价数量，页面无公开价格；不可把家族端口或宽温规格套给基础 SKU，也不据此主张即刻有货。2025 博客的能源/矿业客户未具名，属于卖方营销自述。无已核实交换机采购人/新增品牌需求，保持 C，不改主表。",
+      "contact_summary": "Sphinx 官方关于页公开 Montaigu、Paris、Lyon 三地电话 +33 2 51 09 26 60 / +33 1 83 64 64 06 / +33 4 82 53 52 53，并提供官网表单；本轮未找到公开具名交换机采购人或通用邮箱。页面显示的是公开咨询入口，不构成触达许可，未提交表单/未联系。",
+      "revised_angle": "只把 Sphinx 当前展示 Moxa EDS-G308 记为目录/竞合证据。该页是型号家族描述，产品页标题、页图文件名、SKU 变体不能混为一谈；EN STOCK 无数量、报价需通过表单，不等于可核实的现货或成交价。Moxa 授权关系仅有公司自述，官方动态定位器本次未完成确认；不以第二供应源、价差或明确需求作为切入口。",
+      "dimensions": {
+        "法定主体与登记规模": "法国政府目录记录 SPHINX CONNECT FRANCE（SIREN 439 398 462）为在营 SAS，主营计算机/外围设备/软件批发，注册地址 Montaigu-Vendée；2024 年员工区间 20–49 人。此为法人统计口径，不等于公司网站宣称的客户/库存规模。",
+        "公司业务与市场自述": "Sphinx 公司页将自身定位为 OT 网络、工业 IoT、OT 网络安全分销商，服务工业、公共部门/地方政府、交通、智慧城市、铁路、能源与工业 4.0；自述 12,000+ references in stock、2,500+ integrators/distributors clients、法国及德国仓储与售前/售后工程支持。上述规模、库存与客户数量没有独立审计。",
+        "Moxa品牌/授权的证据级别": "Sphinx 当前 Moxa 品牌页写明“distributeur officiel de Moxa en France”，属于公司自述。Moxa 官方 Find a Distributor 页面本次通过 Sphinx 查询参数抓取时仍要求地区/邮编/产品类别，显示加载占位，没有可读到的 Sphinx 记录；因此厂家侧授权状态仍未核，不能把动态抓取空白说成不存在。",
+        "Sphinx EDS-G308商品页的型号/页图边界": "卖方页面标题为 Moxa EDS-G308 - 8 ports，标题含 EN STOCK；页图 URL 文件名为 eds-g308-2sfp-t.jpg，和标题的基础 EDS-G308 SKU 不一致。页面正文是系列级描述并引导报价；页图文件名本身不能证明基础型号的实物图片或实时库存。",
+        "EDS-G308系列端口变体（制造商核验）": "Moxa 官方系列页明确：EDS-G308/G308-T 是 8 个 10/100/1000BaseT(X) RJ45；EDS-G308-2SFP/G308-2SFP-T 是 6 个 RJ45 加 2 个 combo（铜/100/1000SFP）。因此“8 RJ45”和“2光纤combo”属于不同 SKU 组合，不能表述成基础 EDS-G308 同时具有 8 RJ45+2 SFP。",
+        "基础EDS-G308准确技术规格": "Moxa 官方基础 SKU 页列 8×千兆 RJ45、非网管、冗余 12/24/48VDC、IP30、DIN 导轨/选配壁挂、标准工作温度 -10…+60°C；EDS-G308-T 才是 -40…+75°C。技术规格来自制造商，不把 -T 的温度套给标准款。",
+        "商品库存/报价快照": "Sphinx 商品标题写 EN STOCK，页面只有报价请求及 1–100 的数量输入；抓取页面没有可核实的库存件数或公开价格。数量输入是用户申请报价的数量选择，不是库存量；不代表实时可售或采购价。",
+        "匿名市场案例的证据边界": "Sphinx 2025-09-22 博客介绍 Moxa EDS-4000/G4000，讲述未具名的可再生能源生产者及欧洲矿业集团案例并给出产能/覆盖数字；没有客户名称、可追溯独立项目页面或采购数据。按卖方营销案例自述，不作具名客户部署或订单证明。",
+        "关键人/采购链与公开联系": "当前公司关于页提供区域总机/联系表单；本轮未找到公开的交换机类目买手、采购或供应商准入负责人。产品咨询表单覆盖多个行业，但不是特定采购需求。",
+        "SWOT、Saga适配与待核事项": "优势：政府登记主体明确、工业网络专业定位、Moxa 商品页呈现工业交换机系列规格及公司宣称库存/支持。风险：Moxa官方渠道合同未独立确认；当前产品页规格覆盖多个家族SKU，库存标题无数量、无公开价；既有 Moxa 组合存在竞合。可能互补只是推断；无采购量/买手/新品牌需求，保持 C。"
+      },
+      "kp": [],
+      "facts": [
+        {
+          "dim": "SPHINX CONNECT FRANCE政府登记",
+          "text": "法国政府企业目录确认 SPHINX CONNECT FRANCE（SIREN 439 398 462）为在营 SAS，2024 年员工区间 20–49 人，注册地址 Montaigu-Vendée。",
+          "quote": "La société SPHINX CONNECT FRANCE a été créée le 1 octobre 2001. Sa forme juridique est SAS, société par actions simplifiée. Son domaine d’activité est : commerce de gros (commerce interentreprises) d’ordinateurs, d’équipements informatiques périphériques et de logiciels. En 2024, elle était catégorisée Petite ou Moyenne Entreprise. Elle comptait 20 à 49 salariés.\nSIREN\n439 398 462\nSIRET du siège social\n439 398 462 00044\nPARC DE LA BRETONNIERE 85600 MONTAIGU-VENDEE",
+          "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/sphinx-connect-france-439398462",
+          "source_type": "法国政府 Annuaire des Entreprises（INSEE/INPI 等公共登记汇总）",
+          "source_level": "政府登记一手汇总；法人及2024员工区间按页面统计口径解释",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "公司定位、库存与客户规模自述",
+          "text": "Sphinx 关于页自称专注 OT/IIoT/OT 网络安全分销，12,000+ 参考商品在库、2,500+ 集成商/分销商客户，服务工业、交通、能源及智慧城市；数字均未独立审计。",
+          "quote": "SPHINX France Connect est un distributeur spécialisé en réseaux OT, IoT industriel et cybersécurité OT\nNous proposons plus de 12 000 références en stock\nplus de 2 500 clients intégrateurs et distributeurs en France\nSmart City\nMobilité & transport\nÉnergie\nIndustrie 4.0",
+          "url": "https://sphinxfrance.com/Prendre-contact/A-propos/",
+          "source_type": "Sphinx France 官方公司介绍页",
+          "source_level": "公司一手自述/营销规模；不证明审计库存、销售额、客户合同或实时可用量",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Moxa授权身份为公司自述",
+          "text": "Sphinx 的 Moxa 品牌页自称是法国官方分销商并宣称提供库存与 OT/网络安全工程师支持；本次没有独立厂商目录记录可读，故授权等级只记公司自述。",
+          "quote": "Sphinx France, distributeur officiel de Moxa en France, garantit stock disponible et accompagnement technique par des ingénieurs OT/cybersécurité.",
+          "url": "https://sphinxfrance.com/Marques/Moxa/",
+          "source_type": "Sphinx France 官方 Moxa 品牌页",
+          "source_level": "公司一手授权自述/产品营销；未由本次可读的 Moxa 官方名录独立确认",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Sphinx EDS-G308页图、标题与报价入口",
+          "text": "Sphinx 商品页标题为基础 EDS-G308、8 ports、EN STOCK；页图资产文件名为 eds-g308-2sfp-t.jpg。页首营销句把基础型号与 -40…+75°C 并列，但其后精确型号表说明宽温只属于 -T 变体；页面无库存数量/价格并导向询价。图片文件名仅证明页面引用的资产名称，不单独证明实物图。",
+          "quote": "![Moxa EDS-G308 - Switch non manageable 8 ports](https://sphinxfrance.com/media/76/dc/97/1789385958/eds-g308-2sfp-t.jpg)\n# Moxa EDS-G308 - Switch non manageable 8 ports\nDécouvrez le Switch Gigabit Moxa EDS-G308 : 8 ports non manageable, robustesse IP30 (-40 à 75 °C), alimentation redondante et options fibre.\nLe Switch industriel Moxa EDS-G308 prend en charge jusqu’à 8 ports 10/100/1000BaseT(X), avec une variante proposant 6 ports RJ45 et 2 ports combo",
+          "url": "https://sphinxfrance.com/moxa-eds-g308-switch-non-manageable-8-ports",
+          "source_type": "Sphinx France 自营卖方商品页",
+          "source_level": "卖方一手网页标题/图片链接/报价入口快照；EN STOCK 未给件数或实时库存证明",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Moxa官方EDS-G308家族型号端口表",
+          "text": "Moxa 厂商系列页区分基础 8 RJ45 型号与 2SFP 型号：后者是 6 RJ45+2 combo，不是基础 EDS-G308 的 8 RJ45 外加 2 SFP。标准款温度 -10…+60°C，-T 型号 -40…+75°C。",
+          "quote": "10/100/1000BaseT(X) Ports (RJ45 connector)\nEDS-G308/G308-T: 8\nEDS-G308-2SFP/G308-2SFP-T: 6\nCombo Ports (10/100/1000BaseT(X) or 100/1000BaseSFP+)\nEDS-G308-2SFP: 2\nEDS-G308-2SFP-T: 2\nStandard Models: -10 to 60°C (14 to 140°F)\nWide Temp. Models: -40 to 75°C (-40 to 167°F)",
+          "url": "https://www.moxa.com/en/products/industrial-network-infrastructure/ethernet-switches/unmanaged-switches/eds-g308-series",
+          "source_type": "Moxa 官方产品系列规格页",
+          "source_level": "制造商一手型号/端口/温度订货信息；按SKU精确区分",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "基础SKU EDS-G308制造商规格",
+          "text": "Moxa 基础 SKU 页列非网管 8×10/100/1000BaseT(X)、冗余 12/24/48VDC、IP30、DIN rail 安装和 -10…+60°C 标准温度；-T 扩温型号另列。",
+          "quote": "EDS-G308\nUnmanaged full Gigabit Ethernet switch with 8 10/100/1000BaseT(X) ports, 0 to 60°C operating temperature\n10/100/1000BaseT(X) Ports (RJ45 connector)\n8\nInput Voltage\n12/24/48 VDC\nRedundant dual inputs\nIP Rating\nIP30\nStandard Models: -10 to 60°C (14 to 140°F)",
+          "url": "https://www.moxa.com/en/products/industrial-network-infrastructure/ethernet-switches/unmanaged-switches/eds-g308-series/eds-g308",
+          "source_type": "Moxa 官方单型号规格页",
+          "source_level": "制造商一手技术规格；不证明 Sphinx 实际库存、销售或采购",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "EN STOCK标题与实际库存/价格区别",
+          "text": "Sphinx 标题带 EN STOCK，页面报价流程提供 1–100 数量选项并写“Ajouter à la demande de devis”；数量为询价输入，不是在线库存计数，页面没有公开数字价格。",
+          "quote": "Moxa EDS-G308 - Switch non manageable 8 ports | EN STOCK\n1\n2\n3\n...\n99\n100\nAjouter à la demande de devis",
+          "url": "https://sphinxfrance.com/moxa-eds-g308-switch-non-manageable-8-ports",
+          "source_type": "Sphinx France 动态卖方报价页面",
+          "source_level": "卖方页面标题/询价数量选择；无可核实库存数、成交价、折扣或供货承诺",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Moxa官方定位器本次动态抓取未完成验证",
+          "text": "Moxa 的官方经销商定位器显示需选择地区、ZIP code 与产品类别，页面抓取只呈现 updating 加载占位；未得到可读的 Sphinx 结果。该状态不证明 Sphinx 不在名录或不是授权渠道。",
+          "quote": "Find a Distributor\nSearch by distributor name\nRegion*\nZIP Code* ZIP code is required.\nChoose Product Categories\nYou must choose at least one category\npage is updating",
+          "url": "https://www.moxa.com/en/how-to-buy/find-a-distributor?search=Sphinx&region=France",
+          "source_type": "Moxa 官方经销商定位器动态页面",
+          "source_level": "制造商一手查询工具；本次静态抓取未渲染搜索结果，只记录查询限制，不做缺席推断",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "2025 Moxa OT案例为匿名卖方营销材料",
+          "text": "Sphinx 2025-09-22 博客用“可再生能源生产者”和“欧洲矿业集团”作匿名案例，声称部署 EDS-4000/PT-G503 并给出产能数据；无客户名称、独立客户来源或采购数据，按卖方营销自述保存。",
+          "quote": "Producteur d'énergie renouvelable\nSolution : Déploiement des Switches Ethernet Moxa EDS-4000 certifiés IEC 62443-4-2, distribués et supportés par SPHINX France.\nRésultat : Une production fiable de 340 MWh par jour, alimentant plus de 95 000 foyers\nGroupe minier européen\nSolution : Installation d'un réseau uniforme avec des Switches industrie EDS-4000 et PT-G503 de Moxa",
+          "url": "https://blog.sphinxfrance.com/actualite-iiot-cybersecurite/cybersecurite-reseau-ot-nis2/switches-industriels-moxa-integrer-la-cybersecurite-au-coeur-de-votre-reseau-ot/",
+          "source_type": "Sphinx France 官方博客/卖方营销案例",
+          "source_level": "公司自述且客户匿名；无独立项目验证，不能证明具名客户部署或交换机采购量",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "公开联系方式与采购岗位边界",
+          "text": "Sphinx 关于页公开 Montaigu、Paris、Lyon 电话及联系表单；本次未发现具名交换机买手/采购职责或通用邮箱。",
+          "quote": "Siège : 02 51 09 26 60 · Paris : 01 83 64 64 06 · Lyon : 04 82 53 52 53 · Formulaire : Prendre-contact",
+          "url": "https://sphinxfrance.com/Prendre-contact/A-propos/",
+          "source_type": "Sphinx France 官方公司/联系页面",
+          "source_level": "公司公开通用联系信息；无采购职责证明，本轮未提交表单/未联系",
+          "retrieved_on": "2026-10-12"
+        }
+      ],
+      "assessment": "保持 C。主体与 OT/IIoT 专业分销定位、Moxa EDS-G308 系列的商品展示和型号规格已核。Sphinx“法国官方分销商”是公司自述，本次 Moxa 官方动态定位器没有输出可读结果，授权范围仍未知。商品标题的 EN STOCK 无件数或公开价格；页图文件名和基础型号标题不一致，且 8 RJ45 与 6 RJ45+2 combo、标准温度与 -T 扩温必须按 SKU 区分。博客的能源/矿业案例匿名且为卖方营销文案。没有具名交换机买手、可比采购价/销量或新增品牌需求；不改 CSV/评级，不触达。",
+      "next_steps": [
+        "若后续仅做公开研究，按 Moxa 官方模型订货表分别记录 EDS-G308、EDS-G308-T、EDS-G308-2SFP、EDS-G308-2SFP-T；不得合并端口/温度属性。",
+        "Moxa 授权关系只有在官方定位器可读返回或另有可回查的厂商来源时再升级证据；本批不以动态页空白断定不存在。",
+        "任何将 Saga 与 Moxa 比较的结论都需取得逐 SKU 技术、价格和供货证据；不把页面标题库存或匿名案例当采购意向。"
+      ],
+      "unknowns": [
+        "Moxa 与 Sphinx 的当前授权/分销合同类别、法国区域/产品范围、有效期和官方名录状态。",
+        "EDS-G308 各 SKU 的当前件数、实际可售状态、净价/批发价、折扣、交期与采购量；页面只标 EN STOCK 并请求报价。",
+        "能源与矿业匿名案例的客户名称、项目合同/日期、Moxa 型号、采购数量及第三方佐证。",
+        "交换机品类买手、供应商准入、Sphinx 对新品牌或第二来源的真实需求。"
+      ]
+    },
+    {
+      "code": "C-053",
+      "name": "Eptimo",
+      "country": "波兰",
+      "researched_on": "2026-10-12",
+      "round": "R73",
+      "section_title": "R73 A/B标准深度调研与加厚（仅研究，不触达）",
+      "evidence_title": "R73 原文证据摘录（逐项保留）",
+      "revised_city": "Warszawa",
+      "revised_site": "eptimo.com",
+      "revised_sub": "IT B2B批发/再分销；MikroTik品牌出现在B2B平台，官方渠道等级与具体SKU未核",
+      "revised_type": "IT硬件B2B批发/再分销（当前官网/KRS为Eptimo S.A.；MikroTik官方等级未确认）",
+      "revised_why": "【R73 公开复核】波兰 KRS 当前摘录确认 EPTIMO SPÓŁKA AKCYJNA、华沙地址、802,990 PLN 实缴股本，并登记 SENETIC HOLDING S.A. 持有全部股份。当前 eptimo.com B2B 页面自称 IT wholesaler/reseller/sub-distributor，展示 MikroTik 品牌图标和网络/安全产品类别，但合作伙伴注册后才开放 SKU 供货、产品库存 feed 和批发价格；公开信息没有具体 MikroTik 交换机型号。旧 CSV 的 eptimo.pl 与“Master Distributor”说法不能由当前公开页面/官方定位器复核：MikroTik 查询抓取显示通用 No results found 和空白动态地图，无法据此判定渠道缺席或存在。公司页列 Head of Business Development & Sales 作为 B2B 商务入口，但没有证据表明其负责交换机采购/品牌准入。没有工业交换机 SKU、公开报价或需求证据，保持 C；只更新档案覆盖层的网站域名，不改 CSV/评级/主表，不联系。",
+      "contact_summary": "当前公司官网与 KRS 均指向 Eptimo S.A. / eptimo.com、Plac Bankowy 2, 00-095 Warszawa；官网公开 info@eptimo.com、总机 +48 22 123 69 00。B2B 页另列 Head of Business Development & Sales Maciej Wiszniewski，但不等于交换机买手；本轮未触达。",
+      "revised_angle": "只记录 Eptimo 公开 B2B 批发与 MikroTik 品牌目录信号。批发价/库存 feed 需要注册 B2B 帐户，且官方 MikroTik 定位器的动态查询本次不能确认其等级；不以旧 CSV 的 Master Distributor 结论、MikroTik 图片或 1,500 万欧元公司自述库存推断任何 MikroTik SKU 现货、采购量、工业交换机需求或第二来源机会。",
+      "dimensions": {
+        "法定主体、股权与注册地址": "波兰 KRS 0000640183 当前摘录记载 EPTIMO SPÓŁKA AKCYJNA，NIP 5472148020、REGON 243394597，注册地址 Warszawa, Plac Bankowy 2；登记的单一股东 SENETIC HOLDING S.A. 持有全部股份，实缴股本 802,990 PLN。KRS 页面网址和公司官网都指向 eptimo.com；主表旧 eptimo.pl 未在本批作网站依据。",
+        "当前业务模式与资金/仓储自述": "Eptimo 当前 B2B 平台自称 IT wholesale reseller and sub-distributor，提供分销、物流、金融服务并自报实物库存价值超过 EUR 15 million；该数字为公司自述，没有审计口径，不能套算为 MikroTik/交换机库存或采购能力。",
+        "产品/品牌线索及MikroTik边界": "2026版 B2B 平台在 Wireless Networking and Security Equipment 类别下展示 MikroTik 品牌图像，同时展示其他 IT 品牌；另一个仍可访问的 Offer 页把 WLAN/LAN/MAN 厂商列为 Allied Telesis、Cisco、Edimax、Juniper、Netgear、Ubiquiti、QNAP，但其图片路径为 2019/01，可能是较早/不同范围页面。该差异只增加目录时效不确定性；两页都未展示可核实的 MikroTik 工业交换机 SKU、库存/销量或官方授权等级。",
+        "B2B账户门槛与价格/库存可见性": "Eptimo 页面说明平台仅面向注册 B2B 合作伙伴；批发价格和运费需注册后可见，商品 feed/库存可用性也是已注册用户功能。本轮没有创建账户、登录或获取 feed，故无公开 SKU/标价/库存数量。",
+        "合作伙伴与供应商入口": "公司合作页面自述客户类型包括 reseller、VAR、integrator 和 distributor，也邀请 manufacturer/direct importer 就产品或合作方案联系。该页面说明其 B2B/供应商合作模式，不代表 Eptimo 对工业交换机或 Saga 有具体引入意向。",
+        "MikroTik官方定位器查询结果边界": "MikroTik 官方 Distributors 页面搜索 Eptimo 的静态抓取输出通用“No results found”及地图瓦片，没有可读结果卡；该页面依赖动态地图/前端搜索，当前抓取无法验证名单。因此不能据此断言 Eptimo 不是 reseller、MikroTik 官方 Master Distributor 或其他渠道类别。",
+        "现行域名与官方联系信息": "KRS 网站字段与 Eptimo 当前公司页均指向 eptimo.com；公司联系页的 KRS/NIP/REGON、Warszawa 地址与官方摘录相符。旧 CSV 使用 eptimo.pl，本批档案采用可回查的当前 .com 域名作为研究覆盖，不回写 CSV。",
+        "公开商务联系人（非采购确认）": "Eptimo B2B 页列 Maciej Wiszniewski 为 Head of Business Development & Sales，公开两组电话和公司邮箱；这是 B2B 商务发展/销售入口，没有证据表明其是交换机买手、采购审批人或 MikroTik 品类负责人。未联系。",
+        "市场/项目及证据等级": "Eptimo 关于页展示若干波兰 reseller/integrator 客户推荐语，属于 Eptimo 自行刊载的合作评价；未找到能与 MikroTik 工业交换机具体 SKU、项目部署、采购单或销量关联的具名案例。",
+        "SWOT、Saga适配与证据边界": "优势：官方 KRS 主体与控股关系明确，当前 B2B 模式面向 reseller/VAR/integrator/distributor，公开网络品牌组合含 MikroTik。风险：MikroTik 官方渠道等级、SKU、库存和价格均未知，具体报价被注册门槛遮挡。潜在工业交换机补充只是推断，没有供应商准入或需求证据；保持 C。"
+      },
+      "kp": [
+        {
+          "name": "Maciej Wiszniewski",
+          "role": "Head of Business Development & Sales（Eptimo B2B平台公开列名）",
+          "contact": "B2B页面公开 +48 503 776 389、+48 22 123 69 89、maciej.wiszniewski@eptimo.com；另有通用 info@eptimo.com",
+          "status": "公开B2B商务/销售联系人；未核实其负责网络交换机采购、MikroTik品类或品牌准入；本轮未联系",
+          "source": "https://www.eptimo.com/en/b2b-platform/"
+        }
+      ],
+      "facts": [
+        {
+          "dim": "波兰KRS主体、全资股东与实缴股本",
+          "text": "KRS 当前摘录记录 EPTIMO SPÓŁKA AKCYJNA、KRS 0000640183、Warszawa 地址；SENETIC HOLDING S.A. 为单一股东并持有全部股份，股本 802,990 PLN。",
+          "quote": "\"dataCzasOdpisu\": \"12.10.2026 07:40:32\"\n\"numerKRS\": \"0000640183\"\n\"formaPrawna\": \"SPÓŁKA AKCYJNA\"\n\"nazwa\": \"EPTIMO SPÓŁKA AKCYJNA\"\n\"ulica\": \"PLAC BANKOWY\", \"nrDomu\": \"2\", \"miejscowosc\": \"WARSZAWA\"\n\"nazwa\": \"SENETIC HOLDING SPÓŁKA AKCYJNA\"\n\"czyPosiadaCaloscAkcji\": true\n\"wysokoscKapitaluZakladowego\": {\"wartosc\": \"802990,00\", \"waluta\": \"PLN\"}",
+          "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000640183?rejestr=P&format=json",
+          "source_type": "波兰司法部 KRS 官方当前摘录 API",
+          "source_level": "政府/司法登记一手来源；股权与股本按摘录字段记录",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "当前B2B批发/再分销模式与公司自报库存价值",
+          "text": "Eptimo 当前 B2B 页面将自身描述为 wholesale IT reseller/sub-distributor，并自报实物库存超过 EUR 15m；该自报值没有独立审计，也不能推为某品牌或交换机品类库存。",
+          "quote": "Eptimo is a trusted wholesale IT reseller and sub-distributor with physical stock valued at over EUR 15 million.\nWe provide comprehensive IT distribution, logistics, and financial services worldwide.",
+          "url": "https://www.eptimo.com/en/b2b-platform/",
+          "source_type": "Eptimo 官方 B2B 平台公司介绍",
+          "source_level": "公司一手业务/库存价值自述；未独立审计，不说明品牌/品类库存构成",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "B2B网络品类与MikroTik品牌图标",
+          "text": "Eptimo 当前 B2B 平台的无线网络/安全设备产品类别品牌图列有 MikroTik 图像资产；此为公司平台品牌目录线索，不提供交换机型号/SKU，也不构成 MikroTik 官方授权证明。",
+          "quote": "![](https://www.eptimo.com/wp-content/uploads/2026/02/mikrotik.png)",
+          "url": "https://www.eptimo.com/en/b2b-platform/",
+          "source_type": "Eptimo 官方 B2B 产品/品牌展示页",
+          "source_level": "公司自营品牌图标/品类陈列；不能推断官方渠道等级、具体产品、库存或销售",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "价格、库存feed与SKU访问有B2B注册门槛",
+          "text": "Eptimo 说明只有注册 B2B 合作伙伴才能查看价格与下单，库存 feed 亦为登录后功能；本轮未注册或登录，没有公开到 MikroTik SKU、价格或数量。",
+          "quote": "For registered B2B partners only\nRegistration is required to access pricing and place orders.\nDownload our product feed with stock availability\nView product prices and shipping costs in accordance with wholesale & sub-distribution conditions",
+          "url": "https://www.eptimo.com/en/b2b-platform/",
+          "source_type": "Eptimo 官方 B2B 平台合作/订购说明",
+          "source_level": "公司一手网站访问/交易门槛说明；没有登录验证实时目录，本轮未创建账户",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "供应商合作政策与B2B客户类型",
+          "text": "Eptimo 公司合作页表示与 reseller、VAR、integrator、distributor 合作，并邀请 manufacturer/direct importer 提交合作方案；该邀请不是交换机新品导入或采购意向。",
+          "quote": "We specialize in working with resellers, VARs, integrators and distributors.\nIf you are a manufacturer or direct importer of products that fit into our business or have an idea for cooperation in another area, please contact us.",
+          "url": "https://www.eptimo.com/en/cooperation/",
+          "source_type": "Eptimo 官方合作政策页",
+          "source_level": "公司一手B2B合作/供应商入口说明；不证明特定品牌或类别引入意向",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "MikroTik官方分销定位器的动态查询快照",
+          "text": "对 MikroTik 官方 distributor 页面查询 Eptimo 与 Poland 页面，抓取页显示通用 No results found、地图瓦片且未返回名称卡片；由于搜索/地图依赖动态前端，本次无法确认该公司的名录身份，不能推断官方目录缺席。",
+          "quote": "# Distributors\nFor purchases of Hardware or MikroTik RouterOS please contact our Official Distributors\nPoland\nNo results found\nLeaflet | © OpenStreetMap contributors",
+          "url": "https://mikrotik.com/buy?category=distributors&search=Eptimo",
+          "source_type": "MikroTik 官方 Distributor 定位器动态页",
+          "source_level": "制造商一手定位器的静态抓取结果；无可读记录卡，不能作为授权/非授权结论",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "官网域名、公司地址与公开通用入口",
+          "text": "当前官网使用 eptimo.com，页眉/联系页显示 Eptimo S.A.、Plac Bankowy 2、Warszawa、KRS 0000640183，并公开通用邮箱和总机；与 KRS 地址和编号一致，CSV 的 eptimo.pl 未作为现行官网。",
+          "quote": "Eptimo S.A., Plac Bankowy 2, 00-095 Warszawa, Poland\nKRS: 0000640183\nREGON: 243394597\nNIP: 5472148020\ninfo@eptimo.com\n+48 (22) 123 69 00",
+          "url": "https://www.eptimo.com/en/contact-us/",
+          "source_type": "Eptimo 官方联系页",
+          "source_level": "公司一手法人识别/通用联系信息；与KRS字段交叉匹配，不说明采购岗位",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "公开B2B商务联系人与采购职责边界",
+          "text": "当前 B2B 页面列 Maciej Wiszniewski 为 Head of Business Development & Sales 并公开联系方式；这是商务发展/销售岗位，未发现其负责交换机采购或 MikroTik 品类的证据。",
+          "quote": "## Maciej Wiszniewski\nHead of Business Development & Sales\n+48 503 776 389\n+48 22 123 69 89\nmaciej.wiszniewski@eptimo.com",
+          "url": "https://www.eptimo.com/en/b2b-platform/",
+          "source_type": "Eptimo 官方 B2B 商务联系区",
+          "source_level": "公司官网公开岗位/联系信息；职位不等于采购/供应商准入职责，本轮未联系",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "公司自刊客户推荐语的证据级别",
+          "text": "Eptimo 关于页刊有波兰 reseller/integrator 客户对合作、处理订单/报价和服务的推荐语；未标具体 MikroTik 产品、交换机项目或公开统计时期，属于公司自刊客户评价。",
+          "quote": "Operating in a difficult investment market, the credibility of our partners is important to us. In this regard, Eptimo stands out for its approach to business and sets new standards.\nRafał Pastusiak, Dyrektor Oddziału Aicom Sp. z o.o.",
+          "url": "https://www.eptimo.com/en/about-us/",
+          "source_type": "Eptimo 官方关于页客户推荐语",
+          "source_level": "公司自行刊载的第三方客户评价；不独立证明具体产品、采购量或项目部署",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "旧版公开Offer页的网络品牌清单（与B2B图标分开）",
+          "text": "Eptimo 仍可访问的公开 Offer 页称其提供 WLAN/LAN/MAN 网络设备，列 Allied Telesis、Cisco、Edimax、Juniper、Netgear、Ubiquiti、QNAP；该页图片路径为 2019/01，未列 MikroTik。较旧页面的品牌遗漏不能证明当前 B2B 平台停售 MikroTik；仅记录页面范围/时效差异。",
+          "quote": "We offer equipment for the creation of WLAN, LAN and MAN wireless networks\nOur manufacturers:\nAllied Telesis\nCisco\nEdimax\nJuniper\nNetgear\nUbiquiti\nQNAP",
+          "url": "https://www.eptimo.com/en/offer/",
+          "source_type": "Eptimo 官方公开 Offer 页面",
+          "source_level": "公司一手产品/品牌自述；旧版页面含 2019/01 图片资源，未列出不代表当前目录不存在",
+          "retrieved_on": "2026-10-12"
+        }
+      ],
+      "assessment": "保持 C。KRS 当前摘录确认 Eptimo S.A. 法人、华沙地址、全资股东与股本；当前官网域名为 eptimo.com。公开 B2B 页面自称 IT 批发/再分销商、列网络类目和 MikroTik 品牌图标，并声称大额实物库存，但 SKU/批发价/库存 feed 均受注册门槛限制。较旧的 Offer 页未在 WLAN 厂商列表列 MikroTik，页面使用 2019/01 资产；与 B2B 品牌图只能说明网页版本/目录范围不一，不能推断停售或在售SKU。MikroTik 官方动态定位器未返回可读名称卡，既不能确认 Master Distributor，也不能据此否定渠道身份。无公开工业交换机 SKU、订单、买手职责或品牌引入需求；旧 CSV 中 eptimo.pl/Master Distributor 备注不在本轮更改，档案覆盖层校正为待核，不改评级/CSV，未触达。",
+      "next_steps": [
+        "若继续公开研究，可仅观察无需注册的公司/制造商网页是否公开出现确切 MikroTik 交换机 SKU 或可读的官方渠道卡片；不创建 B2B 帐户、不登录、不索取库存/报价。",
+        "把 eptimo.com 与旧 CSV 的 eptimo.pl、公司名称及 KRS 编号保持区分；除非有可回查官方文件，不沿用“Master Distributor”层级。",
+        "保持所有报价、库存和供应商准入未知；任何触达或采购验证须另行明确授权。"
+      ],
+      "unknowns": [
+        "MikroTik 与 Eptimo 的官方渠道类别、合同范围/地区/有效期及官方名单返回结果。",
+        "B2B 平台中实际 MikroTik 交换机 SKU、型号规格、当前库存件数、批发价、折扣与采购来源。",
+        "Eptimo 各产品线和网络品类的品类经理/采购审批链、是否接受工业交换机品牌及真实引入需求。",
+        "公司自报 EUR 15m 实物库存的统计口径、审计时点及与网络设备/MikroTik 库存的关系。",
+        "2026版 B2B 平台 MikroTik 品牌图与仍公开的旧 Offer 页厂商名单时效/范围是否一致；缺少登录后的产品/SKU目录，本批不据页面遗漏推断停售或授权。"
+      ]
+    },
+    {
+      "code": "C-054",
+      "name": "Maritex Leszek Łosin Sp.j.",
+      "country": "波兰",
+      "researched_on": "2026-10-12",
+      "round": "R73",
+      "section_title": "R73 A/B标准深度调研与加厚（仅研究，不触达）",
+      "evidence_title": "R73 原文证据摘录（逐项保留）",
+      "revised_city": "Gdynia",
+      "revised_sub": "ORing欧洲名录列名并有IES-1080A 8口Fast Ethernet商品页；渠道合同/库存/买手未核",
+      "revised_type": "电子元件批发与工业产品目录（ORing 官方 Europe 名录列名；合同范围未注明）",
+      "revised_why": "【R73 公开复核】波兰 KRS 当前摘录将“MARITEX” LESZEK ŁOSIN SP.J. 登记在 Gdynia；其登记主营项是印刷电路板生产、其他经营项含电子/电信设备批发；公司官网则自述为电子元件大型批发商并宣称 500+ 制造商、150,000+ 产品、7,000 m² 仓储与 100+ 专业人员，这些经营规模属公司自述，不等于审计数据。ORing 官方欧洲 Where to Buy 列有 Maritex Poland，且 Maritex 自营站列出 ORing IES-1080A（8×10/100 RJ45、非网管、DIN）。但是卖方页面温度写 -40…+70°C，产品制造商页面写 -40…+75°C；卖方 PDF 链接/标题为 IES-1050A，不是 IES-1080A。规格以 ORing 官方精确型号页为准。商品页显示 Inquire、最小购买量 1，但没有公开价格/库存件数。公司公开 purchasing mailbox 不是交换机买手确认；无具名采购需求/订单，保持 C，不改主表/CSV，不触达。",
+      "contact_summary": "Maritex 官方联系页公开公司通用 maritex@maritex.eu、销售部门、Purchasing 部门 orders@maritex.eu 及总机 +48 58 622 89 00；产品页另将 Grzegorz Kondratowicz 列作 IES-1080A 产品经理/产品咨询联系人，但不是已核实采购人。上述均为公开业务入口，本轮未联系。",
+      "revised_angle": "只记录 ORing 官方欧洲渠道目录列名及 Maritex 当前 IES-1080A 商品目录。该 SKU 是 8×10/100 Fast Ethernet、非网管设备，不等同千兆型号；卖方温度与挂载 PDF 有误差，采用厂商精确型号规格。无公开价/库存、年度采购量、订单或买手证据；不依据主表的“授权”字样推断合同等级、批量需求或第二来源。",
+      "dimensions": {
+        "法定主体、注册业务与历史变更": "波兰 KRS 0000880720 当前摘录的法人为“MARITEX” LESZEK ŁOSIN SPÓŁKA JAWNA，NIP 9581659572、REGON 221578676，地址 Gdynia Rdestowa 53d。官方登记的主营项为印刷电路板生产，其他登记项包括电子/电信设备批发；2021 年由旧 KRS 0000406062 的 komandytowa 转为 sp.j.。登记代码说明注册经营范围，不单独证明当前实际收入结构。",
+        "业务规模与运营模式公司自述": "Maritex 官网称公司 1987 年创立、从事电子元件批发，仓库约 7,000 m²，代表 500+ 制造商、产品超 150,000 项、100+ 专业人员；均是公司自述，页面没有审计注释/统计时点，不能作为经核财务/库存数据。",
+        "终端市场与客户类别自述": "公司介绍称其主要客户是工业/消费电子、汽车、自动化与 OEM 制造商，并向国内外供应客户。该描述有助理解分销/元件渠道定位，但没有具名 ORing 工业交换机客户项目或订单。",
+        "ORing官方欧洲渠道名录": "ORing 官方 Europe Where to Buy 页面在 Poland 直接列 Maritex Leszek Łosin Sp.j.，并链接 maritex.eu。该制造商名录证明官方页面列名；页面没有具体说明合同类型、排他性、产品/区域范围或有效期，不推断授权等级。",
+        "IES-1080A卖方商品页与交易信息": "Maritex 当前商品页列 ORing IES-1080A，8×RJ45 Fast Ethernet、非网管、DIN、标称 12–48VDC；页上为 Inquire，最小购买量 1，没有公开数字价格/实时库存。商品展示不代表 Maritex 的采购量或实际销售。",
+        "IES-1080A制造商精确规格": "ORing 官方精确型号页将 IES-1080A 列为 8×10/100Base-T(X) 非网管交换机，冗余双 12–48VDC、IP30、工作温度 -40…+75°C，可 DIN/壁挂，提供继电器输出。它是 Fast Ethernet，不是 Gigabit。",
+        "卖方页面型号/规格冲突": "Maritex 商品描述把工作温度写成 -40…+70°C，且页面下载文件名称/标题为 IES-1050A.pdf；ORing 官方 IES-1080A 页面给出 -40…+75°C 并列出 IES-1080A Datasheet。型号技术判断以厂家对应 IES-1080A 页面为准，卖方 PDF 不用来佐证该 SKU。",
+        "公开采购/销售部门入口与KP边界": "Maritex 联系页公开 Sales 邮箱 maritex@maritex.eu、Purchasing 邮箱 orders@maritex.eu 和 Automation 部门。IES-1080A 页面列 Grzegorz Kondratowicz 为产品经理，语境是商品咨询；不据此判断其负责交换机采购、品牌准入或 Saga。未联系任何入口。",
+        "公司自述的ORing品牌进口角色": "Maritex IES-1080A 商品页称其为 ORing 品牌产品的 importer；此为卖方页面自述。ORing 制造商 Where to Buy 页另有 Maritex 列名，但没有标明 distributor/importer 合同类别或具体型号授权范围。",
+        "SWOT、Saga适配及未知项": "优势：ORing 官方欧洲渠道目录列名、Maritex 有精确工业交换机商品页，且公司自述具备较大电子元件分销/仓储体系。风险：IES-1080A 是百兆非网管产品，卖方温度与所附 PDF 存在错误/错型；无公开库存/价格及采购量。是否引入更高带宽/PoE/管理型工业交换机仅为假设，无买手或需求证据，保持 C。"
+      },
+      "kp": [
+        {
+          "name": "Grzegorz Kondratowicz",
+          "role": "IES-1080A 商品页标注的 Product Manager（卖方产品咨询角色）",
+          "contact": "商品页公开电话 +48 882 037 097 与 g.kondratowicz@maritex.eu；公司另列 Purchasing 通用入口 orders@maritex.eu",
+          "status": "仅验证为该商品页的产品咨询/产品经理；不是已确认的交换机采购或品牌准入负责人；本轮未联系",
+          "source": "https://www.maritex.eu/en/product/oring-ies-1080a-industrial-communication"
+        }
+      ],
+      "facts": [
+        {
+          "dim": "KRS登记的法人、地址与主营代码",
+          "text": "波兰 KRS 当前摘录记载 MARITEX LESZEK ŁOSIN SP.J.、KRS 0000880720、Gdynia 地址；登记主营活动为印刷电路板生产，其他登记项含电子/电信设备批发。",
+          "quote": "\"dataCzasOdpisu\": \"12.10.2026 07:37:30\"\n\"numerKRS\": \"0000880720\"\n\"formaPrawna\": \"SPÓŁKA JAWNA\"\n\"nazwa\": \"\\\"MARITEX\\\" LESZEK ŁOSIN SPÓŁKA JAWNA\"\n\"przedmiotPrzewazajacejDzialalnosci\": \"PRODUKCJA ELEKTRONICZNYCH OBWODÓW DRUKOWANYCH\"\n\"przedmiotPozostalejDzialalnosci\": \"SPRZEDAŻ HURTOWA SPRZĘTU ELEKTRONICZNEGO I TELEKOMUNIKACYJNEGO ORAZ CZĘŚCI DO NIEGO\"",
+          "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000880720?rejestr=P&format=json",
+          "source_type": "波兰司法部 KRS 官方当前摘录 API",
+          "source_level": "政府/司法登记一手来源；注册主营/其他经营范围不等于当前实际业务收入构成",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Maritex批发定位及规模公司自述",
+          "text": "Maritex 关于页自称 1987 年创立的电子元件批发商，约 7,000 m² 仓库、代表 500+ 制造商、150,000+ 产品且有 100+ 专业人员；未给审计或统计时点。",
+          "quote": "Maritex was founded in 1987 and is currently one of the largest, dynamically developing wholesalers of electronic components on the Polish market.\nThe warehouse area of 7000m2 allows us to carry out thousands of orders delivered to our domestic and foreign customers.\n500+ Producers\nWe represent over 500 manufacturers from all over the world.\n150 000+ Products\nOur extensive offer includes over 150,000 products.\nEvery day, over a hundred of our specialists are involved in a close cooperation with customers, manufacturers, suppliers and certification laboratories.",
+          "url": "https://www.maritex.eu/en/about-company",
+          "source_type": "Maritex 官方公司介绍页",
+          "source_level": "公司一手业务/规模自述；数字未独立审计，不能等同于实时库存/财务",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "公司自述的终端客户行业",
+          "text": "Maritex 公司介绍自述其主要客户包括工业/消费电子、汽车、自动化和 OEM 制造商，并向全球客户供应；未找到关联到 IES-1080A 的具名终端项目。",
+          "quote": "Maritex’s primary customers are manufacturers from various sectors: industrial and consumer electronics, automotive, automation, and OEM producers. With a broad reach, the company supplies clients around the globe",
+          "url": "https://www.maritex.eu/en/about-company",
+          "source_type": "Maritex 官方公司介绍页",
+          "source_level": "公司一手市场/客户类别自述；不证明具体客户、项目或交换机采购",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "ORing官方欧洲名录中的Maritex列名",
+          "text": "ORing 官方 Where to Buy Europe 页面在 Poland 列出 Maritex Leszek Łosin Sp.j.，并链接 maritex.eu；名录没有列示具体授权合同类别。",
+          "quote": "Poland\nMaritex Leszek Łosin Sp.j.\nTel: +48 58 622 89 00; Fax: +48 58 622 47 66\nVisit Website: http://www.maritex.eu/",
+          "url": "https://oringnet.com/en/where-to-buy/europe",
+          "source_type": "ORing 官方 Europe Where to Buy 页面",
+          "source_level": "制造商一手渠道名录；确认列名，不扩写合同等级/排他范围/有效期",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Maritex当前IES-1080A卖方SKU与报价状态",
+          "text": "Maritex 当前卖方页列 ORing IES-1080A，8×RJ45 Fast Ethernet、12–48VDC、DIN、非网管；页面显示 Inquire 与最小购买量 1，没有公开价格或库存件数。",
+          "quote": "# IES-1080A ORING - Industrial communication\nManufacturer code:\nIES-1080A\nUnmanaged Ethernet switch with 8x10/100Base-T(X); operating temperature -40+70 deg.C; DIN rail mountable\nFast Ethernet ports\n8 x RJ45\nRated Voltage\n12...48VDC\nMounting\nDIN\nMinimum purchase quantity: 1 pcs.\nInquire",
+          "url": "https://www.maritex.eu/en/product/oring-ies-1080a-industrial-communication",
+          "source_type": "Maritex 自营卖方商品页",
+          "source_level": "卖方一手SKU/字段/询价入口；未公开实时库存或数字价格",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "ORing官方IES-1080A型号规格",
+          "text": "ORing 精确型号页确认 IES-1080A 是 8×10/100Base-T(X) 非网管工业交换机，IP30、双 12–48VDC、-40…+75°C、DIN/壁挂；属于 Fast Ethernet 百兆，不是千兆。",
+          "quote": "IES-1080A is unmanaged Ethernet Switch with 8x10/100Base-T(X) ports and extended operating temperature range from -40℃ to 75℃\nSupport 8 ports 10/100Base-T(X)\nProvide Relay output\nRigid IP-30 housing design\nDIN-rail and wall mounting enable",
+          "url": "https://oringnet.com/en/products/industrial-ethernet-switch/12-ies-1080a",
+          "source_type": "ORing 官方精确型号产品页",
+          "source_level": "制造商一手规格与当前下载索引；不证明 Maritex 实际采购/现货",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Maritex卖方温度字段与所附PDF型号不一致",
+          "text": "Maritex IES-1080A 页面写 -40…+70°C，但所链接的 PDF 名称为 IES-1050A；ORing 官方 IES-1080A 页面写 -40…+75°C，并列出对应 IES-1080A Datasheet。",
+          "quote": "Operating temperature -40+70 deg.C\nIES-1050A.pdf\nThe documentation is not updated automatically",
+          "url": "https://www.maritex.eu/en/product/oring-ies-1080a-industrial-communication",
+          "source_type": "Maritex 自营商品页/附件索引",
+          "source_level": "卖方字段/文档标识存在错型或时效问题；精确规格以 ORing 对应SKU页为准",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Maritex公开销售/采购部门入口",
+          "text": "Maritex 联系页分别公开销售 maritex@maritex.eu、Purchasing orders@maritex.eu、自动化部门邮箱及公司总机；属于部门级通用入口，不是交换机品类买手确认。",
+          "quote": "Sales:\nmaritex@maritex.eu\nphone: +48 58 622-89-00\nPurchasing:\norders@maritex.eu\nphone: +48 58 622-89-00\nAutomation:\nautomation@maritex.eu",
+          "url": "https://www.maritex.eu/en/contact-us",
+          "source_type": "Maritex 官方联系页",
+          "source_level": "公司公开部门级联系方式；不证明交换机买手/采购职责，不触达",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "IES-1080A商品页公开产品经理角色",
+          "text": "Maritex 商品页将 Grzegorz Kondratowicz 列为 IES-1080A 页面 Product Manager 并提供电话/邮箱；该语境为商品咨询/支持，未证实其承担 Maritex 的采购或品牌准入决策。",
+          "quote": "Product manager\nGrzegorz Kondratowicz\nCall or send a message, we’ll be happy to help\n+48 882 037 097\ng.kondratowicz@maritex.eu",
+          "url": "https://www.maritex.eu/en/product/oring-ies-1080a-industrial-communication",
+          "source_type": "Maritex 自营商品页产品咨询区",
+          "source_level": "公司公开岗位/咨询联系人；不是已核实的买手或采购负责人，本轮未联系",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Maritex的ORing进口商自述",
+          "text": "Maritex 商品页自称是该品牌产品的 importer；ORing 官方目录可独立确认 Maritex 被列名，但目录本身没有公布 importer/distributor 合同层级。",
+          "quote": "Maritex Leszek Łosin Sp.j. is a proven and trusted importer of this brand's products",
+          "url": "https://www.maritex.eu/en/product/oring-ies-1080a-industrial-communication",
+          "source_type": "Maritex 自营商品页品牌说明",
+          "source_level": "公司/卖方对进口角色的自述；不扩写厂商合同权限或具体采购量",
+          "retrieved_on": "2026-10-12"
+        }
+      ],
+      "assessment": "保持 C。官方 KRS 核实法人和登记活动，Maritex 官网自述较大电子元件批发/仓储，ORing 官方名录在波兰列有 Maritex；其当前商品页展示 ORing IES-1080A，但这是百兆 8 口非网管机型。卖方温度字段与厂家规格有 5°C 差异，所附 PDF 标为 IES-1050A，按 ORing 精确型号页面记录规格。价格、库存、采购量及交换机买手未知；公开 Purchasing 部门邮箱和产品经理角色不等于实际品类买手。无新增品牌/第二来源需求证据，不改主表/CSV/评级，未触达。",
+      "next_steps": [
+        "若后续需要比较，只使用 ORing IES-1080A 对应制造商资料；先解决 Maritex 页面错型PDF与温度差异，不把百兆/千兆、温宽或 PoE 条件混同。",
+        "只在未来有公开更新时复核 ORing 名录与商品库存/价格字段；本轮不索取报价或库存，也不向 orders@maritex.eu 或任何人员联系。",
+        "将 KRS 注册主营代码、Maritex 公司自述批发业务、ORing 官方渠道列名分层保存；不从登记经营范围/目录上架推断订单。"
+      ],
+      "unknowns": [
+        "Maritex 与 ORing 的具体合同/进口/授权等级、地域/产品范围与有效期；官方目录只列名，未标类别。",
+        "IES-1080A 当前库存、净价、交期、实际销售和 Maritex 的采购量；卖方页只有询价入口。",
+        "IES-1080A 卖方链接的 IES-1050A PDF 是否为网页附件配置错误或历史文档；需要逐文件型号确认。",
+        "交换机采购、供应商准入决策人、具名终端项目和是否有千兆/PoE/管理型工业交换机需求。"
+      ]
+    },
+    {
+      "code": "C-055",
+      "name": "Tekniska Polska",
+      "country": "波兰",
+      "researched_on": "2026-10-12",
+      "round": "R73",
+      "section_title": "R73 A/B标准深度调研与加厚（仅研究，不触达）",
+      "evidence_title": "R73 原文证据摘录（逐项保留）",
+      "revised_city": "Gliwice",
+      "revised_sub": "Westermo波兰Gold distributor与OT工业网络集成商；采购量/新增品牌需求未核",
+      "revised_type": "工业OT通信/网络安全集成与Westermo渠道分销（厂商目录列Gold distributor）",
+      "revised_why": "【R73 公开复核】波兰 KRS 当前摘录确认 TEKNISKA POLSKA PRZEMYSŁOWE SYSTEMY TRANSMISJI DANYCH sp. z o.o.，注册地址 Gliwice；登记主营工程/技术咨询，其他经营项含电子/电信设备批发、安装和 IT 服务。Westermo 官方 Where to Buy 现列 Tekniska Polska 为 Poland Gold distributor，并标注本地库存、基础/认证/高级技术支持、Westermo solutions expertise 和本地研讨会。Tekniska 自营页列当前 RedFox-5528-F16G-T12G-LV，卖方资料为 12×RJ45+16×SFP、24–48VDC；Westermo 厂商资料进一步确认 28×千兆、managed L2、IP40、-40…+74°C。商品页只给“Zapytaj o produkt”，未公开价或库存件数。Tekniska 自刊 ABB 轧机控制改造案例叙述部署 RedFox 5500 系列，但未给确切型号/数量/独立客户来源，不能把它套为当前 5528 SKU 销量。现有 Westermo 工业交换机组合是产品重叠而非新增采购需求；“大体量/T1”无本轮独立证据，未找到交换机买手/品牌引入需求，保持 C，不改 CSV/主表，未触达。",
+      "contact_summary": "Tekniska 官方联系页公开 handlowy@tekniska.pl（销售）、techniczny@tekniska.pl（技术）及总机。页面列 Dariusz Figiel 为 Key Account Manager，但未证明其负责 Westermo 交换机采购或品牌准入；本轮未联系。",
+      "revised_angle": "只登记 Westermo Gold 渠道等级、RedFox SKU 目录和 Tekniska 自刊 ABB 工业案例。RedFox-5528 是高端管理型 19 英寸架装设备；不把它和 Saga 任一型号写成同规格，也不从 Gold 等级、卖方有库存字段或 ABB 案例推断采购量/第二来源需求。商品页无公开报价/库存，本轮不询价。",
+      "dimensions": {
+        "KRS法定主体与登记经营范围": "波兰 KRS 0000383694 当前摘录确认 TEKNISKA POLSKA PRZEMYSŁOWE SYSTEMY TRANSMISJI DANYCH sp. z o.o.，NIP 6312631825、REGON 241922862，地址 Gliwice Łabędzka 9G；登记主营为工程与技术咨询，其他活动含电子/电信设备批发、工业安装、软件/IT 服务。登记经营范围不代表收入占比。",
+        "公司自述业务与工业垂直市场": "Tekniska 官网自称近 25 年从事工业数据通信、OT/ICS网络与网络安全，提供咨询、选型、项目实施、支持、培训；列出的关键行业为能源、交通、采矿、汽车。该业务定位来自公司自述，不是独立审计的销量或项目规模。",
+        "Westermo官方渠道等级": "Westermo Where to Buy 直接将 Tekniska Polska 列在 Poland 项下为 Gold distributor，并列本地库存、基础/认证/高级技术支持、Westermo solutions expertise 和本地研讨会。厂商名录支持渠道等级与服务属性，不证明实际交换机销量、年度采购量或供应商开放程度。",
+        "RedFox-5528卖方SKU目录": "Tekniska 当前产品页列 RedFox-5528-F16G-T12G-LV，页面摘要为 WeOS managed Layer 2、12×1Gb/s RJ45、16×1Gb/s SFP、24–48VDC；卖方页提供询价和技术支持入口，没有公开数字价格/实时库存。",
+        "RedFox-5528制造商规格交叉核验": "Westermo 官方产品页对应型号为 19 英寸机架式 managed Ethernet switch，12×1Gb/s RJ45 加 16×1Gb/s SFP，共 28 个 Gigabit 端口，低压版 24–48VDC、Layer 2、IP40、-40…+74°C；这些是精确型号厂商规格，不套用到整个 RedFox 系列或其他 SKU。",
+        "ABB轧机案例（公司自刊）": "Tekniska 的 Asea Brown Boveri case study 讲述轧机控制系统改造，与 AMM Force Measurement 合作，旧系统有交换机/路由/转换/防火墙多种设备，项目中由一个 RedFox series 模块替代多设备架构；页面未标日期，也未标确切 RedFox 型号或数量，属于公司自刊案例。",
+        "产品价格与供货状态边界": "Tekniska 5528 商品页按钮为“Zapytaj o produkt”（询问产品），Westermo 厂商页为“Request a Quote”；两页抓取均无公开数字价格或具体可用库存数。Westermo Poland 名录的 Local stock 是渠道页面属性，不是某个 5528 SKU 实时库存证明。",
+        "公开关键人/销售链与边界": "Tekniska 联系页列 Dariusz Figiel（销售部门 Key Account Manager），并写明可提供产品/OT技术建议或采购/租赁设备协助；另列 Piotr Grychtoł 为 Business Development Manager（Dział rozwoju），公开业务邮箱。两人均为客户/业务发展侧公开联系人，页面没有说明其负责 Westermo 交换机采购、供应商准入或品牌审批。未联系。",
+        "公司规模/渠道生态线索": "公司董事会页面自述 2002 年创立、服务 6,600+ 客户，并有面向 IT/高校/集成商的 Tekniska partner program；数字与项目数是公司自述，合作计划不等于交换机买手或新增品牌需求。",
+        "SWOT、Saga适配与未知项": "优势：Westermo 官方 Gold 渠道身份、高端工业网络集成能力、具体 RedFox SKU 与 ABB 轧机案例。风险：产品组合已有成熟 Westermo 管理型工业交换机，可能存在竞合；没有公开的采购量、价、库存件数或新品牌需求。“波兰T1/体量大”未独立验证；无完整 Saga 型号同规格对照，保持 C。"
+      },
+      "kp": [
+        {
+          "name": "Dariusz Figiel",
+          "role": "Menedżer Klienta Kluczowego / Key Account Manager（公司销售部联系页公开列名）",
+          "contact": "通过公司销售部门通用邮箱 handlowy@tekniska.pl 或总机 +48 32 33 111 06–08；不将岗位等同采购职责",
+          "status": "公开关键客户经理/销售角色；未核实其负责工业交换机采购或品牌准入；本轮未联系",
+          "source": "https://tekniska.pl/kontakt/"
+        },
+        {
+          "name": "Piotr Grychtoł",
+          "role": "Business Development Manager / Dział rozwoju（公司联系页公开）",
+          "contact": "公司联系页公开 piotr.grychtol@tekniska.pl、总机 +48 32 33 111 06–08（分机217）",
+          "status": "公开业务发展联系人；未核实其负责交换机采购、供应商准入或品牌引入；本轮未联系",
+          "source": "https://tekniska.pl/kontakt/"
+        }
+      ],
+      "facts": [
+        {
+          "dim": "TEKNISKA POLSKA KRS法定主体与经营范围",
+          "text": "波兰 KRS 当前摘录确认 TEKNISKA POLSKA PRZEMYSŁOWE SYSTEMY TRANSMISJI DANYCH sp. z o.o.、KRS 0000383694、Gliwice 地址；主营工程与技术咨询，其他经营项包括电子/电信设备批发、工业设备安装等。",
+          "quote": "\"dataCzasOdpisu\": \"12.10.2026 07:37:50\"\n\"numerKRS\": \"0000383694\"\n\"formaPrawna\": \"SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ\"\n\"nazwa\": \"TEKNISKA POLSKA PRZEMYSŁOWE SYSTEMY TRANSMISJI DANYCH SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ\"\n\"przedmiotPrzewazajacejDzialalnosci\": \"DZIAŁALNOŚĆ W ZAKRESIE INŻYNIERII I ZWIĄZANE Z NIĄ DORADZTWO TECHNICZNE\"\n\"ulica\": \"UL. ŁABĘDZKA\", \"nrDomu\": \"9G\", \"miejscowosc\": \"GLIWICE\"",
+          "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000383694?rejestr=P&format=json",
+          "source_type": "波兰司法部 KRS 官方当前摘录 API",
+          "source_level": "政府/司法登记一手来源；主营代码为登记口径，不推断收入/产品线占比",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Tekniska公司OT定位与行业自述",
+          "text": "Tekniska 公司页称其帮助客户设计/发展/保护工业网络和 OT/ICS，提供工程、项目实施与工业网络安全支持；列出能源、交通、采矿、汽车等关键行业，并自称近 25 年经验。",
+          "quote": "TEKNISKA Polska wspiera przedsiębiorstwa w projektowaniu, rozwoju i zabezpieczaniu sieci przemysłowych oraz systemów OT/ICS.\nOd prawie 25 lat dostarczamy produkty z obszaru transmisji danych\nenergetyce, transporcie, wydobyciu, automotive",
+          "url": "https://tekniska.pl/o-firmie/",
+          "source_type": "Tekniska 官方公司介绍页",
+          "source_level": "公司一手业务/行业定位自述；不是独立审计的销量或项目覆盖范围",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Westermo Poland Gold distributor官方记录",
+          "text": "Westermo 官方 Where to Buy 页面在 Poland 项下列 Tekniska Polska 为 Gold distributor，并显示本地库存、技术支持与 solutions expertise 等服务属性。",
+          "quote": "Poland | Gold distributor\nLocal stock\nBasic technical support\nCertified technical support\nAdvanced technical support\nWestermo solutions expertise\nLocal Westermo seminars\nTekniska Polska",
+          "url": "https://www.westermo.com/contact/where-to-buy",
+          "source_type": "Westermo 官方 Where to Buy 渠道目录",
+          "source_level": "制造商一手渠道/服务名录；页面等级可核，具体 SKU 库存和采购量不可推出",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Tekniska当前RedFox-5528商品SKU",
+          "text": "Tekniska 当前商品页列 RedFox-5528-F16G-T12G-LV，描述 12×1Gb/s 铜口、16×1Gb/s SFP、WeOS managed Layer 2 与 24–48VDC；页面要求询价。",
+          "quote": "RedFox-5528-F16G-T12G-LV\nWeOS, managed switch layer2, 12x1Gb/s, 16xSFP1Gb/s, 24to48VDC\nZapytaj o produkt\nPomoc techniczna",
+          "url": "https://tekniska.pl/produkty/redfox-5528-f16g-t12g-lv/",
+          "source_type": "Tekniska 自营卖方产品页",
+          "source_level": "卖方一手当前SKU目录/询价入口；不提供公开标价、成交价或实时库存数",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Westermo官方RedFox-5528精确规格",
+          "text": "Westermo 官方单型号页将其列为低压 19 英寸机架式 managed Layer 2 交换机：12×RJ45 1Gb/s、16×SFP 1Gb/s、24–48VDC、IP40、-40…+74°C。",
+          "quote": "RedFox-5528-F16G-T12G-LV\n19” Rackmount Managed Ethernet Switch - low voltage version, layer 2\n24 to 48 VDC\n12 x 10/100/1000 Mbit/s, Ethernet TX, RJ-45\n16 x 100/1000 Mbit/s SFP transceivers supported\nIP40\n-40 to +74 °C",
+          "url": "https://www.westermo.com/products/ethernet-switches/rack/redfox-5528-f16g-t12g-lv",
+          "source_type": "Westermo 官方精确型号产品规格页",
+          "source_level": "制造商一手型号规格；不证明 Tekniska 当前现货/成交价/采购量",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "ABB轧机控制改造项目（Tekniska自刊案例）",
+          "text": "Tekniska 案例页写明与 AMM Force Measurement 合作改造轧机控制系统，项目以 RedFox 系列设备替代多种交换/路由/转换/防火墙组件；页面未给具体 RedFox 型号、数量或独立客户证明。",
+          "quote": "Projekt: Modernizacja systemu sterowania walcownią we współpracy z AMM Force Measurement\nUrządzeniem tym jest przełącznik serii RedFox, produkowany przez szwedzką firmę Westermo.\nKomunikacja zbudowana jest w oparciu o jeden typ kilkunastoportowego urządzenia RedFox",
+          "url": "https://tekniska.pl/case-studies/asea-brown-boveri/",
+          "source_type": "Tekniska 官方案例研究页（ABB/AMM Force Measurement）",
+          "source_level": "公司一手项目自述/具名客户展示；未独立核实订单，不得扩写到精确5528型号或采购量",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "RedFox商品价格与当前库存边界",
+          "text": "Tekniska SKU 页提供“询问产品”，Westermo 制造商页提供 Request a Quote；本轮页面没有数字价格或具体可售库存件数。Westermo 名录的 Local stock 是经销渠道级属性，不代表 5528 型号在抓取时有货。",
+          "quote": "Zapytaj o produkt\nRequest a Quote",
+          "url": "https://tekniska.pl/produkty/redfox-5528-f16g-t12g-lv/",
+          "source_type": "Tekniska 卖方页与 Westermo 厂商页的商业入口",
+          "source_level": "卖方/制造商询价入口快照；无公开价格或SKU级库存数量",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "公开销售/技术部门与关键人边界",
+          "text": "Tekniska 联系页公开销售部门邮箱与 Key Account Manager Dariusz Figiel（客户产品/技术建议、设备购买/租赁咨询），另列 Dział rozwoju、Piotr Grychtoł 与 Business Development Manager 职位及公开邮箱。页面没有说明两人负责交换机采购/品牌准入，均不能直接标为买手。",
+          "quote": "Dział handlowy\nhandlowy@tekniska.pl\nDariusz Figiel\nMenedżer Klienta Kluczowego\nPotrzebujesz rady w sprawie produktów lub technologii OT? Chcesz nabyć lub wypożyczyć konkretne urządzenia?\nDział rozwoju\npiotr.grychtol@tekniska.pl\nPiotr Grychtoł\nBusiness Development Manager",
+          "url": "https://tekniska.pl/kontakt/",
+          "source_type": "Tekniska 官方联系页/组织联系人页面",
+          "source_level": "公司公开部门及销售职务；不证明品类采购职责，本轮未联系",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "公司自述服务客户数与合作计划",
+          "text": "Tekniska 管理层页面自述公司 2002 年创立、服务 6,600+ 客户，并面向 IT、技术高校和集成商设有合作伙伴计划；该数字/计划为公司自述，不代表本地交换机采购规模。",
+          "quote": "2002\nzałożenie firmy Tekniska\n+6600\nobsłużonych klientów\nReprezentujesz branżę IT, uczelnię techniczną lub firmę integratorską?\nDołącz do partnerów Tekniska.",
+          "url": "https://tekniska.pl/poznaj-nasz-zarzad/",
+          "source_type": "Tekniska 官方管理层/合作伙伴介绍页",
+          "source_level": "公司自述的历史/客户数和合作计划；无独立审计，也不等于新品牌采购需求",
+          "retrieved_on": "2026-10-12"
+        }
+      ],
+      "assessment": "保持 C。Westermo 官方名录确认 Tekniska Polska 为 Gold distributor，并列本地库存/多级技术服务；Tekniska 当前目录有 RedFox-5528-F16G-T12G-LV，制造商规格已按精确型号核验。公司自刊 ABB 轧机案例表明其参与工业网络改造且采用 RedFox 系列，但没有具体型号、数量或可独立复核的交易信息。无公开报价、SKU级库存、年采购量、新品牌需求或交换机采购负责人；“体量大/T1”为旧主表文字，本轮无独立依据。保持 C，不改 CSV/主表，未触达。",
+      "next_steps": [
+        "若继续公开研究，按 RedFox-5528 的 19英寸架装、28×千兆、SFP数量、管理层级、供电/温度/IP及认证与具体 Saga SKU逐项比较；本批不作同规格/价格结论。",
+        "把 Westermo 官方 Gold 渠道身份与 Tekniska 自刊 ABB 项目、单一 SKU 商品页分开保存；不把项目案例扩写为批量采购或新品牌开放。",
+        "继续只做公开来源复核；不通过手工邮箱、联系表单或电话验证买手/价格/库存，除非用户之后明确授权。"
+      ],
+      "unknowns": [
+        "Westermo/Tekniska 当前分销合同具体范围、产品线/地区/期限及采购量；官方 Gold 名录只公开渠道等级/服务属性。",
+        "RedFox-5528-F16G-T12G-LV 当前库存、成交价、折扣、交期、销售数量与采购来源。",
+        "ABB轧机项目的实施/合同时间、确切 RedFox 型号/台数、供货主体及外部客户侧佐证。",
+        "Tekniska 对工业交换机新品或补充品牌的采购计划、类目买手/品牌准入职责以及是否有 Saga 需求。"
+      ]
+    }
+  ]
+}

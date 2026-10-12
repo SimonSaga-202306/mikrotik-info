@@ -1728,9 +1728,9 @@ class RepositoryTests(unittest.TestCase):
             self.assertEqual(public['fact_count'], len(rec['facts']))
             self.assertEqual(public['outreach'], '未触达；无邮件、电话、寄样或报价')
         progress = (ROOT / 'docs/audit/2026-10-12_R73_C类AB加厚进度.md').read_text(encoding='utf-8')
-        self.assertIn('R73 当前新增加厚 | 20', progress)
-        self.assertIn('R73 尚未覆盖 | **235**', progress)
-        self.assertIn('C-051—C-285', progress)
+        self.assertIn('R73 当前新增加厚 | 25', progress)
+        self.assertIn('R73 尚未覆盖 | **230**', progress)
+        self.assertIn('C-056—C-285', progress)
 
     def test_r73_c_ab_second_batch_is_source_complete_and_non_outreach(self):
         batch_path = ROOT / 'batch/C类AB标准加厚_2026-10-12_R73_第2批.json'
@@ -1778,9 +1778,9 @@ class RepositoryTests(unittest.TestCase):
             self.assertTrue(any(str(batch_path.relative_to(ROOT)) in match
                                 for match in entry['exact_batch_matches']))
         progress = (ROOT / 'docs/audit/2026-10-12_R73_C类AB加厚进度.md').read_text(encoding='utf-8')
-        self.assertIn('R73 当前新增加厚 | 20', progress)
-        self.assertIn('R73 尚未覆盖 | **235**', progress)
-        self.assertIn('C-051—C-285', progress)
+        self.assertIn('R73 当前新增加厚 | 25', progress)
+        self.assertIn('R73 尚未覆盖 | **230**', progress)
+        self.assertIn('C-056—C-285', progress)
         evidence_md = (ROOT / 'docs/evidence/客户溯源_C.md').read_text(encoding='utf-8')
         for rec in records:
             section_start = evidence_md.index(f'<a id="{rec["code"]}"></a>')
@@ -1842,10 +1842,10 @@ class RepositoryTests(unittest.TestCase):
                                 for match in entry['exact_batch_matches']))
         progress = (ROOT / 'docs/audit/2026-10-12_R73_C类AB加厚进度.md').read_text(encoding='utf-8')
         self.assertIn('R73 第 3 批 | 5', progress)
-        self.assertIn('R73 当前新增加厚 | 20', progress)
-        self.assertIn('当前唯一覆盖 | 50', progress)
-        self.assertIn('R73 尚未覆盖 | **235**', progress)
-        self.assertIn('C-051—C-285', progress)
+        self.assertIn('R73 当前新增加厚 | 25', progress)
+        self.assertIn('当前唯一覆盖 | 55', progress)
+        self.assertIn('R73 尚未覆盖 | **230**', progress)
+        self.assertIn('C-056—C-285', progress)
         evidence_md = (ROOT / 'docs/evidence/客户溯源_C.md').read_text(encoding='utf-8')
         for rec in records:
             section_start = evidence_md.index(f'<a id="{rec["code"]}"></a>')
@@ -1910,10 +1910,10 @@ class RepositoryTests(unittest.TestCase):
                                 for match in entry['exact_batch_matches']))
         progress = (ROOT / 'docs/audit/2026-10-12_R73_C类AB加厚进度.md').read_text(encoding='utf-8')
         self.assertIn('R73 第 4 批 | 5', progress)
-        self.assertIn('R73 当前新增加厚 | 20', progress)
-        self.assertIn('当前唯一覆盖 | 50', progress)
-        self.assertIn('R73 尚未覆盖 | **235**', progress)
-        self.assertIn('C-051—C-285', progress)
+        self.assertIn('R73 当前新增加厚 | 25', progress)
+        self.assertIn('当前唯一覆盖 | 55', progress)
+        self.assertIn('R73 尚未覆盖 | **230**', progress)
+        self.assertIn('C-056—C-285', progress)
         evidence_md = (ROOT / 'docs/evidence/客户溯源_C.md').read_text(encoding='utf-8')
         for rec in records:
             section_start = evidence_md.index(f'<a id="{rec["code"]}"></a>')
@@ -1923,6 +1923,95 @@ class RepositoryTests(unittest.TestCase):
             self.assertIn('仍为C/未触达', section)
             for fact in rec['facts']:
                 self.assertIn(fact['url'], section)
+
+    def test_r73_c_ab_fifth_batch_is_source_complete_and_non_outreach(self):
+        batch_path = ROOT / 'batch/C类AB标准加厚_2026-10-12_R73_第5批.json'
+        batch = json.loads(batch_path.read_text(encoding='utf-8'))
+        self.assertEqual(batch['round'], 'R73 第 5 批（C-051—C-055）')
+        records = batch['records']
+        self.assertEqual([r['code'] for r in records], [f'C-{n:03}' for n in range(51, 56)])
+        self.assertEqual([len(r['facts']) for r in records], [9, 10, 10, 10, 9])
+        self.assertEqual([len(r['dimensions']) for r in records], [10] * 5)
+        self.assertEqual([len(r['kp']) for r in records], [0, 0, 1, 1, 2])
+        self.assertIn('不联系客户', batch['scope'])
+        self.assertIn('不改变评级、CSV 或主表规则', batch['scope'])
+
+        for rec in records:
+            row = self.by_code[rec['code']]
+            self.assertEqual((row['公司名'], row['国家']), (rec['name'], rec['country']))
+            self.assertEqual(row['评级'], 'C')
+            self.assertIn('保持 C', rec['assessment'], rec['code'])
+            self.assertFalse(rec.get('update_only'))
+            for item in rec['facts']:
+                self.assertTrue(item.get('quote') and item.get('url'), rec['code'])
+                self.assertTrue(item.get('source_type') and item.get('source_level'), rec['code'])
+                self.assertEqual(item.get('retrieved_on'), '2026-10-12')
+
+            matches = list((ROOT / 'profile/C').glob(rec['code'] + '-*.md'))
+            self.assertEqual(len(matches), 1, rec['code'])
+            profile = matches[0].read_text(encoding='utf-8')
+            self.assertIn('R73 A/B标准深度调研与加厚（仅研究，不触达）', profile)
+            self.assertIn('### R73 原文证据摘录（逐项保留）', profile)
+            self.assertIn('### R73 本轮评估', profile)
+            self.assertIn('未触达', profile)
+            self.assertIn(rec['assessment'], profile)
+            for item in rec['facts']:
+                for quote_line in item['quote'].splitlines():
+                    self.assertIn(quote_line, profile, rec['code'])
+                self.assertIn(item['url'], profile, rec['code'])
+            for person in rec['kp']:
+                self.assertIn(person['name'], profile, rec['code'])
+                self.assertIn(person['status'], profile, rec['code'])
+
+        ql3d = records[0]
+        self.assertIn('5-port', next(f for f in ql3d['facts'] if '厂商产品规格' in f['dim'])['quote'])
+        self.assertIn('2Pnet', next(f for f in ql3d['facts'] if 'ON Semiconductor' in f['dim'])['quote'])
+        sphinx = records[1]
+        self.assertIn('eds-g308-2sfp-t.jpg', next(f for f in sphinx['facts'] if 'Sphinx EDS-G308页图' in f['dim'])['quote'])
+        self.assertIn('EDS-G308-2SFP/G308-2SFP-T: 6', next(f for f in sphinx['facts'] if '家族型号端口表' in f['dim'])['quote'])
+        self.assertIn('Moxa 官方动态定位器', sphinx['assessment'])
+        eptimo = records[2]
+        self.assertEqual(eptimo['revised_site'], 'eptimo.com')
+        self.assertTrue(any('旧版公开Offer页' in f['dim'] for f in eptimo['facts']))
+        maritex = records[3]
+        self.assertIn('IES-1050A.pdf', next(f for f in maritex['facts'] if '温度字段' in f['dim'])['quote'])
+        tekniska = records[4]
+        self.assertIn('Gold distributor', next(f for f in tekniska['facts'] if 'Westermo Poland' in f['dim'])['quote'])
+        self.assertEqual({person['name'] for person in tekniska['kp']}, {'Dariusz Figiel', 'Piotr Grychtoł'})
+
+        evidence = json.loads((ROOT / 'docs/evidence/客户溯源索引.json').read_text(encoding='utf-8'))
+        evidence_by_code = {entry['code']: entry for entry in evidence}
+        for rec in records:
+            entry = evidence_by_code[rec['code']]
+            public = entry['public_research']
+            self.assertEqual(public['round'], 'R73')
+            self.assertEqual(public['batch_path'], str(batch_path.relative_to(ROOT)))
+            self.assertEqual(public['fact_count'], len(rec['facts']))
+            self.assertEqual(public['dimension_count'], 10)
+            self.assertEqual(public['outreach'], '未触达；无邮件、电话、寄样或报价')
+            self.assertTrue(set(item['url'] for item in rec['facts']).issubset(entry['record_urls']))
+            self.assertTrue(any(str(batch_path.relative_to(ROOT)) in match
+                                for match in entry['exact_batch_matches']))
+
+        progress = (ROOT / 'docs/audit/2026-10-12_R73_C类AB加厚进度.md').read_text(encoding='utf-8')
+        self.assertIn('R73 第 5 批 | 5', progress)
+        self.assertIn('R73 当前新增加厚 | 25', progress)
+        self.assertIn('当前唯一覆盖 | 55', progress)
+        self.assertIn('R73 尚未覆盖 | **230**', progress)
+        self.assertIn('C-056—C-285', progress)
+        self.assertIn('1008TX', progress)
+        self.assertIn('6×RJ45+2×combo', progress)
+        self.assertIn('Gold distributor', progress)
+
+        evidence_md = (ROOT / 'docs/evidence/客户溯源_C.md').read_text(encoding='utf-8')
+        for rec in records:
+            section_start = evidence_md.index(f'<a id="{rec["code"]}"></a>')
+            section_end = evidence_md.find('<a id="', section_start + 1)
+            section = evidence_md[section_start: section_end if section_end >= 0 else None]
+            self.assertIn('R73 原始研究批次', section)
+            self.assertIn('仍为C/未触达', section)
+            for item in rec['facts']:
+                self.assertIn(item['url'], section)
 
     def test_r71_scope_and_exact_address_overlays_are_idempotent(self):
         followup = json.loads((ROOT / 'batch/邮件跟进_2026-10-12_R71.json').read_text(encoding='utf-8'))

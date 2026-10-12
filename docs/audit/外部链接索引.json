@@ -1346,6 +1346,20 @@
     ]
   },
   {
+    "url": "http://www.maritex.eu/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L469"
+      },
+      {
+        "path": "profile/C/C-054-Maritex Leszek Łosin Sp.j-波兰.md",
+        "locator": "L103"
+      }
+    ]
+  },
+  {
     "url": "http://www.mikrotik.net.ua",
     "http_checked": false,
     "occurrences": [
@@ -4970,6 +4984,34 @@
     ]
   },
   {
+    "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/ql3d-429607740",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L38"
+      },
+      {
+        "path": "profile/C/C-051-QL3D-法国.md",
+        "locator": "L80"
+      }
+    ]
+  },
+  {
+    "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/sphinx-connect-france-439398462",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L161"
+      },
+      {
+        "path": "profile/C/C-052-Sphinx France-法国.md",
+        "locator": "L80"
+      }
+    ]
+  },
+  {
     "url": "https://annuaire-entreprises.data.gouv.fr/etablissement/32873256500028",
     "http_checked": false,
     "occurrences": [
@@ -5060,6 +5102,48 @@
       {
         "path": "batch/contact_research_2026-09-28_BCrescreen_A379-A384.json",
         "locator": "L520"
+      }
+    ]
+  },
+  {
+    "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000383694?rejestr=P&format=json",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L590"
+      },
+      {
+        "path": "profile/C/C-055-Tekniska Polska-波兰.md",
+        "locator": "L87"
+      }
+    ]
+  },
+  {
+    "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000640183?rejestr=P&format=json",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L302"
+      },
+      {
+        "path": "profile/C/C-053-Eptimo-波兰.md",
+        "locator": "L89"
+      }
+    ]
+  },
+  {
+    "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000880720?rejestr=P&format=json",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L443"
+      },
+      {
+        "path": "profile/C/C-054-Maritex Leszek Łosin Sp.j-波兰.md",
+        "locator": "L86"
       }
     ]
   },
@@ -7822,6 +7906,20 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-823/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://blog.sphinxfrance.com/actualite-iiot-cybersecurite/cybersecurite-reseau-ot-nis2/switches-industriels-moxa-integrer-la-cybersecurite-au-coeur-de-votre-reseau-ot/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L233"
+      },
+      {
+        "path": "profile/C/C-052-Sphinx France-法国.md",
+        "locator": "L146"
       }
     ]
   },
@@ -18095,7 +18193,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L2024"
+        "locator": "L2113"
       }
     ]
   },
@@ -18105,7 +18203,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L2024"
+        "locator": "L2113"
       }
     ]
   },
@@ -34122,6 +34220,20 @@
     ]
   },
   {
+    "url": "https://mikrotik.com/buy?category=distributors&search=Eptimo",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L347"
+      },
+      {
+        "path": "profile/C/C-053-Eptimo-波兰.md",
+        "locator": "L113"
+      }
+    ]
+  },
+  {
     "url": "https://mikrotik.com/consultants",
     "http_checked": false,
     "occurrences": [
@@ -46472,6 +46584,20 @@
     ]
   },
   {
+    "url": "https://oringnet.com/en/products/industrial-ethernet-switch/12-ies-1080a",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L488"
+      },
+      {
+        "path": "profile/C/C-054-Maritex Leszek Łosin Sp.j-波兰.md",
+        "locator": "L125"
+      }
+    ]
+  },
+  {
     "url": "https://oringnet.com/en/products/industrial-ethernet-switch/32-igs-1080a",
     "http_checked": false,
     "occurrences": [
@@ -46530,12 +46656,20 @@
         "locator": "L558"
       },
       {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L470"
+      },
+      {
         "path": "profile/C/C-048-Equipements Scientifiques-法国.md",
         "locator": "L99"
       },
       {
         "path": "profile/C/C-050-Phoebe IDF-法国.md",
         "locator": "L91"
+      },
+      {
+        "path": "profile/C/C-054-Maritex Leszek Łosin Sp.j-波兰.md",
+        "locator": "L104"
       }
     ]
   },
@@ -49096,6 +49230,76 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第21批.json",
         "locator": "L171"
+      }
+    ]
+  },
+  {
+    "url": "https://ql3d.fr/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L47"
+      },
+      {
+        "path": "profile/C/C-051-QL3D-法国.md",
+        "locator": "L87"
+      }
+    ]
+  },
+  {
+    "url": "https://ql3d.fr/actualit%C3%A9s/17_le-systeme-wld-surveille-les-fuites-de-fluides-dans-l-installation-de-fabrication-de-semi-conducteurs-d-onsemi.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L101"
+      },
+      {
+        "path": "profile/C/C-051-QL3D-法国.md",
+        "locator": "L132"
+      }
+    ]
+  },
+  {
+    "url": "https://ql3d.fr/actualit%C3%A9s/30_le-lab-de-l-attention-ce-que-nous-avons-const.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L83"
+      },
+      {
+        "path": "profile/C/C-051-QL3D-法国.md",
+        "locator": "L120"
+      }
+    ]
+  },
+  {
+    "url": "https://ql3d.fr/content/20-nous-contacter",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L110"
+      },
+      {
+        "path": "profile/C/C-051-QL3D-法国.md",
+        "locator": "L140"
+      }
+    ]
+  },
+  {
+    "url": "https://ql3d.fr/switchs-ethernet-industriels/11827-hms-networks-n-tron-1008tx.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L65"
+      },
+      {
+        "path": "profile/C/C-051-QL3D-法国.md",
+        "locator": "L102"
       }
     ]
   },
@@ -58892,6 +59096,84 @@
     ]
   },
   {
+    "url": "https://sphinxfrance.com/Marques/Moxa/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L179"
+      },
+      {
+        "path": "profile/C/C-052-Sphinx France-法国.md",
+        "locator": "L92"
+      }
+    ]
+  },
+  {
+    "url": "https://sphinxfrance.com/Prendre-contact/A-propos/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L170"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L242"
+      },
+      {
+        "path": "profile/C/C-052-Sphinx France-法国.md",
+        "locator": "L89"
+      },
+      {
+        "path": "profile/C/C-052-Sphinx France-法国.md",
+        "locator": "L149"
+      }
+    ]
+  },
+  {
+    "url": "https://sphinxfrance.com/media/76/dc/97/1789385958/eds-g308-2sfp-t.jpg",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "profile/C/C-052-Sphinx France-法国.md",
+        "locator": "L94"
+      }
+    ]
+  },
+  {
+    "url": "https://sphinxfrance.com/media/76/dc/97/1789385958/eds-g308-2sfp-t.jpg)\\n#",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L187"
+      }
+    ]
+  },
+  {
+    "url": "https://sphinxfrance.com/moxa-eds-g308-switch-non-manageable-8-ports",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L188"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L215"
+      },
+      {
+        "path": "profile/C/C-052-Sphinx France-法国.md",
+        "locator": "L98"
+      },
+      {
+        "path": "profile/C/C-052-Sphinx France-法国.md",
+        "locator": "L130"
+      }
+    ]
+  },
+  {
     "url": "https://stagemarkt.nl/leerbedrijven/profiel_f6268e9d-75e0-4b81-b440-8fe9a3941f5a",
     "http_checked": false,
     "occurrences": [
@@ -60702,6 +60984,100 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第26批.json",
         "locator": "L267"
+      }
+    ]
+  },
+  {
+    "url": "https://tekniska.pl/case-studies/asea-brown-boveri/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L635"
+      },
+      {
+        "path": "profile/C/C-055-Tekniska Polska-波兰.md",
+        "locator": "L122"
+      }
+    ]
+  },
+  {
+    "url": "https://tekniska.pl/kontakt/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L575"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L582"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L653"
+      },
+      {
+        "path": "profile/C/C-055-Tekniska Polska-波兰.md",
+        "locator": "L75"
+      },
+      {
+        "path": "profile/C/C-055-Tekniska Polska-波兰.md",
+        "locator": "L76"
+      },
+      {
+        "path": "profile/C/C-055-Tekniska Polska-波兰.md",
+        "locator": "L137"
+      }
+    ]
+  },
+  {
+    "url": "https://tekniska.pl/o-firmie/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L599"
+      },
+      {
+        "path": "profile/C/C-055-Tekniska Polska-波兰.md",
+        "locator": "L92"
+      }
+    ]
+  },
+  {
+    "url": "https://tekniska.pl/poznaj-nasz-zarzad/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L662"
+      },
+      {
+        "path": "profile/C/C-055-Tekniska Polska-波兰.md",
+        "locator": "L145"
+      }
+    ]
+  },
+  {
+    "url": "https://tekniska.pl/produkty/redfox-5528-f16g-t12g-lv/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L617"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L644"
+      },
+      {
+        "path": "profile/C/C-055-Tekniska Polska-波兰.md",
+        "locator": "L108"
+      },
+      {
+        "path": "profile/C/C-055-Tekniska Polska-波兰.md",
+        "locator": "L126"
       }
     ]
   },
@@ -86502,6 +86878,122 @@
     ]
   },
   {
+    "url": "https://www.eptimo.com/en/about-us/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L374"
+      },
+      {
+        "path": "profile/C/C-053-Eptimo-波兰.md",
+        "locator": "L132"
+      }
+    ]
+  },
+  {
+    "url": "https://www.eptimo.com/en/b2b-platform/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L294"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L311"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L320"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L329"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L365"
+      },
+      {
+        "path": "profile/C/C-053-Eptimo-波兰.md",
+        "locator": "L76"
+      },
+      {
+        "path": "profile/C/C-053-Eptimo-波兰.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/C/C-053-Eptimo-波兰.md",
+        "locator": "L96"
+      },
+      {
+        "path": "profile/C/C-053-Eptimo-波兰.md",
+        "locator": "L102"
+      },
+      {
+        "path": "profile/C/C-053-Eptimo-波兰.md",
+        "locator": "L128"
+      }
+    ]
+  },
+  {
+    "url": "https://www.eptimo.com/en/contact-us/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L356"
+      },
+      {
+        "path": "profile/C/C-053-Eptimo-波兰.md",
+        "locator": "L121"
+      }
+    ]
+  },
+  {
+    "url": "https://www.eptimo.com/en/cooperation/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L338"
+      },
+      {
+        "path": "profile/C/C-053-Eptimo-波兰.md",
+        "locator": "L106"
+      }
+    ]
+  },
+  {
+    "url": "https://www.eptimo.com/en/offer/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L383"
+      },
+      {
+        "path": "profile/C/C-053-Eptimo-波兰.md",
+        "locator": "L143"
+      }
+    ]
+  },
+  {
+    "url": "https://www.eptimo.com/wp-content/uploads/2026/02/mikrotik.png",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L319"
+      },
+      {
+        "path": "profile/C/C-053-Eptimo-波兰.md",
+        "locator": "L95"
+      }
+    ]
+  },
+  {
     "url": "https://www.equipages.fr/",
     "http_checked": false,
     "occurrences": [
@@ -92598,6 +93090,34 @@
     ]
   },
   {
+    "url": "https://www.hms-networks.com/contact/find-distributor?indexCatalogue=partner-company&searchQuery=QL3D&wordsMode=AllWords&sf_culture=en&orderBy=OrderBy%20extended&page=1",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L56"
+      },
+      {
+        "path": "profile/C/C-051-QL3D-法国.md",
+        "locator": "L96"
+      }
+    ]
+  },
+  {
+    "url": "https://www.hms-networks.com/p/1008tx-n-tron-1008tx-unmanaged-8-port-gigabit-industrial-ethernet-switch",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L74"
+      },
+      {
+        "path": "profile/C/C-051-QL3D-法国.md",
+        "locator": "L114"
+      }
+    ]
+  },
+  {
     "url": "https://www.hmt-hamburg.com",
     "http_checked": false,
     "occurrences": [
@@ -98418,6 +98938,20 @@
       {
         "path": "死路与死链备案_2026-09.md",
         "locator": "L48"
+      }
+    ]
+  },
+  {
+    "url": "https://www.lapostegroupe.com/assets/media/le-groupe-laposte/ajDsl41P9HI4UjLE_Press_kit_La_Poste_Groupe_VT26.pdf",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/C/C-051-QL3D-法国.md",
+        "locator": "L127"
       }
     ]
   },
@@ -109386,12 +109920,38 @@
     ]
   },
   {
+    "url": "https://www.maritex.eu/en/about-company",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L452"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L461"
+      },
+      {
+        "path": "profile/C/C-054-Maritex Leszek Łosin Sp.j-波兰.md",
+        "locator": "L95"
+      },
+      {
+        "path": "profile/C/C-054-Maritex Leszek Łosin Sp.j-波兰.md",
+        "locator": "L98"
+      }
+    ]
+  },
+  {
     "url": "https://www.maritex.eu/en/contact-us",
     "http_checked": false,
     "occurrences": [
       {
         "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
         "locator": "反向信号名单!Q359"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L506"
       },
       {
         "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
@@ -109406,12 +109966,62 @@
         "locator": "L27"
       },
       {
+        "path": "profile/C/C-054-Maritex Leszek Łosin Sp.j-波兰.md",
+        "locator": "L140"
+      },
+      {
         "path": "客户分级跟进表_2026-09.xlsx",
         "locator": "C级-难啃!Q55"
       },
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-359/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.maritex.eu/en/product/oring-ies-1080a-industrial-communication",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L435"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L479"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L497"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L515"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L524"
+      },
+      {
+        "path": "profile/C/C-054-Maritex Leszek Łosin Sp.j-波兰.md",
+        "locator": "L75"
+      },
+      {
+        "path": "profile/C/C-054-Maritex Leszek Łosin Sp.j-波兰.md",
+        "locator": "L118"
+      },
+      {
+        "path": "profile/C/C-054-Maritex Leszek Łosin Sp.j-波兰.md",
+        "locator": "L130"
+      },
+      {
+        "path": "profile/C/C-054-Maritex Leszek Łosin Sp.j-波兰.md",
+        "locator": "L147"
+      },
+      {
+        "path": "profile/C/C-054-Maritex Leszek Łosin Sp.j-波兰.md",
+        "locator": "L150"
       }
     ]
   },
@@ -112064,6 +112674,34 @@
     ]
   },
   {
+    "url": "https://www.moxa.com/en/how-to-buy/find-a-distributor?search=Sphinx&region=France",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L224"
+      },
+      {
+        "path": "profile/C/C-052-Sphinx France-法国.md",
+        "locator": "L139"
+      }
+    ]
+  },
+  {
+    "url": "https://www.moxa.com/en/products/industrial-network-infrastructure/ethernet-switches/unmanaged-switches/eds-g308-series",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L197"
+      },
+      {
+        "path": "profile/C/C-052-Sphinx France-法国.md",
+        "locator": "L108"
+      }
+    ]
+  },
+  {
     "url": "https://www.moxa.com/en/products/industrial-network-infrastructure/ethernet-switches/unmanaged-switches/eds-g308-series/eds-g308",
     "http_checked": false,
     "occurrences": [
@@ -112072,8 +112710,16 @@
         "locator": "L479"
       },
       {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L206"
+      },
+      {
         "path": "profile/C/C-049-Inmac Wstore-法国.md",
         "locator": "L129"
+      },
+      {
+        "path": "profile/C/C-052-Sphinx France-法国.md",
+        "locator": "L120"
       }
     ]
   },
@@ -132020,6 +132666,10 @@
         "locator": "L218"
       },
       {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L608"
+      },
+      {
         "path": "batch/C类加厚_2026-10-09_R70_第1批.json",
         "locator": "L302"
       },
@@ -132078,6 +132728,24 @@
       {
         "path": "profile/C/C-038-Last Mile Communication-挪威.md",
         "locator": "L92"
+      },
+      {
+        "path": "profile/C/C-055-Tekniska Polska-波兰.md",
+        "locator": "L102"
+      }
+    ]
+  },
+  {
+    "url": "https://www.westermo.com/products/ethernet-switches/rack/redfox-5528-f16g-t12g-lv",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第5批.json",
+        "locator": "L626"
+      },
+      {
+        "path": "profile/C/C-055-Tekniska Polska-波兰.md",
+        "locator": "L117"
       }
     ]
   },
