@@ -192,6 +192,7 @@ C_ENRICH_FILES = [
     "batch/C类加厚_2026-10-10_R70_第6批.json",
     "batch/C类复核_2026-10-12_R72_第1批.json",
     "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+    "batch/C类AB标准加厚_2026-10-12_R73_第2批.json",
 ]
 
 

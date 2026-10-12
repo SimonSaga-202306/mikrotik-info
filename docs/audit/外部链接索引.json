@@ -8388,6 +8388,20 @@
     ]
   },
   {
+    "url": "https://butikk.lastmile.no/westermo/117090/westermo-lynx-3510-f2g-p8g-lv-l2-poe-plus-switch-8023at-af-8-x-gbit",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第2批.json",
+        "locator": "L227"
+      },
+      {
+        "path": "profile/C/C-038-Last Mile Communication-挪威.md",
+        "locator": "L103"
+      }
+    ]
+  },
+  {
     "url": "https://byggkatalogen.byggtjanst.se/produkt/elprodukter/styrutrustning-styrenheter-el/styrfunktionsenheter-el-ovrigt/siox-solutions-sxduo-spjallmodul/234158",
     "http_checked": false,
     "occurrences": [
@@ -10244,6 +10258,42 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-769/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://company.lursoft.lv/en/oak-integrator-products/40003540103",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L402"
+      },
+      {
+        "path": "profile/C/C-034-OAK INTEGRATOR-拉脱维亚.md",
+        "locator": "L110"
+      }
+    ]
+  },
+  {
+    "url": "https://company.lursoft.lv/en/oak-integrator-solutions/40103496615",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L393"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L411"
+      },
+      {
+        "path": "profile/C/C-034-OAK INTEGRATOR-拉脱维亚.md",
+        "locator": "L107"
+      },
+      {
+        "path": "profile/C/C-034-OAK INTEGRATOR-拉脱维亚.md",
+        "locator": "L116"
       }
     ]
   },
@@ -17777,7 +17827,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1775"
+        "locator": "L1878"
       }
     ]
   },
@@ -17787,7 +17837,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1775"
+        "locator": "L1878"
       }
     ]
   },
@@ -40942,6 +40992,28 @@
     ]
   },
   {
+    "url": "https://moxa.distry.shop/chi-siamo/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L30"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L39"
+      },
+      {
+        "path": "profile/C/C-031-Jampel S.r.l-意大利.md",
+        "locator": "L67"
+      },
+      {
+        "path": "profile/C/C-031-Jampel S.r.l-意大利.md",
+        "locator": "L70"
+      }
+    ]
+  },
+  {
     "url": "https://mpi.ch",
     "http_checked": false,
     "occurrences": [
@@ -42505,6 +42577,20 @@
     "occurrences": [
       {
         "path": "profile/A/A-390-Stanimir Konakchiev - Nebo Systems-保加利亚.md",
+        "locator": "L80"
+      }
+    ]
+  },
+  {
+    "url": "https://nen.nipez.cz/en/registr-dodavatelu/detail-subjektu/382500180",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第2批.json",
+        "locator": "L281"
+      },
+      {
+        "path": "profile/C/C-039-Alternetivo s.r.o-捷克.md",
         "locator": "L80"
       }
     ]
@@ -45036,6 +45122,94 @@
     ]
   },
   {
+    "url": "https://oak-integrator.lv/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L366"
+      },
+      {
+        "path": "profile/C/C-034-OAK INTEGRATOR-拉脱维亚.md",
+        "locator": "L94"
+      }
+    ]
+  },
+  {
+    "url": "https://oak-integrator.lv/about-us/contact-page/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L317"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L324"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L331"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L384"
+      },
+      {
+        "path": "profile/C/C-034-OAK INTEGRATOR-拉脱维亚.md",
+        "locator": "L70"
+      },
+      {
+        "path": "profile/C/C-034-OAK INTEGRATOR-拉脱维亚.md",
+        "locator": "L71"
+      },
+      {
+        "path": "profile/C/C-034-OAK INTEGRATOR-拉脱维亚.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/C/C-034-OAK INTEGRATOR-拉脱维亚.md",
+        "locator": "L102"
+      }
+    ]
+  },
+  {
+    "url": "https://oak-integrator.lv/catalog/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L348"
+      },
+      {
+        "path": "profile/C/C-034-OAK INTEGRATOR-拉脱维亚.md",
+        "locator": "L85"
+      }
+    ]
+  },
+  {
+    "url": "https://oak-integrator.lv/product/korenix-managed-switches/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L357"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L375"
+      },
+      {
+        "path": "profile/C/C-034-OAK INTEGRATOR-拉脱维亚.md",
+        "locator": "L91"
+      },
+      {
+        "path": "profile/C/C-034-OAK INTEGRATOR-拉脱维亚.md",
+        "locator": "L97"
+      }
+    ]
+  },
+  {
     "url": "https://obchody.heureka.cz/pcvcomp-cz/recenze/",
     "http_checked": false,
     "occurrences": [
@@ -46138,6 +46312,20 @@
       {
         "path": "batch/B段复筛_2026-09-28_R53_第20批.json",
         "locator": "L37"
+      }
+    ]
+  },
+  {
+    "url": "https://pages.moxa.com/eu-MTC-Locations.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L48"
+      },
+      {
+        "path": "profile/C/C-031-Jampel S.r.l-意大利.md",
+        "locator": "L74"
       }
     ]
   },
@@ -60136,6 +60324,20 @@
     ]
   },
   {
+    "url": "https://tektelic.com/projects/smart-city-lorawan-network/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第2批.json",
+        "locator": "L236"
+      },
+      {
+        "path": "profile/C/C-038-Last Mile Communication-挪威.md",
+        "locator": "L109"
+      }
+    ]
+  },
+  {
     "url": "https://telasys.com/",
     "http_checked": false,
     "occurrences": [
@@ -62938,6 +63140,20 @@
     ]
   },
   {
+    "url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913821289",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第2批.json",
+        "locator": "L200"
+      },
+      {
+        "path": "profile/C/C-038-Last Mile Communication-挪威.md",
+        "locator": "L78"
+      }
+    ]
+  },
+  {
     "url": "https://virksomhet.brreg.no/nb/oppslag/enheter/959977046",
     "http_checked": false,
     "occurrences": [
@@ -62952,6 +63168,34 @@
       {
         "path": "profile/B/B-517-Fiberworks AS-挪威.md",
         "locator": "L145"
+      }
+    ]
+  },
+  {
+    "url": "https://virksomhet.brreg.no/nb/oppslag/enheter/968614150",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第2批.json",
+        "locator": "L31"
+      },
+      {
+        "path": "profile/C/C-036-Autic System AS-挪威.md",
+        "locator": "L74"
+      }
+    ]
+  },
+  {
+    "url": "https://virksomhet.brreg.no/nb/oppslag/enheter/974533146",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第2批.json",
+        "locator": "L111"
+      },
+      {
+        "path": "profile/C/C-037-Hatteland Technology-挪威.md",
+        "locator": "L73"
       }
     ]
   },
@@ -66590,6 +66834,72 @@
     ]
   },
   {
+    "url": "https://www.adeptor.no/hirschmann/brs20-08009999-04/hirschmann-bobcat-8xrj45-brs20-08009999-ctcz99hhses",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L481"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L490"
+      },
+      {
+        "path": "profile/C/C-035-Adeptor AS-挪威.md",
+        "locator": "L80"
+      },
+      {
+        "path": "profile/C/C-035-Adeptor AS-挪威.md",
+        "locator": "L87"
+      }
+    ]
+  },
+  {
+    "url": "https://www.adeptor.no/om-oss",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L454"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L463"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L517"
+      },
+      {
+        "path": "profile/C/C-035-Adeptor AS-挪威.md",
+        "locator": "L70"
+      },
+      {
+        "path": "profile/C/C-035-Adeptor AS-挪威.md",
+        "locator": "L73"
+      },
+      {
+        "path": "profile/C/C-035-Adeptor AS-挪威.md",
+        "locator": "L98"
+      }
+    ]
+  },
+  {
+    "url": "https://www.adeptor.no/partnere/belden",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L472"
+      },
+      {
+        "path": "profile/C/C-035-Adeptor AS-挪威.md",
+        "locator": "L76"
+      }
+    ]
+  },
+  {
     "url": "https://www.adrianetsnc.it/",
     "http_checked": false,
     "occurrences": [
@@ -68854,6 +69164,20 @@
     ]
   },
   {
+    "url": "https://www.alternetivo.cz/default.asp?inc=inc%2Fcs%2FJandus.htm",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第2批.json",
+        "locator": "L317"
+      },
+      {
+        "path": "profile/C/C-039-Alternetivo s.r.o-捷克.md",
+        "locator": "L119"
+      }
+    ]
+  },
+  {
     "url": "https://www.alternetivo.cz/kontakt/",
     "http_checked": false,
     "occurrences": [
@@ -68880,6 +69204,62 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-285/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.alternetivo.cz/kontakty_ma64.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第2批.json",
+        "locator": "L326"
+      },
+      {
+        "path": "profile/C/C-039-Alternetivo s.r.o-捷克.md",
+        "locator": "L124"
+      }
+    ]
+  },
+  {
+    "url": "https://www.alternetivo.cz/o-spolecnosti_ma3.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第2批.json",
+        "locator": "L290"
+      },
+      {
+        "path": "profile/C/C-039-Alternetivo s.r.o-捷克.md",
+        "locator": "L86"
+      }
+    ]
+  },
+  {
+    "url": "https://www.alternetivo.cz/prumyslovy-din-fast-ethernet-switch-uzke-provedeni-neriditelny-8x-10-100tx-rj-45-dvojite-12-48vdc-40-70c_d39709.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第2批.json",
+        "locator": "L299"
+      },
+      {
+        "path": "profile/C/C-039-Alternetivo s.r.o-捷克.md",
+        "locator": "L102"
+      }
+    ]
+  },
+  {
+    "url": "https://www.alternetivo.cz/prumyslovy-gigabit-ethernet-switch-robustni-riditelny-8x-10-100-1000tx-rj-45-poe-4x-1000-sfp-bez-1588-uzke-provedeni-ni_d69743.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第2批.json",
+        "locator": "L308"
+      },
+      {
+        "path": "profile/C/C-039-Alternetivo s.r.o-捷克.md",
+        "locator": "L114"
       }
     ]
   },
@@ -70450,6 +70830,90 @@
     ]
   },
   {
+    "url": "https://www.atecnica.it/informazioni-atecnica",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L203"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L257"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L266"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L275"
+      },
+      {
+        "path": "profile/C/C-033-atecnica.it-意大利.md",
+        "locator": "L70"
+      },
+      {
+        "path": "profile/C/C-033-atecnica.it-意大利.md",
+        "locator": "L96"
+      },
+      {
+        "path": "profile/C/C-033-atecnica.it-意大利.md",
+        "locator": "L102"
+      },
+      {
+        "path": "profile/C/C-033-atecnica.it-意大利.md",
+        "locator": "L105"
+      }
+    ]
+  },
+  {
+    "url": "https://www.atecnica.it/switch-industriale-hi-poe-8-porte-poe-2-uplink-sfp.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L212"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L221"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L230"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L239"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L248"
+      },
+      {
+        "path": "profile/C/C-033-atecnica.it-意大利.md",
+        "locator": "L73"
+      },
+      {
+        "path": "profile/C/C-033-atecnica.it-意大利.md",
+        "locator": "L76"
+      },
+      {
+        "path": "profile/C/C-033-atecnica.it-意大利.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/C/C-033-atecnica.it-意大利.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/C/C-033-atecnica.it-意大利.md",
+        "locator": "L93"
+      }
+    ]
+  },
+  {
     "url": "https://www.ateg.de",
     "http_checked": false,
     "occurrences": [
@@ -71254,6 +71718,62 @@
     ]
   },
   {
+    "url": "https://www.autic.no/bransjer/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第2批.json",
+        "locator": "L40"
+      },
+      {
+        "path": "profile/C/C-036-Autic System AS-挪威.md",
+        "locator": "L81"
+      }
+    ]
+  },
+  {
+    "url": "https://www.autic.no/product/n-tron-105tx-5-ports-10-100-basetx-industriell-swicth/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第2批.json",
+        "locator": "L58"
+      },
+      {
+        "path": "profile/C/C-036-Autic System AS-挪威.md",
+        "locator": "L96"
+      }
+    ]
+  },
+  {
+    "url": "https://www.autic.no/product/n-tron-8-ports-adm-gigabit-poe-switch/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第2批.json",
+        "locator": "L67"
+      },
+      {
+        "path": "profile/C/C-036-Autic System AS-挪威.md",
+        "locator": "L106"
+      }
+    ]
+  },
+  {
+    "url": "https://www.autic.no/va-revolusjon-i-alesund/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第2批.json",
+        "locator": "L49"
+      },
+      {
+        "path": "profile/C/C-036-Autic System AS-挪威.md",
+        "locator": "L86"
+      }
+    ]
+  },
+  {
     "url": "https://www.automationexperts.gr",
     "http_checked": false,
     "occurrences": [
@@ -71954,6 +72474,20 @@
       {
         "path": "profile/A/A-224-Salzgeber GmbH-奥地利.md",
         "locator": "L79"
+      }
+    ]
+  },
+  {
+    "url": "https://www.belden.com/news/distributor-value-awards-2020",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L508"
+      },
+      {
+        "path": "profile/C/C-035-Adeptor AS-挪威.md",
+        "locator": "L93"
       }
     ]
   },
@@ -90748,6 +91282,76 @@
     ]
   },
   {
+    "url": "https://www.hattelandtechnology.com/markets/marine-offshore",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第2批.json",
+        "locator": "L138"
+      },
+      {
+        "path": "profile/C/C-037-Hatteland Technology-挪威.md",
+        "locator": "L89"
+      }
+    ]
+  },
+  {
+    "url": "https://www.hattelandtechnology.com/news/moxa-and-hatteland-technology-expand-partnership",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第2批.json",
+        "locator": "L129"
+      },
+      {
+        "path": "profile/C/C-037-Hatteland Technology-挪威.md",
+        "locator": "L84"
+      }
+    ]
+  },
+  {
+    "url": "https://www.hattelandtechnology.com/partner-pages/moxa",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第2批.json",
+        "locator": "L120"
+      },
+      {
+        "path": "profile/C/C-037-Hatteland Technology-挪威.md",
+        "locator": "L80"
+      }
+    ]
+  },
+  {
+    "url": "https://www.hattelandtechnology.com/products/marine-network-switches",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第2批.json",
+        "locator": "L147"
+      },
+      {
+        "path": "profile/C/C-037-Hatteland Technology-挪威.md",
+        "locator": "L98"
+      }
+    ]
+  },
+  {
+    "url": "https://www.hattelandtechnology.com/view_product?id=323",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第2批.json",
+        "locator": "L156"
+      },
+      {
+        "path": "profile/C/C-037-Hatteland Technology-挪威.md",
+        "locator": "L107"
+      }
+    ]
+  },
+  {
     "url": "https://www.hbs.net",
     "http_checked": false,
     "occurrences": [
@@ -95178,6 +95782,42 @@
     ]
   },
   {
+    "url": "https://www.jampel.it/contatti/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L75"
+      },
+      {
+        "path": "profile/C/C-031-Jampel S.r.l-意大利.md",
+        "locator": "L85"
+      }
+    ]
+  },
+  {
+    "url": "https://www.jampel.it/prodotti/moxa/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L57"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L66"
+      },
+      {
+        "path": "profile/C/C-031-Jampel S.r.l-意大利.md",
+        "locator": "L77"
+      },
+      {
+        "path": "profile/C/C-031-Jampel S.r.l-意大利.md",
+        "locator": "L80"
+      }
+    ]
+  },
+  {
     "url": "https://www.janzen-group.com/",
     "http_checked": false,
     "occurrences": [
@@ -97056,6 +97696,20 @@
       {
         "path": "死路与死链备案_2026-09.md",
         "locator": "L48"
+      }
+    ]
+  },
+  {
+    "url": "https://www.lastmile.no/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第2批.json",
+        "locator": "L209"
+      },
+      {
+        "path": "profile/C/C-038-Last Mile Communication-挪威.md",
+        "locator": "L83"
       }
     ]
   },
@@ -107294,6 +107948,70 @@
     ]
   },
   {
+    "url": "https://www.mader.cz/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第2批.json",
+        "locator": "L378"
+      },
+      {
+        "path": "profile/C/C-040-MADER.cz-捷克.md",
+        "locator": "L84"
+      }
+    ]
+  },
+  {
+    "url": "https://www.mader.cz/digitus-professional-industrial-4port-fast-ethernet-poe-switch-1-uplink-port",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第2批.json",
+        "locator": "L405"
+      },
+      {
+        "path": "profile/C/C-040-MADER.cz-捷克.md",
+        "locator": "L111"
+      }
+    ]
+  },
+  {
+    "url": "https://www.mader.cz/kontakty",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第2批.json",
+        "locator": "L369"
+      },
+      {
+        "path": "profile/C/C-040-MADER.cz-捷克.md",
+        "locator": "L72"
+      }
+    ]
+  },
+  {
+    "url": "https://www.mader.cz/tplink-omada-10port-gigabit-industrial-easy-managed-switch-with-6port-poe-and-2port-poe",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第2批.json",
+        "locator": "L387"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第2批.json",
+        "locator": "L396"
+      },
+      {
+        "path": "profile/C/C-040-MADER.cz-捷克.md",
+        "locator": "L92"
+      },
+      {
+        "path": "profile/C/C-040-MADER.cz-捷克.md",
+        "locator": "L100"
+      }
+    ]
+  },
+  {
     "url": "https://www.maelibunadur.is/about/",
     "http_checked": false,
     "occurrences": [
@@ -117434,6 +118152,44 @@
     ]
   },
   {
+    "url": "https://www.pierobersanini.com/en/p/contatti",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L116"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L125"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L143"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L152"
+      },
+      {
+        "path": "profile/C/C-032-Piero Bersanini-意大利.md",
+        "locator": "L69"
+      },
+      {
+        "path": "profile/C/C-032-Piero Bersanini-意大利.md",
+        "locator": "L72"
+      },
+      {
+        "path": "profile/C/C-032-Piero Bersanini-意大利.md",
+        "locator": "L87"
+      },
+      {
+        "path": "profile/C/C-032-Piero Bersanini-意大利.md",
+        "locator": "L92"
+      }
+    ]
+  },
+  {
     "url": "https://www.pijlsolutions.nl/nieuws/achter_de_schermen_met_arno",
     "http_checked": false,
     "occurrences": [
@@ -124100,6 +124856,20 @@
     ]
   },
   {
+    "url": "https://www.spsitalia.it/en/exhibitor-detail/1219/piero-bersanini-spa",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L161"
+      },
+      {
+        "path": "profile/C/C-032-Piero Bersanini-意大利.md",
+        "locator": "L100"
+      }
+    ]
+  },
+  {
     "url": "https://www.stlconnext.it/",
     "http_checked": false,
     "occurrences": [
@@ -125152,6 +125922,20 @@
       {
         "path": "scripts/R66_R56_KP第4波落盘.py",
         "locator": "L101"
+      }
+    ]
+  },
+  {
+    "url": "https://www.tek.com/en/buy/partner-locator/details/acc-1715039",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L499"
+      },
+      {
+        "path": "profile/C/C-035-Adeptor AS-挪威.md",
+        "locator": "L90"
       }
     ]
   },
@@ -130120,6 +130904,18 @@
     "http_checked": false,
     "occurrences": [
       {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L134"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+        "locator": "L339"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第2批.json",
+        "locator": "L218"
+      },
+      {
         "path": "batch/C类加厚_2026-10-09_R70_第1批.json",
         "locator": "L302"
       },
@@ -130166,6 +130962,18 @@
       {
         "path": "profile/C/C-022-NETAP-希腊.md",
         "locator": "L73"
+      },
+      {
+        "path": "profile/C/C-032-Piero Bersanini-意大利.md",
+        "locator": "L80"
+      },
+      {
+        "path": "profile/C/C-034-OAK INTEGRATOR-拉脱维亚.md",
+        "locator": "L82"
+      },
+      {
+        "path": "profile/C/C-038-Last Mile Communication-挪威.md",
+        "locator": "L92"
       }
     ]
   },

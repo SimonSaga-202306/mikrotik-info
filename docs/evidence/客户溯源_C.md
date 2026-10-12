@@ -12,7 +12,7 @@
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：bross.dk
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 本地原始批次：`batch/C类加厚_2026-10-09_R70_第1批.json / records[0]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -25,7 +25,7 @@
 - 旧来源标签（不是证据）：反向信号/2026-09
 - 官网线索（不自动背书其他字段）：danbit.dk
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 本地原始批次：`batch/C类加厚_2026-10-09_R70_第1批.json / records[1]`
 - 原记录URL（只做线索，不等于本次验证）：https://danbit.dk/da/kontakt-os/
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -38,7 +38,7 @@
 - 旧来源标签（不是证据）：ORing经销商名录/2026-09
 - 官网线索（不自动背书其他字段）：alfa-metronik.ua
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 本地原始批次：`batch/C类加厚_2026-10-09_R70_第1批.json / records[2]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -51,7 +51,7 @@
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：elgev.co.il
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 本地原始批次：`batch/C类加厚_2026-10-09_R70_第1批.json / records[3]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -64,7 +64,7 @@
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：galoz.co.il
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 本地原始批次：`batch/C类加厚_2026-10-09_R70_第1批.json / records[4]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -77,7 +77,7 @@
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：ip-net.co.il
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 本地原始批次：`batch/C类加厚_2026-10-09_R70_第2批.json / records[0]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -90,7 +90,7 @@
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：comicon.bg
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 本地原始批次：`batch/C类加厚_2026-10-09_R70_第2批.json / records[1]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -103,7 +103,7 @@
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：rittbul.bg
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 本地原始批次：`batch/C类加厚_2026-10-09_R70_第2批.json / records[2]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -116,7 +116,7 @@
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：pondi.hr
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 本地原始批次：`batch/C类加厚_2026-10-09_R70_第2批.json / records[3]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -129,7 +129,7 @@
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：microstar.hr
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 本地原始批次：`batch/C类加厚_2026-10-09_R70_第2批.json / records[4]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -142,7 +142,7 @@
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：falkinnismar.is
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 本地原始批次：`batch/C类加厚_2026-10-09_R70_第3批.json / records[0]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -155,7 +155,7 @@
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：maelibunadur.is
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 本地原始批次：`batch/C类加厚_2026-10-09_R70_第3批.json / records[1]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -168,7 +168,7 @@
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：cescoelectrical.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 本地原始批次：`batch/C类加厚_2026-10-09_R70_第3批.json / records[2]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -181,7 +181,7 @@
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：ebhorsman.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 本地原始批次：`batch/C类加厚_2026-10-09_R70_第3批.json / records[3]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -194,7 +194,7 @@
 - 旧来源标签（不是证据）：PLANET 经销商名录/2026-09
 - 官网线索（不自动背书其他字段）：globall.ca
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 本地原始批次：`batch/C类加厚_2026-10-09_R70_第3批.json / records[4]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -207,7 +207,7 @@
 - 旧来源标签（不是证据）：EtherWAN/Advantech 渠道名录（经销商定位法）
 - 官网线索（不自动背书其他字段）：proax.ca
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 本地原始批次：`batch/C类加厚_2026-10-09_R70_第4批.json / records[0]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -220,7 +220,7 @@
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：atysco.hu
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 本地原始批次：`batch/C类加厚_2026-10-09_R70_第4批.json / records[1]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -233,7 +233,7 @@
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：aspect.com.mk
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 本地原始批次：`batch/C类加厚_2026-10-09_R70_第4批.json / records[2]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -246,7 +246,7 @@
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：areskom.com.tr
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 本地原始批次：`batch/C类加厚_2026-10-09_R70_第4批.json / records[3]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -259,7 +259,7 @@
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：novatel.rs
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 本地原始批次：`batch/C类加厚_2026-10-09_R70_第4批.json / records[4]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -272,7 +272,7 @@
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：bestofautomation.at
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 本地原始批次：`batch/C类加厚_2026-10-10_R70_第5批.json / records[0]`；`batch/C类复核_2026-10-12_R72_第1批.json / records[0]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -285,7 +285,7 @@
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：netap.gr
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 本地原始批次：`batch/C类加厚_2026-10-10_R70_第5批.json / records[1]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -298,7 +298,7 @@
 - 旧来源标签（不是证据）：PLANET 经销商名录/2026-09
 - 官网线索（不自动背书其他字段）：planet-shop.gr
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 本地原始批次：`batch/C类加厚_2026-10-10_R70_第5批.json / records[2]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -311,7 +311,7 @@
 - 旧来源标签（不是证据）：ORing经销商名录/2026-09
 - 官网线索（不自动背书其他字段）：acceed.de
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 本地原始批次：`batch/C类加厚_2026-10-10_R70_第5批.json / records[3]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -324,7 +324,7 @@
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：primation.de
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 本地原始批次：`batch/C类加厚_2026-10-10_R70_第5批.json / records[4]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -337,7 +337,7 @@
 - 旧来源标签（不是证据）：反向信号/2026-09
 - 官网线索（不自动背书其他字段）：oring.spectra.de
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 本地原始批次：`batch/C类加厚_2026-10-10_R70_第6批.json / records[0]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -350,7 +350,7 @@
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：videor.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 本地原始批次：`batch/C类加厚_2026-10-10_R70_第6批.json / records[1]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -363,7 +363,7 @@
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：compass-distribution.it
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 本地原始批次：`batch/C类加厚_2026-10-10_R70_第6批.json / records[2]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -376,7 +376,7 @@
 - 旧来源标签（不是证据）：ORing经销商名录/2026-09
 - 官网线索（不自动背书其他字段）：digimax.it
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 本地原始批次：`batch/C类加厚_2026-10-10_R70_第6批.json / records[3]`
 - 原记录URL（只做线索，不等于本次验证）：https://www.digimax.it/it/contattaci
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -389,7 +389,7 @@
 - 旧来源标签（不是证据）：ORing经销商名录/2026-09
 - 官网线索（不自动背书其他字段）：goma.it
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
+- 本地原始批次：`batch/C类加厚_2026-10-10_R70_第6批.json / records[4]`
 - 原记录URL（只做线索，不等于本次验证）：未留存
 - 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
@@ -397,151 +397,212 @@
 <a id="C-031"></a>
 ## C-031 · Jampel S.r.l. · 意大利
 
-- 状态：**R73 A/B标准公开研究已完成（9 个分析维度、6 条含原文与URL的事实；仍为 C / 未触达）**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-257`；本轮不改 CSV、评级或主表规则。
-- 旧来源标签（不是独立证据）：Moxa 渠道名录（经销商定位法）
-- 官网线索：jampel.it。
+- 状态：**R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-257`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：Moxa 渠道名录（经销商定位法）
+- 官网线索（不自动背书其他字段）：jampel.it
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第1批.json`；检索日期：2026-10-12。
+- 本地原始批次：`batch/C类AB标准加厚_2026-10-12_R73_第1批.json / records[0]`
+- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第1批.json`；检索日期：2026-10-12；6 条逐项证据、9 个分析维度。
 - 主要逐项来源：
-  - [Jampel/Moxa Distry Shop：公司年限、B2B/服务与Moxa自述](https://moxa.distry.shop/chi-siamo/)
-  - [Moxa MTC培训地点名录（仅按培训名录范围使用）](https://pages.moxa.com/eu-MTC-Locations.html)
-  - [Moxa型号/商品目录](https://www.jampel.it/prodotti/moxa/)
-  - [总部、仓库/实验室与通用联系入口](https://www.jampel.it/contatti/)
-- 证据边界：Moxa培训名单不外推为当前销售合同、区域或全型号授权；公司自称授权分销须标注自述。产品目录/价格/现货不等同采购需求或采购成本。
-- 联系/评级边界：**只存档公开信息；不联系、不发邮件、不寄样、不报价；继续保持 C。**
+  - [公司自营页面](https://moxa.distry.shop/chi-siamo/)（一手自述）
+  - [公司自营页面](https://moxa.distry.shop/chi-siamo/)（一手自述；未独立核验商业授权范围）
+  - [制造商官方培训地点页](https://pages.moxa.com/eu-MTC-Locations.html)（一手厂商名录；仅支持 MTC 培训名录范围）
+  - [渠道商商品页](https://www.jampel.it/prodotti/moxa/)（一手目录；型号/页面描述可核，库存与价格动态）
+  - [渠道商商品页](https://www.jampel.it/prodotti/moxa/)（一手目录；未独立验证实物库存）
+  - [公司官网联系页](https://www.jampel.it/contatti/)（一手公开联系信息）
+- 证据边界：Moxa 培训地点名录不等于销售合同或全部产品授权；官网自述的‘官方分销’仍应标注为公司自述。未核实收入、客户名单、采购额、认证有效期、供应商准入及终端项目。
+- 联系/评级边界：**未触达；无邮件、电话、寄样或报价；保持 C；未改主表。**
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="C-032"></a>
 ## C-032 · Piero Bersanini · 意大利
 
-- 状态：**R73 A/B标准公开研究已完成（9 个分析维度、6 条含原文与URL的事实；仍为 C / 未触达）**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-261`；本轮不改 CSV、评级或主表规则。
-- 旧来源标签（不是独立证据）：2026-09-22
-- 官网线索：pierobersanini.com。
+- 状态：**R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-261`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：pierobersanini.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第1批.json`；检索日期：2026-10-12。
+- 本地原始批次：`batch/C类AB标准加厚_2026-10-12_R73_第1批.json / records[1]`
+- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第1批.json`；检索日期：2026-10-12；6 条逐项证据、9 个分析维度。
 - 主要逐项来源：
-  - [法定主体/官网联系与网店产品分类](https://www.pierobersanini.com/en/p/contatti)
-  - [Westermo意大利Gold distributor官方名录](https://www.westermo.com/contact/where-to-buy)
-  - [SPS Italia 2026展商与应用行业资料](https://www.spsitalia.it/en/exhibitor-detail/1219/piero-bersanini-spa)
-- 证据边界：Gold等级和服务属性不证明销量、采购量或第二来源政策；当前具名采购决策人未核，未触达。
-- 联系/评级边界：**只存档公开信息；不联系、不发邮件、不寄样、不报价；继续保持 C。**
+  - [公司官网页脚/联系页](https://www.pierobersanini.com/en/p/contatti)（一手法定主体自述）
+  - [公司官网](https://www.pierobersanini.com/en/p/contatti)（一手自述）
+  - [Westermo 官方渠道名录](https://www.westermo.com/contact/where-to-buy)（制造商一手名录）
+  - [公司网店产品分类](https://www.pierobersanini.com/en/p/contatti)（一手目录）
+  - [公司官网联系页](https://www.pierobersanini.com/en/p/contatti)（一手公开联系信息）
+  - [SPS Italia 官方展商目录（2026）](https://www.spsitalia.it/en/exhibitor-detail/1219/piero-bersanini-spa)（展会一手目录/公司简介）
+- 联系/评级边界：**未触达；无邮件、电话、寄样或报价；保持 C；未改主表。**
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="C-033"></a>
 ## C-033 · atecnica.it · 意大利
 
-- 状态：**R73 A/B标准公开研究已完成（10 个分析维度、9 条含原文与URL的事实；仍为 C / 未触达）**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-269`；本轮不改 CSV、评级或主表规则。
-- 旧来源标签（不是独立证据）：反向信号/2026-09
-- 官网线索：atecnica.it。
+- 状态：**R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-269`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：反向信号/2026-09
+- 官网线索（不自动背书其他字段）：atecnica.it
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第1批.json`；检索日期：2026-10-12。
+- 本地原始批次：`batch/C类AB标准加厚_2026-10-12_R73_第1批.json / records[2]`
+- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第1批.json`；检索日期：2026-10-12；9 条逐项证据、10 个分析维度。
 - 主要逐项来源：
-  - [ATECNICA srls销售条款/法定标识/电商服务边界](https://www.atecnica.it/informazioni-atecnica)
-  - [工业PoE交换机SKU与动态零售页](https://www.atecnica.it/switch-industriale-hi-poe-8-porte-poe-2-uplink-sfp.html)
-- 证据边界：商品页含税价格与库存是动态零售快照，不是批发/采购成本或销量证据；制造商品牌、完整规格、采购人及批量需求未核。
-- 联系/评级边界：**只存档公开信息；不联系、不发邮件、不寄样、不报价；继续保持 C。**
+  - [公司自有销售/法律条款页](https://www.atecnica.it/informazioni-atecnica)（一手主体自述）
+  - [公司网店商品页](https://www.atecnica.it/switch-industriale-hi-poe-8-porte-poe-2-uplink-sfp.html)（一手商品目录；厂牌/库存需另核）
+  - [公司网店商品页](https://www.atecnica.it/switch-industriale-hi-poe-8-porte-poe-2-uplink-sfp.html)（一手商品规格描述；未核厂商数据手册）
+  - [公司网店实时商品页面](https://www.atecnica.it/switch-industriale-hi-poe-8-porte-poe-2-uplink-sfp.html)（动态零售快照；价格/库存不可外推）
+  - [公司网店导航](https://www.atecnica.it/switch-industriale-hi-poe-8-porte-poe-2-uplink-sfp.html)（一手网站分类）
+  - [公司商品页/联系信息](https://www.atecnica.it/switch-industriale-hi-poe-8-porte-poe-2-uplink-sfp.html)（一手公开联系信息）
+  - [公司自有销售条款](https://www.atecnica.it/informazioni-atecnica)（一手业务模式自述）
+  - [公司自有配送/销售条款](https://www.atecnica.it/informazioni-atecnica)（一手业务模式自述）
+- 证据边界：不得将网页标价/可购买状态解释成其采购价、采购需求或我方的可比报价；不能从单一 SKU 推断整站的工业网络业务体量。
+- 联系/评级边界：**未触达；无邮件、电话、寄样或报价；保持 C；未改主表。**
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="C-034"></a>
 ## C-034 · OAK INTEGRATOR · 拉脱维亚
 
-- 状态：**R73 A/B标准公开研究已完成（10 个分析维度、9 条含原文与URL的事实；仍为 C / 未触达）**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-272`；本轮不改 CSV、评级或主表规则。
-- 旧来源标签（不是独立证据）：2026-09-22
-- 官网线索：oak-integrator.lv。
+- 状态：**R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-272`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：oak-integrator.lv
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第1批.json`；检索日期：2026-10-12。
+- 本地原始批次：`batch/C类AB标准加厚_2026-10-12_R73_第1批.json / records[3]`
+- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第1批.json`；检索日期：2026-10-12；9 条逐项证据、10 个分析维度。
 - 主要逐项来源：
-  - [Westermo Latvia reseller名录](https://www.westermo.com/contact/where-to-buy)
-  - [OAK自动化/工业通信目录与项目评价](https://oak-integrator.lv/catalog/)
-  - [Korenix管理型交换机型号目录与历史客户评价](https://oak-integrator.lv/product/korenix-managed-switches/)
-  - [OAK官网公开职能与联系信息](https://oak-integrator.lv/about-us/contact-page/)
-  - [Lursoft：OAK Integrator Products, SIA（登记/税务聚合数据）](https://company.lursoft.lv/en/oak-integrator-products/40003540103)
-  - [Lursoft：OAK Integrator Solutions, SIA（登记/年报聚合数据）](https://company.lursoft.lv/en/oak-integrator-solutions/40103496615)
-- 证据边界：Westermo名录仅支持reseller/本地库存/基础技术支持。OAK网站与两家同址法人的合同/开票关系未确认；Products税款数据为Lursoft时点快照，须官方复核，且不得归给Solutions或整个OAK品牌。旧“1/3价”无同条件证据。
-- 联系/评级边界：**只存档公开信息；不联系、不发邮件、不寄样、不报价；继续保持 C。**
+  - [Westermo 官方渠道名录](https://www.westermo.com/contact/where-to-buy)（制造商一手名录）
+  - [公司官网产品目录](https://oak-integrator.lv/catalog/)（一手自述/目录）
+  - [公司官网产品页](https://oak-integrator.lv/product/korenix-managed-switches/)（一手产品目录；页面现售/库存未核）
+  - [公司官网客户评价](https://oak-integrator.lv/)（供应商自发布的客户评价；日期未标）
+  - [公司官网历史客户评价](https://oak-integrator.lv/product/korenix-managed-switches/)（供应商自发布，明确为2016年历史信息）
+  - [公司官网联系页](https://oak-integrator.lv/about-us/contact-page/)（一手公开职能/联系信息；采购权限未核）
+  - [Lursoft 企业数据服务（基于登记/年报资料）](https://company.lursoft.lv/en/oak-integrator-solutions/40103496615)（二级登记数据聚合；签约主体待核）
+  - [Lursoft 企业数据服务（汇集登记/税务资料）](https://company.lursoft.lv/en/oak-integrator-products/40003540103)（二级数据快照；欠税需官方来源复核，主体映射待核）
+  - [Lursoft 企业数据服务（基于登记/年报资料）](https://company.lursoft.lv/en/oak-integrator-solutions/40103496615)（二级登记数据聚合；合同关系未核）
+- 证据边界：Westermo 名录只支持 reseller/本地库存/基础技术支持；2016 年项目评价是历史证据；Korenix 页面为产品目录而非库存确认；Lursoft 是二级企业数据服务。法人映射和当前采购状况保持未知。
+- 联系/评级边界：**未触达；无邮件、电话、寄样或报价；保持 C；未改主表。**
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="C-035"></a>
 ## C-035 · Adeptor AS · 挪威
 
-- 状态：**R73 A/B标准公开研究已完成（9 个分析维度、8 条含原文与URL的事实；仍为 C / 未触达）**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-275`；本轮不改 CSV、评级或主表规则。
-- 旧来源标签（不是独立证据）：2026-09-22
-- 官网线索：adeptor.no。
+- 状态：**R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-275`；字段：来源 / 备注 / 入口/联系方式。
+- 旧来源标签（不是证据）：2026-09-22
+- 官网线索（不自动背书其他字段）：adeptor.no
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第1批.json`；检索日期：2026-10-12。
+- 本地原始批次：`batch/C类AB标准加厚_2026-10-12_R73_第1批.json / records[4]`
+- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第1批.json`；检索日期：2026-10-12；8 条逐项证据、9 个分析维度。
 - 主要逐项来源：
-  - [Adeptor经营/业务线/公开联系与库存自述](https://www.adeptor.no/om-oss)
-  - [Adeptor Belden/Hirschmann合作品牌页](https://www.adeptor.no/partnere/belden)
-  - [Hirschmann BOBCAT具体型号/规格](https://www.adeptor.no/hirschmann/brs20-08009999-04/hirschmann-bobcat-8xrj45-brs20-08009999-ctcz99hhses)
-  - [Tektronix挪威伙伴目录](https://www.tek.com/en/buy/partner-locator/details/acc-1715039)
-  - [Belden 2020历史分销奖记录](https://www.belden.com/news/distributor-value-awards-2020)
-- 证据边界：公司库存/业务规模为公司自述，奖项页面为2020历史记录；Hirschmann商品页无公开价格，伙伴名单不代表交换机采购意向或供应商开放。
-- 联系/评级边界：**只存档公开信息；不联系、不发邮件、不寄样、不报价；继续保持 C。**
+  - [公司官网 About 页面](https://www.adeptor.no/om-oss)（一手公司自述；库存规模未审计）
+  - [公司官网 About 页面](https://www.adeptor.no/om-oss)（一手公司自述）
+  - [Adeptor 官方品牌/产品页](https://www.adeptor.no/partnere/belden)（一手渠道商自述）
+  - [渠道商商品页](https://www.adeptor.no/hirschmann/brs20-08009999-04/hirschmann-bobcat-8xrj45-brs20-08009999-ctcz99hhses)（一手产品目录；无公开价格）
+  - [渠道商商品页规格表](https://www.adeptor.no/hirschmann/brs20-08009999-04/hirschmann-bobcat-8xrj45-brs20-08009999-ctcz99hhses)（一手商品数据；建议报价前以制造商数据手册复核）
+  - [Tektronix 官方伙伴名录](https://www.tek.com/en/buy/partner-locator/details/acc-1715039)（制造商一手伙伴页）
+  - [Belden 官方分销奖页面](https://www.belden.com/news/distributor-value-awards-2020)（制造商一手历史记录）
+  - [公司官网](https://www.adeptor.no/om-oss)（一手公开联系信息）
+- 联系/评级边界：**未触达；无邮件、电话、寄样或报价；保持 C；未改主表。**
+- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="C-036"></a>
 ## C-036 · Autic System AS · 挪威
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-276`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：autic.no
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 本地原始批次：`batch/C类AB标准加厚_2026-10-12_R73_第2批.json / records[0]`
+- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第2批.json`；检索日期：2026-10-12；5 条逐项证据、10 个分析维度。
+- 主要逐项来源：
+  - [Brønnøysundregistrene 挪威官方企业登记](https://virksomhet.brreg.no/nb/oppslag/enheter/968614150)（政府一手登记；员工数为登记时点快照）
+  - [Autic 公司官网行业页](https://www.autic.no/bransjer/)（一手公司自述；市场地位/客户数量未独立验证）
+  - [Autic 公司官网项目文章](https://www.autic.no/va-revolusjon-i-alesund/)（供应商一手项目叙述；仅支持 SCADA/水务参与，不支持交换机订单推断）
+  - [Autic 自营网店商品页](https://www.autic.no/product/n-tron-105tx-5-ports-10-100-basetx-industriell-swicth/)（一手卖家目录/规格与动态库存；不是制造商授权证明，价格需登录）
+  - [Autic 自营网店商品页](https://www.autic.no/product/n-tron-8-ports-adm-gigabit-poe-switch/)（一手卖家目录/规格与动态库存；不是制造商授权证明，价格需登录）
+- 证据边界：政府登记支持法定字段；市场、行业和项目内容来自 Autic 自述；型号、描述和库存来自卖家商品页。商品页价格需登录，库存按抓取时点使用。渠道在售不等同制造商确认授权；SCADA/水务案例不等于交换机销售或采购。只研究，不触达。
+- 联系/评级边界：**未触达；无邮件、电话、寄样或报价；保持 C；未改主表。**
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="C-037"></a>
 ## C-037 · Hatteland Technology · 挪威
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-278`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：Moxa 渠道名录（经销商定位法）
 - 官网线索（不自动背书其他字段）：hattelandtechnology.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 本地原始批次：`batch/C类AB标准加厚_2026-10-12_R73_第2批.json / records[1]`
+- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第2批.json`；检索日期：2026-10-12；6 条逐项证据、11 个分析维度。
+- 主要逐项来源：
+  - [Brønnøysundregistrene 挪威官方企业登记](https://virksomhet.brreg.no/nb/oppslag/enheter/974533146)（政府一手登记；员工数为登记时点快照）
+  - [Hatteland 官方品牌合作页](https://www.hattelandtechnology.com/partner-pages/moxa)（渠道方一手声明；全产品/地区范围未独立审阅合同）
+  - [Hatteland 官方合作新闻（含 Moxa 欧洲渠道负责人引语）](https://www.hattelandtechnology.com/news/moxa-and-hatteland-technology-expand-partnership)（双方合作公告的一手公开叙述；仅按公告所述海事扩展范围使用）
+  - [Hatteland 官方海事市场/能力页](https://www.hattelandtechnology.com/markets/marine-offshore)（一手公司自述；出货/制造规模未独立审计）
+  - [Hatteland 官方现行产品组合页](https://www.hattelandtechnology.com/products/marine-network-switches)（品牌方一手产品范围；IP 等级不可外推至未逐 SKU 核验的型号）
+  - [Hatteland 官方单一 SKU 规格页](https://www.hattelandtechnology.com/view_product?id=323)（品牌方一手规格；不同应用类别分别列温度，采购/选型仍应核型号配置）
+- 联系/评级边界：**未触达；无邮件、电话、寄样或报价；保持 C；未改主表。**
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="C-038"></a>
 ## C-038 · Last Mile Communication · 挪威
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-279`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：lastmile.no
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 本地原始批次：`batch/C类AB标准加厚_2026-10-12_R73_第2批.json / records[2]`
+- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第2批.json`；检索日期：2026-10-12；5 条逐项证据、10 个分析维度。
+- 主要逐项来源：
+  - [Brønnøysundregistrene 挪威官方企业登记](https://virksomhet.brreg.no/nb/oppslag/enheter/913821289)（政府一手登记；员工数为登记时点快照）
+  - [Last Mile 公司官网首页](https://www.lastmile.no/)（一手公司自述；运营年限/行业覆盖未独立审计）
+  - [Westermo 官方 Where-to-buy 经销商名录](https://www.westermo.com/contact/where-to-buy)（制造商一手渠道名录；等级/服务属性不等同销量或采购量）
+  - [Last Mile 自营商城商品页](https://butikk.lastmile.no/westermo/117090/westermo-lynx-3510-f2g-p8g-lv-l2-poe-plus-switch-8023at-af-8-x-gbit)（一手卖家目录/规格；价格需登录，库存未公开核实）
+  - [TEKTELIC 合作方项目案例](https://tektelic.com/projects/smart-city-lorawan-network/)（设备/方案合作方的一手历史项目叙述；不支持交换机采购推断）
+- 证据边界：法定名称/员工数来自官方登记；Gold 层级来自 Westermo 官方名录；产品为 Last Mile 自营商城目录；Asker 项目是 TEKTELIC 合作方发布的历史案例。四类材料不能外推销量、交换机采购量、合同独家或当前需求。未触达、未改评级。
+- 联系/评级边界：**未触达；无邮件、电话、寄样或报价；保持 C；未改主表。**
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="C-039"></a>
 ## C-039 · Alternetivo s.r.o. · 捷克
 
-- 状态：**有URL但未逐项核实**
+- 状态：**R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-285`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：ORing经销商名录/2026-09
 - 官网线索（不自动背书其他字段）：alternetivo.cz
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：https://www.alternetivo.cz/kontakt/
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 本地原始批次：`batch/C类AB标准加厚_2026-10-12_R73_第2批.json / records[3]`
+- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第2批.json`；检索日期：2026-10-12；6 条逐项证据、11 个分析维度。
+- 主要逐项来源：
+  - [捷克国家电子采购工具 NEN/NIPEZ 供应商登记](https://nen.nipez.cz/en/registr-dodavatelu/detail-subjektu/382500180)（政府一手供应商登记；CPV/NIPEZ 类别不等于采购成交）
+  - [Alternetivo 公司官网 About 页面](https://www.alternetivo.cz/o-spolecnosti_ma3.html)（一手公司自述；经营年限、覆盖面、能力未独立审计）
+  - [Alternetivo 自营网店商品页](https://www.alternetivo.cz/prumyslovy-din-fast-ethernet-switch-uzke-provedeni-neriditelny-8x-10-100tx-rj-45-dvojite-12-48vdc-40-70c_d39709.html)（一手渠道目录/规格与推荐零售价；未独立核对库存或现行授权）
+  - [Alternetivo 自营网店商品页](https://www.alternetivo.cz/prumyslovy-gigabit-ethernet-switch-robustni-riditelny-8x-10-100-1000tx-rj-45-poe-4x-1000-sfp-bez-1588-uzke-provedeni-ni_d69743.html)（一手渠道目录/规格与推荐零售价；未独立核对库存或现行授权）
+  - [Alternetivo 公司官网客户案例](https://www.alternetivo.cz/default.asp?inc=inc%2Fcs%2FJandus.htm)（供应商发布的一手案例；交付/合同/金额未独立核实）
+  - [Alternetivo 官方联系/支持页面](https://www.alternetivo.cz/kontakty_ma64.html)（一手公司服务/通用职能说明；采购权限未核）
+- 证据边界：法律身份来自官方政府供应商登记；业务和案例来自 Alternetivo 自有网页；商品规格/推荐价为卖家目录动态数据。当前 ORing 授权、库存和采购量不明。只研究，不触达、不改主表。
+- 联系/评级边界：**未触达；无邮件、电话、寄样或报价；保持 C；未改主表。**
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="C-040"></a>
 ## C-040 · MADER.cz · 捷克
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-289`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：反向信号/2026-09
 - 官网线索（不自动背书其他字段）：mader.cz
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 本地原始批次：`batch/C类AB标准加厚_2026-10-12_R73_第2批.json / records[4]`
+- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第2批.json`；检索日期：2026-10-12；5 条逐项证据、10 个分析维度。
+- 主要逐项来源：
+  - [MADER 公司官网联系页](https://www.mader.cz/kontakty)（一手公司主体自述；未在本轮另做政府登记交叉核对）
+  - [MADER 公司官网首页分类导航](https://www.mader.cz/)（一手网站品类信息；商业模式判断为基于页面的有限推断）
+  - [MADER 自营网店单品页](https://www.mader.cz/tplink-omada-10port-gigabit-industrial-easy-managed-switch-with-6port-poe-and-2port-poe)（一手零售展示；价格/单件库存为动态时点信息，不代表采购价或销量）
+  - [MADER 自营网店商品规格区](https://www.mader.cz/tplink-omada-10port-gigabit-industrial-easy-managed-switch-with-6port-poe-and-2port-poe)（一手卖家商品数据；关键规格宜在正式选型时复核品牌方资料）
+  - [MADER 自营网店单品页](https://www.mader.cz/digitus-professional-industrial-4port-fast-ethernet-poe-switch-1-uplink-port)（一手零售目录/时点库存与规格展示；价格和库存动态）
+- 证据边界：主体/类别来自 MADER 官网；产品参数、价格和库存来自 MADER 商品页，按 2026-10-12 抓取快照使用。公开零售售卖只证明展示/网页状态，不证明销量、采购价、库存可持续性、客户项目或采购意向。只研究、不触达、不改评级或主表。
+- 联系/评级边界：**未触达；无邮件、电话、寄样或报价；保持 C；未改主表。**
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="C-041"></a>

@@ -1,0 +1,425 @@
+{
+  "date": "2026-10-12",
+  "round": "R73 第 2 批（C-036—C-040）",
+  "scope": "依据客户名单_反向信号_2026-09.csv逐行确认 C-036—C-040 的公司名/国家映射；五户按 A/B 深度结构补齐法定主体、业务、品牌/渠道、产品型号、项目/市场、采购链、SWOT、Saga 适配及未知项。仅核验公开原文，不联系客户、不发邮件、不拨电话、不寄样、不报价、不改评级、CSV 或主表规则。动态商品价格/库存仅记录 2026-10-12 网页快照；不得解释为批发价、采购成本、销量、稳定库存或采购意向。",
+  "records": [
+    {
+      "code": "C-036",
+      "name": "Autic System AS",
+      "country": "挪威",
+      "researched_on": "2026-10-12",
+      "round": "R73",
+      "section_title": "R73 A/B标准深度调研与加厚（仅研究，不触达）",
+      "dimensions": {
+        "法定主体与可见规模": "挪威 Brønnøysund 官方登记确认 AUTIC SYSTEM AS，组织号 968 614 150；成立日期为 1994-01-03，2026-09-10 登记员工数为 13，行业代码为 ICT 设备批发。员工数是登记页带日期的快照，不代表集团人数、营收或交换机业务规模。",
+        "业务模型与行业": "Autic 官网把水务/污水、船舶自动化、楼宇基础设施、工业与交通列作业务方向；其“市场领先”和大量市政客户等描述是公司自述。官网表述兼有软件、自动化与相关硬件供应，不能仅凭行业页面推断它是网络交换机系统集成承包方。",
+        "公开项目/终端应用证据": "2025 年 Ålesund 水务自动化文章称 Autic 提供 Ignition SCADA 平台并与金牌合作方 Elio AS 协作；多年市政合同归于 Elio，方案规划扩展至 200 多个站点。该案例证明 Autic 参与 SCADA/水务项目，不证明 Autic 或市政客户采购了工业交换机。",
+        "品牌与渠道身份": "Autic 自营目录当前展示 N-Tron/Red Lion 工业交换机 SKU；这是一手卖家目录证据。旧主表中的 HMS/N-Tron/Red Lion 渠道标签本轮未获制造商当前授权名录独立确认，不能把网站在售外推为有效授权、独家或全型号范围。",
+        "可核产品与技术重叠": "Autic 商品页列 N-Tron 105TX：5 口 10/100 非网管、-40 至 +80°C、冗余 10–30VDC、DIN 导轨金属外壳；另列 NT24k-8TX-POE：8 口千兆管理型 PoE+、8 个 802.3af/at 端口、22–49VDC、-40 至 +80°C。页面抓取时分别显示 2 件与 1 件可用；该动态库存不等于可持续供货或成交。",
+        "旧价格信号复核（不改主表）": "CSV 旧切入点提到约 US$500+ 与 Saga US$64 的约五倍差。本轮 Autic 商品页要求登录查看价格，没有核实到当前的 US$500+ 售价；旧价未取得同型号、同端口/管理/PoE/温度/质保/税费/交付条件的可比证据，因此不能当现行价差或采购论据。未修改 CSV。",
+        "关键人/采购链与联系边界": "公开登记虽列法定管理角色，但没有证据表明其负责交换机品类采购或新品牌准入；未确认品类经理、实际买方、供应商审批人、采购频率或第二来源政策。本轮不把总机/通用联系入口提升为 KP，也不联系任何人。",
+        "优势与风险（SWOT）": "优势：挪威本地 ICT 批发登记、面向水务/海事/工业/交通的应用覆盖、目录中有直接重叠的 N-Tron 工业交换机。风险：人员规模有限且营收/交换机采购额未知；现行授权范围、客户采用、SKU真实可持续库存和采购独立性未核；旧价格差异无可比证据；SCADA 项目不可当交换机订单证据。",
+        "Saga 适配与竞合判断": "按目录可观察到的品类，Saga 工业非网管、管理型及 PoE 工业交换机存在产品层面的潜在重叠；但本批未核实任何未满足规格、供应商替换、停产替代、第二来源或新品牌引入需求。仅是产品目录竞合，不是客户意向；保持 C。",
+        "证据边界与合规": "政府登记支持法定字段；市场、行业和项目内容来自 Autic 自述；型号、描述和库存来自卖家商品页。商品页价格需登录，库存按抓取时点使用。渠道在售不等同制造商确认授权；SCADA/水务案例不等于交换机销售或采购。只研究，不触达。"
+      },
+      "kp": [],
+      "facts": [
+        {
+          "dim": "法定主体/行业登记/员工数",
+          "text": "Brønnøysund 官方登记列 AUTIC SYSTEM AS、组织号 968 614 150、1994-01-03 成立、ICT 设备批发行业代码 46.500；员工数 13，统计日期 2026-09-10。员工数是登记快照，不是营收或交换机业务规模。",
+          "quote": "Organisasjonsnummer 968 614 150\nStiftelsesdato 3. januar 1994\nNæringskode 46.500 Engroshandel med informasjons- og kommunikasjonsteknologiutstyr\nAntall ansatte 13\nAnsatte pr 10. september 2026",
+          "url": "https://virksomhet.brreg.no/nb/oppslag/enheter/968614150",
+          "source_type": "Brønnøysundregistrene 挪威官方企业登记",
+          "source_level": "政府一手登记；员工数为登记时点快照",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "自述业务与市场",
+          "text": "Autic 官网自述面向水务/污水、船舶自动化、楼宇基础设施及工业/交通市场，业务包括 SCADA/软件和相关硬件；市场地位及客户数量为公司自述。",
+          "quote": "Kommunalteknikk – vann og avløp\nAutic System AS er en av markedslederne i Norge innen kommunaltekniske systemer. En lang rekke kommuner benytter utstyr fra Autic til å overvåke sine vann- og avløpssystemer.\nSkipsautomasjon er et viktig marked for Autic System AS.\nAutic leverer programvare for åpne Windows-baserte løsninger innen industriell IT, styrings- og overvåkningsapplikasjoner,\ni tillegg til et bredt spekter av tilhørende hardware.",
+          "url": "https://www.autic.no/bransjer/",
+          "source_type": "Autic 公司官网行业页",
+          "source_level": "一手公司自述；市场地位/客户数量未独立验证",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Ålesund 水务 SCADA 项目（非交换机采购证据）",
+          "text": "Autic 2025 年文章称其提供 Ignition SCADA 平台并与 Elio AS 合作，Elio 与 Ålesund 市政签订多年水务自动化协议，规划覆盖 200 多个站点；文章没有证明交换机品牌、采购方或采购量。",
+          "quote": "Autic System AS leverer Ignition SCADA‑plattformen og samarbeider tett med vår gullsertifiserte partner Elio AS.\nElio inngår nå en flerårig avtale med kommunen om å utvikle en moderne løsning basert på Ignition‑plattformen.\nLøsningen vokser etter hvert til over 200 stasjoner",
+          "url": "https://www.autic.no/va-revolusjon-i-alesund/",
+          "source_type": "Autic 公司官网项目文章",
+          "source_level": "供应商一手项目叙述；仅支持 SCADA/水务参与，不支持交换机订单推断",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "N-Tron 105TX 非网管工业交换机",
+          "text": "Autic 自营商品页列 N-Tron 105TX，5 个 10/100 RJ45、非网管、-40 至 +80°C、冗余 10–30VDC、金属 DIN 导轨外壳；页面抓取时显示 2 件库存且价格需登录查看。库存/价格均为动态页面快照。",
+          "quote": "N-Tron 105TX, 5 ports 10/100 BaseTX industriell swicth\n5 porter unmanaged industriell switch\nTilgjengelighet2 på lager\nProduktnummer: 105TX\n5 Port 10/100BaseTX Industrial Ethernet Switch RJ-45 Ports\n-40° to 80°C Operating Temperature\nRedundant Power Inputs (10-30 VDC)\nHardened Metal DIN-Rail Enclosure",
+          "url": "https://www.autic.no/product/n-tron-105tx-5-ports-10-100-basetx-industriell-swicth/",
+          "source_type": "Autic 自营网店商品页",
+          "source_level": "一手卖家目录/规格与动态库存；不是制造商授权证明，价格需登录",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "N-Tron NT24k-8TX-POE 管理型 PoE+ 工业交换机",
+          "text": "Autic 自营商品页列 Red Lion/N-Tron NT24k-8TX-POE：8 个千兆 RJ45 并支持 802.3af/at PoE+，双电源端子 22–49VDC，温度 -40 至 +80°C；抓取时显示 1 件库存，价格需登录。",
+          "quote": "Red Lion 8 ports Gigabit PoE+ switch\nTilgjengelighet1 på lager\nProduktnummer: NT24k-8TX-POE\n8 ports Gigabit PoE+ administrerbar switch\n8 stk 10/100/1000BaseTX RJ45 porter\n8 porter støtter PoE+ (IEEE 802.3af/at)\nTerminaler for doble spenningsforsyninger (22-49 VDC)\nTemperaturområde -40 til 80 grader C",
+          "url": "https://www.autic.no/product/n-tron-8-ports-adm-gigabit-poe-switch/",
+          "source_type": "Autic 自营网店商品页",
+          "source_level": "一手卖家目录/规格与动态库存；不是制造商授权证明，价格需登录",
+          "retrieved_on": "2026-10-12"
+        }
+      ],
+      "assessment": "保持 C。R73 直接核实 Autic 的挪威 ICT 批发登记、行业自述及在售的 N-Tron/Red Lion 工业交换机型号，产品类别竞合真实存在；但当前公开价、销量、采购量、制造商现行授权范围及第二来源需求均未核。Ålesund 案例是 Autic 提供 SCADA 平台、Elio 获多年市政合同，不得写成交换机采购证明。CSV 旧约 US$500+ / Saga US$64 价差缺少本轮可比现价，标记为未证实旧信号，不修改主表。未联系客户、未改评级。",
+      "next_steps": [
+        "若后续继续公开核验，可只查制造商现行分销名录、可下载的数据手册及可公开的具体交换机项目；不要以 Autic 在售目录代替有效授权或采购需求证据。",
+        "将旧价格差异留作未证实；只有出现公开、同型号/同规格/同税费交付质保条件的价格证据，才可做可比分析。本轮不询价、不联系。"
+      ],
+      "unknowns": [
+        "HMS/Red Lion/N-Tron 当前授权主体、地区、产品范围、期限与排他约束；商品页在售不回答这些问题。",
+        "交换机年度进货额、销量、客户名单、库存周转、采购人和新品牌准入决策链。",
+        "当前公开采购价、旧 CSV 约 US$500+ 说法所对应 SKU/时间/交易条件，以及其与 Saga US$64 快照是否同条件可比。",
+        "Ålesund 项目网络设备品牌、交换机选型/购买主体及供货商；现有文章没有这些信息。"
+      ]
+    },
+    {
+      "code": "C-037",
+      "name": "Hatteland Technology",
+      "country": "挪威",
+      "researched_on": "2026-10-12",
+      "round": "R73",
+      "section_title": "R73 A/B标准深度调研与加厚（仅研究，不触达）",
+      "dimensions": {
+        "法定主体与规模": "Brønnøysund 官方登记确认 HATTELAND TECHNOLOGY AS，组织号 974 533 146，成立于 1995-06-23；员工数 221（登记统计日 2026-09-10）。这是挪威单一登记主体的员工数，不是收入、交换机销量或集团合并人数。",
+        "业务模式与海事市场": "Hatteland 官网将自身定位为海事系统集成商的全球技术伙伴，公开列出显示器、CCTV、工控/面板计算机、网络硬件和软件，并称其在 Aksdal 生产部分海事硬件；这些是公司自述，不是经审计出货数据。",
+        "Moxa 渠道身份": "Hatteland 官方 Moxa 合作页自称是 all Moxa products 的官方分销商，并提供挪威、瑞典、芬兰网店。2025-04-24 合作新闻称其自 1990 年代中期起为 Moxa 挪威官方分销商，并扩大到面向全欧洲海事客户提供 Moxa 产品/知识；新闻有 Moxa 欧洲渠道销售负责人引语。该渠道关系不证明接受竞争品牌或开放第二供应商。",
+        "自有 HATTELAND 网络交换机产品线": "Hatteland 当前海事交换机目录明确以 HATTELAND® 品牌列出 5 个 Active SKU：HN G1080A、HN G9084-LA、HN G9812、HN GP1080A、HN GP9084-LA，覆盖非网管/管理型/PoE；页面对产品系列宣称 IEC 60945 类型认可，并在系列页概述 IP66/IP67。由此可见当前官网存在 HATTELAND 品牌网络交换机，与 CSV 中“是否自有品牌=否”字段不一致；本批仅记录字段冲突，不改主表。",
+        "可核型号与应用规格": "HN GP9084-LA 是具体的 HATTELAND 品牌 12 端口管理型 PoE 型号：8×千兆 RJ45 PoE + 4×SFP，单口最高 30W、总预算 240W，冗余双 DC 输入。产品规格页对 Industrial 与 Maritime 分列环境温度（分别 -40…+75°C 与 -15…+55°C），外壳等级列 IP30。不能将系列页概述的 IP66/IP67 套用到该特定 SKU。",
+        "产品级证据差异/审慎使用": "系列页的 IP66/IP67 是系列/页面层级文案；HN GP9084-LA 的具体规格表写 IP30。因此任何选型必须以确切型号和配置的产品表为准。该 SKU 同时列海事型认可和工业环境规格，但不据此推断每种安装方式、全部型号或所有认证组合均相同。",
+        "项目/客户证据": "2025 年 Moxa 合作公告描述 Hatteland 在海事项目层面参与产品选型、网络配置和调试支持，属于渠道/技术服务证据；海事市场页有 CCTV 客户评价，但本轮未找到可公开核对的 HN GP9084-LA 具体终端部署/采购数量。",
+        "关键人/采购链与联系边界": "公开页面可核实销售/渠道职能及总公司经营者信息，但未证明某人负责交换机采购、新品牌准入或供应商审批。未把销售职位、总机或 sales 通道当成采购 KP；不联系任何员工。",
+        "优势与风险（SWOT）": "优势：员工规模明显大于一般小型分销商、具海事硬件/系统解决方案与 Aksdal 生产能力；Moxa 官方渠道关系和自有 HATTELAND 交换机品牌均有直接公开资料。风险：Moxa/HATTELAND 构成强竞品组合；其渠道、项目及自产能力意味着新品牌缺口未显；实际外部采购比例、采购量与多品牌政策未知。",
+        "Saga 适配与竞合判断": "技术目录与 Saga 工业/管理型/PoE 交换机高度重叠，且存在自有品牌与 Moxa 现有体系，竞合强于一般零售电商。除非未来公开信息显示某个明确缺口/认证/停产替代或未覆盖端口场景，否则没有公开依据判断其需要第二来源或新品牌。维持 C。",
+        "主表冲突与证据边界": "主 CSV 的“是否自有品牌=否”与 Hatteland 当前官网公开销售 HATTELAND® 网络交换机系列不一致。依照范围约束本批不改 CSV、评级或主表规则，只在档案标注待人工复核。公司登记数据、官网渠道声明与 SKU 规格各自只支持其字段；不推断销量、采购意向、合同排他或供应商开放。"
+      },
+      "kp": [],
+      "facts": [
+        {
+          "dim": "法定主体/经营年限/员工数",
+          "text": "Brønnøysund 官方登记列 HATTELAND TECHNOLOGY AS、组织号 974 533 146、1995-06-23 成立，员工 221 人（截至 2026-09-10）。",
+          "quote": "HATTELAND TECHNOLOGY AS\nOrganisasjonsnummer 974 533 146\nStiftelsesdato 23. juni 1995\nAntall ansatte 221\nAnsatte pr 10. september 2026",
+          "url": "https://virksomhet.brreg.no/nb/oppslag/enheter/974533146",
+          "source_type": "Brønnøysundregistrene 挪威官方企业登记",
+          "source_level": "政府一手登记；员工数为登记时点快照",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Moxa 官方渠道页（渠道方公开声明）",
+          "text": "Hatteland 官方 Moxa 合作页称其为全部 Moxa 产品的官方分销商，并链接挪威、瑞典、芬兰三个国家的 Moxa 网店；页面由 Hatteland 发布，范围按其当前页面声明使用。",
+          "quote": "Hatteland Technology is an official distributor of all Moxa products.\nAs technology partners for more than 30 years, Hatteland Technology and Moxa have enabled connectivity and supported system integrators through many technical challenges.\nNorway\nSweden\nFinland",
+          "url": "https://www.hattelandtechnology.com/partner-pages/moxa",
+          "source_type": "Hatteland 官方品牌合作页",
+          "source_level": "渠道方一手声明；全产品/地区范围未独立审阅合同",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Moxa 合作扩展公告（2025）",
+          "text": "Hatteland 2025-04-24 新闻稿称其自 1990 年代中期起为 Moxa 挪威官方分销商，随后扩展为向全欧洲海事专业客户提供 Moxa 产品与知识；公告还描述项目级产品选型、网络配置和调试合作。",
+          "quote": "Hatteland Technology has been an official Moxa distributor in Norway since the mid ‘90s.\nFrom now on, Hatteland Technology will provide Moxa products and know-how to marine professionals across Europe.",
+          "url": "https://www.hattelandtechnology.com/news/moxa-and-hatteland-technology-expand-partnership",
+          "source_type": "Hatteland 官方合作新闻（含 Moxa 欧洲渠道负责人引语）",
+          "source_level": "双方合作公告的一手公开叙述；仅按公告所述海事扩展范围使用",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "海事业务/系统解决方案与生产自述",
+          "text": "Hatteland 海事页将其定位为海事系统集成商技术伙伴，列网络硬件等产品，并称其部分海事硬件在 Aksdal 总部生产；“全球伙伴”等表述为公司自述。",
+          "quote": "Hatteland Technology is a global technology partner for system integrators in the maritime industry.\nWe provide tailored solutions comprising monitors, CCTV, panel computers, industrial automation, network hardware and software.\nA significant share of our production comes out of our HQ in Aksdal, Norway.",
+          "url": "https://www.hattelandtechnology.com/markets/marine-offshore",
+          "source_type": "Hatteland 官方海事市场/能力页",
+          "source_level": "一手公司自述；出货/制造规模未独立审计",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "HATTELAND® 海事交换机产品组合",
+          "text": "Hatteland 当前产品组合页以 HATTELAND® 品牌列出 5 个 Active 海事交换机型号（含管理型、非网管和 PoE），页面宣传 IEC 60945 类型认可及系列级 IP66/IP67；具体型号仍须查各自规格。",
+          "quote": "Marine network switches connect units within your onboard network.\nHATTELAND® network switches tick all the boxes for reliability, longevity, and performance. Type approved / IEC 60945-certified. PoE models available. IP66/IP67.\nHN G1080A\nHN G9084-LA\nHN G9812\nHN GP1080A\nHN GP9084-LA",
+          "url": "https://www.hattelandtechnology.com/products/marine-network-switches",
+          "source_type": "Hatteland 官方现行产品组合页",
+          "source_level": "品牌方一手产品范围；IP 等级不可外推至未逐 SKU 核验的型号",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "HN GP9084-LA 具体端口/PoE/环境规格",
+          "text": "HN GP9084-LA 规格页列 8×10/100/1000Base-T(X) PoE RJ45 + 4×100/1000Base-X SFP，单口最高 30W、总预算 240W；具体外壳列 IP30。产品表分列 Industrial 工作温度 -40…+75°C 和 Maritime 工作温度 -15…+55°C，不能与系列页的一般 IP66/IP67 文案混用。",
+          "quote": "The HN GP9084-LA is layer2 managed and active PoE Ethernet switch with 8x10/100/1000Base-T(X) P.S.E. ports and 4x100/1000Base-X SFP ports.\nPoE Budget: 1 port max 30W, total max 240W\n• Enclosure: IP30\n**Industrial - Environment Specification:**\n• Operating Temperature: -40 to +75°C (-40 to 167°F)\n**Maritime - Environment Specification:**\n• Operating Temperature: -15 to +55°C (5 to 131°F)",
+          "url": "https://www.hattelandtechnology.com/view_product?id=323",
+          "source_type": "Hatteland 官方单一 SKU 规格页",
+          "source_level": "品牌方一手规格；不同应用类别分别列温度，采购/选型仍应核型号配置",
+          "retrieved_on": "2026-10-12"
+        }
+      ],
+      "assessment": "保持 C。公开证据显示 Hatteland 既是 Moxa 工业交换机的官方渠道伙伴，又拥有 HATTELAND® 自有海事交换机组合与具体 PoE SKU；这是强竞品/高竞合信号，不是第二供应源意向。HATTELAND 网络交换机产品线也使 CSV“是否自有品牌=否”字段产生待复核冲突，本批按指令只记档、不改主表。特别注意系列页的 IP66/IP67 与 HN GP9084-LA 具体规格 IP30 不同，且工业/海事温度分列；不得跨 SKU 套用。未联系客户、未改评级。",
+      "next_steps": [
+        "如继续研究，只按具体 HATTELAND SKU 下载/核对品牌方数据手册与型式认可文件，并把 IP/温度/PoE/端口按型号及安装环境分别记录；本轮不发询价或联系渠道人员。",
+        "CSV 自有品牌字段冲突留作人工数据质量复核事项，必须另获授权后方可改主表；不要把渠道销售人员当采购 KP。"
+      ],
+      "unknowns": [
+        "集团合并收入、工业交换机实际营收/出货量、HATTELAND 自有交换机外部 OEM/制造细节。",
+        "Moxa 与 Hatteland 合同排他性、挪威之外海事业务的具体商业边界，以及是否接受竞争品牌/多品牌采购。",
+        "HN GP9084-LA 的实际终端部署/采购案例、真实库存/交期、型号配置与各类认证的适用范围。",
+        "具名交换机采购人、供应商准入流程、年度采购量及任何第二供应源或新品牌需求。",
+        "主 CSV“是否自有品牌=否”是否由旧数据定义/口径差异造成；未获授权前不作主表修订。"
+      ]
+    },
+    {
+      "code": "C-038",
+      "name": "Last Mile Communication",
+      "country": "挪威",
+      "researched_on": "2026-10-12",
+      "round": "R73",
+      "section_title": "R73 A/B标准深度调研与加厚（仅研究，不触达）",
+      "dimensions": {
+        "法定主体/客户名单名称映射": "Brønnøysund 登记的当前法定名称为 LAST MILE AS，组织号 913 821 289；登记的前名 LAST MILE COMMUNICATION AS 使用至 2019-11-11，确认 CSV 旧名称与该主体同号映射。主体成立于 2014-06-12、员工 31 人（2026-08-10 登记快照）。官网“25 年以上”是公司运营历史自述，不能直接当同一法人注册年限。",
+        "业务模型与市场": "Last Mile 官网自述专注工业通信/能源系统，并列海事、油气、交通、水务、能源、养殖等领域及设计、部署、运维、支持服务；“25 年以上”和领先定位属于公司表述，非审计数据。",
+        "Westermo 渠道层级": "Westermo 官方 Where-to-buy 页面把 Norway 的 Last Mile Communication 列为 Gold distributor，并明确列本地库存、进阶/认证技术支持、方案经验和本地研讨会。该厂商名录可以证明品牌渠道层级/公开服务属性，不披露销售额或销量。",
+        "具体工业 PoE 交换机": "Last Mile 自营商城列 Westermo Lynx-3510-F2G-P8G-LV（产品号 117090）：L2、8×千兆铜口/PoE+、2×SFP，单口最高 30W、240W 总 PoE，-40…+70°C、IP40，标注工业/海事/轨旁型式测试；价格须登录查看，公开页面未证明稳定库存。",
+        "项目/终端市场": "TEKTELIC 2020 年项目文章（2024-08-13 更新）称 Last Mile 在挪威 Asker 部署并管理 Smart City LoRaWAN 网络，应用包括约 20,000 个水表。该证据来自合作方，涉及 LoRaWAN/水表，不是 Westermo 交换机采购案例或当前项目量。",
+        "关键人/采购链与触达边界": "官方登记虽有公司管理角色，Westermo 页面亦列公司渠道信息，但没有公开证据锁定交换机采购负责人、第二来源决策人或新品牌准入人。既有 CSV 电话和通用入口不作为触达许可；本轮不拨号、不发邮件。",
+        "旧切入点推断校正（不改主表）": "CSV 的“Gold 分销 = 销量大、第二供应源首选”不是 Westermo 名录支持的事实。Gold 只说明厂商分销级别及列明的本地库存/技术服务能力；不等于具体销量、采购需求、供应商开放或有第二供应源政策。",
+        "优势与风险（SWOT）": "优势：Westermo 官方 Gold 渠道、在售高功率工业 PoE 交换机、工业/海事/交通/水务领域方案与支持经验、公开 LoRaWAN 项目。风险：Westermo 是强竞品且渠道关系深；项目案例非交换机销售证据，商品价需登录且库存未知；采购额、品牌合同/排他性、供应商开放度不明。",
+        "Saga 适配与竞合判断": "8×千兆 PoE+、2×SFP、宽温/工业应用与 Saga 部分交换机品类在目录级别直接重叠；是否有规格、认证或交期缺口需逐 SKU 对照。仅凭 Gold 身份不能得出第二来源适配，当前没有采购或替代信号，保持 C。",
+        "证据边界与合规": "法定名称/员工数来自官方登记；Gold 层级来自 Westermo 官方名录；产品为 Last Mile 自营商城目录；Asker 项目是 TEKTELIC 合作方发布的历史案例。四类材料不能外推销量、交换机采购量、合同独家或当前需求。未触达、未改评级。"
+      },
+      "kp": [],
+      "facts": [
+        {
+          "dim": "法定主体/当前及曾用名称/员工数",
+          "text": "Brønnøysund 官方登记显示当前法定名称 LAST MILE AS、组织号 913 821 289、2014-06-12 成立、31 名员工（2026-08-10）；前名 LAST MILE COMMUNICATION AS 使用至 2019-11-11。该名称历史可与 CSV 的 Last Mile Communication 对应。",
+          "quote": "LAST MILE AS\nOrganisasjonsnummer 913 821 289\nStiftelsesdato 12. juni 2014\nAntall ansatte 31\nAnsatte pr 10. august 2026\nLAST MILE AS\n11. november 2019 - Gjeldende navn\nLAST MILE COMMUNICATION AS\n20. desember 2014 - 11. november 2019",
+          "url": "https://virksomhet.brreg.no/nb/oppslag/enheter/913821289",
+          "source_type": "Brønnøysundregistrene 挪威官方企业登记",
+          "source_level": "政府一手登记；员工数为登记时点快照",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "业务年限与行业（公司自述）",
+          "text": "Last Mile 官网自述为工业通信和能源系统供应商、服务工业/海事等市场且经营技术方案超过 25 年；这是公司层面运营历史宣传，不能替代法定主体注册年限。",
+          "quote": "I mer enn 25 år har vi levert tekniske løsninger til alle industrielle miljøer.\nVi har lange tradisjoner innenfor marine, olje og gass, samferdsel, vann og avløp, energi og havbruk.\nVårt mål er å sikre våre kunder effektive prosjekter og robust infrastruktur.",
+          "url": "https://www.lastmile.no/",
+          "source_type": "Last Mile 公司官网首页",
+          "source_level": "一手公司自述；运营年限/行业覆盖未独立审计",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Westermo Norway Gold distributor（厂商名录）",
+          "text": "Westermo 官方渠道名录将 Last Mile Communication 列为 Norway Gold distributor，并列本地库存、进阶/认证技术支持、方案经验与本地研讨会；名录不公布销售量。",
+          "quote": "Norway | Gold distributor\nLocal stock\nAdvanced technical support\nCertified technical support\nWestermo solutions experise\nLocal Westermo seminars\nLast Mile Communication",
+          "url": "https://www.westermo.com/contact/where-to-buy",
+          "source_type": "Westermo 官方 Where-to-buy 经销商名录",
+          "source_level": "制造商一手渠道名录；等级/服务属性不等同销量或采购量",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Westermo Lynx-3510-F2G-P8G-LV 商品目录与规格",
+          "text": "Last Mile 自营商城列该型号为 8 口千兆 L2 PoE+ 交换机，8 个铜口每口最高 30W、总预算 240W，2×SFP，-40…+70°C、IP40，工业/海事/轨旁型式测试；需登录查看价格，页面没有公开稳定库存证明。",
+          "quote": "Westermo Lynx-3510-F2G-P8G-LV\nL2 PoE+ Switch 802.3at/af 8 x Gbit\n8 x 802.3at PoE+, 2 x SFP, total budget 240W\nAll 8 copper ports supporting up to 30W 802.3at (PoE+)\nTotal PoE power budget up to 240W\n-40 to +70 °C without ventilation holes\nIndustrial, marine and trackside type tested\nUltra-robust IP40 metal housing\nLogg inn eller registrer deg for å se priser.",
+          "url": "https://butikk.lastmile.no/westermo/117090/westermo-lynx-3510-f2g-p8g-lv-l2-poe-plus-switch-8023at-af-8-x-gbit",
+          "source_type": "Last Mile 自营商城商品页",
+          "source_level": "一手卖家目录/规格；价格需登录，库存未公开核实",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Asker Smart City LoRaWAN 项目（合作方历史案例）",
+          "text": "TEKTELIC 项目文章日期为 2020-10-12、最后更新 2024-08-13，称 Last Mile 在 Asker 部署和管理 Smart City LoRaWAN 网络，核心应用之一约 20,000 个水表；这是无线 IoT 项目，不是工业以太网交换机采购记录。",
+          "quote": "12 October 2020\nLast Updated: August 13, 2024\nLast Mile has successfully deployed and manages a Smart City LoRaWAN® network in the municipality of Asker, Norway.\nOne of the primary applications utilizing the IoT network is the deployment of approximately 20,000 water meters.",
+          "url": "https://tektelic.com/projects/smart-city-lorawan-network/",
+          "source_type": "TEKTELIC 合作方项目案例",
+          "source_level": "设备/方案合作方的一手历史项目叙述；不支持交换机采购推断",
+          "retrieved_on": "2026-10-12"
+        }
+      ],
+      "assessment": "保持 C。Last Mile Communication 与官方当前法定主体 LAST MILE AS 通过同一组织号/曾用名记录对应；Westermo 官方名录确认 Norway Gold 级别，且自营商城列出 Lynx-3510-F2G-P8G-LV，具直接产品竞合。Gold 等级不证明高销量或需要第二来源；Asker 约 20,000 水表是 LoRaWAN 历史项目，不是交换机采购证据。价格、采购量、供应商政策和采购 KP 未核，未触达、未改 CSV 或评级。",
+      "next_steps": [
+        "后续若继续公开研究，可按 Westermo/Last Mile 公开型号目录和官方数据手册核验当前 Lynx 系列型号、价格披露及型式测试范围；不将 Gold 等级换算为销量。",
+        "继续将第二来源政策、年度采购、品牌合同/排他性和交换机项目列为未知；不使用 CSV 通用电话联系。"
+      ],
+      "unknowns": [
+        "LAST MILE AS 的营收、交换机/Westermo 进货额、终端客户名录和库存周转；登记员工数不能替代上述指标。",
+        "Westermo 合作合同是否排他、品牌/地区/垂直市场边界，以及是否接受竞品或第二来源。",
+        "Lynx 商品的实时库存、实际成交价、项目采用数量，以及其他在售型号的具体规格。",
+        "Asker 项目中是否使用了工业以太网交换机、由谁采购以及设备品牌；TEKTELIC 页面没有给出这些信息。",
+        "负责交换机品类、供应商准入和采购决策的具体人员与流程。"
+      ]
+    },
+    {
+      "code": "C-039",
+      "name": "Alternetivo s.r.o.",
+      "country": "捷克",
+      "researched_on": "2026-10-12",
+      "round": "R73",
+      "section_title": "R73 A/B标准深度调研与加厚（仅研究，不触达）",
+      "dimensions": {
+        "法定主体/登记": "捷克国家电子采购工具 NIPEZ/NEN 供应商登记确认 Alternetivo s.r.o.、IČ 25098314、VAT CZ25098314、有限责任公司形式及布拉格登记地址；登记的采购分类包括网络和数据传输电信设备。",
+        "业务模式与地域": "Alternetivo 官网自述自 1996 年以来在捷克/斯洛伐克从事网络与电信增值分销，供应数百家制造商，提供技术和商业支持，并有 Maxifi 自研软件；获奖年份也是公司自述，应以相应主办方记录另核。",
+        "当前 ORing 工业交换机目录": "Alternetivo 自营网店列 ORing IES-1080A：8×10/100 RJ45、非网管、双 12–48V DC、-40…+70°C、60 个月保修，推荐价 2,476 CZK 未税。页面抓取时可见价格但库存状态字段未给出明确值，不能据空白/页面按钮推断有货。",
+        "管理型千兆 PoE 目录": "同一网店列 ORing IGPS-9084GP-LA：8×10/100/1000 RJ45 PoE+ 与 4×1000 SFP，60 个月保修，推荐价 14,100 CZK 未税；页面未明确库存状态。商品页证明卖家目录展示，不证明制造商现行授权、实际库存或销量。",
+        "项目/集成证据": "Alternetivo 发布 ZŠ Jandusů 校园网络现代化案例，描述以 TP-Link Omada 交换机替换旧 TP-Link 设备，共 8 台交换机及 SFP+ 模块，并使用 Ruckus Wi-Fi。该页面支持公司公开呈现过网络交付/配置案例，但没有合同、金额、采购方和独立验收文件，也不是 ORing 工业设备案例。",
+        "公开售前/技术支持": "Alternetivo 联系页自述可从初次咨询支持到交付技术的运行期，并列通用订货/报价部门及技术支持部门；没有公开指定交换机采购负责人或新品牌审批人。",
+        "旧 ORing 授权字段边界": "CSV 旧字段写“ORing 授权/分销”。本轮核实到的是 Alternetivo 自营网站在售/展示 ORing 型号，未获取当前 ORing 厂商分销名录或合同独立确认；不能在新档案中把产品目录等同现行授权。",
+        "关键人/采购链与联系边界": "未公开核实交换机品类经理、采购决策人、供应商审批权限、采购频率或第二来源政策。公开订货/报价及技术部门只是通用职能入口；依照边界不发送邮件、不致电、不提交表单。",
+        "优势与风险（SWOT）": "优势：法律主体清晰；公司自述的区域 VAD 网络渠道和技术/商务支持；两个可具体核验的 ORing 工业交换机 SKU；有公开校园网络改造案例。风险：ORing 是否当期授权、在库量、销量和排他性未知；TP-Link 案例不能证明 ORing 工业交换机项目；面向数百品牌的 VAD 也不代表会引入 Saga。",
+        "Saga 适配与竞合判断": "8×10/100 非网管 DIN 型号及 8×千兆 PoE+ 管理型型号与 Saga 工业交换机/PoE 类别存在产品层重叠；但必须逐型号核温度、PoE预算、冗余环网、认证与价格。未见公开缺货、停产替代、第二来源或新品牌需求，维持 C。",
+        "证据边界与合规": "法律身份来自官方政府供应商登记；业务和案例来自 Alternetivo 自有网页；商品规格/推荐价为卖家目录动态数据。当前 ORing 授权、库存和采购量不明。只研究，不触达、不改主表。"
+      },
+      "kp": [],
+      "facts": [
+        {
+          "dim": "法定名称/IČ/VAT/经营类别",
+          "text": "捷克国家电子采购工具登记 Alternetivo s.r.o.、组织号 25098314、VAT CZ25098314、有限责任公司法律形式及布拉格地址，并列网络和数据传输电信设备采购分类。",
+          "quote": "Official name\nAlternetivo s.r.o.\nORGANIZATION ID NUMBER\n25098314\nVAT NUMBER\nCZ25098314\nLegal form\nSpolečnost s ručením omezeným\n32400000-7 | Sítě | 32400000-7 | Sítě\n32500000-8 | Telekomunikační přístroje na přenos dat | 32500000-8 | Telekomunikační přístroje na přenos dat",
+          "url": "https://nen.nipez.cz/en/registr-dodavatelu/detail-subjektu/382500180",
+          "source_type": "捷克国家电子采购工具 NEN/NIPEZ 供应商登记",
+          "source_level": "政府一手供应商登记；CPV/NIPEZ 类别不等于采购成交",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "VAD 模式/区域/公司自述",
+          "text": "Alternetivo 官网自述自 1996 年在捷克和斯洛伐克做网络/电信分销，从数百家制造商中选品并提供技术与商务支持，另有 Maxifi 软件；这些是公司自述。",
+          "quote": "Společnost Alternetivo působí na českém a slovenském trhu již od roku 1996 jako specializovaný distributor v oblasti síťových technologií a telekomunikací.\nU stovek výrobců z celého světa vybíráme nejlepší inovativní produkty pro výstavbu moderních podnikových i operátorských sítí.\nNáš tým zkušených odborníků poskytuje spolehlivé služby technické i obchodní podpory.\nDodávaná řešení doplňujeme vlastním vývojem software pod značkou Maxifi.",
+          "url": "https://www.alternetivo.cz/o-spolecnosti_ma3.html",
+          "source_type": "Alternetivo 公司官网 About 页面",
+          "source_level": "一手公司自述；经营年限、覆盖面、能力未独立审计",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "ORing IES-1080A 非网管工业 SKU",
+          "text": "Alternetivo 自营商品页列 ORing IES-1080A，60 个月保修，推荐价 2,476 CZK 未税；参数表列 8 口 100Mbps、非网管、双 12–48V DC、-40…+70°C。库存字段未显示明确状态，不能推断现货。",
+          "quote": "Výrobce\nORING\nKód\nIES-1080A\nZáruka\n60 Měsíců\nDoporučená cena bez DPH\n2 476.00 Kč\nPočet portů\n8\nNapájení\ndual 12-48V DC\nProvozní rozsah teplot\n-40 až 70°C",
+          "url": "https://www.alternetivo.cz/prumyslovy-din-fast-ethernet-switch-uzke-provedeni-neriditelny-8x-10-100tx-rj-45-dvojite-12-48vdc-40-70c_d39709.html",
+          "source_type": "Alternetivo 自营网店商品页",
+          "source_level": "一手渠道目录/规格与推荐零售价；未独立核对库存或现行授权",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "ORing IGPS-9084GP-LA 管理型千兆 PoE SKU",
+          "text": "Alternetivo 自营商品页列 ORing IGPS-9084GP-LA，8×千兆 RJ45 PoE+、4×1000 SFP、60 个月保修，推荐价 14,100 CZK 未税；商品页没有明确库存状态。",
+          "quote": "Výrobce\nORING\nKód\nIGPS-9084GP-LA\nZáruka\n60 Měsíců\n8x 10/100/1000TX (RJ-45) PoE+\n4x 1000(SFP)\n14 100.00 Kč\nDoporučená cena bez DPH",
+          "url": "https://www.alternetivo.cz/prumyslovy-gigabit-ethernet-switch-robustni-riditelny-8x-10-100-1000tx-rj-45-poe-4x-1000-sfp-bez-1588-uzke-provedeni-ni_d69743.html",
+          "source_type": "Alternetivo 自营网店商品页",
+          "source_level": "一手渠道目录/规格与推荐零售价；未独立核对库存或现行授权",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "ZŠ Jandusů 校园网络现代化案例",
+          "text": "Alternetivo 发布案例称学校以 TP-Link Omada 交换机替换旧设备，列出 8 台新交换机和 SFP+ 模块，并将 Ruckus 用于 Wi-Fi；该案例未披露合同金额、采购实体或独立验收，不是 ORing 工业交换机项目。",
+          "quote": "V rámci modernizace byly původní switche nahrazeny novými modely TL-SG3428X-M2 (1 ks), TL-SG3452XP (1 ks), TL-SG3428 (3 ks), TL-SG2210P (1 ks) a TL-SG2008P (1 ks).\nCelkově tak infrastrukturu tvoří osm nových switchů doplněných o optické propojení.\nCelá síť je dnes postavena jako kombinace technologií TP-Link Omada v oblasti switchingu a Ruckus pro bezdrátovou konektivitu.",
+          "url": "https://www.alternetivo.cz/default.asp?inc=inc%2Fcs%2FJandus.htm",
+          "source_type": "Alternetivo 公司官网客户案例",
+          "source_level": "供应商发布的一手案例；交付/合同/金额未独立核实",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "公司公开支持能力/通用商务职能",
+          "text": "Alternetivo 联系页自述从首次咨询支持到交付技术运营期，并分列订货/报价和技术支持部门；未将任何人员确认成交换机采购负责人。",
+          "quote": "náš zkušený tým je vám k dispozici od prvotní konzultace až po podporu v rámci provozu dodané technologie.\nObchodní oddělení - objednávky a nabídky\nTechnické oddělení / podpora",
+          "url": "https://www.alternetivo.cz/kontakty_ma64.html",
+          "source_type": "Alternetivo 官方联系/支持页面",
+          "source_level": "一手公司服务/通用职能说明；采购权限未核",
+          "retrieved_on": "2026-10-12"
+        }
+      ],
+      "assessment": "保持 C。R73 核实到 Alternetivo s.r.o. 的政府登记、公司自述 VAD 能力、ORing 两款工业交换机商品页和 TP-Link/Ruckus 校园改造案例，证明其网络渠道及项目展示与 Saga 产品线存在竞合；但商品目录不等于当前授权、现货或采购意向，案例也不是 ORing 工业项目。当前 ORing 厂商授权范围、销量、采购 KP、第二来源和新品牌开放度仍未知。未触达、未改主表或评级。",
+      "next_steps": [
+        "如继续公开研究，可对 ORing 具体 SKU 下载品牌方 datasheet，逐项比对 PoE 预算、温度、冗余、认证与现行型号状态；不得将推荐零售价当采购成本。",
+        "只有取得当前制造商公开伙伴名录等独立来源后，才可核实 CSV 的 ORing 授权标签；本轮不询问公司、不提交商品页表单、不联系任何人。"
+      ],
+      "unknowns": [
+        "ORing 当前授权关系、适用地区/产品范围、合同或排他条款；卖方商品页只证明目录展示。",
+        "IES-1080A/IGPS-9084GP-LA 的实物库存、销售量、实际成交价、交期、认证版本和供应商采购额。",
+        "ZŠ Jandusů 项目的签约供货主体、合同金额、实际采购渠道与交付验收文件。",
+        "是否存在新品牌准入、第二来源、年度交换机采购计划及对应决策人。"
+      ]
+    },
+    {
+      "code": "C-040",
+      "name": "MADER.cz",
+      "country": "捷克",
+      "researched_on": "2026-10-12",
+      "round": "R73",
+      "section_title": "R73 A/B标准深度调研与加厚（仅研究，不触达）",
+      "dimensions": {
+        "法定主体与网站身份": "MADER 联系页自列经营主体 MADER s.r.o.、IČO 64793419、DIČ CZ64793419；CSV 使用的网站/商号为 MADER.cz。该信息来自公司官网联系页，本轮没有额外核验其财务、员工或集团结构。",
+        "业务模式与品类广度": "MADER 首页将网站描述为电脑/笔记本/显示器销售与维修，并公开呈现汽车、家电、照片与安防、组件/网络/办公、手机、电脑、体育/健康/园艺/工具等广泛零售品类；支持综合电商定位，不足以认定其是工业网络系统集成商。",
+        "TP-Link 工业交换机商品证据": "MADER 网店列 TP-Link Omada IES210GPP Easy Managed 10 口千兆工业交换机：8×RJ45（2×PoE++、6×PoE+）+ 2×RJ45/SFP combo，240W 总 PoE、-40…+75°C、IP40、DIN/壁挂；页面显示 6,350 CZK 含税/5,248 CZK 未税、60 个月保修，抓取时标“网店有货”，提示仅按 1 件计算。",
+        "另一个工业 SKU 与库存边界": "MADER 网店还列 DIGITUS DN-650107 工业 PoE 交换机：4×10/100 PoE + 1×10/100 上联、802.3af/at、48–57VDC 冗余电源、-40…+85°C；抓取时页面标记“不可用”，展示价格 1,525/1,260 CZK（含税/未税）。产品列表不等于当前有货或持续供应。",
+        "采购/集成能力": "当前核到的是零售目录页，而非面向系统集成的项目案例、系统设计服务或公开批量采购记录。本轮所查页面未找到可明确归属 MADER 的工业交换机集成项目；这是检索范围内未发现，不证明公司从不承接相关业务。",
+        "关键人/供应商准入与联系边界": "联系页可识别公司法定主体，但没有公开交换机品类买手、供应商准入流程、采购负责人或年采购量；零售客户服务/商品页面不能当采购决策人。无任何联系、邮件、电话或商品询价。",
+        "商品价格/库存口径": "IES210GPP 与 DN-650107 的公开价为 MADER 网店零售页面时点价格，不是批发价、实际成交价、采购成本或对 Saga 可比报价；IES210GPP 的库存提示限定为单件，DN-650107 抓取时不可用。动态价格与库存须带日期，不能推断销量。",
+        "优势与风险（SWOT）": "优势：捷克本地综合网店、公开商品价格/保修/库存状态，当前至少一款 TP-Link 工业 PoE 交换机可见网店单件库存。风险：工业网络产品只是跨品类零售的一部分；未见工业集成/项目和规模采购证据；SKU 库存动态，另一个工业型号抓取时不可用；无供应商开放或新品引入线索。",
+        "Saga 适配与竞合判断": "MADER 可作为零售货架/公开价格监测对象；IES210GPP 与 DN-650107 的产品目录与 Saga 部分工业 PoE 型号交叠。但本轮不足以支持“工业分销客户”或批量采购结论，也没有低价、第二来源或替代需求证据；维持 C。",
+        "证据边界与合规": "主体/类别来自 MADER 官网；产品参数、价格和库存来自 MADER 商品页，按 2026-10-12 抓取快照使用。公开零售售卖只证明展示/网页状态，不证明销量、采购价、库存可持续性、客户项目或采购意向。只研究、不触达、不改评级或主表。"
+      },
+      "kp": [],
+      "facts": [
+        {
+          "dim": "法定主体/登记号码（公司联系页）",
+          "text": "MADER 联系页自列法定经营主体 MADER s.r.o.、IČO 64793419、DIČ CZ64793419；CSV 名称为网站商号 MADER.cz。",
+          "quote": "Mader s.r.o.\nIČO: 64793419\nDIČ: CZ64793419",
+          "url": "https://www.mader.cz/kontakty",
+          "source_type": "MADER 公司官网联系页",
+          "source_level": "一手公司主体自述；未在本轮另做政府登记交叉核对",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "综合零售品类",
+          "text": "MADER 首页同时列汽车/摩托、大小家电、照片/安防、组件/网络/办公、手机、电脑、体育/健康/园艺/工具等跨品类分类，支持综合零售商定位，不证明工业集成能力。",
+          "quote": "KATEGORIE\nAUTO - MOTO\nELEKTRO BÍLÉ VELKÉ\nELEKTRO MALÉ, TV\nFOTO, ZABEZPEČENÍ\nKOMPONENTY, SÍTĚ, KANCELÁŘ\nMOBILNÍ TELEFONY\nNOTEBOOKY a POČÍTAČE\nSPORT, ZDRAVÍ, KRÁSA, HOBBY\nZAHRADA, NÁŘADÍ, DŮM",
+          "url": "https://www.mader.cz/",
+          "source_type": "MADER 公司官网首页分类导航",
+          "source_level": "一手网站品类信息；商业模式判断为基于页面的有限推断",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "TP-Link IES210GPP 网店价格/库存/保修快照",
+          "text": "MADER 商品页列 IES210GPP，页面价格 6,350 CZK 含税/5,248 CZK 未税、保修 60 个月；抓取时显示“网店有货”，库存说明明确按 1 件计。仅为当日零售网页快照。",
+          "quote": "IES210GPP Omada Industr Easy man.switch\n6350 Kč\n5248 Kč bez DPH\nDostupnost: Skladem v eshopu\nZáruka: 60 měsíců\nZboží máme skladem, odesíláme následující pracovní den (pokud není uvedeno jinak), platí pro 1ks",
+          "url": "https://www.mader.cz/tplink-omada-10port-gigabit-industrial-easy-managed-switch-with-6port-poe-and-2port-poe",
+          "source_type": "MADER 自营网店单品页",
+          "source_level": "一手零售展示；价格/单件库存为动态时点信息，不代表采购价或销量",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "TP-Link IES210GPP 端口/PoE/工业环境规格",
+          "text": "商品页将 IES210GPP 描述为 10 口千兆工业 Easy Managed；8×千兆 RJ45（2×PoE++、6×PoE+）+ 2×RJ45/SFP combo，PoE 预算最高 240W、-40…+75°C、IP40，可 DIN/壁挂。网页卖家规格尚未按生产商正式数据表独立复核。",
+          "quote": "Omada 10portový gigabitový průmyslový Easy Managed switch se 6 porty PoE+ a 2 porty PoE++\n8× gigabitových RJ45 portů (2× PoE++, 6× PoE+)\n2× kombinované gigabitové RJ45/SFP sloty\nNapájecí rozpočet 240 W*\nProvozní teplota -40 °C až 75 °C\nOdolné hliníkové pouzdro s krytím IP40 a možností montáže na DIN lištu nebo na stěnu",
+          "url": "https://www.mader.cz/tplink-omada-10port-gigabit-industrial-easy-managed-switch-with-6port-poe-and-2port-poe",
+          "source_type": "MADER 自营网店商品规格区",
+          "source_level": "一手卖家商品数据；关键规格宜在正式选型时复核品牌方资料",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "DIGITUS DN-650107 工业 PoE 目录/不可用状态",
+          "text": "MADER 另列 DIGITUS DN-650107 4×10/100 PoE + 1×10/100 上联，支持 802.3af/at、冗余 48–57VDC、-40…+85°C；抓取时状态为不可用。价格为当日网页展示，SKU 列表/价格不等于当前可供库存。",
+          "quote": "Digitus DN-650107 DIGITUS Professional Industrial 4-Port Fast Ethernet PoE Switch + 1 uplink port\n1525 Kč\n1260 Kč bez DPH\nDostupnost: Nedostupné\n4 x 10/100Base-TX Ethernet PoE porty\n1 x 10/100Base-TX Ethernet uplink port\nPodporuje IEEE802.3af/at\nRedundantní napájení: 48~57 V DC\nRozšířený rozsah provozních teplot, -40 °C ~ +85 °C",
+          "url": "https://www.mader.cz/digitus-professional-industrial-4port-fast-ethernet-poe-switch-1-uplink-port",
+          "source_type": "MADER 自营网店单品页",
+          "source_level": "一手零售目录/时点库存与规格展示；价格和库存动态",
+          "retrieved_on": "2026-10-12"
+        }
+      ],
+      "assessment": "保持 C。R73 确认 MADER s.r.o. 的官网法定标识、跨品类电商定位和两款工业 PoE 交换机商品页；其中 TP-Link IES210GPP 抓取时显示一件网店库存，DIGITUS DN-650107 抓取时不可用。零售页面及单件库存不证明系统集成、销量、批量采购、采购成本或 Saga 供应商需求。未找到可归属于 MADER 的工业交换机集成案例或公开采购意向；未联系客户、未改主表/评级。",
+      "next_steps": [
+        "如继续公开核验，只按品牌方正式数据表复核 IES210GPP、DN-650107 的精确版本/认证，并在后续记录动态页面日期；不以零售价替代批发或采购成本。",
+        "如研究采购可能性，只保留供应商准入、批量价格、真实可供库存、采购人和工业项目等为未知；本轮不询价、不提交网站表单、不联系 MADER。"
+      ],
+      "unknowns": [
+        "MADER 实际员工数、营收、工业网络业务占比、批发/系统集成业务及工业交换机销量。",
+        "IES210GPP 页面显示单件库存的持续时间、实际成交价、采购成本、补货周期和客户销售记录。",
+        "DIGITUS DN-650107 的恢复供货/停售状态及当前制造商替代型号。",
+        "是否接纳工业交换机新品牌、供应商审核/准入方式、批量起订量、采购决策人/采购量。",
+        "是否存在其他公开项目或终端客户采用 MADER 工业交换机；本轮核查页面未发现，不能据此断言不存在。"
+      ]
+    }
+  ]
+}

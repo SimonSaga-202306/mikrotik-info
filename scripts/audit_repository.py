@@ -157,31 +157,92 @@ def research_records():
     return found
 
 
+def c_public_research_records():
+    """Load R73 C-tier public research so the provenance index survives regeneration."""
+    found = {}
+    for p in sorted((ROOT / 'batch').glob('C类AB标准加厚_*.json')):
+        obj = json.loads(p.read_text(encoding='utf-8'))
+        if not isinstance(obj, dict) or not str(obj.get('round', '')).startswith('R73'):
+            continue
+        batch_path = p.relative_to(ROOT).as_posix()
+        for rec in obj.get('records', []):
+            if not isinstance(rec, dict) or not (rec.get('name') and rec.get('country')):
+                continue
+            sources, seen_sources, record_urls = [], set(), []
+            for fact in rec.get('facts', []):
+                url = fact.get('url')
+                if not url:
+                    continue
+                if url not in record_urls:
+                    record_urls.append(url)
+                source = {
+                    'url': url,
+                    'source_type': fact.get('source_type', '公开来源'),
+                    'source_level': fact.get('source_level', '来源等级未标注'),
+                }
+                source_key = (source['url'], source['source_type'], source['source_level'])
+                if source_key not in seen_sources:
+                    sources.append(source)
+                    seen_sources.add(source_key)
+            dimensions = rec.get('dimensions', {})
+            boundary = next((value for key, value in dimensions.items()
+                             if key.startswith('证据边界')), '')
+            found[(rec['name'], rec['country'])] = {
+                'round': 'R73',
+                'batch_path': batch_path,
+                'researched_on': rec.get('researched_on', obj.get('date')),
+                'fact_count': len(rec.get('facts', [])),
+                'dimension_count': len(dimensions),
+                'sources': sources,
+                'boundary': boundary,
+                'outreach': '未触达；无邮件、电话、寄样或报价',
+                'grade': '保持 C；未改主表',
+                'record_urls': record_urls,
+            }
+    return found
+
+
 def customer_index(rows, first):
     research = research_records()
+    c_public = c_public_research_records()
     batch_matches = defaultdict(list)
     for p in sorted((ROOT / 'batch').glob('*.json')):
         obj = json.loads(p.read_text())
-        if not isinstance(obj, list):
+        if isinstance(obj, list):
+            records, locator_prefix = obj, 'item'
+        elif isinstance(obj, dict) and p.name.startswith('C类'):
+            records, locator_prefix = obj.get('records', []), 'records'
+        else:
             continue
-        for i, r in enumerate(obj):
-            if isinstance(r, dict):
-                batch_matches[(r.get('name'), r.get('country'))].append(f'{p.relative_to(ROOT)} / item[{i}]')
+        for i, r in enumerate(records):
+            if isinstance(r, dict) and r.get('name') and r.get('country'):
+                batch_matches[(r['name'], r['country'])].append(
+                    f'{p.relative_to(ROOT)} / {locator_prefix}[{i}]')
     entries = []
     for rowno, r in enumerate(rows, 2):
         code = r['档案编号']
         rr = research.get(code, [])
+        public = c_public.get((r['公司名'], r['国家']))
         urls = links(r['备注'] + ' ' + r['来源'] + ' ' + r['入口/联系方式'])
+        if public:
+            urls = list(dict.fromkeys(urls + public['record_urls']))
         latest = rr[-1] if rr else None
-        status = ('结构化联系方式证据（仅覆盖该字段/记录中所述内容）' if latest else
+        status = ('R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）' if public else
+                  '结构化联系方式证据（仅覆盖该字段/记录中所述内容）' if latest else
                   '有URL但未逐项核实' if urls else '无逐项证据URL·待补证')
-        entries.append({'code': code, 'name': r['公司名'], 'country': r['国家'], 'grade': r['评级'],
-                        'csv_locator': f'{CSV}:row-{rowno}', 'legacy_source_label': r['来源'],
-                        'site_lead': r['网站'], 'record_urls': urls, 'status': status,
-                        'contact_research': rr,
-                        'exact_batch_matches': batch_matches.get((r['公司名'], r['国家']), []),
-                        'first_seen_exact_identity_commit': first.get((r['公司名'], r['国家'])),
-                        'warning': '网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。'})
+        entry = {'code': code, 'name': r['公司名'], 'country': r['国家'], 'grade': r['评级'],
+                 'csv_locator': f'{CSV}:row-{rowno}', 'legacy_source_label': r['来源'],
+                 'site_lead': r['网站'], 'record_urls': urls, 'status': status,
+                 'contact_research': rr,
+                 'exact_batch_matches': batch_matches.get((r['公司名'], r['国家']), []),
+                 'first_seen_exact_identity_commit': first.get((r['公司名'], r['国家'])),
+                 'warning': ('公开研究仅支持所引用字段；公司自述、政府登记、厂商名录和动态商品页按各自来源范围解释，'
+                             '不证明销量、当前完整授权、采购意向/订单或供应商开放。评级保持C，未触达。'
+                             if public else
+                             '网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。')}
+        if public:
+            entry['public_research'] = {k: v for k, v in public.items() if k != 'record_urls'}
+        entries.append(entry)
     dump(EVIDENCE / '客户溯源索引.json', entries)
     for grade in 'ABC':
         subset = sorted((e for e in entries if e['grade'] == grade), key=lambda e: int(e['code'][2:]))
@@ -207,7 +268,19 @@ def customer_index(rows, first):
                     lines += ['  - 原文摘录：旧批次未存逐字摘录；上述说明为Agent转述，不冒充原文。']
                 for i, url in rr['sources']:
                     lines += [f'  - [{i}]({url})']
-            if not e['contact_research']:
+            if e.get('public_research'):
+                public = e['public_research']
+                lines += [f'- R73 原始研究批次：`{public["batch_path"]}`；检索日期：{public["researched_on"]}；'
+                          f'{public["fact_count"]} 条逐项证据、{public["dimension_count"]} 个分析维度。',
+                          '- 主要逐项来源：']
+                for source in public['sources']:
+                    label = source['source_type'].replace('|', ' / ')
+                    level = source['source_level'].replace('|', ' / ')
+                    lines.append(f'  - [{label}]({source["url"]})（{level}）')
+                if public.get('boundary'):
+                    lines.append(f'- 证据边界：{public["boundary"]}')
+                lines.append(f'- 联系/评级边界：**{public["outreach"]}；{public["grade"]}。**')
+            elif not e['contact_research']:
                 lines += [f'- 原记录URL（只做线索，不等于本次验证）：{", ".join(e["record_urls"]) or "未留存"}',
                           '- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。']
             lines += ['- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。', '']
