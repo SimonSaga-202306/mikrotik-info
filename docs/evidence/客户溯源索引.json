@@ -14764,12 +14764,80 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-295",
     "legacy_source_label": "反向信号/2026-09",
     "site_lead": "secomp.cz",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
+    "record_urls": [
+      "https://nen.nipez.cz/en/registr-dodavatelu/detail-subjektu/250374356",
+      "https://www.secomp.cz/gdpr_ma86.html",
+      "https://www.secomp-international.com/en/about-us/secomp/",
+      "https://www.secomp-international.com/en/about-us/company/",
+      "https://www.secomp.cz/prumyslovy-ethernet-prepinac-1gb-8-portu-8x-poe-na-din-listu-ti-pg80-_d11835.html",
+      "https://www.trendnet.com/products/industrial-switch/8-port-industrial-gigabit-poe-din-rail-switch-TI-PG80",
+      "https://www.trendnet.com/products/product-detail?prod=190_TI-PG102",
+      "https://www.trendnet.com/products/product-detail?prod=195_TI-PG102"
+    ],
+    "status": "R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）",
     "contact_research": [],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/C类AB标准加厚_2026-10-12_R73_第3批.json / records[0]"
+    ],
     "first_seen_exact_identity_commit": "5e1fac83d9c37c63093e9c4929818ea474bbb431",
-    "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
+    "warning": "公开研究仅支持所引用字段；公司自述、政府登记、厂商名录和动态商品页按各自来源范围解释，不证明销量、当前完整授权、采购意向/订单或供应商开放。评级保持C，未触达。",
+    "public_research": {
+      "round": "R73",
+      "batch_path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+      "researched_on": "2026-10-12",
+      "fact_count": 9,
+      "dimension_count": 10,
+      "sources": [
+        {
+          "url": "https://nen.nipez.cz/en/registr-dodavatelu/detail-subjektu/250374356",
+          "source_type": "捷克 National Electronic Tool 供应商登记",
+          "source_level": "政府采购平台一手登记；员工数未注明统计时点"
+        },
+        {
+          "url": "https://www.secomp.cz/gdpr_ma86.html",
+          "source_type": "SECOMP.cz 官方 GDPR/公司联系信息页",
+          "source_level": "公司一手公开通用联系信息；不识别具体采购负责人或采购意向"
+        },
+        {
+          "url": "https://www.secomp-international.com/en/about-us/secomp/",
+          "source_type": "SECOMP International 官方集团/国家业务页面",
+          "source_level": "集团一手自述；支持业务定位，不证明本地交换机销量或采购需求"
+        },
+        {
+          "url": "https://www.secomp-international.com/en/about-us/company/",
+          "source_type": "SECOMP International 官方集团介绍",
+          "source_level": "集团一手自述；人数无可比时点，品牌仅按集团层级解释"
+        },
+        {
+          "url": "https://www.secomp-international.com/en/about-us/secomp/",
+          "source_type": "SECOMP International 官方集团/国家业务页面",
+          "source_level": "集团一手自述；与另一官方页人数口径不一致，不能视作当前单体数据"
+        },
+        {
+          "url": "https://www.secomp.cz/prumyslovy-ethernet-prepinac-1gb-8-portu-8x-poe-na-din-listu-ti-pg80-_d11835.html",
+          "source_type": "SECOMP.cz 自营卖方商品页",
+          "source_level": "一手目录/卖方规格和动态零售价；库存栏为空，不证明现货或采购价"
+        },
+        {
+          "url": "https://www.trendnet.com/products/industrial-switch/8-port-industrial-gigabit-poe-din-rail-switch-TI-PG80",
+          "source_type": "TRENDnet 制造商官方产品/生命周期页",
+          "source_level": "制造商一手版本生命周期信息；不证明 SECOMP 的具体版本或库存"
+        },
+        {
+          "url": "https://www.trendnet.com/products/product-detail?prod=190_TI-PG102",
+          "source_type": "TRENDnet 制造商官方产品/生命周期页",
+          "source_level": "制造商一手版本生命周期信息；不证明该型号在 SECOMP 上架或采购"
+        },
+        {
+          "url": "https://www.trendnet.com/products/product-detail?prod=195_TI-PG102",
+          "source_type": "TRENDnet 制造商官方产品页",
+          "source_level": "制造商一手规格；不证明经销商库存、采购或销售"
+        }
+      ],
+      "boundary": "",
+      "outreach": "未触达；无邮件、电话、寄样或报价",
+      "grade": "保持 C；未改主表"
+    }
   },
   {
     "code": "B-520",
@@ -14834,12 +14902,74 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-297",
     "legacy_source_label": "反向信号/2026-09",
     "site_lead": "tsbohemia.cz",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
+    "record_urls": [
+      "https://www.tsbohemia.cz/o-nas/o-spolecnosti",
+      "https://www.tsbohemia.cz/firmy/pro-firmy",
+      "https://www.tsbohemia.cz/conexpro-gnt-ig1210gf-dc-prumyslovy-switch-na-din-listu-8x-lan-2x-sfp_d519610",
+      "https://www.tsbohemia.cz/conexpro-gnt-p1026g6-poe-switch-24x-lan-24x-poe-2x-sfp_d533227",
+      "https://axilogi.com/conexpro_c108.html",
+      "https://axilogi.com/conexpro-gnt-ig1210gf-dc-prumyslovy-switch-na-din-listu-8x-lan-2x-sfp_d3763.html",
+      "https://download.axilogi.com/Conexpro/Datasheet/GNT-IG1210GF-DC.pdf"
+    ],
+    "status": "R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）",
     "contact_research": [],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/C类AB标准加厚_2026-10-12_R73_第3批.json / records[1]"
+    ],
     "first_seen_exact_identity_commit": "5e1fac83d9c37c63093e9c4929818ea474bbb431",
-    "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
+    "warning": "公开研究仅支持所引用字段；公司自述、政府登记、厂商名录和动态商品页按各自来源范围解释，不证明销量、当前完整授权、采购意向/订单或供应商开放。评级保持C，未触达。",
+    "public_research": {
+      "round": "R73",
+      "batch_path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+      "researched_on": "2026-10-12",
+      "fact_count": 8,
+      "dimension_count": 10,
+      "sources": [
+        {
+          "url": "https://www.tsbohemia.cz/o-nas/o-spolecnosti",
+          "source_type": "T.S.BOHEMIA 公司官网介绍页",
+          "source_level": "一手公司自述；本轮未另做政府登记交叉核验"
+        },
+        {
+          "url": "https://www.tsbohemia.cz/firmy/pro-firmy",
+          "source_type": "T.S.BOHEMIA 官方企业客户政策页",
+          "source_level": "一手业务条件；仅证明企业销售机制，不证明供应商准入/品类需求"
+        },
+        {
+          "url": "https://www.tsbohemia.cz/firmy/pro-firmy",
+          "source_type": "T.S.BOHEMIA 官方 reseller 项目页",
+          "source_level": "一手公司自述；不证明特定品牌/交换机采购或新供应商接受度"
+        },
+        {
+          "url": "https://www.tsbohemia.cz/conexpro-gnt-ig1210gf-dc-prumyslovy-switch-na-din-listu-8x-lan-2x-sfp_d519610",
+          "source_type": "T.S.BOHEMIA 自营商品页",
+          "source_level": "一手卖方目录/网页售罄快照；不代表销量、采购量或长期供货"
+        },
+        {
+          "url": "https://www.tsbohemia.cz/conexpro-gnt-p1026g6-poe-switch-24x-lan-24x-poe-2x-sfp_d533227",
+          "source_type": "T.S.BOHEMIA 自营商品页",
+          "source_level": "一手卖方目录/规格；价格与库存组件抓取时未加载"
+        },
+        {
+          "url": "https://axilogi.com/conexpro_c108.html",
+          "source_type": "Axilogi 官方品牌分类页",
+          "source_level": "品牌经营方一手自述；未核商标注册/法律所有权"
+        },
+        {
+          "url": "https://axilogi.com/conexpro-gnt-ig1210gf-dc-prumyslovy-switch-na-din-listu-8x-lan-2x-sfp_d3763.html",
+          "source_type": "Axilogi 自营卖方商品页",
+          "source_level": "一手商品目录/动态卖方价格；库存栏未显示，非下游采购成本"
+        },
+        {
+          "url": "https://download.axilogi.com/Conexpro/Datasheet/GNT-IG1210GF-DC.pdf",
+          "source_type": "Axilogi/Conexpro 可下载产品数据手册",
+          "source_level": "品牌资料/卖方下载的一手技术文档；文件内型号标签存在编辑差异，参数待正式版本确认"
+        }
+      ],
+      "boundary": "",
+      "outreach": "未触达；无邮件、电话、寄样或报价",
+      "grade": "保持 C；未改主表"
+    }
   },
   {
     "code": "A-498",
@@ -15231,12 +15361,57 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-305",
     "legacy_source_label": "2026-09-22",
     "site_lead": "starnet.md",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
+    "record_urls": [
+      "https://mikrotik.com/buy/europe/moldova?region=Moldova&category=distributors",
+      "https://www.starnet.md/ro/business/partner",
+      "https://www.starnet.md/ro/business/internet",
+      "https://www.starnet.md/ro/about/history",
+      "https://www.starnet.md/ro/iptv"
+    ],
+    "status": "R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）",
     "contact_research": [],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/C类AB标准加厚_2026-10-12_R73_第3批.json / records[2]"
+    ],
     "first_seen_exact_identity_commit": "5e1fac83d9c37c63093e9c4929818ea474bbb431",
-    "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
+    "warning": "公开研究仅支持所引用字段；公司自述、政府登记、厂商名录和动态商品页按各自来源范围解释，不证明销量、当前完整授权、采购意向/订单或供应商开放。评级保持C，未触达。",
+    "public_research": {
+      "round": "R73",
+      "batch_path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+      "researched_on": "2026-10-12",
+      "fact_count": 5,
+      "dimension_count": 10,
+      "sources": [
+        {
+          "url": "https://mikrotik.com/buy/europe/moldova?region=Moldova&category=distributors",
+          "source_type": "MikroTik 官方 Distributors 定位器",
+          "source_level": "制造商一手渠道名录；页面含动态地图/选择器占位文字，按实际结果卡与徽标解释"
+        },
+        {
+          "url": "https://www.starnet.md/ro/business/partner",
+          "source_type": "StarNet 公司官网合作/产品页",
+          "source_level": "公司一手自述与产品目录；不证明销量、库存或采购额"
+        },
+        {
+          "url": "https://www.starnet.md/ro/business/internet",
+          "source_type": "StarNet 企业业务官网",
+          "source_level": "公司一手服务说明/营销页面；不证明交换机采用或采购"
+        },
+        {
+          "url": "https://www.starnet.md/ro/about/history",
+          "source_type": "StarNet 公司官网历史页",
+          "source_level": "公司自述；统计时点未标注，作为历史规模线索而非当前数据"
+        },
+        {
+          "url": "https://www.starnet.md/ro/iptv",
+          "source_type": "StarNet TV 官方服务条款",
+          "source_level": "服务合同一手法律声明；仅覆盖 StarNet TV 运营/供应关系"
+        }
+      ],
+      "boundary": "制造商定位器支持渠道等级；StarNet 业务页和历史页为公司自述；TV 条款仅支持该 TV 服务的运营/供应方关系。不得从渠道徽标、企业服务或覆盖数字推导 Saga 采购意向/交换机订单。保持 C。",
+      "outreach": "未触达；无邮件、电话、寄样或报价",
+      "grade": "保持 C；未改主表"
+    }
   },
   {
     "code": "B-214",
@@ -15455,12 +15630,56 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-310",
     "legacy_source_label": "2026-09-22",
     "site_lead": "b2b.elkotex.si",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
+    "record_urls": [
+      "https://mikrotik.com/buy/europe/slovenia?category=distributors&region=Slovenia",
+      "https://www.sloexport.si/en/company-card?ms=1447025",
+      "https://www.elkotex.si/en/contacts/",
+      "https://b2b.elkotex.si/customer/account/login/"
+    ],
+    "status": "R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）",
     "contact_research": [],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/C类AB标准加厚_2026-10-12_R73_第3批.json / records[3]"
+    ],
     "first_seen_exact_identity_commit": "5e1fac83d9c37c63093e9c4929818ea474bbb431",
-    "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
+    "warning": "公开研究仅支持所引用字段；公司自述、政府登记、厂商名录和动态商品页按各自来源范围解释，不证明销量、当前完整授权、采购意向/订单或供应商开放。评级保持C，未触达。",
+    "public_research": {
+      "round": "R73",
+      "batch_path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+      "researched_on": "2026-10-12",
+      "fact_count": 5,
+      "dimension_count": 10,
+      "sources": [
+        {
+          "url": "https://mikrotik.com/buy/europe/slovenia?category=distributors&region=Slovenia",
+          "source_type": "MikroTik 官方 Distributors 定位器",
+          "source_level": "制造商一手渠道名录；仅支持 Reseller 分类"
+        },
+        {
+          "url": "https://www.sloexport.si/en/company-card?ms=1447025",
+          "source_type": "Sloexport 斯洛文尼亚出口企业目录（与商会/公共机构合作）",
+          "source_level": "企业调查目录；2025 财务/员工字段非审计，按页面更新时点使用"
+        },
+        {
+          "url": "https://www.sloexport.si/en/company-card?ms=1447025",
+          "source_type": "Sloexport 企业描述字段",
+          "source_level": "企业调查目录/公司自述转录；不提供交换机营收或采购份额"
+        },
+        {
+          "url": "https://www.elkotex.si/en/contacts/",
+          "source_type": "Elkotex/ELKO Slovenia 官方联系人页",
+          "source_level": "公司一手职务/联系方式；具体品牌和交换机品类责任未核实"
+        },
+        {
+          "url": "https://b2b.elkotex.si/customer/account/login/",
+          "source_type": "ELKO B2B 门户登录/目录页",
+          "source_level": "公司自营 B2B 页面导航；SKU/价格需登录，本批未据此推断库存"
+        }
+      ],
+      "boundary": "厂商目录确认 reseller 类别；Sloexport 数据按问卷/2025 财年解释；公司联系页仅证明其公开职务与联系方式；登录页分类不证明实际 SKU/库存。所有公开联系方式只存档研究，不触达。",
+      "outreach": "未触达；无邮件、电话、寄样或报价",
+      "grade": "保持 C；未改主表"
+    }
   },
   {
     "code": "B-219",
@@ -15715,12 +15934,69 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-316",
     "legacy_source_label": "2026-09-22",
     "site_lead": "",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
+    "record_urls": [
+      "https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0808669204&actionLu=Zoek",
+      "https://www.cimpro.com/contact",
+      "https://www.hms-networks.com/contact/find-distributor?indexCatalogue=partner-company&searchQuery=CimPro&wordsMode=AllWords&sf_culture=en",
+      "https://www.skyfoundry.com/partners/eu/176c2bd6-e140f33f",
+      "https://www.cimpro.com/over_cimpro",
+      "https://www.cimpro.com/hubfs/Red%20Lion/Datasheets/Unmanaged/100/108TX%20Data%20Sheet_0.pdf?hsLang=nl",
+      "https://www.cimpro.com/producten-1-0/hardware/poe_100"
+    ],
+    "status": "R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）",
     "contact_research": [],
-    "exact_batch_matches": [],
+    "exact_batch_matches": [
+      "batch/C类AB标准加厚_2026-10-12_R73_第3批.json / records[4]"
+    ],
     "first_seen_exact_identity_commit": "5e1fac83d9c37c63093e9c4929818ea474bbb431",
-    "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
+    "warning": "公开研究仅支持所引用字段；公司自述、政府登记、厂商名录和动态商品页按各自来源范围解释，不证明销量、当前完整授权、采购意向/订单或供应商开放。评级保持C，未触达。",
+    "public_research": {
+      "round": "R73",
+      "batch_path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+      "researched_on": "2026-10-12",
+      "fact_count": 7,
+      "dimension_count": 10,
+      "sources": [
+        {
+          "url": "https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0808669204&actionLu=Zoek",
+          "source_type": "Belgian Crossroads Bank for Enterprises (KBO) 官方公共登记",
+          "source_level": "政府一手法人登记；登记页不提供相关实体关系"
+        },
+        {
+          "url": "https://www.cimpro.com/contact",
+          "source_type": "CimPro 官网比利时联系/企业信息页",
+          "source_level": "公司一手公开信息；与 KBO Holding 号码不同，同址不证明法律关联"
+        },
+        {
+          "url": "https://www.hms-networks.com/contact/find-distributor?indexCatalogue=partner-company&searchQuery=CimPro&wordsMode=AllWords&sf_culture=en",
+          "source_type": "HMS Networks 官方合作伙伴/分销商目录",
+          "source_level": "厂商一手伙伴目录；支持当前页面显示的品牌/国家/服务字段，不证明销量或排他"
+        },
+        {
+          "url": "https://www.skyfoundry.com/partners/eu/176c2bd6-e140f33f",
+          "source_type": "SkyFoundry 官方伙伴页",
+          "source_level": "厂商/方案商一手伙伴名录；不证明工业交换机采购"
+        },
+        {
+          "url": "https://www.cimpro.com/over_cimpro",
+          "source_type": "CimPro 官网公司介绍页",
+          "source_level": "公司自述；市场份额/领导地位未独立核验，且该业务历史与 Holding 登记关系未解"
+        },
+        {
+          "url": "https://www.cimpro.com/hubfs/Red%20Lion/Datasheets/Unmanaged/100/108TX%20Data%20Sheet_0.pdf?hsLang=nl",
+          "source_type": "CimPro 网站托管的 N-Tron 产品数据手册",
+          "source_level": "技术数据手册；版本/发布日期及现售状态未核实，不能证明价格/库存"
+        },
+        {
+          "url": "https://www.cimpro.com/producten-1-0/hardware/poe_100",
+          "source_type": "CimPro 官方产品系列页",
+          "source_level": "一手产品目录/技术描述；未显示采购量、价格或实际库存"
+        }
+      ],
+      "boundary": "",
+      "outreach": "未触达；无邮件、电话、寄样或报价",
+      "grade": "保持 C；未改主表"
+    }
   },
   {
     "code": "B-225",

@@ -608,66 +608,107 @@
 <a id="C-041"></a>
 ## C-041 · SECOMP · 捷克
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-295`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：反向信号/2026-09
 - 官网线索（不自动背书其他字段）：secomp.cz
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 本地原始批次：`batch/C类AB标准加厚_2026-10-12_R73_第3批.json / records[0]`
+- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第3批.json`；检索日期：2026-10-12；9 条逐项证据、10 个分析维度。
+- 主要逐项来源：
+  - [捷克 National Electronic Tool 供应商登记](https://nen.nipez.cz/en/registr-dodavatelu/detail-subjektu/250374356)（政府采购平台一手登记；员工数未注明统计时点）
+  - [SECOMP.cz 官方 GDPR/公司联系信息页](https://www.secomp.cz/gdpr_ma86.html)（公司一手公开通用联系信息；不识别具体采购负责人或采购意向）
+  - [SECOMP International 官方集团/国家业务页面](https://www.secomp-international.com/en/about-us/secomp/)（集团一手自述；支持业务定位，不证明本地交换机销量或采购需求）
+  - [SECOMP International 官方集团介绍](https://www.secomp-international.com/en/about-us/company/)（集团一手自述；人数无可比时点，品牌仅按集团层级解释）
+  - [SECOMP International 官方集团/国家业务页面](https://www.secomp-international.com/en/about-us/secomp/)（集团一手自述；与另一官方页人数口径不一致，不能视作当前单体数据）
+  - [SECOMP.cz 自营卖方商品页](https://www.secomp.cz/prumyslovy-ethernet-prepinac-1gb-8-portu-8x-poe-na-din-listu-ti-pg80-_d11835.html)（一手目录/卖方规格和动态零售价；库存栏为空，不证明现货或采购价）
+  - [TRENDnet 制造商官方产品/生命周期页](https://www.trendnet.com/products/industrial-switch/8-port-industrial-gigabit-poe-din-rail-switch-TI-PG80)（制造商一手版本生命周期信息；不证明 SECOMP 的具体版本或库存）
+  - [TRENDnet 制造商官方产品/生命周期页](https://www.trendnet.com/products/product-detail?prod=190_TI-PG102)（制造商一手版本生命周期信息；不证明该型号在 SECOMP 上架或采购）
+  - [TRENDnet 制造商官方产品页](https://www.trendnet.com/products/product-detail?prod=195_TI-PG102)（制造商一手规格；不证明经销商库存、采购或销售）
+- 联系/评级边界：**未触达；无邮件、电话、寄样或报价；保持 C；未改主表。**
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="C-042"></a>
 ## C-042 · TS Bohemia · 捷克
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-297`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：反向信号/2026-09
 - 官网线索（不自动背书其他字段）：tsbohemia.cz
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 本地原始批次：`batch/C类AB标准加厚_2026-10-12_R73_第3批.json / records[1]`
+- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第3批.json`；检索日期：2026-10-12；8 条逐项证据、10 个分析维度。
+- 主要逐项来源：
+  - [T.S.BOHEMIA 公司官网介绍页](https://www.tsbohemia.cz/o-nas/o-spolecnosti)（一手公司自述；本轮未另做政府登记交叉核验）
+  - [T.S.BOHEMIA 官方企业客户政策页](https://www.tsbohemia.cz/firmy/pro-firmy)（一手业务条件；仅证明企业销售机制，不证明供应商准入/品类需求）
+  - [T.S.BOHEMIA 官方 reseller 项目页](https://www.tsbohemia.cz/firmy/pro-firmy)（一手公司自述；不证明特定品牌/交换机采购或新供应商接受度）
+  - [T.S.BOHEMIA 自营商品页](https://www.tsbohemia.cz/conexpro-gnt-ig1210gf-dc-prumyslovy-switch-na-din-listu-8x-lan-2x-sfp_d519610)（一手卖方目录/网页售罄快照；不代表销量、采购量或长期供货）
+  - [T.S.BOHEMIA 自营商品页](https://www.tsbohemia.cz/conexpro-gnt-p1026g6-poe-switch-24x-lan-24x-poe-2x-sfp_d533227)（一手卖方目录/规格；价格与库存组件抓取时未加载）
+  - [Axilogi 官方品牌分类页](https://axilogi.com/conexpro_c108.html)（品牌经营方一手自述；未核商标注册/法律所有权）
+  - [Axilogi 自营卖方商品页](https://axilogi.com/conexpro-gnt-ig1210gf-dc-prumyslovy-switch-na-din-listu-8x-lan-2x-sfp_d3763.html)（一手商品目录/动态卖方价格；库存栏未显示，非下游采购成本）
+  - [Axilogi/Conexpro 可下载产品数据手册](https://download.axilogi.com/Conexpro/Datasheet/GNT-IG1210GF-DC.pdf)（品牌资料/卖方下载的一手技术文档；文件内型号标签存在编辑差异，参数待正式版本确认）
+- 联系/评级边界：**未触达；无邮件、电话、寄样或报价；保持 C；未改主表。**
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="C-043"></a>
 ## C-043 · Star Net · 摩尔多瓦
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-305`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：starnet.md
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 本地原始批次：`batch/C类AB标准加厚_2026-10-12_R73_第3批.json / records[2]`
+- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第3批.json`；检索日期：2026-10-12；5 条逐项证据、10 个分析维度。
+- 主要逐项来源：
+  - [MikroTik 官方 Distributors 定位器](https://mikrotik.com/buy/europe/moldova?region=Moldova&category=distributors)（制造商一手渠道名录；页面含动态地图/选择器占位文字，按实际结果卡与徽标解释）
+  - [StarNet 公司官网合作/产品页](https://www.starnet.md/ro/business/partner)（公司一手自述与产品目录；不证明销量、库存或采购额）
+  - [StarNet 企业业务官网](https://www.starnet.md/ro/business/internet)（公司一手服务说明/营销页面；不证明交换机采用或采购）
+  - [StarNet 公司官网历史页](https://www.starnet.md/ro/about/history)（公司自述；统计时点未标注，作为历史规模线索而非当前数据）
+  - [StarNet TV 官方服务条款](https://www.starnet.md/ro/iptv)（服务合同一手法律声明；仅覆盖 StarNet TV 运营/供应关系）
+- 证据边界：制造商定位器支持渠道等级；StarNet 业务页和历史页为公司自述；TV 条款仅支持该 TV 服务的运营/供应方关系。不得从渠道徽标、企业服务或覆盖数字推导 Saga 采购意向/交换机订单。保持 C。
+- 联系/评级边界：**未触达；无邮件、电话、寄样或报价；保持 C；未改主表。**
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="C-044"></a>
 ## C-044 · Elkotex d.o.o. · 斯洛文尼亚
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-310`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：b2b.elkotex.si
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 本地原始批次：`batch/C类AB标准加厚_2026-10-12_R73_第3批.json / records[3]`
+- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第3批.json`；检索日期：2026-10-12；5 条逐项证据、10 个分析维度。
+- 主要逐项来源：
+  - [MikroTik 官方 Distributors 定位器](https://mikrotik.com/buy/europe/slovenia?category=distributors&region=Slovenia)（制造商一手渠道名录；仅支持 Reseller 分类）
+  - [Sloexport 斯洛文尼亚出口企业目录（与商会/公共机构合作）](https://www.sloexport.si/en/company-card?ms=1447025)（企业调查目录；2025 财务/员工字段非审计，按页面更新时点使用）
+  - [Sloexport 企业描述字段](https://www.sloexport.si/en/company-card?ms=1447025)（企业调查目录/公司自述转录；不提供交换机营收或采购份额）
+  - [Elkotex/ELKO Slovenia 官方联系人页](https://www.elkotex.si/en/contacts/)（公司一手职务/联系方式；具体品牌和交换机品类责任未核实）
+  - [ELKO B2B 门户登录/目录页](https://b2b.elkotex.si/customer/account/login/)（公司自营 B2B 页面导航；SKU/价格需登录，本批未据此推断库存）
+- 证据边界：厂商目录确认 reseller 类别；Sloexport 数据按问卷/2025 财年解释；公司联系页仅证明其公开职务与联系方式；登录页分类不证明实际 SKU/库存。所有公开联系方式只存档研究，不触达。
+- 联系/评级边界：**未触达；无邮件、电话、寄样或报价；保持 C；未改主表。**
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="C-045"></a>
 ## C-045 · CimPro Holding NV · 比利时
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-316`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：未留存
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 本地原始批次：`batch/C类AB标准加厚_2026-10-12_R73_第3批.json / records[4]`
+- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第3批.json`；检索日期：2026-10-12；7 条逐项证据、10 个分析维度。
+- 主要逐项来源：
+  - [Belgian Crossroads Bank for Enterprises (KBO) 官方公共登记](https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0808669204&actionLu=Zoek)（政府一手法人登记；登记页不提供相关实体关系）
+  - [CimPro 官网比利时联系/企业信息页](https://www.cimpro.com/contact)（公司一手公开信息；与 KBO Holding 号码不同，同址不证明法律关联）
+  - [HMS Networks 官方合作伙伴/分销商目录](https://www.hms-networks.com/contact/find-distributor?indexCatalogue=partner-company&searchQuery=CimPro&wordsMode=AllWords&sf_culture=en)（厂商一手伙伴目录；支持当前页面显示的品牌/国家/服务字段，不证明销量或排他）
+  - [SkyFoundry 官方伙伴页](https://www.skyfoundry.com/partners/eu/176c2bd6-e140f33f)（厂商/方案商一手伙伴名录；不证明工业交换机采购）
+  - [CimPro 官网公司介绍页](https://www.cimpro.com/over_cimpro)（公司自述；市场份额/领导地位未独立核验，且该业务历史与 Holding 登记关系未解）
+  - [CimPro 网站托管的 N-Tron 产品数据手册](https://www.cimpro.com/hubfs/Red%20Lion/Datasheets/Unmanaged/100/108TX%20Data%20Sheet_0.pdf?hsLang=nl)（技术数据手册；版本/发布日期及现售状态未核实，不能证明价格/库存）
+  - [CimPro 官方产品系列页](https://www.cimpro.com/producten-1-0/hardware/poe_100)（一手产品目录/技术描述；未显示采购量、价格或实际库存）
+- 联系/评级边界：**未触达；无邮件、电话、寄样或报价；保持 C；未改主表。**
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="C-046"></a>

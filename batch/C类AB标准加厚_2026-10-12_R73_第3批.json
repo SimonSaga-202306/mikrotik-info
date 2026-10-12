@@ -1,0 +1,519 @@
+{
+  "date": "2026-10-12",
+  "round": "R73 第 3 批（C-041—C-045）",
+  "scope": "承接 C-001—C-040 已覆盖记录，仅对 C-041—C-045 做公开资料研究；按 A/B 深度覆盖主体/业务、品牌与渠道、具体产品/技术、市场与项目证据、关键人/采购链、SWOT、Saga 适配及未知项。保留来源等级、原文摘录和 URL；将事实、公司自述、卖方展示、推断与未知分开。只研究，不联系、不发邮件/电话、不寄样、不询价/报价、不改评级、CSV 或主表规则。",
+  "records": [
+    {
+      "code": "C-041",
+      "name": "SECOMP",
+      "country": "捷克",
+      "researched_on": "2026-10-12",
+      "round": "R73",
+      "section_title": "R73 A/B标准深度调研与加厚（仅研究，不触达）",
+      "dimensions": {
+        "法定主体与登记": "捷克国家电子采购工具 NEN 的供应商记录与 SECOMP.cz 的 GDPR 页面均指向 SECOMP a.s.、IČO 25141228、Jizerská 851、Praha-Čakovice；NEN 同页的 9 名员工无统计日期，不能作当前人数。政府采购登记与公司自述相互吻合，但不据此把捷克法人等同于 SECOMP 集团母公司。",
+        "集团结构与捷克业务": "SECOMP International 页面把捷克 SECOMP a.s. 列作集团子公司，列出的本地业务包括 IT 配件、网络技术和消费电子配件，并明示只向捷克境内行业/贸易/手工业/政府等机构交付、B2B、不向个人销售。支持其为专业渠道商，不足以推断具体工业交换机采购额。",
+        "集团规模数据边界": "NEN 的 9 人是供应商记录中未注明时点的单一法人数字；SECOMP 官方集团页面另分别出现约 170 与约 250 人的集团口径，且未给可比时点。口径和数字不一致，不采用为当前捷克实体人数或营收结论。",
+        "自有品牌与 CSV 旧值冲突": "SECOMP International 官网明确把 ROLINE、VALUE 等列为集团自有品牌；该证据属于集团层级，不证明 C-041 捷克法人单独持有商标，也不自动改写 CSV 的“是否自有品牌=否”。将其记录为主表原字段的待人工核对信号，不改 CSV。",
+        "可核工业产品与网页状态": "SECOMP.cz 商品页直接列出 TRENDnet TI-PG80：8×千兆 PoE+、总预算最高 200W、IP30、-40…+75°C、冗余电源；快照价 4,588.92 CZK 含税/3,792.50 CZK 未税、24 个月保修。页面“Dostupnost”栏没有可读库存值；有购买界面不等于已确认现货或持续供货。",
+        "型号生命周期与版本歧义": "TRENDnet 官方页面显示 TI-PG80 v1.3R 已停产、替代为 V2；SECOMP 商品页没有列出硬件版本，无法确认其页面对应旧版还是当前替代版。旧版链条与网页售价不能证明 SECOMP 现售的确切版本。",
+        "相邻 TI-PG102 型号": "TRENDnet 官方说明 TI-PG102 v1.2R 已停产并由 v1.3R 替代；v1.3R 页列 8×千兆 PoE+、2 个 RJ-45/SFP 共享端口、240W、-40…+75°C。该制造商信息不证明 SECOMP 采购或上架了 TI-PG102，本批直接核到的 SECOMP 精确商品页是 TI-PG80。",
+        "客户/项目与关键人": "公开页面支持集团分销、电商及 B2B 定位；本轮未找到可归属 SECOMP 的工业交换机终端项目、销量、批量采购或具名交换机品类买手/新品牌审批人。",
+        "优势与风险（SWOT）": "优势：捷克本地 B2B 销售实体；集团有网络品类和自有品牌体系；可回查 TRENDnet 工业 PoE 商品条目。风险：集团自有品牌及既有网络组合可能形成竞争；当前库存、精确硬件版本、销量、采购层级和供应商准入均未知；不同页面人数口径不一致。",
+        "Saga 适配与证据边界": "按公开目录可见工业 PoE 交换机品类重叠，可作为产品目录级竞合信号；缺少 SECOMP 采购/项目证据，也未建立双方同端口、PoE、温度、管理能力、质保、税费和交付条件的可比方案。没有第二来源、新品牌或 EOL 替换需求证据，维持 C。"
+      },
+      "kp": [],
+      "facts": [
+        {
+          "dim": "法定主体/组织号/注册地址（政府采购供应商记录）",
+          "text": "NEN 的供应商记录列 SECOMP a.s.、组织号 25141228、VAT CZ25141228、Praha-Čakovice 地址；与 SECOMP.cz GDPR 页披露的法人号码一致。NEN 的员工数 9 没有时点，不当作当前人数。",
+          "quote": "Official name\nSECOMP a.s.\nORGANIZATION ID NUMBER\n25141228\nVAT NUMBER\nCZ25141228\nMunicipality\nPraha\nPart of municipality\nČakovice\nNumber of employees\n9",
+          "url": "https://nen.nipez.cz/en/registr-dodavatelu/detail-subjektu/250374356",
+          "source_type": "捷克 National Electronic Tool 供应商登记",
+          "source_level": "政府采购平台一手登记；员工数未注明统计时点",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "公司通用联系方式（非采购 KP）",
+          "text": "SECOMP.cz 的 GDPR 页面公开列出 SECOMP a.s. 通用邮箱 secomp@secomp.cz 和公司电话 +420 281 861 849。它们是公司级隐私/客服联系信息，不是交换机买手或采购意向；CSV 与评级保持原样，本批不触达。",
+          "quote": "Název: SECOMP a.s.\nIČO: 25141228\nKontakt: secomp@secomp.cz, tel. +420 281 861 849",
+          "url": "https://www.secomp.cz/gdpr_ma86.html",
+          "source_type": "SECOMP.cz 官方 GDPR/公司联系信息页",
+          "source_level": "公司一手公开通用联系信息；不识别具体采购负责人或采购意向",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "捷克实体的集团归属与 B2B 范围",
+          "text": "SECOMP International 将捷克 SECOMP a.s. 列为集团本地公司，并称只向捷克行业、贸易、手工业、政府等机构交付，明确 B2B、不向个人销售。",
+          "quote": "SECOMP a.s.\nSelling ... IT accessories, ... network technology and ... consumer electronics accessories.\nDelivery only to industry, trade, craft, authorities and similar institutions in the Czech Republic.\nJust B2B, no sale to private customers!",
+          "url": "https://www.secomp-international.com/en/about-us/secomp/",
+          "source_type": "SECOMP International 官方集团/国家业务页面",
+          "source_level": "集团一手自述；支持业务定位，不证明本地交换机销量或采购需求",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "集团自有品牌与集团员工口径",
+          "text": "SECOMP 集团公司介绍设有“Our own brands”栏目，列 ROLINE、VALUE 等品牌，并自述集团约 250 人。此人数为集团口径且页面未给统计时点；品牌归属不直接等于捷克法人法律持有。",
+          "quote": "Our own brands\nOur own brand ROLINE\nOur own brand VALUE\nApproximately 250 people are employed at the locations of the whole company.",
+          "url": "https://www.secomp-international.com/en/about-us/company/",
+          "source_type": "SECOMP International 官方集团介绍",
+          "source_level": "集团一手自述；人数无可比时点，品牌仅按集团层级解释",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "集团规模口径冲突",
+          "text": "另一 SECOMP 官方国家/集团介绍页称集团约 170 人、合并年营业额约 1 亿欧元；与集团公司介绍的约 250 人不同且均未注明可比统计时点，因此本轮不使用为当前本地规模。",
+          "quote": "With about 170 employees,\nSECOMP generates a consolidated annual turnover of approximately 100 million Euros.",
+          "url": "https://www.secomp-international.com/en/about-us/secomp/",
+          "source_type": "SECOMP International 官方集团/国家业务页面",
+          "source_level": "集团一手自述；与另一官方页人数口径不一致，不能视作当前单体数据",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "TRENDnet TI-PG80 卖方商品页/动态价格",
+          "text": "SECOMP.cz 列出 TI-PG80 工业交换机及主要规格，页面快照价为 4,588.92 CZK 含税、3,792.50 CZK 未税、保修 24 个月。库存栏无可读状态，价格是零售页面动态值，不是批发/采购价。",
+          "quote": "Typ | TI-PG80\n8 portů 1Gb\nPOE celkem až 200W\nprovozní teplota -40 až 75 oC\nVaše cena s DPH 4 588,92 Kč\nVaše cena bez DPH 3 792,50 Kč bez DPH\nZáruka 24 Měsíce",
+          "url": "https://www.secomp.cz/prumyslovy-ethernet-prepinac-1gb-8-portu-8x-poe-na-din-listu-ti-pg80-_d11835.html",
+          "source_type": "SECOMP.cz 自营卖方商品页",
+          "source_level": "一手目录/卖方规格和动态零售价；库存栏为空，不证明现货或采购价",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "TRENDnet TI-PG80 版本生命周期",
+          "text": "TRENDnet 官方页面称 TI-PG80 v1.3R 已停产并由 V2 替代。SECOMP 商品页不显示版本或替代关系，故不能确定其目录页面对应哪个版本或现货状态。",
+          "quote": "TI-PG80 (Version v1.3R)\nDISCONTINUED PRODUCT\nThe TI-PG80 (Version v1.3R) has been discontinued.\nIt has been replaced by the TI-PG80 (Version V2).",
+          "url": "https://www.trendnet.com/products/industrial-switch/8-port-industrial-gigabit-poe-din-rail-switch-TI-PG80",
+          "source_type": "TRENDnet 制造商官方产品/生命周期页",
+          "source_level": "制造商一手版本生命周期信息；不证明 SECOMP 的具体版本或库存",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "TRENDnet TI-PG102 版本替换关系",
+          "text": "TRENDnet 官方页面说明 TI-PG102 v1.2R 已停产并替换为 v1.3R。未在本批已核页面中确认 SECOMP 的 TI-PG102 商品记录。",
+          "quote": "TI-PG102 (Version v1.2R)\nDISCONTINUED PRODUCT\nThe TI-PG102 (Version v1.2R) has been discontinued.\nIt has been replaced by the TI-PG102 (Version v1.3R).",
+          "url": "https://www.trendnet.com/products/product-detail?prod=190_TI-PG102",
+          "source_type": "TRENDnet 制造商官方产品/生命周期页",
+          "source_level": "制造商一手版本生命周期信息；不证明该型号在 SECOMP 上架或采购",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "TI-PG102 v1.3R 制造商规格",
+          "text": "TRENDnet 当前列出的 TI-PG102 v1.3R 为 8 个千兆 PoE+ 端口、2 个 RJ-45/SFP 共享千兆端口、240W PoE 预算、-40…+75°C。此规格仅描述制造商版本，不外推至 SECOMP 商品。",
+          "quote": "TI-PG102 (Version v1.3R)\n8 x Gigabit PoE+ ports\n2 x 1000Base TX/FX RJ-45/SFP shared ports\n240 W PoE power budget\nOperating temperature range of -40° – 75°C",
+          "url": "https://www.trendnet.com/products/product-detail?prod=195_TI-PG102",
+          "source_type": "TRENDnet 制造商官方产品页",
+          "source_level": "制造商一手规格；不证明经销商库存、采购或销售",
+          "retrieved_on": "2026-10-12"
+        }
+      ],
+      "assessment": "保持 C。R73 核实到 SECOMP a.s. 的捷克法人号码、集团 B2B/分销定位及集团层级 ROLINE/VALUE 自有品牌；SECOMP.cz 有 TI-PG80 工业 PoE 商品页和动态零售价格，但库存未显示、版本不明，且 TRENDnet 已公布多个版本迭代。集团人数资料相互不一致，不能作当前本地人数。没有交换机采购量、具名买手、公开项目、第二来源或新品牌准入证据。旧 CSV 的“无自有品牌”字段仅记录冲突，不改主表/CSV；未联系客户、未改评级。",
+      "next_steps": [
+        "如后续继续公开核验，只检查 SECOMP 当前商品页面是否标注硬件版本/现货，以及 TRENDnet 官方新版本页面；不得通过表单、电话或邮件询价。",
+        "如需修正规模判断，只使用带统计日期、实体范围明确的登记或公司报告；不要用 170/250/9 这几种不同口径数字推定当前捷克法人规模。",
+        "本批不据集团自有品牌或商品页推断其愿意引入 Saga、需要第二供应源或正在采购。"
+      ],
+      "unknowns": [
+        "SECOMP.cz TI-PG80 页面对应的硬件版本、实时库存、补货周期与实际成交价；当前 SECOMP 是否上架 TI-PG80 V2 或 TI-PG102 v1.3R。",
+        "SECOMP a.s. 当前员工数、财务规模、工业交换机销售/采购额与终端项目；NEN 9 人及集团页面 170/250 人均不能直接替代。",
+        "ROLINE/VALUE 等商标和自有品牌在 SECOMP 集团各法人的实际持有/运营范围；CSV 旧字段尚未改动。",
+        "交换机品类负责人、采购决策层级、供应商准入政策、新品牌/第二来源意愿及年度采购量。"
+      ]
+    },
+    {
+      "code": "C-042",
+      "name": "TS Bohemia",
+      "country": "捷克",
+      "researched_on": "2026-10-12",
+      "round": "R73",
+      "section_title": "R73 A/B标准深度调研与加厚（仅研究，不触达）",
+      "dimensions": {
+        "法定主体与实体": "T.S.BOHEMIA 官方公司页列 T.S.BOHEMIA a.s.、IČO 62304381、Olomouc 地址及公司识别信息；这是公司自述页面，本轮未另做捷克政府登记交叉核验。",
+        "业务模式与规模口径": "公司自述自 1994 年经营、网站提供超过 60,000 种产品，并称自身为摩拉维亚电商领先者/捷克大型互联网零售商之一。前两项及排名均按公司自述使用，不据此推断工业交换机销售规模。",
+        "企业客户与 reseller 能力": "企业客户页面展示按过去 12 个月营业额划分的 4 档会员、折扣/账期/项目报价等条件，并公开 reseller 计划及代发货、业务代表支持、XML feed 等功能。它证明业务渠道能力，不证明开放新品牌供应商准入或交换机品类采购意愿。",
+        "具体工业产品 GNT-IG1210GF-DC": "TS Bohemia 自营商品页列 Conexpro GNT-IG1210GF-DC，8×千兆 LAN+2×千兆 SFP、无管理、DIN 导轨、-40…+70°C，并明确显示“已售罄”。这是卖方网页状态，不能推断其历史销量/采购量或未来补货。",
+        "产品参数一致性": "TS Bohemia 商品页把该型号 DC 输入写为 15–52V；Axilogi 商品页及其可下载 Conexpro datasheet 写为 12–52V。应将其记录为公开页面参数差异，并以正式数据手册/版本核验；数据手册营销特征行还出现 GNT-P1012G6 型号标签，尽管其规格表列 GNT-IG1210GF-DC，需核文件版本/排版。",
+        "另一工业 PoE SKU": "TS Bohemia 商品页列 Conexpro GNT-P1026G6：24×千兆 RJ45 PoE、2×SFP、22 口 PoE af/at 与 2 口 af/at/bt、总预算 300W、1U 机架式并带风扇。该页面价格/库存区域抓取时为 Loading，不能判断实时可售。",
+        "Conexpro 品牌归属": "Axilogi 公司页将 Conexpro 列为代表品牌；Axilogi Conexpro 分类页明确称“Naše značka”（我们的品牌），覆盖网络/PoE 等商品。它是 Axilogi 的一手品牌自述，不是商标登记证据。TS Bohemia 上架 Conexpro SKU 只证明商品展示，不证明 TS Bohemia 拥有该品牌。",
+        "跨渠道零售价格": "Axilogi 对 GNT-IG1210GF-DC 页面显示 666 CZK 未税、36 个月保修，但库存栏为空；该价格是卖方网页“您的价格”快照，不是 TS Bohemia 的成本/采购价，也不能证明 Axilogi 有现货。",
+        "市场/关键人证据": "当前公开材料支持综合电商、企业会员与 reseller 能力，以及工业交换机目录展示；企业页列通用邮箱但不是具名交换机买手。未找到可归属 TS Bohemia 的工业网络项目/具名终端客户、工业交换机批量销售证据或交换机采购/品牌准入负责人。",
+        "Saga 适配与边界": "目录层面存在 8 口 DIN 工业交换机及 24 口 PoE 交换机，说明类别有重叠；但主要观测到零售展示与一个售罄页面，没有新品牌开放、替代/第二来源或未满足规格证据。维持 C，不改旧主表品牌字段或其他规则。"
+      },
+      "kp": [],
+      "facts": [
+        {
+          "dim": "法人标识/公司规模自述",
+          "text": "T.S.BOHEMIA 官方公司页列法人名称、IČO、Olomouc 地址；同页自述自 1994 年经营且网站商品超过 60,000 种。排名/规模口径属于公司自述，不是审计数据。",
+          "quote": "T.S.BOHEMIA a.s.\nSladovní 103/3,\n779 00 Olomouc – Pavlovičky\nIČ: 62304381\nJiž od roku 1994 stojíme na silných základech.\nMomentálně máme v nabídce více než 60 000 produktů.",
+          "url": "https://www.tsbohemia.cz/o-nas/o-spolecnosti",
+          "source_type": "T.S.BOHEMIA 公司官网介绍页",
+          "source_level": "一手公司自述；本轮未另做政府登记交叉核验",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "企业客户计划/项目报价",
+          "text": "T.S.BOHEMIA 企业页对持有效 IČ 的客户提供企业会员，并按过去 12 个月营业额划分折扣、个人销售代表及付款期限；页面公开企业部门邮箱 firmy@tsbohemia.cz，也提供项目报价入口。该邮箱是通用企业服务联系口，不是具名交换机买手，也不证明开放新品牌供应商。",
+          "quote": "Pro vstup do firemního programu stačí vytvořit registraci s platným IČ a automaticky získáte úroveň STANDARD+, případně můžete kontaktovat naše firemní oddělení firmy@tsbohemia.cz.\nRoční nákupy v CZK bez DPH (posledních 12 kalendářních měsíců)\nProsím pošlete nám poptávku e-mailem na adresu firmy@tsbohemia.cz ... nabídneme projektovou cenu.",
+          "url": "https://www.tsbohemia.cz/firmy/pro-firmy",
+          "source_type": "T.S.BOHEMIA 官方企业客户政策页",
+          "source_level": "一手业务条件；仅证明企业销售机制，不证明供应商准入/品类需求",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Reseller/代发货能力",
+          "text": "同一企业页展示 reseller 合作计划，包含为 reseller 客户处理物流、业务代表支持及 GOLD 级 XML feed。该信息说明渠道能力，不等于新品牌供应商准入。",
+          "quote": "celou logistiku vyřešíme za vás\nPlná podpora obchodního zástupce\nXML datový feed pro GOLD partnery",
+          "url": "https://www.tsbohemia.cz/firmy/pro-firmy",
+          "source_type": "T.S.BOHEMIA 官方 reseller 项目页",
+          "source_level": "一手公司自述；不证明特定品牌/交换机采购或新供应商接受度",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "GNT-IG1210GF-DC 商品页/售罄状态",
+          "text": "TS Bohemia 直接列出 Conexpro GNT-IG1210GF-DC 工业无管理交换机，8×千兆铜口、2×千兆 SFP、DIN 安装；抓取时网页明确写“无可售/已售罄”。页面将 DC 输入列为 15–52V，参数应与品牌方 datasheet 复核。",
+          "quote": "Part No.: GNT-IG1210GF-DC\nJe nám líto, ale tento produkt je beznadějně vyprodán\n(8) 10/100/1000 Mbps LAN + (2) Gigabit SFP\nNapájení přes DC svorkovnici 15 až 52 V DC\nProvozní teplota -40 až 70°C",
+          "url": "https://www.tsbohemia.cz/conexpro-gnt-ig1210gf-dc-prumyslovy-switch-na-din-listu-8x-lan-2x-sfp_d519610",
+          "source_type": "T.S.BOHEMIA 自营商品页",
+          "source_level": "一手卖方目录/网页售罄快照；不代表销量、采购量或长期供货",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "GNT-P1026G6 24口 PoE 目录",
+          "text": "TS Bohemia 商品页列 Conexpro GNT-P1026G6：24×10/100/1000 Mbps LAN、2×Gigabit SFP，22 口支持 802.3af/at（30W）、23–24 口支持 af/at/bt（60W），300W PoE 预算、1U 机架安装。页面库存/价格区域加载不完整。",
+          "quote": "24x 10/100/1000 Mbps LAN + (2) Gigabit SFP\n(22) 802.3af/at PoE (30 W / port) + (2) 802.3af/at/bt PoE (60 W / port)\nPoE budget 300 W\nMontáž do racku, 1U výška\nAktivní chlazení",
+          "url": "https://www.tsbohemia.cz/conexpro-gnt-p1026g6-poe-switch-24x-lan-24x-poe-2x-sfp_d533227",
+          "source_type": "T.S.BOHEMIA 自营商品页",
+          "source_level": "一手卖方目录/规格；价格与库存组件抓取时未加载",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Conexpro 品牌自述来源",
+          "text": "Axilogi 的官方公司页把 Conexpro 列为其代表品牌；其 Conexpro 品牌分类页自称“我们的品牌”，并列 LAN、光纤、PoE/供电等品类。属于经营方品牌自述，不等于商标登记证明。",
+          "quote": "Zastoupené značky\nConexpro\nNaše značka je synonymem špičkového sortimentu za dostupnou cenu.\nLAN sítě\nOptické sítě\nNapájení a PoE",
+          "url": "https://axilogi.com/conexpro_c108.html",
+          "source_type": "Axilogi 官方品牌分类页",
+          "source_level": "品牌经营方一手自述；未核商标注册/法律所有权",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Axilogi GNT-IG1210GF-DC 页面/跨渠道价格",
+          "text": "Axilogi 直接列出同一 Conexpro GNT-IG1210GF-DC，显示 666 CZK 未税和 36 个月保修；库存栏未给可读值，不能将显示价当作 TS Bohemia 采购价或库存证明。",
+          "quote": "Výrobce Conexpro\nPart No. GNT-IG1210GF-DC\nVaše cena bez DPH 666 Kč\nZáruka 36 měsíců",
+          "url": "https://axilogi.com/conexpro-gnt-ig1210gf-dc-prumyslovy-switch-na-din-listu-8x-lan-2x-sfp_d3763.html",
+          "source_type": "Axilogi 自营卖方商品页",
+          "source_level": "一手商品目录/动态卖方价格；库存栏未显示，非下游采购成本",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Conexpro GNT-IG1210GF-DC datasheet 参数交叉核对",
+          "text": "Axilogi 下载中心提供同型号 datasheet，规格表列 DC 12–52V、8×千兆 RJ45+2×千兆 SFP、15W、IP40、-40…+70°C、冗余输入；与 TS Bohemia 商品页 15–52V 存在输入范围差异。PDF 的营销特征表还写 GNT-P1012G6，但后续规格表写 GNT-IG1210GF-DC，属于需复核的文档标签不一致。",
+          "quote": "GNT-IG1210GF-DC\nPorts | (1~8):10/100/1000Mbps ports (RJ45), (1~2):10/100/1000Mbps SFP ports\nPower Input: DC 12~52V Dual Redundancy, Total≤15W\nProtection Level:IP40\nOperating Temperature: -40°C~70°C",
+          "url": "https://download.axilogi.com/Conexpro/Datasheet/GNT-IG1210GF-DC.pdf",
+          "source_type": "Axilogi/Conexpro 可下载产品数据手册",
+          "source_level": "品牌资料/卖方下载的一手技术文档；文件内型号标签存在编辑差异，参数待正式版本确认",
+          "retrieved_on": "2026-10-12"
+        }
+      ],
+      "assessment": "保持 C。T.S.BOHEMIA a.s. 的法人信息、综合电商与企业/reseller 计划均有官网直接材料；其 Conexpro 页面可见 8 口 DIN 工业交换机（抓取时明确售罄）和 24 口 PoE SKU。Axilogi 将 Conexpro 自称为自有品牌并列出相同 SKU；因此 CSV/旧档案里“捷克自有品牌”不能归到 TS Bohemia，原有字段仅作旧信号说明，不改 CSV。GNT-IG1210GF-DC 的公开供电参数存在 15V/12V 起始值差异，且 Axilogi 下载 PDF 有内部型号标签不一致。企业销售/reseller 能力及通用邮箱 firmy@tsbohemia.cz 不等于交换机买手、新品牌供应商准入或采购意向；无 TS Bohemia 采购量、品牌引入或终端项目证据。未触达、未改评级。",
+      "next_steps": [
+        "如后续仅做公开核验，可在品牌方/经营方页面检查 GNT-IG1210GF-DC datasheet 的新版本与 TS Bohemia 商品状态；保留页面日期和参数差异，不通过表单询问。",
+        "对企业客户会员和 reseller 机制只作为销售能力证据，不外推为新品牌供应商开放或工业交换机批量采购。",
+        "本轮不联系 TS Bohemia 或 Axilogi，不提交企业/报价/产品咨询表单。"
+      ],
+      "unknowns": [
+        "T.S.BOHEMIA 是否从 Axilogi 采购 Conexpro、当前供应合同/授权范围、补货周期和历史出货量。",
+        "Conexpro 商标的注册持有人及法律所有权；Axilogi“我们的品牌”属于企业自述。",
+        "TS Bohemia 当前工业交换机库存与 GNT-P1026G6 价格；公开页面的动态组件抓取时未加载。",
+        "交换机品类买手、供应商审核流程、新品牌/第二来源政策、工业项目和年度采购规模。",
+        "GNT-IG1210GF-DC 规格最终版：TS Bohemia 页面列 15–52V、Axilogi 页面/datasheet 列 12–52V，PDF 还存在型号标签编辑不一致。"
+      ]
+    },
+    {
+      "code": "C-043",
+      "name": "Star Net",
+      "country": "摩尔多瓦",
+      "researched_on": "2026-10-12",
+      "round": "R73",
+      "section_title": "R73 A/B标准深度调研与加厚（仅研究，不触达）",
+      "dimensions": {
+        "官方渠道身份": "MikroTik 官方分销定位器的 Moldova 结果卡列 Star Net、Chișinău、starnet.md，并标注 Master Distributor。抓取页面的国家选择器还出现“No results found”文字，但同一页后段的地图结果卡确实列出 Star Net；以明确结果卡和徽标为证，不采信 UI 占位提示。",
+        "主体与法律实体边界": "StarNet TV 官方条款将 StarNet Soluții SRL（IDNO 1013600032967）列为 StarNet TV 的 Operator，TV-BOX SRL 列为服务供应方。此证据只覆盖 StarNet TV 合同主体，不能外推到所有 StarNet 品牌业务或确认其与分销定位器记录的完整法人关系。",
+        "MikroTik 产品目录": "StarNet 自营“官方 MikroTik 伙伴”页面列出 SMB、ISP/Carrier 与家庭/办公室分类产品，包含 CRS326-24G-2S+RM、CRS317-1G-16S+RM、CRS112-8P-4S-IN 等交换机/路由产品。页面自述与官方定位器互相补充，但在售/展示目录不证明销量或采购量。",
+        "电信与企业服务": "StarNet 企业网列专用光纤、Business IntraNet、VLAN 数据传输、4G 备份；页内宣传最高 10Gbps、24/7 技术支持、静态公网 IP、Dual Stack。可支持 ISP/企业网络运营能力，不等于工业交换机采购或系统集成项目。",
+        "公开规模与时点": "公司历史页自述 2003 年成立、850 名员工、超过 180,000 名客户、光纤覆盖 33 个城市；页面未提供统计日期，均按企业历史/自述的未注明时点数字使用，不作为 2026 当前实绩。",
+        "客户/项目证据": "本轮页面显示运营服务、覆盖指标和产品宣传，但未找到具名工业终端客户、可归属 StarNet 的工业交换机项目或具体交换机采购合同。",
+        "关键人与采购链": "官方目录和企业服务页没有具名交换机采购人、MikroTik 品类负责人或新品牌审批人；表单/客服电话不是具名 KP，也没有触达。",
+        "Saga 产品适配与竞合": "官方 Master Distributor 身份及自营 MikroTik 产品页说明其网络设备渠道很成熟，产品目录层面存在交换机品类重叠；同时 StarNet 是大型电信/企业网络服务商，决策链和合作模式可能复杂。没有 Saga 未覆盖规格、替代品牌或第二来源需求的公开证据。",
+        "SWOT": "优势：MikroTik 官方 Master Distributor 标签、企业光纤/VLAN/IntraNet 服务和较广地域覆盖自述。风险：与现有 MikroTik 产品及渠道关系密切，且人员/客户规模为无日期公司自述；交换机销量、工业项目、采购独立性、品牌引入及具体负责人均未知。",
+        "证据边界": "制造商定位器支持渠道等级；StarNet 业务页和历史页为公司自述；TV 条款仅支持该 TV 服务的运营/供应方关系。不得从渠道徽标、企业服务或覆盖数字推导 Saga 采购意向/交换机订单。保持 C。"
+      },
+      "kp": [],
+      "facts": [
+        {
+          "dim": "MikroTik 官方经销名录身份",
+          "text": "MikroTik 官方 Distributors 定位器的 Moldova 结果卡列 Star Net，Chișinău、starnet.md，并在条目下方显示 Master Distributor 徽标。页面前部国家选择器有“No results found”占位文字，后段实际结果卡明确列出 Star Net；按结果卡读取。",
+          "quote": "Star Net\nChisinau\n022 844 444\nstarnet.md\nMaster Distributor",
+          "url": "https://mikrotik.com/buy/europe/moldova?region=Moldova&category=distributors",
+          "source_type": "MikroTik 官方 Distributors 定位器",
+          "source_level": "制造商一手渠道名录；页面含动态地图/选择器占位文字，按实际结果卡与徽标解释",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "StarNet 自述 MikroTik 合作与产品目录",
+          "text": "StarNet 自营页面自称 MikroTik 官方伙伴，并展示 SMB、ISP/Carrier 与家庭/办公室解决方案产品，包括 CRS326、CRS317、CRS112 等；这是公司自述和目录展示，厂商等级以 MikroTik 定位器为准。",
+          "quote": "Partener Oficial MikroTik\nCRS326-24G-2S+RM\nCRS317-1G-16S+RM\nCRS112-8P-4S-IN",
+          "url": "https://www.starnet.md/ro/business/partner",
+          "source_type": "StarNet 公司官网合作/产品页",
+          "source_level": "公司一手自述与产品目录；不证明销量、库存或采购额",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "面向企业的网络服务能力",
+          "text": "StarNet 企业互联网页面公开专用光纤、IntraNet、VLAN 传输和 4G 备份服务，宣传最高 10Gbps、24/7 技术支持、静态 IP 与 Dual Stack；这些支持其企业通信服务范围，不是工业交换机采购证据。",
+          "quote": "Internet Only Fiber\nBusiness IntraNet\nTransport Data VLAN\nInternet 4G și Backup 4G\n10 Gbps\n24/7\nVLAN\nAdrese IP statice publice",
+          "url": "https://www.starnet.md/ro/business/internet",
+          "source_type": "StarNet 企业业务官网",
+          "source_level": "公司一手服务说明/营销页面；不证明交换机采用或采购",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "企业规模与地域覆盖（未注明时点）",
+          "text": "StarNet 历史页面自述成立于 2003 年、员工 850 人、服务超过 180,000 名客户、光纤覆盖 33 个城市。该页面未注明数字基准日期，不能当 2026 当前规模。",
+          "quote": "fondată în anul 2003\nAngajați\n850\nClienți StarNet\n180.000\nCele 33 de orașe acoperite cu Fibră Optică",
+          "url": "https://www.starnet.md/ro/about/history",
+          "source_type": "StarNet 公司官网历史页",
+          "source_level": "公司自述；统计时点未标注，作为历史规模线索而非当前数据",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "StarNet TV 服务的合同运营实体",
+          "text": "StarNet TV 服务条款称 StarNet Soluții SRL（IDNO 1013600032967）为 Operator，TV-BOX SRL（IDNO 1011600023626）为 Provider。只支持该电视服务的合同关系，不据此确认分销商记录与各业务实体的完整法律组织关系。",
+          "quote": "”StarNet Soluții” SRL, persoană juridică ... (IDNO 1013600032967) ... (în continuare – ”Operator”) și ”TV-BOX” SRL ... (IDNO 1011600023626) (în continuare – ”Furnizor”).",
+          "url": "https://www.starnet.md/ro/iptv",
+          "source_type": "StarNet TV 官方服务条款",
+          "source_level": "服务合同一手法律声明；仅覆盖 StarNet TV 运营/供应关系",
+          "retrieved_on": "2026-10-12"
+        }
+      ],
+      "assessment": "保持 C。MikroTik 官方定位器直接将 Star Net 列为 Master Distributor；StarNet 自营页面展示 MikroTik 产品目录并提供企业光纤、VLAN、IntraNet 等服务，说明其网络渠道和服务能力明显，但也意味着既有品牌/渠道关系强。历史页规模数字未标日期；StarNet TV 条款的法人信息只覆盖电视服务。未找到交换机品类采购人、工业项目、交换机采购量或新品牌/第二来源意愿。只做公开研究，未触达、未改评级或主表。",
+      "next_steps": [
+        "如继续公开核验，可观察 MikroTik 官方分销目录与 StarNet 当前产品目录变化，以及公开发布的具名网络项目；不以公司规模/服务宣传推断工业交换机订单。",
+        "任何采购链、供应商准入、第二来源或价格信息仍只能列未知；本批不提交表单、不打电话、不发邮件。"
+      ],
+      "unknowns": [
+        "Star Net 分销条目的完整法定实体/登记号码及其与 StarNet Soluții SRL 的组织关系；TV 条款仅识别 TV 服务 Operator。",
+        "MikroTik Master Distributor 的具体授权地区/产品范围/期限、合同条件和硬件销售规模。",
+        "工业交换机/PoE 产品实际型号、库存、年度进货额、终端客户和可公开项目。",
+        "交换机品类负责人、采购决策链、供应商准入与新品牌/第二来源政策。",
+        "历史页面 850 员工、180,000 客户和 33 城覆盖数据的当前统计日期及现行数值。"
+      ]
+    },
+    {
+      "code": "C-044",
+      "name": "Elkotex d.o.o.",
+      "country": "斯洛文尼亚",
+      "researched_on": "2026-10-12",
+      "round": "R73",
+      "section_title": "R73 A/B标准深度调研与加厚（仅研究，不触达）",
+      "dimensions": {
+        "法定名称与登记数据库": "斯洛文尼亚商会/出口企业目录 Sloexport 卡列 ELKOTEX d.o.o. 全称、Ljubljana 地址、记录号 1447025、税号 80941427 和有限责任公司形态。该页面注明资料来自企业调查，属于目录/调查数据而非本轮政府登记核验。",
+        "2025 财务与人员规模边界": "Sloexport 卡列 29 名员工、2025 财年收入 €27,670,248、出口收入占比 30%；页面说明信息来自调查、财务为 2025 年数据，财务字段 2026-06-18 更新、整卡 2026-09-21 更新。不是审计意见，不能直接转化为工业交换机规模。",
+        "业务模式与客户渠道": "Sloexport 描述其为 IT 与自动化/控制领域高科技产品分销商，经选定 ISP、大型零售连锁及自营 B2C 网店销售；描述为企业目录自述，未给工业交换机份额。",
+        "MikroTik 渠道身份": "MikroTik 官方斯洛文尼亚分销定位器列 Elkotex d.o.o.、Ljubljana、B2B 搜索入口及 Reseller 徽标；只支持该官方目录的 reseller 分类，不外推 Master Distributor、排他授权或完整品类范围。",
+        "公开关键人/采购岗位": "Elkotex 官方联系页公开列出 Key Account/Sales-Purchasing、销售/采购负责人、采购销售专员和产品经理等姓名与企业联系方式。职位与采购相关，但页面没有说明他们分别负责 MikroTik/工业交换机或品牌准入；仅作 KP 研究线索，本批不联系。",
+        "B2B 商品可见性": "ELKO B2B 页面在登录路由/目录导航中列出网络设备、路由器、交换机与 PoE 分类；访问时落在登录页，未直接核到可公开型号、库存或价格。",
+        "公开项目与产品证据": "公开页面支持 IT/自动化分销和渠道网络，但本轮未取得 Elkotex 当前工业交换机 SKU、工业项目案例、终端客户或采购量的可核证据；“未找到”限于本轮访问的公开页面。",
+        "Saga 适配与竞合": "MikroTik reseller 身份与网络品类目录表明有网络硬件销售渠道，可能与交换机类别相邻；不证明其采购 Saga 类工业交换机。人员规模和调查收入表明公司经营体量值得记录，但需求、供应商准入与 SKU 经济性未知。维持 C。",
+        "SWOT": "优势：MikroTik 官方 reseller 标签；Sloexport 调查卡显示当地中型 IT/自动化分销业务；公开联系页有采购和产品管理职能。风险：财务/员工数据来自问卷、并非审计；B2B 商品可见性受登录限制；没有精确工业交换机或项目证据；联系人具体产品责任未知。",
+        "证据边界": "厂商目录确认 reseller 类别；Sloexport 数据按问卷/2025 财年解释；公司联系页仅证明其公开职务与联系方式；登录页分类不证明实际 SKU/库存。所有公开联系方式只存档研究，不触达。"
+      },
+      "kp": [
+        {
+          "name": "Primož Novak",
+          "role": "官网列为 Key Account Sales / Procurement（关键客户销售/采购）",
+          "contact": "primoz.novak@elkotex.si；+386 1 583 79 13",
+          "status": "公司官网公开岗位与联系方式；是否负责网络交换机、MikroTik或新品准入未核实。仅作研究线索，不联系。",
+          "source": "https://www.elkotex.si/en/contacts/"
+        },
+        {
+          "name": "Mitja Sodja",
+          "role": "官网列为 Head of Sales / Purchasing（销售/采购负责人）",
+          "contact": "mitja.sodja@elkotex.si；+386 1 583 79 12",
+          "status": "公司官网公开岗位与联系方式；不证明负责特定交换机类别或拥有品牌准入权。仅作研究线索，不联系。",
+          "source": "https://www.elkotex.si/en/contacts/"
+        },
+        {
+          "name": "Aleš Buzeti",
+          "role": "官网列为 Procurement clerk / Sales（采购专员/销售）",
+          "contact": "ales.buzeti@elkotex.si；+386 1 583 79 22",
+          "status": "公司官网公开岗位与联系方式；采购范围及交换机品类责任未核实。仅作研究线索，不联系。",
+          "source": "https://www.elkotex.si/en/contacts/"
+        },
+        {
+          "name": "Matjaž Deisinger",
+          "role": "官网列为 Product Manager（产品经理）",
+          "contact": "matjaz.deisinger@elkotex.si；+386 1 583 79 15",
+          "status": "公司官网公开岗位与联系方式；未指明产品线，不能认定为交换机负责人。仅作研究线索，不联系。",
+          "source": "https://www.elkotex.si/en/contacts/"
+        }
+      ],
+      "facts": [
+        {
+          "dim": "MikroTik 官方渠道等级",
+          "text": "MikroTik 官方定位器的斯洛文尼亚结果卡列 Elkotex d.o.o.、Ljubljana、电话和 B2B 搜索入口，条目徽标为 Reseller。该页同时展示其他渠道商；本条不是 Master/VAD 徽标。",
+          "quote": "Elkotex d.o.o.\nLjubljana\n+386 1 583 79 10\nb2b.elkotex.si\nReseller",
+          "url": "https://mikrotik.com/buy/europe/slovenia?category=distributors&region=Slovenia",
+          "source_type": "MikroTik 官方 Distributors 定位器",
+          "source_level": "制造商一手渠道名录；仅支持 Reseller 分类",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "公司登记卡/规模数据",
+          "text": "Sloexport 记录 ELKOTEX d.o.o.、Ljubljana 地址、注册卡号 1447025、税号 80941427；列 29 名员工、2025 财年收入 €27,670,248。卡片说明公司信息来自调查、财务数据属于 2025 财年并记录更新日期，因此不是审计结论。",
+          "quote": "ELKOTEX podjetje za trgovino in zastopanje d.o.o.\nRegistration number: 1447025\nTax number: 80941427\nNumber of employees: 29\nIncome: 27.670.248,00 €\nFinancial data are for the financial year 2025, last update 18.06.2026.\nLast data update 21.09.2026.",
+          "url": "https://www.sloexport.si/en/company-card?ms=1447025",
+          "source_type": "Sloexport 斯洛文尼亚出口企业目录（与商会/公共机构合作）",
+          "source_level": "企业调查目录；2025 财务/员工字段非审计，按页面更新时点使用",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "IT/自动化分销业务描述",
+          "text": "Sloexport 公司卡将 Elkotex 描述为 IT、自动化与控制领域高科技产品分销商，通过选定 ISP、大型零售连锁及自有 B2C 网店销售。该描述来自企业目录调查。",
+          "quote": "Elkotex Ltd. is a distributor of high-tech products in the field of IT and automation and control. We sell our products through selected internet providers, major retail chains and our own B2C online stores.",
+          "url": "https://www.sloexport.si/en/company-card?ms=1447025",
+          "source_type": "Sloexport 企业描述字段",
+          "source_level": "企业调查目录/公司自述转录；不提供交换机营收或采购份额",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "销售/采购/产品管理岗位",
+          "text": "Elkotex 官方联系人页公开列 Primož Novak 为关键客户销售/采购、Mitja Sodja 为销售/采购负责人、Aleš Buzeti 为采购/销售专员、Matjaž Deisinger 为产品经理。页面没有说明其各自负责交换机/MikroTik或品牌准入；均仅作公开 KP 线索、不触达。",
+          "quote": "Primož Novak\nProdaja ključnim kupcem, nabava\nMitja Sodja\nVodja prodaje / nabave\nAleš Buzeti\nReferent v nabavi, prodaja\nMatjaž Deisinger\nProduct manager",
+          "url": "https://www.elkotex.si/en/contacts/",
+          "source_type": "Elkotex/ELKO Slovenia 官方联系人页",
+          "source_level": "公司一手职务/联系方式；具体品牌和交换机品类责任未核实",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "B2B 网络品类与访问限制",
+          "text": "ELKO B2B 页面目录导航列出网络设备、路由器、交换机和 PoE 分类，但抓取时进入登录页，未公开显示具体交换机 SKU、价格或库存。MikroTik 定位器也链接到 B2B 搜索结果路由。",
+          "quote": "Mrežna oprema\nUsmerjevalniki\nStikala\nPoE\nPrijava uporabnika",
+          "url": "https://b2b.elkotex.si/customer/account/login/",
+          "source_type": "ELKO B2B 门户登录/目录页",
+          "source_level": "公司自营 B2B 页面导航；SKU/价格需登录，本批未据此推断库存",
+          "retrieved_on": "2026-10-12"
+        }
+      ],
+      "assessment": "保持 C。MikroTik 官方目录确认 Elkotex 为 Reseller；Sloexport 企业调查卡列出 2025 财务与 29 名员工，并描述 IT/自动化控制分销和多个销售渠道；公司官方联系人页还公开采购及产品管理岗位。上述信号提高了研究可核验度，但不证明交换机品类采购权、年度网络设备采购量或新品准入。B2B 门户只公开类别导航、具体 SKU/价格需登录；未找到工业交换机型号或项目证据。公开人员信息只留存研究，未联系、未改评级/CSV/主表。",
+      "next_steps": [
+        "如继续公开研究，只通过公开网页核对 B2B 门户公开可见 SKU/数据手册及厂商渠道目录变动；不登录他人账户、不提交表单、不联系页面所列员工。",
+        "将联系人保留为岗位线索，不将其标注为已确认交换机买手或授权审批人。",
+        "对 Sloexport 的财务/员工数据维持调查数据口径，不当作经审计规模。"
+      ],
+      "unknowns": [
+        "员工/营业额信息的原始问卷、审计状态、与 ELKO 集团/其他法人的合并口径；Sloexport 页面仅称数据来自调查。",
+        "Elkotex 是否有公开或登录后在售的工业交换机 SKU、品牌、价格、库存与实际销售额。",
+        "上述公开销售/采购和产品经理岗位分别对应的产品线、MikroTik采购权、新品牌审批权和供应商准入流程。",
+        "工业/自动化终端项目、交换机客户、年度交换机采购量、第二来源政策以及 Saga 产品实际规格匹配情况。"
+      ]
+    },
+    {
+      "code": "C-045",
+      "name": "CimPro Holding NV",
+      "country": "比利时",
+      "researched_on": "2026-10-12",
+      "round": "R73",
+      "section_title": "R73 A/B标准深度调研与加厚（仅研究，不触达）",
+      "dimensions": {
+        "控股法人登记": "比利时 KBO 官方登记确认 BE0808.669.204 对应 CimPro Holding，状态 Active、法律形式 NV、地址 Europark Oost 34, 9100 Sint-Niklaas；2025 NACE 分类为控股、总部和办公室行政支持活动。KBO 未列网站/邮箱，也未显示实体链接。",
+        "网站营业实体与号码差异": "cimpro.com 的联系/隐私页将比利时业务标为 BE0892.071.584，地址同为 Europark Oost 34，并列一般销售、订单与支持联系入口。此号码不同于 Holding 的 BE0808.669.204；同址和共享 CimPro 名称不能证明母子公司、经营主体或法律承继关系；通用邮箱也不是交换机买手。",
+        "HMS / Red Lion / N-Tron 合作身份": "HMS 官方合作伙伴目录将 CimPro Holding NV 列为比利时/荷兰合作伙伴，显示 Red Lion 与 N-Tron，并提供售前和售后支持；该目录结果未显示 Anybus。它支持目录所列合作关系，不证明独家、完整型号授权、持续库存或全部法人合同结构。",
+        "SkyFoundry 方案合作": "SkyFoundry 官方伙伴页称 CimPro Holding NV 为比利时、卢森堡、荷兰的 SkyFoundry VAD，并列欧洲培训中心；涉及 Building Analytics、Process Optimization、Energy Management，说明相邻的建筑数据分析/系统集成能力，不等于交换机采购项目。",
+        "业务历史与客户应用自述": "cimpro.com 关于页自述 CimPro 于 1997 年由两名工程师创立，先做荷兰水务远程控制，后扩展到楼宇绩效和工业数字化；并声称超过 50% 荷兰水务机构部分或全部标准化其技术。该份额与客户成果为公司自述，未第三方核实；也不能用来确定 2008 年登记的 Holding NV 成立年份。",
+        "可核工业交换机产品": "CimPro 网站托管 N-Tron 108TX 数据手册：8×10/100BaseTX、非网管、DIN 导轨金属壳、-40…+70°C、双路 10–30VDC 输入。资料未显示当前价格、网页库存或版本日期；历史/技术资料不能证明当前在售。",
+        "产品线与品牌字段": "CimPro N-Tron Series 100 页面展示工业非网管交换机产品族；HMS 当前检索结果显示 Red Lion/N-Tron。CSV 旧标签含 Anybus，但该条结果没有展示 Anybus；不能据一次目录结果断言 CimPro 完全不销售 Anybus。",
+        "旧比价信号复核": "旧档案提及约 US$500+ 的 8 口非网管 N-Tron/Red Lion 与 Saga 约 US$64 价差；本批没有核到当前同 SKU/同条件的公开价格，108TX PDF 也不含售价，故该价差不能作为现行可比事实，CSV 不改。",
+        "采购人/准入": "公开资料未确认 CimPro Holding NV 的交换机产品负责人、实际采购人、品牌准入审批人、年采购额或新品牌政策。官网列有一般销售/订单/支持联系入口，但未指向交换机买手；本批未联系。",
+        "Saga 适配与SWOT": "优势：HMS 官方伙伴页显示 Red Lion/N-Tron 产品关系及售前/售后支持；SkyFoundry 页显示 Benelux 方案渠道；网站技术资料覆盖工业以太网。风险：既有工业品牌关系强、法律实体关系有双号码未解、旧价格无当前同条件佐证、SKU/库存与采购独立性未知。目录层面仅有品类重叠，缺少第二来源或替代需求证据，维持 C。"
+      },
+      "kp": [],
+      "facts": [
+        {
+          "dim": "比利时 Holding 法人/状态/活动",
+          "text": "KBO 官方登记号 0808.669.204 对应 CimPro Holding，状态 Active、法律形式 Naamloze vennootschap（NV），地址 Europark-Oost 34, Sint-Niklaas；登记活动含控股、总部和办公室行政支持。KBO 页面没有网站/邮箱或实体链接。",
+          "quote": "Ondernemingsnummer: 0808.669.204\nStatus: Actief\nNaam: CimPro Holding\nAdres van de zetel: Europark-Oost 34, 9100 Sint-Niklaas\nRechtsvorm: Naamloze vennootschap\n64.210 - Activiteiten van holdings\n82.100 - Administratieve en ondersteunende activiteiten ten behoeve van kantoren\n70.100 - Activiteiten van hoofdkantoren\nGeen gegevens opgenomen in KBO.",
+          "url": "https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0808669204&actionLu=Zoek",
+          "source_type": "Belgian Crossroads Bank for Enterprises (KBO) 官方公共登记",
+          "source_level": "政府一手法人登记；登记页不提供相关实体关系",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "网站比利时营业信息的不同登记号",
+          "text": "cimpro.com 联系页和隐私声明将其比利时业务/网站责任主体标为 BE0892.071.584，地址与 KBO 的 CimPro Holding NV 相同；页面另列 info@cimpro.com 等一般销售/订单/支持邮箱。号码与 Holding 的 BE0808.669.204 不同，法律关联未由 KBO 页面证实；通用联系入口不是交换机采购人。",
+          "quote": "BTW nr.: BE 0892.071.584\nOndernemingsnummer: BE0892.071.584\nEuropark Oost 34\n9100 Sint-Niklaas\nVerkoop | info@cimpro.com\nOrderdesk en administratie | orders@cimpro.com",
+          "url": "https://www.cimpro.com/contact",
+          "source_type": "CimPro 官网比利时联系/企业信息页",
+          "source_level": "公司一手公开信息；与 KBO Holding 号码不同，同址不证明法律关联",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "HMS 官方合作伙伴名录",
+          "text": "HMS Networks 官方合作伙伴查询结果列 CimPro Holding NV，覆盖 Belgium、Netherlands，显示 Red Lion、N-Tron 与售前/售后支持；结果中未显示 Anybus。不能据此推断排他权、全部型号合同或具体库存。",
+          "quote": "Red Lion, N-Tron\nCimPro Holding NV\nBelgium, Netherlands\nAvailable support: Pre-sales support | After-sales support",
+          "url": "https://www.hms-networks.com/contact/find-distributor?indexCatalogue=partner-company&searchQuery=CimPro&wordsMode=AllWords&sf_culture=en",
+          "source_type": "HMS Networks 官方合作伙伴/分销商目录",
+          "source_level": "厂商一手伙伴目录；支持当前页面显示的品牌/国家/服务字段，不证明销量或排他",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "SkyFoundry Benelux VAD/培训合作",
+          "text": "SkyFoundry 官方伙伴页以 CimPro Holding NV 为伙伴，称其为比利时、卢森堡、荷兰的 VAD 和 SkySpark 授权欧洲培训中心；产品领域是 Building Analytics、Process Optimization、Energy Management。",
+          "quote": "CimPro Holding NV\nCimPro is the SkyFoundry distributor (VAD) for Belgium, Luxemburg and The Netherlands and SkySpark Authorized European Training Centre.",
+          "url": "https://www.skyfoundry.com/partners/eu/176c2bd6-e140f33f",
+          "source_type": "SkyFoundry 官方伙伴页",
+          "source_level": "厂商/方案商一手伙伴名录；不证明工业交换机采购",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "CimPro 公司历史与水务市场自述",
+          "text": "CimPro 官网自述 1997 年由两位工程师创立、从荷兰水务遥测扩展至楼宇与工业数字化，并声称超过 50% 荷兰水务机构部分或全部采用其技术。该市场占比未第三方核验，也不能据此推断交换机订单。",
+          "quote": "CimPro werd opgericht in 1997 door twee ingenieurs.\nVandaag is CimPro marktleider bij de Nederlandse waterschappen. Meer dan 50% van de Nederlandse waterschappen is geheel of gedeeltelijk gestandaardiseerd op technologie van CimPro.",
+          "url": "https://www.cimpro.com/over_cimpro",
+          "source_type": "CimPro 官网公司介绍页",
+          "source_level": "公司自述；市场份额/领导地位未独立核验，且该业务历史与 Holding 登记关系未解",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "N-Tron 108TX 工业交换机数据手册",
+          "text": "CimPro 网站托管的 N-Tron 108TX 数据手册列 8 个 10/100BaseTX RJ-45、非网管、DIN 导轨金属壳、-40…+70°C、双路 10–30VDC。文件无可见发布日期/当前库存信息，也没有售价。",
+          "quote": "The N-TRON 108TX is a low cost, unmanaged eight port Industrial Ethernet switch.\nEight 10/100BaseTX RJ-45 Ports\n-40ºC to 70ºC Operating Temperature\nRedundant Power Inputs (10-30 VDC)\nHardened Metal DIN-Rail Enclosure",
+          "url": "https://www.cimpro.com/hubfs/Red%20Lion/Datasheets/Unmanaged/100/108TX%20Data%20Sheet_0.pdf?hsLang=nl",
+          "source_type": "CimPro 网站托管的 N-Tron 产品数据手册",
+          "source_level": "技术数据手册；版本/发布日期及现售状态未核实，不能证明价格/库存",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "N-Tron 100 系列产品线展示",
+          "text": "CimPro 产品页展示 N-Tron 100 系列工业非网管 PoE/Ethernet 交换机，并描述 2–8 口 10/100Base-T(X)、DIN 导轨外壳、冗余供电和宽温等特点；页面展示不证明具体型号现货或销售量。",
+          "quote": "Red Lion's N-Tron series 100 unmanaged industrial Ethernet POE Switches\nThese unmanaged switches are provided with two to eight ports\n10/100Base-T(X)\nDIN-rail mountable metal enclosures",
+          "url": "https://www.cimpro.com/producten-1-0/hardware/poe_100",
+          "source_type": "CimPro 官方产品系列页",
+          "source_level": "一手产品目录/技术描述；未显示采购量、价格或实际库存",
+          "retrieved_on": "2026-10-12"
+        }
+      ],
+      "assessment": "保持 C。比利时 KBO 登记确认 CimPro Holding NV（BE0808.669.204）为有效控股/总部类法人；HMS 与 SkyFoundry 两个官方伙伴目录分别支持其 Red Lion/N-Tron 伙伴身份及 Benelux SkyFoundry VAD/培训角色。cimpro.com 比利时联系页另列 BE0892.071.584，尽管同址，和 Holding 的法律关系仍未知。N-Tron 108TX 资料可核型号与历史技术规格，但没有售价、当前库存或现行供货证明。旧档案约 US$500+ 与 Saga 约 US$64 的比价本轮未验证，不作现行价差结论、不改 CSV。官网一般邮箱/订单入口不等于交换机买手；未找到交换机买手、新品牌准入或第二来源需求；未触达、未改评级。",
+      "next_steps": [
+        "如继续公开研究，可只查 KBO/官方年报的实体关系、HMS 当前伙伴目录与 N-Tron 当前正式型号/数据手册；不以同址或品牌网页推定两个比利时企业编号属于同一法人集团。",
+        "旧价格差异只有在公开取得同型号、同规格、税费/质保/交付条件一致的当前证据后才可比较；本轮不询价。",
+        "不将 SkyFoundry 建筑分析/水务案例当作工业交换机采购证明，不联系 CimPro 或合作伙伴。"
+      ],
+      "unknowns": [
+        "BE0808.669.204 CimPro Holding NV 与 cimpro.com 比利时页面的 BE0892.071.584 之间的股权、控制、经营/签约或历史承继关系。",
+        "HMS 对 CimPro 的当前合同主体、产品范围、区域/授权期限、排他约束、实际 Red Lion/N-Tron SKU 库存和销售额；Anybus 是否另有渠道销售。",
+        "N-Tron 108TX datasheet 的版本日期、生命周期、现行替代产品、报价/库存，以及旧 CSV US$500+ 价格对应型号和交易条件。",
+        "交换机产品/采购负责人、年度采购量、具名工业项目、第二供应来源/新品牌准入流程与Saga实际产品适配度。",
+        "CimPro 自述水务覆盖比例的统计年份、外部验证，以及与 BE0808.669.204 Holding NV 的实体范围。"
+      ]
+    }
+  ]
+}

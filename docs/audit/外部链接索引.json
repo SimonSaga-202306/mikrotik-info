@@ -6760,6 +6760,34 @@
     ]
   },
   {
+    "url": "https://axilogi.com/conexpro-gnt-ig1210gf-dc-prumyslovy-switch-na-din-listu-8x-lan-2x-sfp_d3763.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L201"
+      },
+      {
+        "path": "profile/C/C-042-TS Bohemia-捷克.md",
+        "locator": "L128"
+      }
+    ]
+  },
+  {
+    "url": "https://axilogi.com/conexpro_c108.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L192"
+      },
+      {
+        "path": "profile/C/C-042-TS Bohemia-捷克.md",
+        "locator": "L120"
+      }
+    ]
+  },
+  {
     "url": "https://axilogi.com/kontakty_d1502.html",
     "http_checked": false,
     "occurrences": [
@@ -6824,6 +6852,20 @@
       {
         "path": "scripts/R66_R56_KP第4波落盘.py",
         "locator": "L67"
+      }
+    ]
+  },
+  {
+    "url": "https://b2b.elkotex.si/customer/account/login/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L400"
+      },
+      {
+        "path": "profile/C/C-044-Elkotex d.o.o-斯洛文尼亚.md",
+        "locator": "L123"
       }
     ]
   },
@@ -15222,6 +15264,20 @@
     ]
   },
   {
+    "url": "https://download.axilogi.com/Conexpro/Datasheet/GNT-IG1210GF-DC.pdf",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L210"
+      },
+      {
+        "path": "profile/C/C-042-TS Bohemia-捷克.md",
+        "locator": "L137"
+      }
+    ]
+  },
+  {
     "url": "https://doxyterra.md/",
     "http_checked": false,
     "occurrences": [
@@ -17827,7 +17883,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1878"
+        "locator": "L1942"
       }
     ]
   },
@@ -17837,7 +17893,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1878"
+        "locator": "L1942"
       }
     ]
   },
@@ -29606,6 +29662,20 @@
     ]
   },
   {
+    "url": "https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?nummer=0808669204&actionLu=Zoek",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L444"
+      },
+      {
+        "path": "profile/C/C-045-CimPro Holding NV-比利时.md",
+        "locator": "L83"
+      }
+    ]
+  },
+  {
     "url": "https://kefallonia.topodigos.gr/el/pelates/alfa-tech-analytis-pan-konstantinos",
     "http_checked": false,
     "occurrences": [
@@ -33798,6 +33868,34 @@
       {
         "path": "scripts/R66_R56_KP第24波_50户落盘.py",
         "locator": "L340"
+      }
+    ]
+  },
+  {
+    "url": "https://mikrotik.com/buy/europe/moldova?region=Moldova&category=distributors",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L255"
+      },
+      {
+        "path": "profile/C/C-043-Star Net-摩尔多瓦.md",
+        "locator": "L77"
+      }
+    ]
+  },
+  {
+    "url": "https://mikrotik.com/buy/europe/slovenia?category=distributors&region=Slovenia",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L364"
+      },
+      {
+        "path": "profile/C/C-044-Elkotex d.o.o-斯洛文尼亚.md",
+        "locator": "L86"
       }
     ]
   },
@@ -42578,6 +42676,20 @@
       {
         "path": "profile/A/A-390-Stanimir Konakchiev - Nebo Systems-保加利亚.md",
         "locator": "L80"
+      }
+    ]
+  },
+  {
+    "url": "https://nen.nipez.cz/en/registr-dodavatelu/detail-subjektu/250374356",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L31"
+      },
+      {
+        "path": "profile/C/C-041-SECOMP-捷克.md",
+        "locator": "L85"
       }
     ]
   },
@@ -75146,6 +75258,62 @@
     ]
   },
   {
+    "url": "https://www.cimpro.com/contact",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L453"
+      },
+      {
+        "path": "profile/C/C-045-CimPro Holding NV-比利时.md",
+        "locator": "L93"
+      }
+    ]
+  },
+  {
+    "url": "https://www.cimpro.com/hubfs/Red%20Lion/Datasheets/Unmanaged/100/108TX%20Data%20Sheet_0.pdf?hsLang=nl",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L489"
+      },
+      {
+        "path": "profile/C/C-045-CimPro Holding NV-比利时.md",
+        "locator": "L122"
+      }
+    ]
+  },
+  {
+    "url": "https://www.cimpro.com/over_cimpro",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L480"
+      },
+      {
+        "path": "profile/C/C-045-CimPro Holding NV-比利时.md",
+        "locator": "L113"
+      }
+    ]
+  },
+  {
+    "url": "https://www.cimpro.com/producten-1-0/hardware/poe_100",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L498"
+      },
+      {
+        "path": "profile/C/C-045-CimPro Holding NV-比利时.md",
+        "locator": "L130"
+      }
+    ]
+  },
+  {
     "url": "https://www.cisilion.com/",
     "http_checked": false,
     "occurrences": [
@@ -85204,6 +85372,52 @@
     ]
   },
   {
+    "url": "https://www.elkotex.si/en/contacts/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L335"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L342"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L349"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L356"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L391"
+      },
+      {
+        "path": "profile/C/C-044-Elkotex d.o.o-斯洛文尼亚.md",
+        "locator": "L73"
+      },
+      {
+        "path": "profile/C/C-044-Elkotex d.o.o-斯洛文尼亚.md",
+        "locator": "L74"
+      },
+      {
+        "path": "profile/C/C-044-Elkotex d.o.o-斯洛文尼亚.md",
+        "locator": "L75"
+      },
+      {
+        "path": "profile/C/C-044-Elkotex d.o.o-斯洛文尼亚.md",
+        "locator": "L76"
+      },
+      {
+        "path": "profile/C/C-044-Elkotex d.o.o-斯洛文尼亚.md",
+        "locator": "L114"
+      }
+    ]
+  },
+  {
     "url": "https://www.elmat.com",
     "http_checked": false,
     "occurrences": [
@@ -91946,6 +92160,20 @@
       {
         "path": "profile/C/C-001-Bross Engineering Aps-丹麦.md",
         "locator": "L86"
+      }
+    ]
+  },
+  {
+    "url": "https://www.hms-networks.com/contact/find-distributor?indexCatalogue=partner-company&searchQuery=CimPro&wordsMode=AllWords&sf_culture=en",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L462"
+      },
+      {
+        "path": "profile/C/C-045-CimPro Holding NV-比利时.md",
+        "locator": "L101"
       }
     ]
   },
@@ -122444,6 +122672,70 @@
     ]
   },
   {
+    "url": "https://www.secomp-international.com/en/about-us/company/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L58"
+      },
+      {
+        "path": "profile/C/C-041-SECOMP-捷克.md",
+        "locator": "L108"
+      }
+    ]
+  },
+  {
+    "url": "https://www.secomp-international.com/en/about-us/secomp/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L49"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L67"
+      },
+      {
+        "path": "profile/C/C-041-SECOMP-捷克.md",
+        "locator": "L100"
+      },
+      {
+        "path": "profile/C/C-041-SECOMP-捷克.md",
+        "locator": "L114"
+      }
+    ]
+  },
+  {
+    "url": "https://www.secomp.cz/gdpr_ma86.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L40"
+      },
+      {
+        "path": "profile/C/C-041-SECOMP-捷克.md",
+        "locator": "L92"
+      }
+    ]
+  },
+  {
+    "url": "https://www.secomp.cz/prumyslovy-ethernet-prepinac-1gb-8-portu-8x-poe-na-din-listu-ti-pg80-_d11835.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L76"
+      },
+      {
+        "path": "profile/C/C-041-SECOMP-捷克.md",
+        "locator": "L125"
+      }
+    ]
+  },
+  {
     "url": "https://www.securcrea.com",
     "http_checked": false,
     "occurrences": [
@@ -123904,6 +124196,20 @@
     ]
   },
   {
+    "url": "https://www.skyfoundry.com/partners/eu/176c2bd6-e140f33f",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L471"
+      },
+      {
+        "path": "profile/C/C-045-CimPro Holding NV-比利时.md",
+        "locator": "L107"
+      }
+    ]
+  },
+  {
     "url": "https://www.skytron.business/informationen/impressum/",
     "http_checked": false,
     "occurrences": [
@@ -123994,6 +124300,28 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-986/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.sloexport.si/en/company-card?ms=1447025",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L373"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L382"
+      },
+      {
+        "path": "profile/C/C-044-Elkotex d.o.o-斯洛文尼亚.md",
+        "locator": "L97"
+      },
+      {
+        "path": "profile/C/C-044-Elkotex d.o.o-斯洛文尼亚.md",
+        "locator": "L102"
       }
     ]
   },
@@ -124866,6 +125194,62 @@
       {
         "path": "profile/C/C-032-Piero Bersanini-意大利.md",
         "locator": "L100"
+      }
+    ]
+  },
+  {
+    "url": "https://www.starnet.md/ro/about/history",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L282"
+      },
+      {
+        "path": "profile/C/C-043-Star Net-摩尔多瓦.md",
+        "locator": "L107"
+      }
+    ]
+  },
+  {
+    "url": "https://www.starnet.md/ro/business/internet",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L273"
+      },
+      {
+        "path": "profile/C/C-043-Star Net-摩尔多瓦.md",
+        "locator": "L97"
+      }
+    ]
+  },
+  {
+    "url": "https://www.starnet.md/ro/business/partner",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L264"
+      },
+      {
+        "path": "profile/C/C-043-Star Net-摩尔多瓦.md",
+        "locator": "L85"
+      }
+    ]
+  },
+  {
+    "url": "https://www.starnet.md/ro/iptv",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L291"
+      },
+      {
+        "path": "profile/C/C-043-Star Net-摩尔多瓦.md",
+        "locator": "L112"
       }
     ]
   },
@@ -127096,6 +127480,48 @@
     ]
   },
   {
+    "url": "https://www.trendnet.com/products/industrial-switch/8-port-industrial-gigabit-poe-din-rail-switch-TI-PG80",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/C/C-041-SECOMP-捷克.md",
+        "locator": "L133"
+      }
+    ]
+  },
+  {
+    "url": "https://www.trendnet.com/products/product-detail?prod=190_TI-PG102",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L94"
+      },
+      {
+        "path": "profile/C/C-041-SECOMP-捷克.md",
+        "locator": "L141"
+      }
+    ]
+  },
+  {
+    "url": "https://www.trendnet.com/products/product-detail?prod=195_TI-PG102",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L103"
+      },
+      {
+        "path": "profile/C/C-041-SECOMP-捷克.md",
+        "locator": "L150"
+      }
+    ]
+  },
+  {
     "url": "https://www.tricoma.de/Partner/Phoenix-IT-Solutions/",
     "http_checked": false,
     "occurrences": [
@@ -127516,6 +127942,70 @@
       {
         "path": "batch/A类深挖_2026-09-29_R56_第57批.json",
         "locator": "L90"
+      }
+    ]
+  },
+  {
+    "url": "https://www.tsbohemia.cz/conexpro-gnt-ig1210gf-dc-prumyslovy-switch-na-din-listu-8x-lan-2x-sfp_d519610",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L174"
+      },
+      {
+        "path": "profile/C/C-042-TS Bohemia-捷克.md",
+        "locator": "L101"
+      }
+    ]
+  },
+  {
+    "url": "https://www.tsbohemia.cz/conexpro-gnt-p1026g6-poe-switch-24x-lan-24x-poe-2x-sfp_d533227",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L183"
+      },
+      {
+        "path": "profile/C/C-042-TS Bohemia-捷克.md",
+        "locator": "L110"
+      }
+    ]
+  },
+  {
+    "url": "https://www.tsbohemia.cz/firmy/pro-firmy",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L156"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L165"
+      },
+      {
+        "path": "profile/C/C-042-TS Bohemia-捷克.md",
+        "locator": "L85"
+      },
+      {
+        "path": "profile/C/C-042-TS Bohemia-捷克.md",
+        "locator": "L92"
+      }
+    ]
+  },
+  {
+    "url": "https://www.tsbohemia.cz/o-nas/o-spolecnosti",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+        "locator": "L147"
+      },
+      {
+        "path": "profile/C/C-042-TS Bohemia-捷克.md",
+        "locator": "L78"
       }
     ]
   },
