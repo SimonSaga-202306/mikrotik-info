@@ -714,66 +714,112 @@
 <a id="C-046"></a>
 ## C-046 · Audin · 法国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-326`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：shop-audin.fr
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 本地原始批次：`batch/C类AB标准加厚_2026-10-12_R73_第4批.json / records[0]`
+- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第4批.json`；检索日期：2026-10-12；7 条逐项证据、10 个分析维度。
+- 主要逐项来源：
+  - [法国 Annuaire des Entreprises（INSEE / INPI 等公共登记汇总）](https://annuaire-entreprises.data.gouv.fr/entreprise/audin-418098752)（政府登记一手汇总页面；员工区间明确为 2024 年，法人身份/地址按登记字段解释）
+  - [HMS Networks 官方 Find distributor or partner 定位器](https://www.hms-networks.com/contact/find-distributor?indexCatalogue=partner-company&searchQuery=Audin&wordsMode=AllWords&sf_culture=en&orderBy=OrderBy%20extended&page=1)（制造商一手渠道目录；直接支持品牌/国家/支持项记录，但没有细分 distributor/partner 身份或合同范围）
+  - [Audin 官方公司网站首页](https://www.audin.fr/)（公司一手自述；定位/服务能力非独立核验，不证明现货、销售额或采购需求）
+  - [shop-audin.fr 自营卖方商品页](https://www.shop-audin.fr/708m12-c2x22099629)（卖方一手产品目录/规格与动态供货提示；价格需登录，不证明库存、销量或采购成本）
+  - [shop-audin.fr 自营卖方商品页](https://www.shop-audin.fr/7506gx2-lx-10-c2x22099503)（卖方一手产品目录/规格与动态供货提示；价格需登录，不证明库存、销量或采购成本）
+  - [Audin 官方联系页](https://www.audin.fr/contactez-nous.php)（公司一手公开通用联系/岗位信息；未证明岗位负责交换机采购，未触达）
+  - [Audin 官方 Red Lion 产品分类页](https://www.audin.fr/fr/red-lion/reseaux-industriels/switchs-ethernet-manages/index.php)（公司一手历史目录；页面明示 2016 更新日期，不作为现行授权或库存证明）
+- 联系/评级边界：**未触达；无邮件、电话、寄样或报价；保持 C；未改主表。**
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="C-047"></a>
 ## C-047 · E.V.D.I. · 法国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-328`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：2026-09-22
 - 官网线索（不自动背书其他字段）：evdi.fr
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 本地原始批次：`batch/C类AB标准加厚_2026-10-12_R73_第4批.json / records[1]`
+- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第4批.json`；检索日期：2026-10-12；9 条逐项证据、10 个分析维度。
+- 主要逐项来源：
+  - [法国 Annuaire des Entreprises（INSEE / INPI 等公共登记汇总）](https://annuaire-entreprises.data.gouv.fr/entreprise/e-v-d-i-evdi-environnement-voix-donnees-image-399343870)（政府登记一手汇总页面；法人信息与 2024 年员工统计按页面字段解释）
+  - [EVDI 官方公司首页](https://evdi.fr/)（公司一手自述/营销展示；产品数、品牌数、授权措辞未独立审计，不能证明实际库存或采购量）
+  - [EVDI 卖方产品目录页](https://evdi.fr/products?sous_categorie=switches-manages)（卖方当前网页目录/自报数量与SKU展示；不证明实际库存、销量、采购量或可见价格完整性）
+  - [ComNet 官方 Where to Buy 渠道目录](https://comnet.net/resources/where-to-buy?country=France&search=EVDI)（制造商一手渠道目录；单条列名可回查，但页面没有为 EVDI 细分 authorized distributor 与 trusted partner）
+  - [EVDI 自营卖方商品页](https://evdi.fr/products/comnet-cwge10fx2tx8mspoe-commercial-managed-l2-poe-switch-2-sfp-8-rj45)（卖方一手 SKU/MSRP 快照；登录议价、不证明实时库存、成交价、销售量或采购成本）
+  - [ComNet 官方产品规格页](https://comnet.net/products/details/10-man-sw-8x10-100-1000-poe-2x1000sfp)（制造商一手技术规格；不证明代理库存、采购或实际销量）
+  - [EVDI 自营卖方商品页](https://evdi.fr/products/comnet-cng6f2t4mpb-hardened-managed-switch-2-sfp-4-rj45-ports-90)（卖方一手 SKU/MSRP 快照；登录议价，不证明库存、成交价、采购成本或销售量）
+  - [ComNet 官方产品规格页](https://comnet.net/products/details/man-sw-4-1000tx-2-1000fx-802-3bt)（制造商一手规格；不证明 EVDI 有货、采购或已成交）
+  - [EVDI 官方公司首页](https://evdi.fr/)（公司自述的通用联系信息及客户标识展示；未独立核验项目/合同，不指向采购负责人）
+- 联系/评级边界：**未触达；无邮件、电话、寄样或报价；保持 C；未改主表。**
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="C-048"></a>
 ## C-048 · Equipements Scientifiques · 法国
 
-- 状态：**有URL但未逐项核实**
+- 状态：**R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-330`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：ORing经销商名录/2026-09
 - 官网线索（不自动背书其他字段）：es-france.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：https://www.es-france.com/content/23-contactez-nous
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 本地原始批次：`batch/C类AB标准加厚_2026-10-12_R73_第4批.json / records[2]`
+- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第4批.json`；检索日期：2026-10-12；9 条逐项证据、10 个分析维度。
+- 主要逐项来源：
+  - [法国 Annuaire des Entreprises（INSEE / INPI 等公共登记汇总）](https://annuaire-entreprises.data.gouv.fr/entreprise/equipements-scientifiques-es-france-es-353579634)（政府登记一手汇总页面；法律形式及员工区间按 2024 年统计字段解释）
+  - [ES France 官方公司介绍页](https://www.es-france.com/content/4-a-propos)（公司一手自述；营收/员工/组织数据未在本页标明独立审计或统计口径）
+  - [ORing 官方 Where to Buy 总页](https://oringnet.com/en/where-to-buy)（制造商一手名录入口说明；解释区域名录用途，不单独证明某公司的合同/范围/有效期）
+  - [ORing 官方 Europe Where to Buy 名录](https://oringnet.com/en/where-to-buy/europe)（制造商一手渠道名录；直接列名，但页面未标更新时间、合同产品范围或排他条件）
+  - [ES France 自营 ORing 品牌分类页](https://www.es-france.com/1606_oring)（公司/卖方自述其为官方分销商；与 ORing 厂商目录交叉佐证渠道列名，但不证明库存/采购量）
+  - [ES France 自营卖方商品页](https://www.es-france.com/11530-switch-8-ports-gigabit-sur-rail-din-igs-1080a.html)（卖方目录/规格与动态库存提示；同页状态互相矛盾，不证明当前现货或采购成本）
+  - [ORing 官方产品规格页](https://oringnet.com/en/products/industrial-ethernet-switch/32-igs-1080a)（制造商一手技术规格；不证明经销商库存、采购或销售）
+  - [ES France 官方法律声明页](https://www.es-france.com/content/2-mentions-legales)（公司自发布法律/联系信息；治理称谓与 SAS 表述不一致且页面无日期，不作当前买手/负责人证明）
+  - [ES France 官方联系/部门入口页](https://www.es-france.com/content/23-contactez-nous)（公司一手通用表单与组织分流信息；未识别交换机采购/品牌准入岗位，未触达）
+- 联系/评级边界：**未触达；无邮件、电话、寄样或报价；保持 C；未改主表。**
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="C-049"></a>
 ## C-049 · Inmac Wstore · 法国
 
-- 状态：**无逐项证据URL·待补证**
+- 状态：**R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-335`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：反向信号/2026-09
 - 官网线索（不自动背书其他字段）：inmac-wstore.com
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 本地原始批次：`batch/C类AB标准加厚_2026-10-12_R73_第4批.json / records[3]`
+- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第4批.json`；检索日期：2026-10-12；8 条逐项证据、10 个分析维度。
+- 主要逐项来源：
+  - [法国 Annuaire des Entreprises（INSEE / INPI 等公共登记汇总）](https://annuaire-entreprises.data.gouv.fr/entreprise/inmac-wstore-inmac-wstore-388055493)（政府登记一手汇总页面；员工区间及企业分类标注为 2024 年）
+  - [Inmac Wstore 官方公司介绍页](https://www.inmac-wstore.com/entreprise/cp39170.htm)（公司自述/企业历史；未独立验证当前集团采购组织或工业交换机准入规则）
+  - [Inmac Wstore 官方公司介绍/管理团队页面](https://www.inmac-wstore.com/entreprise/cp39170.htm)（公司自报规模及网页公开职位，统计日期未注明；不证明品类采购/供应商准入职责）
+  - [Inmac Wstore 自营分类筛选页](https://www.inmac-wstore.com/switch-industriel/c1418.htm?m=2797)（卖方动态目录；结果数及分类匹配范围仅为网页快照，不等于 16 款交换机或库存）
+  - [Inmac Wstore 自营卖方商品页](https://www.inmac-wstore.com/moxa-switch-industriel-switch-industriel-43134m/p7221096.htm)（卖方一手商品、动态终端价与供货提示；不证明现货、成交价、批发/采购价或采购量）
+  - [Moxa 官方 EDS-G308 Series v2.2 datasheet](https://www.moxa.com/getmedia/7fb1c24f-3a1d-4152-bfad-fdbbc2872771/moxa-eds-g308-series-datasheet-v2.2.pdf)（制造商一手技术资料；按精确型号订货表区分标准与 -T 宽温版本，不证明 Inmac 库存或授权）
+  - [Moxa 官方 EDS-G308 产品页面](https://www.moxa.com/en/products/industrial-network-infrastructure/ethernet-switches/unmanaged-switches/eds-g308-series/eds-g308)（制造商一手 HTML；同页摘要与详细规格文本存在差异，需结合 datasheet 订货表解释）
+  - [Inmac Wstore 官方帮助/联系页](https://www.inmac-wstore.com/aide/cp5687.htm)（公司一手公开通用销售联系方式；不识别交换机品类买手或采购意向，未触达）
+- 联系/评级边界：**未触达；无邮件、电话、寄样或报价；保持 C；未改主表。**
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="C-050"></a>
 ## C-050 · Phoebe IDF · 法国
 
-- 状态：**有URL但未逐项核实**
+- 状态：**R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）**
 - 主数据位置：`客户名单_反向信号_2026-09.csv:row-340`；字段：来源 / 备注 / 入口/联系方式。
 - 旧来源标签（不是证据）：ORing经销商名录/2026-09
 - 官网线索（不自动背书其他字段）：distribution.phoebe.fr
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：https://distribution.phoebe.fr/
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
+- 本地原始批次：`batch/C类AB标准加厚_2026-10-12_R73_第4批.json / records[4]`
+- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第4批.json`；检索日期：2026-10-12；8 条逐项证据、10 个分析维度。
+- 主要逐项来源：
+  - [法国 Annuaire des Entreprises（INSEE / INPI 等公共登记汇总）](https://annuaire-entreprises.data.gouv.fr/entreprise/phoebe-ile-de-france-412080814)（政府登记一手汇总页面；员工区间明确为 2024 年，活动代码按登记字段解释）
+  - [ORing 官方 Where to Buy 总页](https://oringnet.com/en/where-to-buy)（制造商一手名录入口说明；不单独证明任何公司的合同期限、地域/产品范围或当前授权状态）
+  - [ORing 官方 Europe Where to Buy 名录](https://oringnet.com/en/where-to-buy/europe)（制造商一手渠道名录；直接列名但未标更新时间、合同范围或在线商城可用性）
+  - [OVHcloud 托管占位/错误响应页](http://distribution.phoebe.fr/)（第三方主机对旧子域名的直接响应；只记录 2026-10-12 URL 状态，不作为公司经营/授权的法律证据）
+  - [Phoebe 官方 IT 业务页面](https://www.phoebe.fr/solution-it.html)（公司一手自述；库存总数未注明日期/品类，不证明交换机现货、销量或采购量）
+  - [Phoebe 官方首页合作伙伴展示区](https://www.phoebe.fr/)（公司自发布合作方/品牌图标；不单独证明授权或销售状态）
+  - [Phoebe 官方法律声明页](https://www.phoebe.fr/mentions-legales.html)（公司自发布网站主体及通用联系信息；列名职务不是品类采购/准入证据，未触达）
+  - [Phoebe 官方首页公司规模/能力展示](https://www.phoebe.fr/)（公司自述营销数字；未标统计日期，口径与政府员工区间不可直接比较）
+- 联系/评级边界：**未触达；无邮件、电话、寄样或报价；保持 C；未改主表。**
 - 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
 
 <a id="C-051"></a>

@@ -617,6 +617,10 @@ class RepositoryTests(unittest.TestCase):
         for batch_path in sorted((ROOT / 'batch').glob('C类加厚_*_R70_第*.json')):
             data = json.loads(batch_path.read_text(encoding='utf-8'))
             r70.update({rec['code']: rec for rec in data['records']})
+        r73 = {}
+        for batch_path in sorted((ROOT / 'batch').glob('C类AB标准加厚_*_R73_第*.json')):
+            data = json.loads(batch_path.read_text(encoding='utf-8'))
+            r73.update({rec['code']: rec for rec in data['records']})
         files = list((ROOT / 'profile').glob('[ABC]/*.md'))
         self.assertEqual(len(files), len(self.rows))
         self.assertEqual({p.name[:5] for p in files}, set(self.by_code))
@@ -626,10 +630,18 @@ class RepositoryTests(unittest.TestCase):
             self.assertIn(f'档案编号 `{r["档案编号"]}`', text)
             self.assertTrue(text.startswith('# ' + r['公司名'] + '\n'))
             if r['评级'] == 'C':
-                current_sub = r70.get(r['档案编号'], {}).get('revised_sub', r['C级细分'])
+                code = r['档案编号']
+                current_sub = (r73.get(code, {}).get('revised_sub')
+                               or r70.get(code, {}).get('revised_sub')
+                               or r['C级细分'])
                 self.assertIn(f'C 级细分：`{current_sub}`', text)
-                if r['档案编号'] in r70:
-                    self.assertIn(r70[r['档案编号']]['legacy_sub'], text)
+                if code in r70:
+                    self.assertIn(r70[code]['legacy_sub'], text)
+                if r73.get(code, {}).get('revised_sub'):
+                    previous_sub = r['C级细分']
+                    if code in r70:
+                        previous_sub = r70[code].get('revised_sub', previous_sub)
+                    self.assertIn(f'主表原 C 级细分快照（保留追溯）**：{previous_sub}', text)
                 self.assertNotIn('C 级细分：`profile/', text)
                 self.assertIn('总表 22 列', text)
 
@@ -1716,9 +1728,9 @@ class RepositoryTests(unittest.TestCase):
             self.assertEqual(public['fact_count'], len(rec['facts']))
             self.assertEqual(public['outreach'], '未触达；无邮件、电话、寄样或报价')
         progress = (ROOT / 'docs/audit/2026-10-12_R73_C类AB加厚进度.md').read_text(encoding='utf-8')
-        self.assertIn('R73 当前新增加厚 | 15', progress)
-        self.assertIn('R73 尚未覆盖 | **240**', progress)
-        self.assertIn('C-046—C-285', progress)
+        self.assertIn('R73 当前新增加厚 | 20', progress)
+        self.assertIn('R73 尚未覆盖 | **235**', progress)
+        self.assertIn('C-051—C-285', progress)
 
     def test_r73_c_ab_second_batch_is_source_complete_and_non_outreach(self):
         batch_path = ROOT / 'batch/C类AB标准加厚_2026-10-12_R73_第2批.json'
@@ -1766,9 +1778,9 @@ class RepositoryTests(unittest.TestCase):
             self.assertTrue(any(str(batch_path.relative_to(ROOT)) in match
                                 for match in entry['exact_batch_matches']))
         progress = (ROOT / 'docs/audit/2026-10-12_R73_C类AB加厚进度.md').read_text(encoding='utf-8')
-        self.assertIn('R73 当前新增加厚 | 15', progress)
-        self.assertIn('R73 尚未覆盖 | **240**', progress)
-        self.assertIn('C-046—C-285', progress)
+        self.assertIn('R73 当前新增加厚 | 20', progress)
+        self.assertIn('R73 尚未覆盖 | **235**', progress)
+        self.assertIn('C-051—C-285', progress)
         evidence_md = (ROOT / 'docs/evidence/客户溯源_C.md').read_text(encoding='utf-8')
         for rec in records:
             section_start = evidence_md.index(f'<a id="{rec["code"]}"></a>')
@@ -1830,10 +1842,78 @@ class RepositoryTests(unittest.TestCase):
                                 for match in entry['exact_batch_matches']))
         progress = (ROOT / 'docs/audit/2026-10-12_R73_C类AB加厚进度.md').read_text(encoding='utf-8')
         self.assertIn('R73 第 3 批 | 5', progress)
-        self.assertIn('R73 当前新增加厚 | 15', progress)
-        self.assertIn('当前唯一覆盖 | 45', progress)
-        self.assertIn('R73 尚未覆盖 | **240**', progress)
-        self.assertIn('C-046—C-285', progress)
+        self.assertIn('R73 当前新增加厚 | 20', progress)
+        self.assertIn('当前唯一覆盖 | 50', progress)
+        self.assertIn('R73 尚未覆盖 | **235**', progress)
+        self.assertIn('C-051—C-285', progress)
+        evidence_md = (ROOT / 'docs/evidence/客户溯源_C.md').read_text(encoding='utf-8')
+        for rec in records:
+            section_start = evidence_md.index(f'<a id="{rec["code"]}"></a>')
+            section_end = evidence_md.find('<a id="', section_start + 1)
+            section = evidence_md[section_start: section_end if section_end >= 0 else None]
+            self.assertIn('R73 原始研究批次', section)
+            self.assertIn('仍为C/未触达', section)
+            for fact in rec['facts']:
+                self.assertIn(fact['url'], section)
+
+    def test_r73_c_ab_fourth_batch_is_source_complete_and_non_outreach(self):
+        batch_path = ROOT / 'batch/C类AB标准加厚_2026-10-12_R73_第4批.json'
+        batch = json.loads(batch_path.read_text(encoding='utf-8'))
+        self.assertEqual(batch['round'], 'R73 第 4 批（C-046—C-050）')
+        records = batch['records']
+        self.assertEqual([r['code'] for r in records], [f'C-{n:03}' for n in range(46, 51)])
+        self.assertIn('不联系客户', batch['scope'])
+        self.assertIn('不改评级', batch['scope'])
+        self.assertIn('CSV 或主表规则', batch['scope'])
+        self.assertEqual([len(r['facts']) for r in records], [7, 9, 9, 8, 8])
+        for rec in records:
+            self.assertEqual(len(rec['dimensions']), 10, rec['code'])
+            row = self.by_code[rec['code']]
+            self.assertEqual((row['公司名'], row['国家']), (rec['name'], rec['country']))
+            self.assertEqual(row['评级'], 'C')
+            self.assertIn('保持 C', rec['assessment'], rec['code'])
+            self.assertFalse(rec.get('update_only'))
+            for fact in rec['facts']:
+                self.assertTrue(fact.get('quote') and fact.get('url'), rec['code'])
+                self.assertTrue(fact.get('source_type') and fact.get('source_level'), rec['code'])
+                self.assertEqual(fact.get('retrieved_on'), '2026-10-12')
+            matches = list((ROOT / 'profile/C').glob(rec['code'] + '-*.md'))
+            self.assertEqual(len(matches), 1, rec['code'])
+            profile = matches[0].read_text(encoding='utf-8')
+            self.assertIn('R73 A/B标准深度调研与加厚（仅研究，不触达）', profile)
+            self.assertIn('### R73 原文证据摘录（逐项保留）', profile)
+            self.assertIn('### R73 本轮评估', profile)
+            self.assertIn('未触达', profile)
+            for fact in rec['facts']:
+                for quote_line in fact['quote'].splitlines():
+                    self.assertIn(quote_line, profile, rec['code'])
+                self.assertIn(fact['url'], profile, rec['code'])
+            for kp in rec['kp']:
+                self.assertIn(kp['name'], profile, rec['code'])
+                self.assertIn(kp['status'], profile, rec['code'])
+        phoebe = next((ROOT / 'profile/C').glob('C-050-*.md')).read_text(encoding='utf-8')
+        self.assertIn('www.phoebe.fr', phoebe)
+        self.assertIn('distribution.phoebe.fr', phoebe)
+
+        evidence = json.loads((ROOT / 'docs/evidence/客户溯源索引.json').read_text(encoding='utf-8'))
+        evidence_by_code = {e['code']: e for e in evidence}
+        for rec in records:
+            entry = evidence_by_code[rec['code']]
+            public = entry['public_research']
+            self.assertEqual(public['round'], 'R73')
+            self.assertEqual(public['batch_path'], str(batch_path.relative_to(ROOT)))
+            self.assertEqual(public['fact_count'], len(rec['facts']))
+            self.assertEqual(public['dimension_count'], 10)
+            self.assertEqual(public['outreach'], '未触达；无邮件、电话、寄样或报价')
+            self.assertTrue(set(f['url'] for f in rec['facts']).issubset(entry['record_urls']))
+            self.assertTrue(any(str(batch_path.relative_to(ROOT)) in match
+                                for match in entry['exact_batch_matches']))
+        progress = (ROOT / 'docs/audit/2026-10-12_R73_C类AB加厚进度.md').read_text(encoding='utf-8')
+        self.assertIn('R73 第 4 批 | 5', progress)
+        self.assertIn('R73 当前新增加厚 | 20', progress)
+        self.assertIn('当前唯一覆盖 | 50', progress)
+        self.assertIn('R73 尚未覆盖 | **235**', progress)
+        self.assertIn('C-051—C-285', progress)
         evidence_md = (ROOT / 'docs/evidence/客户溯源_C.md').read_text(encoding='utf-8')
         for rec in records:
             section_start = evidence_md.index(f'<a id="{rec["code"]}"></a>')

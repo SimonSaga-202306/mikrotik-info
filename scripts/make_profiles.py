@@ -193,6 +193,8 @@ C_ENRICH_FILES = [
     "batch/C类复核_2026-10-12_R72_第1批.json",
     "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
     "batch/C类AB标准加厚_2026-10-12_R73_第2批.json",
+    "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
+    "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
 ]
 
 
@@ -564,6 +566,11 @@ def main():
 
         code = (r[NUMCOL] or "").strip() or grade
         rec_c = C_ENRICH.get((name, country)) if grade == "C" else None
+        if rec_c and rec_c.get("revised_city"):
+            city = rec_c["revised_city"]
+        if rec_c and rec_c.get("revised_site"):
+            rec_c.setdefault("legacy_site", site)
+            site = rec_c["revised_site"]
         if rec_c and rec_c.get("revised_sub"):
             rec_c.setdefault("legacy_sub", sub)
             sub = rec_c["revised_sub"]
@@ -782,6 +789,8 @@ def main():
                 w("- **主表原类型快照（保留追溯）**：%s" % rec_c["legacy_type"])
             if rec_c.get("legacy_angle") and rec_c["legacy_angle"] != rec_c.get("revised_angle"):
                 w("- **主表原切入点快照（保留追溯）**：%s" % rec_c["legacy_angle"])
+            if rec_c.get("legacy_site") and rec_c["legacy_site"] != rec_c.get("revised_site"):
+                w("- **主表原网站入口快照（保留追溯）**：%s" % rec_c["legacy_site"])
             w("")
             if rec_c.get("kp"):
                 w("### 关键人（KP）与触达通道")

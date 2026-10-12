@@ -1,0 +1,623 @@
+{
+  "date": "2026-10-12",
+  "round": "R73 第 4 批（C-046—C-050）",
+  "scope": "承接 C-001—C-045 已覆盖记录，仅对 C-046—C-050 做公开资料研究；按 A/B 深度覆盖主体/业务、品牌与渠道、具体产品/技术、市场与项目证据、关键人/采购链、SWOT、Saga 适配及未知项。保留可回查来源、原文摘录、URL、检索日期与来源级别，区分政府登记、公司自述、厂商名录、卖方目录、推断与未知。只研究，不联系客户、不发邮件/电话、不寄样、不询价/报价、不改评级、CSV 或主表规则。动态价格/库存仅为 2026-10-12 网页快照；零售展示不等于采购价、销量、库存或采购意向。",
+  "records": [
+    {
+      "code": "C-046",
+      "name": "Audin",
+      "country": "法国",
+      "researched_on": "2026-10-12",
+      "round": "R73",
+      "section_title": "R73 A/B标准深度调研与加厚（仅研究，不触达）",
+      "evidence_title": "R73 原文证据摘录（逐项保留）",
+      "revised_city": "Saint-Brice-Courcelles（Reims）",
+      "revised_sub": "现有 N-Tron / Red Lion 工业交换机渠道；买手与采购需求未核",
+      "revised_why": "【R73 公开复核】HMS Networks 官方定位器现在直接列出 Audin，关联 Red Lion/N-Tron、法国和交换机/基础设施类别；Audin 网店亦列出具体 N-Tron 工业交换机。现有品牌/目录重叠更像渠道竞合信号，尚无已核实的交换机采购需求、采购量或品类买手，保持 C。原“无邮箱”细分已被公开通用联系渠道取代，但不构成触达许可。",
+      "contact_summary": "官网联系页公开 Reims 总机 +33 3 26 04 20 21、reims@audin.fr，并列 Direction commerciale Michel Humez、Direction technique Marc Lestrat；仅为公司公开联系与岗位信息，未核实其负责交换机采购；本轮未联系。",
+      "revised_angle": "仅作公开渠道情报：HMS 官方名录列 Audin 为 Red Lion/N-Tron 目录伙伴，卖方页展示的 708M12/7506GX2-LX-10 价格需登录、页面供货提示不等于实时现货。没有可比采购价、买方需求或具体供应商开放证据，不主张同规格价差、第二供应源或产品替代。",
+      "dimensions": {
+        "法定主体与登记规模": "法国政府企业目录将 AUDIN（SIREN 418 098 752）列为在营 SA，注册地址 Saint-Brice-Courcelles；2024 年员工区间 10–19 人，7 个登记机构中 3 个在营。企业官网联系页所列 SIRET 与政府记录相符。人数和机构数按该登记页面的统计时点解释，不把网站覆盖范围等同于集团规模。",
+        "业务模式与公司自述": "Audin 官网将自身定位为工业自动化、系统、电工、测量控制及机器安全相关产品供应商；列举 Red Lion 等多个品牌，并自述提供建议、技术协助、培训、库存与物流。这些服务能力为公司自述，不是经独立审计的现货或销售数据。",
+        "厂商渠道目录交叉核验": "HMS Networks 官方 Find distributor or partner 定位器直接显示 Audin（France）、Red Lion/N-Tron、Switches & Infrastructure products，并列售前及售后支持。定位器同时覆盖 distributor 与 partner，但 Audin 记录没有细分类别，因此可确认其出现在 HMS 官方渠道目录，不进一步断言具体授权合同层级、排他范围或采购量。",
+        "具体工业交换机目录": "Audin 自营网店列 N-Tron 708M12：8 个 M12 D 编码 100BaseTX、可管理、24VDC、IP67；同店列 7506GX2-LX-10：6 口可管理，4 个千兆 RJ45 与 2 个千兆 SFP、DIN 导轨、-40…+80°C。均为卖方目录信息，SKU 上架不证明销量或采购。",
+        "价格与供货状态边界": "两款 N-Tron 商品页均显示“Disponible sous 10 jours”，并要求登录后查看价格。该文字是卖方动态供货提示，不是抓取时已验证的库存、承诺交期或采购成本；当前没有可公开核验的成交价。",
+        "目录新旧与时效": "Audin 的 Red Lion 工业网络目录仍展示多系列交换机，但交换机分类页标注 2016-05-24 更新，工业网络页标注 2016-05-30。它可以证明网页保留该品类介绍，不能单独证明 2026 年型号在售或授权持续有效；现行店铺产品页与 HMS 定位器是更直接的当前目录线索。",
+        "公开关键人及联系边界": "Audin 2025-09-24 联系页列有商业负责人 Michel Humez、技术负责人 Marc Lestrat，以及分支通用邮箱/总机。其公开职位不是交换机采购或供应商准入职责的证明；未确认任何品类经理，未向任何联系人发送信息。",
+        "终端市场与项目": "公司官网自述工业自动化与技术服务定位，HMS 记录显示本地售前/售后支持；本轮未找到可归属于 Audin 的交换机终端项目、具名客户案例、工业交换机销量或批量采购记录。",
+        "优势、风险与竞合推断": "优势：法国本地自动化分销网络、多地联系页、HMS 品牌/交换机渠道目录记录及现行 N-Tron SKU 页面。风险：已有 Red Lion/N-Tron 产品组合与潜在竞合，目录有旧页面，具体价格与库存不公开。潜在补充品牌只是渠道层面假设，不等于需求、供应商准入或第二来源意愿。",
+        "Saga 适配与评级边界": "能确认其覆盖管理型、千兆及 M12/IP67 等工业交换机，但本轮没有核验 Saga 对应型号的逐项规格、价格与条件，也没有买方需求证据；不可用旧档案中的约价比或概括性“同规格”结论。保持 C，不改主表/CSV。"
+      },
+      "kp": [
+        {
+          "name": "Michel Humez",
+          "role": "Direction commerciale（官网联系页公开列名）",
+          "contact": "仅记录公司公开通用入口 reims@audin.fr / +33 3 26 04 20 21；不使用个人邮箱",
+          "status": "公司页面列为商业负责人；未核实交换机采购或品牌准入职责；未触达",
+          "source": "https://www.audin.fr/contactez-nous.php"
+        },
+        {
+          "name": "Marc Lestrat",
+          "role": "Direction technique（官网联系页公开列名）",
+          "contact": "仅记录公司公开通用入口 reims@audin.fr / +33 3 26 04 20 21；不使用个人邮箱",
+          "status": "公司页面列为技术负责人；未核实交换机采购或品牌准入职责；未触达",
+          "source": "https://www.audin.fr/contactez-nous.php"
+        }
+      ],
+      "facts": [
+        {
+          "dim": "法定主体、SIREN 与 2024 员工区间",
+          "text": "法国政府企业目录记录 AUDIN 为在营法人，SIREN 418 098 752、注册地址 ZI Les Coïdes / Saint-Brice-Courcelles；2024 年员工区间 10–19 人，7 个机构中 3 个在营。该人数是政府登记统计口径，不是官网营销数字。",
+          "quote": "La société AUDIN a été créée le 16 mars 1998. Sa forme juridique est SA à conseil d'administration (s.a.i.). Son domaine d’activité est : commerce de gros (commerce interentreprises) de fournitures et équipements industriels divers. En 2024, elle était catégorisée Petite ou Moyenne Entreprise. Elle comptait 10 à 19 salariés.\nSIREN\n418 098 752\nSIRET du siège social\n418 098 752 00037\n7 établissements dont 3 sont en activité",
+          "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/audin-418098752",
+          "source_type": "法国 Annuaire des Entreprises（INSEE / INPI 等公共登记汇总）",
+          "source_level": "政府登记一手汇总页面；员工区间明确为 2024 年，法人身份/地址按登记字段解释",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "HMS 官方渠道目录中的 Audin 记录",
+          "text": "HMS Networks 官方定位器搜索 Audin 后显示 Red Lion、N-Tron 品牌，法国及 Switches & Infrastructure products 类别，并给出售前/售后支持。页面标题和总说明覆盖 distributors 与 partners，单条没有标明 Audin 的具体子类别。",
+          "quote": "Red Lion, N-Tron\n#### Audin\nFrance\nAvailable support:\nPre-sales support\n|\nAfter-sales support",
+          "url": "https://www.hms-networks.com/contact/find-distributor?indexCatalogue=partner-company&searchQuery=Audin&wordsMode=AllWords&sf_culture=en&orderBy=OrderBy%20extended&page=1",
+          "source_type": "HMS Networks 官方 Find distributor or partner 定位器",
+          "source_level": "制造商一手渠道目录；直接支持品牌/国家/支持项记录，但没有细分 distributor/partner 身份或合同范围",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Audin 官网自述业务、品牌与服务",
+          "text": "Audin 官网将自己描述为工业自动化产品供应商，并列出 Red Lion；公司自述提供技术建议、协助、培训及库存/物流服务。此为公司自述，不能据此确认当前交换机库存或销量。",
+          "quote": "Au-delà de l'offre produits, nous mettons à votre disposition un potentiel humain vous garantissant un ensemble de compétences telles que conseils, assistance technique et formation.\nLe stock, la logistique et notre démarche qualité permanente sont un plus pour votre approvisionnement de composants et systèmes d'automatisme",
+          "url": "https://www.audin.fr/",
+          "source_type": "Audin 官方公司网站首页",
+          "source_level": "公司一手自述；定位/服务能力非独立核验，不证明现货、销售额或采购需求",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "N-Tron 708M12 卖方商品页",
+          "text": "Audin 网店列出 708M12、卖方编码 A0110324，描述为 8 个 M12 D 编码 100BaseTX 管理型交换机，24VDC、IP67；页面显示 10 天内可供并要求登录查看价格。供货文字不等于实时库存。",
+          "quote": "# 708M12\nCode fabriquant : 708M12\nCode AUDIN : A0110324\nDisponible sous 10 jours\nSwitch Ethernet industriel, manageable, 8 ports M12 codage D 100BaseTX, 24VDC, IP67\nConnectez-vous pour afficher votre prix !",
+          "url": "https://www.shop-audin.fr/708m12-c2x22099629",
+          "source_type": "shop-audin.fr 自营卖方商品页",
+          "source_level": "卖方一手产品目录/规格与动态供货提示；价格需登录，不证明库存、销量或采购成本",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "N-Tron 7506GX2-LX-10 卖方商品页",
+          "text": "Audin 网店列出 7506GX2-LX-10、卖方编码 A0110413，描述 4×千兆 RJ45、2×千兆 SFP、可管理、DIN 导轨及 -40…+80°C；页面同样显示 10 天内可供、价格需登录。",
+          "quote": "# 7506GX2-LX-10\nCode fabriquant : 7506GX2-LX-10\nCode AUDIN : A0110413\nDisponible sous 10 jours\nSwitch Ethernet industriel, manageable, 6 ports, 4 ports cuivre RJ45 10/100/1000, 2 ports fibres, SFP (Mini-GBIC) Gigabit (2x NTSFP-LX-10), montage sur rail DIN, -40 à 80°C\nConnectez-vous pour afficher votre prix !",
+          "url": "https://www.shop-audin.fr/7506gx2-lx-10-c2x22099503",
+          "source_type": "shop-audin.fr 自营卖方商品页",
+          "source_level": "卖方一手产品目录/规格与动态供货提示；价格需登录，不证明库存、销量或采购成本",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "官网公开联系渠道与岗位（非采购职能证明）",
+          "text": "Audin 联系页标注 2025-09-24 更新，公开 Reims 地址、公司总机和分支邮箱，并列商业/技术负责人的姓名。职位不等于交换机品类采购人，未发送邮件或拨打电话。",
+          "quote": "Mis à jour le\n24.09.2025\nAgence de REIMS\nAUDIN S.A.\n8 avenue de la malle\nZI des Coïdes\n51370 Saint-Brice Courcelles\n+33 (0) 3 26 04 20 21\nreims@audin.fr\nDirection commerciale : | Michel HUMEZ\nDirection technique : | Marc LESTRAT",
+          "url": "https://www.audin.fr/contactez-nous.php",
+          "source_type": "Audin 官方联系页",
+          "source_level": "公司一手公开通用联系/岗位信息；未证明岗位负责交换机采购，未触达",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Red Lion 工业交换机目录的更新时间",
+          "text": "Audin Red Lion 管理型交换机介绍页标注 2016-05-24 更新，并列多系列工业交换机和温度/端口信息。该页是旧目录资料，不能单独证明当期授权、SKU 在售或库存。",
+          "quote": "Mis à jour le\n24.05.2016\nSwitchs Ethernet managés\nLes switchs Ethernet de Red Lion robustes et fiables prennent en charge les applications industrielles.",
+          "url": "https://www.audin.fr/fr/red-lion/reseaux-industriels/switchs-ethernet-manages/index.php",
+          "source_type": "Audin 官方 Red Lion 产品分类页",
+          "source_level": "公司一手历史目录；页面明示 2016 更新日期，不作为现行授权或库存证明",
+          "retrieved_on": "2026-10-12"
+        }
+      ],
+      "assessment": "保持 C。R73 通过 HMS Networks 官方目录直接核实 Audin 与 Red Lion/N-Tron 的法国渠道关联及交换机/基础设施类别，并在 Audin 卖方站核实两款 N-Tron 交换机目录页面。供货提示是网页状态，价格需登录；旧 Red Lion 分类页已是 2016 年资料。现有品牌组合带来渠道竞合信号，但没有交换机采购量、明确第二来源/新品牌需求、可核验库存或品类买手。旧 profile 中的价格比与“同规格”说法本轮不作为已核事实；评级保持 C，未改 CSV/主表，未联系客户。",
+      "next_steps": [
+        "如继续，仅通过公开页面复核 HMS 官方目录、Audin 当前商品页及其页面更新时间；不通过账号、表单、邮件或电话索取价格/库存。",
+        "若未来需要产品匹配，应先逐项核对 Saga 与对方精确型号的端口、管理能力、温度、电源、安装、IP 等级、质保和交付条件；本批不作同规格或价差结论。",
+        "不得把目录列名、公开联系人或网页供货提示推定为采购意向、新供应商准入或具体采购职责。"
+      ],
+      "unknowns": [
+        "Audin 对 HMS/Red Lion/N-Tron 的具体合同类型、授权范围、是否仍有效及是否独家；HMS 定位器条目未显示子类别或合同日期。",
+        "708M12 与 7506GX2-LX-10 的实时库存、登录后价格、实际成交价、销量、进货来源及供货提示更新时间。",
+        "交换机品类经理、供应商准入决策层级、年采购量、终端项目和是否考虑新增/替代品牌。",
+        "对应 Saga 型号与具体 N-Tron SKU 的完整可比矩阵；本轮没有形成逐项同规格比价。"
+      ]
+    },
+    {
+      "code": "C-047",
+      "name": "E.V.D.I.",
+      "country": "法国",
+      "researched_on": "2026-10-12",
+      "round": "R73",
+      "section_title": "R73 A/B标准深度调研与加厚（仅研究，不触达）",
+      "evidence_title": "R73 原文证据摘录（逐项保留）",
+      "revised_city": "Malaucène",
+      "revised_sub": "ComNet 目录/产品渠道重叠；采购职责与实际需求未核",
+      "revised_type": "B2B 分销（ComNet 官方目录列名；目录未细分身份等级）",
+      "revised_why": "【R73 公开复核】ComNet 官方 Where to Buy 页面在法国列出 E.V.D.I.，但名录总说明同时覆盖授权分销商与合作伙伴，单条没有标明其身份等级；EVDI 自述为授权分销商，并实际上架 ComNet 商业级与工业级交换机。现有产品重叠更像渠道竞合信号，尚无采购量、具名买手或新增品牌需求证据，保持 C。官网通用邮箱与电话不构成触达许可。",
+      "contact_summary": "EVDI 官网公开通用电话 +33 1 64 56 00 00、邮箱 contact@evdi.fr；未发现公开具名交换机采购负责人或供应商准入岗位；本轮未联系。",
+      "revised_angle": "当前只确认 ComNet 目录渠道关系与 EVDI 已有的 ComNet 产品目录；卖方标注 MSRP、谈判价需登录。不可把 MSRP 当采购价、实际成交价或现货证据，也没有公开资料支持把 Saga 定位为其第二来源。",
+      "dimensions": {
+        "法定主体与政府登记": "Annuaire des Entreprises 记录 E.V.D.I.（EVDI Environnement Voix Données Image）为在营 SAS，SIREN 399 343 870、SIRET 399 343 870 00040，所在地 Malaucène；2024 年员工区间 1–2 人，4 个机构中 1 个在营。该政府登记员工口径与官网产品/品牌宣传规模不是同一指标，不据此推断实际库存或供应链人力。",
+        "公司自述定位与规模口径": "EVDI 官网自称自 1994 年经营的法国/出口 B2B 分销商，面向工业、核能、军事与敏感城市基础设施整合商/运营商；自报 2,300+ 产品参考、5 个品牌，并称获授权分销。公司首页与目录页对目录规模分别显示 2,300+ 与 2,600+，未标明统计口径/时点；均作为公司/卖方自述而非经审计规模。",
+        "ComNet 厂商渠道证据": "ComNet 官方 Where to Buy 页面在 France 项下直接列 E.V.D.I. 与 evdi.fr。页面总说明把网络称为 authorized distributors and partners，具体 EVDI 条目没有标明授权分销商或合作伙伴子类别；EVDI 自身的“Distributeur agréé”是公司自述，不补足厂商目录的细分缺失。",
+        "当前交换机产品线": "EVDI 当前目录含 ComNet、AMG Systems、KBC 等品牌，并有商业级 CWGE10FX2TX8MSPOE 与工业级 CNG6F2T4MPB 页面；首页自报有 100+ Ethernet switches。目录能证明卖方展示这些产品，不证明现货、销售量、EVDI 的采购量或合同供货区域。",
+        "卖方价格与供货边界": "EVDI 商品页把 CWGE10 标注 MSRP €785.40 HT，把 CNG6F2T4MPB 标注 MSRP €1,650 HT；两页的协商价格需登录。页面有加购入口不等于库存可用、最终售价或采购成本。",
+        "型号技术与产品定位": "ComNet 厂商页将 CWGE10 列为商业级、可管理 L2，8×千兆 PoE+ RJ45、2×SFP、总 PoE 预算 125W、0…+50°C；CNG6F2T4MPB 为工业级 managed L2+，4×千兆 90W PoE RJ45、2×SFP、360W 总预算、DIN 与 -40…+75°C。规格来自制造商页面，未外推到 Saga 产品。",
+        "终端行业/客户证据": "EVDI 首页自述服务核能、工业、军事及城市基础设施，并展示 EDF、VINCI、ENGIE 等客户标识。这些是公司官网自述/展示，未独立核验合同关系，也没有证据把客户标识与本批 ComNet 交换机 SKU 或采购订单关联。",
+        "关键人/采购链": "官网只见通用 contact@evdi.fr 与 +33 1 64 56 00 00；本轮未找到具名交换机品类采购人、供应商准入负责人或采购决策链。政府登记的 1–2 人、官网产品目录/品牌数量不说明决策职能由谁承担。",
+        "SWOT 与渠道竞合推断": "优势：ComNet 官方目录列名、官网 B2B 分销定位、当前目录中存在商业级与工业级交换机以及技术支持/报价入口。风险：既有 ComNet/AMG/KBC 组合直接重叠，渠道身份细分、现货及成交量未知。可讨论互补产品仅是推断，没有公开的新品牌需求或供应商开放信号。",
+        "Saga 适配与评级边界": "公开目录证明其是 ComNet 交换机渠道，但不能证明它会从 Saga 采购；两类 ComNet 产品端口/PoE/安装/温度差异明显，未与任何 Saga SKU 建立完整同规格对照。保持 C，不改主表/CSV；未触达。"
+      },
+      "kp": [],
+      "facts": [
+        {
+          "dim": "法定主体、行业与员工区间",
+          "text": "政府企业目录列 E.V.D.I.（EVDI Environnement Voix Données Image）为在营 SAS，SIREN 399 343 870、SIRET 399 343 870 00040，主营电子/电信设备批发；2024 年 1–2 名员工，4 个机构中 1 个在营。",
+          "quote": "La société E.V.D.I. (EVDI ENVIRONNEMENT VOIX DONNEES IMAGE) a été créée le 15 décembre 1994. Sa forme juridique est SAS, société par actions simplifiée. Son domaine d’activité est : commerce de gros (commerce interentreprises) de composants et d’équipements électroniques et de ,télécommunication. En 2024, elle était catégorisée Petite ou Moyenne Entreprise. Elle comptait 1 ou 2 salariés.\nSIREN\n399 343 870\nSIRET du siège social\n399 343 870 00040\n4 établissements dont 1 est en activité",
+          "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/e-v-d-i-evdi-environnement-voix-donnees-image-399343870",
+          "source_type": "法国 Annuaire des Entreprises（INSEE / INPI 等公共登记汇总）",
+          "source_level": "政府登记一手汇总页面；法人信息与 2024 年员工统计按页面字段解释",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "EVDI 官网 B2B 定位、授权自述、目录和品牌数",
+          "text": "EVDI 官网自称法国/出口 B2B 分销商、授权分销商，并自报 2,300+ 产品参考与 5 个品牌；其“授权”属于公司自述，另由 ComNet 厂商目录核对是否列名，但目录不细分具体身份。",
+          "quote": "Distributeur B2B · Vidéosurveillance, transmission & câblage · depuis 1994\nDistributeur agréé · France & export\n2 300+\nRéférences produits\n5\nMarques distribuées",
+          "url": "https://evdi.fr/",
+          "source_type": "EVDI 官方公司首页",
+          "source_level": "公司一手自述/营销展示；产品数、品牌数、授权措辞未独立审计，不能证明实际库存或采购量",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "EVDI 卖方目录的规模与工业交换机品类",
+          "text": "EVDI 当前目录页面标题自报 2,600+ 产品，并展示 KBC/AMG 等 managed 交换机与 PoE SKU；首页另显示 2,300+ 产品参考，两个数值口径/更新时间未解释。",
+          "quote": "Catalogue · 2 600+ produits · ComNet, AMG, KBC, Hanwha, MOBOTIX\nAMG577-2GBT-4GAT-2G-3S-P300 - Switch industriel rack 1U 11 ports PoE 300 W",
+          "url": "https://evdi.fr/products?sous_categorie=switches-manages",
+          "source_type": "EVDI 卖方产品目录页",
+          "source_level": "卖方当前网页目录/自报数量与SKU展示；不证明实际库存、销量、采购量或可见价格完整性",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "ComNet 官方 Where to Buy 法国记录",
+          "text": "ComNet 厂商目录的法国结果直接列 E.V.D.I. 与 evdi.fr。目录说明同时覆盖授权分销商与可信合作伙伴，EVDI 条目没有角色细分；因此只记录厂商目录关联，不把该单条扩大为特定合同等级/区域权利。",
+          "quote": "# Where to Buy Comnet Products\n## Find Authorized Distributors and Trusted Partners Worldwide\n## E.V.D.I.\nCountry:France\nWebsite: evdi.fr/",
+          "url": "https://comnet.net/resources/where-to-buy?country=France&search=EVDI",
+          "source_type": "ComNet 官方 Where to Buy 渠道目录",
+          "source_level": "制造商一手渠道目录；单条列名可回查，但页面没有为 EVDI 细分 authorized distributor 与 trusted partner",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "CWGE10 卖方条目与标价",
+          "text": "EVDI 卖方页列 ComNet CWGE10FX2TX8MSPOE，卖方 SKU CWGE10FX2TX8MSPOENDAA，标示 MSRP €785.40 HT，并要求登录查看协商价。页面产品描述称商业级 8×千兆 PoE+、2×SFP、总 PoE 125W；卖方页面本身不是采购/成交凭证。",
+          "quote": "# Commercial Managed L2 PoE Switch, 2 SFP, 8 RJ45\nSKU · CWGE10FX2TX8MSPOENDAA\nMSRP\n785.40 €\nHT · unité\nConnectez-vous pour vos tarifs négociés.",
+          "url": "https://evdi.fr/products/comnet-cwge10fx2tx8mspoe-commercial-managed-l2-poe-switch-2-sfp-8-rj45",
+          "source_type": "EVDI 自营卖方商品页",
+          "source_level": "卖方一手 SKU/MSRP 快照；登录议价、不证明实时库存、成交价、销售量或采购成本",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "ComNet CWGE10 制造商规格",
+          "text": "ComNet 官方页将 CWGE10FX2TX8MSPOE 定位为 commercial-grade managed L2，列 8×10/100/1000 PoE+ RJ45、2 个 SFP、125W 总 PoE 预算及 0…+50°C；此为制造商规格，不证明 EVDI 库存或采购。",
+          "quote": "8 × 10/100/1000Base-TX RJ-45 Ports PoE+ Ports\n2 x 100/1000Base-FX SFP Ports\nThe Comnet CWGE10FX2TX8MSPOE is a commercial-grade managed switch providing IEEE 802.3at PoE+ support across its eight 10/100/1000BASE-TX ports, delivering up to 125 watts of total PoE power.\nDesigned for operation from 0°C to +50°C",
+          "url": "https://comnet.net/products/details/10-man-sw-8x10-100-1000-poe-2x1000sfp",
+          "source_type": "ComNet 官方产品规格页",
+          "source_level": "制造商一手技术规格；不证明代理库存、采购或实际销量",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "CNG6F2T4MPB 卖方条目与标价",
+          "text": "EVDI 卖方页列 ComNet CNG6F2T4MPB，卖方 SKU CNG6F2T4MPBNDAA，标示 MSRP €1,650 HT、登录后查看协商价；卖方描述为工业级、DIN、4×RJ45/2×SFP。页面加购入口不证明现货。",
+          "quote": "# Hardened Managed Switch, 2 SFP, 4 RJ45 Ports, 90W PoE\nSKU · CNG6F2T4MPBNDAA\nMSRP\n1650.00 €\nHT · unité\nConnectez-vous pour vos tarifs négociés.",
+          "url": "https://evdi.fr/products/comnet-cng6f2t4mpb-hardened-managed-switch-2-sfp-4-rj45-ports-90",
+          "source_type": "EVDI 自营卖方商品页",
+          "source_level": "卖方一手 SKU/MSRP 快照；登录议价，不证明库存、成交价、采购成本或销售量",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "ComNet CNG6F2T4MPB 制造商规格",
+          "text": "ComNet 官方页将 CNG6F2T4MPB 列为工业级 managed switch：4×RJ45 10/100/1000、每口 Type 4 90W PoE、2×1G SFP、360W PoE 总预算、DIN 安装。制造商页规格也列工业温区 -40…+75°C。",
+          "quote": "- 4 × RJ45 Ports (10/100/1000 Mbps) IEEE802.3bt compliant 90W Type 4 PoE\n- 2 × 1G SFP Ports\n- Total PoE Budget: 360W\nThe Comnet CNG6F2T4MPB is an industrial grade, Managed Ethernet Layer 2 Switch.\nMounting | DIN",
+          "url": "https://comnet.net/products/details/man-sw-4-1000tx-2-1000fx-802-3bt",
+          "source_type": "ComNet 官方产品规格页",
+          "source_level": "制造商一手规格；不证明 EVDI 有货、采购或已成交",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "EVDI 通用联系渠道与自述客户展示",
+          "text": "EVDI 首页公开通用邮箱/总机，并在“他们信任我们”区域展示 EDF、VINCI、ENGIE 等标识；该区域属于公司自述展示，不能证明交换机项目或订单。没有具名采购人。",
+          "quote": "01 64 56 00 00\ncontact@evdi.fr\n// Ils nous font confiance",
+          "url": "https://evdi.fr/",
+          "source_type": "EVDI 官方公司首页",
+          "source_level": "公司自述的通用联系信息及客户标识展示；未独立核验项目/合同，不指向采购负责人",
+          "retrieved_on": "2026-10-12"
+        }
+      ],
+      "assessment": "保持 C。政府登记确认 EVDI 法人处于在营状态；公司官网自述 B2B/授权分销，ComNet 官方渠道目录直接列出法国 E.V.D.I.，但目录不区分 authorized distributor 与 trusted partner。EVDI 当前卖方目录已有 ComNet 商业级 CWGE10 与工业级 CNG6F2T4MPB，标价均为 MSRP 且协商价需登录，构成明显产品/渠道重合。官网规模和客户标识属于自述，与政府登记的 2024 年 1–2 人区间不能互相替代；没有采购量、具名买手、现货或新增品牌需求证据。维持 C，未改 CSV/主表，未触达。",
+      "next_steps": [
+        "如继续，只公开复核 ComNet 官方 Where to Buy 页面与 EVDI 商品页，不登录或提交表单，不索取实际成交价/库存。",
+        "若未来需要比较，先逐项确认 Saga 与具体 ComNet 型号的端口、PoE 功率/总预算、温度、管理、安装、电源及质保条件；本轮不建立价格或同规格结论。",
+        "继续把 EVDI 自述的客户/规模、ComNet 厂商目录列名和卖方 SKU 分层记录，不据此推断采购行为、供应商准入或第二来源需求。"
+      ],
+      "unknowns": [
+        "ComNet 与 EVDI 的具体法律渠道身份、合同/地区/产品范围与有效期；ComNet 单条名录未区分 distributor/partner。",
+        "CWGE10 与 CNG6F2T4MPB 的实时库存、实际成交价、折扣、采购来源、销量及年度采购量。",
+        "EVDI 官网自报产品参考数/品牌数、目录页产品数的统计口径，及与政府 2024 年员工区间不同的组织/履约安排。",
+        "交换机品类买手、品牌准入决策链、具名项目，以及是否有引入补充品牌/第二来源的实际需求。"
+      ]
+    },
+    {
+      "code": "C-048",
+      "name": "Equipements Scientifiques",
+      "country": "法国",
+      "researched_on": "2026-10-12",
+      "round": "R73",
+      "section_title": "R73 A/B标准深度调研与加厚（仅研究，不触达）",
+      "evidence_title": "R73 原文证据摘录（逐项保留）",
+      "revised_city": "Garches",
+      "revised_sub": "ORing 官方名录渠道及工业交换机产品重叠；需求/买手未核",
+      "revised_type": "电子/工业分销（ORing 官方欧洲名录列名；合同范围/时效未注明）",
+      "revised_why": "【R73 公开复核】ORing 官方 Europe Where to Buy 名录在法国直接列出 Equipements Scientifiques，且 ES 自营站列有 ORing IGS-1080A 8 口千兆 DIN 导轨交换机。渠道名录与具体产品重叠已经核实，但商品页的补货/最后几件提示彼此矛盾，价格与库存无法确定；无交换机采购量或具名买手，保持 C。原“未核产品线”备注已被公开目录证据更新，未改 CSV/主表。",
+      "contact_summary": "ES France 法律声明公开 contact@es-france.com、总机 +33 1 47 95 99 00；ORing 官方 Europe 名录另列 +33 1 47 95 99 81，号码口径不同。当前官网按事业部提供联系入口，未找到具名交换机采购人；本轮未联系。",
+      "revised_angle": "公开资料仅支持 ES France 是 ORing 官方 Europe 目录列名渠道、且当前目录展示 IGS-1080A；商品页库存状态互相矛盾，没有采购需求或可比价格。不得将其写成新品牌需求、现货或已确认的 Saga 替代项目。",
+      "dimensions": {
+        "法定主体与政府登记": "政府目录确认 EQUIPEMENTS SCIENTIFIQUES (ES FRANCE) 为在营 SAS，SIREN 353 579 634、SIRET 353 579 634 00018、总部 Garches；2024 年 100–199 人、ETI，3 个机构中 1 个在营。政府记录的法定实体登记日期为 1990 年；公司称业务历史始于 1963 年，应区分品牌/经营历史与当前法人的登记日期。",
+        "公司自述业务与规模": "ES 官网自述为高附加值工业/电子技术分销商，隶属 Miriade 集团，并称服务工业电子、嵌入式、仪器、网络等市场；其“Quelques chiffres”列 2025 CA €101.5M、110 人（其中 65 人在商务/销售支持）、7 个商业部门、35+ 外勤销售。该组数据是公司自述，不替代政府员工统计；页面未明确审计口径。",
+        "ORing 厂商渠道名录": "ORing 官方 Where to Buy 总页将 Europe 描述为查找授权 ORing 分销商的区域；官方 Europe 页 France 项下直接列 Equipements Scientifiques 与 ES France 网站/电话。名录未注明更新时间、授权合同范围或具体产品线，但属于厂商侧直接列名。",
+        "ES 自有站渠道自述": "ES France 自营厂家分类页标题直接写“ORING - Distributeur officiel ES France”；它是零售商/分销商自己的授权自述，现有 ORing 官方名录提供独立的厂商侧佐证。两种来源均不证明授权范围、订单量或当前 SKU 库存。",
+        "具体工业交换机目录": "ES 当前卖方页列 ORing IGS-1080A：8×10/100/1000Base-T(X)、非管理、DIN/壁挂、12–48VDC 冗余输入、-40…+70°C；制造商页可交叉核对主要规格。卖方抓取时同时显示“补货中”和“最后几件可用”，不据此断言现货。",
+        "价格/库存与产品边界": "IGS-1080A 页面没有给出可核价格，显示补货/预订提示且库存文案冲突；此页面只支持该 SKU 在卖方目录中展示，不支持实时可用量、成交价、采购价或采购量。",
+        "组织与决策链": "ES 公司自述 7 个商业部门、35+ 外勤销售；联系页按 Composants、Mobilité & systèmes embarqués、RF、Tests & Mesures、Puissance、Bio/Industries、NI 等部门分流表单。当前公开页面未识别负责 ORing/工业交换机采购或新品准入的具名人员。",
+        "联系方式与来源冲突": "ES 法律声明列一般邮箱 contact@es-france.com、总机 01 47 95 99 00；ORing 官方名录列 +33 1 47 95 99 81。官方名录电话与当前站点总机不同，保留来源差异，不将旧入口电话当作已验证买手渠道。",
+        "法律声明的时效疑点": "ES 网站法律声明把公司列为 SAS，但同页将 Daniel Guez 描述为“Président du directoire”，该治理职位与 SAS 表述存在不一致，且页面未标更新时间；政府登记确认当前法律形式为 SAS。故不把该网页中的职务视作已核实的当前采购决策人。",
+        "SWOT、Saga 适配与评级边界": "优势：较大规模的技术分销商、ORing 厂商目录列名、公开服务体系和工业交换机目录 SKU。风险：既有 ORing 品牌/商品直接重叠，库存/价格矛盾且部门制可能增加决策链复杂度。产品接口/安装类别有目录层重叠，但没有完整 Saga 规格对照、采购需求或新供应商信号；保持 C，不改主表/CSV。"
+      },
+      "kp": [],
+      "facts": [
+        {
+          "dim": "法人名称、SIREN/SIRET、法律形式和规模",
+          "text": "政府企业目录列 EQUIPEMENTS SCIENTIFIQUES (ES FRANCE) (ES)，SIREN 353 579 634，SIRET 353 579 634 00018，在营 SAS，总部 Garches；2024 年员工区间 100–199，ETI。",
+          "quote": "La société EQUIPEMENTS SCIENTIFIQUES (ES FRANCE) (ES) a été créée le 26 janvier 1990. Sa forme juridique est SAS, société par actions simplifiée. Son domaine d’activité est : commerce de gros (commerce interentreprises) de composants et d’équipements électroniques et de ,télécommunication. En 2024, elle était catégorisée Entreprise de Taille Intermédiaire. Elle comptait 100 à 199 salariés.\nSIREN\n353 579 634\nSIRET du siège social\n353 579 634 00018",
+          "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/equipements-scientifiques-es-france-es-353579634",
+          "source_type": "法国 Annuaire des Entreprises（INSEE / INPI 等公共登记汇总）",
+          "source_level": "政府登记一手汇总页面；法律形式及员工区间按 2024 年统计字段解释",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "ES 官网自述 2025 营收/员工/销售组织",
+          "text": "ES France 公司介绍页自报 2025 CA €101.5M、110 人（65 人在商业/销售支持）、7 个商业部门及 35+ 外勤销售。此为公司官网口径；与政府 2024 年 100–199 人并列记录，不强行合并或视作政府审计数字。",
+          "quote": "Quelques Chiffres\n- Créée en 1963\n- C.A. 2025 : 101,5 M€\n- Capital + réserves : 16 M€\n- Effectif : 110 personnes ( dont 65 dans nos services commerciaux et support ventes )\nLa société est constituée de 7 départements commerciaux qui agissent en centres de profit autonomes.\nAvec plus de 35 commerciaux sur le terrain",
+          "url": "https://www.es-france.com/content/4-a-propos",
+          "source_type": "ES France 官方公司介绍页",
+          "source_level": "公司一手自述；营收/员工/组织数据未在本页标明独立审计或统计口径",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "ORing 官方欧洲授权分销商入口说明",
+          "text": "ORing 官方 Where to Buy 总页把 Europe 区域描述为查找授权 ORing 分销商的入口；这是解释 Europe 名录用途的厂商一手页面，未指明任何单一公司的合同范围或有效期。",
+          "quote": "Europe\nFind authorized ORing distributors throughout Europe.\nView Region",
+          "url": "https://oringnet.com/en/where-to-buy",
+          "source_type": "ORing 官方 Where to Buy 总页",
+          "source_level": "制造商一手名录入口说明；解释区域名录用途，不单独证明某公司的合同/范围/有效期",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "ORing Europe 名录法国条目",
+          "text": "ORing 官方 Europe 页面在 France 项下列 Equipements Scientifiques，网站 es-france.com，电话 +33 1 47 95 99 81 / +33 6 12 46 87 19。页面无可见更新时间，记录为 2026-10-12 可访问时的厂商目录条目。",
+          "quote": "France\n## Equipements Scientifiques\n- Tel: +33 1 47 95 99 81; Mob: +33 6 12 46 87 19\n[Visit Website](http://www.es-france.com/)",
+          "url": "https://oringnet.com/en/where-to-buy/europe",
+          "source_type": "ORing 官方 Europe Where to Buy 名录",
+          "source_level": "制造商一手渠道名录；直接列名，但页面未标更新时间、合同产品范围或排他条件",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "ES 自有站的 ORing 官方分销自述",
+          "text": "ES France 自营 ORing 品牌页标题自称“Distributeur officiel ES France”；这是卖方/公司自述，ORing 官方名录另提供厂商侧列名，但仍不证明具体 SKU 的进货/现货。",
+          "quote": "ORING - Distributeur officiel ES France",
+          "url": "https://www.es-france.com/1606_oring",
+          "source_type": "ES France 自营 ORing 品牌分类页",
+          "source_level": "公司/卖方自述其为官方分销商；与 ORing 厂商目录交叉佐证渠道列名，但不证明库存/采购量",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "ES France IGS-1080A 卖方上架、规格及库存提示冲突",
+          "text": "ES 当前商品页列 ORing IGS-1080A 及 8 口千兆非管理/DIN 产品描述，技术段列双路 12–48VDC、-40…+70°C。状态区同时出现补货中与最后几件可用，并提供预订入口，不能断定现货。",
+          "quote": "# Switch 8 ports Gigabit sur RAIL-DIN : IGS-1080A | ORING\nLIVRAISON En cours de réapprovisionnement\nAttention : dernières pièces disponibles !\n8 ports 10/100/1000Base-T(X) fiche RJ-45\nNon administrable\nTension d’entrée redondante +12 à 48 Vdc via bornier\nTop -40 à +70 °C\nGarantie 5 ans",
+          "url": "https://www.es-france.com/11530-switch-8-ports-gigabit-sur-rail-din-igs-1080a.html",
+          "source_type": "ES France 自营卖方商品页",
+          "source_level": "卖方目录/规格与动态库存提示；同页状态互相矛盾，不证明当前现货或采购成本",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "ORing IGS-1080A 制造商规格交叉核对",
+          "text": "ORing 官方产品页将 IGS-1080A 列为 8×10/100/1000Base-T(X) 非管理千兆交换机，带冗余供电、IP30 外壳、继电器告警及 DIN/壁挂安装，工作温度 -40…+70°C。制造商页面确认规格，不说明 ES 的现货或授权合同范围。",
+          "quote": "IGS-1080A is the slim type unmanaged gigabit Ethernet switch with 8 x 10/100/1000Base-T(X) ports. IGS-1080A supports redundant power input, rigid IP-30 housing, plus DIP switches for enabling or disabling relay output alarm. In addition, the wide operating temperature range from -40°C to 70°C can satisfy most of operating environments.",
+          "url": "https://oringnet.com/en/products/industrial-ethernet-switch/32-igs-1080a",
+          "source_type": "ORing 官方产品规格页",
+          "source_level": "制造商一手技术规格；不证明经销商库存、采购或销售",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "ES 法律声明联系人与治理职务疑点",
+          "text": "公司法律页公开一般联系邮箱 contact@es-france.com、页面总机 01 47 95 99 00，列出 SAS 和 Daniel Guez 的出版负责人职务；同页仍使用“Président du directoire”称谓，与 SAS 法律形式存在不一致，页面未标明更新时间。政府登记确认当前法律形式 SAS，不据此认定采购负责人。",
+          "quote": "EQUIPEMENTS SCIENTIFIQUES S.A.S. Société par actions simplifiée (SAS) au capital de 3.305.215 Euros\nDirecteur de la Publication : Daniel GUEZ, Président du directoire d'EQUIPEMENTS SCIENTIFIQUES (ES France)\ncontact@es-france.com",
+          "url": "https://www.es-france.com/content/2-mentions-legales",
+          "source_type": "ES France 官方法律声明页",
+          "source_level": "公司自发布法律/联系信息；治理称谓与 SAS 表述不一致且页面无日期，不作当前买手/负责人证明",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "ES France 事业部联系通道",
+          "text": "ES 官方联系页要求选择要联系的部门，并提供按产品/业务部门分流的表单；本页展示的是一般联系路径，没有公开工业交换机品类采购人或品牌经理。",
+          "quote": "Cliquez sur le département que vous souhaitez contacter.\nComposants & Modules\nMobilité & Systèmes Embarqués\nRF & Hyperfréquences\nTests & Mesures\nPuissance Energie\nBio-Tests & Industries",
+          "url": "https://www.es-france.com/content/23-contactez-nous",
+          "source_type": "ES France 官方联系/部门入口页",
+          "source_level": "公司一手通用表单与组织分流信息；未识别交换机采购/品牌准入岗位，未触达",
+          "retrieved_on": "2026-10-12"
+        }
+      ],
+      "assessment": "保持 C。政府登记确认 ES France 是在营、2024 年 100–199 人的电子/电信分销实体；公司网页自述 2025 年 €101.5M 营收、110 人与 35+ 外勤商务人员。ORing 官方 Europe Where to Buy 在法国直接列出该公司，ES 自营页展示 ORing IGS-1080A 8 口千兆 DIN 工业交换机，渠道与产品重叠已从厂商侧及卖方侧分别核实。但商品状态同时显示补货中/最后几件，不能认定现货；未找到交换机采购负责人、采购量或新品牌需求。法律页的治理职务表述有时效疑点。评级保持 C，未改 CSV/主表，未联系。",
+      "next_steps": [
+        "如后续补证，只公开复核 ORing Europe 名录、ES France 当前 ORing SKU 页面及可见产品版本/状态；名录无更新日期时继续标注时效未知。",
+        "产品比较需基于双方官方数据表核对端口、供电、温区、安装、报警和保修；不要用卖方页面相互矛盾的状态推断现货或采购。",
+        "不从销售团队规模、官方名录列名或表单结构推断具体买手、供应商准入层级或新增品牌意愿。"
+      ],
+      "unknowns": [
+        "ORing 与 Equipements Scientifiques 当前具体授权合同、产品/地域范围、有效期及各 SKU 的实际供货状态；厂商名录未标更新时间。",
+        "IGS-1080A 实时库存、可供数量、补货日期、卖方成交价、批发价与采购量；页面状态互相矛盾且未公开价格。",
+        "工业交换机品类负责人、供应商准入链、具体项目、采购量及是否有新增/替代品牌的真实需求。",
+        "公司自述 2025 财务/员工统计的核算范围、Miriade 集团结构细节，以及法律声明中的治理称谓是否为历史模板。"
+      ]
+    },
+    {
+      "code": "C-049",
+      "name": "Inmac Wstore",
+      "country": "法国",
+      "researched_on": "2026-10-12",
+      "round": "R73",
+      "section_title": "R73 A/B标准深度调研与加厚（仅研究，不触达）",
+      "evidence_title": "R73 原文证据摘录（逐项保留）",
+      "revised_city": "Roissy-en-France",
+      "revised_sub": "大型 B2B IT 经销/零售；交换机类目买手与供应商准入未核",
+      "revised_type": "B2B IT 分销/在线零售（Moxa 商品上架已核；Moxa 授权未核）",
+      "revised_why": "【R73 公开复核】政府登记显示 Inmac Wstore 为 2024 年 500–999 人的 ETI；其公司页自述 2018 年加入 Bechtle、拥有大型 B2B 销售组织。卖方页直接列 Moxa EDS-G308，价格 €298.63 HT，但标注按订单/补货中，技术表未提供；Moxa 官方资料可核产品规格，未确认 Inmac 的 Moxa 厂商渠道身份。企业销售规模与单个零售 SKU 不构成采购量或买手信号，保持 C。",
+      "contact_summary": "Inmac 官方帮助页公开一般销售邮箱 ventes@inmac-wstore.com、电话 +33 1 41 84 41 84；官网列有商业/解决方案管理职位，但未将任何人识别为工业交换机品类采购/新供应商准入负责人；本轮未联系。",
+      "revised_angle": "仅记录 Inmac 卖方目录中的 Moxa EDS-G308：€298.63 HT 是客户侧挂牌价，且网页标注按订单/补货中，不能作为采购价或现货。卖方缺技术表，规格应引用 Moxa 标准型号资料；不据此宣称 Saga 同规格或低价替代。",
+      "dimensions": {
+        "法定主体与登记规模": "法国政府企业目录确认 INMAC WSTORE 为在营 SAS，SIREN 388 055 493、SIRET 388 055 493 00059，Roissy-en-France；2024 年员工区间 500–999、ETI，16 个机构中 5 个在营。官方登记规模不能推断工业交换机采购规模或品类决策层级。",
+        "业务模式与集团关系（公司自述）": "Inmac 官方企业介绍将其描述为面向企业的 IT 设备渠道商/全渠道零售商，并自述 2018 年加入德国 Bechtle AG；此为公司历史/定位页面，不替代政府登记或 Bechtle 集团财务披露。",
+        "销售组织与公开管理层": "公司介绍页自报约 500 人、250 名内外勤销售，其中 50 名技术专家；同页列 Pierre Blin（商业战略）、Fadila Chibani（商业）、Mohand Manseri（解决方案）等公开岗位。页面未标统计日期或任何人负责工业交换机品类/供应商准入，不能把高管名单等同采购联系人。",
+        "Moxa 目录宽度与类别边界": "Inmac 的“Switch industriel Moxa”筛选页在抓取时显示 16 个结果；其中页面示例包含 MGate Modbus 网关等非以太网交换机产品，因此该数值不能写成 16 款交换机或库存。",
+        "卖方 EDS-G308 页面与价格状态": "Inmac 直接商品页将 Moxa EDS-G308 标为内部编号 7221096 / 卖方参考 43134M，公开 €298.63 HT、€358.36 TTC，状态“Sur commande / En cours de réapprovisionnement”；页面明确商品描述与技术表当时不可用。挂牌价不是采购成本，补货状态不是现货。",
+        "制造商规格与型号区分": "Moxa v2.2 官方资料把标准 EDS-G308 列为 8×10/100/1000BaseT(X) RJ45、标准温度 -10…+60°C、双冗余 12/24/48VDC、DIN、IP30、5 年保修；EDS-G308-T 才是 -40…+75°C 宽温型号。不得把 -T 参数套给 Inmac 页面没有后缀的 EDS-G308。",
+        "Moxa HTML 页温度文本差异": "Moxa 产品 HTML 页简介行写 0…+60°C，但同页规格段和 v2.2 datasheet 对标准 EDS-G308 写 -10…+60°C；本轮以制造商 datasheet 的具体订货表为主，同时保留网页简介差异，不将宽温 -T 型号与无后缀型号混淆。",
+        "采购联系人/联系方式": "Inmac 官方帮助页给出通用销售邮箱 ventes@inmac-wstore.com 与 +33 1 41 84 41 84；企业介绍页列出多位商业/解决方案管理岗位，但无工业交换机品类负责人或采购/新品准入职责证据。仅记公开信息，未联系。",
+        "Moxa 厂商授权边界": "Inmac 的卖方页证明它在自身电商目录展示 Moxa EDS-G308；Moxa 官方经销商定位器为动态表单，本轮没有得到可验证的 Inmac 过滤结果。不得把卖方上架扩展成 Moxa 授权经销身份。",
+        "SWOT、Saga 适配与评级边界": "优势：大规模 B2B IT 渠道、在线目录与 e-procurement 体系、可查 Moxa 工业产品零售页。风险：品牌目录竞争、供应商准入/类目决策链可能复杂；单 SKU 按订单且缺卖方技术表。只有一个零售挂牌价，没有批量需求、采购成本、新品牌开放或具体买手证据；保持 C，不改主表/CSV。"
+      },
+      "kp": [
+        {
+          "name": "Pierre Blin",
+          "role": "Directeur de la Stratégie Commerciale（公司介绍页列示）",
+          "contact": "公司通用销售入口 ventes@inmac-wstore.com / +33 1 41 84 41 84；非个人联系方式",
+          "status": "公开商业战略管理岗位；未确认工业交换机采购或供应商准入职责；未触达",
+          "source": "https://www.inmac-wstore.com/entreprise/cp39170.htm"
+        },
+        {
+          "name": "Fadila Chibani",
+          "role": "Directrice Commerciale（公司介绍页列示）",
+          "contact": "公司通用销售入口 ventes@inmac-wstore.com / +33 1 41 84 41 84；非个人联系方式",
+          "status": "公开商业管理岗位；未确认工业交换机采购或供应商准入职责；未触达",
+          "source": "https://www.inmac-wstore.com/entreprise/cp39170.htm"
+        },
+        {
+          "name": "Mohand Manseri",
+          "role": "Directeur Solutions（公司介绍页列示）",
+          "contact": "公司通用销售入口 ventes@inmac-wstore.com / +33 1 41 84 41 84；非个人联系方式",
+          "status": "公开解决方案管理岗位；未确认工业交换机采购或供应商准入职责；未触达",
+          "source": "https://www.inmac-wstore.com/entreprise/cp39170.htm"
+        }
+      ],
+      "facts": [
+        {
+          "dim": "法定实体与 2024 员工区间",
+          "text": "政府目录记录 INMAC WSTORE 为在营 SAS，SIREN 388 055 493，SIRET 388 055 493 00059，总部 Roissy-en-France；2024 年员工 500–999 人，企业分类 ETI，16 个机构中 5 个在营。",
+          "quote": "La société INMAC WSTORE (INMAC WSTORE) a été créée le 2 juillet 1992. Sa forme juridique est SAS, société par actions simplifiée. Son domaine d’activité est : commerce de gros (commerce interentreprises) d’ordinateurs, d’équipements informatiques périphériques et de logiciels. En 2024, elle était catégorisée Entreprise de Taille Intermédiaire. Elle comptait 500 à 999 salariés.\nSIREN\n388 055 493\nSIRET du siège social\n388 055 493 00059",
+          "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/inmac-wstore-inmac-wstore-388055493",
+          "source_type": "法国 Annuaire des Entreprises（INSEE / INPI 等公共登记汇总）",
+          "source_level": "政府登记一手汇总页面；员工区间及企业分类标注为 2024 年",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "B2B IT 分销定位及 Bechtle 历史（公司自述）",
+          "text": "Inmac 公司介绍页称其从事企业 IT 产品目录/在线分销，并自述 2018 年加入 Bechtle AG。页面未标当前供应商准入或交换机品类采购信息。",
+          "quote": "Depuis 2018, l'entreprise a intégré le groupe allemand Bechtle AG, leader sur le marché européen de la distribution IT\nLa fusion des entreprises inmac, spécialiste dans la vente de matériel informatique aux entreprises, et la société Wstore, son homologue de la vente par internet de produits informatiques aux entreprises",
+          "url": "https://www.inmac-wstore.com/entreprise/cp39170.htm",
+          "source_type": "Inmac Wstore 官方公司介绍页",
+          "source_level": "公司自述/企业历史；未独立验证当前集团采购组织或工业交换机准入规则",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "销售组织及公开管理职位（未证明采购角色）",
+          "text": "公司页面自报 500 人、250 名商务人员（其中 50 名技术专家），并列 Pierre Blin、Fadila Chibani、Mohand Manseri 的商业战略/商业/解决方案职务。人数未标统计日期；任何职位均未被页面描述为工业交换机采购负责人。",
+          "quote": "inmac wstore, c'est une équipe de 500 personnes, 250 commerciaux sédentaires et itinérants dont 50 experts et spécialistes techniques\nPierre Blin\nDirecteur de la Stratégie Commerciale\nFadila Chibani\nDirectrice Commerciale\nMohand Manseri\nDirecteur Solutions",
+          "url": "https://www.inmac-wstore.com/entreprise/cp39170.htm",
+          "source_type": "Inmac Wstore 官方公司介绍/管理团队页面",
+          "source_level": "公司自报规模及网页公开职位，统计日期未注明；不证明品类采购/供应商准入职责",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Moxa 工业交换机筛选页结果数",
+          "text": "Inmac 的 Moxa 工业交换机分类筛选页抓取时显示 16 个结果，但可见首项为 MGate Modbus 串口/以太网网关，表明筛选结果中并非每项都是交换机；不能将 16 当作交换机 SKU 数或库存。",
+          "quote": "# Switch industriel Moxa\nAfficher les 16 Résultats\nMGate MB3170 Passerelle Modbus série vers ethernet avancé",
+          "url": "https://www.inmac-wstore.com/switch-industriel/c1418.htm?m=2797",
+          "source_type": "Inmac Wstore 自营分类筛选页",
+          "source_level": "卖方动态目录；结果数及分类匹配范围仅为网页快照，不等于 16 款交换机或库存",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Moxa EDS-G308 卖方页面价格及补货状态",
+          "text": "Inmac 单品页将 Moxa EtherDevice Switch EDS-G308 标为内部货号 7221096、卖方参考 43134M，价格 €298.63 HT / €358.36 TTC，状态按订单/补货中；页面称产品说明与技术表暂不可用。价格是卖方对客户的挂牌快照，不是采购价/成交价，状态不是现货。",
+          "quote": "# Moxa - Switch industriel 43134M\nRéf. : 7221096 -\nMoxa EtherDevice Switch EDS-G308 - Commutateur - 8 x 10/100/1000 - Montage sur rail DIN\n298,63 € HT\n358,36 € TTC\nSur commande En cours de réapprovisionnement\nDescription produit non disponible pour le moment et nous en sommes désolés.\nFiche technique non disponible pour le moment et nous en sommes désolés.",
+          "url": "https://www.inmac-wstore.com/moxa-switch-industriel-switch-industriel-43134m/p7221096.htm",
+          "source_type": "Inmac Wstore 自营卖方商品页",
+          "source_level": "卖方一手商品、动态终端价与供货提示；不证明现货、成交价、批发/采购价或采购量",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Moxa EDS-G308 官方 datasheet / 精确型号规格",
+          "text": "Moxa v2.2 官方 datasheet 将无后缀 EDS-G308 列为 8 个千兆 RJ45、标准温度 -10…+60°C；双冗余 12/24/48VDC、IP30、DIN 和 5 年保修。-T 版本才为 -40…+75°C。Moxa 产品 HTML 简介另出现 0…+60°C 的摘要差异，故本批以官方 datasheet 订货表为精确型号依据。",
+          "quote": "Model Name | 10/100/1000BaseT(X) Ports RJ45 Connector | Combo Ports 10/100/1000BaseT(X) or 100/1000BaseSFP | Operating Temp.\nEDS-G308 | 8 | - | -10 to 60°C\nEDS-G308-T | 8 | - | -40 to 75°C\nInput Voltage | 12/24/48 VDC Redundant dual inputs\nIP Rating | IP30\nInstallation | DIN-rail mounting\nWarranty Period | 5 years",
+          "url": "https://www.moxa.com/getmedia/7fb1c24f-3a1d-4152-bfad-fdbbc2872771/moxa-eds-g308-series-datasheet-v2.2.pdf",
+          "source_type": "Moxa 官方 EDS-G308 Series v2.2 datasheet",
+          "source_level": "制造商一手技术资料；按精确型号订货表区分标准与 -T 宽温版本，不证明 Inmac 库存或授权",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Moxa 官方 HTML 页面摘要与参数差异",
+          "text": "Moxa 精确型号 HTML 页面顶部简介称 0…+60°C，详细规格字段称 -10…+60°C；官方 v2.2 datasheet 的订单表将 EDS-G308 标为 -10…+60°C。因此不将 HTML 摘要单独作为温度结论，也不把 -T 宽温型号混入。",
+          "quote": "Unmanaged full Gigabit Ethernet switch with 8 10/100/1000BaseT(X) ports, 0 to 60°C operating temperature\nOperating Temperature\n- -10 to 60°C (14 to 140°F)",
+          "url": "https://www.moxa.com/en/products/industrial-network-infrastructure/ethernet-switches/unmanaged-switches/eds-g308-series/eds-g308",
+          "source_type": "Moxa 官方 EDS-G308 产品页面",
+          "source_level": "制造商一手 HTML；同页摘要与详细规格文本存在差异，需结合 datasheet 订货表解释",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Inmac 一般销售联系信息",
+          "text": "Inmac 官方帮助页提供通用销售邮箱 ventes@inmac-wstore.com 与电话 01 41 84 41 84，并链接 e-procurement 信息。该渠道是一般销售/服务入口，不是具名工业交换机采购决策人；没有联系。",
+          "quote": "Notre équipe est à votre disposition pour toute question.\n01 41 84 41 84\nventes@inmac-wstore.com\nE-procurement",
+          "url": "https://www.inmac-wstore.com/aide/cp5687.htm",
+          "source_type": "Inmac Wstore 官方帮助/联系页",
+          "source_level": "公司一手公开通用销售联系方式；不识别交换机品类买手或采购意向，未触达",
+          "retrieved_on": "2026-10-12"
+        }
+      ],
+      "assessment": "保持 C。政府登记显示 Inmac Wstore 2024 年 500–999 人的 ETI，官网自述其为加入 Bechtle 的大型企业 IT 全渠道分销商；其公开公司页列有商业/解决方案高管，但未证明任何一人负责工业交换机采购。卖方商品页直接列 Moxa EDS-G308，价 €298.63 HT，状态为按订单/补货中且缺商品技术表；Moxa v2.2 datasheet 可核对标准 EDS-G308 参数（8×千兆、-10…+60°C），并与 -T 宽温型号区分。没有确认 Moxa 厂商授权、采购量、库存或新品牌准入需求。价格为客户侧零售挂牌，不能当采购价或 Saga 同规格比价。未改 CSV/主表，保持 C，未联系。",
+      "next_steps": [
+        "如继续，仅公开复核 Inmac 商品状态和 Moxa 官方 datasheet/产品页；对温度等差异继续引用精确型号与 datasheet 版本，不询价、不联系。",
+        "任何竞品比较都应分开零售价、净价/批发价、税费、质保、SKU 后缀、端口/温区及供货条件；本批不作价差或替代结论。",
+        "Moxa 授权与品类采购链保持未知，不能依据 Inmac 单品上架、公司规模或管理团队推断供应商资格或采购意图。"
+      ],
+      "unknowns": [
+        "EDS-G308 实时库存、补货日期、最终成交价、企业客户折扣、卖方进货成本及该 SKU 的销量/采购量。",
+        "Inmac 是否为 Moxa 当前授权经销商、其法国/集团层级供应商准入流程及采购集中层级；本轮 Moxa 动态定位器没有返回可验证的 Inmac 记录。",
+        "工业交换机类别负责人、商品经理、供应商准入岗位、具体项目和新品牌引入需求。",
+        "EDS-G308 商品页对应的硬件版本/包装细节以及卖方目录中其他 Moxa 筛选结果的真实交换机类别范围。"
+      ]
+    },
+    {
+      "code": "C-050",
+      "name": "Phoebe IDF",
+      "country": "法国",
+      "researched_on": "2026-10-12",
+      "round": "R73",
+      "section_title": "R73 A/B标准深度调研与加厚（仅研究，不触达）",
+      "evidence_title": "R73 原文证据摘录（逐项保留）",
+      "revised_city": "Les Ulis",
+      "revised_site": "www.phoebe.fr",
+      "revised_sub": "ORing 官方目录仍列名但链接为旧商城；当前 SKU/库存未知",
+      "revised_type": "工业 IT 网络设备分销与集成（Phoebe 官网自述；ORing 目录条目时效未知）",
+      "revised_why": "【R73 公开复核】ORing 官方 Europe 目录在法国直接列 Phoebe IDF，但显示的电话与链接仍指向旧 distribution.phoebe.fr；该商城当前返回 OVH“Site not installed”。Phoebe 主站仍自述工业 IT/网络设备分销与 WDM/IP/接入集成，并提供一般联系方式，但当前没有核到 ORing 具体商品、价格或库存。目录列名是厂商侧渠道线索，不证明旧店仍可交易或当前合同有效；无采购人/需求证据，保持 C。",
+      "contact_summary": "Phoebe 主站法律声明列一般邮箱 contactweb@phoebe.fr、电话 +33 1 85 41 03 00；ORing 名录旧条目仍显示 +33 1 30 67 69 15。两者来源不同，保留差异；没有确认交换机采购负责人，本轮未联系。",
+      "revised_angle": "以当前 phoebe.fr 的工业 IT 分销/集成自述和 ORing 官方目录列名为渠道线索；旧 distribution.phoebe.fr 当前为 OVH 未安装页面，不能拿它当现行商品商城。没有公开 ORing SKU、库存或采购需求，不提出第二来源/替代方案。",
+      "dimensions": {
+        "法定主体与登记规模": "Annuaire des Entreprises 确认 PHOEBE ILE DE FRANCE 为在营 SAS，SIREN 412 080 814、SIRET 412 080 814 00095，总部 Les Ulis；主营代码 62.02A（系统/软件咨询），2024 年 50–99 人、11 个机构中 3 个在营。该登记经营分类与主站自述的工业网络设备供应/集成并存，不以单一 NAF 码否定其网站业务。",
+        "ORing 官方渠道目录及时效": "ORing Where to Buy 总页说明欧洲入口用于寻找授权分销商，官方 Europe 页面 France 项下列 Phoebe IDF、+33 1 30 67 69 15 与 distribution.phoebe.fr。名录页面无可见更新时间，条目仍指向旧域名，因此记录为 2026-10-12 可见的厂商目录线索，当前合同有效性未知。",
+        "旧分销商城可用性": "ORing 目录链接的 distribution.phoebe.fr 当前直接返回 OVHcloud“Site not installed”。这只证明该子域名在本次访问时没有安装可用网页，不证明 Phoebe 公司停止经营，也不推翻官方 ORing 目录历史/当前列名；它不能作为现行 SKU、价格或库存来源。",
+        "当前主站业务定位（公司自述）": "Phoebe 主站自述工业 IT 设备分销，围绕 IP/WDM/接入网络提供集成、选型、供货、存储、维护等服务；列举 switches、routers、converters。页面称拥有 4,000m² 仓库与 30,000 项物资/耗材，但无发布日期且不是交换机库存证明。",
+        "主站与 ORing 品牌展示": "Phoebe 主站合作伙伴标识区包含 ORing；这是公司网站的合作方/品牌展示，单独不能证明授权。ORing 官方 Europe 名录列名是更强的厂商侧渠道线索，但该目录链接仍指向旧商城，状态需谨慎。",
+        "规模数字与统计口径": "政府记录给出 2024 年 50–99 名员工；Phoebe 官网首页另自述“près de 120 consultants”、并出现“plus de 100 techniciens et consultants”等未标时点数字。因口径/时间不明确，不把未注明日期的公司自述当作当前精确雇员数。",
+        "当前公开联系方式与角色边界": "Phoebe 法律页公开一般公司邮箱 contactweb@phoebe.fr、电话 01 85 41 03 00，并列 Pascal Hélie 为网站出版负责人；该职务不等于工业交换机采购职责。ORing 旧名录中的电话是 +33 1 30 67 69 15，联系方式存在来源/时效差异。",
+        "当前产品/SKU 与库存": "Phoebe 当前 phoebe.fr 页面有工业网络设备与集成描述，但本轮没有找到可回查的现行 ORing 交换机 SKU、价格或在线库存。旧 distribution 子域名不可用于当前商品证据，不能用搜索摘要填补。",
+        "市场/项目与履约能力": "主站自述为电信、工业、IT 项目提供端到端网络集成和硬件供应；该定位支持项目型渠道的可能性，但公开网页未给出可归属 ORing 交换机的客户项目、销量或采购订单。仓储数值为未注明日期的公司自述。",
+        "SWOT、Saga 适配与评级边界": "优势：官方 ORing 名录列名、Phoebe 主站仍有网络设备分销/集成业务表述、工程和供应链服务自述。风险：ORing 目录未注明更新时间且旧商城失效，当前 SKU/现货/采购人未知。可作为渠道线索仅属推断，不证明新品牌采购或第二来源需求；保持 C，不改主表/CSV。"
+      },
+      "kp": [],
+      "facts": [
+        {
+          "dim": "法定主体、业务分类与 2024 员工区间",
+          "text": "政府目录列 PHOEBE ILE DE FRANCE 为在营 SAS，SIREN 412 080 814、SIRET 412 080 814 00095，注册地址 Les Ulis，主营代码 62.02A；2024 年 50–99 人，11 个机构中 3 个在营。",
+          "quote": "La société PHOEBE ILE DE FRANCE a été créée le 22 avril 1997. Sa forme juridique est SAS, société par actions simplifiée. Son domaine d’activité est : conseil en systèmes et logiciels informatiques. En 2024, elle était catégorisée Petite ou Moyenne Entreprise. Elle comptait 50 à 99 salariés.\nSIREN\n412 080 814\nSIRET du siège social\n412 080 814 00095",
+          "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/phoebe-ile-de-france-412080814",
+          "source_type": "法国 Annuaire des Entreprises（INSEE / INPI 等公共登记汇总）",
+          "source_level": "政府登记一手汇总页面；员工区间明确为 2024 年，活动代码按登记字段解释",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "ORing Where to Buy Europe 授权名录入口说明",
+          "text": "ORing 官方总页将 Europe 区域说明为寻找 ORing 授权分销商的入口；仅解释其区域名录的官方用途，不证明单个目录条目的合同范围、签约日期或当前有效期。",
+          "quote": "Europe\nFind authorized ORing distributors throughout Europe.\nView Region",
+          "url": "https://oringnet.com/en/where-to-buy",
+          "source_type": "ORing 官方 Where to Buy 总页",
+          "source_level": "制造商一手名录入口说明；不单独证明任何公司的合同期限、地域/产品范围或当前授权状态",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "ORing Europe 名录中 Phoebe IDF 法国条目",
+          "text": "ORing 官方 Europe 名录在 France 项下列 Phoebe IDF、旧电话 +33 1 30 67 69 15 和旧网站 distribution.phoebe.fr；页面无可见更新日期。记录为访问时厂商名录内容，不据此推断旧商城仍在运营。",
+          "quote": "France\n## Phoebe IDF\n- Tel: +33 1 30 67 69 15\n[Visit Website](http://distribution.phoebe.fr/)",
+          "url": "https://oringnet.com/en/where-to-buy/europe",
+          "source_type": "ORing 官方 Europe Where to Buy 名录",
+          "source_level": "制造商一手渠道名录；直接列名但未标更新时间、合同范围或在线商城可用性",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "旧 distribution.phoebe.fr 子域名当前响应",
+          "text": "ORing 官方名录指向的旧 Phoebe distribution 子域名在本次直接访问时由 OVHcloud 返回“Site not installed”；该响应仅能说明当前抓取时此 URL 没有可访问的商品页，不证明 Phoebe 主公司停业或厂商名录关系终止。",
+          "quote": "# Site not installed\nThe site is not yet installed.",
+          "url": "http://distribution.phoebe.fr/",
+          "source_type": "OVHcloud 托管占位/错误响应页",
+          "source_level": "第三方主机对旧子域名的直接响应；只记录 2026-10-12 URL 状态，不作为公司经营/授权的法律证据",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Phoebe 主站 IT 网络产品/集成业务自述",
+          "text": "Phoebe 主站自述提供工业 IT 网络设备分销、WDM/IP/接入网络集成、交换机/路由器/转换器供货与维护，并称有 4,000m² 仓库、30,000 项物资。网页未注明这些库存数字的统计日期，且不等于交换机现货。",
+          "quote": "Spécialiste du négoce de matériels IT industriels (Équipements réseaux actifs et passifs...)\nIntégrateur de solutions « clé en main » réseaux wdm, ip et accès\nSwitches, routeurs, convertisseurs...\nPHOEBE dispose d'un entrepôt de 4 000 m2 et d'un stock de 30 000 articles et consommables",
+          "url": "https://www.phoebe.fr/solution-it.html",
+          "source_type": "Phoebe 官方 IT 业务页面",
+          "source_level": "公司一手自述；库存总数未注明日期/品类，不证明交换机现货、销量或采购量",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Phoebe 主站合作伙伴区 ORing 标识",
+          "text": "Phoebe 主站合作伙伴标识组包含 ORing 品牌图标；这是公司自身网页的合作方展示，不单独证明授权合同或当前 SKU。厂商侧证据另见 ORing Where to Buy Europe 名录。",
+          "quote": "## Nos partenaires\n- ![](https://www.phoebe.fr/files/tabularasa/images/pages/Partenaires/ORing.jpg)",
+          "url": "https://www.phoebe.fr/",
+          "source_type": "Phoebe 官方首页合作伙伴展示区",
+          "source_level": "公司自发布合作方/品牌图标；不单独证明授权或销售状态",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Phoebe 当前通用联系方式/出版负责人",
+          "text": "Phoebe 当前主站法律页列公司一般联系方式 01 85 41 03 00、contactweb@phoebe.fr，并列 Pascal Hélie 为 Directeur de la publication；出版负责人身份不构成交换机采购或供应商准入证明。",
+          "quote": "Propriétaire du site :\nDénomination sociale : PHOEBE\nAdresse : 4 avenue du Paraná 91940 Les Ulis\ntel. fixe : 01 85 41 03 00\nAdresse email : contactweb@phoebe.fr\nDirecteur de la publication :\nPascal HELIE",
+          "url": "https://www.phoebe.fr/mentions-legales.html",
+          "source_type": "Phoebe 官方法律声明页",
+          "source_level": "公司自发布网站主体及通用联系信息；列名职务不是品类采购/准入证据，未触达",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Phoebe 官网自述规模数字的时效",
+          "text": "Phoebe 首页出现“près de 120 consultants”“plus de 100 techniciens et consultants”等未标时点数据；政府目录的 2024 年员工区间为 50–99。不同页面统计定义/日期未知，不合并为当前精确员工数。",
+          "quote": "Près de 120 consultants\n+ de 100\ntechniciens et consultants\n+ de 50\npays d'intervention\n+ de 2000\nsites déployés",
+          "url": "https://www.phoebe.fr/",
+          "source_type": "Phoebe 官方首页公司规模/能力展示",
+          "source_level": "公司自述营销数字；未标统计日期，口径与政府员工区间不可直接比较",
+          "retrieved_on": "2026-10-12"
+        }
+      ],
+      "assessment": "保持 C。ORing 官方 Europe 名录目前可见 Phoebe IDF 法国条目，但链接旧 distribution.phoebe.fr 在直接访问时返回 OVH“Site not installed”；该现象说明旧商城不可用于当前商品核验，不等于 Phoebe 主体停业，也不推翻 ORing 厂商目录列名。Phoebe 主站仍自述工业 IT 网络设备分销及 WDM/IP/接入集成，主站标识区含 ORing；政府登记为 2024 年 50–99 人，公司未注明日期的顾问/库存数字不视为现行精确值。未找到当前 ORing SKU、库存、采购人、批量需求或新供应商信号。评级保持 C，未改 CSV/主表，未联系。",
+      "next_steps": [
+        "如后续继续，只检查 ORing 官方目录是否更新、Phoebe 主站是否出现可回查的当前交换机 SKU；旧 distribution 子域名未恢复前不作为商品证据。",
+        "对公司仓储、员工、合作伙伴或工程能力数字保留网页自述与日期边界，不推断某个交换机在库或实际采购。",
+        "不能由厂商目录列名、合作伙伴图标或项目集成定位推定 Phoebe 现行 ORing 合同、采购意向或对 Saga 的需求。"
+      ],
+      "unknowns": [
+        "ORing 与 Phoebe IDF 的当前合同/授权类别、产品与地域范围、有效期，以及 ORing 官方目录所列旧联系电话/商城是否仍为有效渠道。",
+        "Phoebe 当前可售交换机品牌和精确 SKU、库存、定价、进货来源与销售/采购量。",
+        "交换机品类采购人、供应商审批链、项目预算与是否愿意新增非 ORing 品牌或使用第二供应源。",
+        "官网仓库 4,000m²、30,000 项库存及 100–120 人顾问/技术团队数字的统计日期、法人范围与当前性。"
+      ]
+    }
+  ]
+}

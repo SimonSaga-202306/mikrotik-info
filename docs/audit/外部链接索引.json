@@ -170,6 +170,28 @@
     ]
   },
   {
+    "url": "http://distribution.phoebe.fr/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L557"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L567"
+      },
+      {
+        "path": "profile/C/C-050-Phoebe IDF-法国.md",
+        "locator": "L90"
+      },
+      {
+        "path": "profile/C/C-050-Phoebe IDF-法国.md",
+        "locator": "L95"
+      }
+    ]
+  },
+  {
     "url": "http://farpoint.eu/?page_id=131",
     "http_checked": false,
     "occurrences": [
@@ -423,7 +445,7 @@
       },
       {
         "path": "tests/test_repository.py",
-        "locator": "L1002"
+        "locator": "L1014"
       }
     ]
   },
@@ -795,7 +817,7 @@
       },
       {
         "path": "tests/test_repository.py",
-        "locator": "L1179"
+        "locator": "L1191"
       }
     ]
   },
@@ -1000,6 +1022,20 @@
       {
         "path": "profile/B/B-514-Alpha Motion S.A-希腊.md",
         "locator": "L139"
+      }
+    ]
+  },
+  {
+    "url": "http://www.es-france.com/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L306"
+      },
+      {
+        "path": "profile/C/C-048-Equipements Scientifiques-法国.md",
+        "locator": "L98"
       }
     ]
   },
@@ -1249,7 +1285,7 @@
       },
       {
         "path": "tests/test_repository.py",
-        "locator": "L1046"
+        "locator": "L1058"
       }
     ]
   },
@@ -1419,7 +1455,7 @@
       },
       {
         "path": "tests/test_repository.py",
-        "locator": "L1177"
+        "locator": "L1189"
       }
     ]
   },
@@ -3161,7 +3197,7 @@
       },
       {
         "path": "tests/test_repository.py",
-        "locator": "L1001"
+        "locator": "L1013"
       }
     ]
   },
@@ -4864,6 +4900,76 @@
     ]
   },
   {
+    "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/audin-418098752",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L52"
+      },
+      {
+        "path": "profile/C/C-046-Audin-法国.md",
+        "locator": "L86"
+      }
+    ]
+  },
+  {
+    "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/e-v-d-i-evdi-environnement-voix-donnees-image-399343870",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L157"
+      },
+      {
+        "path": "profile/C/C-047-E.V.D.I-法国.md",
+        "locator": "L80"
+      }
+    ]
+  },
+  {
+    "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/equipements-scientifiques-es-france-es-353579634",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L280"
+      },
+      {
+        "path": "profile/C/C-048-Equipements Scientifiques-法国.md",
+        "locator": "L79"
+      }
+    ]
+  },
+  {
+    "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/inmac-wstore-inmac-wstore-388055493",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L425"
+      },
+      {
+        "path": "profile/C/C-049-Inmac Wstore-法国.md",
+        "locator": "L87"
+      }
+    ]
+  },
+  {
+    "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/phoebe-ile-de-france-412080814",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L540"
+      },
+      {
+        "path": "profile/C/C-050-Phoebe IDF-法国.md",
+        "locator": "L80"
+      }
+    ]
+  },
+  {
     "url": "https://annuaire-entreprises.data.gouv.fr/etablissement/32873256500028",
     "http_checked": false,
     "occurrences": [
@@ -6385,7 +6491,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1139"
+        "locator": "L1151"
       }
     ]
   },
@@ -7763,7 +7869,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1045"
+        "locator": "L1057"
       }
     ]
   },
@@ -9351,7 +9457,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1099"
+        "locator": "L1111"
       }
     ]
   },
@@ -10300,6 +10406,48 @@
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-769/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://comnet.net/products/details/10-man-sw-8x10-100-1000-poe-2x1000sfp",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L202"
+      },
+      {
+        "path": "profile/C/C-047-E.V.D.I-法国.md",
+        "locator": "L113"
+      }
+    ]
+  },
+  {
+    "url": "https://comnet.net/products/details/man-sw-4-1000tx-2-1000fx-802-3bt",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L220"
+      },
+      {
+        "path": "profile/C/C-047-E.V.D.I-法国.md",
+        "locator": "L128"
+      }
+    ]
+  },
+  {
+    "url": "https://comnet.net/resources/where-to-buy?country=France&search=EVDI",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L184"
+      },
+      {
+        "path": "profile/C/C-047-E.V.D.I-法国.md",
+        "locator": "L99"
       }
     ]
   },
@@ -16301,7 +16449,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1097"
+        "locator": "L1109"
       }
     ]
   },
@@ -17878,12 +18026,76 @@
     ]
   },
   {
+    "url": "https://evdi.fr/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L166"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L229"
+      },
+      {
+        "path": "profile/C/C-047-E.V.D.I-法国.md",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/C/C-047-E.V.D.I-法国.md",
+        "locator": "L133"
+      }
+    ]
+  },
+  {
+    "url": "https://evdi.fr/products/comnet-cng6f2t4mpb-hardened-managed-switch-2-sfp-4-rj45-ports-90",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L211"
+      },
+      {
+        "path": "profile/C/C-047-E.V.D.I-法国.md",
+        "locator": "L121"
+      }
+    ]
+  },
+  {
+    "url": "https://evdi.fr/products/comnet-cwge10fx2tx8mspoe-commercial-managed-l2-poe-switch-2-sfp-8-rj45",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L193"
+      },
+      {
+        "path": "profile/C/C-047-E.V.D.I-法国.md",
+        "locator": "L107"
+      }
+    ]
+  },
+  {
+    "url": "https://evdi.fr/products?sous_categorie=switches-manages",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L175"
+      },
+      {
+        "path": "profile/C/C-047-E.V.D.I-法国.md",
+        "locator": "L92"
+      }
+    ]
+  },
+  {
     "url": "https://example.org/test_(one)'",
     "http_checked": false,
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1944"
+        "locator": "L2024"
       }
     ]
   },
@@ -17893,7 +18105,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1944"
+        "locator": "L2024"
       }
     ]
   },
@@ -22035,7 +22247,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1042"
+        "locator": "L1054"
       }
     ]
   },
@@ -23135,7 +23347,7 @@
       },
       {
         "path": "tests/test_repository.py",
-        "locator": "L965"
+        "locator": "L977"
       }
     ]
   },
@@ -25795,7 +26007,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1182"
+        "locator": "L1194"
       }
     ]
   },
@@ -26929,7 +27141,7 @@
       },
       {
         "path": "tests/test_repository.py",
-        "locator": "L968"
+        "locator": "L980"
       }
     ]
   },
@@ -27583,7 +27795,7 @@
       },
       {
         "path": "tests/test_repository.py",
-        "locator": "L968"
+        "locator": "L980"
       }
     ]
   },
@@ -33711,7 +33923,7 @@
       },
       {
         "path": "tests/test_repository.py",
-        "locator": "L1141"
+        "locator": "L1153"
       }
     ]
   },
@@ -42935,7 +43147,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1138"
+        "locator": "L1150"
       }
     ]
   },
@@ -44255,7 +44467,7 @@
       },
       {
         "path": "tests/test_repository.py",
-        "locator": "L1049"
+        "locator": "L1061"
       }
     ]
   },
@@ -46260,12 +46472,70 @@
     ]
   },
   {
+    "url": "https://oringnet.com/en/products/industrial-ethernet-switch/32-igs-1080a",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L334"
+      },
+      {
+        "path": "profile/C/C-048-Equipements Scientifiques-法国.md",
+        "locator": "L115"
+      }
+    ]
+  },
+  {
     "url": "https://oringnet.com/en/products/industrial-ethernet-switch/65-ips-3082gc-at",
     "http_checked": false,
     "occurrences": [
       {
         "path": "Mikrotik-vs-交换机价值分析.md",
         "locator": "L3042"
+      }
+    ]
+  },
+  {
+    "url": "https://oringnet.com/en/where-to-buy",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L298"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L549"
+      },
+      {
+        "path": "profile/C/C-048-Equipements Scientifiques-法国.md",
+        "locator": "L93"
+      },
+      {
+        "path": "profile/C/C-050-Phoebe IDF-法国.md",
+        "locator": "L85"
+      }
+    ]
+  },
+  {
+    "url": "https://oringnet.com/en/where-to-buy/europe",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L307"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L558"
+      },
+      {
+        "path": "profile/C/C-048-Equipements Scientifiques-法国.md",
+        "locator": "L99"
+      },
+      {
+        "path": "profile/C/C-050-Phoebe IDF-法国.md",
+        "locator": "L91"
       }
     ]
   },
@@ -48915,7 +49185,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1044"
+        "locator": "L1056"
       }
     ]
   },
@@ -69981,7 +70251,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L969"
+        "locator": "L981"
       }
     ]
   },
@@ -71415,7 +71685,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1047"
+        "locator": "L1059"
       }
     ]
   },
@@ -71794,6 +72064,64 @@
       {
         "path": "profile/A/A-263-ATYS Co Controll Enginering-匈牙利.md",
         "locator": "L81"
+      }
+    ]
+  },
+  {
+    "url": "https://www.audin.fr/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L70"
+      },
+      {
+        "path": "profile/C/C-046-Audin-法国.md",
+        "locator": "L99"
+      }
+    ]
+  },
+  {
+    "url": "https://www.audin.fr/contactez-nous.php",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L37"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L44"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L97"
+      },
+      {
+        "path": "profile/C/C-046-Audin-法国.md",
+        "locator": "L74"
+      },
+      {
+        "path": "profile/C/C-046-Audin-法国.md",
+        "locator": "L75"
+      },
+      {
+        "path": "profile/C/C-046-Audin-法国.md",
+        "locator": "L128"
+      }
+    ]
+  },
+  {
+    "url": "https://www.audin.fr/fr/red-lion/reseaux-industriels/switchs-ethernet-manages/index.php",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L106"
+      },
+      {
+        "path": "profile/C/C-046-Audin-法国.md",
+        "locator": "L134"
       }
     ]
   },
@@ -74183,7 +74511,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1139"
+        "locator": "L1151"
       }
     ]
   },
@@ -79463,7 +79791,7 @@
       },
       {
         "path": "tests/test_repository.py",
-        "locator": "L999"
+        "locator": "L1011"
       }
     ]
   },
@@ -81961,7 +82289,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1140"
+        "locator": "L1152"
       }
     ]
   },
@@ -83771,7 +84099,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1101"
+        "locator": "L1113"
       }
     ]
   },
@@ -86248,12 +86576,58 @@
     ]
   },
   {
+    "url": "https://www.es-france.com/11530-switch-8-ports-gigabit-sur-rail-din-igs-1080a.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L325"
+      },
+      {
+        "path": "profile/C/C-048-Equipements Scientifiques-法国.md",
+        "locator": "L112"
+      }
+    ]
+  },
+  {
+    "url": "https://www.es-france.com/1606_oring",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L316"
+      },
+      {
+        "path": "profile/C/C-048-Equipements Scientifiques-法国.md",
+        "locator": "L102"
+      }
+    ]
+  },
+  {
+    "url": "https://www.es-france.com/content/2-mentions-legales",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L343"
+      },
+      {
+        "path": "profile/C/C-048-Equipements Scientifiques-法国.md",
+        "locator": "L120"
+      }
+    ]
+  },
+  {
     "url": "https://www.es-france.com/content/23-contactez-nous",
     "http_checked": false,
     "occurrences": [
       {
         "path": "MikroTik_vs_SmartByte_替代对照表.xlsx",
         "locator": "反向信号名单!Q330"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L352"
       },
       {
         "path": "batch/contact_research_2026-09-28_R49_邮箱补录与复筛.json",
@@ -86268,12 +86642,30 @@
         "locator": "L27"
       },
       {
+        "path": "profile/C/C-048-Equipements Scientifiques-法国.md",
+        "locator": "L129"
+      },
+      {
         "path": "客户分级跟进表_2026-09.xlsx",
         "locator": "C级-难啃!Q49"
       },
       {
         "path": "客户名单_反向信号_2026-09.csv",
         "locator": "row-330/备注"
+      }
+    ]
+  },
+  {
+    "url": "https://www.es-france.com/content/4-a-propos",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L289"
+      },
+      {
+        "path": "profile/C/C-048-Equipements Scientifiques-法国.md",
+        "locator": "L88"
       }
     ]
   },
@@ -86683,7 +87075,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1096"
+        "locator": "L1108"
       }
     ]
   },
@@ -92150,6 +92542,20 @@
     ]
   },
   {
+    "url": "https://www.hms-networks.com/contact/find-distributor?indexCatalogue=partner-company&searchQuery=Audin&wordsMode=AllWords&sf_culture=en&orderBy=OrderBy%20extended&page=1",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L61"
+      },
+      {
+        "path": "profile/C/C-046-Audin-法国.md",
+        "locator": "L95"
+      }
+    ]
+  },
+  {
     "url": "https://www.hms-networks.com/contact/find-distributor?indexCatalogue=partner-company&searchQuery=Bross%20Engineering&wordsMode=AllWords",
     "http_checked": false,
     "occurrences": [
@@ -94177,7 +94583,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1102"
+        "locator": "L1114"
       }
     ]
   },
@@ -94236,6 +94642,94 @@
       {
         "path": "scripts/R66_R56_KP第19波_50户扩招落盘.py",
         "locator": "L86"
+      }
+    ]
+  },
+  {
+    "url": "https://www.inmac-wstore.com/aide/cp5687.htm",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L488"
+      },
+      {
+        "path": "profile/C/C-049-Inmac Wstore-法国.md",
+        "locator": "L135"
+      }
+    ]
+  },
+  {
+    "url": "https://www.inmac-wstore.com/entreprise/cp39170.htm",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L403"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L410"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L417"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L434"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L443"
+      },
+      {
+        "path": "profile/C/C-049-Inmac Wstore-法国.md",
+        "locator": "L75"
+      },
+      {
+        "path": "profile/C/C-049-Inmac Wstore-法国.md",
+        "locator": "L76"
+      },
+      {
+        "path": "profile/C/C-049-Inmac Wstore-法国.md",
+        "locator": "L77"
+      },
+      {
+        "path": "profile/C/C-049-Inmac Wstore-法国.md",
+        "locator": "L91"
+      },
+      {
+        "path": "profile/C/C-049-Inmac Wstore-法国.md",
+        "locator": "L100"
+      }
+    ]
+  },
+  {
+    "url": "https://www.inmac-wstore.com/moxa-switch-industriel-switch-industriel-43134m/p7221096.htm",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L461"
+      },
+      {
+        "path": "profile/C/C-049-Inmac Wstore-法国.md",
+        "locator": "L115"
+      }
+    ]
+  },
+  {
+    "url": "https://www.inmac-wstore.com/switch-industriel/c1418.htm?m=2797",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L452"
+      },
+      {
+        "path": "profile/C/C-049-Inmac Wstore-法国.md",
+        "locator": "L105"
       }
     ]
   },
@@ -94541,7 +95035,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L997"
+        "locator": "L1009"
       }
     ]
   },
@@ -95779,7 +96273,7 @@
       },
       {
         "path": "tests/test_repository.py",
-        "locator": "L1178"
+        "locator": "L1190"
       }
     ]
   },
@@ -96223,7 +96717,7 @@
       },
       {
         "path": "tests/test_repository.py",
-        "locator": "L998"
+        "locator": "L1010"
       }
     ]
   },
@@ -109457,7 +109951,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1098"
+        "locator": "L1110"
       }
     ]
   },
@@ -110737,7 +111231,7 @@
       },
       {
         "path": "tests/test_repository.py",
-        "locator": "L1140"
+        "locator": "L1152"
       }
     ]
   },
@@ -111265,7 +111759,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1103"
+        "locator": "L1115"
       }
     ]
   },
@@ -111397,7 +111891,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L969"
+        "locator": "L981"
       }
     ]
   },
@@ -111566,6 +112060,34 @@
       {
         "path": "scripts/R65_第19批精修落盘.py",
         "locator": "L25"
+      }
+    ]
+  },
+  {
+    "url": "https://www.moxa.com/en/products/industrial-network-infrastructure/ethernet-switches/unmanaged-switches/eds-g308-series/eds-g308",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L479"
+      },
+      {
+        "path": "profile/C/C-049-Inmac Wstore-法国.md",
+        "locator": "L129"
+      }
+    ]
+  },
+  {
+    "url": "https://www.moxa.com/getmedia/7fb1c24f-3a1d-4152-bfad-fdbbc2872771/moxa-eds-g308-series-datasheet-v2.2.pdf",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L470"
+      },
+      {
+        "path": "profile/C/C-049-Inmac Wstore-法国.md",
+        "locator": "L124"
       }
     ]
   },
@@ -113981,7 +114503,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1050"
+        "locator": "L1062"
       }
     ]
   },
@@ -116005,7 +116527,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1100"
+        "locator": "L1112"
       }
     ]
   },
@@ -118248,6 +118770,70 @@
     ]
   },
   {
+    "url": "https://www.phoebe.fr/",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L585"
+      },
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L603"
+      },
+      {
+        "path": "profile/C/C-050-Phoebe IDF-法国.md",
+        "locator": "L105"
+      },
+      {
+        "path": "profile/C/C-050-Phoebe IDF-法国.md",
+        "locator": "L123"
+      }
+    ]
+  },
+  {
+    "url": "https://www.phoebe.fr/files/tabularasa/images/pages/Partenaires/ORing.jpg",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L584"
+      },
+      {
+        "path": "profile/C/C-050-Phoebe IDF-法国.md",
+        "locator": "L104"
+      }
+    ]
+  },
+  {
+    "url": "https://www.phoebe.fr/mentions-legales.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L594"
+      },
+      {
+        "path": "profile/C/C-050-Phoebe IDF-法国.md",
+        "locator": "L114"
+      }
+    ]
+  },
+  {
+    "url": "https://www.phoebe.fr/solution-it.html",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L576"
+      },
+      {
+        "path": "profile/C/C-050-Phoebe IDF-法国.md",
+        "locator": "L101"
+      }
+    ]
+  },
+  {
     "url": "https://www.phoenix-itsolutions.de",
     "http_checked": false,
     "occurrences": [
@@ -118843,7 +119429,7 @@
       },
       {
         "path": "tests/test_repository.py",
-        "locator": "L1181"
+        "locator": "L1193"
       }
     ]
   },
@@ -119033,7 +119619,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1048"
+        "locator": "L1060"
       }
     ]
   },
@@ -123688,6 +124274,34 @@
     ]
   },
   {
+    "url": "https://www.shop-audin.fr/708m12-c2x22099629",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L79"
+      },
+      {
+        "path": "profile/C/C-046-Audin-法国.md",
+        "locator": "L107"
+      }
+    ]
+  },
+  {
+    "url": "https://www.shop-audin.fr/7506gx2-lx-10-c2x22099503",
+    "http_checked": false,
+    "occurrences": [
+      {
+        "path": "batch/C类AB标准加厚_2026-10-12_R73_第4批.json",
+        "locator": "L88"
+      },
+      {
+        "path": "profile/C/C-046-Audin-法国.md",
+        "locator": "L115"
+      }
+    ]
+  },
+  {
     "url": "https://www.sicetelecom.it",
     "http_checked": false,
     "occurrences": [
@@ -127871,7 +128485,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1043"
+        "locator": "L1055"
       }
     ]
   },
@@ -129917,7 +130531,7 @@
       },
       {
         "path": "tests/test_repository.py",
-        "locator": "L1180"
+        "locator": "L1192"
       }
     ]
   },
@@ -131733,7 +132347,7 @@
       },
       {
         "path": "tests/test_repository.py",
-        "locator": "L1000"
+        "locator": "L1012"
       }
     ]
   },
