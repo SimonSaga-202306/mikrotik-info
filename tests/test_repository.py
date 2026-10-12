@@ -1820,6 +1820,8 @@ class RepositoryTests(unittest.TestCase):
             public = entry['public_research']
             self.assertEqual(public['round'], 'R73')
             self.assertEqual(public['batch_path'], str(batch_path.relative_to(ROOT)))
+            if rec['code'] == 'C-045':
+                self.assertEqual(entry['site_lead'], 'cimpro.com')
             self.assertEqual(public['fact_count'], len(rec['facts']))
             self.assertEqual(public['dimension_count'], 10)
             self.assertEqual(public['outreach'], '未触达；无邮件、电话、寄样或报价')

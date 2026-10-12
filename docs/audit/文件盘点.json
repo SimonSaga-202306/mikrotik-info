@@ -2555,10 +2555,10 @@
     },
     {
       "path": "batch/C类AB标准加厚_2026-10-12_R73_第3批.json",
-      "sha256": "34731d80343c9905b4ad03d8b7899ca1d7516ccf0a228ef1483a2e087ee1bc3c",
-      "bytes": 56524,
-      "tracked_at_scan": false,
-      "units_scanned": 519,
+      "sha256": "81e303ef9c973109a74b49cc05f421ba3d240f08cb835c448775a99a9f1b870d",
+      "bytes": 56557,
+      "tracked_at_scan": true,
+      "units_scanned": 520,
       "unique_url_count": 31,
       "inspection": {},
       "errors": []
@@ -14485,10 +14485,10 @@
     },
     {
       "path": "scripts/audit_repository.py",
-      "sha256": "83c65688b780e5cc82fa52d7edd28e6890e89b6f63991d65926e0f9afbb2b4de",
-      "bytes": 25375,
+      "sha256": "4ac70de51f9e1fd75059743152e23862475f32baf1b79f6b4303dde4561d2c70",
+      "bytes": 25499,
       "tracked_at_scan": true,
-      "units_scanned": 415,
+      "units_scanned": 417,
       "unique_url_count": 1,
       "inspection": {},
       "errors": []
@@ -14605,10 +14605,10 @@
     },
     {
       "path": "tests/test_repository.py",
-      "sha256": "32f71a629d4b32177cfdb766ab8dcce5dc39e37dcd5e2b9661d8f51625c412a9",
-      "bytes": 130158,
+      "sha256": "f47602a99ab0728214c2f58a8d176add2b3bf910803e9c2723618355376e807e",
+      "bytes": 130264,
       "tracked_at_scan": true,
-      "units_scanned": 2059,
+      "units_scanned": 2061,
       "unique_url_count": 42,
       "inspection": {},
       "errors": []

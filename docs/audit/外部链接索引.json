@@ -17883,7 +17883,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1942"
+        "locator": "L1944"
       }
     ]
   },
@@ -17893,7 +17893,7 @@
     "occurrences": [
       {
         "path": "tests/test_repository.py",
-        "locator": "L1942"
+        "locator": "L1944"
       }
     ]
   },

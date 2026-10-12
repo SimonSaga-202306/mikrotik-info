@@ -198,6 +198,7 @@ def c_public_research_records():
                 'outreach': '未触达；无邮件、电话、寄样或报价',
                 'grade': '保持 C；未改主表',
                 'record_urls': record_urls,
+                'site_lead': rec.get('site_lead'),
             }
     return found
 
@@ -232,7 +233,8 @@ def customer_index(rows, first):
                   '有URL但未逐项核实' if urls else '无逐项证据URL·待补证')
         entry = {'code': code, 'name': r['公司名'], 'country': r['国家'], 'grade': r['评级'],
                  'csv_locator': f'{CSV}:row-{rowno}', 'legacy_source_label': r['来源'],
-                 'site_lead': r['网站'], 'record_urls': urls, 'status': status,
+                 'site_lead': (public.get('site_lead') or r['网站']) if public else r['网站'],
+                 'record_urls': urls, 'status': status,
                  'contact_research': rr,
                  'exact_batch_matches': batch_matches.get((r['公司名'], r['国家']), []),
                  'first_seen_exact_identity_commit': first.get((r['公司名'], r['国家'])),
