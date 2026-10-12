@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-12",
+  "round": "R72 第1户（用户指定从 C-021 重新开始复核）",
+  "scope": "用户明确要求继续 C 类挖掘，并从 C-021 AIONA Automation GmbH 开始；本户已有 R70（2026-10-10）完整基础档案，本批作为增量复核附录，不复制/抹去 R70 历史。只追加可核实的股权、目录和地址更新；保持 C，不触达客户、不修改主表。",
+  "records": [
+    {
+      "code": "C-021",
+      "name": "AIONA Automation GmbH",
+      "country": "奥地利",
+      "researched_on": "2026-10-12",
+      "update_only": true,
+      "update_title": "R72 现状复核：Gogatec 收购、工业交换机目录与地址",
+      "dimensions": {
+        "股权与集团关系（增量）": "MaschinenMarkt Österreich 于 2026-01-07 转述 Gogatec 新闻稿：Gogatec 收购 AIONA Automation GmbH；AIONA 于 2026-01-01 搬至 Gogatec 地址，但继续作为独立公司运营；Alexander Zöchling 与 Gregor Zink 继续担任相关产品经理。收购条款、供应商审批权是否集中到 Gogatec 均未披露，不能据此假定统一采购。",
+        "工业交换机目录（增量）": "AIONA 在线商店当前仍列出 Advantech EKI-2525、EKI-2525LI、EKI-2528、EKI-2725、EKI-2728 五款工业非管理交换机；EKI-2728 产品页描述为 8 口千兆非管理工业以太网交换机，带 DIN 导轨、故障继电器和双路 12–48VDC 供电。下单需要客户账户；商品目录不证明现货、实时价格或当前授权范围。",
+        "地址与联系入口（复核）": "AIONA 在线商店 Impressum 和 Gogatec 官方网站搜索页均指向 Petritschgasse 20, A-1210 Wien；收购报道说明搬至 Gogatec 地址。另有 AIONA 商店促销页搜索摘要及 Advantech 伙伴档案仍列 Hütteldorfer Straße 299/4。Petritschgasse 是目前较强的最新地址线索，但两套页面并存，寄样前仍须向公司核实。公司公开入口仍为 office@aiona.at。",
+        "采购与切入判断（增量）": "并入 Gogatec 后可优先核实供应商审批是 AIONA 本地还是集团统一，但这只是后续问题，不代表可以跨实体直联或证明采购窗口。已列出的 Advantech 工业非管理交换机与 HMS/Red Lion/N-Tron 生态构成现实竞合；目前没有公开的新品牌招募、第二来源需求或客户询价证据。"
+      },
+      "facts": [
+        {
+          "dim": "Gogatec 收购与运营延续",
+          "text": "奥地利行业媒体 MaschinenMarkt Österreich 于 2026-01-07 发布、注明来源为 Gogatec 新闻稿：Gogatec 收购 AIONA；AIONA 搬至 Gogatec 地址但继续作为独立公司；Alexander Zöchling 与 Gregor Zink 继续担任相关产品经理。该文没有说明股权比例、整合方式或采购权归属。",
+          "quote": "Aiona Automation aus Wien hat einen neuen Eigentümer: Der Händler von Automatisierungskomponenten wird vom Distributor Gogatec übernommen. ... Das Technik- und Verkaufsteam mit Alexander Zöchling und Gregor Zink stehen als Product Manager weiterhin zur Beratung für die neuen Produkte zur Verfügung. Aiona übersiedelte zum 1.1.2026 an die Gogatec-Adresse, bleibt aber weiterhin als eigenständige Firma bestehen.",
+          "url": "https://www.maschinenmarkt.at/gogatec-uebernimmt-aiona-automation-neues-im-maschinenbau-a-09d8ea88258a2c1ffbdd238655c7b4b4/"
+        },
+        {
+          "dim": "AIONA 工业交换机商店分类",
+          "text": "AIONA 在线商店有单独的 Industrie Switches 分类，当前页面列出五款 Advantech EKI 工业非管理交换机。此为商店目录证据，不等于现货或采购意向。",
+          "quote": "EKI-2525 - 5-port Industrial Unmanaged Ethernet Switch; EKI-2525LI - Kompakter 5-port Industrial Unmanaged Ethernet Switch; EKI-2528 - 8-port Industrial Unmanaged Ethernet Switch; EKI-2725 - 5-port Industrial Unmanaged Gigabit Ethernet Switch; EKI-2728 - 8-port Industrial Unmanaged Gigabit Ethernet Switch",
+          "url": "https://www.bestofautomation.at/collections/industrie-switches"
+        },
+        {
+          "dim": "EKI-2728 产品页与下单限制",
+          "text": "具体商品页将 EKI-2728 说明为 8 口千兆非管理工业交换机，列 DIN 安装、错误继电器输出、冗余供电等；在线下单需先注册 AIONA 客户账户，页面未给可公开核实的库存/采购量。",
+          "quote": "Melden Sie hier Ihr Kundenkonto an, um bei AIONA online bestellen zu können. ... 8-port Industrial Unmanaged Gigabit Ethernet Switch, 10/100/1000 MBd, Jumbo Frames (10kBytes), Auto Negotiation, Auto MDI/MDI-X, Broadcast Storm Protection, ESD Protection: 4000VDC, Fehler- Relaisausgang, DIN Schienenmontage, red. Versorgung: 2x 12-48VDC / max. 5W",
+          "url": "https://www.bestofautomation.at/products/eki-2728"
+        },
+        {
+          "dim": "AIONA 当前在线商店法定联系页",
+          "text": "AIONA 在线商店 Impressum 当前列 Petritschgasse 20、通用邮箱 office@aiona.at、电话及维也纳公司登记号；这是企业自有页面。",
+          "quote": "AIONA Automation GmbH · Petritschgasse 20, A-1210 Wien · Tel: +43 1 8760890 · Mail: office@aiona.at · Registriert beim Handelsgericht Wien unter FN 408418 s",
+          "url": "https://www.bestofautomation.at/pages/impressum"
+        },
+        {
+          "dim": "Gogatec 官方地址交叉线索",
+          "text": "Gogatec 官方网站的搜索索引列出公司地址 Petritschgasse 20, 1210 Wien；与 AIONA Impressum 和收购报道的“迁至 Gogatec 地址”相吻合，但不单独证明两家公司共享采购审批。",
+          "quote": "Gogatec GmbH · Adresse: Petritschgasse 20 · 1210 Wien · office@gogatec.com",
+          "url": "https://gogatec.com/de-de/home"
+        },
+        {
+          "dim": "地址冲突保留",
+          "text": "现有 Advantech 伙伴档案仍列 Hütteldorfer Straße 299/4；该地址与收购公告后的 AIONA/Gogatec 地址线索不一致，记录为可能过期的旧页面，不擅自删除。",
+          "quote": "AIONA Automation GmbH · +4318760890 · office@aiona.at · Hütteldorfer Strasse 299 /4 · Wien · Austria",
+          "url": "https://www.advantech.com/en-us/partners/channel/238"
+        }
+      ],
+      "assessment": "本次按用户指定从 C-021 开始完成 R72 增量复核。新增的收购与产品目录信息提高了 AIONA/Gogatec 关系及交换机竞合的确定性，但没有证实集团集中采购、供应商招募或具体缺口；地址页面仍有冲突。保留 C，不联系、不寄样、不改评级或 CSV。R70 原始研究与历史判断继续保留。",
+      "next_steps": [
+        "若未来获用户授权联系，只先通过 office@aiona.at 核实收购后的供应商审批归属、工业交换机品类负责人及当前收货地址；不得使用尚有错配的 az@aiona.at，也不直接假设集团统一采购。",
+        "只有确认有具体规格缺口、第二来源政策或明确项目窗口，才重新评估是否值得投入；现阶段不发邮件、不寄样、不制作报价。",
+        "按用户指定的本轮顺序，下一户从 C-022 起继续；此前 R70 已有的 C-022—C-030 记录作为旧一轮基线保留，若本轮继续则按 R72 增量复核，不跳过 C-021。"
+      ],
+      "unknowns": [
+        "收购交易的法律/股权条款、采购权是否集中至 Gogatec、AIONA 独立运营的实际边界未公开",
+        "Alexander Zöchling 与 Gregor Zink 是否负责交换机供应商准入/采购仍未证实；Alexander 的个人邮箱链接错配仍未解决",
+        "AIONA 店内 EKI 商品的现货、价格、具体授权期限与销售范围未核；公开目录不能证明新供应商需求",
+        "Petritschgasse 20 与 Hütteldorfer Straße 299/4 页面仍并存；寄样/发货前需人工确认收货地址"
+      ]
+    }
+  ]
+}

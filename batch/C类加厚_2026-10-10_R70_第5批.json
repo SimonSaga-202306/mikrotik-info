@@ -1,0 +1,381 @@
+{
+  "date": "2026-10-10",
+  "round": "R70 第 5 批（C-021—C-025）",
+  "scope": "沿当前 C 编号顺序对 C-021—C-025 进行公开资料核查并加厚档案；只记录官网/制造商公开页面的公司、产品、KP 与联系方式，保存原文及 URL。所有记录继续保持 C，不因找到邮箱或联系人而自动升级，不触达客户、不改主表评级。",
+  "records": [
+    {
+      "code": "C-021",
+      "name": "AIONA Automation GmbH",
+      "country": "奥地利",
+      "researched_on": "2026-10-10",
+      "contact_summary": "office@aiona.at / +43 1 8760890; company Impressum and HMS directory list Petritschgasse 20, A-1210 Wien. Advantech partner profile also shows Hütteldorfer Straße 299/4, 1140 Wien; confirm the right site before shipping. Gregor Zink is listed for Automation Sales & Technology at gz@aiona.at. The published email label for Product Manager Alexander Zöchling conflicts with its mailto target; do not use the displayed az@ address until verified.",
+      "dimensions": {
+        "法定主体与登记线索": "AIONA Automation GmbH，奥地利维也纳；公司官网 Impressum 列 Handelsgericht Wien 注册号 FN 408418 s、VAT ATU 68435749、负责人 Gabrielle Aicher 与 Gottfried Kainradl。该信息来自公司自有法定声明；本轮不另做奥地利工商登记核验。",
+        "业务定位与合作组合": "官网将 AIONA 定位为面向自动化产品的贸易及方案公司，称会把合作品牌组件做兼容性检查、整合成完整系统，并提供应用支持；首页列 ADVANTECH、EWON、HMS、YASKAWA、GETT 和 R3 Solutions。",
+        "工业网络产品与厂商渠道": "HMS Networks 官方 partner locator 将 AIONA 列为奥地利伙伴，并列 Anybus、Ewon、Intesis、Red Lion、N-Tron，支持售前及售后。因 Red Lion/N-Tron 属我方工业交换机的直接竞合线，AIONA 不是未经占位的空白渠道。",
+        "关键人KP与联系边界": "官网团队页列 Alexander Zöchling 为 Product Manager Automation、Gregor Zink 为 Verkauf & Technik Automation；Gregor 的 gz@aiona.at 与网页链接一致。Alexander 一行显示文本 az [@aiona.at]，但 mailto 实际指向 gz@aiona.at（同为 Gregor 的地址），所以不能把 az@aiona.at 当作已核实个人邮箱；两人是否负责工业网络采购均未知。",
+        "联系方式与地址差异": "公司 Impressum 与 HMS 官方伙伴目录均列 Petritschgasse 20, A-1210 Wien、+43 1 8760890、office@aiona.at；Advantech 官方伙伴档案列 Hütteldorfer Straße 299/4, Wien。发样或联系前需核实最新地址及团队分工。",
+        "竞合与我方适配": "AIONA 当前展示的 HMS 合作范围含 Red Lion/N-Tron，且其定位包含自动化方案整合、系统支持；工业网络交换机产品已存在竞品锚位。若未来评估，只能先问是否有未覆盖规格、项目第二来源或新品牌政策，不把现有伙伴身份推断为采购需求。",
+        "本轮评级建议": "保留 C。旧的无邮箱下放原因已被公司邮箱和团队页新资料修正，但现有 Red Lion/N-Tron 工业网络合作及未证实的供应商空位仍构成竞合；无采购触发信号，不升档、不触达。"
+      },
+      "assessment": "保留 C。已查到公司通用邮箱、自动化产品经理/销售技术岗位及 HMS 官方伙伴记录；同时确认其现有 Red Lion/N-Tron 合作与我方产品直接重叠。个人角色不等于采购权，且 Product Manager 邮箱链接有错配；现阶段只更新档案，不发送邮件。",
+      "kp": [
+        {
+          "name": "Alexander Zöchling",
+          "role": "AIONA 官方团队页列 Product Manager Automation；未证明负责工业交换机采购。",
+          "contact": "该行显示 az [@aiona.at]，但链接 mailto 目标为 gz@aiona.at（Gregor Zink 的邮箱）；地址冲突未解决。先走 office@aiona.at 请求转接，不直接使用 az@aiona.at。",
+          "status": "official-company-team·岗位公开；邮件展示/链接错配，采购职责未知，leads-only",
+          "source": "https://www.bestofautomation.at/pages/team"
+        },
+        {
+          "name": "Gregor Zink",
+          "role": "AIONA 官方团队页列 Verkauf & Technik Automation（自动化销售与技术）。",
+          "contact": "gz@aiona.at / +43 1 8760890-63；未确认其负责 Red Lion/N-Tron 或供应商采购。",
+          "status": "official-company-team·公司公布的销售/技术入口；采购权限与交换机品类职责未知，leads-only",
+          "source": "https://www.bestofautomation.at/pages/team"
+        }
+      ],
+      "facts": [
+        {
+          "dim": "业务定位与合作品牌",
+          "text": "AIONA 官网将其描述为自动化产品贸易公司，强调把伙伴产品组合成完整系统并提供应用支持；所列伙伴包括 Advantech、eWON、HMS、Yaskawa、GETT、R3 Solutions。",
+          "quote": "AIONA Automation GmbH geht als lösungsorientiertes Handelsunternehmen NEUE WEGE mit erprobten Automatisierungsprodukten. Mit unseren erfahrenen und weltweit führenden Partnern ADVANTECH, EWON, HMS, YASKAWA, GETT und ganz NEU, den WiFi Produkten für härteste Industriebedingungen von R3 Solutions verknüpfen wir modernste Produkte zu einem einzigartigen Komplettsystem.",
+          "url": "https://www.bestofautomation.at/"
+        },
+        {
+          "dim": "HMS 官方渠道记录",
+          "text": "HMS Networks 官方伙伴目录将 AIONA 列为奥地利伙伴，所列品牌包含 Anybus、Ewon、Ixxat、Intesis、Red Lion、N-Tron，并列售前和售后支持。",
+          "quote": "Anybus, Ewon, Ixxat, Intesis, Red Lion, N-Tron — AIONA Automation GmbH — Austria — Address: Petritschgasse 20, Wien, 1210, Austria — Available support: Pre-sales support | After-sales support",
+          "url": "https://www.hms-networks.com/contact/find-distributor?indexCatalogue=partner-company&searchQuery=AIONA%20Automation&wordsMode=AllWords"
+        },
+        {
+          "dim": "关键岗位与邮箱冲突",
+          "text": "公司团队页列 Alexander Zöchling 为自动化产品经理、Gregor Zink 为自动化销售与技术岗位。Alexander 行的可见邮箱文本为 az [@aiona.at]，但链接目标是 gz@aiona.at，与 Gregor 的显示邮箱相同；个人邮箱需人工核实。",
+          "quote": "Alexander Zöchling — Product Manager Automation — Mail: az [@aiona.at] — Tel.: 0043 1 8760890-60; Gregor Zink — Verkauf & Technik Automation — Mail: gz@aiona.at — Tel.: 0043 1 8760890-63",
+          "url": "https://www.bestofautomation.at/pages/team"
+        },
+        {
+          "dim": "法定声明与通用联系方式",
+          "text": "AIONA 公司 Impressum 列出法人名称、维也纳登记号、VAT、管理负责人和通用邮箱/电话；地址为 Petritschgasse 20。",
+          "quote": "AIONA Automation GmbH · Petritschgasse 20, A-1210 Wien · Tel: +43 1 8760890 · Mail: office@aiona.at · Registriert beim Handelsgericht Wien unter FN 408418 s · Geschäftsführer: Gabrielle Aicher, Gottfried Kainradl",
+          "url": "https://www.bestofautomation.at/pages/impressum"
+        },
+        {
+          "dim": "Advantech 伙伴档案与地址差异",
+          "text": "Advantech 官方 partner profile 也列 AIONA 为合作伙伴，公开公司邮箱和电话，但列示的维也纳地址为 Hütteldorfer Straße 299/4；与 AIONA 当前 Impressum/HMS 目录中的 Petritschgasse 20 不同，需发样前确认。",
+          "quote": "AIONA Automation GmbH · +4318760890 · office@aiona.at · Hütteldorfer Strasse 299 /4 · Wien · Austria",
+          "url": "https://www.advantech.com/en-us/partners/channel/238"
+        }
+      ],
+      "next_steps": [
+        "如用户后续决定评估，先通过 office@aiona.at 核对 Alexander Zöchling 的正确联系方式、Gregor Zink 的产品职责及当前地址；本批不发信、不发样。",
+        "仅在获准联系后询问 Red Lion/N-Tron 现有交换机组合是否存在明确规格缺口、第二来源或新品牌政策；无具体缺口即保持 C。",
+        "核对其 HMS 当前合作范围与可售 SKU；不把通用伙伴目录、岗位名称或公开邮箱误读为采购意向。"
+      ],
+      "unknowns": [
+        "Alexander Zöchling 的邮箱显示文字与 mailto 目标不一致，不能据此猜测个人邮箱",
+        "Petritschgasse 20 与 Hütteldorfer Straße 299/4 两个地址分别对应办公室、登记地址或旧址的关系未明",
+        "AIONA 对 Red Lion/N-Tron 工业交换机的实际在售 SKU、库存与授权/销售范围未核",
+        "自动化产品经理、销售技术岗位是否参与工业网络采购及新供应商审批未知"
+      ],
+      "legacy_contact": "bestofautomation.at",
+      "legacy_why": "【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评：①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：通用分销商信号，无差异化切入点，慢慢跟",
+      "legacy_sub": "B下放·无邮箱（群发触达不到）",
+      "revised_sub": "竞合·HMS/Red Lion/N-Tron合作；产品经理邮箱链接不一致",
+      "revised_why": "已核 AIONA 为 HMS 奥地利伙伴，覆盖 Red Lion/N-Tron 并提供系统方案支持；虽补到公司/团队触点，现有线直接竞合、邮箱有错配且无采购窗口，维持 C。"
+    },
+    {
+      "code": "C-022",
+      "name": "NETAP",
+      "country": "希腊",
+      "researched_on": "2026-10-10",
+      "contact_summary": "info@netap.gr / netap.sales@gmail.com / support@netap.gr / +30 210 243 33 83; 6 Selefkou, 13676 Thrakomakedones, Athens, Greece. Company site identifies the business as NetAP - C. V. Tsakarelos & Co. L.P.",
+      "dimensions": {
+        "法定主体与业务定位": "NETAP 网站将经营主体标作 NetAP - C. V. Tsakarelos & Co. L.P.，自述在希腊和塞浦路斯提供网络、自动化及保护系统产品分销与技术支持；本轮未从独立企业登记源核验公司注册号或合伙人。",
+        "客户与渠道模式": "官网称其既向系统集成商也向最终用户直销，同时通过希腊转售商网络销售；有自有仓储并强调快速配送，商业模式不只是项目集成。",
+        "工业网络品牌与产品": "Westermo 官方 Where-to-buy 页面仍列 NETAP 为希腊 reseller，提供本地库存与基础技术支持。NETAP 自己的厂商页面列 Westermo、Moxa、ORing、Antaira 等工业网络线；其 Westermo 页列工业以太网交换机、扩展器、路由器、转换器、调制解调器等。",
+        "关键人KP": "官网及 Westermo 当前名录均未显示具名的网络产品经理或采购负责人；先记录公司级邮箱/电话，不能把公司名称中的 Tsakarelos 推断为某位具名采购人。",
+        "联系方式": "官网联系/页脚公开 netap.sales@gmail.com、info@netap.gr、support@netap.gr、+30 210 243 33 83；地址 6 Selefkou, 13676 Thrakomakedones, Athens。",
+        "竞合与我方适配": "现有 Westermo、Moxa、ORing、Antaira 工业网络品牌及本地库存/经销网络与我方目标产品直接重叠；没有公开证据表明其正在寻求第二来源或有明确产品缺口。",
+        "本轮评级建议": "保留 C。确认触达通道和成熟工业网络渠道角色，但竞争品牌及供应链地位较强；不因补到邮箱自动升 B，也不推断其有采购意向。"
+      },
+      "assessment": "保留 C。Westermo 官方目录确认希腊 reseller、本地库存及基础技术支持；NETAP 自述覆盖希腊/塞浦路斯并经营多家工业网络厂商。其交换机品类与我方重叠，未发现供应商招募或采购空位；仅补档，不触达。",
+      "kp": [],
+      "facts": [
+        {
+          "dim": "区域分销与服务模式",
+          "text": "NETAP 官网自述其在希腊和塞浦路斯分销网络、自动化及保护系统产品并提供技术支持；既做集成商/终端直销，也经营希腊转售网络和仓储配送。",
+          "quote": "NetAP distributes and offers technical support for products and networking, automation and protection systems both in Greek and in Cyprian market. NetAP besides the direct sales to system integrators but also to final users launches its products throughout its great network of resellers concerning the greek market.",
+          "url": "https://www.netap.gr/"
+        },
+        {
+          "dim": "Westermo 制造商渠道名录",
+          "text": "Westermo 官方 Where-to-buy 目录列 NETAP 为希腊 reseller，并列本地库存及基础技术支持；这是厂商名录记录，不代表采购意向。",
+          "quote": "Greece · Reseller · Local stock · Basic technical support · NETAP · Tel: +30 210 243 33 83 · Web: www.netap.gr",
+          "url": "https://www.westermo.com/contact/where-to-buy"
+        },
+        {
+          "dim": "Westermo 工业网络品类",
+          "text": "NETAP 自有 Westermo 厂商页列出该产品线的工业以太网交换机、以太网扩展器、路由器、转换器、调制解调器、软件及配件。",
+          "quote": "The offered products can be categorized as below: Industrial Ethernet Switches · Ethernet extenders · Routers · Converters · Modems · Software · ACCESSORIES",
+          "url": "https://www.netap.gr/represented-manufacturers/westermo"
+        },
+        {
+          "dim": "其他工业网络品牌线索",
+          "text": "NETAP 官方厂商导航列有 MOXA、WESTERMO、ORING、ANTAIRA 等品牌；这是公司网站公开的 represented-manufacturers 清单，具体现行授权和合同范围仍需制造商核实。",
+          "quote": "MOXA · WESTERMO · ORING · ANTAIRA",
+          "url": "https://www.netap.gr/represented-manufacturers/westermo"
+        },
+        {
+          "dim": "公司名称与官方联系入口",
+          "text": "NETAP 官网页脚显示经营名称、雅典地址、通用销售/信息/支持邮箱及总机。",
+          "quote": "NetAP - C. V. TSAKARELOS & CO. L.P. · +30 2102433383 · netap.sales@gmail.com ; info@netap.gr · 6 SELEFKOU · 13676 THRAKOMAKEDONES · ATHENS - GREECE",
+          "url": "https://www.netap.gr/represented-manufacturers/westermo"
+        }
+      ],
+      "next_steps": [
+        "如用户将来决定评估，先向 info@netap.gr 或 netap.sales@gmail.com 询问负责工业交换机产品线的岗位及其新品牌/第二来源政策；本批不发邮件。",
+        "只比较当前 Westermo/Moxa/ORing/Antaira 型号中的明确空位、供货/认证要求和我方规格，不以官网代理名录推断采购量。",
+        "若其品牌合同限制或现有 SKU 已覆盖目标规格且无主动需求，维持 C 并停止投入。"
+      ],
+      "unknowns": [
+        "各制造商现行授权合同、产品区域与独家/非独家范围未核（Westermo 仅有官方 reseller 目录证据）",
+        "工业交换机品类负责人、采购流程、库存与销售规模未公开",
+        "NETAP 的独立工商注册号及 C. V. Tsakarelos 的自然人身份/职位未在本轮核实",
+        "是否有引入第二品牌、补充规格或私牌/OEM 的采购意愿未知"
+      ],
+      "legacy_contact": "+30 210 243 33 83",
+      "legacy_why": "【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评：①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：通用分销商信号，无差异化切入点，慢慢跟",
+      "legacy_sub": "B下放·无邮箱（群发触达不到）",
+      "revised_sub": "竞合·Westermo/Moxa/ORing/Antaira工业网络渠道",
+      "revised_why": "NETAP 为 Westermo 希腊 reseller，并自述经营 Moxa/ORing/Antaira 等工业网络品牌及本地渠道；现有线直接竞合、采购窗口未证实，维持 C。"
+    },
+    {
+      "code": "C-023",
+      "name": "Planet Shop",
+      "country": "希腊",
+      "researched_on": "2026-10-10",
+      "contact_summary": "+30 231 231 5031 / official contact form / Drimos, Thessalonikis, TK 57200. The current contact page displays Email: Info (at) planet-shop.gr rather than a verified mailto; confirm the address before use. Another product footer lists Koimiseos Theotokou 3, Drimos. Legal operator in the site's return policy: Nastas A. Apostolos (ΝΑΣΤΑΣ Α. ΑΠΟΣΤΟΛΟΣ); registration details are recorded in the R70 evidence section.",
+      "dimensions": {
+        "法定主体与经营定位": "品牌店名为 PLANET SHOP - Networking & Communication；公司历史页自述 2016 年在 Thessaloniki 的 Drimos 成立，经营有线/无线电信网络产品分销与服务。其退换货政策列法律经营名 ΝΑΣΤΑΣ Α. ΑΠΟΣΤΟΛΟΣ、通信与安防系统业务、AFM 128136997、GEMI 000137811106000。",
+        "PLANET 渠道身份": "网站自称是 Planet 在希腊的 official online retail shop / Region Authorized Reseller；这是店铺自述，本轮没有从 PLANET Technology 制造商渠道目录独立确认该授权或合同范围。",
+        "产品目录与实际交换机": "本轮可见的店铺目录覆盖工业以太网、DIN 导轨管理/非管理交换机、PoE、媒体转换和宽带网络；商品页列 PLANET IGS-801T 八口千兆工业交换机，页面快照标注有库存且工作温度 -40 至 +75°C，管理型分类还列 IGS-4215 系列等。库存和价格为网页动态信息，不作为采购量依据。",
+        "关键人KP": "公开页面未核实具名采购/产品负责人；法律经营名显示的是经营主体名称，不能直接据此推定具体自然人或其采购职责。",
+        "联系方式与邮箱边界": "联系页给出 +30 231 231 5031、Drimos Thessalonikis、TK 57200 和联系表单；邮箱写作 Info (at) planet-shop.gr，非可点击 mailto。本轮不把被遮蔽写法自动当作可投递邮箱；另一产品页脚列 Koimiseos Theotokou 3，街道字段请发货前确认。",
+        "竞合与我方适配": "该店面向希腊终端/渠道客户销售 PLANET 工业交换机、PoE 与网通产品；与我方存在直接零售/产品竞争。其自称区域授权零售商，因此在未核实授权边界及多品牌政策之前，不应将其视为空白经销商或假定愿意采购替代品牌。",
+        "本轮评级建议": "保留 C。补齐运营主体、公开电话、产品目录及自称 PLANET 渠道角色，但授权状态未独立核实、买方/供应商角色未知，且工业交换机产品线直接重叠。"
+      },
+      "assessment": "保留 C。该电商店公开经营主体和联系渠道，并持续展示 PLANET 工业交换机目录；但其 official/authorized 身份是店铺自述，未由 PLANET 制造商目录交叉确认，也没有对外寻求新供应商的证据。此轮只写入档案，不把零售销售当作采购意向。",
+      "kp": [],
+      "facts": [
+        {
+          "dim": "公司历史与业务模式",
+          "text": "公司历史页称 PLANET SHOP - Networking & Communication 于 2016 年在 Drimos 成立，业务包括有线/无线电信网络产品分销和服务。",
+          "quote": "Η PLANET SHOP - Networking & Communication ιδρύθηκε το 2016 στον Δρυμός Θεσσαλονίκης. Τα κύρια πεδία δραστηριότητάς μας περιλαμβάνουν τη διανομή προϊόντων και την παροχή υπηρεσιών στους τομείς των ενσύρματων και ασύρματων τηλεπικοινωνιακών δικτύων.",
+          "url": "https://www.planet-shop.gr/el/etairia-istoriko.php"
+        },
+        {
+          "dim": "法律经营主体",
+          "text": "其退换货政策将经营主体列为 ΝΑΣΤΑΣ Α. ΑΠΟΣΤΟΛΟΣ，业务为通信/安防系统，并披露 AFM 与 GEMI 号码；本轮据此记名，不自行转写为个人 KP。",
+          "quote": "ΕΠΩΝΥΜΙΑ: ΝΑΣΤΑΣ Α. ΑΠΟΣΤΟΛΟΣ · ΕΠΑΓΓΕΛΜΑ: ΣΥΣΤΗΜΑΤΑ ΕΠΙΚΟΙΝΩΝΙΑΣ & ΑΣΦΑΛΕΙΑΣ · Α. Φ. Μ.: 128136997 · ΑΡΙΘΜΌΣ Γ.Ε.ΜΗ. ΕΠΙΧΕΊΡΗΣΗΣ: 000137811106000",
+          "url": "https://www.planet-shop.gr/el/politiki-epistrofon.php"
+        },
+        {
+          "dim": "PLANET 授权身份的证据性质",
+          "text": "Planet Shop 页面自称其为希腊 Planet 官方在线零售店并提供技术/售后支持；这是商家自述，当前授权仍须制造商或书面合同另行核实。",
+          "quote": "Το επίσημο Online Shop της Planet στην Ελλάδα με τα καλύτερα αξιόπιστα δικτυακά & industrial προϊόντα. Σε εμάς θα βρείτε μια μεγάλη γκάμα από LAN Switches, Power Over Ethernet, Industrial Solutions, Media Conversion, Broadband Communication, Wireless LAN, IP Telephony – VOIP, IP Surveillance, Home Automation, Network Security, Network Peripheral.",
+          "url": "https://www.planet-shop.gr/index.php?route=information/contact"
+        },
+        {
+          "dim": "工业交换机商品示例",
+          "text": "商品页将 PLANET IGS-801T 标为有库存，列八个 10/100/1000BASE-T 端口、IP30 工业外壳，并说明工作温度 -40 至 +75°C。此为抓取时的目录状态，不证明长期库存或销量。",
+          "quote": "PLANET IGS-801T 8-Port 10/100/1000T Industrial Gigabit Ethernet Switch · Stock: In Stock · 8-port 10/100/1000BASE-T RJ45 · -40 to 75 degrees C operating temperature",
+          "url": "https://www.planet-shop.gr/en/industrial-ethernet/din-rail-unmanaged-ethernet-switches/igs-801t.php"
+        },
+        {
+          "dim": "管理型工业产品目录",
+          "text": "店铺管理型工业交换机分类列有 IGS-4215-4T2S、IGS-4215-8T2S、IGS-5225-4T2S 等 PLANET 型号，构成与工业管理交换机相邻的现售目录。",
+          "quote": "PLANET IGS-4215-4T2S Industrial L2/L4 4-Port 10/100/1000T + 2-Port 100/1000X SFP Managed Switch · PLANET IGS-4215-8T2S Industrial L2/L4 8-Port 10/100/1000T + 2-Port 100/1000X SFP Managed Switch",
+          "url": "https://www.planet-shop.gr/en/industrial-ethernet/din-rail-managed-ethernet-switches.php"
+        },
+        {
+          "dim": "联系渠道与遮蔽邮箱",
+          "text": "联系页公开电话、区域地址和表单，但将邮箱写成 anti-spam 格式 Info (at) planet-shop.gr；页面没有提供可核实的 mailto。",
+          "quote": "ΔΡΥΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ Τ.Κ 57200 · Email: Info (at) planet-shop.gr · Telephone +30 231 231 5031 · Contact Form",
+          "url": "https://www.planet-shop.gr/index.php?route=information/contact"
+        }
+      ],
+      "next_steps": [
+        "如用户后续批准进一步核查，先通过联系表单或电话核对当前法律经营主体、联系人及可用邮箱；不以 Info (at) 的格式擅自生成可投递地址。",
+        "向 PLANET 制造商或对方索取当前授权区域/品牌政策和供应商准入边界；未确认前不将自称授权零售商视为开放渠道。",
+        "只有明确存在非 PLANET 产品空档或对方主动询问第二品牌/OEM 时再复评；否则维持 C，不主动发替代推介。"
+      ],
+      "unknowns": [
+        "PLANET Shop 当前授权级别、合同主体/地域范围未由制造商独立确认",
+        "采购负责人、渠道/零售业务的采购权及其他交换机品牌政策未知",
+        "联系页邮箱被反采集遮蔽，当前可用地址与可投递状态未核",
+        "在线商品的实时库存、进货渠道、销量和批发比例未知"
+      ],
+      "legacy_contact": "官网 Contact 页",
+      "legacy_why": "【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评：①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：有信号（交换专长、工业/楼宇）但需先验证需求或联系人不具体",
+      "legacy_sub": "B下放·无邮箱（群发触达不到）",
+      "revised_sub": "竞合·PLANET工业交换机零售；授权/采购角色待核",
+      "revised_why": "Planet Shop 自称希腊官方零售店并公开销售 PLANET 工业管理/非管理交换机；授权边界、邮箱与采购角色未独立核实，产品线直接重叠，保持 C。"
+    },
+    {
+      "code": "C-024",
+      "name": "Acceed GmbH",
+      "country": "德国",
+      "researched_on": "2026-10-10",
+      "contact_summary": "info@acceed.com / support@acceed.com / +49 211 938898-0 / Arnoldstr. 19, 40479 Düsseldorf, Germany. Company imprint identifies Dr. Werner Kunze as Geschäftsführer; purchasing remit not stated.",
+      "dimensions": {
+        "法定主体与业务定位": "Acceed GmbH（公司 Impressum 标作 ACCEED GmbH），德国 Düsseldorf；官网定位为工业网络、嵌入式系统与智能控制方案供应商/分销商，提供网络产品目录和项目支持，并声明采用 ISO 9001:2015 质量管理体系。",
+        "产品与品牌组合": "Acceed 当前目录明确将 ORing 列为制造商，销售工业管理型交换机、PoE 交换机和工业网络产品。现网页示例包括 RGPS-7244GP 24 口千兆 PoE + 4 个 SFP 的机架管理型工业交换机，以及 IGS-9812GP 20 口管理型工业交换机。",
+        "产品重叠与应用": "ORing 目录已覆盖管理、PoE、冗余环网、工业宽温等功能区，与我方工业交换机/管理型 PoE 直接重叠；网页的询价/购物入口证明有公开目录售卖，不证明现货量或未来采购意向。",
+        "关键人KP": "Acceed 官方 Impressum 列 Dr. Werner Kunze 为 Geschäftsführer；没有公开证据证明其负责交换机品类采购。应先走 info@acceed.com / support@acceed.com 转接产品或采购岗位。",
+        "联系方式": "官网联系页与 Impressum 列 Arnoldstr. 19, 40479 Düsseldorf、电话 +49 211 938898-0；联系页公开 info@acceed.com，Impressum 公布 support@acceed.com。",
+        "竞合与我方适配": "其工业通信和 ORing 工业交换机目录成熟，兼有工程方案与网上询价渠道；若无具体规格、交期或认证空档，直接推荐同类产品价值低且易被视作替代攻击。",
+        "本轮评级建议": "保留 C。已确认公司级触点和现售 ORing 工业交换机目录，但没有对方主动寻求新供应商、第二品牌或缺口 SKU 的证据。"
+      },
+      "assessment": "保留 C。Acceed 官网当前目录把 ORing 工业管理、PoE 交换机列为可询价产品；公司是工业网络/嵌入式系统方案渠道，与我方直接竞合。新邮箱和负责人姓名均不等于采购意向，不升档、不触达。",
+      "kp": [
+        {
+          "name": "Dr. Werner Kunze",
+          "role": "Acceed 官网 Impressum 列 Geschäftsführer（总经理）。",
+          "contact": "未见个人直邮；公司公开 info@acceed.com / support@acceed.com / +49 211 938898-0。",
+          "status": "official-company-imprint·管理职务已核；交换机品类/供应商选择权限未知，leads-only",
+          "source": "https://acceed.com/en/imprint"
+        }
+      ],
+      "facts": [
+        {
+          "dim": "公司定位与质量体系",
+          "text": "Acceed 官网将自身定位为工业网络、嵌入式系统和智能控制领域合作伙伴，并声明质量体系通过 ISO 9001:2015。",
+          "quote": "PARTNER FOR INDUSTRIAL NETWORK, EMBEDDED-SYSTEMS AND SMART CONTROL ... Acceed GmbH applies a quality management system certified according to DIN EN ISO 9001:2015.",
+          "url": "https://acceed.com/en"
+        },
+        {
+          "dim": "法定实体与管理线索",
+          "text": "官方法律声明列出 Acceed GmbH、Düsseldorf 商业登记 HRB 40029，并将 Dr. Werner Kunze 列为 Geschäftsführer。",
+          "quote": "Acceed GmbH · Arnoldstr. 19 · 40479 Düsseldorf · Geschäftsführer: Dr. Werner Kunze · Registergericht: Amtsgericht Düsseldorf · Registernummer: HRB 40029",
+          "url": "https://acceed.com/en/imprint"
+        },
+        {
+          "dim": "ORing 24 口 PoE 工业交换机",
+          "text": "Acceed 当前产品页将 RGPS-7244GP 标为 ORing 管理型机架工业交换机，列 24 个千兆 PoE PSE 端口和 4 个千兆 SFP 上行；页面有询价入口及加入购物车入口。",
+          "quote": "RGPS-7244GP · Managed Rack Mount Switch 4*SFP1000 + 24*1000TX PoE PSE · Manufacturer Oring · 24 × 10/100/1000Base-T(X) RJ-45 ports with PoE PSE capability and 4 × 1000Base-X SFP slots",
+          "url": "https://acceed.com/en/product/rgps-7244gp"
+        },
+        {
+          "dim": "ORing 工业宽温管理交换机目录",
+          "text": "另一款 IGS-9812GP 页列 8 个千兆铜口与 12 个光纤 SFP 槽、管理和冗余环网功能，并标注 -40 至 +70°C；页面把 Oring 标为制造商并展示可加购物车。",
+          "quote": "IGS-9812GP · Industrial Managed 20-port 8*1000TX 12*1000SFP Switch · Manufacturer Oring · Environmental Range: -40 °C to +70 °C operating temperature",
+          "url": "https://acceed.com/en/product/igs-9812gp"
+        },
+        {
+          "dim": "公司直接联系入口",
+          "text": "Acceed 官方 contact 页面公开公司地址、总机与 info@acceed.com，提供联系表单；不公开品类采购人的个人邮箱。",
+          "quote": "Address: acceed GmbH, Arnoldstr. 19, 40479 Dusseldorf, Germany · Phone: +49 211 938898 0 · Email: info@acceed.com",
+          "url": "https://acceed.com/en/contact"
+        }
+      ],
+      "next_steps": [
+        "若用户后续决定评估，先通过 info@acceed.com 询问 Industrial Networking 产品负责人以及是否存在明确的 ORing 型号/认证/交期空位；本批不联系。",
+        "逐项比对 RGPS-7244GP、IGS-9812GP 与我方具体 SKU，只在明确差异化规格或用户主动求第二来源时提出样品/报价。",
+        "在查明 Acceed 与 ORing 的授权范围、采购政策和供应风险之前，不把目录上架或 Geschäftsführer 职务当作新供应商机会。"
+      ],
+      "unknowns": [
+        "ORing 授权/分销合同的当前状态、区域及产品范围未由 ORing 独立确认",
+        "网页产品库存、实际成交规模、采购周期和销量未核",
+        "Dr. Werner Kunze 是否参与品类决策、另有何采购/网络产品负责人未明",
+        "Acceed 是否接受第二品牌、OEM或补充供应商尚无公开证据"
+      ],
+      "legacy_contact": "+49 211 938898-0",
+      "legacy_why": "【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评：①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：通用分销商信号，无差异化切入点，慢慢跟",
+      "legacy_sub": "B下放·无邮箱（群发触达不到）",
+      "revised_sub": "竞合·ORing管理/PoE工业交换机目录成熟",
+      "revised_why": "Acceed 当前销售 ORing 管理型、宽温及 PoE 工业交换机，覆盖我方目标产品；未证实采购空位/第二来源需求，保持 C。"
+    },
+    {
+      "code": "C-025",
+      "name": "PRIMATION Systemtechnik GmbH & Co. KG",
+      "country": "德国",
+      "researched_on": "2026-10-10",
+      "contact_summary": "info@primation.de / +49 89 46260-0 / +49 2421 6947-000 / +49 172 99236 24; legal address Bretonischer Ring 13, 85630 Grasbrunn. Website also shows HQ Bretonischer Ring 11 and a Düren sales office; confirm before sending samples. Official article names Regional Sales Manager Matthias Henning (matthias.henning@primation.de); switch-purchasing remit unconfirmed.",
+      "dimensions": {
+        "法定主体与经营年限": "PRIMATION Systemtechnik GmbH & Co. KG，德国 Grasbrunn（慕尼黑附近）；官网自述 1994 年成立，长期经营工业网络、测量、测试与自动化；面向制造/加工行业提供硬件、软件、系统整合与完整交付。",
+        "工业以太网产品线": "公司当前 Ethernet 页面明确推介 Red Lion N-TRON 与 Sixnet 系列工业交换机，称其覆盖多种铜口/光口组合、宽温及高可靠性，部分型号适用于 ATEX Zone 2、铁路、船舶和饮用水处理。页面说明 -40 至 +80°C 和最高 2 million hours MTBF；这是供应商网页描述，具体型号认证需逐 SKU 核验。",
+        "系统集成与相邻品牌": "PRIMATION 不只是目录分销商：官网强调需求分析、集成、既有系统优化、完整方案、调试、培训和支持；同一 Ethernet 页面还列 Enterprise、ATEX、Audio/Video 与 Pro-Audio 网络产品。",
+        "关键人KP": "PRIMATION 官方文章将 Matthias Henning 列为 Regional Sales Manager 并公布工作邮箱/电话；该文章主题为危险区域光纤安全，不足以证明其负责 N-Tron 交换机采购。官网法律声明另列 Josef Pfiffer、Marco Pfiffer 为普通合伙人 PRIMATION Consulting GmbH 的授权董事，未公开个人采购权限。",
+        "联系方式与地址差异": "法律声明列 info@primation.de、+49 89 46260-0 和注册地/法律地址 Bretonischer Ring 13, 85630 Grasbrunn；官网其他页脚将总部写为 Bretonischer Ring 11，并列 Düren 销售办公室 Tannenweg 14-16。不同来源的总部门牌有 11/13 差异，寄送样机前要复核。",
+        "质量与准入": "官网称该公司自 2007 年起通过 ISO 9001 系列质量认证，页面当前列 ISO 9001:2015，另列 ATEX 证书；说明其服务于质量/安全要求较高的工业客户，不能据此推断所有产品都有相同认证。",
+        "竞合与我方适配": "现有 N-Tron/Red Lion/Sixnet 工业交换机系列与我方宽温工业交换机直接竞合，且 PRIMATION 提供工程整合/认证方案；只有具体特殊规格、标准覆盖或供应保障有缺口时才可能有补充价值。",
+        "本轮评级建议": "保留 C。官网显示成熟工业网络产品线与方案交付能力，且具名区域销售经理并非已证实的交换机采购人；未发现第二品牌开放或缺货/停产替换需求，不升档、不触达。"
+      },
+      "assessment": "保留 C。PRIMATION 当前官网展示 Red Lion N-Tron/Sixnet 工业以太网交换机及 ATEX/轨道等高要求应用，也提供系统集成服务，和我方存在直接竞合。虽已找到官方通用联系和一名区域销售负责人，但未证明其采购权或新供应商窗口；不联系、不升级。",
+      "kp": [
+        {
+          "name": "Matthias Henning",
+          "role": "PRIMATION 官网技术文章署名的 Regional Sales Manager（区域销售经理）。",
+          "contact": "matthias.henning@primation.de / +49 2421 6947 000 / +49 172 99236 24；页面内容为危险区域光纤安全，未确认其负责工业 Ethernet 交换机采购。",
+          "status": "official-company-article·姓名、职务、工作邮箱公开；品类职责/采购权未知，leads-only",
+          "source": "https://www.primation.de/en/post/explosive-atmospheres-part-28-protection-of-equipment-and-transmission-systems-using-optical-radi"
+        }
+      ],
+      "facts": [
+        {
+          "dim": "公司定位与成立时间",
+          "text": "PRIMATION 官网称其向工业客户提供网络、测量、测试和自动化方案，业务重点包括系统集成、优化和完整系统交付；官网自述于 1994 年成立于 Grasbrunn。",
+          "quote": "PRIMATION Systemtechnik offers solutions for networking, measuring, testing and automation in industry. The integration and optimization of systems as well as the delivery of complete systems are our focus. PRIMATION Systemtechnik GmbH & CO. KG was founded in 1994 in Grasbrunn in the Munich district.",
+          "url": "https://www.primation.de/en/warum-wir"
+        },
+        {
+          "dim": "Red Lion N-Tron / Sixnet 工业交换机产品线",
+          "text": "PRIMATION 当前 Ethernet 产品页将 Red Lion N-Tron、Sixnet 交换机作为工业可用性方案，列宽温、多种铜光口组合及最高 2 million hours MTBF 等宣传参数；具体产品规格/认证需按 SKU 核实。",
+          "quote": "If the main focus is on availability, then the Ethernet switches of the Red Lion N-TRON and Sixnet series are the means of choice. Temperature ranges from -40 ° C to + 80 ° C and an MTBF time of up to 2 million hours.",
+          "url": "https://www.primation.de/en/ethernet"
+        },
+        {
+          "dim": "特殊场景及认证边界",
+          "text": "同一产品页称其组合中有 ATEX Zone 2 设备，也有面向火车、船舶和饮用水处理的交换机/路由器；不能据此推定某一具体型号均具备上述认证。",
+          "quote": "Devices with approval for use in ATEX Zone 2 are also available in the portfolio, as well as switches and routers with certification for use in trains, on ships and for drinking water treatment.",
+          "url": "https://www.primation.de/en/ethernet"
+        },
+        {
+          "dim": "管理层与法律联系",
+          "text": "PRIMATION 官方 Impressum 列注册法律地址、HRA、通用邮箱和普通合伙人；Josef Pfiffer 与 Marco Pfiffer 被列为该普通合伙人的授权董事。",
+          "quote": "PRIMATION Systemtechnik GmbH & Co. KG · Bretonischer Ring 13, 85630 Grasbrunn, Germany · Telephone: +49 89 46260-0 · E-mail: info@primation.de · Registry number: HRA 78735 · Personally liable shareholder: PRIMATION Consulting GmbH · Authorized Managing Directors: Josef Pfiffer, Marco Pfiffer",
+          "url": "https://www.primation.de/en/impressum"
+        },
+        {
+          "dim": "具名销售负责人线索",
+          "text": "公司官网一篇危险区域光纤技术文章署名 Matthias Henning 为 Regional Sales Manager，并公开其公司邮箱和电话；文章主题和姓名职务不足以确认他负责交换机品类或采购。",
+          "quote": "Matthias Henning · Regional Sales Manager · PRIMATION Systemtechnik GmbH & Co. KG · Tel.: 02421 - 6 94 70 00 · Mobil: 0172 – 9 92 36 24 · E-Mail: matthias.henning@primation.de",
+          "url": "https://www.primation.de/en/post/explosive-atmospheres-part-28-protection-of-equipment-and-transmission-systems-using-optical-radi"
+        },
+        {
+          "dim": "联系通道与地址差异",
+          "text": "PRIMATION 首页/业务页脚另列总部 Bretonischer Ring 11 及 Düren 销售办公室；法律声明使用门牌 13，故地址需寄送前核实。",
+          "quote": "Headquater: Bretonischer Ring 11, 85630 Grasbrunn, Germany · Tel.: +49 89 46260-200 · E-Mail: info@primation.de · Sales Office NW: Tannenweg 14-16, 52335 Düren · Tel.: +49 2421 6947-000",
+          "url": "https://www.primation.de/en"
+        }
+      ],
+      "next_steps": [
+        "若用户后续批准接触，先由 info@primation.de 或官方销售负责人确认交换机品类负责人及 N-Tron/Sixnet 现行授权/产品范围；此轮不发信。",
+        "逐 SKU 核验认证、温度、端口、交期和现有 Red Lion/N-Tron/Sixnet 合同，仅针对对方明确认可的缺口讨论补充型号。",
+        "若对方产品线已覆盖且无第二来源需求，维持 C；不要把区域销售经理的公开邮箱或技术文章当作采购窗口。"
+      ],
+      "unknowns": [
+        "当前 Red Lion/N-Tron/Sixnet 经销授权、产品组合和库存深度未由 HMS 独立确认",
+        "Matthias Henning 是否负责工业 Ethernet 类目/采购未知；Josef 与 Marco Pfiffer 的供应商审批分工也未知",
+        "Grasbrunn 门牌 11 与 13 的办公/登记关系需核；样机地址尚未确认",
+        "PRIMATION 是否接受第二品牌、补充规格或供应商替换未见公开信号"
+      ],
+      "legacy_contact": "官网联系页（HMS 名录只公开地址与网址）",
+      "legacy_why": "【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评：①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：通用分销商信号，无差异化切入点，慢慢跟",
+      "legacy_sub": "B下放·无邮箱（群发触达不到）",
+      "revised_sub": "竞合·Red Lion N-Tron/Sixnet工业交换机与系统集成",
+      "revised_why": "PRIMATION 官网当前展示 Red Lion N-Tron/Sixnet 工业交换机及高要求场景集成；产品直接竞合、采购窗口未证实，维持 C。"
+    }
+  ]
+}

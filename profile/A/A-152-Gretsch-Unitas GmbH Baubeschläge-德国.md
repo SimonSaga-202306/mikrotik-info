@@ -1,8 +1,8 @@
 # Gretsch-Unitas GmbH Baubeschläge
 
-> **评级 A**　|　德国 · Ditzingen　|　档案编号 `A-152`　|　优先级 ★★★　|　状态：未触达
+> **评级 A**　|　德国 · Ditzingen　|　档案编号 `A-152`　|　优先级 ★★★　|　状态：01-已跟进一轮（用户报告；具体日期/收件人未逐户记录）
 >
-> **触达状态（Stage）**：00-researched　|　结构版本：结构化档案 v2（R56 规则，2026-09-28 用户审定）
+> **触达状态（Stage）**：01-contacted　|　结构版本：结构化档案 v2（R56 规则，2026-09-28 用户审定）
 
 ```yaml structured_profile
 code: A-152
@@ -15,9 +15,9 @@ price_sensitivity: medium
 volume_potential: 3  # 1-5
 needs: {poe: true, industrial: false, tenG: false, l2plus: false, voice: false, oem: false, hotel: false, training: false}
 p1: STC-424XGGPM-280W
-stage: 00-researched
+stage: 01-contacted
 struct_version: v2  # v2 骨架
-updated: 2026-09-28
+updated: 2026-10-12
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -28,7 +28,7 @@ updated: 2026-09-28
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — A-152 与 A-153 同域同源 dup-suspect 标注（不删号）；随 A-153 判别；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：How many PoE ports does a typical site of yours need today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
-- **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
+- **下一步**：R71（2026-10-12）：一轮跟进已完成（用户报告；本户具体发送日期/收件地址未逐户提供）。可继续按本档既有策略低频跟进；不对首轮无实质回应者无差别催促；不编排未提供的下次动作日期。
 
 - **关联档警示**：A-153（同一实体重复建档）→ A-153 冻结不出信；一切触达只走 A-152 主档
 
@@ -75,7 +75,7 @@ updated: 2026-09-28
 - **电话**：—
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@g-u.de [Publicly listed; delivery not tested]; https://www.g-u.com
-- **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **R71 跟进核对**：本户一轮跟进已完成（用户报告）；逐户发送日期与实际收件地址未提供，不补造。已核实的地址级异常见本档 R71/退信记录；未将用户报告扩大成逐地址送达结论。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
   - **Dr.-Ing. Jörg Teunissen**(Geschäftsführer(**2025-04-01 新任**;Elektrotechnik 博士;Bielefeld))— glaswelt/baulinks 行业报+online-handelsregister 登记公告 〔已有(公司官方公开件/登记册自曝);源:https://www.glaswelt.de/fenster/neue-fuehrungsspitze-dr-teunissen-jetzt-gf-der-unit-baubeschlaege-bei-gretsch-unitas〕
   - **Michael Helmut Edler von Resch**(Geschäftsführer(2023-12-06 起;GU 集团三代业主+CEO))— online-handelsregister 登记公告+glaswelt 专文 〔已有(公司官方公开件/登记册自曝);源:https://www.online-handelsregister.de/handelsregisterauszug/bw/Stuttgart/HRB/202061/Gretsch-Unitas-GmbH-Baubeschlaege〕
@@ -259,3 +259,12 @@ Saga Networks Export Desk
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
+
+<!-- R71-FOLLOWUP-START -->
+## R71 本轮跟进与邮件回执（2026-10-12）
+
+- **跟进范围**：A/B 本轮一轮跟进已完成（用户报告）；逐户发送日期与实际收件地址未提供，本节不补造发送日志。
+- **本户结论**：一轮跟进已完成；可继续按本档既有策略低频跟进，不把“已跟进”误写成“逐地址送达成功”。
+- **地址级范围**：R71 退信台账未为本户列出新的精确地址异常；可继续跟进不等于对每个邮箱作了 SMTP 或逐地址送达验证。
+- **后续节奏**：首轮之后不作无差别催促；按既有节奏等待或低频跟进，不填造日期。
+<!-- R71-FOLLOWUP-END -->

@@ -1,0 +1,348 @@
+{
+  "date": "2026-10-09",
+  "round": "R70 第 2 批（C-006—C-010）",
+  "scope": "按用户令继续当前 C 编号顺序；以官网/制造商目录/公开企业页交叉查公司、产品、渠道、KP、联系方式和证据原文。原评级均保留 C，不自动触达或升档；全部研究写入 profile/C MD。C-009 与 A-372 的关联依照 R50 既有‘记录但不合并’决定继续保留双档。",
+  "records": [
+    {
+      "code": "C-006",
+      "name": "IPNet Solutions LTD",
+      "country": "以色列",
+      "researched_on": "2026-10-09",
+      "contact_summary": "info@ip-net.co.il / +972 3-6347050; Or Yehuda. Official pages disagree on street/building address. The master-list mobile is preserved only in the legacy snapshot.",
+      "dimensions": {
+        "法定主体与业务定位": "IPNet Solutions Ltd，以色列 Or Yehuda；官网自述为网络/IT、安全、IP 电话和 OEM 集成公司，2007 年成立。",
+        "产品与伙伴": "官网列出 Allied Telesis、Extreme、Arista、ORing、AudioCodes 等代表/合作厂商；网络产品包括 L2/L3/L4 交换机、PoE、媒体转换器、光纤 NIC、管理系统及 Wi‑Fi。该页面确认 ORing 合作关系，不足以单独证明独家/正式授权分销。",
+        "客户与场景": "官网展示电信、公用事业及政府/防务相关企业标识；页面自述 OEM 面向防务、工业、高科技等领域。标识展示不等同于当前合同或在供项目。",
+        "关键人KP": "D&B 企业页列 Haim Elishkov 为 CEO/Key Principal；ZoomInfo 列 Eli Mazuz 为 Sales Manager。两项均为第三方线索，官网未确认在职/采购权，个人邮箱未核。",
+        "联系方式": "公司官网联系页公开 info@ip-net.co.il、03-6347050、03-6347060，地址 6 HaYotzrim / Carmel 9（页面地址存在写法差异，城市为 Or Yehuda）；主表的 +972 52-7502200 未由官网本轮复核。",
+        "竞合与我方适配": "该公司是有 OEM 和网络/安全集成能力的供应商/集成商，官网列 ORing 及 L2-L4 switch/PoE；对我方工业交换机属于可能的集成渠道，也存在现有产品竞争。无采购窗口证据。",
+        "合规边界": "官网提及防务客户和 OEM 防务终端；具体交易须核最终用户、最终用途和适用出口管制；这不是制裁名单命中结论。",
+        "本轮评级建议": "保留 C：业务相关，但已具多厂商网络产品和 OEM 能力，采购角色/产品缺口未知，且敏感最终用途须审查。"
+      },
+      "assessment": "保留 C。官网确认网络、安全、IP 电话与 OEM 集成，ORing 在伙伴清单，当前页面展示工业 PoE/交换机能力；此线索不足以证明其需要再增加一个交换机品牌。",
+      "kp": [
+        {
+          "name": "Haim Elishkov",
+          "role": "D&B 企业目录列 Key Principal/CEO，官网未确认",
+          "contact": "无已核个人邮箱；官方公司入口 info@ip-net.co.il / +972 3-6347050",
+          "status": "leads-only·第三方公司目录线索；先由公司确认现职与采购职责",
+          "source": "https://www.dnb.com/business-directory/company-profiles.ipnet_solutions_ltd.b76431e13f38bd553062d6e406280aaf.html"
+        },
+        {
+          "name": "Eli Mazuz",
+          "role": "ZoomInfo 员工目录列 Sales Manager，未由官网确认",
+          "contact": "无已核个人邮箱；公司入口 info@ip-net.co.il",
+          "status": "leads-only·第三方员工目录线索；需复核在职与职责",
+          "source": "https://www.zoominfo.com/c/ipnet-solutions-ltd/372553473"
+        }
+      ],
+      "facts": [
+        {
+          "dim": "公司定位与伙伴",
+          "text": "官网称其为通信、IT、安全、IP 电话与 OEM 集成公司，并列出 ORing、AudioCodes、Allied Telesis、Extreme、Arista 等伙伴。",
+          "quote": "IPNet Solutions ltd הינה חברת אינטגרציה המתמחה בתחומי התקשורת , IT, אבטחת המידע, טלפוניית IP ומגוון פתרונות OEM. ... החברה מייצגת ... Allied Telesis , Extreme , Arista ... ORing, AudioCodes.",
+          "url": "https://ip-net.co.il/%d7%90%d7%95%d7%93%d7%95%d7%aa/"
+        },
+        {
+          "dim": "网络产品范围",
+          "text": "官网将网络产品范围列为 L2/L3/L4 交换机、PoE、媒体转换器、光纤网卡、管理系统和 Wi‑Fi。",
+          "quote": "Lan Switches – L2/L3/L4 Switches · POE solutions – Switches, Media Converters, Power Injectors · Media Converters · Fiber Network Interface Cards · Managements Systems · Wireless Solutions – WiFi",
+          "url": "https://ip-net.co.il/%d7%90%d7%95%d7%93%d7%95%d7%aa/"
+        },
+        {
+          "dim": "OEM/敏感行业边界",
+          "text": "官网写明 OEM 方案服务防务、工业和高科技领域；可见部分防务/公共机构标识，仅作其公开营销材料，不当成已签合同或当前项目证明。",
+          "quote": "IPNet Solutions provides OEM (Original Equipment Manufacturing) solutions for customers in various sectors (defense, industry, high-tech and more).",
+          "url": "https://ip-net.co.il/%d7%90%d7%95%d7%93%d7%95%d7%aa/"
+        },
+        {
+          "dim": "官方联系方式",
+          "text": "官网联系页公开 Or Yehuda 地址、主电话、传真及 info 邮箱。",
+          "quote": "רחוב היוצרים 6, אור יהודה · 03-6347050 · 03-6347060 · info@ip-net.co.il",
+          "url": "https://ip-net.co.il/%d7%a6%d7%95%d7%a8-%d7%a7%d7%a9%d7%a8/"
+        },
+        {
+          "dim": "企业管理层线索（二级来源）",
+          "text": "D&B 企业页将 Haim Elishkov 列为 Key Principal/CEO；不得将该第三方岗位当作公司官网确认。",
+          "quote": "Key Principal: Haim Elishkov ... Chief Executive Officer",
+          "url": "https://www.dnb.com/business-directory/company-profiles.ipnet_solutions_ltd.b76431e13f38bd553062d6e406280aaf.html"
+        }
+      ],
+      "next_steps": [
+        "保留 C；如后续评估，只通过官网 info@ip-net.co.il 询问网络产品/渠道负责人及采购模式，先核其 ORing 产品与现有交换机 SKU。",
+        "复核主表 +972 52-7502200 的归属；不将未经官网确认的个人号码直接视为采购通道。",
+        "涉及 OEM 防务/公共安全终端时，交易前执行最终用户、最终用途与出口限制检查；没有明确民用采购需求则不推进。"
+      ],
+      "unknowns": [
+        "ORing 正式授权、区域和当前合作范围未取得厂商确认",
+        "自有品牌/贴牌产品的范围、销量与代工关系未核",
+        "Haim Elishkov、Eli Mazuz 当前任职和采购职责需复核",
+        "主表移动电话 +972 52-7502200 未在官网确认"
+      ],
+      "legacy_why": "【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评：①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：通用分销商信号，无差异化切入点，慢慢跟",
+      "revised_why": "公司代理 ORing 并提供交换机/PoE/OEM 集成，与我方工业网络产品重叠；采购需求未证实，敏感终端逐单合规审查，保持 C。",
+      "legacy_sub": "B下放·无邮箱（群发触达不到）",
+      "revised_sub": "竞合·ORing/OEM系统集成；最终用途待筛查"
+    },
+    {
+      "code": "C-007",
+      "name": "Comicon Ltd.",
+      "country": "保加利亚",
+      "researched_on": "2026-10-09",
+      "contact_summary": "comicon@comicon.bg / +359 2 9744324；移动电话 +359 888 983188、+359 889 635032；Sofia, Mladost 4, Alexander Paskalev St., Bitov Kombinat, floor 2。",
+      "dimensions": {
+        "法定主体与业务定位": "Comicon Ltd，Sofia，保加利亚；官网显示工业/楼宇/家居自动化，R&D、设备开发与项目集成。",
+        "产品/渠道组合": "HMS 官方 partner locator 将 Comicon 列为 Anybus、Red Lion、N-Tron 相关渠道；官网还展示自研/自有产品 TeleEco LoRa 工业信号传输模块、RTDtoMQTT 温度变送器、串行接口转换器及工业自动化方案。",
+        "目标场景": "能源监测、工业过程自动化、PLC/HMI/SCADA、楼宇自动化、LoRa/串口联网；官网案例包括多工厂能源管理、与电网运营商的 IEC 60870-5-104 数据传输等。",
+        "关键人KP": "本轮官网/制造商名录未核到现任具名采购或交换机产品负责人；先使用公司邮箱转接。2013 年伙伴登记中出现过市场联系人 Zhivka Koleva，但资料过旧，不列为当前 KP。",
+        "联系方式": "公司官网公开 comicon@comicon.bg、+359 2 9744324、+359 888 983188、+359 889 635032 及 Sofia 地址。",
+        "竞合与我方适配": "公司既做产品分销也做工业自动化项目，并涉及 Red Lion/N-Tron 与自有产品；与我方工业交换/接口产品有直接竞合或集成可能，但采购空位未证实。",
+        "本轮评级建议": "保留 C：已核到公司级公开邮箱，但现有渠道与自研产品重叠；按本次令只加厚研究，不自动升档或安排触达。"
+      },
+      "assessment": "保留 C。C-007 的旧“无邮箱”原因已被官网公开 comicon@comicon.bg 这一新证据覆盖；但不自动改级。其 HMS 渠道身份和自研工业自动化产品使现有供应与竞合边界需要先核。",
+      "kp": [],
+      "facts": [
+        {
+          "dim": "产品/研发业务",
+          "text": "Comicon 官网展示工业自动化与 IoT 产品，包括 TeleEco LoRa 信号传输、RTDtoMQTT 温度模块、工业串行接口转换器，以及能源管理和工程项目。",
+          "quote": "TeleEco - LoRa wireless transfer of analog and discrete industrial signals · RTDtoMQTT IIoT transmitter for temperature measurement · Turnkey industrial automation solutions.",
+          "url": "https://comicon.bg/en/about-us"
+        },
+        {
+          "dim": "官方 HMS 渠道信息",
+          "text": "HMS Networks 官方伙伴目录把 Comicon Ltd 列于保加利亚，并列 Anybus、Red Lion、N-Tron 产品品牌。",
+          "quote": "Anybus, Ewon, Red Lion, N-Tron — Comicon Ltd. — Bulgaria — Bitov combinat fl. 2, Alexander Paskalev str, Mladost 4, Sofia, 1715",
+          "url": "https://www.hms-networks.com/contact/find-distributor?indexCatalogue=partner-company&searchQuery=Comicon&wordsMode=AllWords"
+        },
+        {
+          "dim": "公司公开联系方式",
+          "text": "Comicon 官网联系页公开通用邮箱、总机、移动电话和 Sofia 地址。",
+          "quote": "Е-мейл: comicon@comicon.bg · Телефон: 02 9744324 · Мобилен: 0888 983188, 0889 635032 · София 1715, жк \"Младост 4\", ул. \"Александър Паскалев\", Битов комбинат, ет.2",
+          "url": "https://comicon.bg/bg/contact-form"
+        },
+        {
+          "dim": "工程/应用证据",
+          "text": "官网项目页列工业自动化、能源管理与向电力网络运营商传输 IEC 60870-5-104 数据等项目。",
+          "quote": "Transmission of data to power distribution network operator by HMS SG gateway using IEC60870-5-104 protocol. · Energy management system for 6 plants.",
+          "url": "https://comicon.bg/en/about-us"
+        }
+      ],
+      "next_steps": [
+        "将 comicon@comicon.bg 作为已找到的公司级工作入口写入 MD；暂保留 C 等级，不据新邮箱自行改变主表分层。",
+        "若用户后续要评估，询问工业交换机品类负责人、Red Lion/N-Tron 当前合作合同及自研产品覆盖范围。",
+        "确认采购与集成项目是自用、转售还是方案集成；若同类产品已覆盖且无第二来源窗口，维持 C。"
+      ],
+      "unknowns": [
+        "现任采购/交换机产品负责人未具名核实",
+        "Red Lion/N-Tron 代理合同与可引入第二品牌的限制未核",
+        "TeleEco 等自有产品的销售量和供货能力未核"
+      ],
+      "legacy_why": "【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评：①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：通用分销商信号，无差异化切入点，慢慢跟",
+      "revised_why": "HMS/Red Lion/N-Tron 渠道并有自研工业自动化产品；虽已找到公司邮箱，但渠道重叠、采购窗口未证实，不自动升档。",
+      "legacy_sub": "B下放·无邮箱（群发触达不到）",
+      "revised_sub": "竞合·HMS渠道与自研工业产品；采购空位未证"
+    },
+    {
+      "code": "C-008",
+      "name": "Rittbul",
+      "country": "保加利亚",
+      "researched_on": "2026-10-09",
+      "contact_summary": "e-shop@rittbul.bg / +359 2 439 7845（Sofia）；电商支持电话 +359 895 586 285；另有 Plovdiv 办事点。",
+      "dimensions": {
+        "法定主体与业务定位": "Ритбул ЕООД / Rittbul，保加利亚工业自动化、工业通信及电气设备进口商/经销商；官网提供 Sofia 与 Plovdiv 两地门店/办公点。",
+        "产品线与合作品牌": "公司官网列 ABB、ETI、WAGO、FESTO、EPLAN、HARTING、WESTERMO 等；Westermo 官方渠道页列 Rittbul 为 Bulgaria Reseller，本地库存、基础技术支持。",
+        "工业网络范围": "Rittbul 的 Westermo 页面列工业 Ethernet、管理/非管理交换机、PoE、光纤、DSL、路由器与交通/水务/能源/采矿/油气等应用。",
+        "关键人KP": "本轮未核到负责工业通信/Westermo 类目的现任采购联系人；官网产品页面曾出现 Rumyana Krasteva，但她标注负责工业连接器、测试设备、电气设计软件，不据此当作交换机 KP。",
+        "联系方式": "官方电商联系页公开 e-shop@rittbul.bg、Sofia 地址 St. L. Kostov 16, fl. 2、+359 2 439 7845 / +359 895 586 285；Plovdiv 另有地址和电话。",
+        "竞合与我方适配": "Westermo 在工业网络、铁路、电力及宽温交换机上是强势已售品牌，构成直接竞合；我方只可能作为明确的规格补充/第二来源，暂无证据表明对方需要更换或新增品牌。",
+        "本轮评级建议": "保留 C：高度相关但已有 Westermo 工业网络组合和技术支持，未见明确采购缺口。"
+      },
+      "assessment": "保留 C。C-008 的公司、Westermo 渠道、库存/基础支持和公司级邮箱电话已由官网及 Westermo 官方目录确认；尚未找到工业通信品类的具名 KP 或补充品牌需求。",
+      "kp": [],
+      "facts": [
+        {
+          "dim": "企业定位/产品品牌",
+          "text": "Rittbul 官网称其为电气设备、自动化组件和工业通信的授权进口商/经销商，并列出 ABB、ETI、WAGO、FESTO、EPLAN、HARTING、Westermo。",
+          "quote": "Ритбул ЕООД е оторизиран вносител и търговец на електроапаратура, компоненти за автоматизация и индустриална комуникация ... ABB, ETI, WAGO, FESTO, EPLAN, HARTING и WESTERMO.",
+          "url": "https://rittbul.bg/"
+        },
+        {
+          "dim": "Westermo 渠道身份",
+          "text": "Westermo 官方 Where-to-buy 页面将 Rittbul 列为保加利亚 reseller，含本地库存与基础技术支持。",
+          "quote": "Bulgaria · Reseller · Local stock · Basic technical support · Rittbul · Tel: +359 2 439 78 45 · Web: www.rittbul.bg",
+          "url": "https://www.westermo.com/contact/where-to-buy"
+        },
+        {
+          "dim": "工业网络产品范围",
+          "text": "Rittbul 官方 Westermo 页面列工业交换机、PoE、管理型交换机、IEC 61850 变电站交换机和 EN 50155 铁路交换机。",
+          "quote": "Индустриални PoE суичове · IEC 61850-3 Ethernet суичове за подстанции · EN 50155 Ethernet суичове · Управляеми индустриални суичове",
+          "url": "https://rittbul.bg/solutions/industrialna-komunikacia/westermo"
+        },
+        {
+          "dim": "官方联系渠道",
+          "text": "Rittbul 官方网店联系页列 Sofia、Plovdiv 两地办公地址和 e-shop@rittbul.bg。",
+          "quote": "София · ул. Ст. Л. Костов 16, ет. 2 · e-shop@rittbul.bg · +359 2 439 7845 · Пловдив · e-shop@rittbul.bg",
+          "url": "https://shop.rittbul.bg/pages/%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B8"
+        }
+      ],
+      "next_steps": [
+        "保留 C；如用户后续安排渠道评估，用 e-shop@rittbul.bg 请求转接工业通信/交换机产品经理，不直接假设产品经理可批准采购。",
+        "核查其现有 Westermo 产品覆盖、最低采购/框架条款及是否有未覆盖规格；没有明确空位则停止投入。",
+        "如日后考虑竞品合作，区分 Westermo 的既有授权/客户承诺与可补充的不同档位，不以泛化低价切入。"
+      ],
+      "unknowns": [
+        "Westermo 现行代理合同的区域、折扣和排他条款未核",
+        "负责交换机/Westermo 的产品经理及采购职责未确认",
+        "各类工业交换机库存、销量和采购周期未知"
+      ],
+      "legacy_why": "【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评：①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：通用分销商信号，无差异化切入点，慢慢跟",
+      "revised_why": "Westermo reseller 有本地库存及工业 PoE/管理交换机产品，已存在直接品牌覆盖；无第二来源需求证据，保持 C。",
+      "legacy_sub": "B下放·无邮箱（群发触达不到）",
+      "revised_sub": "竞合·Westermo本地库存；现有品类覆盖待核"
+    },
+    {
+      "code": "C-009",
+      "name": "Pondi d.o.o.",
+      "country": "克罗地亚",
+      "researched_on": "2026-10-09",
+      "contact_summary": "prodaja@mikrotik-hrvatska.com / +385 (0)21 494-020 / Pondi d.o.o., Skradinska 11 (head office Ostravska 8), 21000 Split, Croatia",
+      "dimensions": {
+        "法定主体与业务定位": "Pondi d.o.o.，克罗地亚 Split；公司官网自述为克罗地亚较早的 web-hosting provider，同时运行 MikroTik Hrvatska 批发网店。公司官网联系页列 OIB 62781739468、MBS 060121488，并列 Domagoj Bikić 为董事。",
+        "渠道/销售模式": "MikroTik Hrvatska 网店条款明确卖方是 Pondi d.o.o.，面向注册经营者的批发网店；商品分类覆盖 MikroTik switches、routers、wireless 等。第三方 MikroTik reseller 名录把 Pondi 标为 Master Distributor，当前厂商官方渠道级别应再确认。",
+        "关键人KP": "Domagoj Bikić：公司官网列董事，另有既有 A-372 自然人顾问档及 R50 重复提示。此前记录决策为‘相关但不合并，待用户裁决’；本轮继续保留 A-372/C-009 两档，不自行合并。",
+        "联系方式": "Pondi 官网公开 +385 (0)21 494-020，工作日 08:00—16:00、Split 地址；其网店条款公开 prodaja@mikrotik-hrvatska.com。主表仍存旧号码 +385 21 494 000，存在号码差异，以公司当前联系页为准并发前复核。",
+        "竞合与我方适配": "MikroTik Master reseller/批发店，交换机渠道与我方品牌可能既有竞争又有补充空间；其主要网站为托管服务、网店为 MikroTik 批发，须区分同一法人下业务线。",
+        "本轮评级建议": "保留 C，不自动并档/升档：有强销售渠道及董事触点，但现有 MikroTik 线完整、R50 重复提示尚未裁决，需由用户决定是否合并 A-372。"
+      },
+      "assessment": "保留 C 与 A-372 双档，严格遵循 R50‘只记录、不合并，待用户裁决’。Pondi d.o.o. 与 Domagoj Bikić 的法人/关联关系已由公司网站支持；确认其批发网店和公司级邮件，但不据此修改评级或合并实体。",
+      "kp": [
+        {
+          "name": "Domagoj Bikić",
+          "role": "Pondi 官网列公司董事（director）",
+          "contact": "公司电话 +385 (0)21 494-020；批发销售邮箱 prodaja@mikrotik-hrvatska.com",
+          "status": "official-company-page·现职由公司官网自述；A-372 同名顾问关联档按历史决定不合并",
+          "source": "https://www.pondi.hr/kontakt/"
+        }
+      ],
+      "facts": [
+        {
+          "dim": "法人信息/董事",
+          "text": "Pondi 官网列公司名称、Split 地址、OIB/MBS 及 Domagoj Bikić 董事身份。",
+          "quote": "Pondi d.o.o. · Skradinska 11 (sjedište Ostravska 8) · 21000 Split · OIB: 62781739468 · MBS: 060121488 · Članovi društva: Domagoj Bikić (direktor)",
+          "url": "https://www.pondi.hr/kontakt/"
+        },
+        {
+          "dim": "批发店法律主体/销售邮箱",
+          "text": "MikroTik Hrvatska 商店条款明示卖方为 Pondi d.o.o.，网店由其经营；批发买家需为注册经营主体，销售邮箱为 prodaja@mikrotik-hrvatska.com。",
+          "quote": "Prodavatelj - trgovačko društvo Pondi d.o.o., Ostravska 8, Split, OIB: 62781739468 koji djelatnost veleprodaje obavlja pod nazivom www.mikrotik-hrvatska.com ... e-mail: prodaja@mikrotik-hrvatska.com",
+          "url": "https://www.mikrotik-hrvatska.com/conditions.html"
+        },
+        {
+          "dim": "MikroTik 产品线",
+          "text": "Pondi 自营的 MikroTik Hrvatska 网站含 MikroTik switch、router 等产品分类；条款说明其面向转售商/经营者的批发购买。",
+          "quote": "Kupac može biti samo pravna ili fizička osoba koja obavlja neku registriranu ili zakonom određenu djelatnost i koja će kupovati robu za daljnju prodaju.",
+          "url": "https://www.mikrotik-hrvatska.com/conditions.html"
+        },
+        {
+          "dim": "Reseller级别线索（第三方列表）",
+          "text": "第三方 AltoStrat 的克罗地亚 reseller 列表将 Pondi 标为 Master Distributor；当前 MikroTik 官方渠道级别仍需制造商目录复核。",
+          "quote": "Pondi d.o.o. · Master Distributors · Split, Croatia · +385 21 494000",
+          "url": "https://altostrat.io/buying/hardware/resellers/europe/croatia/"
+        },
+        {
+          "dim": "关联档提醒（仓内历史决定）",
+          "text": "R50 批已提示 C-159 Pondi d.o.o. 与 A-372 Domagoj Bikic 同域 pondi.hr、疑似同一实体；既有处理为仅记录、不合并、等待用户裁决。此关联来自库内历史记录，不据此覆盖公司官网事实。",
+          "quote": "【2026-09-28 R50 去重提示】与 A-372（同域名 pondi.hr）→ 疑似同一实体；按既有规则只记录、不合并，A 级行保留，本行维持 C 待用户裁决。",
+          "url": "https://www.pondi.hr/kontakt/"
+        }
+      ],
+      "next_steps": [
+        "继续保留 A-372 与 C-009 两份档案，不合并；待用户单独裁决实体合并问题。",
+        "如用户选择开发渠道，先由 prodaja@mikrotik-hrvatska.com 转接批发采购/品牌负责人，确认当前 MikroTik 分销等级、交换产品进货模式和潜在第二品牌政策。",
+        "用官网最新电话号码 +385 (0)21 494-020 复核主表旧号码差异；没有对外采购窗口则继续维持 C。"
+      ],
+      "unknowns": [
+        "Pondi 当前 MikroTik 官方 Master Distributor 级别需回官方目录确认",
+        "A-372 自然人档与本公司实体关系由用户决定是否合并，本轮不改",
+        "产品采购规模、品牌合同限制及工业交换机产品线空缺未知",
+        "主表号码 +385 21 494 000 与官网 +385 (0)21 494-020 需联系前复核"
+      ],
+      "legacy_why": "【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评：①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：通用分销商信号，无差异化切入点，慢慢跟",
+      "revised_why": "Pondi d.o.o. 有 MikroTik 批发网店且与 A-372 存在历史关联提示；按既有决定不合并，采购空位待核，保持 C。",
+      "legacy_sub": "B下放·无邮箱（群发触达不到）",
+      "revised_sub": "竞合/关联·MikroTik批发；A-372关联待用户裁决"
+    },
+    {
+      "code": "C-010",
+      "name": "Microstar",
+      "country": "克罗地亚/斯洛文尼亚",
+      "researched_on": "2026-10-09",
+      "contact_summary": "info@microstar.hr / westermo@microstar.si / +385 1 3647 849；Microstar d.o.o., Siget 18b, 10020 Zagreb, Croatia；其渠道覆盖 Slovenia。",
+      "dimensions": {
+        "法定主体与业务定位": "Microstar d.o.o.，登记及总部在 Zagreb, Croatia；公司官网 contact 页面列 OIB 71564583769、MBS 080197845、1993 年注册。公司自述从事工业、交通和能源自动化的设备分销、方案实施与设计。",
+        "渠道与产品品牌": "公司官网自述为 Westermo、WAGO、ELPRO 授权分销商；Croatia 官网显示 2026 产品新闻。Slovenia 官网注明自 2013 年起亦为 Slovenia 的 Westermo distributor。Westermo 当前官方目录列 Croatia 与 Slovenia Bronze distributor、本地库存和基础/认证支持。",
+        "业务场景": "官网展示海事、道路交通、铁路、能源等自动化专案；Westermo 交换机、路由器、PoE、铁路/电力网络设备有明确行业使用场景。",
+        "关键人KP": "公开官网未在本轮页面核到具名采购/网络产品负责人；D&B 二级资料列 Nermin Cepic 为主要负责人候选，不将其视为已确认的采购决策人。",
+        "联系方式": "官网公开 info@microstar.hr、Westermo 专用邮箱 westermo@microstar.si、+385 1 3647 849；Zagreb, Siget 18b/polukat。",
+        "竞合与我方适配": "Westermo Bronze distributor，在 Croatia 与 Slovenia 两地备货并有认证技术支持，属于成熟工业交换机/网络方案渠道，直接竞争很强；没有其引入第二品牌或产品空档的证据。",
+        "本轮评级建议": "保留 C：现有授权品牌和双国分销能力清晰，范围外原因与合作空间均未改；只完成资料加厚，不自动升档/触达。"
+      },
+      "assessment": "保留 C。公司官网及 Westermo 官方名录都证实其 Croatia/Slovenia 代理关系、产品范围和支持能力；当前已是成熟工业网络渠道，尚无可证实的供应缺口。",
+      "kp": [
+        {
+          "name": "Nermin Cepic",
+          "role": "D&B 企业目录列 Microstar d.o.o. 主要负责人，官网未确认",
+          "contact": "未核实个人工作邮箱；公司渠道 info@microstar.hr / westermo@microstar.si / +385 1 3647 849",
+          "status": "leads-only·第三方企业目录线索；不等同采购 KP",
+          "source": "https://www.dnb.com/business-directory/company-profiles/microstar-doo.aaeabbf8a5950335431ed7a11e134960"
+        }
+      ],
+      "facts": [
+        {
+          "dim": "法定信息与联系人通道",
+          "text": "Microstar d.o.o. 官网联系页列 Zagreb 地址、电话、OIB、MBS 和 1993 年登记时间；通用邮箱以网站图标/链接呈现，首页另公布 info@microstar.hr。",
+          "quote": "MICROSTAR d.o.o. ... Siget 18b/polukat, HR - 10020 Zagreb, Hrvatska · Telefon: +385 1 3647 849 · OIB: 71564583769 · MBS: 080197845 · Registrirano 1993. g. na Trgovačkom sudu u Zagrebu",
+          "url": "https://www.microstar.hr/kontakt.htm"
+        },
+        {
+          "dim": "官方分销业务",
+          "text": "Microstar 官网自述在工业、交通与能源自动化领域经营，自 1993 年开展相关业务，并为 Westermo、WAGO、ELPRO 授权分销商。",
+          "quote": "Poduzeće MICROSTAR d.o.o. iz Zagreba se od 1993. godine bavi automatizacijom u industriji, prometu i energetici kao distributer vrhunske opreme ... Ovlašteni smo distributeri firmi WESTERMO, WAGO i ELPRO Technologies.",
+          "url": "https://www.microstar.hr/"
+        },
+        {
+          "dim": "斯洛文尼亚覆盖",
+          "text": "Microstar 的斯洛文尼亚网站注明其自 2013 年起也作为 Westermo Slovenia distributor；与 Croatia 同一 MICROSTAR d.o.o. 品牌/总部信息相连，地域记录仍需按法人而非国家简称理解。",
+          "quote": "Distributer Westermo opreme za Slovenijo · postavljeno 01.11.2013.",
+          "url": "https://www.microstar.si/"
+        },
+        {
+          "dim": "制造商官方渠道地位",
+          "text": "Westermo 当前 Where-to-buy 页面将 Microstar 列为 Croatia 与 Slovenia 的 Bronze distributor；列出本地库存、基础技术支持、认证技术支持。",
+          "quote": "Croatia · Bronze distributor · Local stock · Basic technical support · Certified technical support · Microstar ... Slovenia · Bronze distributor · Local stock · Basic technical support · Certified technical support · Microstar",
+          "url": "https://www.westermo.com/contact/where-to-buy"
+        },
+        {
+          "dim": "公开邮件通道",
+          "text": "Microstar Croatia/Slovenia 官网公开一般咨询邮箱及 Westermo 专用邮箱，便于按品牌职能分流。",
+          "quote": "e-mail: westermo@microstar.si · info@microstar.hr",
+          "url": "https://www.microstar.si/"
+        }
+      ],
+      "next_steps": [
+        "保留 C；维持两国主体边界，不因 Slovenia coverage 另建第三个客户档。",
+        "如未来评估，只向 Westermo 专用邮箱确认其 Westermo 现有合同/市场边界与其他品牌补充政策；不对其既有客户宣称未证实的产品差异。",
+        "Nermin Cepic 仅为第三方目录负责人线索，联系前先由公司渠道确认其现职和采购职责；没有缺口则维持 C。"
+      ],
+      "unknowns": [
+        "Westermo 合作协议的排他性/国家分销边界未核",
+        "产品采购量、库存深度和引入第二品牌的政策未知",
+        "Nermin Cepic 现职和采购决策权需公司确认"
+      ],
+      "legacy_why": "【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评：①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：通用分销商信号，无差异化切入点，慢慢跟",
+      "revised_why": "Microstar 为 Croatia/Slovenia Westermo Bronze distributor，工业网络产品与我方直接重叠且超出主力市场优先级；保持 C。",
+      "legacy_sub": "B下放·无邮箱（群发触达不到）",
+      "revised_sub": "竞合·Westermo Croatia/Slovenia Bronze分销"
+    }
+  ]
+}

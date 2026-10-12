@@ -5,7 +5,7 @@
 规则来源：用户汇总的外部评审意见（R56 外审反馈）——可吸取项已并入本节与
 docs/rules/客户档案结构与内容规则.md。
 
-v2 结构（A 类专用；B/C 走旧模板不动）：
+v2 结构（A 类专用；B/C 基础版沿用旧模板；B 深挖户用 R56 渲染，C 档保留 R70 深度调研并可追加 R72 现状复核）：
   SALES BRIEF（压缩模型）→ 基本事实（事实/推断/假设分层）→ 技术与在用 →
   需求与场景 → HR 与规模信号 → 联系方式 → 关键人 KP → 跟进步骤（最多3）→
   R54 调研要点 → R55 再发掘要点 → 产品决策（P1/备选，单一决策口径）→ SWOT →
@@ -32,13 +32,23 @@ for _tp in sorted(ROOT.glob('batch/contact_research_*.json')):
         if _r.get('code') and _r.get('level'):
             TIER[_r['code']] = _r['level']
 
-# 2026-09-29 用户实测退信台账 + 关联实体群（复盘波）
+# 用户实测退信台账；按「客户代码 + 精确收件地址」累积，后续同址事件更新该地址，
+# 但不同地址的回执不会互相覆盖。没有客户代码的群组记录单独保留，不误挂到相似实体。
 BOUNCE = {}
-# 2026-10-09 起改为 glob 扫描 batch/邮件退信_*.json（sorted，晚文件覆盖早文件同 code）
+BOUNCE_UNMAPPED = []
 for _bf in sorted(ROOT.glob('batch/邮件退信_*.json')):
     try:
-        for _br in json.loads(_bf.read_text(encoding='utf-8'))['records']:
-            BOUNCE[_br['code']] = _br
+        _bobj = json.loads(_bf.read_text(encoding='utf-8'))
+        for _br in _bobj.get('records', []):
+            _code = _br.get('code')
+            if not _code:
+                BOUNCE_UNMAPPED.append(_br)
+                continue
+            _recipient = (_br.get('email')
+                          or (_br.get('bounced') if '@' in str(_br.get('bounced', '')) else None)
+                          or _br.get('bounced') or _br.get('type') or _bf.name)
+            BOUNCE.setdefault(_code, {})[str(_recipient).casefold()] = _br
+        BOUNCE_UNMAPPED.extend(_bobj.get('unmatched_records', []))
     except Exception:
         continue
 GROUPS = {}
@@ -277,24 +287,37 @@ def render(e, ctx):
     w('')
 
     # ---- 关键人 KP ----
-    _bc = BOUNCE.get(e['code'])
-    if _bc:
+    _bcs = BOUNCE.get(e['code'], {})
+    if _bcs:
         w('')
-        _btype = _bc.get('type')
-        if _bc.get('bounced') == 'watch':
-            w('- **退信实测（%s）**：`%s` %s（%s）→ 观察期暂不停用；备选通道已备: %s'
-              % (_bc.get('date', '2026-09-29'), _bc.get('email', '—'),
-                 '临时投递失败,观察中',
-                 _bc.get('detail', '').split('（')[0], '；'.join(_bc.get('alternates', [])) or '具名 KP/官网表单'))
-        else:
-            _blbl = ('服务器拒收' if _btype == 'blocked'
-                     else '地址不存在' if _btype == 'not-found'
-                     else '观察期满转永久')
-            w('- **退信实测（%s）**：`%s` %s（%s）→ 停用该地址；替代通道：%s'
-              % (_bc.get('date', '2026-09-29'), _bc['bounced'],
-                 _blbl, _bc.get('detail', '').split('（')[0],
-                 '；'.join(_bc.get('alternates', []))))
-        w('  > 处置：%s' % _bc.get('action', ''))
+        for _bc in _bcs.values():
+            _btype = _bc.get('type')
+            if _bc.get('delivery_status'):
+                _date = _bc.get('date_time') or _bc.get('date') or '日期未提供'
+                _email = _bc.get('email') or _bc.get('bounced') or '（未提供收件地址）'
+                w('- **邮件回执（%s）**：`%s` — %s' % (_date, _email, _bc['delivery_status']))
+                if _bc.get('source'):
+                    w('  > 来源：%s' % _bc['source'])
+                if _bc.get('detail'):
+                    w('  > 证据：%s' % _bc['detail'])
+                if _bc.get('alternates'):
+                    w('  > 其他可用通道（非本次退信地址）：%s' % '；'.join(_bc['alternates']))
+                w('  > 处置：%s' % _bc.get('action', ''))
+            elif _bc.get('bounced') == 'watch':
+                w('- **退信实测（%s）**：`%s` %s（%s）→ 观察期暂不停用；备选通道已备: %s'
+                  % (_bc.get('date', '2026-09-29'), _bc.get('email', '—'),
+                     '临时投递失败,观察中',
+                     _bc.get('detail', '').split('（')[0], '；'.join(_bc.get('alternates', [])) or '具名 KP/官网表单'))
+                w('  > 处置：%s' % _bc.get('action', ''))
+            else:
+                _blbl = ('服务器拒收' if _btype == 'blocked'
+                         else '地址不存在' if _btype == 'not-found'
+                         else '观察期满转永久')
+                w('- **退信实测（%s）**：`%s` %s（%s）→ 停用该地址；替代通道：%s'
+                  % (_bc.get('date', '2026-09-29'), _bc.get('bounced', '—'),
+                     _blbl, _bc.get('detail', '').split('（')[0],
+                     '；'.join(_bc.get('alternates', []))))
+                w('  > 处置：%s' % _bc.get('action', ''))
 
     w('## 关键人（KP）与触达通道')
     w('')

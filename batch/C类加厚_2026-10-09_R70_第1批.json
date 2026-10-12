@@ -1,0 +1,417 @@
+{
+  "date": "2026-10-09",
+  "round": "R70 第 1 批（C-001—C-002）",
+  "scope": "用户令：剔除中国公司后，其余 C 类按 A/B 模式逐户调研加厚、全部写入 MD；保持原评级，除非另令复筛。本批依当前重编号顺序核查 C-001 Bross Engineering ApS、C-002 DANBIT A/S。结论、KP、业务/产品/联系方式、证据原文、风险与待核事项均由 make_profiles.py 渲染入对应 profile/C MD。",
+  "records": [
+    {
+      "code": "C-001",
+      "name": "Bross Engineering Aps",
+      "country": "丹麦",
+      "researched_on": "2026-10-09",
+      "dimensions": {
+        "法定主体与规模": "Bross Engineering ApS，丹麦 Ballerup；CVR 31888948（二级企业目录所列）。同名地址还存在 Bross Electric v/Claus H. Bross（另一 CVR 26724597）；不可将两个登记主体混并。公司规模/采购规模未由一手资料核实。",
+        "业务定位": "工业电子、电机/电气、工业通信与控制领域的工程贸易商/工程公司；官网称提供按客户要求的设计、组件及系统交付、标准品与定制解决方案。",
+        "产品线与在售品牌": "官网列 Red Lion、N-Tron、Sixnet；HMS Networks 官方渠道定位器将其列为丹麦 Red Lion / N-Tron partner，支持售前及售后。产品类别含全管理/非管理工业交换机、PoE 交换机、媒体转换器、电源与线缆。",
+        "目标行业与场景": "官网列能源、交通、通信、工业制冷/自由冷却；工业 IT 页面举风电、发电厂、铁路、船舶、航空、公路/铁路设施等应用。",
+        "关键人KP": "Claus Herbert Bross：丹麦企业目录称其为 Bross Engineering ApS 董事；官网未显示具名采购负责人，也未公示其个人邮箱。属二级来源线索，正式对接先用公司通用邮箱转接。",
+        "联系方式": "官网公开 info@bross.dk、+45 72 42 19 26；地址 Solbrinken 15, 2750 Ballerup, Denmark。",
+        "竞合与我方适配": "现有 Red Lion/N-Tron 工业交换机组合与我方工业交换产品存在直接重叠，不宜当作无竞品的空白分销客户。只有在其明确寻找补充规格/第二来源/定制方案时才有继续价值；采购意愿、合作开放度及对应 SKU 缺口均未证实。",
+        "本轮评级建议": "保留 C（不自动升 A/B）：已有工业交换产品和渠道，客户/竞争方边界与新增供应商空间尚不清楚；未发现明确采购触发信号。"
+      },
+      "assessment": "保留 C。公司和触点已核；业务对口但 Red Lion/N-Tron 现有线与我方存在竞合，暂无已证实的产品缺口或采购意向。不要据此直接群发个人邮件。",
+      "kp": [
+        {
+          "name": "Claus Herbert Bross",
+          "role": "二级丹麦企业目录列为 Bross Engineering ApS 董事（官网未具名确认）",
+          "contact": "未见个人工作邮箱；公司公开入口 info@bross.dk / +45 72 42 19 26，先请转接工业网络产品负责人",
+          "status": "leads-only·二级企业目录线索；职务须由公司确认，个人触达前先 opt-in",
+          "source": "https://www.degulesider.dk/bross+engineering+aps+ballerup/66016178/firma"
+        }
+      ],
+      "facts": [
+        {
+          "dim": "公司定位与能力",
+          "text": "官网自述为贸易与工程公司，服务工业客户，涉及电子、电机/电气、工业通信与控制；团队包括弱电/强电工程师及授权电气安装人员。",
+          "quote": "Bross Engineering ApS er et Handels- og Ingeniørfirma. Vi henvender os til Industrien, hvor vi hjælper med nye design og leverance af komponenter og systemer indenfor elektronik, elektromekanik samt Industriel Kommunikation og Kontrol.",
+          "url": "https://bross.dk/"
+        },
+        {
+          "dim": "行业与方案",
+          "text": "官网列出的经验领域包括能源、交通、通信、工业制冷与自由制冷；同时提供标准品和客户定制方案。",
+          "quote": "Vi har mange års erfaring i branchen, med specifik viden indenfor områderne energi, transport, kommunikation samt industriel køling og frikøling. ... Vi forhandler standard varer og tilbyder kundespecifikke løsninger.",
+          "url": "https://bross.dk/"
+        },
+        {
+          "dim": "交换品牌与产品类别",
+          "text": "Bross 官网工业 IT 页面列出 Red Lion、N-Tron、Sixnet，并介绍工业以太网交换机及 PoE、媒体转换器等类别；页面还写到严苛工业应用。该页面内容可能较旧，具体现售型号需再核。",
+          "quote": "REDLION N-TRON SIXNET ... I programmet findes: Fully Managed Switches, Un-managed Switches (with N-View), POE Switches, Media Converters, Power Supplies, cables, connectors etc.",
+          "url": "https://bross.dk/industriel-kommunikation/"
+        },
+        {
+          "dim": "官方渠道身份",
+          "text": "HMS Networks 官方 partner locator 将 Bross Engineering Aps 列为丹麦 Red Lion、N-Tron partner，并标注售前及售后支持。",
+          "quote": "Red Lion, N-Tron — Bross Engineering Aps — Denmark — Available support: Pre-sales support | After-sales support",
+          "url": "https://www.hms-networks.com/contact/find-distributor?indexCatalogue=partner-company&searchQuery=Bross%20Engineering&wordsMode=AllWords"
+        },
+        {
+          "dim": "官方触点",
+          "text": "公司联系页公开通用邮箱 info@bross.dk，并设联系表单；主站列出 Ballerup 地址和电话。",
+          "quote": "send us an email at info@bross.dk or fill out the contact form",
+          "url": "https://bross.dk/kontakt-os/"
+        },
+        {
+          "dim": "法定主体/KP线索（二级来源）",
+          "text": "De Gule Sider 企业目录列示 BROSS ENGINEERING ApS、CVR 31888948 及董事 Claus Herbert Bross；另有 Bross Electric 独资主体，不可与本档法人混同。",
+          "quote": "Juridisk navn BROSS ENGINEERING ApS ... CVR-nr: 31888948 ... Direktør Claus Herbert Bross",
+          "url": "https://www.degulesider.dk/bross+engineering+aps+ballerup/66016178/firma"
+        }
+      ],
+      "next_steps": [
+        "保留 C；如用户决定继续开拓，只从 info@bross.dk 询问负责工业交换机/渠道合作的对接人及是否接受补充品牌，不向未核实的个人地址发送邮件。",
+        "核验其当前 N-Tron/Red Lion 在售型号与合同/品牌限制，重点找产品线缺口；如果现有组合覆盖同一规格且不接受第二来源，停止投入。",
+        "需另核：Claus Herbert Bross 是否仍任职、现售型号/销售区域、采购决策链、对外引入新品牌的政策；没有回复或具体缺口则维持 C。"
+      ],
+      "unknowns": [
+        "公司规模与当前采购/销售额未核",
+        "Claus Herbert Bross 的现职未由公司官网确认",
+        "Red Lion/N-Tron/Sixnet 页面可能较旧，现行授权与 SKU 需向 HMS/Bross 双方复核",
+        "是否存在可兼容的第二品牌/私牌采购需求未知"
+      ],
+      "legacy_contact": "官网联系页（HMS 名录只公开地址与网址）",
+      "contact_summary": "info@bross.dk / +45 72 42 19 26 / Solbrinken 15, 2750 Ballerup, Denmark",
+      "legacy_why": "【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评：①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：通用分销商信号，无差异化切入点，慢慢跟",
+      "revised_why": "现有 Red Lion/N-Tron 工业交换机渠道，与我方存在直接竞合；第二来源或补充 SKU 需求未证实，保持 C。",
+      "legacy_sub": "B下放·无邮箱（群发触达不到）",
+      "revised_sub": "竞合·Red Lion/N-Tron 已有线，采购窗口待核"
+    },
+    {
+      "code": "C-002",
+      "name": "Danbit",
+      "country": "丹麦",
+      "researched_on": "2026-10-09",
+      "dimensions": {
+        "法定主体与经营年限": "DANBIT / Dansk Binær Teknik A/S，丹麦私营技术供应商；官网自述 1970 年成立。CVR/Virk 来源的 Proff 企业页列明 DANSK BINÆR TEKNIK A/S，CVR 78788216，地址 Værkstedsvej 39, 4600 Køge；DANBIT A/S 与生产单位名称需按该 CVR 口径识别。",
+        "客户与渠道模式": "官网明确 B2B only；自述有 Køge 自有仓库并配送现货，服务不同规模企业，提供技术建议、工程支持、系统集成与定制方案。",
+        "产品线与在售品牌": "官网自述产品超过 6,000 种，网络品类包括交换机、串口服务器、媒体转换器、AP、路由器、SFP、PoE 电源等；工业交换分类页列 41 个产品，包含 Moxa EDS-205 与 DANBIT 编号产品。",
+        "交换机重叠与技术规格": "存在直接同类竞争：在售 Moxa EDS-205（5 口 10/100 非管理、DIN、12–48VDC/18–30VAC、-10~60°C）；另列 24 口千兆管理型 PoE++ 交换机、4 个最高 10G SFP 槽，PoE++ 最大 90W/端口。",
+        "关键人KP": "Proff（标注数据源 CVR/Virk）列 Peter Grubb Jensen 为行政董事；官网联系页未给个人邮箱。只作二级公开职业线索，优先通过丹麦公司销售邮箱转接采购/网络产品负责人。",
+        "联系方式": "丹麦产品页页脚列 +45 56 66 20 20、salg@danbit.dk、Værkstedsvej 39, 4600 Køge、CVR 78788216。注意：直接抓取 /en/contact-us 曾返回瑞典 Binär Teknik AB（另一独立分支）联系方式，不能把瑞典实体邮箱/电话误写给丹麦档。",
+        "竞合与我方适配": "直接售卖工业交换机、PoE++、万兆上联以及 Moxa 等成熟品牌；现售 SKU 与我方主推规格高度重叠，暂未证实其缺货、第二来源或替换意向。",
+        "本轮评级建议": "保留 C（不自动升 A/B）：广而深的工业网络产品库和现有交换机/PoE++ 产品说明其业务相关，但竞争与采购门槛高，尚无具体采购信号。"
+      },
+      "assessment": "保留 C。确认这是 B2B 工业电子供应商，且确有工业交换机、Moxa EDS-205 与 24 口 PoE++/10G 上联产品；现有组合与我方重叠，暂无已证实的产品空位。",
+      "kp": [
+        {
+          "name": "Peter Grubb Jensen",
+          "role": "Proff（CVR/Virk 来源）列为 DANSK BINÆR TEKNIK A/S 行政董事",
+          "contact": "未找到经公司官方确认的个人工作邮箱；丹麦公司通道 salg@danbit.dk / +45 56 66 20 20",
+          "status": "leads-only·二级职业目录线索；先走公司邮箱转接，不以瑞典分支联系信息代替",
+          "source": "https://www.proff.dk/firma/dansk-bin%C3%A6r-teknik-as/k%C3%B8ge/elektronik-og-telekommunikationsudstyr/GLA0WLI10MY"
+        }
+      ],
+      "facts": [
+        {
+          "dim": "企业定位与年限",
+          "text": "DANBIT 官网称其为丹麦私营技术供应商，1970 年成立；由电子测量设备发展至工业计算机/特殊产品供应。",
+          "quote": "Dansk Binary Technology A/S or DANBIT in daily talk is a Danish privately owned technology supplier, who has been the preferred supplier of specialty products since 1970.",
+          "url": "https://danbit.dk/en/content/4-about-us"
+        },
+        {
+          "dim": "产品广度与客户模式",
+          "text": "官网自述供应超过 6,000 种特殊产品；进口来源含亚洲、美国和欧洲。官网主页写明 B2B only。",
+          "quote": "Today, DANBIT is a supplier of more than 6,000 special products ...",
+          "url": "https://danbit.dk/en/content/4-about-us"
+        },
+        {
+          "dim": "网络产品与履约",
+          "text": "DANBIT 网络产品页称货物从 Køge 自有实体仓库发出，并配送在库商品；品类含交换机、媒体转换器、AP、路由器、SFP 与 PoE 配件。",
+          "quote": "Shipped from our own physical warehouse in Køge and have day-to-day delivery of stocked products. DANBIT distributes all types of networking products and solutions and for companies of any size.",
+          "url": "https://danbit.dk/en/12-network-products-wifi-poe-rj45-fiber"
+        },
+        {
+          "dim": "Moxa 现售证据",
+          "text": "丹麦官网在售 MOXA EDS-205：5 口 10/100 非管理交换机，带广播风暴保护、DIN 安装，工作温度 -10~60°C；网页价格为 2026-10-09 抓取快照，不作我方报价比较。",
+          "quote": "5 ports Unmanaged switch - MOXA EDS-205 · 10/100Mbit RJ45 · Broadcast storm protection · DIN-skinne · -10 to 60°C driftstemperatur",
+          "url": "https://www.danbit.dk/en/industrial-switch/15532-5-ports-moxa-switch-10-100-rj45-din-unmanaged-12-48vdc-18-30vac-industriel.html"
+        },
+        {
+          "dim": "高规格产品重叠",
+          "text": "丹麦官网另有 24 口千兆管理 PoE++ 产品，4 个 SFP 槽支持到 10G，列 IEEE 802.3at/af/bt 与最高 90W Ultra PoE；对我方 24 口 PoE/10G 主推规格构成直接重叠。",
+          "quote": "24 x 10/100/1000Mbit RJ45 ports PoE++ ... IEEE 802.3at/af/bt - Ultra PoE (90Watt) ... 4 x 100/1000/2500Mbit mini-GBIC / SFP slots ... 10GB SFP",
+          "url": "https://danbit.dk/en/with-poe/18902-24-port-managed-switch-24-x-101001000mbit-rj45-fiber-4-x-10010002500mbit10g-sfp-slot-poe-poe-ultra-90w-230-vac.html"
+        },
+        {
+          "dim": "丹麦联系与主体边界",
+          "text": "DANBIT 丹麦产品页公开丹麦地址、电话、邮箱与 CVR；同域名 /en/contact-us 的抓取页面却显示瑞典 Binär Teknik AB（559181-6201），属单独瑞典分支主体，不得混写到丹麦档。",
+          "quote": "DANBIT A/S - Dansk Binær Teknik · Værkstedsvej 39 · 4600 Køge Denmark · Call us: +45 56 66 20 20 · CVR: 78788216 · Email us: salg@danbit.dk",
+          "url": "https://www.danbit.dk/en/1411-waterproof-contact"
+        },
+        {
+          "dim": "KP/登记（二级聚合来源，底层指向 CVR/Virk）",
+          "text": "Proff 页面将 Peter Grubb Jensen 列为行政董事，并把数据来源标注为 CVR/Virk；未发现可核实的个人工作邮箱。",
+          "quote": "Adm. Direktør Peter Grubb Jensen ... Kilde: CVR/Virk",
+          "url": "https://www.proff.dk/firma/dansk-bin%C3%A6r-teknik-as/k%C3%B8ge/elektronik-og-telekommunikationsudstyr/GLA0WLI10MY"
+        }
+      ],
+      "next_steps": [
+        "保留 C；目前不发泛化产品推介。若用户仍要评估渠道，只通过丹麦销售邮箱询问交换机品类负责人及可接受的差异化补充规格。",
+        "先核对其现售 DANBIT 编号 24 口 PoE++/10G、Moxa/其他品牌覆盖与本方规格/价格/认证，确有明确空位才继续；不可把目录在售等同于采购意愿。",
+        "后续联系前复核丹麦实体邮箱是否仍有效、目录/SKU/价格是否变化，并明确不误用瑞典 Binär Teknik AB 的联系人；无采购线索即维持 C。"
+      ],
+      "unknowns": [
+        "目前 DANBIT 交换机中是否有客户自有品牌产品、制造/OEM关系未证实",
+        "24口 PoE++ 商品的实际库存/供货周期、成交价和销售量未核",
+        "Peter Grubb Jensen 是否负责产品采购尚未证实",
+        "丹麦与瑞典分支的网页联系路由存在混淆，需发信前复核丹麦主体接收邮箱"
+      ],
+      "legacy_contact": "官网",
+      "contact_summary": "salg@danbit.dk / +45 56 66 20 20 / Værkstedsvej 39, 4600 Køge, Denmark",
+      "legacy_why": "【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评：①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：三星依据仅为渠道等级，需求未核实，需先查证其是否已有工业/PoE 产品线",
+      "revised_why": "现售 Moxa、工业交换机及 24 口 PoE++/10G 产品与我方规格直接重叠；采购或补充供应商意向未证实，保持 C。",
+      "legacy_sub": "B下放·无邮箱（群发触达不到）",
+      "revised_sub": "竞合·工业交换机与PoE++/10G规格重叠"
+    },
+    {
+      "code": "C-003",
+      "name": "Alpha Metronik Ltd",
+      "country": "乌克兰",
+      "researched_on": "2026-10-09",
+      "dimensions": {
+        "法定主体与业务定位": "Alfa Metronik 是工业信息系统集成商/工程公司，业务包括能源计量、工业信息系统设计集成及电气安装；官网称具备电气安装工程许可。",
+        "产品线与制造/自有品牌": "官网称其有自有商标、以该商标生产产品；也与 ORing Industrial Networking Corp、Power Plus Communication、Cambium Networks 合作。自有商标/制造范围、品牌登记与工厂主体仍需另核。",
+        "目标行业与方案": "官网列电力、铁路、油气、交通、工业自动化/Smart Grid；工业以太网方案包含管理/非管理交换机、PoE、无线 AP、媒体转换器等，并展示 ORing 交换机应用案例。",
+        "关键人KP": "未在本轮公开资料中核实具名采购或产品负责人；先由公司通用邮箱 info@alfa-metronik.ua 转接。",
+        "联系方式": "官网联系页公开 info@alfa-metronik.ua、+38 044 501-96-01（分机 00/03/04）、Kyiv, Pshenichna 8。",
+        "竞合与我方适配": "既是 ORing 工业网络产品合作方，也自述拥有自有品牌产品；工业交换机/PoE 属直接重叠市场。潜在角色更像本地集成商/竞品型渠道，未证实其有采购或补充供应商意向。",
+        "合规风险": "乌克兰客户、工业电力/铁路/油气等终端场景；任何供货前需依公司规则完成制裁筛查、最终用户/最终用途及转售路径核验。此项为交易前风控要求，不表示该公司已被列入制裁名单。",
+        "本轮评级建议": "保留 C，不自动升 A/B：需求场景匹配但已有自有品牌和 ORing 合作，且终端行业需合规审查；没有具体采购触发信号。"
+      },
+      "assessment": "保留 C。公开资料证实其有工业网络解决方案、ORing 合作与自有品牌；同类重叠且乌克兰终端用途须加强审查。现阶段只记录、不触达。",
+      "kp": [],
+      "facts": [
+        {
+          "dim": "业务定位",
+          "text": "官网将其描述为能源计量、工业信息系统与系统集成团队，并称拥有电气安装工程许可。",
+          "quote": "Alfa Metronik – is a team of specialists in the field of energy accounting, as well as the construction and integration of industrial information systems and complexes. Today we have all necessary licenses for design and execution of works in electrical installations.",
+          "url": "https://www.alfa-metronik.ua/en/about/company.html"
+        },
+        {
+          "dim": "自有品牌与伙伴",
+          "text": "公司官网称其自有商标产品在乌克兰销售；主要合作伙伴列 ORing、Power Plus、Cambium。",
+          "quote": "The company has its own trademark, under which the products are produced. ... The main ones are Oring Industrial Networking Corp., Power Plus Communication, Cambium Networks.",
+          "url": "https://www.alfa-metronik.ua/en/about/company.html"
+        },
+        {
+          "dim": "工业以太网与应用",
+          "text": "官网工业自动化页说明其展示工业管理/非管理交换机、无线 AP、PoE 交换机及媒体转换器方案，并举 ORing 工厂自动化案例。",
+          "quote": "For the industrial automation are used unmanaged and managed industrial switches, wireless access points, industrial indoor and outdoor performance, media converters, industrial PoE switch, and so on.",
+          "url": "https://www.alfa-metronik.ua/en/application/industrial-auto-2.html"
+        },
+        {
+          "dim": "伙伴与项目场景",
+          "text": "工业自动化案例显示其内容围绕工业网络集成、冗余环网、电力计量/生产线信息；该网页部分案例引用 ORing 厂商材料，不能据此推断其独立制造能力。",
+          "quote": "ORing has the right products for industrial network communications – e.g. PoE Ethernet Switch and Device Server – allowing traditional serial devices (including RS485 type) to be connected to more robust Ethernet networks.",
+          "url": "https://www.alfa-metronik.ua/en/application/industrial-auto-2.html"
+        },
+        {
+          "dim": "联系方式",
+          "text": "官方联系页公开 Kyiv 地址、总机、传真和 info 邮箱。",
+          "quote": "Address: 03680, Ukraine, Kyiv, Pshenichna 8 str ... Tel.: + 38 (044) 501-96-01 ... E-mail: info@alfa-metronik.ua",
+          "url": "https://alfa-metronik.ua/en/about/contacts.html"
+        }
+      ],
+      "next_steps": [
+        "保留 C；本轮不发开发信。先核对自有商标的法律主体、在售型号、制造/贴牌关系和 ORing 合作范围。",
+        "若未来评估交易，先走制裁与最终用途/最终用户筛查，特别核查能源、电力、铁路、油气及军民两用终端和转售路径。",
+        "只有确认其有明确补充采购窗口且合规筛查通过，才考虑将其从竞品/合作方边界重新评估；否则维持 C。"
+      ],
+      "unknowns": [
+        "自有商标名称、商标持有人、制造工厂和产能未核",
+        "ORing 合作是否为授权分销、集成合作或项目引用未核",
+        "未公开采购负责人姓名",
+        "具体最终客户、供货区域及交易中的出口/制裁风险逐单审核"
+      ],
+      "legacy_contact": "+380 (44) 501-96-01",
+      "contact_summary": "info@alfa-metronik.ua / +38 (044) 501-96-01 / Kyiv, Pshenichna 8",
+      "legacy_why": "【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评：①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：通用分销商信号，无差异化切入点，慢慢跟",
+      "revised_why": "有自有品牌并与 ORing 合作，工业交换机及集成业务与我方重叠；无明确采购窗口，且乌克兰交易需审最终用途，保持 C。",
+      "legacy_sub": "B下放·无邮箱（群发触达不到）",
+      "revised_sub": "竞合·自有品牌+ORing合作；终端合规待筛查"
+    },
+    {
+      "code": "C-004",
+      "name": "El-Gev Electronics",
+      "country": "以色列",
+      "researched_on": "2026-10-09",
+      "dimensions": {
+        "法定主体与业务定位": "El-Gev Electronics Ltd.，Tirat Yehuda, Israel；公司官网自述为电子元件、光纤/RF 微波、测试测量系统及嵌入式计算方案的销售代表/分销商，1987 年成立。",
+        "产品线与合作品牌": "官网菜单列 Analog、Digital、Electro-mechanic、Embedded Systems、Photonics、Networking、RF/Microwave、Power、T&M、Wireless 等。Westermo 官方名录将其列为以色列 Reseller，含本地库存、基础/认证技术支持及方案能力。",
+        "目标市场": "区域工业、数据通信、电信、网络、无线、军工与航空航天市场（公司自述）；涉及受管制/敏感终端时须在具体交易前独立核验最终用途。",
+        "关键人KP": "第三方 ZoomInfo 企业/员工目录列 Yoel Yogev（CEO）、Dan Beck（VP Sales）、Hagar Keidar（FAE Sales Engineer）；公司官网未具名确认其现职或提供个人邮箱，均为 leads-only 待复核线索。",
+        "联系方式": "公司官网公开 sales@elgev.co.il、+972-(0)74-7190000、Hadudaim 9, Tirat Yehuda 7317500, Israel。",
+        "竞合与我方适配": "宽谱元件/通信分销商，并作为 Westermo reseller 提供工业网络方案；具备本地产品与技术支持，可能与工业交换机产品线重叠。采购意向、产品缺口和引入第二品牌可能性未证实。",
+        "本轮评级建议": "保留 C，不自动升 A/B：公司有技术分销和工业网络触点，但现有供应品牌/敏感行业以及无具体采购信号令机会未验证。"
+      },
+      "assessment": "保留 C。公司及邮箱电话均由其官网公开，Westermo 官方名录确认以色列 reseller 角色；具名管理层仅来自第三方目录，不能当作已确认采购联系人。",
+      "kp": [
+        {
+          "name": "Yoel Yogev",
+          "role": "第三方 ZoomInfo 列示 CEO（官网未确认）",
+          "contact": "未查到公开个人工作邮箱；公司入口 sales@elgev.co.il / +972-(0)74-7190000",
+          "status": "leads-only·第三方员工目录；职务待公司确认，先走公司渠道",
+          "source": "https://www.zoominfo.com/c/el---gev-electronics/430028159"
+        },
+        {
+          "name": "Dan Beck",
+          "role": "第三方 ZoomInfo 列示 Vice President, Sales（官网未确认）",
+          "contact": "未查到公开个人工作邮箱；公司入口 sales@elgev.co.il / +972-(0)74-7190000",
+          "status": "leads-only·第三方员工目录；职务待公司确认",
+          "source": "https://www.zoominfo.com/c/el---gev-electronics/430028159"
+        },
+        {
+          "name": "Hagar Keidar",
+          "role": "第三方员工目录列 FAE Sales Engineer（官网未确认）",
+          "contact": "未查到公开个人工作邮箱；公司入口 sales@elgev.co.il",
+          "status": "leads-only·第三方员工目录；需复核在职与职责",
+          "source": "https://www.zoominfo.com/pic/el---gev-electronics/430028159"
+        }
+      ],
+      "facts": [
+        {
+          "dim": "企业定位与年限",
+          "text": "公司官网描述其为电子、光纤、RF/微波元件、T&M 系统与嵌入式计算方案的销售代表/分销商，自述成立于 1987 年。",
+          "quote": "El-Gev Electronics Ltd. is a leading sales representative/distributor for manufacturers of Electronics, Fiber-Optics & RF/Microwave components/modules as well as T&M systems and Embedded Computer Solutions. ... El-Gev Electronics Ltd. was founded in 1987.",
+          "url": "https://www.elgev.co.il/"
+        },
+        {
+          "dim": "目标市场",
+          "text": "官网自述服务区域工业、数据通信、电信、网络、无线、军工与航空航天市场；需逐单核对终端用途。",
+          "quote": "the regional industrial, data communication, telecommunication, networking, wireless, military and aerospace market.",
+          "url": "https://www.elgev.co.il/"
+        },
+        {
+          "dim": "联系方式",
+          "text": "公司联系页公开销售邮箱、电话及 Tirat Yehuda 地址。",
+          "quote": "Hadudaim 9, Tirat Yehuda · 7317500, ISRAEL · Tel: 972-(0)74-7190000 · Mail: sales@elgev.co.il",
+          "url": "https://www.elgev.co.il/contact.html"
+        },
+        {
+          "dim": "Westermo 渠道身份",
+          "text": "Westermo 当前 Where-to-buy 页面将 El-Gev 列为以色列 reseller，并列本地库存、基础及认证技术支持和方案能力。",
+          "quote": "Israel · Reseller · Local stock · Basic technical support · Certified technical support · Westermo solutions expertise · El-Gev Electronics · Tel: +972-(0)74-7190012 · Web: www.elgev.co.il",
+          "url": "https://www.westermo.com/contact/where-to-buy"
+        },
+        {
+          "dim": "候选管理层/KP（二级目录）",
+          "text": "ZoomInfo 员工/公司目录列出 Yoel Yogev、Dan Beck、Hagar Keidar 与相应职能；官网未交叉确认，需先核身份。",
+          "quote": "Yoel Yogev — President & Chief Executive Officer; Dan Beck — Vice President, Sales; Hagar Keidar — FAE Sales Engineer",
+          "url": "https://www.zoominfo.com/c/el---gev-electronics/430028159"
+        }
+      ],
+      "next_steps": [
+        "保留 C；若用户后续决定评估，只通过 sales@elgev.co.il 联系并询问工业网络/交换机产品负责人，先确认其当前 Westermo 产品组合与是否接受第二品牌。",
+        "核对候选 KP 的现职、职责和采购影响力；ZoomInfo 线索未经官网确认，不直接写成确定决策人。",
+        "由于公司自述服务军工/航空航天市场，具体报价/样品前依内部政策做最终用户、最终用途与适用出口管制核验；未通过则不推进。"
+      ],
+      "unknowns": [
+        "当前工业交换机具体在售型号和品牌份额未查全",
+        "Westermo 当前代理协议范围、区域和采购模式未知",
+        "第三方目录中列出的管理层/员工职务需复核",
+        "军工/航空航天相关项目的具体终端用途未知"
+      ],
+      "legacy_contact": "+972 74-7190012",
+      "contact_summary": "sales@elgev.co.il / +972-(0)74-7190000 / Hadudaim 9, Tirat Yehuda 7317500, Israel; Westermo directory separately lists +972-(0)74-7190012",
+      "legacy_why": "【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评：①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：通用分销商信号，无差异化切入点，慢慢跟",
+      "revised_why": "Westermo reseller 及电子元件分销渠道已在工业网络覆盖；未核到新增采购缺口或采购 KP，保持 C。",
+      "legacy_sub": "B下放·无邮箱（群发触达不到）",
+      "revised_sub": "竞合·Westermo reseller；敏感终端逐单核验"
+    },
+    {
+      "code": "C-005",
+      "name": "Galoz Electronics Ltd",
+      "country": "以色列",
+      "researched_on": "2026-10-09",
+      "dimensions": {
+        "法定主体与业务定位": "Galoz Electronics Ltd，以色列 Rosh HaAyin；公司网站显示工业过程控制、能源、仪表与自动化产品，并设有交换机、通信、调制解调器等目录。二级企业目录列注册号 511028821、1984 年成立（需以正式登记文件复核）。",
+        "交换机/合作品牌": "当前公司网站存在 Switches 产品分类；Red Lion 旧版官方分销商目录（2020 页面资料）将 Galoz 列为以色列 distributor，产品树含 NT24k/NT5000 等 managed switch 与 PoE 系列。当前授权状态未核，必须向 Red Lion/Galoz 复核。",
+        "关键人KP": "公司网站公开列 Dafna Lerner（销售/市场，分机 3，sales@galoz.co.il）、Alex Partusovich（技术咨询，分机 2，alex@galoz.co.il）及 Yuval Haim（工程/项目，分机 104）；页面更新时间较旧，发信前确认在职。",
+        "联系方式": "公司网站公开 sales@galoz.co.il、总机 03-9023456；公司信息页地址写 Hameretz 7, Rosh HaAyin。Red Lion 名录也列 7 Hameretz；D&B/KYC 二级页面则列 15 Hameretz，存在地址差异，需确认现办公/注册地址。",
+        "竞合与我方适配": "工业自动化与测量控制渠道，目录含工业交换机并历史上列 Red Lion 分销；有相关产品和工程触点，但与我方交换机直接重叠。除非其确认当前采购、缺货或补充品牌窗口，否则机会未证实。",
+        "本轮评级建议": "保留 C，不自动升 A/B：对口产品线已存在且代理状态/采购缺口未知；公开联系人较丰富但没有客户主动询价或明确项目线索。"
+      },
+      "assessment": "保留 C。公司网站确认现有工业自动化产品目录及销售/技术通道；Red Lion 代理目录为较旧线索，现行代理关系和采购权不可据此推定。",
+      "kp": [
+        {
+          "name": "Dafna Lerner",
+          "role": "公司页面列销售与市场，分机 3（页面时间未确认）",
+          "contact": "sales@galoz.co.il；总机 03-9023456 转 3",
+          "status": "official-company-page·职务/在职需联系时复核",
+          "source": "https://galoz.co.il/%D7%90%D7%95%D7%93%D7%95%D7%AA"
+        },
+        {
+          "name": "Alex Partusovich",
+          "role": "公司支持页列技术咨询，分机 2",
+          "contact": "alex@galoz.co.il；03-9023456 转 2",
+          "status": "official-company-page·职务/在职需联系时复核",
+          "source": "https://www.galoz.co.il/%D7%AA%D7%9E%D7%99%D7%9B%D7%94-%D7%98%D7%9B%D7%A0%D7%99%D7%AA-%D7%95%D7%A9%D7%99%D7%A8%D7%95%D7%AA-%D7%9C%D7%A7%D7%95%D7%97%D7%95%D7%AA/"
+        },
+        {
+          "name": "Yuval Haim",
+          "role": "公司页面列工程师/项目与软件应用",
+          "contact": "yuval@galoz.co.il；052-2597681 / 03-9023456 转 104",
+          "status": "official-company-page·职务/在职需联系时复核",
+          "source": "https://www.galoz.co.il/%D7%AA%D7%9E%D7%99%D7%9B%D7%94-%D7%98%D7%9B%D7%A0%D7%99%D7%AA-%D7%95%D7%A9%D7%99%D7%A8%D7%95%D7%AA-%D7%9C%D7%A7%D7%95%D7%97%D7%95%D7%AA/"
+        }
+      ],
+      "facts": [
+        {
+          "dim": "现行产品分类",
+          "text": "公司当前网站按过程控制、能源、指示/控制、传感器、安全、工业交换机与通信等类别展示产品；这证实有交换机类目，不证明品牌授权或采购意向。",
+          "quote": "קטגוריות ראשיות ... בקרת תהליכים ... סוויצ'ים ... תקשורת ... מודמים",
+          "url": "https://www.galoz.co.il/627681-%D7%A1%D7%95%D7%95%D7%99%D7%A6-%D7%99%D7%9D"
+        },
+        {
+          "dim": "销售与技术触点",
+          "text": "公司网站搜索结果所示联系方式包括销售/市场 Dafna Lerner、技术 Alex Partusovich、工程师 Yuval Haim，以及 sales@galoz.co.il；页面时间/现职需复核。",
+          "quote": "שיווק ומכירות: דפנה לרנר: שלוחה -3 | sales@galoz.co.il · ייעוץ טכני: אלכס פרטוסביץ'. שלוחה 2 | alex@galoz.co.il · יובל חיים – מהנדס: שלוחה 104",
+          "url": "https://galoz.co.il/%D7%90%D7%95%D7%93%D7%95%D7%AA"
+        },
+        {
+          "dim": "Red Lion 品牌历史线索",
+          "text": "Red Lion distributor 页面搜索资料（页面内容标注 2020）列 Galoz Electronics Ltd，以色列 Rosh Ha'ayin，电话 +972 3 9023456；旧页面不能证明 2026 年仍授权。",
+          "quote": "Galoz Electronics Ltd ... Rosh Ha'ayin 48017 Israel · Phone: +972 3 9023456 · www.galoz.co.il",
+          "url": "https://www.redlion.net/distributors/galoz-electronics-ltd"
+        },
+        {
+          "dim": "地址冲突与登记线索",
+          "text": "Red Lion 旧名录与公司网站片段列 Hameretz 7；D&B/KYC 企业目录列 Hameretz 15、注册号 511028821。不可未经核验混写为唯一最新地址。",
+          "quote": "Registration Number: 511028821 ... Incorporation Date: 07/06/1984 ... Address: 15 Hameretz, Rosh Haayin",
+          "url": "https://www.kycisrael.com/companies/511028821/galoz-electronics-ltd/"
+        },
+        {
+          "dim": "总机与销售邮箱",
+          "text": "公司支持页面列总机、销售/技术通道及分机；信息来源为公司网站，但具体联系人是否仍在职需复核。",
+          "quote": "טלפון: 03-9023456 ... sales@galoz.co.il ... alex@galoz.co.il",
+          "url": "https://www.galoz.co.il/%D7%AA%D7%9E%D7%99%D7%9B%D7%94-%D7%98%D7%9B%D7%A0%D7%99%D7%AA-%D7%95%D7%A9%D7%99%D7%A8%D7%95%D7%AA-%D7%9C%D7%A7%D7%95%D7%97%D7%95%D7%AA/"
+        }
+      ],
+      "next_steps": [
+        "保留 C；如后续评估，只用 sales@galoz.co.il 或总机询问交换机品类负责人，先核当前 Red Lion 授权与现售交换机 SKU。",
+        "复核地址究竟为 Hameretz 7 还是 15，并确认 Dafna Lerner、Alex Partusovich、Yuval Haim 当前任职和职责；旧页面联系人不可视为实时在职证明。",
+        "查明其是否有可量化的产品缺口/采购窗口；若当前 Red Lion/其他品牌组合已覆盖且无新品牌计划，维持 C，不转 A/B。"
+      ],
+      "unknowns": [
+        "Red Lion 当前授权状态和合同限制未核",
+        "Hameretz 7 与 15 的地址差异未解释",
+        "公司联系人页面部分资料有 2021/2024 等旧抓取时间，现职需复核",
+        "工业交换机销售量、采购规模及对新供应商开放度未知"
+      ],
+      "legacy_contact": "官网联系页（HMS 名录只公开地址与网址）",
+      "contact_summary": "sales@galoz.co.il / 03-9023456; current company page says Hameretz 7, Rosh HaAyin; registry directories also show Hameretz 15, verify address",
+      "legacy_why": "【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评：①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：通用分销商信号，无差异化切入点，慢慢跟",
+      "revised_why": "有工业交换机目录且曾列 Red Lion 分销；现行授权、采购空位和渠道开放度未核，保持 C。",
+      "legacy_sub": "B下放·无邮箱（群发触达不到）",
+      "revised_sub": "竞合·交换机目录在架；Red Lion授权与地址待核"
+    }
+  ]
+}

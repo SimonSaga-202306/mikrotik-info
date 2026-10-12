@@ -1,8 +1,8 @@
 # Controller Service and Sales
 
-> **评级 B**　|　美国　|　档案编号 `B-340`　|　优先级 ★★　|　状态：未触达
+> **评级 B**　|　美国　|　档案编号 `B-340`　|　优先级 ★★　|　状态：01-已跟进一轮（用户报告；具体日期/收件人未逐户记录）
 >
-> **触达状态（Stage）**：00-researched　|　结构版本：结构化档案 v2（R56 规则，2026-09-28 用户审定）
+> **触达状态（Stage）**：01-contacted　|　结构版本：结构化档案 v2（R56 规则，2026-09-28 用户审定）
 
 ```yaml structured_profile
 code: B-340
@@ -15,9 +15,9 @@ price_sensitivity: high
 volume_potential: 4  # 1-5
 needs: {poe: true, industrial: true, tenG: false, l2plus: false, voice: false, oem: false, hotel: false, training: false}
 p1: STI-288GP
-stage: 00-researched
+stage: 01-contacted
 struct_version: v2  # v2 骨架
-updated: 2026-10-07
+updated: 2026-10-12
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -28,7 +28,7 @@ updated: 2026-10-07
 - **P1（首触唯一主推）**：STI-288GP（工业非管理 8口 PoE） — Moxa 授权老分销+在架千美元档：value DIN 轨 8 口（$74.8）入子位置最对口；$74.8 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：你们的电柜项目里，那些非主环路的 PoE 点（视频/传感支线）现用什么 value 解决？
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
-- **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
+- **下一步**：R71（2026-10-12）：不再向 mark@controllerservice.com 重投；保留该 KP 地址并标注为用户报告的收件人不存在。Gmail 原件与日期均未核实；不把此报告套用到其他地址。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -77,9 +77,9 @@ updated: 2026-10-07
 - **电话**：—
 - 来源等级：official-company（R41–R48 联系方式台账口径）
 - **原始联系字段**：官网联系页
-- **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **R71 跟进核对**：本户一轮跟进已完成（用户报告）；逐户发送日期与实际收件地址未提供，不补造。已核实的地址级异常见本档 R71/退信记录；未将用户报告扩大成逐地址送达结论。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
-  - **Mark O'Day**(President(2005 至今,三代家族;祖父 1926 创立;Brown AB+Chicago MBA))— mark@controllerservice.com 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.dnb.com/business-directory/company-profiles.controller_service__sale〕
+  - **Mark O'Day**(President(2005 至今,三代家族;祖父 1926 创立;Brown AB+Chicago MBA))— mark@controllerservice.com 〔用户报告收件人不存在（Gmail 原件未检出、日期未提供）；不向此精确地址重投;源:https://www.dnb.com/business-directory/company-profiles.controller_service__sale〕
   - **Scott O'Day**(VP Sales and Marketing(兄弟共管))— scott@controllerservice.com 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://rocketreach.co/controller-service-sales-inc-management_b5fee96bf60669ae〕
   - **Jim Long**(Corporate Controller)— jim@controllerservice.com 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:同 RocketReach 源〕
 
@@ -87,7 +87,7 @@ updated: 2026-10-07
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mark O'Day | President(2005 至今,三代家族;祖父 1926 创立;Brown AB+Chicago MBA) | mark@controllerservice.com | guessed-leads-only(域 MX 存活;SMTP 未验;不进群发) | https://www.dnb.com/business-directory/company-profiles.controller_service__sale |
+| Mark O'Day | President(2005 至今,三代家族;祖父 1926 创立;Brown AB+Chicago MBA) | mark@controllerservice.com | 用户报告收件人不存在（未检出 Gmail 原件；日期未提供）；不向此精确地址重投 | https://www.dnb.com/business-directory/company-profiles.controller_service__sale |
 | Scott O'Day | VP Sales and Marketing(兄弟共管) | scott@controllerservice.com | guessed-leads-only(域 MX 存活;SMTP 未验;不进群发) | https://rocketreach.co/controller-service-sales-inc-management_b5fee96bf60669ae |
 | Jim Long | Corporate Controller | jim@controllerservice.com | guessed-leads-only(域 MX 存活;SMTP 未验;不进群发) | 同 RocketReach 源 |
 
@@ -214,3 +214,16 @@ Dear Michael,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at,
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-10-07（R56 规则 · R65 B 类对齐 A 标准）　|　数据来源：客户名单_反向信号_2026-09.csv + B 类深挖调研 JSON*
+
+<!-- R71-FOLLOWUP-START -->
+## R71 本轮跟进与邮件回执（2026-10-12）
+
+- **跟进范围**：A/B 本轮一轮跟进已完成（用户报告）；逐户发送日期与实际收件地址未提供，本节不补造发送日志。
+- **本户结论**：一轮跟进已完成；可继续按本档既有策略低频跟进，不把“已跟进”误写成“逐地址送达成功”。
+- **本轮地址级退信/延迟例外**：
+  - `mark@controllerservice.com` — 用户报告收件人不存在；本次 Gmail 精确搜索未找到对应退信原件，故不标作 Gmail 正文核实。（日期未提供；来源：用户报告；Gmail 精确搜索未检出原件）。
+    - 证据：用户报告 `mark@controllerservice.com` 收件人不存在。对连接的 Gmail 按地址精确搜索未找到对应退信原件；因此保留为用户报告，不补造回执日期或 Gmail 错误码。只对该精确地址标记，不扩展到 `sales@controllerservice.com`、其他 KP 地址或整家公司。
+    - 处置：不再向 mark@controllerservice.com 重投；保留该 KP 地址并标注为用户报告的收件人不存在。Gmail 原件与日期均未核实；不把此报告套用到其他地址。
+- **客户级跟进结论**：只对上述精确收件地址按回执处置；不把单地址异常扩大到整家公司或其他邮箱。
+- **后续节奏**：首轮之后不作无差别催促；按既有节奏等待或低频跟进，不填造日期。
+<!-- R71-FOLLOWUP-END -->

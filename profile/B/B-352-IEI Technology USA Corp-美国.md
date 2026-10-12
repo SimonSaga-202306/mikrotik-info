@@ -1,8 +1,8 @@
 # IEI Technology USA Corp.
 
-> **评级 B**　|　美国　|　档案编号 `B-352`　|　优先级 ★★　|　状态：未触达
+> **评级 B**　|　美国　|　档案编号 `B-352`　|　优先级 ★★　|　状态：01-已跟进一轮（用户报告；具体日期/收件人未逐户记录）
 >
-> **触达状态（Stage）**：00-researched　|　结构版本：结构化档案 v2（R56 规则，2026-09-28 用户审定）
+> **触达状态（Stage）**：01-contacted　|　结构版本：结构化档案 v2（R56 规则，2026-09-28 用户审定）
 
 ```yaml structured_profile
 code: B-352
@@ -15,9 +15,9 @@ price_sensitivity: high
 volume_potential: 5  # 1-5
 needs: {poe: true, industrial: true, tenG: false, l2plus: false, voice: false, oem: true, hotel: false, training: false}
 p1: CONSULT-OEM
-stage: 00-researched
+stage: 01-contacted
 struct_version: v2  # v2 骨架
-updated: 2026-10-07
+updated: 2026-10-12
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -28,7 +28,7 @@ updated: 2026-10-07
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 产业同族制造侧：不入供位；判 OEM/合作谈判面（如走通价值高，但非标准上架）；—（合作探询，无量产报价）
 - **第一问（只问一个）**：（联络路：如用户想洽 OEM，走联合设计面）
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
-- **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
+- **下一步**：R71（2026-10-12）：不再向 richard@ieiworld.com 重投；保留其为精确地址级访问拒绝记录。不得把 Richard 的退信扩展到公司 sales@ 邮箱；其他猜测型个人邮箱仍遵守 leads-only/opt-in，不自动换投。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -73,21 +73,21 @@ Armorlink/IEI Smart City 品牌谱;工业/智城铺
 
 ## 联系方式（已有/猜测分标）
 
-- **邮箱**：sales@usa.ieiworld
-  - 状态：既有/公开
+- **邮箱**：sales@usa.ieiworld.com
+  - 状态：既有/公开（主表原文；本次退信不是此地址）
 - **电话**：+1 909 595-2819
 - 来源等级：official-channel（R41–R48 联系方式台账口径）
 - **原始联系字段**：+1 909 595-2819 / sales@usa.ieiworld.com
-- **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **R71 跟进核对**：本户一轮跟进已完成（用户报告）；逐户发送日期与实际收件地址未提供，不补造。已核实的地址级异常见本档 R71/退信记录；未将用户报告扩大成逐地址送达结论。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
-  - **Richard Kao**(Operation Director(Pomona USA))— richard@ieiworld.com 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/in/richard-kao-233a5368/〕
+  - **Richard Kao**(Operation Director(Pomona USA))— richard@ieiworld.com 〔Gmail 退信：550 5.4.1 Access denied；不证明地址不存在；不向此精确地址重投;源:https://www.linkedin.com/in/richard-kao-233a5368/〕
   - **Wendy Wang**(Office Manager(2005 至今))— wendy@ieiworld.com 〔猜测(leads-only·LinkedIn/谱面带核,直发需 opt-in);源:https://www.linkedin.com/in/wendy-wang-83456826/〕
 
 ## 关键人（KP）与触达通道
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Richard Kao | Operation Director(Pomona USA) | richard@ieiworld.com | guessed-leads-only(域 MX 存活;SMTP 未验;不进群发) | https://www.linkedin.com/in/richard-kao-233a5368/ |
+| Richard Kao | Operation Director(Pomona USA) | richard@ieiworld.com | Gmail 退信：550 5.4.1 Access denied；非地址不存在；不向此精确地址重投 | https://www.linkedin.com/in/richard-kao-233a5368/ |
 | Wendy Wang | Office Manager(2005 至今) | wendy@ieiworld.com | guessed-leads-only(域 MX 存活;SMTP 未验;不进群发) | https://www.linkedin.com/in/wendy-wang-83456826/ |
 
 ## 跟进步骤（最多 3 次 · 成功/退出标准）
@@ -219,3 +219,16 @@ Dear William,\n\nWe build a 24-port Gigabit PoE access switch (280W, 802.3af/at,
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-10-07（R56 规则 · R65 B 类对齐 A 标准）　|　数据来源：客户名单_反向信号_2026-09.csv + B 类深挖调研 JSON*
+
+<!-- R71-FOLLOWUP-START -->
+## R71 本轮跟进与邮件回执（2026-10-12）
+
+- **跟进范围**：A/B 本轮一轮跟进已完成（用户报告）；逐户发送日期与实际收件地址未提供，本节不补造发送日志。
+- **本户结论**：一轮跟进已完成；可继续按本档既有策略低频跟进，不把“已跟进”误写成“逐地址送达成功”。
+- **本轮地址级退信/延迟例外**：
+  - `richard@ieiworld.com` — 远端拒绝收件/访问权限限制（550 5.4.1 Access denied）；不等于地址不存在。（2026-10-09 14:01:48 -0700；来源：Gmail 正文）。
+    - 证据：Gmail 正文：2026-10-09 14:01:48 -0700，精确收件人 `richard@ieiworld.com`，远端返回 `550 5.4.1 Recipient address rejected: Access denied`。这是访问拒绝/拦截，不能据此判定地址不存在。该地址是档案中的具名 KP 线索；主表公司邮箱为 `sales@usa.ieiworld.com`，不是此次退信地址。
+    - 处置：不再向 richard@ieiworld.com 重投；保留其为精确地址级访问拒绝记录。不得把 Richard 的退信扩展到公司 sales@ 邮箱；其他猜测型个人邮箱仍遵守 leads-only/opt-in，不自动换投。
+- **客户级跟进结论**：只对上述精确收件地址按回执处置；不把单地址异常扩大到整家公司或其他邮箱。
+- **后续节奏**：首轮之后不作无差别催促；按既有节奏等待或低频跟进，不填造日期。
+<!-- R71-FOLLOWUP-END -->

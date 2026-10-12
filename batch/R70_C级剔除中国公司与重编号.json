@@ -1,0 +1,1749 @@
+{
+ "date": "2026-10-09",
+ "round": "R70",
+ "scope": "删除客户 CSV 中 5 家中国（在欧销售）竞品；按剩余 C 行物理顺序将 285 档从 C-001 连续重编号至 C-285。用于核对历史编号、工单和基线的 crosswalk；所有历史 batch 保留原始 code，不回写篡改。",
+ "removed_chinese_companies": [
+  {
+   "old_code": "C-001",
+   "name": "N-net",
+   "country": "中国（在欧销售）",
+   "reason": "中国公司，按 R70 用户指令删除"
+  },
+  {
+   "old_code": "C-002",
+   "name": "STONET / Netis",
+   "country": "中国（在欧销售）",
+   "reason": "中国公司，按 R70 用户指令删除"
+  },
+  {
+   "old_code": "C-003",
+   "name": "Tachyon Networks",
+   "country": "中国（在欧销售）",
+   "reason": "中国公司，按 R70 用户指令删除"
+  },
+  {
+   "old_code": "C-004",
+   "name": "WI-TEK",
+   "country": "中国（在欧销售）",
+   "reason": "中国公司，按 R70 用户指令删除"
+  },
+  {
+   "old_code": "C-005",
+   "name": "keepLiNK / YuLinca / Binardat",
+   "country": "中国（在欧销售）",
+   "reason": "中国公司，按 R70 用户指令删除"
+  }
+ ],
+ "renumbering": [
+  {
+   "old_code": "C-151",
+   "new_code": "C-001",
+   "name": "Bross Engineering Aps",
+   "country": "丹麦"
+  },
+  {
+   "old_code": "C-152",
+   "new_code": "C-002",
+   "name": "Danbit",
+   "country": "丹麦"
+  },
+  {
+   "old_code": "C-153",
+   "new_code": "C-003",
+   "name": "Alpha Metronik Ltd",
+   "country": "乌克兰"
+  },
+  {
+   "old_code": "C-154",
+   "new_code": "C-004",
+   "name": "El-Gev Electronics",
+   "country": "以色列"
+  },
+  {
+   "old_code": "C-155",
+   "new_code": "C-005",
+   "name": "Galoz Electronics Ltd",
+   "country": "以色列"
+  },
+  {
+   "old_code": "C-156",
+   "new_code": "C-006",
+   "name": "IPNet Solutions LTD",
+   "country": "以色列"
+  },
+  {
+   "old_code": "C-157",
+   "new_code": "C-007",
+   "name": "Comicon Ltd.",
+   "country": "保加利亚"
+  },
+  {
+   "old_code": "C-158",
+   "new_code": "C-008",
+   "name": "Rittbul",
+   "country": "保加利亚"
+  },
+  {
+   "old_code": "C-159",
+   "new_code": "C-009",
+   "name": "Pondi d.o.o.",
+   "country": "克罗地亚"
+  },
+  {
+   "old_code": "C-160",
+   "new_code": "C-010",
+   "name": "Microstar",
+   "country": "克罗地亚/斯洛文尼亚"
+  },
+  {
+   "old_code": "C-161",
+   "new_code": "C-011",
+   "name": "Fálkinn Ísmar ehf.",
+   "country": "冰岛"
+  },
+  {
+   "old_code": "C-162",
+   "new_code": "C-012",
+   "name": "Mælibúnaður",
+   "country": "冰岛"
+  },
+  {
+   "old_code": "C-163",
+   "new_code": "C-013",
+   "name": "Cesco Electrical Supply Ltd",
+   "country": "加拿大"
+  },
+  {
+   "old_code": "C-164",
+   "new_code": "C-014",
+   "name": "EB Horsman & Son",
+   "country": "加拿大"
+  },
+  {
+   "old_code": "C-165",
+   "new_code": "C-015",
+   "name": "Globall Distribution",
+   "country": "加拿大"
+  },
+  {
+   "old_code": "C-166",
+   "new_code": "C-016",
+   "name": "Proax",
+   "country": "加拿大"
+  },
+  {
+   "old_code": "C-167",
+   "new_code": "C-017",
+   "name": "ATYS Co Controll Engineering",
+   "country": "匈牙利"
+  },
+  {
+   "old_code": "C-169",
+   "new_code": "C-018",
+   "name": "Aspect",
+   "country": "北马其顿"
+  },
+  {
+   "old_code": "C-170",
+   "new_code": "C-019",
+   "name": "Areskom İletişim Sistemleri",
+   "country": "土耳其"
+  },
+  {
+   "old_code": "C-171",
+   "new_code": "C-020",
+   "name": "NovaTel",
+   "country": "塞尔维亚"
+  },
+  {
+   "old_code": "C-172",
+   "new_code": "C-021",
+   "name": "AIONA Automation GmbH",
+   "country": "奥地利"
+  },
+  {
+   "old_code": "C-174",
+   "new_code": "C-022",
+   "name": "NETAP",
+   "country": "希腊"
+  },
+  {
+   "old_code": "C-175",
+   "new_code": "C-023",
+   "name": "Planet Shop",
+   "country": "希腊"
+  },
+  {
+   "old_code": "C-177",
+   "new_code": "C-024",
+   "name": "Acceed GmbH",
+   "country": "德国"
+  },
+  {
+   "old_code": "C-179",
+   "new_code": "C-025",
+   "name": "PRIMATION Systemtechnik GmbH & Co. KG",
+   "country": "德国"
+  },
+  {
+   "old_code": "C-180",
+   "new_code": "C-026",
+   "name": "Spectra (oring.spectra.de)",
+   "country": "德国"
+  },
+  {
+   "old_code": "C-181",
+   "new_code": "C-027",
+   "name": "Videor",
+   "country": "德国"
+  },
+  {
+   "old_code": "C-182",
+   "new_code": "C-028",
+   "name": "Compass Distribution",
+   "country": "意大利"
+  },
+  {
+   "old_code": "C-183",
+   "new_code": "C-029",
+   "name": "DIGIMAX S.r.l.",
+   "country": "意大利"
+  },
+  {
+   "old_code": "C-184",
+   "new_code": "C-030",
+   "name": "GOMA ELETTRONICA SPA",
+   "country": "意大利"
+  },
+  {
+   "old_code": "C-185",
+   "new_code": "C-031",
+   "name": "Jampel S.r.l.",
+   "country": "意大利"
+  },
+  {
+   "old_code": "C-186",
+   "new_code": "C-032",
+   "name": "Piero Bersanini",
+   "country": "意大利"
+  },
+  {
+   "old_code": "C-187",
+   "new_code": "C-033",
+   "name": "atecnica.it",
+   "country": "意大利"
+  },
+  {
+   "old_code": "C-188",
+   "new_code": "C-034",
+   "name": "OAK INTEGRATOR",
+   "country": "拉脱维亚"
+  },
+  {
+   "old_code": "C-189",
+   "new_code": "C-035",
+   "name": "Adeptor AS",
+   "country": "挪威"
+  },
+  {
+   "old_code": "C-190",
+   "new_code": "C-036",
+   "name": "Autic System AS",
+   "country": "挪威"
+  },
+  {
+   "old_code": "C-192",
+   "new_code": "C-037",
+   "name": "Hatteland Technology",
+   "country": "挪威"
+  },
+  {
+   "old_code": "C-193",
+   "new_code": "C-038",
+   "name": "Last Mile Communication",
+   "country": "挪威"
+  },
+  {
+   "old_code": "C-195",
+   "new_code": "C-039",
+   "name": "Alternetivo s.r.o.",
+   "country": "捷克"
+  },
+  {
+   "old_code": "C-196",
+   "new_code": "C-040",
+   "name": "MADER.cz",
+   "country": "捷克"
+  },
+  {
+   "old_code": "C-198",
+   "new_code": "C-041",
+   "name": "SECOMP",
+   "country": "捷克"
+  },
+  {
+   "old_code": "C-200",
+   "new_code": "C-042",
+   "name": "TS Bohemia",
+   "country": "捷克"
+  },
+  {
+   "old_code": "C-201",
+   "new_code": "C-043",
+   "name": "Star Net",
+   "country": "摩尔多瓦"
+  },
+  {
+   "old_code": "C-202",
+   "new_code": "C-044",
+   "name": "Elkotex d.o.o.",
+   "country": "斯洛文尼亚"
+  },
+  {
+   "old_code": "C-203",
+   "new_code": "C-045",
+   "name": "CimPro Holding NV",
+   "country": "比利时"
+  },
+  {
+   "old_code": "C-206",
+   "new_code": "C-046",
+   "name": "Audin",
+   "country": "法国"
+  },
+  {
+   "old_code": "C-207",
+   "new_code": "C-047",
+   "name": "E.V.D.I.",
+   "country": "法国"
+  },
+  {
+   "old_code": "C-208",
+   "new_code": "C-048",
+   "name": "Equipements Scientifiques",
+   "country": "法国"
+  },
+  {
+   "old_code": "C-211",
+   "new_code": "C-049",
+   "name": "Inmac Wstore",
+   "country": "法国"
+  },
+  {
+   "old_code": "C-212",
+   "new_code": "C-050",
+   "name": "Phoebe IDF",
+   "country": "法国"
+  },
+  {
+   "old_code": "C-213",
+   "new_code": "C-051",
+   "name": "QL3D",
+   "country": "法国"
+  },
+  {
+   "old_code": "C-214",
+   "new_code": "C-052",
+   "name": "Sphinx France",
+   "country": "法国"
+  },
+  {
+   "old_code": "C-217",
+   "new_code": "C-053",
+   "name": "Eptimo",
+   "country": "波兰"
+  },
+  {
+   "old_code": "C-218",
+   "new_code": "C-054",
+   "name": "Maritex Leszek Łosin Sp.j.",
+   "country": "波兰"
+  },
+  {
+   "old_code": "C-219",
+   "new_code": "C-055",
+   "name": "Tekniska Polska",
+   "country": "波兰"
+  },
+  {
+   "old_code": "C-220",
+   "new_code": "C-056",
+   "name": "Avtera BH",
+   "country": "波黑"
+  },
+  {
+   "old_code": "C-221",
+   "new_code": "C-057",
+   "name": "ATC Automation（L.E.D. Lighting & Electrical Distribution）",
+   "country": "爱尔兰"
+  },
+  {
+   "old_code": "C-222",
+   "new_code": "C-058",
+   "name": "Profibus Ireland Ltd",
+   "country": "爱尔兰"
+  },
+  {
+   "old_code": "C-223",
+   "new_code": "C-059",
+   "name": "DataLink Communications",
+   "country": "爱尔兰/英国"
+  },
+  {
+   "old_code": "C-224",
+   "new_code": "C-060",
+   "name": "Electrobit",
+   "country": "爱沙尼亚"
+  },
+  {
+   "old_code": "C-225",
+   "new_code": "C-061",
+   "name": "Dialect Skövde（evolvit.se）",
+   "country": "瑞典"
+  },
+  {
+   "old_code": "C-229",
+   "new_code": "C-062",
+   "name": "Automatikos centras, UAB",
+   "country": "立陶宛"
+  },
+  {
+   "old_code": "C-230",
+   "new_code": "C-063",
+   "name": "Frineta UAB",
+   "country": "立陶宛"
+  },
+  {
+   "old_code": "C-231",
+   "new_code": "C-064",
+   "name": "ATYS-co Romania",
+   "country": "罗马尼亚"
+  },
+  {
+   "old_code": "C-232",
+   "new_code": "C-065",
+   "name": "Eltrec Power Srl",
+   "country": "罗马尼亚"
+  },
+  {
+   "old_code": "C-233",
+   "new_code": "C-066",
+   "name": "IMPERIAL ELECTRIC S.A.",
+   "country": "罗马尼亚"
+  },
+  {
+   "old_code": "C-234",
+   "new_code": "C-067",
+   "name": "ABP TECH",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-235",
+   "new_code": "C-068",
+   "name": "Adcon Engineering（ACD/Adcon）",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-236",
+   "new_code": "C-069",
+   "name": "Agilix Solutions LLC",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-237",
+   "new_code": "C-070",
+   "name": "B&K Electric Wholesale Co",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-238",
+   "new_code": "C-071",
+   "name": "Black Box",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-239",
+   "new_code": "C-072",
+   "name": "Branom Instrument Co",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-240",
+   "new_code": "C-073",
+   "name": "Brenner Industrial Sales and Supply",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-241",
+   "new_code": "C-074",
+   "name": "C&E Advanced Technologies",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-242",
+   "new_code": "C-075",
+   "name": "CBT Company",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-243",
+   "new_code": "C-076",
+   "name": "Clayton Engineering Company",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-244",
+   "new_code": "C-077",
+   "name": "Digi-Key Corporation",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-245",
+   "new_code": "C-078",
+   "name": "E & M Electric",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-246",
+   "new_code": "C-079",
+   "name": "Electric Motor Shop and Supply Co",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-247",
+   "new_code": "C-080",
+   "name": "Electric Supply & Equipment",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-248",
+   "new_code": "C-081",
+   "name": "ErieTec, Inc",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-249",
+   "new_code": "C-082",
+   "name": "International Trade Carrier, LLC",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-250",
+   "new_code": "C-083",
+   "name": "Lakeland Engineering",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-251",
+   "new_code": "C-084",
+   "name": "Logic Inc",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-252",
+   "new_code": "C-085",
+   "name": "Platinum Micro",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-253",
+   "new_code": "C-086",
+   "name": "Power Mation",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-254",
+   "new_code": "C-087",
+   "name": "Power Motion",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-255",
+   "new_code": "C-088",
+   "name": "Process Technology, Inc. (PTI)",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-256",
+   "new_code": "C-089",
+   "name": "Pulse Supply",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-257",
+   "new_code": "C-090",
+   "name": "Purvis Industries LLC",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-258",
+   "new_code": "C-091",
+   "name": "RSP Supply",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-259",
+   "new_code": "C-092",
+   "name": "Radwell International",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-260",
+   "new_code": "C-093",
+   "name": "Santa Clara Systems",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-261",
+   "new_code": "C-094",
+   "name": "Shingle & Gibb",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-262",
+   "new_code": "C-095",
+   "name": "Stoneway Electric Supply Co",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-263",
+   "new_code": "C-096",
+   "name": "Sure Controls Inc",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-264",
+   "new_code": "C-097",
+   "name": "Synergy Micro Solutions",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-265",
+   "new_code": "C-098",
+   "name": "TCIC（Total Control & Instrumentation）",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-266",
+   "new_code": "C-099",
+   "name": "TMMI, LLC",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-267",
+   "new_code": "C-100",
+   "name": "Thorp Controls",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-268",
+   "new_code": "C-101",
+   "name": "Van Meter Inc.",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-269",
+   "new_code": "C-102",
+   "name": "Wille Electric Supply Co",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-270",
+   "new_code": "C-103",
+   "name": "Wolf Automation",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-271",
+   "new_code": "C-104",
+   "name": "Zesco Inc",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-273",
+   "new_code": "C-105",
+   "name": "Blue Helix",
+   "country": "英国"
+  },
+  {
+   "old_code": "C-274",
+   "new_code": "C-106",
+   "name": "Clanrye Electrical Supplies Ltd",
+   "country": "英国"
+  },
+  {
+   "old_code": "C-275",
+   "new_code": "C-107",
+   "name": "Connectec",
+   "country": "英国"
+  },
+  {
+   "old_code": "C-276",
+   "new_code": "C-108",
+   "name": "Consyst Limited",
+   "country": "英国"
+  },
+  {
+   "old_code": "C-277",
+   "new_code": "C-109",
+   "name": "Control Technologies UK Ltd",
+   "country": "英国"
+  },
+  {
+   "old_code": "C-278",
+   "new_code": "C-110",
+   "name": "Diamond Technologies Inc",
+   "country": "英国"
+  },
+  {
+   "old_code": "C-279",
+   "new_code": "C-111",
+   "name": "Digital Controls",
+   "country": "英国"
+  },
+  {
+   "old_code": "C-280",
+   "new_code": "C-112",
+   "name": "Distec Ltd",
+   "country": "英国"
+  },
+  {
+   "old_code": "C-281",
+   "new_code": "C-113",
+   "name": "Future Focus Energy Ltd",
+   "country": "英国"
+  },
+  {
+   "old_code": "C-283",
+   "new_code": "C-114",
+   "name": "LC Automation Ltd",
+   "country": "英国"
+  },
+  {
+   "old_code": "C-286",
+   "new_code": "C-115",
+   "name": "Netceed UK",
+   "country": "英国"
+  },
+  {
+   "old_code": "C-287",
+   "new_code": "C-116",
+   "name": "Saratota",
+   "country": "英国"
+  },
+  {
+   "old_code": "C-288",
+   "new_code": "C-117",
+   "name": "Transend",
+   "country": "英国"
+  },
+  {
+   "old_code": "C-289",
+   "new_code": "C-118",
+   "name": "Westbase Networks",
+   "country": "英国"
+  },
+  {
+   "old_code": "C-290",
+   "new_code": "C-119",
+   "name": "Computer Products Professional Benelux B.V.",
+   "country": "荷兰"
+  },
+  {
+   "old_code": "C-292",
+   "new_code": "C-120",
+   "name": "Koning & Hartman B.V.",
+   "country": "荷兰/比利时"
+  },
+  {
+   "old_code": "C-293",
+   "new_code": "C-121",
+   "name": "SmartSD",
+   "country": "荷兰/比利时/法国"
+  },
+  {
+   "old_code": "C-294",
+   "new_code": "C-122",
+   "name": "MVA - Electrotécnia",
+   "country": "葡萄牙"
+  },
+  {
+   "old_code": "C-295",
+   "new_code": "C-123",
+   "name": "Cablewindow",
+   "country": "西班牙"
+  },
+  {
+   "old_code": "C-296",
+   "new_code": "C-124",
+   "name": "Ekanet",
+   "country": "西班牙"
+  },
+  {
+   "old_code": "C-297",
+   "new_code": "C-125",
+   "name": "Garma Electronica",
+   "country": "西班牙"
+  },
+  {
+   "old_code": "C-299",
+   "new_code": "C-126",
+   "name": "Omron Electronics Iberia",
+   "country": "西班牙"
+  },
+  {
+   "old_code": "C-300",
+   "new_code": "C-127",
+   "name": "ecomshop",
+   "country": "西班牙"
+  },
+  {
+   "old_code": "C-301",
+   "new_code": "C-128",
+   "name": "eWorldMe",
+   "country": "阿联酋"
+  },
+  {
+   "old_code": "C-302",
+   "new_code": "C-129",
+   "name": "Tektraco",
+   "country": "马耳他"
+  },
+  {
+   "old_code": "C-006",
+   "new_code": "C-130",
+   "name": "Senetic Israel",
+   "country": "以色列"
+  },
+  {
+   "old_code": "C-007",
+   "new_code": "C-131",
+   "name": "Shafaq Alforat General Trading",
+   "country": "伊拉克"
+  },
+  {
+   "old_code": "C-008",
+   "new_code": "C-132",
+   "name": "Senetic Bulgaria LTD",
+   "country": "保加利亚"
+  },
+  {
+   "old_code": "C-009",
+   "new_code": "C-133",
+   "name": "Proelektronika",
+   "country": "克罗地亚"
+  },
+  {
+   "old_code": "C-010",
+   "new_code": "C-134",
+   "name": "RBT Technologies Hrvatska d.o.o.",
+   "country": "克罗地亚"
+  },
+  {
+   "old_code": "C-012",
+   "new_code": "C-135",
+   "name": "Franklin Empire",
+   "country": "加拿大"
+  },
+  {
+   "old_code": "C-013",
+   "new_code": "C-136",
+   "name": "Graybar Canada",
+   "country": "加拿大"
+  },
+  {
+   "old_code": "C-014",
+   "new_code": "C-137",
+   "name": "ISP Supplies Canada（MBSI WAV）",
+   "country": "加拿大"
+  },
+  {
+   "old_code": "C-015",
+   "new_code": "C-138",
+   "name": "Payam Poursaied / MoLuke",
+   "country": "加拿大"
+  },
+  {
+   "old_code": "C-016",
+   "new_code": "C-139",
+   "name": "ALSO Hungary（Ramiris）",
+   "country": "匈牙利"
+  },
+  {
+   "old_code": "C-017",
+   "new_code": "C-140",
+   "name": "Senetic Magyarország Kft.",
+   "country": "匈牙利"
+  },
+  {
+   "old_code": "C-018",
+   "new_code": "C-141",
+   "name": "Aleksandar Cvetanoski",
+   "country": "北马其顿"
+  },
+  {
+   "old_code": "C-019",
+   "new_code": "C-142",
+   "name": "Phendula Technologies (Pty) Ltd.",
+   "country": "南非"
+  },
+  {
+   "old_code": "C-020",
+   "new_code": "C-143",
+   "name": "PT. Armada Teknologi Indonesia",
+   "country": "印尼"
+  },
+  {
+   "old_code": "C-021",
+   "new_code": "C-144",
+   "name": "EINS S.A.",
+   "country": "厄瓜多尔"
+  },
+  {
+   "old_code": "C-022",
+   "new_code": "C-145",
+   "name": "AIG（Advanced Industrial Group）",
+   "country": "埃及"
+  },
+  {
+   "old_code": "C-023",
+   "new_code": "C-146",
+   "name": "RBT Technologies Srbija d.o.o.",
+   "country": "塞尔维亚"
+  },
+  {
+   "old_code": "C-024",
+   "new_code": "C-147",
+   "name": "Kritical Hardware",
+   "country": "墨西哥"
+  },
+  {
+   "old_code": "C-025",
+   "new_code": "C-148",
+   "name": "COMPUSOLUCIONES",
+   "country": "多米尼加"
+  },
+  {
+   "old_code": "C-026",
+   "new_code": "C-149",
+   "name": "Spectra GmbH (Niederlassung Österreich)",
+   "country": "奥地利"
+  },
+  {
+   "old_code": "C-027",
+   "new_code": "C-150",
+   "name": "ICT Integrators",
+   "country": "巴基斯坦"
+  },
+  {
+   "old_code": "C-028",
+   "new_code": "C-151",
+   "name": "Above-Net Soluções Industriais",
+   "country": "巴西"
+  },
+  {
+   "old_code": "C-029",
+   "new_code": "C-152",
+   "name": "All Tech Solutions (atsol)",
+   "country": "巴西"
+  },
+  {
+   "old_code": "C-030",
+   "new_code": "C-153",
+   "name": "ICS Brasil",
+   "country": "巴西"
+  },
+  {
+   "old_code": "C-031",
+   "new_code": "C-154",
+   "name": "LRI AUTOMAÇÃO",
+   "country": "巴西"
+  },
+  {
+   "old_code": "C-032",
+   "new_code": "C-155",
+   "name": "Christos Kargiotis / Novelcomm",
+   "country": "希腊"
+  },
+  {
+   "old_code": "C-033",
+   "new_code": "C-156",
+   "name": "Georgios Argyrides",
+   "country": "希腊"
+  },
+  {
+   "old_code": "C-034",
+   "new_code": "C-157",
+   "name": "Vasileios Tzamichas / Rom Digital",
+   "country": "希腊"
+  },
+  {
+   "old_code": "C-035",
+   "new_code": "C-158",
+   "name": "Automation24 GmbH",
+   "country": "德国"
+  },
+  {
+   "old_code": "C-036",
+   "new_code": "C-159",
+   "name": "GETIC（德国）",
+   "country": "德国"
+  },
+  {
+   "old_code": "C-037",
+   "new_code": "C-160",
+   "name": "IC Intracom (Intellinet/Manhattan)",
+   "country": "德国"
+  },
+  {
+   "old_code": "C-038",
+   "new_code": "C-161",
+   "name": "Lantech Communications Europe GmbH",
+   "country": "德国"
+  },
+  {
+   "old_code": "C-039",
+   "new_code": "C-162",
+   "name": "Microsens",
+   "country": "德国"
+  },
+  {
+   "old_code": "C-040",
+   "new_code": "C-163",
+   "name": "RS Components GmbH",
+   "country": "德国"
+  },
+  {
+   "old_code": "C-041",
+   "new_code": "C-164",
+   "name": "Senetic GmbH（德国）",
+   "country": "德国"
+  },
+  {
+   "old_code": "C-042",
+   "new_code": "C-165",
+   "name": "Conrad / Reichelt / Distrelec",
+   "country": "德国/瑞士"
+  },
+  {
+   "old_code": "C-043",
+   "new_code": "C-166",
+   "name": "ALIDEX ITALIA",
+   "country": "意大利"
+  },
+  {
+   "old_code": "C-044",
+   "new_code": "C-167",
+   "name": "Donato De Meo",
+   "country": "意大利"
+  },
+  {
+   "old_code": "C-045",
+   "new_code": "C-168",
+   "name": "Rexel Italia",
+   "country": "意大利"
+  },
+  {
+   "old_code": "C-046",
+   "new_code": "C-169",
+   "name": "Senetic Italia S.r.l.",
+   "country": "意大利"
+  },
+  {
+   "old_code": "C-047",
+   "new_code": "C-170",
+   "name": "Sphinx Italia",
+   "country": "意大利"
+  },
+  {
+   "old_code": "C-048",
+   "new_code": "C-171",
+   "name": "Dustin Norway",
+   "country": "挪威"
+  },
+  {
+   "old_code": "C-049",
+   "new_code": "C-172",
+   "name": "Conexpro (GNT-IG 系列)",
+   "country": "捷克"
+  },
+  {
+   "old_code": "C-050",
+   "new_code": "C-173",
+   "name": "Michal Stepanek / i4wifi 100MEGA Distribution s.r.o.",
+   "country": "捷克"
+  },
+  {
+   "old_code": "C-051",
+   "new_code": "C-174",
+   "name": "Senetic s.r.o.",
+   "country": "捷克"
+  },
+  {
+   "old_code": "C-052",
+   "new_code": "C-175",
+   "name": "WIAutomation",
+   "country": "捷克"
+  },
+  {
+   "old_code": "C-053",
+   "new_code": "C-176",
+   "name": "ASBIS SK",
+   "country": "斯洛伐克"
+  },
+  {
+   "old_code": "C-054",
+   "new_code": "C-177",
+   "name": "Matej Sojka / 365IT",
+   "country": "斯洛伐克"
+  },
+  {
+   "old_code": "C-055",
+   "new_code": "C-178",
+   "name": "RBT Technologies d.o.o.",
+   "country": "斯洛文尼亚"
+  },
+  {
+   "old_code": "C-056",
+   "new_code": "C-179",
+   "name": "Anewtech Systems Pte Ltd",
+   "country": "新加坡"
+  },
+  {
+   "old_code": "C-057",
+   "new_code": "C-180",
+   "name": "Data Controls Inc.",
+   "country": "日本"
+  },
+  {
+   "old_code": "C-058",
+   "new_code": "C-181",
+   "name": "V-net AAEON Co., Ltd.（现 Acceed Japan）",
+   "country": "日本"
+  },
+  {
+   "old_code": "C-059",
+   "new_code": "C-182",
+   "name": "TEMPEL GROUP CHILE",
+   "country": "智利"
+  },
+  {
+   "old_code": "C-060",
+   "new_code": "C-183",
+   "name": "TERABOX Soluciones Tecnológicas",
+   "country": "智利"
+  },
+  {
+   "old_code": "C-061",
+   "new_code": "C-184",
+   "name": "Cir Toulouse",
+   "country": "法国"
+  },
+  {
+   "old_code": "C-062",
+   "new_code": "C-185",
+   "name": "Exertis Azenn",
+   "country": "法国"
+  },
+  {
+   "old_code": "C-063",
+   "new_code": "C-186",
+   "name": "Gigamedia",
+   "country": "法国"
+  },
+  {
+   "old_code": "C-064",
+   "new_code": "C-187",
+   "name": "Senetic France",
+   "country": "法国"
+  },
+  {
+   "old_code": "C-065",
+   "new_code": "C-188",
+   "name": "Inter Projekt S.A.",
+   "country": "波兰"
+  },
+  {
+   "old_code": "C-066",
+   "new_code": "C-189",
+   "name": "OEM AUTOMATIC Sp. z o.o.",
+   "country": "波兰"
+  },
+  {
+   "old_code": "C-067",
+   "new_code": "C-190",
+   "name": "Piotr Wasyk / MWTC",
+   "country": "波兰"
+  },
+  {
+   "old_code": "C-068",
+   "new_code": "C-191",
+   "name": "Senetic S.A.（波兰）",
+   "country": "波兰"
+  },
+  {
+   "old_code": "C-069",
+   "new_code": "C-192",
+   "name": "TME (Transfer Multisort Elektronik)",
+   "country": "波兰"
+  },
+  {
+   "old_code": "C-070",
+   "new_code": "C-193",
+   "name": "BCS",
+   "country": "波兰/捷克"
+  },
+  {
+   "old_code": "C-071",
+   "new_code": "C-194",
+   "name": "Easy Net Co., Ltd.",
+   "country": "泰国"
+  },
+  {
+   "old_code": "C-072",
+   "new_code": "C-195",
+   "name": "Success Network And Communication Co., Ltd.",
+   "country": "泰国"
+  },
+  {
+   "old_code": "C-073",
+   "new_code": "C-196",
+   "name": "Braemac",
+   "country": "澳大利亚"
+  },
+  {
+   "old_code": "C-074",
+   "new_code": "C-197",
+   "name": "Tekdis",
+   "country": "澳大利亚"
+  },
+  {
+   "old_code": "C-075",
+   "new_code": "C-198",
+   "name": "Wireless Professional Solutions",
+   "country": "澳大利亚"
+  },
+  {
+   "old_code": "C-076",
+   "new_code": "C-199",
+   "name": "M Ciantar",
+   "country": "爱尔兰"
+  },
+  {
+   "old_code": "C-077",
+   "new_code": "C-200",
+   "name": "Aurdel Sweden AB",
+   "country": "瑞典"
+  },
+  {
+   "old_code": "C-078",
+   "new_code": "C-201",
+   "name": "Senetic AB",
+   "country": "瑞典"
+  },
+  {
+   "old_code": "C-079",
+   "new_code": "C-202",
+   "name": "LaboTest AB",
+   "country": "瑞典/丹麦"
+  },
+  {
+   "old_code": "C-080",
+   "new_code": "C-203",
+   "name": "Senetic AG",
+   "country": "瑞士"
+  },
+  {
+   "old_code": "C-081",
+   "new_code": "C-204",
+   "name": "ValTekGroup",
+   "country": "秘鲁"
+  },
+  {
+   "old_code": "C-082",
+   "new_code": "C-205",
+   "name": "WiFi-Stock.com（JSC Katalita）",
+   "country": "立陶宛"
+  },
+  {
+   "old_code": "C-083",
+   "new_code": "C-206",
+   "name": "Elko Romania",
+   "country": "罗马尼亚"
+  },
+  {
+   "old_code": "C-084",
+   "new_code": "C-207",
+   "name": "Holt Andrei Tiberiu / GHT-NET",
+   "country": "罗马尼亚"
+  },
+  {
+   "old_code": "C-085",
+   "new_code": "C-208",
+   "name": "Senetic Romania SRL",
+   "country": "罗马尼亚"
+  },
+  {
+   "old_code": "C-086",
+   "new_code": "C-209",
+   "name": "4D Controls",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-087",
+   "new_code": "C-210",
+   "name": "A A Electric",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-088",
+   "new_code": "C-211",
+   "name": "ACD（Automation Components Distributor）",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-089",
+   "new_code": "C-212",
+   "name": "AWC, Inc.",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-090",
+   "new_code": "C-213",
+   "name": "Applied Automation Controls Inc",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-091",
+   "new_code": "C-214",
+   "name": "Applied Industrial Controls",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-092",
+   "new_code": "C-215",
+   "name": "Crawford Electric Supply",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-093",
+   "new_code": "C-216",
+   "name": "Crescent Electric Supply",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-094",
+   "new_code": "C-217",
+   "name": "EESCO（Englewood Electric Supply）",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-095",
+   "new_code": "C-218",
+   "name": "Gexpro",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-096",
+   "new_code": "C-219",
+   "name": "Graybar Electric",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-097",
+   "new_code": "C-220",
+   "name": "Hannan Supply Company",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-098",
+   "new_code": "C-221",
+   "name": "ISP Supplies（powered by WAV）",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-099",
+   "new_code": "C-222",
+   "name": "Industrial Electronic Supply",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-100",
+   "new_code": "C-223",
+   "name": "Industrial Networking Solutions",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-101",
+   "new_code": "C-224",
+   "name": "John Ellis",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-102",
+   "new_code": "C-225",
+   "name": "Jun Baay",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-103",
+   "new_code": "C-226",
+   "name": "Kendall Electric",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-104",
+   "new_code": "C-227",
+   "name": "Link Technologies, Inc.",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-105",
+   "new_code": "C-228",
+   "name": "Motion (motionworld.com)",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-106",
+   "new_code": "C-229",
+   "name": "PTS Precision Tools Service, Inc.",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-107",
+   "new_code": "C-230",
+   "name": "Power Drives",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-108",
+   "new_code": "C-231",
+   "name": "Prime Industrial Components, Inc",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-109",
+   "new_code": "C-232",
+   "name": "Queen City Supply Co.（MQ Automation 分部）",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-110",
+   "new_code": "C-233",
+   "name": "RS Americas（RS Components 美国）",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-111",
+   "new_code": "C-234",
+   "name": "Ramco Innovations",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-112",
+   "new_code": "C-235",
+   "name": "Rexel USA",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-113",
+   "new_code": "C-236",
+   "name": "Seltrol",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-114",
+   "new_code": "C-237",
+   "name": "Standard Electric Supply",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-115",
+   "new_code": "C-238",
+   "name": "TRI-Phase",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-116",
+   "new_code": "C-239",
+   "name": "The Reynolds Company",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-117",
+   "new_code": "C-240",
+   "name": "Torpey Denver Inc",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-118",
+   "new_code": "C-241",
+   "name": "Tri-Power MPT/OTP Industrial Solutions",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-119",
+   "new_code": "C-242",
+   "name": "Werner Electric",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-120",
+   "new_code": "C-243",
+   "name": "Wesco",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-121",
+   "new_code": "C-244",
+   "name": "LaboTest Oy",
+   "country": "芬兰"
+  },
+  {
+   "old_code": "C-122",
+   "new_code": "C-245",
+   "name": "AMG Systems",
+   "country": "英国"
+  },
+  {
+   "old_code": "C-123",
+   "new_code": "C-246",
+   "name": "Amplicon（英国）",
+   "country": "英国"
+  },
+  {
+   "old_code": "C-124",
+   "new_code": "C-247",
+   "name": "Bamidele Richard Amire / Nistech",
+   "country": "英国"
+  },
+  {
+   "old_code": "C-125",
+   "new_code": "C-248",
+   "name": "EET United Kingdom",
+   "country": "英国"
+  },
+  {
+   "old_code": "C-126",
+   "new_code": "C-249",
+   "name": "Jason Ede / ASK4",
+   "country": "英国"
+  },
+  {
+   "old_code": "C-127",
+   "new_code": "C-250",
+   "name": "MCC Controls Ltd T/A PES Ireland",
+   "country": "英国"
+  },
+  {
+   "old_code": "C-128",
+   "new_code": "C-251",
+   "name": "Park Electrical Services",
+   "country": "英国"
+  },
+  {
+   "old_code": "C-129",
+   "new_code": "C-252",
+   "name": "Parmley Graham Ltd",
+   "country": "英国"
+  },
+  {
+   "old_code": "C-130",
+   "new_code": "C-253",
+   "name": "Routeco Limited",
+   "country": "英国"
+  },
+  {
+   "old_code": "C-131",
+   "new_code": "C-254",
+   "name": "Samson Kamwendo / IP Architechs",
+   "country": "英国"
+  },
+  {
+   "old_code": "C-132",
+   "new_code": "C-255",
+   "name": "Senetic LTD（英国）",
+   "country": "英国"
+  },
+  {
+   "old_code": "C-133",
+   "new_code": "C-256",
+   "name": "Wifi Stock (UK) Ltd",
+   "country": "英国"
+  },
+  {
+   "old_code": "C-134",
+   "new_code": "C-257",
+   "name": "Nedis",
+   "country": "荷兰"
+  },
+  {
+   "old_code": "C-135",
+   "new_code": "C-258",
+   "name": "Senetic B.V.",
+   "country": "荷兰"
+  },
+  {
+   "old_code": "C-136",
+   "new_code": "C-259",
+   "name": "shop4power.nl",
+   "country": "荷兰"
+  },
+  {
+   "old_code": "C-137",
+   "new_code": "C-260",
+   "name": "F.Fonseca S.A",
+   "country": "葡萄牙"
+  },
+  {
+   "old_code": "C-138",
+   "new_code": "C-261",
+   "name": "Tempel Group",
+   "country": "葡萄牙"
+  },
+  {
+   "old_code": "C-139",
+   "new_code": "C-262",
+   "name": "Fibercli",
+   "country": "西班牙"
+  },
+  {
+   "old_code": "C-140",
+   "new_code": "C-263",
+   "name": "Senetic España S.L.U.",
+   "country": "西班牙"
+  },
+  {
+   "old_code": "C-141",
+   "new_code": "C-264",
+   "name": "Tempel Group",
+   "country": "西班牙"
+  },
+  {
+   "old_code": "C-142",
+   "new_code": "C-265",
+   "name": "ALIDEX IBERIA",
+   "country": "西班牙/葡萄牙"
+  },
+  {
+   "old_code": "C-143",
+   "new_code": "C-266",
+   "name": "HOANG VAN INFORMATICS TECHNOLOGY",
+   "country": "越南"
+  },
+  {
+   "old_code": "C-144",
+   "new_code": "C-267",
+   "name": "KHAI MINH ELECTRIC TECHNOLOGY JSC",
+   "country": "越南"
+  },
+  {
+   "old_code": "C-145",
+   "new_code": "C-268",
+   "name": "Dritan / Vreshta",
+   "country": "阿尔巴尼亚"
+  },
+  {
+   "old_code": "C-146",
+   "new_code": "C-269",
+   "name": "TEMPEL GROUP ARGENTINA",
+   "country": "阿根廷"
+  },
+  {
+   "old_code": "C-147",
+   "new_code": "C-270",
+   "name": "Amplicon Middle East",
+   "country": "阿联酋"
+  },
+  {
+   "old_code": "C-148",
+   "new_code": "C-271",
+   "name": "Cayee Information Technology Ltd",
+   "country": "香港"
+  },
+  {
+   "old_code": "C-149",
+   "new_code": "C-272",
+   "name": "NetEon",
+   "country": "马来西亚"
+  },
+  {
+   "old_code": "C-150",
+   "new_code": "C-273",
+   "name": "Dennis Burgess",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-319",
+   "new_code": "C-274",
+   "name": "1TNT.ca",
+   "country": "加拿大"
+  },
+  {
+   "old_code": "C-320",
+   "new_code": "C-275",
+   "name": "Capestone",
+   "country": "荷兰"
+  },
+  {
+   "old_code": "C-343",
+   "new_code": "C-276",
+   "name": "Astradis Elecktronik GmbH",
+   "country": "德国"
+  },
+  {
+   "old_code": "C-344",
+   "new_code": "C-277",
+   "name": "KMJ Communications",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-345",
+   "new_code": "C-278",
+   "name": "Symmetry Electronics",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-346",
+   "new_code": "C-279",
+   "name": "Express Systems & Peripherals (DigiStore)",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-347",
+   "new_code": "C-280",
+   "name": "Grandmetric",
+   "country": "波兰"
+  },
+  {
+   "old_code": "C-367",
+   "new_code": "C-281",
+   "name": "Target Distributing",
+   "country": "美国"
+  },
+  {
+   "old_code": "C-370",
+   "new_code": "C-282",
+   "name": "Teleste",
+   "country": "芬兰"
+  },
+  {
+   "old_code": "C-371",
+   "new_code": "C-283",
+   "name": "TradeInn",
+   "country": "西班牙"
+  },
+  {
+   "old_code": "C-372",
+   "new_code": "C-284",
+   "name": "EURO DK SIA",
+   "country": "拉脱维亚"
+  },
+  {
+   "old_code": "C-373",
+   "new_code": "C-285",
+   "name": "Telco Systems Ltd",
+   "country": "格鲁吉亚"
+  }
+ ]
+}

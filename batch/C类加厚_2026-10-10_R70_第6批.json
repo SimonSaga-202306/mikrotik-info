@@ -1,0 +1,404 @@
+{
+  "date": "2026-10-10",
+  "round": "R70 第 6 批（C-026—C-030）",
+  "scope": "按当前 C 编号顺序对 C-026—C-030 做公开资料核查并加厚档案；保存公司官网/零售目录的原文及 URL，区分企业自述、供应商目录、采购入口与采购意向。五户继续保留 C，不改主表评级、不触达客户；采购/产品联系人线索均不等于采购权。",
+  "records": [
+    {
+      "code": "C-026",
+      "name": "Spectra (oring.spectra.de)",
+      "country": "德国",
+      "researched_on": "2026-10-10",
+      "contact_summary": "purchasing@spectra.de / +49 7121 1432-260：官网明确供工业 PC 与自动化领域制造商/供应商介绍公司；sales@spectra.de / +49 7121 1432-150：官网报价、订单、价格与交期入口；automationsupport@spectra.de / +49 7121 1432-130：自动化/通信产品技术支持；info@spectra.de / +49 7121 1432-10。官网列 Spectra GmbH & Co. KG，Mahdenstraße 3, 72768 Reutlingen。供应商介绍入口公开，但是否接受 ORing 以外的交换机品牌及其负责品类尚未确认。",
+      "dimensions": {
+        "法定主体与交易模式": "ORingNet 网店条款将卖方列为 Spectra GmbH & Co. KG（Reutlingen），并将网上商店交易范围限定为企业、法人及公法实体（B2B）。",
+        "工业网络与直接竞合": "Spectra 自营 ORingNet 工业网络网店，首页将其描述为销售 ORingNet 制造商产品的店铺，目录覆盖管理/非管理工业交换机、路由器、媒体转换器、设备服务器、PoE 配件和无线接入点；在我方工业交换机目标品类存在直接品牌/渠道重叠。",
+        "供应商/采购入口（重要新信号）": "Spectra 当前联系页公开采购部门邮箱与直线，并明确欢迎工业 PC 和自动化行业的制造商、供应商介绍公司。这是实际可用的供应商介绍入口，修正了主表旧“无邮箱”理由；但页面并未特别说明工业交换机/ORing 类目是否在其开放范围，也不是招标、询价或已表达的采购意向。",
+        "产品与价格快照边界": "截至 2026-10-10，ORingNet 店铺单品页展示 IGPS-1080-24V 八口 PoE 工业交换机，页面标价 €303（未含 VAT/运费）并显示 11 台库存。价格/库存是页面瞬时零售展示，不能单独证明采购成本、实际成交价或与我方同规格产品的价差；主表旧“ORing 价格高→1/3 价”尚未做同型号同条件复核。",
+        "关键人及联系边界": "未找到具名的工业交换机采购人。Purchasing Department 是官网公开的部门入口；sales@ 用于客户订单/报价，automationsupport@ 用于技术支持，均不可直接等同于指定的交换机品类买手。",
+        "本轮评级建议": "保持 C。新增采购部供应商介绍入口是显著信号，旧无邮箱下放依据已过时；但公司当前自营 ORingNet 交换机网店、未见第二品牌采购政策或明确产品缺口，故不因入口存在自动升档，也不触达。"
+      },
+      "assessment": "保持 C（只加厚、不触达）。官网发现 purchasing@spectra.de 及制造商/供应商自我介绍邀请，这是本批最强的新采购流程信号；但其具体说明限定在工业 PC 与自动化领域，且公司同时直接经营 ORingNet 工业交换机。没有证据证明正在征求交换机新品/第二来源，也不能把通用供应商入口写成采购意向。旧“无邮箱”细分理由已更新。",
+      "kp": [],
+      "facts": [
+        {
+          "dim": "ORingNet 自营网店与卖方主体",
+          "text": "Spectra 官方 ORingNet 网店将自身描述为销售 ORingNet 工业网络产品的商店；店面宣传称可直接购买 ORingNet 产品。网站商店条款进一步将主体列为 Spectra GmbH & Co. KG。",
+          "quote": "The webshop for industrial network automation with products from the manufacturer ORingNet Industrial Networking Corporation.",
+          "url": "https://oring.spectra.de/en/"
+        },
+        {
+          "dim": "管理型工业交换机目录",
+          "text": "官方店铺有单独的 ORingNet 管理型工业以太网交换机目录，按端口、管理方式、PoE、温度和安装方式筛选；目录可见工业 DIN 导轨、宽温和 PoE 机型。",
+          "quote": "Industrial Managed Ethernet Switches from ORingNet",
+          "url": "https://oring.spectra.de/en/Products/Switches/Managed-Switches"
+        },
+        {
+          "dim": "实时零售价/库存示例",
+          "text": "IGPS-1080-24V 产品页截至本次查阅显示 8 口 PoE 交换机标价 €303、11 台库存，价格另加 VAT 和运费。此为页面瞬时零售快照，不推导采购价、成交量或同规格价差。",
+          "quote": "Regular price: €303.00 · Prices excl. VAT plus shipping costs · Available stock: 11",
+          "url": "https://oring.spectra.de/en/products/switches/unmanaged-switches/igps-1080-24v-8-port-poe-switch"
+        },
+        {
+          "dim": "制造商/供应商介绍入口",
+          "text": "Spectra 官方联系页明确欢迎工业 PC 和自动化行业的制造商/供应商向采购部门介绍公司，并公开采购部邮箱及直线。页面没有承诺接受每一品类或正在采购工业交换机。",
+          "quote": "Are you a manufacturer or supplier in the industrial PC and automation sector and would like to introduce your company to us? Please feel free to contact our Purchasing Department.",
+          "url": "https://spectra.de/en/contact"
+        },
+        {
+          "dim": "销售报价、自动化技术支持与公司入口",
+          "text": "联系页分别给出销售/报价、自动化与通信产品技术支持以及公司总入口；可按未来经授权的用途区分，但本轮不发送邮件。",
+          "quote": "You’d like to place an order, request a quote, ask about prices and delivery times, or seek advice on a product. · sales@spectra.de · automationsupport@spectra.de · info@spectra.de",
+          "url": "https://spectra.de/en/contact"
+        },
+        {
+          "dim": "B2B 法律条款",
+          "text": "网店条款列出 Spectra GmbH & Co. KG、Reutlingen 地址，并称该线上条款适用于企业、法人及公法实体交易。",
+          "quote": "These General Terms and Conditions of Business (hereinafter called: “Online Shop GTC”) of the company Spectra GmbH & Co. KG, Mahdenstraße 3, 72768 Reutlingen, Germany",
+          "url": "https://oring.spectra.de/en/services/gtc"
+        }
+      ],
+      "next_steps": [
+        "若用户后续明确授权联系，可先通过 purchasing@spectra.de 核实负责工业以太网交换机的品类负责人，以及供应商介绍邀请是否覆盖该品类；现在不发送邮件、不寄样。",
+        "只有在确认其接受第二品牌/新增供应商并出现明确 SKU、认证、供货或项目缺口后，再比较同端口数、PoE、温度、管理功能、质保及税运条件；不沿用未经复核的“1/3 价格”说法。",
+        "将 ORingNet 店铺库存与标价视为公开零售页面快照，不作采购数量、折扣或授权范围推断。"
+      ],
+      "unknowns": [
+        "purchasing@spectra.de 的供应商介绍范围是否包含工业以太网交换机、是否开放 ORing 以外的第二品牌未知",
+        "负责 ORingNet/工业通信产品采购的具名人员、采购量、品牌准入和合同政策未知",
+        "网店页面所示库存、价格与实际可售/批发条款会变化；尚未取得同型号、同条件的我方竞品比较",
+        "直接采购入口不等于对我方产品有需求或已同意被联系；本轮没有客户沟通"
+      ],
+      "legacy_contact": "官网表单（德：不冷邮件）+LinkedIn",
+      "legacy_why": "【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评：①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：通用分销商信号，无差异化切入点，慢慢跟",
+      "legacy_sub": "B下放·无邮箱（群发触达不到）",
+      "revised_sub": "竞合·自营 ORingNet 工业交换机网店；官网有采购介绍入口",
+      "revised_angle": "暂不作价格型切入；仅在核实供应商准入、同规格差异与明确需求后再评估",
+      "revised_why": "Spectra 公开经营 ORingNet 工业交换机网店，并新增可核验的采购部供应商介绍入口；入口覆盖范围未明确至交换机，也无第二品牌采购缺口，维持 C。"
+    },
+    {
+      "code": "C-027",
+      "name": "Videor",
+      "country": "德国",
+      "researched_on": "2026-10-10",
+      "contact_summary": "VIDEOR E. Hartig GmbH：info@videor.com / +49 6074 888-0；Inside Sales sales@videor.com / +49 6074 888-300；Technical Service beratung@videor.com / +49 6074 888-111；地址 Carl-Zeiss-Straße 8, D-63322 Rödermark。官网另公布 Sales Director Michael Schwammborn（M.Schwamborn@videor.com）及区域 Key Account Manager；这些是销售/客户管理线索，未证实为交换机采购人。",
+      "dimensions": {
+        "法定主体与业务规模": "VIDEOR 联系页标示公司为 VIDEOR E. Hartig GmbH；公司介绍自述其为视频与安防技术分销商、家族企业，约 100 名员工，1975 年成立，提供产品分销、预售/售后与定制方案。公司规模/领先地位为官网自述。",
+        "ComNet 品牌与交换机目录": "VIDEOR 当前 ComNet 品牌目录显示约 300 项商品，并列出现售目录中的 ComNet CNG6F2T4MPB 工业管理型交换机。目录标价/可用性要求客户登录；目录出现只证明公开上架展示，不能证明实时库存、授权合同或采购意向。",
+        "具体工业网络重叠": "VIDEOR 商品页将 CNG6F2T4MPB 描述为 6 口 L2+ 工业管理型交换机，含 4 个千兆铜口与 2 个 SFP 口，并列 PoE 参数；属于与我方工业交换机产品的直接重叠。技术值按该销售页/厂商规格描述记录，报价或比较前仍需核对正式数据表。",
+        "KP/联系权限边界": "官网联系页公开 Inside Sales、Technical Service、Sales Director 及区域 KAM 的公司联系信息。销售总监及客户经理是可识别的销售线索，但未被该页标为采购或供应商准入负责人；不可据职称推断品类采购权。",
+        "授权与商业条件": "VIDEOR 有 ComNet 品牌目录及交换机 SKU；本次公开页面未找到足以独立验证 ComNet 授权范围、厂商合同、折扣层级或合作政策的材料。旧主表“ComNet 授权”仍需由品牌方/公司确认。",
+        "本轮评级建议": "保持 C。公司是成熟视频/安防分销商并在线列 ComNet 工业管理型交换机；公开的销售/KAM触点不是已确认采购人，未发现新增供应商窗口或交换机产品缺口。"
+      },
+      "assessment": "保持 C。VIDEOR 公开 ComNet 品牌目录，并列有当前工业管理型交换机 SKU；与目标品类存在直接竞合。已补公司销售及区域 KAM 联系线索，但没有采购岗位、供应商招募或明确第二来源需求证据，不升档、不触达。主表的授权表述应保持为待核，不能由上架目录单独证明。",
+      "kp": [
+        {
+          "name": "Michael Schwammborn",
+          "role": "VIDEOR 官方联系页列 Sales Director。",
+          "contact": "M.Schwamborn@videor.com / +49 151 12909800；页面未证明其负责 ComNet 工业交换机采购或供应商准入。",
+          "status": "official-company-contact·销售总监公开工作联系方式；采购职责未证实，leads-only",
+          "source": "https://www.videor.com/en/contact-us"
+        },
+        {
+          "name": "Michael Niehus",
+          "role": "VIDEOR 官方联系页列 Key Account Manager，并列德国邮编区域负责范围。",
+          "contact": "M.Niehus@videor.com / +49 170 8515040；未证实负责 ComNet 品类或采购。",
+          "status": "official-company-contact·区域客户经理线索；采购职责未证实，leads-only",
+          "source": "https://www.videor.com/en/contact-us"
+        }
+      ],
+      "facts": [
+        {
+          "dim": "公司定位与规模（官网自述）",
+          "text": "VIDEOR 自述为视频与安防技术分销商、家族企业，约 100 名员工，成立于 1975 年，并提供分销、服务及定制方案。",
+          "quote": "VIDEOR is the leading distributor of video and security technology. We are a family business with about 100 employees and a flat organisational structure, where decisions can be made extremely quickly.",
+          "url": "https://www.videor.com/en/company"
+        },
+        {
+          "dim": "ComNet 品牌商品目录",
+          "text": "VIDEOR 德语站 ComNet 品牌页显示 300 条商品，公开列出多款交换机；价格与可用性需登录。该页面不等同于 ComNet 厂商对授权状态的确认。",
+          "quote": "Produkte 1 bis 48 von 300",
+          "url": "https://www.videor.com/de/comnet"
+        },
+        {
+          "dim": "工业管理交换机 SKU",
+          "text": "VIDEOR 商品页列 ComNet CNG6F2T4MPB，为管理型工业交换机；页面把价格和库存信息设为登录可见。具体产品参数应再对照 ComNet 正式数据表。",
+          "quote": "6-Port L2+ Industrial Managed Switch · 4x 10/100/1000Base-TX (802.3bt Typ 4, 90W) · 2x 1Gbps SFP-Ports · 360W PoE-Budget",
+          "url": "https://www.videor.com/de/cng6f2t4mpb.html"
+        },
+        {
+          "dim": "公司销售、技术支持及具名销售线索",
+          "text": "VIDEOR 联系页列 Inside Sales、Technical Service、Sales Director 和区域 KAM 联系方式；个人角色属于销售/客户管理，不据此判断采购权。",
+          "quote": "Inside Sales · sales@videor.com · Technical Service · beratung@videor.com · Michael Schwammborn · Sales Director · M.Schwamborn@videor.com",
+          "url": "https://www.videor.com/en/contact-us"
+        },
+        {
+          "dim": "公司办公地址与通用联系方式",
+          "text": "VIDEOR 联系页公布公司名称、Rödermark 地址、总机和公司邮箱。",
+          "quote": "VIDEOR E. Hartig GmbH · Carl-Zeiss-Straße 8 · D-63322 Rödermark · +49 6074 888-0 · info@videor.com",
+          "url": "https://www.videor.com/en/contact-us"
+        }
+      ],
+      "next_steps": [
+        "若用户日后决定评估，先核实 ComNet 品牌合同/授权范围和工业交换机产品线负责人；不得仅凭 VIDEOR 店铺上架页面声称“已确认授权”。",
+        "只有发现 ComNet 产品组合、认证、交期或应用上有明确未覆盖规格，才讨论补充品牌；本轮不联系 Sales Director/KAM，也不寄样。",
+        "需要对照产品时，以双方当前正式数据表和登录后可见的有效商业条款为准。"
+      ],
+      "unknowns": [
+        "VIDEOR 与 ComNet/ACRE 的当前授权合同、销售区域、采购与库存政策未独立核验",
+        "Michael Schwammborn、Michael Niehus 是否参与工业交换机品类或新供应商决策未知",
+        "ComNet 当前 SKU 的实时可供量、实际价格和实际销售量需登录/公司确认",
+        "是否接受第二品牌、存在何种差异化产品或供应商缺口无公开证据"
+      ],
+      "legacy_contact": "videor.com",
+      "legacy_why": "【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评：①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：通用分销商信号，无差异化切入点，慢慢跟",
+      "legacy_sub": "B下放·无邮箱（群发触达不到）",
+      "revised_sub": "竞合·ComNet工业交换机目录；销售/KAM非已确认采购人",
+      "revised_type": "分销（官网列 ComNet 商品；厂商授权范围待核）",
+      "revised_angle": "ComNet 工业交换机直接竞合；无明确采购窗口时不提出替代方案",
+      "revised_why": "VIDEOR 当前列有 ComNet 工业管理型交换机；销售总监和区域 KAM 联系方式已公开但无采购职责证据，且未发现第二品牌窗口，维持 C。"
+    },
+    {
+      "code": "C-028",
+      "name": "Compass Distribution",
+      "country": "意大利",
+      "researched_on": "2026-10-10",
+      "contact_summary": "销售/专家联系表单；总机 +39 011 0627111（官网称可转商业团队）。Compass Distribution 是 Sirius S.p.A. 的 Division/brand；网站页脚列 P.IVA 01240900397、Strada del Portone 159, 10095 Grugliasco (TO)，而销售条款列经营/卖方为 Sirius S.p.A. Division Compass，办公室 Via Paracca 12/C, 10098 Rivoli (TO)。品牌管理团队页面列 Giacomo Cavalli（Head of Brand Management Team），未公开个人邮箱/电话，采购职责未知；寄样/正式往来地址需先核实。",
+      "dimensions": {
+        "经营主体与分销范围": "Compass 网站销售条款称产品由 Sirius S.p.A. 通过 Compass Division 销售；支持页自述向意大利专业运营商分销 networking、结构化布线和电信产品，并提供项目及技术支持。应把 Compass 视为 Sirius 的经营品牌/事业部，不把品牌名自动当作独立法人。",
+        "交换机/ComNet 产品目录": "官网将 ComNet 放在 Networking / Apparati attivi / Switch 类目；另列 ORCA Networking、PLANET Technology、Teltonika Networks、Zyxel。ComNet 品牌页把交换机、基础设施和数据传输列为应用方向，并有 CWGE26FX2TX24MSPOE 管理型 PoE 交换机商品页，存在直接产品/分销竞合。",
+        "品牌管理联系人线索": "交换机类别页列 Giacomo Cavalli 为 Head of Brand Management Team，是相关的品牌管理线索；官网未说明其负责 ComNet/工业交换机采购或新供应商审批，也未公开个人直邮。",
+        "联系方式与触达边界": "联系页通过信息表单接收产品/项目咨询，并公开电话 0110627111，称来电可直接找商业团队；未找到公开的采购部门邮箱或具名网络交换机买手。",
+        "地址/法人校验": "官网当前支持页页脚给出 Sirius S.p.A. 及 Grugliasco 地址；销售条款对卖方和运营办公室列 Sirius S.p.A. Division Compass 与 Rivoli 地址。正式合同主体据销售条款为 Sirius S.p.A.，两个地址用途/时效应在交易前向公司核对。",
+        "本轮评级建议": "保持 C。Compass 是面向意大利行业客户的成熟 B2B 网络/安防/电信分销渠道，公开 ComNet 交换机和其他网络品牌；品牌负责人不等于已确认采购人，未见供应商招募或明确差异化产品空缺。"
+      },
+      "assessment": "保持 C。官网证明 Compass/Sirius 在意大利经营 B2B networking/security/telecom 分销，ComNet 在网络交换机目录中有在售展示；同时发现品牌管理团队负责人线索，但没有其采购职责或新增供应商意向证据。联系表单和公司电话可用，两个官网地址口径不同，均不构成本轮触达理由。",
+      "kp": [
+        {
+          "name": "Giacomo Cavalli",
+          "role": "Compass 官网 Apparati attivi / Switch 类别页列 Head of Brand Management Team。",
+          "contact": "页面未列个人邮箱或电话；仅有 Compass 联系表单/总机 +39 011 0627111。未证实其负责 ComNet、交换机采购或新供应商审批。",
+          "status": "official-company-category-page·品牌管理岗位线索；品类与采购职责未知，leads-only",
+          "source": "https://www.compass-distribution.it/soluzione/apparati-attivi-switch/"
+        }
+      ],
+      "facts": [
+        {
+          "dim": "法律主体与经营办公室（销售条款）",
+          "text": "Compass 官方销售条款将卖方列为 Sirius S.p.A.，经其 Compass Division 销售，并列 Rivoli 运营地址；据此不把 Compass 品牌名自行认定为独立法人。",
+          "quote": "Le presenti Condizioni Generali di Vendita (“CGV”) si applicheranno a tutte le vendite di prodotti (i Prodotti) effettuate da Sirius s.p.a. tramite la propria Divisione Compass, con sede operativa in Via Paracca 12/C, 10098 RIVOLI (TO).",
+          "url": "https://www.compass-distribution.it/condizioni-generali-di-vendita/"
+        },
+        {
+          "dim": "B2B 分销/服务定位",
+          "text": "Compass 支持页自述其向意大利专业运营商分销网络、结构化布线和电信产品，并提供项目及技术支持；这是公司网站自述。",
+          "quote": "Compass Distribution, grazie ad una ventennale esperienza tecnica e commerciale, distribuisce prodotti di networking, cablaggio strutturato e telecomunicazioni. Ci rivolgiamo esclusivamente ad operatori di settore per tutto il territorio italiano.",
+          "url": "https://www.compass-distribution.it/supporto/"
+        },
+        {
+          "dim": "交换机品牌组合与相关岗位",
+          "text": "官网 Apparati attivi / Switch 类别列 ComNet、ORCA Networking、PLANET Technology、Teltonika Networks、Zyxel，并在该类别展示 Giacomo Cavalli 为 Head of Brand Management Team；不代表他拥有采购权。",
+          "quote": "ComNet · ORCA Networking · PLANET Technology · Teltonika Networks · Zyxel · Giacomo Cavalli · Head of Brand Management Team",
+          "url": "https://www.compass-distribution.it/soluzione/apparati-attivi-switch/"
+        },
+        {
+          "dim": "ComNet 品牌与应用类别",
+          "text": "Compass 的 ComNet 品牌页将其产品放在交换机、基础设施和数据传输类别，并介绍其用于安全、工业自动化、运输及电力配电通信市场；这是分销商网站对品牌/市场的描述。",
+          "quote": "ComNet è un fornitore di prodotti per comunicazione audio, video, dati ed Ethernet. · Apparati attivi / Switch · Infrastruttura · Trasmissione dati",
+          "url": "https://www.compass-distribution.it/brand/comnet/"
+        },
+        {
+          "dim": "ComNet 工业管理 PoE 交换机商品页",
+          "text": "Compass 商品页列 CWGE26FX2TX24MSPOE 为 ComNet 管理型以太网交换机，并描述 24 个千兆铜口及 PoE；页面内容是经销商产品介绍，技术规格/供货仍需按原厂资料确认。",
+          "quote": "Comnet CWGE26FX2TX24MSPOE è uno switch Ethernet gestito. Fornisce IEEE 802.3at PoE a ventiquattro 10/100/1000BASE-T(X), due delle quali sono anche porte combinate gigabit che supportano moduli SFP 100/1000Fx.",
+          "url": "https://www.compass-distribution.it/prodotto/comnet-cwge26fx2tx24mspoe/"
+        },
+        {
+          "dim": "业务联系入口",
+          "text": "Compass 联系页邀请项目/产品咨询并提供表单及商业团队电话，没有列采购部门邮箱。",
+          "quote": "Oppure chiamaci al 0110627111 e parla direttamente con il nostro team di commerciali.",
+          "url": "https://www.compass-distribution.it/contatti/"
+        },
+        {
+          "dim": "官网地址口径差异",
+          "text": "支持页页脚列 Sirius S.p.A. 与 Strada del Portone 159, 10095 Grugliasco；官方销售条款列 Compass Division 的运营地址 Via Paracca 12/C, 10098 Rivoli。地址用途或变更关系尚未核清。",
+          "quote": "Compass Distribution – un brand di Sirius S.p.A – Strada del Portone 159 - 10095 Grugliasco (TO) · sede operativa in Via Paracca 12/C, 10098 RIVOLI (TO)",
+          "url": "https://www.compass-distribution.it/supporto/"
+        }
+      ],
+      "next_steps": [
+        "如后续获用户授权评估，可通过官方表单/总机确认网络交换机品类负责人、Giacomo Cavalli 的实际职责，以及是否存在第二品牌/新供应商政策；不假定其是采购人。",
+        "先从厂商侧核验 ComNet 现行授权/在售范围，再逐 SKU 对照真实差异；官网品牌目录/零售页不能替代授权证明。",
+        "寄样、合同或正式报价前核对 Sirius S.p.A. 的法定卖方资料及 Rivoli/Grugliasco 地址用途；本轮不触达。"
+      ],
+      "unknowns": [
+        "Compass 为 Sirius S.p.A. Division/brand；具体合同签约实体仍应按当前交易文件确认",
+        "Rivoli 与 Grugliasco 地址的登记、办公、仓库或历史变更关系未明，寄送前需核验",
+        "Giacomo Cavalli 是否负责交换机/ComNet 品类采购或供应商准入未知，未见个人邮箱",
+        "ComNet 当前授权合同、库存、价格和 Compass 是否接受竞品/第二品牌尚无独立证据"
+      ],
+      "legacy_contact": "compass-distribution.it",
+      "legacy_why": "【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评：①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：通用分销商信号，无差异化切入点，慢慢跟",
+      "legacy_sub": "B下放·无邮箱（群发触达不到）",
+      "revised_sub": "竞合·ComNet交换机渠道；Sirius事业部，采购角色待核",
+      "revised_type": "分销（官网列 ComNet/其他品牌；厂商授权范围待核）",
+      "revised_angle": "ComNet 及多品牌交换机渠道直接竞合；先核产品缺口/新品牌政策再评估",
+      "revised_why": "Compass/Sirius 官网显示其经营 B2B 网络分销并列 ComNet 管理型 PoE 交换机；仅有品牌管理/销售通道线索，未见采购空位或第二品牌意向，维持 C。"
+    },
+    {
+      "code": "C-029",
+      "name": "DIGIMAX S.r.l.",
+      "country": "意大利",
+      "researched_on": "2026-10-10",
+      "contact_summary": "digimax@digimax.it / +39 0444 574066；Via dei Laghi, 31, 36077 Altavilla Vicentina (VI), Italy；P.IVA IT00916230246（官网公开）。公司页另称其为单一股东公司并受 M2 NEXT HOLDING SRL 管理协调。官方邮箱/联系方式已在当前页面数据中公开；无具名工业交换机买手。",
+      "dimensions": {
+        "公司业务与渠道角色": "Digimax 官网自述为电源、LED、工业 PC 与显示器的增值分销/咨询合作方，强调备货、订单周期支持和技术咨询；官网历史时间线列出 1996 年为公司成立年份。",
+        "ORing 合作关系（自述）": "Digimax 的 ORing 品牌页自称 ORing strategic partner，并介绍 ORing 工业以太网交换机、路由器和接入点。该身份来自 Digimax 自述；本轮没有从 ORing 厂商名录或合同独立核实授权/区域/产品范围。",
+        "工业交换机商品组合": "Digimax 当前 ORing 品牌目录显示 21 项结果，包括 IES、IGPS、IGS 等系列，包含管理/非管理、PoE、DIN 导轨及光口交换机。公司官网首页还展示 ORing IES-C1050-L 等工业交换机；商品上架不能证明实时库存或采购量。",
+        "产品市场和参数边界": "ORing 页面列出工业交换机/路由器面向多类场景的品牌描述；具体型号参数应以 ORing 原厂数据表为准。当前未发现 Digimax 公开招募第二品牌或采购工业交换机的公告。",
+        "联系方式与KP": "公司官方联系方式公开通用邮箱、电话、地址和 VAT；联系入口可用于公司级沟通，但页面未列工业网络采购人/产品经理个人邮箱。",
+        "本轮评级建议": "保持 C。相较旧“无邮箱”说明，现在已确认公司通用邮箱；但 Digimax 官网自述为 ORing 战略合作伙伴且正展示工业交换机目录，品类与我方直接竞合，未发现采购窗口/第二来源缺口。"
+      },
+      "assessment": "保持 C。已在 Digimax 官方联系信息中核实通用邮箱，并在公司 ORing 页面看到多系列工业交换机与其“strategic partner”自述；后者未由 ORing 独立核实，不写作已确认授权。直接竞合明显，且无具名采购人、供应商招募或明确需求证据，不升档、不触达。",
+      "kp": [],
+      "facts": [
+        {
+          "dim": "增值分销与技术服务定位",
+          "text": "Digimax 官网将自身定位为电源、LED、工业 PC 和显示器的咨询/分销增值伙伴，并强调库存与订单周期支持。",
+          "quote": "Digimax is the value-added partner for consulting and distribution of power supplies, LED products, industrial PCs and displays, thanks to large stock products at competitive prices.",
+          "url": "https://www.digimax.it/en/company-profile"
+        },
+        {
+          "dim": "官网自述 ORing 战略伙伴关系",
+          "text": "Digimax 的 ORing 品牌页称其为 ORing strategic partner；此为 Digimax 自己的表述，不替代 ORing 厂商授权/区域证明。",
+          "quote": "Digimax is a strategic partner of ORing, a global leader in the design and manufacturing of industrial Ethernet switches, 3G/4G wireless routers, and access points for Industrial Networking and IoT systems.",
+          "url": "https://www.digimax.it/en/brand/oring"
+        },
+        {
+          "dim": "ORing 工业交换机产品目录",
+          "text": "品牌目录本次显示 21 项 ORing 结果，并列出 IES/IGPS/IGS 等工业交换机；页面覆盖管理/非管理、PoE、DIN 导轨和光纤组合。目录数量与库存可能变化。",
+          "quote": "21 Results · IGPS-1080-24V · IGPS-9084GP-LA · IGS-9168GP",
+          "url": "https://www.digimax.it/en/brand/oring"
+        },
+        {
+          "dim": "网站自述的端口/管理和PoE范围",
+          "text": "Digimax 对 ORing 工业交换机与路由器的官网介绍称，系列有 1 至 28 口、管理/非管理、Fast/Gigabit、RJ45/SFP 及 PoE 型号。此处保留为经销商网站描述，具体参数以原厂规格表核实。",
+          "quote": "Specifically, ORing's range of switches and routers for industrial use includes devices with 1 to 28 ports, managed and unmanaged switches, data transmission speeds of Fast and Gigabit Ethernet, with copper (RJ45) or fiber optic (SFP) connections, and PoE switches and routers.",
+          "url": "https://www.digimax.it/en/brand/oring"
+        },
+        {
+          "dim": "公司联系信息、地址与税号",
+          "text": "Digimax 官方联系信息列公司通用邮箱/电话、Altavilla Vicentina 地址及 P.IVA；该通用邮箱不等于具名品类采购邮箱。",
+          "quote": "Address: Via dei Laghi, 31 36077 Altavilla Vicentina (VI) · Phone: +39 0444 574066 · Email: digimax@digimax.it · VAT NR: IT00916230246",
+          "url": "https://www.digimax.it/en/contact-us"
+        },
+        {
+          "dim": "法定组织关系（官网自述）",
+          "text": "Digimax 官网页脚/公司信息称其为单一股东公司，受 M2 NEXT HOLDING SRL 管理协调。该公司关系按公司官网披露记录，尚未另查独立工商登记。",
+          "quote": "Single-member company, company subject to the direction and coordination of M2 NEXT HOLDING SRL",
+          "url": "https://www.digimax.it/en/brand/oring"
+        }
+      ],
+      "next_steps": [
+        "如日后获用户批准评估，先通过 digimax@digimax.it 核对工业 networking 品类负责人、ORing 当前合同/范围及新增品牌政策；本轮不发送邮件。",
+        "只在确认存在非 ORing 规格、交期、认证或第二来源缺口后，对照对应型号及原厂数据表；不要把目录上架或“strategic partner”自述作为采购机会或独立授权证明。",
+        "按当前公开联系页面记录地址/VAT；任何交易主体及付款/收货资料仍按正式文件重新核验。"
+      ],
+      "unknowns": [
+        "ORing 是否独立确认 Digimax 的战略合作/授权、地域和产品范围未知",
+        "负责工业网络/交换机采购的具名联系人及其采购权限未知",
+        "21 个公开目录结果的实际库存、成交量、折扣和采购周期未知",
+        "Digimax 是否接受第二品牌或 OEM 供应商、是否存在具体产品缺口无公开证据"
+      ],
+      "legacy_contact": "+39 0444 574066",
+      "legacy_why": "【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评：①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：三星依据仅为渠道等级，需求未核实，需先查证其是否已有工业/PoE 产品线",
+      "legacy_sub": "B下放·无邮箱（群发触达不到）",
+      "revised_sub": "竞合·官网自述 ORing战略伙伴；工业交换机目录成熟",
+      "revised_type": "分销（官网自述 ORing 战略合作；厂商授权范围未独立核实）",
+      "revised_angle": "ORing 工业交换机直接竞合；仅在确认未覆盖型号或供应缺口后再评估",
+      "revised_why": "Digimax 当前自述与 ORing 战略合作并公开工业交换机/PoE目录；邮箱虽已核实但品类竞合明显、授权范围及第二来源需求未核，维持 C。"
+    },
+    {
+      "code": "C-030",
+      "name": "GOMA ELETTRONICA SPA",
+      "country": "意大利",
+      "researched_on": "2026-10-10",
+      "contact_summary": "info@goma.it / +39 011 7725024；GOMA ELETTRONICA SpA，Strada Antica di Collegno 225, 10146 Torino, Italy。官网称电话/邮箱直达都灵 technical sales office，而非总机；没有公开具名工业网络采购人。当前 About/Contact 页把登记与运营地址均列在该处；一份 Partners 页页脚另见旧登记地址 Via Carlo Capelli 89，正式寄送前应再向公司核对。",
+      "dimensions": {
+        "公司业务与下游行业": "GOMA ELETTRONICA 官网将其定位为嵌入式系统/Edge Computing 的分销、集成和制造商，公开提及国防、航空航天、交通运输和工业自动化市场，并提供目录产品、预配置集成系统及定制开发。上述为企业自述的行业覆盖，不表示已知具体军用客户或项目。",
+        "ORing合作与工业网络目录": "GOMA Partners 页面把 ORing 列入所代表的国际品牌，介绍其 DIN 导轨/机架式以太网交换机、媒体转换器、设备服务器、AP 和路由器；工业交换机目录当前显示 136 项，覆盖管理/非管理、DIN 导轨/机架、PoE 及铜/光口，形成直接品类竞合。该合作范围来自 GOMA 自有网站，授权区域仍未由 ORing 独立核验。",
+        "具体产品示例与规格边界": "GOMA 当前商品页展示 ORing IGPS-9084GP-BT 管理型交换机，描述为 8 铜口+4 光纤槽、PoE；网页声明数据提取自厂商技术资料并提示最终以原厂规格书为准。因此仅记录为厂商资料转述，具体标准/参数不作独立背书。",
+        "联系和采购权限": "GOMA 联系页表示电话与 info@goma.it 直达都灵技术销售团队；支持报价/项目沟通，但页面未发布采购部门邮箱或具名交换机采购人员，技术销售通道不等于采购意向。",
+        "合规边界提示": "官网公开将防务、航空航天、运输与工业自动化列为应用行业，并在伙伴/品牌介绍中出现国防与 MIL-STD 类产品。此为行业风险提示，不等同于判定 GOMA 或某个客户/项目受限；任何后续交易需按既有筛查流程核验最终用户、最终用途、目的地及适用出口管制。",
+        "地址差异": "当前 About/Contact 页面将登记及运营地址均列为 Strada Antica di Collegno 225；官网 Partners 页脚另列 Via Carlo Capelli 89 为登记办公室、Strada Antica di Collegno 225 为运营地。可能是页面版本/地址变更造成，样机与合同地址需直接确认。",
+        "本轮评级建议": "保持 C。GOMA 自列 ORing 为合作品牌，工业以太网交换机目录及具体管理/PoE型号与我方直接竞争；虽有直接技术销售联系方式，但未发现采购空位、第二来源意向或具名买手。"
+      },
+      "assessment": "保持 C。GOMA 当前官网展示 ORing 品牌关系和 136 项工业以太网交换机目录，业务本身也包含嵌入式系统方案集成，交换机存在直接竞合。通用技术销售邮箱/电话可用，但没有采购窗口证据；网站涉及防务/航空等行业，仅作为后续项目筛查提醒，不据此推断受限或采购意向。本轮不触达。",
+      "kp": [],
+      "facts": [
+        {
+          "dim": "公司业务与行业覆盖（企业自述）",
+          "text": "GOMA ELETTRONICA 自述从事嵌入式与 Edge Computing 系统分销、集成和制造，服务国防、航空航天、运输和工业自动化市场；行业标签只用于风险识别，不代表特定客户/项目。",
+          "quote": "GOMA ELETTRONICA SpA is the leading Italian company in the distribution, integration and manufacturing of embedded systems and integrated solutions for Edge Computing applications in the defense, aerospace, transportation and industrial automation markets.",
+          "url": "https://www.goma.it/en/azienda/chi-siamo"
+        },
+        {
+          "dim": "ORing 合作伙伴/产品范围（GOMA 自述）",
+          "text": "GOMA Partners 页面将 ORing 列为其品牌合作方，并列工业以太网交换机、媒体转换器、设备服务器、AP 和路由器等产品线；未由 ORing 独立核验授权区域。",
+          "quote": "ORing · Industrial networking: DIN rail and rackmount Ethernet switches and media converters, device servers, access points and routers.",
+          "url": "https://www.goma.it/en/partners"
+        },
+        {
+          "dim": "工业交换机目录规模/类型",
+          "text": "GOMA 工业以太网交换机目录当前显示 136 个商品，覆盖工业/车载网络、管理与非管理、DIN 导轨/机架、铜光口及 PoE。目录数字可能随网站更新。",
+          "quote": "Ethernet switches for industrial and onboard networks: unmanaged and managed, DIN rail and rackmount, with copper and fiber ports and PoE. · 136 products",
+          "url": "https://www.goma.it/en/prodotti/switch-ethernet-industriali-din-rail"
+        },
+        {
+          "dim": "ORing IGPS-9084GP-BT 当前商品页",
+          "text": "产品页将 IGPS-9084GP-BT 描述为管理型工业交换机，并列 8 铜口+4 光纤槽和 PoE 应用。该网页注明数据取自制造商资料，最终规格以原厂数据表为准。",
+          "quote": "IGPS-9084GP-BT is a managed industrial Ethernet switch with 8 copper ports and 4 100/1000Base-X fiber slots, intended for automation networks and installations with PoE-powered devices.",
+          "url": "https://www.goma.it/en/prodotto/igps-9084gp-bt"
+        },
+        {
+          "dim": "厂商资料转述边界",
+          "text": "GOMA 产品页明示规格数据来自制造商技术资料，并要求最终确认使用正式产品规格书；本档不将网页参数扩展为独立测试或认证核验。",
+          "quote": "Data extracted from the manufacturers' technical sheets: the official product spec sheet remains the reference for final confirmation.",
+          "url": "https://www.goma.it/en/prodotto/igps-9084gp-bt"
+        },
+        {
+          "dim": "直接技术销售联系入口与当前地址",
+          "text": "GOMA Contact 页称电话与邮箱直达都灵技术销售办公室而非总机，列 Strada Antica di Collegno 225、10146 Torino、info@goma.it 和 +39 011 7725024；并无具名采购人。当前 About/Contact 页面将登记及运营地址均列于该处。",
+          "quote": "Phone and email go straight to Turin's technical sales office, not a switchboard. · Strada Antica di Collegno 225 · 10146 Torino — Italia · +39 011 7725024",
+          "url": "https://www.goma.it/en/contatti"
+        },
+        {
+          "dim": "另一官网页脚所列登记/运营地址",
+          "text": "GOMA Partners 页脚还列 Via Carlo Capelli 89 为登记办公室、Strada Antica di Collegno 225 为运营地点；当前 About/Contact 页则把登记和运营地址均列为 Strada Antica di Collegno 225。可能是页面版本/地址变更造成，样机与合同地址需直接确认。",
+          "quote": "Via Carlo Capelli, 89 10146 Torino (TO) Italy · OPERATIVE SITE · Strada Antica di Collegno, 225 10146 Torino (TO) Italy",
+          "url": "https://www.goma.it/en/partners/"
+        }
+      ],
+      "next_steps": [
+        "若用户后续批准评估，先确认工业网络品类负责人、ORing 当前授权/供货关系和新品牌/第二来源政策；本轮不联系、不寄样。",
+        "如果出现具体项目，只按对方已确认的型号、认证与用途做差异比较，并以 ORing 正式数据表复核页面规格。",
+        "任何拟交易项目都需依既有合规流程筛查最终用户、最终用途、目的地与适用出口管制；网站所列防务/航空市场不构成自动拒绝或已知敏感客户结论。",
+        "签约、寄样或售后寄送前核实 Strada Antica di Collegno 225 与 Via Carlo Capelli 89 的当前法律/运营用途。"
+      ],
+      "unknowns": [
+        "GOMA 与 ORing 的当前分销授权、地域及产品范围未由 ORing 独立确认",
+        "负责工业交换机品类的采购/产品经理、其采购权限和新供应商审批流程未知",
+        "136 项目录的实际库存/成交、各 SKU 实际供应状态和采购规模未知",
+        "GOMA 是否接受第二品牌或是否存在可验证产品缺口无公开证据",
+        "公司网站行业标签并未说明任何具体项目的最终用户/用途；交易层面的筛查仍须逐项执行",
+        "当前与旧版官网所列两个地址之间的登记/运营/变更关系仍需公司确认"
+      ],
+      "legacy_contact": "+39 011 7725024",
+      "legacy_why": "【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评：①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：通用分销商信号，无差异化切入点，慢慢跟",
+      "legacy_sub": "B下放·无邮箱（群发触达不到）",
+      "revised_sub": "竞合·GOMA自列ORing伙伴；工业交换机目录/方案集成",
+      "revised_type": "分销/集成（官网自列 ORing 伙伴；授权范围待核）",
+      "revised_angle": "ORing 工业交换机直接竞合；仅在确认应用缺口并完成项目筛查后再评估",
+      "revised_why": "GOMA 官网将 ORing 列为合作品牌且工业以太网交换机目录含 136 项，存在直接竞合；仅有技术销售通道、采购缺口未证实，维持 C。"
+    }
+  ]
+}

@@ -135,7 +135,6 @@ FILLED_RE = re.compile(r'^\|\s*\d{4}-\d{2}-\d{2}\s*\|', re.M)
 # 数据只放在 batch/*.json 里，本脚本负责渲染 → dossier 永远可由
 # 「CSV + 加厚 JSON」重新生成，手工改 profile/ 的下场是下次重建被覆盖。
 ENRICH_FILES = [
-    "batch/A类加厚_2026-10-09_R69_跟进增厚批1.json",
     "batch/A类加厚_2026-09-28_R54_第1批.json",
     "batch/A类加厚_2026-09-28_R54_第2批.json",
     "batch/A类加厚_2026-09-28_R54_第3批.json",
@@ -181,6 +180,49 @@ def load_enrichment():
 
 
 ENRICH = load_enrichment()
+
+# R70 首轮与 R72 增量复核：按（公司名, 国家）绑定 C 类证据，避免后续 C 段删档/重编号后
+# 旧档案编号漂移；编号仍记录于 JSON 供追溯，MD 始终展示当前 CSV 编号。
+C_ENRICH_FILES = [
+    "batch/C类加厚_2026-10-09_R70_第1批.json",
+    "batch/C类加厚_2026-10-09_R70_第2批.json",
+    "batch/C类加厚_2026-10-09_R70_第3批.json",
+    "batch/C类加厚_2026-10-09_R70_第4批.json",
+    "batch/C类加厚_2026-10-10_R70_第5批.json",
+    "batch/C类加厚_2026-10-10_R70_第6批.json",
+    "batch/C类复核_2026-10-12_R72_第1批.json",
+]
+
+
+def load_c_enrichment():
+    out = {}
+    for rel in C_ENRICH_FILES:
+        path = rel if os.path.exists(rel) else os.path.join(_REPO_ROOT, rel)
+        if not os.path.exists(path):
+            continue
+        data = json.load(open(path, encoding="utf-8"))
+        for rec in data.get("records", []):
+            if not (rec.get("name") and rec.get("country") and rec.get("code", "").startswith("C-")):
+                raise SystemExit("❌ %s：C 加厚记录缺公司名/国家/档案编号" % rel)
+            if len(rec.get("facts", [])) < 3:
+                raise SystemExit("❌ %s：%s 的 C 调研证据少于 3 条" % (rel, rec.get("code")))
+            missing = [f for f in rec["facts"] if not (f.get("quote") and f.get("url"))]
+            if missing:
+                raise SystemExit("❌ %s：%s 的每条 C 调研证据必须含原文摘录和 URL" % (rel, rec.get("code")))
+            rec["_file"] = rel
+            key = (rec["name"], rec["country"])
+            if rec.get("update_only"):
+                if key not in out:
+                    raise SystemExit("❌ %s：更新记录找不到前置档案 %s" % (rel, rec.get("code")))
+                out[key].setdefault("updates", []).append(rec)
+                if rec.get("revised_why"):
+                    out[key]["revised_why"] = rec["revised_why"]
+                continue
+            out[key] = rec
+    return out
+
+
+C_ENRICH = load_c_enrichment()
 
 ENRICH55_FILES = [
     "batch/A类深挖_2026-09-28_R55_第1批.json",
@@ -475,7 +517,7 @@ def main():
     data.sort(key=lambda r: (order.get(r[17], 9), num_of(r) or 99999))
     made = []
 
-    # R56：A 类 v2 渲染（B/C 走旧模板，不动）
+    # R56：A 类 v2 + 已深挖 B 户；C 保留旧骨架并可叠加 R70 逐户调研加厚。
     from render_v2 import STRUCT, render, yaml_of
     CUSTOM_FOLLOWUP_M = {}
     CUSTOM_EMAIL = {}
@@ -519,6 +561,22 @@ def main():
         sub = r[hdr.index("C级细分")] if "C级细分" in hdr else ""
 
         code = (r[NUMCOL] or "").strip() or grade
+        rec_c = C_ENRICH.get((name, country)) if grade == "C" else None
+        if rec_c and rec_c.get("revised_sub"):
+            rec_c.setdefault("legacy_sub", sub)
+            sub = rec_c["revised_sub"]
+        if rec_c and rec_c.get("revised_why"):
+            rec_c.setdefault("legacy_why", why)
+            why = rec_c["revised_why"]  # grade remains C; replace stale rationale in MD with current researched basis
+        if rec_c and rec_c.get("contact_summary"):
+            rec_c.setdefault("legacy_contact", contact)
+            contact = rec_c["contact_summary"]  # researched channel supersedes stale C-row display; legacy kept below
+        if rec_c and rec_c.get("revised_type"):
+            rec_c.setdefault("legacy_type", typ)
+            typ = rec_c["revised_type"]  # distinguish a displayed product listing from independently verified authorization
+        if rec_c and rec_c.get("revised_angle"):
+            rec_c.setdefault("legacy_angle", angle)
+            angle = rec_c["revised_angle"]  # suppress stale/unverified C-tier pitch while retaining its snapshot
         fname = "%s-%s-%s.md" % (code, safe(name), safe(country))
         directory = _subdir(code)
         os.makedirs(directory, exist_ok=True)
@@ -699,8 +757,96 @@ def main():
             w("> ① 对方主动询价；② 出现停产替换需求；③ 我方补齐对应认证；④ 你从别处拿到其内部人线索。")
         w("")
 
-        # 5.5 R54 enrichment (A tier only): dimensions + evidence + 3-touch plan
-        sec = 6
+        # 5.5 R70 C-tier deep research: keep all verified company/KP/contact/evidence in MD.
+        if rec_c:
+            w("## 六、R70 深度调研与加厚（公司 / 产品 / 决策链 / 联系方式）")
+            w("")
+            w("> 调研日期 **%s**；原始批次：`%s`；按公司名+国家绑定，档案编号采用当前 CSV 编号 `%s`。"
+              % (rec_c.get("researched_on", "—"), rec_c.get("_file", "—"), code))
+            w("")
+            for dim, text in rec_c.get("dimensions", {}).items():
+                w("- **%s**：%s" % (dim, text))
+            if rec_c.get("legacy_sub") and rec_c["legacy_sub"] != rec_c.get("revised_sub"):
+                w("- **主表原 C 级细分快照（保留追溯）**：%s" % rec_c["legacy_sub"])
+            if rec_c.get("legacy_why") and rec_c["legacy_why"] != rec_c.get("revised_why"):
+                w("- **主表原评级依据快照（保留追溯）**：%s" % rec_c["legacy_why"])
+            if rec_c.get("legacy_contact"):
+                w("- **主表原始联系方式快照（保留追溯）**：%s" % rec_c["legacy_contact"])
+            if rec_c.get("legacy_type") and rec_c["legacy_type"] != rec_c.get("revised_type"):
+                w("- **主表原类型快照（保留追溯）**：%s" % rec_c["legacy_type"])
+            if rec_c.get("legacy_angle") and rec_c["legacy_angle"] != rec_c.get("revised_angle"):
+                w("- **主表原切入点快照（保留追溯）**：%s" % rec_c["legacy_angle"])
+            w("")
+            if rec_c.get("kp"):
+                w("### 关键人（KP）与触达通道")
+                w("")
+                w("| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |")
+                w("|---|---|---|---|---|")
+                for k in rec_c["kp"]:
+                    w("| %s | %s | %s | %s | %s |" % (
+                        k.get("name", "—"), k.get("role", "—"), k.get("contact", "—"),
+                        k.get("status", "—"), k.get("source", "—")))
+                w("")
+            w("### 原文证据摘录（全部保留）")
+            w("")
+            for fact in rec_c["facts"]:
+                w("- **【%s】**%s" % (fact.get("dim", "证据"), fact.get("text", "")))
+                w("  > %s" % fact["quote"])
+                w("  > 来源：%s" % fact["url"])
+            w("")
+            w("### R70 本轮评估")
+            w("")
+            w(rec_c.get("assessment", "本轮只补足公开资料，不自动变更评级。"))
+            w("")
+            if rec_c.get("next_steps"):
+                w("### 后续核验步骤（不代表已获采购意向）")
+                w("")
+                for step in rec_c["next_steps"]:
+                    w("- %s" % step)
+                w("")
+            if rec_c.get("unknowns"):
+                w("### 待核事项与证据边界")
+                w("")
+                for item in rec_c["unknowns"]:
+                    w("- %s" % item)
+                w("")
+            for update in rec_c.get("updates", []):
+                w("### %s" % update.get("update_title", "R72 现状复核"))
+                w("")
+                w("> 复核日期 **%s**；原始记录：`%s`。本节为追加更新，保留既有 R70 证据与历史，不自动改评级或触达。"
+                  % (update.get("researched_on", "—"), update.get("_file", "—")))
+                w("")
+                for dim, text in update.get("dimensions", {}).items():
+                    w("- **%s**：%s" % (dim, text))
+                if update.get("facts"):
+                    w("")
+                    w("#### R72 原文证据")
+                    w("")
+                    for fact in update["facts"]:
+                        w("- **【%s】**%s" % (fact.get("dim", "证据"), fact.get("text", "")))
+                        w("  > %s" % fact["quote"])
+                        w("  > 来源：%s" % fact["url"])
+                if update.get("assessment"):
+                    w("")
+                    w("#### R72 本轮评估")
+                    w("")
+                    w(update["assessment"])
+                if update.get("next_steps"):
+                    w("")
+                    w("#### R72 后续核验步骤（不代表已获采购意向）")
+                    w("")
+                    for step in update["next_steps"]:
+                        w("- %s" % step)
+                if update.get("unknowns"):
+                    w("")
+                    w("#### R72 待核事项")
+                    w("")
+                    for item in update["unknowns"]:
+                        w("- %s" % item)
+                w("")
+
+        # 5.6 R54 enrichment (A tier only): dimensions + evidence + 3-touch plan
+        sec = 7 if rec_c else 6
         rec = ENRICH.get(code) if grade == "A" else None
         if rec:
             sec = 9
@@ -848,7 +994,8 @@ def main():
                  "- **A**　重点且好跟进：有明确需求信号 + 具体对接人 + 决策链短",
                  "- **B**　慢慢跟：信号待验证，或交换需求弱",
                  "- **C**　难啃：大公司 / 集团 / 自有品牌 / 竞品 / 区域外", "",
-                 "每份档案含：评级与结论 · 公司概览 · 人员与联系方式 · 品牌与技术栈 · 跟进策略 · 注意点 · 跟进记录（待填）；"
+                 "R70（2026-10-09）：用户已指示 C 类按 A/B 模式继续调研加厚；分级仍保留 C，研究不代表自动触达或自动升档。已调研内容见对应档案的「R70 深度调研与加厚」节。",
+                 "", "每份档案含：评级与结论 · 公司概览 · 人员与联系方式 · 品牌与技术栈 · 跟进策略 · 注意点 · 跟进记录（待填）；"
                  "A 级另有 R54 加厚：深度加厚 · 原文证据摘录 · 3 步跟进计划。",
                  "", "---", ""]
     cur = None
@@ -865,7 +1012,15 @@ def main():
     idx_lines.append("")
     open(os.path.join(DIR, "00-索引.md"), "w", encoding="utf-8").write("\n".join(idx_lines))
 
+    # R71 follow-up/contact status is a data-backed overlay, not a manual tail
+    # edit: reapply it after every generation so stages, exact-address
+    # exceptions, and the B-457 reply survive a rebuild. C dossiers are excluded
+    # by the overlay data and are never touched here.
+    from apply_r71_followup import apply_r71_followup
+    r71_count = apply_r71_followup(DIR)
+
     print("generated %d dossiers in %s/{A,B,C}/" % (len(made), DIR))
+    print("applied R71 follow-up overlay to %d A/B dossiers" % r71_count)
     print(dict((g, sum(1 for m in made if m[0][0] == g)) for g in "ABC"))
 
 

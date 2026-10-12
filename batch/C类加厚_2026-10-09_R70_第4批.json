@@ -1,0 +1,310 @@
+{
+  "date": "2026-10-09",
+  "round": "R70 第 4 批（C-016—C-020）",
+  "scope": "依用户令顺序对新 C-016—C-020 做公开资料调研并加厚 MD；保留 C，不主动触达或自动升级。保留 R50 已有 ATYS 关联档不合并决定。",
+  "records": [
+    {
+      "code": "C-016",
+      "name": "Proax",
+      "country": "加拿大",
+      "researched_on": "2026-10-09",
+      "contact_summary": "info@proax.ca / 1-866-592-1240; Advantech partner page lists Laval branch +1 450-902-5900.",
+      "dimensions": {
+        "法定主体与业务定位": "Proax Technologies Ltd，加拿大工业自动化技术分销商；Advantech 官方合作伙伴页描述其提供工业自动化产品、技术支持和快速响应，超过 150 名员工、11 个分支。",
+        "产品线与代理": "Advantech 官方合作伙伴目录确认 Proax 为授权渠道，产品组合包括控制器/I/O、工业无线、嵌入式自动化电脑、网络交换机、媒体转换器、协议网关等。现主表列出 Advantech EKI 工业交换机及 PoE 产品线。",
+        "关键人KP": "本轮只核实公司级入口 info@proax.ca；未核到工业网络/交换机品类经理姓名或直邮。",
+        "联系方式": "Advantech 官方合作伙伴页公开 info@proax.ca、加拿大 Laval 地址及 +1 450-902-5900；公司官方渠道商信息写全国 11 个分支。",
+        "竞合与我方适配": "Proax 是大型技术自动化分销商，代理/销售 Advantech EKI 管理型、宽温和 PoE 交换机；产品覆盖与我方工业交换机直接重叠，新增品牌需从具体产品缺口和总部/品类采购层级切入。",
+        "本轮评级建议": "保留 C：渠道规模、产品线及集中采购复杂度高；虽已核到公司邮件，但未发现明确采购缺口或供应商招募信号。"
+      },
+      "assessment": "保留 C。Advantech 官方 partner page 确认 Proax 渠道身份及 11 个分支/技术支持；其工业交换机品类与我方直接竞合，邮箱本身不等于采购开放。",
+      "kp": [],
+      "facts": [
+        {
+          "dim": "渠道身份与覆盖",
+          "text": "Advantech 官方合作伙伴页列 Proax Technologies Ltd 为加拿大 partner，称其超过 150 名员工并有 11 个分支。",
+          "quote": "Proax Technologies is proud to represent world class manufacturers in the industrial automation field ... With our highly trained staff ... top customer service, technical support and fast response time ... Currently Proax has over 150 employees with 11 branch locations coast to coast.",
+          "url": "https://www.advantech.com/emt/partners/channel/678"
+        },
+        {
+          "dim": "官方联系方式",
+          "text": "Advantech partner profile 列公司邮件、Laval 地址和电话。",
+          "quote": "info@proax.ca · 1925 R. John-Molson, Laval · Canada · +1 450 902 5900",
+          "url": "https://www.advantech.com/emt/partners/channel/678"
+        },
+        {
+          "dim": "交换机产品竞争",
+          "text": "主表既有记录列 Proax 在售 EKI-7712G-4F（8GE+4SFP）和宽温 PoE 型号；Advantech 官方 partner page 的产品导航也列 Industrial Ethernet Switches、Media Converters、Industrial Protocol Gateways。",
+          "quote": "Industrial Ethernet Switches · Industrial Media Converters · Industrial Protocol Gateways",
+          "url": "https://www.advantech.com/emt/partners/channel/678"
+        }
+      ],
+      "next_steps": [
+        "保留 C；若用户后续决定评估，先通过 info@proax.ca 询问工业网络品类经理及全国采购层级。",
+        "对比 Proax 当前 EKI 库存/SKU，只有本方存在明确未覆盖的规格/认证/供货缺口时再评估第二品牌。",
+        "不将 Advantech 授权和公司邮箱误读为 Proax 已有采购意向。"
+      ],
+      "unknowns": [
+        "具体 EKI 型号库存、销售量和采购负责人未核",
+        "加拿大各分支是否可自行引入新品牌或由总部统一决策未知",
+        "Advantech partner page 的联系人/地址可能因分支显示；发信前需核主要收件实体"
+      ],
+      "legacy_contact": "官网联系页",
+      "legacy_why": "【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评：①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：有信号（PoE/监控/门禁、工业/楼宇）但需先验证需求或联系人不具体",
+      "legacy_sub": "B下放·无邮箱（群发触达不到）",
+      "revised_sub": "竞合·Advantech EKI工业交换机线，11分支全国采购待核",
+      "revised_why": "Advantech 授权技术分销商且销售 EKI 工业交换机，产品直接重叠、组织有全国分支；采购缺口未证实，保持 C。"
+    },
+    {
+      "code": "C-017",
+      "name": "ATYS Co Controll Engineering",
+      "country": "匈牙利",
+      "researched_on": "2026-10-09",
+      "contact_summary": "sales@atysco.hu / +36 1 263-2193 / +36 1 263-0212; Budapest, Fertő utca 14. Main table phone +36 1 263 2561 differs.",
+      "dimensions": {
+        "法定主体与业务定位": "ATYS-CO Kft.，匈牙利 Budapest，总部/销售办公室在 Fertő utca 14；官网列 Algyő branch。公司同时经营工业设备与电气/自动化工程、工业电源经销及可再生能源业务。",
+        "产品线与合作品牌": "官网销售页称其在匈牙利、罗马尼亚、塞尔维亚、克罗地亚代表 Mean Well 电源；主表和 Westermo 目录仍列其为 Westermo reseller。Westermo 具体销售合同/独家范围需向制造商核实。",
+        "关键人KP": "ATYS-CO 官网 impressum 列 Ottó Jász 为 managing director；采购权未证。总部销售邮箱 sales@atysco.hu 可转接工业网络负责人。",
+        "联系方式": "官网公开 sales@atysco.hu、atysco@atysco.hu、Budapest 电话 +36 1 263-2193 / 263-0212；主表 +36 1 263 2561 与官网号码不同，保留差异并发前复核。",
+        "竞合与关联档": "Westermo 产品线与我方工业交换机直接重叠；另有 R50 同域名提示 C-017 与 A-263 同为 ATYS-CO Kft./atysco.hu 相关档。既有决定是只记录、不合并，继续保留两个档案，待用户裁决。",
+        "本轮评级建议": "保留 C：有企业邮件且能核到管理层，但已销售 Westermo 等工业产品并与 A-263 关联；需先确认适配、实体范围和合同边界。"
+      },
+      "assessment": "保留 C。官网确认销售入口、管理负责人及跨国销售网络；Westermo 代理信息与 A-263 同域重复关系未改，严格遵守 R50 不合并决定。",
+      "kp": [
+        {
+          "name": "Ottó Jász",
+          "role": "ATYS-CO Kft. 官网 Impressum 列 Managing Director",
+          "contact": "未核实个人直邮；公司销售入口 sales@atysco.hu / +36 1 263-2193",
+          "status": "official-company-page·管理职务公开，采购职责未知",
+          "source": "https://www.atysco.hu/en/contact"
+        }
+      ],
+      "facts": [
+        {
+          "dim": "总部/销售联系",
+          "text": "ATYS-CO 官网列 Budapest 总部地址、电话及通用/销售邮箱。",
+          "quote": "BUDAPEST - Headquarters · H-1107 Budapest, Fertő utca 14 · (+36) 1 263-2193 · E-mail: sales@atysco.hu",
+          "url": "https://www.atysco.hu/en/contact"
+        },
+        {
+          "dim": "跨国产品销售",
+          "text": "官网销售页称其自设销售 division，分销 Mean Well 电源，覆盖匈牙利、罗马尼亚、塞尔维亚和克罗地亚。",
+          "quote": "Currently ATYS-CO represents Mean Well, one of the world’s largest manufacturers of general-purpose power supplies in Hungary, Romania, Serbia and Croatia.",
+          "url": "http://www.atysco.hu/en/sales"
+        },
+        {
+          "dim": "管理职务线索",
+          "text": "ATYS-CO 官方 contact/Impressum 将 Ottó Jász 列为经理负责人。",
+          "quote": "Manager Director: Ottó Jász",
+          "url": "https://www.atysco.hu/en/contact"
+        },
+        {
+          "dim": "Westermo联系目录",
+          "text": "既有 Westermo 技术支持目录记录 ATYS-Co 为匈牙利渠道，并列电话/邮箱；该页面不是本轮获取到的 Westermo 当前主目录，当前代理范围仍待核。",
+          "quote": "Hungary atys-com · ATYS Co Controll Engineering · Budapest · Phone: +36 126 325 61 · E-mail: kissa@atysco.hu",
+          "url": "http://www.ipari-ethernet.hu/muszaki-segitseg/Telefonos-muszaki-segitsegnyujtas/contact-details"
+        }
+      ],
+      "next_steps": [
+        "保持 C-017 与 A-263 分档不动，待用户裁决是否合并；不得自行复制/搬移个人档案内容。",
+        "向 sales@atysco.hu 核验当前 Westermo 分销范围、工业交换机采购联系人与第二品牌政策。",
+        "核对旧主表电话 +36 1 263 2561 与官网总部号码；地址/联系电话变更后再决定是否需要更新主表。"
+      ],
+      "unknowns": [
+        "ATYS-CO 当前 Westermo 授权合同和区域/产品边界未核",
+        "C-017 与 A-263 是否应合并仍待用户裁决",
+        "旧手机号及销售分机是否仍有效需核"
+      ],
+      "legacy_contact": "+36 126 325 61",
+      "legacy_why": "【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评：①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：通用分销商信号，无差异化切入点，慢慢跟",
+      "legacy_sub": "B下放·无邮箱（群发触达不到）",
+      "revised_sub": "竞合/关联·Westermo线；与A-263同域关联待用户裁决",
+      "revised_why": "ATYS-CO 已经营 Westermo/Mean Well，且 C-017 与 A-263 同域关联尚待用户裁决；维持 C、不合并。"
+    },
+    {
+      "code": "C-018",
+      "name": "Aspect",
+      "country": "北马其顿",
+      "researched_on": "2026-10-09",
+      "contact_summary": "office@aspect.com.mk / +389 2 3233 777 / Orce Nikolov 190/3-1, Skopje.",
+      "dimensions": {
+        "法定主体与业务定位": "Aspect，Skopje, North Macedonia；现官网自述运营逾 20 年，提供工业自动化、工业计算、工业网络和智能系统，并展示汽车、银行、电信、制造等客户标识（仅代表官网展示，不证明当前合同）。",
+        "Westermo渠道": "Westermo 官方 Where-to-buy 页面将 Aspect 列为 Macedonia reseller，列本地库存和基础技术支持。",
+        "关键人KP": "本轮未找到具名采购/交换机产品负责人；先使用 office@aspect.com.mk。",
+        "联系方式": "Aspect 官网公开 office@aspect.com.mk、+389 2 3233 777，地址 Orce Nikolov 190/3-1, 1000 Skopje。",
+        "竞合与我方适配": "官网提供工业 networking/automation，Westermo 官方目录列 reseller；业务相关且可能有网络集成需求，但品牌重叠、采购角色与具体交换机 SKU 缺口未知。",
+        "本轮评级建议": "保留 C：当前网站/公开信息很薄，Westermo resale 角色可核但购买决策与实际交换机产品组合未明。"
+      },
+      "assessment": "保留 C。Westermo 官方目录确认 North Macedonia reseller；公司官方网站现有内容较简，未能核到品类团队或新的采购触发信号。",
+      "kp": [],
+      "facts": [
+        {
+          "dim": "官方联系通道",
+          "text": "Aspect 官网联系页公开公司邮箱、总机及 Skopje 地址。",
+          "quote": "Phone: +389 23 233 777 · Email: office@aspect.com.mk · Address: Orce Nikolov 190/3-1, 1000 Skopje, North Macedonia",
+          "url": "https://www.aspect.com.mk/contact"
+        },
+        {
+          "dim": "现行业务定位",
+          "text": "Aspect 官网称经营超过 20 年，提供工业自动化、工业网络和工业计算方案；展示多个汽车、制造、银行、电信等组织 logo，此类展示不单独证明当前合同。",
+          "quote": "Founded over 20 years ago, Aspect has grown into a leader in industrial automation, ICT, and management consulting ... Industrial Networking · Seamless connectivity for PLCs, HMIs, drives, and I/Os",
+          "url": "https://www.aspect.com.mk/"
+        },
+        {
+          "dim": "Westermo reseller身份",
+          "text": "Westermo 官方 Where-to-buy 页面将 Aspect 列为 Macedonia reseller，含本地库存和基础技术支持。",
+          "quote": "Macedonia · Reseller · Local stock · Basic technical support · Aspect · Tel: +389 2 32 33 777 · Web: www.aspect.com.mk",
+          "url": "https://www.westermo.com/contact/where-to-buy"
+        }
+      ],
+      "next_steps": [
+        "保留 C；如用户要求进一步评估，使用 office@aspect.com.mk 先核当前法人主营、Westermo 交换机 SKU 和品类采购联系人。",
+        "确认其现有交换机市场是否仅代理 Westermo，还是提供其他品牌/系统集成；无具体产品空位则不继续投入。",
+        "不因外部 Westermo reseller 标签自行推断终端应用、采购规模或企业员工数。"
+      ],
+      "unknowns": [
+        "公司当前核心业务、规模与项目案例未充分公开",
+        "现任工业网络产品负责人/采购人未具名",
+        "Westermo 合作等级/合同边界与其他品牌清单待核"
+      ],
+      "legacy_contact": "+389 2 32 33 777",
+      "legacy_why": "【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评：①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：通用分销商信号，无差异化切入点，慢慢跟",
+      "legacy_sub": "B下放·无邮箱（群发触达不到）",
+      "revised_sub": "竞合·Westermo reseller；现主营/目录待核",
+      "revised_why": "Aspect 官网显示工业网络/自动化与智能系统业务，并被 Westermo 列为 Macedonia reseller；现有品牌重叠、采购缺口未证实，保持 C。"
+    },
+    {
+      "code": "C-019",
+      "name": "Areskom İletişim Sistemleri",
+      "country": "土耳其",
+      "researched_on": "2026-10-09",
+      "contact_summary": "info@areskom.com.tr / +90 216 428 78 78 / Altunizade Mh. Kısıklı Cd. No:35/1, Üsküdar, Istanbul.",
+      "dimensions": {
+        "法定主体与业务定位": "Areskom İletişim，土耳其 Istanbul，官网称 2004 年成立；面向企业/工业 IT、网络、电信、工业以太网、远程访问/M2M、IoT 和工业 4.0 做品牌代理、项目设计、安装与集成。",
+        "合作品牌与产品": "官网列 Westermo、Teltonika、ETIC Telecom、Acromag、Lanner、ATOP、Sena 等；有 Westermo 工业机架/铁路 EN50155/IEC 61850-3 交换机、PoE 路由器、工业网络产品。",
+        "目标行业": "官网显示 OT/ICS 网络安全、工业网、M2M、铁路、电力及海事等应用，既有硬件销售亦有项目设计和部署。",
+        "关键人KP": "官网本轮未找到具名采购或产品负责人；公司通用入口 info@areskom.com.tr。",
+        "联系方式": "官网联系页公开 info@areskom.com.tr、+90 216 428 78 78 与 Istanbul Üsküdar 地址。",
+        "竞合与我方适配": "已代理 Westermo、Teltonika 等工业网络品牌，并销售交换机/PoE/轨道与电力设备；与我方有直接竞争，未发现补充品牌采购缺口。",
+        "本轮评级建议": "保留 C：专业渠道与细分场景强，现有供应商成熟；只有清楚的规格/供应空位才值得复核。"
+      },
+      "assessment": "保留 C。官网验证公司定位、品牌代理、产品线和通用邮箱；Westermo 与其他工业网络品牌已覆盖同类产品，暂无采购窗口证据。",
+      "kp": [],
+      "facts": [
+        {
+          "dim": "成立/业务定位",
+          "text": "Areskom 官网自述公司成立于 2004 年，服务企业/工业 IT、网络、电信、工业 Ethernet、远程访问、M2M、IoT/Industry 4.0。",
+          "quote": "Areskom İletişim Hakkında (Kuruluş Yılı: 2004) ... Kurumsal / Endüstriyel IT - Network - Telekomünikasyon - Endüstriyel Ethernet - Uzak Erişim, M2M - 3G 4.5G LTE - IoT - Endüstri 4.0 Entegrasyonu",
+          "url": "https://areskom.com.tr/"
+        },
+        {
+          "dim": "品牌代理与方案能力",
+          "text": "官网列其代表 Westermo、Teltonika、ETIC Telecom、Acromag、Lanner、ATOP、Sena 等，并提供项目设计、配置、安装与投产支持。",
+          "quote": "Areskom İletişim; Westermo, Teltonika, Etic Telecom, Acromag, Lanner, Atop, Sena Network, vb.. global markaların temsilciliğini yapmaktadır.",
+          "url": "https://areskom.com.tr/"
+        },
+        {
+          "dim": "产品规格/应用",
+          "text": "官网展示 Westermo RedFox rack switches、Viper EN 50155、Lynx IEC 61850-3 等工业/铁路/电力产品。",
+          "quote": "Westermo Endüstriyel Rack Switch ler ... Westermo Endüstriyel EN50155 Switch ler ... Westermo IEC 61850-3 Switch ler",
+          "url": "https://areskom.com.tr/"
+        },
+        {
+          "dim": "联系方式",
+          "text": "官网联系页公开通用邮箱、电话与 Istanbul Üsküdar 地址。",
+          "quote": "info@areskom.com.tr · +90 (216) 428 78 78 · Altunizade Mh. Kısıklı Cd. No:35/1 Kat1 Üsküdar / İSTANBUL / TÜRKİYE",
+          "url": "https://areskom.com.tr/kurumsal/iletisim/"
+        }
+      ],
+      "next_steps": [
+        "保留 C；若用户后续评估，只询问工业以太网产品经理是否存在 Westermo/Teltonika 产品组合未覆盖的规格。",
+        "确认代理合同/品牌限制，避免把竞争对手现有渠道当作空白分销商。",
+        "若对方未主动提出第二来源或具体项目，不进行常规开发。"
+      ],
+      "unknowns": [
+        "具名采购人或交换机品类经理未查到",
+        "Westermo/Teltonika 等品牌的授权等级、区域和合同约束未核",
+        "各行业项目是否包含可采购交换机需求未知"
+      ],
+      "legacy_contact": "+90 216 428 78 78",
+      "legacy_why": "【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评：①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：通用分销商信号，无差异化切入点，慢慢跟",
+      "legacy_sub": "B下放·无邮箱（群发触达不到）",
+      "revised_sub": "竞合·Westermo/Teltonika工业网络集成与代理",
+      "revised_why": "Areskom 已代理 Westermo/Teltonika 等工业网络品牌并做项目集成，存在直接竞合、无新增采购信号，保持 C。"
+    },
+    {
+      "code": "C-020",
+      "name": "NovaTel",
+      "country": "塞尔维亚",
+      "researched_on": "2026-10-09",
+      "contact_summary": "Westermo official directory lists +381 11 4252012 / +381 11 6351853. novatel.rs currently fetches to a temporarily suspended host page; do not use the older company mailbox until revalidated.",
+      "dimensions": {
+        "法定主体与业务定位": "NovaTel d.o.o. Beograd，塞尔维亚 Belgrade；官网旧版页面称 Intelligent Network Solutions，通信网络/电信项目集成商。D&B 企业目录列公司地址 Milutina Milankovica 25B，Beograd。",
+        "渠道与项目": "Westermo 官方 Where-to-buy 页面将 NovaTel 列为 Serbia reseller，含本地库存和基础技术支持；旧公司页面提及 Telekom Serbia All-IP/FTTH 项目，但页面时间较久。",
+        "关键人KP": "D&B 列 Kristina Bozic-Tomic 为 Key Principal；ContactOut 列 Sladjana Jankovic 为 Sales Manager。均是第三方目录线索，未由公司当前官网确认，不视为现任采购 KP。",
+        "联系方式": "Westermo 官方目录列 +381 11 4252012 / +381 11 6351853；旧 NovaTel 联系页列 office@novatel.rs 和 +381 11 31 22 480 / 31 22 707，但 2026-10-09 抓取 novatel.rs 指向临时暂停的主机页面，邮箱可用性未知。",
+        "竞合与我方适配": "Westermo reseller 和电信网络集成商，工业/电信通信已有产品通道；网站当前不可用、采购人员不清楚，且品牌直接竞合。",
+        "本轮评级建议": "保留 C：Westermo 渠道角色来自制造商目录，但公司官网失联/暂停、联系方式旧且采购需求未证，先观察并复核。"
+      },
+      "assessment": "保留 C。Westermo 官方目录仍列为 Serbia reseller，但 NovaTel 自有网站本轮显示技术暂停，旧联系页不能证明邮箱和职位仍有效；优先核验实体/通道，不安排常规触达。",
+      "kp": [
+        {
+          "name": "Kristina Bozic-Tomic",
+          "role": "D&B 企业目录列 Key Principal，未见官网确认",
+          "contact": "未见已核个人邮箱；先依 Westermo 目录公司电话核实体",
+          "status": "leads-only·第三方企业目录线索；职务/采购权未确认",
+          "source": "https://www.dnb.com/business-directory/company-profiles.novatel_doo_beograd.f49fa747d9f6c2e2e97cd367e7b5a5ae.html"
+        },
+        {
+          "name": "Sladjana Jankovic",
+          "role": "ContactOut 第三方目录列 Sales Manager，需复核",
+          "contact": "未查到可直接核实的个人工作邮箱；不猜地址",
+          "status": "leads-only·第三方员工线索，当前站点暂停，暂不直邮",
+          "source": "https://contactout.com/company/NovaTel-Serbia-76644"
+        }
+      ],
+      "facts": [
+        {
+          "dim": "制造商渠道列表",
+          "text": "Westermo 官方 Where-to-buy 页面将 NovaTel 列为 Serbia reseller，含本地库存和基础技术支持。",
+          "quote": "Serbia · Reseller · Local stock · Basic technical support · NovaTel · Tel: +381 11 4252012 +381 11 6351853 · Web: www.novatel.rs",
+          "url": "https://www.westermo.com/contact/where-to-buy"
+        },
+        {
+          "dim": "公司联系页旧资料",
+          "text": "NovaTel 旧联系页列 Belgrade 新区地址、office@novatel.rs 与电话；本轮直接抓取其网址时显示 hosting suspended 页面，因此这些联系方式不视为当前可用。",
+          "quote": "NovaTel d.o.o. Milutina Milankovica 25b, New Belgrade (2. floor) 11070 Belgrade ... office@novatel.rs ... +381 11 31 22 480, +381 11 31 22 707",
+          "url": "http://novatel.rs/en/contact-us/"
+        },
+        {
+          "dim": "企业/负责人线索",
+          "text": "D&B 目录列 NOVATEL DOO BEOGRAD 和地址；其所列 Key Principal 为 Kristina Bozic-Tomic，属于第三方名录数据。",
+          "quote": "Key Principal: Kristina Bozic-Tomic ... MILUTINA MILANKOVICA 25 B Beograd (Novi Beograd)",
+          "url": "https://www.dnb.com/business-directory/company-profiles.novatel_doo_beograd.f49fa747d9f6c2e2e97cd367e7b5a5ae.html"
+        },
+        {
+          "dim": "公司业务背景（旧官网页面）",
+          "text": "旧网站页面称其参与 Telekom Serbia All-IP modernization 的三个 Belgrade clusters，采用 FTTH；年份为 2017 页面，不能视为当前项目。",
+          "quote": "Within the largest telecommunication project in Serbia – All IP modernization – Telekom Serbia has finalized deals on three Belgrade clusters, all realized in FTTH technology.",
+          "url": "http://novatel.rs/en/all-ip-modernization-telekom-serbia/"
+        }
+      ],
+      "next_steps": [
+        "保留 C；不向旧 office@novatel.rs 自动发送。先通过 Westermo 官方渠道/电话核实 NovaTel 实体仍在营及当前公司邮箱。",
+        "核验网站暂停是临时主机问题还是公司停业/域名迁移；未确认实体之前不使用第三方猜测的个人邮箱。",
+        "若恢复经营，再询问 Westermo 品类联系人是否存在第二供应源/规格缺口；没有则维持 C。"
+      ],
+      "unknowns": [
+        "novatel.rs 当前暂停原因和企业是否仍运营未知",
+        "office@novatel.rs 的当前投递/收件状态未知",
+        "KP 候选职位、在职状态和采购权未核",
+        "FTTH 历史项目不能证明当前工业交换机采购需求"
+      ],
+      "legacy_contact": "+381 11 4252012",
+      "legacy_why": "【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评：①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：通用分销商信号，无差异化切入点，慢慢跟",
+      "legacy_sub": "B下放·无邮箱（群发触达不到）",
+      "revised_sub": "待核·Westermo Serbia reseller；官网/邮箱暂不可用",
+      "revised_why": "Westermo 官方目录仍列 NovaTel，但公司自有网站本轮抓取暂停、邮箱/运营状态待核，先维持 C。"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 # Purdicom Limited
 
-> **评级 A**　|　英国 · Wantage, Oxfordshire　|　档案编号 `A-568`　|　优先级 ★★　|　状态：未触达
+> **评级 A**　|　英国 · Wantage, Oxfordshire　|　档案编号 `A-568`　|　优先级 ★★　|　状态：01-已跟进一轮（用户报告；具体日期/收件人未逐户记录）
 >
-> **触达状态（Stage）**：00-researched　|　结构版本：结构化档案 v2（R56 规则，2026-09-28 用户审定）
+> **触达状态（Stage）**：01-contacted　|　结构版本：结构化档案 v2（R56 规则，2026-09-28 用户审定）
 
 ```yaml structured_profile
 code: A-568
@@ -15,9 +15,9 @@ price_sensitivity: medium
 volume_potential: 5  # 1-5
 needs: {poe: true, industrial: true, tenG: true, l2plus: true, voice: false, oem: false, hotel: false, training: false}
 p1: STC-424XGGPM-280W
-stage: 00-researched
+stage: 01-contacted
 struct_version: v2  # v2 骨架
-updated: 2026-10-07
+updated: 2026-10-12
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -28,7 +28,7 @@ updated: 2026-10-07
 - **P1（首触唯一主推）**：STC-424XGGPM-280W（24口 PoE + 4×10G） — Purdicom 英 Oxfordshire £38–45M VAD（CIN 05361794，2005 起；Cambium 冠军 2020）：15 品牌谱交换线空（ICX=Broadcom/Cambium 被动PoE/TP-Link 散件）→ PoE++/10G 对照行+工业二轨（$180 锚点一致）；$180 USD EXW（2026-09-28 快照，15 天有效，报价前核价）
 - **第一问（只问一个）**：Do any of your nodes sit outdoors or in unheated cabinets, and how do you recover a frozen PoE device there today?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；集团/分销内部决策层级未确认
-- **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
+- **下一步**：R71（2026-10-12）：暂停向 info@purdicom.com 重投，保留地址和两次回执；此问题不是地址不存在。后续若继续跟进，走档案已有 sales@purdi.com、hello@purdi.com 或官网表单，不将远端服务器故障扩展到这些通道。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -76,7 +76,7 @@ updated: 2026-10-07
 - **电话**：05361794
 - 来源等级：internal-roster（R41–R48 联系方式台账口径）
 - **原始联系字段**：purdicom.com 官网；Companies House CIN 05361794（Mitchell House, Unit 4 Woolley Barns, Wantage OX12 8TA）
-- **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **R71 跟进核对**：本户一轮跟进已完成（用户报告）；逐户发送日期与实际收件地址未提供，不补造。已核实的地址级异常见本档 R71/退信记录；未将用户报告扩大成逐地址送达结论。
 
 
 - **退信实测（2026-10-09）**：`info@purdicom.com` 临时投递失败,观察中（2026-10-09 用户回执：info@purdicom.com 临时投递失败，Gmail 将继续重试 45 小时。重要发现：官网实为 purdi.com）→ 观察期暂不停用；备选通道已备: sales@purdi.com（官网销售线，purdi.com/contact 在册）；hello@purdi.com（总机 +44 (0) 333 1212 100）；purdi.com/contact 官网表单
@@ -226,3 +226,16 @@ Saga / SmartByte ODM
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
+
+<!-- R71-FOLLOWUP-START -->
+## R71 本轮跟进与邮件回执（2026-10-12）
+
+- **跟进范围**：A/B 本轮一轮跟进已完成（用户报告）；逐户发送日期与实际收件地址未提供，本节不补造发送日志。
+- **本户结论**：一轮跟进已完成；可继续按本档既有策略低频跟进，不把“已跟进”误写成“逐地址送达成功”。
+- **本轮地址级退信/延迟例外**：
+  - `info@purdicom.com` — 远端服务器配置/中继故障；2026-10-10 已收到最终未送达通知。不是地址不存在。（2026-10-10；来源：Gmail 正文；两封 DSN 属于同一线程）。
+    - 证据：Gmail 正文：2026-10-09 05:12:06 -0700 暂时通知，远端返回 `451 Open relay not allowed`，Gmail 称还将重试 21 小时；2026-10-10 05:08:39 -0700 同线程最终通知，远端仍返回 `451 Open relay not allowed` 并称服务器配置错误，邮件最终未送达。R69 用户转述的重试时长为 45 小时，与 Gmail 正文 21 小时不一致；保留为不同来源，不用转述覆盖正文。该错误说明远端服务器/中继配置问题，不证明收件地址不存在。
+    - 处置：暂停向 info@purdicom.com 重投，保留地址和两次回执；此问题不是地址不存在。后续若继续跟进，走档案已有 sales@purdi.com、hello@purdi.com 或官网表单，不将远端服务器故障扩展到这些通道。
+- **客户级跟进结论**：只对上述精确收件地址按回执处置；不把单地址异常扩大到整家公司或其他邮箱。
+- **后续节奏**：首轮之后不作无差别催促；按既有节奏等待或低频跟进，不填造日期。
+<!-- R71-FOLLOWUP-END -->

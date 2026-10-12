@@ -1,8 +1,8 @@
 # Mikrotik Warsaw Training Center
 
-> **评级 A**　|　波兰 · Warsaw　|　档案编号 `A-242`　|　优先级 ★★★　|　状态：未触达
+> **评级 A**　|　波兰 · Warsaw　|　档案编号 `A-242`　|　优先级 ★★★　|　状态：01-已跟进一轮（用户报告；具体日期/收件人未逐户记录）
 >
-> **触达状态（Stage）**：00-researched　|　结构版本：结构化档案 v2（R56 规则，2026-09-28 用户审定）
+> **触达状态（Stage）**：01-contacted　|　结构版本：结构化档案 v2（R56 规则，2026-09-28 用户审定）
 
 ```yaml structured_profile
 code: A-242
@@ -15,9 +15,9 @@ price_sensitivity: medium
 volume_potential: 2  # 1-5
 needs: {poe: true, industrial: false, tenG: true, l2plus: true, voice: true, oem: false, hotel: false, training: true}
 p1: CONSULT-OEM
-stage: 00-researched
+stage: 01-contacted
 struct_version: v2  # v2 骨架
-updated: 2026-09-28
+updated: 2026-10-12
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -28,7 +28,7 @@ updated: 2026-09-28
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — MWTC 华沙多厂商认证培训（MikroTik/Zabbix/UniFi+轻实施）：对照单元+wdrożenia 窄位双角（$180 锚点一致）；—（合作探询，无量产报价）
 - **第一问（只问一个）**：Which switch do you currently put on the bench for the VLAN/PoE lab demos?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
-- **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
+- **下一步**：R71（2026-10-12）：一轮跟进已完成（用户报告；本户具体发送日期/收件地址未逐户提供）。可继续按本档既有策略低频跟进；不对首轮无实质回应者无差别催促；不编排未提供的下次动作日期。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -77,7 +77,7 @@ updated: 2026-09-28
 - **电话**：+48 796 171 971
 - 来源等级：official（R41–R48 联系方式台账口径）
 - **原始联系字段**：info@mwtc.pl（官网正文公开）；原入口：+48 796 171 971；Michał：michal@mwtc.pl；Piotr：piotr@mwtc.pl（均官网正文）
-- **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **R71 跟进核对**：本户一轮跟进已完成（用户报告）；逐户发送日期与实际收件地址未提供，不补造。已核实的地址级异常见本档 R71/退信记录；未将用户报告扩大成逐地址送达结论。
 - **具名 KP 通道(R66/R64 捕件,已有/猜测分标)**:
   - **Piotr Wasyk**(Network Architect/Trener/**Właściciel**(业主;官网教练页+RR+PARP 件三源))— mwtc.pl/aboutUs.php+RR 双源 〔已有(公司官方公开件/登记册自曝);源:https://mwtc.pl/aboutUs.php〕
   - **Michał Filipek**(Network Architect/MikroTik+Zabbix+Ubiquiti Trainer(三证教练))— mwtc.pl 教练页(O) 〔已有(公司官方公开件/登记册自曝);源:https://mwtc.pl/aboutUs.php〕
@@ -265,3 +265,12 @@ Saga Networks Export Desk
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-09-28（R56 规则）　|　数据来源：客户名单_反向信号_2026-09.csv + R54/R55 调研 JSON*
+
+<!-- R71-FOLLOWUP-START -->
+## R71 本轮跟进与邮件回执（2026-10-12）
+
+- **跟进范围**：A/B 本轮一轮跟进已完成（用户报告）；逐户发送日期与实际收件地址未提供，本节不补造发送日志。
+- **本户结论**：一轮跟进已完成；可继续按本档既有策略低频跟进，不把“已跟进”误写成“逐地址送达成功”。
+- **地址级范围**：R71 退信台账未为本户列出新的精确地址异常；可继续跟进不等于对每个邮箱作了 SMTP 或逐地址送达验证。
+- **后续节奏**：首轮之后不作无差别催促；按既有节奏等待或低频跟进，不填造日期。
+<!-- R71-FOLLOWUP-END -->

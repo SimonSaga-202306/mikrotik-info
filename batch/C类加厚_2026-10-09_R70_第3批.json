@@ -1,0 +1,348 @@
+{
+  "date": "2026-10-09",
+  "round": "R70 第 3 批（C-011—C-015）",
+  "scope": "继续按用户指定的新 C 编号顺序调研；核实公司业务、品牌/产品、联系人/渠道、触点和证据。C 等级保留，不代表主动开发；旧主表中的‘无邮箱’细分由本轮资料更新，但评级不自动上调。",
+  "records": [
+    {
+      "code": "C-011",
+      "name": "Fálkinn Ísmar ehf.",
+      "country": "冰岛",
+      "researched_on": "2026-10-09",
+      "contact_summary": "falkinnismar@falkinnismar.is / +354 540 7000 / Dalvegi 10–14, 201 Kópavogi；通信设备销售可由 kjartan@falkinnismar.is / +354 510 5111 转接。",
+      "dimensions": {
+        "法定主体与业务定位": "Fálkinn Ísmar ehf.，冰岛 Kópavogur。公司官网商品线包括测量仪器、机器控制、激光器、交通安全产品、通风设备、泵及机械/电气商品。",
+        "产品/渠道线索": "官网通信与测量团队面向通信设备、测量与交通安全；现有主表将其标为 N-Tron/Red Lion 渠道，但本轮未能从可访问的 HMS 厂商定位页中独立确认其当前授权状态，故该代理关系需复核。",
+        "关键人KP": "官网员工页列 Gísli Svanur Gíslason 为测量/通信设备销售经理、Kjartan Þráinsson 为通信设备销售。Gísli 页面显示邮箱文本与 mailto 地址不一致，使用通用邮箱或 Kjartan 页面显示的地址前需确认。",
+        "联系方式": "官网公开 falkinnismar@falkinnismar.is、+354 540 7000 / 510 5100，地址 Dalvegi 10–14, 201 Kópavogi；通信设备业务分机联系人为 Kjartan Þráinsson。",
+        "竞合与我方适配": "冰岛本地有测量/通信及设备分销服务，渠道规模与工况可能匹配；但 N-Tron/Red Lion 在售证据本轮仅见于主表存量标注，需核现行渠道与具体交换机 SKU。",
+        "本轮评级建议": "保留 C：触点已找到，但现有交换机品牌、采购职责和具体产品缺口仍待验证；不因找到邮箱自动升 B。"
+      },
+      "assessment": "保留 C。公司渠道入口与通信设备销售岗已定位；当前网站主要呈现测量、机器控制、交通安全与设备产品，N-Tron/Red Lion 在售/授权关系需向 HMS 与公司双方复核。",
+      "kp": [
+        {
+          "name": "Kjartan Þráinsson",
+          "role": "公司员工页列通信设备销售（salesman, communications equipment）",
+          "contact": "kjartan@falkinnismar.is；+354 510 5111（公司员工页公开）",
+          "status": "official-company-page·岗位与通道公开；正式采购职责仍需确认",
+          "source": "https://falkinnismar.is/um-okkur/starfsfolk/"
+        },
+        {
+          "name": "Gísli Svanur Gíslason",
+          "role": "公司员工页列测量与通信设备销售经理",
+          "contact": "页面文字列 gisli@falkinnismar.is，但 mailto 链接目标域为 ismar.is，存在不一致；先经公司总邮箱转接",
+          "status": "official-company-page·邮件目标冲突，不能直接视为已核邮箱",
+          "source": "https://falkinnismar.is/um-okkur/starfsfolk/"
+        }
+      ],
+      "facts": [
+        {
+          "dim": "公司产品范围",
+          "text": "官网展示测量设备、机器控制、激光器、交通安全产品、通风和泵等产品组；其范围并非仅工业网络。",
+          "quote": "Landmælingatæki - Vélstýringar - Laserar · Umferðaröryggisvörur · Loftræsibúnaður · Dælur",
+          "url": "https://falkinnismar.is/"
+        },
+        {
+          "dim": "官方公司联系方式",
+          "text": "公司网站公开 Kópavogur 地址、Kennitala、总机和通用邮箱。",
+          "quote": "Fálkinn Ísmar ehf · Dalvegi 10 - 14 · 201 Kópavogi · Sími: 540 7000 / 510 5100 · falkinnismar@falkinnismar.is · Kennitala: 661082-0629",
+          "url": "https://falkinnismar.is/"
+        },
+        {
+          "dim": "通信设备团队与KP",
+          "text": "官网员工页将 Kjartan Þráinsson 列为通信设备销售人员，将 Gísli Svanur Gíslason 列为测量/通信设备销售经理；Gísli 邮箱文本与 mailto 目标域不一致。",
+          "quote": "Kjartan Þráinsson - fjarskiptabúnaður · Sölumaður fjarskiptabúnaður · kjartan@falkinnismar.is · 510 5111 ... Gísli Svanur Gíslason - mælinga- og fjarskiptatæki · Sölustjóri mælinga- og fjarskiptatækja",
+          "url": "https://falkinnismar.is/um-okkur/starfsfolk/"
+        },
+        {
+          "dim": "服务能力",
+          "text": "官网称其提供所售设备的销售、备件和维修服务，并投入测量仪器与员工培训。",
+          "quote": "Hjá Fálkanum Ísmar hefur ætíð verið lagt mikið upp úr þjónustu við þann búnað sem fyrirtækið selur, hvort heldur er í sölumálum, varahluta eða viðgerðarþjónustu.",
+          "url": "https://falkinnismar.is/thjonusta/"
+        }
+      ],
+      "next_steps": [
+        "通过 falkinnismar@falkinnismar.is 或通信设备销售 Kjartan 联系，先确认当前 N-Tron/Red Lion 授权/在售型号是否仍有效。",
+        "核对交换机采购由通信设备销售线还是其他工业/电气部门决定；不可把测量仪器业务自动等同交换机采购需求。",
+        "若 N-Tron/Red Lion 代理身份已失效或只属旧档，复核 C 细分；未获得产品缺口前维持 C。"
+      ],
+      "unknowns": [
+        "当前 N-Tron/Red Lion 授权或采购关系尚未由厂商目录独立确认",
+        "Gísli Svanur Gíslason 邮箱文本/链接冲突，需核实真实地址",
+        "通信设备线具体交换机 SKU、库存和负责人采购权未核"
+      ],
+      "legacy_contact": "官网联系页（HMS 名录只公开地址与网址）",
+      "legacy_why": "【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评：①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：通用分销商信号，无差异化切入点，慢慢跟",
+      "legacy_sub": "B下放·无邮箱（群发触达不到）",
+      "revised_sub": "本地测量/通信分销·HMS/N-Tron状态待厂商复核",
+      "revised_why": "本地测量与通信设备分销商；N-Tron/Red Lion 现行渠道关系待厂商确认，交换机采购缺口未证实，保持 C。"
+    },
+    {
+      "code": "C-012",
+      "name": "Mælibúnaður",
+      "country": "冰岛",
+      "researched_on": "2026-10-09",
+      "contact_summary": "sala@maelibunadur.is / +354 661 1169 / Bíldshöfða 14, 110 Reykjavík. The separate Vista shop contact remains in the research narrative but is not treated as Mælibúnaður direct sales inbox.",
+      "dimensions": {
+        "法定主体与业务定位": "Mælibúnaður hf，冰岛测量与监测仪器供应商；官网称 2000 年成立，产品面向环境、气象、水文、土壤、空气质量、能源及结构监测。",
+        "产品与Westermo渠道": "官网称其为 Campbell Scientific、Geokon、Westermo、RM Young、Solinst、Vernier、Ursalink、Awair 等厂商的冰岛 reseller；Westermo 官方 Where-to-buy 名录列其为 Iceland reseller，提供本地库存和基础技术支持。",
+        "关键人KP": "官网员工页列 Hallur Birgisson、Heiðar Karlsson、Jóhanna Andrésdóttir；销售邮箱以 sale@maelibunadur.is 公开。具体谁负责 Westermo 交换机采购未明。",
+        "联系方式": "官网联系页公开 Bíldshöfða 14, 110 Reykjavík、sala@maelibunadur.is、+354 6611169；同站公告在线商店迁至 vista.is，另列 Vista 商店电话/邮箱，需区分仪器经销与网店服务。",
+        "竞合与我方适配": "Westermo 代理与工业通信是成熟渠道，但公司的主线偏测量/监测、数据采集和环境/土木传感，不是通用交换机分销商；交换机只在数据/现场网络方案中可能关联。",
+        "本轮评级建议": "保留 C：Westermo 产品已有来源，冰岛市场规模较小且当前交换机采购需求未证实；公开邮箱不自动触发升档。"
+      },
+      "assessment": "保留 C。公开资料证实其测量/监测专业定位及 Westermo reseller 身份；Mælibúnaður 官网另公告电商转到 Vista，需确认销售邮箱归属和 Westermo 业务仍由该公司处理。",
+      "kp": [
+        {
+          "name": "Hallur Birgisson",
+          "role": "公司官网员工页列员工；具体 Westermo 采购职责未说明",
+          "contact": "公开团队邮箱格式存在 obfuscation；使用通用 sala@maelibunadur.is 先转接",
+          "status": "official-company-page·具名员工，职责/在职需复核",
+          "source": "https://www.maelibunadur.is/about/"
+        },
+        {
+          "name": "Heiðar Karlsson / Jóhanna Andrésdóttir",
+          "role": "公司官网员工页列人员，团队岗位未明示为 Westermo 采购",
+          "contact": "官网邮箱遮蔽为 sala(hjá)maelibunadur.is；对外目录列 sala@maelibunadur.is",
+          "status": "official-company-page·团队名单；采购决策权未知",
+          "source": "https://www.maelibunadur.is/about/"
+        }
+      ],
+      "facts": [
+        {
+          "dim": "公司成立与业务定位",
+          "text": "Mælibúnaður 官网称公司 2000 年成立，服务测量与监测行业，销售可靠的测量和监控设备。",
+          "quote": "Mælibúnaður hf var stofnaður árið 2000 með það í huga að efla rekstrarskilyrði þeirra sem stunda mælingar og eftirlit.",
+          "url": "https://www.maelibunadur.is/about/"
+        },
+        {
+          "dim": "Westermo reseller身份",
+          "text": "官网将 Westermo 列为其冰岛代理品牌；Westermo 官方目录另列 Mælibúnaður Iceland reseller、local stock 和 basic technical support。",
+          "quote": "Mælibúnaður er endursöluaðili á Íslandi fyrir framleiðendur á borð við Campbell Scientific, Geokon, Westermo ...",
+          "url": "https://www.maelibunadur.is/about/"
+        },
+        {
+          "dim": "员工/团队线索",
+          "text": "官网列出 Hallur Birgisson、Heiðar Karlsson、Jóhanna Andrésdóttir；邮件用冰岛语 hjá（“at”）遮蔽符号，另有公开企业目录写 sala@maelibunadur.is。",
+          "quote": "STARFSFÓLK MÆLIBÚNAÐAR ... Hallur Birgisson · Heiðar Karlsson · Jóhanna Andrésdóttir · sala(hjá)maelibunadur.is",
+          "url": "https://www.maelibunadur.is/about/"
+        },
+        {
+          "dim": "官方联系与迁店公告",
+          "text": "公司联系页列 Reykjavík 地址、sala 邮箱和 +354 6611169；页面另有网上商店已迁到 vista.is 的公告，并给 Vista 联系方式，需核清两个业务通道。",
+          "quote": "Bíldshöfða 14, 110 Reykjavík · sala@maelibunadur.is · +354-6611169 ... Vefverslun Mælibúnaðar er flutt yfir á vista.is/vefverslun",
+          "url": "https://www.maelibunadur.is/hafa-samband/"
+        }
+      ],
+      "next_steps": [
+        "保留 C；如后续继续，询问 sala@maelibunadur.is 由谁负责 Westermo 产品线和是否涉及交换机采购。",
+        "核验 Vista 线上商店迁移后，Mælibúnaður hf 是否仍为 Westermo reseller/保留品牌采购职责。",
+        "未查到项目交换机需求或明确补充供应商计划前，不因有公司邮箱而升档。"
+      ],
+      "unknowns": [
+        "网店迁移到 Vista 的业务关系、库存与订单归属待核",
+        "Westermo 冰岛代理协议及当前交换机 SKU 覆盖未知",
+        "列名员工是否负责网络设备采购尚不清楚"
+      ],
+      "legacy_contact": "+354 661 11 69",
+      "legacy_why": "【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评：①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：通用分销商信号，无差异化切入点，慢慢跟",
+      "legacy_sub": "B下放·无邮箱（群发触达不到）",
+      "revised_sub": "Westermo reseller·测量监测垂直型",
+      "revised_why": "专注测量/监测仪器并销售 Westermo；工业交换机采购需求未证实，线上商店迁移关系待核，保持 C。"
+    },
+    {
+      "code": "C-013",
+      "name": "Cesco Electrical Supply Ltd",
+      "country": "加拿大",
+      "researched_on": "2026-10-09",
+      "contact_summary": "sales@cescoelectrical.com / +1 604-294-4604 / Unit 1105, 575 Seaborne Avenue, Port Coquitlam, BC V3B 0M3, Canada。",
+      "dimensions": {
+        "法定主体与业务定位": "Cesco Electrical Supply Ltd，加拿大 Port Coquitlam；公司官网自述供应电气外壳、控制柜组件、工业自动化、马达控制与工业安全产品。",
+        "品牌/渠道": "官网 suppliers 页面列 HMS Networks、N-Tron by HMS、Red Lion by HMS、Anybus、Ewon 等，并列 Omron、ABB、Panduit 等自动化/电气供应商。",
+        "客户/应用": "服务加拿大工业与自动化市场；产品类别含 industrial networking。网站提供询价/信用申请流程和公司级销售邮箱。",
+        "关键人KP": "本轮官网未找到具名工业网络采购负责人；使用 sales@cescoelectrical.com / 总机请求转接。",
+        "竞合与我方适配": "渠道已覆盖 N-Tron/Red Lion/HMS 并有工业网络类目，和我方工业交换机直接竞合；可能空间仅限明确 SKU 缺口或第二供应源，未证实采购意愿。",
+        "本轮评级建议": "保留 C：品牌线与品类重叠、KP 未定位、具体空缺未证；虽找到公司邮箱但不因此自动升档。"
+      },
+      "assessment": "保留 C。Cesco 官网当前展示 HMS、N-Tron、Red Lion 等现有产品线和 industrial networking 类目，业务高度相关但直接竞争；通过公开销售邮箱接触的前提是确认有未覆盖 SKU。",
+      "kp": [],
+      "facts": [
+        {
+          "dim": "业务定位",
+          "text": "官网称公司供应电气外壳、控制柜组件、工业自动化、马达控制和工业安全产品。",
+          "quote": "We specialize in supplying electrical enclosures, control panel components, industrial automation products, motor control devices, and industrial safety products.",
+          "url": "https://cescoelectrical.com/"
+        },
+        {
+          "dim": "现有品牌线",
+          "text": "当前官网 Suppliers 页列 HMS Networks、N-Tron、Red Lion、Anybus 与 Ewon 等工业通信品牌；这是品牌供应商列示，不单独证明授权或具体采购规模。",
+          "quote": "HMS Networks ... brands including Anybus®, Ewon®, RedLion®, and N-Tron®.",
+          "url": "https://cescoelectrical.com/suppliers/"
+        },
+        {
+          "dim": "公司级联系方式",
+          "text": "联系页公开销售邮箱、电话和 Port Coquitlam 地址。",
+          "quote": "Unit 1105 – 575 Seaborne Avenue, Port Coquitlam, B.C., Canada, V3B 0M3 · sales@cescoelectrical.com · 604-294-4604",
+          "url": "https://cescoelectrical.com/contact/"
+        },
+        {
+          "dim": "工业网络类目",
+          "text": "官网将 Industrial Networking 单列为产品类型，说明网络产品属于可购/询价类目。",
+          "quote": "Industrial Networking",
+          "url": "https://cescoelectrical.com/"
+        }
+      ],
+      "next_steps": [
+        "保留 C；如后续评估渠道，通过 sales@cescoelectrical.com 向工业网络品类负责人询问其现有 N-Tron/Red Lion SKU 是否有规格或供货缺口。",
+        "先核其供应商政策、品牌冲突/区域权利和实际工业交换机产品清单；不把品牌列示等同于可采购我方产品。",
+        "没有明确空白或第二来源邀请时，继续维持 C。"
+      ],
+      "unknowns": [
+        "当前 N-Tron / Red Lion 代理合同与授权边界未核",
+        "工业交换机现售 SKU、库存与年采购量未知",
+        "销售联系人与采购决策层未具名"
+      ],
+      "legacy_contact": "官网联系页（HMS 名录只公开地址与网址）",
+      "legacy_why": "【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评：①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：通用分销商信号，无差异化切入点，慢慢跟",
+      "legacy_sub": "B下放·无邮箱（群发触达不到）",
+      "revised_sub": "HMS/N-Tron/RedLion供货线·工业品类重叠",
+      "revised_why": "官网列 HMS/N-Tron/Red Lion 和 Industrial Networking，现有供货线与我方直接重叠；采购空缺未证实，保持 C。"
+    },
+    {
+      "code": "C-014",
+      "name": "EB Horsman & Son",
+      "country": "加拿大",
+      "researched_on": "2026-10-09",
+      "contact_summary": "info@ebhorsman.com / 1-888-467-7626 / Surrey, BC head office (full address is in the research section).",
+      "dimensions": {
+        "法定主体与业务定位": "E.B. Horsman & Son，加拿大西部独立、员工/家族持有的电气批发商；公司官网称 1900 年起经营，22 个网点覆盖 BC、Alberta、Saskatchewan，供应超过 600 家厂商、约 100 万产品。",
+        "产品/渠道线": "公司官网 suppliers 页列 HMS Industrial Networks、Red Lion Controls 等厂商；主表另有 N-Tron、Anybus、Ewon 等品牌线索。公开分支覆盖广泛，采购决策很可能集中/总部化，实际品类权限需问。",
+        "关键人KP": "第三方公开资料列 Tim Horsman 为 President & CEO，Todd Taverner 为 VP Purchasing & Inventory；官网未交叉确认个人直联/具体类别权限，均为 leads-only。",
+        "联系方式": "官网公布 info@ebhorsman.com、总机 1-888-467-7626；总部 19295 25th Avenue, Surrey, BC；各分支另有区域电话。",
+        "竞合与我方适配": "成熟大型电气/工业批发网络，供应品类广并已列 HMS/Red Lion；体量、中心化采购和现有品牌线使新供应商引入难度高。仅在品类负责人指出具体空缺时评估。",
+        "本轮评级建议": "保留 C：公司有通道但规模/渠道既有布局强，缺少明确工业交换机新增供应商窗口。"
+      },
+      "assessment": "保留 C。E.B. Horsman 是超 20 个网点的西加拿大大型电气批发商，HMS/Red Lion 已在其供应商目录；决策复杂度和既有渠道重叠均较高，尚无具体采购信号。",
+      "kp": [
+        {
+          "name": "Tim Horsman",
+          "role": "第三方行业/管理目录列 President & CEO；官网未交叉确认现职/采购权",
+          "contact": "未核实个人工作邮箱；公司入口 info@ebhorsman.com / 1-888-467-7626",
+          "status": "leads-only·第三方职业线索；不作为已确认采购 KP",
+          "source": "https://www.abcdmi.ca/companies/eb-horsman-son"
+        },
+        {
+          "name": "Todd Taverner",
+          "role": "第三方执行团队目录列 VP, Purchasing & Inventory，待核",
+          "contact": "未查到个人工作邮箱；先通过公司通用入口转接",
+          "status": "leads-only·第三方目录候选；采购品类权限未核",
+          "source": "https://craft.co/e-b-horsman-son/executives"
+        }
+      ],
+      "facts": [
+        {
+          "dim": "历史与定位",
+          "text": "公司官网称自 1900 年起经营，为西加拿大大型独立电气分销商，强调员工持股/家族所有。",
+          "quote": "We have been helping communities thrive since 1900. As the largest Western Canadian independent electrical distributor ... EMPOWER, E.B. Horsman & Son’s Employee Share Ownership Plan (ESOP)",
+          "url": "https://ebhorsman.com/about-us"
+        },
+        {
+          "dim": "规模与供应商覆盖",
+          "text": "官网称其在 BC、Alberta、Saskatchewan 有 22 个地点，代表 600 多个供应商，超过 100 万种产品。",
+          "quote": "With 22 locations across Western Canada ... Representing a comprehensive network of over 600 suppliers",
+          "url": "https://ebhorsman.com/about-us"
+        },
+        {
+          "dim": "现有品牌线",
+          "text": "公司供应商目录列 HMS Industrial Networks、Red Lion Controls；证明公开品牌线索，不证明 N-Tron 合同、具体交换机库存或采购权。",
+          "quote": "HMS Industrial Networks ... Red Lion Controls",
+          "url": "https://ebhorsman.com/resources/suppliers"
+        },
+        {
+          "dim": "总部与联系方式",
+          "text": "官网总部页公开 Surrey 地址、电话及免费总机；公司全站目录也公布 info@ebhorsman.com。",
+          "quote": "19295 25th Avenue Surrey, BC, V3Z 3X1 · Phone: 1.778.545.9916 · Toll Free: 1.888.467.7626",
+          "url": "https://ebhorsman.com/locations/head-office/"
+        },
+        {
+          "dim": "分支网络",
+          "text": "官网 locations 页列出 Lower Mainland、Vancouver Island、Interior、Northern BC、Alberta 和 Saskatchewan 多地分支，采购/库存协同可能为集中式。",
+          "quote": "Lower Mainland – BC ... Vancouver Island – BC ... Interior – BC ... Northern – BC ... Alberta ... Saskatchewan",
+          "url": "https://ebhorsman.com/locations/"
+        }
+      ],
+      "next_steps": [
+        "保留 C；如需评估，只通过 info@ebhorsman.com 向工业网络品类负责人询问现有 HMS/N-Tron/Red Lion 产品覆盖和总部采购规则。",
+        "验证 Todd Taverner 等采购候选的现职与实际品类职责；不直接套用第三方联系人信息。",
+        "没有明确品类空缺或总部引入意向时，停止常规开发，维持 C。"
+      ],
+      "unknowns": [
+        "工业交换机和 N-Tron 的现售 SKU、合同及采购品牌限制未核",
+        "分支自主采购范围与总部统一采购权限未知",
+        "第三方列出的管理层职位和采购职责待官网/公司确认"
+      ],
+      "legacy_contact": "官网联系页（HMS 名录只公开地址与网址）",
+      "legacy_why": "【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评：①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：通用分销商信号，无差异化切入点，慢慢跟",
+      "legacy_sub": "B下放·无邮箱（群发触达不到）",
+      "revised_sub": "大型电气批发·总部采购/现有HMS与RedLion",
+      "revised_why": "大型西加拿大电气批发网络已列 HMS/Red Lion，采购体系和现有品牌覆盖强；无新增供应商窗口证据，保持 C。"
+    },
+    {
+      "code": "C-015",
+      "name": "Globall Distribution",
+      "country": "加拿大",
+      "researched_on": "2026-10-09",
+      "contact_summary": "info@globall.ca / 514-374-7117 / 1-866-800-6400；官网 contact 显示 4185 rue Marcel Lacasse, Boisbriand, QC J7H 1N4，Planet 商品页另显示 Blainville warehouse 地址，需核两者分工。",
+      "dimensions": {
+        "法定主体与业务定位": "Globall Distribution，加拿大魁北克分销商；官网自述为 Planet Networking & Communication 加拿大分销商，另售网络、通信、视频会议、监控与安装材料。网站设有 Become a reseller 入口。",
+        "产品线与在售型号": "Planet 在线目录显示约 470 个商品条目，包含 IGS-801T/IGS-801M 工业交换机、IGS-504HPT PoE 工业交换机、IGS-1600T 16 口千兆工业交换机及 PoE/光纤产品。",
+        "关键人KP": "本轮未找到具名采购/类别经理；官网公司级入口 info@globall.ca、电话 514-374-7117。",
+        "联系方式": "官网 contact 页公开 info@globall.ca、514-374-7117、1-866-800-6400；联系页 Boisbriand 地址与商品页仓库 Blainville 地址不同，需确认办公室/提货仓库分别对应何主体。",
+        "竞合与我方适配": "Planet 授权渠道已覆盖多种工业交换机、PoE、SFP/光纤商品，并开放 reseller 计划；与我方工业交换机有直接竞争。只有存在明确缺口或第二品牌导入意向才有继续价值。",
+        "本轮评级建议": "保留 C：有公开渠道入口但 Planet 工业网络产品覆盖广，尚无未覆盖 SKU 或采购窗口证据。"
+      },
+      "assessment": "保留 C。官网直接确认加拿大 Planet 分销身份、470 左右的 Planet 商品目录及多款工业交换机/PoE；采购意向和产品空位未证实。",
+      "kp": [],
+      "facts": [
+        {
+          "dim": "官方分销身份与商品广度",
+          "text": "Globall 官网自述为 Planet Networking & Communication 的加拿大分销商；该品牌在线目录抓取页显示 470 个商品条目。",
+          "quote": "Welcome to Globall Distribution, Canadian Distributor of Planet Networking & Communication products ... Showing 1 - 24 of 470 products",
+          "url": "https://www.globall.ca/collections/planet-technology"
+        },
+        {
+          "dim": "工业交换机与PoE覆盖",
+          "text": "目录列 Planet IGS-801T 工业千兆交换机、IGS-504HPT 802.3at PoE 工业交换机、IGS-801M 管理型和 IGS-1600T 16 口工业交换机；页面显示部分商品库存状态随抓取时变化。",
+          "quote": "IGS-801T 8-Port ... Industrial Gigabit Ethernet Switch ... IGS-504HPT Industrial 4-Port ... 802.3at PoE ... IGS-1600T Planet Industrial 16-Port 10/100/1000T Ethernet Switch",
+          "url": "https://www.globall.ca/collections/planet-technology"
+        },
+        {
+          "dim": "合作/转售通路",
+          "text": "网站提供 Become a reseller 的入口，说明其公开发展经销商；不代表对我方品牌的准入或采购承诺。",
+          "quote": "Become a RESELLER · Learn more",
+          "url": "https://www.globall.ca/pages/ages-contact-us-reach-us/"
+        },
+        {
+          "dim": "公司级联系方式与地址",
+          "text": "官网 contact 页公开 info 邮箱、电话和 Boisbriand 地址；产品页 footer 又列 Blainville warehouse/提货点地址，需发信/送样前核实正确实体和收货点。",
+          "quote": "info@globall.ca · 514-374-7117 · 4185 rue Marcel Lacasse, Boisbriand, Qc J7H 1N4",
+          "url": "https://www.globall.ca/pages/ages-contact-us-reach-us/"
+        }
+      ],
+      "next_steps": [
+        "保留 C；若用户后续评估渠道，只从 info@globall.ca 询问 Planet 之外是否开放第二交换机品牌，并明确具体产品/区域。",
+        "核对 Planet 已覆盖的工业交换机、PoE、温度范围与上联口规格，避免重复推同规格产品。",
+        "确认 Boisbriand 通信地址与 Blainville 仓库的法人/订单/送样关系；无明确空缺或品牌准入意向则维持 C。"
+      ],
+      "unknowns": [
+        "Planet 授权级别/合同区域及交换机采购决策人未核",
+        "目录中 470 个条目并不等同库存或销量，实际库存与采购周期需另核",
+        "Boisbriand contact 地址与 Blainville warehouse 地址的业务关系未核"
+      ],
+      "legacy_contact": "官网 Contact 页",
+      "legacy_why": "【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一情形可重评：①补到邮箱 ②对方主动询价 ③出现 EOL 替换需求 ④冒出内部联系人。原判：有信号（交换专长、工业/楼宇）但需先验证需求或联系人不具体",
+      "legacy_sub": "B下放·无邮箱（群发触达不到）",
+      "revised_sub": "Planet工业交换机分销·产品线直接重叠",
+      "revised_why": "Planet加拿大分销目录含多款工业交换机/PoE，规格重叠且采购窗口未证实，保持 C。"
+    }
+  ]
+}

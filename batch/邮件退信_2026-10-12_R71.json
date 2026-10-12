@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-12",
+  "source": "Gmail 正文复核（2026-10-09 至 2026-10-11）+ 用户报告项（未检出对应 Gmail 原件）",
+  "note": "按精确收件地址记录回执，不删档内地址。远端服务器配置/中继故障、收件人访问拒绝、域名 NXDOMAIN、临时重试、用户报告地址不存在、群组权限限制分别标注；不得互相推断。A-568 的 2026-10-09 临时通知与 2026-10-10 最终失败属于同一 Gmail 线程；本条合并保留两次通知及 R69 用户转述 45 小时与 Gmail 正文 21 小时的来源差异。无匹配档案代码的 Solution Box Argentina 群组单独放在 unmatched_records，不映射到美国实体 B-381，也不影响 contact@solutionboxusa.com。",
+  "records": [
+    {
+      "code": "A-568",
+      "name": "Purdicom Limited",
+      "email": "info@purdicom.com",
+      "bounced": "info@purdicom.com",
+      "type": "remote-server-misconfigured",
+      "delivery_status": "远端服务器配置/中继故障；2026-10-10 已收到最终未送达通知。不是地址不存在。",
+      "source": "Gmail 正文；两封 DSN 属于同一线程",
+      "date": "2026-10-10",
+      "events": [
+        {
+          "date": "2026-10-09 05:12:06 -0700",
+          "kind": "temporary-delay",
+          "remote_response": "451 Open relay not allowed",
+          "gmail_text": "Gmail 表示还将重试 21 小时"
+        },
+        {
+          "date": "2026-10-10 05:08:39 -0700",
+          "kind": "final-undelivered",
+          "remote_response": "451 Open relay not allowed",
+          "gmail_text": "remote server is misconfigured / Message not delivered"
+        }
+      ],
+      "detail": "Gmail 正文：2026-10-09 05:12:06 -0700 暂时通知，远端返回 `451 Open relay not allowed`，Gmail 称还将重试 21 小时；2026-10-10 05:08:39 -0700 同线程最终通知，远端仍返回 `451 Open relay not allowed` 并称服务器配置错误，邮件最终未送达。R69 用户转述的重试时长为 45 小时，与 Gmail 正文 21 小时不一致；保留为不同来源，不用转述覆盖正文。该错误说明远端服务器/中继配置问题，不证明收件地址不存在。",
+      "alternates": [
+        "sales@purdi.com（既有官网销售入口）",
+        "hello@purdi.com（既有官网通用入口）",
+        "purdi.com/contact 官网表单"
+      ],
+      "action": "暂停向 info@purdicom.com 重投，保留地址和两次回执；此问题不是地址不存在。后续若继续跟进，走档案已有 sales@purdi.com、hello@purdi.com 或官网表单，不将远端服务器故障扩展到这些通道。",
+      "profile_note": "Gmail 对 info@purdicom.com 的最终失败属于 451 远端服务器配置/中继问题；本轮临时通知和最终通知同一线程，R69 的 45 小时用户转述与 Gmail 正文 21 小时差异已并记。"
+    },
+    {
+      "code": "B-263",
+      "name": "FYR-SYSTEMS Sp. z o.o.",
+      "email": "ikrotik@fyr-systems.pl",
+      "bounced": "ikrotik@fyr-systems.pl",
+      "type": "remote-relay-rejected",
+      "delivery_status": "远端拒绝中继/服务器策略问题（553 5.7.1）；不是地址不存在。",
+      "source": "Gmail 正文",
+      "date": "2026-10-09",
+      "date_time": "2026-10-09 03:40:41 -0700",
+      "remote_response": "553 5.7.1 We don't relay mails",
+      "detail": "Gmail 正文：2026-10-09 03:40:41 -0700，精确收件人 `ikrotik@fyr-systems.pl`，远端返回 `553 5.7.1 We don't relay mails`。属于远端中继/服务器配置或策略拒绝，不等于邮箱不存在。档案/主表现有地址是 `mikrotik@fyr-systems.pl`，比退信地址多一个首字母 `m`；两者不是同一字符串，本回执只适用于 `ikrotik@fyr-systems.pl`。",
+      "alternates": [
+        "mikrotik@fyr-systems.pl（档案主地址；与退信地址拼写不同，不能据此宣称已投递或验证）",
+        "+48 537 307 562（档案已有电话）",
+        "fyr-systems.pl 官网联系入口"
+      ],
+      "action": "不再向 ikrotik@fyr-systems.pl 重投；保留档案主地址 mikrotik@fyr-systems.pl，明确注明地址不同且本回执不判定主地址。不得把漏首字母的退信套用到主地址，也不得把主地址描述为本次已验证送达。",
+      "profile_note": "Gmail DSN 精确指向 ikrotik@fyr-systems.pl，缺主表地址 mikrotik@fyr-systems.pl 的首字母 `m`；二者严格分开记录。"
+    },
+    {
+      "code": "B-352",
+      "name": "IEI Technology USA Corp.",
+      "email": "richard@ieiworld.com",
+      "bounced": "richard@ieiworld.com",
+      "type": "recipient-access-denied",
+      "delivery_status": "远端拒绝收件/访问权限限制（550 5.4.1 Access denied）；不等于地址不存在。",
+      "source": "Gmail 正文",
+      "date": "2026-10-09",
+      "date_time": "2026-10-09 14:01:48 -0700",
+      "remote_response": "550 5.4.1 Recipient address rejected: Access denied",
+      "detail": "Gmail 正文：2026-10-09 14:01:48 -0700，精确收件人 `richard@ieiworld.com`，远端返回 `550 5.4.1 Recipient address rejected: Access denied`。这是访问拒绝/拦截，不能据此判定地址不存在。该地址是档案中的具名 KP 线索；主表公司邮箱为 `sales@usa.ieiworld.com`，不是此次退信地址。",
+      "alternates": [
+        "sales@usa.ieiworld.com（主表现有公司邮箱；本回执不指向该地址）",
+        "+1 909 595-2819（档案已有电话）"
+      ],
+      "action": "不再向 richard@ieiworld.com 重投；保留其为精确地址级访问拒绝记录。不得把 Richard 的退信扩展到公司 sales@ 邮箱；其他猜测型个人邮箱仍遵守 leads-only/opt-in，不自动换投。",
+      "profile_note": "仅 richard@ieiworld.com 收到 550 5.4.1 Access denied；这不是地址不存在，也不影响不同的公司邮箱 sales@usa.ieiworld.com。"
+    },
+    {
+      "code": "B-491",
+      "name": "Netmont DOO",
+      "email": "info@setehnica.com",
+      "bounced": "info@setehnica.com",
+      "type": "domain-nxdomain",
+      "delivery_status": "邮箱域 `setehnica.com` 的 MX 查询返回 NXDOMAIN（域名未找到）；该地址当前不可投递。",
+      "source": "Gmail 正文",
+      "date": "2026-10-10",
+      "date_time": "2026-10-10 04:21:00 -0700",
+      "remote_response": "MX lookup for setehnica.com returned NXDOMAIN",
+      "detail": "Gmail 正文：2026-10-10 04:21:00 -0700，`info@setehnica.com` 的 MX 查询返回 NXDOMAIN，域名未找到。失败性质为邮箱域名不存在，不是仅有的权限拦截或服务器延迟。",
+      "alternates": [
+        "+382 67 244 376（档案已有电话）",
+        "netmont.me 官网联系入口"
+      ],
+      "action": "保留并标记 info@setehnica.com 为域名 NXDOMAIN，不再向该地址发送；如需继续跟进，改用档案已有电话或 netmont.me 官网入口。",
+      "profile_note": "info@setehnica.com 的域名 MX 返回 NXDOMAIN；保留失败地址，不再向该地址投递，可改用档案已有电话/官网。"
+    },
+    {
+      "code": "B-487",
+      "name": "Accreda Ltd",
+      "email": "sales@accreda.eu",
+      "bounced": "sales@accreda.eu",
+      "type": "temporary-delay-retrying",
+      "delivery_status": "临时投递延迟；Gmail 尚在 46 小时重试窗口内，当前不是最终失败，也未证明地址不存在。",
+      "source": "Gmail 正文",
+      "date": "2026-10-11",
+      "date_time": "2026-10-11 05:00:55 -0700",
+      "remote_response": "连接已建立，但因超时/连接质量问题未完成邮件传输",
+      "gmail_text": "Gmail 表示还将重试 46 小时",
+      "detail": "Gmail 正文：2026-10-11 05:00:55 -0700，精确收件人 `sales@accreda.eu`；连接已建立，但交易因超时/连接质量问题未完成，Gmail 表示还将重试 46 小时。属于临时延迟/重试中，不是地址不存在，也不是最终退信。",
+      "alternates": [
+        "+356 2205 6847（档案已有电话）",
+        "accreda.eu 官网联系入口"
+      ],
+      "action": "等待 Gmail 当前重试窗口完成，不重复发送到 sales@accreda.eu；窗口未结束前不将其改标永久失败。若 Gmail 后续给出最终结果，再按新回执更新；不预填未提供的跟进日期。",
+      "profile_note": "sales@accreda.eu 为 Gmail 临时延迟/46 小时重试中；暂不重复投递，不标为地址不存在或永久失败。"
+    },
+    {
+      "code": "B-340",
+      "name": "Controller Service and Sales",
+      "email": "mark@controllerservice.com",
+      "bounced": "mark@controllerservice.com",
+      "type": "user-reported-not-found",
+      "delivery_status": "用户报告收件人不存在；本次 Gmail 精确搜索未找到对应退信原件，故不标作 Gmail 正文核实。",
+      "source": "用户报告；Gmail 精确搜索未检出原件",
+      "date": null,
+      "detail": "用户报告 `mark@controllerservice.com` 收件人不存在。对连接的 Gmail 按地址精确搜索未找到对应退信原件；因此保留为用户报告，不补造回执日期或 Gmail 错误码。只对该精确地址标记，不扩展到 `sales@controllerservice.com`、其他 KP 地址或整家公司。",
+      "alternates": [
+        "sales@controllerservice.com（档案已有公司联系邮箱；用户报告未指向该地址）",
+        "官网联系页/公司电话（如需继续跟进时使用）"
+      ],
+      "action": "不再向 mark@controllerservice.com 重投；保留该 KP 地址并标注为用户报告的收件人不存在。Gmail 原件与日期均未核实；不把此报告套用到其他地址。",
+      "profile_note": "mark@controllerservice.com 为用户报告的地址不存在（未检出 Gmail 原件、日期未提供）；仅停用该精确地址，不影响公司 sales@ 通道。"
+    }
+  ],
+  "unmatched_records": [
+    {
+      "entity": "Solution Box Argentina 群组（未匹配到主表客户档案代码）",
+      "email": "llc_ventas_argentina@solutionbox.com.ar",
+      "type": "group-sender-restriction",
+      "delivery_status": "用户报告群组限制外部或未批准发件人；本次 Gmail 精确搜索未找到对应原件。不是地址不存在。",
+      "source": "用户报告；Gmail 精确搜索未检出原件",
+      "date": null,
+      "detail": "用户报告 Solution Box Argentina 群组 `llc_ventas_argentina@solutionbox.com.ar` 限制外部/未批准发件人。本次 Gmail 精确搜索未找到原件；不补造日期或服务器错误码。该组未匹配到独立的 A/B 档案代码。",
+      "action": "作为未映射群组记录单独保留；不得并到美国实体 B-381，不标记 B-381 的 contact@solutionboxusa.com 退信，也不判为地址不存在。"
+    }
+  ]
+}

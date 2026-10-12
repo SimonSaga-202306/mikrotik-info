@@ -1,8 +1,8 @@
 # Adrián González Notario
 
-> **评级 B**　|　西班牙 · Madrid　|　档案编号 `B-457`　|　优先级 ★★　|　状态：未触达
+> **评级 B**　|　西班牙 · Madrid　|　档案编号 `B-457`　|　优先级 ★★　|　状态：02-客户已回复；待我方回复
 >
-> **触达状态（Stage）**：00-researched　|　结构版本：结构化档案 v2（R56 规则，2026-09-28 用户审定）
+> **触达状态（Stage）**：02-replied　|　结构版本：结构化档案 v2（R56 规则，2026-09-28 用户审定）
 
 ```yaml structured_profile
 code: B-457
@@ -15,9 +15,9 @@ price_sensitivity: medium
 volume_potential: 3  # 1-5
 needs: {poe: true, industrial: false, tenG: false, l2plus: false, voice: false, oem: false, hotel: false, training: true}
 p1: CONSULT-OEM
-stage: 00-researched
+stage: 02-replied
 struct_version: v2  # v2 骨架
-updated: 2026-10-07
+updated: 2026-10-12
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -28,7 +28,7 @@ updated: 2026-10-07
 - **P1（首触唯一主推）**：OEM/白牌合作探询（无量产型号首推） — 2026 新 ASN 运营者守档观察:技术对话备养,等其上线部署的硬件窗口；—（合作探询，无量产报价）
 - **第一问（只问一个）**：(守档)AS201361 计划什么形态上线?部署时接入/汇聚侧件选型开始看了吗?
 - **最大未知（影响成交的）**：现有交换机品牌与 PoE 预算未确认；采购量未确认
-- **下一步**：发出首触邮件（见文末样板）→ 等待信号；14 天无回复按降频规则处理
+- **下一步**：先由用户决定是否回复客户关于邮箱来源的问题；暂不自动发送、不追加产品推介或附件。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -73,11 +73,11 @@ CONSULT-OEM·24-port Gigabit PoE access switch (280W, 802.3af/at, watchdog)
 ## 联系方式（已有/猜测分标）
 
 - **邮箱**：services@adrnet.site
-  - 状态：既有/公开
+  - 状态：客户于 2026-10-10 回信，证明该地址当时可接收邮件；当前待我方回复
 - **电话**：—
 - 来源等级：official-channel（R41–R48 联系方式台账口径）
 - **原始联系字段**：services@adrnet.site
-- **验证口径**：MX/DNS 级核验（域存活=可投递到域）；沙箱 SMTP RCPT 被拒，用户级不验——「有 MX 记录 ≠ 邮箱存在」，2026-09-28 用户确认按此口径执行。
+- **R71 跟进核对**：Gmail 核实本户于 2026-10-10 向 services@adrnet.site 发件并收到客户回信；确切时间、主题与原话见本档 R71 记录，不外推到其他客户。
 
 ## 关键人（KP）与触达通道
 
@@ -202,3 +202,15 @@ S=原 R65/R57 谱基在册;W=具名缺守档;O=CONSULT-OEM 参件窗;T=谱链节
 ---
 
 *建档日期：2026-09-22　|　结构 v2：2026-10-07（R56 规则 · R65 B 类对齐 A 标准）　|　数据来源：客户名单_反向信号_2026-09.csv + B 类深挖调研 JSON*
+
+<!-- R71-FOLLOWUP-START -->
+## R71 本轮跟进与邮件回执（2026-10-12）
+
+- **跟进范围**：用户报告 A/B 已完成一轮；本户另有 Gmail 外发记录：2026-10-10 14:20:00 +0800，收件人 `services@adrnet.site`。
+- **回复状态**：Gmail 已核实客户针对 2026-10-10 外发邮件回信，询问邮箱来源；当前待我方回复。
+- **Gmail 核实**：主题 `24 Port PoE Managed Switch`；外发收件人 `services@adrnet.site`，时间 2026-10-10 14:20:00 +0800；
+  客户回信来自 `services@adrnet.site`，时间 2026-10-10 08:16:41 +0000。
+  客户原话：“Hi, How do you get this email? Thanks.”
+- **待办**：等待用户决定是否回复；不自动发送、不追加销售推介或附件。
+- **后续节奏**：首轮之后不作无差别催促；按既有节奏等待或低频跟进，不填造日期。
+<!-- R71-FOLLOWUP-END -->
