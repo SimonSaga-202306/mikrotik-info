@@ -12556,12 +12556,59 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-257",
     "legacy_source_label": "Moxa 渠道名录（经销商定位法）",
     "site_lead": "jampel.it",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
+    "record_urls": [
+      "https://moxa.distry.shop/chi-siamo/",
+      "https://pages.moxa.com/eu-MTC-Locations.html",
+      "https://www.jampel.it/prodotti/moxa/",
+      "https://www.jampel.it/contatti/"
+    ],
+    "status": "R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）",
     "contact_research": [],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "5e1fac83d9c37c63093e9c4929818ea474bbb431",
-    "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
+    "warning": "公开资料只支持其明示字段；公司自述、制造商名录、二级登记数据与动态商品页按各自范围解读，不证明采购意向/订单/完整授权/型号能力。评级仍C，不触达。",
+    "public_research": {
+      "round": "R73",
+      "batch_path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+      "researched_on": "2026-10-12",
+      "fact_count": 6,
+      "dimension_count": 9,
+      "sources": [
+        {
+          "url": "https://moxa.distry.shop/chi-siamo/",
+          "source_type": "公司自营页面",
+          "source_level": "一手自述"
+        },
+        {
+          "url": "https://moxa.distry.shop/chi-siamo/",
+          "source_type": "公司自营页面",
+          "source_level": "一手自述；未独立核验商业授权范围"
+        },
+        {
+          "url": "https://pages.moxa.com/eu-MTC-Locations.html",
+          "source_type": "制造商官方培训地点页",
+          "source_level": "一手厂商名录；仅支持 MTC 培训名录范围"
+        },
+        {
+          "url": "https://www.jampel.it/prodotti/moxa/",
+          "source_type": "渠道商商品页",
+          "source_level": "一手目录；型号/页面描述可核，库存与价格动态"
+        },
+        {
+          "url": "https://www.jampel.it/prodotti/moxa/",
+          "source_type": "渠道商商品页",
+          "source_level": "一手目录；未独立验证实物库存"
+        },
+        {
+          "url": "https://www.jampel.it/contatti/",
+          "source_type": "公司官网联系页",
+          "source_level": "一手公开联系信息"
+        }
+      ],
+      "boundary": "Moxa培训名单不外推为当前销售合同、区域或全型号授权；公司自称授权分销须标注自述。产品目录/价格/现货不等同采购需求或采购成本。",
+      "outreach": "未触达；无邮件、电话、寄样或报价",
+      "grade": "保持C；未改主表"
+    }
   },
   {
     "code": "B-166",
@@ -12725,12 +12772,58 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-261",
     "legacy_source_label": "2026-09-22",
     "site_lead": "pierobersanini.com",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
+    "record_urls": [
+      "https://www.pierobersanini.com/en/p/contatti",
+      "https://www.westermo.com/contact/where-to-buy",
+      "https://www.spsitalia.it/en/exhibitor-detail/1219/piero-bersanini-spa"
+    ],
+    "status": "R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）",
     "contact_research": [],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "5e1fac83d9c37c63093e9c4929818ea474bbb431",
-    "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
+    "warning": "公开资料只支持其明示字段；公司自述、制造商名录、二级登记数据与动态商品页按各自范围解读，不证明采购意向/订单/完整授权/型号能力。评级仍C，不触达。",
+    "public_research": {
+      "round": "R73",
+      "batch_path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+      "researched_on": "2026-10-12",
+      "fact_count": 6,
+      "dimension_count": 9,
+      "sources": [
+        {
+          "url": "https://www.pierobersanini.com/en/p/contatti",
+          "source_type": "公司官网页脚/联系页",
+          "source_level": "一手法定主体自述"
+        },
+        {
+          "url": "https://www.pierobersanini.com/en/p/contatti",
+          "source_type": "公司官网",
+          "source_level": "一手自述"
+        },
+        {
+          "url": "https://www.westermo.com/contact/where-to-buy",
+          "source_type": "Westermo 官方渠道名录",
+          "source_level": "制造商一手名录"
+        },
+        {
+          "url": "https://www.pierobersanini.com/en/p/contatti",
+          "source_type": "公司网店产品分类",
+          "source_level": "一手目录"
+        },
+        {
+          "url": "https://www.pierobersanini.com/en/p/contatti",
+          "source_type": "公司官网联系页",
+          "source_level": "一手公开联系信息"
+        },
+        {
+          "url": "https://www.spsitalia.it/en/exhibitor-detail/1219/piero-bersanini-spa",
+          "source_type": "SPS Italia 官方展商目录（2026）",
+          "source_level": "展会一手目录/公司简介"
+        }
+      ],
+      "boundary": "Gold等级和服务属性不证明销量、采购量或第二来源政策；当前具名采购决策人未核，未触达。",
+      "outreach": "未触达；无邮件、电话、寄样或报价",
+      "grade": "保持C；未改主表"
+    }
   },
   {
     "code": "A-488",
@@ -13098,12 +13191,72 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-269",
     "legacy_source_label": "反向信号/2026-09",
     "site_lead": "atecnica.it",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
+    "record_urls": [
+      "https://www.atecnica.it/informazioni-atecnica",
+      "https://www.atecnica.it/switch-industriale-hi-poe-8-porte-poe-2-uplink-sfp.html"
+    ],
+    "status": "R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）",
     "contact_research": [],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "5e1fac83d9c37c63093e9c4929818ea474bbb431",
-    "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
+    "warning": "公开资料只支持其明示字段；公司自述、制造商名录、二级登记数据与动态商品页按各自范围解读，不证明采购意向/订单/完整授权/型号能力。评级仍C，不触达。",
+    "public_research": {
+      "round": "R73",
+      "batch_path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+      "researched_on": "2026-10-12",
+      "fact_count": 9,
+      "dimension_count": 10,
+      "sources": [
+        {
+          "url": "https://www.atecnica.it/informazioni-atecnica",
+          "source_type": "公司自有销售/法律条款页",
+          "source_level": "一手主体自述"
+        },
+        {
+          "url": "https://www.atecnica.it/switch-industriale-hi-poe-8-porte-poe-2-uplink-sfp.html",
+          "source_type": "公司网店商品页",
+          "source_level": "一手商品目录；厂牌/库存需另核"
+        },
+        {
+          "url": "https://www.atecnica.it/switch-industriale-hi-poe-8-porte-poe-2-uplink-sfp.html",
+          "source_type": "公司网店商品页",
+          "source_level": "一手商品规格描述；未核厂商数据手册"
+        },
+        {
+          "url": "https://www.atecnica.it/switch-industriale-hi-poe-8-porte-poe-2-uplink-sfp.html",
+          "source_type": "公司网店实时商品页面",
+          "source_level": "动态零售快照；价格/库存不可外推"
+        },
+        {
+          "url": "https://www.atecnica.it/switch-industriale-hi-poe-8-porte-poe-2-uplink-sfp.html",
+          "source_type": "公司网店导航",
+          "source_level": "一手网站分类"
+        },
+        {
+          "url": "https://www.atecnica.it/switch-industriale-hi-poe-8-porte-poe-2-uplink-sfp.html",
+          "source_type": "公司商品页/联系信息",
+          "source_level": "一手公开联系信息"
+        },
+        {
+          "url": "https://www.atecnica.it/informazioni-atecnica",
+          "source_type": "公司自有销售条款",
+          "source_level": "一手业务模式自述"
+        },
+        {
+          "url": "https://www.atecnica.it/informazioni-atecnica",
+          "source_type": "公司自有配送/销售条款",
+          "source_level": "一手业务模式自述"
+        },
+        {
+          "url": "https://www.atecnica.it/informazioni-atecnica",
+          "source_type": "公司自有销售条款",
+          "source_level": "一手业务模式自述"
+        }
+      ],
+      "boundary": "商品页含税价格与库存是动态零售快照，不是批发/采购成本或销量证据；制造商品牌、完整规格、采购人及批量需求未核。",
+      "outreach": "未触达；无邮件、电话、寄样或报价",
+      "grade": "保持C；未改主表"
+    }
   },
   {
     "code": "B-178",
@@ -13222,12 +13375,77 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-272",
     "legacy_source_label": "2026-09-22",
     "site_lead": "oak-integrator.lv",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
+    "record_urls": [
+      "https://www.westermo.com/contact/where-to-buy",
+      "https://oak-integrator.lv/catalog/",
+      "https://oak-integrator.lv/product/korenix-managed-switches/",
+      "https://oak-integrator.lv/",
+      "https://oak-integrator.lv/about-us/contact-page/",
+      "https://company.lursoft.lv/en/oak-integrator-solutions/40103496615",
+      "https://company.lursoft.lv/en/oak-integrator-products/40003540103"
+    ],
+    "status": "R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）",
     "contact_research": [],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "5e1fac83d9c37c63093e9c4929818ea474bbb431",
-    "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
+    "warning": "公开资料只支持其明示字段；公司自述、制造商名录、二级登记数据与动态商品页按各自范围解读，不证明采购意向/订单/完整授权/型号能力。评级仍C，不触达。",
+    "public_research": {
+      "round": "R73",
+      "batch_path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+      "researched_on": "2026-10-12",
+      "fact_count": 9,
+      "dimension_count": 10,
+      "sources": [
+        {
+          "url": "https://www.westermo.com/contact/where-to-buy",
+          "source_type": "Westermo 官方渠道名录",
+          "source_level": "制造商一手名录"
+        },
+        {
+          "url": "https://oak-integrator.lv/catalog/",
+          "source_type": "公司官网产品目录",
+          "source_level": "一手自述/目录"
+        },
+        {
+          "url": "https://oak-integrator.lv/product/korenix-managed-switches/",
+          "source_type": "公司官网产品页",
+          "source_level": "一手产品目录；页面现售/库存未核"
+        },
+        {
+          "url": "https://oak-integrator.lv/",
+          "source_type": "公司官网客户评价",
+          "source_level": "供应商自发布的客户评价；日期未标"
+        },
+        {
+          "url": "https://oak-integrator.lv/product/korenix-managed-switches/",
+          "source_type": "公司官网历史客户评价",
+          "source_level": "供应商自发布，明确为2016年历史信息"
+        },
+        {
+          "url": "https://oak-integrator.lv/about-us/contact-page/",
+          "source_type": "公司官网联系页",
+          "source_level": "一手公开职能/联系信息；采购权限未核"
+        },
+        {
+          "url": "https://company.lursoft.lv/en/oak-integrator-solutions/40103496615",
+          "source_type": "Lursoft 企业数据服务（基于登记/年报资料）",
+          "source_level": "二级登记数据聚合；签约主体待核"
+        },
+        {
+          "url": "https://company.lursoft.lv/en/oak-integrator-products/40003540103",
+          "source_type": "Lursoft 企业数据服务（汇集登记/税务资料）",
+          "source_level": "二级数据快照；欠税需官方来源复核，主体映射待核"
+        },
+        {
+          "url": "https://company.lursoft.lv/en/oak-integrator-solutions/40103496615",
+          "source_type": "Lursoft 企业数据服务（基于登记/年报资料）",
+          "source_level": "二级登记数据聚合；合同关系未核"
+        }
+      ],
+      "boundary": "Westermo名录仅支持reseller/本地库存/基础技术支持。OAK网站与两家同址法人的合同/开票关系未确认；Products税款数据为Lursoft时点快照，须官方复核，且不得归给Solutions或整个OAK品牌。旧“1/3价”无同条件证据。",
+      "outreach": "未触达；无邮件、电话、寄样或报价",
+      "grade": "保持C；未改主表"
+    }
   },
   {
     "code": "A-398",
@@ -13338,12 +13556,70 @@
     "csv_locator": "客户名单_反向信号_2026-09.csv:row-275",
     "legacy_source_label": "2026-09-22",
     "site_lead": "adeptor.no",
-    "record_urls": [],
-    "status": "无逐项证据URL·待补证",
+    "record_urls": [
+      "https://www.adeptor.no/om-oss",
+      "https://www.adeptor.no/partnere/belden",
+      "https://www.adeptor.no/hirschmann/brs20-08009999-04/hirschmann-bobcat-8xrj45-brs20-08009999-ctcz99hhses",
+      "https://www.tek.com/en/buy/partner-locator/details/acc-1715039",
+      "https://www.belden.com/news/distributor-value-awards-2020"
+    ],
+    "status": "R73 A/B标准公开研究已完成（证据见批次；仍为C/未触达）",
     "contact_research": [],
     "exact_batch_matches": [],
     "first_seen_exact_identity_commit": "5e1fac83d9c37c63093e9c4929818ea474bbb431",
-    "warning": "网站/同域名/旧batch/Git只能定位记录，不能单独证明身份、持证有效、采购需求或SKU性能。"
+    "warning": "公开资料只支持其明示字段；公司自述、制造商名录、二级登记数据与动态商品页按各自范围解读，不证明采购意向/订单/完整授权/型号能力。评级仍C，不触达。",
+    "public_research": {
+      "round": "R73",
+      "batch_path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+      "researched_on": "2026-10-12",
+      "fact_count": 8,
+      "dimension_count": 9,
+      "sources": [
+        {
+          "url": "https://www.adeptor.no/om-oss",
+          "source_type": "公司官网 About 页面",
+          "source_level": "一手公司自述；库存规模未审计"
+        },
+        {
+          "url": "https://www.adeptor.no/om-oss",
+          "source_type": "公司官网 About 页面",
+          "source_level": "一手公司自述"
+        },
+        {
+          "url": "https://www.adeptor.no/partnere/belden",
+          "source_type": "Adeptor 官方品牌/产品页",
+          "source_level": "一手渠道商自述"
+        },
+        {
+          "url": "https://www.adeptor.no/hirschmann/brs20-08009999-04/hirschmann-bobcat-8xrj45-brs20-08009999-ctcz99hhses",
+          "source_type": "渠道商商品页",
+          "source_level": "一手产品目录；无公开价格"
+        },
+        {
+          "url": "https://www.adeptor.no/hirschmann/brs20-08009999-04/hirschmann-bobcat-8xrj45-brs20-08009999-ctcz99hhses",
+          "source_type": "渠道商商品页规格表",
+          "source_level": "一手商品数据；建议报价前以制造商数据手册复核"
+        },
+        {
+          "url": "https://www.tek.com/en/buy/partner-locator/details/acc-1715039",
+          "source_type": "Tektronix 官方伙伴名录",
+          "source_level": "制造商一手伙伴页"
+        },
+        {
+          "url": "https://www.belden.com/news/distributor-value-awards-2020",
+          "source_type": "Belden 官方分销奖页面",
+          "source_level": "制造商一手历史记录"
+        },
+        {
+          "url": "https://www.adeptor.no/om-oss",
+          "source_type": "公司官网",
+          "source_level": "一手公开联系信息"
+        }
+      ],
+      "boundary": "公司库存/业务规模为公司自述，奖项页面为2020历史记录；Hirschmann商品页无公开价格，伙伴名单不代表交换机采购意向或供应商开放。",
+      "outreach": "未触达；无邮件、电话、寄样或报价",
+      "grade": "保持C；未改主表"
+    }
   },
   {
     "code": "C-036",

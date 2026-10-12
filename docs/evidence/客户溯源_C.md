@@ -397,67 +397,87 @@
 <a id="C-031"></a>
 ## C-031 · Jampel S.r.l. · 意大利
 
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-257`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：Moxa 渠道名录（经销商定位法）
-- 官网线索（不自动背书其他字段）：jampel.it
+- 状态：**R73 A/B标准公开研究已完成（9 个分析维度、6 条含原文与URL的事实；仍为 C / 未触达）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-257`；本轮不改 CSV、评级或主表规则。
+- 旧来源标签（不是独立证据）：Moxa 渠道名录（经销商定位法）
+- 官网线索：jampel.it。
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第1批.json`；检索日期：2026-10-12。
+- 主要逐项来源：
+  - [Jampel/Moxa Distry Shop：公司年限、B2B/服务与Moxa自述](https://moxa.distry.shop/chi-siamo/)
+  - [Moxa MTC培训地点名录（仅按培训名录范围使用）](https://pages.moxa.com/eu-MTC-Locations.html)
+  - [Moxa型号/商品目录](https://www.jampel.it/prodotti/moxa/)
+  - [总部、仓库/实验室与通用联系入口](https://www.jampel.it/contatti/)
+- 证据边界：Moxa培训名单不外推为当前销售合同、区域或全型号授权；公司自称授权分销须标注自述。产品目录/价格/现货不等同采购需求或采购成本。
+- 联系/评级边界：**只存档公开信息；不联系、不发邮件、不寄样、不报价；继续保持 C。**
 
 <a id="C-032"></a>
 ## C-032 · Piero Bersanini · 意大利
 
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-261`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：pierobersanini.com
+- 状态：**R73 A/B标准公开研究已完成（9 个分析维度、6 条含原文与URL的事实；仍为 C / 未触达）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-261`；本轮不改 CSV、评级或主表规则。
+- 旧来源标签（不是独立证据）：2026-09-22
+- 官网线索：pierobersanini.com。
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第1批.json`；检索日期：2026-10-12。
+- 主要逐项来源：
+  - [法定主体/官网联系与网店产品分类](https://www.pierobersanini.com/en/p/contatti)
+  - [Westermo意大利Gold distributor官方名录](https://www.westermo.com/contact/where-to-buy)
+  - [SPS Italia 2026展商与应用行业资料](https://www.spsitalia.it/en/exhibitor-detail/1219/piero-bersanini-spa)
+- 证据边界：Gold等级和服务属性不证明销量、采购量或第二来源政策；当前具名采购决策人未核，未触达。
+- 联系/评级边界：**只存档公开信息；不联系、不发邮件、不寄样、不报价；继续保持 C。**
 
 <a id="C-033"></a>
 ## C-033 · atecnica.it · 意大利
 
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-269`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：反向信号/2026-09
-- 官网线索（不自动背书其他字段）：atecnica.it
+- 状态：**R73 A/B标准公开研究已完成（10 个分析维度、9 条含原文与URL的事实；仍为 C / 未触达）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-269`；本轮不改 CSV、评级或主表规则。
+- 旧来源标签（不是独立证据）：反向信号/2026-09
+- 官网线索：atecnica.it。
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第1批.json`；检索日期：2026-10-12。
+- 主要逐项来源：
+  - [ATECNICA srls销售条款/法定标识/电商服务边界](https://www.atecnica.it/informazioni-atecnica)
+  - [工业PoE交换机SKU与动态零售页](https://www.atecnica.it/switch-industriale-hi-poe-8-porte-poe-2-uplink-sfp.html)
+- 证据边界：商品页含税价格与库存是动态零售快照，不是批发/采购成本或销量证据；制造商品牌、完整规格、采购人及批量需求未核。
+- 联系/评级边界：**只存档公开信息；不联系、不发邮件、不寄样、不报价；继续保持 C。**
 
 <a id="C-034"></a>
 ## C-034 · OAK INTEGRATOR · 拉脱维亚
 
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-272`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：oak-integrator.lv
+- 状态：**R73 A/B标准公开研究已完成（10 个分析维度、9 条含原文与URL的事实；仍为 C / 未触达）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-272`；本轮不改 CSV、评级或主表规则。
+- 旧来源标签（不是独立证据）：2026-09-22
+- 官网线索：oak-integrator.lv。
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第1批.json`；检索日期：2026-10-12。
+- 主要逐项来源：
+  - [Westermo Latvia reseller名录](https://www.westermo.com/contact/where-to-buy)
+  - [OAK自动化/工业通信目录与项目评价](https://oak-integrator.lv/catalog/)
+  - [Korenix管理型交换机型号目录与历史客户评价](https://oak-integrator.lv/product/korenix-managed-switches/)
+  - [OAK官网公开职能与联系信息](https://oak-integrator.lv/about-us/contact-page/)
+  - [Lursoft：OAK Integrator Products, SIA（登记/税务聚合数据）](https://company.lursoft.lv/en/oak-integrator-products/40003540103)
+  - [Lursoft：OAK Integrator Solutions, SIA（登记/年报聚合数据）](https://company.lursoft.lv/en/oak-integrator-solutions/40103496615)
+- 证据边界：Westermo名录仅支持reseller/本地库存/基础技术支持。OAK网站与两家同址法人的合同/开票关系未确认；Products税款数据为Lursoft时点快照，须官方复核，且不得归给Solutions或整个OAK品牌。旧“1/3价”无同条件证据。
+- 联系/评级边界：**只存档公开信息；不联系、不发邮件、不寄样、不报价；继续保持 C。**
 
 <a id="C-035"></a>
 ## C-035 · Adeptor AS · 挪威
 
-- 状态：**无逐项证据URL·待补证**
-- 主数据位置：`客户名单_反向信号_2026-09.csv:row-275`；字段：来源 / 备注 / 入口/联系方式。
-- 旧来源标签（不是证据）：2026-09-22
-- 官网线索（不自动背书其他字段）：adeptor.no
+- 状态：**R73 A/B标准公开研究已完成（9 个分析维度、8 条含原文与URL的事实；仍为 C / 未触达）**
+- 主数据位置：`客户名单_反向信号_2026-09.csv:row-275`；本轮不改 CSV、评级或主表规则。
+- 旧来源标签（不是独立证据）：2026-09-22
+- 官网线索：adeptor.no。
 - 精确同名同国别首次入库提交：`5e1fac83d9c37c63093e9c4929818ea474bbb431`。
-- 本地原始批次：无精确同名同国家匹配，禁止靠子串合并。
-- 原记录URL（只做线索，不等于本次验证）：未留存
-- 待补：邮箱/电话、人员职位/认证、品牌型号/芯片、需求与规模判断的对应证据。
-- 分析与生成内容：评级来自 `scripts/grade.py`，策略来自 `scripts/strategy.py`，首触邮件来自 `scripts/emails.py`；不是客户陈述或实测报告。
+- R73 原始研究批次：`batch/C类AB标准加厚_2026-10-12_R73_第1批.json`；检索日期：2026-10-12。
+- 主要逐项来源：
+  - [Adeptor经营/业务线/公开联系与库存自述](https://www.adeptor.no/om-oss)
+  - [Adeptor Belden/Hirschmann合作品牌页](https://www.adeptor.no/partnere/belden)
+  - [Hirschmann BOBCAT具体型号/规格](https://www.adeptor.no/hirschmann/brs20-08009999-04/hirschmann-bobcat-8xrj45-brs20-08009999-ctcz99hhses)
+  - [Tektronix挪威伙伴目录](https://www.tek.com/en/buy/partner-locator/details/acc-1715039)
+  - [Belden 2020历史分销奖记录](https://www.belden.com/news/distributor-value-awards-2020)
+- 证据边界：公司库存/业务规模为公司自述，奖项页面为2020历史记录；Hirschmann商品页无公开价格，伙伴名单不代表交换机采购意向或供应商开放。
+- 联系/评级边界：**只存档公开信息；不联系、不发邮件、不寄样、不报价；继续保持 C。**
 
 <a id="C-036"></a>
 ## C-036 · Autic System AS · 挪威

@@ -191,6 +191,7 @@ C_ENRICH_FILES = [
     "batch/C类加厚_2026-10-10_R70_第5批.json",
     "batch/C类加厚_2026-10-10_R70_第6批.json",
     "batch/C类复核_2026-10-12_R72_第1批.json",
+    "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
 ]
 
 
@@ -759,7 +760,11 @@ def main():
 
         # 5.5 R70 C-tier deep research: keep all verified company/KP/contact/evidence in MD.
         if rec_c:
-            w("## 六、R70 深度调研与加厚（公司 / 产品 / 决策链 / 联系方式）")
+            c_round = rec_c.get("round", "R70")
+            if rec_c.get("section_title"):
+                w("## 六、%s" % rec_c["section_title"])
+            else:
+                w("## 六、%s 深度调研与加厚（公司 / 产品 / 决策链 / 联系方式）" % c_round)
             w("")
             w("> 调研日期 **%s**；原始批次：`%s`；按公司名+国家绑定，档案编号采用当前 CSV 编号 `%s`。"
               % (rec_c.get("researched_on", "—"), rec_c.get("_file", "—"), code))
@@ -787,59 +792,70 @@ def main():
                         k.get("name", "—"), k.get("role", "—"), k.get("contact", "—"),
                         k.get("status", "—"), k.get("source", "—")))
                 w("")
-            w("### 原文证据摘录（全部保留）")
+            evidence_title = rec_c.get("evidence_title") or (
+                "原文证据摘录（全部保留）" if c_round == "R70" else "%s 原文证据摘录（全部保留）" % c_round)
+            w("### %s" % evidence_title)
             w("")
             for fact in rec_c["facts"]:
                 w("- **【%s】**%s" % (fact.get("dim", "证据"), fact.get("text", "")))
-                w("  > %s" % fact["quote"])
+                for quote_line in str(fact["quote"]).splitlines() or [""]:
+                    w(("  > %s" % quote_line) if quote_line else "  >")
                 w("  > 来源：%s" % fact["url"])
             w("")
-            w("### R70 本轮评估")
+            w("### %s 本轮评估" % c_round)
             w("")
             w(rec_c.get("assessment", "本轮只补足公开资料，不自动变更评级。"))
             w("")
             if rec_c.get("next_steps"):
-                w("### 后续核验步骤（不代表已获采购意向）")
+                next_title = rec_c.get("next_steps_title") or (
+                    "后续核验步骤（不代表已获采购意向）" if c_round == "R70"
+                    else "%s 后续核验步骤（不代表已获采购意向）" % c_round)
+                w("### %s" % next_title)
                 w("")
                 for step in rec_c["next_steps"]:
                     w("- %s" % step)
                 w("")
             if rec_c.get("unknowns"):
-                w("### 待核事项与证据边界")
+                unknowns_title = rec_c.get("unknowns_title") or (
+                    "待核事项与证据边界" if c_round == "R70" else "%s 待核事项与证据边界" % c_round)
+                w("### %s" % unknowns_title)
                 w("")
                 for item in rec_c["unknowns"]:
                     w("- %s" % item)
                 w("")
             for update in rec_c.get("updates", []):
-                w("### %s" % update.get("update_title", "R72 现状复核"))
+                update_round = update.get("round", "R72")
+                w("### %s" % update.get("update_title", update_round + " 现状复核"))
                 w("")
-                w("> 复核日期 **%s**；原始记录：`%s`。本节为追加更新，保留既有 R70 证据与历史，不自动改评级或触达。"
-                  % (update.get("researched_on", "—"), update.get("_file", "—")))
+                update_base_round = update.get("base_round", c_round)
+                w("> 复核日期 **%s**；原始记录：`%s`。本节为追加更新，保留既有 %s 证据与历史，不自动改评级或触达。"
+                  % (update.get("researched_on", "—"), update.get("_file", "—"), update_base_round))
                 w("")
                 for dim, text in update.get("dimensions", {}).items():
                     w("- **%s**：%s" % (dim, text))
                 if update.get("facts"):
                     w("")
-                    w("#### R72 原文证据")
+                    w("#### %s 原文证据" % update_round)
                     w("")
                     for fact in update["facts"]:
                         w("- **【%s】**%s" % (fact.get("dim", "证据"), fact.get("text", "")))
-                        w("  > %s" % fact["quote"])
+                        for quote_line in str(fact["quote"]).splitlines() or [""]:
+                            w(("  > %s" % quote_line) if quote_line else "  >")
                         w("  > 来源：%s" % fact["url"])
                 if update.get("assessment"):
                     w("")
-                    w("#### R72 本轮评估")
+                    w("#### %s 本轮评估" % update_round)
                     w("")
                     w(update["assessment"])
                 if update.get("next_steps"):
                     w("")
-                    w("#### R72 后续核验步骤（不代表已获采购意向）")
+                    w("#### %s 后续核验步骤（不代表已获采购意向）" % update_round)
                     w("")
                     for step in update["next_steps"]:
                         w("- %s" % step)
                 if update.get("unknowns"):
                     w("")
-                    w("#### R72 待核事项")
+                    w("#### %s 待核事项" % update_round)
                     w("")
                     for item in update["unknowns"]:
                         w("- %s" % item)

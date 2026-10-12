@@ -2534,6 +2534,16 @@
       "errors": []
     },
     {
+      "path": "batch/C类AB标准加厚_2026-10-12_R73_第1批.json",
+      "sha256": "bede443b968f1942f18dae2272d5ef1bbc4abca924a5e2d93665c3b907ea53da",
+      "bytes": 50281,
+      "tracked_at_scan": false,
+      "units_scanned": 536,
+      "unique_url_count": 20,
+      "inspection": {},
+      "errors": []
+    },
+    {
       "path": "batch/C类加厚_2026-10-09_R70_第1批.json",
       "sha256": "6644bae6146ca8619bd7ea0afadf01b249d9a89ecf72c17ee2f989ca366352eb",
       "bytes": 37563,
@@ -3330,6 +3340,16 @@
       "tracked_at_scan": true,
       "units_scanned": 37,
       "unique_url_count": 6,
+      "inspection": {},
+      "errors": []
+    },
+    {
+      "path": "docs/audit/2026-10-12_R73_C类AB加厚进度.md",
+      "sha256": "2c653801b692a45093bf405475d477634672737607582d44408053e288893665",
+      "bytes": 2934,
+      "tracked_at_scan": false,
+      "units_scanned": 34,
+      "unique_url_count": 0,
       "inspection": {},
       "errors": []
     },
@@ -11215,51 +11235,51 @@
     },
     {
       "path": "profile/C/C-031-Jampel S.r.l-意大利.md",
-      "sha256": "14d96bcd48dc0f45a5127a94064ac9924514370d391e6b06bf20f5b1a3237c0e",
-      "bytes": 3016,
+      "sha256": "c1e0ac8570c39aefa7b25ff168204e59e84246af638b8fce45f444755c18be8a",
+      "bytes": 9518,
       "tracked_at_scan": true,
-      "units_scanned": 70,
-      "unique_url_count": 0,
+      "units_scanned": 123,
+      "unique_url_count": 4,
       "inspection": {},
       "errors": []
     },
     {
       "path": "profile/C/C-032-Piero Bersanini-意大利.md",
-      "sha256": "fbd207993c07a8b3772ec5894655860560c4da05340184e9b1011509bbf23d12",
-      "bytes": 2659,
+      "sha256": "f5b2dc43a6d23ead07e090ba6a004d4fd83404c94db2574bd3e55e947eab7ecb",
+      "bytes": 9185,
       "tracked_at_scan": true,
-      "units_scanned": 72,
-      "unique_url_count": 0,
+      "units_scanned": 138,
+      "unique_url_count": 3,
       "inspection": {},
       "errors": []
     },
     {
       "path": "profile/C/C-033-atecnica.it-意大利.md",
-      "sha256": "363bd55075218467e3a8b7467691fe968bf58289dcfcdfa6ea154f917e5654c5",
-      "bytes": 2658,
+      "sha256": "da34e8721b54d860cf114edc8bebf54a0a4160056d5853824086b2e72af521db",
+      "bytes": 10805,
       "tracked_at_scan": true,
-      "units_scanned": 72,
-      "unique_url_count": 0,
+      "units_scanned": 143,
+      "unique_url_count": 2,
       "inspection": {},
       "errors": []
     },
     {
       "path": "profile/C/C-034-OAK INTEGRATOR-拉脱维亚.md",
-      "sha256": "71b108b0a8069495f6dc2f8a52a5713c38b998032c61b05fb12258740e9100b5",
-      "bytes": 2652,
+      "sha256": "0d46c71e154a3f08a10ddf0f53e9651fda501615e71ddd8fa4b99f7cd8822cca",
+      "bytes": 14028,
       "tracked_at_scan": true,
-      "units_scanned": 72,
-      "unique_url_count": 0,
+      "units_scanned": 156,
+      "unique_url_count": 7,
       "inspection": {},
       "errors": []
     },
     {
       "path": "profile/C/C-035-Adeptor AS-挪威.md",
-      "sha256": "976b5a1f38ac78606743412b09c34cc3ae4a907cadccf711f8afb5213c1be49c",
-      "bytes": 2617,
+      "sha256": "271b55ca327b0e675c98c59e09485c19b5d035c7867901ab6576d20ebfb1563f",
+      "bytes": 10391,
       "tracked_at_scan": true,
-      "units_scanned": 72,
-      "unique_url_count": 0,
+      "units_scanned": 137,
+      "unique_url_count": 5,
       "inspection": {},
       "errors": []
     },
@@ -14515,10 +14535,10 @@
     },
     {
       "path": "scripts/make_profiles.py",
-      "sha256": "e53698749fd617dfc0c825591ec7eb482741423e6366d8d6f2048976e3bf9285",
-      "bytes": 50885,
+      "sha256": "f699c2de8e148dbc1451453009401fa0d038fde84b6244895e844f081532b22c",
+      "bytes": 52132,
       "tracked_at_scan": true,
-      "units_scanned": 1028,
+      "units_scanned": 1044,
       "unique_url_count": 0,
       "inspection": {},
       "errors": []
@@ -14565,10 +14585,10 @@
     },
     {
       "path": "tests/test_repository.py",
-      "sha256": "c801820813318c19f8344e384115178ae918e4b6f33597eb6faa7dc562bd4f96",
-      "bytes": 119395,
+      "sha256": "b67d1a33fd04072fe9cf608ecc4154c316c46202db818f7e82398d1fe63ad02e",
+      "bytes": 122241,
       "tracked_at_scan": true,
-      "units_scanned": 1892,
+      "units_scanned": 1936,
       "unique_url_count": 42,
       "inspection": {},
       "errors": []

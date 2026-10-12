@@ -1675,6 +1675,50 @@ class RepositoryTests(unittest.TestCase):
                 self.assertIn(kp['name'], text, rec['code'])
                 self.assertIn(kp['status'], text, rec['code'])
 
+    def test_r73_c_ab_enrichment_is_source_complete_and_non_outreach(self):
+        batch_path = ROOT / 'batch/C类AB标准加厚_2026-10-12_R73_第1批.json'
+        batch = json.loads(batch_path.read_text(encoding='utf-8'))
+        self.assertEqual(batch['round'], 'R73 第 1 批（C-031—C-035）')
+        records = batch['records']
+        self.assertEqual([r['code'] for r in records], [f'C-{n:03}' for n in range(31, 36)])
+        self.assertIn('不联系客户', batch['scope'])
+        self.assertIn('不改评级或主表', batch['scope'])
+        for rec in records:
+            self.assertGreaterEqual(len(rec['dimensions']), 8, rec['code'])
+            self.assertGreaterEqual(len(rec['facts']), 5, rec['code'])
+            row = self.by_code[rec['code']]
+            self.assertEqual((row['公司名'], row['国家']), (rec['name'], rec['country']))
+            self.assertEqual(row['评级'], 'C')
+            self.assertIn('保持 C', rec['assessment'], rec['code'])
+            self.assertFalse(rec.get('update_only'))
+            for fact in rec['facts']:
+                self.assertTrue(fact.get('quote') and fact.get('url'), rec['code'])
+                self.assertTrue(fact.get('source_type') and fact.get('source_level'), rec['code'])
+                self.assertEqual(fact.get('retrieved_on'), '2026-10-12')
+            matches = list((ROOT / 'profile/C').glob(rec['code'] + '-*.md'))
+            self.assertEqual(len(matches), 1, rec['code'])
+            profile = matches[0].read_text(encoding='utf-8')
+            self.assertIn('R73 A/B标准深度调研与加厚（仅研究，不触达）', profile)
+            self.assertIn('### R73 原文证据摘录（全部保留）', profile)
+            self.assertIn('### R73 本轮评估', profile)
+            self.assertIn('不联系', profile)
+            for fact in rec['facts']:
+                for quote_line in fact['quote'].splitlines():
+                    self.assertIn(quote_line, profile, rec['code'])
+                self.assertIn(fact['url'], profile, rec['code'])
+
+        evidence = json.loads((ROOT / 'docs/evidence/客户溯源索引.json').read_text(encoding='utf-8'))
+        evidence_by_code = {e['code']: e for e in evidence}
+        for rec in records:
+            public = evidence_by_code[rec['code']]['public_research']
+            self.assertEqual(public['round'], 'R73')
+            self.assertEqual(public['batch_path'], str(batch_path.relative_to(ROOT)))
+            self.assertEqual(public['fact_count'], len(rec['facts']))
+            self.assertEqual(public['outreach'], '未触达；无邮件、电话、寄样或报价')
+        progress = (ROOT / 'docs/audit/2026-10-12_R73_C类AB加厚进度.md').read_text(encoding='utf-8')
+        self.assertIn('R73 尚未覆盖 | **250**', progress)
+        self.assertIn('C-036—C-285', progress)
+
     def test_r71_scope_and_exact_address_overlays_are_idempotent(self):
         followup = json.loads((ROOT / 'batch/邮件跟进_2026-10-12_R71.json').read_text(encoding='utf-8'))
         codes = {r['code'] for r in followup['records']}

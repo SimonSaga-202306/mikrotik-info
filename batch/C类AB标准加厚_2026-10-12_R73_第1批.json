@@ -1,0 +1,536 @@
+{
+  "date": "2026-10-12",
+  "round": "R73 第 1 批（C-031—C-035）",
+  "scope": "按 C 类既有 R70 首轮已覆盖 C-001—C-030、从未覆盖段 C-031 起接续。五户均按 A/B 档案深度补齐主体/业务、品牌与渠道、具体产品、市场/客户证据、关键人/联系边界、SWOT 与 Saga 适配、未知项；只研究，不联系客户、不发邮件、不寄样、不报价、不改评级或主表。中国大陆公司删除范围沿用既定口径；当前 C 池无需再删行，香港 C-271 保留。",
+  "records": [
+    {
+      "code": "C-031",
+      "name": "Jampel S.r.l.",
+      "country": "意大利",
+      "researched_on": "2026-10-12",
+      "round": "R73",
+      "section_title": "R73 A/B标准深度调研与加厚（仅研究，不触达）",
+      "dimensions": {
+        "法定主体与经营年限": "Jampel 官方联络页和其自营 Moxa Distry Shop 均使用 Jampel S.r.l.；店铺自述自 1981 年经营工业品分销。官方联系页列 Bologna 总部以及 San Lazzaro di Savena 仓储/实验室地址。公开页面未给出经审计营收、员工数或本户年度交换机采购量。",
+        "业务模式与服务能力": "自营页面将业务描述为 B2B 工业分销，服务含物流、技术咨询、集成支持、售后和培训；这是公司自述，不等于第三方验证的服务 SLA。",
+        "品牌与渠道身份": "Jampel 自有 Moxa 页面自称 Moxa 意大利官方分销商；Moxa 官方 MTC 地点页列 Jampel 为意大利培训地点，页面说明入列公司为获准代表 Moxa 提供 MTC 培训的授权分销商。该厂商页面可核实的是培训项目/地点身份，不据此外推现行销售区域、合同、全部型号授权或采购政策。",
+        "具体产品与技术重叠": "Jampel 的 Moxa 商品页公开列出 EDS-G2005-EL、EDS-G2008-EL、EDS-G308、SDS-3006、EDS-G4012、NPort 5100A 等。示例中 SDS-3006 有 PoE+ 机型，EDS-G4012 页面列出可选 802.3bt PoE；与 Saga 工业交换机/PoE 目录存在直接品类重叠。该目录是卖方展示，不证明实际库存、销售量或客户采用。",
+        "应用行业与可见项目证据": "Jampel/Moxa 商品页罗列自动化、OT、IoT、能源、交通物流等应用方向；这些是页面中的产品应用描述，未找到能归属给 Jampel 的具名终端客户案例。",
+        "关键人与采购链": "未从公开原文确认交换机品类负责人、采购负责人或新品牌准入决策人。官网只给技术商务团队通用表单、总机及 info@jampel.it；不把通用邮箱视为采购意向或具名 KP。",
+        "优势与风险（SWOT）": "优势：经营年限长、工业分销与售前/售后能力为其自述；有 Moxa 品牌页和可查产品目录；意大利本地总部及仓储/实验室。风险：Moxa 与多种工业网络产品形成强竞品组合；渠道合同、销量、采购独立性和供应商准入均未知；价格/现货页面会变化。",
+        "Saga 适配与商业判断": "可比方向仅限产品目录级别：低/中端工业交换机、PoE、串口服务器等。Jampel 的 Moxa 体系是直接竞争/既有方案；只有未来公开证据显示其有未覆盖规格、第二来源政策或项目型品牌缺口，才可能重新评估。现在没有采购需求、替代项目或新品牌开放的证据，维持 C。",
+        "证据边界与合规": "Moxa 培训地点名录不等于销售合同或全部产品授权；官网自述的‘官方分销’仍应标注为公司自述。未核实收入、客户名单、采购额、认证有效期、供应商准入及终端项目。"
+      },
+      "kp": [],
+      "facts": [
+        {
+          "dim": "主体/历史与业务模式",
+          "text": "Jampel 自营关于页称 Jampel S.r.l. 自 1981 年从事工业分销，并将业务形态描述为 B2B；属于公司自述，不能据此推算人员或收入规模。",
+          "quote": "Jampel s.r.l. è una realtà attiva dal 1981 nel mercato della Distribuzione Industriale",
+          "url": "https://moxa.distry.shop/chi-siamo/",
+          "source_type": "公司自营页面",
+          "source_level": "一手自述",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Moxa 渠道身份（公司自述）",
+          "text": "Jampel 自营店铺自称是 Moxa 官方分销商 18 年；这是渠道方自述，单独不证明当前授权期限、销售区域或具体型号范围。",
+          "quote": "siamo distributori ufficiale del brand MOXA da 18 anni",
+          "url": "https://moxa.distry.shop/chi-siamo/",
+          "source_type": "公司自营页面",
+          "source_level": "一手自述；未独立核验商业授权范围",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Moxa 培训渠道（制造商页面）",
+          "text": "Moxa 官方 MTC 页面将该表描述为获准代表 Moxa 开展 MTC 培训的授权分销商名单，并列出 Italy/Jampel。这里只按培训项目/地点的范围使用该证据，不把它扩展为现行销售合同、区域权利或全产品线授权。",
+          "quote": "Country | Company | Languages\nItaly | Jampel | Italian, English",
+          "url": "https://pages.moxa.com/eu-MTC-Locations.html",
+          "source_type": "制造商官方培训地点页",
+          "source_level": "一手厂商名录；仅支持 MTC 培训名录范围",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Moxa 产品目录",
+          "text": "Jampel 商品页列出 EDS-G2008-EL，为 8 口入门级非网管全千兆工业交换机、金属外壳；起始价为网页动态零售展示，不能当采购成本或我方可比报价。",
+          "quote": "Unmanaged full Gigabit Ethernet switches 8-porte entry-level con case metallico",
+          "url": "https://www.jampel.it/prodotti/moxa/",
+          "source_type": "渠道商商品页",
+          "source_level": "一手目录；型号/页面描述可核，库存与价格动态",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "PoE 产品目录",
+          "text": "同页列 SDS-3006 智能工业交换机，描述含 4 个 IEEE 802.3af/at PoE+ 端口或带上联选项的千兆端口配置；证明目录重叠，不证明出货规模。",
+          "quote": "Smart switches Industrial 6-porte Ethernet con 4-porte IEEE 802.3af/at PoE+ or 2-porte Gigabit con opzioni di uplink",
+          "url": "https://www.jampel.it/prodotti/moxa/",
+          "source_type": "渠道商商品页",
+          "source_level": "一手目录；未独立验证实物库存",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "联系入口与地点",
+          "text": "官方联系页列 Bologna 总部、San Lazzaro di Savena 仓库与实验室，以及通用技术商务表单和总机；没有具名采购决策人。仅作为公开公司联系信息存档，不触达。",
+          "quote": "Warehouse & Laboratory\nVia Cicogna, 47-49, 40068 San Lazzaro di Savena, Bologna\nTel: +39 051 452 042",
+          "url": "https://www.jampel.it/contatti/",
+          "source_type": "公司官网联系页",
+          "source_level": "一手公开联系信息",
+          "retrieved_on": "2026-10-12"
+        }
+      ],
+      "assessment": "保持 C。R73 已核实到其工业分销模式、Moxa 页面/目录与产品重叠，但未找到终端客户案例、具名采购 KP、采购量或第二来源/新品牌开放信号。Moxa 官方 MTC 名录只能按培训项目范围解读；商业授权范围仍不外推。只补研究，不联系客户、不变更评级或主表。",
+      "next_steps": [
+        "如继续加厚，只能从公开目录/官方页面核验当前型号、数据手册、现行品牌清单与公开项目案例；价格、库存和产品页内容按动态快照处理。",
+        "待核仍包括：交换机产品经理/采购决策链、销售区域与品牌合同范围、现货/出货量、第二来源政策、实际项目规格。此批不联系公司或个人。"
+      ],
+      "unknowns": [
+        "Moxa 商业分销授权的当前有效期、意大利/欧洲销售权限、产品线边界及合同限制；MTC 培训名录不替代这些信息。",
+        "Jampel 营收、员工数、工业交换机采购量、真实库存和具名终端客户项目。",
+        "是否接纳非既有品牌及其供应商准入、认证、价格/质保要求。"
+      ]
+    },
+    {
+      "code": "C-032",
+      "name": "Piero Bersanini",
+      "country": "意大利",
+      "researched_on": "2026-10-12",
+      "round": "R73",
+      "section_title": "R73 A/B标准深度调研与加厚（仅研究，不触达）",
+      "dimensions": {
+        "法定主体与经营年限": "公司官网页脚将经营主体写为 Piero Bersanini S.p.A. – Socio Unico，列意大利企业登记号/税号 09290730150、REA MI 1282448、实缴股本 €774,000；官网标识‘自 1947 年’。这些是身份/历史字段，不等于营收或当前业务规模。",
+        "业务模式与目标行业": "SPS Italia 2026 展商页将其描述为电气与电子工业部件分销商，并列自动化与工业机械、运输基础设施、能源公用事业、流程工业及楼宇自动化等应用；该页说明其被列入 2026 展商目录，不据此断言已实际参展或代表客户采购。",
+        "Westermo 渠道地位": "Westermo 官方 Where-to-buy 名录将其列为意大利 Gold distributor，并标注本地库存、进阶及认证技术支持、Westermo 方案经验。这说明品牌渠道和服务定位，不证明销售额、采购量或接纳第二品牌。",
+        "产品与技术组合": "公司网店工业数据通信类目列交换机（非网管、Managed Layer 2、EN50155、PoE）、Ethernet extender、4G/5G 路由器、转换器、Remote I/O。另可见 Westermo 工业路由器等型号；本批未把未抓取到的 Westermo 交换机 SKU/库存写成事实。",
+        "服务与联系入口": "官网区分 Contact center 与 Commercial and Technical assistance，列总机 +39 02 268531、commerciale@pierobersanini.com 等通用渠道，并有 RMA 与技术支持入口；没有确认的交换机采购负责人姓名。",
+        "关键人与采购链": "公开页面未核实具名交换机品类采购人/新供应商批准人。销售/技术通用邮箱仅是公司入口，不能等同采购意向或个人 KP；本批只存档，不联系。",
+        "优势与风险（SWOT）": "优势：历史较长、官方 Westermo Gold 渠道定位、本地库存与多级技术支持、官网目录覆盖多类工业交换机。风险：Westermo 是强既有竞品；品牌代理/独家范围、型号与客户绑定、实际采购量及第二来源政策未知；现有资料不足以验证供应商切换窗口。",
+        "Saga 适配与商业判断": "目录层面与 Saga 工业交换机/PoE/轨道类方向高度重叠；若有适配，只可能来自明确的未覆盖型号/认证、项目交期或第二来源要求。Gold 等级不能推导出高销量或需要第二供应源。未发现公开采购需求，维持 C。",
+        "主表旧推断校正（不改主表）": "原 C 行‘Gold 分销 = 该品牌销量大 → 第二供应源首选’并非 Westermo 名录直接支持；官方名录只公布渠道等级、库存与支持属性，不公布销量，也未说明 Bersanini 接受第二品牌。R73 在档案中标注为未证实推断，主 CSV/评级不改。"
+      },
+      "kp": [],
+      "facts": [
+        {
+          "dim": "公司登记身份",
+          "text": "官网页脚列 Piero Bersanini S.p.A. – Socio Unico、意大利注册号/税号及 REA 编号，并显示实缴股本；不代表年度销售额。",
+          "quote": "PIERO BERSANINI S.p.A. – Socio Unico · Cod. Fisc., P. IVA e numero d’iscrizione al Registro delle Imprese: 09290730150 · REA MI 1282448 · Capitale Sociale € 774.000,00 i.v.",
+          "url": "https://www.pierobersanini.com/en/p/contatti",
+          "source_type": "公司官网页脚/联系页",
+          "source_level": "一手法定主体自述",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "经营历史",
+          "text": "公司官网页脚将公司定位为自 1947 年开始经营的合作伙伴；历史起点是公司自述。",
+          "quote": "Il tuo partner di fiducia dal 1947",
+          "url": "https://www.pierobersanini.com/en/p/contatti",
+          "source_type": "公司官网",
+          "source_level": "一手自述",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "厂商渠道等级/服务",
+          "text": "Westermo 官方名录将 Piero Bersanini 列为意大利 Gold distributor，具备本地库存、进阶/认证技术支持与 Westermo 方案经验；名录未披露销量或第二品牌政策。",
+          "quote": "Italy | Gold distributor\nLocal stock\nAdvanced technical support\nCertified technical support\nWestermo solutions expertise\nPiero Bersanini",
+          "url": "https://www.westermo.com/contact/where-to-buy",
+          "source_type": "Westermo 官方渠道名录",
+          "source_level": "制造商一手名录",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "工业交换机产品分类",
+          "text": "官网网店工业数据通信目录设有非网管、二层管理、EN50155 和 PoE 交换机子类；类目本身不证明每个 SKU 的当前库存。",
+          "quote": "Switches\nUnmanaged\nManaged Layer 2\nEN50155\nPoE",
+          "url": "https://www.pierobersanini.com/en/p/contatti",
+          "source_type": "公司网店产品分类",
+          "source_level": "一手目录",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "售前/售后联系能力",
+          "text": "官网列商业与技术协助入口、公司总机、RMA 流程及技术支持；这些是公开通道，不是具名采购人。",
+          "quote": "Commercial and Technical assistance\nEmail: commerciale@pierobersanini.com\nPhone: +39 02 268531",
+          "url": "https://www.pierobersanini.com/en/p/contatti",
+          "source_type": "公司官网联系页",
+          "source_level": "一手公开联系信息",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "行业覆盖（展商自述）",
+          "text": "SPS Italia 2026 展商页列出其主要应用领域为自动化/工业机械、运输与基础设施、能源/公用事业、流程工业、建筑/楼宇自动化；这是展商资料，不是终端客户清单。",
+          "quote": "Principali ambiti di applicazione:\n- Automazione e macchine industriali\n- Trasporti e infrastrutture\n- Energia e utility\n- Industria di processo\n- Edilizia e building automation",
+          "url": "https://www.spsitalia.it/en/exhibitor-detail/1219/piero-bersanini-spa",
+          "source_type": "SPS Italia 官方展商目录（2026）",
+          "source_level": "展会一手目录/公司简介",
+          "retrieved_on": "2026-10-12"
+        }
+      ],
+      "assessment": "保持 C。R73 确认 Piero Bersanini S.p.A. 的法定标识、工业分销目录与 Westermo Gold 渠道/支持定位；目录直接覆盖工业交换机、PoE 与 EN50155 类别，故竞争强、品牌与采购关系深。Gold 等级不等于销量证据，更不等于第二供应源需求；未找到公开采购意向或具名采购 KP。只研究，不触达、不改评级/主表。",
+      "next_steps": [
+        "如继续加厚，优先通过公开数据手册/目录核实当前在售的 Westermo 交换机型号、端口/PoE/温度/EN50155 细节；不要把目录类别外推为当前库存。",
+        "保持以下问题为未知：Westermo 合同范围与排他性、年度采购量、供应商准入/第二来源政策、具体新项目。此批不向公司或个人询问。"
+      ],
+      "unknowns": [
+        "实际营收、交换机/Westermo采购量、终端客户名单、品牌代理/排他条款。",
+        "是否有第二供应源、贴牌或新品牌策略；Westermo Gold 等级本身不回答这些问题。",
+        "具名品类经理/采购负责人及其决策权限；公开销售/技术入口不等于采购决策链。"
+      ]
+    },
+    {
+      "code": "C-033",
+      "name": "atecnica.it",
+      "country": "意大利",
+      "researched_on": "2026-10-12",
+      "round": "R73",
+      "section_title": "R73 A/B标准深度调研与加厚（仅研究，不触达）",
+      "dimensions": {
+        "法定主体与经营范围": "Atecnica 信息/销售条款页将网站运营者列为 ATECNICA srls，地址 San Giovanni Teatino (CH)，Chieti 企业登记、税号/IVA IT02553580693、REA CH-187621。官网呈现的是线上零售商店，不据此推断员工规模或B2B分销能力。",
+        "渠道与品类": "商城导航覆盖 Smart Home、TVCC 视频监控及 Networking；销售条款说明网站为技术机械/电子产品的远程销售，意大利配送，海外订单按目的地与客户安排。公司条款还明确不提供客户地址现场安装。公开证据支持其为线上商品零售渠道，不足以证明网络产品分销/系统集成规模。",
+        "具体交换机型号与技术规格": "公开商品 SKU 为 SF-SWI1008HIPOE-GF-AC-130-DIN：8×RJ45 10/100/1000、2×SFP 上联、PoE 总功率 130W、DIN 导轨安装、AC 90–264V 或 DC 48–52V。页面没有明确列出厂牌、网管能力、温度范围或工业认证，不能补推。",
+        "价格与商业可比性": "抓取时页面显示含税 €71.37、可购买、2–3 个工作日交期；这是某单 SKU 的零售快照，价格/库存动态，未证明其采购成本、销量或与 Saga SKU 完全同规格，不能作为报价锚点。",
+        "客户与项目证据": "页面展示单一商品及关联 SFP 配件，未找到具名工业项目、集成案例、终端客户或批量部署证据。该 SKU 证明卖场存在对应商品展示，不证明 Atecnica 有该类采购需求。",
+        "关键人/联系入口": "未核实交换机采购负责人或品类经理。商品页列公司地址、总机、WhatsApp 与 info@atecnica.it；个人付款邮箱/姓名不能据此认定为采购 KP。只存档，不触达。",
+        "优势与风险（SWOT）": "优势：法定运营者和地址/税号可从自有销售条款核验；公开挂出一款有明确端口、PoE预算与安装方式的工业 PoE 商品。风险：电商单品页面、商品品牌和上游采购链未明；零售价含税且动态；产品规格/认证信息不全；项目、渠道和批量能力未知。",
+        "Saga 适配与商业判断": "130W PoE、8千兆口、双 SFP 与 DIN 导轨构成可用于目录层面对标的公开规格，但网管特性、环境等级、认证、散热和厂牌均未明确，无法建立严格同规格价格比较。暂无采购/补货或贴牌意向证据，维持 C。",
+        "证据边界与风险": "不得将网页标价/可购买状态解释成其采购价、采购需求或我方的可比报价；不能从单一 SKU 推断整站的工业网络业务体量。",
+        "电商与售后边界": "Atecnica 销售条款自称网站专门销售商品，提供预/售后协助但只在实体网点、线上或品牌授权服务中心进行；明确排除客户购买地址的现场安装。此信息有助区分电商售后与工程集成服务，不代表服务质量或覆盖范围已第三方验证。"
+      },
+      "kp": [],
+      "facts": [
+        {
+          "dim": "法人/运营者",
+          "text": "Atecnica 自有信息页列运营者名称、Chieti 企业登记、税号/增值税号及 REA 编号。",
+          "quote": "Titolare del sito atecnica.it è ATECNICA srls con sede legale in via Caravaggio, 6 - 66020 San Giovanni Teatino (CH), iscritta al Registro delle Imprese di Chieti, Codice Fiscale e P. Iva nr. IT02553580693, R.E.A. CH-187621",
+          "url": "https://www.atecnica.it/informazioni-atecnica",
+          "source_type": "公司自有销售/法律条款页",
+          "source_level": "一手主体自述",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "商品 SKU 与端口",
+          "text": "官方商品页 SKU 为 SF-SWI1008HIPOE-GF-AC-130-DIN，描述 8 个千兆 RJ45 与 2 个 SFP 上联；页面未写明厂牌。",
+          "quote": "Switch industriale SF-SWI1008HIPOE-GF-AC-130-DIN con 8 porte RJ45 10/100/1000 Mbps + 2 Uplink Sfp",
+          "url": "https://www.atecnica.it/switch-industriale-hi-poe-8-porte-poe-2-uplink-sfp.html",
+          "source_type": "公司网店商品页",
+          "source_level": "一手商品目录；厂牌/库存需另核",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "供电/安装规格",
+          "text": "商品页列总 PoE 功率、DIN 安装和输入电压范围；未列温度、认证、管理功能或 PoE 端口分配。",
+          "quote": "Supporta alimentazione PoE fino a 130W in totale per tutte le porte. Installazione su guida din. Alimentazione AC 90~264V oppure DC 48-52V.",
+          "url": "https://www.atecnica.it/switch-industriale-hi-poe-8-porte-poe-2-uplink-sfp.html",
+          "source_type": "公司网店商品页",
+          "source_level": "一手商品规格描述；未核厂商数据手册",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "零售价格/现货快照",
+          "text": "抓取页面标示 €71.37（含税）、可用及 2–3 个工作日交付；属于网页动态零售快照，不是批发/采购成本或实际销量证据。",
+          "quote": "71,37 €\nIVA inclusa\nDisponibile\nTempi di consegna 2-3 giorni lavorativi",
+          "url": "https://www.atecnica.it/switch-industriale-hi-poe-8-porte-poe-2-uplink-sfp.html",
+          "source_type": "公司网店实时商品页面",
+          "source_level": "动态零售快照；价格/库存不可外推",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "网站品类",
+          "text": "商品页导航列 Smart Home、TVCC 视频监控与 Networking，支持线上多品类销售定位；不支持推断专业网络分销规模。",
+          "quote": "Smart Home\nTVCC Videosorveglianza\nNetworking",
+          "url": "https://www.atecnica.it/switch-industriale-hi-poe-8-porte-poe-2-uplink-sfp.html",
+          "source_type": "公司网店导航",
+          "source_level": "一手网站分类",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "联系与物流边界",
+          "text": "商品页列 Atecnica srls 地址和公开联络方式；销售条款称意大利国内配送，并说明海外配送按商品重量/目的地与客户直接安排。",
+          "quote": "Via Caravaggio, 6\n66020 San Giovanni Teatino (CH)\nTel +39 085 4462688\nEmail info@atecnica.it",
+          "url": "https://www.atecnica.it/switch-industriale-hi-poe-8-porte-poe-2-uplink-sfp.html",
+          "source_type": "公司商品页/联系信息",
+          "source_level": "一手公开联系信息",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "销售/服务模式",
+          "text": "销售条款将网站描述为线上商品销售渠道，提供有限的售前/售后协助，并明确不提供客户地址现场安装；因此不把其直接当作系统集成商。",
+          "quote": "Atecnica è un sito telematico puramente dedicato alla vendita di prodotti, mette a disposizione assistenza pre e post vendita effettuata solo presso le nostre sedi fisiche",
+          "url": "https://www.atecnica.it/informazioni-atecnica",
+          "source_type": "公司自有销售条款",
+          "source_level": "一手业务模式自述",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "配送范围",
+          "text": "销售条款说明意大利境内快递配送，海外配送按订单重量与目的国直接和客户安排；这证明公开的电商履约说明，不证明国际经销网络或大批量出口。",
+          "quote": "Spedizioni in tutta Italia\n\nSpedizioni in tutto il Mondo\nAttualmente le spedizioni estere vengono gestite direttamente con il cliente secondo il peso degli articoli acquistati e secondo la nazione di destinazione.",
+          "url": "https://www.atecnica.it/informazioni-atecnica",
+          "source_type": "公司自有配送/销售条款",
+          "source_level": "一手业务模式自述",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "现场安装限制",
+          "text": "同一销售条款明确排除在客户购买地址提供现场实体协助及产品所需的电气/机械现场安装；这是该公司的条款自述，不能外推为其所有第三方品牌服务中心的服务范围。",
+          "quote": "Con la vendita dell'oggetto è esclusa l'assistenza fisica presso l'indirizzo di acquisto del cliente e l'installazione fisica elettrica o meccanica dei prodotti che richiedano un tecnico specializzato per il loro uso.",
+          "url": "https://www.atecnica.it/informazioni-atecnica",
+          "source_type": "公司自有销售条款",
+          "source_level": "一手业务模式自述",
+          "retrieved_on": "2026-10-12"
+        }
+      ],
+      "assessment": "保持 C。R73 已核实 Atecnica srls 法律标识，并确认商城公开展示一款 8×GE+2×SFP、130W PoE、DIN 导轨交换机。当前公开证据更像线上单品零售展示；品牌、采购链、项目和批量需求均未知。€71.37 是含税网页零售价快照，不能当其采购成本或 Saga 同规格报价基准。只研究，不联系、不改评级/主表。",
+      "next_steps": [
+        "后续如继续公开核验，先找该 SKU 的制造商数据手册/品牌信息、网管与环境规格、认证及长期供应状态，再与 Saga 对应型号做逐项同规格比较。",
+        "保持对采购量、客户类型、批发/集成业务占比、品牌归属与采购决策人未知；不向网站或个人询问。"
+      ],
+      "unknowns": [
+        "该 SKU 的真实制造商/品牌、型号数据手册、网管功能、工作温度、认证与质保。",
+        "页面价格和库存是否持续有效、是否为实库存、上游采购成本及销售量。",
+        "Atecnica 是否进行批发/系统集成、工业交换机采购规模、采购负责人及新品牌/贴牌政策。"
+      ]
+    },
+    {
+      "code": "C-034",
+      "name": "OAK INTEGRATOR",
+      "country": "拉脱维亚",
+      "researched_on": "2026-10-12",
+      "round": "R73",
+      "section_title": "R73 A/B标准深度调研与加厚（仅研究，不触达）",
+      "dimensions": {
+        "贸易名称与法律主体": "OAK INTEGRATOR 官网以该品牌经营，但官网联络页未写明签约法人。Lursoft 企业数据页分别列 OAK Integrator Products, SIA（注册号 40003540103；2001 注册；同址登记；2022 年记录 OAK Latvia, SIA 重组事件）与 OAK Integrator Solutions, SIA（注册号 40103496615；2011 注册），两家均有 2025 年度申报记录。Products 页显示税款欠缴情形 €10,604.74（截至 2026-09-28）；Solutions 页显示截至 2026-10-02未列税款欠缴。Lursoft 是登记/申报数据聚合服务；网站品牌、Westermo 名录与两家法人的签约/开票对应关系尚未确认，不得混为同一实体，也不得把一方的财务状态归给另一方。",
+        "业务模式与产品组合": "OAK 官网自述提供自动化设备销售和编程服务，产品类别包括变频器、控制器、伺服、HMI/SCADA、Remote I/O、工业数据通信、软启动器及其他元件；列出的品牌含 Mitsubishi Electric、Beijer Electronics、Westermo、IDEC、Crevis 等。",
+        "工业网络产品与具体型号": "OAK 页面列 Korenix JetNet 5628G-EU、JetNet 5010G、JetNet 4510、JetNet 4508if、JetNet 4508i-w 等管理型工业交换机；JetNet 4508i-w 页面规格为 8×10/100 RJ45、IEC 61850-3、Super Ring、-40–75°C。页面为当前可访问的产品资料，不代表库存/现售已确认。",
+        "厂商渠道身份": "Westermo 官方渠道名录目前列 OAK INTEGRATOR 为 Latvia Reseller，包含本地库存和基础技术支持，电话 +371 67842280；该等级不等同 Gold/认证技术支持。",
+        "项目与客户证据": "官网客户评价提及为 ORKLA Latvija 提供工厂资源控制方案、自动化元件供货、调试和 PLC 编程；另一条明确标注 2016 年向 SIA OLIMPS 供应 Westermo 工业数据通信设备。均为供应商网站展示的客户评价，OLIMPS证据有2016时间标记，不能外推为当前项目/采购。",
+        "关键人/联系链": "公司官网联络页公开列 Olga Vorobjova（direktore/董事）、Kaspars Āboliņš（技术支持工程师）、Aleksandrs Kononovs（销售经理）及各自工作邮箱/电话。角色和公司自有页面可核，但三者是否负责交换机采购或签约法人归属尚不明；仅作为公开职能线索存档，不联系。",
+        "法律登记及财务可见性": "Lursoft（二级企业数据服务，基于拉脱维亚登记/税务与年度申报资料）分别列 Products（40003540103，2001-04-04 注册，页面显示 2025 年报于 2026-05-05 登记）和 Solutions（40103496615，2011-12-30 注册，2025 年报于 2026-04-19 登记）。Products 页显示 2026-09-28 税款欠缴 €10,604.74；Solutions 页显示截至 2026-10-02未列税款欠缴。欠税信息需向官方税务来源另核，且未确认何者是网站/Westermo记录的签约主体。",
+        "优势与风险（SWOT）": "优势：工业自动化/编程业务与工业网络目录互补，有公开项目评价；Westermo 官方名录确认其为当地 reseller，另有 Korenix 管理型工业交换机目录。风险：供应商页面的产品/案例部分较旧；法人映射不清；Westermo与Korenix均是既有竞品；库存、当前品牌关系、采购量与供应商准入未知。",
+        "Saga 适配与商业判断": "业务类型与工业交换机产品类别高度匹配，但现有 Korenix/Westermo 目录及编程集成能力显示其已有方案；旧主表中的‘同规格 1/3 价’在本批未找到可比价格、型号或报价来源，不能当事实。未发现公开采购缺口或新品牌引入信号，维持 C。",
+        "证据边界": "Westermo 名录只支持 reseller/本地库存/基础技术支持；2016 年项目评价是历史证据；Korenix 页面为产品目录而非库存确认；Lursoft 是二级企业数据服务。法人映射和当前采购状况保持未知。"
+      },
+      "kp": [
+        {
+          "name": "Olga Vorobjova",
+          "role": "官网列为 direktore（董事）",
+          "contact": "olga.vorobjova@oak-integrator.lv；+371 26403573",
+          "status": "公司官网公开角色/联系方式；交换机采购权未核实；只作研究线索，不触达",
+          "source": "https://oak-integrator.lv/about-us/contact-page/"
+        },
+        {
+          "name": "Kaspars Āboliņš",
+          "role": "官网列为技术支持工程师",
+          "contact": "kaspars.abolins@oak-integrator.lv；+371 26441068",
+          "status": "公司官网公开技术岗位；不是已确认采购人；只作研究线索，不触达",
+          "source": "https://oak-integrator.lv/about-us/contact-page/"
+        },
+        {
+          "name": "Aleksandrs Kononovs",
+          "role": "官网列为销售经理",
+          "contact": "alexander.kononov@oak-integrator.lv；+371 29439448",
+          "status": "公司官网公开销售岗位；采购/品牌准入权限未核实；只作研究线索，不触达",
+          "source": "https://oak-integrator.lv/about-us/contact-page/"
+        }
+      ],
+      "facts": [
+        {
+          "dim": "Westermo 官方渠道名录",
+          "text": "Westermo 当前 Where-to-buy 页将 OAK INTEGRATOR 列为拉脱维亚 reseller，具有本地库存和基础技术支持；没有列为 Gold distributor。",
+          "quote": "Latvia | Reseller\nLocal stock\nBasic technical support\nOAK INTEGRATOR\nTel: +371 67842280",
+          "url": "https://www.westermo.com/contact/where-to-buy",
+          "source_type": "Westermo 官方渠道名录",
+          "source_level": "制造商一手名录",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "自动化产品与品牌组合",
+          "text": "OAK 官网目录自述提供自动化设备产品/方案，品牌列 Mitsubishi Electric、Beijer Electronics、Westermo、IDEC、Crevis 等；产品含 PLC、伺服、HMI/SCADA、Remote I/O、工业数据通信等。",
+          "quote": "We offer wide range of automation equipment products and solutions from leading world manufacturers (Mitsubishi Electric, Beijer Electronics, Westermo, IDEC, Crevis and others).",
+          "url": "https://oak-integrator.lv/catalog/",
+          "source_type": "公司官网产品目录",
+          "source_level": "一手自述/目录",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "可比交换机型号",
+          "text": "OAK 页面列 Korenix JetNet 4508i-w：IEC 61850-3、8 个 10/100 RJ45、Super Ring、工作温度 -40–75°C；页面未显示价格或当前库存。",
+          "quote": "IEC61850-3 8-port managed ethernet switch\n10/100 RJ45 x 8\nMultiple Super Ring\n-40~75°C",
+          "url": "https://oak-integrator.lv/product/korenix-managed-switches/",
+          "source_type": "公司官网产品页",
+          "source_level": "一手产品目录；页面现售/库存未核",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "系统集成与项目评价",
+          "text": "OAK 官网展示的 ORKLA Latvija 评价称其提供资源控制方案、自动化元件、调试和 PLC 编程支持；这是公司网站上的客户评价，网页未标日期。",
+          "quote": "solution for plant resource control - design, automation component supply and commissioning. We also thank for support with Programmable logic controller (PLC) programming.",
+          "url": "https://oak-integrator.lv/",
+          "source_type": "公司官网客户评价",
+          "source_level": "供应商自发布的客户评价；日期未标",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "历史 Westermo 供货评价",
+          "text": "OAK 官网展示 SIA OLIMPS 采购部门经理的评价，明确写明 2016 年 6 月供应 Westermo 工业数据通信设备；该证据是历史供货，不是当前采购或品牌关系证明。",
+          "quote": "During June 2016. OAK INTEGRATOR have supplied Industrial Data Communication equipment from WESTERMO.",
+          "url": "https://oak-integrator.lv/product/korenix-managed-switches/",
+          "source_type": "公司官网历史客户评价",
+          "source_level": "供应商自发布，明确为2016年历史信息",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "关键人公开职能",
+          "text": "OAK 官方联系页列出董事、技术支持工程师和销售经理姓名、职位与工作联系信息；页面没有说明谁负责交换机采购/新品牌审批。",
+          "quote": "Olga Vorobjova - direktore\nKaspars Āboliņš – technical support engineer\nAleksandrs Kononovs – sales manager",
+          "url": "https://oak-integrator.lv/about-us/contact-page/",
+          "source_type": "公司官网联系页",
+          "source_level": "一手公开职能/联系信息；采购权限未核",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "同址法律主体与注册线索",
+          "text": "Lursoft 分别列 OAK Integrator Solutions, SIA（40103496615，2011-12-30 注册，工程活动/技术咨询；页面显示 2025 年报于 2026-04-19 登记）与 OAK Integrator Products, SIA（40003540103，2001-04-04 注册，通信设备批发，2025 年报于 2026-05-05 登记）；两者登记地址均为 Rīga, Mežkalna iela 5。该二级数据未解决网站品牌和 Westermo reseller 联系记录分别由哪一法人签约/开票。",
+          "quote": "OAK Integrator Solutions, SIA\nRegistration number, date 40103496615, 30.12.2011\nEngineering activities and related technical consultancy",
+          "url": "https://company.lursoft.lv/en/oak-integrator-solutions/40103496615",
+          "source_type": "Lursoft 企业数据服务（基于登记/年报资料）",
+          "source_level": "二级登记数据聚合；签约主体待核",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Products 法人税务/经营风险线索",
+          "text": "Lursoft 的 OAK Integrator Products, SIA 页面显示截至 2026-09-28 有 €10,604.74 tax debts，并显示 2025 年报已登记；这是二级聚合页面的时点数据，需以官方税务/登记来源复核。未确认 Products 是否为该品牌网站或 Westermo reseller 记录的签约主体，因此不能把该信号归给 OAK Integrator Solutions 或整个品牌。",
+          "quote": "Tax debts (as of date) · 10 604.74 EUR as of 28.09.2026",
+          "url": "https://company.lursoft.lv/en/oak-integrator-products/40003540103",
+          "source_type": "Lursoft 企业数据服务（汇集登记/税务资料）",
+          "source_level": "二级数据快照；欠税需官方来源复核，主体映射待核",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Solutions 法人登记线索",
+          "text": "Lursoft 的 OAK Integrator Solutions, SIA 页面显示注册号 40103496615、2011-12-30 注册，行业为工程活动与相关技术咨询，并列同址登记及 2025 年报；与 Products 是不同法人，不能互相合并。 页面还显示截至 2026-10-02未列税款欠缴；这仍是 Lursoft 时点数据，不能替代官方税务查询。",
+          "quote": "Name | \"OAK Integrator Solutions\" SIA\nRegistration number, date | 40103496615, 30.12.2011\nActivity code | Engineering activities and related technical consultancy\nTax debts (as of date) Not registered as of 02.10.2026",
+          "url": "https://company.lursoft.lv/en/oak-integrator-solutions/40103496615",
+          "source_type": "Lursoft 企业数据服务（基于登记/年报资料）",
+          "source_level": "二级登记数据聚合；合同关系未核",
+          "retrieved_on": "2026-10-12"
+        }
+      ],
+      "assessment": "保持 C。R73 找到较强的工业自动化/编程与工业交换机目录匹配，以及 Westermo 官方 reseller 名录和历史项目评价；这证明渠道/集成能力，不证明当前采购缺口。OAK 页面中的 Korenix/Westermo 组合是直接竞品/既有方案。旧主表“同规格 1/3 价”没有可复核的同型号、同条件价格依据，本批将其标记为未证实推断，不改主表。Lursoft 对 Products 法人列出截至 2026-09-28 的 €10,604.74 税款欠缴线索，但数据仍需官方复核；且尚未确认该法人对应网站或 Westermo 名录中的签约主体，不把该风险外推到 Solutions 或 OAK 品牌。公开具名联系人仅记作职能线索，不联系。",
+      "next_steps": [
+        "如继续公开核验，先追踪 OAK 目录页面更新时间、当前可售 Korenix/Westermo 型号、价格/库存及厂商目录状态；历史页面不作为当前供货证明。",
+        "后续只靠公开企业登记/年报和官网条款厘清 OAK INTEGRATOR 网站、Westermo reseller 名录与 Products/ Solutions/OAK Latvia 法人之间的关系；不以姓名或同址直接合并主体。",
+        "不使用‘1/3 价’作为销售判断，除非将来有公开、同规格、同税费/交货/质保条件的可核实价格证据；本轮不询价、不联系。"
+      ],
+      "unknowns": [
+        "网站品牌、Westermo 名录、OAK Integrator Products/Solutions/OAK Latvia 之间的签约、开票、雇佣与采购关系。",
+        "Korenix/Westermo 当前代理合同、产品库存、销售区域及交换机采购量。",
+        "具名联系人对新品牌准入、供应商决策和交换机采购的实际权限。",
+        "所谓同规格价格比例缺少型号、税费、交付和报价来源，不能验证。"
+      ]
+    },
+    {
+      "code": "C-035",
+      "name": "Adeptor AS",
+      "country": "挪威",
+      "researched_on": "2026-10-12",
+      "round": "R73",
+      "section_title": "R73 A/B标准深度调研与加厚（仅研究，不触达）",
+      "dimensions": {
+        "法定主体与经营年限": "Adeptor 官网、Tektronix 厂商伙伴页与 Belden 厂商奖项页均使用 Adeptor AS；公司官网自述自 1999 年经营工业应用产品，地址/组织架构及公司登记号未在本批公开页面中补齐。",
+        "业务模型与市场": "Adeptor 官网描述三条业务线：工业通信与自动化、Ex 防爆组件/照明、测试/检验/测量；具体工业通信产品包括工业网络、时间同步、控制系统和电信现场设备。公司称其集中库存超过 180,000 件于 Oslo，属于公司自述，未独立审计。",
+        "品牌与渠道组合": "Adeptor 官网把 Belden/Hirschmann 列为合作品牌，并提供交换机、防火墙、软件等入口；Tektronix 官方伙伴页将其列为挪威服务伙伴并列产品专长。Belden 2020 年官方分销奖页称其当年与 Belden 技术团队合作并提供工业网络/电气产品技术支持。",
+        "具体工业交换机型号": "Adeptor 商品页公开列 Hirschmann BOBCAT BRS20-08009999-CTCZ99HHSES：DIN 导轨、无风扇、8×10/100 RJ45 管理型工业交换机，双 12–24VDC 输入，802.3af/at PoE，工作温度 0–60°C，IP30。是直接工业网竞品型号；页面以询价方式销售，无公开价格。",
+        "客户行业与项目证据": "Belden 2020 年奖项页称 Adeptor 服务严苛油气环境，提供 telecom/industrial Ethernet/electrical/lighting 等产品并投入售前售后技术支持；该材料是 2020 年历史合作/奖项叙述，不代表当期销售结构。",
+        "关键人/采购链": "官网公开统一售前客服 sales@adeptor.no、电话 +47 55 59 69 90 和服务时间；未发现具名交换机采购负责人/供应商审批人。通用邮箱不视为采购意向；不联系。",
+        "优势与风险（SWOT）": "优势：长期工业分销/工程定位、Belden/Hirschmann 官方品牌组合、具体 managed PoE 工业交换机目录、多个技术品类和售前/售后支持。风险：目标品类与 Hirschmann 直接竞合，产品组合和授权关系较深；年度采购、客户名单、供应商准入、第二来源意愿与产品原产地要求均未知。",
+        "Saga 适配与商业判断": "技术目录显示与工业管理型交换机、PoE、DIN 导轨设备直接重叠；有无可补规格要在具体端口/温度/冗余/PoE/认证的逐型号比较后才能判断。现无公开供应商引入或缺货/替代需求，维持 C。",
+        "历史主表品牌备注边界": "现主表中 HMS/Red Lion/N-Tron 是既有录入信号；R73 另核到 Adeptor 当前官网列 Belden/Hirschmann。两者不应互相覆盖，也不据品牌目录推断当前采购或排他条款，本批不改主表。"
+      },
+      "kp": [],
+      "facts": [
+        {
+          "dim": "经营年限与库存（公司自述）",
+          "text": "Adeptor 官网称公司自 1999 年经营工业应用产品，并自述目前在 Oslo 中央库存超过 180,000 件；库存数字没有独立审计。",
+          "quote": "Anerkjent leverandør av produkter for industrielle applikasjoner siden 1999\nVi har i dag over 180 000 varer lagerført sentralt i Oslo",
+          "url": "https://www.adeptor.no/om-oss",
+          "source_type": "公司官网 About 页面",
+          "source_level": "一手公司自述；库存规模未审计",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "业务线与服务能力",
+          "text": "官网将业务分为工业通信/自动化、Ex 组件/照明、测试/检验/测量，并提及产品选型、设计、法规问题、支持、故障排查及课程。",
+          "quote": "Vår virksomhet spesialiserer seg på tre forretningsområder: industriell kommunikasjon og automasjon, Ex-komponenter og belysning, samt test, inspeksjon og måleteknikk.",
+          "url": "https://www.adeptor.no/om-oss",
+          "source_type": "公司官网 About 页面",
+          "source_level": "一手公司自述",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Belden/Hirschmann 品牌关系",
+          "text": "Adeptor 自有合作伙伴页面介绍 Belden 与 Hirschmann，并列 DIN 交换机、机架交换机、防火墙、软件等产品导航；这是渠道商自有品牌页，Belden 历史奖项另行佐证合作背景。",
+          "quote": "Hirschmann, en del av Beldens portefølje, er spesialisert på sikre og robuste nettverksløsninger for industriell IT.",
+          "url": "https://www.adeptor.no/partnere/belden",
+          "source_type": "Adeptor 官方品牌/产品页",
+          "source_level": "一手渠道商自述",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "具体工业交换机端口/安装规格",
+          "text": "Adeptor 页面列 Hirschmann BOBCAT BRS20 型号，为 DIN 导轨无风扇管理型 Fast Ethernet 交换机，8 个 10/100 RJ45。",
+          "quote": "Managed Industrial Switch for DIN Rail, fanless design Fast Ethernet Type\n8 Ports in total: 8x 10/100BASE TX / RJ45",
+          "url": "https://www.adeptor.no/hirschmann/brs20-08009999-04/hirschmann-bobcat-8xrj45-brs20-08009999-ctcz99hhses",
+          "source_type": "渠道商商品页",
+          "source_level": "一手产品目录；无公开价格",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "工业功能/环境规格",
+          "text": "同一产品页列 PoE 802.3af/at、双 12–24VDC、工作温度 0–60°C、DIN 导轨、IP30；可用于竞品参数对照，不表示 Saga 有完全等规格替代品。",
+          "quote": "PoE+ (802.3at)\nOperating Voltage 2 x 12 VDC ... 24 VDC\nOperating temperature 0-+60 °C\nMounting DIN Rail\nProtection class IP30",
+          "url": "https://www.adeptor.no/hirschmann/brs20-08009999-04/hirschmann-bobcat-8xrj45-brs20-08009999-ctcz99hhses",
+          "source_type": "渠道商商品页规格表",
+          "source_level": "一手商品数据；建议报价前以制造商数据手册复核",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "独立厂商伙伴记录",
+          "text": "Tektronix 官方伙伴页将 Adeptor AS 列为挪威服务伙伴/工业应用产品供应商，提供电话与 sales@adeptor.no；伙伴资料证明公开伙伴列名，不代表交换机品类采购线索。",
+          "quote": "Recognized supplier of products for industrial applications since 1999",
+          "url": "https://www.tek.com/en/buy/partner-locator/details/acc-1715039",
+          "source_type": "Tektronix 官方伙伴名录",
+          "source_level": "制造商一手伙伴页",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "Belden 历史合作/奖项",
+          "text": "Belden 2020 分销商价值奖页面回顾 Adeptor 在 2020 年与 Belden 技术团队协作、面向油气严苛环境提供工业以太网/电气产品及技术支持；这是历史奖项材料，不外推当期业绩。",
+          "quote": "During 2020, Adeptor engaged with our technical teams, ensuring that Belden and the customer were connected. The result: excellent service for their clients.",
+          "url": "https://www.belden.com/news/distributor-value-awards-2020",
+          "source_type": "Belden 官方分销奖页面",
+          "source_level": "制造商一手历史记录",
+          "retrieved_on": "2026-10-12"
+        },
+        {
+          "dim": "通用商务联系入口",
+          "text": "官网公开统一 sales 邮箱、电话及客服工作时间；无公开具名交换机采购负责人。按用户边界只保留信息，不发送邮件或拨打电话。",
+          "quote": "sales@adeptor.no\n+47 555 96 990\nKundeservice er tilgjengelig alle virkedager fra kl. 08-16.",
+          "url": "https://www.adeptor.no/om-oss",
+          "source_type": "公司官网",
+          "source_level": "一手公开联系信息",
+          "retrieved_on": "2026-10-12"
+        }
+      ],
+      "assessment": "保持 C。Adeptor AS 是明确的工业通信/自动化渠道，当前官网列 Belden/Hirschmann，且公开展示 Hirschmann BOBCAT 管理型 PoE DIN 导轨交换机，技术竞合明确；也有 Tektronix 官方伙伴记录和 Belden 历史渠道奖项。未发现现有供应商替换、第二来源、补规格或新供应商准入信号；销售邮箱为通用入口而非采购意向。只研究，不联系、不改评级/主表。",
+      "next_steps": [
+        "后续如继续研究，只从公开目录/制造商数据手册对照其 Hirschmann 具体型号、工作温度、PoE、冗余、端口及认证，与 Saga 实际型号逐项比较；不先行假定等规格。",
+        "维持营收、员工数、交换机出货量、客户清单、供应商审批链和第二来源政策为未知；不得把历史奖项/伙伴名录解读为当前采购意向。"
+      ],
+      "unknowns": [
+        "官方注册号、最新完整股权/集团结构及销售额/员工数（本批公开页面未核）。",
+        "Hirschmann/Belden 合同范围、代理排他性、当前 SKU 库存、实际采购量与渠道政策。",
+        "具名交换机采购/产品经理、供应商准入、第二来源需求、目标客户/项目。",
+        "BOBCAT 商品页参数与当前制造商数据手册是否完全一致；当前价格与交期。"
+      ]
+    }
+  ]
+}
